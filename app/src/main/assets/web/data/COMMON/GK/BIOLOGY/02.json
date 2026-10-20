@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "ऊतक / Tissues",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Tissues.",
+  "questions": [
+    {
+      "q": {
+        "hi": "समान उत्पत्ति, संरचना और कार्य करने वाली कोशिकाओं के समूह को क्या कहा जाता है?",
+        "en": "A group of cells similar in structure, origin, and performing a specific function is called?"
+      },
+      "o": [
+        {
+          "hi": "ऊतक (Tissue)",
+          "en": "Tissue"
+        },
+        {
+          "hi": "अंग",
+          "en": "Organ"
+        },
+        {
+          "hi": "अंग तंत्र",
+          "en": "Organ System"
+        },
+        {
+          "hi": "कोशिकांग",
+          "en": "Organelle"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जीव विज्ञान में 'ऊतक' (Tissue) शब्द का प्रयोग सर्वप्रथम किसने किया था?",
+        "en": "Who coined the term 'Tissue' in biology?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट हुक",
+          "en": "Robert Hooke"
+        },
+        {
+          "hi": "जेवियर बिचैट (Xavier Bichat)",
+          "en": "Xavier Bichat"
+        },
+        {
+          "hi": "मार्सेलो मैलपीगी",
+          "en": "Marcello Malpighi"
+        },
+        {
+          "hi": "रॉबर्ट ब्राउन",
+          "en": "Robert Brown"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पौधों में लंबाई में वृद्धि के लिए कौन सा विभज्यातक (Meristem) जिम्मेदार है?",
+        "en": "Which meristematic tissue is responsible for increase in length of root and shoot?"
+      },
+      "o": [
+        {
+          "hi": "पार्श्वीय विभज्यातक",
+          "en": "Lateral Meristem"
+        },
+        {
+          "hi": "अन्तर्वेशी विभज्यातक",
+          "en": "Intercalary Meristem"
+        },
+        {
+          "hi": "शीर्षस्थ विभज्यातक (Apical Meristem)",
+          "en": "Apical Meristem"
+        },
+        {
+          "hi": "स्थायी ऊतक",
+          "en": "Permanent Tissue"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पौधों के तने और जड़ की मोटाई (Girth/Diameter) में वृद्धि किस ऊतक के कारण होती है?",
+        "en": "Girth or secondary growth in plant stems and roots occurs due to which meristem?"
+      },
+      "o": [
+        {
+          "hi": "शीर्षस्थ विभज्यातक",
+          "en": "Apical Meristem"
+        },
+        {
+          "hi": "अन्तर्वेशी विभज्यातक",
+          "en": "Intercalary Meristem"
+        },
+        {
+          "hi": "मृदुतक",
+          "en": "Parenchyma"
+        },
+        {
+          "hi": "पार्श्वीय विभज्यातक (Lateral Meristem / Cambium)",
+          "en": "Lateral Meristem / Cambium"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "घास और एकबीजपत्री पौधों के पर्वसंधियों (Internodes) पर कौन सा विभज्यातक पाया जाता है?",
+        "en": "Which meristem is located at the base of leaves or internodes in grasses?"
+      },
+      "o": [
+        {
+          "hi": "अन्तर्वेशी विभज्यातक (Intercalary Meristem)",
+          "en": "Intercalary Meristem"
+        },
+        {
+          "hi": "शीर्षस्थ विभज्यातक",
+          "en": "Apical Meristem"
+        },
+        {
+          "hi": "पार्श्वीय विभज्यातक",
+          "en": "Lateral Meristem"
+        },
+        {
+          "hi": "दृढ़ोतक",
+          "en": "Sclerenchyma"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भोजन का संचयन करने वाला सबसे सामान्य सरल स्थायी पादप ऊतक कौन सा है?",
+        "en": "Which is the most common simple permanent plant tissue that stores food?"
+      },
+      "o": [
+        {
+          "hi": "कॉलेनकाइमा (स्थूलकोण ऊतक)",
+          "en": "Collenchyma"
+        },
+        {
+          "hi": "पैरेनकाइमा (मृदुतक)",
+          "en": "Parenchyma"
+        },
+        {
+          "hi": "स्क्लेरेनकाइमा (दृढ़ोतक)",
+          "en": "Sclerenchyma"
+        },
+        {
+          "hi": "जाइलम",
+          "en": "Xylem"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पत्तियों की पैरेनकाइमा कोशिकाओं में क्लोरोफिल उपस्थित होने पर उसे क्या कहते हैं?",
+        "en": "When parenchyma cells contain chlorophyll and perform photosynthesis, it is called?"
+      },
+      "o": [
+        {
+          "hi": "एरेनकाइमा",
+          "en": "Aerenchyma"
+        },
+        {
+          "hi": "स्क्लेरेनकाइमा",
+          "en": "Sclerenchyma"
+        },
+        {
+          "hi": "क्लोरेनकाइमा (हरित ऊतक)",
+          "en": "Chlorenchyma"
+        },
+        {
+          "hi": "प्रोसेनकाइमा",
+          "en": "Prosenchyma"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जलीय पौधों (Hydrophytes) को तैरने के लिए उत्प्लावकता प्रदान करने वाला ऊतक कौन सा है?",
+        "en": "Parenchyma with large air cavities providing buoyancy to aquatic plants is called?"
+      },
+      "o": [
+        {
+          "hi": "क्लोरेनकाइमा",
+          "en": "Chlorenchyma"
+        },
+        {
+          "hi": "दृढ़ोतक",
+          "en": "Sclerenchyma"
+        },
+        {
+          "hi": "कॉलेनकाइमा",
+          "en": "Collenchyma"
+        },
+        {
+          "hi": "एरेनकाइमा (वायुतक)",
+          "en": "Aerenchyma"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पौधों के नए तनों और पत्तियों में लचीलापन (Flexibility) प्रदान करने वाला ऊतक?",
+        "en": "Which simple permanent tissue provides mechanical support and flexibility to young stems?"
+      },
+      "o": [
+        {
+          "hi": "कॉलेनकाइमा (स्थूलकोण ऊतक)",
+          "en": "Collenchyma"
+        },
+        {
+          "hi": "पैरेनकाइमा",
+          "en": "Parenchyma"
+        },
+        {
+          "hi": "स्क्लेरेनकाइमा",
+          "en": "Sclerenchyma"
+        },
+        {
+          "hi": "फ्लोएम",
+          "en": "Phloem"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कॉलेनकाइमा ऊतक की कोशिकाओं के कोनों पर किसका स्थूलन (Deposition) पाया जाता है?",
+        "en": "Cell walls of collenchyma are characteristically thickened at corners with?"
+      },
+      "o": [
+        {
+          "hi": "केवल लिग्निन",
+          "en": "Only Lignin"
+        },
+        {
+          "hi": "पेक्टिन और हैमीसेल्युलोज",
+          "en": "Pectin and Hemicellulose"
+        },
+        {
+          "hi": "सुबेरिन",
+          "en": "Suberin"
+        },
+        {
+          "hi": "केवल स्टार्च",
+          "en": "Only Starch"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पौधों को कठोरता और मजबूती प्रदान करने वाला मृत कोशिकाओं से बना ऊतक?",
+        "en": "Which plant tissue composed of dead cells provides rigidity and mechanical strength?"
+      },
+      "o": [
+        {
+          "hi": "पैरेनकाइमा",
+          "en": "Parenchyma"
+        },
+        {
+          "hi": "कॉलेनकाइमा",
+          "en": "Collenchyma"
+        },
+        {
+          "hi": "स्क्लेरेनकाइमा (दृढ़ोतक)",
+          "en": "Sclerenchyma"
+        },
+        {
+          "hi": "एपिडर्मिस",
+          "en": "Epidermis"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नारियल का रेशेदार छिलका (Husk) किस ऊतक का बना होता है?",
+        "en": "The fibrous husk of coconut is made up of which plant tissue?"
+      },
+      "o": [
+        {
+          "hi": "पैरेनकाइमा",
+          "en": "Parenchyma"
+        },
+        {
+          "hi": "कॉलेनकाइमा",
+          "en": "Collenchyma"
+        },
+        {
+          "hi": "फ्लोएम पैरेनकाइमा",
+          "en": "Phloem Parenchyma"
+        },
+        {
+          "hi": "स्क्लेरेनकाइमा (दृढ़ोतक)",
+          "en": "Sclerenchyma"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नाशपाती (Pear) फल को खाने पर किचकिचाहट (Grit) का अनुभव किस कोशिका के कारण होता है?",
+        "en": "The gritty texture felt while eating pears and sapota is due to the presence of?"
+      },
+      "o": [
+        {
+          "hi": "स्क्लेरीड्स (Sclereids / Stone cells)",
+          "en": "Sclereids / Stone cells"
+        },
+        {
+          "hi": "ट्रैकीड्स",
+          "en": "Tracheids"
+        },
+        {
+          "hi": "वेसल्स",
+          "en": "Vessels"
+        },
+        {
+          "hi": "साइव ट्यूब",
+          "en": "Sieve tubes"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पौधों में जड़ों से पत्तियों तक जल एवं खनिज लवणों का संवहन कौन करता है?",
+        "en": "Which complex permanent tissue conducts water and minerals from roots to leaves?"
+      },
+      "o": [
+        {
+          "hi": "फ्लोएम (Phloem)",
+          "en": "Phloem"
+        },
+        {
+          "hi": "जाइलम (Xylem)",
+          "en": "Xylem"
+        },
+        {
+          "hi": "मृदुतक",
+          "en": "Parenchyma"
+        },
+        {
+          "hi": "कॉलेनकाइमा",
+          "en": "Collenchyma"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पौधों में पत्तियों द्वारा निर्मित भोजन (पोषक तत्वों) का संवहन कौन करता है?",
+        "en": "Which complex tissue translocates prepared organic food from leaves to other parts?"
+      },
+      "o": [
+        {
+          "hi": "जाइलम",
+          "en": "Xylem"
+        },
+        {
+          "hi": "दृढ़ोतक",
+          "en": "Sclerenchyma"
+        },
+        {
+          "hi": "फ्लोएम (Phloem)",
+          "en": "Phloem"
+        },
+        {
+          "hi": "एरेनकाइमा",
+          "en": "Aerenchyma"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से जाइलम का कौन सा घटक एकमात्र जीवित घटक है?",
+        "en": "Which of the following elements of xylem is the only living cell component?"
+      },
+      "o": [
+        {
+          "hi": "वाहिनिका (Tracheid)",
+          "en": "Tracheid"
+        },
+        {
+          "hi": "वाहिका (Vessel)",
+          "en": "Vessel"
+        },
+        {
+          "hi": "जाइलम फाइबर",
+          "en": "Xylem Fiber"
+        },
+        {
+          "hi": "जाइलम पैरेनकाइमा",
+          "en": "Xylem Parenchyma"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से फ्लोएम का कौन सा घटक एकमात्र मृत घटक है?",
+        "en": "Which element of phloem is dead at maturity?"
+      },
+      "o": [
+        {
+          "hi": "फ्लोएम फाइबर (बास्ट फाइबर)",
+          "en": "Phloem Fibers (Bast fibers)"
+        },
+        {
+          "hi": "चालनी नलिका (Sieve tube)",
+          "en": "Sieve tube"
+        },
+        {
+          "hi": "सहचर कोशिकाएं",
+          "en": "Companion cells"
+        },
+        {
+          "hi": "फ्लोएम पैरेनकाइमा",
+          "en": "Phloem Parenchyma"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आवृतबीजी (Angiosperms) पौधों में भोजन संवहन करने वाली चालनी नलिका (Sieve tube) में क्या अनुपस्थित होता है?",
+        "en": "Mature sieve tube elements in angiosperm phloem lack which cell organelle?"
+      },
+      "o": [
+        {
+          "hi": "साइटोप्लाज्म",
+          "en": "Cytoplasm"
+        },
+        {
+          "hi": "केंद्रक (Nucleus)",
+          "en": "Nucleus"
+        },
+        {
+          "hi": "सेल मेम्ब्रेन",
+          "en": "Cell membrane"
+        },
+        {
+          "hi": "प्लाज्मोडेस्मा",
+          "en": "Plasmodesmata"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चालनी नलिकाओं के जैविक कार्यों को नियंत्रित करने वाली समीपस्थ कोशिकाएं कौन सी हैं?",
+        "en": "Which specialized parenchymatous cells control the activity of sieve tube elements?"
+      },
+      "o": [
+        {
+          "hi": "रक्षक कोशिकाएं",
+          "en": "Guard cells"
+        },
+        {
+          "hi": "संवहन एधा",
+          "en": "Vascular cambium"
+        },
+        {
+          "hi": "सहचर कोशिकाएं (Companion cells)",
+          "en": "Companion cells"
+        },
+        {
+          "hi": "ट्रैकीड्स",
+          "en": "Tracheids"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जंतुओं में शरीर के बाहरी आवरण और आंतरिक अंगों के अस्तर का निर्माण करने वाला ऊतक?",
+        "en": "Which animal tissue covers outer body surfaces and lines internal organs?"
+      },
+      "o": [
+        {
+          "hi": "संयोजी ऊतक",
+          "en": "Connective tissue"
+        },
+        {
+          "hi": "पेशीय ऊतक",
+          "en": "Muscular tissue"
+        },
+        {
+          "hi": "तंत्रिका ऊतक",
+          "en": "Nervous tissue"
+        },
+        {
+          "hi": "उपकला ऊतक (Epithelial tissue)",
+          "en": "Epithelial tissue"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "फेफड़ों की कूपिकाओं (Alveoli) और रक्त वाहिकाओं में गैसों के विसरण हेतु कौन सा उपकला ऊतक होता है?",
+        "en": "Which epithelial tissue is present in blood vessel lining and alveoli for diffusion?"
+      },
+      "o": [
+        {
+          "hi": "सलकी उपकला (Simple Squamous Epithelium)",
+          "en": "Simple Squamous Epithelium"
+        },
+        {
+          "hi": "घनाकार उपकला",
+          "en": "Cuboidal Epithelium"
+        },
+        {
+          "hi": "स्तंभाकार उपकला",
+          "en": "Columnar Epithelium"
+        },
+        {
+          "hi": "ग्रंथिल उपकला",
+          "en": "Glandular Epithelium"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वृक्क नलिकाओं (Kidney tubules) और लार ग्रंथियों की नलियों में यांत्रिक सहारा देने वाला ऊतक?",
+        "en": "Which epithelial tissue forms the lining of kidney tubules and ducts of salivary glands?"
+      },
+      "o": [
+        {
+          "hi": "सलकी उपकला",
+          "en": "Squamous Epithelium"
+        },
+        {
+          "hi": "घनाकार उपकला (Cuboidal Epithelium)",
+          "en": "Cuboidal Epithelium"
+        },
+        {
+          "hi": "स्तंभाकार उपकला",
+          "en": "Columnar Epithelium"
+        },
+        {
+          "hi": "संयोजी ऊतक",
+          "en": "Connective tissue"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आंत (Intestine) और आमाशय में अवशोषण एवं स्राव के लिए कौन सा उपकला ऊतक पाया जाता है?",
+        "en": "Which epithelium facilitates absorption and secretion in the inner lining of the intestine?"
+      },
+      "o": [
+        {
+          "hi": "सलकी उपकला",
+          "en": "Squamous Epithelium"
+        },
+        {
+          "hi": "घनाकार उपकला",
+          "en": "Cuboidal Epithelium"
+        },
+        {
+          "hi": "स्तंभाकार उपकला (Columnar Epithelium)",
+          "en": "Columnar Epithelium"
+        },
+        {
+          "hi": "अस्थि ऊतक",
+          "en": "Bone tissue"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "श्वसन नली (Trachea) और फैलोपियन नली में श्लेष्मा एवं कणों को आगे धकेलने वाला ऊतक?",
+        "en": "Epithelium having cilia that moves mucus/particles in trachea and fallopian tube is?"
+      },
+      "o": [
+        {
+          "hi": "सलकी उपकला",
+          "en": "Squamous Epithelium"
+        },
+        {
+          "hi": "घनाकार उपकला",
+          "en": "Cuboidal Epithelium"
+        },
+        {
+          "hi": "उपास्थि",
+          "en": "Cartilage"
+        },
+        {
+          "hi": "पक्ष्माभी उपकला (Ciliated Epithelium)",
+          "en": "Ciliated Epithelium"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "त्वचा में पाई जाने वाली बहुपरतीय उपकला जो टूट-फूट से बचाती है?",
+        "en": "Multilayered protective epithelium found in human skin preventing wear and tear is?"
+      },
+      "o": [
+        {
+          "hi": "स्तरित सलकी उपकला (Stratified Squamous Epithelium)",
+          "en": "Stratified Squamous Epithelium"
+        },
+        {
+          "hi": "सरल घनाकार उपकला",
+          "en": "Simple Cuboidal Epithelium"
+        },
+        {
+          "hi": "स्तंभाकार उपकला",
+          "en": "Columnar Epithelium"
+        },
+        {
+          "hi": "एरियोलर ऊतक",
+          "en": "Areolar tissue"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "त्वचा के नीचे वसा (Fat) का संचयन करने वाला संयोजी ऊतक कौन सा है?",
+        "en": "Which connective tissue located beneath the skin is specialized to store fat?"
+      },
+      "o": [
+        {
+          "hi": "एरियोलर ऊतक",
+          "en": "Areolar tissue"
+        },
+        {
+          "hi": "एडिपोज़ ऊतक (वसामय ऊतक)",
+          "en": "Adipose tissue"
+        },
+        {
+          "hi": "कंडरा (Tendon)",
+          "en": "Tendon"
+        },
+        {
+          "hi": "स्नायु (Ligament)",
+          "en": "Ligament"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पेशी (Muscle) को अस्थि (Bone) से जोड़ने वाला संयोजी ऊतक कौन सा है?",
+        "en": "Which dense connective tissue joins Skeletal Muscle to Bone?"
+      },
+      "o": [
+        {
+          "hi": "स्नायु (लिगामेंट / Ligament)",
+          "en": "Ligament"
+        },
+        {
+          "hi": "उपास्थि (Cartilage)",
+          "en": "Cartilage"
+        },
+        {
+          "hi": "कंडरा (टेंडन / Tendon)",
+          "en": "Tendon"
+        },
+        {
+          "hi": "एडिपोज़",
+          "en": "Adipose"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अस्थि (Bone) को दूसरी अस्थि से जोड़ने वाला लचीला संयोजी ऊतक कौन सा है?",
+        "en": "Which fibrous connective tissue connects one Bone to another Bone?"
+      },
+      "o": [
+        {
+          "hi": "कंडरा (Tendon)",
+          "en": "Tendon"
+        },
+        {
+          "hi": "एपिथेलियम",
+          "en": "Epithelium"
+        },
+        {
+          "hi": "उपास्थि",
+          "en": "Cartilage"
+        },
+        {
+          "hi": "स्नायु (लिगामेंट / Ligament)",
+          "en": "Ligament"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रक्त (Blood) किस प्रकार का ऊतक है?",
+        "en": "Blood is classified as which type of tissue?"
+      },
+      "o": [
+        {
+          "hi": "तरल संयोजी ऊतक (Fluid Connective Tissue)",
+          "en": "Fluid Connective Tissue"
+        },
+        {
+          "hi": "उपकला ऊतक",
+          "en": "Epithelial Tissue"
+        },
+        {
+          "hi": "पेशीय ऊतक",
+          "en": "Muscular Tissue"
+        },
+        {
+          "hi": "तंत्रिका ऊतक",
+          "en": "Nervous Tissue"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की अस्थि (Bone) का मैट्रिक्स मुख्य रूप से किससे समृद्ध होता है?",
+        "en": "The matrix of human bone is rich in which mineral salts?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम और पोटेशियम",
+          "en": "Sodium & Potassium"
+        },
+        {
+          "hi": "कैल्शियम और फास्फोरस",
+          "en": "Calcium and Phosphorus"
+        },
+        {
+          "hi": "आयरन और जस्ता",
+          "en": "Iron & Zinc"
+        },
+        {
+          "hi": "मैग्नीशियम और सल्फर",
+          "en": "Magnesium & Sulfur"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अस्थि में पाई जाने वाली परिपक्व कोशिकाओं को क्या कहा जाता है?",
+        "en": "Mature bone cells embedded in lacunae are called?"
+      },
+      "o": [
+        {
+          "hi": "कॉन्ड्रोसाइट्स",
+          "en": "Chondrocytes"
+        },
+        {
+          "hi": "फाइब्रोब्लास्ट्स",
+          "en": "Fibroblasts"
+        },
+        {
+          "hi": "ऑस्टियोसाइट्स (Osteocytes)",
+          "en": "Osteocytes"
+        },
+        {
+          "hi": "एडिपोसाइट्स",
+          "en": "Adipocytes"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उपास्थि (Cartilage) की कोशिकाओं को क्या कहा जाता है?",
+        "en": "The functional cells present in cartilage tissue are known as?"
+      },
+      "o": [
+        {
+          "hi": "ऑस्टियोसाइट्स",
+          "en": "Osteocytes"
+        },
+        {
+          "hi": "न्यूरॉन्स",
+          "en": "Neurons"
+        },
+        {
+          "hi": "मास्ट कोशिकाएं",
+          "en": "Mast cells"
+        },
+        {
+          "hi": "कॉन्ड्रोसाइट्स (Chondrocytes)",
+          "en": "Chondrocytes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कान की पिन्ना (Outer ear), नाक की नोक और एपिग्लॉटिस में कौन सा ऊतक होता है?",
+        "en": "Which flexible tissue is found in nose tip, outer ear pinna, and epiglottis?"
+      },
+      "o": [
+        {
+          "hi": "उपास्थि (Cartilage)",
+          "en": "Cartilage"
+        },
+        {
+          "hi": "दृढ़ अस्थि",
+          "en": "Rigid Bone"
+        },
+        {
+          "hi": "टेंडन",
+          "en": "Tendon"
+        },
+        {
+          "hi": "एपिथेलियम",
+          "en": "Epithelium"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्तनधारियों की अस्थियों (Mammalian bones) का विशिष्ट लक्षण क्या है?",
+        "en": "Which structure is a characteristic feature of mammalian long bones?"
+      },
+      "o": [
+        {
+          "hi": "वॉकमैन कैनाल अभाव",
+          "en": "Absence of Volkmann canal"
+        },
+        {
+          "hi": "हावर्सियन तंत्र (Haversian System)",
+          "en": "Haversian System"
+        },
+        {
+          "hi": "कॉन्ड्रिन मैट्रिक्स",
+          "en": "Chondrin matrix"
+        },
+        {
+          "hi": "स्पंज संरचना",
+          "en": "Spongy structure"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संयोजी ऊतक में हिस्टामाइन, हेपेरिन और सेरोटोनिन का स्राव करने वाली कोशिकाएं?",
+        "en": "Which cells in connective tissue secrete histamine, heparin, and serotonin?"
+      },
+      "o": [
+        {
+          "hi": "प्लाज्मा कोशिकाएं",
+          "en": "Plasma cells"
+        },
+        {
+          "hi": "फाइब्रोब्लास्ट्स",
+          "en": "Fibroblasts"
+        },
+        {
+          "hi": "मास्ट कोशिकाएं (Mast cells)",
+          "en": "Mast cells"
+        },
+        {
+          "hi": "मैक्रोफेज",
+          "en": "Macrophages"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संयोजी ऊतक में कोलेजन और इलास्टिन तंतुओं का निर्माण कौन करता है?",
+        "en": "Which cell type synthesizes collagen and elastic fibers in connective tissue?"
+      },
+      "o": [
+        {
+          "hi": "ऑस्टियोक्लास्ट्स",
+          "en": "Osteoclasts"
+        },
+        {
+          "hi": "कॉन्ड्रोसाइट्स",
+          "en": "Chondrocytes"
+        },
+        {
+          "hi": "न्यूरॉन्स",
+          "en": "Neurons"
+        },
+        {
+          "hi": "फाइब्रोब्लास्ट्स (Fibroblasts)",
+          "en": "Fibroblasts"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जंतु शरीर में सबसे प्रचुर मात्रा में पाया जाने वाला प्रोटीन कौन सा है?",
+        "en": "Which is the most abundant protein in the animal body?"
+      },
+      "o": [
+        {
+          "hi": "कोलेजन (Collagen)",
+          "en": "Collagen"
+        },
+        {
+          "hi": "रूबिस्को (RuBisCO)",
+          "en": "RuBisCO"
+        },
+        {
+          "hi": "केराटिन",
+          "en": "Keratin"
+        },
+        {
+          "hi": "हीमोग्लोबिन",
+          "en": "Hemoglobin"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संपूर्ण जैवमंडल (Biosphere) में सबसे प्रचुर मात्रा में पाया जाने वाला एंजाइम/प्रोटीन?",
+        "en": "Which is the most abundant enzyme/protein in the entire biosphere?"
+      },
+      "o": [
+        {
+          "hi": "कोलेजन",
+          "en": "Collagen"
+        },
+        {
+          "hi": "रूबिस्को (RuBisCO)",
+          "en": "RuBisCO"
+        },
+        {
+          "hi": "पेप्सिन",
+          "en": "Pepsin"
+        },
+        {
+          "hi": "ट्रिप्सिन",
+          "en": "Trypsin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ऐच्छिक पेशियां (Voluntary muscles) किस प्रकार की पेशीय ऊतक होती हैं?",
+        "en": "Skeletal muscles that work under our conscious control are structurally?"
+      },
+      "o": [
+        {
+          "hi": "अरेखित पेशी",
+          "en": "Unstriated Muscle"
+        },
+        {
+          "hi": "हृदय पेशी",
+          "en": "Cardiac Muscle"
+        },
+        {
+          "hi": "रेखित पेशी (Striated Muscle)",
+          "en": "Striated Muscle"
+        },
+        {
+          "hi": "चिकनी पेशी",
+          "en": "Smooth Muscle"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आहारनाल, रक्त वाहिकाओं और गर्भाशय की दीवारों में पाई जाने वाली अनैच्छिक पेशी?",
+        "en": "Involuntary muscles present in walls of alimentary canal and blood vessels are?"
+      },
+      "o": [
+        {
+          "hi": "कंकाल पेशी",
+          "en": "Skeletal Muscle"
+        },
+        {
+          "hi": "ऐच्छिक पेशी",
+          "en": "Voluntary Muscle"
+        },
+        {
+          "hi": "कार्डियक पेशी",
+          "en": "Cardiac Muscle"
+        },
+        {
+          "hi": "चिकनी/अरेखित पेशी (Smooth / Unstriated Muscle)",
+          "en": "Smooth / Unstriated Muscle"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हृदय में पाई जाने वाली शाखान्वित, अनैच्छिक और धारियों वाली पेशी कौन सी है?",
+        "en": "Branched, involuntary, and striated muscle fibers found exclusively in heart are?"
+      },
+      "o": [
+        {
+          "hi": "हृदय पेशी (Cardiac Muscle)",
+          "en": "Cardiac Muscle"
+        },
+        {
+          "hi": "कंकाल पेशी",
+          "en": "Skeletal Muscle"
+        },
+        {
+          "hi": "चिकनी पेशी",
+          "en": "Smooth Muscle"
+        },
+        {
+          "hi": "ऐच्छिक पेशी",
+          "en": "Voluntary Muscle"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कार्डियक पेशी की कोशिकाओं के बीच पाए जाने वाले विशिष्ट जुड़ाव कहलाते हैं?",
+        "en": "Specialized cell junctions unique to cardiac muscle fibers are termed as?"
+      },
+      "o": [
+        {
+          "hi": "हावर्सियन कैनाल",
+          "en": "Haversian Canal"
+        },
+        {
+          "hi": "इंटरकैलेटेड डिस्क (Intercalated Discs)",
+          "en": "Intercalated Discs"
+        },
+        {
+          "hi": "माइलिन शीट",
+          "en": "Myelin Sheath"
+        },
+        {
+          "hi": "सिनेप्स",
+          "en": "Synapse"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तंत्रिका तंत्र की संरचनात्मक एवं कार्यात्मक इकाई क्या है?",
+        "en": "What is the structural and functional unit of the nervous system?"
+      },
+      "o": [
+        {
+          "hi": "नेफ्रॉन",
+          "en": "Nephron"
+        },
+        {
+          "hi": "एल्विओलाई",
+          "en": "Alveoli"
+        },
+        {
+          "hi": "तंत्रिका कोशिका (न्यूरॉन / Neuron)",
+          "en": "Neuron"
+        },
+        {
+          "hi": "कॉन्ड्रोसाइट",
+          "en": "Chondrocyte"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "न्यूरॉन में आवेगों को कोशिका काय (Cell Body/Cyton) की ओर लाने वाले प्रवर्ध?",
+        "en": "Short branched processes transmitting impulses towards the neuron cell body are?"
+      },
+      "o": [
+        {
+          "hi": "तंत्रिकाक्ष (Axon)",
+          "en": "Axon"
+        },
+        {
+          "hi": "माइलिन आवरण",
+          "en": "Myelin sheath"
+        },
+        {
+          "hi": "सिनेप्स",
+          "en": "Synapse"
+        },
+        {
+          "hi": "द्रुमाक्ष्य (डेन्ड्राइट / Dendrites)",
+          "en": "Dendrites"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "न्यूरॉन का वह लंबा प्रवर्ध जो आवेगों को सेल बॉडी से दूर ले जाता है?",
+        "en": "The long single fiber carrying impulses away from the neuronal cell body is?"
+      },
+      "o": [
+        {
+          "hi": "तंत्रिकाक्ष (एक्सॉन / Axon)",
+          "en": "Axon"
+        },
+        {
+          "hi": "डेन्ड्राइट",
+          "en": "Dendrite"
+        },
+        {
+          "hi": "साइटॉन",
+          "en": "Cyton"
+        },
+        {
+          "hi": "निसल ग्रैन्यूल",
+          "en": "Nissl granules"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एक्सॉन के चारों ओर माइलिन आवरण (Myelin Sheath) का निर्माण कौन सी कोशिकाएं करती हैं?",
+        "en": "Which cells wrap around peripheral axons to form the myelin sheath?"
+      },
+      "o": [
+        {
+          "hi": "मास्ट कोशिकाएं",
+          "en": "Mast cells"
+        },
+        {
+          "hi": "श्वान कोशिकाएं (Schwann cells)",
+          "en": "Schwann cells"
+        },
+        {
+          "hi": "ऑस्टियोब्लास्ट्स",
+          "en": "Osteoblasts"
+        },
+        {
+          "hi": "गोब्लेट कोशिकाएं",
+          "en": "Goblet cells"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक्सॉन पर माइलिन आवरण के बीच-बीच में पाए जाने वाले अंतराल कहलाते हैं?",
+        "en": "Gaps between adjacent myelin sheaths along a myelinated axon are called?"
+      },
+      "o": [
+        {
+          "hi": "सिनेप्स",
+          "en": "Synapse"
+        },
+        {
+          "hi": "हावर्सियन कैनाल",
+          "en": "Haversian canal"
+        },
+        {
+          "hi": "रेनवीयर के नोड (Nodes of Ranvier)",
+          "en": "Nodes of Ranvier"
+        },
+        {
+          "hi": "सेंट्रोसोम",
+          "en": "Centrosome"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दो न्यूरॉन्स के संधि स्थल (जंक्शन) को क्या कहा जाता है जहाँ तंत्रिका आवेग संचारित होता है?",
+        "en": "The junctional gap between two neurons where electrical/chemical transfer occurs is?"
+      },
+      "o": [
+        {
+          "hi": "डेन्ड्राइट",
+          "en": "Dendrite"
+        },
+        {
+          "hi": "नोड ऑफ रेनवीयर",
+          "en": "Node of Ranvier"
+        },
+        {
+          "hi": "गैंग्लियन",
+          "en": "Ganglion"
+        },
+        {
+          "hi": "सिनेप्स (Synapse)",
+          "en": "Synapse"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पौधों की पत्तियों में रंध्र (Stomata) को घेरने वाली कोशिकाएं क्या कहलाती हैं?",
+        "en": "Specialized epidermal cells flanking each stoma in plant leaves are called?"
+      },
+      "o": [
+        {
+          "hi": "द्वार कोशिकाएं (रक्षक कोशिकाएं / Guard cells)",
+          "en": "Guard cells"
+        },
+        {
+          "hi": "सहचर कोशिकाएं",
+          "en": "Companion cells"
+        },
+        {
+          "hi": "सहायक कोशिकाएं",
+          "en": "Subsidiary cells"
+        },
+        {
+          "hi": "ट्रैकीड्स",
+          "en": "Tracheids"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "द्विबीजपत्री (Dicot) पत्तियों में द्वार कोशिकाओं का आकार कैसा होता है?",
+        "en": "What is the characteristic shape of guard cells in dicot leaves?"
+      },
+      "o": [
+        {
+          "hi": "डंबलाकार",
+          "en": "Dumb-bell shaped"
+        },
+        {
+          "hi": "गुर्दे/सेम के बीज का आकार (Kidney/Bean shaped)",
+          "en": "Kidney / Bean shaped"
+        },
+        {
+          "hi": "वृत्ताकार",
+          "en": "Circular"
+        },
+        {
+          "hi": "त्रिभुजाकार",
+          "en": "Triangular"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एकबीजपत्री (Monocot/घास) पत्तियों में द्वार कोशिकाएं किस आकार की होती हैं?",
+        "en": "What is the characteristic shape of guard cells in grass (monocot) leaves?"
+      },
+      "o": [
+        {
+          "hi": "गुर्दे के आकार का",
+          "en": "Kidney shaped"
+        },
+        {
+          "hi": "अंडाकार",
+          "en": "Oval"
+        },
+        {
+          "hi": "डंबलाकार (Dumb-bell shaped)",
+          "en": "Dumb-bell shaped"
+        },
+        {
+          "hi": "बहुभुजीय",
+          "en": "Polygonal"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पौधों के तनों पर पाए जाने वाले रोम (Epidermal Hairs) क्या कहलाते हैं?",
+        "en": "Multicellular epidermal hair structures on stems that reduce transpiration are?"
+      },
+      "o": [
+        {
+          "hi": "रंध्र",
+          "en": "Stomata"
+        },
+        {
+          "hi": "लेंटीसेल",
+          "en": "Lenticels"
+        },
+        {
+          "hi": "हाइडैथोड",
+          "en": "Hydathodes"
+        },
+        {
+          "hi": "ट्रायकोम (Trichomes)",
+          "en": "Trichomes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "काष्ठीय पौधों के तनों पर गैस विनिमय के लिए पाए जाने वाले छिद्र कहलाते हैं?",
+        "en": "Lens-shaped openings on woody stems that enable gaseous exchange are called?"
+      },
+      "o": [
+        {
+          "hi": "वातरंध्र (लेंटीसेल / Lenticels)",
+          "en": "Lenticels"
+        },
+        {
+          "hi": "स्टोमेटा",
+          "en": "Stomata"
+        },
+        {
+          "hi": "हाइडैथोड",
+          "en": "Hydathodes"
+        },
+        {
+          "hi": "ट्रायकोम",
+          "en": "Trichomes"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कॉर्क (Phellem) की कोशिकाओं में किस जलरोधी पदार्थ का जमाव होता है?",
+        "en": "The walls of dead cork cells are heavily deposited with which hydrophobic substance?"
+      },
+      "o": [
+        {
+          "hi": "पेक्टिन",
+          "en": "Pectin"
+        },
+        {
+          "hi": "सुबेरिन (Suberin)",
+          "en": "Suberin"
+        },
+        {
+          "hi": "सेल्युलोज",
+          "en": "Cellulose"
+        },
+        {
+          "hi": "हेमीसेल्युलोज",
+          "en": "Hemicellulose"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वृक्षों की आयु निर्धारण हेतु वार्षिक वलयों (Annual Rings) के अध्ययन को क्या कहते हैं?",
+        "en": "The science of determining tree age by counting annual growth rings is called?"
+      },
+      "o": [
+        {
+          "hi": "हिस्टोलॉजी",
+          "en": "Histology"
+        },
+        {
+          "hi": "पेलियोबॉटनी",
+          "en": "Paleobotany"
+        },
+        {
+          "hi": "डेन्ड्रोक्रोनोलॉजी (Dendrochronology)",
+          "en": "Dendrochronology"
+        },
+        {
+          "hi": "पैलिनोलॉजी",
+          "en": "Palynology"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वृक्ष का एक वार्षिक वलय (Annual Ring) किन दो काष्ठों से मिलकर बनता है?",
+        "en": "An annual ring in a dicot stem wood consists of combination of which two woods?"
+      },
+      "o": [
+        {
+          "hi": "हृदय काष्ठ एवं रस काष्ठ",
+          "en": "Heartwood & Sapwood"
+        },
+        {
+          "hi": "प्राथमिक जाइलम एवं द्वितीयक जाइलम",
+          "en": "Primary & Secondary xylem"
+        },
+        {
+          "hi": "कॉर्क एवं फेलोडर्म",
+          "en": "Cork & Phelloderm"
+        },
+        {
+          "hi": "वसंत काष्ठ एवं शरद काष्ठ (Spring wood & Autumn wood)",
+          "en": "Spring wood & Autumn wood"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वृक्ष के तने का आंतरिक केंद्रीय भाग जो कठोर, गहरे रंग का और मृत होता है?",
+        "en": "The central hard, dark, and highly resistant non-functional secondary xylem is?"
+      },
+      "o": [
+        {
+          "hi": "हृदय काष्ठ (Heartwood / Duramen)",
+          "en": "Heartwood / Duramen"
+        },
+        {
+          "hi": "रस काष्ठ (Sapwood)",
+          "en": "Sapwood / Alburnum"
+        },
+        {
+          "hi": "पेरिडर्म",
+          "en": "Periderm"
+        },
+        {
+          "hi": "प्राथमिक जाइलम",
+          "en": "Primary xylem"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वृक्ष के तने की परिधीय हल्की काष्ठ जो जल संवहन में सक्रिय होती है?",
+        "en": "The peripheral lighter-colored secondary xylem involved in water conduction is?"
+      },
+      "o": [
+        {
+          "hi": "हृदय काष्ठ",
+          "en": "Heartwood"
+        },
+        {
+          "hi": "रस काष्ठ (Sapwood / Alburnum)",
+          "en": "Sapwood / Alburnum"
+        },
+        {
+          "hi": "कॉर्क",
+          "en": "Cork"
+        },
+        {
+          "hi": "द्वितीयक फ्लोएम",
+          "en": "Secondary phloem"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जड़ (Root) में संवहन बंडल (Vascular Bundles) किस विन्यास में व्यवस्थित होते हैं?",
+        "en": "In roots, vascular bundles arranged on alternate radii are termed as?"
+      },
+      "o": [
+        {
+          "hi": "संयुक्त विन्यास",
+          "en": "Conjoint Arrangement"
+        },
+        {
+          "hi": "सकेंद्रकी विन्यास",
+          "en": "Concentric Arrangement"
+        },
+        {
+          "hi": "अरीय विन्यास (Radial Arrangement)",
+          "en": "Radial Arrangement"
+        },
+        {
+          "hi": "कोलैटरल विन्यास",
+          "en": "Collateral Arrangement"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तने (Stem) में जाइलम और फ्लोएम एक ही त्रिज्या पर स्थित होने पर क्या कहलाते हैं?",
+        "en": "Vascular bundles having xylem and phloem located on the same radius are termed as?"
+      },
+      "o": [
+        {
+          "hi": "अरीय विन्यास",
+          "en": "Radial Arrangement"
+        },
+        {
+          "hi": "रेडियल विन्यास",
+          "en": "Radial Type"
+        },
+        {
+          "hi": "असंतत विन्यास",
+          "en": "Discontinuous Type"
+        },
+        {
+          "hi": "संयुक्त विन्यास (Conjoint Arrangement)",
+          "en": "Conjoint Arrangement"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "घास की पत्तियों के ऊपरी बाह्यत्वचा में पाई जाने वाली बड़ी, खाली कोशिकाएं जो पत्ती मोड़ने में मदद करती हैं?",
+        "en": "Large empty colorless cells in grass upper epidermis causing leaf rolling during stress?"
+      },
+      "o": [
+        {
+          "hi": "बुलीफॉर्म कोशिकाएं (Bulliform cells)",
+          "en": "Bulliform cells"
+        },
+        {
+          "hi": "रक्षक कोशिकाएं",
+          "en": "Guard cells"
+        },
+        {
+          "hi": "पैैसेज कोशिकाएं",
+          "en": "Passage cells"
+        },
+        {
+          "hi": "सब्सिडियरी कोशिकाएं",
+          "en": "Subsidiary cells"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बिंदुस्राव (Guttation) की क्रिया पत्तियों के किन विशेष छिद्रों द्वारा होती है?",
+        "en": "Exudation of liquid water drops in guttation occurs through specialized pores named?"
+      },
+      "o": [
+        {
+          "hi": "स्टोमेटा",
+          "en": "Stomata"
+        },
+        {
+          "hi": "जल रंध्र (हाइडैथोड्स / Hydathodes)",
+          "en": "Hydathodes"
+        },
+        {
+          "hi": "लेंटीसेल्स",
+          "en": "Lenticels"
+        },
+        {
+          "hi": "ट्रायकोम्स",
+          "en": "Trichomes"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कॉर्क कैम्बियम (Cork Cambium) को बॉटनी में किस नाम से भी जाना जाता है?",
+        "en": "Cork cambium initiating secondary outer growth is technically called?"
+      },
+      "o": [
+        {
+          "hi": "फेलम",
+          "en": "Phellem"
+        },
+        {
+          "hi": "फेलोडर्म",
+          "en": "Phelloderm"
+        },
+        {
+          "hi": "फेलोजन (Phellogen)",
+          "en": "Phellogen"
+        },
+        {
+          "hi": "पेरिडर्म",
+          "en": "Periderm"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "फेलोजन द्वारा बाहर की ओर बनाई गई कोशिका परत कॉर्क कहलाती है, इसे क्या कहते हैं?",
+        "en": "The tissue produced towards the outside by cork cambium is cork or?"
+      },
+      "o": [
+        {
+          "hi": "फेलोडर्म",
+          "en": "Phelloderm"
+        },
+        {
+          "hi": "फेलोजन",
+          "en": "Phellogen"
+        },
+        {
+          "hi": "द्वितीयक जाइलम",
+          "en": "Secondary xylem"
+        },
+        {
+          "hi": "फेलम (Phellem)",
+          "en": "Phellem"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "फेलोजन द्वारा अंदर की ओर बनाई गई द्वितीयक वल्कुट परत को क्या कहते हैं?",
+        "en": "The secondary cortex tissue produced towards the inside by cork cambium is?"
+      },
+      "o": [
+        {
+          "hi": "फेलोडर्म (Phelloderm)",
+          "en": "Phelloderm"
+        },
+        {
+          "hi": "फेलम",
+          "en": "Phellem"
+        },
+        {
+          "hi": "फेलोजन",
+          "en": "Phellogen"
+        },
+        {
+          "hi": "एपिडर्मिस",
+          "en": "Epidermis"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फेलम, फेलोजन और फेलोडर्म तीनों को मिलाकर संयुक्त रूप से क्या कहा जाता है?",
+        "en": "Phellem, Phellogen, and Phelloderm collectively constitute which structure?"
+      },
+      "o": [
+        {
+          "hi": "प्रोटोडर्म",
+          "en": "Protoderm"
+        },
+        {
+          "hi": "पेरिडर्म (Periderm)",
+          "en": "Periderm"
+        },
+        {
+          "hi": "एंडोडर्मिस",
+          "en": "Endodermis"
+        },
+        {
+          "hi": "पेरीसाइकिल",
+          "en": "Pericycle"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "द्विबीजपत्री जड़ों में कैस्पेरियन पट्टियां (Casparian strips) किस परत में पाई जाती हैं?",
+        "en": "Suberin-thickened Casparian strips are characteristic feature of which root layer?"
+      },
+      "o": [
+        {
+          "hi": "एपिडर्मिस",
+          "en": "Epidermis"
+        },
+        {
+          "hi": "पेरीसाइकिल",
+          "en": "Pericycle"
+        },
+        {
+          "hi": "अंतस्त्वचा (एंडोडर्मिस / Endodermis)",
+          "en": "Endodermis"
+        },
+        {
+          "hi": "कॉर्टेक्स",
+          "en": "Cortex"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आहारनाल में श्लेष्मा (Mucus) का स्राव करने वाली एककोशिकीय ग्रंथिल कोशिकाएं?",
+        "en": "Mucus-secreting single-celled glands found in the intestinal epithelium are?"
+      },
+      "o": [
+        {
+          "hi": "पैराइटल कोशिकाएं",
+          "en": "Parietal cells"
+        },
+        {
+          "hi": "चीफ कोशिकाएं",
+          "en": "Chief cells"
+        },
+        {
+          "hi": "कुफर कोशिकाएं",
+          "en": "Kupffer cells"
+        },
+        {
+          "hi": "गोब्लेट कोशिकाएं (Goblet cells)",
+          "en": "Goblet cells"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यकृत (Liver) में पाई जाने वाली भक्षकाणु (Phagocytic) कोशिकाएं जो जीवाणुओं को नष्ट करती हैं?",
+        "en": "Phagocytic cells present in the hepatic sinusoids of the liver are called?"
+      },
+      "o": [
+        {
+          "hi": "कुफ़र कोशिकाएं (Kupffer cells)",
+          "en": "Kupffer cells"
+        },
+        {
+          "hi": "गोब्लेट कोशिकाएं",
+          "en": "Goblet cells"
+        },
+        {
+          "hi": "ऑस्टियोक्लास्ट्स",
+          "en": "Osteoclasts"
+        },
+        {
+          "hi": "मास्ट कोशिकाएं",
+          "en": "Mast cells"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विभज्यातक (Meristematic) कोशिकाओं की मुख्य विशेषता क्या है?",
+        "en": "Which feature is characteristic of actively dividing meristematic cells?"
+      },
+      "o": [
+        {
+          "hi": "बड़ी रसधानी एवं मृत दीवारें",
+          "en": "Large vacuoles & dead walls"
+        },
+        {
+          "hi": "सघन जीवद्रव्य, पतली कोशिका भित्ति एवं स्पष्ट केंद्रक",
+          "en": "Dense cytoplasm, thin cell wall, and prominent nucleus"
+        },
+        {
+          "hi": "लिग्निन का भारी जमाव",
+          "en": "Heavy lignin deposition"
+        },
+        {
+          "hi": "अंतरकोशिकीय स्थानों की अधिकता",
+          "en": "Abundant intercellular spaces"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "न्यूरॉन में प्रोटीन और आरएनए से बने विशिष्ट रंगीन कणिकाएं क्या कहलाती हैं?",
+        "en": "Distinct granules composed of rough ER and ribosomes found in neurons are?"
+      },
+      "o": [
+        {
+          "hi": "हावर्सियन कैनाल",
+          "en": "Haversian Canal"
+        },
+        {
+          "hi": "क्रिस्टी",
+          "en": "Cristae"
+        },
+        {
+          "hi": "निसल की कणिकाएं (Nissl's Granules)",
+          "en": "Nissl's Granules"
+        },
+        {
+          "hi": "रेनवीयर नोड",
+          "en": "Ranvier Node"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मांसपेशियों के बाहरी आवरण वाली प्लाज्मा झिल्ली को क्या कहा जाता है?",
+        "en": "The plasma membrane covering a muscle fiber is called?"
+      },
+      "o": [
+        {
+          "hi": "सारकोप्लाज्म",
+          "en": "Sarcoplasm"
+        },
+        {
+          "hi": "न्यूरोलेमा",
+          "en": "Neurolemma"
+        },
+        {
+          "hi": "एपिब्लेमा",
+          "en": "Epiblema"
+        },
+        {
+          "hi": "सारकोलेमा (Sarcolemma)",
+          "en": "Sarcolemma"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पेशी तंतुओं में संकुचनशील प्रोटीन (Contractile proteins) कौन से हैं?",
+        "en": "Which two contractile proteins are responsible for muscle contraction?"
+      },
+      "o": [
+        {
+          "hi": "ऐक्टिन और मायोसिन (Actin and Myosin)",
+          "en": "Actin and Myosin"
+        },
+        {
+          "hi": "कोलेजन और इलास्टिन",
+          "en": "Collagen & Elastin"
+        },
+        {
+          "hi": "केराटिन और फाइब्रिन",
+          "en": "Keratin & Fibrin"
+        },
+        {
+          "hi": "ऐलब्यूमिन और ग्लोबुलिन",
+          "en": "Albumin & Globulin"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सभी एपिथीलियम ऊतक एक अकोशिकीय आधार पर टिके होते हैं, जिसे क्या कहते हैं?",
+        "en": "All epithelial tissues rest on a non-cellular basement layer termed as?"
+      },
+      "o": [
+        {
+          "hi": "प्लाज्मा मेम्ब्रेन",
+          "en": "Plasma Membrane"
+        },
+        {
+          "hi": "आधार कला (Basement Membrane)",
+          "en": "Basement Membrane"
+        },
+        {
+          "hi": "टोनोप्लाष्ट",
+          "en": "Tonoplast"
+        },
+        {
+          "hi": "क्यूबॉयडल मेम्ब्रेन",
+          "en": "Cuboidal Membrane"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ऊतकों के सूक्ष्मदर्शीय अध्ययन की शाखा को क्या कहा जाता है?",
+        "en": "The branch of science dealing with microscopic study of tissues is?"
+      },
+      "o": [
+        {
+          "hi": "साइटोलॉजी",
+          "en": "Cytology"
+        },
+        {
+          "hi": "एनाटॉमी",
+          "en": "Anatomy"
+        },
+        {
+          "hi": "ऊतक विज्ञान (हिस्टोलॉजी / Histology)",
+          "en": "Histology"
+        },
+        {
+          "hi": "मॉर्फोलॉजी",
+          "en": "Morphology"
+        }
+      ],
+      "a": 2
+    }
+  ]
+}

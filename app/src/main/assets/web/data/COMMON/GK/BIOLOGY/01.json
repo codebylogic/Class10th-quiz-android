@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "कोशिका - संरचना और कार्य / Cell - Structure & Function",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Cell - Structure & Function.",
+  "questions": [
+    {
+      "q": {
+        "hi": "कोशिका का 'पावरहाउस' (ऊर्जा घर) किसे कहा जाता है?",
+        "en": "Which cell organelle is known as the 'Powerhouse of the cell'?"
+      },
+      "o": [
+        {
+          "hi": "माइटोकॉन्ड्रिया",
+          "en": "Mitochondria"
+        },
+        {
+          "hi": "लाइसोसोम",
+          "en": "Lysosome"
+        },
+        {
+          "hi": "राइबोसोम",
+          "en": "Ribosome"
+        },
+        {
+          "hi": "गॉल्जीकाय",
+          "en": "Golgi apparatus"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोशिका की 'आत्मघाती थैली' (Suicidal Bag) किसे कहा जाता है?",
+        "en": "Which organelle is called the 'Suicidal Bag' of the cell?"
+      },
+      "o": [
+        {
+          "hi": "राइबोसोम",
+          "en": "Ribosome"
+        },
+        {
+          "hi": "लाइसोसोम",
+          "en": "Lysosome"
+        },
+        {
+          "hi": "माइटोकॉन्ड्रिया",
+          "en": "Mitochondria"
+        },
+        {
+          "hi": "तारककाय",
+          "en": "Centrosome"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कोशिका में प्रोटीन संश्लेषण का स्थल (प्रोटीन फैक्टरी) कौन सा है?",
+        "en": "Which organelle is the site of protein synthesis (Protein Factory) in a cell?"
+      },
+      "o": [
+        {
+          "hi": "लाइसोसोम",
+          "en": "Lysosome"
+        },
+        {
+          "hi": "गॉल्जीकाय",
+          "en": "Golgi body"
+        },
+        {
+          "hi": "राइबोसोम",
+          "en": "Ribosome"
+        },
+        {
+          "hi": "रबधानी",
+          "en": "Vacuole"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कोशिका का नियंत्रण केंद्र (मस्तिष्क) किसे माना जाता है?",
+        "en": "Which organelle is considered the control center or 'Brain' of the cell?"
+      },
+      "o": [
+        {
+          "hi": "साइटोप्लाज्म",
+          "en": "Cytoplasm"
+        },
+        {
+          "hi": "माइटोकॉन्ड्रिया",
+          "en": "Mitochondria"
+        },
+        {
+          "hi": "प्लाज्मा झिल्ली",
+          "en": "Plasma membrane"
+        },
+        {
+          "hi": "केंद्रक (न्यूक्लियस)",
+          "en": "Nucleus"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पादप कोशिका का 'रसोईघर' (Kitchen) किसे कहा जाता है?",
+        "en": "Which structure is known as the 'Kitchen of the plant cell'?"
+      },
+      "o": [
+        {
+          "hi": "हरितलवक (क्लोरोप्लास्ट)",
+          "en": "Chloroplast"
+        },
+        {
+          "hi": "अवर्णिलवक",
+          "en": "Leucoplast"
+        },
+        {
+          "hi": "वर्णिलवक",
+          "en": "Chromoplast"
+        },
+        {
+          "hi": "माइटोकॉन्ड्रिया",
+          "en": "Mitochondria"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पादप कोशिका भित्ति मुख्य रूप से किसकी बनी होती है?",
+        "en": "Plant cell wall is mainly composed of which substance?"
+      },
+      "o": [
+        {
+          "hi": "काइटीन",
+          "en": "Chitin"
+        },
+        {
+          "hi": "सेल्युलोज",
+          "en": "Cellulose"
+        },
+        {
+          "hi": "पेप्टिडोग्लाइकन",
+          "en": "Peptidoglycan"
+        },
+        {
+          "hi": "स्टार्च",
+          "en": "Starch"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कवक (Fungi) की कोशिका भित्ति किसकी बनी होती है?",
+        "en": "The cell wall of fungi is composed of which complex sugar?"
+      },
+      "o": [
+        {
+          "hi": "सेल्युलोज",
+          "en": "Cellulose"
+        },
+        {
+          "hi": "पेक्टिन",
+          "en": "Pectin"
+        },
+        {
+          "hi": "काइटीन",
+          "en": "Chitin"
+        },
+        {
+          "hi": "लिग्निन",
+          "en": "Lignin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जीवाणु (Bacteria) की कोशिका भित्ति किसकी बनी होती है?",
+        "en": "Bacterial cell wall is primarily made up of which compound?"
+      },
+      "o": [
+        {
+          "hi": "सेल्युलोज",
+          "en": "Cellulose"
+        },
+        {
+          "hi": "सुबेरिन",
+          "en": "Suberin"
+        },
+        {
+          "hi": "ग्लाइकोजन",
+          "en": "Glycogen"
+        },
+        {
+          "hi": "पेप्टिडोग्लाइकन",
+          "en": "Peptidoglycan"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1665 ई. में कोशिका की खोज सर्वप्रथम किसने की थी?",
+        "en": "Who first discovered the cell in the year 1665?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट हुक",
+          "en": "Robert Hooke"
+        },
+        {
+          "hi": "रॉबर्ट ब्राउन",
+          "en": "Robert Brown"
+        },
+        {
+          "hi": "एंटोन वॉन ल्यूवेनहॉक",
+          "en": "Anton van Leeuwenhoek"
+        },
+        {
+          "hi": "मैथियस श्लीडेन",
+          "en": "Matthias Schleiden"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सर्वप्रथम जीवित कोशिका को किसने देखा था?",
+        "en": "Who observed the first living cell under a microscope?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट हुक",
+          "en": "Robert Hooke"
+        },
+        {
+          "hi": "एंटोन वॉन ल्यूवेनहॉक",
+          "en": "Anton van Leeuwenhoek"
+        },
+        {
+          "hi": "रॉबर्ट ब्राउन",
+          "en": "Robert Brown"
+        },
+        {
+          "hi": "थियोडोर श्वान",
+          "en": "Theodor Schwann"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1831 में कोशिका में केंद्रक (Nucleus) की खोज किसने की थी?",
+        "en": "Who discovered the nucleus in a cell in 1831?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट हुक",
+          "en": "Robert Hooke"
+        },
+        {
+          "hi": "पुरकिंजे",
+          "en": "Purkinje"
+        },
+        {
+          "hi": "रॉबर्ट ब्राउन",
+          "en": "Robert Brown"
+        },
+        {
+          "hi": "रुडोल्फ विरचो",
+          "en": "Rudolf Virchow"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कोशिका सिद्धांत (Cell Theory) का प्रतिपादन किसने किया था?",
+        "en": "Who proposed the classical Cell Theory?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट हुक और ब्राउन",
+          "en": "Robert Hooke & Brown"
+        },
+        {
+          "hi": "वाटसन और क्रिक",
+          "en": "Watson & Crick"
+        },
+        {
+          "hi": "डार्विन और लैमार्क",
+          "en": "Darwin & Lamarck"
+        },
+        {
+          "hi": "श्लीडेन और श्वान",
+          "en": "Schleiden and Schwann"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'Omnis cellula-e-cellula' (सभी कोशिकाएं पूर्ववर्ती कोशिकाओं से बनती हैं) कथन किसने दिया?",
+        "en": "Who stated the phrase 'Omnis cellula-e-cellula' (All cells arise from pre-existing cells)?"
+      },
+      "o": [
+        {
+          "hi": "रुडोल्फ विरचो",
+          "en": "Rudolf Virchow"
+        },
+        {
+          "hi": "रॉबर्ट हुक",
+          "en": "Robert Hooke"
+        },
+        {
+          "hi": "लॉस पॉश्चर",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "थियोडोर श्वान",
+          "en": "Theodor Schwann"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रकृति में पाई जाने वाली सबसे बड़ी एकल कोशिका कौन सी है?",
+        "en": "Which is the largest single cell in nature?"
+      },
+      "o": [
+        {
+          "hi": "मानव तंत्रिका कोशिका",
+          "en": "Human nerve cell"
+        },
+        {
+          "hi": "शुतुरमुर्ग का अंडा",
+          "en": "Ostrich egg"
+        },
+        {
+          "hi": "अमीबा",
+          "en": "Amoeba"
+        },
+        {
+          "hi": "एसिटाबुलरिया",
+          "en": "Acetabularia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ज्ञात सबसे छोटी कोशिका कौन सी है?",
+        "en": "Which is the smallest known cell?"
+      },
+      "o": [
+        {
+          "hi": "ई. कोलाई",
+          "en": "E. coli"
+        },
+        {
+          "hi": "ईस्ट",
+          "en": "Yeast"
+        },
+        {
+          "hi": "मायकोप्लाज्मा (PPLO)",
+          "en": "Mycoplasma (PPLO)"
+        },
+        {
+          "hi": "लाल रक्त कोशिका",
+          "en": "Red blood cell"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की सबसे लंबी कोशिका कौन सी है?",
+        "en": "Which is the longest cell in the human body?"
+      },
+      "o": [
+        {
+          "hi": "पेशी कोशिका",
+          "en": "Muscle cell"
+        },
+        {
+          "hi": "यकृत कोशिका",
+          "en": "Liver cell"
+        },
+        {
+          "hi": "अस्थि कोशिका",
+          "en": "Bone cell"
+        },
+        {
+          "hi": "तंत्रिका कोशिका (न्यूरॉन)",
+          "en": "Nerve cell (Neuron)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कोशिका झिल्ली का 'फ्लुइड मोजेक मॉडल' किसने प्रस्तुत किया था?",
+        "en": "Who proposed the 'Fluid Mosaic Model' of the cell membrane?"
+      },
+      "o": [
+        {
+          "hi": "सिंगर और निकोलसन",
+          "en": "Singer and Nicolson"
+        },
+        {
+          "hi": "डेनियली और डेवसन",
+          "en": "Danielli & Davson"
+        },
+        {
+          "hi": "रॉबर्टसन",
+          "en": "Robertson"
+        },
+        {
+          "hi": "श्लीडेन और श्वान",
+          "en": "Schleiden & Schwann"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लिपिड और स्टेरॉयड संश्लेषण के लिए कौन सा कोशिकांग जिम्मेदार है?",
+        "en": "Which organelle is responsible for lipid and steroid synthesis?"
+      },
+      "o": [
+        {
+          "hi": "खुरदरी अंतःप्रद्रव्यी जालिका",
+          "en": "Rough Endoplasmic Reticulum"
+        },
+        {
+          "hi": "चिकनी अंतःप्रद्रव्यी जालिका (SER)",
+          "en": "Smooth Endoplasmic Reticulum (SER)"
+        },
+        {
+          "hi": "गॉल्जीकाय",
+          "en": "Golgi body"
+        },
+        {
+          "hi": "राइबोसोम",
+          "en": "Ribosome"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कोशिका में स्रावित पदार्थों की पैकिंग और रूपांतरण कौन करता है?",
+        "en": "Which organelle modifies, packages, and routes secretory products?"
+      },
+      "o": [
+        {
+          "hi": "माइटोकॉन्ड्रिया",
+          "en": "Mitochondria"
+        },
+        {
+          "hi": "लाइसोसोम",
+          "en": "Lysosome"
+        },
+        {
+          "hi": "गॉल्जी उपकरण",
+          "en": "Golgi apparatus"
+        },
+        {
+          "hi": "सेंट्रोसोम",
+          "en": "Centrosome"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पादप कोशिका की रसधानी (Vacuole) को घेरने वाली झिल्ली को क्या कहते हैं?",
+        "en": "What is the single membrane enclosing the plant vacuole called?"
+      },
+      "o": [
+        {
+          "hi": "प्लाज्मोडेस्मा",
+          "en": "Plasmodesma"
+        },
+        {
+          "hi": "साइटोप्लाज्म",
+          "en": "Cytoplasm"
+        },
+        {
+          "hi": "एपिब्लेमा",
+          "en": "Epiblema"
+        },
+        {
+          "hi": "टोनोप्लास्ट",
+          "en": "Tonoplast"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जंतु कोशिका में कोशिका विभाजन के समय तर्कु तंतुओं का निर्माण कौन करता है?",
+        "en": "Which organelle forms spindle fibers during cell division in animal cells?"
+      },
+      "o": [
+        {
+          "hi": "तारककाय (सेंट्रोसोम / सेंट्रिओल)",
+          "en": "Centrosome / Centriole"
+        },
+        {
+          "hi": "लाइसोसोम",
+          "en": "Lysosome"
+        },
+        {
+          "hi": "पेरॉक्सिसोम",
+          "en": "Peroxisome"
+        },
+        {
+          "hi": "ग्लाइऑक्सिसोम",
+          "en": "Glyoxysome"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समसूत्री विभाजन (Mitosis) की किस अवस्था में गुणसूत्र मध्यरेखा पर व्यवस्थित होते हैं?",
+        "en": "In which stage of mitosis do chromosomes align at the equatorial plate?"
+      },
+      "o": [
+        {
+          "hi": "पूर्वावस्था (Prophase)",
+          "en": "Prophase"
+        },
+        {
+          "hi": "मध्यावस्था (Metaphase)",
+          "en": "Metaphase"
+        },
+        {
+          "hi": "पश्चावस्था (Anaphase)",
+          "en": "Anaphase"
+        },
+        {
+          "hi": "अंत्यावस्था (Telophase)",
+          "en": "Telophase"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अर्धसूत्री विभाजन की किस अवस्था में क्रासिंग ओवर (Crossing Over) होता है?",
+        "en": "In which substage of Meiosis I does crossing over take place?"
+      },
+      "o": [
+        {
+          "hi": "लेप्टोटीन",
+          "en": "Leptotene"
+        },
+        {
+          "hi": "जायगोटीन",
+          "en": "Zygotene"
+        },
+        {
+          "hi": "पैकीटीन (Pachytene)",
+          "en": "Pachytene"
+        },
+        {
+          "hi": "डिप्लोटीन",
+          "en": "Diplotene"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गुणसूत्र (Chromosomes) मुख्य रूप से किससे निर्मित होते हैं?",
+        "en": "Chromosomes are chemically composed of which substances?"
+      },
+      "o": [
+        {
+          "hi": "आरएनए और वसा",
+          "en": "RNA & Lipids"
+        },
+        {
+          "hi": "केवल कार्बोहाइड्रेट",
+          "en": "Only Carbohydrates"
+        },
+        {
+          "hi": "डीएनए और काइटीन",
+          "en": "DNA & Chitin"
+        },
+        {
+          "hi": "डीएनए और हिस्टोन प्रोटीन",
+          "en": "DNA and Histone proteins"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "केंद्रक के भीतर राइबोसोमल आरएनए (rRNA) के संश्लेषण का स्थल कौन सा है?",
+        "en": "Which site inside the nucleus is active in rRNA synthesis?"
+      },
+      "o": [
+        {
+          "hi": "केंद्रिका (Nucleolus)",
+          "en": "Nucleolus"
+        },
+        {
+          "hi": "क्र्रोमैटिन नेटवर्क",
+          "en": "Chromatin network"
+        },
+        {
+          "hi": "न्यूक्लियोप्लाज्म",
+          "en": "Nucleoplasm"
+        },
+        {
+          "hi": "परमाणु छिद्र",
+          "en": "Nuclear pore"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोशिका की प्रोग्राम्ड मृत्यु (Programmed Cell Death) को क्या कहा जाता है?",
+        "en": "What is programmed cell death physiologically termed as?"
+      },
+      "o": [
+        {
+          "hi": "नेक्रोसिस",
+          "en": "Necrosis"
+        },
+        {
+          "hi": "एपॉप्टोसिस (Apoptosis)",
+          "en": "Apoptosis"
+        },
+        {
+          "hi": "फैगोसाइटोसिस",
+          "en": "Phagocytosis"
+        },
+        {
+          "hi": "पिनोसाइटोसिस",
+          "en": "Pinocytosis"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कोशिका विभाजन के समय बनने वाले स्पिंडल फाइबर किस प्रोटीन के बने होते हैं?",
+        "en": "Spindle fibers formed during cell division are composed of which protein?"
+      },
+      "o": [
+        {
+          "hi": "मायोसिन",
+          "en": "Myosin"
+        },
+        {
+          "hi": "ऐक्टिन",
+          "en": "Actin"
+        },
+        {
+          "hi": "ट्यूबुलिन (Tubulin)",
+          "en": "Tubulin"
+        },
+        {
+          "hi": "केराटिन",
+          "en": "Keratin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "केंद्रक विभाजन के पश्चात कोशिकाद्रव्य के विभाजन को क्या कहते हैं?",
+        "en": "Division of the cytoplasm following nuclear division is called what?"
+      },
+      "o": [
+        {
+          "hi": "कैरियोकाइनेसिस",
+          "en": "Karyokinesis"
+        },
+        {
+          "hi": "इंटरफेज",
+          "en": "Interphase"
+        },
+        {
+          "hi": "डायकाइनेसिस",
+          "en": "Diakinesis"
+        },
+        {
+          "hi": "साइटोकाइनेसिस (Cytokinesis)",
+          "en": "Cytokinesis"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अतिपरासरी (Hypertonic) घोल में रखने पर पादप कोशिका के जीवद्रव्य के सिकुड़ने को क्या कहते हैं?",
+        "en": "Shrinkage of protoplasm when a plant cell is placed in a hypertonic solution is called?"
+      },
+      "o": [
+        {
+          "hi": "जीवद्रव्यकुंचन (Plasmolysis)",
+          "en": "Plasmolysis"
+        },
+        {
+          "hi": "डीप्लास्मोलिसिस",
+          "en": "Deplasmolysis"
+        },
+        {
+          "hi": "अन्तःचूषण",
+          "en": "Imbibition"
+        },
+        {
+          "hi": "विसरण",
+          "en": "Diffusion"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गुणसूत्र पर वह स्थान जहाँ स्पिंडल फाइबर जुड़ते हैं और सेंट्रोमियर स्थित होता है?",
+        "en": "The primary constriction on a chromosome where spindle fibers attach during division?"
+      },
+      "o": [
+        {
+          "hi": "क्रोमोमीयर",
+          "en": "Chromomere"
+        },
+        {
+          "hi": "सेंट्रोमियर (Centromere)",
+          "en": "Centromere"
+        },
+        {
+          "hi": "टिलोमीयर",
+          "en": "Telomere"
+        },
+        {
+          "hi": "सैटेलाइट",
+          "en": "Satellite"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रोकेरियोटिक कोशिकाओं में किस प्रकार के राइबोसोम पाए जाते हैं?",
+        "en": "Which type of ribosomes are found in prokaryotic cells?"
+      },
+      "o": [
+        {
+          "hi": "80S प्रकार",
+          "en": "80S type"
+        },
+        {
+          "hi": "60S प्रकार",
+          "en": "60S type"
+        },
+        {
+          "hi": "70S प्रकार",
+          "en": "70S type"
+        },
+        {
+          "hi": "50S प्रकार",
+          "en": "50S type"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यूकेरियोटिक कोशिका के कोशिकाद्रव्य में मुख्य रूप से कौन से राइबोसोम होते हैं?",
+        "en": "Which type of ribosomes are predominantly present in eukaryotic cytoplasm?"
+      },
+      "o": [
+        {
+          "hi": "70S प्रकार",
+          "en": "70S type"
+        },
+        {
+          "hi": "50S प्रकार",
+          "en": "50S type"
+        },
+        {
+          "hi": "30S प्रकार",
+          "en": "30S type"
+        },
+        {
+          "hi": "80S प्रकार",
+          "en": "80S type"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लाइसोसोम में पाए जाने वाले पाचक एंजाइम किस प्रकृति के होते हैं?",
+        "en": "Hydrolytic digestive enzymes present inside lysosomes work optimally at which pH?"
+      },
+      "o": [
+        {
+          "hi": "अम्लीय जल-अपघटनीय एंजाइम (Acid Hydro-lases)",
+          "en": "Acidic Hydrolytic enzymes"
+        },
+        {
+          "hi": "क्षारीय एंजाइम",
+          "en": "Alkaline enzymes"
+        },
+        {
+          "hi": "उदासीन एंजाइम",
+          "en": "Neutral enzymes"
+        },
+        {
+          "hi": "ऑक्सीकरण एंजाइम",
+          "en": "Oxidizing enzymes"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "माइटोकॉन्ड्रिया की आंतरिक झिल्ली के वलनों को क्या कहा जाता है?",
+        "en": "Infoldings of the inner membrane of mitochondria are known as what?"
+      },
+      "o": [
+        {
+          "hi": "सिस्टर्नी",
+          "en": "Cisternae"
+        },
+        {
+          "hi": "क्रिस्टी (Cristae)",
+          "en": "Cristae"
+        },
+        {
+          "hi": "थाइलेकोइड",
+          "en": "Thylakoid"
+        },
+        {
+          "hi": "ग्रैना",
+          "en": "Grana"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्लोरोप्लास्ट (हरितलवक) के भीतर भरे तरल पदार्थ को क्या कहा जाता है?",
+        "en": "The fluid matrix surrounding the thylakoids in chloroplast is called?"
+      },
+      "o": [
+        {
+          "hi": "मैट्रिक्स",
+          "en": "Matrix"
+        },
+        {
+          "hi": "साइटोसॉल",
+          "en": "Cytosol"
+        },
+        {
+          "hi": "स्ट्रोमा (Stroma)",
+          "en": "Stroma"
+        },
+        {
+          "hi": "लुमेन",
+          "en": "Lumen"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "क्लोरोप्लास्ट में थाइलेकोइड के सिक्कों जैसे ढेर को क्या कहा जाता है?",
+        "en": "A stack of membrane-bound thylakoids in a chloroplast is termed as?"
+      },
+      "o": [
+        {
+          "hi": "स्ट्रोमा",
+          "en": "Stroma"
+        },
+        {
+          "hi": "क्रिस्टी",
+          "en": "Cristae"
+        },
+        {
+          "hi": "सिस्टर्नी",
+          "en": "Cisternae"
+        },
+        {
+          "hi": "ग्रैनम (Granum)",
+          "en": "Granum"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'जीवद्रव्य' (Protoplasm) शब्द का प्रयोग सर्वप्रथम किसने किया था?",
+        "en": "Who coined the term 'Protoplasm' for the living material of the cell?"
+      },
+      "o": [
+        {
+          "hi": "जे. ई. पुरकिंजे",
+          "en": "J.E. Purkinje"
+        },
+        {
+          "hi": "रॉबर्ट हुक",
+          "en": "Robert Hooke"
+        },
+        {
+          "hi": "हक्सले",
+          "en": "Huxley"
+        },
+        {
+          "hi": "मैलपीगी",
+          "en": "Malpighi"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किस वैज्ञानिक ने जीवद्रव्य (Protoplasm) को 'जीवन का भौतिक आधार' कहा?",
+        "en": "Which scientist called Protoplasm the 'Physical basis of life'?"
+      },
+      "o": [
+        {
+          "hi": "पुरकिंजे",
+          "en": "Purkinje"
+        },
+        {
+          "hi": "टी. एच. हक्सले",
+          "en": "T.H. Huxley"
+        },
+        {
+          "hi": "रॉबर्ट ब्राउन",
+          "en": "Robert Brown"
+        },
+        {
+          "hi": "लॉस पॉश्चर",
+          "en": "Louis Pasteur"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से किस जीव में कोशिका भित्ति (Cell Wall) पूर्णतः अनुपस्थित होती है?",
+        "en": "Cell wall is completely absent in which of the following organisms?"
+      },
+      "o": [
+        {
+          "hi": "जीवाणु",
+          "en": "Bacteria"
+        },
+        {
+          "hi": "कवक",
+          "en": "Fungi"
+        },
+        {
+          "hi": "मायकोप्लाज्मा और जंतु कोशिकाएं",
+          "en": "Mycoplasma and Animal cells"
+        },
+        {
+          "hi": "शैवाल",
+          "en": "Algae"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जीवाणु में पाए जाने वाले अतिरिक्त-गुणसूत्रीय वृत्ताकार डीएनए को क्या कहते हैं?",
+        "en": "Extra-chromosomal circular DNA molecules found in bacteria are called?"
+      },
+      "o": [
+        {
+          "hi": "मेसोसोम",
+          "en": "Mesosome"
+        },
+        {
+          "hi": "न्यूक्लियोइड",
+          "en": "Nucleoid"
+        },
+        {
+          "hi": "कॉस्मिड",
+          "en": "Cosmid"
+        },
+        {
+          "hi": "प्लाज्मिड (Plasmid)",
+          "en": "Plasmid"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रोकेरियोट्स में प्लाज्मा झिल्ली के अंतर्वलन जो श्वसन में मदद करते हैं?",
+        "en": "Infoldings of plasma membrane in prokaryotes assisting in respiration are called?"
+      },
+      "o": [
+        {
+          "hi": "मीसोसोम (Mesosomes)",
+          "en": "Mesosomes"
+        },
+        {
+          "hi": "राइबोसोम",
+          "en": "Ribosomes"
+        },
+        {
+          "hi": "प्लाज्मिड",
+          "en": "Plasmids"
+        },
+        {
+          "hi": "लाइसोसोम",
+          "en": "Lysosomes"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोशिका चक्र की किस प्रावस्था में डीएनए (DNA) का द्विगुणन/संश्लेषण होता है?",
+        "en": "In which phase of the cell cycle does DNA replication/synthesis take place?"
+      },
+      "o": [
+        {
+          "hi": "G1 प्रावस्था",
+          "en": "G1 phase"
+        },
+        {
+          "hi": "S प्रावस्था (S phase)",
+          "en": "S phase"
+        },
+        {
+          "hi": "G2 प्रावस्था",
+          "en": "G2 phase"
+        },
+        {
+          "hi": "M प्रावस्था",
+          "en": "M phase"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कोशिका चक्र की शांत/विश्राम प्रावस्था (Quiescent stage) को क्या कहा जाता है?",
+        "en": "The non-dividing inactive stage of the cell cycle is termed as?"
+      },
+      "o": [
+        {
+          "hi": "G1 प्रावस्था",
+          "en": "G1 phase"
+        },
+        {
+          "hi": "S प्रावस्था",
+          "en": "S phase"
+        },
+        {
+          "hi": "G0 प्रावस्था (G0 phase)",
+          "en": "G0 phase"
+        },
+        {
+          "hi": "G2 प्रावस्था",
+          "en": "G2 phase"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अर्धसूत्री विभाजन में क्रासिंग ओवर के बाद बनने वाली X-आकार की संरचना कहलाती है?",
+        "en": "The X-shaped structures formed during crossing over in diplotene are called?"
+      },
+      "o": [
+        {
+          "hi": "सिनैप्स",
+          "en": "Synapse"
+        },
+        {
+          "hi": "सेंट्रोमियर",
+          "en": "Centromere"
+        },
+        {
+          "hi": "क्रोमेटिड",
+          "en": "Chromatid"
+        },
+        {
+          "hi": "काइऐस्मेटा (Chiasmata)",
+          "en": "Chiasmata"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समजात गुणसूत्रों का आपस में जोड़ा बनाने की क्रिया क्या कहलाती है?",
+        "en": "The process of pairing of homologous chromosomes during meiosis is called?"
+      },
+      "o": [
+        {
+          "hi": "सूत्रयुग्मन (Synapsis)",
+          "en": "Synapsis"
+        },
+        {
+          "hi": "क्रासिंग ओवर",
+          "en": "Crossing over"
+        },
+        {
+          "hi": "साइटोकाइनेसिस",
+          "en": "Cytokinesis"
+        },
+        {
+          "hi": "इंटरफेज",
+          "en": "Interphase"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पौधों में मण्ड (स्टार्च) का संचयन करने वाला अवर्णिलवक (Leucoplast) कौन सा है?",
+        "en": "Which type of leucoplast stores starch in plant cells?"
+      },
+      "o": [
+        {
+          "hi": "इलायोप्लास्ट",
+          "en": "Elaioplast"
+        },
+        {
+          "hi": "एमॉयलोप्लास्ट (Amyloplast)",
+          "en": "Amyloplast"
+        },
+        {
+          "hi": "एल्यूरोप्लास्ट",
+          "en": "Aleuroplast"
+        },
+        {
+          "hi": "क्लोरोप्लास्ट",
+          "en": "Chloroplast"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पौधों में वसा एवं तेल का संचयन करने वाला लवक कहलाता है?",
+        "en": "Which type of leucoplast is specialized for storing fats and oils?"
+      },
+      "o": [
+        {
+          "hi": "एमॉयलोप्लास्ट",
+          "en": "Amyloplast"
+        },
+        {
+          "hi": "एल्यूरोप्लास्ट",
+          "en": "Aleuroplast"
+        },
+        {
+          "hi": "इलायोप्लास्ट (Elaioplast)",
+          "en": "Elaioplast"
+        },
+        {
+          "hi": "क्रोमोप्लास्ट",
+          "en": "Chromoplast"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पौधों में प्रोटीन संचयन करने वाले अवर्णिलवक को क्या कहते हैं?",
+        "en": "Which leucoplast stores proteins in seeds and plant tissues?"
+      },
+      "o": [
+        {
+          "hi": "एमॉयलोप्लास्ट",
+          "en": "Amyloplast"
+        },
+        {
+          "hi": "इलायोप्लास्ट",
+          "en": "Elaioplast"
+        },
+        {
+          "hi": "क्लोरोप्लास्ट",
+          "en": "Chloroplast"
+        },
+        {
+          "hi": "एल्यूरोप्लास्ट (Aleuroplast)",
+          "en": "Aleuroplast"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भोजन संचय करने वाले रंगहीन प्लास्टिड्स को क्या कहा जाता है?",
+        "en": "Colorless plastids that primarily store nutrients are known as?"
+      },
+      "o": [
+        {
+          "hi": "अवर्णिलवक (Leucoplasts)",
+          "en": "Leucoplasts"
+        },
+        {
+          "hi": "वर्णिलवक",
+          "en": "Chromoplasts"
+        },
+        {
+          "hi": "हरितलवक",
+          "en": "Chloroplasts"
+        },
+        {
+          "hi": "माइटोकॉन्ड्रिया",
+          "en": "Mitochondria"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पुष्पों और फलों को आकर्षक पीला, नारंगी या लाल रंग प्रदान करने वाला लवक कौन सा है?",
+        "en": "Which plastids impart attractive yellow, orange, or red colors to flowers and fruits?"
+      },
+      "o": [
+        {
+          "hi": "अवर्णिलवक",
+          "en": "Leucoplasts"
+        },
+        {
+          "hi": "वर्णिलवक (Chromoplasts)",
+          "en": "Chromoplasts"
+        },
+        {
+          "hi": "हरितलवक",
+          "en": "Chloroplasts"
+        },
+        {
+          "hi": "टोनोप्लास्ट",
+          "en": "Tonoplast"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पादप कोशिकाओं को आपस में जोड़ने वाली मध्य पट्टिका (Middle Lamella) किसकी बनी होती है?",
+        "en": "The middle lamella cementing neighboring plant cells is composed of?"
+      },
+      "o": [
+        {
+          "hi": "केवल लिग्निन",
+          "en": "Only Lignin"
+        },
+        {
+          "hi": "सोडियम क्लोराइड",
+          "en": "Sodium chloride"
+        },
+        {
+          "hi": "कैल्शियम और मैग्नीशियम पेक्टेट",
+          "en": "Calcium and Magnesium pectate"
+        },
+        {
+          "hi": "सेल्युलोज एवं स्टार्च",
+          "en": "Cellulose and Starch"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अर्द्धपारगम्य झिल्ली के माध्यम से जल के अणुओं की गति को क्या कहते हैं?",
+        "en": "Movement of water molecules across a semi-permeable membrane is termed as?"
+      },
+      "o": [
+        {
+          "hi": "विसरण",
+          "en": "Diffusion"
+        },
+        {
+          "hi": "अन्तःचूषण",
+          "en": "Imbibition"
+        },
+        {
+          "hi": "सक्रिय परिवहन",
+          "en": "Active transport"
+        },
+        {
+          "hi": "परासरण (Osmosis)",
+          "en": "Osmosis"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सांद्रता प्रवणता के विपरीत अणुओं का परिवहन जिसमें ATP ऊर्जा खर्च होती है?",
+        "en": "Movement of substances against concentration gradient requiring ATP energy is called?"
+      },
+      "o": [
+        {
+          "hi": "सक्रिय परिवहन (Active transport)",
+          "en": "Active transport"
+        },
+        {
+          "hi": "निष्क्रिय विसरण",
+          "en": "Passive diffusion"
+        },
+        {
+          "hi": "परासरण",
+          "en": "Osmosis"
+        },
+        {
+          "hi": "सुसाध्य विसरण",
+          "en": "Facilitated diffusion"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोशिका द्वारा ठोस कणों को निगलने (Cell Eating) की प्रक्रिया कहलाती है?",
+        "en": "The process by which a cell engulfs solid material (Cell Eating) is called?"
+      },
+      "o": [
+        {
+          "hi": "पिनोसाइटोसिस",
+          "en": "Pinocytosis"
+        },
+        {
+          "hi": "फैगोसाइटोसिस (Phagocytosis)",
+          "en": "Phagocytosis"
+        },
+        {
+          "hi": "एक्सोसाइटोसिस",
+          "en": "Exocytosis"
+        },
+        {
+          "hi": "परासरण",
+          "en": "Osmosis"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कोशिका द्वारा तरल पदार्थों को ग्रहण करने (Cell Drinking) की क्रिया को कहते हैं?",
+        "en": "The ingestion of liquid droplets by a cell (Cell Drinking) is known as?"
+      },
+      "o": [
+        {
+          "hi": "फैगोसाइटोसिस",
+          "en": "Phagocytosis"
+        },
+        {
+          "hi": "डीप्लास्मोलिसिस",
+          "en": "Deplasmolysis"
+        },
+        {
+          "hi": "पिनोसाइटोसिस (Pinocytosis)",
+          "en": "Pinocytosis"
+        },
+        {
+          "hi": "विसरण",
+          "en": "Diffusion"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कोशिका झिल्ली (प्लाज्मा मेम्ब्रेन) की संरचना में मुख्य लिपिड घटक कौन सा है?",
+        "en": "Which is the major lipid component present in plasma membrane structure?"
+      },
+      "o": [
+        {
+          "hi": "ट्राइग्लिसराइड",
+          "en": "Triglycerides"
+        },
+        {
+          "hi": "मोम",
+          "en": "Wax"
+        },
+        {
+          "hi": "ग्लाइकोजन",
+          "en": "Glycogen"
+        },
+        {
+          "hi": "फास्फोलिपिड (Phospholipids)",
+          "en": "Phospholipids"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जंतुओं में बहुकेंद्रकी (Multinucleate) कोशिका स्थिति को क्या कहा जाता है?",
+        "en": "Multinucleate condition formed by cell fusion in animal tissues is called?"
+      },
+      "o": [
+        {
+          "hi": "सिन्सिशियम (Syncytium)",
+          "en": "Syncytium"
+        },
+        {
+          "hi": "सिनोसाइट",
+          "en": "Coenocyte"
+        },
+        {
+          "hi": "मायसेलियम",
+          "en": "Mycelium"
+        },
+        {
+          "hi": "प्लाज्मोडियम",
+          "en": "Plasmodium"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पादपों एवं कवकों में बहुकेंद्रकी कोशिका स्थिति को क्या कहा जाता है?",
+        "en": "Multinucleate condition in plant or fungal cells without cytokinesis is called?"
+      },
+      "o": [
+        {
+          "hi": "सिन्सिशियम",
+          "en": "Syncytium"
+        },
+        {
+          "hi": "सिनोसाइट (Coenocyte)",
+          "en": "Coenocyte"
+        },
+        {
+          "hi": "गैमेटेंगियम",
+          "en": "Gametangium"
+        },
+        {
+          "hi": "सेंट्रोसोम",
+          "en": "Centrosome"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गुणसूत्र के छोर (Terminal ends) जो गुणसूत्रों को आपस में चिपकने से रोकते हैं?",
+        "en": "The specialized terminal ends of chromosomes preventing adhesion are called?"
+      },
+      "o": [
+        {
+          "hi": "सेंट्रोमीयर",
+          "en": "Centromeres"
+        },
+        {
+          "hi": "क्रोमोमीयर",
+          "en": "Chromomeres"
+        },
+        {
+          "hi": "टिलोमीयर (Telomeres)",
+          "en": "Telomeres"
+        },
+        {
+          "hi": "काइनेटोकोर",
+          "en": "Kinetochores"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गुणसूत्रों की आकारिकी (Shape and Structure) के अध्ययन के लिए सबसे उपयुक्त अवस्था?",
+        "en": "Which stage of cell division is best suited to study morphology of chromosomes?"
+      },
+      "o": [
+        {
+          "hi": "पूर्वावस्था (Prophase)",
+          "en": "Prophase"
+        },
+        {
+          "hi": "अंत्यावस्था (Telophase)",
+          "en": "Telophase"
+        },
+        {
+          "hi": "इंटरफेज",
+          "en": "Interphase"
+        },
+        {
+          "hi": "मध्यावस्था (Metaphase)",
+          "en": "Metaphase"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यूकेरियोट्स में 80S राइबोसोम की दो उप-इकाइयाँ (Subunits) कौन-कौन सी हैं?",
+        "en": "What are the two subunits of the 80S eukaryotic ribosome?"
+      },
+      "o": [
+        {
+          "hi": "60S और 40S",
+          "en": "60S and 40S"
+        },
+        {
+          "hi": "50S और 30S",
+          "en": "50S and 30S"
+        },
+        {
+          "hi": "50S और 40S",
+          "en": "50S and 40S"
+        },
+        {
+          "hi": "60S और 30S",
+          "en": "60S and 30S"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रोकेरियोट्स में 70S राइबोसोम की दो उप-इकाइयाँ कौन सी हैं?",
+        "en": "What are the two subunits composing a 70S prokaryotic ribosome?"
+      },
+      "o": [
+        {
+          "hi": "60S और 40S",
+          "en": "60S and 40S"
+        },
+        {
+          "hi": "50S और 30S",
+          "en": "50S and 30S"
+        },
+        {
+          "hi": "40S और 30S",
+          "en": "40S and 30S"
+        },
+        {
+          "hi": "50S और 40S",
+          "en": "50S and 40S"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रकाश-श्वसन (Photorespiration) में भाग लेने वाला माइक्रोबॉडी कौन सा है?",
+        "en": "Which microbody along with chloroplast and mitochondria participates in photorespiration?"
+      },
+      "o": [
+        {
+          "hi": "ग्लाइऑक्सिसोम",
+          "en": "Glyoxysome"
+        },
+        {
+          "hi": "लाइसोसोम",
+          "en": "Lysosome"
+        },
+        {
+          "hi": "पेरॉक्सिसोम (Peroxisome)",
+          "en": "Peroxisome"
+        },
+        {
+          "hi": "राइबोसोम",
+          "en": "Ribosome"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पादप कोशिकाओं में गॉल्जीकाय की पृथक इकाइयों को किस नाम से जाना जाता है?",
+        "en": "Individual scattered units of Golgi apparatus in plant cells are termed as?"
+      },
+      "o": [
+        {
+          "hi": "मीसोसोम",
+          "en": "Mesosomes"
+        },
+        {
+          "hi": "पेरॉक्सिसोम",
+          "en": "Peroxisomes"
+        },
+        {
+          "hi": "सेंट्रोसोम",
+          "en": "Centrosomes"
+        },
+        {
+          "hi": "डिक्टियोसोम (Dictyosomes)",
+          "en": "Dictyosomes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रॉबर्ट हुक द्वारा लिखित वह पुस्तक जिसमें उन्होंने कोशिका खोज का वर्णन किया?",
+        "en": "Which book written by Robert Hooke detailed his observations of cork cells?"
+      },
+      "o": [
+        {
+          "hi": "माइक्रोग्राफिया (Micrographia)",
+          "en": "Micrographia"
+        },
+        {
+          "hi": "सिस्टम नेचुरी",
+          "en": "Systema Naturae"
+        },
+        {
+          "hi": "ओरिजिन ऑफ स्पीशीज",
+          "en": "Origin of Species"
+        },
+        {
+          "hi": "जेनेरा प्लांटारम",
+          "en": "Genera Plantarum"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पादप कोशिका भित्ति पूर्णतः पारगम्य होती है, जबकि प्लाज्मा झिल्ली होती है?",
+        "en": "Plant cell wall is freely permeable, whereas plasma membrane is?"
+      },
+      "o": [
+        {
+          "hi": "अपारगम्य",
+          "en": "Impermeable"
+        },
+        {
+          "hi": "चयनात्मक पारगम्य (Selectively Permeable)",
+          "en": "Selectively Permeable"
+        },
+        {
+          "hi": "पूर्ण पारगम्य",
+          "en": "Freely Permeable"
+        },
+        {
+          "hi": "केवल जल पारगम्य",
+          "en": "Only Water Permeable"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कोशिका के आकार को बनाए रखने वाला कंकाल तंत्र (Cytoskeleton) किससे बना होता है?",
+        "en": "The eukaryotic cytoskeleton involved in cell shape and movement consists of?"
+      },
+      "o": [
+        {
+          "hi": "केवल सेल्युलोज",
+          "en": "Only Cellulose"
+        },
+        {
+          "hi": "कोलेस्ट्रॉल के धागे",
+          "en": "Cholesterol fibers"
+        },
+        {
+          "hi": "माइक्रोट्यूब्यूल्स एवं माइक्रोफिलामेंट्स",
+          "en": "Microtubules and Microfilaments"
+        },
+        {
+          "hi": "केवल हिस्टोन",
+          "en": "Only Histones"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कोशिकांगों में से किसे 'सेल्यूलर हाउसकीपर' (Cellular Housekeeper) कहा जाता है?",
+        "en": "Which organelle is referred to as the 'Cellular Housekeeper' for cleaning debris?"
+      },
+      "o": [
+        {
+          "hi": "राइबोसोम",
+          "en": "Ribosome"
+        },
+        {
+          "hi": "गॉल्जीकाय",
+          "en": "Golgi apparatus"
+        },
+        {
+          "hi": "सेंट्रोसोम",
+          "en": "Centrosome"
+        },
+        {
+          "hi": "लाइसोसोम",
+          "en": "Lysosome"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किस कोशिकांग में अपना स्वयं का वृत्ताकार DNA और 70S राइबोसोम पाया जाता है?",
+        "en": "Which organelle possesses its own circular DNA and 70S ribosomes?"
+      },
+      "o": [
+        {
+          "hi": "माइटोकॉन्ड्रिया और क्लोरोप्लास्ट",
+          "en": "Mitochondria and Chloroplast"
+        },
+        {
+          "hi": "लाइसोसोम",
+          "en": "Lysosome"
+        },
+        {
+          "hi": "गॉल्जी उपकरण",
+          "en": "Golgi apparatus"
+        },
+        {
+          "hi": "अंतःप्रद्रव्यी जालिका",
+          "en": "Endoplasmic reticulum"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समसूत्री विभाजन की किस अवस्था में संतति क्रोमैटिड विपरीत ध्रुवों की ओर जाने लगते हैं?",
+        "en": "In which phase of mitosis do sister chromatids separate and move towards opposite poles?"
+      },
+      "o": [
+        {
+          "hi": "पूर्वावस्था (Prophase)",
+          "en": "Prophase"
+        },
+        {
+          "hi": "पश्चावस्था (Anaphase)",
+          "en": "Anaphase"
+        },
+        {
+          "hi": "मध्यावस्था (Metaphase)",
+          "en": "Metaphase"
+        },
+        {
+          "hi": "अंत्यावस्था (Telophase)",
+          "en": "Telophase"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समसूत्री विभाजन की अंतिम अवस्था जिसमें केंद्रक झिल्ली पुनः प्रकट होती है?",
+        "en": "Final stage of mitosis where nuclear envelope reappears around daughter nuclei?"
+      },
+      "o": [
+        {
+          "hi": "पूर्वावस्था",
+          "en": "Prophase"
+        },
+        {
+          "hi": "मध्यावस्था",
+          "en": "Metaphase"
+        },
+        {
+          "hi": "अंत्यावस्था (Telophase)",
+          "en": "Telophase"
+        },
+        {
+          "hi": "पश्चावस्था",
+          "en": "Anaphase"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "माइटोकॉन्ड्रिया में ATP संश्लेषण करने वाला F0-F1 कण (ATP Synthase) कहाँ स्थित होता है?",
+        "en": "ATP Synthase complex (F0-F1 particles) in mitochondria is located on?"
+      },
+      "o": [
+        {
+          "hi": "बाहरी झिल्ली",
+          "en": "Outer membrane"
+        },
+        {
+          "hi": "मैट्रिक्स",
+          "en": "Matrix"
+        },
+        {
+          "hi": "इंटरमेम्ब्रेन स्पेस",
+          "en": "Intermembrane space"
+        },
+        {
+          "hi": "आंतरिक माइटोकॉन्ड्रियल झिल्ली",
+          "en": "Inner mitochondrial membrane"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्लाज्मा झिल्ली में जल के तीव्र परिवहन के लिए विशेष प्रोटीन चैनल क्या कहलाते हैं?",
+        "en": "Specialized membrane channel proteins facilitating rapid water transport are called?"
+      },
+      "o": [
+        {
+          "hi": "एक्वापोरिन (Aquaporins)",
+          "en": "Aquaporins"
+        },
+        {
+          "hi": "ग्लोबुलिन",
+          "en": "Globulins"
+        },
+        {
+          "hi": "पोरिन",
+          "en": "Porins"
+        },
+        {
+          "hi": "सोडियम पंप",
+          "en": "Sodium pump"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एक द्विगुणित कोशिका में अर्धसूत्री विभाजन (Meiosis) के अंत में कितनी संतति कोशिकाएं बनती हैं?",
+        "en": "How many haploid daughter cells are produced at the end of Meiosis from a diploid cell?"
+      },
+      "o": [
+        {
+          "hi": "2 द्विगुणित कोशिकाएं",
+          "en": "2 diploid cells"
+        },
+        {
+          "hi": "4 अगुणित कोशिकाएं",
+          "en": "4 haploid cells"
+        },
+        {
+          "hi": "2 अगुणित कोशिकाएं",
+          "en": "2 haploid cells"
+        },
+        {
+          "hi": "8 अगुणित कोशिकाएं",
+          "en": "8 haploid cells"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पादप कोशिका की कोशिका भित्ति में पाया जाने वाला जलरोधी वैक्सी बहुलक कौन सा है?",
+        "en": "Which waxy, hydrophobic polymer is deposited in the cell walls of cork cells?"
+      },
+      "o": [
+        {
+          "hi": "सेल्युलोज",
+          "en": "Cellulose"
+        },
+        {
+          "hi": "पेक्टिन",
+          "en": "Pectin"
+        },
+        {
+          "hi": "सुबेरिन (Suberin)",
+          "en": "Suberin"
+        },
+        {
+          "hi": "स्टार्च",
+          "en": "Starch"
+        }
+      ],
+      "a": 2
+    }
+  ]
+}

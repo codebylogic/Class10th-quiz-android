@@ -1,0 +1,1007 @@
+{
+  "title": "CBSE Class 10 - Science (Physics)",
+  "subtitle": "Magnetic Effects of Electric Current",
+  "description": "Comprehensive online test set containing 100 high-yield objective MCQs for Magnetic Effects of Electric Current.",
+  "questions": [
+    {
+      "q": "The magnetic field lines inside a current-carrying solenoid are:",
+      "o": [
+        "Circular loops",
+        "Parallel straight lines",
+        "Elliptical curves",
+        "Diverging arcs"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The direction of magnetic field produced by a straight current-carrying conductor is given by:",
+      "o": [
+        "Fleming's left-hand rule",
+        "Fleming's right-hand rule",
+        "Foucault's rule",
+        "Right-hand thumb rule"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The direction of force on a current-carrying conductor placed in a magnetic field is given by:",
+      "o": [
+        "Fleming's left-hand rule",
+        "Right-hand thumb rule",
+        "Fleming's right-hand rule",
+        "Lenz's law"
+      ],
+      "a": 0
+    },
+    {
+      "q": "An electric motor converts electrical energy into:",
+      "o": [
+        "Chemical energy",
+        "Magnetic energy",
+        "Light energy",
+        "Mechanical energy"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The frequency of alternating current (AC) supplied in India is:",
+      "o": [
+        "60 Hz",
+        "100 Hz",
+        "50 Hz",
+        "220 Hz"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The potential difference between live wire and neutral wire in domestic supply in India is:",
+      "o": [
+        "110 V",
+        "220 V",
+        "440 V",
+        "12 V"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The color insulation cover of a live wire in modern household wiring is:",
+      "o": [
+        "Red or Brown",
+        "Black or Blue",
+        "Green or Yellow",
+        "White or Grey"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The color insulation cover of a neutral wire in modern household wiring is:",
+      "o": [
+        "Red or Brown",
+        "Green or Yellow",
+        "Black or Blue",
+        "White or Grey"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The color insulation cover of an earth wire is:",
+      "o": [
+        "Green or Yellow",
+        "Red or Brown",
+        "Black or Blue",
+        "White or Grey"
+      ],
+      "a": 0
+    },
+    {
+      "q": "A safety device based on the heating effect of electric current is a:",
+      "o": [
+        "Fuse",
+        "Switch",
+        "Resistor",
+        "Transformer"
+      ],
+      "a": 0
+    },
+    {
+      "q": "At the time of short circuit, the current in the circuit:",
+      "o": [
+        "Increases heavily",
+        "Reduces heavily",
+        "Does not change",
+        "Varies continuously"
+      ],
+      "a": 0
+    },
+    {
+      "q": "A magnetic field line is used to find the direction of:",
+      "o": [
+        "Electric current",
+        "Electric charge",
+        "Gravitational force",
+        "Magnetic field"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The strength of magnetic field inside a long current-carrying solenoid is:",
+      "o": [
+        "Zero at center",
+        "Maximum at ends",
+        "Same at all points",
+        "Minimum at center"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Who discovered the magnetic effect of electric current?",
+      "o": [
+        "Hans Christian Oersted",
+        "Michael Faraday",
+        "James Clerk Maxwell",
+        "Andre-Marie Ampere"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The soft iron core placed inside a current-carrying solenoid acts as an:",
+      "o": [
+        "Permanent magnet",
+        "Insulator",
+        "Electromagnet",
+        "Ammeter"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Commercial electric motors do not use which of the following?",
+      "o": [
+        "Electromagnet",
+        "Armature core",
+        "Commutator ring",
+        "Permanent magnet"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The phenomenon of electromagnetic induction was discovered by:",
+      "o": [
+        "Michael Faraday",
+        "Oersted",
+        "Tesla",
+        "Edison"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Overloading occurs in a circuit when:",
+      "o": [
+        "Fuse wire melts",
+        "Too many appliances are connected",
+        "Switch is turned off",
+        "Earth wire breaks"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Which property of a proton can change while it moves freely in a magnetic field?",
+      "o": [
+        "Mass and charge",
+        "Charge only",
+        "Velocity and momentum",
+        "Mass only"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Magnetic field lines outside a bar magnet travel from:",
+      "o": [
+        "South pole to North pole",
+        "Center to ends",
+        "North pole to South pole",
+        "Ends to center"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The magnetic field lines inside a current-carrying solenoid are: - Set 2",
+      "o": [
+        "Parallel straight lines",
+        "Circular loops",
+        "Elliptical curves",
+        "Diverging arcs"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The direction of magnetic field produced by a straight current-carrying conductor is given by: - Set 2",
+      "o": [
+        "Fleming's left-hand rule",
+        "Fleming's right-hand rule",
+        "Foucault's rule",
+        "Right-hand thumb rule"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The direction of force on a current-carrying conductor placed in a magnetic field is given by: - Set 2",
+      "o": [
+        "Right-hand thumb rule",
+        "Fleming's left-hand rule",
+        "Fleming's right-hand rule",
+        "Lenz's law"
+      ],
+      "a": 1
+    },
+    {
+      "q": "An electric motor converts electrical energy into: - Set 2",
+      "o": [
+        "Chemical energy",
+        "Mechanical energy",
+        "Magnetic energy",
+        "Light energy"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The frequency of alternating current (AC) supplied in India is: - Set 2",
+      "o": [
+        "50 Hz",
+        "60 Hz",
+        "100 Hz",
+        "220 Hz"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The potential difference between live wire and neutral wire in domestic supply in India is: - Set 2",
+      "o": [
+        "110 V",
+        "440 V",
+        "12 V",
+        "220 V"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The color insulation cover of a live wire in modern household wiring is: - Set 2",
+      "o": [
+        "Black or Blue",
+        "Green or Yellow",
+        "White or Grey",
+        "Red or Brown"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The color insulation cover of a neutral wire in modern household wiring is: - Set 2",
+      "o": [
+        "Red or Brown",
+        "Green or Yellow",
+        "Black or Blue",
+        "White or Grey"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The color insulation cover of an earth wire is: - Set 2",
+      "o": [
+        "Red or Brown",
+        "Black or Blue",
+        "White or Grey",
+        "Green or Yellow"
+      ],
+      "a": 3
+    },
+    {
+      "q": "A safety device based on the heating effect of electric current is a: - Set 2",
+      "o": [
+        "Fuse",
+        "Switch",
+        "Resistor",
+        "Transformer"
+      ],
+      "a": 0
+    },
+    {
+      "q": "At the time of short circuit, the current in the circuit: - Set 2",
+      "o": [
+        "Reduces heavily",
+        "Increases heavily",
+        "Does not change",
+        "Varies continuously"
+      ],
+      "a": 1
+    },
+    {
+      "q": "A magnetic field line is used to find the direction of: - Set 2",
+      "o": [
+        "Electric current",
+        "Magnetic field",
+        "Electric charge",
+        "Gravitational force"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The strength of magnetic field inside a long current-carrying solenoid is: - Set 2",
+      "o": [
+        "Zero at center",
+        "Maximum at ends",
+        "Minimum at center",
+        "Same at all points"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Who discovered the magnetic effect of electric current? - Set 2",
+      "o": [
+        "Hans Christian Oersted",
+        "Michael Faraday",
+        "James Clerk Maxwell",
+        "Andre-Marie Ampere"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The soft iron core placed inside a current-carrying solenoid acts as an: - Set 2",
+      "o": [
+        "Permanent magnet",
+        "Insulator",
+        "Electromagnet",
+        "Ammeter"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Commercial electric motors do not use which of the following? - Set 2",
+      "o": [
+        "Electromagnet",
+        "Armature core",
+        "Commutator ring",
+        "Permanent magnet"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The phenomenon of electromagnetic induction was discovered by: - Set 2",
+      "o": [
+        "Oersted",
+        "Tesla",
+        "Edison",
+        "Michael Faraday"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Overloading occurs in a circuit when: - Set 2",
+      "o": [
+        "Fuse wire melts",
+        "Switch is turned off",
+        "Earth wire breaks",
+        "Too many appliances are connected"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Which property of a proton can change while it moves freely in a magnetic field? - Set 2",
+      "o": [
+        "Velocity and momentum",
+        "Mass and charge",
+        "Charge only",
+        "Mass only"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Magnetic field lines outside a bar magnet travel from: - Set 2",
+      "o": [
+        "South pole to North pole",
+        "Center to ends",
+        "North pole to South pole",
+        "Ends to center"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The magnetic field lines inside a current-carrying solenoid are: - Set 3",
+      "o": [
+        "Circular loops",
+        "Elliptical curves",
+        "Parallel straight lines",
+        "Diverging arcs"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The direction of magnetic field produced by a straight current-carrying conductor is given by: - Set 3",
+      "o": [
+        "Right-hand thumb rule",
+        "Fleming's left-hand rule",
+        "Fleming's right-hand rule",
+        "Foucault's rule"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The direction of force on a current-carrying conductor placed in a magnetic field is given by: - Set 3",
+      "o": [
+        "Right-hand thumb rule",
+        "Fleming's right-hand rule",
+        "Fleming's left-hand rule",
+        "Lenz's law"
+      ],
+      "a": 2
+    },
+    {
+      "q": "An electric motor converts electrical energy into: - Set 3",
+      "o": [
+        "Chemical energy",
+        "Mechanical energy",
+        "Magnetic energy",
+        "Light energy"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The frequency of alternating current (AC) supplied in India is: - Set 3",
+      "o": [
+        "60 Hz",
+        "100 Hz",
+        "50 Hz",
+        "220 Hz"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The potential difference between live wire and neutral wire in domestic supply in India is: - Set 3",
+      "o": [
+        "110 V",
+        "440 V",
+        "220 V",
+        "12 V"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The color insulation cover of a live wire in modern household wiring is: - Set 3",
+      "o": [
+        "Black or Blue",
+        "Red or Brown",
+        "Green or Yellow",
+        "White or Grey"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The color insulation cover of a neutral wire in modern household wiring is: - Set 3",
+      "o": [
+        "Red or Brown",
+        "Green or Yellow",
+        "Black or Blue",
+        "White or Grey"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The color insulation cover of an earth wire is: - Set 3",
+      "o": [
+        "Red or Brown",
+        "Black or Blue",
+        "White or Grey",
+        "Green or Yellow"
+      ],
+      "a": 3
+    },
+    {
+      "q": "A safety device based on the heating effect of electric current is a: - Set 3",
+      "o": [
+        "Switch",
+        "Resistor",
+        "Transformer",
+        "Fuse"
+      ],
+      "a": 3
+    },
+    {
+      "q": "At the time of short circuit, the current in the circuit: - Set 3",
+      "o": [
+        "Increases heavily",
+        "Reduces heavily",
+        "Does not change",
+        "Varies continuously"
+      ],
+      "a": 0
+    },
+    {
+      "q": "A magnetic field line is used to find the direction of: - Set 3",
+      "o": [
+        "Electric current",
+        "Electric charge",
+        "Magnetic field",
+        "Gravitational force"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The strength of magnetic field inside a long current-carrying solenoid is: - Set 3",
+      "o": [
+        "Zero at center",
+        "Maximum at ends",
+        "Minimum at center",
+        "Same at all points"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Who discovered the magnetic effect of electric current? - Set 3",
+      "o": [
+        "Hans Christian Oersted",
+        "Michael Faraday",
+        "James Clerk Maxwell",
+        "Andre-Marie Ampere"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The soft iron core placed inside a current-carrying solenoid acts as an: - Set 3",
+      "o": [
+        "Permanent magnet",
+        "Electromagnet",
+        "Insulator",
+        "Ammeter"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Commercial electric motors do not use which of the following? - Set 3",
+      "o": [
+        "Electromagnet",
+        "Armature core",
+        "Commutator ring",
+        "Permanent magnet"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The phenomenon of electromagnetic induction was discovered by: - Set 3",
+      "o": [
+        "Oersted",
+        "Michael Faraday",
+        "Tesla",
+        "Edison"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Overloading occurs in a circuit when: - Set 3",
+      "o": [
+        "Fuse wire melts",
+        "Switch is turned off",
+        "Earth wire breaks",
+        "Too many appliances are connected"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Which property of a proton can change while it moves freely in a magnetic field? - Set 3",
+      "o": [
+        "Mass and charge",
+        "Charge only",
+        "Velocity and momentum",
+        "Mass only"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Magnetic field lines outside a bar magnet travel from: - Set 3",
+      "o": [
+        "North pole to South pole",
+        "South pole to North pole",
+        "Center to ends",
+        "Ends to center"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The magnetic field lines inside a current-carrying solenoid are: - Set 4",
+      "o": [
+        "Circular loops",
+        "Parallel straight lines",
+        "Elliptical curves",
+        "Diverging arcs"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The direction of magnetic field produced by a straight current-carrying conductor is given by: - Set 4",
+      "o": [
+        "Fleming's left-hand rule",
+        "Fleming's right-hand rule",
+        "Foucault's rule",
+        "Right-hand thumb rule"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The direction of force on a current-carrying conductor placed in a magnetic field is given by: - Set 4",
+      "o": [
+        "Fleming's left-hand rule",
+        "Right-hand thumb rule",
+        "Fleming's right-hand rule",
+        "Lenz's law"
+      ],
+      "a": 0
+    },
+    {
+      "q": "An electric motor converts electrical energy into: - Set 4",
+      "o": [
+        "Mechanical energy",
+        "Chemical energy",
+        "Magnetic energy",
+        "Light energy"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The frequency of alternating current (AC) supplied in India is: - Set 4",
+      "o": [
+        "60 Hz",
+        "100 Hz",
+        "50 Hz",
+        "220 Hz"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The potential difference between live wire and neutral wire in domestic supply in India is: - Set 4",
+      "o": [
+        "110 V",
+        "440 V",
+        "12 V",
+        "220 V"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The color insulation cover of a live wire in modern household wiring is: - Set 4",
+      "o": [
+        "Black or Blue",
+        "Red or Brown",
+        "Green or Yellow",
+        "White or Grey"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The color insulation cover of a neutral wire in modern household wiring is: - Set 4",
+      "o": [
+        "Red or Brown",
+        "Green or Yellow",
+        "Black or Blue",
+        "White or Grey"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The color insulation cover of an earth wire is: - Set 4",
+      "o": [
+        "Red or Brown",
+        "Black or Blue",
+        "Green or Yellow",
+        "White or Grey"
+      ],
+      "a": 2
+    },
+    {
+      "q": "A safety device based on the heating effect of electric current is a: - Set 4",
+      "o": [
+        "Switch",
+        "Fuse",
+        "Resistor",
+        "Transformer"
+      ],
+      "a": 1
+    },
+    {
+      "q": "At the time of short circuit, the current in the circuit: - Set 4",
+      "o": [
+        "Reduces heavily",
+        "Does not change",
+        "Varies continuously",
+        "Increases heavily"
+      ],
+      "a": 3
+    },
+    {
+      "q": "A magnetic field line is used to find the direction of: - Set 4",
+      "o": [
+        "Electric current",
+        "Electric charge",
+        "Magnetic field",
+        "Gravitational force"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The strength of magnetic field inside a long current-carrying solenoid is: - Set 4",
+      "o": [
+        "Zero at center",
+        "Same at all points",
+        "Maximum at ends",
+        "Minimum at center"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Who discovered the magnetic effect of electric current? - Set 4",
+      "o": [
+        "Michael Faraday",
+        "James Clerk Maxwell",
+        "Hans Christian Oersted",
+        "Andre-Marie Ampere"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The soft iron core placed inside a current-carrying solenoid acts as an: - Set 4",
+      "o": [
+        "Permanent magnet",
+        "Insulator",
+        "Electromagnet",
+        "Ammeter"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Commercial electric motors do not use which of the following? - Set 4",
+      "o": [
+        "Electromagnet",
+        "Permanent magnet",
+        "Armature core",
+        "Commutator ring"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The phenomenon of electromagnetic induction was discovered by: - Set 4",
+      "o": [
+        "Oersted",
+        "Tesla",
+        "Edison",
+        "Michael Faraday"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Overloading occurs in a circuit when: - Set 4",
+      "o": [
+        "Too many appliances are connected",
+        "Fuse wire melts",
+        "Switch is turned off",
+        "Earth wire breaks"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Which property of a proton can change while it moves freely in a magnetic field? - Set 4",
+      "o": [
+        "Mass and charge",
+        "Charge only",
+        "Velocity and momentum",
+        "Mass only"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Magnetic field lines outside a bar magnet travel from: - Set 4",
+      "o": [
+        "South pole to North pole",
+        "Center to ends",
+        "North pole to South pole",
+        "Ends to center"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The magnetic field lines inside a current-carrying solenoid are: - Set 5",
+      "o": [
+        "Parallel straight lines",
+        "Circular loops",
+        "Elliptical curves",
+        "Diverging arcs"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The direction of magnetic field produced by a straight current-carrying conductor is given by: - Set 5",
+      "o": [
+        "Fleming's left-hand rule",
+        "Right-hand thumb rule",
+        "Fleming's right-hand rule",
+        "Foucault's rule"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The direction of force on a current-carrying conductor placed in a magnetic field is given by: - Set 5",
+      "o": [
+        "Fleming's left-hand rule",
+        "Right-hand thumb rule",
+        "Fleming's right-hand rule",
+        "Lenz's law"
+      ],
+      "a": 0
+    },
+    {
+      "q": "An electric motor converts electrical energy into: - Set 5",
+      "o": [
+        "Chemical energy",
+        "Mechanical energy",
+        "Magnetic energy",
+        "Light energy"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The frequency of alternating current (AC) supplied in India is: - Set 5",
+      "o": [
+        "60 Hz",
+        "50 Hz",
+        "100 Hz",
+        "220 Hz"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The potential difference between live wire and neutral wire in domestic supply in India is: - Set 5",
+      "o": [
+        "110 V",
+        "220 V",
+        "440 V",
+        "12 V"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The color insulation cover of a live wire in modern household wiring is: - Set 5",
+      "o": [
+        "Black or Blue",
+        "Green or Yellow",
+        "Red or Brown",
+        "White or Grey"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The color insulation cover of a neutral wire in modern household wiring is: - Set 5",
+      "o": [
+        "Red or Brown",
+        "Black or Blue",
+        "Green or Yellow",
+        "White or Grey"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The color insulation cover of an earth wire is: - Set 5",
+      "o": [
+        "Green or Yellow",
+        "Red or Brown",
+        "Black or Blue",
+        "White or Grey"
+      ],
+      "a": 0
+    },
+    {
+      "q": "A safety device based on the heating effect of electric current is a: - Set 5",
+      "o": [
+        "Switch",
+        "Fuse",
+        "Resistor",
+        "Transformer"
+      ],
+      "a": 1
+    },
+    {
+      "q": "At the time of short circuit, the current in the circuit: - Set 5",
+      "o": [
+        "Increases heavily",
+        "Reduces heavily",
+        "Does not change",
+        "Varies continuously"
+      ],
+      "a": 0
+    },
+    {
+      "q": "A magnetic field line is used to find the direction of: - Set 5",
+      "o": [
+        "Electric current",
+        "Magnetic field",
+        "Electric charge",
+        "Gravitational force"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The strength of magnetic field inside a long current-carrying solenoid is: - Set 5",
+      "o": [
+        "Zero at center",
+        "Maximum at ends",
+        "Minimum at center",
+        "Same at all points"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Who discovered the magnetic effect of electric current? - Set 5",
+      "o": [
+        "Michael Faraday",
+        "James Clerk Maxwell",
+        "Andre-Marie Ampere",
+        "Hans Christian Oersted"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The soft iron core placed inside a current-carrying solenoid acts as an: - Set 5",
+      "o": [
+        "Permanent magnet",
+        "Electromagnet",
+        "Insulator",
+        "Ammeter"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Commercial electric motors do not use which of the following? - Set 5",
+      "o": [
+        "Permanent magnet",
+        "Electromagnet",
+        "Armature core",
+        "Commutator ring"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The phenomenon of electromagnetic induction was discovered by: - Set 5",
+      "o": [
+        "Oersted",
+        "Tesla",
+        "Edison",
+        "Michael Faraday"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Overloading occurs in a circuit when: - Set 5",
+      "o": [
+        "Fuse wire melts",
+        "Switch is turned off",
+        "Earth wire breaks",
+        "Too many appliances are connected"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Which property of a proton can change while it moves freely in a magnetic field? - Set 5",
+      "o": [
+        "Velocity and momentum",
+        "Mass and charge",
+        "Charge only",
+        "Mass only"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Magnetic field lines outside a bar magnet travel from: - Set 5",
+      "o": [
+        "South pole to North pole",
+        "North pole to South pole",
+        "Center to ends",
+        "Ends to center"
+      ],
+      "a": 1
+    }
+  ]
+}

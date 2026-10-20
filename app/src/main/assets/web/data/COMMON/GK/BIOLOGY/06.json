@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "पादप कार्यिकी / Plant Physiology",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Plant Physiology.",
+  "questions": [
+    {
+      "q": {
+        "hi": "प्रकाश संश्लेषण (Photosynthesis) का सही संतुलित रासायनिक समीकरण क्या है?",
+        "en": "Which is the correct balanced equation for oxygenic photosynthesis?"
+      },
+      "o": [
+        {
+          "hi": "6CO2 + 12H2O -> C6H12O6 + 6O2 + 6H2O",
+          "en": "6CO2 + 12H2O -> C6H12O6 + 6O2 + 6H2O"
+        },
+        {
+          "hi": "6CO2 + 6H2O -> C6H12O6 + 6CO2",
+          "en": "6CO2 + 6H2O -> C6H12O6 + 6CO2"
+        },
+        {
+          "hi": "C6H12O6 + 6O2 -> 6CO2 + 6H2O",
+          "en": "C6H12O6 + 6O2 -> 6CO2 + 6H2O"
+        },
+        {
+          "hi": "6CO2 + 12H2O -> 6C + 6O2 + 12H2O",
+          "en": "6CO2 + 12H2O -> 6C + 6O2 + 12H2O"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रकाश संश्लेषण में मुक्त होने वाली ऑक्सीजन गैस (O2) का स्रोत क्या है?",
+        "en": "Oxygen liberated during photosynthesis originates from the photolysis of?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन डाइऑक्साइड (CO2)",
+          "en": "Carbon dioxide (CO2)"
+        },
+        {
+          "hi": "जल (H2O)",
+          "en": "Water (H2O)"
+        },
+        {
+          "hi": "क्लोरोफिल",
+          "en": "Chlorophyll"
+        },
+        {
+          "hi": "ग्लूकोज",
+          "en": "Glucose"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रकाश संश्लेषण की प्रकाशिक अभिक्रिया (Light Reaction) हरितलवक के किस भाग में होती है?",
+        "en": "Where does the light-dependent reaction of photosynthesis take place in chloroplast?"
+      },
+      "o": [
+        {
+          "hi": "स्ट्रोमा में",
+          "en": "In Stroma"
+        },
+        {
+          "hi": "बाहरी झिल्ली में",
+          "en": "In Outer membrane"
+        },
+        {
+          "hi": "थाइलेकोइड / ग्रैना में (Thylakoids / Grana)",
+          "en": "Thylakoids / Grana"
+        },
+        {
+          "hi": "राइबोसोम में",
+          "en": "In Ribosomes"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रकाशिक अभिक्रिया (Light Reaction) को किस वैज्ञानिक के सम्मान में 'हिल अभिक्रिया' कहते हैं?",
+        "en": "Light reaction of photosynthesis is also known as Hill Reaction after?"
+      },
+      "o": [
+        {
+          "hi": "मेल्विन केल्विन",
+          "en": "Melvin Calvin"
+        },
+        {
+          "hi": "ब्लैकमैन",
+          "en": "Blackman"
+        },
+        {
+          "hi": "हैच और स्लेक",
+          "en": "Hatch and Slack"
+        },
+        {
+          "hi": "रॉबर्ट हिल (Robert Hill)",
+          "en": "Robert Hill"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रकाशिक अभिक्रिया के मुख्य अंतिम उत्पाद कौन से हैं जो अप्रकाशिक अभिक्रिया में प्रयुक्त होते हैं?",
+        "en": "What are the energy-rich assimilatory products formed during light reaction?"
+      },
+      "o": [
+        {
+          "hi": "ATP और NADPH",
+          "en": "ATP and NADPH"
+        },
+        {
+          "hi": "केवल ग्लूकोज",
+          "en": "Only Glucose"
+        },
+        {
+          "hi": "ADP और NADP",
+          "en": "ADP and NADP"
+        },
+        {
+          "hi": "केवल पाइरुविक एसिड",
+          "en": "Only Pyruvic acid"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रकाश संश्लेषण की अप्रकाशिक अभिक्रिया (Dark Reaction / C3 चक्र) कहाँ होती है?",
+        "en": "Where does the Calvin cycle (Dark Reaction) occur inside the chloroplast?"
+      },
+      "o": [
+        {
+          "hi": "ग्रैनम में",
+          "en": "In Granum"
+        },
+        {
+          "hi": "स्ट्रोमा में (Stroma)",
+          "en": "Stroma"
+        },
+        {
+          "hi": "थाइलेकोइड झिल्ली पर",
+          "en": "On Thylakoid membrane"
+        },
+        {
+          "hi": "माइटोकॉन्ड्रिया में",
+          "en": "In Mitochondria"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "C3 पौधों में CO2 स्थिरीकरण करने वाला मुख्य एंजाइम कौन सा है?",
+        "en": "Which enzyme catalyzes the primary CO2 fixation in C3 plants?"
+      },
+      "o": [
+        {
+          "hi": "पेपकेस (PEPcase)",
+          "en": "PEPcase"
+        },
+        {
+          "hi": "एमाइलेज",
+          "en": "Amylase"
+        },
+        {
+          "hi": "रूबिस्को (RuBisCO)",
+          "en": "RuBisCO"
+        },
+        {
+          "hi": "नाइट्रोजिनेस",
+          "en": "Nitrogenase"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "C3 चक्र (Calvin Cycle) में CO2 का प्राथमिक ग्राही (Primary Acceptor) अणु कौन सा है?",
+        "en": "Which 5-carbon sugar acts as the primary CO2 acceptor in C3 cycle?"
+      },
+      "o": [
+        {
+          "hi": "पीईपी (PEP)",
+          "en": "PEP"
+        },
+        {
+          "hi": "ऑक्जेलोएसिटिक एसिड",
+          "en": "Oxaloacetic acid"
+        },
+        {
+          "hi": "पीजीए",
+          "en": "PGA"
+        },
+        {
+          "hi": "आरयूबीपी (RuBP - Ribulose 1,5-bisphosphate)",
+          "en": "RuBP (Ribulose 1,5-bisphosphate)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "C3 चक्र में बनने वाला प्रथम स्थायी उत्पाद (First Stable Compound) कौन सा है?",
+        "en": "Which 3-carbon compound is the first stable product in Calvin cycle?"
+      },
+      "o": [
+        {
+          "hi": "3-फॉस्फोग्लिसरिक अम्ल (3-PGA)",
+          "en": "3-Phosphoglyceric acid (3-PGA)"
+        },
+        {
+          "hi": "ऑक्जेलोएसिटिक एसिड",
+          "en": "Oxaloacetic acid"
+        },
+        {
+          "hi": "मैलिक एसिड",
+          "en": "Malic acid"
+        },
+        {
+          "hi": "ग्लूकोज",
+          "en": "Glucose"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "C4 पौधों की पत्तियों की विशिष्ट शारीरिक रचना को क्या कहा जाता है?",
+        "en": "The characteristic internal leaf anatomy present in C4 plants is termed as?"
+      },
+      "o": [
+        {
+          "hi": "आइसोबायलेटरल रचना",
+          "en": "Isobilateral structure"
+        },
+        {
+          "hi": "क्रैंज शारीरिकी (Kranz Anatomy)",
+          "en": "Kranz Anatomy"
+        },
+        {
+          "hi": "डॉर्सीवेंट्रल रचना",
+          "en": "Dorsiventral structure"
+        },
+        {
+          "hi": "पेरिडर्म शारीरिकी",
+          "en": "Periderm anatomy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "C4 पौधों में CO2 का प्राथमिक ग्राही अणु कौन सा होता है?",
+        "en": "In C4 plants, primary CO2 fixation in mesophyll cells is accepted by?"
+      },
+      "o": [
+        {
+          "hi": "RuBP",
+          "en": "RuBP"
+        },
+        {
+          "hi": "PGA",
+          "en": "PGA"
+        },
+        {
+          "hi": "फास्फोएनोलपाइरुवेट (PEP)",
+          "en": "Phosphoenolpyruvate (PEP)"
+        },
+        {
+          "hi": "साइट्रिक एसिड",
+          "en": "Citric acid"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "C4 पौधों की मध्योतक (Mesophyll) कोशिकाओं में CO2 स्थिरीकरण करने वाला एंजाइम?",
+        "en": "Which enzyme fixes CO2 in mesophyll cells of C4 plants?"
+      },
+      "o": [
+        {
+          "hi": "रूबिस्को",
+          "en": "RuBisCO"
+        },
+        {
+          "hi": "पाइरुवेट डिहाइड्रोजीनेज",
+          "en": "Pyruvate dehydrogenase"
+        },
+        {
+          "hi": "ऐटीपेज",
+          "en": "ATPase"
+        },
+        {
+          "hi": "पेप कार्बोक्सिलेस (PEPcase)",
+          "en": "PEP Carboxylase (PEPcase)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "C4 पथ (Hatch-Slack Pathway) में बनने वाला प्रथम 4-कार्बन वाला स्थायी उत्पाद?",
+        "en": "Which 4-carbon organic acid is the first stable product in C4 pathway?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्जेलोएसिटिक अम्ल (OAA)",
+          "en": "Oxaloacetic acid (OAA)"
+        },
+        {
+          "hi": "3-PGA",
+          "en": "3-PGA"
+        },
+        {
+          "hi": "साइट्रिक एसिड",
+          "en": "Citric acid"
+        },
+        {
+          "hi": "सक्सिनिक एसिड",
+          "en": "Succinic acid"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से C4 पौधों का प्रमुख उदाहरण कौन सा है?",
+        "en": "Which of the following represents a classic example of a C4 plant?"
+      },
+      "o": [
+        {
+          "hi": "गेहूं, धान और मटर",
+          "en": "Wheat, Rice & Pea"
+        },
+        {
+          "hi": "मक्का, गन्ना और ज्वार",
+          "en": "Maize, Sugarcane, and Sorghum"
+        },
+        {
+          "hi": "आम, बरगद और नीम",
+          "en": "Mango, Banyan & Neem"
+        },
+        {
+          "hi": "आलू, टमाटर और सरसों",
+          "en": "Potato, Tomato & Mustard"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मांसल मरुद्भिद (CAM) पौधों में रंध्र (Stomata) किस समय खुलते हैं?",
+        "en": "In Crassulacean Acid Metabolism (CAM) succulent plants, stomata open during?"
+      },
+      "o": [
+        {
+          "hi": "दिन के समय",
+          "en": "During daytime"
+        },
+        {
+          "hi": "केवल दोपहर में",
+          "en": "Only at noon"
+        },
+        {
+          "hi": "रात्रि के समय (At Night)",
+          "en": "At Night"
+        },
+        {
+          "hi": "कभी नहीं खुलते",
+          "en": "Never open"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रकाश संश्लेषण का प्राथमिक प्रकाश-ग्राही वर्णक (Primary Pigment) कौन सा है?",
+        "en": "Which pigment acts as the reaction center in primary photosynthetic reaction?"
+      },
+      "o": [
+        {
+          "hi": "क्लोरोफिल-b",
+          "en": "Chlorophyll b"
+        },
+        {
+          "hi": "कैरोटीन",
+          "en": "Carotene"
+        },
+        {
+          "hi": "जैंथोफिल",
+          "en": "Xanthophyll"
+        },
+        {
+          "hi": "क्लोरोफिल-a (Chlorophyll a)",
+          "en": "Chlorophyll a"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दृश्य प्रकाश (Visible Spectrum) के किन दो रंगों में प्रकाश संश्लेषण की दर सर्वाधिक होती है?",
+        "en": "Which two spectral colors of visible light drive maximum photosynthesis?"
+      },
+      "o": [
+        {
+          "hi": "नीला और लाल प्रकाश (Blue and Red Light)",
+          "en": "Blue and Red Light"
+        },
+        {
+          "hi": "हरा और पीला प्रकाश",
+          "en": "Green and Yellow light"
+        },
+        {
+          "hi": "बैंगनी और नारंगी प्रकाश",
+          "en": "Violet and Orange light"
+        },
+        {
+          "hi": "केवल हरा प्रकाश",
+          "en": "Only Green light"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शीर्षस्थ प्रभाविता (Apical Dominance) और कोशिका प्रवर्धन को बढ़ावा देने वाला पादप हार्मोन?",
+        "en": "Which phytohormone promotes apical dominance and cell elongation in shoots?"
+      },
+      "o": [
+        {
+          "hi": "जिबरेलिन",
+          "en": "Gibberellin"
+        },
+        {
+          "hi": "ऑक्सिन (Auxin / IAA)",
+          "en": "Auxin (IAA)"
+        },
+        {
+          "hi": "साइटोकाइनिन",
+          "en": "Cytokinin"
+        },
+        {
+          "hi": "एब्सेसिक एसिड",
+          "en": "Abscisic Acid"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जई के प्रांकुर चोल (Oat Coleoptile) से ऑक्सिन हार्मोन की खोज किसने की थी?",
+        "en": "Who isolated the natural auxin Indole-3-acetic acid (IAA) from oat coleoptile tips?"
+      },
+      "o": [
+        {
+          "hi": "ई. कुरुसावा",
+          "en": "E. Kurosawa"
+        },
+        {
+          "hi": "स्कूग",
+          "en": "Skoog"
+        },
+        {
+          "hi": "एफ. डब्ल्यू. वेंट (F.W. Went)",
+          "en": "F.W. Went"
+        },
+        {
+          "hi": "एडिकॉट",
+          "en": "Addicott"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तने की लंबाई में तीव वृद्धि (Bolting) और बीज अंकुरण को प्रेरित करने वाला हार्मोन?",
+        "en": "Which hormone induces internodal stem elongation and bolting in rosette plants?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सिन",
+          "en": "Auxin"
+        },
+        {
+          "hi": "इथिलीन",
+          "en": "Ethylene"
+        },
+        {
+          "hi": "एब्सेसिक एसिड",
+          "en": "Abscisic Acid"
+        },
+        {
+          "hi": "जिबरेलिन (Gibberellins / GA3)",
+          "en": "Gibberellins (GA3)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कोशिका विभाजन (Cytokinesis) को तीव्र गति से प्रेरित करने वाला पादप हार्मोन?",
+        "en": "Which phytohormone primarily stimulates rapid cell division (Cytokinesis)?"
+      },
+      "o": [
+        {
+          "hi": "साइटोकाइनिन (Cytokinin / Zeatin)",
+          "en": "Cytokinin (Zeatin)"
+        },
+        {
+          "hi": "ऑक्सिन",
+          "en": "Auxin"
+        },
+        {
+          "hi": "जिबरेलिन",
+          "en": "Gibberellin"
+        },
+        {
+          "hi": "एब्सेसिक एसिड",
+          "en": "Abscisic Acid"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "साइटोकाइनिन द्वारा पत्तियों के बुढ़ापे (Senescence) को रोकने की क्रिया कहलाती है?",
+        "en": "Delay of leaf senescence by cytokinin application is known as?"
+      },
+      "o": [
+        {
+          "hi": "पाश्चर प्रभाव",
+          "en": "Pasteur Effect"
+        },
+        {
+          "hi": "रिचमंड-लैंग प्रभाव (Richmond-Lang Effect)",
+          "en": "Richmond-Lang Effect"
+        },
+        {
+          "hi": "इमर्सन प्रभाव",
+          "en": "Emerson Effect"
+        },
+        {
+          "hi": "हिल प्रभाव",
+          "en": "Hill Effect"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फलों को प्राकृतिक रूप से पकाने वाला एकमात्र गैसीय पादप हार्मोन कौन सा है?",
+        "en": "Which is the only naturally occurring gaseous hormone regulating fruit ripening?"
+      },
+      "o": [
+        {
+          "hi": "एसिटिलीन",
+          "en": "Acetylene"
+        },
+        {
+          "hi": "मिथेन",
+          "en": "Methane"
+        },
+        {
+          "hi": "इथिलीन (Ethylene / C2H4)",
+          "en": "Ethylene (C2H4)"
+        },
+        {
+          "hi": "ऑक्सिन",
+          "en": "Auxin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "फसलों और फलों को कृत्रिम रूप से पकाने के लिए व्यावसायिक रूप से प्रयुक्त रसायन?",
+        "en": "Commercially sprayed chemical aqueous solution that releases ethylene in plants is?"
+      },
+      "o": [
+        {
+          "hi": "2,4-D",
+          "en": "2,4-D"
+        },
+        {
+          "hi": "नेफ्थलीन एसिटिक एसिड",
+          "en": "Naphthalene acetic acid"
+        },
+        {
+          "hi": "बीएचसी",
+          "en": "BHC"
+        },
+        {
+          "hi": "इथेफॉन (Ethephon)",
+          "en": "Ethephon"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पौधों में तनाव स्थिति में रंध्रों को बंद करने वाला 'स्ट्रेस हार्मोन' (Stress Hormone)?",
+        "en": "Which growth inhibitor acts as a 'Stress Hormone' closing stomata during drought?"
+      },
+      "o": [
+        {
+          "hi": "एब्सेसिक अम्ल (Abscisic Acid / ABA)",
+          "en": "Abscisic Acid (ABA)"
+        },
+        {
+          "hi": "ऑक्सिन",
+          "en": "Auxin"
+        },
+        {
+          "hi": "जिबरेलिन",
+          "en": "Gibberellin"
+        },
+        {
+          "hi": "साइटोकाइनिन",
+          "en": "Cytokinin"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पौधों के वायवीय भागों से जल का वाष्प के रूप में उड़ना क्या कहलाता है?",
+        "en": "Loss of water in the form of vapor from aerial parts of plants is termed as?"
+      },
+      "o": [
+        {
+          "hi": "बिंदुस्राव",
+          "en": "Guttation"
+        },
+        {
+          "hi": "वाष्पोत्सर्जन (Transpiration)",
+          "en": "Transpiration"
+        },
+        {
+          "hi": "अन्तःचूषण",
+          "en": "Imbibition"
+        },
+        {
+          "hi": "श्वसन",
+          "en": "Respiration"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रसों के आरोहण (Ascent of Sap) हेतु 'संसंजन-तनाव सिद्धांत' किसने दिया था?",
+        "en": "Who proposed the Cohesion-Tension Theory for ascent of sap in tall trees?"
+      },
+      "o": [
+        {
+          "hi": "जे. सी. बोस",
+          "en": "J.C. Bose"
+        },
+        {
+          "hi": "स्टीफन हेल्स",
+          "en": "Stephen Hales"
+        },
+        {
+          "hi": "डिक्सन एवं जॉली (Dixon and Joly)",
+          "en": "Dixon and Joly"
+        },
+        {
+          "hi": "गॉडलेवस्की",
+          "en": "Godlewski"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वाष्पोत्सर्जन की दर (Rate of Transpiration) मापने वाला उपकरण कौन सा है?",
+        "en": "Which laboratory instrument is used to measure the rate of transpiration?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सेनोमीटर",
+          "en": "Auxanometer"
+        },
+        {
+          "hi": "ऑक्सोग्राफ",
+          "en": "Auxograph"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "गैनोंग का पोटोमीटर (Ganong's Potometer)",
+          "en": "Ganong's Potometer"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रंध्रों के खुलने एवं बंद होने की क्रिया का सर्वमान्य 'K+ आयन स्थानांतरण सिद्धांत' किसने दिया?",
+        "en": "Who proposed the Active K+ Ion Exchange Theory of stomatal movement?"
+      },
+      "o": [
+        {
+          "hi": "लेविट (Levitt)",
+          "en": "Levitt"
+        },
+        {
+          "hi": "स्टीफन हेल्स",
+          "en": "Stephen Hales"
+        },
+        {
+          "hi": "डिक्सन",
+          "en": "Dixon"
+        },
+        {
+          "hi": "सैक्स",
+          "en": "Sachs"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रातःकाल पत्तियों के किनारों पर स्थित जल-रंध्रों (Hydathodes) से बूंदों के रूप में जल निकलना?",
+        "en": "Exudation of liquid drops from hydathodes at leaf margins early morning is?"
+      },
+      "o": [
+        {
+          "hi": "वाष्पोत्सर्जन",
+          "en": "Transpiration"
+        },
+        {
+          "hi": "बिंदुस्राव (गटेशन / Guttation)",
+          "en": "Guttation"
+        },
+        {
+          "hi": "रिसन",
+          "en": "Seepage"
+        },
+        {
+          "hi": "रसारोहण",
+          "en": "Ascent of sap"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बिंदुस्राव (Guttation) की क्रिया किस धनात्मक दाब के कारण होती है?",
+        "en": "Which positive hydrostatic pressure in roots drives guttation process?"
+      },
+      "o": [
+        {
+          "hi": "स्फीति दाब",
+          "en": "Turgor Pressure"
+        },
+        {
+          "hi": "भित्ति दाब",
+          "en": "Wall Pressure"
+        },
+        {
+          "hi": "मूल दाब (मूल दाब / Root Pressure)",
+          "en": "Root Pressure"
+        },
+        {
+          "hi": "परासरण दाब",
+          "en": "Osmotic Pressure"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कोशिकीय श्वसन का प्रथम चरण 'ग्लाइकोलिसिस' (EMP Pathway) में ग्लूकोज से क्या बनता है?",
+        "en": "What is the end 3-carbon product formed from glucose breakdown in Glycolysis?"
+      },
+      "o": [
+        {
+          "hi": "2 अणु लैक्टिक एसिड",
+          "en": "2 molecules of Lactic acid"
+        },
+        {
+          "hi": "इथाइल अल्कोहल",
+          "en": "Ethyl alcohol"
+        },
+        {
+          "hi": "2 अणु एसिटाइल CoA",
+          "en": "2 molecules of Acetyl-CoA"
+        },
+        {
+          "hi": "2 अणु पाइरुविक अम्ल (Pyruvic acid)",
+          "en": "2 molecules of Pyruvic acid"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ग्लाइकोलिसिस में एक अणु ग्लूकोज के विखंडन से शुद्ध (Net gain) कितने ATP प्राप्त होते हैं?",
+        "en": "What is the net ATP yield directly produced in Glycolysis pathway?"
+      },
+      "o": [
+        {
+          "hi": "2 ATP अणु",
+          "en": "2 ATP molecules"
+        },
+        {
+          "hi": "8 ATP अणु",
+          "en": "8 ATP molecules"
+        },
+        {
+          "hi": "36 ATP अणु",
+          "en": "36 ATP molecules"
+        },
+        {
+          "hi": "38 ATP अणु",
+          "en": "38 ATP molecules"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कार्बोहाइड्रेट का श्वसन गुणांक (Respiratory Quotient - RQ) कितना होता है?",
+        "en": "What is the Respiratory Quotient (RQ) value during respiration of Carbohydrates?"
+      },
+      "o": [
+        {
+          "hi": "0.7 (इकाई से कम)",
+          "en": "0.7 (Less than unity)"
+        },
+        {
+          "hi": "1.0 (इकाई के बराबर)",
+          "en": "1.0 (Unity)"
+        },
+        {
+          "hi": "0.9",
+          "en": "0.9"
+        },
+        {
+          "hi": "अनंत (Infinite)",
+          "en": "Infinite"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वसा (Fats / Lipids) का श्वसन गुणांक (RQ) मान कितना होता है?",
+        "en": "What is the Respiratory Quotient (RQ) value when fats are oxidized in respiration?"
+      },
+      "o": [
+        {
+          "hi": "1.0",
+          "en": "1.0"
+        },
+        {
+          "hi": "1.3",
+          "en": "1.3"
+        },
+        {
+          "hi": "लगभग 0.7 (इकाई से कम)",
+          "en": "Around 0.7 (Less than unity)"
+        },
+        {
+          "hi": "जीरो",
+          "en": "Zero"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सूखे बीजों का पानी में भिगोने पर फूल जाना किस भौतिक प्रक्रिया (Imbibition) का परिणाम है?",
+        "en": "Swelling of dry seeds placed in water is due to which physical absorption process?"
+      },
+      "o": [
+        {
+          "hi": "परासरण",
+          "en": "Osmosis"
+        },
+        {
+          "hi": "विसरण",
+          "en": "Diffusion"
+        },
+        {
+          "hi": "जीवद्रव्यकुंचन",
+          "en": "Plasmolysis"
+        },
+        {
+          "hi": "अन्तःचूषण (Imbibition)",
+          "en": "Imbibition"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "फ्लोएम में कार्बनिक खाद्य पदार्थों के स्थानांतरण का 'सामूहिक प्रवाह सिद्धांत' किसने दिया?",
+        "en": "Who proposed the Mass Flow / Pressure Flow Hypothesis for phloem transport?"
+      },
+      "o": [
+        {
+          "hi": "अर्न्स्ट मंच (Ernst Münch)",
+          "en": "Ernst Münch"
+        },
+        {
+          "hi": "स्टीफन हेल्स",
+          "en": "Stephen Hales"
+        },
+        {
+          "hi": "डिक्सन",
+          "en": "Dixon"
+        },
+        {
+          "hi": "गैनोंग",
+          "en": "Ganong"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उच्च पादपों के सामान्य वृद्धि एवं विकास के लिए कितने अनिवार्य खनिज तत्व (Essential Elements) आवश्यक हैं?",
+        "en": "How many mineral elements are categorized as essential for higher plant growth?"
+      },
+      "o": [
+        {
+          "hi": "10 तत्व",
+          "en": "10 Elements"
+        },
+        {
+          "hi": "17 अनिवार्य तत्व",
+          "en": "17 Essential Elements"
+        },
+        {
+          "hi": "20 तत्व",
+          "en": "20 Elements"
+        },
+        {
+          "hi": "30 तत्व",
+          "en": "30 Elements"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जैविक नाइट्रोजन स्थिरीकरण करने वाले 'नाइट्रोजिनेस' एंजाइम का मुख्य घटक कौन सा खनिज है?",
+        "en": "Which metallic trace element is an integral core component of Nitrogenase enzyme?"
+      },
+      "o": [
+        {
+          "hi": "जस्ता और कॉपर",
+          "en": "Zinc & Copper"
+        },
+        {
+          "hi": "कैल्शियम और मैग्नीशियम",
+          "en": "Calcium & Magnesium"
+        },
+        {
+          "hi": "मोलिब्डेनम (Mo) और आयरन (Fe)",
+          "en": "Molybdenum (Mo) and Iron (Fe)"
+        },
+        {
+          "hi": "बोरोन और मैंगनीज",
+          "en": "Boron & Manganese"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दलहनी (Leguminous) फसलों की जड़ों की ग्रंथियों में सहजीवी नाइट्रोजन स्थिरीकरण करने वाला जीवाणु?",
+        "en": "Which symbiotic bacteria live in root nodules of leguminous plants fixing N2?"
+      },
+      "o": [
+        {
+          "hi": "एजोटोबैक्टर",
+          "en": "Azotobacter"
+        },
+        {
+          "hi": "क्लॉस्ट्रिडियम",
+          "en": "Clostridium"
+        },
+        {
+          "hi": "नाइट्रोसोमोनास",
+          "en": "Nitrosomonas"
+        },
+        {
+          "hi": "राइजोबियम (Rhizobium)",
+          "en": "Rhizobium"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मृदा मुक्त घोल में पौधों को उगाने की तकनीक (Soilless Cultivation) क्या कहलाती है?",
+        "en": "Technique of growing plants in soil-free nutrient solution is known as?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोपोनिक्स (Hydroponics)",
+          "en": "Hydroponics"
+        },
+        {
+          "hi": "एयरोपोनिक्स",
+          "en": "Aeroponics"
+        },
+        {
+          "hi": "एक्वापोनिक्स",
+          "en": "Aquaponics"
+        },
+        {
+          "hi": "टिश्यू कल्चर",
+          "en": "Tissue culture"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रकाश की दिशा में तने के झुकने की गति (Light response) क्या कहलाती है?",
+        "en": "Directional growth movement of plant shoots towards light stimulus is called?"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्वानुवर्तन",
+          "en": "Geotropism"
+        },
+        {
+          "hi": "प्रकाशानुवर्तन (Phototropism)",
+          "en": "Phototropism"
+        },
+        {
+          "hi": "जलानावर्तन",
+          "en": "Hydrotropism"
+        },
+        {
+          "hi": "कंपनाकुंचन",
+          "en": "Seismonasty"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "छुई-मुई (Mimosa pudica) की पत्तियों को छूने पर उनका बंद होना किस प्रकार की गति है?",
+        "en": "Drooping of Mimosa pudica leaves upon mechanical touch is which non-directional movement?"
+      },
+      "o": [
+        {
+          "hi": "प्रकाशानुवर्तन",
+          "en": "Phototropism"
+        },
+        {
+          "hi": "स्पर्शानुवर्तन",
+          "en": "Thigmotropism"
+        },
+        {
+          "hi": "कंपनाकुंचन गति (Seismonastic movement)",
+          "en": "Seismonastic movement"
+        },
+        {
+          "hi": "निशाकुंचन",
+          "en": "Nictinasty"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "छुई-मुई की पत्तियों के बंद होने का कारण उनके पर्णाधार (Pulvinus) में किसका परिवर्तन है?",
+        "en": "Drooping of Mimosa pudica leaves occurs due to sudden change in turgor of?"
+      },
+      "o": [
+        {
+          "hi": "ऑस्मोटिक दाब",
+          "en": "Osmotic Pressure"
+        },
+        {
+          "hi": "वाष्पोत्सर्जन खींच",
+          "en": "Transpiration Pull"
+        },
+        {
+          "hi": "मूल दाब",
+          "en": "Root Pressure"
+        },
+        {
+          "hi": "स्फीति दाब (Turgor Pressure in Pulvinus)",
+          "en": "Turgor Pressure in Pulvinus"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दीप्तिकाल (Day Length) के प्रति पौधों में पुष्पन (Flowering) की अनुक्रिया कहलाती है?",
+        "en": "Response of plants to relative length of day and night for flowering is called?"
+      },
+      "o": [
+        {
+          "hi": "दीप्तिकालेसिता (Photoperiodism)",
+          "en": "Photoperiodism"
+        },
+        {
+          "hi": "बसंतीकरण",
+          "en": "Vernalization"
+        },
+        {
+          "hi": "थर्मोपेरियोडिज्म",
+          "en": "Thermoperiodism"
+        },
+        {
+          "hi": "वर्नालाइजेशन",
+          "en": "Dormancy"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पौधों में दीप्तिकाल को ग्रहण करने वाला वर्णक कौन सा है?",
+        "en": "Chromoprotein pigment acting as photoreceptor for photoperiodism is?"
+      },
+      "o": [
+        {
+          "hi": "साइटोक्रोम",
+          "en": "Cytochrome"
+        },
+        {
+          "hi": "फाइटोक्रोम (Phytochrome)",
+          "en": "Phytochrome"
+        },
+        {
+          "hi": "कैरोटीनॉयड",
+          "en": "Carotenoid"
+        },
+        {
+          "hi": "एंथोसाइनिन",
+          "en": "Anthocyanin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पौधों की पत्तियों में बनने वाला काल्पनिक पुष्पन हार्मोन (Flowering Hormone) कौन सा है?",
+        "en": "Hypothetical hormone synthesized in leaves regulating flowering transition is?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सिन",
+          "en": "Auxin"
+        },
+        {
+          "hi": "वर्नेलिन",
+          "en": "Vernalin"
+        },
+        {
+          "hi": "फ्लोरीजन (Florigen)",
+          "en": "Florigen"
+        },
+        {
+          "hi": "काइनेटिन",
+          "en": "Kinetin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पौधों को कम तापमान (शीत उपचार) देकर पुष्पन को प्रेरित करने की प्रक्रिया कहलाती है?",
+        "en": "Promotion of flowering by exposing cold treatment to soaked seeds/seedlings is?"
+      },
+      "o": [
+        {
+          "hi": "दीप्तिकालिता",
+          "en": "Photoperiodism"
+        },
+        {
+          "hi": "स्ट्रेटिफिकेशन",
+          "en": "Stratification"
+        },
+        {
+          "hi": "स्कैरीफिकेशन",
+          "en": "Scarification"
+        },
+        {
+          "hi": "बसन्तीकरण (वर्नालाइजेशन / Vernalization)",
+          "en": "Vernalization"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रकाश संश्लेषण की प्रकाश अभिक्रिया में जल के प्रकाशिक अपघटन (Photolysis) के लिए आवश्यक आयन?",
+        "en": "Photolysis of water in Photosystem II requires which essential inorganic ions?"
+      },
+      "o": [
+        {
+          "hi": "मैंगनीज (Mn2+) और क्लोरीन (Cl-)",
+          "en": "Manganese (Mn2+) and Chlorine (Cl-)"
+        },
+        {
+          "hi": "जस्ता और तांबा",
+          "en": "Zinc & Copper"
+        },
+        {
+          "hi": "मैग्नीशियम और सल्फर",
+          "en": "Magnesium & Sulfur"
+        },
+        {
+          "hi": "पोटेशियम और सोडियम",
+          "en": "Potassium & Sodium"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "C3 पौधों में रूबिस्को द्वारा O2 से जुड़ने पर होने वाली व्यर्थ प्रक्रिया जिसमें ऊर्जा नष्ट होती है?",
+        "en": "Wasteful photo-respiratory process in C3 plants where RuBisCO binds O2 is?"
+      },
+      "o": [
+        {
+          "hi": "केल्विन चक्र",
+          "en": "Calvin cycle"
+        },
+        {
+          "hi": "प्रकाश-श्वसन (Photorespiration / C2 Cycle)",
+          "en": "Photorespiration (C2 Cycle)"
+        },
+        {
+          "hi": "हैच-स्लेक पथ",
+          "en": "Hatch-Slack pathway"
+        },
+        {
+          "hi": "क्रैब्स चक्र",
+          "en": "Krebs cycle"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रकाश-श्वसन (Photorespiration) की क्रिया किन तीन कोशिकांगों में संपन्न होती है?",
+        "en": "Photorespiration involves coordinated metabolic steps across which 3 organelles?"
+      },
+      "o": [
+        {
+          "hi": "गॉल्जीकाय, लाइसोसोम एवं न्यूक्लियस",
+          "en": "Golgi, Lysosome & Nucleus"
+        },
+        {
+          "hi": "राइबोसोम, ईआर एवं वैक्यूम",
+          "en": "Ribosome, ER & Vacuole"
+        },
+        {
+          "hi": "क्लोरोप्लास्ट, पेरॉक्सिसोम एवं माइटोकॉन्ड्रिया",
+          "en": "Chloroplast, Peroxisome & Mitochondria"
+        },
+        {
+          "hi": "साइटोप्लाज्म, क्लोरोप्लास्ट एवं गॉल्जीकाय",
+          "en": "Cytoplasm, Chloroplast & Golgi"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वायवीय कोशिकीय श्वसन में अंतिम इलेक्ट्रॉन ग्राही (Terminal Electron Acceptor) अणु कौन सा है?",
+        "en": "Which molecule acts as the ultimate electron acceptor in mitochondrial ETS?"
+      },
+      "o": [
+        {
+          "hi": "जल",
+          "en": "Water"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड",
+          "en": "Carbon dioxide"
+        },
+        {
+          "hi": "एनएडी+",
+          "en": "NAD+"
+        },
+        {
+          "hi": "ऑक्सीजन (O2)",
+          "en": "Oxygen (O2)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एक अणु ग्लूकोज के पूर्ण वायवीय ऑक्सीकरण से कुल कितने ATP अणुओं का निर्माण होता है?",
+        "en": "What is the total theoretical yield of ATP per glucose molecule in aerobic respiration?"
+      },
+      "o": [
+        {
+          "hi": "36 से 38 ATP अणु",
+          "en": "36 to 38 ATP molecules"
+        },
+        {
+          "hi": "2 ATP अणु",
+          "en": "2 ATP molecules"
+        },
+        {
+          "hi": "8 ATP अणु",
+          "en": "8 ATP molecules"
+        },
+        {
+          "hi": "50 ATP अणु",
+          "en": "50 ATP molecules"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ईस्ट (Yeast) में अवायवीय किण्वन (Anaerobic Fermentation) के अंत में क्या उत्पाद बनता है?",
+        "en": "Anaerobic fermentation of sugar by yeast cells yields which major products?"
+      },
+      "o": [
+        {
+          "hi": "लैक्टिक एसिड",
+          "en": "Lactic acid"
+        },
+        {
+          "hi": "इथाइल अल्कोहल (एथेनॉल) और CO2",
+          "en": "Ethyl alcohol (Ethanol) and CO2"
+        },
+        {
+          "hi": "पाइरुविक एसिड",
+          "en": "Pyruvic acid"
+        },
+        {
+          "hi": "मिथाइल अल्कोहल",
+          "en": "Methyl alcohol"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कठिन व्यायाम के समय मानव मांसपेशियों में अवायवीय श्वसन से किस अम्ल का निर्माण ऐंठन पैदा करता है?",
+        "en": "Accumulation of which acid during oxygen debt causes muscle fatigue during sprinting?"
+      },
+      "o": [
+        {
+          "hi": "पाइरुविक एसिड",
+          "en": "Pyruvic acid"
+        },
+        {
+          "hi": "एसिटिक एसिड",
+          "en": "Acetic acid"
+        },
+        {
+          "hi": "लैक्टिक अम्ल (Lactic Acid)",
+          "en": "Lactic Acid"
+        },
+        {
+          "hi": "ऑक्जेलिक एसिड",
+          "en": "Oxalic acid"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शुद्ध जल का जल विभव (Water Potential - Ψw) मानक दाब एवं ताप पर कितना होता है?",
+        "en": "What is the water potential (Ψw) value assigned to pure water at atmospheric pressure?"
+      },
+      "o": [
+        {
+          "hi": "100",
+          "en": "100"
+        },
+        {
+          "hi": "-10",
+          "en": "-10"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero (Ψw = 0)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "खपतवारनाशी (Selective Weedicide / Herbicide) के रूप में प्रयुक्त होने वाला संश्लेषित ऑक्सिन?",
+        "en": "Which synthetic auxin is widely sprayed as a selective broad-leaf herbicide?"
+      },
+      "o": [
+        {
+          "hi": "2,4-D (2,4-डीक्लोरोफेनॉक्सीएसिटिक एसिड)",
+          "en": "2,4-D (2,4-Dichlorophenoxyacetic acid)"
+        },
+        {
+          "hi": "आईएए (IAA)",
+          "en": "IAA"
+        },
+        {
+          "hi": "जीए3 (GA3)",
+          "en": "GA3"
+        },
+        {
+          "hi": "एबीए (ABA)",
+          "en": "ABA"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गन्ने की फसल में तने की लंबाई बढ़ाकर उपज बढ़ाने के लिए किस हार्मोन का छिड़काव किया जाता है?",
+        "en": "Which hormone is sprayed on sugarcane crops to elongate stems and increase yield?"
+      },
+      "o": [
+        {
+          "hi": "एब्सेसिक एसिड",
+          "en": "Abscisic Acid"
+        },
+        {
+          "hi": "जिबरेलिन (Gibberellin)",
+          "en": "Gibberellin"
+        },
+        {
+          "hi": "इथिलीन",
+          "en": "Ethylene"
+        },
+        {
+          "hi": "ऑक्सिन",
+          "en": "Auxin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ऊंचे वृक्षों में जल का अखंड स्तंभ ऊपर चढ़ने के लिए कौन सा बल सबसे महत्वपूर्ण है?",
+        "en": "Which physical force is most critical in maintaining continuous water ascent in tall trees?"
+      },
+      "o": [
+        {
+          "hi": "केवल गुरुत्वाकर्षण",
+          "en": "Only Gravity"
+        },
+        {
+          "hi": "केवल परासरण दाब",
+          "en": "Only Osmotic Pressure"
+        },
+        {
+          "hi": "वाष्पोत्सर्जन खिंचाव एवं जल अणुओं का संसंजन बल",
+          "en": "Transpiration pull & Cohesion force of water"
+        },
+        {
+          "hi": "केवल वायुमंडलीय दाब",
+          "en": "Only Atmospheric Pressure"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पौधों के 'भारतीय पादप कार्यिकी के जनक' (Father of Indian Plant Physiology) किसे माना जाता है?",
+        "en": "Who is known as the 'Father of Indian Plant Physiology'?"
+      },
+      "o": [
+        {
+          "hi": "एम.एस. स्वामीनाथन",
+          "en": "M.S. Swaminathan"
+        },
+        {
+          "hi": "बीरबल साहनी",
+          "en": "Birbal Sahni"
+        },
+        {
+          "hi": "पंचानन माहेश्वरी",
+          "en": "Panchanan Maheshwari"
+        },
+        {
+          "hi": "सर जगदीश चंद्र बोस (J.C. Bose)",
+          "en": "Sir J.C. Bose"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पौधों में विद्युत-आवेग और संवेदनशीलता मापने के लिए क्रैस्कोग्राफ (Crescograph) किसने बनाया था?",
+        "en": "Which Indian scientist invented the Crescograph to measure plant growth response?"
+      },
+      "o": [
+        {
+          "hi": "सर जे. सी. बोस (Sir J.C. Bose)",
+          "en": "Sir J.C. Bose"
+        },
+        {
+          "hi": "सी.वी. रमन",
+          "en": "C.V. Raman"
+        },
+        {
+          "hi": "एच.जी. खुराना",
+          "en": "H.G. Khorana"
+        },
+        {
+          "hi": "एस.एन. बोस",
+          "en": "S.N. Bose"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अनानास (Pineapple) की फसल में एक समान पुष्पन और फलन लाने के लिए प्रयुक्त हार्मोन?",
+        "en": "Which plant growth regulator is used to synchronize flowering and fruiting in Pineapple?"
+      },
+      "o": [
+        {
+          "hi": "एब्सेसिक एसिड",
+          "en": "Abscisic Acid"
+        },
+        {
+          "hi": "इथिलीन / एथ्रेल",
+          "en": "Ethylene / Ethrel"
+        },
+        {
+          "hi": "साइटोकाइनिन",
+          "en": "Cytokinin"
+        },
+        {
+          "hi": "जीए3",
+          "en": "GA3"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पौधों की पत्तियों का पीला पड़ना (Chlorosis) मुख्य रूप से किसकी कमी का लक्षण है?",
+        "en": "Loss of chlorophyll causing yellowing of leaves (Chlorosis) is caused by deficiency of?"
+      },
+      "o": [
+        {
+          "hi": "केवल हीलियम",
+          "en": "Only Helium"
+        },
+        {
+          "hi": "केवल सोडियम",
+          "en": "Only Sodium"
+        },
+        {
+          "hi": "नाइट्रोजन, आयरन एवं मैग्नीशियम",
+          "en": "Nitrogen, Iron, and Magnesium"
+        },
+        {
+          "hi": "केवल गोल्ड",
+          "en": "Only Gold"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पौधों में बोरोन (Boron) सूक्ष्म पोषक तत्व की मुख्य भूमिका क्या है?",
+        "en": "What is the primary essential role of micro-nutrient Boron in plant growth?"
+      },
+      "o": [
+        {
+          "hi": "क्लोरोफिल निर्माण",
+          "en": "Chlorophyll synthesis"
+        },
+        {
+          "hi": "जल का अपघटन",
+          "en": "Water photolysis"
+        },
+        {
+          "hi": "नाइट्रोजन स्थिरीकरण",
+          "en": "Nitrogen fixation"
+        },
+        {
+          "hi": "परागकण अंकुरण एवं शर्करा का स्थानांतरण",
+          "en": "Pollen germination & Sugar translocation"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "श्वसन दर (Rate of Respiration) मापने के लिए किस यंत्र का प्रयोग किया जाता है?",
+        "en": "Which instrument measures the rate of oxygen consumption in plant respiration?"
+      },
+      "o": [
+        {
+          "hi": "रेस्पायरोमीटर (Respirometer)",
+          "en": "Respirometer"
+        },
+        {
+          "hi": "पोटोमीटर",
+          "en": "Potometer"
+        },
+        {
+          "hi": "ऑक्सेनोमीटर",
+          "en": "Auxanometer"
+        },
+        {
+          "hi": "ऑक्सोग्राफ",
+          "en": "Auxograph"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अल्प प्रदीप्तकाली पौधों (Short Day Plants) में पुष्पन के लिए क्या आवश्यक है?",
+        "en": "Short Day Plants (SDP) require which photoperiod conditions for flowering transition?"
+      },
+      "o": [
+        {
+          "hi": "लगातार 24 घंटे धूप",
+          "en": "Continuous 24h light"
+        },
+        {
+          "hi": "क्रिटिकल दिन की अवधि से कम प्रकाश और निर्बाध लंबी रात",
+          "en": "Day length less than critical photoperiod & uninterrupted dark period"
+        },
+        {
+          "hi": "केवल उच्च तापमान",
+          "en": "Only high temp"
+        },
+        {
+          "hi": "लगातार तेज रोशनी",
+          "en": "Continuous intense light"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बीज सुप्तता (Seed Dormancy) को बनाए रखने वाला प्रमुख विकास रोधक हार्मोन कौन सा है?",
+        "en": "Which phytohormone induces and maintains seed dormancy preventing germination?"
+      },
+      "o": [
+        {
+          "hi": "जिबरेलिन",
+          "en": "Gibberellin"
+        },
+        {
+          "hi": "ऑक्सिन",
+          "en": "Auxin"
+        },
+        {
+          "hi": "एब्सेसिक एसिड (ABA)",
+          "en": "Abscisic Acid (ABA)"
+        },
+        {
+          "hi": "साइटोकाइनिन",
+          "en": "Cytokinin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पौधों की तने वृद्धि दर (Stem Extension Rate) मापने हेतु किस यंत्र का प्रयोग करते हैं?",
+        "en": "Which apparatus is designed to measure precision linear growth of plant shoots?"
+      },
+      "o": [
+        {
+          "hi": "पोटोमीटर",
+          "en": "Potometer"
+        },
+        {
+          "hi": "रेस्पायरोमीटर",
+          "en": "Respirometer"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "ऑक्सेनोमीटर (Auxanometer)",
+          "en": "Auxanometer"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रकाश संश्लेषण की लाल और नीले प्रकाश में उच्च दर का इमर्सन प्रभाव क्या दर्शाता है?",
+        "en": "Emerson Enhancement Effect demonstrated the involvement of?"
+      },
+      "o": [
+        {
+          "hi": "दो पृथक प्रकाश तंत्रों (Photosystem I और II) का अस्तित्व",
+          "en": "Two distinct photosystems (PS-I and PS-II)"
+        },
+        {
+          "hi": "केवल एक क्लोरोप्लास्ट",
+          "en": "Only one chloroplast"
+        },
+        {
+          "hi": "केवल अप्रकाशिक अभिक्रिया",
+          "en": "Only dark reaction"
+        },
+        {
+          "hi": "केवल जल का अवशोषण",
+          "en": "Only water absorption"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "Photosystem II का अभिक्रिया केंद्र (Reaction Center) किस तरंगदैर्ध्य प्रकाश को अवशोषित करता है?",
+        "en": "The reaction center chlorophyll molecule of Photosystem II (PS-II) absorbs light at?"
+      },
+      "o": [
+        {
+          "hi": "700 nm (P700)",
+          "en": "700 nm (P700)"
+        },
+        {
+          "hi": "680 nm (P680)",
+          "en": "680 nm (P680)"
+        },
+        {
+          "hi": "550 nm",
+          "en": "550 nm"
+        },
+        {
+          "hi": "400 nm",
+          "en": "400 nm"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "Photosystem I का अभिक्रिया केंद्र (Reaction Center) किस तरंगदैर्ध्य पर कार्य करता है?",
+        "en": "The reaction center chlorophyll molecule of Photosystem I (PS-I) absorbs light at?"
+      },
+      "o": [
+        {
+          "hi": "680 nm (P680)",
+          "en": "680 nm (P680)"
+        },
+        {
+          "hi": "500 nm",
+          "en": "500 nm"
+        },
+        {
+          "hi": "700 nm (P700)",
+          "en": "700 nm (P700)"
+        },
+        {
+          "hi": "450 nm",
+          "en": "450 nm"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पौधों की जड़ों द्वारा मृदा से जल का अवशोषण मुख्यतः किस भौतिक विधि द्वारा होता है?",
+        "en": "Absorption of water by plant root hairs from soil solution occurs primarily via?"
+      },
+      "o": [
+        {
+          "hi": "सक्रिय परिवहन",
+          "en": "Active Transport"
+        },
+        {
+          "hi": "वाष्पोत्सर्जन",
+          "en": "Transpiration"
+        },
+        {
+          "hi": "प्लास्मोलिसिस",
+          "en": "Plasmolysis"
+        },
+        {
+          "hi": "परासरण (Osmosis)",
+          "en": "Osmosis"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सेल के टर्जिड (स्फीत) होने पर कोशिका भित्ति पर अंदर से लगने वाला दाब क्या कहलाता है?",
+        "en": "The outward hydro-static pressure exerted by cytoplasm against cell wall in turgid cell?"
+      },
+      "o": [
+        {
+          "hi": "स्फीति दाब (Turgor Pressure)",
+          "en": "Turgor Pressure"
+        },
+        {
+          "hi": "भित्ति दाब",
+          "en": "Wall Pressure"
+        },
+        {
+          "hi": "परासरण दाब",
+          "en": "Osmotic Pressure"
+        },
+        {
+          "hi": "चूषण दाब",
+          "en": "Suction Pressure"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अंकुरित हो रहे वसायुक्त बीजों में वसा को कार्बोहाइड्रेट में बदलने वाला सूक्ष्मकाय?",
+        "en": "Which specialized plant microbody converts stored fatty acids to sugars in germinating seeds?"
+      },
+      "o": [
+        {
+          "hi": "पेरॉक्सिसोम",
+          "en": "Peroxisome"
+        },
+        {
+          "hi": "ग्लाइऑक्सिसोम (Glyoxysome)",
+          "en": "Glyoxysome"
+        },
+        {
+          "hi": "लाइसोसोम",
+          "en": "Lysosome"
+        },
+        {
+          "hi": "राइबोसोम",
+          "en": "Ribosome"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "शाकाहारी जीवों के लिए प्राथमिक उत्पादकों (हरे पौधों) द्वारा निर्मित जैव भार क्या कहलाता है?",
+        "en": "The rate of storage of organic matter by green plants available to heterotrophs is?"
+      },
+      "o": [
+        {
+          "hi": "सकल प्राथमिक उत्पादकता",
+          "en": "Gross Primary Productivity"
+        },
+        {
+          "hi": "द्वितीयक उत्पादकता",
+          "en": "Secondary Productivity"
+        },
+        {
+          "hi": "शुद्ध प्राथमिक उत्पादकता (Net Primary Productivity - NPP)",
+          "en": "Net Primary Productivity (NPP)"
+        },
+        {
+          "hi": "तृतीयक उत्पादकता",
+          "en": "Tertiary Productivity"
+        }
+      ],
+      "a": 2
+    }
+  ]
+}

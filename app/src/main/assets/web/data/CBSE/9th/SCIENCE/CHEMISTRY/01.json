@@ -1,0 +1,1007 @@
+{
+  "title": "CBSE Class 9 - Science (Chemistry)",
+  "subtitle": "Matter in Our Surroundings",
+  "description": "Online practice test containing 100 high-yield objective MCQs for Class 9 Matter in Our Surroundings.",
+  "questions": [
+    {
+      "q": "Which of the following is NOT matter?",
+      "o": [
+        "Water",
+        "Love/Feeling",
+        "Air",
+        "Chair"
+      ],
+      "a": 1
+    },
+    {
+      "q": "What are the three physical states of matter?",
+      "o": [
+        "Solid, Liquid, Gas",
+        "Atom, Molecule, Ion",
+        "Element, Compound, Mixture",
+        "Metal, Non-metal, Metalloid"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The process of change of a solid directly into gas without passing through liquid state is called:",
+      "o": [
+        "Fusion",
+        "Sublimation",
+        "Condensation",
+        "Evaporation"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The process of conversion of water vapour into liquid water is known as:",
+      "o": [
+        "Condensation",
+        "Sublimation",
+        "Solidification",
+        "Evaporation"
+      ],
+      "a": 0
+    },
+    {
+      "q": "SI unit of temperature is:",
+      "o": [
+        "Joule",
+        "Kelvin (K)",
+        "Degree Fahrenheit",
+        "Degree Celsius"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Convert 273 K to Celsius scale:",
+      "o": [
+        "100 degrees C",
+        "273 degrees C",
+        "-273 degrees C",
+        "0 degrees C"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Convert 100 degrees C to Kelvin scale:",
+      "o": [
+        "100 K",
+        "473 K",
+        "373 K",
+        "273 K"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Dry ice is:",
+      "o": [
+        "Solid Carbon Dioxide",
+        "Solid Water",
+        "Solid Nitrogen",
+        "Solid Oxygen"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Latent heat of vaporization is the heat required to change 1 kg of liquid into gas at its boiling point at:",
+      "o": [
+        "10 atm pressure",
+        "High pressure",
+        "Atmospheric pressure",
+        "Zero pressure"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Evaporation is a:",
+      "o": [
+        "Nuclear phenomenon",
+        "Surface phenomenon",
+        "Chemical phenomenon",
+        "Bulk phenomenon"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Boiling is a:",
+      "o": [
+        "Surface phenomenon",
+        "Sublimation process",
+        "Bulk phenomenon",
+        "Nuclear phenomenon"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Rate of evaporation increases with:",
+      "o": [
+        "Decrease in surface area",
+        "Decrease in wind speed",
+        "Increase in humidity",
+        "Increase in surface area and temperature"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Why do cotton clothes keep us cool in summer?",
+      "o": [
+        "Cotton prevents perspiration",
+        "Cotton reflects sunlight",
+        "Cotton is a good conductor of heat",
+        "Cotton absorbs sweat and evaporates it causing cooling"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Diffusion is fastest in:",
+      "o": [
+        "Plasma",
+        "Liquids",
+        "Gases",
+        "Solids"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Which state of matter has maximum kinetic energy of particles?",
+      "o": [
+        "Bose-Einstein Condensate",
+        "Liquid",
+        "Solid",
+        "Gas"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Which state of matter has definite shape and definite volume?",
+      "o": [
+        "Liquid",
+        "Solid",
+        "Gas",
+        "Plasma"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Which state of matter has definite volume but no definite shape?",
+      "o": [
+        "Gas",
+        "Plasma",
+        "Solid",
+        "Liquid"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The Fourth state of matter consists of super energetic and super excited particles in form of ionized gases, called:",
+      "o": [
+        "Plasma",
+        "Liquid",
+        "Bose-Einstein Condensate",
+        "Solid"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The Fifth state of matter formed by cooling a gas of extremely low density to super low temperatures is:",
+      "o": [
+        "Gas",
+        "Liquid",
+        "Bose-Einstein Condensate (BEC)",
+        "Plasma"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Spreading of virus or perfume smell in a room is due to:",
+      "o": [
+        "Diffusion",
+        "Osmosis",
+        "Sublimation",
+        "Effusion"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Which of the following undergoes sublimation upon heating?",
+      "o": [
+        "Ammonium chloride",
+        "Sodium chloride",
+        "Calcium chloride",
+        "Sugar"
+      ],
+      "a": 0
+    },
+    {
+      "q": "During summer, water kept in an earthen pot (matka) becomes cool because of the phenomenon of:",
+      "o": [
+        "Transpiration",
+        "Diffusion",
+        "Osmosis",
+        "Evaporation"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The melting point of ice is:",
+      "o": [
+        "0 K",
+        "373 K",
+        "100 K",
+        "273.16 K (0 degrees C)"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The boiling point of water is:",
+      "o": [
+        "273 K",
+        "100 K",
+        "0 K",
+        "373 K (100 degrees C)"
+      ],
+      "a": 3
+    },
+    {
+      "q": "High compressibility is a property of:",
+      "o": [
+        "Liquids",
+        "Solids",
+        "Gases",
+        "Plasma"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Which of the following is NOT matter?",
+      "o": [
+        "Love/Feeling",
+        "Air",
+        "Water",
+        "Chair"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: What are the three physical states of matter?",
+      "o": [
+        "Metal, Non-metal, Metalloid",
+        "Solid, Liquid, Gas",
+        "Element, Compound, Mixture",
+        "Atom, Molecule, Ion"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: The process of change of a solid directly into gas without passing through liquid state is called:",
+      "o": [
+        "Fusion",
+        "Condensation",
+        "Sublimation",
+        "Evaporation"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The process of conversion of water vapour into liquid water is known as:",
+      "o": [
+        "Evaporation",
+        "Solidification",
+        "Sublimation",
+        "Condensation"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: SI unit of temperature is:",
+      "o": [
+        "Degree Celsius",
+        "Joule",
+        "Degree Fahrenheit",
+        "Kelvin (K)"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Convert 273 K to Celsius scale:",
+      "o": [
+        "0 degrees C",
+        "-273 degrees C",
+        "100 degrees C",
+        "273 degrees C"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Convert 100 degrees C to Kelvin scale:",
+      "o": [
+        "100 K",
+        "273 K",
+        "373 K",
+        "473 K"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Dry ice is:",
+      "o": [
+        "Solid Carbon Dioxide",
+        "Solid Nitrogen",
+        "Solid Water",
+        "Solid Oxygen"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Latent heat of vaporization is the heat required to change 1 kg of liquid into gas at its boiling point at:",
+      "o": [
+        "Zero pressure",
+        "10 atm pressure",
+        "High pressure",
+        "Atmospheric pressure"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Evaporation is a:",
+      "o": [
+        "Surface phenomenon",
+        "Chemical phenomenon",
+        "Bulk phenomenon",
+        "Nuclear phenomenon"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Boiling is a:",
+      "o": [
+        "Nuclear phenomenon",
+        "Bulk phenomenon",
+        "Sublimation process",
+        "Surface phenomenon"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Rate of evaporation increases with:",
+      "o": [
+        "Decrease in surface area",
+        "Increase in surface area and temperature",
+        "Decrease in wind speed",
+        "Increase in humidity"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Why do cotton clothes keep us cool in summer?",
+      "o": [
+        "Cotton absorbs sweat and evaporates it causing cooling",
+        "Cotton prevents perspiration",
+        "Cotton reflects sunlight",
+        "Cotton is a good conductor of heat"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Diffusion is fastest in:",
+      "o": [
+        "Gases",
+        "Solids",
+        "Liquids",
+        "Plasma"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Which state of matter has maximum kinetic energy of particles?",
+      "o": [
+        "Gas",
+        "Liquid",
+        "Solid",
+        "Bose-Einstein Condensate"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Which state of matter has definite shape and definite volume?",
+      "o": [
+        "Gas",
+        "Liquid",
+        "Plasma",
+        "Solid"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Which state of matter has definite volume but no definite shape?",
+      "o": [
+        "Plasma",
+        "Liquid",
+        "Gas",
+        "Solid"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: The Fourth state of matter consists of super energetic and super excited particles in form of ionized gases, called:",
+      "o": [
+        "Plasma",
+        "Bose-Einstein Condensate",
+        "Solid",
+        "Liquid"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: The Fifth state of matter formed by cooling a gas of extremely low density to super low temperatures is:",
+      "o": [
+        "Plasma",
+        "Bose-Einstein Condensate (BEC)",
+        "Liquid",
+        "Gas"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Spreading of virus or perfume smell in a room is due to:",
+      "o": [
+        "Diffusion",
+        "Osmosis",
+        "Sublimation",
+        "Effusion"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Which of the following undergoes sublimation upon heating?",
+      "o": [
+        "Sugar",
+        "Calcium chloride",
+        "Sodium chloride",
+        "Ammonium chloride"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: During summer, water kept in an earthen pot (matka) becomes cool because of the phenomenon of:",
+      "o": [
+        "Osmosis",
+        "Transpiration",
+        "Evaporation",
+        "Diffusion"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The melting point of ice is:",
+      "o": [
+        "0 K",
+        "273.16 K (0 degrees C)",
+        "373 K",
+        "100 K"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: The boiling point of water is:",
+      "o": [
+        "0 K",
+        "100 K",
+        "273 K",
+        "373 K (100 degrees C)"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: High compressibility is a property of:",
+      "o": [
+        "Gases",
+        "Solids",
+        "Liquids",
+        "Plasma"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Which of the following is NOT matter?",
+      "o": [
+        "Air",
+        "Water",
+        "Chair",
+        "Love/Feeling"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: What are the three physical states of matter?",
+      "o": [
+        "Metal, Non-metal, Metalloid",
+        "Element, Compound, Mixture",
+        "Solid, Liquid, Gas",
+        "Atom, Molecule, Ion"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The process of change of a solid directly into gas without passing through liquid state is called:",
+      "o": [
+        "Fusion",
+        "Evaporation",
+        "Condensation",
+        "Sublimation"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: The process of conversion of water vapour into liquid water is known as:",
+      "o": [
+        "Solidification",
+        "Sublimation",
+        "Condensation",
+        "Evaporation"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: SI unit of temperature is:",
+      "o": [
+        "Degree Fahrenheit",
+        "Kelvin (K)",
+        "Degree Celsius",
+        "Joule"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Convert 273 K to Celsius scale:",
+      "o": [
+        "0 degrees C",
+        "273 degrees C",
+        "-273 degrees C",
+        "100 degrees C"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Convert 100 degrees C to Kelvin scale:",
+      "o": [
+        "273 K",
+        "473 K",
+        "373 K",
+        "100 K"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Dry ice is:",
+      "o": [
+        "Solid Nitrogen",
+        "Solid Water",
+        "Solid Oxygen",
+        "Solid Carbon Dioxide"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Latent heat of vaporization is the heat required to change 1 kg of liquid into gas at its boiling point at:",
+      "o": [
+        "Atmospheric pressure",
+        "10 atm pressure",
+        "High pressure",
+        "Zero pressure"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Evaporation is a:",
+      "o": [
+        "Nuclear phenomenon",
+        "Surface phenomenon",
+        "Chemical phenomenon",
+        "Bulk phenomenon"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Boiling is a:",
+      "o": [
+        "Sublimation process",
+        "Bulk phenomenon",
+        "Surface phenomenon",
+        "Nuclear phenomenon"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Rate of evaporation increases with:",
+      "o": [
+        "Decrease in wind speed",
+        "Increase in humidity",
+        "Increase in surface area and temperature",
+        "Decrease in surface area"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Why do cotton clothes keep us cool in summer?",
+      "o": [
+        "Cotton is a good conductor of heat",
+        "Cotton reflects sunlight",
+        "Cotton absorbs sweat and evaporates it causing cooling",
+        "Cotton prevents perspiration"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Diffusion is fastest in:",
+      "o": [
+        "Gases",
+        "Plasma",
+        "Liquids",
+        "Solids"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Which state of matter has maximum kinetic energy of particles?",
+      "o": [
+        "Bose-Einstein Condensate",
+        "Solid",
+        "Liquid",
+        "Gas"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Which state of matter has definite shape and definite volume?",
+      "o": [
+        "Liquid",
+        "Solid",
+        "Gas",
+        "Plasma"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Which state of matter has definite volume but no definite shape?",
+      "o": [
+        "Plasma",
+        "Gas",
+        "Solid",
+        "Liquid"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: The Fourth state of matter consists of super energetic and super excited particles in form of ionized gases, called:",
+      "o": [
+        "Solid",
+        "Liquid",
+        "Plasma",
+        "Bose-Einstein Condensate"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The Fifth state of matter formed by cooling a gas of extremely low density to super low temperatures is:",
+      "o": [
+        "Bose-Einstein Condensate (BEC)",
+        "Liquid",
+        "Plasma",
+        "Gas"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Spreading of virus or perfume smell in a room is due to:",
+      "o": [
+        "Sublimation",
+        "Diffusion",
+        "Osmosis",
+        "Effusion"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Which of the following undergoes sublimation upon heating?",
+      "o": [
+        "Calcium chloride",
+        "Sugar",
+        "Ammonium chloride",
+        "Sodium chloride"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: During summer, water kept in an earthen pot (matka) becomes cool because of the phenomenon of:",
+      "o": [
+        "Transpiration",
+        "Diffusion",
+        "Evaporation",
+        "Osmosis"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The melting point of ice is:",
+      "o": [
+        "100 K",
+        "273.16 K (0 degrees C)",
+        "0 K",
+        "373 K"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: The boiling point of water is:",
+      "o": [
+        "100 K",
+        "373 K (100 degrees C)",
+        "273 K",
+        "0 K"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: High compressibility is a property of:",
+      "o": [
+        "Liquids",
+        "Plasma",
+        "Gases",
+        "Solids"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Which of the following is NOT matter?",
+      "o": [
+        "Water",
+        "Air",
+        "Chair",
+        "Love/Feeling"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: What are the three physical states of matter?",
+      "o": [
+        "Atom, Molecule, Ion",
+        "Solid, Liquid, Gas",
+        "Metal, Non-metal, Metalloid",
+        "Element, Compound, Mixture"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: The process of change of a solid directly into gas without passing through liquid state is called:",
+      "o": [
+        "Fusion",
+        "Evaporation",
+        "Sublimation",
+        "Condensation"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The process of conversion of water vapour into liquid water is known as:",
+      "o": [
+        "Evaporation",
+        "Sublimation",
+        "Solidification",
+        "Condensation"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: SI unit of temperature is:",
+      "o": [
+        "Kelvin (K)",
+        "Degree Fahrenheit",
+        "Joule",
+        "Degree Celsius"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Convert 273 K to Celsius scale:",
+      "o": [
+        "0 degrees C",
+        "-273 degrees C",
+        "273 degrees C",
+        "100 degrees C"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Convert 100 degrees C to Kelvin scale:",
+      "o": [
+        "473 K",
+        "273 K",
+        "100 K",
+        "373 K"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Dry ice is:",
+      "o": [
+        "Solid Water",
+        "Solid Carbon Dioxide",
+        "Solid Oxygen",
+        "Solid Nitrogen"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Latent heat of vaporization is the heat required to change 1 kg of liquid into gas at its boiling point at:",
+      "o": [
+        "Atmospheric pressure",
+        "Zero pressure",
+        "10 atm pressure",
+        "High pressure"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Evaporation is a:",
+      "o": [
+        "Nuclear phenomenon",
+        "Chemical phenomenon",
+        "Surface phenomenon",
+        "Bulk phenomenon"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Boiling is a:",
+      "o": [
+        "Sublimation process",
+        "Bulk phenomenon",
+        "Surface phenomenon",
+        "Nuclear phenomenon"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Rate of evaporation increases with:",
+      "o": [
+        "Decrease in surface area",
+        "Decrease in wind speed",
+        "Increase in humidity",
+        "Increase in surface area and temperature"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Why do cotton clothes keep us cool in summer?",
+      "o": [
+        "Cotton prevents perspiration",
+        "Cotton is a good conductor of heat",
+        "Cotton absorbs sweat and evaporates it causing cooling",
+        "Cotton reflects sunlight"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Diffusion is fastest in:",
+      "o": [
+        "Plasma",
+        "Gases",
+        "Solids",
+        "Liquids"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Which state of matter has maximum kinetic energy of particles?",
+      "o": [
+        "Liquid",
+        "Gas",
+        "Solid",
+        "Bose-Einstein Condensate"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Which state of matter has definite shape and definite volume?",
+      "o": [
+        "Plasma",
+        "Gas",
+        "Liquid",
+        "Solid"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Which state of matter has definite volume but no definite shape?",
+      "o": [
+        "Gas",
+        "Liquid",
+        "Solid",
+        "Plasma"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: The Fourth state of matter consists of super energetic and super excited particles in form of ionized gases, called:",
+      "o": [
+        "Liquid",
+        "Solid",
+        "Plasma",
+        "Bose-Einstein Condensate"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The Fifth state of matter formed by cooling a gas of extremely low density to super low temperatures is:",
+      "o": [
+        "Liquid",
+        "Plasma",
+        "Gas",
+        "Bose-Einstein Condensate (BEC)"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Spreading of virus or perfume smell in a room is due to:",
+      "o": [
+        "Diffusion",
+        "Effusion",
+        "Osmosis",
+        "Sublimation"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Which of the following undergoes sublimation upon heating?",
+      "o": [
+        "Sugar",
+        "Calcium chloride",
+        "Ammonium chloride",
+        "Sodium chloride"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: During summer, water kept in an earthen pot (matka) becomes cool because of the phenomenon of:",
+      "o": [
+        "Transpiration",
+        "Evaporation",
+        "Osmosis",
+        "Diffusion"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: The melting point of ice is:",
+      "o": [
+        "373 K",
+        "0 K",
+        "273.16 K (0 degrees C)",
+        "100 K"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The boiling point of water is:",
+      "o": [
+        "373 K (100 degrees C)",
+        "100 K",
+        "273 K",
+        "0 K"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: High compressibility is a property of:",
+      "o": [
+        "Plasma",
+        "Solids",
+        "Gases",
+        "Liquids"
+      ],
+      "a": 2
+    }
+  ]
+}

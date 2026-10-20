@@ -1,0 +1,1007 @@
+{
+  "title": "CBSE Class 9 - Science (Chemistry)",
+  "subtitle": "Atoms and Molecules",
+  "description": "Online practice test containing 100 high-yield objective MCQs for Class 9 Atoms and Molecules.",
+  "questions": [
+    {
+      "q": "Law of Conservation of Mass was given by:",
+      "o": [
+        "John Dalton",
+        "Antoine Lavoisier",
+        "Joseph Proust",
+        "J.J. Thomson"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Law of Definite Proportions (Constant Proportions) was stated by:",
+      "o": [
+        "Joseph Proust",
+        "John Dalton",
+        "Antoine Lavoisier",
+        "Ernest Rutherford"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Who provided the Atomic Theory of Matter?",
+      "o": [
+        "Ernest Rutherford",
+        "John Dalton",
+        "J.J. Thomson",
+        "Niels Bohr"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Water (H2O) always contains Hydrogen and Oxygen in mass ratio:",
+      "o": [
+        "1 : 8",
+        "1 : 2",
+        "8 : 1",
+        "2 : 1"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Ammonia (NH3) always contains Nitrogen and Hydrogen in mass ratio:",
+      "o": [
+        "7 : 3",
+        "14 : 3",
+        "1 : 3",
+        "3 : 14"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Which building block of matter retains chemical properties of an element?",
+      "o": [
+        "Compound",
+        "Solution",
+        "Mixture",
+        "Atom"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Atomic radius is measured in nanometers (nm). 1 nm = :",
+      "o": [
+        "10^-12 m",
+        "10^-3 m",
+        "10^-9 m",
+        "10^-6 m"
+      ],
+      "a": 2
+    },
+    {
+      "q": "IUPAC stands for:",
+      "o": [
+        "International Union of Pure and Applied Chemistry",
+        "Indian Union of Physical and Applied Chemistry",
+        "International Union of Physics and Chemistry",
+        "International Universal Polymer Association Committee"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Atomic mass unit (amu or u) is defined as equal to mass of one-twelfth of carbon-12 atom. Carbon-12 mass is taken as:",
+      "o": [
+        "16 u",
+        "1 u",
+        "12 u",
+        "6 u"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Chemical symbol for Sodium is derived from its Latin name Natrium:",
+      "o": [
+        "S",
+        "Na",
+        "Sd",
+        "So"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Chemical symbol for Potassium is derived from Kalium:",
+      "o": [
+        "Po",
+        "Pt",
+        "K",
+        "Ka"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Chemical symbol for Iron is derived from Ferrum:",
+      "o": [
+        "In",
+        "Fe2",
+        "Ir",
+        "Fe"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Atomicity of Oxygen gas (O2) is:",
+      "o": [
+        "4 (Tetraatomic)",
+        "3 (Triatomic)",
+        "1 (Monoatomic)",
+        "2 (Diatomic)"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Atomicity of Ozone (O3) is:",
+      "o": [
+        "4",
+        "1",
+        "3 (Triatomic)",
+        "2"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Atomicity of Phosphorus (P4) is:",
+      "o": [
+        "8",
+        "1",
+        "2",
+        "4 (Tetraatomic)"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Atomicity of Sulfur (S8) is:",
+      "o": [
+        "Diatomic",
+        "Polyatomic (8)",
+        "Triatomic",
+        "Monoatomic"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Atomicity of Noble gases like Helium, Neon, Argon is:",
+      "o": [
+        "3",
+        "4",
+        "2",
+        "1 (Monoatomic)"
+      ],
+      "a": 3
+    },
+    {
+      "q": "A polyatomic ion carrying a net charge is:",
+      "o": [
+        "Polyatomic ion (e.g., NH4+, SO4^2-)",
+        "Isotope",
+        "Neutral molecule",
+        "Element"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Valency of Carbon is:",
+      "o": [
+        "1",
+        "3",
+        "4 (Tetravalent)",
+        "2"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Formula of Aluminium Oxide is:",
+      "o": [
+        "Al2O3",
+        "AlO",
+        "AlO2",
+        "Al3O2"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Formula of Calcium Hydroxide is:",
+      "o": [
+        "Ca(OH)2",
+        "CaOH",
+        "Ca2OH",
+        "Ca(OH)3"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Formula of Sodium Carbonate is:",
+      "o": [
+        "Na(CO3)2",
+        "NaCO3",
+        "Na2C",
+        "Na2CO3"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Molecular mass of H2O is:",
+      "o": [
+        "20 u",
+        "16 u",
+        "2 u",
+        "18 u"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Molecular mass of HNO3 is:",
+      "o": [
+        "50 u",
+        "70 u",
+        "60 u",
+        "63 u"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Molar mass of a substance is expressed in units of:",
+      "o": [
+        "kg",
+        "u",
+        "g/mol",
+        "mg"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Law of Conservation of Mass was given by:",
+      "o": [
+        "Antoine Lavoisier",
+        "Joseph Proust",
+        "John Dalton",
+        "J.J. Thomson"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Law of Definite Proportions (Constant Proportions) was stated by:",
+      "o": [
+        "Ernest Rutherford",
+        "Joseph Proust",
+        "Antoine Lavoisier",
+        "John Dalton"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Who provided the Atomic Theory of Matter?",
+      "o": [
+        "Ernest Rutherford",
+        "J.J. Thomson",
+        "John Dalton",
+        "Niels Bohr"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Water (H2O) always contains Hydrogen and Oxygen in mass ratio:",
+      "o": [
+        "2 : 1",
+        "8 : 1",
+        "1 : 2",
+        "1 : 8"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Ammonia (NH3) always contains Nitrogen and Hydrogen in mass ratio:",
+      "o": [
+        "3 : 14",
+        "7 : 3",
+        "1 : 3",
+        "14 : 3"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Which building block of matter retains chemical properties of an element?",
+      "o": [
+        "Atom",
+        "Mixture",
+        "Compound",
+        "Solution"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomic radius is measured in nanometers (nm). 1 nm = :",
+      "o": [
+        "10^-12 m",
+        "10^-6 m",
+        "10^-9 m",
+        "10^-3 m"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: IUPAC stands for:",
+      "o": [
+        "International Union of Pure and Applied Chemistry",
+        "International Union of Physics and Chemistry",
+        "Indian Union of Physical and Applied Chemistry",
+        "International Universal Polymer Association Committee"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomic mass unit (amu or u) is defined as equal to mass of one-twelfth of carbon-12 atom. Carbon-12 mass is taken as:",
+      "o": [
+        "6 u",
+        "16 u",
+        "1 u",
+        "12 u"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Chemical symbol for Sodium is derived from its Latin name Natrium:",
+      "o": [
+        "Na",
+        "Sd",
+        "So",
+        "S"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Chemical symbol for Potassium is derived from Kalium:",
+      "o": [
+        "Ka",
+        "K",
+        "Pt",
+        "Po"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Chemical symbol for Iron is derived from Ferrum:",
+      "o": [
+        "In",
+        "Fe",
+        "Fe2",
+        "Ir"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomicity of Oxygen gas (O2) is:",
+      "o": [
+        "2 (Diatomic)",
+        "4 (Tetraatomic)",
+        "3 (Triatomic)",
+        "1 (Monoatomic)"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomicity of Ozone (O3) is:",
+      "o": [
+        "3 (Triatomic)",
+        "2",
+        "1",
+        "4"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomicity of Phosphorus (P4) is:",
+      "o": [
+        "4 (Tetraatomic)",
+        "1",
+        "2",
+        "8"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomicity of Sulfur (S8) is:",
+      "o": [
+        "Triatomic",
+        "Diatomic",
+        "Monoatomic",
+        "Polyatomic (8)"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomicity of Noble gases like Helium, Neon, Argon is:",
+      "o": [
+        "4",
+        "1 (Monoatomic)",
+        "3",
+        "2"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: A polyatomic ion carrying a net charge is:",
+      "o": [
+        "Polyatomic ion (e.g., NH4+, SO4^2-)",
+        "Neutral molecule",
+        "Element",
+        "Isotope"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Valency of Carbon is:",
+      "o": [
+        "2",
+        "4 (Tetravalent)",
+        "3",
+        "1"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Formula of Aluminium Oxide is:",
+      "o": [
+        "Al2O3",
+        "AlO",
+        "AlO2",
+        "Al3O2"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Formula of Calcium Hydroxide is:",
+      "o": [
+        "Ca(OH)3",
+        "Ca2OH",
+        "CaOH",
+        "Ca(OH)2"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Formula of Sodium Carbonate is:",
+      "o": [
+        "Na2C",
+        "Na(CO3)2",
+        "Na2CO3",
+        "NaCO3"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Molecular mass of H2O is:",
+      "o": [
+        "20 u",
+        "18 u",
+        "16 u",
+        "2 u"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Molecular mass of HNO3 is:",
+      "o": [
+        "60 u",
+        "70 u",
+        "50 u",
+        "63 u"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Molar mass of a substance is expressed in units of:",
+      "o": [
+        "g/mol",
+        "u",
+        "kg",
+        "mg"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Law of Conservation of Mass was given by:",
+      "o": [
+        "Joseph Proust",
+        "John Dalton",
+        "J.J. Thomson",
+        "Antoine Lavoisier"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Law of Definite Proportions (Constant Proportions) was stated by:",
+      "o": [
+        "Ernest Rutherford",
+        "Antoine Lavoisier",
+        "Joseph Proust",
+        "John Dalton"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Who provided the Atomic Theory of Matter?",
+      "o": [
+        "Ernest Rutherford",
+        "Niels Bohr",
+        "J.J. Thomson",
+        "John Dalton"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Water (H2O) always contains Hydrogen and Oxygen in mass ratio:",
+      "o": [
+        "8 : 1",
+        "1 : 2",
+        "1 : 8",
+        "2 : 1"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Ammonia (NH3) always contains Nitrogen and Hydrogen in mass ratio:",
+      "o": [
+        "1 : 3",
+        "14 : 3",
+        "3 : 14",
+        "7 : 3"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Which building block of matter retains chemical properties of an element?",
+      "o": [
+        "Atom",
+        "Solution",
+        "Mixture",
+        "Compound"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomic radius is measured in nanometers (nm). 1 nm = :",
+      "o": [
+        "10^-6 m",
+        "10^-3 m",
+        "10^-9 m",
+        "10^-12 m"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: IUPAC stands for:",
+      "o": [
+        "International Union of Physics and Chemistry",
+        "Indian Union of Physical and Applied Chemistry",
+        "International Universal Polymer Association Committee",
+        "International Union of Pure and Applied Chemistry"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomic mass unit (amu or u) is defined as equal to mass of one-twelfth of carbon-12 atom. Carbon-12 mass is taken as:",
+      "o": [
+        "12 u",
+        "16 u",
+        "1 u",
+        "6 u"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Chemical symbol for Sodium is derived from its Latin name Natrium:",
+      "o": [
+        "S",
+        "Na",
+        "Sd",
+        "So"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Chemical symbol for Potassium is derived from Kalium:",
+      "o": [
+        "Pt",
+        "K",
+        "Po",
+        "Ka"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Chemical symbol for Iron is derived from Ferrum:",
+      "o": [
+        "Fe2",
+        "Ir",
+        "Fe",
+        "In"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomicity of Oxygen gas (O2) is:",
+      "o": [
+        "1 (Monoatomic)",
+        "3 (Triatomic)",
+        "2 (Diatomic)",
+        "4 (Tetraatomic)"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomicity of Ozone (O3) is:",
+      "o": [
+        "3 (Triatomic)",
+        "4",
+        "1",
+        "2"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomicity of Phosphorus (P4) is:",
+      "o": [
+        "8",
+        "2",
+        "1",
+        "4 (Tetraatomic)"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomicity of Sulfur (S8) is:",
+      "o": [
+        "Diatomic",
+        "Polyatomic (8)",
+        "Triatomic",
+        "Monoatomic"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomicity of Noble gases like Helium, Neon, Argon is:",
+      "o": [
+        "4",
+        "3",
+        "2",
+        "1 (Monoatomic)"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: A polyatomic ion carrying a net charge is:",
+      "o": [
+        "Element",
+        "Isotope",
+        "Polyatomic ion (e.g., NH4+, SO4^2-)",
+        "Neutral molecule"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Valency of Carbon is:",
+      "o": [
+        "4 (Tetravalent)",
+        "3",
+        "2",
+        "1"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Formula of Aluminium Oxide is:",
+      "o": [
+        "AlO2",
+        "Al2O3",
+        "AlO",
+        "Al3O2"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Formula of Calcium Hydroxide is:",
+      "o": [
+        "Ca2OH",
+        "Ca(OH)3",
+        "Ca(OH)2",
+        "CaOH"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Formula of Sodium Carbonate is:",
+      "o": [
+        "Na(CO3)2",
+        "NaCO3",
+        "Na2CO3",
+        "Na2C"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Molecular mass of H2O is:",
+      "o": [
+        "2 u",
+        "18 u",
+        "20 u",
+        "16 u"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Molecular mass of HNO3 is:",
+      "o": [
+        "70 u",
+        "63 u",
+        "50 u",
+        "60 u"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Molar mass of a substance is expressed in units of:",
+      "o": [
+        "kg",
+        "mg",
+        "g/mol",
+        "u"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Law of Conservation of Mass was given by:",
+      "o": [
+        "John Dalton",
+        "Joseph Proust",
+        "J.J. Thomson",
+        "Antoine Lavoisier"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Law of Definite Proportions (Constant Proportions) was stated by:",
+      "o": [
+        "John Dalton",
+        "Joseph Proust",
+        "Ernest Rutherford",
+        "Antoine Lavoisier"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Who provided the Atomic Theory of Matter?",
+      "o": [
+        "Ernest Rutherford",
+        "Niels Bohr",
+        "John Dalton",
+        "J.J. Thomson"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Water (H2O) always contains Hydrogen and Oxygen in mass ratio:",
+      "o": [
+        "2 : 1",
+        "1 : 2",
+        "8 : 1",
+        "1 : 8"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Ammonia (NH3) always contains Nitrogen and Hydrogen in mass ratio:",
+      "o": [
+        "14 : 3",
+        "1 : 3",
+        "7 : 3",
+        "3 : 14"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Which building block of matter retains chemical properties of an element?",
+      "o": [
+        "Atom",
+        "Mixture",
+        "Solution",
+        "Compound"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomic radius is measured in nanometers (nm). 1 nm = :",
+      "o": [
+        "10^-3 m",
+        "10^-6 m",
+        "10^-12 m",
+        "10^-9 m"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: IUPAC stands for:",
+      "o": [
+        "Indian Union of Physical and Applied Chemistry",
+        "International Union of Pure and Applied Chemistry",
+        "International Universal Polymer Association Committee",
+        "International Union of Physics and Chemistry"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomic mass unit (amu or u) is defined as equal to mass of one-twelfth of carbon-12 atom. Carbon-12 mass is taken as:",
+      "o": [
+        "12 u",
+        "6 u",
+        "16 u",
+        "1 u"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Chemical symbol for Sodium is derived from its Latin name Natrium:",
+      "o": [
+        "S",
+        "Sd",
+        "Na",
+        "So"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Chemical symbol for Potassium is derived from Kalium:",
+      "o": [
+        "Pt",
+        "K",
+        "Po",
+        "Ka"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Chemical symbol for Iron is derived from Ferrum:",
+      "o": [
+        "In",
+        "Fe2",
+        "Ir",
+        "Fe"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomicity of Oxygen gas (O2) is:",
+      "o": [
+        "4 (Tetraatomic)",
+        "1 (Monoatomic)",
+        "2 (Diatomic)",
+        "3 (Triatomic)"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomicity of Ozone (O3) is:",
+      "o": [
+        "4",
+        "3 (Triatomic)",
+        "2",
+        "1"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomicity of Phosphorus (P4) is:",
+      "o": [
+        "1",
+        "4 (Tetraatomic)",
+        "2",
+        "8"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomicity of Sulfur (S8) is:",
+      "o": [
+        "Monoatomic",
+        "Triatomic",
+        "Diatomic",
+        "Polyatomic (8)"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Atomicity of Noble gases like Helium, Neon, Argon is:",
+      "o": [
+        "3",
+        "1 (Monoatomic)",
+        "2",
+        "4"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: A polyatomic ion carrying a net charge is:",
+      "o": [
+        "Isotope",
+        "Element",
+        "Polyatomic ion (e.g., NH4+, SO4^2-)",
+        "Neutral molecule"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Valency of Carbon is:",
+      "o": [
+        "3",
+        "2",
+        "1",
+        "4 (Tetravalent)"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Formula of Aluminium Oxide is:",
+      "o": [
+        "Al2O3",
+        "Al3O2",
+        "AlO",
+        "AlO2"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Formula of Calcium Hydroxide is:",
+      "o": [
+        "Ca(OH)3",
+        "Ca2OH",
+        "Ca(OH)2",
+        "CaOH"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Formula of Sodium Carbonate is:",
+      "o": [
+        "Na(CO3)2",
+        "Na2CO3",
+        "Na2C",
+        "NaCO3"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Molecular mass of H2O is:",
+      "o": [
+        "16 u",
+        "20 u",
+        "18 u",
+        "2 u"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Molecular mass of HNO3 is:",
+      "o": [
+        "63 u",
+        "70 u",
+        "50 u",
+        "60 u"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Molar mass of a substance is expressed in units of:",
+      "o": [
+        "mg",
+        "u",
+        "g/mol",
+        "kg"
+      ],
+      "a": 2
+    }
+  ]
+}

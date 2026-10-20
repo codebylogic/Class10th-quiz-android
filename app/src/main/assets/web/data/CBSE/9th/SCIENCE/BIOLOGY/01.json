@@ -1,0 +1,1007 @@
+{
+  "title": "CBSE Class 9 - Science (Biology)",
+  "subtitle": "The Fundamental Unit of Life",
+  "description": "Online practice test containing 100 high-yield objective MCQs for Class 9 The Fundamental Unit of Life.",
+  "questions": [
+    {
+      "q": "Who discovered cells in cork slice in 1665?",
+      "o": [
+        "Robert Brown",
+        "Robert Hooke",
+        "Anton van Leeuwenhoek",
+        "Purkinje"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Who observed free-living cells in pond water for the first time in 1674?",
+      "o": [
+        "Anton van Leeuwenhoek",
+        "Robert Brown",
+        "Robert Hooke",
+        "Schleiden and Schwann"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Who discovered the nucleus in the cell in 1831?",
+      "o": [
+        "Camillo Golgi",
+        "Robert Brown",
+        "Purkinje",
+        "Robert Hooke"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Who coined the term 'Protoplasm' for the fluid substance of the cell in 1839?",
+      "o": [
+        "Purkinje",
+        "Robert Hooke",
+        "Virchow",
+        "Robert Brown"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Cell theory was presented by two biologists:",
+      "o": [
+        "Darwin and Lamarck",
+        "Schleiden and Schwann",
+        "Hooke and Brown",
+        "Watson and Crick"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Who expanded the cell theory by suggesting that all cells arise from pre-existing cells ('Omnis cellula-e-cellula')?",
+      "o": [
+        "Robert Brown",
+        "Camillo Golgi",
+        "Purkinje",
+        "Rudolf Virchow"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Which organelle is known as the 'Powerhouse of the Cell'?",
+      "o": [
+        "Lysosome",
+        "Golgi apparatus",
+        "Mitochondria",
+        "Ribosome"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Which organelle is known as the 'Suicide Bags' of the cell?",
+      "o": [
+        "Lysosome",
+        "Ribosome",
+        "Mitochondria",
+        "Vacuole"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Which organelle is responsible for protein synthesis?",
+      "o": [
+        "Plastid",
+        "Lysosome",
+        "Ribosome",
+        "Golgi apparatus"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Which organelle is known as the 'Kitchen of the Cell' in plant cells?",
+      "o": [
+        "Chromoplast",
+        "Chloroplast",
+        "Leucoplast",
+        "Mitochondria"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Plant cell wall is mainly composed of:",
+      "o": [
+        "Chitin",
+        "Peptidoglycan",
+        "Cellulose",
+        "Protein"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Fungal cell wall is made of:",
+      "o": [
+        "Suberin",
+        "Lignin",
+        "Cellulose",
+        "Chitin"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The plasma membrane is composed of:",
+      "o": [
+        "Carbohydrates only",
+        "Chitin and Minerals",
+        "Cellulose and Starch",
+        "Lipids and Proteins"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Plasma membrane is selectively permeable because it:",
+      "o": [
+        "Allows only water molecules",
+        "Allows all materials freely",
+        "Allows entry and exit of selected materials",
+        "Prevents entry of all substances"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Movement of water molecules across a selectively permeable membrane from higher water concentration to lower water concentration is called:",
+      "o": [
+        "Active transport",
+        "Diffusion",
+        "Plasmolysis",
+        "Osmosis"
+      ],
+      "a": 3
+    },
+    {
+      "q": "When a plant cell loses water through osmosis and shrinks away from cell wall, the process is called:",
+      "o": [
+        "Deplasmolysis",
+        "Plasmolysis",
+        "Diffusion",
+        "Imbibition"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In an isotonic solution, a cell will:",
+      "o": [
+        "Shrink",
+        "Burst immediately",
+        "Swell up",
+        "Stay same size (no net movement of water)"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In a hypotonic solution, an animal cell will:",
+      "o": [
+        "Swell and may burst",
+        "Undergo plasmolysis",
+        "Shrink",
+        "Remain unchanged"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In a hypertonic solution, a cell will:",
+      "o": [
+        "Remain unchanged",
+        "Divide",
+        "Shrink",
+        "Swell"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Organisms lacking a well-defined nuclear region and membrane-bound organelles are called:",
+      "o": [
+        "Prokaryotes",
+        "Eukaryotes",
+        "Multicellular",
+        "Protozoans"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Undefined nuclear region of a prokaryotic cell containing only nucleic acid is called:",
+      "o": [
+        "Nucleoid",
+        "Nucleolus",
+        "Nucleus",
+        "Chromatin"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Organelles involved in lipid molecule synthesis and detoxification of drugs/poisons in liver cells are:",
+      "o": [
+        "Golgi apparatus",
+        "Rough Endoplasmic Reticulum (RER)",
+        "Lysosomes",
+        "Smooth Endoplasmic Reticulum (SER)"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Rough Endoplasmic Reticulum (RER) looks rough under microscope because it has attached:",
+      "o": [
+        "Plastids",
+        "Lysosomes",
+        "Vacuoles",
+        "Ribosomes"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Mitochondria can synthesize some of their own proteins because they possess their own:",
+      "o": [
+        "RNA only",
+        "Chlorophyll",
+        "Cell wall",
+        "DNA and Ribosomes"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Plastids that store starch, oils, and protein granules are called:",
+      "o": [
+        "Chloroplasts",
+        "Chromoplasts",
+        "Leucoplasts",
+        "Lysosomes"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Who discovered cells in cork slice in 1665?",
+      "o": [
+        "Robert Hooke",
+        "Anton van Leeuwenhoek",
+        "Robert Brown",
+        "Purkinje"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Who observed free-living cells in pond water for the first time in 1674?",
+      "o": [
+        "Schleiden and Schwann",
+        "Anton van Leeuwenhoek",
+        "Robert Hooke",
+        "Robert Brown"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Who discovered the nucleus in the cell in 1831?",
+      "o": [
+        "Camillo Golgi",
+        "Purkinje",
+        "Robert Brown",
+        "Robert Hooke"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Who coined the term 'Protoplasm' for the fluid substance of the cell in 1839?",
+      "o": [
+        "Robert Brown",
+        "Virchow",
+        "Robert Hooke",
+        "Purkinje"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Cell theory was presented by two biologists:",
+      "o": [
+        "Watson and Crick",
+        "Darwin and Lamarck",
+        "Hooke and Brown",
+        "Schleiden and Schwann"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Who expanded the cell theory by suggesting that all cells arise from pre-existing cells ('Omnis cellula-e-cellula')?",
+      "o": [
+        "Rudolf Virchow",
+        "Purkinje",
+        "Robert Brown",
+        "Camillo Golgi"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Which organelle is known as the 'Powerhouse of the Cell'?",
+      "o": [
+        "Lysosome",
+        "Ribosome",
+        "Mitochondria",
+        "Golgi apparatus"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Which organelle is known as the 'Suicide Bags' of the cell?",
+      "o": [
+        "Lysosome",
+        "Mitochondria",
+        "Ribosome",
+        "Vacuole"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Which organelle is responsible for protein synthesis?",
+      "o": [
+        "Golgi apparatus",
+        "Plastid",
+        "Lysosome",
+        "Ribosome"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Which organelle is known as the 'Kitchen of the Cell' in plant cells?",
+      "o": [
+        "Chloroplast",
+        "Leucoplast",
+        "Mitochondria",
+        "Chromoplast"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Plant cell wall is mainly composed of:",
+      "o": [
+        "Protein",
+        "Cellulose",
+        "Peptidoglycan",
+        "Chitin"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Fungal cell wall is made of:",
+      "o": [
+        "Suberin",
+        "Chitin",
+        "Lignin",
+        "Cellulose"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: The plasma membrane is composed of:",
+      "o": [
+        "Lipids and Proteins",
+        "Carbohydrates only",
+        "Chitin and Minerals",
+        "Cellulose and Starch"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Plasma membrane is selectively permeable because it:",
+      "o": [
+        "Allows entry and exit of selected materials",
+        "Prevents entry of all substances",
+        "Allows all materials freely",
+        "Allows only water molecules"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Movement of water molecules across a selectively permeable membrane from higher water concentration to lower water concentration is called:",
+      "o": [
+        "Osmosis",
+        "Diffusion",
+        "Plasmolysis",
+        "Active transport"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: When a plant cell loses water through osmosis and shrinks away from cell wall, the process is called:",
+      "o": [
+        "Diffusion",
+        "Deplasmolysis",
+        "Imbibition",
+        "Plasmolysis"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: In an isotonic solution, a cell will:",
+      "o": [
+        "Burst immediately",
+        "Stay same size (no net movement of water)",
+        "Shrink",
+        "Swell up"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: In a hypotonic solution, an animal cell will:",
+      "o": [
+        "Swell and may burst",
+        "Shrink",
+        "Remain unchanged",
+        "Undergo plasmolysis"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: In a hypertonic solution, a cell will:",
+      "o": [
+        "Swell",
+        "Shrink",
+        "Divide",
+        "Remain unchanged"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Organisms lacking a well-defined nuclear region and membrane-bound organelles are called:",
+      "o": [
+        "Prokaryotes",
+        "Eukaryotes",
+        "Multicellular",
+        "Protozoans"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Undefined nuclear region of a prokaryotic cell containing only nucleic acid is called:",
+      "o": [
+        "Chromatin",
+        "Nucleus",
+        "Nucleolus",
+        "Nucleoid"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Organelles involved in lipid molecule synthesis and detoxification of drugs/poisons in liver cells are:",
+      "o": [
+        "Lysosomes",
+        "Golgi apparatus",
+        "Smooth Endoplasmic Reticulum (SER)",
+        "Rough Endoplasmic Reticulum (RER)"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Rough Endoplasmic Reticulum (RER) looks rough under microscope because it has attached:",
+      "o": [
+        "Plastids",
+        "Ribosomes",
+        "Lysosomes",
+        "Vacuoles"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Mitochondria can synthesize some of their own proteins because they possess their own:",
+      "o": [
+        "Cell wall",
+        "Chlorophyll",
+        "RNA only",
+        "DNA and Ribosomes"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Plastids that store starch, oils, and protein granules are called:",
+      "o": [
+        "Leucoplasts",
+        "Chromoplasts",
+        "Chloroplasts",
+        "Lysosomes"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Who discovered cells in cork slice in 1665?",
+      "o": [
+        "Anton van Leeuwenhoek",
+        "Robert Brown",
+        "Purkinje",
+        "Robert Hooke"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Who observed free-living cells in pond water for the first time in 1674?",
+      "o": [
+        "Schleiden and Schwann",
+        "Robert Hooke",
+        "Anton van Leeuwenhoek",
+        "Robert Brown"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Who discovered the nucleus in the cell in 1831?",
+      "o": [
+        "Camillo Golgi",
+        "Robert Hooke",
+        "Purkinje",
+        "Robert Brown"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Who coined the term 'Protoplasm' for the fluid substance of the cell in 1839?",
+      "o": [
+        "Virchow",
+        "Robert Hooke",
+        "Purkinje",
+        "Robert Brown"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Cell theory was presented by two biologists:",
+      "o": [
+        "Hooke and Brown",
+        "Schleiden and Schwann",
+        "Watson and Crick",
+        "Darwin and Lamarck"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Who expanded the cell theory by suggesting that all cells arise from pre-existing cells ('Omnis cellula-e-cellula')?",
+      "o": [
+        "Rudolf Virchow",
+        "Camillo Golgi",
+        "Purkinje",
+        "Robert Brown"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Which organelle is known as the 'Powerhouse of the Cell'?",
+      "o": [
+        "Ribosome",
+        "Golgi apparatus",
+        "Mitochondria",
+        "Lysosome"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Which organelle is known as the 'Suicide Bags' of the cell?",
+      "o": [
+        "Mitochondria",
+        "Ribosome",
+        "Vacuole",
+        "Lysosome"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Which organelle is responsible for protein synthesis?",
+      "o": [
+        "Ribosome",
+        "Plastid",
+        "Lysosome",
+        "Golgi apparatus"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Which organelle is known as the 'Kitchen of the Cell' in plant cells?",
+      "o": [
+        "Chromoplast",
+        "Chloroplast",
+        "Leucoplast",
+        "Mitochondria"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Plant cell wall is mainly composed of:",
+      "o": [
+        "Peptidoglycan",
+        "Cellulose",
+        "Chitin",
+        "Protein"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Fungal cell wall is made of:",
+      "o": [
+        "Lignin",
+        "Cellulose",
+        "Chitin",
+        "Suberin"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The plasma membrane is composed of:",
+      "o": [
+        "Cellulose and Starch",
+        "Chitin and Minerals",
+        "Lipids and Proteins",
+        "Carbohydrates only"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Plasma membrane is selectively permeable because it:",
+      "o": [
+        "Allows entry and exit of selected materials",
+        "Allows only water molecules",
+        "Allows all materials freely",
+        "Prevents entry of all substances"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Movement of water molecules across a selectively permeable membrane from higher water concentration to lower water concentration is called:",
+      "o": [
+        "Active transport",
+        "Plasmolysis",
+        "Diffusion",
+        "Osmosis"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: When a plant cell loses water through osmosis and shrinks away from cell wall, the process is called:",
+      "o": [
+        "Deplasmolysis",
+        "Plasmolysis",
+        "Diffusion",
+        "Imbibition"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: In an isotonic solution, a cell will:",
+      "o": [
+        "Burst immediately",
+        "Shrink",
+        "Swell up",
+        "Stay same size (no net movement of water)"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: In a hypotonic solution, an animal cell will:",
+      "o": [
+        "Remain unchanged",
+        "Undergo plasmolysis",
+        "Swell and may burst",
+        "Shrink"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: In a hypertonic solution, a cell will:",
+      "o": [
+        "Shrink",
+        "Divide",
+        "Swell",
+        "Remain unchanged"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Organisms lacking a well-defined nuclear region and membrane-bound organelles are called:",
+      "o": [
+        "Multicellular",
+        "Prokaryotes",
+        "Eukaryotes",
+        "Protozoans"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Undefined nuclear region of a prokaryotic cell containing only nucleic acid is called:",
+      "o": [
+        "Nucleus",
+        "Chromatin",
+        "Nucleoid",
+        "Nucleolus"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Organelles involved in lipid molecule synthesis and detoxification of drugs/poisons in liver cells are:",
+      "o": [
+        "Golgi apparatus",
+        "Rough Endoplasmic Reticulum (RER)",
+        "Smooth Endoplasmic Reticulum (SER)",
+        "Lysosomes"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Rough Endoplasmic Reticulum (RER) looks rough under microscope because it has attached:",
+      "o": [
+        "Vacuoles",
+        "Ribosomes",
+        "Plastids",
+        "Lysosomes"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Mitochondria can synthesize some of their own proteins because they possess their own:",
+      "o": [
+        "Chlorophyll",
+        "DNA and Ribosomes",
+        "RNA only",
+        "Cell wall"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Plastids that store starch, oils, and protein granules are called:",
+      "o": [
+        "Chloroplasts",
+        "Lysosomes",
+        "Leucoplasts",
+        "Chromoplasts"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Who discovered cells in cork slice in 1665?",
+      "o": [
+        "Robert Brown",
+        "Anton van Leeuwenhoek",
+        "Purkinje",
+        "Robert Hooke"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Who observed free-living cells in pond water for the first time in 1674?",
+      "o": [
+        "Robert Brown",
+        "Anton van Leeuwenhoek",
+        "Schleiden and Schwann",
+        "Robert Hooke"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Who discovered the nucleus in the cell in 1831?",
+      "o": [
+        "Camillo Golgi",
+        "Robert Hooke",
+        "Robert Brown",
+        "Purkinje"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Who coined the term 'Protoplasm' for the fluid substance of the cell in 1839?",
+      "o": [
+        "Robert Brown",
+        "Robert Hooke",
+        "Virchow",
+        "Purkinje"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Cell theory was presented by two biologists:",
+      "o": [
+        "Schleiden and Schwann",
+        "Hooke and Brown",
+        "Darwin and Lamarck",
+        "Watson and Crick"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Who expanded the cell theory by suggesting that all cells arise from pre-existing cells ('Omnis cellula-e-cellula')?",
+      "o": [
+        "Rudolf Virchow",
+        "Purkinje",
+        "Camillo Golgi",
+        "Robert Brown"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Which organelle is known as the 'Powerhouse of the Cell'?",
+      "o": [
+        "Golgi apparatus",
+        "Ribosome",
+        "Lysosome",
+        "Mitochondria"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Which organelle is known as the 'Suicide Bags' of the cell?",
+      "o": [
+        "Ribosome",
+        "Lysosome",
+        "Vacuole",
+        "Mitochondria"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Which organelle is responsible for protein synthesis?",
+      "o": [
+        "Ribosome",
+        "Golgi apparatus",
+        "Plastid",
+        "Lysosome"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Which organelle is known as the 'Kitchen of the Cell' in plant cells?",
+      "o": [
+        "Chromoplast",
+        "Leucoplast",
+        "Chloroplast",
+        "Mitochondria"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Plant cell wall is mainly composed of:",
+      "o": [
+        "Peptidoglycan",
+        "Cellulose",
+        "Chitin",
+        "Protein"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Fungal cell wall is made of:",
+      "o": [
+        "Suberin",
+        "Lignin",
+        "Cellulose",
+        "Chitin"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: The plasma membrane is composed of:",
+      "o": [
+        "Carbohydrates only",
+        "Cellulose and Starch",
+        "Lipids and Proteins",
+        "Chitin and Minerals"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Plasma membrane is selectively permeable because it:",
+      "o": [
+        "Allows only water molecules",
+        "Allows entry and exit of selected materials",
+        "Prevents entry of all substances",
+        "Allows all materials freely"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Movement of water molecules across a selectively permeable membrane from higher water concentration to lower water concentration is called:",
+      "o": [
+        "Diffusion",
+        "Osmosis",
+        "Plasmolysis",
+        "Active transport"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: When a plant cell loses water through osmosis and shrinks away from cell wall, the process is called:",
+      "o": [
+        "Imbibition",
+        "Diffusion",
+        "Deplasmolysis",
+        "Plasmolysis"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: In an isotonic solution, a cell will:",
+      "o": [
+        "Shrink",
+        "Stay same size (no net movement of water)",
+        "Swell up",
+        "Burst immediately"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: In a hypotonic solution, an animal cell will:",
+      "o": [
+        "Undergo plasmolysis",
+        "Remain unchanged",
+        "Swell and may burst",
+        "Shrink"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: In a hypertonic solution, a cell will:",
+      "o": [
+        "Divide",
+        "Swell",
+        "Remain unchanged",
+        "Shrink"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Organisms lacking a well-defined nuclear region and membrane-bound organelles are called:",
+      "o": [
+        "Prokaryotes",
+        "Protozoans",
+        "Eukaryotes",
+        "Multicellular"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Undefined nuclear region of a prokaryotic cell containing only nucleic acid is called:",
+      "o": [
+        "Chromatin",
+        "Nucleus",
+        "Nucleoid",
+        "Nucleolus"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Organelles involved in lipid molecule synthesis and detoxification of drugs/poisons in liver cells are:",
+      "o": [
+        "Golgi apparatus",
+        "Smooth Endoplasmic Reticulum (SER)",
+        "Lysosomes",
+        "Rough Endoplasmic Reticulum (RER)"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Rough Endoplasmic Reticulum (RER) looks rough under microscope because it has attached:",
+      "o": [
+        "Lysosomes",
+        "Plastids",
+        "Ribosomes",
+        "Vacuoles"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Mitochondria can synthesize some of their own proteins because they possess their own:",
+      "o": [
+        "DNA and Ribosomes",
+        "Chlorophyll",
+        "RNA only",
+        "Cell wall"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Plastids that store starch, oils, and protein granules are called:",
+      "o": [
+        "Lysosomes",
+        "Chromoplasts",
+        "Leucoplasts",
+        "Chloroplasts"
+      ],
+      "a": 2
+    }
+  ]
+}

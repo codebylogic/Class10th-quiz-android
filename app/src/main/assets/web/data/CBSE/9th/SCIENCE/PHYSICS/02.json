@@ -1,0 +1,1007 @@
+{
+  "title": "CBSE Class 9 - Science (Physics)",
+  "subtitle": "Force and Laws of Motion",
+  "description": "Online practice test containing 100 high-yield objective MCQs for Class 9 Force and Laws of Motion.",
+  "questions": [
+    {
+      "q": "What is the SI unit of force?",
+      "o": [
+        "Joule",
+        "Newton",
+        "Dyne",
+        "Pascal"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Which law of motion gives the quantitative definition of force?",
+      "o": [
+        "Newton's Second Law of Motion",
+        "Newton's Third Law of Motion",
+        "Newton's First Law of Motion",
+        "Law of Conservation of Energy"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Which law of motion gives the qualitative definition of force (inertia)?",
+      "o": [
+        "Law of Gravitation",
+        "Newton's First Law of Motion",
+        "Newton's Third Law of Motion",
+        "Newton's Second Law of Motion"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Inertia of an object depends on its:",
+      "o": [
+        "Mass",
+        "Volume",
+        "Shape",
+        "Velocity"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Momentum is a product of:",
+      "o": [
+        "Mass and Speed",
+        "Mass and Velocity",
+        "Force and Time",
+        "Mass and Acceleration"
+      ],
+      "a": 1
+    },
+    {
+      "q": "What is the SI unit of momentum?",
+      "o": [
+        "kg m/s^2",
+        "Joule",
+        "N s^2",
+        "kg m/s"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Action and reaction forces act on:",
+      "o": [
+        "Same body in opposite directions",
+        "Two different bodies in same direction",
+        "Two different bodies in opposite directions",
+        "Same body in same direction"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Recoil of a gun after firing a bullet is an example of:",
+      "o": [
+        "Newton's Third Law of Motion",
+        "Newton's First Law of Motion",
+        "Newton's Second Law of Motion",
+        "Law of Gravitation"
+      ],
+      "a": 0
+    },
+    {
+      "q": "When a carpet is beaten with a stick, dust comes out. This is due to:",
+      "o": [
+        "Gravitational force",
+        "Inertia of motion",
+        "Inertia of rest",
+        "Inertia of direction"
+      ],
+      "a": 2
+    },
+    {
+      "q": "A passenger in a moving bus tends to fall forward when the bus stops suddenly. This is due to:",
+      "o": [
+        "Centripetal force",
+        "Inertia of motion",
+        "Inertia of direction",
+        "Inertia of rest"
+      ],
+      "a": 1
+    },
+    {
+      "q": "A passenger in a bus tends to fall backward when the bus starts suddenly from rest. This is due to:",
+      "o": [
+        "Inertia of motion",
+        "Inertia of direction",
+        "Inertia of rest",
+        "Friction"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Which of the following has more inertia: a rubber ball or a stone of the same size?",
+      "o": [
+        "Neither has inertia",
+        "Both have same inertia",
+        "Rubber ball",
+        "Stone of same size"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The force required to produce an acceleration of 2 m/s^2 in a mass of 5 kg is:",
+      "o": [
+        "7 N",
+        "0.4 N",
+        "2.5 N",
+        "10 N"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The total momentum of two objects before collision is equal to total momentum after collision provided no external force acts. This is:",
+      "o": [
+        "Law of Inertia",
+        "Law of Conservation of Energy",
+        "Law of Conservation of Momentum",
+        "Newton's Second Law"
+      ],
+      "a": 2
+    },
+    {
+      "q": "1 Newton is equal to:",
+      "o": [
+        "1 kg m^2/s",
+        "1 kg m/s",
+        "1 g cm/s^2",
+        "1 kg m/s^2"
+      ],
+      "a": 3
+    },
+    {
+      "q": "High jumper falls on a cushioned bed or sand bed to:",
+      "o": [
+        "Decrease time of impact",
+        "Increase time of impact and reduce force",
+        "Increase momentum",
+        "Decrease momentum"
+      ],
+      "a": 1
+    },
+    {
+      "q": "A fielder pulls his hands backward while catching a fast cricket ball to:",
+      "o": [
+        "Increase force",
+        "Keep momentum constant",
+        "Decrease time of catch",
+        "Increase time of catch and reduce impact force"
+      ],
+      "a": 3
+    },
+    {
+      "q": "A rocket works on the principle of conservation of:",
+      "o": [
+        "Momentum",
+        "Velocity",
+        "Mass",
+        "Energy"
+      ],
+      "a": 0
+    },
+    {
+      "q": "When balanced forces act on a body, the net force is:",
+      "o": [
+        "Negative",
+        "Infinite",
+        "Zero",
+        "Positive"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Unbalanced forces acting on an object produce:",
+      "o": [
+        "Change in speed or direction of motion",
+        "No change in motion",
+        "Zero acceleration",
+        "Constant velocity"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Force of friction always acts in a direction:",
+      "o": [
+        "Opposite to the direction of motion",
+        "Same as direction of motion",
+        "Perpendicular to motion",
+        "At 45 degrees to motion"
+      ],
+      "a": 0
+    },
+    {
+      "q": "An object of mass 2 kg is sliding with a constant velocity of 4 m/s on a frictionless horizontal table. The force required to keep the object moving with the same velocity is:",
+      "o": [
+        "2 N",
+        "8 N",
+        "32 N",
+        "0 N"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Inertia is the natural tendency of an object to resist a change in its:",
+      "o": [
+        "Chemical composition",
+        "Mass",
+        "Volume",
+        "State of rest or uniform motion"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Rate of change of momentum is directly proportional to:",
+      "o": [
+        "Inertia",
+        "Displacement",
+        "Velocity",
+        "Applied force"
+      ],
+      "a": 3
+    },
+    {
+      "q": "If mass of a body is doubled keeping force constant, its acceleration becomes:",
+      "o": [
+        "Four times",
+        "Double",
+        "Half",
+        "One fourth"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: What is the SI unit of force?",
+      "o": [
+        "Newton",
+        "Dyne",
+        "Joule",
+        "Pascal"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Which law of motion gives the quantitative definition of force?",
+      "o": [
+        "Law of Conservation of Energy",
+        "Newton's Second Law of Motion",
+        "Newton's First Law of Motion",
+        "Newton's Third Law of Motion"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Which law of motion gives the qualitative definition of force (inertia)?",
+      "o": [
+        "Law of Gravitation",
+        "Newton's Third Law of Motion",
+        "Newton's First Law of Motion",
+        "Newton's Second Law of Motion"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Inertia of an object depends on its:",
+      "o": [
+        "Velocity",
+        "Shape",
+        "Volume",
+        "Mass"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Momentum is a product of:",
+      "o": [
+        "Mass and Acceleration",
+        "Mass and Speed",
+        "Force and Time",
+        "Mass and Velocity"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: What is the SI unit of momentum?",
+      "o": [
+        "kg m/s",
+        "N s^2",
+        "kg m/s^2",
+        "Joule"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Action and reaction forces act on:",
+      "o": [
+        "Same body in opposite directions",
+        "Same body in same direction",
+        "Two different bodies in opposite directions",
+        "Two different bodies in same direction"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Recoil of a gun after firing a bullet is an example of:",
+      "o": [
+        "Newton's Third Law of Motion",
+        "Newton's Second Law of Motion",
+        "Newton's First Law of Motion",
+        "Law of Gravitation"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: When a carpet is beaten with a stick, dust comes out. This is due to:",
+      "o": [
+        "Inertia of direction",
+        "Gravitational force",
+        "Inertia of motion",
+        "Inertia of rest"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: A passenger in a moving bus tends to fall forward when the bus stops suddenly. This is due to:",
+      "o": [
+        "Inertia of motion",
+        "Inertia of direction",
+        "Inertia of rest",
+        "Centripetal force"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: A passenger in a bus tends to fall backward when the bus starts suddenly from rest. This is due to:",
+      "o": [
+        "Friction",
+        "Inertia of rest",
+        "Inertia of direction",
+        "Inertia of motion"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Which of the following has more inertia: a rubber ball or a stone of the same size?",
+      "o": [
+        "Neither has inertia",
+        "Stone of same size",
+        "Both have same inertia",
+        "Rubber ball"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: The force required to produce an acceleration of 2 m/s^2 in a mass of 5 kg is:",
+      "o": [
+        "10 N",
+        "7 N",
+        "0.4 N",
+        "2.5 N"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: The total momentum of two objects before collision is equal to total momentum after collision provided no external force acts. This is:",
+      "o": [
+        "Law of Conservation of Momentum",
+        "Newton's Second Law",
+        "Law of Conservation of Energy",
+        "Law of Inertia"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: 1 Newton is equal to:",
+      "o": [
+        "1 kg m/s^2",
+        "1 kg m/s",
+        "1 g cm/s^2",
+        "1 kg m^2/s"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: High jumper falls on a cushioned bed or sand bed to:",
+      "o": [
+        "Increase momentum",
+        "Decrease time of impact",
+        "Decrease momentum",
+        "Increase time of impact and reduce force"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: A fielder pulls his hands backward while catching a fast cricket ball to:",
+      "o": [
+        "Keep momentum constant",
+        "Increase time of catch and reduce impact force",
+        "Increase force",
+        "Decrease time of catch"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: A rocket works on the principle of conservation of:",
+      "o": [
+        "Momentum",
+        "Mass",
+        "Energy",
+        "Velocity"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: When balanced forces act on a body, the net force is:",
+      "o": [
+        "Positive",
+        "Zero",
+        "Infinite",
+        "Negative"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Unbalanced forces acting on an object produce:",
+      "o": [
+        "Change in speed or direction of motion",
+        "No change in motion",
+        "Zero acceleration",
+        "Constant velocity"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Force of friction always acts in a direction:",
+      "o": [
+        "At 45 degrees to motion",
+        "Perpendicular to motion",
+        "Same as direction of motion",
+        "Opposite to the direction of motion"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: An object of mass 2 kg is sliding with a constant velocity of 4 m/s on a frictionless horizontal table. The force required to keep the object moving with the same velocity is:",
+      "o": [
+        "32 N",
+        "2 N",
+        "0 N",
+        "8 N"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Inertia is the natural tendency of an object to resist a change in its:",
+      "o": [
+        "Chemical composition",
+        "State of rest or uniform motion",
+        "Mass",
+        "Volume"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Rate of change of momentum is directly proportional to:",
+      "o": [
+        "Velocity",
+        "Displacement",
+        "Inertia",
+        "Applied force"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: If mass of a body is doubled keeping force constant, its acceleration becomes:",
+      "o": [
+        "Half",
+        "Double",
+        "Four times",
+        "One fourth"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: What is the SI unit of force?",
+      "o": [
+        "Dyne",
+        "Joule",
+        "Pascal",
+        "Newton"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Which law of motion gives the quantitative definition of force?",
+      "o": [
+        "Law of Conservation of Energy",
+        "Newton's First Law of Motion",
+        "Newton's Second Law of Motion",
+        "Newton's Third Law of Motion"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Which law of motion gives the qualitative definition of force (inertia)?",
+      "o": [
+        "Law of Gravitation",
+        "Newton's Second Law of Motion",
+        "Newton's Third Law of Motion",
+        "Newton's First Law of Motion"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Inertia of an object depends on its:",
+      "o": [
+        "Shape",
+        "Volume",
+        "Mass",
+        "Velocity"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Momentum is a product of:",
+      "o": [
+        "Force and Time",
+        "Mass and Velocity",
+        "Mass and Acceleration",
+        "Mass and Speed"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: What is the SI unit of momentum?",
+      "o": [
+        "kg m/s",
+        "Joule",
+        "N s^2",
+        "kg m/s^2"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Action and reaction forces act on:",
+      "o": [
+        "Same body in same direction",
+        "Two different bodies in same direction",
+        "Two different bodies in opposite directions",
+        "Same body in opposite directions"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Recoil of a gun after firing a bullet is an example of:",
+      "o": [
+        "Newton's Second Law of Motion",
+        "Newton's First Law of Motion",
+        "Law of Gravitation",
+        "Newton's Third Law of Motion"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: When a carpet is beaten with a stick, dust comes out. This is due to:",
+      "o": [
+        "Inertia of rest",
+        "Gravitational force",
+        "Inertia of motion",
+        "Inertia of direction"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: A passenger in a moving bus tends to fall forward when the bus stops suddenly. This is due to:",
+      "o": [
+        "Centripetal force",
+        "Inertia of motion",
+        "Inertia of direction",
+        "Inertia of rest"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: A passenger in a bus tends to fall backward when the bus starts suddenly from rest. This is due to:",
+      "o": [
+        "Inertia of direction",
+        "Inertia of rest",
+        "Inertia of motion",
+        "Friction"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Which of the following has more inertia: a rubber ball or a stone of the same size?",
+      "o": [
+        "Both have same inertia",
+        "Rubber ball",
+        "Stone of same size",
+        "Neither has inertia"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The force required to produce an acceleration of 2 m/s^2 in a mass of 5 kg is:",
+      "o": [
+        "2.5 N",
+        "0.4 N",
+        "10 N",
+        "7 N"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The total momentum of two objects before collision is equal to total momentum after collision provided no external force acts. This is:",
+      "o": [
+        "Law of Conservation of Momentum",
+        "Law of Inertia",
+        "Law of Conservation of Energy",
+        "Newton's Second Law"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: 1 Newton is equal to:",
+      "o": [
+        "1 kg m^2/s",
+        "1 g cm/s^2",
+        "1 kg m/s",
+        "1 kg m/s^2"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: High jumper falls on a cushioned bed or sand bed to:",
+      "o": [
+        "Decrease time of impact",
+        "Increase time of impact and reduce force",
+        "Increase momentum",
+        "Decrease momentum"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: A fielder pulls his hands backward while catching a fast cricket ball to:",
+      "o": [
+        "Keep momentum constant",
+        "Increase force",
+        "Decrease time of catch",
+        "Increase time of catch and reduce impact force"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: A rocket works on the principle of conservation of:",
+      "o": [
+        "Energy",
+        "Velocity",
+        "Momentum",
+        "Mass"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: When balanced forces act on a body, the net force is:",
+      "o": [
+        "Zero",
+        "Infinite",
+        "Positive",
+        "Negative"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Unbalanced forces acting on an object produce:",
+      "o": [
+        "Zero acceleration",
+        "Change in speed or direction of motion",
+        "No change in motion",
+        "Constant velocity"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Force of friction always acts in a direction:",
+      "o": [
+        "Perpendicular to motion",
+        "At 45 degrees to motion",
+        "Opposite to the direction of motion",
+        "Same as direction of motion"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: An object of mass 2 kg is sliding with a constant velocity of 4 m/s on a frictionless horizontal table. The force required to keep the object moving with the same velocity is:",
+      "o": [
+        "2 N",
+        "8 N",
+        "0 N",
+        "32 N"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Inertia is the natural tendency of an object to resist a change in its:",
+      "o": [
+        "Volume",
+        "State of rest or uniform motion",
+        "Chemical composition",
+        "Mass"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Rate of change of momentum is directly proportional to:",
+      "o": [
+        "Displacement",
+        "Applied force",
+        "Inertia",
+        "Velocity"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: If mass of a body is doubled keeping force constant, its acceleration becomes:",
+      "o": [
+        "Four times",
+        "One fourth",
+        "Half",
+        "Double"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: What is the SI unit of force?",
+      "o": [
+        "Joule",
+        "Dyne",
+        "Pascal",
+        "Newton"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Which law of motion gives the quantitative definition of force?",
+      "o": [
+        "Newton's Third Law of Motion",
+        "Newton's Second Law of Motion",
+        "Law of Conservation of Energy",
+        "Newton's First Law of Motion"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Which law of motion gives the qualitative definition of force (inertia)?",
+      "o": [
+        "Law of Gravitation",
+        "Newton's Second Law of Motion",
+        "Newton's First Law of Motion",
+        "Newton's Third Law of Motion"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Inertia of an object depends on its:",
+      "o": [
+        "Velocity",
+        "Volume",
+        "Shape",
+        "Mass"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Momentum is a product of:",
+      "o": [
+        "Mass and Velocity",
+        "Force and Time",
+        "Mass and Speed",
+        "Mass and Acceleration"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: What is the SI unit of momentum?",
+      "o": [
+        "kg m/s",
+        "N s^2",
+        "Joule",
+        "kg m/s^2"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Action and reaction forces act on:",
+      "o": [
+        "Two different bodies in same direction",
+        "Same body in same direction",
+        "Same body in opposite directions",
+        "Two different bodies in opposite directions"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Recoil of a gun after firing a bullet is an example of:",
+      "o": [
+        "Newton's First Law of Motion",
+        "Newton's Third Law of Motion",
+        "Law of Gravitation",
+        "Newton's Second Law of Motion"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: When a carpet is beaten with a stick, dust comes out. This is due to:",
+      "o": [
+        "Inertia of rest",
+        "Inertia of direction",
+        "Gravitational force",
+        "Inertia of motion"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: A passenger in a moving bus tends to fall forward when the bus stops suddenly. This is due to:",
+      "o": [
+        "Centripetal force",
+        "Inertia of direction",
+        "Inertia of motion",
+        "Inertia of rest"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: A passenger in a bus tends to fall backward when the bus starts suddenly from rest. This is due to:",
+      "o": [
+        "Inertia of direction",
+        "Inertia of rest",
+        "Inertia of motion",
+        "Friction"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Which of the following has more inertia: a rubber ball or a stone of the same size?",
+      "o": [
+        "Neither has inertia",
+        "Both have same inertia",
+        "Rubber ball",
+        "Stone of same size"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: The force required to produce an acceleration of 2 m/s^2 in a mass of 5 kg is:",
+      "o": [
+        "7 N",
+        "2.5 N",
+        "10 N",
+        "0.4 N"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The total momentum of two objects before collision is equal to total momentum after collision provided no external force acts. This is:",
+      "o": [
+        "Law of Inertia",
+        "Law of Conservation of Momentum",
+        "Newton's Second Law",
+        "Law of Conservation of Energy"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: 1 Newton is equal to:",
+      "o": [
+        "1 kg m/s",
+        "1 kg m/s^2",
+        "1 g cm/s^2",
+        "1 kg m^2/s"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: High jumper falls on a cushioned bed or sand bed to:",
+      "o": [
+        "Decrease momentum",
+        "Increase momentum",
+        "Decrease time of impact",
+        "Increase time of impact and reduce force"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: A fielder pulls his hands backward while catching a fast cricket ball to:",
+      "o": [
+        "Increase force",
+        "Increase time of catch and reduce impact force",
+        "Decrease time of catch",
+        "Keep momentum constant"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: A rocket works on the principle of conservation of:",
+      "o": [
+        "Velocity",
+        "Energy",
+        "Momentum",
+        "Mass"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: When balanced forces act on a body, the net force is:",
+      "o": [
+        "Infinite",
+        "Positive",
+        "Negative",
+        "Zero"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Unbalanced forces acting on an object produce:",
+      "o": [
+        "Change in speed or direction of motion",
+        "Constant velocity",
+        "No change in motion",
+        "Zero acceleration"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Force of friction always acts in a direction:",
+      "o": [
+        "At 45 degrees to motion",
+        "Perpendicular to motion",
+        "Opposite to the direction of motion",
+        "Same as direction of motion"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: An object of mass 2 kg is sliding with a constant velocity of 4 m/s on a frictionless horizontal table. The force required to keep the object moving with the same velocity is:",
+      "o": [
+        "2 N",
+        "0 N",
+        "32 N",
+        "8 N"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Inertia is the natural tendency of an object to resist a change in its:",
+      "o": [
+        "Mass",
+        "Chemical composition",
+        "State of rest or uniform motion",
+        "Volume"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Rate of change of momentum is directly proportional to:",
+      "o": [
+        "Applied force",
+        "Displacement",
+        "Inertia",
+        "Velocity"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: If mass of a body is doubled keeping force constant, its acceleration becomes:",
+      "o": [
+        "One fourth",
+        "Double",
+        "Half",
+        "Four times"
+      ],
+      "a": 2
+    }
+  ]
+}

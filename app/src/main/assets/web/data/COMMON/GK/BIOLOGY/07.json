@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "पारिस्थितिकी और पर्यावरण / Ecology & Environment",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Ecology & Environment.",
+  "questions": [
+    {
+      "q": {
+        "hi": "1866 ई. में 'पारिस्थितिकी' (Ecology / Ökologie) शब्द का प्रयोग सर्वप्रथम किसने किया था?",
+        "en": "Who coined the term 'Ecology' (Ökologie) in the year 1866?"
+      },
+      "o": [
+        {
+          "hi": "अर्न्स्ट हैकल (Ernst Haeckel)",
+          "en": "Ernst Haeckel"
+        },
+        {
+          "hi": "ए",
+          "en": "A.G. Tansley"
+        },
+        {
+          "hi": ".",
+          "en": "Charles Elton"
+        },
+        {
+          "hi": " ",
+          "en": "E.P. Odum"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1935 ई. में 'पारिस्थितिक तंत्र' (Ecosystem) शब्द का प्रतिपादन किसने किया था?",
+        "en": "Who introduced the term 'Ecosystem' in 1935?"
+      },
+      "o": [
+        {
+          "hi": "अर्न्स्ट हैकल",
+          "en": "Ernst Haeckel"
+        },
+        {
+          "hi": "ए. जी. टांसले (A.G. Tansley)",
+          "en": "A.G. Tansley"
+        },
+        {
+          "hi": "रामदेव मिश्र",
+          "en": "Ramdeo Misra"
+        },
+        {
+          "hi": "चार्ल्स डार्विन",
+          "en": "Charles Darwin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'भारत में पारिस्थितिकी के जनक' (Father of Ecology in India) किसे कहा जाता है?",
+        "en": "Who is revered as the 'Father of Ecology in India'?"
+      },
+      "o": [
+        {
+          "hi": "एम.एस. स्वामीनाथन",
+          "en": "M.S. Swaminathan"
+        },
+        {
+          "hi": "बीरबल साहनी",
+          "en": "Birbal Sahni"
+        },
+        {
+          "hi": "प्रो. रामदेव मिश्र (Ramdeo Misra)",
+          "en": "Prof. Ramdeo Misra"
+        },
+        {
+          "hi": "सलीम अली",
+          "en": "Salim Ali"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पारिस्थितिक तंत्र के जैविक घटकों (Biotic Components) में कौन शामिल हैं?",
+        "en": "Which of the following constitute the Biotic components of an ecosystem?"
+      },
+      "o": [
+        {
+          "hi": "तापमान, प्रकाश एवं जल",
+          "en": "Temperature, Light & Water"
+        },
+        {
+          "hi": "मृदा, खनिज एवं वायु",
+          "en": "Soil, Minerals & Air"
+        },
+        {
+          "hi": "सौर ऊर्जा एवं आर्द्रता",
+          "en": "Solar energy & Humidity"
+        },
+        {
+          "hi": "उत्पादक, उपभोक्ता एवं अपघटक",
+          "en": "Producers, Consumers, and Decomposers"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सौर ऊर्जा को रासायनिक ऊर्जा में बदलकर स्वपोषी भोजन बनाने वाले हरे पौधे?",
+        "en": "Green plants that fix solar energy into organic food are classified as?"
+      },
+      "o": [
+        {
+          "hi": "प्राथमिक उत्पादक (Primary Producers)",
+          "en": "Primary Producers"
+        },
+        {
+          "hi": "प्राथमिक उपभोक्ता",
+          "en": "Primary Consumers"
+        },
+        {
+          "hi": "द्वितीयक उपभोक्ता",
+          "en": "Secondary Consumers"
+        },
+        {
+          "hi": "अपघटक",
+          "en": "Decomposers"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शाकाहारी जीव जो सीधे प्राथमिक उत्पादकों (पौधों) का भक्षण करते हैं?",
+        "en": "Herbivorous animals that feed directly on green producers are termed as?"
+      },
+      "o": [
+        {
+          "hi": "द्वितीयक उपभोक्ता",
+          "en": "Secondary Consumers"
+        },
+        {
+          "hi": "प्राथमिक उपभोक्ता (Primary Consumers)",
+          "en": "Primary Consumers"
+        },
+        {
+          "hi": "तृतीयक उपभोक्ता",
+          "en": "Tertiary Consumers"
+        },
+        {
+          "hi": "उत्पादक",
+          "en": "Producers"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मृत कार्बनिक पदार्थों का अपघटन करके खनिजों का पुनर्चक्रण करने वाले सूक्ष्मजीव (जीवाणु एवं कवक)?",
+        "en": "Microorganisms breaking down dead organic matter and recycling nutrients are?"
+      },
+      "o": [
+        {
+          "hi": "प्राथमिक उत्पादक",
+          "en": "Primary Producers"
+        },
+        {
+          "hi": "मांसाहारी जीव",
+          "en": "Carnivores"
+        },
+        {
+          "hi": "अपघटक (Decomposers / Saprotrophs)",
+          "en": "Decomposers / Saprotrophs"
+        },
+        {
+          "hi": "परजीवी",
+          "en": "Parasites"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एक पारिस्थितिक तंत्र में भोजन ऊर्जा का एक जीव से दूसरे जीव में रैखिक स्थानांतरण?",
+        "en": "The single linear sequence of transfer of food energy from organism to organism is?"
+      },
+      "o": [
+        {
+          "hi": "खाद्य जाल (Food Web)",
+          "en": "Food Web"
+        },
+        {
+          "hi": "पारिस्थितिक पिरामिड",
+          "en": "Ecological Pyramid"
+        },
+        {
+          "hi": "ट्रॉफिक स्तर",
+          "en": "Trophic Level"
+        },
+        {
+          "hi": "खाद्य श्रृंखला (Food Chain)",
+          "en": "Food Chain"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पारिस्थितिक तंत्र में अनेक खाद्य श्रृंखलाओं का आपस में जुड़ा जटिल जाल?",
+        "en": "An interconnected network of multiple food chains in an ecosystem is called?"
+      },
+      "o": [
+        {
+          "hi": "खाद्य जाल (Food Web)",
+          "en": "Food Web"
+        },
+        {
+          "hi": "खाद्य श्रृंखला",
+          "en": "Food Chain"
+        },
+        {
+          "hi": "बायोम",
+          "en": "Biome"
+        },
+        {
+          "hi": "इकोटोन",
+          "en": "Ecotone"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एक पोषण स्तर से अगले पोषण स्तर में केवल 10% ऊर्जा स्थानांतरण का नियम किसने दिया?",
+        "en": "Who proposed the 10% Law of energy transfer across successive trophic levels in 1942?"
+      },
+      "o": [
+        {
+          "hi": "चार्ल्स एल्टन",
+          "en": "Charles Elton"
+        },
+        {
+          "hi": "रेमंड लिंडमैन (Raymond Lindeman)",
+          "en": "Raymond Lindeman"
+        },
+        {
+          "hi": "टांसले",
+          "en": "Tansley"
+        },
+        {
+          "hi": "हैकल",
+          "en": "Haeckel"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पारिस्थितिक पिरामिड (Ecological Pyramids) की अवधारणा सर्वप्रथम किसने प्रस्तुत की थी?",
+        "en": "Who introduced the concept of Ecological Pyramids in ecology?"
+      },
+      "o": [
+        {
+          "hi": "लिंडमैन",
+          "en": "Lindeman"
+        },
+        {
+          "hi": "ओडम",
+          "en": "Odum"
+        },
+        {
+          "hi": "चार्ल्स एल्टन (Charles Elton)",
+          "en": "Charles Elton"
+        },
+        {
+          "hi": "मिश्र",
+          "en": "Misra"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन सा पारिस्थितिक पिरामिड सभी पारिस्थितिक तंत्रों में सदैव सीधा (Upright) होता है?",
+        "en": "Which type of ecological pyramid is ALWAYS upright in any functional ecosystem?"
+      },
+      "o": [
+        {
+          "hi": "संख्या का पिरामिड",
+          "en": "Pyramid of Numbers"
+        },
+        {
+          "hi": "जीवभार (Biomass) का पिरामिड",
+          "en": "Pyramid of Biomass"
+        },
+        {
+          "hi": "ऊंचाई का पिरामिड",
+          "en": "Pyramid of Height"
+        },
+        {
+          "hi": "ऊर्जा का पिरामिड (Pyramid of Energy)",
+          "en": "Pyramid of Energy"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तालाब या जलीय पारिस्थितिक तंत्र में जीवभार (Biomass) का पिरामिड कैसा होता है?",
+        "en": "What is the shape of the Pyramid of Biomass in a pond or aquatic ecosystem?"
+      },
+      "o": [
+        {
+          "hi": "उल्टा (Inverted)",
+          "en": "Inverted"
+        },
+        {
+          "hi": "सीधा (Upright)",
+          "en": "Upright"
+        },
+        {
+          "hi": "रैखिक",
+          "en": "Linear"
+        },
+        {
+          "hi": "विषमभुज",
+          "en": "Irregular"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किसी नग्न चट्टान या नग्न स्थान पर सबसे पहले उगने वाली अग्रगामी प्रजातियां (Pioneer Species)?",
+        "en": "Which pioneer organisms are the first to colonize a bare rock during primary succession?"
+      },
+      "o": [
+        {
+          "hi": "बबड़े झाड़ीदार वृक्ष",
+          "en": "Large woody trees"
+        },
+        {
+          "hi": "लाइकेन एवं मॉस (Lichens and Mosses)",
+          "en": "Lichens and Mosses"
+        },
+        {
+          "hi": "जलीय पौधे",
+          "en": "Aquatic plants"
+        },
+        {
+          "hi": "केवल कवक",
+          "en": "Only Fungi"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पारिस्थितिक अनुक्रमण (Succession) की अंतिम स्थिर एवं संतुलित समुदाय संरचना क्या कहलाती है?",
+        "en": "The final stable, self-perpetuating climax community in ecological succession is?"
+      },
+      "o": [
+        {
+          "hi": "अग्रगामी समुदाय",
+          "en": "Pioneer Community"
+        },
+        {
+          "hi": "क्रमकी समुदाय",
+          "en": "Seral Community"
+        },
+        {
+          "hi": "चरम समुदाय (Climax Community)",
+          "en": "Climax Community"
+        },
+        {
+          "hi": "संक्रमण समुदाय",
+          "en": "Transitional Community"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1988 में 'जैव विविधता हॉटस्पॉट' (Biodiversity Hotspots) की अवधारणा किसने विकसित की थी?",
+        "en": "Who formulated the concept of Biodiversity Hotspots in 1988?"
+      },
+      "o": [
+        {
+          "hi": "एडवर्ड विल्सन",
+          "en": "Edward Wilson"
+        },
+        {
+          "hi": "वॉल्टर जी. रोसेन",
+          "en": "Walter G. Rosen"
+        },
+        {
+          "hi": "आर.एच. हिल्टन",
+          "en": "R.H. Hilton"
+        },
+        {
+          "hi": "नॉर्मन मायर्स (Norman Myers)",
+          "en": "Norman Myers"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में कुल कितने जैव विविधता हॉटस्पॉट (Biodiversity Hotspots) स्थित हैं?",
+        "en": "How many global Biodiversity Hotspots are located in India?"
+      },
+      "o": [
+        {
+          "hi": "4 हॉटस्पॉट (हिमालय, पश्चिमी घाट, इंडो-बर्मा, सुंडालैंड)",
+          "en": "4 Hotspots (Himalayas, Western Ghats, Indo-Burma, Sundaland)"
+        },
+        {
+          "hi": "2 हॉटस्पॉट",
+          "en": "2 Hotspots"
+        },
+        {
+          "hi": "8 हॉटस्पॉट",
+          "en": "8 Hotspots"
+        },
+        {
+          "hi": "10 हॉटस्पॉट",
+          "en": "10 Hotspots"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जीवों को उनके प्राकृतिक आवास में ही संरक्षण देना क्या कहलाता है?",
+        "en": "Conserving threatened species within their natural natural habitat is known as?"
+      },
+      "o": [
+        {
+          "hi": "उत्-स्थाने संरक्षण (Ex-situ)",
+          "en": "Ex-situ Conservation"
+        },
+        {
+          "hi": "स्व-स्थाने संरक्षण (In-situ Conservation)",
+          "en": "In-situ Conservation"
+        },
+        {
+          "hi": "जीन बैंक",
+          "en": "Gene Bank"
+        },
+        {
+          "hi": "बॉटनिकल गार्डन",
+          "en": "Botanical Garden"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1936 में स्थापित भारत का पहला राष्ट्रीय उद्यान (National Park) कौन सा था?",
+        "en": "Which was the first National Park established in India in 1936 (formerly Hailey NP)?"
+      },
+      "o": [
+        {
+          "hi": "काजीरंगा राष्ट्रीय उद्यान",
+          "en": "Kaziranga NP"
+        },
+        {
+          "hi": "गिर राष्ट्रीय उद्यान",
+          "en": "Gir NP"
+        },
+        {
+          "hi": "जिम कॉर्बेट राष्ट्रीय उद्यान (उत्तराखंड)",
+          "en": "Jim Corbett National Park"
+        },
+        {
+          "hi": "कान्हा राष्ट्रीय उद्यान",
+          "en": "Kanha NP"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1986 में घोषित भारत का पहला बायोसफेयर रिजर्व (Biosphere Reserve) कौन सा था?",
+        "en": "Which was the first Biosphere Reserve designated in India in 1986?"
+      },
+      "o": [
+        {
+          "hi": "सुंदरवन बायोसफेयर रिजर्व",
+          "en": "Sundarbans BR"
+        },
+        {
+          "hi": "नंदा देवी बायोसफेयर रिजर्व",
+          "en": "Nanda Devi BR"
+        },
+        {
+          "hi": "मन्नार की खाड़ी",
+          "en": "Gulf of Mannar"
+        },
+        {
+          "hi": "नीलगिरि बायोसफेयर रिजर्व",
+          "en": "Nilgiri Biosphere Reserve"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दुर्लभ जीवों के जननद्रव्य (Germplasm) को द्रवित नाइट्रोजन (-196°C) में संरक्षित करना?",
+        "en": "Preservative storage of cells/tissues in liquid nitrogen at -196°C is?"
+      },
+      "o": [
+        {
+          "hi": "क्रायोप्रिजर्वेशन (Cryopreservation)",
+          "en": "Cryopreservation"
+        },
+        {
+          "hi": "पाश्चुरीकरण",
+          "en": "Pasteurization"
+        },
+        {
+          "hi": "इन-सिटू संरक्षण",
+          "en": "In-situ Conservation"
+        },
+        {
+          "hi": "थर्मोप्रिजर्वेशन",
+          "en": "Thermopreservation"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संकटग्रस्त और विलुप्तप्राय प्रजातियों की 'रेड डाटा बुक' (Red Data Book) कौन प्रकाशित करता है?",
+        "en": "Which international organization publishes the Red Data Book of threatened species?"
+      },
+      "o": [
+        {
+          "hi": "डब्ल्यूडब्ल्यूएफ (WWF)",
+          "en": "WWF"
+        },
+        {
+          "hi": "आईयूसीएन (IUCN)",
+          "en": "IUCN"
+        },
+        {
+          "hi": "यूनेस्को (UNESCO)",
+          "en": "UNESCO"
+        },
+        {
+          "hi": "यूएनईपी (UNEP)",
+          "en": "UNEP"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अम्लीय वर्षा (Acid Rain) मुख्यतः वायुमंडल में किन दो गैसों के प्रदूषण से होती है?",
+        "en": "Acid Rain is primarily caused by atmospheric pollution of which two gases?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन मोनोऑक्साइड एवं मीथेन",
+          "en": "Carbon monoxide & Methane"
+        },
+        {
+          "hi": "सीएफसी एवं ओजोन",
+          "en": "CFCs & Ozone"
+        },
+        {
+          "hi": "सल्फर डाइऑक्साइड (SO2) और नाइट्रोजन डाइऑक्साइड (NO2)",
+          "en": "Sulfur Dioxide (SO2) and Nitrogen Dioxide (NO2)"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड एवं हीलियम",
+          "en": "Carbon dioxide & Helium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वर्षा के जल का pH मान कितने से कम होने पर उसे अम्लीय वर्षा (Acid Rain) माना जाता है?",
+        "en": "Rainwater is scientifically designated as Acid Rain when its pH drops below?"
+      },
+      "o": [
+        {
+          "hi": "7.0 से कम",
+          "en": "Below 7.0"
+        },
+        {
+          "hi": "8.5 से कम",
+          "en": "Below 8.5"
+        },
+        {
+          "hi": "4.0 से कम",
+          "en": "Below 4.0"
+        },
+        {
+          "hi": "5.6 से कम",
+          "en": "Below 5.6"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अम्लीय वर्षा के कारण संगमरमर की ऐतिहासिक इमारतों (जैसे ताज महल) का संक्षारण कहलाता है?",
+        "en": "Corrosion of historical marble monuments by acid rain is termed as?"
+      },
+      "o": [
+        {
+          "hi": "मार्बल कैंसर (Stone Leprosy / Marble Cancer)",
+          "en": "Stone Leprosy / Marble Cancer"
+        },
+        {
+          "hi": "सफेद दाग",
+          "en": "White spot"
+        },
+        {
+          "hi": "सिलिकोसिस",
+          "en": "Silicosis"
+        },
+        {
+          "hi": "फ्लोरोसिस",
+          "en": "Fluorosis"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रकाश-रासायनिक स्मॉग (Photochemical Smog) में आँखों में जलन पैदा करने वाला द्वितीयक प्रदूषक?",
+        "en": "Which toxic secondary pollutant in Photochemical Smog causes eye irritation?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन डाइऑक्साइड",
+          "en": "Carbon dioxide"
+        },
+        {
+          "hi": "पैन (PAN - Peroxyacetyl Nitrate) और ओजोन",
+          "en": "PAN (Peroxyacetyl Nitrate) and Ozone"
+        },
+        {
+          "hi": "सल्फर डाइऑक्साइड",
+          "en": "Sulfur dioxide"
+        },
+        {
+          "hi": "नाइट्रोजन गैस",
+          "en": "Nitrogen gas"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जल स्रोतों में नाइट्रोजन एवं फास्फोरस के जमाव से शैवाल की अत्यधिक वृद्धि होना?",
+        "en": "Nutrient enrichment of water bodies causing excessive algal bloom and hypoxia is?"
+      },
+      "o": [
+        {
+          "hi": "बायोमैग्निफिकेशन",
+          "en": "Biomagnification"
+        },
+        {
+          "hi": "जैव-संचयन",
+          "en": "Bioaccumulation"
+        },
+        {
+          "hi": "सुपोषण (यूट्रोफिकेशन / Eutrophication)",
+          "en": "Eutrophication"
+        },
+        {
+          "hi": "नाइट्रीकरण",
+          "en": "Nitrification"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जल में जैविक कार्बनिक प्रदूषण की मात्रा मापने का मुख्य संकेतक क्या है?",
+        "en": "Which parameter measures the amount of oxygen required by decomposers in polluted water?"
+      },
+      "o": [
+        {
+          "hi": "सीओडी (COD)",
+          "en": "COD"
+        },
+        {
+          "hi": "पीएच मान",
+          "en": "pH value"
+        },
+        {
+          "hi": "टीडीएस",
+          "en": "TDS"
+        },
+        {
+          "hi": "बीओडी (BOD - Biochemical Oxygen Demand)",
+          "en": "BOD (Biochemical Oxygen Demand)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जल का उच्च बीओडी (High BOD) मान क्या दर्शाता है?",
+        "en": "High Biochemical Oxygen Demand (BOD) value of a water body indicates that?"
+      },
+      "o": [
+        {
+          "hi": "जल अत्यधिक कार्बनिक रूप से प्रदूषित है",
+          "en": "Water is highly organically polluted"
+        },
+        {
+          "hi": "जल पूर्णतः शुद्ध और पीने योग्य है",
+          "en": "Water is pure & drinkable"
+        },
+        {
+          "hi": "जल में ऑक्सीजन प्रचुर मात्रा में है",
+          "en": "Water has high dissolved O2"
+        },
+        {
+          "hi": "जल में कोई जीवाणु नहीं है",
+          "en": "Water has no bacteria"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "खाद्य श्रृंखला के उच्च पोषण स्तरों में अजैव-निम्नीकरणीय विषैले रसायनों (DDT/पारा) का सांद्रण बढ़ना?",
+        "en": "Increase in concentration of non-biodegradable toxins at successive trophic levels is?"
+      },
+      "o": [
+        {
+          "hi": "यूट्रोफिकेशन",
+          "en": "Eutrophication"
+        },
+        {
+          "hi": "जैव आवर्धन (बायोमैग्निफिकेशन / Biomagnification)",
+          "en": "Biomagnification"
+        },
+        {
+          "hi": "बायोमिमीक्री",
+          "en": "Biomimicry"
+        },
+        {
+          "hi": "बायोरेमीडिएशन",
+          "en": "Bioremediation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ग्लोबल वार्मिंग (Global Warming) के लिए सर्वाधिक जिम्मेदार ग्रीनहाउस गैस (~60%) कौन सी है?",
+        "en": "Which greenhouse gas contributes maximum (~60%) to global warming?"
+      },
+      "o": [
+        {
+          "hi": "मीथेन (CH4)",
+          "en": "Methane (CH4)"
+        },
+        {
+          "hi": "सीएफसी (CFCs)",
+          "en": "CFCs"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड (CO2)",
+          "en": "Carbon dioxide (CO2)"
+        },
+        {
+          "hi": "नाइट्रस ऑक्साइड (N2O)",
+          "en": "Nitrous oxide (N2O)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ग्रीनहाउस गैसों के उत्सर्जन को कम करने हेतु 1997 में हस्ताक्षरित प्रसिद्ध अंतर्राष्ट्रीय समझौता?",
+        "en": "Which international treaty was adopted in 1997 to reduce greenhouse gas emissions?"
+      },
+      "o": [
+        {
+          "hi": "मॉन्ट्रियल प्रोटोकॉल",
+          "en": "Montreal Protocol"
+        },
+        {
+          "hi": "पेरिस समझौता",
+          "en": "Paris Agreement"
+        },
+        {
+          "hi": "रामासर सम्मेलन",
+          "en": "Ramsar Convention"
+        },
+        {
+          "hi": "क्योटो प्रोटोकॉल (Kyoto Protocol)",
+          "en": "Kyoto Protocol"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समतापमंडल (Stratosphere) में स्थित ओजोन परत हमारी रक्षा किन हानिकारक किरणों से करती है?",
+        "en": "Stratospheric Ozone layer shields life on Earth from which harmful cosmic rays?"
+      },
+      "o": [
+        {
+          "hi": "पराबैंगनी-B किरणें (UV-B Radiation)",
+          "en": "Ultraviolet-B (UV-B) rays"
+        },
+        {
+          "hi": "अवरक्त किरणें (Infrared)",
+          "en": "Infrared rays"
+        },
+        {
+          "hi": "एक्स-किरणें",
+          "en": "X-rays"
+        },
+        {
+          "hi": "गामा किरणें",
+          "en": "Gamma rays"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ओजोन परत को क्षय (Depletion) करने वाला मुख्य मानव निर्मित रसायन कौन सा है?",
+        "en": "Which synthetic chemical compound is primarily responsible for stratospheric ozone depletion?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन डाइऑक्साइड",
+          "en": "Carbon dioxide"
+        },
+        {
+          "hi": "क्लोरोफ्लोरोकार्बन (CFCs / Freon)",
+          "en": "Chlorofluorocarbons (CFCs)"
+        },
+        {
+          "hi": "सल्फर डाइऑक्साइड",
+          "en": "Sulfur dioxide"
+        },
+        {
+          "hi": "मीथेन",
+          "en": "Methane"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समतापमंडल में ओजोन परत की मोटाई मापने की मानक इकाई क्या है?",
+        "en": "Which standard unit is used to measure the thickness of stratospheric ozone layer?"
+      },
+      "o": [
+        {
+          "hi": "डेसीबल",
+          "en": "Decibel"
+        },
+        {
+          "hi": "डेसिबल",
+          "en": "Decibel"
+        },
+        {
+          "hi": "डॉबसन इकाई (Dobson Unit - DU)",
+          "en": "Dobson Unit (DU)"
+        },
+        {
+          "hi": "पास्कल",
+          "en": "Pascal"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1985 में अंटार्कटिका के ऊपर ओजोन छिद्र (Ozone Hole) की खोज किसने की थी?",
+        "en": "Who discovered the Antarctic Ozone Hole in 1985?"
+      },
+      "o": [
+        {
+          "hi": "चार्ल्स एल्टन",
+          "en": "Charles Elton"
+        },
+        {
+          "hi": "नॉर्मन मायर्स",
+          "en": "Norman Myers"
+        },
+        {
+          "hi": "हैकल",
+          "en": "Haeckel"
+        },
+        {
+          "hi": "फारमैन, गार्डिनर और शेंकलिन (Farman et al.)",
+          "en": "Farman, Gardiner, and Shanklin"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ओजोन क्षयकारी पदार्थों (ODS) के उत्पादन पर रोक लगाने हेतु 1987 में हस्ताक्षरित अंतर्राष्ट्रीय संधि?",
+        "en": "Which historic landmark international treaty was signed in 1987 to phase out ODS?"
+      },
+      "o": [
+        {
+          "hi": "मॉन्ट्रियल प्रोटोकॉल (Montreal Protocol)",
+          "en": "Montreal Protocol"
+        },
+        {
+          "hi": "क्योटो प्रोटोकॉल",
+          "en": "Kyoto Protocol"
+        },
+        {
+          "hi": "रियो पृथ्वी सम्मेलन",
+          "en": "Rio Earth Summit"
+        },
+        {
+          "hi": "स्टॉकहोम सम्मेलन",
+          "en": "Stockholm Conference"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में 'वन्यजीव संरक्षण अधिनियम' (Wildlife Protection Act) किस वर्ष लागू किया गया था?",
+        "en": "In which year was the Wildlife Protection Act enacted in India?"
+      },
+      "o": [
+        {
+          "hi": "1980 ई. में",
+          "en": "1980"
+        },
+        {
+          "hi": "1972 ई. में",
+          "en": "1972"
+        },
+        {
+          "hi": "1986 ई. में",
+          "en": "1986"
+        },
+        {
+          "hi": "1992 ई. में",
+          "en": "1992"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में पर्यावरण संरक्षण का 'छतरी कानून' (Environment Protection Act) किस वर्ष पारित हुआ?",
+        "en": "In which year was the comprehensive Environment Protection Act enacted in India?"
+      },
+      "o": [
+        {
+          "hi": "1972 ई. में",
+          "en": "1972"
+        },
+        {
+          "hi": "1974 ई. में",
+          "en": "1974"
+        },
+        {
+          "hi": "1986 ई. में",
+          "en": "1986"
+        },
+        {
+          "hi": "2002 ई. में",
+          "en": "2002"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में बाघों के संरक्षण हेतु 'प्रोजेक्ट टाइगर' (Project Tiger) की शुरुआत किस वर्ष हुई थी?",
+        "en": "In which year was 'Project Tiger' launched in India to protect Bengal Tigers?"
+      },
+      "o": [
+        {
+          "hi": "1992 ई. में",
+          "en": "1992"
+        },
+        {
+          "hi": "1982 ई. में",
+          "en": "1982"
+        },
+        {
+          "hi": "2000 ई. में",
+          "en": "2000"
+        },
+        {
+          "hi": "1973 ई. में",
+          "en": "1973"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व पर्यावरण दिवस (World Environment Day) प्रतिवर्ष किस तिथि को मनाया जाता है?",
+        "en": "On which date is World Environment Day celebrated globally every year?"
+      },
+      "o": [
+        {
+          "hi": "5 जून (5th June)",
+          "en": "5th June"
+        },
+        {
+          "hi": "22 अप्रैल",
+          "en": "22nd April"
+        },
+        {
+          "hi": "16 सितंबर",
+          "en": "16th September"
+        },
+        {
+          "hi": "2 फरवरी",
+          "en": "2nd February"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अंतर्राष्ट्रीय ओजोन परत संरक्षण दिवस (International Ozone Day) किस तिथि को मनाते हैं?",
+        "en": "On which date is International Day for Preservation of Ozone Layer observed?"
+      },
+      "o": [
+        {
+          "hi": "5 जून",
+          "en": "5th June"
+        },
+        {
+          "hi": "16 सितंबर (16th September)",
+          "en": "16th September"
+        },
+        {
+          "hi": "22 अप्रैल",
+          "en": "22nd April"
+        },
+        {
+          "hi": "1 दिसंबर",
+          "en": "1st December"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व आर्द्रभूमि दिवस (World Wetlands Day / रामसर दिवस) किस तिथि को मनाया जाता है?",
+        "en": "On which date is World Wetlands Day observed worldwide?"
+      },
+      "o": [
+        {
+          "hi": "22 मार्च",
+          "en": "22nd March"
+        },
+        {
+          "hi": "22 अप्रैल",
+          "en": "22nd April"
+        },
+        {
+          "hi": "2 फरवरी (2nd February)",
+          "en": "2nd February"
+        },
+        {
+          "hi": "5 जून",
+          "en": "5th June"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1971 में अंतर्राष्ट्रीय महत्व की आर्द्रभूमियों के संरक्षण हेतु रामसर सम्मेलन कहाँ हुआ था?",
+        "en": "In 1971, the Ramsar Convention on Wetlands was signed in Ramsar city of which country?"
+      },
+      "o": [
+        {
+          "hi": "इराक",
+          "en": "Iraq"
+        },
+        {
+          "hi": "मिस्र",
+          "en": "Egypt"
+        },
+        {
+          "hi": "स्विट्जरलैंड",
+          "en": "Switzerland"
+        },
+        {
+          "hi": "ईरान (Iran)",
+          "en": "Iran"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वायुमंडल में SO2 (सल्फर डाइऑक्साइड) प्रदूषण के सबसे संवेदनशील प्राकृतिक जैव-संकेतक?",
+        "en": "Which organism acts as the most sensitive natural bio-indicator of atmospheric SO2 pollution?"
+      },
+      "o": [
+        {
+          "hi": "लाइकेन (Lichens)",
+          "en": "Lichens"
+        },
+        {
+          "hi": "ब्रायोफाइटा",
+          "en": "Bryophytes"
+        },
+        {
+          "hi": "शैवाल",
+          "en": "Algae"
+        },
+        {
+          "hi": "कवक",
+          "en": "Fungi"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में जल स्रोतों को अवरुद्ध करने वाला 'अंगार आक्रामक पौधा' जिसे 'बंगाल का आतंक' कहा गया?",
+        "en": "Which invasive alien aquatic weed is commonly called the 'Terror of Bengal'?"
+      },
+      "o": [
+        {
+          "hi": "गाजर घास (पार्थेनियम)",
+          "en": "Carrot grass"
+        },
+        {
+          "hi": "जलकुंभी (Water Hyacinth / Eichhornia crassipes)",
+          "en": "Water Hyacinth (Eichhornia crassipes)"
+        },
+        {
+          "hi": "लैंटाना",
+          "en": "Lantana"
+        },
+        {
+          "hi": "पिस्टिया",
+          "en": "Pistia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में श्वास एवं त्वचा एलर्जी पैदा करने वाली आक्रामक विदेशी घास 'गाजर घास'?",
+        "en": "Which imported weed causes widespread allergic rhinitis & asthma in India?"
+      },
+      "o": [
+        {
+          "hi": "जलकुंभी",
+          "en": "Water Hyacinth"
+        },
+        {
+          "hi": "सायनोडोन",
+          "en": "Cynodon"
+        },
+        {
+          "hi": "पार्थेनियम (Parthenium hysterophorus)",
+          "en": "Parthenium hysterophorus"
+        },
+        {
+          "hi": "साइप्रस",
+          "en": "Cyperus"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उत्तराखंड में 1973 में सुंदरलाल बहुगुणा के नेतृत्व में वनों की कटाई रोकने हेतु आंदोलन?",
+        "en": "Which environmental movement against tree felling in Uttarakhand was led by Sunderlal Bahuguna?"
+      },
+      "o": [
+        {
+          "hi": "अपिको आंदोलन",
+          "en": "Appiko Movement"
+        },
+        {
+          "hi": "नर्मदा बचाओ आंदोलन",
+          "en": "Narmada Bachao Andolan"
+        },
+        {
+          "hi": "साइलेंट वैली आंदोलन",
+          "en": "Silent Valley Movement"
+        },
+        {
+          "hi": "चिपको आंदोलन (Chipko Movement)",
+          "en": "Chipko Movement"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कर्नाटक में चिपको आंदोलन की तर्ज पर 1983 में वृक्षों की रक्षा हेतु शुरू आंदोलन?",
+        "en": "Which southern forest conservation movement was launched in Karnataka in 1983?"
+      },
+      "o": [
+        {
+          "hi": "अप्पिको आंदोलन (Appiko Movement)",
+          "en": "Appiko Movement"
+        },
+        {
+          "hi": "चिपको आंदोलन",
+          "en": "Chipko Movement"
+        },
+        {
+          "hi": "जंगल बचाओ",
+          "en": "Jangal Bachao"
+        },
+        {
+          "hi": "खेजड़ी आंदोलन",
+          "en": "Khejri Movement"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सदाबहार वर्षा वनों (Amazon Rainforest) को उनकी विशाल ऑक्सीजन क्षमता के कारण क्या कहा जाता है?",
+        "en": "Amazon Tropical Rainforests are metaphorically called by which phrase?"
+      },
+      "o": [
+        {
+          "hi": "विश्व का गुर्दा",
+          "en": "Kidneys of the planet"
+        },
+        {
+          "hi": "पृथ्वी का फेफड़ा ('Lungs of the Planet')",
+          "en": "'Lungs of the Planet'"
+        },
+        {
+          "hi": "विश्व का हृदय",
+          "en": "Heart of the planet"
+        },
+        {
+          "hi": "विश्व का मस्तिष्क",
+          "en": "Brain of the planet"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "धान के खेतों और मवेशियों की जुगाली से मुख्य रूप से कौन सी ग्रीनहाउस गैस निकलती है?",
+        "en": "Which greenhouse gas is predominantly emitted from waterlogged paddy fields and ruminants?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन मोनोऑक्साइड",
+          "en": "Carbon monoxide"
+        },
+        {
+          "hi": "सल्फर डाइऑक्साइड",
+          "en": "Sulfur dioxide"
+        },
+        {
+          "hi": "मीथेन (Methane - CH4)",
+          "en": "Methane (CH4)"
+        },
+        {
+          "hi": "ओजोन",
+          "en": "Ozone"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आवासों के बीच संक्रमणकालीन सीमा क्षेत्र जहाँ दो पारिस्थितिक तंत्र मिलते हैं?",
+        "en": "The transitional boundary zone where two distinct ecological communities meet is?"
+      },
+      "o": [
+        {
+          "hi": "इकोटाइप",
+          "en": "Ecotype"
+        },
+        {
+          "hi": "बायोम",
+          "en": "Biome"
+        },
+        {
+          "hi": "इकोलॉजिकल निश",
+          "en": "Ecological Niche"
+        },
+        {
+          "hi": "इकोटोन (Ecotone)",
+          "en": "Ecotone"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किसी प्रजाति का पारिस्थितिक तंत्र में विशिष्ट स्थान, कार्य और पोषण भूमिका कहलाती है?",
+        "en": "The functional position and ecological role played by a species in its habitat is?"
+      },
+      "o": [
+        {
+          "hi": "पारिस्थितिक निकेत (Ecological Niche)",
+          "en": "Ecological Niche"
+        },
+        {
+          "hi": "इकोटोन",
+          "en": "Ecotone"
+        },
+        {
+          "hi": "आवास (Habitat)",
+          "en": "Habitat"
+        },
+        {
+          "hi": "बायोम",
+          "en": "Biome"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जल प्रदूषण निवारण एवं नियंत्रण अधिनियम (Water Act) किस वर्ष लागू किया गया था?",
+        "en": "In which year was the Water (Prevention and Control of Pollution) Act passed in India?"
+      },
+      "o": [
+        {
+          "hi": "1981 ई. में",
+          "en": "1981"
+        },
+        {
+          "hi": "1974 ई. में",
+          "en": "1974"
+        },
+        {
+          "hi": "1986 ई. में",
+          "en": "1986"
+        },
+        {
+          "hi": "1990 ई. में",
+          "en": "1990"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वायु प्रदूषण निवारण एवं नियंत्रण अधिनियम (Air Act) किस वर्ष लागू किया गया?",
+        "en": "In which year was the Air (Prevention and Control of Pollution) Act passed in India?"
+      },
+      "o": [
+        {
+          "hi": "1974 ई. में",
+          "en": "1974"
+        },
+        {
+          "hi": "1986 ई. में",
+          "en": "1986"
+        },
+        {
+          "hi": "1981 ई. में",
+          "en": "1981"
+        },
+        {
+          "hi": "1992 ई. में",
+          "en": "1992"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1987 में वायु प्रदूषण अधिनियम में संशोधन करके किसे वायु प्रदूषक के रूप में शामिल किया गया?",
+        "en": "Noise was included as an air pollutant in the Air Act via an amendment in which year?"
+      },
+      "o": [
+        {
+          "hi": "जल प्रदूषण",
+          "en": "Water pollution"
+        },
+        {
+          "hi": "मृदा प्रदूषण",
+          "en": "Soil pollution"
+        },
+        {
+          "hi": "रेडियोधर्मी विकिरण",
+          "en": "Radioactive radiation"
+        },
+        {
+          "hi": "ध्वनि प्रदूषण (Noise Pollution)",
+          "en": "Noise Pollution"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रीय हरित अधिकरण (NGT - National Green Tribunal) की स्थापना किस वर्ष हुई थी?",
+        "en": "In which year was the National Green Tribunal (NGT) established in India?"
+      },
+      "o": [
+        {
+          "hi": "2010 ई. में",
+          "en": "2010"
+        },
+        {
+          "hi": "2002 ई. में",
+          "en": "2002"
+        },
+        {
+          "hi": "2005 ई. में",
+          "en": "2005"
+        },
+        {
+          "hi": "2015 ई. में",
+          "en": "2015"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हाथियों के संरक्षण एवं उनके गलियारों की सुरक्षा हेतु 'प्रोजेक्ट एलिफेंट' की शुरुआत?",
+        "en": "In which year was 'Project Elephant' launched by the Government of India?"
+      },
+      "o": [
+        {
+          "hi": "1973 ई. में",
+          "en": "1973"
+        },
+        {
+          "hi": "1992 ई. में",
+          "en": "1992"
+        },
+        {
+          "hi": "1982 ई. में",
+          "en": "1982"
+        },
+        {
+          "hi": "2002 ई. में",
+          "en": "2002"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "परमाफ्रॉस्ट (Permafrost - सदैव जमी बर्फ) एवं वृक्षविहीन वनस्पति किस बायोम की विशेषता है?",
+        "en": "Permafrost subsoil and absence of tall trees are characteristic features of which biome?"
+      },
+      "o": [
+        {
+          "hi": "टैगा बायोम",
+          "en": "Taiga Biome"
+        },
+        {
+          "hi": "सवाना बायोम",
+          "en": "Savanna Biome"
+        },
+        {
+          "hi": "टुंड्रा बायोम (Tundra Biome)",
+          "en": "Tundra Biome"
+        },
+        {
+          "hi": "मरुस्थलीय बायोम",
+          "en": "Desert Biome"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शंकुधारी सदाबहार वनों (Coniferous evergreen forests) वाला उत्तरी बायोम क्या कहलाता है?",
+        "en": "Northern high-latitude biome characterized by coniferous evergreen pine trees is?"
+      },
+      "o": [
+        {
+          "hi": "टुंड्रा बायोम",
+          "en": "Tundra Biome"
+        },
+        {
+          "hi": "सवाना",
+          "en": "Savanna"
+        },
+        {
+          "hi": "प्रेयरी",
+          "en": "Prairie"
+        },
+        {
+          "hi": "टैगा बायोम (Taiga / Boreal Forest)",
+          "en": "Taiga / Boreal Forest"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऊष्णकटिबंधीय घास के मैदानों (Tropical Grasslands) को अफ्रीका में क्या कहते हैं?",
+        "en": "Tropical grasslands with scattered trees found in Africa are known as?"
+      },
+      "o": [
+        {
+          "hi": "सवाना (Savanna)",
+          "en": "Savanna"
+        },
+        {
+          "hi": "प्रेयरी",
+          "en": "Prairie"
+        },
+        {
+          "hi": "स्टेप्स",
+          "en": "Steppes"
+        },
+        {
+          "hi": "वेल्ड",
+          "en": "Veldt"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उत्तरी अमेरिका के समशीतोष्ण घास के मैदानों को किस नाम से जाना जाता है?",
+        "en": "Temperate grasslands of North America are geographically termed as?"
+      },
+      "o": [
+        {
+          "hi": "पम्पास",
+          "en": "Pampas"
+        },
+        {
+          "hi": "प्रेयरी (Prairie)",
+          "en": "Prairie"
+        },
+        {
+          "hi": "वेल्ड",
+          "en": "Veldt"
+        },
+        {
+          "hi": "डाउंस",
+          "en": "Downs"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दक्षिण अमेरिका (अर्जेंटीना) के समशीतोष्ण घास के मैदान कहलाते हैं?",
+        "en": "Temperate grasslands of South America (Argentina) are known as?"
+      },
+      "o": [
+        {
+          "hi": "प्रेयरी",
+          "en": "Prairie"
+        },
+        {
+          "hi": "स्टेप्स",
+          "en": "Steppes"
+        },
+        {
+          "hi": "पम्पास (Pampas)",
+          "en": "Pampas"
+        },
+        {
+          "hi": "सवाना",
+          "en": "Savanna"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सीएफसी (CFCs) के स्थान पर वर्तमान में रेफ्रिजरेटर में प्रयुक्त पर्यावरण अनुकूल गैस?",
+        "en": "Which ozone-friendly replacement refrigerant gas is used in modern refrigerators?"
+      },
+      "o": [
+        {
+          "hi": "मीथेन",
+          "en": "Methane"
+        },
+        {
+          "hi": "क्लोरीन",
+          "en": "Chlorine"
+        },
+        {
+          "hi": "सल्फर डाइऑक्साइड",
+          "en": "Sulfur dioxide"
+        },
+        {
+          "hi": "एचएफसी (HFCs / R-134a)",
+          "en": "HFCs (Hydrofluorocarbons)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वाहनों से निकलने वाली विषैली गैस CO को CO2 में बदलने वाला उपकरण?",
+        "en": "Device installed in vehicle exhaust systems to oxidize toxic CO and hydrocarbons?"
+      },
+      "o": [
+        {
+          "hi": "कैटालिटिक कन्वर्टर (Catalytic Converter)",
+          "en": "Catalytic Converter"
+        },
+        {
+          "hi": "स्क्रबर",
+          "en": "Scrubber"
+        },
+        {
+          "hi": "इलेक्ट्रोस्टैटिक प्रेसिपिटेटर",
+          "en": "Electrostatic Precipitator"
+        },
+        {
+          "hi": "इंसिनरेटर",
+          "en": "Incinerator"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तापीय विद्युत संयंत्रों की चिमनियों से निकलने वाले सूक्ष्म कणों (PM) को हटाने का उपकरण?",
+        "en": "Apparatus using high voltage to remove particulate matter from thermal power stack gas?"
+      },
+      "o": [
+        {
+          "hi": "कैटालिटिक कन्वर्टर",
+          "en": "Catalytic Converter"
+        },
+        {
+          "hi": "इलेक्ट्रोस्टैटिक प्रेसिपिटेटर (ESP)",
+          "en": "Electrostatic Precipitator (ESP)"
+        },
+        {
+          "hi": "स्क्रबर",
+          "en": "Scrubber"
+        },
+        {
+          "hi": "साइक्लोन सेपरेटर",
+          "en": "Cyclone separator"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समुद्र के तटीय खारे जल में उगने वाले लवणोद्भिद मैंग्रोव (Mangrove) वनस्पति का उदाहरण?",
+        "en": "Which salt-tolerant halophytic plant species dominates coastal Mangrove forests?"
+      },
+      "o": [
+        {
+          "hi": "पाइन",
+          "en": "Pine"
+        },
+        {
+          "hi": "सागौन",
+          "en": "Teak"
+        },
+        {
+          "hi": "सुंदरी वृक्ष (Rhizophora / Sundari tree)",
+          "en": "Sundari tree (Rhizophora)"
+        },
+        {
+          "hi": "शीशम",
+          "en": "Shisham"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मैंग्रोव पौधों की जड़ों में श्वसन के लिए भूमि से ऊपर निकलने वाली खूंटेनुमा संरचनाएं?",
+        "en": "Specialized vertical respiratory roots emerging above water in mangroves are?"
+      },
+      "o": [
+        {
+          "hi": "प्रोप रूट",
+          "en": "Prop roots"
+        },
+        {
+          "hi": "स्टिल्ट रूट",
+          "en": "Stilt roots"
+        },
+        {
+          "hi": "मायकोराइजा",
+          "en": "Mycorrhiza"
+        },
+        {
+          "hi": "न्यूमैटोफोर (Pneumatophores)",
+          "en": "Pneumatophores"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उच्च पादपों की जड़ों और कवक (Fungi) के बीच का सहजीवी संबंध क्या कहलाता है?",
+        "en": "Mutualistic symbiotic association between fungal hyphae and roots of higher plants is?"
+      },
+      "o": [
+        {
+          "hi": "मायकोराइजा (Mycorrhiza)",
+          "en": "Mycorrhiza"
+        },
+        {
+          "hi": "लाइकेन",
+          "en": "Lichen"
+        },
+        {
+          "hi": "कोरेलॉयड रूट",
+          "en": "Coralloid root"
+        },
+        {
+          "hi": "राइजोबियम",
+          "en": "Rhizobium"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ई-कचरा (E-Waste / इलेक्ट्रॉनिक कचरा) के असुरक्षित निपटान से कौन सी विषैली धातुएं फैलती हैं?",
+        "en": "Unsafe disposal of Electronic Waste (E-waste) releases which hazardous heavy metals?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम, पोटेशियम एवं कैल्शियम",
+          "en": "Sodium, Potassium & Calcium"
+        },
+        {
+          "hi": "सीसा, कैडमियम, पारा एवं बेरिलियम",
+          "en": "Lead, Cadmium, Mercury, and Beryllium"
+        },
+        {
+          "hi": "गोल्ड, सिल्वर एवं प्लैटिनम",
+          "en": "Gold, Silver & Platinum"
+        },
+        {
+          "hi": "आयरन एवं एल्युमिनियम",
+          "en": "Iron & Aluminum"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्लास्टिक कचरे से निपटने हेतु पर्यावरण में 4R का सिद्धांत क्या है?",
+        "en": "What does the 4R principle stand for in solid waste management?"
+      },
+      "o": [
+        {
+          "hi": "Read, Write, Repeat, Remove",
+          "en": "Read, Write, Repeat, Remove"
+        },
+        {
+          "hi": "Refuse, Reject, Remove, React",
+          "en": "Refuse, Reject, Remove, React"
+        },
+        {
+          "hi": "Reduce, Reuse, Recycle, and Recover",
+          "en": "Reduce, Reuse, Recycle, and Recover"
+        },
+        {
+          "hi": "Run, Rest, Restore, Rebuild",
+          "en": "Run, Rest, Restore, Rebuild"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1992 में ब्राजील के रियो डी जेनेरियो में आयोजित ऐतिहासिक सम्मेलन?",
+        "en": "The United Nations Conference on Environment & Development in 1992 in Rio is?"
+      },
+      "o": [
+        {
+          "hi": "पेरिस शिखर सम्मेलन",
+          "en": "Paris Summit"
+        },
+        {
+          "hi": "स्टॉकहोम सम्मेलन",
+          "en": "Stockholm Conference"
+        },
+        {
+          "hi": "क्योटो सम्मेलन",
+          "en": "Kyoto Summit"
+        },
+        {
+          "hi": "पृथ्वी सम्मेलन (Earth Summit / Agenda 21)",
+          "en": "Earth Summit (Agenda 21)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सतत विकास (Sustainable Development) का क्या अर्थ है?",
+        "en": "What is the core meaning of Sustainable Development?"
+      },
+      "o": [
+        {
+          "hi": "भावी पीढ़ियों की आवश्यकताओं से समझौता किए बिना वर्तमान विकास",
+          "en": "Meeting present needs without compromising future generations"
+        },
+        {
+          "hi": "केवल उद्योगों का तीव्र विकास",
+          "en": "Rapid industrialization only"
+        },
+        {
+          "hi": "सभी प्राकृतिक संसाधनों का तुरंत दोहन",
+          "en": "Immediate exploitation of resources"
+        },
+        {
+          "hi": "पर्यावरण नियमों को समाप्त करना",
+          "en": "Abolishing eco-laws"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का पहला राष्ट्रीय समुद्री उद्यान (Marine National Park) कहाँ स्थित है?",
+        "en": "Where is India's first Marine National Park located?"
+      },
+      "o": [
+        {
+          "hi": "सुंदरवन",
+          "en": "Sundarbans"
+        },
+        {
+          "hi": "कच्छ की खाड़ी (गुजरात)",
+          "en": "Gulf of Kutch (Gujarat)"
+        },
+        {
+          "hi": "मन्नार की खाड़ी",
+          "en": "Gulf of Mannar"
+        },
+        {
+          "hi": "लक्षद्वीप",
+          "en": "Lakshadweep"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक सींग वाले गैंडे (One-horned Rhinoceros) के संरक्षण के लिए प्रसिद्ध राष्ट्रीय उद्यान?",
+        "en": "Which famous National Park in Assam is the prime habitat for Indian One-horned Rhino?"
+      },
+      "o": [
+        {
+          "hi": "मानस राष्ट्रीय उद्यान",
+          "en": "Manas NP"
+        },
+        {
+          "hi": "जिम कॉर्बेट",
+          "en": "Jim Corbett"
+        },
+        {
+          "hi": "काजीरंगा राष्ट्रीय उद्यान (असम)",
+          "en": "Kaziranga National Park (Assam)"
+        },
+        {
+          "hi": "रणथंभौर",
+          "en": "Ranthambore"
+        }
+      ],
+      "a": 2
+    }
+  ]
+}

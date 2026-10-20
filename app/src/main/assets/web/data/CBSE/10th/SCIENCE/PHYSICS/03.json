@@ -1,0 +1,1007 @@
+{
+  "title": "CBSE Class 10 - Science (Physics)",
+  "subtitle": "Electricity",
+  "description": "Comprehensive online test set containing 100 high-yield objective MCQs for Electricity.",
+  "questions": [
+    {
+      "q": "The SI unit of electric current is:",
+      "o": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Coulomb"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The SI unit of electric potential difference is:",
+      "o": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Joule"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The SI unit of electrical resistance is:",
+      "o": [
+        "Volt",
+        "Ampere",
+        "Watt",
+        "Ohm"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Ohm's law states the relationship between:",
+      "o": [
+        "Charge and time",
+        "Work and power",
+        "Heat and energy",
+        "Voltage and current"
+      ],
+      "a": 3
+    },
+    {
+      "q": "1 kWh (kilowatt-hour) of electrical energy is equal to:",
+      "o": [
+        "3.6 x 10^5 J",
+        "3.6 x 10^6 J",
+        "1000 J",
+        "3600 J"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The SI unit of electrical resistivity is:",
+      "o": [
+        "Ohm per meter",
+        "Volt-meter",
+        "Ampere-meter",
+        "Ohm-meter"
+      ],
+      "a": 3
+    },
+    {
+      "q": "When resistors are connected in series, the total resistance:",
+      "o": [
+        "Increases",
+        "Decreases",
+        "Remains same",
+        "Becomes zero"
+      ],
+      "a": 0
+    },
+    {
+      "q": "When resistors are connected in parallel, the total resistance:",
+      "o": [
+        "Decreases",
+        "Increases",
+        "Remains same",
+        "Doubles"
+      ],
+      "a": 0
+    },
+    {
+      "q": "An ammeter is always connected in a circuit in:",
+      "o": [
+        "Parallel",
+        "Series-parallel mix",
+        "Series",
+        "Any orientation"
+      ],
+      "a": 2
+    },
+    {
+      "q": "A voltmeter is always connected in a circuit in:",
+      "o": [
+        "Series",
+        "Series-parallel mix",
+        "Parallel",
+        "Any orientation"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The rate of doing work or rate of consumption of electrical energy is called:",
+      "o": [
+        "Electric current",
+        "Potential difference",
+        "Electric power",
+        "Resistance"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The heating effect of electric current is expressed by Joule's law as H =",
+      "o": [
+        "V I^2 t",
+        "I^2 R t",
+        "I R^2 t",
+        "V / I t"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Commercial unit of electrical energy is:",
+      "o": [
+        "Watt-second",
+        "Joule",
+        "Kilowatt-hour",
+        "Volt-ampere"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The device used to measure current in a circuit is called:",
+      "o": [
+        "Voltmeter",
+        "Galvanometer",
+        "Ammeter",
+        "Rheostat"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The device used to change resistance in an electric circuit is called:",
+      "o": [
+        "Voltmeter",
+        "Rheostat",
+        "Ammeter",
+        "Galvanometer"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Good conductors of electricity have resistance which is:",
+      "o": [
+        "Very low",
+        "Very high",
+        "Infinite",
+        "Variable"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Which metal is the best conductor of electricity?",
+      "o": [
+        "Copper",
+        "Aluminum",
+        "Gold",
+        "Silver"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The filament of an electric bulb is made of:",
+      "o": [
+        "Copper",
+        "Nichrome",
+        "Tungsten",
+        "Iron"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The heating element of an electric toaster is made of an alloy called:",
+      "o": [
+        "Tungsten",
+        "Brass",
+        "Bronze",
+        "Nichrome"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Resistance of a wire is inversely proportional to its:",
+      "o": [
+        "Area of cross-section",
+        "Length",
+        "Temperature",
+        "Density"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The SI unit of electric current is: - Set 2",
+      "o": [
+        "Volt",
+        "Ohm",
+        "Coulomb",
+        "Ampere"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The SI unit of electric potential difference is: - Set 2",
+      "o": [
+        "Ampere",
+        "Ohm",
+        "Joule",
+        "Volt"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The SI unit of electrical resistance is: - Set 2",
+      "o": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Ohm's law states the relationship between: - Set 2",
+      "o": [
+        "Charge and time",
+        "Voltage and current",
+        "Work and power",
+        "Heat and energy"
+      ],
+      "a": 1
+    },
+    {
+      "q": "1 kWh (kilowatt-hour) of electrical energy is equal to: - Set 2",
+      "o": [
+        "3.6 x 10^5 J",
+        "1000 J",
+        "3600 J",
+        "3.6 x 10^6 J"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The SI unit of electrical resistivity is: - Set 2",
+      "o": [
+        "Ohm per meter",
+        "Volt-meter",
+        "Ampere-meter",
+        "Ohm-meter"
+      ],
+      "a": 3
+    },
+    {
+      "q": "When resistors are connected in series, the total resistance: - Set 2",
+      "o": [
+        "Decreases",
+        "Remains same",
+        "Becomes zero",
+        "Increases"
+      ],
+      "a": 3
+    },
+    {
+      "q": "When resistors are connected in parallel, the total resistance: - Set 2",
+      "o": [
+        "Decreases",
+        "Increases",
+        "Remains same",
+        "Doubles"
+      ],
+      "a": 0
+    },
+    {
+      "q": "An ammeter is always connected in a circuit in: - Set 2",
+      "o": [
+        "Series",
+        "Parallel",
+        "Series-parallel mix",
+        "Any orientation"
+      ],
+      "a": 0
+    },
+    {
+      "q": "A voltmeter is always connected in a circuit in: - Set 2",
+      "o": [
+        "Series",
+        "Parallel",
+        "Series-parallel mix",
+        "Any orientation"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The rate of doing work or rate of consumption of electrical energy is called: - Set 2",
+      "o": [
+        "Electric current",
+        "Electric power",
+        "Potential difference",
+        "Resistance"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The heating effect of electric current is expressed by Joule's law as H = - Set 2",
+      "o": [
+        "V I^2 t",
+        "I R^2 t",
+        "V / I t",
+        "I^2 R t"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Commercial unit of electrical energy is: - Set 2",
+      "o": [
+        "Watt-second",
+        "Joule",
+        "Kilowatt-hour",
+        "Volt-ampere"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The device used to measure current in a circuit is called: - Set 2",
+      "o": [
+        "Voltmeter",
+        "Galvanometer",
+        "Rheostat",
+        "Ammeter"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The device used to change resistance in an electric circuit is called: - Set 2",
+      "o": [
+        "Voltmeter",
+        "Ammeter",
+        "Galvanometer",
+        "Rheostat"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Good conductors of electricity have resistance which is: - Set 2",
+      "o": [
+        "Very high",
+        "Very low",
+        "Infinite",
+        "Variable"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Which metal is the best conductor of electricity? - Set 2",
+      "o": [
+        "Copper",
+        "Aluminum",
+        "Gold",
+        "Silver"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The filament of an electric bulb is made of: - Set 2",
+      "o": [
+        "Tungsten",
+        "Copper",
+        "Nichrome",
+        "Iron"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The heating element of an electric toaster is made of an alloy called: - Set 2",
+      "o": [
+        "Nichrome",
+        "Tungsten",
+        "Brass",
+        "Bronze"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Resistance of a wire is inversely proportional to its: - Set 2",
+      "o": [
+        "Length",
+        "Area of cross-section",
+        "Temperature",
+        "Density"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The SI unit of electric current is: - Set 3",
+      "o": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Coulomb"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The SI unit of electric potential difference is: - Set 3",
+      "o": [
+        "Ampere",
+        "Ohm",
+        "Joule",
+        "Volt"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The SI unit of electrical resistance is: - Set 3",
+      "o": [
+        "Ohm",
+        "Volt",
+        "Ampere",
+        "Watt"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Ohm's law states the relationship between: - Set 3",
+      "o": [
+        "Charge and time",
+        "Work and power",
+        "Heat and energy",
+        "Voltage and current"
+      ],
+      "a": 3
+    },
+    {
+      "q": "1 kWh (kilowatt-hour) of electrical energy is equal to: - Set 3",
+      "o": [
+        "3.6 x 10^5 J",
+        "1000 J",
+        "3600 J",
+        "3.6 x 10^6 J"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The SI unit of electrical resistivity is: - Set 3",
+      "o": [
+        "Ohm per meter",
+        "Ohm-meter",
+        "Volt-meter",
+        "Ampere-meter"
+      ],
+      "a": 1
+    },
+    {
+      "q": "When resistors are connected in series, the total resistance: - Set 3",
+      "o": [
+        "Decreases",
+        "Remains same",
+        "Increases",
+        "Becomes zero"
+      ],
+      "a": 2
+    },
+    {
+      "q": "When resistors are connected in parallel, the total resistance: - Set 3",
+      "o": [
+        "Increases",
+        "Decreases",
+        "Remains same",
+        "Doubles"
+      ],
+      "a": 1
+    },
+    {
+      "q": "An ammeter is always connected in a circuit in: - Set 3",
+      "o": [
+        "Series",
+        "Parallel",
+        "Series-parallel mix",
+        "Any orientation"
+      ],
+      "a": 0
+    },
+    {
+      "q": "A voltmeter is always connected in a circuit in: - Set 3",
+      "o": [
+        "Series",
+        "Parallel",
+        "Series-parallel mix",
+        "Any orientation"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The rate of doing work or rate of consumption of electrical energy is called: - Set 3",
+      "o": [
+        "Electric current",
+        "Electric power",
+        "Potential difference",
+        "Resistance"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The heating effect of electric current is expressed by Joule's law as H = - Set 3",
+      "o": [
+        "V I^2 t",
+        "I R^2 t",
+        "V / I t",
+        "I^2 R t"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Commercial unit of electrical energy is: - Set 3",
+      "o": [
+        "Kilowatt-hour",
+        "Watt-second",
+        "Joule",
+        "Volt-ampere"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The device used to measure current in a circuit is called: - Set 3",
+      "o": [
+        "Ammeter",
+        "Voltmeter",
+        "Galvanometer",
+        "Rheostat"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The device used to change resistance in an electric circuit is called: - Set 3",
+      "o": [
+        "Voltmeter",
+        "Ammeter",
+        "Galvanometer",
+        "Rheostat"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Good conductors of electricity have resistance which is: - Set 3",
+      "o": [
+        "Very high",
+        "Infinite",
+        "Variable",
+        "Very low"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Which metal is the best conductor of electricity? - Set 3",
+      "o": [
+        "Silver",
+        "Copper",
+        "Aluminum",
+        "Gold"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The filament of an electric bulb is made of: - Set 3",
+      "o": [
+        "Copper",
+        "Nichrome",
+        "Tungsten",
+        "Iron"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The heating element of an electric toaster is made of an alloy called: - Set 3",
+      "o": [
+        "Tungsten",
+        "Nichrome",
+        "Brass",
+        "Bronze"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Resistance of a wire is inversely proportional to its: - Set 3",
+      "o": [
+        "Length",
+        "Temperature",
+        "Area of cross-section",
+        "Density"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The SI unit of electric current is: - Set 4",
+      "o": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Coulomb"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The SI unit of electric potential difference is: - Set 4",
+      "o": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Joule"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The SI unit of electrical resistance is: - Set 4",
+      "o": [
+        "Ohm",
+        "Volt",
+        "Ampere",
+        "Watt"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Ohm's law states the relationship between: - Set 4",
+      "o": [
+        "Voltage and current",
+        "Charge and time",
+        "Work and power",
+        "Heat and energy"
+      ],
+      "a": 0
+    },
+    {
+      "q": "1 kWh (kilowatt-hour) of electrical energy is equal to: - Set 4",
+      "o": [
+        "3.6 x 10^5 J",
+        "1000 J",
+        "3600 J",
+        "3.6 x 10^6 J"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The SI unit of electrical resistivity is: - Set 4",
+      "o": [
+        "Ohm per meter",
+        "Volt-meter",
+        "Ohm-meter",
+        "Ampere-meter"
+      ],
+      "a": 2
+    },
+    {
+      "q": "When resistors are connected in series, the total resistance: - Set 4",
+      "o": [
+        "Decreases",
+        "Increases",
+        "Remains same",
+        "Becomes zero"
+      ],
+      "a": 1
+    },
+    {
+      "q": "When resistors are connected in parallel, the total resistance: - Set 4",
+      "o": [
+        "Increases",
+        "Remains same",
+        "Decreases",
+        "Doubles"
+      ],
+      "a": 2
+    },
+    {
+      "q": "An ammeter is always connected in a circuit in: - Set 4",
+      "o": [
+        "Series",
+        "Parallel",
+        "Series-parallel mix",
+        "Any orientation"
+      ],
+      "a": 0
+    },
+    {
+      "q": "A voltmeter is always connected in a circuit in: - Set 4",
+      "o": [
+        "Parallel",
+        "Series",
+        "Series-parallel mix",
+        "Any orientation"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The rate of doing work or rate of consumption of electrical energy is called: - Set 4",
+      "o": [
+        "Electric current",
+        "Potential difference",
+        "Electric power",
+        "Resistance"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The heating effect of electric current is expressed by Joule's law as H = - Set 4",
+      "o": [
+        "V I^2 t",
+        "I^2 R t",
+        "I R^2 t",
+        "V / I t"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Commercial unit of electrical energy is: - Set 4",
+      "o": [
+        "Watt-second",
+        "Kilowatt-hour",
+        "Joule",
+        "Volt-ampere"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The device used to measure current in a circuit is called: - Set 4",
+      "o": [
+        "Voltmeter",
+        "Galvanometer",
+        "Rheostat",
+        "Ammeter"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The device used to change resistance in an electric circuit is called: - Set 4",
+      "o": [
+        "Voltmeter",
+        "Rheostat",
+        "Ammeter",
+        "Galvanometer"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Good conductors of electricity have resistance which is: - Set 4",
+      "o": [
+        "Very low",
+        "Very high",
+        "Infinite",
+        "Variable"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Which metal is the best conductor of electricity? - Set 4",
+      "o": [
+        "Copper",
+        "Aluminum",
+        "Silver",
+        "Gold"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The filament of an electric bulb is made of: - Set 4",
+      "o": [
+        "Copper",
+        "Nichrome",
+        "Tungsten",
+        "Iron"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The heating element of an electric toaster is made of an alloy called: - Set 4",
+      "o": [
+        "Tungsten",
+        "Brass",
+        "Nichrome",
+        "Bronze"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Resistance of a wire is inversely proportional to its: - Set 4",
+      "o": [
+        "Length",
+        "Temperature",
+        "Area of cross-section",
+        "Density"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The SI unit of electric current is: - Set 5",
+      "o": [
+        "Volt",
+        "Ohm",
+        "Ampere",
+        "Coulomb"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The SI unit of electric potential difference is: - Set 5",
+      "o": [
+        "Ampere",
+        "Ohm",
+        "Volt",
+        "Joule"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The SI unit of electrical resistance is: - Set 5",
+      "o": [
+        "Volt",
+        "Ohm",
+        "Ampere",
+        "Watt"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Ohm's law states the relationship between: - Set 5",
+      "o": [
+        "Charge and time",
+        "Work and power",
+        "Voltage and current",
+        "Heat and energy"
+      ],
+      "a": 2
+    },
+    {
+      "q": "1 kWh (kilowatt-hour) of electrical energy is equal to: - Set 5",
+      "o": [
+        "3.6 x 10^5 J",
+        "3.6 x 10^6 J",
+        "1000 J",
+        "3600 J"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The SI unit of electrical resistivity is: - Set 5",
+      "o": [
+        "Ohm per meter",
+        "Volt-meter",
+        "Ohm-meter",
+        "Ampere-meter"
+      ],
+      "a": 2
+    },
+    {
+      "q": "When resistors are connected in series, the total resistance: - Set 5",
+      "o": [
+        "Increases",
+        "Decreases",
+        "Remains same",
+        "Becomes zero"
+      ],
+      "a": 0
+    },
+    {
+      "q": "When resistors are connected in parallel, the total resistance: - Set 5",
+      "o": [
+        "Increases",
+        "Remains same",
+        "Decreases",
+        "Doubles"
+      ],
+      "a": 2
+    },
+    {
+      "q": "An ammeter is always connected in a circuit in: - Set 5",
+      "o": [
+        "Series",
+        "Parallel",
+        "Series-parallel mix",
+        "Any orientation"
+      ],
+      "a": 0
+    },
+    {
+      "q": "A voltmeter is always connected in a circuit in: - Set 5",
+      "o": [
+        "Series",
+        "Series-parallel mix",
+        "Parallel",
+        "Any orientation"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The rate of doing work or rate of consumption of electrical energy is called: - Set 5",
+      "o": [
+        "Electric current",
+        "Potential difference",
+        "Resistance",
+        "Electric power"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The heating effect of electric current is expressed by Joule's law as H = - Set 5",
+      "o": [
+        "V I^2 t",
+        "I^2 R t",
+        "I R^2 t",
+        "V / I t"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Commercial unit of electrical energy is: - Set 5",
+      "o": [
+        "Kilowatt-hour",
+        "Watt-second",
+        "Joule",
+        "Volt-ampere"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The device used to measure current in a circuit is called: - Set 5",
+      "o": [
+        "Voltmeter",
+        "Ammeter",
+        "Galvanometer",
+        "Rheostat"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The device used to change resistance in an electric circuit is called: - Set 5",
+      "o": [
+        "Voltmeter",
+        "Ammeter",
+        "Galvanometer",
+        "Rheostat"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Good conductors of electricity have resistance which is: - Set 5",
+      "o": [
+        "Very high",
+        "Very low",
+        "Infinite",
+        "Variable"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Which metal is the best conductor of electricity? - Set 5",
+      "o": [
+        "Copper",
+        "Silver",
+        "Aluminum",
+        "Gold"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The filament of an electric bulb is made of: - Set 5",
+      "o": [
+        "Tungsten",
+        "Copper",
+        "Nichrome",
+        "Iron"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The heating element of an electric toaster is made of an alloy called: - Set 5",
+      "o": [
+        "Tungsten",
+        "Brass",
+        "Bronze",
+        "Nichrome"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Resistance of a wire is inversely proportional to its: - Set 5",
+      "o": [
+        "Length",
+        "Temperature",
+        "Area of cross-section",
+        "Density"
+      ],
+      "a": 2
+    }
+  ]
+}

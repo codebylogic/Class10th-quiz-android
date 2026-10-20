@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "मानव रोग, कारण और बचाव / Human Diseases, Causes & Cure",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Human Diseases, Causes & Cure.",
+  "questions": [
+    {
+      "q": {
+        "hi": "तपेदिक (क्षय रोग / टीवी / Tuberculosis) किस जीवाणु (Bacteria) के संक्रमण से होता है?",
+        "en": "Tuberculosis (TB) is a bacterial infection caused by which organism?"
+      },
+      "o": [
+        {
+          "hi": "माइकोबैक्टीरियम ट्यूबरकुलोसिस",
+          "en": "Mycobacterium tuberculosis"
+        },
+        {
+          "hi": "साल्मोनेला टाइफी",
+          "en": "Salmonella typhi"
+        },
+        {
+          "hi": "विब्रियो कोलेरी",
+          "en": "Vibrio cholerae"
+        },
+        {
+          "hi": "क्लोस्ट्रिडियम टेटैनी",
+          "en": "Clostridium tetani"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्षय रोग (TB) से बचाव के लिए नवजात शिशु को कौन सा टीका (Vaccine) लगाया जाता है?",
+        "en": "Which vaccine is administered to newborns for protection against Tuberculosis?"
+      },
+      "o": [
+        {
+          "hi": "डीपीटी टीका",
+          "en": "DPT Vaccine"
+        },
+        {
+          "hi": "बीसीजी (BCG Vaccine)",
+          "en": "BCG Vaccine"
+        },
+        {
+          "hi": "एमएमआर टीका",
+          "en": "MMR Vaccine"
+        },
+        {
+          "hi": "ओपीवी",
+          "en": "OPV"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "टीबी (Tuberculosis) के संक्रमण की पुष्टि के लिए कौन सा नैदानिक परीक्षण किया जाता है?",
+        "en": "Which diagnostic skin test is routinely performed for Tuberculosis detection?"
+      },
+      "o": [
+        {
+          "hi": "विडाल टेस्ट",
+          "en": "Widal Test"
+        },
+        {
+          "hi": "एलिसा टेस्ट",
+          "en": "ELISA Test"
+        },
+        {
+          "hi": "मंटौक्स परीक्षण (Mantoux Test)",
+          "en": "Mantoux Test"
+        },
+        {
+          "hi": "वेस्टर्न ब्लॉट",
+          "en": "Western Blot"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "टाइफाइड (मियादी बुखार / Typhoid) किस जीवाणु के कारण होता है?",
+        "en": "Typhoid fever is a water-borne disease caused by which bacterium?"
+      },
+      "o": [
+        {
+          "hi": "शिगेला",
+          "en": "Shigella"
+        },
+        {
+          "hi": "स्ट्रेप्टोकोकस",
+          "en": "Streptococcus"
+        },
+        {
+          "hi": "ट्रिपोनोमा",
+          "en": "Treponema"
+        },
+        {
+          "hi": "साल्मोनेला टाइफी (Salmonella typhi)",
+          "en": "Salmonella typhi"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "टाइफाइड रोग की पुष्टि के लिए कौन सा प्रसिद्ध रक्त परीक्षण (Blood Test) किया जाता है?",
+        "en": "Which clinical laboratory test is used to confirm Typhoid fever diagnosis?"
+      },
+      "o": [
+        {
+          "hi": "विडाल टेस्ट (Widal Test)",
+          "en": "Widal Test"
+        },
+        {
+          "hi": "मंटौक्स टेस्ट",
+          "en": "Mantoux Test"
+        },
+        {
+          "hi": "एलिसा टेस्ट",
+          "en": "ELISA Test"
+        },
+        {
+          "hi": "बायोप्सी",
+          "en": "Biopsy"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हैजा (Cholera) रोग 'चावल के पानी जैसे' दस्त के लिए जिम्मेदार किस जीवाणु से होता है?",
+        "en": "Cholera causing watery 'rice-water' stools is infected by which bacteria?"
+      },
+      "o": [
+        {
+          "hi": "मायकोबैक्टीरियम",
+          "en": "Mycobacterium"
+        },
+        {
+          "hi": "विब्रियो कोलेरी (Vibrio cholerae)",
+          "en": "Vibrio cholerae"
+        },
+        {
+          "hi": "बोर्डेटेला",
+          "en": "Bordetella"
+        },
+        {
+          "hi": "यर्सिनिया",
+          "en": "Yersinia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "धनुस्तंभ (लॉकजॉ / Tetanus) रोग किस जीवाणु के विष (Toxin) के कारण होता है?",
+        "en": "Tetanus (Lockjaw) is caused by neurotoxin released by which anaerobic bacterium?"
+      },
+      "o": [
+        {
+          "hi": "बेसिलस एंथ्रेसिस",
+          "en": "Bacillus anthracis"
+        },
+        {
+          "hi": "कोरीनेबैक्टीरियम",
+          "en": "Corynebacterium"
+        },
+        {
+          "hi": "क्लोस्ट्रिडियम टेटैनी (Clostridium tetani)",
+          "en": "Clostridium tetani"
+        },
+        {
+          "hi": "लेप्टोस्पाइरा",
+          "en": "Leptospira"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "डीपीटी (DPT) का ट्रिपल एंटीजन टीका किन तीन रोगों से सुरक्षा प्रदान करता है?",
+        "en": "The DPT triple antigen vaccine provides active immunity against which 3 diseases?"
+      },
+      "o": [
+        {
+          "hi": "डायरिया, पोलियों एवं टीवी",
+          "en": "Diarrhea, Polio & TB"
+        },
+        {
+          "hi": "डेंगू, प्लेग एवं टाइफाइड",
+          "en": "Dengue, Plague & Typhoid"
+        },
+        {
+          "hi": "डायबिटीज, पीलिया एवं टिटनेस",
+          "en": "Diabetes, Jaundice & Tetanus"
+        },
+        {
+          "hi": "डिफ्थीरिया, परट्यूसिस (काली खांसी) एवं टेटनस",
+          "en": "Diphtheria, Pertussis (Whooping cough) & Tetanus"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "काली खांसी (Whooping Cough / Pertussis) किस जीवाणु के संक्रमण से होती है?",
+        "en": "Whooping cough (Pertussis) is a contagious respiratory disease caused by?"
+      },
+      "o": [
+        {
+          "hi": "बोर्डेटेला परट्यूसिस (Bordetella pertussis)",
+          "en": "Bordetella pertussis"
+        },
+        {
+          "hi": "स्ट्रेप्टोकोकस निमोनी",
+          "en": "Streptococcus pneumoniae"
+        },
+        {
+          "hi": "नेसेरिया",
+          "en": "Neisseria"
+        },
+        {
+          "hi": "हीमोफिलस",
+          "en": "Haemophilus"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कुष्ठ रोग (लेप्रोसी / Hansen's Disease) किस जीवाणु के कारण होता है?",
+        "en": "Leprosy, also known as Hansen's Disease, is caused by which bacterium?"
+      },
+      "o": [
+        {
+          "hi": "स्पाइरिलम",
+          "en": "Spirillum"
+        },
+        {
+          "hi": "माइकोबैक्टीरियम लेप्री (Mycobacterium leprae)",
+          "en": "Mycobacterium leprae"
+        },
+        {
+          "hi": "कोरीनेबैक्टीरियम",
+          "en": "Corynebacterium"
+        },
+        {
+          "hi": "क्लोस्ट्रिडियम",
+          "en": "Clostridium"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "काली मौत (Black Death) के नाम से प्रसिद्ध 'प्लेग' रोग का वाहक (Vector) कौन सा है?",
+        "en": "Which vector transmits the bacterium Yersinia pestis causing Plague?"
+      },
+      "o": [
+        {
+          "hi": "मादा एनोफिलीज मच्छर",
+          "en": "Female Anopheles mosquito"
+        },
+        {
+          "hi": "सीसी मक्खी",
+          "en": "Tsetse fly"
+        },
+        {
+          "hi": "पिसु (Rat Flea / Xenopsylla cheopis)",
+          "en": "Rat Flea (Xenopsylla cheopis)"
+        },
+        {
+          "hi": "रेत मक्खी",
+          "en": "Sandfly"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निमोनिया (Pneumonia) रोग में मानव शरीर का कौन सा अंग प्रभावित होता है?",
+        "en": "Streptococcus pneumoniae bacteria infection primarily affects which organ?"
+      },
+      "o": [
+        {
+          "hi": "यकृत",
+          "en": "Liver"
+        },
+        {
+          "hi": "तंत्रिका तंत्र",
+          "en": "Nervous System"
+        },
+        {
+          "hi": "आंत",
+          "en": "Intestine"
+        },
+        {
+          "hi": "फेफड़े (Lungs)",
+          "en": "Lungs"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रेबीज या हाइड्रोफोबिया (जल से डर) रोग किस विषाणु (Virus) के संक्रमण से होता है?",
+        "en": "Rabies or Hydrophobia is a fatal viral infection transmitted through animal bites caused by?"
+      },
+      "o": [
+        {
+          "hi": "रेबीज वायरस (राब्डोवायरस / Lyssavirus)",
+          "en": "Rabies Virus (Rhabdovirus)"
+        },
+        {
+          "hi": "मिक्सोवायरस",
+          "en": "Myxovirus"
+        },
+        {
+          "hi": "राइनोवायरस",
+          "en": "Rhinovirus"
+        },
+        {
+          "hi": "रिट्रोवायरस",
+          "en": "Retrovirus"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रेबीज का पहला टीका (Anti-rabies vaccine) किस महान वैज्ञानिक ने विकसित किया था?",
+        "en": "Who developed the first successful anti-rabies vaccine?"
+      },
+      "o": [
+        {
+          "hi": "एडवर्ड जेनर",
+          "en": "Edward Jenner"
+        },
+        {
+          "hi": "लुई पॉश्चर (Louis Pasteur)",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग",
+          "en": "Alexander Fleming"
+        },
+        {
+          "hi": "रॉबर्ट कोच",
+          "en": "Robert Koch"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पोलियो विषाणु (Poliovirus) शरीर में प्रवेश करके मुख्यतः किस तंत्र को प्रभावित करता है?",
+        "en": "Poliovirus primarily targets and damages which system in the human body?"
+      },
+      "o": [
+        {
+          "hi": "पाचन तंत्र",
+          "en": "Digestive system"
+        },
+        {
+          "hi": "श्वसन तंत्र",
+          "en": "Respiratory system"
+        },
+        {
+          "hi": "तंत्रिका तंत्र एवं प्रेरक तंत्रिकाएं (Motor Nerves)",
+          "en": "Nervous system and Motor nerves"
+        },
+        {
+          "hi": "रक्त परिसंचरण तंत्र",
+          "en": "Circulatory system"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ओरल पोलियो वैक्सीन (OPV - मुख से दी जाने वाली पोलियो खुराक) की खोज किसने की थी?",
+        "en": "Who developed the Oral Polio Vaccine (OPV)?"
+      },
+      "o": [
+        {
+          "hi": "जोनास साल्क",
+          "en": "Jonas Salk"
+        },
+        {
+          "hi": "एडवर्ड जेनर",
+          "en": "Edward Jenner"
+        },
+        {
+          "hi": "लुई पॉश्चर",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "अल्बर्ट साबिन (Albert Sabin)",
+          "en": "Albert Sabin"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हेपेटाइटिस (Hepatitis) रोग में मानव शरीर का कौन सा अंग सूज जाता है एवं पीलिया होता है?",
+        "en": "Viral Hepatitis infection causes inflammation and Jaundice in which organ?"
+      },
+      "o": [
+        {
+          "hi": "यकृत (लिवर / Liver)",
+          "en": "Liver"
+        },
+        {
+          "hi": "हृदय",
+          "en": "Heart"
+        },
+        {
+          "hi": "वृक्क",
+          "en": "Kidney"
+        },
+        {
+          "hi": "अग्न्याशय",
+          "en": "Pancreas"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में चेचक (Smallpox) का पहला सफल टीका विकसित करने वाले वैज्ञानिक कौन थे?",
+        "en": "Who discovered the world's first vaccine (against Smallpox in 1796)?"
+      },
+      "o": [
+        {
+          "hi": "लुई पॉश्चर",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "एडवर्ड जेनर (Edward Jenner)",
+          "en": "Edward Jenner"
+        },
+        {
+          "hi": "रॉबर्ट कोच",
+          "en": "Robert Koch"
+        },
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग",
+          "en": "Alexander Fleming"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चिकनपॉक्स (छोटी माता) रोग किस विषाणु द्वारा उत्पन्न होता है?",
+        "en": "Chickenpox is a highly contagious disease caused by which virus?"
+      },
+      "o": [
+        {
+          "hi": "वेरियोला वायरस",
+          "en": "Variola virus"
+        },
+        {
+          "hi": "पैरामिक्सोवायरस",
+          "en": "Paramyxovirus"
+        },
+        {
+          "hi": "वेरिसेला जोस्टर वायरस (Varicella Zoster Virus)",
+          "en": "Varicella Zoster Virus"
+        },
+        {
+          "hi": "एचआईवी",
+          "en": "HIV"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'हड्डी तोड़ बुखार' (Breakbone fever) के नाम से प्रसिद्ध डेंगू रोग का वाहक मच्छर कौन सा है?",
+        "en": "Which mosquito acts as the primary vector for transmitting Dengue virus?"
+      },
+      "o": [
+        {
+          "hi": "मादा एनोफिलीज",
+          "en": "Female Anopheles"
+        },
+        {
+          "hi": "क्यूलेक्स मच्छर",
+          "en": "Culex mosquito"
+        },
+        {
+          "hi": "मंसोनिया",
+          "en": "Mansonia"
+        },
+        {
+          "hi": "मादा एडीज एजिप्टी (Aedes aegypti)",
+          "en": "Female Aedes aegypti"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चिकनगुनिया और ज़ीका (Zika) बुखार का संचार भी किस मच्छर द्वारा होता है?",
+        "en": "Chikungunya and Zika virus infections are transmitted by which mosquito?"
+      },
+      "o": [
+        {
+          "hi": "एडीज एजिप्टी (Aedes aegypti)",
+          "en": "Aedes aegypti"
+        },
+        {
+          "hi": "एनोफिलीज स्टेफेंसी",
+          "en": "Anopheles stephensi"
+        },
+        {
+          "hi": "क्यूलेक्स पाइपियंस",
+          "en": "Culex pipiens"
+        },
+        {
+          "hi": "फ्लेबोटोमस",
+          "en": "Phlebotomus"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एड्स (AIDS) रोग किस विषाणु (Retrovirus) के संक्रमण के कारण होता है?",
+        "en": "AIDS is an immunodeficiency disease caused by which retrovirus?"
+      },
+      "o": [
+        {
+          "hi": "एचबीवी",
+          "en": "HBV"
+        },
+        {
+          "hi": "एचआईवी (HIV - Human Immunodeficiency Virus)",
+          "en": "HIV (Human Immunodeficiency Virus)"
+        },
+        {
+          "hi": "एचपीवी",
+          "en": "HPV"
+        },
+        {
+          "hi": "इबोला वायरस",
+          "en": "Ebola virus"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एचआईवी (HIV) विषाणु मानव प्रतिरक्षा प्रणाली की किन कोशिकाओं को नष्ट करता है?",
+        "en": "HIV virus selectively attacks and destroys which key cells of the immune system?"
+      },
+      "o": [
+        {
+          "hi": "RBCs",
+          "en": "RBCs"
+        },
+        {
+          "hi": "प्लेटलेट्स",
+          "en": "Platelets"
+        },
+        {
+          "hi": "CD4+ T-हेल्पर लिम्फोसाइट्स",
+          "en": "CD4+ T-helper Lymphocytes"
+        },
+        {
+          "hi": "न्यूट्रोफिल्स",
+          "en": "Neutrophils"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एड्स (AIDS) के प्राथमिक निदान हेतु कौन सा रक्त परीक्षण (Test) किया जाता है?",
+        "en": "Which primary antibody screening test is performed for AIDS detection?"
+      },
+      "o": [
+        {
+          "hi": "विडाल टेस्ट",
+          "en": "Widal Test"
+        },
+        {
+          "hi": "मंटौक्स टेस्ट",
+          "en": "Mantoux Test"
+        },
+        {
+          "hi": "आरटी-पीसीआर",
+          "en": "RT-PCR"
+        },
+        {
+          "hi": "एलिसा टेस्ट (ELISA Test)",
+          "en": "ELISA Test"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एलिसा टेस्ट पॉजिटिव आने पर एड्स की निश्चित पुष्टि (Confirmatory Test) हेतु कौन सा टेस्ट करते हैं?",
+        "en": "Which confirmatory laboratory test is performed following a positive ELISA test for HIV?"
+      },
+      "o": [
+        {
+          "hi": "वेस्टर्न ब्लॉट टेस्ट (Western Blot Test)",
+          "en": "Western Blot Test"
+        },
+        {
+          "hi": "साउदर्न ब्लॉट",
+          "en": "Southern Blot"
+        },
+        {
+          "hi": "नॉर्दर्न ब्लॉट",
+          "en": "Northern Blot"
+        },
+        {
+          "hi": "बायोप्सी",
+          "en": "Biopsy"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मलेरिया (Malaria) रोग किस प्रोटोजोआ परजीवी के कारण होता है?",
+        "en": "Malaria is a protozoan infection caused by species of which genus?"
+      },
+      "o": [
+        {
+          "hi": "लीशमानिया",
+          "en": "Leishmania"
+        },
+        {
+          "hi": "प्लास्मोडियम (Plasmodium)",
+          "en": "Plasmodium"
+        },
+        {
+          "hi": "ट्रिपैनोसोमा",
+          "en": "Trypanosoma"
+        },
+        {
+          "hi": "एंटअमीबा",
+          "en": "Entamoeba"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मलेरिया परजीवी (Plasmodium) का वाहक (Vector) कौन सा मच्छर है?",
+        "en": "Which insect acts as the definitive vector for Plasmodium parasite in Malaria?"
+      },
+      "o": [
+        {
+          "hi": "मादा एडीज मच्छर",
+          "en": "Female Aedes"
+        },
+        {
+          "hi": "क्यूलेक्स मच्छर",
+          "en": "Culex mosquito"
+        },
+        {
+          "hi": "मादा एनोफिलीज मच्छर (Female Anopheles)",
+          "en": "Female Anopheles mosquito"
+        },
+        {
+          "hi": "नर एनोफिलीज",
+          "en": "Male Anopheles"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मलेरिया की प्रसिद्ध औषधि कुनैन (Quinine) किस पौधे की छाल से प्राप्त की जाती है?",
+        "en": "Anti-malarial drug Quinine is extracted from the bark of which plant?"
+      },
+      "o": [
+        {
+          "hi": "यूकेलिप्टस",
+          "en": "Eucalyptus"
+        },
+        {
+          "hi": "पेनिसिलियम",
+          "en": "Penicillium"
+        },
+        {
+          "hi": "दालचीनी",
+          "en": "Cinnamon"
+        },
+        {
+          "hi": "सिनकोना (Cinchona tree)",
+          "en": "Cinchona tree"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मलेरिया रोग में मानव शरीर के कौन से अंग मुख्यतः प्रभावित होते हैं?",
+        "en": "Which body organs/cells are primarily invaded and damaged during Malaria infection?"
+      },
+      "o": [
+        {
+          "hi": "लाल रक्त कणिकाएं (RBCs) और यकृत / प्लीहा",
+          "en": "RBCs and Liver / Spleen"
+        },
+        {
+          "hi": "फेफड़े और हृदय",
+          "en": "Lungs & Heart"
+        },
+        {
+          "hi": "वृक्क और मूत्राशय",
+          "en": "Kidneys & Bladder"
+        },
+        {
+          "hi": "मस्तिष्क और रीढ़",
+          "en": "Brain & Spine"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कालाजार (Kala-azar / दमदम बुखार) किस प्रोटोजोआ परजीवी के कारण होता है?",
+        "en": "Visceral Leishmaniasis (Kala-azar) is caused by which protozoan parasite?"
+      },
+      "o": [
+        {
+          "hi": "प्लास्मोडियम फालसीपेरम",
+          "en": "Plasmodium falciparum"
+        },
+        {
+          "hi": "लीशमानिया डोनावानी (Leishmania donovani)",
+          "en": "Leishmania donovani"
+        },
+        {
+          "hi": "ट्रिपैनोसोमा गैम्बियंस",
+          "en": "Trypanosoma gambiense"
+        },
+        {
+          "hi": "जिआर्डिया",
+          "en": "Giardia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कालाजार (Kala-azar) रोग का संचरण करने वाला कीट (Vector) कौन सा है?",
+        "en": "Which insect vector transmits the Leishmania parasite causing Kala-azar?"
+      },
+      "o": [
+        {
+          "hi": "सीसी मक्खी",
+          "en": "Tsetse fly"
+        },
+        {
+          "hi": "फल मक्खी",
+          "en": "Fruit fly"
+        },
+        {
+          "hi": "रेत मक्खी (सैंडफ्लाई / Sandfly)",
+          "en": "Sandfly (Phlebotomus)"
+        },
+        {
+          "hi": "खटमल",
+          "en": "Bed bug"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अफ्रीकी निद्रालु रोग (Sleeping Sickness) किस मक्खी के काटने से फैलता है?",
+        "en": "African Sleeping Sickness caused by Trypanosoma is transmitted by which vector?"
+      },
+      "o": [
+        {
+          "hi": "सैंडफ्लाई",
+          "en": "Sandfly"
+        },
+        {
+          "hi": "घरेलू मक्खी",
+          "en": "Housefly"
+        },
+        {
+          "hi": "मच्छर",
+          "en": "Mosquito"
+        },
+        {
+          "hi": "सीसी मक्खी (Tsetse fly / Glossina)",
+          "en": "Tsetse fly (Glossina)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अमीबीय पेचिश (Amoebic Dysentery) किस एककोशिकीय प्रोटोजोआ से होती है?",
+        "en": "Amoebiasis or Amoebic Dysentery is caused by which intestinal parasite?"
+      },
+      "o": [
+        {
+          "hi": "एंटअमीबा हिस्टोलिटिका (Entamoeba histolytica)",
+          "en": "Entamoeba histolytica"
+        },
+        {
+          "hi": "एंटअमीबा जिंजिवैलिस",
+          "en": "Entamoeba gingivalis"
+        },
+        {
+          "hi": "यूग्लीना",
+          "en": "Euglena"
+        },
+        {
+          "hi": "पैरामीशियम",
+          "en": "Paramecium"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "त्वचा में खुजली और गोल चकत्ते वाला 'दाद' (Ringworm) किस सूक्ष्मजीव से होता है?",
+        "en": "Ringworm skin infection characterized by circular itchy red lesions is caused by?"
+      },
+      "o": [
+        {
+          "hi": "जीवाणु",
+          "en": "Bacteria"
+        },
+        {
+          "hi": "कवक (फंगस / Fungi)",
+          "en": "Fungi (Trichophyton / Microsporum)"
+        },
+        {
+          "hi": "विषाणु",
+          "en": "Virus"
+        },
+        {
+          "hi": "प्रोटोजोआ",
+          "en": "Protozoa"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एथलीट फुट (Athlete's Foot) रोग का कारण कौन सा कवक है?",
+        "en": "Athlete's foot infection affecting the skin between toes is caused by?"
+      },
+      "o": [
+        {
+          "hi": "कैंडिडा",
+          "en": "Candida"
+        },
+        {
+          "hi": "एस्पर्जिलस",
+          "en": "Aspergillus"
+        },
+        {
+          "hi": "टीनिया पेडीस (Tinea pedis)",
+          "en": "Tinea pedis fungus"
+        },
+        {
+          "hi": "पेनिसिलियम",
+          "en": "Penicillium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हाथीपांव या फाइलेरिया (Elephantiasis) रोग किस कृमि (Worm) के कारण होता है?",
+        "en": "Lymphatic Filariasis (Elephantiasis) causing massive leg swelling is caused by?"
+      },
+      "o": [
+        {
+          "hi": "एस्केरिस लुम्ब्रिकोइड्स",
+          "en": "Ascaris lumbricoides"
+        },
+        {
+          "hi": "टीनिया सोलियम",
+          "en": "Taenia solium"
+        },
+        {
+          "hi": "एंसाइलोस्टोमा",
+          "en": "Ancylostoma"
+        },
+        {
+          "hi": "वुचेरेरिया बैनक्रॉफ्टाई (Wuchereria bancrofti)",
+          "en": "Wuchereria bancrofti"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "फाइलेरिया (Elephantiasis) के फाइलेरियल कृमि का वाहक मच्छर कौन सा है?",
+        "en": "Which mosquito species transmits the filarial worm Wuchereria bancrofti?"
+      },
+      "o": [
+        {
+          "hi": "क्यूलेक्स मच्छर (Culex mosquito)",
+          "en": "Culex mosquito"
+        },
+        {
+          "hi": "एनोफिलीज",
+          "en": "Anopheles"
+        },
+        {
+          "hi": "एडीज",
+          "en": "Aedes"
+        },
+        {
+          "hi": "मंसोनिया",
+          "en": "Mansonia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव आंत में पाया जाने वाला गोलकृमि (Roundworm) कौन सा है जो एस्केरियासिस करता है?",
+        "en": "Which giant intestinal roundworm causes Ascariasis in humans?"
+      },
+      "o": [
+        {
+          "hi": "पिनवर्म",
+          "en": "Pinworm"
+        },
+        {
+          "hi": "एस्केरिस लुम्ब्रिकोइड्स (Ascaris lumbricoides)",
+          "en": "Ascaris lumbricoides"
+        },
+        {
+          "hi": "टेपवर्म",
+          "en": "Tapeworm"
+        },
+        {
+          "hi": "हुकवर्म",
+          "en": "Hookworm"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हीमोफीलिया (Haemophilia / शाही बीमारी) किस प्रकार का आनुवंशिक रोग है?",
+        "en": "Hemophilia ('Royal Disease') is which type of genetic disorder?"
+      },
+      "o": [
+        {
+          "hi": "Y-सहलग्न प्रभाही रोग",
+          "en": "Y-linked dominant disorder"
+        },
+        {
+          "hi": "कायिक उत्परिवर्तन",
+          "en": "Somatic mutation"
+        },
+        {
+          "hi": "X-सहलग्न अप्रभावी रोग (रक्त का थक्का नहीं जमता)",
+          "en": "X-linked recessive disorder (Failure of blood clotting)"
+        },
+        {
+          "hi": "जीवाणु जनित रोग",
+          "en": "Bacterial disease"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वर्णांधता (Color Blindness) से पीड़ित व्यक्ति किन दो रंगों में अंतर नहीं कर पाता है?",
+        "en": "A color-blind individual has difficulty distinguishing which primary colors?"
+      },
+      "o": [
+        {
+          "hi": "नीला और पीला",
+          "en": "Blue and Yellow"
+        },
+        {
+          "hi": "काला और सफेद",
+          "en": "Black and White"
+        },
+        {
+          "hi": "बैंगनी और नारंगी",
+          "en": "Violet and Orange"
+        },
+        {
+          "hi": "लाल और हरा रंग (Red and Green)",
+          "en": "Red and Green colors"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सिकल सेल एनीमिया (Sickle Cell Anemia) में हीमोग्लोबिन श्रृंखला में क्या उत्परिवर्तन होता है?",
+        "en": "In Sickle Cell Anemia, glutamic acid is substituted by which amino acid at 6th position?"
+      },
+      "o": [
+        {
+          "hi": "वैलीन (Valine) द्वारा प्रतिस्थापन",
+          "en": "Valine substitution"
+        },
+        {
+          "hi": "लाइसिन",
+          "en": "Lysine"
+        },
+        {
+          "hi": "एलानिन",
+          "en": "Alanine"
+        },
+        {
+          "hi": "ग्लाइसिन",
+          "en": "Glycine"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "21वें गुणसूत्र की एकाधिसूत्रता (Trisomy 21) के कारण कौन सा आनुवंशिक विकार होता है?",
+        "en": "Trisomy of the 21st chromosome in humans causes which genetic condition?"
+      },
+      "o": [
+        {
+          "hi": "टर्नर सिंड्रोम",
+          "en": "Turner Syndrome"
+        },
+        {
+          "hi": "डाउन सिंड्रोम (Down Syndrome / 47 गुणसूत्र)",
+          "en": "Down Syndrome (47 Chromosomes)"
+        },
+        {
+          "hi": "क्लाइनफेल्टर सिंड्रोम",
+          "en": "Klinefelter Syndrome"
+        },
+        {
+          "hi": "पटौ सिंड्रोम",
+          "en": "Patau Syndrome"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "केवल महिलाओं में पाया जाने वाला टर्नर सिंड्रोम (Turner Syndrome) का गुणसूत्रीय विन्यास?",
+        "en": "What is the chromosomal constitution of females suffering from Turner Syndrome?"
+      },
+      "o": [
+        {
+          "hi": "47 गुणसूत्र (44 + XXY)",
+          "en": "47 Chromosomes (44 + XXY)"
+        },
+        {
+          "hi": "47 गुणसूत्र (44 + XXX)",
+          "en": "47 Chromosomes (44 + XXX)"
+        },
+        {
+          "hi": "45 गुणसूत्र (44 + XO)",
+          "en": "45 Chromosomes (44 + XO)"
+        },
+        {
+          "hi": "46 गुणसूत्र",
+          "en": "46 Chromosomes"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पुरुषों में अतिरिक्त X गुणसूत्र के कारण बांझपन उत्पन्न करने वाला क्लाइनफेल्टर सिंड्रोम विन्यास?",
+        "en": "What is the chromosomal configuration in males with Klinefelter Syndrome?"
+      },
+      "o": [
+        {
+          "hi": "45 गुणसूत्र (44 + XO)",
+          "en": "45 Chromosomes (44 + XO)"
+        },
+        {
+          "hi": "47 गुणसूत्र (Trisomy 21)",
+          "en": "47 Chromosomes (Trisomy 21)"
+        },
+        {
+          "hi": "46 गुणसूत्र",
+          "en": "46 Chromosomes"
+        },
+        {
+          "hi": "47 गुणसूत्र (44 + XXY)",
+          "en": "47 Chromosomes (44 + XXY)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रक्त कैंसर (Blood Cancer) का चिकित्सकीय नाम क्या है जिसमें श्वेत रक्त कोशिकाएं अत्यधिक बढ़ती हैं?",
+        "en": "What is the medical term for blood cancer characterized by uncontrolled WBC production?"
+      },
+      "o": [
+        {
+          "hi": "ल्यूकेमिया (Leukemia)",
+          "en": "Leukemia"
+        },
+        {
+          "hi": "लिम्फोमा",
+          "en": "Lymphoma"
+        },
+        {
+          "hi": "कार्सिनोमा",
+          "en": "Carcinoma"
+        },
+        {
+          "hi": "सारकोमा",
+          "en": "Sarcoma"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सामान्य कोशिकाओं को कैंसर कोशिकाओं में परिवर्तित करने वाले जीन क्या कहलाते हैं?",
+        "en": "Mutated genes that trigger uncontrolled cancerous cell division are known as?"
+      },
+      "o": [
+        {
+          "hi": "ट्रांसपोसॉन",
+          "en": "Transposons"
+        },
+        {
+          "hi": "ऑन्कोजीन (Oncogenes)",
+          "en": "Oncogenes"
+        },
+        {
+          "hi": "सिस्ट्रॉन",
+          "en": "Cistrons"
+        },
+        {
+          "hi": "म्यूटॉन",
+          "en": "Mutons"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1928 में वैज्ञानिक अलेक्जेंडर फ्लेमिंग द्वारा खोजी गई विश्व की पहली एंटीबायोटिक?",
+        "en": "Which was the world's first antibiotic discovered by Sir Alexander Fleming in 1928?"
+      },
+      "o": [
+        {
+          "hi": "स्ट्रेप्टोमाइसिन",
+          "en": "Streptomycin"
+        },
+        {
+          "hi": "टेट्रासाइक्लिन",
+          "en": "Tetracycline"
+        },
+        {
+          "hi": "पेनिसिलिन (Penicillin)",
+          "en": "Penicillin"
+        },
+        {
+          "hi": "एरिथ्रोमाइसिन",
+          "en": "Erythromycin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पेनिसिलिन एंटीबायोटिक किस कवक (Fungus) से प्राप्त की गई थी?",
+        "en": "Penicillin antibiotic was originally isolated from which fungus species?"
+      },
+      "o": [
+        {
+          "hi": "राइजोपस",
+          "en": "Rhizopus"
+        },
+        {
+          "hi": "एगारिकस",
+          "en": "Agaricus"
+        },
+        {
+          "hi": "एस्पर्जिलस",
+          "en": "Aspergillus"
+        },
+        {
+          "hi": "पेनिसिलियम नोटेटम (Penicillium notatum)",
+          "en": "Penicillium notatum"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शरीर में प्रवेश करने वाले बाहरी हानिकारक जीव या पदार्थ जो प्रतिरक्षा प्रतिक्रिया जगाते हैं?",
+        "en": "Foreign molecules or organisms that elicit an immune response are called?"
+      },
+      "o": [
+        {
+          "hi": "एंटीजन (प्रतिजन / Antigen)",
+          "en": "Antigen"
+        },
+        {
+          "hi": "एंटीबॉडी",
+          "en": "Antibody"
+        },
+        {
+          "hi": "इंटरफेरोन",
+          "en": "Interferon"
+        },
+        {
+          "hi": "एंटीबायोटिक",
+          "en": "Antibiotic"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एंटीजन के जवाब में लिम्फोसाइट्स द्वारा निर्मित Y-आकार के सुरक्षात्मक प्रोटीन क्या कहलाते हैं?",
+        "en": "Y-shaped protective immunoglobulin proteins secreted by plasma cells are?"
+      },
+      "o": [
+        {
+          "hi": "एंटीजन",
+          "en": "Antigen"
+        },
+        {
+          "hi": "एंटीबॉडी (प्रतिरक्षी / Antibody)",
+          "en": "Antibody (Immunoglobulin)"
+        },
+        {
+          "hi": "हिस्टामाइन",
+          "en": "Histamine"
+        },
+        {
+          "hi": "पैथोजन",
+          "en": "Pathogen"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मां के प्रथम गाढ़े दूध (कोलस्ट्रम) में पाई जाने वाली एंटीबॉडी जो नवजात को सुरक्षा देती है?",
+        "en": "Which immunoglobulin antibody class is abundant in maternal colostrum milk?"
+      },
+      "o": [
+        {
+          "hi": "IgG एंटीबॉडी",
+          "en": "IgG antibody"
+        },
+        {
+          "hi": "IgM एंटीबॉडी",
+          "en": "IgM antibody"
+        },
+        {
+          "hi": "IgA एंटीबॉडी",
+          "en": "IgA antibody"
+        },
+        {
+          "hi": "IgE एंटीबॉडी",
+          "en": "IgE antibody"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एलर्जी (Allergy) प्रतिक्रियाओं और हिस्टामाइन स्राव में भाग लेने वाली एंटीबॉडी कौन सी है?",
+        "en": "Which immunoglobulin class mediates allergic responses and hypersensitivity?"
+      },
+      "o": [
+        {
+          "hi": "IgA एंटीबॉडी",
+          "en": "IgA antibody"
+        },
+        {
+          "hi": "IgD एंटीबॉडी",
+          "en": "IgD antibody"
+        },
+        {
+          "hi": "IgG एंटीबॉडी",
+          "en": "IgG antibody"
+        },
+        {
+          "hi": "IgE एंटीबॉडी",
+          "en": "IgE antibody"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जापान में औद्योगिक पारे (Mercury - Hg) से प्रदूषित मछली खाने से कौन सी बीमारी हुई थी?",
+        "en": "Industrial Mercury (Hg) water pollution in Japan caused which neurological disease?"
+      },
+      "o": [
+        {
+          "hi": "मिनामाता रोग (Minamata Disease)",
+          "en": "Minamata Disease"
+        },
+        {
+          "hi": "इटाई-इटाई रोग",
+          "en": "Itai-itai Disease"
+        },
+        {
+          "hi": "ब्लैक फुट रोग",
+          "en": "Black Foot Disease"
+        },
+        {
+          "hi": "ब्लू बेबी सिंड्रोम",
+          "en": "Blue Baby Syndrome"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कैडमियम (Cadmium - Cd) धातु के जल प्रदूषण एवं अति-संपर्क से कौन सा रोग होता है?",
+        "en": "Chronic Cadmium (Cd) toxicity in drinking water leads to which painful bone disease?"
+      },
+      "o": [
+        {
+          "hi": "मिनामाता रोग",
+          "en": "Minamata Disease"
+        },
+        {
+          "hi": "इटाई-इटाई रोग (Itai-Itai Disease)",
+          "en": "Itai-Itai Disease"
+        },
+        {
+          "hi": "सिलिकोसिस",
+          "en": "Silicosis"
+        },
+        {
+          "hi": "फ्लोरोसिस",
+          "en": "Fluorosis"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पेयजल में नाइट्रेट ($NO_3^-$) की अधिकता से नवजात शिशुओं में कौन सा रोग होता है?",
+        "en": "Nitrate contamination in drinking water causes Methemoglobinemia, also called?"
+      },
+      "o": [
+        {
+          "hi": "ब्लैक फुट रोग",
+          "en": "Black Foot Disease"
+        },
+        {
+          "hi": "मिनामाता",
+          "en": "Minamata"
+        },
+        {
+          "hi": "ब्लू बेबी सिंड्रोम (Blue Baby Syndrome)",
+          "en": "Blue Baby Syndrome"
+        },
+        {
+          "hi": "इटाई-इटाई",
+          "en": "Itai-itai"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पेयजल में आर्सेनिक (Arsenic - As) के दीर्घकालिक प्रदूषण से कौन सा रोग होता है?",
+        "en": "Chronic toxicity of Arsenic in drinking water causes which vascular skin disorder?"
+      },
+      "o": [
+        {
+          "hi": "ब्लू बेबी सिंड्रोम",
+          "en": "Blue Baby Syndrome"
+        },
+        {
+          "hi": "मिनामाता रोग",
+          "en": "Minamata Disease"
+        },
+        {
+          "hi": "इटाई-इटाई रोग",
+          "en": "Itai-itai Disease"
+        },
+        {
+          "hi": "ब्लैक फुट रोग (Black Foot Disease)",
+          "en": "Black Foot Disease"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "खदानों और निर्माण कार्य में सिलिका धूल श्वास में जाने से फेफड़ों का कौन सा रोग होता है?",
+        "en": "Occupational lung disease caused by breathing silica dust in mines is?"
+      },
+      "o": [
+        {
+          "hi": "सिलिकोसिस (Silicosis)",
+          "en": "Silicosis"
+        },
+        {
+          "hi": "एसबेस्टोसिस",
+          "en": "Asbestosis"
+        },
+        {
+          "hi": "एन्थ्राकोसिस",
+          "en": "Anthracosis"
+        },
+        {
+          "hi": "बाइसिनेसिस",
+          "en": "Byssinosis"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोविड-19 (COVID-19) बीमारी किस कोरोनावायरस के कारण फैली थी?",
+        "en": "The global pandemic disease COVID-19 is caused by which strain of coronavirus?"
+      },
+      "o": [
+        {
+          "hi": "MERS-CoV",
+          "en": "MERS-CoV"
+        },
+        {
+          "hi": "SARS-CoV-2",
+          "en": "SARS-CoV-2"
+        },
+        {
+          "hi": "SARS-CoV-1",
+          "en": "SARS-CoV-1"
+        },
+        {
+          "hi": "H1N1",
+          "en": "H1N1"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कोविड-19 संक्रमण के सटीक आणविक परीक्षण हेतु कौन सी जांच की जाती है?",
+        "en": "Gold standard molecular test used for detecting SARS-CoV-2 viral RNA is?"
+      },
+      "o": [
+        {
+          "hi": "एलिज़ा",
+          "en": "ELISA"
+        },
+        {
+          "hi": "विडाल",
+          "en": "Widal"
+        },
+        {
+          "hi": "आरटी-पीसीआर (RT-PCR)",
+          "en": "RT-PCR"
+        },
+        {
+          "hi": "वेस्टर्न ब्लॉट",
+          "en": "Western Blot"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एंटीडाययूरेटिक हार्मोन (ADH / वासोप्रेसिन) की कमी से अत्यधिक पेशाब आने का रोग?",
+        "en": "Deficiency of Antidiuretic Hormone (ADH) leads to excessive urination disease?"
+      },
+      "o": [
+        {
+          "hi": "डायबिटीज मेलिटस",
+          "en": "Diabetes Mellitus"
+        },
+        {
+          "hi": "एडीसन रोग",
+          "en": "Addison's disease"
+        },
+        {
+          "hi": "कशिंग सिंड्रोम",
+          "en": "Cushing's syndrome"
+        },
+        {
+          "hi": "डायबिटीज इंसिपिडस (Diabetes Insipidus)",
+          "en": "Diabetes Insipidus"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जोड़ों में यूरिक एसिड (Uric Acid) के क्रिस्टल जमा हो जाने से होने वाला दर्दनाक विकार?",
+        "en": "Form of painful inflammatory arthritis caused by uric acid crystal deposits in joints?"
+      },
+      "o": [
+        {
+          "hi": "गाउट (गठिया रोग / Gout)",
+          "en": "Gout"
+        },
+        {
+          "hi": "ऑस्टियोआर्थराइटिस",
+          "en": "Osteoarthritis"
+        },
+        {
+          "hi": "रूमेटॉयड आर्थराइटिस",
+          "en": "Rheumatoid Arthritis"
+        },
+        {
+          "hi": "ऑस्टियोपोरोसिस",
+          "en": "Osteoporosis"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "धमनियों की आंतरिक दीवारों पर कोलेस्ट्रॉल जमा हो जाने से संकरा होने का विकार?",
+        "en": "Arterial disease caused by deposition of cholesterol plaques narrowing lumens?"
+      },
+      "o": [
+        {
+          "hi": "आर्टिरियोस्क्लेरोसिस",
+          "en": "Arteriosclerosis"
+        },
+        {
+          "hi": "एथेरोस्क्लेरोसिस (Atherosclerosis)",
+          "en": "Atherosclerosis"
+        },
+        {
+          "hi": "हाइपरटेंशन",
+          "en": "Hypertension"
+        },
+        {
+          "hi": "हाइपोटेंशन",
+          "en": "Hypotension"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पशुओं और मनुष्यों में होने वाला घातक जीवाणु जनित 'एंथ्रेक्स' रोग का कारक?",
+        "en": "Serious bacterial infection affecting cattle and humans Anthrax is caused by?"
+      },
+      "o": [
+        {
+          "hi": "क्लोस्ट्रिडियम बोटुलिनम",
+          "en": "Clostridium botulinum"
+        },
+        {
+          "hi": "कोरीनेबैक्टीरियम",
+          "en": "Corynebacterium"
+        },
+        {
+          "hi": "बेसिलस एंथ्रेसिस (Bacillus anthracis)",
+          "en": "Bacillus anthracis"
+        },
+        {
+          "hi": "पेस्टुरेला",
+          "en": "Pasteurella"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "खराब डिब्बा बंद भोजन में बनने वाले न्यूरोटॉक्सिन से होने वाला घातक भोजन विषाक्तता रोग?",
+        "en": "Severe food poisoning caused by toxin in improperly canned foods is?"
+      },
+      "o": [
+        {
+          "hi": "गैस्ट्रोएंटेराइटिस",
+          "en": "Gastroenteritis"
+        },
+        {
+          "hi": "टाइफाइड",
+          "en": "Typhoid"
+        },
+        {
+          "hi": "हैजा",
+          "en": "Cholera"
+        },
+        {
+          "hi": "बोटुलिज्म (Botulism)",
+          "en": "Botulism"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एमएमआर (MMR) का टीका किन तीन संक्रामक रोगों से बचाव के लिए दिया जाता है?",
+        "en": "The MMR vaccine provides immunity against which three viral infections?"
+      },
+      "o": [
+        {
+          "hi": "खसरा (Measles), गलसुआ (Mumps) एवं रुबेला (Rubella)",
+          "en": "Measles, Mumps, and Rubella"
+        },
+        {
+          "hi": "मलेरिया, मेनिन्जाइटिस एवं रेबीज",
+          "en": "Malaria, Meningitis & Rabies"
+        },
+        {
+          "hi": "पोलियो, चेचक एवं हेपेटाइटिस",
+          "en": "Polio, Smallpox & Hepatitis"
+        },
+        {
+          "hi": "डेंगू, चिकनगुनिया एवं जीका",
+          "en": "Dengue, Chikungunya & Zika"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "टीकाकरण (Vaccination) द्वारा विकसित होने वाली प्रतिरक्षा किस प्रकार की होती है?",
+        "en": "Immunity gained by an individual following vaccination administration is?"
+      },
+      "o": [
+        {
+          "hi": "निष्क्रिय प्राकृतिक प्रतिरक्षा",
+          "en": "Passive Natural Immunity"
+        },
+        {
+          "hi": "सक्रिय कृत्रिम उपार्जित प्रतिरक्षा (Active Acquired Immunity)",
+          "en": "Active Artificial Acquired Immunity"
+        },
+        {
+          "hi": "सहज प्रतिरक्षा",
+          "en": "Innate Immunity"
+        },
+        {
+          "hi": "जन्मजात प्रतिरक्षा",
+          "en": "Congenital Immunity"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गर्भवती मां से प्लेसेंटा पार करके भ्रूण में जाने वाली एकमात्र एंटीबॉडी (IgG) प्रदान करती है?",
+        "en": "Passage of maternal IgG antibodies across placenta to fetus provides which immunity?"
+      },
+      "o": [
+        {
+          "hi": "सक्रिय कृत्रिम प्रतिरक्षा",
+          "en": "Active Artificial Immunity"
+        },
+        {
+          "hi": "कोशिकीय प्रतिरक्षा",
+          "en": "Cell-mediated Immunity"
+        },
+        {
+          "hi": "निष्क्रिय प्राकृतिक उपार्जित प्रतिरक्षा (Passive Natural Immunity)",
+          "en": "Passive Natural Acquired Immunity"
+        },
+        {
+          "hi": "ऑटोइम्यूनिटी",
+          "en": "Autoimmunity"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व स्वास्थ्य संगठन (WHO) ने किस वर्ष संपूर्ण विश्व से चेचक (Smallpox) के उन्मूलन की घोषणा की?",
+        "en": "In which year did WHO officially declare global eradication of Smallpox?"
+      },
+      "o": [
+        {
+          "hi": "1970 ई. में",
+          "en": "1970"
+        },
+        {
+          "hi": "1990 ई. में",
+          "en": "1990"
+        },
+        {
+          "hi": "2000 ई. में",
+          "en": "2000"
+        },
+        {
+          "hi": "1980 ई. में",
+          "en": "1980"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में विषाणु (Virus) के संक्रमण के जवाब में कोशिकाओं द्वारा स्रावित एंटीवायरल प्रोटीन?",
+        "en": "Antiviral proteins released by virus-infected host cells to protect neighbor cells?"
+      },
+      "o": [
+        {
+          "hi": "इंटरफेरोन (Interferons)",
+          "en": "Interferons"
+        },
+        {
+          "hi": "एंटीबायोटिक",
+          "en": "Antibiotics"
+        },
+        {
+          "hi": "एंटीजन",
+          "en": "Antigens"
+        },
+        {
+          "hi": "हिस्टामाइन",
+          "en": "Histamines"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सूक्ष्मजीवों द्वारा उत्पन्न वह रसायन जो अन्य जीवाणुओं की वृद्धि को रोकता है या नष्ट करता है?",
+        "en": "Chemical substances produced by microorganisms that inhibit or kill bacteria are?"
+      },
+      "o": [
+        {
+          "hi": "वैक्सीन",
+          "en": "Vaccine"
+        },
+        {
+          "hi": "एंटीबायोटिक (प्रतिजैविक / Antibiotics)",
+          "en": "Antibiotics"
+        },
+        {
+          "hi": "एंटीबॉडी",
+          "en": "Antibody"
+        },
+        {
+          "hi": "एंटीटॉक्सिन",
+          "en": "Antitoxin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वह स्थिति जिसमें प्रतिरक्षा प्रणाली शरीर की अपनी ही कोशिकाओं को नष्ट करने लगती है?",
+        "en": "Condition where immune system fails to recognize self-antigens and attacks body cells?"
+      },
+      "o": [
+        {
+          "hi": "एलर्जी",
+          "en": "Allergy"
+        },
+        {
+          "hi": "इम्यूनोडेफिशिएंसी",
+          "en": "Immunodeficiency"
+        },
+        {
+          "hi": "स्वप्रतिरक्षा रोग (Autoimmune Disease)",
+          "en": "Autoimmune Disease"
+        },
+        {
+          "hi": "हाइपरसेंसिटिविटी",
+          "en": "Hypersensitivity"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऑटोइम्यून बीमारी का एक प्रमुख उदाहरण कौन सा है जिसमें जोड़ों में सूजन आ जाती है?",
+        "en": "Which of the following is a classic example of an Autoimmune Disease?"
+      },
+      "o": [
+        {
+          "hi": "ऑस्टियोआर्थराइटिस",
+          "en": "Osteoarthritis"
+        },
+        {
+          "hi": "मलेरिया",
+          "en": "Malaria"
+        },
+        {
+          "hi": "टाइफाइड",
+          "en": "Typhoid"
+        },
+        {
+          "hi": "रूमेटॉयड आर्थराइटिस (Rheumatoid Arthritis)",
+          "en": "Rheumatoid Arthritis"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गलसुआ (Mumps) रोग में कौन सी लार ग्रंथि सूज जाती है और दर्द होता है?",
+        "en": "Mumps viral infection causes painful swelling of which salivary glands?"
+      },
+      "o": [
+        {
+          "hi": "पैरोटिड लार ग्रंथियां (Parotid Salivary Glands)",
+          "en": "Parotid Salivary Glands"
+        },
+        {
+          "hi": "सबमैक्सिलरी ग्रंथियां",
+          "en": "Submaxillary glands"
+        },
+        {
+          "hi": "सबलिंगुअल ग्रंथियां",
+          "en": "Sublingual glands"
+        },
+        {
+          "hi": "थायरॉयड ग्रंथि",
+          "en": "Thyroid gland"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "खसरा (Measles / Rubeola) किस प्रकार का संक्रामक रोग है?",
+        "en": "Measles characterized by red skin rashes and high fever is caused by?"
+      },
+      "o": [
+        {
+          "hi": "जीवाणु जनित रोग",
+          "en": "Bacterial Disease"
+        },
+        {
+          "hi": "विषाणु जनित रोग (Viral Disease)",
+          "en": "Viral Disease"
+        },
+        {
+          "hi": "कवक जनित रोग",
+          "en": "Fungal Disease"
+        },
+        {
+          "hi": "प्रोटोजोआ जनित रोग",
+          "en": "Protozoan Disease"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कैंसर ट्यूमर के ऊतकों की सूक्ष्मदर्शीय जांच की प्रक्रिया क्या कहलाती है?",
+        "en": "Microscopic diagnostic examination of tissue cut from suspected tumor is called?"
+      },
+      "o": [
+        {
+          "hi": "ऑटोप्सी",
+          "en": "Autopsy"
+        },
+        {
+          "hi": "एंजियोग्राफी",
+          "en": "Angiography"
+        },
+        {
+          "hi": "बायोप्सी (Biopsy)",
+          "en": "Biopsy"
+        },
+        {
+          "hi": "एंडोस्कोपी",
+          "en": "Endoscopy"
+        }
+      ],
+      "a": 2
+    }
+  ]
+}

@@ -1,0 +1,1007 @@
+{
+  "title": "CBSE Class 9 - Science (Physics)",
+  "subtitle": "Gravitation",
+  "description": "Online practice test containing 100 high-yield objective MCQs for Class 9 Gravitation.",
+  "questions": [
+    {
+      "q": "Universal law of gravitation was proposed by:",
+      "o": [
+        "Johannes Kepler",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Albert Einstein"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The value of universal gravitational constant G is:",
+      "o": [
+        "6.673 x 10^-11 N m^2 kg^-2",
+        "6.673 x 10^-11 N m kg^-1",
+        "9.8 m/s^2",
+        "9.8 N m^2 kg^-2"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The SI unit of universal gravitational constant G is:",
+      "o": [
+        "kg m/s",
+        "N m^2 kg^-2",
+        "N kg^-1",
+        "m/s^2"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Value of acceleration due to gravity (g) on the surface of earth is approximately:",
+      "o": [
+        "9.8 m/s^2",
+        "1.6 m/s^2",
+        "9.8 N m^2 kg^-2",
+        "6.67 m/s^2"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The relation between acceleration due to gravity (g) and gravitational constant (G) is:",
+      "o": [
+        "G = g M / R^2",
+        "g = G M / R^2",
+        "g = G / (M R^2)",
+        "g = G M R^2"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Weight of an object on the surface of the moon is approximately what fraction of its weight on Earth?",
+      "o": [
+        "1/2",
+        "1/8",
+        "1/4",
+        "1/6"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Mass of an object is a measure of its:",
+      "o": [
+        "Volume",
+        "Gravity",
+        "Inertia",
+        "Weight"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Weight of a body is:",
+      "o": [
+        "A vector quantity that varies from place to place",
+        "A scalar quantity that remains constant everywhere",
+        "Same on Earth and Moon",
+        "Independent of gravity"
+      ],
+      "a": 0
+    },
+    {
+      "q": "What is the SI unit of weight?",
+      "o": [
+        "Pascal",
+        "Kilogram",
+        "Newton",
+        "Gram"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Thrust per unit area is called:",
+      "o": [
+        "Buoyancy",
+        "Pressure",
+        "Density",
+        "Force"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The SI unit of pressure is:",
+      "o": [
+        "Newton (N)",
+        "Joule (J)",
+        "Pascal (Pa)",
+        "Watt (W)"
+      ],
+      "a": 2
+    },
+    {
+      "q": "1 Pascal is equal to:",
+      "o": [
+        "1 N/m",
+        "1 kg/m^3",
+        "1 N m",
+        "1 N/m^2"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The upward force exerted by a fluid on an immersed object is called:",
+      "o": [
+        "Centripetal force",
+        "Frictional force",
+        "Gravitational force",
+        "Buoyant force or Upthrust"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Archimedes' Principle states that when a body is immersed fully or partially in a fluid, it experiences an upthrust equal to:",
+      "o": [
+        "Density of the body",
+        "Weight of the body itself",
+        "Weight of fluid displaced by the body",
+        "Volume of fluid in container"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Density of a substance is defined as:",
+      "o": [
+        "Force per unit area",
+        "Volume per unit mass",
+        "Weight per unit area",
+        "Mass per unit volume"
+      ],
+      "a": 3
+    },
+    {
+      "q": "What is the SI unit of density?",
+      "o": [
+        "g/cm^3",
+        "kg/m^3",
+        "kg/m^2",
+        "N/m^3"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Relative density of a substance is the ratio of density of substance to:",
+      "o": [
+        "Density of mercury",
+        "Mass of water",
+        "Density of air",
+        "Density of water at 4 degrees C"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Relative density has:",
+      "o": [
+        "No units",
+        "Pascal",
+        "kg/m^3",
+        "g/cm^3"
+      ],
+      "a": 0
+    },
+    {
+      "q": "An iron nail sinks in water while a wooden block floats because density of iron nail is:",
+      "o": [
+        "Equal to density of water",
+        "Zero",
+        "Greater than density of water",
+        "Less than density of water"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Lactometers (used to determine purity of milk) and hydrometers (for density of liquids) are based on:",
+      "o": [
+        "Archimedes' Principle",
+        "Newton's First Law",
+        "Pascal's Law",
+        "Kepler's Law"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The value of g is maximum at:",
+      "o": [
+        "Poles of Earth",
+        "Equator of Earth",
+        "Center of Earth",
+        "At height equal to radius"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The value of g at the center of the Earth is:",
+      "o": [
+        "Infinite",
+        "9.8 m/s^2",
+        "4.9 m/s^2",
+        "Zero"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The gravitational force between two objects of masses m1 and m2 separated by distance d is:",
+      "o": [
+        "F = m1 * m2 * d^2 / G",
+        "F = G * m1 * m2 / d",
+        "F = G * d^2 / (m1 * m2)",
+        "F = G * m1 * m2 / d^2"
+      ],
+      "a": 3
+    },
+    {
+      "q": "If distance between two masses is doubled, gravitational force between them becomes:",
+      "o": [
+        "Half",
+        "Four times",
+        "Double",
+        "One-fourth"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Mass of an object on Earth is 60 kg. Its mass on the Moon will be:",
+      "o": [
+        "360 kg",
+        "10 kg",
+        "60 kg",
+        "0 kg"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Universal law of gravitation was proposed by:",
+      "o": [
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Johannes Kepler",
+        "Albert Einstein"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: The value of universal gravitational constant G is:",
+      "o": [
+        "9.8 N m^2 kg^-2",
+        "6.673 x 10^-11 N m^2 kg^-2",
+        "9.8 m/s^2",
+        "6.673 x 10^-11 N m kg^-1"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: The SI unit of universal gravitational constant G is:",
+      "o": [
+        "kg m/s",
+        "N kg^-1",
+        "N m^2 kg^-2",
+        "m/s^2"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Value of acceleration due to gravity (g) on the surface of earth is approximately:",
+      "o": [
+        "6.67 m/s^2",
+        "9.8 N m^2 kg^-2",
+        "1.6 m/s^2",
+        "9.8 m/s^2"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: The relation between acceleration due to gravity (g) and gravitational constant (G) is:",
+      "o": [
+        "g = G M R^2",
+        "G = g M / R^2",
+        "g = G / (M R^2)",
+        "g = G M / R^2"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Weight of an object on the surface of the moon is approximately what fraction of its weight on Earth?",
+      "o": [
+        "1/6",
+        "1/4",
+        "1/2",
+        "1/8"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Mass of an object is a measure of its:",
+      "o": [
+        "Volume",
+        "Weight",
+        "Inertia",
+        "Gravity"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Weight of a body is:",
+      "o": [
+        "A vector quantity that varies from place to place",
+        "Same on Earth and Moon",
+        "A scalar quantity that remains constant everywhere",
+        "Independent of gravity"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: What is the SI unit of weight?",
+      "o": [
+        "Gram",
+        "Pascal",
+        "Kilogram",
+        "Newton"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Thrust per unit area is called:",
+      "o": [
+        "Pressure",
+        "Density",
+        "Force",
+        "Buoyancy"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: The SI unit of pressure is:",
+      "o": [
+        "Watt (W)",
+        "Pascal (Pa)",
+        "Joule (J)",
+        "Newton (N)"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: 1 Pascal is equal to:",
+      "o": [
+        "1 N/m",
+        "1 N/m^2",
+        "1 kg/m^3",
+        "1 N m"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: The upward force exerted by a fluid on an immersed object is called:",
+      "o": [
+        "Buoyant force or Upthrust",
+        "Centripetal force",
+        "Frictional force",
+        "Gravitational force"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Archimedes' Principle states that when a body is immersed fully or partially in a fluid, it experiences an upthrust equal to:",
+      "o": [
+        "Weight of fluid displaced by the body",
+        "Volume of fluid in container",
+        "Weight of the body itself",
+        "Density of the body"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Density of a substance is defined as:",
+      "o": [
+        "Mass per unit volume",
+        "Volume per unit mass",
+        "Weight per unit area",
+        "Force per unit area"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: What is the SI unit of density?",
+      "o": [
+        "kg/m^2",
+        "g/cm^3",
+        "N/m^3",
+        "kg/m^3"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Relative density of a substance is the ratio of density of substance to:",
+      "o": [
+        "Mass of water",
+        "Density of water at 4 degrees C",
+        "Density of mercury",
+        "Density of air"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Relative density has:",
+      "o": [
+        "No units",
+        "kg/m^3",
+        "g/cm^3",
+        "Pascal"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: An iron nail sinks in water while a wooden block floats because density of iron nail is:",
+      "o": [
+        "Less than density of water",
+        "Greater than density of water",
+        "Zero",
+        "Equal to density of water"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Lactometers (used to determine purity of milk) and hydrometers (for density of liquids) are based on:",
+      "o": [
+        "Archimedes' Principle",
+        "Newton's First Law",
+        "Pascal's Law",
+        "Kepler's Law"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: The value of g is maximum at:",
+      "o": [
+        "At height equal to radius",
+        "Center of Earth",
+        "Equator of Earth",
+        "Poles of Earth"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: The value of g at the center of the Earth is:",
+      "o": [
+        "4.9 m/s^2",
+        "Infinite",
+        "Zero",
+        "9.8 m/s^2"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The gravitational force between two objects of masses m1 and m2 separated by distance d is:",
+      "o": [
+        "F = m1 * m2 * d^2 / G",
+        "F = G * m1 * m2 / d^2",
+        "F = G * m1 * m2 / d",
+        "F = G * d^2 / (m1 * m2)"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: If distance between two masses is doubled, gravitational force between them becomes:",
+      "o": [
+        "Double",
+        "Four times",
+        "Half",
+        "One-fourth"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Mass of an object on Earth is 60 kg. Its mass on the Moon will be:",
+      "o": [
+        "60 kg",
+        "10 kg",
+        "360 kg",
+        "0 kg"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Universal law of gravitation was proposed by:",
+      "o": [
+        "Galileo Galilei",
+        "Johannes Kepler",
+        "Albert Einstein",
+        "Isaac Newton"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: The value of universal gravitational constant G is:",
+      "o": [
+        "9.8 N m^2 kg^-2",
+        "9.8 m/s^2",
+        "6.673 x 10^-11 N m^2 kg^-2",
+        "6.673 x 10^-11 N m kg^-1"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The SI unit of universal gravitational constant G is:",
+      "o": [
+        "kg m/s",
+        "m/s^2",
+        "N kg^-1",
+        "N m^2 kg^-2"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Value of acceleration due to gravity (g) on the surface of earth is approximately:",
+      "o": [
+        "9.8 N m^2 kg^-2",
+        "1.6 m/s^2",
+        "9.8 m/s^2",
+        "6.67 m/s^2"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The relation between acceleration due to gravity (g) and gravitational constant (G) is:",
+      "o": [
+        "g = G / (M R^2)",
+        "g = G M / R^2",
+        "g = G M R^2",
+        "G = g M / R^2"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Weight of an object on the surface of the moon is approximately what fraction of its weight on Earth?",
+      "o": [
+        "1/6",
+        "1/8",
+        "1/4",
+        "1/2"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Mass of an object is a measure of its:",
+      "o": [
+        "Weight",
+        "Gravity",
+        "Inertia",
+        "Volume"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Weight of a body is:",
+      "o": [
+        "Same on Earth and Moon",
+        "A scalar quantity that remains constant everywhere",
+        "Independent of gravity",
+        "A vector quantity that varies from place to place"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: What is the SI unit of weight?",
+      "o": [
+        "Newton",
+        "Pascal",
+        "Kilogram",
+        "Gram"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Thrust per unit area is called:",
+      "o": [
+        "Buoyancy",
+        "Pressure",
+        "Density",
+        "Force"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: The SI unit of pressure is:",
+      "o": [
+        "Joule (J)",
+        "Pascal (Pa)",
+        "Newton (N)",
+        "Watt (W)"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: 1 Pascal is equal to:",
+      "o": [
+        "1 kg/m^3",
+        "1 N m",
+        "1 N/m^2",
+        "1 N/m"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The upward force exerted by a fluid on an immersed object is called:",
+      "o": [
+        "Gravitational force",
+        "Frictional force",
+        "Buoyant force or Upthrust",
+        "Centripetal force"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Archimedes' Principle states that when a body is immersed fully or partially in a fluid, it experiences an upthrust equal to:",
+      "o": [
+        "Weight of fluid displaced by the body",
+        "Density of the body",
+        "Weight of the body itself",
+        "Volume of fluid in container"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Density of a substance is defined as:",
+      "o": [
+        "Force per unit area",
+        "Weight per unit area",
+        "Volume per unit mass",
+        "Mass per unit volume"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: What is the SI unit of density?",
+      "o": [
+        "g/cm^3",
+        "kg/m^3",
+        "kg/m^2",
+        "N/m^3"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Relative density of a substance is the ratio of density of substance to:",
+      "o": [
+        "Mass of water",
+        "Density of mercury",
+        "Density of air",
+        "Density of water at 4 degrees C"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Relative density has:",
+      "o": [
+        "g/cm^3",
+        "Pascal",
+        "No units",
+        "kg/m^3"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: An iron nail sinks in water while a wooden block floats because density of iron nail is:",
+      "o": [
+        "Greater than density of water",
+        "Zero",
+        "Less than density of water",
+        "Equal to density of water"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Lactometers (used to determine purity of milk) and hydrometers (for density of liquids) are based on:",
+      "o": [
+        "Pascal's Law",
+        "Archimedes' Principle",
+        "Newton's First Law",
+        "Kepler's Law"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: The value of g is maximum at:",
+      "o": [
+        "Center of Earth",
+        "At height equal to radius",
+        "Poles of Earth",
+        "Equator of Earth"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The value of g at the center of the Earth is:",
+      "o": [
+        "Infinite",
+        "9.8 m/s^2",
+        "Zero",
+        "4.9 m/s^2"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The gravitational force between two objects of masses m1 and m2 separated by distance d is:",
+      "o": [
+        "F = G * d^2 / (m1 * m2)",
+        "F = G * m1 * m2 / d^2",
+        "F = m1 * m2 * d^2 / G",
+        "F = G * m1 * m2 / d"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: If distance between two masses is doubled, gravitational force between them becomes:",
+      "o": [
+        "Four times",
+        "One-fourth",
+        "Half",
+        "Double"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Mass of an object on Earth is 60 kg. Its mass on the Moon will be:",
+      "o": [
+        "360 kg",
+        "0 kg",
+        "60 kg",
+        "10 kg"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Universal law of gravitation was proposed by:",
+      "o": [
+        "Johannes Kepler",
+        "Galileo Galilei",
+        "Albert Einstein",
+        "Isaac Newton"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: The value of universal gravitational constant G is:",
+      "o": [
+        "6.673 x 10^-11 N m kg^-1",
+        "6.673 x 10^-11 N m^2 kg^-2",
+        "9.8 N m^2 kg^-2",
+        "9.8 m/s^2"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: The SI unit of universal gravitational constant G is:",
+      "o": [
+        "kg m/s",
+        "m/s^2",
+        "N m^2 kg^-2",
+        "N kg^-1"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Value of acceleration due to gravity (g) on the surface of earth is approximately:",
+      "o": [
+        "6.67 m/s^2",
+        "1.6 m/s^2",
+        "9.8 N m^2 kg^-2",
+        "9.8 m/s^2"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: The relation between acceleration due to gravity (g) and gravitational constant (G) is:",
+      "o": [
+        "g = G M / R^2",
+        "g = G / (M R^2)",
+        "G = g M / R^2",
+        "g = G M R^2"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Weight of an object on the surface of the moon is approximately what fraction of its weight on Earth?",
+      "o": [
+        "1/6",
+        "1/4",
+        "1/8",
+        "1/2"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Mass of an object is a measure of its:",
+      "o": [
+        "Gravity",
+        "Weight",
+        "Volume",
+        "Inertia"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Weight of a body is:",
+      "o": [
+        "A scalar quantity that remains constant everywhere",
+        "A vector quantity that varies from place to place",
+        "Independent of gravity",
+        "Same on Earth and Moon"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: What is the SI unit of weight?",
+      "o": [
+        "Newton",
+        "Gram",
+        "Pascal",
+        "Kilogram"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Thrust per unit area is called:",
+      "o": [
+        "Buoyancy",
+        "Density",
+        "Pressure",
+        "Force"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The SI unit of pressure is:",
+      "o": [
+        "Joule (J)",
+        "Pascal (Pa)",
+        "Newton (N)",
+        "Watt (W)"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: 1 Pascal is equal to:",
+      "o": [
+        "1 N/m",
+        "1 kg/m^3",
+        "1 N m",
+        "1 N/m^2"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: The upward force exerted by a fluid on an immersed object is called:",
+      "o": [
+        "Centripetal force",
+        "Gravitational force",
+        "Buoyant force or Upthrust",
+        "Frictional force"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Archimedes' Principle states that when a body is immersed fully or partially in a fluid, it experiences an upthrust equal to:",
+      "o": [
+        "Density of the body",
+        "Weight of fluid displaced by the body",
+        "Volume of fluid in container",
+        "Weight of the body itself"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Density of a substance is defined as:",
+      "o": [
+        "Volume per unit mass",
+        "Mass per unit volume",
+        "Weight per unit area",
+        "Force per unit area"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: What is the SI unit of density?",
+      "o": [
+        "N/m^3",
+        "kg/m^2",
+        "g/cm^3",
+        "kg/m^3"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Relative density of a substance is the ratio of density of substance to:",
+      "o": [
+        "Density of mercury",
+        "Density of water at 4 degrees C",
+        "Density of air",
+        "Mass of water"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Relative density has:",
+      "o": [
+        "Pascal",
+        "g/cm^3",
+        "No units",
+        "kg/m^3"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: An iron nail sinks in water while a wooden block floats because density of iron nail is:",
+      "o": [
+        "Zero",
+        "Less than density of water",
+        "Equal to density of water",
+        "Greater than density of water"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Lactometers (used to determine purity of milk) and hydrometers (for density of liquids) are based on:",
+      "o": [
+        "Archimedes' Principle",
+        "Kepler's Law",
+        "Newton's First Law",
+        "Pascal's Law"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: The value of g is maximum at:",
+      "o": [
+        "At height equal to radius",
+        "Center of Earth",
+        "Poles of Earth",
+        "Equator of Earth"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The value of g at the center of the Earth is:",
+      "o": [
+        "Infinite",
+        "Zero",
+        "4.9 m/s^2",
+        "9.8 m/s^2"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: The gravitational force between two objects of masses m1 and m2 separated by distance d is:",
+      "o": [
+        "F = G * m1 * m2 / d",
+        "F = m1 * m2 * d^2 / G",
+        "F = G * m1 * m2 / d^2",
+        "F = G * d^2 / (m1 * m2)"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: If distance between two masses is doubled, gravitational force between them becomes:",
+      "o": [
+        "One-fourth",
+        "Four times",
+        "Half",
+        "Double"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Mass of an object on Earth is 60 kg. Its mass on the Moon will be:",
+      "o": [
+        "0 kg",
+        "10 kg",
+        "60 kg",
+        "360 kg"
+      ],
+      "a": 2
+    }
+  ]
+}

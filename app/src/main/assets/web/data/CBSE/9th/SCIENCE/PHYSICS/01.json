@@ -1,0 +1,1007 @@
+{
+  "title": "CBSE Class 9 - Science (Physics)",
+  "subtitle": "Motion",
+  "description": "Online practice test containing 100 high-yield objective MCQs for Class 9 Motion.",
+  "questions": [
+    {
+      "q": "What is the SI unit of speed?",
+      "o": [
+        "m/s^2",
+        "m/s",
+        "km/h",
+        "cm/s"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The slope of a distance-time graph represents which physical quantity?",
+      "o": [
+        "Speed",
+        "Distance",
+        "Acceleration",
+        "Displacement"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Which of the following is a vector quantity?",
+      "o": [
+        "Time",
+        "Displacement",
+        "Speed",
+        "Distance"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The slope of a velocity-time graph represents:",
+      "o": [
+        "Acceleration",
+        "Distance",
+        "Force",
+        "Speed"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Area under a velocity-time graph gives:",
+      "o": [
+        "Time",
+        "Displacement",
+        "Speed",
+        "Acceleration"
+      ],
+      "a": 1
+    },
+    {
+      "q": "When an object moves in a circular path with uniform speed, its motion is:",
+      "o": [
+        "Uniform motion",
+        "Rest",
+        "Non-accelerated motion",
+        "Accelerated motion"
+      ],
+      "a": 3
+    },
+    {
+      "q": "If the displacement of an object is proportional to square of time, then the object moves with:",
+      "o": [
+        "Increasing acceleration",
+        "Decreasing acceleration",
+        "Uniform acceleration",
+        "Uniform velocity"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Which of the following equations represents the first equation of motion?",
+      "o": [
+        "v = u + at",
+        "s = ut + 1/2 at^2",
+        "v^2 - u^2 = 2as",
+        "v = u + at^2"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Which equation gives the position-time relation?",
+      "o": [
+        "v = s/t",
+        "v = u + at",
+        "s = ut + 1/2 at^2",
+        "v^2 - u^2 = 2as"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Which equation gives the position-velocity relation?",
+      "o": [
+        "a = (v-u)/t",
+        "v^2 - u^2 = 2as",
+        "s = ut + 1/2 at^2",
+        "v = u + at"
+      ],
+      "a": 1
+    },
+    {
+      "q": "An object travels 16 m in 4 s and then another 16 m in 2 s. What is the average speed of the object?",
+      "o": [
+        "4.00 m/s",
+        "8.00 m/s",
+        "5.33 m/s",
+        "6.25 m/s"
+      ],
+      "a": 2
+    },
+    {
+      "q": "A car accelerates uniformly from 18 km/h to 36 km/h in 5 s. The acceleration in m/s^2 is:",
+      "o": [
+        "5 m/s^2",
+        "0.5 m/s^2",
+        "2 m/s^2",
+        "1 m/s^2"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Convert 72 km/h into m/s:",
+      "o": [
+        "30 m/s",
+        "25 m/s",
+        "15 m/s",
+        "20 m/s"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Numerical ratio of displacement to distance for a moving object is:",
+      "o": [
+        "Always more than 1",
+        "Always less than 1",
+        "Equal to or less than 1",
+        "Always equal to 1"
+      ],
+      "a": 2
+    },
+    {
+      "q": "A particle is moving in a circular path of radius r. The displacement after half a circle would be:",
+      "o": [
+        "2 * pi * r",
+        "Zero",
+        "pi * r",
+        "2r"
+      ],
+      "a": 3
+    },
+    {
+      "q": "A particle is moving in a circular path of radius r. The distance covered after half a circle is:",
+      "o": [
+        "2r",
+        "pi * r",
+        "Zero",
+        "2 * pi * r"
+      ],
+      "a": 1
+    },
+    {
+      "q": "What can be said about the motion of a body if its distance-time graph is a straight line parallel to the time axis?",
+      "o": [
+        "Non-uniform motion",
+        "Uniform acceleration",
+        "Uniform motion",
+        "Body is at rest"
+      ],
+      "a": 3
+    },
+    {
+      "q": "What can be said about the velocity of a body if its velocity-time graph is a straight line parallel to the time axis?",
+      "o": [
+        "Uniform velocity",
+        "Non-uniform velocity",
+        "Body at rest",
+        "Uniform acceleration"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The rate of change of displacement is called:",
+      "o": [
+        "Acceleration",
+        "Distance",
+        "Velocity",
+        "Speed"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The rate of change of velocity is called:",
+      "o": [
+        "Acceleration",
+        "Speed",
+        "Force",
+        "Momentum"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Negative acceleration is also known as:",
+      "o": [
+        "Retardation",
+        "Speed",
+        "Inertia",
+        "Uniform acceleration"
+      ],
+      "a": 0
+    },
+    {
+      "q": "A odometer of an automobile measures:",
+      "o": [
+        "Average velocity",
+        "Instantaneous speed",
+        "Acceleration",
+        "Distance travelled"
+      ],
+      "a": 3
+    },
+    {
+      "q": "A speedometer of an automobile measures:",
+      "o": [
+        "Displacement",
+        "Average speed",
+        "Total distance",
+        "Instantaneous speed"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Unit of acceleration is:",
+      "o": [
+        "m/s",
+        "m/s^3",
+        "m*s",
+        "m/s^2"
+      ],
+      "a": 3
+    },
+    {
+      "q": "When a body falls freely towards the earth, its total mechanical energy:",
+      "o": [
+        "Decreases",
+        "Increases",
+        "Remains constant",
+        "First increases then decreases"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In uniform circular motion, which quantity remains constant?",
+      "o": [
+        "Speed",
+        "Velocity",
+        "Acceleration",
+        "Direction of motion"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In uniform circular motion, direction of velocity at any point is:",
+      "o": [
+        "Perpendicular to radius",
+        "Along the tangent to the circular path",
+        "Towards the center",
+        "Away from center"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Distance is a:",
+      "o": [
+        "Dimensionless quantity",
+        "Tensor quantity",
+        "Scalar quantity",
+        "Vector quantity"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Can displacement be zero when distance covered is non-zero?",
+      "o": [
+        "No, never possible",
+        "Only if acceleration is negative",
+        "Only if speed is zero",
+        "Yes, always possible in closed path motion"
+      ],
+      "a": 3
+    },
+    {
+      "q": "When the velocity of a body increases uniformly with time, the velocity-time graph is:",
+      "o": [
+        "A straight line parallel to time axis",
+        "A zig-zag line",
+        "A curved line",
+        "A straight line inclined to the time axis"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: What is the SI unit of speed?",
+      "o": [
+        "m/s",
+        "m/s^2",
+        "km/h",
+        "cm/s"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: The slope of a distance-time graph represents which physical quantity?",
+      "o": [
+        "Distance",
+        "Acceleration",
+        "Speed",
+        "Displacement"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Which of the following is a vector quantity?",
+      "o": [
+        "Displacement",
+        "Speed",
+        "Distance",
+        "Time"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: The slope of a velocity-time graph represents:",
+      "o": [
+        "Distance",
+        "Force",
+        "Speed",
+        "Acceleration"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Area under a velocity-time graph gives:",
+      "o": [
+        "Displacement",
+        "Speed",
+        "Acceleration",
+        "Time"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: When an object moves in a circular path with uniform speed, its motion is:",
+      "o": [
+        "Rest",
+        "Accelerated motion",
+        "Non-accelerated motion",
+        "Uniform motion"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: If the displacement of an object is proportional to square of time, then the object moves with:",
+      "o": [
+        "Decreasing acceleration",
+        "Uniform acceleration",
+        "Increasing acceleration",
+        "Uniform velocity"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Which of the following equations represents the first equation of motion?",
+      "o": [
+        "v = u + at",
+        "v = u + at^2",
+        "v^2 - u^2 = 2as",
+        "s = ut + 1/2 at^2"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Which equation gives the position-time relation?",
+      "o": [
+        "s = ut + 1/2 at^2",
+        "v^2 - u^2 = 2as",
+        "v = u + at",
+        "v = s/t"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Which equation gives the position-velocity relation?",
+      "o": [
+        "v^2 - u^2 = 2as",
+        "v = u + at",
+        "s = ut + 1/2 at^2",
+        "a = (v-u)/t"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: An object travels 16 m in 4 s and then another 16 m in 2 s. What is the average speed of the object?",
+      "o": [
+        "8.00 m/s",
+        "4.00 m/s",
+        "6.25 m/s",
+        "5.33 m/s"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: A car accelerates uniformly from 18 km/h to 36 km/h in 5 s. The acceleration in m/s^2 is:",
+      "o": [
+        "5 m/s^2",
+        "1 m/s^2",
+        "0.5 m/s^2",
+        "2 m/s^2"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Convert 72 km/h into m/s:",
+      "o": [
+        "20 m/s",
+        "15 m/s",
+        "25 m/s",
+        "30 m/s"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Numerical ratio of displacement to distance for a moving object is:",
+      "o": [
+        "Always less than 1",
+        "Equal to or less than 1",
+        "Always more than 1",
+        "Always equal to 1"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: A particle is moving in a circular path of radius r. The displacement after half a circle would be:",
+      "o": [
+        "2r",
+        "Zero",
+        "pi * r",
+        "2 * pi * r"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: A particle is moving in a circular path of radius r. The distance covered after half a circle is:",
+      "o": [
+        "2 * pi * r",
+        "Zero",
+        "2r",
+        "pi * r"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: What can be said about the motion of a body if its distance-time graph is a straight line parallel to the time axis?",
+      "o": [
+        "Uniform acceleration",
+        "Non-uniform motion",
+        "Body is at rest",
+        "Uniform motion"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: What can be said about the velocity of a body if its velocity-time graph is a straight line parallel to the time axis?",
+      "o": [
+        "Non-uniform velocity",
+        "Uniform velocity",
+        "Body at rest",
+        "Uniform acceleration"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: The rate of change of displacement is called:",
+      "o": [
+        "Acceleration",
+        "Distance",
+        "Speed",
+        "Velocity"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: The rate of change of velocity is called:",
+      "o": [
+        "Acceleration",
+        "Speed",
+        "Force",
+        "Momentum"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Negative acceleration is also known as:",
+      "o": [
+        "Speed",
+        "Inertia",
+        "Uniform acceleration",
+        "Retardation"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: A odometer of an automobile measures:",
+      "o": [
+        "Acceleration",
+        "Instantaneous speed",
+        "Distance travelled",
+        "Average velocity"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: A speedometer of an automobile measures:",
+      "o": [
+        "Displacement",
+        "Average speed",
+        "Total distance",
+        "Instantaneous speed"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Unit of acceleration is:",
+      "o": [
+        "m/s^3",
+        "m*s",
+        "m/s^2",
+        "m/s"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: When a body falls freely towards the earth, its total mechanical energy:",
+      "o": [
+        "Decreases",
+        "Remains constant",
+        "Increases",
+        "First increases then decreases"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: In uniform circular motion, which quantity remains constant?",
+      "o": [
+        "Speed",
+        "Direction of motion",
+        "Acceleration",
+        "Velocity"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: In uniform circular motion, direction of velocity at any point is:",
+      "o": [
+        "Towards the center",
+        "Perpendicular to radius",
+        "Along the tangent to the circular path",
+        "Away from center"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Distance is a:",
+      "o": [
+        "Tensor quantity",
+        "Vector quantity",
+        "Dimensionless quantity",
+        "Scalar quantity"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Can displacement be zero when distance covered is non-zero?",
+      "o": [
+        "Yes, always possible in closed path motion",
+        "Only if acceleration is negative",
+        "No, never possible",
+        "Only if speed is zero"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: When the velocity of a body increases uniformly with time, the velocity-time graph is:",
+      "o": [
+        "A zig-zag line",
+        "A straight line inclined to the time axis",
+        "A curved line",
+        "A straight line parallel to time axis"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: What is the SI unit of speed?",
+      "o": [
+        "m/s^2",
+        "m/s",
+        "km/h",
+        "cm/s"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: The slope of a distance-time graph represents which physical quantity?",
+      "o": [
+        "Distance",
+        "Acceleration",
+        "Speed",
+        "Displacement"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Which of the following is a vector quantity?",
+      "o": [
+        "Distance",
+        "Speed",
+        "Displacement",
+        "Time"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The slope of a velocity-time graph represents:",
+      "o": [
+        "Acceleration",
+        "Force",
+        "Speed",
+        "Distance"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Area under a velocity-time graph gives:",
+      "o": [
+        "Time",
+        "Speed",
+        "Acceleration",
+        "Displacement"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: When an object moves in a circular path with uniform speed, its motion is:",
+      "o": [
+        "Uniform motion",
+        "Accelerated motion",
+        "Non-accelerated motion",
+        "Rest"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: If the displacement of an object is proportional to square of time, then the object moves with:",
+      "o": [
+        "Decreasing acceleration",
+        "Increasing acceleration",
+        "Uniform velocity",
+        "Uniform acceleration"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Which of the following equations represents the first equation of motion?",
+      "o": [
+        "v^2 - u^2 = 2as",
+        "v = u + at^2",
+        "v = u + at",
+        "s = ut + 1/2 at^2"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Which equation gives the position-time relation?",
+      "o": [
+        "s = ut + 1/2 at^2",
+        "v = s/t",
+        "v = u + at",
+        "v^2 - u^2 = 2as"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Which equation gives the position-velocity relation?",
+      "o": [
+        "s = ut + 1/2 at^2",
+        "v^2 - u^2 = 2as",
+        "v = u + at",
+        "a = (v-u)/t"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: An object travels 16 m in 4 s and then another 16 m in 2 s. What is the average speed of the object?",
+      "o": [
+        "8.00 m/s",
+        "6.25 m/s",
+        "5.33 m/s",
+        "4.00 m/s"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: A car accelerates uniformly from 18 km/h to 36 km/h in 5 s. The acceleration in m/s^2 is:",
+      "o": [
+        "0.5 m/s^2",
+        "2 m/s^2",
+        "1 m/s^2",
+        "5 m/s^2"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Convert 72 km/h into m/s:",
+      "o": [
+        "25 m/s",
+        "20 m/s",
+        "30 m/s",
+        "15 m/s"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Numerical ratio of displacement to distance for a moving object is:",
+      "o": [
+        "Always more than 1",
+        "Equal to or less than 1",
+        "Always less than 1",
+        "Always equal to 1"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: A particle is moving in a circular path of radius r. The displacement after half a circle would be:",
+      "o": [
+        "pi * r",
+        "2 * pi * r",
+        "2r",
+        "Zero"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: A particle is moving in a circular path of radius r. The distance covered after half a circle is:",
+      "o": [
+        "Zero",
+        "2r",
+        "2 * pi * r",
+        "pi * r"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: What can be said about the motion of a body if its distance-time graph is a straight line parallel to the time axis?",
+      "o": [
+        "Non-uniform motion",
+        "Body is at rest",
+        "Uniform acceleration",
+        "Uniform motion"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: What can be said about the velocity of a body if its velocity-time graph is a straight line parallel to the time axis?",
+      "o": [
+        "Non-uniform velocity",
+        "Body at rest",
+        "Uniform velocity",
+        "Uniform acceleration"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The rate of change of displacement is called:",
+      "o": [
+        "Speed",
+        "Acceleration",
+        "Distance",
+        "Velocity"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: The rate of change of velocity is called:",
+      "o": [
+        "Acceleration",
+        "Force",
+        "Momentum",
+        "Speed"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Negative acceleration is also known as:",
+      "o": [
+        "Retardation",
+        "Inertia",
+        "Uniform acceleration",
+        "Speed"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: A odometer of an automobile measures:",
+      "o": [
+        "Acceleration",
+        "Instantaneous speed",
+        "Average velocity",
+        "Distance travelled"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: A speedometer of an automobile measures:",
+      "o": [
+        "Average speed",
+        "Instantaneous speed",
+        "Displacement",
+        "Total distance"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Unit of acceleration is:",
+      "o": [
+        "m/s^2",
+        "m*s",
+        "m/s^3",
+        "m/s"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: When a body falls freely towards the earth, its total mechanical energy:",
+      "o": [
+        "First increases then decreases",
+        "Decreases",
+        "Remains constant",
+        "Increases"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: In uniform circular motion, which quantity remains constant?",
+      "o": [
+        "Acceleration",
+        "Speed",
+        "Velocity",
+        "Direction of motion"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: In uniform circular motion, direction of velocity at any point is:",
+      "o": [
+        "Perpendicular to radius",
+        "Away from center",
+        "Towards the center",
+        "Along the tangent to the circular path"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Distance is a:",
+      "o": [
+        "Dimensionless quantity",
+        "Vector quantity",
+        "Scalar quantity",
+        "Tensor quantity"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Can displacement be zero when distance covered is non-zero?",
+      "o": [
+        "Only if acceleration is negative",
+        "Yes, always possible in closed path motion",
+        "Only if speed is zero",
+        "No, never possible"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: When the velocity of a body increases uniformly with time, the velocity-time graph is:",
+      "o": [
+        "A straight line parallel to time axis",
+        "A straight line inclined to the time axis",
+        "A curved line",
+        "A zig-zag line"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: What is the SI unit of speed?",
+      "o": [
+        "cm/s",
+        "m/s^2",
+        "km/h",
+        "m/s"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: The slope of a distance-time graph represents which physical quantity?",
+      "o": [
+        "Distance",
+        "Speed",
+        "Acceleration",
+        "Displacement"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Which of the following is a vector quantity?",
+      "o": [
+        "Time",
+        "Speed",
+        "Displacement",
+        "Distance"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: The slope of a velocity-time graph represents:",
+      "o": [
+        "Force",
+        "Speed",
+        "Distance",
+        "Acceleration"
+      ],
+      "a": 3
+    },
+    {
+      "q": "In CBSE Class 9 context: Area under a velocity-time graph gives:",
+      "o": [
+        "Displacement",
+        "Time",
+        "Acceleration",
+        "Speed"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: When an object moves in a circular path with uniform speed, its motion is:",
+      "o": [
+        "Rest",
+        "Non-accelerated motion",
+        "Accelerated motion",
+        "Uniform motion"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: If the displacement of an object is proportional to square of time, then the object moves with:",
+      "o": [
+        "Increasing acceleration",
+        "Uniform acceleration",
+        "Decreasing acceleration",
+        "Uniform velocity"
+      ],
+      "a": 1
+    },
+    {
+      "q": "In CBSE Class 9 context: Which of the following equations represents the first equation of motion?",
+      "o": [
+        "s = ut + 1/2 at^2",
+        "v = u + at^2",
+        "v = u + at",
+        "v^2 - u^2 = 2as"
+      ],
+      "a": 2
+    },
+    {
+      "q": "In CBSE Class 9 context: Which equation gives the position-time relation?",
+      "o": [
+        "s = ut + 1/2 at^2",
+        "v = s/t",
+        "v = u + at",
+        "v^2 - u^2 = 2as"
+      ],
+      "a": 0
+    },
+    {
+      "q": "In CBSE Class 9 context: Which equation gives the position-velocity relation?",
+      "o": [
+        "a = (v-u)/t",
+        "v = u + at",
+        "v^2 - u^2 = 2as",
+        "s = ut + 1/2 at^2"
+      ],
+      "a": 2
+    }
+  ]
+}

@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "मानव शरीर तंत्र / Human Organ Systems",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Human Organ Systems.",
+  "questions": [
+    {
+      "q": {
+        "hi": "मनुष्य की लार (Saliva) में स्टार्च को माल्टोज में तोड़ने वाला कौन सा एंजाइम पाया जाता है?",
+        "en": "Which enzyme in human saliva breaks down starch into maltose?"
+      },
+      "o": [
+        {
+          "hi": "टाइलिन (लारीय एमाइलेज / Ptyalin)",
+          "en": "Ptyalin (Salivary Amylase)"
+        },
+        {
+          "hi": "पेप्सिन",
+          "en": "Pepsin"
+        },
+        {
+          "hi": "ट्रिप्सिन",
+          "en": "Trypsin"
+        },
+        {
+          "hi": "लाइपेज",
+          "en": "Lipase"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आमाशय (Stomach) में जीवाणुओं को नष्ट करने और पेप्सिन को सक्रिय करने वाला अम्ल कौन सा है?",
+        "en": "Which acid in the stomach kills bacteria and activates pepsinogen?"
+      },
+      "o": [
+        {
+          "hi": "सल्फ्यूरिक अम्ल",
+          "en": "Sulfuric Acid"
+        },
+        {
+          "hi": "हाइड्रोक्लोरिक अम्ल (HCl)",
+          "en": "Hydrochloric Acid (HCl)"
+        },
+        {
+          "hi": "नाइट्रिक अम्ल",
+          "en": "Nitric Acid"
+        },
+        {
+          "hi": "एसिटिक अम्ल",
+          "en": "Acetic Acid"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वयस्क मनुष्य के आमाशय में प्रोटीन का पाचन प्रारंभ करने वाला एंजाइम कौन सा है?",
+        "en": "Which enzyme initiates protein digestion in the human stomach?"
+      },
+      "o": [
+        {
+          "hi": "रेनिन",
+          "en": "Rennin"
+        },
+        {
+          "hi": "एमाइलेज",
+          "en": "Amylase"
+        },
+        {
+          "hi": "पेप्सिन (Pepsin)",
+          "en": "Pepsin"
+        },
+        {
+          "hi": "लाइपेज",
+          "en": "Lipase"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शिशुओं के आमाशय में दूध के प्रोटीन (केसिन) को पचाने वाला विशेष एंजाइम?",
+        "en": "Which enzyme in infant stomach digests milk protein (Casein)?"
+      },
+      "o": [
+        {
+          "hi": "पेप्सिन",
+          "en": "Pepsin"
+        },
+        {
+          "hi": "ट्रिप्सिन",
+          "en": "Trypsin"
+        },
+        {
+          "hi": "टायरोसिन",
+          "en": "Tyrosine"
+        },
+        {
+          "hi": "रेनिन (Rennin)",
+          "en": "Rennin"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की सबसे बड़ी ग्रंथि (Largest Gland) कौन सी है?",
+        "en": "Which is the largest gland/internal organ in the human body?"
+      },
+      "o": [
+        {
+          "hi": "यकृत (लिवर / Liver)",
+          "en": "Liver"
+        },
+        {
+          "hi": "अग्न्याशय",
+          "en": "Pancreas"
+        },
+        {
+          "hi": "थायरॉयड",
+          "en": "Thyroid"
+        },
+        {
+          "hi": "पीयूष ग्रंथि",
+          "en": "Pituitary gland"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यकृत द्वारा स्रावित पित्त रस (Bile Juice) कहाँ संचित होता है?",
+        "en": "Bile juice secreted by the liver is stored in which organ?"
+      },
+      "o": [
+        {
+          "hi": "अग्न्याशय",
+          "en": "Pancreas"
+        },
+        {
+          "hi": "पिताशय (Gallbladder)",
+          "en": "Gallbladder"
+        },
+        {
+          "hi": "आमाशय",
+          "en": "Stomach"
+        },
+        {
+          "hi": "छोटी आंत",
+          "en": "Small Intestine"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पित्त रस (Bile Juice) का मुख्य पाचन कार्य क्या है?",
+        "en": "What is the primary digestive function of bile juice?"
+      },
+      "o": [
+        {
+          "hi": "प्रोटीन का पाचन",
+          "en": "Digestion of proteins"
+        },
+        {
+          "hi": "कार्बोहाइड्रेट का विखंडन",
+          "en": "Breakdown of carbohydrates"
+        },
+        {
+          "hi": "वसा का पायसीकरण (Emulsification of Fats)",
+          "en": "Emulsification of Fats"
+        },
+        {
+          "hi": "विटामिन का निर्माण",
+          "en": "Synthesis of vitamins"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव आहारनाल में पचे हुए भोजन का पूर्ण पाचन एवं सर्वाधिक अवशोषण कहाँ होता है?",
+        "en": "Where does complete digestion and maximum absorption of nutrients occur?"
+      },
+      "o": [
+        {
+          "hi": "आमाशय",
+          "en": "Stomach"
+        },
+        {
+          "hi": "बड़ी आंत",
+          "en": "Large Intestine"
+        },
+        {
+          "hi": "ग्रासनली",
+          "en": "Esophagus"
+        },
+        {
+          "hi": "छोटी आंत (Small Intestine)",
+          "en": "Small Intestine"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "छोटी आंत में अवशोषण सतह का क्षेत्रफल बढ़ाने वाले उंगलीनुमा प्रवर्ध कहलाते हैं?",
+        "en": "Finger-like projections in the small intestine that increase absorption surface area?"
+      },
+      "o": [
+        {
+          "hi": "दीर्घरोम (रसांकुर / Villi)",
+          "en": "Villi"
+        },
+        {
+          "hi": "एल्विओलाई",
+          "en": "Alveoli"
+        },
+        {
+          "hi": "नेफ्रॉन",
+          "en": "Nephrons"
+        },
+        {
+          "hi": "रंध्र",
+          "en": "Stomata"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अपचित भोजन से जल और कुछ लवणों का पुनरावशोषण मुख्यतः कहाँ होता है?",
+        "en": "Reabsorption of water and salts from undigested food residue takes place in?"
+      },
+      "o": [
+        {
+          "hi": "छोटी आंत",
+          "en": "Small Intestine"
+        },
+        {
+          "hi": "बड़ी आंत (Large Intestine)",
+          "en": "Large Intestine"
+        },
+        {
+          "hi": "आमाशय",
+          "en": "Stomach"
+        },
+        {
+          "hi": "ग्रासनली",
+          "en": "Esophagus"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव हृदय में कुल कितने कक्षक (Chambers) होते हैं?",
+        "en": "How many chambers are present in the human heart?"
+      },
+      "o": [
+        {
+          "hi": "2 कक्षक",
+          "en": "2 chambers"
+        },
+        {
+          "hi": "3 कक्षक",
+          "en": "3 chambers"
+        },
+        {
+          "hi": "4 कक्षक (2 अलिंद एवं 2 निलय)",
+          "en": "4 chambers (2 Atria & 2 Ventricles)"
+        },
+        {
+          "hi": "6 कक्षक",
+          "en": "6 chambers"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मछलियों (Fishes) के हृदय में कुल कितने कक्षक पाए जाते हैं?",
+        "en": "How many chambers are present in a fish's heart?"
+      },
+      "o": [
+        {
+          "hi": "3 कक्षक",
+          "en": "3 chambers"
+        },
+        {
+          "hi": "4 कक्षक",
+          "en": "4 chambers"
+        },
+        {
+          "hi": "1 कक्षक",
+          "en": "1 chamber"
+        },
+        {
+          "hi": "2 कक्षक",
+          "en": "2 chambers"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उभयचरों (Amphibians) और अधिकांश सरीसृपों के हृदय में कितने कक्षक होते हैं?",
+        "en": "How many chambers are found in the heart of most amphibians and reptiles?"
+      },
+      "o": [
+        {
+          "hi": "3 कक्षक",
+          "en": "3 chambers"
+        },
+        {
+          "hi": "2 कक्षक",
+          "en": "2 chambers"
+        },
+        {
+          "hi": "4 कक्षक",
+          "en": "4 chambers"
+        },
+        {
+          "hi": "5 कक्षक",
+          "en": "5 chambers"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव हृदय का प्राकृतिक 'पेसमेकर' (Pacemaker) किसे कहा जाता है?",
+        "en": "Which node acts as the natural 'Pacemaker' of the human heart?"
+      },
+      "o": [
+        {
+          "hi": "ए.वी. नोड",
+          "en": "AV Node"
+        },
+        {
+          "hi": "एस.ए. नोड (Sinoatrial Node)",
+          "en": "SA Node (Sinoatrial Node)"
+        },
+        {
+          "hi": "हिस के बंडल",
+          "en": "Bundle of His"
+        },
+        {
+          "hi": "पुरकिंजे तंतु",
+          "en": "Purkinje fibers"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक स्वस्थ वयस्क मनुष्य का सामान्य रक्तचाप (Blood Pressure) कितना होता है?",
+        "en": "What is the normal blood pressure reading for a healthy human adult?"
+      },
+      "o": [
+        {
+          "hi": "140/90 mm Hg",
+          "en": "140/90 mm Hg"
+        },
+        {
+          "hi": "100/60 mm Hg",
+          "en": "100/60 mm Hg"
+        },
+        {
+          "hi": "120/80 mm Hg",
+          "en": "120/80 mm Hg"
+        },
+        {
+          "hi": "80/120 mm Hg",
+          "en": "80/120 mm Hg"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रक्तचाप (Blood Pressure) मापने के लिए किस उपकरण का प्रयोग किया जाता है?",
+        "en": "Which instrument is used to measure human blood pressure?"
+      },
+      "o": [
+        {
+          "hi": "स्टेथोस्कोप",
+          "en": "Stethoscope"
+        },
+        {
+          "hi": "ईसीजी",
+          "en": "ECG"
+        },
+        {
+          "hi": "इलेक्ट्रोमीटर",
+          "en": "Electrometer"
+        },
+        {
+          "hi": "स्फिग्मोमैनोमीटर (Sphygmomanometer)",
+          "en": "Sphygmomanometer"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रक्त का लगभग 55% भाग बनाने वाला हल्का पीला तरल पदार्थ क्या कहलाता है?",
+        "en": "The yellowish fluid part of blood constituting about 55% of total volume is?"
+      },
+      "o": [
+        {
+          "hi": "प्लाज्मा (Plasma)",
+          "en": "Plasma"
+        },
+        {
+          "hi": "सीरम",
+          "en": "Serum"
+        },
+        {
+          "hi": "लसीका",
+          "en": "Lymph"
+        },
+        {
+          "hi": "प्लेटलेट्स",
+          "en": "Platelets"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में लाल रक्त कणिकाओं (RBCs) का औसत जीवन काल कितना होता है?",
+        "en": "What is the average life span of Red Blood Cells (RBCs) in humans?"
+      },
+      "o": [
+        {
+          "hi": "10-15 दिन",
+          "en": "10-15 days"
+        },
+        {
+          "hi": "120 दिन",
+          "en": "120 days"
+        },
+        {
+          "hi": "60 दिन",
+          "en": "60 days"
+        },
+        {
+          "hi": "200 दिन",
+          "en": "200 days"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सर्वदाता (Universal Donor) रक्त समूह किसे माना जाता है?",
+        "en": "Which blood group is universally designated as the 'Universal Donor'?"
+      },
+      "o": [
+        {
+          "hi": "AB पॉजिटिव",
+          "en": "AB Positive"
+        },
+        {
+          "hi": "A पॉजिटिव",
+          "en": "A Positive"
+        },
+        {
+          "hi": "O नेगेटिव (O-)",
+          "en": "O Negative (O-)"
+        },
+        {
+          "hi": "B नेगेटिव",
+          "en": "B Negative"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सर्वग्राही (Universal Recipient) रक्त समूह कौन सा है?",
+        "en": "Which blood group is universally designated as the 'Universal Recipient'?"
+      },
+      "o": [
+        {
+          "hi": "O नेगेटिव",
+          "en": "O Negative"
+        },
+        {
+          "hi": "A नेगेटिव",
+          "en": "A Negative"
+        },
+        {
+          "hi": "B पॉजिटिव",
+          "en": "B Positive"
+        },
+        {
+          "hi": "AB पॉजिटिव (AB+)",
+          "en": "AB Positive (AB+)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मनुष्य में ABO रक्त समूह प्रणाली की खोज किसने की थी?",
+        "en": "Who discovered the ABO blood group system in humans?"
+      },
+      "o": [
+        {
+          "hi": "कार्ल लैंडस्टीनर (Karl Landsteiner)",
+          "en": "Karl Landsteiner"
+        },
+        {
+          "hi": "विलियम हार्वे",
+          "en": "William Harvey"
+        },
+        {
+          "hi": "लॉस पॉश्चर",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "एडवर्ड जेनर",
+          "en": "Edward Jenner"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हृदय से अशुद्ध (ऑक्सीजन-रहित) रक्त को फेफड़ों तक ले जाने वाली एकमात्र धमनी?",
+        "en": "Which is the only artery that carries deoxygenated blood from heart to lungs?"
+      },
+      "o": [
+        {
+          "hi": "फुफ्फुस शिरा",
+          "en": "Pulmonary Vein"
+        },
+        {
+          "hi": "फुफ्फुस धमनी (Pulmonary Artery)",
+          "en": "Pulmonary Artery"
+        },
+        {
+          "hi": "महाधमनी",
+          "en": "Aorta"
+        },
+        {
+          "hi": "कैरोटिड धमनी",
+          "en": "Carotid Artery"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फेफड़ों से शुद्ध (ऑक्सीजन युक्त) रक्त को हृदय के बाएं अलिंद में लाने वाली शिरा?",
+        "en": "Which vein carries oxygenated blood from lungs back to the left atrium?"
+      },
+      "o": [
+        {
+          "hi": "फुफ्फुस धमनी",
+          "en": "Pulmonary Artery"
+        },
+        {
+          "hi": "महाशिरा",
+          "en": "Vena Cava"
+        },
+        {
+          "hi": "फुफ्फुस शिरा (Pulmonary Vein)",
+          "en": "Pulmonary Vein"
+        },
+        {
+          "hi": "यकृत शिरा",
+          "en": "Hepatic Vein"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की सबसे बड़ी धमनी (Largest Artery) कौन सी है?",
+        "en": "Which is the largest artery in the human body?"
+      },
+      "o": [
+        {
+          "hi": "पल्मोनरी धमनी",
+          "en": "Pulmonary Artery"
+        },
+        {
+          "hi": "कोरोनरी धमनी",
+          "en": "Coronary Artery"
+        },
+        {
+          "hi": "रेडियल धमनी",
+          "en": "Radial Artery"
+        },
+        {
+          "hi": "महाधमनी (अयोर्टा / Aorta)",
+          "en": "Aorta"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव श्वसन तंत्र में गैसों के विनिमय (Gas Exchange) की मुख्य इकाई क्या है?",
+        "en": "What is the structural and functional unit of gas exchange in lungs?"
+      },
+      "o": [
+        {
+          "hi": "वायु कूपिका (Alveoli)",
+          "en": "Alveoli"
+        },
+        {
+          "hi": "नेफ्रॉन",
+          "en": "Nephrons"
+        },
+        {
+          "hi": "ब्रोंकाई",
+          "en": "Bronchi"
+        },
+        {
+          "hi": "ट्रैकिया",
+          "en": "Trachea"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वक्ष गुहा और उदर गुहा को पृथक करने वाली पेशीय संरचना जो श्वसन में सहायक है?",
+        "en": "Muscular partition separating thoracic cavity from abdominal cavity assisting breathing?"
+      },
+      "o": [
+        {
+          "hi": "प्लुरा",
+          "en": "Pleura"
+        },
+        {
+          "hi": "डायफ्राम (Diaphragm)",
+          "en": "Diaphragm"
+        },
+        {
+          "hi": "पेरिकार्डियम",
+          "en": "Pericardium"
+        },
+        {
+          "hi": "स्टर्नम",
+          "en": "Sternum"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रक्त में ऑक्सीजन का परिवहन करने वाला लौह युक्त वर्णक (Pigment) कौन सा है?",
+        "en": "Iron-containing respiratory pigment responsible for oxygen transport in blood?"
+      },
+      "o": [
+        {
+          "hi": "मायोग्लोबिन",
+          "en": "Myoglobin"
+        },
+        {
+          "hi": "हेमोसायनिन",
+          "en": "Hemocyanin"
+        },
+        {
+          "hi": "हीमोग्लोबिन (Hemoglobin)",
+          "en": "Hemoglobin"
+        },
+        {
+          "hi": "बिलिरुबिन",
+          "en": "Bilirubin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कोशिकीय श्वसन का प्रथम चरण 'ग्लाइकोलिसिस' कोशिका में कहाँ संपन्न होता है?",
+        "en": "Where does the anaerobic first step of respiration (Glycolysis) take place?"
+      },
+      "o": [
+        {
+          "hi": "माइटोकॉन्ड्रिया की मैट्रिक्स",
+          "en": "Mitochondrial matrix"
+        },
+        {
+          "hi": "केंद्रक",
+          "en": "Nucleus"
+        },
+        {
+          "hi": "राइबोसोम",
+          "en": "Ribosome"
+        },
+        {
+          "hi": "कोशिकाद्रव्य (Cytoplasm)",
+          "en": "Cytoplasm"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वायवीय श्वसन का 'क्रैब्स चक्र' (Krebs Cycle) कोशिकांग के किस भाग में होता है?",
+        "en": "Where does the aerobic Krebs Cycle occur inside the cell?"
+      },
+      "o": [
+        {
+          "hi": "माइटोकॉन्ड्रिया की मैट्रिक्स में",
+          "en": "Mitochondrial Matrix"
+        },
+        {
+          "hi": "साइटोप्लाज्म में",
+          "en": "In Cytoplasm"
+        },
+        {
+          "hi": "क्रिस्टी पर",
+          "en": "On Cristae"
+        },
+        {
+          "hi": "गॉल्जीकाय में",
+          "en": "In Golgi body"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव वृक्क (Kidney) की कार्यात्मक और संरचनात्मक इकाई क्या कहलाती है?",
+        "en": "What is the structural and functional filtration unit of the human kidney?"
+      },
+      "o": [
+        {
+          "hi": "न्यूरॉन",
+          "en": "Neuron"
+        },
+        {
+          "hi": "नेफ्रॉन (Nephron)",
+          "en": "Nephron"
+        },
+        {
+          "hi": "एल्विओलाई",
+          "en": "Alveoli"
+        },
+        {
+          "hi": "न्यूक्लियॉन",
+          "en": "Nucleon"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नेफ्रॉन का वह प्यालेनुमा भाग जहाँ रक्त का अल्ट्राफिल्ट्रेशन (अतिसूक्ष्म छानन) होता है?",
+        "en": "Cup-shaped structure of nephron where ultrafiltration of blood occurs?"
+      },
+      "o": [
+        {
+          "hi": "हेनले का लूप",
+          "en": "Loop of Henle"
+        },
+        {
+          "hi": "संग्राहक नलिका",
+          "en": "Collecting duct"
+        },
+        {
+          "hi": "बोमन सम्पुट (Bowman's Capsule)",
+          "en": "Bowman's Capsule"
+        },
+        {
+          "hi": "मूत्रवाहिनी",
+          "en": "Ureter"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर द्वारा उत्सर्जित होने वाला मुख्य नाइट्रोजन युक्त अपशिष्ट पदार्थ कौन सा है?",
+        "en": "Which is the primary nitrogenous waste excreted by human kidneys?"
+      },
+      "o": [
+        {
+          "hi": "यूरिक अम्ल",
+          "en": "Uric acid"
+        },
+        {
+          "hi": "अमोनिया",
+          "en": "Ammonia"
+        },
+        {
+          "hi": "क्रिएटिनिन",
+          "en": "Creatinine"
+        },
+        {
+          "hi": "यूरिया (Urea)",
+          "en": "Urea"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पक्षियों और सरीसृपों द्वारा उत्सर्जित मुख्य नाइट्रोजन युक्त अपशिष्ट कौन सा है?",
+        "en": "Which is the primary nitrogenous waste product in birds and reptiles?"
+      },
+      "o": [
+        {
+          "hi": "यूरिक अम्ल (Uric Acid)",
+          "en": "Uric Acid"
+        },
+        {
+          "hi": "यूरिया",
+          "en": "Urea"
+        },
+        {
+          "hi": "अमोनिया",
+          "en": "Ammonia"
+        },
+        {
+          "hi": "एमीनो अम्ल",
+          "en": "Amino acids"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जलीय अस्थिल मछलियों द्वारा उत्सर्जित होने वाला मुख्य उत्सर्जी पदार्थ क्या है?",
+        "en": "Major nitrogenous waste excreted by bony aquatic fishes is?"
+      },
+      "o": [
+        {
+          "hi": "यूरिया",
+          "en": "Urea"
+        },
+        {
+          "hi": "अमोनिया (Ammonia)",
+          "en": "Ammonia"
+        },
+        {
+          "hi": "यूरिक अम्ल",
+          "en": "Uric acid"
+        },
+        {
+          "hi": "हिप्प्यूरिक अम्ल",
+          "en": "Hippuric acid"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वृक्क के निष्क्रिय होने पर रक्त से अपशिष्टों को कृत्रिम रूप से छानने की प्रक्रिया?",
+        "en": "Artificial process of filtering blood in patients with kidney failure is called?"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रोफोरेसिस",
+          "en": "Electrophoresis"
+        },
+        {
+          "hi": "पेसमेकिंग",
+          "en": "Pacemaking"
+        },
+        {
+          "hi": "हीमोडायलिसिस (Hemodialysis)",
+          "en": "Hemodialysis"
+        },
+        {
+          "hi": "एंजियोग्राफी",
+          "en": "Angiography"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव केंद्रीय तंत्रिका तंत्र (CNS) किन दो मुख्य भागों से मिलकर बना होता है?",
+        "en": "Human Central Nervous System (CNS) consists of which two major structures?"
+      },
+      "o": [
+        {
+          "hi": "मस्तिष्क और न्यूरॉन",
+          "en": "Brain & Neuron"
+        },
+        {
+          "hi": "कपाल तंत्रिकाएं और रीढ़",
+          "en": "Cranial nerves & Spine"
+        },
+        {
+          "hi": "हृदय और मस्तिष्क",
+          "en": "Heart & Brain"
+        },
+        {
+          "hi": "मस्तिष्क और मेरुरज्जु (Brain and Spinal Cord)",
+          "en": "Brain and Spinal Cord"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव मस्तिष्क का सबसे बड़ा और विकसित भाग कौन सा है जो सोच-विचार का केंद्र है?",
+        "en": "Which is the largest and most developed part of brain controlling intelligence & memory?"
+      },
+      "o": [
+        {
+          "hi": "प्रमस्तिष्क (सेरेब्रम / Cerebrum)",
+          "en": "Cerebrum"
+        },
+        {
+          "hi": "अनुमस्तिष्क (सेरेबेलम)",
+          "en": "Cerebellum"
+        },
+        {
+          "hi": "हाइपोथैलेमस",
+          "en": "Hypothalamus"
+        },
+        {
+          "hi": "मेडुला ऑब्लांगेटा",
+          "en": "Medulla Oblongata"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मस्तिष्क का कौन सा भाग शरीर का संतुलन, ऐच्छिक पेशियों का समन्वय और पोश्चर बनाए रखता है?",
+        "en": "Which part of brain coordinates voluntary muscle movements and maintains posture?"
+      },
+      "o": [
+        {
+          "hi": "प्रमस्तिष्क",
+          "en": "Cerebrum"
+        },
+        {
+          "hi": "अनुमस्तिष्क (सेरेबेलम / Cerebellum)",
+          "en": "Cerebellum"
+        },
+        {
+          "hi": "हाइपोथैलेमस",
+          "en": "Hypothalamus"
+        },
+        {
+          "hi": "थैलेमस",
+          "en": "Thalamus"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "शरीर के तापमान, भूख, प्यास और पिट्यूटरी ग्रंथि का नियंत्रण कौन करता है?",
+        "en": "Which brain region regulates body temperature, hunger, thirst, and pituitary activity?"
+      },
+      "o": [
+        {
+          "hi": "सेरेब्रम",
+          "en": "Cerebrum"
+        },
+        {
+          "hi": "सेरेबेलम",
+          "en": "Cerebellum"
+        },
+        {
+          "hi": "हाइपोथैलेमस (Hypothalamus)",
+          "en": "Hypothalamus"
+        },
+        {
+          "hi": "पोंस",
+          "en": "Pons"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हृदय की धड़कन, श्वसन दर और रक्तचाप जैसी अनैच्छिक क्रियाओं का नियंत्रण केंद्र?",
+        "en": "Involuntary actions like heartbeat, respiration rate, and BP are controlled by?"
+      },
+      "o": [
+        {
+          "hi": "सेरेब्रम",
+          "en": "Cerebrum"
+        },
+        {
+          "hi": "अनुमस्तिष्क",
+          "en": "Cerebellum"
+        },
+        {
+          "hi": "थैलेमस",
+          "en": "Thalamus"
+        },
+        {
+          "hi": "मेडुला ऑब्लांगेटा (Medulla Oblongata)",
+          "en": "Medulla Oblongata"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में प्रतिवर्ती क्रियाओं (Reflex Actions) का मुख्य नियंत्रण केंद्र कौन सा है?",
+        "en": "Which organ acts as the main integration center for reflex actions?"
+      },
+      "o": [
+        {
+          "hi": "मेरुरज्जु (स्पाइनल कॉर्ड / Spinal Cord)",
+          "en": "Spinal Cord"
+        },
+        {
+          "hi": "प्रमस्तिष्क",
+          "en": "Cerebrum"
+        },
+        {
+          "hi": "हाइपोथैलेमस",
+          "en": "Hypothalamus"
+        },
+        {
+          "hi": "हृदय",
+          "en": "Heart"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की 'मास्टर ग्रंथि' (Master Gland) किसे कहा जाता है?",
+        "en": "Which endocrine gland is commonly known as the 'Master Gland'?"
+      },
+      "o": [
+        {
+          "hi": "थायरॉयड ग्रंथि",
+          "en": "Thyroid gland"
+        },
+        {
+          "hi": "पीयूष ग्रंथि (पिट्यूटरी ग्रंथि / Pituitary Gland)",
+          "en": "Pituitary Gland"
+        },
+        {
+          "hi": "अधिवृक्क ग्रंथि",
+          "en": "Adrenal gland"
+        },
+        {
+          "hi": "अग्न्याशय",
+          "en": "Pancreas"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "थायरॉयड ग्रंथि द्वारा थायरॉक्सिन हार्मोन के निर्माण के लिए किस तत्व की आवश्यकता होती है?",
+        "en": "Which mineral element is essential for thyroid gland to synthesize thyroxine?"
+      },
+      "o": [
+        {
+          "hi": "आयरन",
+          "en": "Iron"
+        },
+        {
+          "hi": "कैल्शियम",
+          "en": "Calcium"
+        },
+        {
+          "hi": "आयोडीन (Iodine)",
+          "en": "Iodine"
+        },
+        {
+          "hi": "सोडियम",
+          "en": "Sodium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आहार में आयोडीन की कमी से थायरॉयड ग्रंथि बढ़कर कौन सा रोग उत्पन्न करती है?",
+        "en": "Deficiency of iodine in human diet causes enlargement of thyroid leading to?"
+      },
+      "o": [
+        {
+          "hi": "मधुमेह",
+          "en": "Diabetes"
+        },
+        {
+          "hi": "एक्रोमेगेली",
+          "en": "Acromegaly"
+        },
+        {
+          "hi": "एडीसन रोग",
+          "en": "Addison's disease"
+        },
+        {
+          "hi": "घेंघा रोग (गॉयटर / Goitre)",
+          "en": "Goitre"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आपातकालीन स्थिति में 'करो या मरो' (Fight or Flight) हार्मोन कौन स्रावित करता है?",
+        "en": "Which hormone secreted by adrenal medulla is known as 'Fight or Flight' hormone?"
+      },
+      "o": [
+        {
+          "hi": "एड्रीनलीन (एपिनेफ्रिन / Adrenaline)",
+          "en": "Adrenaline"
+        },
+        {
+          "hi": "इंसुलिन",
+          "en": "Insulin"
+        },
+        {
+          "hi": "थायरॉक्सिन",
+          "en": "Thyroxine"
+        },
+        {
+          "hi": "मेलाटोनिन",
+          "en": "Melatonin"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अग्न्याशय (Pancreas) की लैंगरहैंस की द्वीपिकाओं की बीटा कोशिकाओं द्वारा कौन सा हार्मोन निकलता है?",
+        "en": "Which hormone is secreted by Beta cells of Islets of Langerhans in pancreas?"
+      },
+      "o": [
+        {
+          "hi": "ग्लूकागॉन",
+          "en": "Glucagon"
+        },
+        {
+          "hi": "इंसुलिन (Insulin)",
+          "en": "Insulin"
+        },
+        {
+          "hi": "सोमैटोस्टैटिन",
+          "en": "Somatostatin"
+        },
+        {
+          "hi": "सीक्रेटिन",
+          "en": "Secretin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में इंसुलिन हार्मोन का मुख्य कार्य क्या है?",
+        "en": "What is the primary physiological function of Insulin in human body?"
+      },
+      "o": [
+        {
+          "hi": "रक्तचाप बढ़ाना",
+          "en": "Increasing blood pressure"
+        },
+        {
+          "hi": "ग्लूकोज स्तर बढ़ाना",
+          "en": "Raising blood glucose"
+        },
+        {
+          "hi": "रक्त में शर्करा (ग्लूकोज) के स्तर को कम करना",
+          "en": "Lowering blood glucose levels"
+        },
+        {
+          "hi": "कैल्शियम स्तर नियंत्रित करना",
+          "en": "Regulating calcium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "इंसुलिन के अल्पस्राव (Deficiency) से कौन सा रोग हो जाता है?",
+        "en": "Deficiency or hypo-secretion of insulin hormone leads to which disease?"
+      },
+      "o": [
+        {
+          "hi": "डायबिटीज इंसिपिडस",
+          "en": "Diabetes Insipidus"
+        },
+        {
+          "hi": "बौनापन",
+          "en": "Dwarfism"
+        },
+        {
+          "hi": "क्रेचिनिज्म",
+          "en": "Cretinism"
+        },
+        {
+          "hi": "मधुमेह (डायबिटीज मेलिटस / Diabetes Mellitus)",
+          "en": "Diabetes Mellitus"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जैविक घड़ी (Circadian rhythm) और नींद-जागरण चक्र को नियंत्रित करने वाला हार्मोन?",
+        "en": "Which hormone secreted by pineal gland regulates the 24-hour circadian cycle?"
+      },
+      "o": [
+        {
+          "hi": "मेलाटोनिन (Melatonin)",
+          "en": "Melatonin"
+        },
+        {
+          "hi": "सेरोटोनिन",
+          "en": "Serotonin"
+        },
+        {
+          "hi": "ऑक्सीटोसिन",
+          "en": "Oxytocin"
+        },
+        {
+          "hi": "प्रोलेक्टिन",
+          "en": "Prolactin"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इम्युनिटी (प्रतिरक्षा) में टी-लिम्फोसाइट्स के परिपक्वता हेतु जिम्मेदार ग्रंथि जो उम्र के साथ घटती है?",
+        "en": "Gland essential for T-lymphocyte maturation and immunity that shrinks with age?"
+      },
+      "o": [
+        {
+          "hi": "पाइनियल ग्रंथि",
+          "en": "Pineal gland"
+        },
+        {
+          "hi": "थाइमस ग्रंथि (Thymus gland)",
+          "en": "Thymus gland"
+        },
+        {
+          "hi": "थायरॉयड ग्रंथि",
+          "en": "Thyroid gland"
+        },
+        {
+          "hi": "पीयूष ग्रंथि",
+          "en": "Pituitary gland"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक वयस्क मानव कंकाल में कुल कितनी अस्थियां (Bones) होती हैं?",
+        "en": "How many total bones are present in a fully developed adult human skeleton?"
+      },
+      "o": [
+        {
+          "hi": "300 अस्थियां",
+          "en": "300 bones"
+        },
+        {
+          "hi": "208 अस्थियां",
+          "en": "208 bones"
+        },
+        {
+          "hi": "206 अस्थियां",
+          "en": "206 bones"
+        },
+        {
+          "hi": "180 अस्थियां",
+          "en": "180 bones"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नवजात शिशु के शरीर में लगभग कितनी अस्थियां पाई जाती हैं?",
+        "en": "Approximately how many bones are present in a newborn infant's body?"
+      },
+      "o": [
+        {
+          "hi": "206",
+          "en": "206"
+        },
+        {
+          "hi": "150",
+          "en": "150"
+        },
+        {
+          "hi": "350 से अधिक",
+          "en": "Over 350"
+        },
+        {
+          "hi": "लगभग 270 से 300",
+          "en": "Around 270 to 300"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की सबसे लंबी और मजबूत अस्थि कौन सी है?",
+        "en": "Which is the longest and strongest bone in the human body?"
+      },
+      "o": [
+        {
+          "hi": "फीमर (जांघ की हड्डी / Femur)",
+          "en": "Femur (Thigh bone)"
+        },
+        {
+          "hi": "टिबिया",
+          "en": "Tibia"
+        },
+        {
+          "hi": "ह्यूमरस",
+          "en": "Humerus"
+        },
+        {
+          "hi": "स्टेपीज",
+          "en": "Stapes"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की सबसे छोटी अस्थि कौन सी है और यह कहाँ पाई जाती है?",
+        "en": "Which is the smallest bone in human body and where is it located?"
+      },
+      "o": [
+        {
+          "hi": "मैलियस (कान में)",
+          "en": "Malleus (Ear)"
+        },
+        {
+          "hi": "स्टेपीज (मध्य कान में)",
+          "en": "Stapes (Middle Ear)"
+        },
+        {
+          "hi": "इंकस (कान में)",
+          "en": "Incus (Ear)"
+        },
+        {
+          "hi": "नेज़ल बोन (नाक में)",
+          "en": "Nasal bone (Nose)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव कपाल (Cranium / मस्तिष्क खोल) में कुल कितनी अस्थियां होती हैं?",
+        "en": "How many bones form the human cranium protecting the brain?"
+      },
+      "o": [
+        {
+          "hi": "14 अस्थियां",
+          "en": "14 bones"
+        },
+        {
+          "hi": "22 अस्थियां",
+          "en": "22 bones"
+        },
+        {
+          "hi": "8 अस्थियां",
+          "en": "8 bones"
+        },
+        {
+          "hi": "12 अस्थियां",
+          "en": "12 bones"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव चेहरे (Facial skeleton) का निर्माण कितनी अस्थियों से होता है?",
+        "en": "How many facial bones are present in the human skull structure?"
+      },
+      "o": [
+        {
+          "hi": "8 अस्थियां",
+          "en": "8 bones"
+        },
+        {
+          "hi": "10 अस्थियां",
+          "en": "10 bones"
+        },
+        {
+          "hi": "16 अस्थियां",
+          "en": "16 bones"
+        },
+        {
+          "hi": "14 अस्थियां",
+          "en": "14 bones"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव रिबकेज में पसलियों (Ribs) की कुल कितनी जोड़ियाँ होती हैं?",
+        "en": "How many pairs of ribs form the human thoracic cage?"
+      },
+      "o": [
+        {
+          "hi": "12 जोड़ियाँ (24 पसलियां)",
+          "en": "12 pairs (24 ribs)"
+        },
+        {
+          "hi": "10 जोड़ियाँ",
+          "en": "10 pairs"
+        },
+        {
+          "hi": "14 जोड़ियाँ",
+          "en": "14 pairs"
+        },
+        {
+          "hi": "7 जोड़ियाँ",
+          "en": "7 pairs"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उरोस्थि (Sternum) से सीधे न जुड़ने वाली 11वीं और 12वीं जोड़ी पसलियों को क्या कहते हैं?",
+        "en": "The 11th and 12th pairs of ribs not attached to sternum are termed as?"
+      },
+      "o": [
+        {
+          "hi": "सत्य पसलियां",
+          "en": "True Ribs"
+        },
+        {
+          "hi": "प्लवी पसलियां (Floating Ribs)",
+          "en": "Floating Ribs"
+        },
+        {
+          "hi": "कूट पसलियां",
+          "en": "False Ribs"
+        },
+        {
+          "hi": "वक्षीय पसलियां",
+          "en": "Thoracic Ribs"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पुरुषों में वृषण की लीडिग कोशिकाओं द्वारा स्रावित मुख्य एंड्रोजन हार्मोन कौन सा है?",
+        "en": "Which primary male sex hormone is secreted by Leydig cells of testes?"
+      },
+      "o": [
+        {
+          "hi": "एस्ट्रोजन",
+          "en": "Estrogen"
+        },
+        {
+          "hi": "प्रोजेस्टेरोन",
+          "en": "Progesterone"
+        },
+        {
+          "hi": "टेस्टोस्टेरोन (Testosterone)",
+          "en": "Testosterone"
+        },
+        {
+          "hi": "प्रोलेक्टिन",
+          "en": "Prolactin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महिलाओं में द्वितीयक लैंगिक लक्षणों का विकास करने वाला मुख्य हार्मोन?",
+        "en": "Which primary female hormone regulates secondary sexual characteristics?"
+      },
+      "o": [
+        {
+          "hi": "टेस्टोस्टेरोन",
+          "en": "Testosterone"
+        },
+        {
+          "hi": "एंड्रोस्टेरोन",
+          "en": "Androsterone"
+        },
+        {
+          "hi": "रिलैक्सिन",
+          "en": "Relaxin"
+        },
+        {
+          "hi": "एस्ट्रोजन (Estrogen)",
+          "en": "Estrogen"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव मादा जनन तंत्र में शुक्राणु और अंडाणु का निषेचन (Fertilization) कहाँ होता है?",
+        "en": "Where does fertilization of ovum by sperm take place in human female?"
+      },
+      "o": [
+        {
+          "hi": "फैलोपियन नली (अंडवाहिनी / Fallopian Tube)",
+          "en": "Fallopian Tube (Oviduct)"
+        },
+        {
+          "hi": "गर्भाशय (Uterus)",
+          "en": "Uterus"
+        },
+        {
+          "hi": "अंडाशय (Ovary)",
+          "en": "Ovary"
+        },
+        {
+          "hi": "योनि (Vagina)",
+          "en": "Vagina"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "निषेचित भ्रूण का रोपण (Implantation) एवं गर्भावस्था का विकास कहाँ होता है?",
+        "en": "Where does the embryo implant and develop during human pregnancy?"
+      },
+      "o": [
+        {
+          "hi": "फैलोपियन नली",
+          "en": "Fallopian Tube"
+        },
+        {
+          "hi": "गर्भाशय (Uterus)",
+          "en": "Uterus"
+        },
+        {
+          "hi": "अंडाशय",
+          "en": "Ovary"
+        },
+        {
+          "hi": "सर्विक्स",
+          "en": "Cervix"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव में सामान्य सगर्भता अवधि (Gestation Period) कितनी होती है?",
+        "en": "What is the average human gestation period duration from fertilization to birth?"
+      },
+      "o": [
+        {
+          "hi": "200 दिन",
+          "en": "200 days"
+        },
+        {
+          "hi": "320 दिन",
+          "en": "320 days"
+        },
+        {
+          "hi": "लगभग 280 दिन (40 सप्ताह)",
+          "en": "Around 280 days (40 weeks)"
+        },
+        {
+          "hi": "150 दिन",
+          "en": "150 days"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मासिक चक्र (Menstrual Cycle) के मध्यकाल (~14वें दिन) में अंडाणु के निकलने की क्रिया?",
+        "en": "Release of mature ovum from ovary around the 14th day of cycle is called?"
+      },
+      "o": [
+        {
+          "hi": "निषेचन",
+          "en": "Fertilization"
+        },
+        {
+          "hi": "रोपण",
+          "en": "Implantation"
+        },
+        {
+          "hi": "प्रसव",
+          "en": "Parturition"
+        },
+        {
+          "hi": "अंडोत्सर्ग (ओव्यूलेशन / Ovulation)",
+          "en": "Ovulation"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में मांसपेशियों की अनुमानित कुल संख्या कितनी होती है?",
+        "en": "What is the estimated total number of muscles in the human body?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 639 मांसपेशियां",
+          "en": "Around 639 muscles"
+        },
+        {
+          "hi": "206 मांसपेशियां",
+          "en": "206 muscles"
+        },
+        {
+          "hi": "500 मांसपेशियां",
+          "en": "500 muscles"
+        },
+        {
+          "hi": "800 मांसपेशियां",
+          "en": "800 muscles"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की सबसे बड़ी मांसपेशी (Largest Muscle) कौन सी है?",
+        "en": "Which is the largest muscle in the human body?"
+      },
+      "o": [
+        {
+          "hi": "स्टेपीडियस",
+          "en": "Stapedius"
+        },
+        {
+          "hi": "ग्लूटियस मैक्सिमस (Gluteus Maximus)",
+          "en": "Gluteus Maximus"
+        },
+        {
+          "hi": "सारटोरियस",
+          "en": "Sartorius"
+        },
+        {
+          "hi": "बायसेप्स",
+          "en": "Biceps"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की सबसे छोटी मांसपेशी कौन सी है?",
+        "en": "Which is the smallest muscle in the human body?"
+      },
+      "o": [
+        {
+          "hi": "ग्लूटियस",
+          "en": "Gluteus"
+        },
+        {
+          "hi": "मैसेटर",
+          "en": "Masseter"
+        },
+        {
+          "hi": "स्टेपीडियस (Stapedius)",
+          "en": "Stapedius"
+        },
+        {
+          "hi": "डेलटॉइड",
+          "en": "Deltoid"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किस अंग को 'RBC का कब्रिस्तान' (Graveyard of RBCs) एवं शरीर का 'ब्लड बैंक' कहा जाता है?",
+        "en": "Which organ is known as the 'Graveyard of RBCs' and 'Blood Bank' of the body?"
+      },
+      "o": [
+        {
+          "hi": "यकृत",
+          "en": "Liver"
+        },
+        {
+          "hi": "वृक्क",
+          "en": "Kidney"
+        },
+        {
+          "hi": "अस्थि मज्जा",
+          "en": "Bone Marrow"
+        },
+        {
+          "hi": "प्लीहा (तिल्ली / Spleen)",
+          "en": "Spleen"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रक्त का थक्का (Blood Clotting) बनने में कौन सी रक्त कणिकाएं सहायक होती हैं?",
+        "en": "Which blood element plays a crucial role in blood clotting and coagulation?"
+      },
+      "o": [
+        {
+          "hi": "प्लेटलेट्स (थ्रॉम्बोसाइट्स / Thrombocytes)",
+          "en": "Platelets (Thrombocytes)"
+        },
+        {
+          "hi": "एरिथ्रोसाइट्स",
+          "en": "Erythrocytes"
+        },
+        {
+          "hi": "ल्यूकोसाइट्स",
+          "en": "Leukocytes"
+        },
+        {
+          "hi": "मोनोसाइट्स",
+          "en": "Monocytes"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संक्रमण से रक्षा के लिए एंटीबॉडी (Antibodies) का निर्माण कौन सी WBC करती हैं?",
+        "en": "Which type of WBCs produce antibodies to fight foreign antigens?"
+      },
+      "o": [
+        {
+          "hi": "इओसिनोफिल्स",
+          "en": "Eosinophils"
+        },
+        {
+          "hi": "B-लिम्फोसाइट्स (B-Lymphocytes)",
+          "en": "B-Lymphocytes"
+        },
+        {
+          "hi": "बेसोफिल्स",
+          "en": "Basophils"
+        },
+        {
+          "hi": "न्यूट्रोफिल्स",
+          "en": "Neutrophils"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हृदय से रक्त को शरीर के विभिन्न अंगों तक ले जाने वाली रक्त वाहिकाएं?",
+        "en": "Blood vessels carrying oxygenated blood away from heart to body tissues are?"
+      },
+      "o": [
+        {
+          "hi": "शिराएं (Veins)",
+          "en": "Veins"
+        },
+        {
+          "hi": "केशिकाएं (Capillaries)",
+          "en": "Capillaries"
+        },
+        {
+          "hi": "धमनियां (Arteries)",
+          "en": "Arteries"
+        },
+        {
+          "hi": "लसीका वाहिकाएं",
+          "en": "Lymph vessels"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बाएं अलिंद और बाएं निलय के बीच रक्त के विपरीत प्रवाह को रोकने वाला कपाट?",
+        "en": "Valve located between left atrium and left ventricle preventing backflow is?"
+      },
+      "o": [
+        {
+          "hi": "त्रिवलनी कपाट (ट्राइकसपिड)",
+          "en": "Tricuspid Valve"
+        },
+        {
+          "hi": "अर्द्धचंद्राकार कपाट",
+          "en": "Semilunar Valve"
+        },
+        {
+          "hi": "यूस्टेशियन वाल्व",
+          "en": "Eustachian Valve"
+        },
+        {
+          "hi": "द्विवलनी कपाट (बायसिपिड / मिट्रल वाल्व)",
+          "en": "Bicuspid / Mitral Valve"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में मूत्र का अस्थायी संचयन कहाँ होता है?",
+        "en": "Where is urine temporarily stored before micturition?"
+      },
+      "o": [
+        {
+          "hi": "मूत्राशय (Urinary Bladder)",
+          "en": "Urinary Bladder"
+        },
+        {
+          "hi": "वृक्क",
+          "en": "Kidney"
+        },
+        {
+          "hi": "मूत्रवाहिनी",
+          "en": "Ureter"
+        },
+        {
+          "hi": "बोमन सम्पुट",
+          "en": "Bowman's Capsule"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मस्तिष्क आवरण में सूजन आ जाने से होने वाला गंभीर रोग कौन सा है?",
+        "en": "Inflammation of the protective meninges covering brain and spinal cord is?"
+      },
+      "o": [
+        {
+          "hi": "एन्सेफलाइटिस",
+          "en": "Encephalitis"
+        },
+        {
+          "hi": "मेनिन्जाइटिस (Meningitis)",
+          "en": "Meningitis"
+        },
+        {
+          "hi": "पार्किंसंस",
+          "en": "Parkinson's"
+        },
+        {
+          "hi": "अल्जाइमर",
+          "en": "Alzheimer's"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आमाशय की दीवारों को जठर रस के HCl और पेप्सिन के क्षरण से बचाने वाला क्षारीय स्तर?",
+        "en": "Mucosal barrier protecting stomach wall from auto-digestion by HCl and pepsin?"
+      },
+      "o": [
+        {
+          "hi": "पेरिटोनियम",
+          "en": "Peritoneum"
+        },
+        {
+          "hi": "प्लुरा",
+          "en": "Pleura"
+        },
+        {
+          "hi": "श्लेष्मा आवरण (Mucus lining)",
+          "en": "Mucus lining"
+        },
+        {
+          "hi": "पेरिकार्डियम",
+          "en": "Pericardium"
+        }
+      ],
+      "a": 2
+    }
+  ]
+}

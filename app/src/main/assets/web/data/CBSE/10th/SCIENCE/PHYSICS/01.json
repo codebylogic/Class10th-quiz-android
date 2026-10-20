@@ -1,0 +1,1007 @@
+{
+  "title": "CBSE Class 10 - Science (Physics)",
+  "subtitle": "Light - Reflection and Refraction",
+  "description": "Comprehensive online test set containing 100 high-yield objective MCQs for Light - Reflection and Refraction.",
+  "questions": [
+    {
+      "q": "Which type of mirror is used as a rear-view mirror in vehicles?",
+      "o": [
+        "Convex mirror",
+        "Plane mirror",
+        "Concave mirror",
+        "Parabolic mirror"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The SI unit of refractive index is:",
+      "o": [
+        "Dioptre",
+        "Unitless",
+        "Metre",
+        "Degree"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The center of the reflecting surface of a spherical mirror is called:",
+      "o": [
+        "Pole",
+        "Center of curvature",
+        "Principal focus",
+        "Aperture"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The radius of curvature of a spherical mirror is 20 cm. Its focal length is:",
+      "o": [
+        "40 cm",
+        "15 cm",
+        "10 cm",
+        "20 cm"
+      ],
+      "a": 2
+    },
+    {
+      "q": "An object is placed at the focus of a concave mirror. The image is formed at:",
+      "o": [
+        "Focus",
+        "Infinity",
+        "Center of curvature",
+        "Pole"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Which material cannot be used to make a lens?",
+      "o": [
+        "Water",
+        "Glass",
+        "Clay",
+        "Plastic"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The focal length of a plane mirror is:",
+      "o": [
+        "Zero",
+        "25 cm",
+        "Infinity",
+        "-25 cm"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The image formed by a plane mirror is always:",
+      "o": [
+        "Real and inverted",
+        "Virtual and erect",
+        "Real and erect",
+        "Virtual and inverted"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The power of a convex lens of focal length 1 meter is:",
+      "o": [
+        "1 Dioptre",
+        "-1 Dioptre",
+        "2 Dioptre",
+        "-2 Dioptre"
+      ],
+      "a": 0
+    },
+    {
+      "q": "When light passes from a rarer medium to a denser medium, it bends:",
+      "o": [
+        "Away from normal",
+        "Parallel to normal",
+        "Does not bend",
+        "Towards normal"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The mirror formula is represented as:",
+      "o": [
+        "1/f = 1/v - 1/u",
+        "1/f = 1/v + 1/u",
+        "f = v + u",
+        "1/f = v / u"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The lens formula is represented as:",
+      "o": [
+        "1/f = 1/v + 1/u",
+        "1/f = u / v",
+        "f = 1/v - 1/u",
+        "1/f = 1/v - 1/u"
+      ],
+      "a": 3
+    },
+    {
+      "q": "A virtual image larger than the object can be produced by a:",
+      "o": [
+        "Convex mirror",
+        "Concave lens",
+        "Concave mirror",
+        "Plane mirror"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Magnification produced by a rear view mirror fitted in vehicles is:",
+      "o": [
+        "More than one",
+        "Equal to one",
+        "Can be any value",
+        "Less than one"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The speed of light in vacuum is approximately:",
+      "o": [
+        "3 x 10^5 m/s",
+        "3 x 10^6 m/s",
+        "3 x 10^10 m/s",
+        "3 x 10^8 m/s"
+      ],
+      "a": 3
+    },
+    {
+      "q": "For a real object, a convex mirror always forms an image which is:",
+      "o": [
+        "Real and inverted",
+        "Virtual and inverted",
+        "Real and erect",
+        "Virtual and erect"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Which lens is known as a converging lens?",
+      "o": [
+        "Concave lens",
+        "Biconcave lens",
+        "Convex lens",
+        "Cylindrical lens"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Which mirror is known as a diverging mirror?",
+      "o": [
+        "Concave mirror",
+        "Plane mirror",
+        "Parabolic mirror",
+        "Convex mirror"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The SI unit of power of a lens is:",
+      "o": [
+        "Meter",
+        "Watt",
+        "Joule",
+        "Dioptre"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The relation between focal length (f) and radius of curvature (R) is:",
+      "o": [
+        "f = 2R",
+        "R = f / 2",
+        "R = 2f",
+        "R = f + 2"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The power of a concave lens is always:",
+      "o": [
+        "Negative",
+        "Positive",
+        "Zero",
+        "Variable"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The power of a convex lens is always:",
+      "o": [
+        "Negative",
+        "Zero",
+        "Positive",
+        "Variable"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Light travels fastest in which of the following media?",
+      "o": [
+        "Glass",
+        "Water",
+        "Diamond",
+        "Vacuum"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The bending of light when it passes obliquely from one medium to another is called:",
+      "o": [
+        "Reflection",
+        "Refraction",
+        "Dispersion",
+        "Diffraction"
+      ],
+      "a": 1
+    },
+    {
+      "q": "According to the Cartesian sign convention, object distance (u) is always taken as:",
+      "o": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Variable"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Which type of mirror is used as a rear-view mirror in vehicles? - Set 2",
+      "o": [
+        "Plane mirror",
+        "Convex mirror",
+        "Concave mirror",
+        "Parabolic mirror"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The SI unit of refractive index is: - Set 2",
+      "o": [
+        "Dioptre",
+        "Unitless",
+        "Metre",
+        "Degree"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The center of the reflecting surface of a spherical mirror is called: - Set 2",
+      "o": [
+        "Pole",
+        "Center of curvature",
+        "Principal focus",
+        "Aperture"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The radius of curvature of a spherical mirror is 20 cm. Its focal length is: - Set 2",
+      "o": [
+        "10 cm",
+        "40 cm",
+        "15 cm",
+        "20 cm"
+      ],
+      "a": 0
+    },
+    {
+      "q": "An object is placed at the focus of a concave mirror. The image is formed at: - Set 2",
+      "o": [
+        "Infinity",
+        "Focus",
+        "Center of curvature",
+        "Pole"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Which material cannot be used to make a lens? - Set 2",
+      "o": [
+        "Water",
+        "Glass",
+        "Plastic",
+        "Clay"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The focal length of a plane mirror is: - Set 2",
+      "o": [
+        "Zero",
+        "Infinity",
+        "25 cm",
+        "-25 cm"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The image formed by a plane mirror is always: - Set 2",
+      "o": [
+        "Real and inverted",
+        "Real and erect",
+        "Virtual and inverted",
+        "Virtual and erect"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The power of a convex lens of focal length 1 meter is: - Set 2",
+      "o": [
+        "1 Dioptre",
+        "-1 Dioptre",
+        "2 Dioptre",
+        "-2 Dioptre"
+      ],
+      "a": 0
+    },
+    {
+      "q": "When light passes from a rarer medium to a denser medium, it bends: - Set 2",
+      "o": [
+        "Away from normal",
+        "Parallel to normal",
+        "Towards normal",
+        "Does not bend"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The mirror formula is represented as: - Set 2",
+      "o": [
+        "1/f = 1/v - 1/u",
+        "1/f = 1/v + 1/u",
+        "f = v + u",
+        "1/f = v / u"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The lens formula is represented as: - Set 2",
+      "o": [
+        "1/f = 1/v + 1/u",
+        "1/f = 1/v - 1/u",
+        "1/f = u / v",
+        "f = 1/v - 1/u"
+      ],
+      "a": 1
+    },
+    {
+      "q": "A virtual image larger than the object can be produced by a: - Set 2",
+      "o": [
+        "Convex mirror",
+        "Concave lens",
+        "Concave mirror",
+        "Plane mirror"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Magnification produced by a rear view mirror fitted in vehicles is: - Set 2",
+      "o": [
+        "More than one",
+        "Equal to one",
+        "Less than one",
+        "Can be any value"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The speed of light in vacuum is approximately: - Set 2",
+      "o": [
+        "3 x 10^8 m/s",
+        "3 x 10^5 m/s",
+        "3 x 10^6 m/s",
+        "3 x 10^10 m/s"
+      ],
+      "a": 0
+    },
+    {
+      "q": "For a real object, a convex mirror always forms an image which is: - Set 2",
+      "o": [
+        "Real and inverted",
+        "Virtual and inverted",
+        "Virtual and erect",
+        "Real and erect"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Which lens is known as a converging lens? - Set 2",
+      "o": [
+        "Convex lens",
+        "Concave lens",
+        "Biconcave lens",
+        "Cylindrical lens"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Which mirror is known as a diverging mirror? - Set 2",
+      "o": [
+        "Convex mirror",
+        "Concave mirror",
+        "Plane mirror",
+        "Parabolic mirror"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The SI unit of power of a lens is: - Set 2",
+      "o": [
+        "Dioptre",
+        "Meter",
+        "Watt",
+        "Joule"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The relation between focal length (f) and radius of curvature (R) is: - Set 2",
+      "o": [
+        "f = 2R",
+        "R = f / 2",
+        "R = 2f",
+        "R = f + 2"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The power of a concave lens is always: - Set 2",
+      "o": [
+        "Positive",
+        "Zero",
+        "Variable",
+        "Negative"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The power of a convex lens is always: - Set 2",
+      "o": [
+        "Negative",
+        "Zero",
+        "Positive",
+        "Variable"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Light travels fastest in which of the following media? - Set 2",
+      "o": [
+        "Glass",
+        "Water",
+        "Diamond",
+        "Vacuum"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The bending of light when it passes obliquely from one medium to another is called: - Set 2",
+      "o": [
+        "Reflection",
+        "Dispersion",
+        "Refraction",
+        "Diffraction"
+      ],
+      "a": 2
+    },
+    {
+      "q": "According to the Cartesian sign convention, object distance (u) is always taken as: - Set 2",
+      "o": [
+        "Positive",
+        "Zero",
+        "Variable",
+        "Negative"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Which type of mirror is used as a rear-view mirror in vehicles? - Set 3",
+      "o": [
+        "Plane mirror",
+        "Convex mirror",
+        "Concave mirror",
+        "Parabolic mirror"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The SI unit of refractive index is: - Set 3",
+      "o": [
+        "Dioptre",
+        "Unitless",
+        "Metre",
+        "Degree"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The center of the reflecting surface of a spherical mirror is called: - Set 3",
+      "o": [
+        "Center of curvature",
+        "Principal focus",
+        "Aperture",
+        "Pole"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The radius of curvature of a spherical mirror is 20 cm. Its focal length is: - Set 3",
+      "o": [
+        "10 cm",
+        "40 cm",
+        "15 cm",
+        "20 cm"
+      ],
+      "a": 0
+    },
+    {
+      "q": "An object is placed at the focus of a concave mirror. The image is formed at: - Set 3",
+      "o": [
+        "Focus",
+        "Center of curvature",
+        "Pole",
+        "Infinity"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Which material cannot be used to make a lens? - Set 3",
+      "o": [
+        "Clay",
+        "Water",
+        "Glass",
+        "Plastic"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The focal length of a plane mirror is: - Set 3",
+      "o": [
+        "Zero",
+        "25 cm",
+        "Infinity",
+        "-25 cm"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The image formed by a plane mirror is always: - Set 3",
+      "o": [
+        "Virtual and erect",
+        "Real and inverted",
+        "Real and erect",
+        "Virtual and inverted"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The power of a convex lens of focal length 1 meter is: - Set 3",
+      "o": [
+        "-1 Dioptre",
+        "2 Dioptre",
+        "-2 Dioptre",
+        "1 Dioptre"
+      ],
+      "a": 3
+    },
+    {
+      "q": "When light passes from a rarer medium to a denser medium, it bends: - Set 3",
+      "o": [
+        "Towards normal",
+        "Away from normal",
+        "Parallel to normal",
+        "Does not bend"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The mirror formula is represented as: - Set 3",
+      "o": [
+        "1/f = 1/v - 1/u",
+        "1/f = 1/v + 1/u",
+        "f = v + u",
+        "1/f = v / u"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The lens formula is represented as: - Set 3",
+      "o": [
+        "1/f = 1/v + 1/u",
+        "1/f = 1/v - 1/u",
+        "1/f = u / v",
+        "f = 1/v - 1/u"
+      ],
+      "a": 1
+    },
+    {
+      "q": "A virtual image larger than the object can be produced by a: - Set 3",
+      "o": [
+        "Convex mirror",
+        "Concave lens",
+        "Plane mirror",
+        "Concave mirror"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Magnification produced by a rear view mirror fitted in vehicles is: - Set 3",
+      "o": [
+        "More than one",
+        "Equal to one",
+        "Less than one",
+        "Can be any value"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The speed of light in vacuum is approximately: - Set 3",
+      "o": [
+        "3 x 10^5 m/s",
+        "3 x 10^8 m/s",
+        "3 x 10^6 m/s",
+        "3 x 10^10 m/s"
+      ],
+      "a": 1
+    },
+    {
+      "q": "For a real object, a convex mirror always forms an image which is: - Set 3",
+      "o": [
+        "Virtual and erect",
+        "Real and inverted",
+        "Virtual and inverted",
+        "Real and erect"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Which lens is known as a converging lens? - Set 3",
+      "o": [
+        "Convex lens",
+        "Concave lens",
+        "Biconcave lens",
+        "Cylindrical lens"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Which mirror is known as a diverging mirror? - Set 3",
+      "o": [
+        "Convex mirror",
+        "Concave mirror",
+        "Plane mirror",
+        "Parabolic mirror"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The SI unit of power of a lens is: - Set 3",
+      "o": [
+        "Meter",
+        "Dioptre",
+        "Watt",
+        "Joule"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The relation between focal length (f) and radius of curvature (R) is: - Set 3",
+      "o": [
+        "R = 2f",
+        "f = 2R",
+        "R = f / 2",
+        "R = f + 2"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The power of a concave lens is always: - Set 3",
+      "o": [
+        "Positive",
+        "Zero",
+        "Negative",
+        "Variable"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The power of a convex lens is always: - Set 3",
+      "o": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Variable"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Light travels fastest in which of the following media? - Set 3",
+      "o": [
+        "Glass",
+        "Vacuum",
+        "Water",
+        "Diamond"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The bending of light when it passes obliquely from one medium to another is called: - Set 3",
+      "o": [
+        "Reflection",
+        "Refraction",
+        "Dispersion",
+        "Diffraction"
+      ],
+      "a": 1
+    },
+    {
+      "q": "According to the Cartesian sign convention, object distance (u) is always taken as: - Set 3",
+      "o": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Variable"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Which type of mirror is used as a rear-view mirror in vehicles? - Set 4",
+      "o": [
+        "Plane mirror",
+        "Concave mirror",
+        "Parabolic mirror",
+        "Convex mirror"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The SI unit of refractive index is: - Set 4",
+      "o": [
+        "Dioptre",
+        "Metre",
+        "Degree",
+        "Unitless"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The center of the reflecting surface of a spherical mirror is called: - Set 4",
+      "o": [
+        "Center of curvature",
+        "Principal focus",
+        "Aperture",
+        "Pole"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The radius of curvature of a spherical mirror is 20 cm. Its focal length is: - Set 4",
+      "o": [
+        "40 cm",
+        "15 cm",
+        "20 cm",
+        "10 cm"
+      ],
+      "a": 3
+    },
+    {
+      "q": "An object is placed at the focus of a concave mirror. The image is formed at: - Set 4",
+      "o": [
+        "Focus",
+        "Center of curvature",
+        "Pole",
+        "Infinity"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Which material cannot be used to make a lens? - Set 4",
+      "o": [
+        "Water",
+        "Glass",
+        "Clay",
+        "Plastic"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The focal length of a plane mirror is: - Set 4",
+      "o": [
+        "Zero",
+        "Infinity",
+        "25 cm",
+        "-25 cm"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The image formed by a plane mirror is always: - Set 4",
+      "o": [
+        "Real and inverted",
+        "Real and erect",
+        "Virtual and erect",
+        "Virtual and inverted"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The power of a convex lens of focal length 1 meter is: - Set 4",
+      "o": [
+        "1 Dioptre",
+        "-1 Dioptre",
+        "2 Dioptre",
+        "-2 Dioptre"
+      ],
+      "a": 0
+    },
+    {
+      "q": "When light passes from a rarer medium to a denser medium, it bends: - Set 4",
+      "o": [
+        "Towards normal",
+        "Away from normal",
+        "Parallel to normal",
+        "Does not bend"
+      ],
+      "a": 0
+    },
+    {
+      "q": "The mirror formula is represented as: - Set 4",
+      "o": [
+        "1/f = 1/v - 1/u",
+        "f = v + u",
+        "1/f = v / u",
+        "1/f = 1/v + 1/u"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The lens formula is represented as: - Set 4",
+      "o": [
+        "1/f = 1/v + 1/u",
+        "1/f = u / v",
+        "1/f = 1/v - 1/u",
+        "f = 1/v - 1/u"
+      ],
+      "a": 2
+    },
+    {
+      "q": "A virtual image larger than the object can be produced by a: - Set 4",
+      "o": [
+        "Convex mirror",
+        "Concave lens",
+        "Plane mirror",
+        "Concave mirror"
+      ],
+      "a": 3
+    },
+    {
+      "q": "Magnification produced by a rear view mirror fitted in vehicles is: - Set 4",
+      "o": [
+        "More than one",
+        "Equal to one",
+        "Less than one",
+        "Can be any value"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The speed of light in vacuum is approximately: - Set 4",
+      "o": [
+        "3 x 10^5 m/s",
+        "3 x 10^6 m/s",
+        "3 x 10^8 m/s",
+        "3 x 10^10 m/s"
+      ],
+      "a": 2
+    },
+    {
+      "q": "For a real object, a convex mirror always forms an image which is: - Set 4",
+      "o": [
+        "Real and inverted",
+        "Virtual and inverted",
+        "Virtual and erect",
+        "Real and erect"
+      ],
+      "a": 2
+    },
+    {
+      "q": "Which lens is known as a converging lens? - Set 4",
+      "o": [
+        "Convex lens",
+        "Concave lens",
+        "Biconcave lens",
+        "Cylindrical lens"
+      ],
+      "a": 0
+    },
+    {
+      "q": "Which mirror is known as a diverging mirror? - Set 4",
+      "o": [
+        "Concave mirror",
+        "Convex mirror",
+        "Plane mirror",
+        "Parabolic mirror"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The SI unit of power of a lens is: - Set 4",
+      "o": [
+        "Meter",
+        "Watt",
+        "Joule",
+        "Dioptre"
+      ],
+      "a": 3
+    },
+    {
+      "q": "The relation between focal length (f) and radius of curvature (R) is: - Set 4",
+      "o": [
+        "f = 2R",
+        "R = f / 2",
+        "R = 2f",
+        "R = f + 2"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The power of a concave lens is always: - Set 4",
+      "o": [
+        "Positive",
+        "Zero",
+        "Negative",
+        "Variable"
+      ],
+      "a": 2
+    },
+    {
+      "q": "The power of a convex lens is always: - Set 4",
+      "o": [
+        "Negative",
+        "Positive",
+        "Zero",
+        "Variable"
+      ],
+      "a": 1
+    },
+    {
+      "q": "Light travels fastest in which of the following media? - Set 4",
+      "o": [
+        "Glass",
+        "Vacuum",
+        "Water",
+        "Diamond"
+      ],
+      "a": 1
+    },
+    {
+      "q": "The bending of light when it passes obliquely from one medium to another is called: - Set 4",
+      "o": [
+        "Reflection",
+        "Refraction",
+        "Dispersion",
+        "Diffraction"
+      ],
+      "a": 1
+    },
+    {
+      "q": "According to the Cartesian sign convention, object distance (u) is always taken as: - Set 4",
+      "o": [
+        "Negative",
+        "Positive",
+        "Zero",
+        "Variable"
+      ],
+      "a": 0
+    }
+  ]
+}
