@@ -995,9 +995,11 @@
       sess.score += 1;
       sess.states[qIdx] = 'correct';
       global.QuizStorage.Bridge.vibrate(30);
+      if (global.QuizSfx) global.QuizSfx.playCorrect();
     } else {
       sess.states[qIdx] = 'wrong';
       global.QuizStorage.Bridge.vibrate(75);
+      if (global.QuizSfx) global.QuizSfx.playWrong();
     }
 
     // Record per-question accuracy & daily streak (FR-10, FR-11)

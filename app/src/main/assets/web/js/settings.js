@@ -14,6 +14,7 @@
     const currentTheme = global.QuizStorage.getTheme();
     const currentProfileLang = global.QuizStorage.getProfileLanguage();
     const currentQuizPref = global.QuizStorage.getQuizLanguagePref();
+    const sfxMuted = global.QuizSfx ? global.QuizSfx.isMuted() : false;
     const versionInfo = global.QuizStorage.Bridge.getVersion();
     const streakInfo = global.QuizStorage.getStreakAndWeeklyBars();
     const attempts = global.QuizStorage.getAllAttempts();
@@ -26,7 +27,7 @@
           <h1 class="greeting-title">प्रोफ़ाइल और सेटिंग्स</h1>
           <p class="greeting-date">Profile, Language, Theme &amp; Offline Storage</p>
         </div>
-        <span class="board-badge"><span class="board-badge-dot"></span> OFFLINE v1.0</span>
+        <span class="board-badge"><span class="board-badge-dot"></span> OFFLINE v1.1</span>
       </div>
 
       <!-- Student Quick Summary Card -->
@@ -95,6 +96,18 @@
         </div>
       </div>
 
+      <!-- Answer Sound Effects -->
+      <div class="settings-group">
+        <div class="settings-group-title">🔊 उत्तर ध्वनि प्रभाव (Answer Sound Effects)</div>
+        <p style="font-size:0.75rem;color:var(--text-secondary);margin-bottom:10px;">
+          सही उत्तर पर एक मधुर ध्वनि और गलत उत्तर पर हल्की बज़ — बिना किसी इंटरनेट के।
+        </p>
+        <div class="segmented-control" id="sfx-control">
+          <button class="seg-btn ${sfxMuted ? '' : 'active'}" data-sfx="on">🔔 चालू (On)</button>
+          <button class="seg-btn ${sfxMuted ? 'active' : ''}" data-sfx="off">🔇 बंद (Off)</button>
+        </div>
+      </div>
+
       <!-- Data Management (FR-14) -->
       <div class="settings-group">
         <div class="settings-group-title">🗄️ ऑफ़लाइन डेटा प्रबंधन (Local Storage &amp; Backup)</div>
@@ -155,6 +168,19 @@
       btn.addEventListener('click', () => {
         const t = btn.getAttribute('data-theme-val');
         global.QuizStorage.setTheme(t);
+        renderSettingsScreen(container, onSettingsChanged);
+        if (typeof onSettingsChanged === 'function') onSettingsChanged();
+      });
+    });
+
+    container.querySelectorAll('#sfx-control .seg-btn').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const off = btn.getAttribute('data-sfx') === 'off';
+        if (global.QuizSfx) {
+          global.QuizSfx.setMuted(off);
+          if (!off) global.QuizSfx.playCorrect(); // preview + unlocks audio on first tap
+        }
+        global.QuizStorage.Bridge.toast(off ? 'ध्वनि बंद कर दी गई' : 'ध्वनि चालू कर दी गई');
         renderSettingsScreen(container, onSettingsChanged);
         if (typeof onSettingsChanged === 'function') onSettingsChanged();
       });
