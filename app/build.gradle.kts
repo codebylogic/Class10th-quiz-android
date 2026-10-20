@@ -2,7 +2,7 @@ import groovy.json.JsonSlurper
 
 plugins {
     alias(libs.plugins.android.application)
-    alias(libs.plugins.kotlin.android)
+    // AGP 9 ships built-in Kotlin, so the Kotlin Android Gradle plugin must NOT be applied.
 }
 
 android {
@@ -52,10 +52,8 @@ android {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
     }
-
-    kotlinOptions {
-        jvmTarget = "17"
-    }
+    // The Kotlin compiler target block was removed: with AGP 9 built-in Kotlin the
+    // jvmTarget defaults to compileOptions.targetCompatibility (17 above).
 
     androidResources {
         noCompress += listOf("woff2", "ttf", "otf")
