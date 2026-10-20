@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Quiz Portal</string>
+    <string name="app_tagline">डिजिटल लर्निंग प्लेटफॉर्म • Offline Edition</string>
+    <string name="exit_confirm_toast">बाहर निकलने के लिए फिर से बैक दबाएँ (Press back again to exit)</string>
+    <string name="share_chooser_title">स्कोर साझा करें (Share Score)</string>
+</resources>

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="hi" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <meta name="theme-color" content="#0B0D14" />
+  <title>Smart Quiz Portal — डिजिटल लर्निंग प्लेटफॉर्म</title>
+  <link rel="stylesheet" href="./css/theme.css" />
+</head>
+<body>
+  <div id="app-shell" class="app-shell">
+
+    <!-- Top App Bar (Shared across Dashboard, Subject, Quiz & Result views) -->
+    <header id="top-bar" class="top-bar">
+      <div class="top-bar-left">
+        <button id="btn-top-back" class="icon-btn hidden" aria-label="वापस जाएँ">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="m12 19-7-7 7-7"/></svg>
+        </button>
+        <div class="brand-badge" id="brand-home-trigger">
+          <div class="brand-logo-icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
+              <path d="M4 6C4 4.89543 4.89543 4 6 4H18C19.1046 4 20 4.89543 20 6V18C20 19.1046 19.1046 20 18 20H6C4.89543 20 4 19.1046 4 18V6Z" fill="url(#logoGrad)"/>
+              <path d="M12 8.5C10.2 7.3 7.8 7.3 6 8.5V16.5C7.8 15.3 10.2 15.3 12 16.5C13.8 15.3 16.2 15.3 18 16.5V8.5C16.2 7.3 13.8 7.3 12 8.5Z" fill="#FFFFFF"/>
+              <defs>
+                <linearGradient id="logoGrad" x1="4" y1="4" x2="20" y2="20" gradientUnits="userSpaceOnUse">
+                  <stop stop-color="#8B5CF6"/>
+                  <stop offset="1" stop-color="#6366F1"/>
+                </linearGradient>
+              </defs>
+            </svg>
+          </div>
+          <div class="brand-titles">
+            <span id="top-bar-title" class="brand-title">Smart Quiz...</span>
+            <span id="top-bar-subtitle" class="brand-subtitle">डिजिटल लर्निंग प्लेटफॉर्म</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="top-bar-right">
+        <!-- Course / Track Selector Pill (FR-01) -->
+        <button id="btn-course-selector" class="course-pill" aria-label="कोर्स बदलें">
+          <span class="course-dot"></span>
+          <span id="current-course-label">BSEB 10th</span>
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="m6 9 6 6 6-6"/></svg>
+        </button>
+
+        <!-- Theme Toggle Button (FR-14) -->
+        <button id="btn-theme-toggle" class="icon-btn" aria-label="थीम बदलें" title="Dark / Light Theme">
+          <svg id="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
+        </button>
+
+        <!-- Profile / Settings Avatar Button (FR-14, FR-18) -->
+        <button id="btn-profile-nav" class="avatar-btn" aria-label="प्रोफ़ाइल और सेटिंग्स">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.1"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Route View Container -->
+    <main id="route-container" class="route-container" role="main">
+      <!-- Dynamic screens rendered by js/app.js -->
+    </main>
+
+    <!-- Bottom Navigation Bar (Matches Screenshot 1) -->
+    <nav id="bottom-nav" class="bottom-nav" aria-label="मुख्य नेविगेशन">
+      <button class="nav-item active" data-route="#/home">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/></svg>
+        <span data-i18n="nav_home">Home</span>
+      </button>
+      <button class="nav-item" data-route="#/weak-topics">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M9 15h6"/><path d="M9 11h6"/></svg>
+        <span data-i18n="nav_tests">Tests</span>
+      </button>
+      <button class="nav-item" data-route="#/stats">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 20V10"/><path d="M12 20V4"/><path d="M6 20v-6"/></svg>
+        <span data-i18n="nav_rank">Rank</span>
+      </button>
+      <button class="nav-item" data-route="#/bookmarks">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
+        <span data-i18n="nav_vault">Vault</span>
+      </button>
+      <button class="nav-item" data-route="#/settings">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M20 21a8 8 0 1 0-16 0"/></svg>
+        <span data-i18n="nav_profile">Profile</span>
+      </button>
+    </nav>
+
+    <!-- Course / Track Switcher Modal Sheet (FR-01: 7 Tracks) -->
+    <div id="course-modal-backdrop" class="modal-backdrop hidden">
+      <div class="bottom-sheet" role="dialog" aria-modal="true" aria-labelledby="course-sheet-title">
+        <div class="sheet-handle"></div>
+        <div class="sheet-header">
+          <div>
+            <h3 id="course-sheet-title" class="sheet-title">अपना कोर्स / कक्षा चुनें</h3>
+            <p class="sheet-subtitle">Select Board &amp; Class Track (100% Offline)</p>
+          </div>
+          <button id="btn-close-course-modal" class="icon-btn" aria-label="बंद करें">✕</button>
+        </div>
+        <div id="course-list-container" class="course-list-grid"></div>
+      </div>
+    </div>
+
+    <!-- Quiz Intro / Language Preference Sheet (FR-04) -->
+    <div id="quiz-intro-backdrop" class="modal-backdrop hidden">
+      <div class="bottom-sheet quiz-intro-sheet" role="dialog" aria-modal="true">
+        <div class="sheet-handle"></div>
+        <div id="quiz-intro-content"></div>
+      </div>
+    </div>
+
+    <!-- Question Navigator Bottom Sheet (FR-06) -->
+    <div id="navigator-backdrop" class="modal-backdrop hidden">
+      <div class="bottom-sheet navigator-sheet" role="dialog" aria-modal="true">
+        <div class="sheet-handle"></div>
+        <div class="sheet-header">
+          <div>
+            <h3 class="sheet-title">प्रश्न नेविगेटर (Question Grid)</h3>
+            <p id="navigator-summary-text" class="sheet-subtitle">किसी भी प्रश्न पर सीधे जाने के लिए संख्या चुनें</p>
+          </div>
+          <button id="btn-close-navigator" class="icon-btn" aria-label="बंद करें">✕</button>
+        </div>
+        <div class="navigator-legend">
+          <span class="legend-item"><i class="dot dot-correct"></i> सही</span>
+          <span class="legend-item"><i class="dot dot-wrong"></i> गलत</span>
+          <span class="legend-item"><i class="dot dot-skipped"></i> छोड़े गए</span>
+          <span class="legend-item"><i class="dot dot-current"></i> वर्तमान</span>
+          <span class="legend-item"><i class="dot dot-default"></i> शेष</span>
+        </div>
+        <div id="navigator-grid" class="navigator-grid"></div>
+        <div class="navigator-actions">
+          <button id="btn-submit-from-sheet" class="btn-primary-gradient full-width">
+            क्विज़ सबमिट करें और परिणाम देखें →
+          </button>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Core Web Layer Scripts (PRD Section 6.5 & 16.5) -->
+  <script src="./js/lang-detect.js"></script>
+  <script src="./js/storage.js"></script>
+  <script src="./js/translate.js"></script>
+  <script src="./js/catalog.js"></script>
+  <script src="./js/quiz.js"></script>
+  <script src="./js/settings.js"></script>
+  <script src="./js/app.js"></script>
+</body>
+</html>
