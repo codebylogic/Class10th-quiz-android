@@ -13,8 +13,8 @@ android {
         applicationId = "com.smartquiz.portal"
         minSdk = 24
         targetSdk = 35
-        versionCode = 2
-        versionName = "1.1.0"
+        versionCode = 3
+        versionName = "1.2.0"
 
         vectorDrawables {
             useSupportLibrary = true
@@ -56,7 +56,7 @@ android {
     // jvmTarget defaults to compileOptions.targetCompatibility (17 above).
 
     androidResources {
-        noCompress += listOf("woff2", "ttf", "otf")
+        noCompress += listOf("woff2", "ttf", "otf", "m4a")
     }
 }
 

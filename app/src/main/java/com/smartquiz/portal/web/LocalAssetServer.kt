@@ -99,11 +99,13 @@ class LocalAssetServer(
             val assetPath = "web/$cleanPath"
             val inputStream = context.assets.open(assetPath)
             val mimeType = guessMimeType(cleanPath)
+            // Text assets carry a charset; binary assets (fonts, audio) must not.
+            val encoding = if (isTextMime(mimeType)) "UTF-8" else null
             val headers = mapOf(
                 "Access-Control-Allow-Origin" to "https://$ASSET_HOST",
                 "Cache-Control" to "no-cache"
             )
-            WebResourceResponse(mimeType, "UTF-8", 200, "OK", headers, inputStream)
+            WebResourceResponse(mimeType, encoding, 200, "OK", headers, inputStream)
         } catch (_: Exception) {
             null
         }
@@ -120,8 +122,9 @@ class LocalAssetServer(
             try {
                 val bytes = context.assets.open("web/$rawPath").use { it.readBytes() }
                 val mime = guessMimeType(rawPath)
+                val charset = if (isTextMime(mime)) "; charset=utf-8" else ""
                 val header = "HTTP/1.1 200 OK\r\n" +
-                    "Content-Type: $mime; charset=utf-8\r\n" +
+                    "Content-Type: $mime$charset\r\n" +
                     "Content-Length: ${bytes.size}\r\n" +
                     "Access-Control-Allow-Origin: http://127.0.0.1:$boundPort\r\n" +
                     "Connection: close\r\n\r\n"
@@ -137,6 +140,10 @@ class LocalAssetServer(
         }
     }
 
+
+    private fun isTextMime(mime: String): Boolean =
+        mime.startsWith("text/") || mime.contains("javascript") || mime.contains("json")
+
     private fun guessMimeType(path: String): String {
         val lower = path.lowercase()
         return when {
@@ -149,6 +156,11 @@ class LocalAssetServer(
             lower.endsWith(".jpg") || lower.endsWith(".jpeg") -> "image/jpeg"
             lower.endsWith(".woff2") -> "font/woff2"
             lower.endsWith(".ttf") -> "font/ttf"
+            lower.endsWith(".otf") -> "font/otf"
+            lower.endsWith(".m4a") || lower.endsWith(".mp4") -> "audio/mp4"
+            lower.endsWith(".mp3") -> "audio/mpeg"
+            lower.endsWith(".ogg") || lower.endsWith(".oga") -> "audio/ogg"
+            lower.endsWith(".wav") -> "audio/wav"
             else -> "application/octet-stream"
         }
     }

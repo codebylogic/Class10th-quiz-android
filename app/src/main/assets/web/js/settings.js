@@ -27,7 +27,7 @@
           <h1 class="greeting-title">प्रोफ़ाइल और सेटिंग्स</h1>
           <p class="greeting-date">Profile, Language, Theme &amp; Offline Storage</p>
         </div>
-        <span class="board-badge"><span class="board-badge-dot"></span> OFFLINE v1.1</span>
+        <span class="board-badge"><span class="board-badge-dot"></span> OFFLINE v1.2</span>
       </div>
 
       <!-- Student Quick Summary Card -->
