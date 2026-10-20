@@ -161,6 +161,8 @@ class LocalAssetServer(
             lower.endsWith(".mp3") -> "audio/mpeg"
             lower.endsWith(".ogg") || lower.endsWith(".oga") -> "audio/ogg"
             lower.endsWith(".wav") -> "audio/wav"
+            lower.endsWith(".webm") -> "audio/webm"
+            lower.endsWith(".opus") -> "audio/ogg"
             else -> "application/octet-stream"
         }
     }

@@ -140,7 +140,7 @@
         state.selectedCourseId = newId;
         global.QuizStorage.setSelectedCourse(newId);
         courseModalBackdrop.classList.add('hidden');
-        global.QuizStorage.Bridge.vibrate(25);
+        global.QuizSfx.playClick();
         if (window.location.hash === '#/home' || !window.location.hash) {
           renderHomeDashboard();
         } else {
@@ -312,7 +312,7 @@
     routeContainer.querySelectorAll('.subject-card').forEach((card) => {
       card.addEventListener('click', () => {
         const subjId = card.getAttribute('data-subject-id');
-        global.QuizStorage.Bridge.vibrate(20);
+        global.QuizSfx.playClick();
         window.location.hash = `#/subject/${subjId}`;
       });
     });
@@ -527,7 +527,7 @@
     routeContainer.querySelectorAll('.section-tab-btn').forEach((tabBtn) => {
       tabBtn.addEventListener('click', () => {
         const secId = tabBtn.getAttribute('data-sec-id');
-        global.QuizStorage.Bridge.vibrate(20);
+        global.QuizSfx.playClick();
         renderSubjectScreen(subject.id, secId);
       });
     });
@@ -536,7 +536,7 @@
     routeContainer.querySelectorAll('.chapter-card').forEach((card) => {
       card.addEventListener('click', () => {
         const chId = card.getAttribute('data-chapter-id');
-        global.QuizStorage.Bridge.vibrate(25);
+        global.QuizSfx.playClick();
         openChapterOrParts(chId);
       });
     });
@@ -736,7 +736,7 @@
 
       routeContainer.querySelectorAll('.chapter-card').forEach((card) => {
         card.addEventListener('click', () => {
-          global.QuizStorage.Bridge.vibrate(25);
+          global.QuizSfx.playClick();
           openQuizIntroSheet(chapterId, Number(card.getAttribute('data-part-index')) || 0);
         });
       });
@@ -1021,7 +1021,7 @@
           a: item.a
         });
         bmBtn.classList.toggle('active', added);
-        global.QuizStorage.Bridge.vibrate(20);
+        global.QuizSfx.playClick();
         global.QuizStorage.Bridge.toast(added ? 'प्रश्न रिवीजन वॉल्ट में सहेजा गया 🔖' : 'बुकमार्क हटाया गया');
       });
     }
@@ -1105,11 +1105,9 @@
     if (isCorrect) {
       sess.score += 1;
       sess.states[qIdx] = 'correct';
-      global.QuizStorage.Bridge.vibrate(30);
       if (global.QuizSfx) global.QuizSfx.playCorrect();
     } else {
       sess.states[qIdx] = 'wrong';
-      global.QuizStorage.Bridge.vibrate(75);
       if (global.QuizSfx) global.QuizSfx.playWrong();
     }
 
@@ -1381,7 +1379,7 @@
 
     // Retry Quiz (FR-08: reshuffles questions and options and resets state)
     document.getElementById('btn-retry-quiz').addEventListener('click', () => {
-      global.QuizStorage.Bridge.vibrate(25);
+      global.QuizSfx.playClick();
       global.QuizStorage.clearIncompleteQuiz(global.QuizStorage.partSessionKey(attempt.chapterId, attempt.partIndex || 0));
       window.location.hash = attempt.partIndex
         ? `#/quiz/${attempt.chapterId}/${attempt.partIndex}`
@@ -1778,7 +1776,7 @@
     btnThemeToggle.addEventListener('click', () => {
       const next = global.QuizStorage.getTheme() === 'light' ? 'dark' : 'light';
       global.QuizStorage.setTheme(next);
-      global.QuizStorage.Bridge.vibrate(20);
+      global.QuizSfx.playClick();
       global.QuizStorage.Bridge.toast(next === 'light' ? '☀️ लाइट थीम सक्रिय' : '🌙 डार्क थीम सक्रिय');
       if (window.location.hash === '#/settings') {
         handleRouteChange();
@@ -1792,7 +1790,7 @@
     document.querySelectorAll('#bottom-nav .nav-item').forEach((btn) => {
       btn.addEventListener('click', () => {
         const route = btn.getAttribute('data-route');
-        global.QuizStorage.Bridge.vibrate(15);
+        global.QuizSfx.playClick();
         window.location.hash = route;
       });
     });

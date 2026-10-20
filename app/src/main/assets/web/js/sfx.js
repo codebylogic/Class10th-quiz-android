@@ -4,6 +4,7 @@
  * Plays the bundled audio files:
  *   - correct : ./sounds/correct.m4a
  *   - wrong   : ./sounds/wrong.m4a
+ *   - click   : ./sounds/click.webm  (UI tap feedback)
  *
  * Both are preloaded so the first answer is instant, and a synthesised tone
  * is used as a fallback if the audio file cannot be played for any reason.
@@ -13,7 +14,8 @@
   'use strict';
 
   var STORAGE_KEY = 'quiz_sfx_muted';
-  var FILES = { correct: './sounds/correct.m4a', wrong: './sounds/wrong.m4a' };
+  var FILES = { correct: './sounds/correct.m4a', wrong: './sounds/wrong.m4a', click: './sounds/click.webm' };
+  var VOLUME = { correct: 0.9, wrong: 0.9, click: 0.65 };
   var players = {};
   var ctx = null;
 
@@ -31,7 +33,7 @@
     try {
       a = new global.Audio(FILES[name]);
       a.preload = 'auto';
-      a.volume = 0.9;
+      a.volume = typeof VOLUME[name] === 'number' ? VOLUME[name] : 0.9;
     } catch (e) {
       a = null;
     }
@@ -84,6 +86,10 @@
     var ac = audioContext();
     if (!ac) return;
     var t = ac.currentTime;
+    if (name === 'click') {
+      note(ac, 1400, t, 0.045, 'square', 0.08);
+      return;
+    }
     if (name === 'correct') {
       note(ac, 783.99, t, 0.14, 'sine', 0.18);
       note(ac, 1174.66, t + 0.09, 0.22, 'sine', 0.16);
@@ -95,10 +101,12 @@
 
   function playCorrect() { play('correct'); }
   function playWrong() { play('wrong'); }
+  function playClick() { play('click'); }
 
   function preload() {
     player('correct');
     player('wrong');
+    player('click');
   }
 
   // Warm the audio cache as soon as the script loads (local files, instant).
@@ -107,6 +115,7 @@
   global.QuizSfx = {
     playCorrect: playCorrect,
     playWrong: playWrong,
+    playClick: playClick,
     isMuted: isMuted,
     setMuted: setMuted,
     preload: preload

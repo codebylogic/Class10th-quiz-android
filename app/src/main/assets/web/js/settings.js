@@ -28,7 +28,7 @@
           <h1 class="greeting-title">प्रोफ़ाइल और सेटिंग्स</h1>
           <p class="greeting-date">Profile, Language, Theme &amp; Offline Storage</p>
         </div>
-        <span class="board-badge"><span class="board-badge-dot"></span> OFFLINE v1.3</span>
+        <span class="board-badge"><span class="board-badge-dot"></span> OFFLINE v1.4</span>
       </div>
 
       <!-- Student Quick Summary Card -->
@@ -163,6 +163,7 @@
     container.querySelectorAll('#profile-lang-control .seg-btn').forEach((btn) => {
       btn.addEventListener('click', () => {
         const lang = btn.getAttribute('data-lang');
+        if (global.QuizSfx) global.QuizSfx.playClick();
         global.QuizStorage.setProfileLanguage(lang);
         global.QuizStorage.Bridge.toast(lang === 'en' ? 'Profile language set to English' : 'प्रोफ़ाइल भाषा हिंदी चुनी गई');
         renderSettingsScreen(container, onSettingsChanged);
@@ -173,6 +174,7 @@
     container.querySelectorAll('#quiz-pref-control .lang-pill-btn').forEach((btn) => {
       btn.addEventListener('click', () => {
         const pref = btn.getAttribute('data-pref');
+        if (global.QuizSfx) global.QuizSfx.playClick();
         global.QuizStorage.setQuizLanguagePref(pref);
         global.QuizStorage.Bridge.toast('द्विभाषी प्रश्न प्राथमिकता अपडेट की गई');
         renderSettingsScreen(container, onSettingsChanged);
@@ -183,6 +185,7 @@
     container.querySelectorAll('#parts-control .seg-btn').forEach((btn) => {
       btn.addEventListener('click', () => {
         const n = parseInt(btn.getAttribute('data-part'), 10) || 0;
+        if (global.QuizSfx) global.QuizSfx.playClick();
         global.QuizStorage.setQuestionsPerPart(n);
         global.QuizStorage.Bridge.toast(n > 0 ? `हर टेस्ट में ${n} प्रश्न` : 'पूरा अध्याय एक साथ');
         renderSettingsScreen(container, onSettingsChanged);
@@ -193,6 +196,7 @@
     container.querySelectorAll('#theme-control .seg-btn').forEach((btn) => {
       btn.addEventListener('click', () => {
         const t = btn.getAttribute('data-theme-val');
+        if (global.QuizSfx) global.QuizSfx.playClick();
         global.QuizStorage.setTheme(t);
         renderSettingsScreen(container, onSettingsChanged);
         if (typeof onSettingsChanged === 'function') onSettingsChanged();
