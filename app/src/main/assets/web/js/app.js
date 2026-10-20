@@ -414,6 +414,8 @@
       `
       : '';
 
+    const partSizeSetting = global.QuizStorage.getQuestionsPerPart();
+
     const chaptersHtml = chaptersToShow.map((ch, idx) => {
       const numStr = String(idx + 1).padStart(2, '0');
       const p = global.QuizStorage.getChapterProgress(ch.id);
@@ -442,6 +444,13 @@
         `;
       }
 
+      let partsBadgeHtml = '';
+      const chParts = global.QuizEngine.computeParts(ch.questions || 20, partSizeSetting);
+      if (chParts.length > 1) {
+        const doneParts = global.QuizStorage.getCompletedPartsCount(ch.id);
+        partsBadgeHtml = `<span class="status-pill ${doneParts >= chParts.length ? 'completed' : 'in-progress'}">📚 ${doneParts}/${chParts.length} भाग पूर्ण</span>`;
+      }
+
       return `
         <div class="chapter-card" data-chapter-id="${ch.id}">
           <div class="chapter-card-left">
@@ -451,6 +460,7 @@
               <div class="chapter-title-en">${ch.titleEn || ch.subtitle || ''}</div>
               <div class="chapter-meta-row">
                 ${statusBadgeHtml}
+                ${partsBadgeHtml}
               </div>
             </div>
           </div>
@@ -527,7 +537,7 @@
       card.addEventListener('click', () => {
         const chId = card.getAttribute('data-chapter-id');
         global.QuizStorage.Bridge.vibrate(25);
-        openQuizIntroSheet(chId);
+        openChapterOrParts(chId);
       });
     });
 
@@ -535,7 +545,7 @@
     if (megaBtn) {
       megaBtn.addEventListener('click', () => {
         const megaId = megaBtn.getAttribute('data-mega-id');
-        openQuizIntroSheet(megaId);
+        openChapterOrParts(megaId);
       });
     }
   }
@@ -543,15 +553,24 @@
   // ==========================================================================
   // Quiz Intro & Language Preference Bottom Sheet (FR-04)
   // ==========================================================================
-  async function openQuizIntroSheet(chapterId) {
+  async function openQuizIntroSheet(chapterId, partIndex) {
     try {
       const chapterData = await global.QuizCatalog.loadChapterData(chapterId);
-      const qCount = chapterData.questions.length;
+      const allParts = global.QuizEngine.computeParts(chapterData.questions.length, global.QuizStorage.getQuestionsPerPart());
+      const part = allParts.find((x) => x.index === (parseInt(partIndex, 10) || 0)) || allParts[0];
+      const qCount = part.count;
       const infoStrip = global.QuizEngine.computeQuizInfoStrip(qCount);
       const isBilingual = global.QuizCatalog.isBilingualChapter(chapterData.questions);
       const currentPref = global.QuizStorage.getQuizLanguagePref();
-      const incomplete = global.QuizStorage.getIncompleteQuiz(chapterId);
+      const sessionKey = global.QuizStorage.partSessionKey(chapterId, part.index);
+      const incomplete = global.QuizStorage.getIncompleteQuiz(sessionKey);
       const chProg = global.QuizStorage.getChapterProgress(chapterId);
+      const partHash = part.index
+        ? `#/quiz/${encodeURIComponent(chapterId)}/${part.index}`
+        : `#/quiz/${encodeURIComponent(chapterId)}`;
+      const partBadgeHtml = part.index
+        ? `<span class="status-pill in-progress" style="margin-top:8px;">🧩 भाग ${part.index} / ${part.total} • प्रश्न ${part.start + 1}–${part.end}</span>`
+        : '';
 
       quizIntroContent.innerHTML = `
         <div class="sheet-header">
@@ -559,6 +578,7 @@
             <span class="board-badge" style="margin-bottom:6px;">${chapterData.title}</span>
             <h3 class="sheet-title" style="font-size:1.15rem;">${chapterData.subtitle}</h3>
             <p class="sheet-subtitle" style="margin-top:4px;">${chapterData.description}</p>
+            ${partBadgeHtml}
           </div>
           <button id="btn-close-quiz-intro" class="icon-btn">✕</button>
         </div>
@@ -633,8 +653,8 @@
       if (startFreshBtn) {
         startFreshBtn.addEventListener('click', () => {
           quizIntroBackdrop.classList.add('hidden');
-          global.QuizStorage.clearIncompleteQuiz(chapterId);
-          window.location.hash = `#/quiz/${chapterId}`;
+          global.QuizStorage.clearIncompleteQuiz(sessionKey);
+          window.location.hash = partHash;
         });
       }
 
@@ -642,7 +662,7 @@
       if (resumeBtn) {
         resumeBtn.addEventListener('click', () => {
           quizIntroBackdrop.classList.add('hidden');
-          window.location.hash = `#/quiz/${chapterId}`;
+          window.location.hash = partHash;
         });
       }
 
@@ -653,27 +673,118 @@
   }
 
   // ==========================================================================
+  // Chapter -> Parts chooser (only when a "questions per test" size is set)
+  // ==========================================================================
+  function openChapterOrParts(chapterId) {
+    const meta = global.QuizCatalog.findChapterMeta(chapterId);
+    const total = (meta && meta.chapter && meta.chapter.questions) || 0;
+    const parts = global.QuizEngine.computeParts(total, global.QuizStorage.getQuestionsPerPart());
+    if (parts.length > 1) {
+      window.location.hash = `#/parts/${encodeURIComponent(chapterId)}`;
+    } else {
+      openQuizIntroSheet(chapterId, 0);
+    }
+  }
+
+  async function renderPartsScreen(chapterId) {
+    updateHeaderUI('sub', 'अध्याय भाग', 'भागवार अभ्यास');
+    updateBottomNavActive('');
+    try {
+      const chapterData = await global.QuizCatalog.loadChapterData(chapterId);
+      const total = chapterData.questions.length;
+      const partSize = global.QuizStorage.getQuestionsPerPart();
+      const parts = global.QuizEngine.computeParts(total, partSize);
+      const bestScores = global.QuizStorage.getBestPartScores(chapterId);
+
+      const rows = parts.map((part) => {
+        const best = bestScores[part.index];
+        const done = typeof best === 'number';
+        const statusHtml = done
+          ? `<span class="status-pill completed">✓ पूरा — ${best}% स्कोर</span><span class="chapter-mcq-count">${part.count} MCQs</span>`
+          : `<span class="status-pill not-started">अभी शुरू नहीं किया (${part.count} MCQs)</span>`;
+        return `
+          <div class="chapter-card" data-part-index="${part.index}">
+            <div class="chapter-card-left">
+              <div class="chapter-num-box${done ? ' completed' : ''}">${String(part.index).padStart(2, '0')}</div>
+              <div class="chapter-info">
+                <div class="chapter-title-hi">भाग ${part.index}</div>
+                <div class="chapter-title-en">प्रश्न ${part.start + 1}–${part.end}</div>
+                <div class="chapter-meta-row">${statusHtml}</div>
+              </div>
+            </div>
+            <button class="chapter-play-btn${done ? ' replay' : ''}" aria-label="भाग खोलें">${done ? '↻' : '▶'}</button>
+          </div>
+        `;
+      }).join('');
+
+      routeContainer.innerHTML = `
+        <div class="subject-hero-header">
+          <div>
+            <h1 class="subject-hero-title">${chapterData.subtitle || chapterData.title}</h1>
+            <p class="subject-hero-sub">${chapterData.title} • कुल ${total} प्रश्न</p>
+          </div>
+          <span class="chapter-count-pill">● ${parts.length} भाग</span>
+        </div>
+        <div class="syllabus-bar-label">
+          <span>भाग सूची • PARTS</span>
+          <span>${partSize} प्रश्न / भाग</span>
+        </div>
+        <div class="chapter-list">
+          ${rows}
+        </div>
+      `;
+
+      routeContainer.querySelectorAll('.chapter-card').forEach((card) => {
+        card.addEventListener('click', () => {
+          global.QuizStorage.Bridge.vibrate(25);
+          openQuizIntroSheet(chapterId, Number(card.getAttribute('data-part-index')) || 0);
+        });
+      });
+    } catch (err) {
+      routeContainer.innerHTML = `
+        <div class="streak-card" style="text-align:center;padding:28px 18px;margin-top:24px;">
+          <div style="font-size:2.4rem;margin-bottom:10px;">⚠️</div>
+          <h2 style="font-size:1.15rem;margin-bottom:6px;">अध्याय लोड करने में समस्या आई</h2>
+          <p style="font-size:0.82rem;color:var(--text-secondary);margin-bottom:18px;">${err.message || 'फ़ाइल उपलब्ध नहीं है।'}</p>
+          <button class="btn-primary-gradient" onclick="window.location.hash='#/home'">← होम स्क्रीन पर वापस जाएँ</button>
+        </div>
+      `;
+    }
+  }
+
+  // ==========================================================================
   // Screen 3: Active Quiz Engine (#/quiz/:chapterId) — Matches unnamed (2).png
   // ==========================================================================
-  async function startOrResumeQuizScreen(chapterId, customSessionData) {
+  async function startOrResumeQuizScreen(chapterId, partIndex, customSessionData) {
     stopQuizTimer();
     updateHeaderUI('quiz', 'Live Exam Ro...');
 
     try {
       let session = null;
+      const pIdx = parseInt(partIndex, 10) || 0;
+      const sessionKey = global.QuizStorage.partSessionKey(chapterId, pIdx);
 
       if (customSessionData) {
         session = customSessionData;
       } else {
-        const savedSession = global.QuizStorage.getIncompleteQuiz(chapterId);
+        const savedSession = global.QuizStorage.getIncompleteQuiz(sessionKey);
         const chapterData = await global.QuizCatalog.loadChapterData(chapterId);
 
         if (savedSession && Array.isArray(savedSession.questions) && savedSession.questions.length > 0) {
           session = savedSession;
         } else {
-          const shuffled = global.QuizEngine.shuffleQuestionsAndOptions(chapterData.questions);
+          const allParts = global.QuizEngine.computeParts(chapterData.questions.length, global.QuizStorage.getQuestionsPerPart());
+          const part = allParts.find((x) => x.index === pIdx) || allParts[0];
+          const partQuestions = chapterData.questions.slice(part.start, part.end);
+          const shuffled = global.QuizEngine.shuffleQuestionsAndOptions(partQuestions);
           session = {
             chapterId,
+            sessionKey,
+            partIndex: part.index,
+            partTotal: part.total,
+            partStart: part.start,
+            partEnd: part.end,
+            title: chapterData.title,
             title: chapterData.title,
             subtitle: chapterData.subtitle,
             description: chapterData.description,
@@ -688,7 +799,7 @@
             elapsedSeconds: 0,
             languagePref: global.QuizStorage.getQuizLanguagePref()
           };
-          global.QuizStorage.saveIncompleteQuiz(chapterId, session);
+          global.QuizStorage.saveIncompleteQuiz(sessionKey, session);
         }
       }
 
@@ -1077,6 +1188,11 @@
     const attempt = {
       id: 'att_' + Date.now(),
       chapterId: sess.chapterId,
+      partIndex: sess.partIndex || 0,
+      partTotal: sess.partTotal || 1,
+      partStart: sess.partStart || 0,
+      partEnd: sess.partEnd || 0,
+      partLabel: sess.partIndex ? `भाग ${sess.partIndex}/${sess.partTotal}` : '',
       title: sess.title,
       subtitle: sess.subtitle,
       subjectName: sess.subjectName,
@@ -1266,8 +1382,10 @@
     // Retry Quiz (FR-08: reshuffles questions and options and resets state)
     document.getElementById('btn-retry-quiz').addEventListener('click', () => {
       global.QuizStorage.Bridge.vibrate(25);
-      global.QuizStorage.clearIncompleteQuiz(attempt.chapterId);
-      window.location.hash = `#/quiz/${attempt.chapterId}`;
+      global.QuizStorage.clearIncompleteQuiz(global.QuizStorage.partSessionKey(attempt.chapterId, attempt.partIndex || 0));
+      window.location.hash = attempt.partIndex
+        ? `#/quiz/${attempt.chapterId}/${attempt.partIndex}`
+        : `#/quiz/${attempt.chapterId}`;
     });
 
     // Review Solutions inline
@@ -1381,7 +1499,7 @@
         o: w.o,
         a: w.a
       })));
-      startOrResumeQuizScreen('weak-practice', {
+      startOrResumeQuizScreen('weak-practice', 0, {
         isCustomPractice: true,
         chapterId: 'weak-practice',
         title: 'विशेष सुधार अभ्यास (Weak Topics)',
@@ -1462,7 +1580,7 @@
         o: b.o,
         a: b.a
       })));
-      startOrResumeQuizScreen('bookmark-practice', {
+      startOrResumeQuizScreen('bookmark-practice', 0, {
         isCustomPractice: true,
         chapterId: 'bookmark-practice',
         title: 'बुकमार्क रिवीजन टेस्ट',
@@ -1565,9 +1683,16 @@
       renderSubjectScreen(decodeURIComponent(parts[0] || ''), decodeURIComponent(parts[1] || ''));
       return;
     }
+    if (hash.startsWith('#/parts/')) {
+      const chapterId = decodeURIComponent(hash.replace('#/parts/', ''));
+      renderPartsScreen(chapterId);
+      return;
+    }
     if (hash.startsWith('#/quiz/')) {
-      const chapterId = decodeURIComponent(hash.replace('#/quiz/', ''));
-      startOrResumeQuizScreen(chapterId);
+      const rest = hash.replace('#/quiz/', '').split('/');
+      const chapterId = decodeURIComponent(rest[0] || '');
+      const partIndex = parseInt(rest[1], 10) || 0;
+      startOrResumeQuizScreen(chapterId, partIndex);
       return;
     }
     if (hash.startsWith('#/result/')) {
@@ -1617,7 +1742,7 @@
     }
     const hash = window.location.hash || '#/home';
     if (hash !== '#/home' && hash !== '#') {
-      if (hash.startsWith('#/quiz/') && state.activeSubjectId) {
+      if ((hash.startsWith('#/quiz/') || hash.startsWith('#/parts/')) && state.activeSubjectId) {
         window.location.hash = `#/subject/${state.activeSubjectId}`;
       } else {
         window.location.hash = '#/home';

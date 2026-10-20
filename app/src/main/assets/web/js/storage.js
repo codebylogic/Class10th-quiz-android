@@ -23,7 +23,8 @@
     DAILY_ACTIVITY: 'quiz_daily_activity_v1',
     QUESTION_STATS: 'quiz_question_stats_v1',
     BOOKMARKS: 'quiz_bookmarks_v1',
-    INCOMPLETE_QUIZZES: 'quiz_incomplete_v1'
+    INCOMPLETE_QUIZZES: 'quiz_incomplete_v1',
+    QUESTIONS_PER_PART: 'quiz_questions_per_part'
   };
 
   const DB_NAME = 'SmartQuizPortalDB';
@@ -185,6 +186,49 @@
   }
 
   // Preferences
+
+  // ------------------------------------------------------------------
+  // Parts feature: how many questions the student wants in one test
+  // 0 = Default (no split — the whole chapter in one go)
+  // ------------------------------------------------------------------
+  function getQuestionsPerPart() {
+    const raw = parseInt(localStorage.getItem(KEYS.QUESTIONS_PER_PART), 10);
+    return Number.isFinite(raw) && raw > 0 ? raw : 0;
+  }
+
+  function setQuestionsPerPart(n) {
+    const num = parseInt(n, 10);
+    localStorage.setItem(KEYS.QUESTIONS_PER_PART, String(Number.isFinite(num) && num > 0 ? num : 0));
+  }
+
+  // Incomplete quizzes are stored per part so each part resumes independently.
+  // partIndex 0 (or missing) keeps the plain chapterId, so old data still works.
+  function partSessionKey(chapterId, partIndex) {
+    const p = Number(partIndex) || 0;
+    return p > 0 ? `${chapterId}#p${p}` : String(chapterId);
+  }
+
+  // How many distinct parts of this chapter have been completed.
+  function getCompletedPartsCount(chapterId) {
+    const attempts = safeGetJSON(KEYS.ATTEMPTS, []);
+    const seen = {};
+    attempts.forEach((a) => {
+      if (a && a.chapterId === chapterId && a.partIndex) seen[a.partIndex] = true;
+    });
+    return Object.keys(seen).length;
+  }
+
+  function getBestPartScores(chapterId) {
+    const attempts = safeGetJSON(KEYS.ATTEMPTS, []);
+    const best = {};
+    attempts.forEach((a) => {
+      if (a && a.chapterId === chapterId && a.partIndex) {
+        best[a.partIndex] = Math.max(best[a.partIndex] || 0, a.percentage || 0);
+      }
+    });
+    return best;
+  }
+
   function getTheme() {
     return localStorage.getItem(KEYS.THEME) || 'dark';
   }
@@ -324,15 +368,16 @@
   }
 
   // Mid-Quiz Incomplete Session Save / Resume (FR-12)
-  function saveIncompleteQuiz(chapterId, sessionState) {
+  function saveIncompleteQuiz(sessionKey, sessionState) {
     const all = safeGetJSON(KEYS.INCOMPLETE_QUIZZES, {});
-    all[chapterId] = {
+    all[sessionKey] = {
       ...sessionState,
       updatedAt: Date.now()
     };
     safeSetJSON(KEYS.INCOMPLETE_QUIZZES, all);
 
-    // Also mark chapter progress status as in-progress if not completed yet
+    // Chapter progress is always tracked at chapter level (never per part)
+    const chapterId = sessionState.chapterId || sessionKey;
     const prog = safeGetJSON(KEYS.CHAPTER_PROGRESS, {});
     const curr = prog[chapterId] || { status: 'not_started', bestScorePct: 0, lastScorePct: 0, attemptsCount: 0 };
     const answeredCount = (sessionState.states || []).filter((s) => s === 'correct' || s === 'wrong').length;
@@ -346,9 +391,9 @@
     safeSetJSON(KEYS.CHAPTER_PROGRESS, prog);
   }
 
-  function getIncompleteQuiz(chapterId) {
+  function getIncompleteQuiz(sessionKey) {
     const all = safeGetJSON(KEYS.INCOMPLETE_QUIZZES, {});
-    return all[chapterId] || null;
+    return all[sessionKey] || null;
   }
 
   function getLatestIncompleteQuiz() {
@@ -357,9 +402,9 @@
     return list[0] || null;
   }
 
-  function clearIncompleteQuiz(chapterId) {
+  function clearIncompleteQuiz(sessionKey) {
     const all = safeGetJSON(KEYS.INCOMPLETE_QUIZZES, {});
-    delete all[chapterId];
+    delete all[sessionKey];
     safeSetJSON(KEYS.INCOMPLETE_QUIZZES, all);
   }
 
@@ -521,6 +566,11 @@
     setProfileLanguage,
     getQuizLanguagePref,
     setQuizLanguagePref,
+    getQuestionsPerPart,
+    setQuestionsPerPart,
+    partSessionKey,
+    getCompletedPartsCount,
+    getBestPartScores,
     getSelectedCourse,
     setSelectedCourse,
     recordDailyQuestionAnswered,

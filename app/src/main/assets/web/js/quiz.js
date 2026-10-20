@@ -114,8 +114,50 @@
     return OPTION_LETTERS[index] || String.fromCharCode(65 + index);
   }
 
+  /**
+   * Parts feature: split a chapter's questions into fixed parts.
+   * - partSize 0 (Default) or a chapter that already fits -> a single part (no split).
+   * - Otherwise parts of exactly `partSize`, in the chapter's ORIGINAL order,
+   *   with the remainder as the last part (e.g. 100 @ 40 -> 40, 40, 20).
+   * - A trailing part smaller than half the part size is merged into the previous
+   *   one (e.g. 100 @ 30 -> 30, 30, 40), unless that would leave only one part.
+   */
+  function computeParts(totalQuestions, partSize) {
+    const total = Number(totalQuestions) || 0;
+    const size = Number(partSize) || 0;
+    const single = [{ index: 0, start: 0, end: total, count: total, total: 1, isSingle: true }];
+    if (total <= 0 || size <= 0 || total <= size) return single;
+
+    const parts = [];
+    let start = 0;
+    while (start < total) {
+      const end = Math.min(start + size, total);
+      parts.push({ start: start, end: end, count: end - start });
+      start = end;
+    }
+
+    if (parts.length >= 3) {
+      const last = parts[parts.length - 1];
+      if (last.count < size / 2) {
+        const prev = parts[parts.length - 2];
+        prev.end = last.end;
+        prev.count = prev.end - prev.start;
+        parts.pop();
+      }
+    }
+    if (parts.length <= 1) return single;
+
+    for (let i = 0; i < parts.length; i++) {
+      parts[i].index = i + 1;
+      parts[i].total = parts.length;
+      parts[i].isSingle = false;
+    }
+    return parts;
+  }
+
   global.QuizEngine = {
     shuffleQuestionsAndOptions,
+    computeParts,
     computeQuizInfoStrip,
     evaluateResultBand,
     getOptionLetter

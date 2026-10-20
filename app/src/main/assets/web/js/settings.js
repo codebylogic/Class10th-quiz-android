@@ -15,6 +15,7 @@
     const currentProfileLang = global.QuizStorage.getProfileLanguage();
     const currentQuizPref = global.QuizStorage.getQuizLanguagePref();
     const sfxMuted = global.QuizSfx ? global.QuizSfx.isMuted() : false;
+    const questionsPerPart = global.QuizStorage.getQuestionsPerPart();
     const versionInfo = global.QuizStorage.Bridge.getVersion();
     const streakInfo = global.QuizStorage.getStreakAndWeeklyBars();
     const attempts = global.QuizStorage.getAllAttempts();
@@ -27,7 +28,7 @@
           <h1 class="greeting-title">प्रोफ़ाइल और सेटिंग्स</h1>
           <p class="greeting-date">Profile, Language, Theme &amp; Offline Storage</p>
         </div>
-        <span class="board-badge"><span class="board-badge-dot"></span> OFFLINE v1.2</span>
+        <span class="board-badge"><span class="board-badge-dot"></span> OFFLINE v1.3</span>
       </div>
 
       <!-- Student Quick Summary Card -->
@@ -83,6 +84,21 @@
           <button class="lang-pill-btn ${currentQuizPref === 'en-pri' ? 'active' : ''}" data-pref="en-pri">English Primary (Eng + हिं)</button>
           <button class="lang-pill-btn ${currentQuizPref === 'only-hi' ? 'active' : ''}" data-pref="only-hi">केवल हिंदी (Hindi Only)</button>
           <button class="lang-pill-btn ${currentQuizPref === 'only-en' ? 'active' : ''}" data-pref="only-en">Only English</button>
+        </div>
+      </div>
+
+      <!-- Questions per Test (Parts) -->
+      <div class="settings-group">
+        <div class="settings-group-title">🧩 एक टेस्ट में कितने प्रश्न (Questions per Test)</div>
+        <p style="font-size:0.75rem;color:var(--text-secondary);margin-bottom:10px;">
+          लंबे अध्याय छोटे-छोटे भागों में बँट जाते हैं। जैसे 100 प्रश्न और 40 चुना → भाग 1 (प्रश्न 1–40), भाग 2 (41–80), भाग 3 (81–100)। "डिफ़ॉल्ट" पर पूरा अध्याय एक साथ आता है।
+        </p>
+        <div class="segmented-control" id="parts-control">
+          <button class="seg-btn ${questionsPerPart === 0 ? 'active' : ''}" data-part="0">डिफ़ॉल्ट</button>
+          <button class="seg-btn ${questionsPerPart === 20 ? 'active' : ''}" data-part="20">20</button>
+          <button class="seg-btn ${questionsPerPart === 30 ? 'active' : ''}" data-part="30">30</button>
+          <button class="seg-btn ${questionsPerPart === 40 ? 'active' : ''}" data-part="40">40</button>
+          <button class="seg-btn ${questionsPerPart === 50 ? 'active' : ''}" data-part="50">50</button>
         </div>
       </div>
 
@@ -159,6 +175,16 @@
         const pref = btn.getAttribute('data-pref');
         global.QuizStorage.setQuizLanguagePref(pref);
         global.QuizStorage.Bridge.toast('द्विभाषी प्रश्न प्राथमिकता अपडेट की गई');
+        renderSettingsScreen(container, onSettingsChanged);
+        if (typeof onSettingsChanged === 'function') onSettingsChanged();
+      });
+    });
+
+    container.querySelectorAll('#parts-control .seg-btn').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const n = parseInt(btn.getAttribute('data-part'), 10) || 0;
+        global.QuizStorage.setQuestionsPerPart(n);
+        global.QuizStorage.Bridge.toast(n > 0 ? `हर टेस्ट में ${n} प्रश्न` : 'पूरा अध्याय एक साथ');
         renderSettingsScreen(container, onSettingsChanged);
         if (typeof onSettingsChanged === 'function') onSettingsChanged();
       });
