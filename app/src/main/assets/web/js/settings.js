@@ -28,7 +28,7 @@
           <h1 class="greeting-title">प्रोफ़ाइल और सेटिंग्स</h1>
           <p class="greeting-date">Profile, Language, Theme &amp; Offline Storage</p>
         </div>
-        <span class="board-badge"><span class="board-badge-dot"></span> OFFLINE v1.4</span>
+        <span class="board-badge"><span class="board-badge-dot"></span> OFFLINE v1.5</span>
       </div>
 
       <!-- Student Quick Summary Card -->
@@ -157,6 +157,20 @@
           </div>
         </div>
       </div>
+
+      <!-- App Update -->
+      <div class="settings-group">
+        <div class="settings-group-title">⬆️ ऐप अपडेट (App Update)</div>
+        <div style="font-size:0.78rem;color:var(--text-secondary);display:flex;flex-direction:column;gap:8px;">
+          <div style="display:flex;justify-content:space-between;">
+            <span>इंस्टॉल किया गया संस्करण (Installed):</span>
+            <strong style="color:var(--text-primary);" id="update-current">v${versionInfo.appVersion}</strong>
+          </div>
+          <div id="update-msg">जाँच हो रही है…</div>
+        </div>
+        <button id="btn-check-update" class="btn-secondary-full" style="margin-top:10px;margin-bottom:0;">🔄 अपडेट जाँचें (Check for update)</button>
+        <button id="btn-do-update" class="btn-primary-gradient full-width hidden" style="margin-top:8px;">⬇️ अमी अपडेट करें</button>
+      </div>
     `;
 
     // Event bindings
@@ -215,6 +229,58 @@
         if (typeof onSettingsChanged === 'function') onSettingsChanged();
       });
     });
+
+    // ---- App update check (best-effort; never blocks the app) ----
+    const updateMsg = container.querySelector('#update-msg');
+    const doUpdateBtn = container.querySelector('#btn-do-update');
+    const checkUpdateBtn = container.querySelector('#btn-check-update');
+
+    function paintUpdate(info) {
+      if (!updateMsg) return;
+      if (!info) { updateMsg.textContent = '\u091c\u093e\u0901\u091a \u0928\u0939\u0940\u0902 \u0939\u094b \u0938\u0915\u0940\u0964'; return; }
+      if (info.error) {
+        updateMsg.textContent = '\u0907\u0902\u091f\u0930\u0928\u0947\u091f \u0909\u092a\u0932\u092c\u094d\u0927 \u0928\u0939\u0940\u0902 \u2014 \u091c\u093e\u0901\u091a \u0928\u0939\u0940\u0902 \u0939\u094b \u0938\u0915\u0940\u0964';
+        if (doUpdateBtn) doUpdateBtn.classList.add('hidden');
+        return;
+      }
+      if (info.available) {
+        updateMsg.innerHTML = '\u0928\u092f\u093e \u0938\u0902\u0938\u094d\u0915\u0930\u0923 \u0909\u092a\u0932\u092c\u094d\u0927 \u0939\u0948: <strong style="color:var(--accent-emerald-bright);">' + info.latest + '</strong>';
+        if (doUpdateBtn) {
+          doUpdateBtn.classList.remove('hidden');
+          doUpdateBtn.textContent = '\u2b07\ufe0f ' + info.latest + ' \u0921\u093e\u0909\u0928\u0932\u094b\u0921 \u0915\u0930\u0947\u0902';
+        }
+      } else {
+        updateMsg.textContent = '\u0906\u092a \u0928\u0935\u0940\u0928\u0924\u092e \u0938\u0902\u0938\u094d\u0915\u0930\u0923 \u092a\u0930 \u0939\u0948\u0902 (' + (info.latest || info.current) + ')\u0964';
+        if (doUpdateBtn) doUpdateBtn.classList.add('hidden');
+      }
+    }
+
+    if (global.QuizUpdater) {
+      const cachedInfo = global.QuizUpdater.getCached();
+      if (cachedInfo) paintUpdate(cachedInfo);
+      global.QuizUpdater.check(false).then(paintUpdate).catch(() => {});
+    }
+
+    if (checkUpdateBtn) {
+      checkUpdateBtn.addEventListener('click', async () => {
+        if (global.QuizSfx) global.QuizSfx.playClick();
+        if (updateMsg) updateMsg.textContent = '\u091c\u093e\u0901\u091a \u0939\u094b \u0930\u0939\u0940 \u0939\u0948\u2026';
+        const info = await global.QuizUpdater.check(true);
+        paintUpdate(info);
+        global.QuizStorage.Bridge.toast(info && info.available ? 'नया अपडेट उपलब्ध है' : 'आप नवीनतम संस्करण पर हैं');
+      });
+    }
+
+    if (doUpdateBtn) {
+      doUpdateBtn.addEventListener('click', () => {
+        if (global.QuizSfx) global.QuizSfx.playClick();
+        const info = global.QuizUpdater.getCached();
+        const url = (info && info.downloadUrl) || '';
+        if (!url) { global.QuizStorage.Bridge.toast('डाउनलोड लिंक नहीं मिला'); return; }
+        global.QuizUpdater.openDownload(url);
+        global.QuizStorage.Bridge.toast('ब्राउज़र में डाउनलोड खुल रहा है…');
+      });
+    }
 
     const clearBtn = container.querySelector('#btn-clear-all-data');
     if (clearBtn) {

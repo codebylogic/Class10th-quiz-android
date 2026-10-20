@@ -223,6 +223,19 @@
       `;
     }).join('');
 
+    const updateInfo = global.QuizUpdater ? global.QuizUpdater.getCached() : null;
+    const updateBannerHtml = (updateInfo && updateInfo.available) ? `
+      <div class="streak-card" onclick="window.location.hash='#/settings'" style="border:1px solid rgba(16,185,129,0.38);background:rgba(16,185,129,0.10);margin-bottom:12px;cursor:pointer;">
+        <div style="display:flex;align-items:center;gap:12px;">
+          <div style="font-size:1.7rem;">⬆️</div>
+          <div style="flex:1;">
+            <div style="font-size:0.96rem;font-weight:700;">नया अपडेट उपलब्ध — ${updateInfo.latest}</div>
+            <div style="font-size:0.74rem;color:var(--text-secondary);">आपके पास ${updateInfo.current} है। डाउनलोड करने के लिए यहाँ टैप करें।</div>
+          </div>
+        </div>
+      </div>
+    ` : '';
+
     routeContainer.innerHTML = `
       <!-- Greeting Row -->
       <div class="greeting-row">
@@ -235,6 +248,8 @@
           ${course ? (course.badge || 'BOARD 2026') : 'BOARD 2026'}
         </span>
       </div>
+
+      ${updateBannerHtml}
 
       <!-- Streak & Weekly Activity Card (FR-11) -->
       <div class="streak-card">
@@ -1800,6 +1815,17 @@
 
     window.addEventListener('hashchange', handleRouteChange);
     handleRouteChange();
+
+    // Best-effort update check — never blocks or breaks the app when offline
+    if (global.QuizUpdater) {
+      global.QuizUpdater.check(false).then((info) => {
+        if (info && info.available) {
+          global.QuizStorage.Bridge.toast(`नया अपडेट उपलब्ध: ${info.latest} — Settings → ऐप अपडेट`);
+          const h = window.location.hash;
+          if (h === '#/home' || h === '' || h === '#') renderHomeDashboard();
+        }
+      }).catch(() => {});
+    }
   }
 
   global.SmartQuizApp = {

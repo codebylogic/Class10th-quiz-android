@@ -105,6 +105,12 @@
         navigator.clipboard.writeText(String(text)).then(() => showWebToast('स्कोर क्लिपबोर्ड पर कॉपी हो गया!'));
       }
     },
+    openExternal(url) {
+      if (this.isAvailable() && typeof global.AndroidBridge.openExternal === 'function') {
+        try { global.AndroidBridge.openExternal(String(url)); return true; } catch (_) {}
+      }
+      return false;
+    },
     getVersion() {
       if (this.isAvailable() && typeof global.AndroidBridge.getVersion === 'function') {
         try {

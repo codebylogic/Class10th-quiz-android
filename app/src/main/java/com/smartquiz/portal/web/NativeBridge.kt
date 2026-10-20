@@ -29,6 +29,7 @@ import org.json.JSONObject
  * - saveProgress(json) / loadProgress()
  * - savePrefs(json) / getPrefs()
  * - exit()
+ * - openExternal(url)
  *
  * Security rules enforced:
  * 1. Verified local origin check before executing sensitive bridge actions.
@@ -188,6 +189,33 @@ class NativeBridge(
     fun clearNativeData() {
         scope.launch(Dispatchers.IO) {
             appPrefs.clearAll()
+        }
+    }
+
+    /**
+     * Opens an http/https URL in the device browser (used by the in-app update button).
+     * Only http/https is accepted; the app's own WebView never leaves the local origin.
+     */
+    @JavascriptInterface
+    fun openExternal(url: String?) {
+        if (url.isNullOrBlank() || url.length > 2048) return
+        val uri = try {
+            android.net.Uri.parse(url)
+        } catch (_: Exception) {
+            return
+        }
+        val scheme = uri.scheme?.lowercase()
+        if (scheme != "http" && scheme != "https") return
+        activity.runOnUiThread {
+            if (!isLocalOriginVerified()) return@runOnUiThread
+            try {
+                val intent = Intent(Intent.ACTION_VIEW, uri).apply {
+                    addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+                }
+                activity.startActivity(intent)
+            } catch (_: Exception) {
+                Toast.makeText(activity, "ब्राउज़र नहीं खुल सका", Toast.LENGTH_SHORT).show()
+            }
         }
     }
 
