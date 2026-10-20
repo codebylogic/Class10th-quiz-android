@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "ईंधन और विस्फोटक पदार्थ / Fuels & Explosives",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Fuels & Explosives.",
+  "questions": [
+    {
+      "q": {
+        "hi": "1 किग्रा ईंधन के पूर्ण दहन से उत्पन्न होने वाली ऊष्मा की मात्रा को क्या कहा जाता है?",
+        "en": "The amount of heat energy produced on complete combustion of 1 kg of fuel is called:"
+      },
+      "o": [
+        {
+          "hi": "ईंधन का ऊष्मीय मान / कैलोरिफिक मान (Calorific Value)",
+          "en": "Calorific Value of fuel"
+        },
+        {
+          "hi": "प्रज्वलन ताप (Ignition Temperature)",
+          "en": "Ignition Temperature"
+        },
+        {
+          "hi": "ऑक्टेन संख्या (Octane Number)",
+          "en": "Octane Number"
+        },
+        {
+          "hi": "सीटेन संख्या (Cetane Number)",
+          "en": "Cetane Number"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से किस ईंधन का ऊष्मीय मान (Calorific Value) सर्वाधिक (~1,50,000 kJ/kg) होता है?",
+        "en": "Which of the following fuels has the highest Calorific Value (~1,50,000 kJ/kg)?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोजन गैस (Hydrogen Gas)",
+          "en": "Hydrogen Gas"
+        },
+        {
+          "hi": "एलपीजी (LPG)",
+          "en": "LPG"
+        },
+        {
+          "hi": "सीएनजी (CNG)",
+          "en": "CNG"
+        },
+        {
+          "hi": "पेट्रोल (Petrol)",
+          "en": "Petrol"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भविष्य का ईंधन (Fuel of the Future) किसे कहा जाता है क्योंकि यह जलने पर केवल जलवाष्प छोड़ता है और शून्य प्रदूषण करता है?",
+        "en": "Which fuel is called the 'Fuel of the Future' as it emits only water vapor on burning with zero pollution?"
+      },
+      "o": [
+        {
+          "hi": "प्राकृतिक गैस",
+          "en": "Natural Gas"
+        },
+        {
+          "hi": "बायोगैस",
+          "en": "Biogas"
+        },
+        {
+          "hi": "एथेनॉल",
+          "en": "Ethanol"
+        },
+        {
+          "hi": "हाइड्रोजन (Hydrogen)",
+          "en": "Hydrogen"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रॉकेट में प्रणोदक (Rocket Propellant / Liquid Fuel) के रूप में किसका उपयोग किया जाता है?",
+        "en": "What is used as liquid rocket propellant in space rockets?"
+      },
+      "o": [
+        {
+          "hi": "द्रव पेट्रोलियम गैस",
+          "en": "Liquid Petroleum Gas"
+        },
+        {
+          "hi": "द्रव हाइड्रोजन और द्रव ऑक्सीजन (Liquid H2 + Liquid O2)",
+          "en": "Liquid Hydrogen and Liquid Oxygen"
+        },
+        {
+          "hi": "द्रव मेथेन और वायु",
+          "en": "Liquid Methane and Air"
+        },
+        {
+          "hi": "केरोसिन और हीलियम",
+          "en": "Kerosene and Helium"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कोयले के निर्माण की प्राथमिक अवस्था कौन सी है जिसमें कार्बन की मात्रा सबसे कम (~40-50%) और नमी सर्वाधिक होती है?",
+        "en": "Which is the first stage of coal formation having the lowest carbon content (~40-50%) and high moisture?"
+      },
+      "o": [
+        {
+          "hi": "लिग्नाइट (Lignite)",
+          "en": "Lignite"
+        },
+        {
+          "hi": "बिटुमिनस (Bituminous)",
+          "en": "Bituminous"
+        },
+        {
+          "hi": "पीठ कोयला (Peat)",
+          "en": "Peat"
+        },
+        {
+          "hi": "एंथ्रासाइट (Anthracite)",
+          "en": "Anthracite"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'भूरा कोयला' (Brown Coal) के नाम से किसे जाना जाता है जिसका उपयोग विद्युत ताप गृहों (जैसे नेवेली) में होता है?",
+        "en": "Which coal is known as 'Brown Coal' used mainly in thermal power plants?"
+      },
+      "o": [
+        {
+          "hi": "पीठ कोयला",
+          "en": "Peat"
+        },
+        {
+          "hi": "बिटुमिनस",
+          "en": "Bituminous"
+        },
+        {
+          "hi": "एंथ्रासाइट",
+          "en": "Anthracite"
+        },
+        {
+          "hi": "लिग्नाइट (Lignite - ~60-70% कार्बन)",
+          "en": "Lignite (approx 60-70% Carbon)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "घरेलू और औद्योगिक कार्यों में व्यापक रूप से प्रयुक्त होने वाला सामान्य काला मुलायम कोयला कौन सा है?",
+        "en": "Which common soft black coal is widely used for commercial household and industrial energy?"
+      },
+      "o": [
+        {
+          "hi": "एंथ्रासाइट",
+          "en": "Anthracite"
+        },
+        {
+          "hi": "लिग्नाइट",
+          "en": "Lignite"
+        },
+        {
+          "hi": "पीठ",
+          "en": "Peat"
+        },
+        {
+          "hi": "बिटुमिनस कोयला (Bituminous Coal - ~75-80% कार्बन)",
+          "en": "Bituminous Coal (approx 75-80% Carbon)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सर्वोत्तम गुणवत्ता वाला, उच्चतम कार्बन प्रतिशत (~90-95%) और उच्चतम ऊष्मीय मान वाला कठोर कोयला कौन सा है जो बिना धुएं के जलता है?",
+        "en": "Which hard coal is of highest quality with maximum carbon (~90-95%) and highest calorific value that burns virtually smoke-free?"
+      },
+      "o": [
+        {
+          "hi": "बिटुमिनस कोयला",
+          "en": "Bituminous Coal"
+        },
+        {
+          "hi": "एंथ्रासाइट कोयला (Anthracite Coal)",
+          "en": "Anthracite Coal"
+        },
+        {
+          "hi": "लिग्नाइट कोयला",
+          "en": "Lignite Coal"
+        },
+        {
+          "hi": "पीठ कोयला",
+          "en": "Peat Coal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वायु की अनुपस्थिति में कोयले को उच्च तापमान पर गर्म करने की प्रक्रिया (Destructive Distillation) से प्राप्त लगभग शुद्ध कार्बन (~98%) रूप क्या कहलाता है?",
+        "en": "The nearly pure form of carbon (~98%) obtained by destructive distillation of coal is called:"
+      },
+      "o": [
+        {
+          "hi": "कोलतार (Coal Tar)",
+          "en": "Coal Tar"
+        },
+        {
+          "hi": "कोक (Coke)",
+          "en": "Coke"
+        },
+        {
+          "hi": "कोल गैस (Coal Gas)",
+          "en": "Coal Gas"
+        },
+        {
+          "hi": "चारकोल (Charcoal)",
+          "en": "Charcoal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "द्रव्यमान के आधार पर विभिन्न घटकों को उनके क्वथनांक के अंतर के आधार पर अलग करने के लिए कच्चे पेट्रोलियम तेल का क्या किया जाता है?",
+        "en": "Crude petroleum oil is separated into various fractions based on boiling point differences by:"
+      },
+      "o": [
+        {
+          "hi": "साधारण आसवन",
+          "en": "Simple Distillation"
+        },
+        {
+          "hi": "भाप आसवन",
+          "en": "Steam Distillation"
+        },
+        {
+          "hi": "प्रभाजी आसवन (Fractional Distillation)",
+          "en": "Fractional Distillation"
+        },
+        {
+          "hi": "ऊर्ध्वपातन",
+          "en": "Sublimation"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जेट हवाई जहाजों (Aviation Jet Fuel) में ईंधन के रूप में पेट्रोलियम के किस परिष्कृत घटक का उपयोग किया जाता है?",
+        "en": "Which refined petroleum fraction is used as Aviation Jet Fuel in airplanes?"
+      },
+      "o": [
+        {
+          "hi": "पेट्रोल (Gasoline)",
+          "en": "Petrol"
+        },
+        {
+          "hi": "डीजल (Diesel)",
+          "en": "Diesel"
+        },
+        {
+          "hi": "ल्युब्रिकेटिंग तेल",
+          "en": "Lubricating Oil"
+        },
+        {
+          "hi": "विशेष रूप से परिष्कृत मिट्टी का तेल (Kerosene / Jet Fuel)",
+          "en": "Specially refined Kerosene"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सड़कों को पक्का करने और छत की वाटरप्रूफिंग में प्रयुक्त होने वाला पेट्रोलियम का अवशेष घटक कौन सा है?",
+        "en": "Which heavy petroleum residue fraction is used for road surfacing and waterproofing?"
+      },
+      "o": [
+        {
+          "hi": "पैराफिन मोम (Paraffin Wax)",
+          "en": "Paraffin Wax"
+        },
+        {
+          "hi": "बिटुमेन या डामर (Bitumen / Asphalt)",
+          "en": "Bitumen / Asphalt"
+        },
+        {
+          "hi": "डीजल",
+          "en": "Diesel"
+        },
+        {
+          "hi": "कोक",
+          "en": "Coke"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मोमबत्ती, वैसलीन और मलहम बनाने में प्रयुक्त होने वाला पेट्रोलियम उत्पाद कौन सा है?",
+        "en": "Which petroleum product is used in making candles, vaseline, and ointments?"
+      },
+      "o": [
+        {
+          "hi": "बिटुमेन",
+          "en": "Bitumen"
+        },
+        {
+          "hi": "कोलतार",
+          "en": "Coal Tar"
+        },
+        {
+          "hi": "पैराफिन मोम (Paraffin Wax)",
+          "en": "Paraffin Wax"
+        },
+        {
+          "hi": "नेफ्था",
+          "en": "Naphtha"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पेट्रोल (गैसोलीन) ईंधन की गुणवत्ता और एंटी-नॉकिंग क्षमता को मापने का पैमाना क्या है?",
+        "en": "What is the standard metric used to measure anti-knock quality of Petrol (Gasoline)?"
+      },
+      "o": [
+        {
+          "hi": "सीटेन संख्या (Cetane Number)",
+          "en": "Cetane Number"
+        },
+        {
+          "hi": "ऑक्टेन संख्या (Octane Number)",
+          "en": "Octane Number"
+        },
+        {
+          "hi": "कैलोरिफिक संख्या",
+          "en": "Calorific Number"
+        },
+        {
+          "hi": "रेनॉल्ड संख्या",
+          "en": "Reynolds Number"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "डीजल ईंधन की ज्वलनशीलता और गुणवत्ता मापने का मानक पैमाना कौन सा है?",
+        "en": "What is the standard rating scale to measure ignition quality of Diesel fuel?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्टेन संख्या (Octane Number)",
+          "en": "Octane Number"
+        },
+        {
+          "hi": "मैक संख्या",
+          "en": "Mach Number"
+        },
+        {
+          "hi": "सीटेन संख्या (Cetane Number)",
+          "en": "Cetane Number"
+        },
+        {
+          "hi": "ऑक्सीकरण संख्या",
+          "en": "Oxidation Number"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पेट्रोल इंजन में 'अपस्फोटन' या अपस्फोटक आवाज (Knocking) को कम करने के लिए एंटी-नॉकिंग एजेंट के रूप में पहले किसका उपयोग होता था?",
+        "en": "Which anti-knocking agent was previously added to petrol to reduce engine knocking?"
+      },
+      "o": [
+        {
+          "hi": "टेट्रामेथिल सिलेन",
+          "en": "Tetramethyl Silane"
+        },
+        {
+          "hi": "सोडियम बाइकार्बोनेट",
+          "en": "Sodium Bicarbonate"
+        },
+        {
+          "hi": "टेट्राएथिल लेड (TEL - Tetraethyl Lead)",
+          "en": "Tetraethyl Lead (TEL)"
+        },
+        {
+          "hi": "कैल्शियम कार्बाइड",
+          "en": "Calcium Carbide"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सीसे के हानिकारक विषैलेपन से बचने के लिए आजकल सीसा-रहित (Unleaded) पेट्रोल में एंटी-नॉकिंग घटक के रूप में क्या मिलाया जाता है?",
+        "en": "What is added to unleaded petrol as an anti-knocking component to avoid lead toxicity?"
+      },
+      "o": [
+        {
+          "hi": "एथिल मरकैप्टन",
+          "en": "Ethyl Mercaptan"
+        },
+        {
+          "hi": "अमोनियम नाइट्रेट",
+          "en": "Ammonium Nitrate"
+        },
+        {
+          "hi": "BTX (बेंजीन, टोल्यूनि, जाइलीन) या MTBE",
+          "en": "BTX (Benzene, Toluene, Xylene) or MTBE"
+        },
+        {
+          "hi": "क्लोरोफॉर्म",
+          "en": "Chloroform"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एलपीजी (LPG / तरलीकृत पेट्रोलियम गैस) सिलेंडरों में मुख्य रूप से कौन सी गैसें भरी होती हैं?",
+        "en": "Which gases are primarily filled in LPG cylinders under high pressure?"
+      },
+      "o": [
+        {
+          "hi": "मेथेन और एथेन",
+          "en": "Methane and Ethane"
+        },
+        {
+          "hi": "एथिलीन और एसिटिलीन",
+          "en": "Ethylene and Acetylene"
+        },
+        {
+          "hi": "ब्यूटेन (C4H10) और प्रोपेन (C3H8)",
+          "en": "Butane (C4H10) and Propane (C3H8)"
+        },
+        {
+          "hi": "हाइड्रोजन और कार्बन मोनोऑक्साइड",
+          "en": "Hydrogen and Carbon monoxide"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एलपीजी गैस के रिसाव (Leakage) का तुरंत पता लगाने के लिए उसमें कौन सा तेज गंध वाला यौगिक मिलाया जाता है?",
+        "en": "Which strong smelling compound is added to LPG to easily detect gas leaks?"
+      },
+      "o": [
+        {
+          "hi": "मिथाइल आइसोसाइनेट",
+          "en": "Methyl Isocyanate"
+        },
+        {
+          "hi": "एथिल मरकैप्टन / एथेनथियोल (Ethyl Mercaptan / C2H5SH)",
+          "en": "Ethyl Mercaptan (Ethanethiol / C2H5SH)"
+        },
+        {
+          "hi": "सल्फर डाइऑक्साइड",
+          "en": "Sulfur Dioxide"
+        },
+        {
+          "hi": "हाइड्रोजन सल्फाइड",
+          "en": "Hydrogen Sulfide"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वाहन ईंधन के रूप में प्रयुक्त होने वाली सीएनजी (CNG / संपीड़ित प्राकृतिक गैस) का मुख्य घटक कौन सी गैस है?",
+        "en": "Which gas is the main component of CNG (Compressed Natural Gas) used in vehicles?"
+      },
+      "o": [
+        {
+          "hi": "ब्यूटेन (Butane)",
+          "en": "Butane"
+        },
+        {
+          "hi": "प्रोपेन (Propane)",
+          "en": "Propane"
+        },
+        {
+          "hi": "कार्बन मोनोऑक्साइड",
+          "en": "Carbon Monoxide"
+        },
+        {
+          "hi": "मेथेन (Methane - CH4 ~ 85-90%)",
+          "en": "Methane (CH4 ~ 85-90%)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रड्यूसर गैस (Producer Gas) किन दो गैसों का मिश्रण होती है?",
+        "en": "Producer Gas is a mixture of which two gases?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन मोनोऑक्साइड (CO) और हाइड्रोजन (H2)",
+          "en": "Carbon Monoxide and Hydrogen"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड (CO2) और मेथेन (CH4)",
+          "en": "Carbon Dioxide and Methane"
+        },
+        {
+          "hi": "कार्बन मोनोऑक्साइड (CO) और नाइट्रोजन (N2)",
+          "en": "Carbon Monoxide (CO) and Nitrogen (N2)"
+        },
+        {
+          "hi": "नाइट्रोजन (N2) और ऑक्सीजन (O2)",
+          "en": "Nitrogen and Oxygen"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जल गैस या वाटर गैस (Water Gas / Synthesis Gas) किन दो मुख्य गैसों का सम्मिश्रण है?",
+        "en": "Water Gas (Synthesis Gas) is a mixture of which two main gases?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन मोनोऑक्साइड (CO) और हाइड्रोजन (H2)",
+          "en": "Carbon Monoxide (CO) and Hydrogen (H2)"
+        },
+        {
+          "hi": "कार्बन मोनोऑक्साइड (CO) और नाइट्रोजन (N2)",
+          "en": "Carbon Monoxide and Nitrogen"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड (CO2) और जलवाष्प",
+          "en": "Carbon Dioxide and Water Vapor"
+        },
+        {
+          "hi": "मेथेन (CH4) और एथेन (C2H6)",
+          "en": "Methane and Ethane"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तप्त कोक (Incandescent Coke) पर भाप (Steam) प्रवाहित करने पर कौन सी ईंधन गैस बनती है?",
+        "en": "Passing steam over incandescent red hot coke produces which fuel gas?"
+      },
+      "o": [
+        {
+          "hi": "प्रड्यूसर गैस (CO + N2)",
+          "en": "Producer Gas (CO + N2)"
+        },
+        {
+          "hi": "जल गैस / वाटर गैस (CO + H2)",
+          "en": "Water Gas (CO + H2)"
+        },
+        {
+          "hi": "बायोगैस (CH4 + CO2)",
+          "en": "Biogas (CH4 + CO2)"
+        },
+        {
+          "hi": "प्राकृतिक गैस",
+          "en": "Natural Gas"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तप्त कोक पर हवा (Air) प्रवाहित करके कौन सी गैस बनाई जाती है?",
+        "en": "Passing air over red hot coke produces which gas?"
+      },
+      "o": [
+        {
+          "hi": "जल गैस (CO + H2)",
+          "en": "Water Gas (CO + H2)"
+        },
+        {
+          "hi": "एलपीजी",
+          "en": "LPG"
+        },
+        {
+          "hi": "प्रड्यूसर गैस (CO + N2)",
+          "en": "Producer Gas (CO + N2)"
+        },
+        {
+          "hi": "सीएनजी",
+          "en": "CNG"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गोबर या जैविक कचरे के अवायवीय अपघटन (Anaerobic Decomposition) से बनने वाली बायोगैस में कौन सी गैसें होती हैं?",
+        "en": "Biogas generated by anaerobic decomposition of organic waste contains mainly:"
+      },
+      "o": [
+        {
+          "hi": "प्रोपेन और ब्यूटेन",
+          "en": "Propane and Butane"
+        },
+        {
+          "hi": "मेथेन (CH4 ~ 60-70%) और कार्बन डाइऑक्साइड (CO2)",
+          "en": "Methane (CH4 ~ 60-70%) and Carbon Dioxide (CO2)"
+        },
+        {
+          "hi": "ऑक्सीजन और नाइट्रोजन",
+          "en": "Oxygen and Nitrogen"
+        },
+        {
+          "hi": "सल्फर डाइऑक्साइड और हीलियम",
+          "en": "Sulfur dioxide and Helium"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किसी पदार्थ के जलने के लिए न्यूनतम तापमान क्या कहलाता है जिस पर वह आग पकड़ता है?",
+        "en": "The minimum temperature at which a substance catches fire is called:"
+      },
+      "o": [
+        {
+          "hi": "क्वथनांक (Boiling Point)",
+          "en": "Boiling Point"
+        },
+        {
+          "hi": "प्रज्वलन ताप (Ignition Temperature)",
+          "en": "Ignition Temperature"
+        },
+        {
+          "hi": "गलनांक (Melting Point)",
+          "en": "Melting Point"
+        },
+        {
+          "hi": "क्रांतिक ताप (Critical Temperature)",
+          "en": "Critical Temperature"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अग्नि का त्रिभुज (Fire Triangle) किन तीन आवश्यक घटकों से मिलकर बनता है?",
+        "en": "What are the three essential components of the Fire Triangle?"
+      },
+      "o": [
+        {
+          "hi": "ईंधन, ऑक्सीजन (हवा) और ऊष्मा/तापमान",
+          "en": "Fuel, Oxygen (Air), and Heat/Temperature"
+        },
+        {
+          "hi": "ईंधन, जल और कार्बन डाइऑक्साइड",
+          "en": "Fuel, Water, and Carbon dioxide"
+        },
+        {
+          "hi": "नाइट्रोजन, धुआँ और ऊष्मा",
+          "en": "Nitrogen, Smoke, and Heat"
+        },
+        {
+          "hi": "सोडियम, जल और वायु",
+          "en": "Sodium, Water, and Air"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सोडा-अम्ल अग्निशामक (Soda-Acid Fire Extinguisher) में किन रसायनों की अभिक्रिया से CO2 गैस उत्पन्न होती है?",
+        "en": "Reaction between which chemicals produces CO2 gas in a Soda-Acid Fire Extinguisher?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम क्लोराइड और सल्फ्यूरिक अम्ल",
+          "en": "Sodium Chloride and Sulfuric Acid"
+        },
+        {
+          "hi": "कैल्शियम कार्बोनेट और नाइट्रिक अम्ल",
+          "en": "Calcium Carbonate and Nitric Acid"
+        },
+        {
+          "hi": "सोडियम बाइकार्बोनेट (NaHCO3) और तनु सल्फ्यूरिक अम्ल (H2SO4)",
+          "en": "Sodium Bicarbonate (NaHCO3) and Dilute Sulfuric Acid (H2SO4)"
+        },
+        {
+          "hi": "कास्टिक सोडा और हाइड्रोक्लोरिक अम्ल",
+          "en": "Caustic Soda and Hydrochloric Acid"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पेट्रोल और तेल में लगी आग को बुझाने के लिए जल की तुलना में झागदार (Foam-type) अग्निशामक क्यों श्रेष्ठ होते हैं?",
+        "en": "Why are foam-type fire extinguishers superior to water for petrol/oil fires?"
+      },
+      "o": [
+        {
+          "hi": "पेट्रोल जल से हल्का होने के कारण पानी के ऊपर तैरकर जलता रहता है, जबकि झाग हवा का संपर्क काट देता है",
+          "en": "Petrol being lighter than water floats and burns, whereas foam cuts off air supply"
+        },
+        {
+          "hi": "जल पेट्रोल के साथ प्रतिक्रिया करके ऑक्सीजन बनाता है",
+          "en": "Water reacts with petrol to form oxygen"
+        },
+        {
+          "hi": "जल अत्यधिक ज्वलनशील होता है",
+          "en": "Water is highly inflammable"
+        },
+        {
+          "hi": "झाग पेट्रोल को पूरी तरह सोख लेता है",
+          "en": "Foam completely absorbs petrol"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शॉर्ट सर्किट से बिजली के उपकरणों में लगी आग को बुझाने के लिए सबसे सुरक्षित और उपयुक्त अग्निशामक कौन सा है?",
+        "en": "Which is the safest and most suitable fire extinguisher for electrical equipment fires?"
+      },
+      "o": [
+        {
+          "hi": "साधारण जल की बौछार",
+          "en": "Plain water spray"
+        },
+        {
+          "hi": "गीला सूती कपड़ा",
+          "en": "Wet cotton cloth"
+        },
+        {
+          "hi": "अम्लीय घोल",
+          "en": "Acidic solution"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड (CO2) या पायरीन (CCl4) अग्निशामक",
+          "en": "Carbon Dioxide (CO2) or Pyrene (CCl4) extinguisher"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1867 में 'डायनामाइट' (Dynamite) विस्फोटक का आविष्कार किस प्रसिद्ध वैज्ञानिक ने किया था?",
+        "en": "Who invented the explosive 'Dynamite' in 1867?"
+      },
+      "o": [
+        {
+          "hi": "रोबर्ट ओपेनहाइमर",
+          "en": "J. Robert Oppenheimer"
+        },
+        {
+          "hi": "अल्फ्रेड नोबेल (Alfred Nobel)",
+          "en": "Alfred Nobel"
+        },
+        {
+          "hi": "रोजर बेकन",
+          "en": "Roger Bacon"
+        },
+        {
+          "hi": "हेनरी बेकरल",
+          "en": "Henri Becquerel"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मूल डायनामाइट में अत्यधिक संवेदनशील तरल विस्फोटक 'नाइट्रोग्लिसरीन' को सुरक्षित बनाने के लिए किस निष्क्रिय अवशोषक में मिलाया जाता था?",
+        "en": "In original dynamite, sensitive liquid nitroglycerin was absorbed in which inert material for safe handling?"
+      },
+      "o": [
+        {
+          "hi": "सीमेंट और बालू",
+          "en": "Cement and sand"
+        },
+        {
+          "hi": "कीजलगुहर (Kieselguhr / छिद्रित मिट्टी) या लकड़ी का बुरादा",
+          "en": "Kieselguhr (diatomaceous earth) or sawdust"
+        },
+        {
+          "hi": "प्लास्टर ऑफ पेरिस",
+          "en": "Plaster of Paris"
+        },
+        {
+          "hi": "सोडियम क्लोराइड",
+          "en": "Sodium chloride"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नाइट्रोग्लिसरीन (Nitroglycerin) को अन्य किस नाम से भी जाना जाता है जिसका उपयोग हृदय रोगों में वासोडायलेटर हेतु भी होता है?",
+        "en": "Nitroglycerin is also known by which name?"
+      },
+      "o": [
+        {
+          "hi": "ऑयल ऑफ विट्रियोल",
+          "en": "Oil of Vitriol"
+        },
+        {
+          "hi": "म्यूरीएटिक तेल",
+          "en": "Muriatic Oil"
+        },
+        {
+          "hi": "नोबेल का तेल (Nobel's Oil / TNG)",
+          "en": "Nobel's Oil (TNG)"
+        },
+        {
+          "hi": "पायरीन तेल",
+          "en": "Pyrene Oil"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "TNT (विस्फोटक) का पूरा नाम क्या है?",
+        "en": "What is the full form of the explosive TNT?"
+      },
+      "o": [
+        {
+          "hi": "ट्राईनाइट्रोटोल्यूनि (Trinitrotoluene)",
+          "en": "Trinitrotoluene"
+        },
+        {
+          "hi": "ट्राईनाइट्रोफिनोल",
+          "en": "Trinitrophenol"
+        },
+        {
+          "hi": "ट्राईनाइट्रोग्लिसरीन",
+          "en": "Trinitroglycerin"
+        },
+        {
+          "hi": "टेट्रानाइट्रोटोल्यूनि",
+          "en": "Tetranitrotoluene"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "TNT विस्फोटक का निर्माण टॉल्यूनि (C6H5CH3) की किसके साथ अभिक्रिया कराकर किया जाता है?",
+        "en": "TNT explosive is prepared by nitration of Toluene using:"
+      },
+      "o": [
+        {
+          "hi": "सांद्र हाइड्रोक्लोरिक अम्ल और अमोनिया",
+          "en": "Conc. Hydrochloric acid and Ammonia"
+        },
+        {
+          "hi": "एसिटिक अम्ल और सोडियम",
+          "en": "Acetic acid and Sodium"
+        },
+        {
+          "hi": "सांद्र नाइट्रिक अम्ल (HNO3) और सांद्र सल्फ्यूरिक अम्ल (H2SO4)",
+          "en": "Conc. Nitric acid (HNO3) and Conc. Sulfuric acid (H2SO4)"
+        },
+        {
+          "hi": "क्लोरीन गैस और चूना",
+          "en": "Chlorine gas and Lime"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पिकरिक अम्ल (Picric Acid) के नाम से प्रसिद्ध पीले रंग का विस्फोटक यौगिक कौन सा है?",
+        "en": "Which yellow crystalline explosive compound is popularly known as Picric Acid?"
+      },
+      "o": [
+        {
+          "hi": "ट्राईनाइट्रोटोल्यूनि (TNT)",
+          "en": "Trinitrotoluene (TNT)"
+        },
+        {
+          "hi": "आरडीएक्स (RDX)",
+          "en": "RDX"
+        },
+        {
+          "hi": "2,4,6-ट्राईनाइट्रोफिनोल (TNP - 2,4,6-Trinitrophenol)",
+          "en": "2,4,6-Trinitrophenol (TNP)"
+        },
+        {
+          "hi": "पेट्न (PETN)",
+          "en": "PETN"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "RDX का पूरा नाम क्या है?",
+        "en": "What is the full form of RDX?"
+      },
+      "o": [
+        {
+          "hi": "रिसर्च डेवलपमेंट एक्सप्लोसिव (Research Development Explosive)",
+          "en": "Research Development Explosive"
+        },
+        {
+          "hi": "रेपिड डिमोलिशन एक्सप्लोसिव",
+          "en": "Rapid Demolition Explosive"
+        },
+        {
+          "hi": "रेडियोधर्मी एक्सप्लोसिव",
+          "en": "Radioactive Explosive"
+        },
+        {
+          "hi": "रॉयल डिमोलिशन एक्सप्लोसिव",
+          "en": "Royal Demolition Explosive"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "RDX को जर्मनी में 'हेक्सोजेन' और इटली में 'T4' कहते हैं। इसका रासायनिक नाम क्या है?",
+        "en": "RDX is called 'Hexogen' in Germany and 'T4' in Italy. What is its chemical name?"
+      },
+      "o": [
+        {
+          "hi": "साइक्लोट्राइमिथाइलीन ट्राइनाइट्रामीन (Cyclotrimethylenetrinitramine)",
+          "en": "Cyclotrimethylenetrinitramine"
+        },
+        {
+          "hi": "ट्राइनाइट्रोफिनोल",
+          "en": "Trinitrophenol"
+        },
+        {
+          "hi": "टेट्रानाइट्रोमेथेन",
+          "en": "Tetranitromethane"
+        },
+        {
+          "hi": "पेंटाएरिथ्रिटोल टेट्रानाइट्रेट",
+          "en": "Pentaerythritol Tetranitrate"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सैनिकों द्वारा प्रयोग किए जाने वाले प्लास्टिक विस्फोटक 'C-4' (Plastic Explosive) का मुख्य विस्फोटक घटक क्या होता है?",
+        "en": "What is the primary explosive ingredient in military plastic explosive 'C-4'?"
+      },
+      "o": [
+        {
+          "hi": "आरडीएक्स (RDX) प्लास्टिकizers के साथ",
+          "en": "RDX mixed with plasticizers"
+        },
+        {
+          "hi": "टीएनटी (TNT)",
+          "en": "TNT"
+        },
+        {
+          "hi": "ब्लैक पाउडर (Gunpowder)",
+          "en": "Gunpowder"
+        },
+        {
+          "hi": "अमोनियम नाइट्रेट",
+          "en": "Ammonium Nitrate"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्राचीन काल के प्रसिद्ध 'बारूद' या ब्लैक पाउडर (Gunpowder) के तीन मुख्य घटक कौन से हैं?",
+        "en": "What are the three main constituents of traditional Gunpowder (Black Powder)?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम क्लोराइड, लोहा और चूना",
+          "en": "Sodium chloride, Iron, and Lime"
+        },
+        {
+          "hi": "पोटेशियम नाइट्रेट (शोरा ~75%), चारकोल (~15%) और गंधक/सल्फर (~10%)",
+          "en": "Potassium Nitrate (Saltpetre ~75%), Charcoal (~15%), and Sulfur (~10%)"
+        },
+        {
+          "hi": "अमोनियम सल्फेट, फॉस्फोरस और जल",
+          "en": "Ammonium sulfate, Phosphorus, and Water"
+        },
+        {
+          "hi": "नाइट्रोग्लिसरीन, रेत और पेट्रोल",
+          "en": "Nitroglycerin, Sand, and Petrol"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "खदानों में व्यावसायिक ब्लास्टिंग के लिए प्रयुक्त 'ANFO' विस्फोटक में क्या-क्या मिला होता है?",
+        "en": "Commercial blasting explosive 'ANFO' consists of a mixture of:"
+      },
+      "o": [
+        {
+          "hi": "अमोनियम नाइट्रेट (Ammonium Nitrate) और फ्यूल ऑयल (Fuel Oil)",
+          "en": "Ammonium Nitrate and Fuel Oil"
+        },
+        {
+          "hi": "अमोनियम सल्फेट और केरोसिन",
+          "en": "Ammonium sulfate and Kerosene"
+        },
+        {
+          "hi": "सोडियम नाइट्रेट और अल्कोहल",
+          "en": "Sodium nitrate and Alcohol"
+        },
+        {
+          "hi": "कैल्शियम नाइट्रेट और मोम",
+          "en": "Calcium nitrate and Wax"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आतिशबाजी (Fireworks) में सुंदर हरा रंग (Green Color) किस धातु के लवण की उपस्थिति के कारण उत्पन्न होता है?",
+        "en": "Which metal salt is responsible for generating the bright Green color in fireworks?"
+      },
+      "o": [
+        {
+          "hi": "स्ट्रॉन्शियम लवण (Strontium Salts)",
+          "en": "Strontium Salts"
+        },
+        {
+          "hi": "बेरियम लवण (Barium Salts - BaCl2)",
+          "en": "Barium Salts (BaCl2)"
+        },
+        {
+          "hi": "सोडियम लवण (Sodium Salts)",
+          "en": "Sodium Salts"
+        },
+        {
+          "hi": "कॉपर लवण (Copper Salts)",
+          "en": "Copper Salts"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पटाखों और आतिशबाजी में गहरा लाल / चटक लाल रंग (Crimson Red Color) किस तत्व के कारण होता है?",
+        "en": "Which element salt imparts the Crimson Red color in fireworks?"
+      },
+      "o": [
+        {
+          "hi": "बेरियम लवण (Barium)",
+          "en": "Barium Salts"
+        },
+        {
+          "hi": "स्ट्रॉन्शियम लवण (Strontium Salts - Sr)",
+          "en": "Strontium Salts (Sr)"
+        },
+        {
+          "hi": "सोडियम लवण (Sodium)",
+          "en": "Sodium Salts"
+        },
+        {
+          "hi": "मैग्नीशियम लवण (Magnesium)",
+          "en": "Magnesium Salts"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आतिशबाजी में पीला रंग (Yellow Color) किसके कारण उत्पन्न होता है?",
+        "en": "Yellow color in fireworks display is produced due to:"
+      },
+      "o": [
+        {
+          "hi": "सोडियम लवण (Sodium Salts)",
+          "en": "Sodium Salts"
+        },
+        {
+          "hi": "बेरियम लवण",
+          "en": "Barium Salts"
+        },
+        {
+          "hi": "स्ट्रॉन्शियम लवण",
+          "en": "Strontium Salts"
+        },
+        {
+          "hi": "तांबा लवण",
+          "en": "Copper Salts"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आतिशबाजी में नीला रंग (Blue Color) किस धातु के यौगिकों द्वारा दिया जाता है?",
+        "en": "Which metal compounds give the Blue color in fireworks?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम लवण",
+          "en": "Sodium Salts"
+        },
+        {
+          "hi": "तांबा / कॉपर लवण (Copper Salts - CuCl)",
+          "en": "Copper Salts (CuCl)"
+        },
+        {
+          "hi": "बेरियम लवण",
+          "en": "Barium Salts"
+        },
+        {
+          "hi": "लोहा कण",
+          "en": "Iron particles"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पटाखों के फटने पर तीव्र सफेद रोशनी (Dazzling White Light) पैदा करने के लिए किस धातु के चूर्ण का उपयोग होता है?",
+        "en": "Which metal powder is used in fireworks to produce a intense Dazzling White Light?"
+      },
+      "o": [
+        {
+          "hi": "तांबा और जस्ता",
+          "en": "Copper and Zinc"
+        },
+        {
+          "hi": "सीसा और पारा",
+          "en": "Lead and Mercury"
+        },
+        {
+          "hi": "मैग्नीशियम (Mg) और एल्युमीनियम (Al) चूर्ण",
+          "en": "Magnesium (Mg) and Aluminium (Al) powder"
+        },
+        {
+          "hi": "सोडियम और पोटेशियम",
+          "en": "Sodium and Potassium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अमोनियम नाइट्रेट (NH4NO3) तापीय अपघटन पर किस हास्य गैस (Laughing Gas) में परिवर्तित होता है?",
+        "en": "On thermal decomposition, Ammonium Nitrate (NH4NO3) decomposes to release which Laughing Gas?"
+      },
+      "o": [
+        {
+          "hi": "नाइट्रिक ऑक्साइड (NO)",
+          "en": "Nitric Oxide (NO)"
+        },
+        {
+          "hi": "नाइट्रस ऑक्साइड (Nitrous Oxide - N2O)",
+          "en": "Nitrous Oxide (N2O)"
+        },
+        {
+          "hi": "नाइट्रोजन डाइऑक्साइड (NO2)",
+          "en": "Nitrogen Dioxide (NO2)"
+        },
+        {
+          "hi": "अमोनिया (NH3)",
+          "en": "Ammonia (NH3)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सड़क के किनारे सुरक्षा बत्तियों में प्रयुक्त होने वाला 'फॉस्फोरस' का कौन सा रूप हवा में स्वतः आग पकड़ लेता है?",
+        "en": "Which form of Phosphorus catches fire spontaneously in air and is stored under water?"
+      },
+      "o": [
+        {
+          "hi": "लाल फास्फोरस (Red Phosphorus)",
+          "en": "Red Phosphorus"
+        },
+        {
+          "hi": "काला फास्फोरस (Black Phosphorus)",
+          "en": "Black Phosphorus"
+        },
+        {
+          "hi": "बैंगनी फास्फोरस (Violet Phosphorus)",
+          "en": "Violet Phosphorus"
+        },
+        {
+          "hi": "सफेद या पीला फास्फोरस (White/Yellow Phosphorus - P4)",
+          "en": "White/Yellow Phosphorus (P4)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सुरक्षा माचिस (Safety Matches) की तिल्ली के सिरे पर और माचिस की डिब्बी की रगड़न सतह पर क्रमशः क्या लगा होता है?",
+        "en": "What is applied on the head of a safety matchstick and the rubbing surface of the matchbox respectively?"
+      },
+      "o": [
+        {
+          "hi": "सफेद फास्फोरस दोनों जगह",
+          "en": "White phosphorus on both"
+        },
+        {
+          "hi": "सोडियम क्लोराइड और सल्फ्यूरिक अम्ल",
+          "en": "Sodium chloride and Sulfuric acid"
+        },
+        {
+          "hi": "सल्फर और कार्बन",
+          "en": "Sulfur and Carbon"
+        },
+        {
+          "hi": "तिल्ली पर पोटेशियम क्लोरेट (KClO3) + एंटीमनी सल्फाइड; डिब्बी पर लाल फास्फोरस + काँच चूर्ण",
+          "en": "Potassium Chlorate + Antimony sulfide on stick; Red Phosphorus + powdered glass on box"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पेट्रोलियम के कुओं में तेल के साथ निकलने वाली प्राकृतिक गैस (Natural Gas) में मेथेन का योगदान कितना प्रतिशत होता है?",
+        "en": "What is the approximate percentage of Methane in Natural Gas extracted from oil wells?"
+      },
+      "o": [
+        {
+          "hi": "20% से 30%",
+          "en": "20% to 30%"
+        },
+        {
+          "hi": "50%",
+          "en": "50%"
+        },
+        {
+          "hi": "100%",
+          "en": "100%"
+        },
+        {
+          "hi": "80% से 90%",
+          "en": "80% to 90%"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पेट्रोलियम की गुणवत्ता सुधारने के लिए हाइड्रोकार्बन अणुओं को छोटे अणुओं में तोड़ने की प्रक्रिया कहलाती है:",
+        "en": "Breaking down heavy hydrocarbon molecules into smaller fractions to improve petroleum quality is called:"
+      },
+      "o": [
+        {
+          "hi": "बहुलकीकरण (Polymerization)",
+          "en": "Polymerization"
+        },
+        {
+          "hi": "सुधारन (Reforming)",
+          "en": "Reforming"
+        },
+        {
+          "hi": "आसवन (Distillation)",
+          "en": "Distillation"
+        },
+        {
+          "hi": "भंजन / क्रैकिंग (Cracking)",
+          "en": "Cracking"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एंटी-नॉकिंग परीक्षण हेतु जिस हाइड्रोकार्बन 'आइसो-ऑक्टेन' (Iso-octane) को ऑक्टेन संख्या 100 दी जाती है, उसका IUPAC नाम क्या है?",
+        "en": "What is the IUPAC name of Iso-octane assigned an Octane Rating of 100?"
+      },
+      "o": [
+        {
+          "hi": "n-ऑक्टेन",
+          "en": "n-Octane"
+        },
+        {
+          "hi": "2-मिथाइलहेप्टेन",
+          "en": "2-Methylheptane"
+        },
+        {
+          "hi": "3,3-डायमिथाइलहेक्सेन",
+          "en": "3,3-Dimethylhexane"
+        },
+        {
+          "hi": "2,2,4-ट्राइमिथाइलपेन्टेन (2,2,4-Trimethylpentane)",
+          "en": "2,2,4-Trimethylpentane"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऑक्टेन संख्या पैमाने में शून्य (0) रेटिंग किस हाइड्रोकार्बन को दी गई है जो बहुत खराब एंटी-नॉकिंग गुण दर्शाता है?",
+        "en": "Which hydrocarbon showing poor anti-knock properties is assigned an Octane Rating of zero (0)?"
+      },
+      "o": [
+        {
+          "hi": "एन-हेप्टेन (n-Heptane)",
+          "en": "n-Heptane"
+        },
+        {
+          "hi": "n-हेक्सेन",
+          "en": "n-Hexane"
+        },
+        {
+          "hi": "n-पेंटेन",
+          "en": "n-Pentane"
+        },
+        {
+          "hi": "बेंजीन",
+          "en": "Benzene"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सीटेन संख्या पैमाने में रेटिंग 100 किस यौगिक को दी गई है?",
+        "en": "Which compound is assigned a Cetane Rating of 100?"
+      },
+      "o": [
+        {
+          "hi": "सीटेन / एन-हेक्साडेकेन (n-Hexadecane - C16H34)",
+          "en": "Cetane / n-Hexadecane (C16H34)"
+        },
+        {
+          "hi": "अल्फा-मिथाइलनेफ्थलीन (Rating 0)",
+          "en": "Alpha-methylnaphthalene"
+        },
+        {
+          "hi": "आइसो-ऑक्टेन",
+          "en": "Iso-octane"
+        },
+        {
+          "hi": "toluene",
+          "en": "Toluene"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अल्फा-मिथाइलनेफ्थलीन को सीटेन पैमाने पर क्या रेटिंग दी गई है?",
+        "en": "What rating is assigned to Alpha-methylnaphthalene on the Cetane scale?"
+      },
+      "o": [
+        {
+          "hi": "शून्य (0)",
+          "en": "Zero (0)"
+        },
+        {
+          "hi": "50",
+          "en": "50"
+        },
+        {
+          "hi": "100",
+          "en": "100"
+        },
+        {
+          "hi": "80",
+          "en": "80"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोयला गैस (Coal Gas) में कौन सी ज्वलनशील गैसें सम्मिलित होती हैं?",
+        "en": "Which combustible gases are present in Coal Gas?"
+      },
+      "o": [
+        {
+          "hi": "केवल ऑक्सीजन और नाइट्रोजन",
+          "en": "Only Oxygen and Nitrogen"
+        },
+        {
+          "hi": "केवल कार्बन डाइऑक्साइड और हीलियम",
+          "en": "Only Carbon dioxide and Helium"
+        },
+        {
+          "hi": "हाइड्रोजन (H2 ~ 50%), मेथेन (CH4 ~ 35%) और कार्बन मोनोऑक्साइड (CO ~ 10%)",
+          "en": "Hydrogen (H2 ~ 50%), Methane (CH4 ~ 35%), and Carbon monoxide (CO ~ 10%)"
+        },
+        {
+          "hi": "प्रोपेन और ब्यूटेन",
+          "en": "Propane and Butane"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सिंथेटिक गैस या सिनगैस (Syngas) का उपयोग किस रसायन के निर्माण में किया जाता है?",
+        "en": "Synthetic Gas (Syngas - CO + H2) is used as a feedstock in the production of:"
+      },
+      "o": [
+        {
+          "hi": "मेथेनॉल (Methanol) और सिंथेटिक पेट्रोल",
+          "en": "Methanol and Synthetic Petrol"
+        },
+        {
+          "hi": "एसिटिक अम्ल",
+          "en": "Acetic acid"
+        },
+        {
+          "hi": "सल्फ्यूरिक अम्ल",
+          "en": "Sulfuric acid"
+        },
+        {
+          "hi": "ब्लीचिंग पाउडर",
+          "en": "Bleaching powder"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लकड़ी का कोयला (Wood Charcoal) कैसे बनाया जाता है?",
+        "en": "Wood Charcoal is produced by:"
+      },
+      "o": [
+        {
+          "hi": "लकड़ी को पानी में उबालकर",
+          "en": "Boiling wood in water"
+        },
+        {
+          "hi": "लकड़ी पर सल्फ्यूरिक अम्ल डालकर",
+          "en": "Adding sulfuric acid on wood"
+        },
+        {
+          "hi": "लकड़ी को जमाकर",
+          "en": "Freezing wood"
+        },
+        {
+          "hi": "लकड़ी का वायु की अपर्याप्त उपस्थिति/अनुपस्थिति में भंजक आसवन द्वारा",
+          "en": "Destructive distillation of wood in limited supply of air"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सक्रियित चारकोल (Activated Charcoal) का उपयोग जल शोधन और गैस मास्क में क्यों किया जाता है?",
+        "en": "Why is Activated Charcoal used in water purifiers and gas masks?"
+      },
+      "o": [
+        {
+          "hi": "यह जल के साथ रासायनिक रूप से घुल जाता है",
+          "en": "It chemically dissolves in water"
+        },
+        {
+          "hi": "यह रेडियोधर्मी होता है",
+          "en": "It is radioactive"
+        },
+        {
+          "hi": "यह अम्ल उत्पन्न करता है",
+          "en": "It produces acid"
+        },
+        {
+          "hi": "इसके अति उच्च पृष्ठ क्षेत्रफल पर उत्कृष्ट अधिशोषण (Adsorption) क्षमता के कारण",
+          "en": "Due to its excellent Adsorption capacity on high surface area"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गोबर गैस संयंत्र (Biogas Plant) में बायोमास को किस जीवाणु द्वारा विघटित किया जाता है?",
+        "en": "Biomass in a Biogas plant is decomposed anaerobically by which bacteria?"
+      },
+      "o": [
+        {
+          "hi": "राइजोबियम जीवाणु",
+          "en": "Rhizobium bacteria"
+        },
+        {
+          "hi": "मेथेनोगेनिक जीवाणु (Methanogenic Bacteria)",
+          "en": "Methanogenic Bacteria"
+        },
+        {
+          "hi": "अजैटोबैक्टर जीवाणु",
+          "en": "Azotobacter bacteria"
+        },
+        {
+          "hi": "लैक्टोबेसिलस जीवाणु",
+          "en": "Lactobacillus bacteria"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पेट्रोल में 10% एथेनॉल मिलाकर तैयार किया गया पर्यावरण-अनुकूल ईंधन क्या कहलाता है?",
+        "en": "Eco-friendly fuel prepared by blending 10% ethanol with petrol is called:"
+      },
+      "o": [
+        {
+          "hi": "पावर डीजल",
+          "en": "Power Diesel"
+        },
+        {
+          "hi": "बायो-डीजल",
+          "en": "Bio-diesel"
+        },
+        {
+          "hi": "गैसोहॉल (Gasohol / E10 Fuel)",
+          "en": "Gasohol (E10 Fuel)"
+        },
+        {
+          "hi": "सिनगैस",
+          "en": "Syngas"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बायो-डीजल (Bio-diesel) का निर्माण जेट्रोफा (Jatropha / रतनजोत) और करंज के बीजों के तेल से किस रासायनिक प्रक्रिया द्वारा होता है?",
+        "en": "Bio-diesel is produced from Jatropha seed oil via which chemical process?"
+      },
+      "o": [
+        {
+          "hi": "साबुनीकरण",
+          "en": "Saponification"
+        },
+        {
+          "hi": "हाइड्रोजनीकरण",
+          "en": "Hydrogenation"
+        },
+        {
+          "hi": "किण्वन",
+          "en": "Fermentation"
+        },
+        {
+          "hi": "ट्रांस-एस्टरीफिकेशन (Trans-esterification)",
+          "en": "Trans-esterification"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ज्वलनशील तरल पदार्थों (जैसे पेट्रोल, डीजल) की आग को किस श्रेणी (Class) की आग माना जाता है?",
+        "en": "Fires involving flammable liquids (petrol, diesel) belong to which Class of fire?"
+      },
+      "o": [
+        {
+          "hi": "वर्ग ए की आग (Class A Fire - लकड़ी/कागज)",
+          "en": "Class A Fire"
+        },
+        {
+          "hi": "वर्ग बी की आग (Class B Fire)",
+          "en": "Class B Fire"
+        },
+        {
+          "hi": "वर्ग सी की आग (Class C Fire - गैसें)",
+          "en": "Class C Fire"
+        },
+        {
+          "hi": "वर्ग डी की आग (Class D Fire - धातुएं)",
+          "en": "Class D Fire"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत उपकरणों में लगने वाली आग किस श्रेणी (Class) के अंतर्गत आती है?",
+        "en": "Fires involving electrical equipment belong to which Class?"
+      },
+      "o": [
+        {
+          "hi": "वर्ग सी या वर्ग ई (Class C / Class E Fire)",
+          "en": "Class C / Class E Fire"
+        },
+        {
+          "hi": "वर्ग ए की आग",
+          "en": "Class A Fire"
+        },
+        {
+          "hi": "वर्ग बी की आग",
+          "en": "Class B Fire"
+        },
+        {
+          "hi": "वर्ग के की आग",
+          "en": "Class K Fire"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पेट्रोलियम रिफाइनरियों में सल्फर की मात्रा घटाने की प्रक्रिया क्या कहलाती है जिससे स्वच्छ BS-VI मानक ईंधन प्राप्त होता है?",
+        "en": "The process of removing sulfur from fuels in refineries to meet BS-VI standards is called:"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोजनीकरण",
+          "en": "Hydrogenation"
+        },
+        {
+          "hi": "क्रैकिंग",
+          "en": "Cracking"
+        },
+        {
+          "hi": "डीहाइड्रेशन",
+          "en": "Dehydration"
+        },
+        {
+          "hi": "हाइड्रो-डीसल्फराइजेशन (Hydro-desulfurization)",
+          "en": "Hydro-desulfurization"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पेट्रोल में बेंजीन की मात्रा कम रखना क्यों आवश्यक है?",
+        "en": "Why is it necessary to limit the content of Benzene in petrol?"
+      },
+      "o": [
+        {
+          "hi": "बेंजीन इंजन को जमा देता है",
+          "en": "Benzene freezes the engine"
+        },
+        {
+          "hi": "बेंजीन जल के साथ मिलकर झाग बनाता है",
+          "en": "Benzene forms scum with water"
+        },
+        {
+          "hi": "बेंजीन से ईंधन का रंग बदल जाता है",
+          "en": "Benzene changes fuel color"
+        },
+        {
+          "hi": "बेंजीन एक कैंसरजनक (Carcinogenic) यौगिक है जो वायु प्रदूषण फैलाता है",
+          "en": "Benzene is a carcinogenic compound causing harmful air pollution"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऑक्सीजन की अपर्याप्त/सीमित आपूर्ति में ईंधन के जलने पर कौन सी अत्यंत विषैली गैस उत्पन्न होती है?",
+        "en": "Incomplete combustion of fuels due to limited oxygen supply produces which highly toxic gas?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन डाइऑक्साइड (CO2)",
+          "en": "Carbon Dioxide (CO2)"
+        },
+        {
+          "hi": "सल्फर डाइऑक्साइड (SO2)",
+          "en": "Sulfur Dioxide (SO2)"
+        },
+        {
+          "hi": "कार्बन मोनोऑक्साइड (Carbon Monoxide - CO)",
+          "en": "Carbon Monoxide (CO)"
+        },
+        {
+          "hi": "नाइट्रोजन (N2)",
+          "en": "Nitrogen (N2)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बंद कमरे में अंगीठी या कोयला जलाकर सोने पर मृत्यु का मुख्य कारण कौन सी गैस है जो हीमोग्लोबिन से जुड़कर कार्बोक्सीहीमोग्लोबिन बनाती है?",
+        "en": "Sleeping in a closed room with burning coal causes death due to which gas forming carboxyhemoglobin?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन डाइऑक्साइड",
+          "en": "Carbon Dioxide"
+        },
+        {
+          "hi": "मेथेन",
+          "en": "Methane"
+        },
+        {
+          "hi": "कार्बन मोनोऑक्साइड (CO - O2 से 200 गुना अधिक बंधुता)",
+          "en": "Carbon Monoxide (CO - 200x affinity than O2)"
+        },
+        {
+          "hi": "हाइड्रोजन सल्फाइड",
+          "en": "Hydrogen Sulfide"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्राकृतिक गैस (PNG / Piped Natural Gas) को घरों में पाइपलाइन से सप्लाई किया जाता है, इसका मुख्य लाभ क्या है?",
+        "en": "Piped Natural Gas (PNG) supplied to households offers what primary advantage?"
+      },
+      "o": [
+        {
+          "hi": "सुरक्षित, निरंतर आपूर्ति और सीधे दहन के लिए तैयार स्वच्छ ईंधन",
+          "en": "Safe, continuous supply and clean fuel ready for direct combustion"
+        },
+        {
+          "hi": "यह हवा से भारी होती है",
+          "en": "It is heavier than air"
+        },
+        {
+          "hi": "यह लाल रंग की ज्वाला देती है",
+          "en": "It gives red flame"
+        },
+        {
+          "hi": "यह केवल रात में जलती है",
+          "en": "It burns only at night"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पेट्रोलियम का कौन सा घटक जहाजों और बड़े औधोगिक बॉयलरों में ईंधन के रूप में जलाया जाता है?",
+        "en": "Which fraction of petroleum is burned as fuel in ships and large industrial boilers?"
+      },
+      "o": [
+        {
+          "hi": "पेट्रोल",
+          "en": "Petrol"
+        },
+        {
+          "hi": "केरोसिन",
+          "en": "Kerosene"
+        },
+        {
+          "hi": "एलपीजी",
+          "en": "LPG"
+        },
+        {
+          "hi": "फ्यूल ऑयल / ईंधन तेल (Fuel Oil)",
+          "en": "Fuel Oil"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन सा एक विस्फोटक (Explosive) नहीं है?",
+        "en": "Which of the following is NOT an explosive compound?"
+      },
+      "o": [
+        {
+          "hi": "नाइट्रोक्लोरोफॉर्म (Picrin / अश्रु गैस घटक)",
+          "en": "Nitrochloroform (Chloropicrin / Tear gas component)"
+        },
+        {
+          "hi": "TNT (ट्राइनाइट्रोटोल्यूनि)",
+          "en": "TNT"
+        },
+        {
+          "hi": "TNG (ट्राइनाइट्रोग्लिसरीन)",
+          "en": "TNG"
+        },
+        {
+          "hi": "RDX (साइक्लोनाइट)",
+          "en": "RDX"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अमोनियम नाइट्रेट का उपयोग उर्वरक के अलावा किस क्षेत्र में व्यापक रूप से होता है?",
+        "en": "Apart from fertilizers, Ammonium Nitrate is extensively used in:"
+      },
+      "o": [
+        {
+          "hi": "कीटनाशकों के निर्माण में",
+          "en": "Insecticide manufacture"
+        },
+        {
+          "hi": "विस्फोटकों के निर्माण में (ANFO ब्लास्टिंग हेतु)",
+          "en": "Manufacture of explosives (ANFO blasting)"
+        },
+        {
+          "hi": "साबुन बनाने में",
+          "en": "Soap making"
+        },
+        {
+          "hi": "काँच उद्योग में",
+          "en": "Glass industry"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "परमाणु बम में विखंडनीय ईंधन के रूप में मुख्य रूप से किसका प्रयोग होता है?",
+        "en": "Which fissionable fuel is mainly used in Atomic Bombs?"
+      },
+      "o": [
+        {
+          "hi": "यूरेनियम-238 और थोरियम-232",
+          "en": "Uranium-238 and Thorium-232"
+        },
+        {
+          "hi": "रेडियम-226 और रेडॉन-222",
+          "en": "Radium-226 and Radon-222"
+        },
+        {
+          "hi": "यूरेनियम-235 (U-235) और प्लूटोनियम-239 (Pu-239)",
+          "en": "Uranium-235 (U-235) and Plutonium-239 (Pu-239)"
+        },
+        {
+          "hi": "ड्यूटेरियम और हीलियम",
+          "en": "Deuterium and Helium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पटाखों की आवाज के साथ जो चमकीला पीला/सुनहरा प्रकाश उत्पन्न होता है, वह लोहे की छीलन (Iron Filings) के जलने से होता है, जबकि नीली ज्वाला के लिए क्या जिम्मेदार है?",
+        "en": "The golden sparks in fireworks come from iron filings, whereas the blue color is contributed by:"
+      },
+      "o": [
+        {
+          "hi": "कॉपर क्लोराइड (Copper Chloride)",
+          "en": "Copper Chloride"
+        },
+        {
+          "hi": "सोडियम क्लोराइड",
+          "en": "Sodium Chloride"
+        },
+        {
+          "hi": "कैल्शियम क्लोराइड",
+          "en": "Calcium Chloride"
+        },
+        {
+          "hi": "मैग्नीशियम सल्फेट",
+          "en": "Magnesium Sulfate"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गैसोलीन (पेट्रोल) का क्वथनांक परास (Boiling Range) लगभग कितना होता है?",
+        "en": "What is the approximate boiling range of Gasoline (Petrol) during fractional distillation?"
+      },
+      "o": [
+        {
+          "hi": "170°C से 250°C (केरोसिन)",
+          "en": "170°C to 250°C (Kerosene)"
+        },
+        {
+          "hi": "250°C से 350°C (डीजल)",
+          "en": "250°C to 350°C (Diesel)"
+        },
+        {
+          "hi": "350°C से अधिक",
+          "en": "Above 350°C"
+        },
+        {
+          "hi": "40°C से 170°C",
+          "en": "40°C to 170°C"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}

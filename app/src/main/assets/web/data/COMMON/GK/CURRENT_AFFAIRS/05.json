@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "विज्ञान एवं प्रौद्योगिकी, अंतरिक्ष / Science, Tech & Space",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Science, Tech & Space.",
+  "questions": [
+    {
+      "q": {
+        "hi": "चंद्रयान-3 मिशन के तहत चंद्रमा के दक्षिणी ध्रुव पर विक्रम लैंडर के सॉफ्ट लैंडिंग स्थल का नाम क्या रखा गया है?",
+        "en": "What is the name designated for the soft landing site of Vikram lander on the Moon's South Pole under Chandrayaan-3?"
+      },
+      "o": [
+        {
+          "hi": "तिरंगा बिंदु",
+          "en": "Tiranga Point"
+        },
+        {
+          "hi": "जवाहर बिंदु",
+          "en": "Jawahar Point"
+        },
+        {
+          "hi": "शिव शक्ति बिंदु (Shiv Shakti Point)",
+          "en": "Shiv Shakti Point"
+        },
+        {
+          "hi": "शक्ति स्थल",
+          "en": "Shakti Sthal"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चंद्रयान-2 का लैंडर चंद्रमा की सतह पर जिस स्थान पर क्षतिग्रस्त हुआ था, उस स्थल का आधिकारिक नाम क्या रखा गया है?",
+        "en": "What is the official name given to the site where Chandrayaan-2's lander crashed on the Moon?"
+      },
+      "o": [
+        {
+          "hi": "शिव शक्ति बिंदु",
+          "en": "Shiv Shakti Point"
+        },
+        {
+          "hi": "जवाहर पॉइंट",
+          "en": "Jawahar Point"
+        },
+        {
+          "hi": "तिरंगा बिंदु (Tiranga Point)",
+          "en": "Tiranga Point"
+        },
+        {
+          "hi": "अटल पॉइंट",
+          "en": "Atal Point"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सूर्य का अध्ययन करने के लिए भारत के पहले अंतरिक्ष-आधारित सौर मिशन का क्या नाम है?",
+        "en": "What is the name of India's first space-based solar observatory mission to study the Sun?"
+      },
+      "o": [
+        {
+          "hi": "आदित्य-L1 (Aditya-L1)",
+          "en": "Aditya-L1"
+        },
+        {
+          "hi": "सूर्ययान-1",
+          "en": "Suryayaan-1"
+        },
+        {
+          "hi": "हेलियोस-L1",
+          "en": "Helios-L1"
+        },
+        {
+          "hi": "सोलरपार्क-1",
+          "en": "Solarpark-1"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आदित्य-L1 अंतरिक्ष यान को पृथ्वी से लगभग 1.5 मिलियन किमी दूर किस बिंदु के चारों ओर की प्रभाव मंडल कक्षा (Halo Orbit) में स्थापित किया गया है?",
+        "en": "Around which point in a halo orbit 1.5 million km from Earth was Aditya-L1 placed?"
+      },
+      "o": [
+        {
+          "hi": "लैग्रेंज बिंदु 2 (L2 Point)",
+          "en": "Lagrange Point 2 (L2)"
+        },
+        {
+          "hi": "लैग्रेंज बिंदु 1 (L1 Point)",
+          "en": "Lagrange Point 1 (L1)"
+        },
+        {
+          "hi": "लैग्रेंज बिंदु 5 (L5 Point)",
+          "en": "Lagrange Point 5 (L5)"
+        },
+        {
+          "hi": "भू-स्थैतिक बिंदु",
+          "en": "Geostationary Point"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "इसरो द्वारा 1 जनवरी 2024 को एक्स-रे ध्रुवीकरण का अध्ययन करने के लिए प्रक्षेपित उपग्रह का क्या नाम है?",
+        "en": "What is the name of ISRO's satellite launched on Jan 1, 2024 to study X-ray polarization?"
+      },
+      "o": [
+        {
+          "hi": "एस्ट्रोसैट",
+          "en": "AstroSat"
+        },
+        {
+          "hi": "आदित्य-L1",
+          "en": "Aditya-L1"
+        },
+        {
+          "hi": "इंसाट-3डीएस",
+          "en": "INSAT-3DS"
+        },
+        {
+          "hi": "एक्सपोसैट (XPoSAT - X-ray Polarimeter Satellite)",
+          "en": "XPoSAT"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गगनयान (Gaganyaan) मिशन के तहत मानव रहित परीक्षण उड़ानों में इसरो द्वारा भेजे जाने वाले व्योममित्र (Vyommitra) क्या है?",
+        "en": "What is Vyommitra being sent by ISRO in unmanned test flights under the Gaganyaan mission?"
+      },
+      "o": [
+        {
+          "hi": "आर्टिफिशियल इंटेलिजेंस उपग्रह",
+          "en": "Artificial Intelligence Satellite"
+        },
+        {
+          "hi": "महिला हाफ-ह्यूमनॉइड रोबोट (Female Half-Humanoid Robot)",
+          "en": "Female Half-Humanoid Robot"
+        },
+        {
+          "hi": "अंतरिक्ष रोवर",
+          "en": "Space Rover"
+        },
+        {
+          "hi": "सुपरकंप्यूटर सिस्टम",
+          "en": "Supercomputer System"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत के महत्वाकांक्षी गगनयान मिशन के लिए चयनित 4 भारतीय वायु सेना के एथलीटों/पायलटों में कौन शामिल हैं?",
+        "en": "Who among the following are the 4 IAF pilots designated for India's Gaganyaan human spaceflight mission?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत नायर, अजीत कृष्णन, अंगद प्रताप और शुभांशु शुक्ला",
+          "en": "Prashanth Nair, Ajit Krishnan, Angad Pratap and Subhanshu Shukla"
+        },
+        {
+          "hi": "राकेश शर्मा, कल्पना चावला, सुनीता विलियम्स और राजा चारी",
+          "en": "Rakesh Sharma, Kalpana Chawla, Sunita Williams and Raja Chari"
+        },
+        {
+          "hi": "अभिनव बिंद्रा, नीना सिंह, विकास गोड़ा और के. सिवन",
+          "en": "Abhinav Bindra, Nina Singh, Vikas Gowda and K. Sivan"
+        },
+        {
+          "hi": "एस. सोमनाथ, ए.एस. किरण कुमार, के. कस्तूरीरंगन और जी. माधवन",
+          "en": "S. Somanath, A.S. Kiran Kumar, K. Kasturirangan and G. Madhavan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (ISS) के लिए स्वैच्छिक मिशन Axiom-4 (Ax-4) हेतु प्राथमिक भारतीय अंतरिक्ष यात्री के रूप में किसे चुना गया है?",
+        "en": "Who has been selected as the primary Indian astronaut for the Axiom-4 (Ax-4) mission to the ISS?"
+      },
+      "o": [
+        {
+          "hi": "ग्रुप कैप्टन शुभांशु शुक्ला",
+          "en": "Group Captain Subhanshu Shukla"
+        },
+        {
+          "hi": "ग्रुप कैप्टन प्रशांत बालकृष्णन नायर",
+          "en": "Group Captain Prashanth Balakrishnan Nair"
+        },
+        {
+          "hi": "ग्रुप कैप्टन अजीत कृष्णन",
+          "en": "Group Captain Ajit Krishnan"
+        },
+        {
+          "hi": "ग्रुप कैप्टन अंगद प्रताप",
+          "en": "Group Captain Angad Pratap"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नासा और इसरो के संयुक्त दोहरे-आवृत्ति सिंथेटिक एपर्चर राडार उपग्रह का नाम क्या है?",
+        "en": "What is the name of the joint dual-frequency Synthetic Aperture Radar satellite of NASA and ISRO?"
+      },
+      "o": [
+        {
+          "hi": "इनसैट-3डीआर",
+          "en": "INSAT-3DR"
+        },
+        {
+          "hi": "ओशनसैट-3",
+          "en": "Oceansat-3"
+        },
+        {
+          "hi": "निसार (NISAR - NASA-ISRO Synthetic Aperture Radar)",
+          "en": "NISAR"
+        },
+        {
+          "hi": "मेघा-ट्रॉपिक्स",
+          "en": "Megha-Tropiques"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत सरकार द्वारा स्थापित किए जाने वाले भारतीय अंतरिक्ष स्टेशन (Bharatiya Antariksh Station - BAS) का लक्ष्य वर्ष क्या है?",
+        "en": "What is the target year for establishing the Bharatiya Antariksh Station (BAS) set by the Government of India?"
+      },
+      "o": [
+        {
+          "hi": "2035",
+          "en": "2035"
+        },
+        {
+          "hi": "2030",
+          "en": "2030"
+        },
+        {
+          "hi": "2040",
+          "en": "2040"
+        },
+        {
+          "hi": "2050",
+          "en": "2050"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चंद्रमा पर भारतीय एथलीट/अंतरिक्ष यात्री को भेजने (Manned Moon Landing) का भारत का लक्ष्य वर्ष क्या है?",
+        "en": "What is India's target year for sending an Indian astronaut to the Moon?"
+      },
+      "o": [
+        {
+          "hi": "2030",
+          "en": "2030"
+        },
+        {
+          "hi": "2040",
+          "en": "2040"
+        },
+        {
+          "hi": "2035",
+          "en": "2035"
+        },
+        {
+          "hi": "2045",
+          "en": "2045"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "इसरो के पुनरुपयोगी प्रक्षेपण यान स्वायत्त लैंडिंग मिशन (RLV-LEX) के सफल परीक्षण यान का क्या नाम है?",
+        "en": "What is the name of the vehicle tested successfully under ISRO's Reusable Launch Vehicle Autonomous Landing Experiment?"
+      },
+      "o": [
+        {
+          "hi": "गरुड़",
+          "en": "Garud"
+        },
+        {
+          "hi": "अग्निबाण",
+          "en": "Agnibaan"
+        },
+        {
+          "hi": "विक्रम-एस",
+          "en": "Vikram-S"
+        },
+        {
+          "hi": "पुष्पक (Pushpak)",
+          "en": "Pushpak"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चंद्रमा के दूरस्थ भाग (Far Side - South Pole Aitken Basin) से मिट्टी और चट्टान के नमूने लाने वाला दुनिया का पहला देश कौन सा बना?",
+        "en": "Which country became the first in the world to bring back soil and rock samples from the far side of the Moon (Chang'e-6)?"
+      },
+      "o": [
+        {
+          "hi": "चीन (Chang'e 6)",
+          "en": "China (Chang'e 6)"
+        },
+        {
+          "hi": "अमेरिका",
+          "en": "USA"
+        },
+        {
+          "hi": "रूस",
+          "en": "Russia"
+        },
+        {
+          "hi": "जापान",
+          "en": "Japan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चंद्रमा पर सटीक लैंडिंग (SLIM मिशन) करने वाला दुनिया का 5वाँ देश कौन सा बना?",
+        "en": "Which country became the 5th nation to successfully land on the Moon via its SLIM mission?"
+      },
+      "o": [
+        {
+          "hi": "भारत",
+          "en": "India"
+        },
+        {
+          "hi": "जापान",
+          "en": "Japan"
+        },
+        {
+          "hi": "इजराइल",
+          "en": "Israel"
+        },
+        {
+          "hi": "दक्षिण कोरिया",
+          "en": "South Korea"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नासा द्वारा चंद्रमा की परिक्रमा और खोज के लिए चलाए जा रहे मानवयुक्त चंद्र कार्यक्रम का नाम क्या है?",
+        "en": "What is the name of NASA's crewed lunar exploration program aimed at returning humans to the Moon?"
+      },
+      "o": [
+        {
+          "hi": "अपोलो कार्यक्रम",
+          "en": "Apollo Program"
+        },
+        {
+          "hi": "ओरियन मिशन",
+          "en": "Orion Mission"
+        },
+        {
+          "hi": "क्यूरियोसिटी मिशन",
+          "en": "Curiosity Mission"
+        },
+        {
+          "hi": "आर्टमिस कार्यक्रम (Artemis Program)",
+          "en": "Artemis Program"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नासा के किस अंतरिक्ष मिशन ने बृहस्पति के बर्फीले चंद्रमा यूरोपा का अध्ययन करने के लिए अक्टूबर 2024 में उड़ान भरी?",
+        "en": "Which NASA spacecraft was launched in Oct 2024 to study Jupiter's icy moon Europa?"
+      },
+      "o": [
+        {
+          "hi": "जूस (JUICE)",
+          "en": "JUICE"
+        },
+        {
+          "hi": "जूनो (Juno)",
+          "en": "Juno"
+        },
+        {
+          "hi": "यूरोपा क्लिपर (Europa Clipper)",
+          "en": "Europa Clipper"
+        },
+        {
+          "hi": "ड्रैगनफ्लाई",
+          "en": "Dragonfly"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नासा का कौन सा मिशन बेन्नू (Bennu) क्षुद्रग्रह (Asteroid) से नमूने लेकर सफलतापूर्वक पृथ्वी पर वापस लौटा?",
+        "en": "Which NASA mission successfully returned samples to Earth from the asteroid Bennu?"
+      },
+      "o": [
+        {
+          "hi": "हायाबुसा-2",
+          "en": "Hayabusa2"
+        },
+        {
+          "hi": "डार्ट (DART)",
+          "en": "DART"
+        },
+        {
+          "hi": "ओसिरिस-रेक्स (OSIRIS-REx)",
+          "en": "OSIRIS-REx"
+        },
+        {
+          "hi": "साइके (Psyche)",
+          "en": "Psyche"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नासा का 'साइके' (Psyche) मिशन किस प्रकार के खगोलीय पिंड का अध्ययन करने के लिए लॉन्च किया गया है?",
+        "en": "NASA's 'Psyche' mission was launched to explore what type of celestial body?"
+      },
+      "o": [
+        {
+          "hi": "बर्फ का धूमकेतु",
+          "en": "Icy Comet"
+        },
+        {
+          "hi": "गैस दानव ग्रह",
+          "en": "Gas Giant Planet"
+        },
+        {
+          "hi": "बौना ग्रह",
+          "en": "Dwarf Planet"
+        },
+        {
+          "hi": "धातु से समृद्ध क्षुद्रग्रह (Metal-Rich Asteroid 16 Psyche)",
+          "en": "Metal-Rich Asteroid 16 Psyche"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सी-डैक (C-DAC) पुणे में स्थापित भारत का एआई सुपरकंप्यूटर जो विश्व के शीर्ष 500 सुपरकंप्यूटरों में शामिल है, उसका क्या नाम है?",
+        "en": "What is the name of India's AI supercomputer installed at C-DAC Pune ranked in TOP500 globally?"
+      },
+      "o": [
+        {
+          "hi": "परम सिद्धि",
+          "en": "Param Siddhi"
+        },
+        {
+          "hi": "ऐरावत (AIRAWAT - AI)",
+          "en": "AIRAWAT - AI"
+        },
+        {
+          "hi": "प्रत्युष",
+          "en": "Pratyush"
+        },
+        {
+          "hi": "मिहिर",
+          "en": "Mihir"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "केंद्र सरकार द्वारा स्वीकृत राष्ट्रीय क्वांटम मिशन (National Quantum Mission) की कुल लागत कितनी है?",
+        "en": "What is the total outlay approved by the Union Cabinet for the National Quantum Mission (2023-2031)?"
+      },
+      "o": [
+        {
+          "hi": "₹10,000 करोड़",
+          "en": "₹10,000 Crore"
+        },
+        {
+          "hi": "₹6,003.65 करोड़",
+          "en": "₹6,003.65 Crore"
+        },
+        {
+          "hi": "₹4,500 करोड़",
+          "en": "₹4,500 Crore"
+        },
+        {
+          "hi": "₹8,000 करोड़",
+          "en": "₹8,000 Crore"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नवंबर 2023 में यूके में आयोजित एआई सुरक्षा शिखर सम्मेलन में हस्ताक्षरित ऐतिहासिक घोषणा पत्र का क्या नाम है?",
+        "en": "What is the name of the landmark declaration on AI safety signed at the UK AI Safety Summit 2023?"
+      },
+      "o": [
+        {
+          "hi": "लंदन घोषणा पत्र",
+          "en": "London Declaration"
+        },
+        {
+          "hi": "जेनेवा एआई समझौता",
+          "en": "Geneva AI Accord"
+        },
+        {
+          "hi": "ब्लेचले घोषणा पत्र (Bletchley Declaration)",
+          "en": "Bletchley Declaration"
+        },
+        {
+          "hi": "पेरिस पैक्ट",
+          "en": "Paris Pact"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कृत्रिम बुद्धिमत्ता (AI) को विनियमित करने के लिए दुनिया का पहला व्यापक कानून (AI Act) पारित करने वाला संगठन कौन सा है?",
+        "en": "Which organization passed the world's first comprehensive law (AI Act) regulating Artificial Intelligence?"
+      },
+      "o": [
+        {
+          "hi": "संयुक्त राष्ट्र (UN)",
+          "en": "United Nations"
+        },
+        {
+          "hi": "यूरोपीय संघ (European Union)",
+          "en": "European Union"
+        },
+        {
+          "hi": "G7 देश",
+          "en": "G7 Countries"
+        },
+        {
+          "hi": "ओईसीडी (OECD)",
+          "en": "OECD"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत बायोटेक द्वारा विकसित दुनिया की पहली सुई-रहित नेज़ल (Intranasal) कोविड-19 वैक्सीन का क्या नाम है?",
+        "en": "What is the name of the world's first needle-free intranasal COVID-19 vaccine developed by Bharat Biotech?"
+      },
+      "o": [
+        {
+          "hi": "कोवैक्सीन",
+          "en": "Covaxin"
+        },
+        {
+          "hi": "कोविशील्ड",
+          "en": "Covishield"
+        },
+        {
+          "hi": "ज़ाइकोव-डी",
+          "en": "ZyCoV-D"
+        },
+        {
+          "hi": "इनकोवैक (iNCOVACC - iBB154)",
+          "en": "iNCOVACC"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सर्वाइकल कैंसर (गर्भाशय ग्रीवा के कैंसर) की रोकथाम के लिए सीरम इंस्टीट्यूट ऑफ इंडिया द्वारा निर्मित पहली स्वदेशी वैक्सीन कौन सी है?",
+        "en": "Which is India's first indigenous qHPV vaccine for prevention of cervical cancer manufactured by Serum Institute?"
+      },
+      "o": [
+        {
+          "hi": "गार्डासिल",
+          "en": "Gardasil"
+        },
+        {
+          "hi": "सर्वारिक्स",
+          "en": "Cervarix"
+        },
+        {
+          "hi": "इनकोवैक",
+          "en": "iNCOVACC"
+        },
+        {
+          "hi": "सर्ववैक (Cervavac)",
+          "en": "Cervavac"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आईआईटी बॉम्बे और टाटा मेमोरियल सेंटर द्वारा विकसित भारत की पहली स्वदेशी कार-टी सेल थेरेपी (CAR-T Cell Therapy) का नाम क्या है?",
+        "en": "What is the name of India's first indigenous CAR-T cell therapy for cancer treatment approved by CDSCO?"
+      },
+      "o": [
+        {
+          "hi": "ऑन्कोकेयर19",
+          "en": "OncoCare19"
+        },
+        {
+          "hi": "नेक्सकार19 (NexCAR19)",
+          "en": "NexCAR19"
+        },
+        {
+          "hi": "इम्यूनोकार9",
+          "en": "ImmunoCAR9"
+        },
+        {
+          "hi": "कैंसरक्योर19",
+          "en": "CancerCure19"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रधानमंत्री द्वारा राष्ट्रीय सिक्ल सेल एनीमिया उन्मूलन मिशन (National Sickle Cell Anemia Elimination Mission) का लक्ष्य वर्ष क्या निर्धारित किया गया है?",
+        "en": "What is the target year set by PM for National Sickle Cell Anemia Elimination Mission launched from Shahdol, MP?"
+      },
+      "o": [
+        {
+          "hi": "2030",
+          "en": "2030"
+        },
+        {
+          "hi": "2035",
+          "en": "2035"
+        },
+        {
+          "hi": "2047",
+          "en": "2047"
+        },
+        {
+          "hi": "2040",
+          "en": "2040"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रीय हरित हाइड्रोजन मिशन (National Green Hydrogen Mission) के तहत 2030 तक प्रतिवर्ष कितना हरित हाइड्रोजन उत्पादन का लक्ष्य है?",
+        "en": "What is the target annual production capacity of Green Hydrogen by 2030 under National Green Hydrogen Mission?"
+      },
+      "o": [
+        {
+          "hi": "2 MMT",
+          "en": "2 MMT"
+        },
+        {
+          "hi": "10 MMT",
+          "en": "10 MMT"
+        },
+        {
+          "hi": "8 MMT",
+          "en": "8 MMT"
+        },
+        {
+          "hi": "5 मिलियन मीट्रिक टन (5 MMT)",
+          "en": "5 Million Metric Tonnes (5 MMT)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत का पहला 6,000 मीटर गहरा मानवयुक्त महासागर अन्वेषण मिशन (Deep Ocean Mission) कौन सा है?",
+        "en": "Which is India's flagship 6,000m deep-sea crewed submersible mission under Deep Ocean Mission?"
+      },
+      "o": [
+        {
+          "hi": "सागरयान",
+          "en": "Sagaryaan"
+        },
+        {
+          "hi": "वरुणयान",
+          "en": "Varunayaan"
+        },
+        {
+          "hi": "सिंधुयान",
+          "en": "Sindhuyaan"
+        },
+        {
+          "hi": "समुद्रयान (मत्स्य 6000)",
+          "en": "Samudrayaan (Matsya 6000)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "टाटा समूह और पॉवरचिप (PSMC) द्वारा भारत की पहली कमर्शियल सेमीकंडक्टर फैब्रिकेशन इकाई (Semiconductor Fab) कहाँ स्थापित की जा रही है?",
+        "en": "Where is India's first commercial Semiconductor Fab being set up by Tata Group and PSMC?"
+      },
+      "o": [
+        {
+          "hi": "साणंद (गुजरात)",
+          "en": "Sanand (Gujarat)"
+        },
+        {
+          "hi": "धोलेरा (गुजरात)",
+          "en": "Dholera (Gujarat)"
+        },
+        {
+          "hi": "जेवर (उत्तर प्रदेश)",
+          "en": "Jewar (Uttar Pradesh)"
+        },
+        {
+          "hi": "श्रीपेरंबदूर (तमिलनाडु)",
+          "en": "Sriperumbudur (Tamil Nadu)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "माइक्रॉन टेक्नोलॉजी (Micron) द्वारा भारत में पहला सेमीकंडक्टर असेंबली और परीक्षण (ATMP) प्लांट कहाँ स्थापित किया जा रहा है?",
+        "en": "Where is Micron Technology establishing India's first Semiconductor ATMP plant?"
+      },
+      "o": [
+        {
+          "hi": "धोलेरा (गुजरात)",
+          "en": "Dholera (Gujarat)"
+        },
+        {
+          "hi": "नोएडा (उत्तर प्रदेश)",
+          "en": "Noida (Uttar Pradesh)"
+        },
+        {
+          "hi": "बेंगलुरु (कर्नाटक)",
+          "en": "Bengaluru (Karnataka)"
+        },
+        {
+          "hi": "साणंद (गुजरात)",
+          "en": "Sanand (Gujarat)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत की पहली हाइड्रोजन से चलने वाली ट्रेन (Hydrogen-Powered Train) का परीक्षण किस रेल मार्ग पर शुरू किया जा रहा है?",
+        "en": "India's first hydrogen-powered train is being launched on which railway route?"
+      },
+      "o": [
+        {
+          "hi": "कालका-शिमला मार्ग",
+          "en": "Kalka-Shimla Route"
+        },
+        {
+          "hi": "दार्जिलिंग हिमालयन मार्ग",
+          "en": "Darjeeling Himalayan Route"
+        },
+        {
+          "hi": "जींद-सोनीपत मार्ग (हरियाणा)",
+          "en": "Jind-Sonipat Route (Haryana)"
+        },
+        {
+          "hi": "नीलगिरी माउंटेन मार्ग",
+          "en": "Nilgiri Mountain Route"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दुनिया की पहली 100% इथेनॉल से चलने वाली फ्लेक्स-फ्यूल कार (Flex-Fuel Prototype Innova) का अनावरण किस मंत्री द्वारा किया गया?",
+        "en": "Which minister unveiled the world's first 100% ethanol-fueled flex-fuel electrified vehicle prototype in India?"
+      },
+      "o": [
+        {
+          "hi": "अश्विनी वैष्णव",
+          "en": "Ashwini Vaishnaw"
+        },
+        {
+          "hi": "नितिन गडकरी",
+          "en": "Nitin Gadkari"
+        },
+        {
+          "hi": "हरदीप सिंह पुरी",
+          "en": "Hardeep Singh Puri"
+        },
+        {
+          "hi": "पीयूष गोयल",
+          "en": "Piyush Goyal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ओपनएआई (OpenAI) द्वारा पेश किया गया एआई टेक्स्ट-टू-वीडियो मॉडल जो यथार्थवादी वीडियो बनाने में सक्षम है, उसका नाम क्या है?",
+        "en": "What is the name of OpenAI's AI model capable of generating realistic videos from text prompts?"
+      },
+      "o": [
+        {
+          "hi": "डाल-ई 3 (DALL-E 3)",
+          "en": "DALL-E 3"
+        },
+        {
+          "hi": "मिडजर्नी",
+          "en": "Midjourney"
+        },
+        {
+          "hi": "सोरा (Sora)",
+          "en": "Sora"
+        },
+        {
+          "hi": "रनवे जेन-2",
+          "en": "Runway Gen-2"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भाविश अग्रवाल (ओला) द्वारा शुरू किए गए भारत के पहले आर्टिफिशियल इंटेलिजेंस यूनिकॉर्न का क्या नाम है?",
+        "en": "What is the name of India's first AI unicorn startup founded by Bhavish Aggarwal (Ola)?"
+      },
+      "o": [
+        {
+          "hi": "हनुमान एआई (Hanooman)",
+          "en": "Hanooman AI"
+        },
+        {
+          "hi": "सर्वम एआई (Sarvam AI)",
+          "en": "Sarvam AI"
+        },
+        {
+          "hi": "भारतजीपीटी (BharatGPT)",
+          "en": "BharatGPT"
+        },
+        {
+          "hi": "कृत्रिम (Krutrim AI)",
+          "en": "Krutrim AI"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आईआईटी बॉम्बे और भारतजीपीटी इकोसिस्टम द्वारा समर्थित 14 भारतीय भाषाओं में काम करने वाले बहुभाषी एआई मॉडल का क्या नाम है?",
+        "en": "What is the name of the Indic AI model working in 14 Indian languages backed by IIT Bombay and Seethos?"
+      },
+      "o": [
+        {
+          "hi": "हनुमान (Hanooman AI)",
+          "en": "Hanooman AI"
+        },
+        {
+          "hi": "कृत्रिम एआई",
+          "en": "Krutrim AI"
+        },
+        {
+          "hi": "सर्वम एआई",
+          "en": "Sarvam AI"
+        },
+        {
+          "hi": "भाषिणी एआई",
+          "en": "Bhashini AI"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत सरकार द्वारा विभिन्न भारतीय भाषाओं के बीच अनुवाद की सुविधा के लिए शुरू किए गए एआई संचालित भाषा अनुवाद मंच का नाम क्या है?",
+        "en": "What is the name of the AI-powered language translation platform launched by GoI to bridge language barriers?"
+      },
+      "o": [
+        {
+          "hi": "भाषिणी (Bhashini / Bhasha Burman)",
+          "en": "Bhashini"
+        },
+        {
+          "hi": "गूगल ट्रांसलेट",
+          "en": "Google Translate"
+        },
+        {
+          "hi": "अनुवादिनी",
+          "en": "Anuvadini"
+        },
+        {
+          "hi": "भाषा संगम",
+          "en": "Bhasha Sangam"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इसरो द्वारा विकसित नेविगेशन उपग्रह प्रणाली (NavIC) का पूर्ण नाम क्या है?",
+        "en": "What is the full expansion of India's indigenous satellite navigation system NavIC?"
+      },
+      "o": [
+        {
+          "hi": "National Aviation and Inland Compass",
+          "en": "National Aviation and Inland Compass"
+        },
+        {
+          "hi": "Navigational Asset for Indian Coverage",
+          "en": "Navigational Asset for Indian Coverage"
+        },
+        {
+          "hi": "Navigation with Indian Constellation",
+          "en": "Navigation with Indian Constellation"
+        },
+        {
+          "hi": "New Advanced Indian Communication",
+          "en": "New Advanced Indian Communication"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नेविक (NavIC) उपग्रह श्रृंखला के दूसरी पीढ़ी के पहले उपग्रह का क्या नाम है जिसे मई 2023 में GSLV-F12 द्वारा लॉन्च किया गया?",
+        "en": "What is the name of the 1st second-generation NavIC satellite launched by GSLV-F12?"
+      },
+      "o": [
+        {
+          "hi": "आईआरएनएसएस-1जे",
+          "en": "IRNSS-1J"
+        },
+        {
+          "hi": "जीसैट-30",
+          "en": "GSAT-30"
+        },
+        {
+          "hi": "ईओएस-06",
+          "en": "EOS-06"
+        },
+        {
+          "hi": "एनवीएस-01 (NVS-01)",
+          "en": "NVS-01"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इसरो के सबसे छोटे उपग्रह प्रक्षेपण यान (Small Satellite Launch Vehicle) का संक्षिप्त नाम क्या है?",
+        "en": "What is the short acronym for ISRO's Small Satellite Launch Vehicle?"
+      },
+      "o": [
+        {
+          "hi": "एसएसएलवी (SSLV)",
+          "en": "SSLV"
+        },
+        {
+          "hi": "पीएसएलवी",
+          "en": "PSLV"
+        },
+        {
+          "hi": "जीएसएलवी",
+          "en": "GSLV"
+        },
+        {
+          "hi": "आरएलवी",
+          "en": "RLV"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इसरो के तीसरे रॉकेट लॉन्च पैड का निर्माण तमिलनाडु के किस स्थान पर किया जा रहा है?",
+        "en": "Where is ISRO constructing its second spaceport/launch complex specifically for SSLVs in Tamil Nadu?"
+      },
+      "o": [
+        {
+          "hi": "श्रीहरिकोटा",
+          "en": "Sriharikota"
+        },
+        {
+          "hi": "थुम्बा",
+          "en": "Thumba"
+        },
+        {
+          "hi": "महेंद्रगिरि",
+          "en": "Mahendragiri"
+        },
+        {
+          "hi": "कुलशेखरपट्टिनम (Kulasekarapattinam)",
+          "en": "Kulasekarapattinam"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व स्वास्थ्य संगठन (WHO) द्वारा मलेरिया की दूसरी किस वैक्सीन 'R21/Matrix-M' को मंजूरी दी गई जिसे ऑक्सफोर्ड और सीरम इंस्टीट्यूट द्वारा विकसित किया गया?",
+        "en": "Which second malaria vaccine developed by Oxford and SII was recommended by WHO?"
+      },
+      "o": [
+        {
+          "hi": "R21/Matrix-M",
+          "en": "R21/Matrix-M"
+        },
+        {
+          "hi": "मॉस्क्युरिक्स (RTS,S)",
+          "en": "Mosquirix (RTS,S)"
+        },
+        {
+          "hi": "मलेरिएक्स",
+          "en": "Maleriex"
+        },
+        {
+          "hi": "डेंगूवैक",
+          "en": "Dengvaxia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का पहला थर्माप्लास्टिक अपशिष्ट से बने हरित ईंधन संयंत्र का उद्घाटन भारत में कहाँ हुआ?",
+        "en": "Where was India's first plant turning plastic waste into green fuel/diesel inaugurated?"
+      },
+      "o": [
+        {
+          "hi": "इंदौर (मध्य प्रदेश)",
+          "en": "Indore (Madhya Pradesh)"
+        },
+        {
+          "hi": "सूरत (गुजरात)",
+          "en": "Surat (Gujarat)"
+        },
+        {
+          "hi": "देहरादून (उत्तराखंड)",
+          "en": "Dehradun (Uttarakhand)"
+        },
+        {
+          "hi": "पुणे (महाराष्ट्र)",
+          "en": "Pune (Maharashtra)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का पहला सौर ऊर्जा संचालित गाँव (Solar-Powered Village) किसे घोषित किया गया है?",
+        "en": "Which village in Gujarat was declared as India's first 24x7 solar-powered village?"
+      },
+      "o": [
+        {
+          "hi": "मोढेरा (गुजरात)",
+          "en": "Modhera (Gujarat)"
+        },
+        {
+          "hi": "केवड़िया (गुजरात)",
+          "en": "Kevadia (Gujarat)"
+        },
+        {
+          "hi": "माणा (उत्तराखंड)",
+          "en": "Mana (Uttarakhand)"
+        },
+        {
+          "hi": "पुंसरी (गुजरात)",
+          "en": "Punsari (Gujarat)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का पहला पूर्ण रूप से सौर ऊर्जा संचालित सौर शहर (Solar City) कौन सा बना है?",
+        "en": "Which city in Madhya Pradesh became India's first Solar City?"
+      },
+      "o": [
+        {
+          "hi": "उज्जैन",
+          "en": "Ujjain"
+        },
+        {
+          "hi": "सांची (मध्य प्रदेश)",
+          "en": "Sanchi (Madhya Pradesh)"
+        },
+        {
+          "hi": "इंदौर",
+          "en": "Indore"
+        },
+        {
+          "hi": "भोपाल",
+          "en": "Bhopal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "इसरो का ध्रुवीय उपग्रह प्रक्षेपण यान (PSLV) अपने प्रक्षेपण क्रम की किस संख्या पर पहुँच चुका है?",
+        "en": "ISRO's workhorse rocket PSLV launched XPoSAT on its 60th flight. What is its acronym?"
+      },
+      "o": [
+        {
+          "hi": "Polar Satellite Launch Vehicle",
+          "en": "Polar Satellite Launch Vehicle"
+        },
+        {
+          "hi": "Precision Satellite Launch Vehicle",
+          "en": "Precision Satellite Launch Vehicle"
+        },
+        {
+          "hi": "Payload Satellite Launch Vehicle",
+          "en": "Payload Satellite Launch Vehicle"
+        },
+        {
+          "hi": "Primary Satellite Launch Vehicle",
+          "en": "Primary Satellite Launch Vehicle"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इसरो द्वारा प्रक्षेपित 'मौसम उपग्रह' जो उन्नत मौसम संबंधी पूर्वानुमान प्रदान करता है, उसका नाम क्या है?",
+        "en": "What is the name of ISRO's meteorological satellite launched aboard GSLV-F14 in Feb 2024?"
+      },
+      "o": [
+        {
+          "hi": "कार्टोसैट-3",
+          "en": "Cartosat-3"
+        },
+        {
+          "hi": "रीसैट-1बी",
+          "en": "RISAT-1B"
+        },
+        {
+          "hi": "इंसाट-3डीएस (INSAT-3DS)",
+          "en": "INSAT-3DS"
+        },
+        {
+          "hi": "सरल (SARAL)",
+          "en": "SARAL"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व का पहला 3D-प्रिंटेड रॉकेट 'अग्निबाण' (Agnibaan SORTED) किस भारतीय स्पेस-स्टार्टअप द्वारा प्रक्षेपित किया गया?",
+        "en": "Which Indian space startup successfully test-launched the world's 1st 3D-printed rocket engine 'Agnibaan'?"
+      },
+      "o": [
+        {
+          "hi": "अग्निकुल कॉस्मॉस (Agnikul Cosmos)",
+          "en": "Agnikul Cosmos"
+        },
+        {
+          "hi": "स्काईरूट एयरोस्पेस",
+          "en": "Skyroot Aerospace"
+        },
+        {
+          "hi": "पिक्सेल",
+          "en": "Pixaxel"
+        },
+        {
+          "hi": "ध्रुव स्पेस",
+          "en": "Dhruva Space"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का पहला निजी तौर पर विकसित रॉकेट 'विक्रम-एस' (Vikram-S) किस स्पेस-स्टार्टअप द्वारा लॉन्च किया गया था?",
+        "en": "Which private space company developed India's first privately built rocket 'Vikram-S'?"
+      },
+      "o": [
+        {
+          "hi": "अग्निकुल कॉस्मॉस",
+          "en": "Agnikul Cosmos"
+        },
+        {
+          "hi": "स्काईरूट एयरोस्पेस (Skyroot Aerospace)",
+          "en": "Skyroot Aerospace"
+        },
+        {
+          "hi": "बेलैट्रिक्स एयरोस्पेस",
+          "en": "Bellatrix Aerospace"
+        },
+        {
+          "hi": "एस्ट्रोम",
+          "en": "Astrome"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नासा के जेम्स वेब स्पेस टेलीस्कोप (JWST) में मुख्य दर्पण (Primary Mirror) किस धातु से लेपित है?",
+        "en": "The primary mirror of NASA's James Webb Space Telescope (JWST) is coated with which material?"
+      },
+      "o": [
+        {
+          "hi": "चांदी",
+          "en": "Silver"
+        },
+        {
+          "hi": "एल्युमीनियम",
+          "en": "Aluminum"
+        },
+        {
+          "hi": "सोना (Gold-coated Beryllium)",
+          "en": "Gold-coated Beryllium"
+        },
+        {
+          "hi": "प्लेटिनम",
+          "en": "Platinum"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जेम्स वेब स्पेस टेलीस्कोप किस प्रकाश तरंगदैर्ध्य (Wavelength) क्षेत्र में मुख्य रूप से अवलोकन करता है?",
+        "en": "In which primary wavelength band does the James Webb Space Telescope observe the cosmos?"
+      },
+      "o": [
+        {
+          "hi": "पराबैंगनी प्रकाश (Ultraviolet)",
+          "en": "Ultraviolet"
+        },
+        {
+          "hi": "दृश्यमान प्रकाश (Visible Light)",
+          "en": "Visible Light"
+        },
+        {
+          "hi": "इंफ्राड/अवरक्त प्रकाश (Infrared)",
+          "en": "Infrared"
+        },
+        {
+          "hi": "एक्स-रे (X-Ray)",
+          "en": "X-Ray"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व की पहली जेनेटिकली मॉडिफाइड (GM) सरसों की किस्म जिसे GEAC द्वारा व्यावसायिक खेती की स्वीकृति दी गई, उसका क्या नाम है?",
+        "en": "What is the name of India's first Genetically Modified (GM) mustard hybrid approved by GEAC?"
+      },
+      "o": [
+        {
+          "hi": "बीटी सरसों-1",
+          "en": "Bt Mustard-1"
+        },
+        {
+          "hi": "धारा मस्टर्ड हाइब्रिड-11 (DMH-11)",
+          "en": "Dhara Mustard Hybrid-11 (DMH-11)"
+        },
+        {
+          "hi": "पूसा पूसा हाइब्रिड",
+          "en": "Pusa Hybrid"
+        },
+        {
+          "hi": "वरुणा हाइब्रिड",
+          "en": "Varuna Hybrid"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सुपरकंप्यूटिंग के क्षेत्र में भारत के राष्ट्रीय सुपरकंप्यूटिंग मिशन (NSM) का क्रियान्वयन किन संस्थाओं द्वारा किया जा रहा है?",
+        "en": "Which organizations implement India's National Supercomputing Mission (NSM)?"
+      },
+      "o": [
+        {
+          "hi": "C-DAC और IISc बेंगलुरु",
+          "en": "C-DAC and IISc Bengaluru"
+        },
+        {
+          "hi": "ISRO और DRDO",
+          "en": "ISRO and DRDO"
+        },
+        {
+          "hi": "IIT बॉम्बे और TIFR",
+          "en": "IIT Bombay and TIFR"
+        },
+        {
+          "hi": "NIC और NITI Aayog",
+          "en": "NIC and NITI Aayog"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व स्वास्थ्य संगठन (WHO) द्वारा घोषित 'ग्लोबल इनिशिएटिव ऑन डिजिटल हेल्थ' (GIDH) का शुभारंभ किस देश की अध्यक्षता में हुआ?",
+        "en": "Under which country's presidency was WHO's Global Initiative on Digital Health (GIDH) launched?"
+      },
+      "o": [
+        {
+          "hi": "अमेरिका",
+          "en": "USA"
+        },
+        {
+          "hi": "ब्राजील",
+          "en": "Brazil"
+        },
+        {
+          "hi": "जापान",
+          "en": "Japan"
+        },
+        {
+          "hi": "भारत (G20 अध्यक्षता के दौरान)",
+          "en": "India (G20 Presidency)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय प्रौद्योगिकी संस्थान (IIT) मद्रास ने अपना पहला अंतर्राष्ट्रीय परिसर (International Campus) किस देश में स्थापित किया?",
+        "en": "In which country did IIT Madras open its first international offshore campus?"
+      },
+      "o": [
+        {
+          "hi": "अबू धाबी (यूएई)",
+          "en": "Abu Dhabi (UAE)"
+        },
+        {
+          "hi": "कोलंबो (श्रीलंका)",
+          "en": "Colombo (Sri Lanka)"
+        },
+        {
+          "hi": "काठमांडू (नेपाल)",
+          "en": "Kathmandu (Nepal)"
+        },
+        {
+          "hi": "ज़ंजीबार (तंजानिया)",
+          "en": "Zanzibar (Tanzania)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आईआईटी दिल्ली ने अपना पहला अंतर्राष्ट्रीय परिसर (International Campus) किस स्थान पर स्थापित करने की घोषणा की?",
+        "en": "Where has IIT Delhi established its first international offshore campus?"
+      },
+      "o": [
+        {
+          "hi": "अबू धाबी (संयुक्त अरब अमीरात)",
+          "en": "Abu Dhabi (UAE)"
+        },
+        {
+          "hi": "ज़ंजीबार (तंजानिया)",
+          "en": "Zanzibar (Tanzania)"
+        },
+        {
+          "hi": "दुबई (यूएई)",
+          "en": "Dubai (UAE)"
+        },
+        {
+          "hi": "दोहा (कतार)",
+          "en": "Doha (Qatar)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का पहला एआई-संचालित एंटी-ड्रोन सिस्टम 'इंद्रजाल' (Indrajaal) किस भारतीय कंपनी द्वारा विकसित किया गया है?",
+        "en": "Which Indian company developed 'Indrajaal', the world's 1st AI-powered anti-drone dome system?"
+      },
+      "o": [
+        {
+          "hi": "टाटा एडवांस्ड सिस्टम्स",
+          "en": "Tata Advanced Systems"
+        },
+        {
+          "hi": "भारत इलेक्ट्रॉनिक्स लिमिटेड",
+          "en": "Bharat Electronics Limited"
+        },
+        {
+          "hi": "ग्रीने रोबोटिक्स (Grene Robotics - हैदराबाद)",
+          "en": "Grene Robotics (Hyderabad)"
+        },
+        {
+          "hi": "अग्निकुल कॉस्मॉस",
+          "en": "Agnikul Cosmos"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय रिजर्व बैंक (RBI) द्वारा शुरू की गई भारत की अपनी सेंट्रल बैंक डिजिटल करेंसी (CBDC) का नाम क्या है?",
+        "en": "What is the official name of Central Bank Digital Currency (CBDC) launched by RBI?"
+      },
+      "o": [
+        {
+          "hi": "भारत कॉइन",
+          "en": "Bharat Coin"
+        },
+        {
+          "hi": "डिजिटल पैसा",
+          "en": "Digital Paisa"
+        },
+        {
+          "hi": "रुपया क्रिप्टो",
+          "en": "Rupee Crypto"
+        },
+        {
+          "hi": "ई-रुपया (Digital Rupee / e-Rupee)",
+          "en": "e-Rupee (Digital Rupee)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समुद्र के पानी को पीने योग्य बनाने के लिए 'कम दबाव वाली तटीय विलवणीकरण' (LTTD) तकनीक किस संस्थान द्वारा विकसित की गई है?",
+        "en": "Which institute developed LTTD desalination technology to produce drinking water from seawater?"
+      },
+      "o": [
+        {
+          "hi": "राष्ट्रीय महासागर प्रौद्योगिकी संस्थान (NIOT - चेन्नई)",
+          "en": "National Institute of Ocean Technology (NIOT)"
+        },
+        {
+          "hi": "आईआईटी मद्रास",
+          "en": "IIT Madras"
+        },
+        {
+          "hi": "भाभा परमाणु अनुसंधान केंद्र (BARC)",
+          "en": "BARC"
+        },
+        {
+          "hi": "सीएसआईआर-नेरी",
+          "en": "CSIR-NEERI"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत के अंतरिक्ष अनुसंधान के जनक किसे माना जाता है?",
+        "en": "Who is regarded as the Father of Indian Space Program?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. विक्रम साराभाई",
+          "en": "Dr. Vikram Sarabhai"
+        },
+        {
+          "hi": "डॉ. ए.पी.जे. अब्दुल कलाम",
+          "en": "Dr. A.P.J. Abdul Kalam"
+        },
+        {
+          "hi": "डॉ. होमी जहांगीर भाभा",
+          "en": "Dr. Homi Jehangir Bhabha"
+        },
+        {
+          "hi": "डॉ. सतीश धवन",
+          "en": "Dr. Satish Dhawan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत के परमाणु कार्यक्रम के जनक किसे कहा जाता है?",
+        "en": "Who is revered as the Father of the Indian Nuclear Program?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. विक्रम साराभाई",
+          "en": "Dr. Vikram Sarabhai"
+        },
+        {
+          "hi": "डॉ. होमी जहांगीर भाभा",
+          "en": "Dr. Homi Jehangir Bhabha"
+        },
+        {
+          "hi": "डॉ. ए.पी.जे. अब्दुल कलाम",
+          "en": "Dr. A.P.J. Abdul Kalam"
+        },
+        {
+          "hi": "डॉ. राजा रामन्ना",
+          "en": "Dr. Raja Ramanna"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत की मिसाइल क्रांति के जनक और 'मिसाइल मैन ऑफ़ इंडिया' के रूप में किसे जाना जाता है?",
+        "en": "Who is affectionately known as the 'Missile Man of India'?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. होमी भाभा",
+          "en": "Dr. Homi Bhabha"
+        },
+        {
+          "hi": "डॉ. के. सिवन",
+          "en": "Dr. K. Sivan"
+        },
+        {
+          "hi": "डॉ. ए.पी.जे. अब्दुल कलाम",
+          "en": "Dr. A.P.J. Abdul Kalam"
+        },
+        {
+          "hi": "डॉ. जी. सतीश रेड्डी",
+          "en": "Dr. G. Satheesh Reddy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत की 'मिसाइल वुमन ऑफ इंडिया' (Missile Woman of India) के रूप में प्रसिद्ध वैज्ञानिक कौन हैं?",
+        "en": "Who is famously known as the 'Missile Woman of India' for leading Agni-IV project?"
+      },
+      "o": [
+        {
+          "hi": "ऋतु करिधाल",
+          "en": "Ritu Karidhal"
+        },
+        {
+          "hi": "मुथैया वनिता",
+          "en": "Muthayya Vanitha"
+        },
+        {
+          "hi": "एन. वलारमथी",
+          "en": "N. Valarmathi"
+        },
+        {
+          "hi": "डॉ. टेसी थॉमस (Dr. Tessy Thomas)",
+          "en": "Dr. Tessy Thomas"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चंद्रयान-3 मिशन की निदेशक (Mission Director) के रूप में कार्य करने वाली इसरो की महिला वैज्ञानिक कौन हैं?",
+        "en": "Who served as the Mission Director for Chandrayaan-3 at ISRO?"
+      },
+      "o": [
+        {
+          "hi": "टेसी थॉमस",
+          "en": "Tessy Thomas"
+        },
+        {
+          "hi": "डॉ. ऋतु करिधाल श्रीवास्तव / एस. मोहना कुमार",
+          "en": "S. Mohana Kumar / Dr. Ritu Karidhal"
+        },
+        {
+          "hi": "एन. वलारमथी",
+          "en": "N. Valarmathi"
+        },
+        {
+          "hi": "मंगला मणि",
+          "en": "Mangala Mani"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चंद्रयान-3 के प्रोजेक्ट डायरेक्टर (Project Director) कौन थे?",
+        "en": "Who was the Project Director of Chandrayaan-3 mission at ISRO?"
+      },
+      "o": [
+        {
+          "hi": "एस. सोमनाथ",
+          "en": "S. Somanath"
+        },
+        {
+          "hi": "एम. वनिता",
+          "en": "M. Vanitha"
+        },
+        {
+          "hi": "के. सिवन",
+          "en": "K. Sivan"
+        },
+        {
+          "hi": "पी. वीरमुथुवेल (P. Veeramuthuvel)",
+          "en": "P. Veeramuthuvel"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आदित्य-L1 मिशन के प्रोजेक्ट डायरेक्टर (Project Director) कौन हैं?",
+        "en": "Who is the Project Director of India's Aditya-L1 solar mission?"
+      },
+      "o": [
+        {
+          "hi": "पी. वीरमुथुवेल",
+          "en": "P. Veeramuthuvel"
+        },
+        {
+          "hi": "ऋतु करिधाल",
+          "en": "Ritu Karidhal"
+        },
+        {
+          "hi": "निगार शाजी (Nigar Shaji)",
+          "en": "Nigar Shaji"
+        },
+        {
+          "hi": "टेसी थॉमस",
+          "en": "Tessy Thomas"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "परमाणु ऊर्जा संयंत्र में बिजली उत्पन्न करने वाला भारत का पहला स्वदेशी 700 मेगावाट का काकरापार परमाणु ऊर्जा संयंत्र (KAPP-3) किस राज्य में स्थित है?",
+        "en": "India's 1st indigenous 700 MW Pressurised Heavy Water Reactor Kakrapar Unit-3 is in which state?"
+      },
+      "o": [
+        {
+          "hi": "गुजरात",
+          "en": "Gujarat"
+        },
+        {
+          "hi": "राजस्थान",
+          "en": "Rajasthan"
+        },
+        {
+          "hi": "तमिलनाडु",
+          "en": "Tamil Nadu"
+        },
+        {
+          "hi": "कर्नाटक",
+          "en": "Karnataka"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का पहला फास्ट ब्रीडर रीएक्टर (PFBR - 500 MW) कहाँ कोर-लोडिंग हेतु स्थापित किया गया है?",
+        "en": "Where was the core loading of India's first Prototype Fast Breeder Reactor (PFBR - 500 MW) initiated?"
+      },
+      "o": [
+        {
+          "hi": "कल्पक्कम (तमिलनाडु)",
+          "en": "Kalpakkam (Tamil Nadu)"
+        },
+        {
+          "hi": "कुडनकुलम (तमिलनाडु)",
+          "en": "Kudankulam (Tamil Nadu)"
+        },
+        {
+          "hi": "तारापुर (महाराष्ट्र)",
+          "en": "Tarapur (Maharashtra)"
+        },
+        {
+          "hi": "कैगा (कर्नाटक)",
+          "en": "Kaiga (Karnataka)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का पहला डार्क स्काई रिजर्व (Dark Sky Reserve) कहाँ स्थापित किया जा रहा है?",
+        "en": "Where is India's first Dark Sky Reserve being established?"
+      },
+      "o": [
+        {
+          "hi": "नैनीताल (उत्तराखंड)",
+          "en": "Nainital (Uttarakhand)"
+        },
+        {
+          "hi": "स्पिति (हिमाचल प्रदेश)",
+          "en": "Spiti (Himachal Pradesh)"
+        },
+        {
+          "hi": "जैसलमेर (राजस्थान)",
+          "en": "Jaisalmer (Rajasthan)"
+        },
+        {
+          "hi": "हेनले (लद्दाख - चांगथांग वन्यजीव अभयारण्य)",
+          "en": "Hanle (Ladakh)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एशिया के सबसे बड़े 4-मीटर इंटरनेशनल लिक्विड मिरर टेलीस्कोप (ILMT) का उद्घाटन कहाँ किया गया?",
+        "en": "Where was Asia's largest 4-meter International Liquid Mirror Telescope (ILMT) inaugurated?"
+      },
+      "o": [
+        {
+          "hi": "हेनले (लद्दाख)",
+          "en": "Hanle (Ladakh)"
+        },
+        {
+          "hi": "देवस्थल (नैनीताल, उत्तराखंड)",
+          "en": "Devasthal (Nainital, Uttarakhand)"
+        },
+        {
+          "hi": "माउंट आबू (राजस्थान)",
+          "en": "Mount Abu (Rajasthan)"
+        },
+        {
+          "hi": "कौसानी (उत्तराखंड)",
+          "en": "Kausani (Uttarakhand)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सुपरकंप्यूटर की गति को मापने की मानक इकाई क्या है?",
+        "en": "What is the standard unit used to measure the processing speed of supercomputers?"
+      },
+      "o": [
+        {
+          "hi": "हर्ट्ज़ (Hertz)",
+          "en": "Hertz"
+        },
+        {
+          "hi": "फ्लॉप्स (FLOPS - Floating Point Operations Per Second)",
+          "en": "FLOPS"
+        },
+        {
+          "hi": "एमआईपीएस (MIPS)",
+          "en": "MIPS"
+        },
+        {
+          "hi": "गीगाबाइट (GB)",
+          "en": "Gigabytes"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वर्तमान में दुनिया का सबसे तेज सुपरकंप्यूटर कौन सा है?",
+        "en": "Which is currently ranked as the world's fastest supercomputer in TOP500 list?"
+      },
+      "o": [
+        {
+          "hi": "फुगाकू (Fugaku - जापान)",
+          "en": "Fugaku (Japan)"
+        },
+        {
+          "hi": "ऑरोरा (Aurora - अमेरिका)",
+          "en": "Aurora (USA)"
+        },
+        {
+          "hi": "फ्रंटियर (Frontier - अमेरिका)",
+          "en": "Frontier (USA)"
+        },
+        {
+          "hi": "सिटाडेल (Summit - अमेरिका)",
+          "en": "Summit (USA)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ब्लॉकचेन तकनीक पर आधारित भारत की डिजिटल मुद्रा (e-Rupee) की देखरेख कौन करता है?",
+        "en": "Which authority oversees India's official Digital Rupee (e-Rupee)?"
+      },
+      "o": [
+        {
+          "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI)",
+          "en": "SEBI"
+        },
+        {
+          "hi": "भारतीय रिज़र्व बैंक (RBI)",
+          "en": "Reserve Bank of India (RBI)"
+        },
+        {
+          "hi": "एनपीसीआई (NPCI)",
+          "en": "NPCI"
+        },
+        {
+          "hi": "वित्त मंत्रालय",
+          "en": "Ministry of Finance"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत का पहला ओपन-सोर्स मोबाइल ऑपरेटिंग सिस्टम 'भरोस' (BharOS) किस आईआईटी द्वारा विकसित किया गया?",
+        "en": "Which IIT developed 'BharOS', India's indigenous mobile operating system?"
+      },
+      "o": [
+        {
+          "hi": "आईआईटी बॉम्बे",
+          "en": "IIT Bombay"
+        },
+        {
+          "hi": "आईआईटी मद्रास (JandKops)",
+          "en": "IIT Madras"
+        },
+        {
+          "hi": "आईआईटी दिल्ली",
+          "en": "IIT Delhi"
+        },
+        {
+          "hi": "आईआईटी कानपुर",
+          "en": "IIT Kanpur"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में पहली बार न्यूरालिंक (Neuralink) ब्रेन चिप का प्रत्यारोपण किस कंपनी द्वारा किया गया?",
+        "en": "Which company successfully implanted its first brain-computer interface chip in a human patient?"
+      },
+      "o": [
+        {
+          "hi": "ओपनएआई",
+          "en": "OpenAI"
+        },
+        {
+          "hi": "गूगल डीपमाइंड",
+          "en": "Google DeepMind"
+        },
+        {
+          "hi": "न्यूरालिंक (Neuralink - इलोन मस्क)",
+          "en": "Neuralink (Elon Musk)"
+        },
+        {
+          "hi": "सिंक्रोन",
+          "en": "Synchron"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गगनयान मिशन के लिए इसरो द्वारा विकसित तरल ईंधन वाले मुख्य इंजन का नाम क्या है?",
+        "en": "What is the name of the liquid rocket engine developed and qualified by ISRO for Gaganyaan?"
+      },
+      "o": [
+        {
+          "hi": "विकास इंजन (Vikas Engine)",
+          "en": "Vikas Engine"
+        },
+        {
+          "hi": "क्रायोजेनिक CE-20",
+          "en": "CE-20 Cryogenic Engine"
+        },
+        {
+          "hi": "अग्निबाण",
+          "en": "Agnibaan Engine"
+        },
+        {
+          "hi": "रोहिणी-560",
+          "en": "Rohini-560"
+        }
+      ],
+      "a": 0
+    }
+  ]
+}

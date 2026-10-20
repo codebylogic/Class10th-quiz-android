@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "कर प्रणाली एवं GST / Tax System & GST",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Tax System & GST.",
+  "questions": [
+    {
+      "q": {
+        "hi": "कर (Tax) की प्रकृति मुख्य रूप से क्या होती है?",
+        "en": "What is the fundamental nature of a Tax?"
+      },
+      "o": [
+        {
+          "hi": "सरकार द्वारा कानून के तहत नागरिकों पर लगाया गया एक अनिवार्य अंशदान (Compulsory Contribution)",
+          "en": "A compulsory contribution levied by government on citizens under law"
+        },
+        {
+          "hi": "ऐच्छिक दान",
+          "en": "Voluntary donation"
+        },
+        {
+          "hi": "सेवाओं के बदले लिया जाने वाला प्रभार",
+          "en": "Fee charged in return for specific services"
+        },
+        {
+          "hi": "बैंक जमा की राशि",
+          "en": "Bank deposit amount"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रत्यक्ष कर (Direct Tax) की मुख्य विशेषता क्या है?",
+        "en": "What is the main characteristic of a Direct Tax?"
+      },
+      "o": [
+        {
+          "hi": "कर का बोझ दूसरे व्यक्ति पर स्थानांतरित किया जा सकता है",
+          "en": "Tax burden can be shifted to another person"
+        },
+        {
+          "hi": "कराघात (Impact) और करापात (Incidence) दोनों एक ही व्यक्ति पर पड़ते हैं (कर का बोझ स्थानांतरित नहीं किया जा सकता)",
+          "en": "Impact and Incidence fall on the same person (tax burden cannot be shifted)"
+        },
+        {
+          "hi": "यह केवल वस्तुओं की बिक्री पर लगता है",
+          "en": "It applies only on sale of goods"
+        },
+        {
+          "hi": "यह केवल आयात-निर्यात पर लगता है",
+          "en": "It applies only on imports-exports"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अप्रत्यक्ष कर (Indirect Tax) की क्या विशेषता होती है?",
+        "en": "What is the defining feature of an Indirect Tax?"
+      },
+      "o": [
+        {
+          "hi": "करदाता सीधे सरकार को भुगतान करता है",
+          "en": "Taxpayer pays directly to the government"
+        },
+        {
+          "hi": "यह केवल व्यक्तिगत आय पर लगता है",
+          "en": "It applies to personal income only"
+        },
+        {
+          "hi": "कराघात और करापात भिन्न-भिन्न व्यक्तियों पर पड़ते हैं (कर का बोझ स्थानांतरित किया जा सकता है)",
+          "en": "Impact and Incidence fall on different persons (tax burden can be shifted)"
+        },
+        {
+          "hi": "यह कर पूरी तरह से समाप्त कर दिया गया है",
+          "en": "This tax has been completely abolished"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन सा प्रत्यक्ष कर (Direct Tax) का उदाहरण है?",
+        "en": "Which of the following is an example of a Direct Tax?"
+      },
+      "o": [
+        {
+          "hi": "वस्तु एवं सेवा कर (GST)",
+          "en": "Goods and Services Tax (GST)"
+        },
+        {
+          "hi": "सीमा शुल्क (Customs Duty)",
+          "en": "Customs Duty"
+        },
+        {
+          "hi": "केन्द्रीय उत्पाद शुल्क (Central Excise Duty)",
+          "en": "Central Excise Duty"
+        },
+        {
+          "hi": "व्यक्तिगत आयकर और निगम कर (Income Tax & Corporation Tax)",
+          "en": "Personal Income Tax & Corporation Tax"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा अप्रत्यक्ष कर (Indirect Tax) है?",
+        "en": "Which of the following is an Indirect Tax?"
+      },
+      "o": [
+        {
+          "hi": "वस्तु एवं सेवा कर (GST) और सीमा शुल्क",
+          "en": "Goods and Services Tax (GST) and Customs Duty"
+        },
+        {
+          "hi": "व्यक्तिगत आयकर",
+          "en": "Personal Income Tax"
+        },
+        {
+          "hi": "निगम कर",
+          "en": "Corporation Tax"
+        },
+        {
+          "hi": "पूंजीगत लाभ कर (Capital Gains Tax)",
+          "en": "Capital Gains Tax"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "निगम कर (Corporation Tax) किस पर लगाया जाता है?",
+        "en": "On what is Corporation Tax levied?"
+      },
+      "o": [
+        {
+          "hi": "कर्मचारियों के वेतन पर",
+          "en": "Salaries of employees"
+        },
+        {
+          "hi": "कंपनियों के शुद्ध लाभ/आय पर",
+          "en": "Net profit/income of registered companies"
+        },
+        {
+          "hi": "दुकानों की बिक्री पर",
+          "en": "Sales volume of shops"
+        },
+        {
+          "hi": "कृषि उपज पर",
+          "en": "Agricultural produce"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत सरकार के लिए कुल राजस्व प्राप्ति में प्रत्यक्ष करों में सबसे बड़ा स्रोत कौन सा है?",
+        "en": "Which direct tax is usually the largest revenue contributor for the Government of India?"
+      },
+      "o": [
+        {
+          "hi": "उपहार कर",
+          "en": "Gift Tax"
+        },
+        {
+          "hi": "संपत्ति कर",
+          "en": "Wealth Tax"
+        },
+        {
+          "hi": "निगम कर और व्यक्तिगत आयकर",
+          "en": "Corporation Tax and Personal Income Tax"
+        },
+        {
+          "hi": "प्रतिभूति लेनदेन कर (STT)",
+          "en": "Securities Transaction Tax (STT)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रतिभूति लेनदेन कर (Securities Transaction Tax - STT) किस पर लगाया जाता है?",
+        "en": "On what is Securities Transaction Tax (STT) levied?"
+      },
+      "o": [
+        {
+          "hi": "बैंक फिक्स्ड डिपॉजिट पर",
+          "en": "Bank fixed deposits"
+        },
+        {
+          "hi": "अचल संपत्ति के पंजीकरण पर",
+          "en": "Registration of real estate"
+        },
+        {
+          "hi": "सोने के गहनों की खरीद पर",
+          "en": "Purchase of gold jewellery"
+        },
+        {
+          "hi": "शेयर बाजार में शेयरों और प्रतिभूतियों की खरीद-बिक्री पर",
+          "en": "Purchase and sale of equities and securities on stock exchanges"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पूंजीगत लाभ कर (Capital Gains Tax) कब देय होता है?",
+        "en": "When is Capital Gains Tax payable?"
+      },
+      "o": [
+        {
+          "hi": "जब किसी पूंजीगत परिसंपत्ति (जैसे भूमि, भवन, शेयर) को बेचने पर लाभ होता है",
+          "en": "When a capital asset (land, building, stocks) is sold at a profit"
+        },
+        {
+          "hi": "मासिक वेतन प्राप्त होने पर",
+          "en": "On receiving monthly salary"
+        },
+        {
+          "hi": "बैंक से ऋण लेते समय",
+          "en": "While taking a loan from bank"
+        },
+        {
+          "hi": "विदेश यात्रा करते समय",
+          "en": "While travelling abroad"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में संविधान के अनुसार कृषि आय पर कर लगाने का अधिकार किसके पास है?",
+        "en": "Under the Indian Constitution, who has the power to levy tax on agricultural income?"
+      },
+      "o": [
+        {
+          "hi": "केवल केंद्र सरकार के पास",
+          "en": "Central Government only"
+        },
+        {
+          "hi": "केवल राज्य सरकारों के पास (राज्य सूची का विषय)",
+          "en": "State Governments only (State List item)"
+        },
+        {
+          "hi": "RBI के पास",
+          "en": "RBI"
+        },
+        {
+          "hi": "स्थानीय नगर निगमों के पास",
+          "en": "Local Municipalities"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एडम स्मिथ द्वारा प्रतिपादित करों के चार मूलभूत सिद्धांतों (Canons of Taxation) में कौन-सा शामिल नहीं है?",
+        "en": "Which of the following is NOT one of Adam Smith's four Canons of Taxation?"
+      },
+      "o": [
+        {
+          "hi": "समता का सिद्धांत (Canon of Equality/Equity)",
+          "en": "Canon of Equality"
+        },
+        {
+          "hi": "निश्चितता का सिद्धांत (Canon of Certainty)",
+          "en": "Canon of Certainty"
+        },
+        {
+          "hi": "कठोरता का सिद्धांत (Canon of Rigidity)",
+          "en": "Canon of Rigidity"
+        },
+        {
+          "hi": "सुविधा और मितव्ययिता का सिद्धांत (Canon of Convenience & Economy)",
+          "en": "Canon of Convenience & Economy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रगतिशील कर प्रणाली (Progressive Tax System) की क्या विशेषता है?",
+        "en": "What is the feature of a Progressive Tax System?"
+      },
+      "o": [
+        {
+          "hi": "आय बढ़ने पर कर की दर घटती है",
+          "en": "Tax rate decreases as income increases"
+        },
+        {
+          "hi": "सभी आय वर्गों के लिए समान कर दर होती है",
+          "en": "Same tax rate for all income levels"
+        },
+        {
+          "hi": "शून्य कर दर होती है",
+          "en": "Zero tax rate"
+        },
+        {
+          "hi": "आय बढ़ने के साथ कर की दर (Tax Rate) बढ़ती जाती है",
+          "en": "Tax rate increases as income increases"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रतिगामी कर प्रणाली (Regressive Tax System) में क्या होता है?",
+        "en": "What happens in a Regressive Tax System?"
+      },
+      "o": [
+        {
+          "hi": "आय बढ़ने के साथ कर का वास्तविक प्रतिशत घटता है (गरीबों पर अधिक बोझ)",
+          "en": "Effective tax percentage falls as income increases (heavier burden on poor)"
+        },
+        {
+          "hi": "अमीरों पर अधिक कर लगता है",
+          "en": "Rich pay higher percentage"
+        },
+        {
+          "hi": "केवल कंपनियों पर कर लगता है",
+          "en": "Companies pay tax only"
+        },
+        {
+          "hi": "आय और कर दर का कोई संबंध नहीं होता",
+          "en": "No relation between income and tax rate"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अनुपातिक कर प्रणाली (Proportional Tax System) किसे कहते हैं?",
+        "en": "What is a Proportional Tax System?"
+      },
+      "o": [
+        {
+          "hi": "आय बढ़ने पर कर दर का अनिश्चित होना",
+          "en": "Variable tax rate with income"
+        },
+        {
+          "hi": "सभी करदाताओं के लिए आय का एक निश्चित और समान प्रतिशत कर के रूप में लागू होना",
+          "en": "A fixed and flat percentage rate of tax applied to all income levels"
+        },
+        {
+          "hi": "केवल आयात पर लगने वाला कर",
+          "en": "Tax on imports only"
+        },
+        {
+          "hi": "निःशुल्क कर व्यवस्था",
+          "en": "Tax-free system"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अप्रत्यक्ष करों (जैसे GST) को सामान्यतः किस प्रकार की कर प्रणाली माना जाता है?",
+        "en": "Indirect taxes (like GST) are generally considered to be which type of tax structure?"
+      },
+      "o": [
+        {
+          "hi": "प्रगतिशील कर",
+          "en": "Progressive Tax"
+        },
+        {
+          "hi": "अधोगामी कर",
+          "en": "Digressive Tax"
+        },
+        {
+          "hi": "प्रतिगामी कर (Regressive Tax - क्योंकि अमीर और गरीब दोनों समान दर देते हैं)",
+          "en": "Regressive Tax (because rich and poor pay same rate on goods)"
+        },
+        {
+          "hi": "शून्य कर",
+          "en": "Zero Tax"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लाफर वक्र (Laffer Curve) किन दो आर्थिक कारकों के मध्य संबंध को प्रदर्शित करता है?",
+        "en": "The Laffer Curve illustrates the relationship between which two economic factors?"
+      },
+      "o": [
+        {
+          "hi": "मुद्रास्फीति और बेरोजगारी",
+          "en": "Inflation and Unemployment"
+        },
+        {
+          "hi": "आय और उपभोग",
+          "en": "Income and Consumption"
+        },
+        {
+          "hi": "ब्याज दर और निवेश",
+          "en": "Interest rate and Investment"
+        },
+        {
+          "hi": "कर दर (Tax Rate) और कुल कर राजस्व (Total Tax Revenue)",
+          "en": "Tax Rate and Total Tax Revenue"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लाफर वक्र का मूल निष्कर्ष क्या है?",
+        "en": "What is the core finding of the Laffer Curve?"
+      },
+      "o": [
+        {
+          "hi": "एक सीमा के बाद कर दरें अत्यधिक बढ़ाने पर कर राजस्व घटने लगता है",
+          "en": "Beyond an optimal point, increasing tax rates reduces total tax revenue"
+        },
+        {
+          "hi": "कर दरें 100% करने पर राजस्व अधिकतम होगा",
+          "en": "100% tax rate maximizes revenue"
+        },
+        {
+          "hi": "कर दर का राजस्व पर कोई प्रभाव नहीं पड़ता",
+          "en": "Tax rate has no impact on revenue"
+        },
+        {
+          "hi": "हमेशा कर दरें बढ़ाने से राजस्व बढ़ता रहता है",
+          "en": "Tax rate increase always increases revenue"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कर लोच (Tax Elasticity) का क्या अर्थ है?",
+        "en": "What is meant by Tax Elasticity?"
+      },
+      "o": [
+        {
+          "hi": "कर अधिकारियों का स्थानांतरण",
+          "en": "Transfer of tax officials"
+        },
+        {
+          "hi": "कर आधार (Tax Base) में बदलाव के प्रति कर राजस्व की संवेदनशीलता",
+          "en": "Sensitivity of tax revenue collection to changes in the tax base/rates"
+        },
+        {
+          "hi": "कर जमा करने की अंतिम तिथि में छूट",
+          "en": "Extension of tax deadline"
+        },
+        {
+          "hi": "कर दरों का स्थिर रहना",
+          "en": "Fixity of tax rates"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कर उछाल (Tax Buoyancy) क्या दर्शाती है?",
+        "en": "What does Tax Buoyancy measure?"
+      },
+      "o": [
+        {
+          "hi": "शेयर बाजार की उछाल",
+          "en": "Stock market surge"
+        },
+        {
+          "hi": "मुद्रास्फीति की दर",
+          "en": "Inflation rate"
+        },
+        {
+          "hi": "GDP में वृद्धि के अनुपात में कर राजस्व संग्रह में वृद्धि की दर",
+          "en": "Growth rate of tax revenue in response to growth in GDP"
+        },
+        {
+          "hi": "विदेशी ऋण में वृद्धि",
+          "en": "Increase in foreign debt"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में वित्त आयोग (Finance Commission) का गठन संविधान के किस अनुच्छेद के तहत किया जाता है?",
+        "en": "Under which Article of the Indian Constitution is the Finance Commission constituted?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 110",
+          "en": "Article 110"
+        },
+        {
+          "hi": "अनुच्छेद 300A",
+          "en": "Article 300A"
+        },
+        {
+          "hi": "अनुच्छेद 356",
+          "en": "Article 356"
+        },
+        {
+          "hi": "अनुच्छेद 280 (Article 280)",
+          "en": "Article 280"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वित्त आयोग का गठन किसके द्वारा और कितने वर्षों की अवधि के लिए किया जाता है?",
+        "en": "By whom and for what duration is the Finance Commission constituted?"
+      },
+      "o": [
+        {
+          "hi": "भारत के राष्ट्रपति द्वारा प्रत्येक 5 वर्ष में",
+          "en": "By President of India every 5 years"
+        },
+        {
+          "hi": "प्रधानमंत्री द्वारा 3 वर्ष के लिए",
+          "en": "By Prime Minister for 3 years"
+        },
+        {
+          "hi": "लोकसभा अध्यक्ष द्वारा 6 वर्ष के लिए",
+          "en": "By Speaker of Lok Sabha for 6 years"
+        },
+        {
+          "hi": "वित्त मंत्री द्वारा 4 वर्ष के लिए",
+          "en": "By Finance Minister for 4 years"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत के प्रथम वित्त आयोग (1951) के अध्यक्ष कौन थे?",
+        "en": "Who was the Chairman of the First Finance Commission of India (1951)?"
+      },
+      "o": [
+        {
+          "hi": "के. सन्थानम",
+          "en": "K. Santhanam"
+        },
+        {
+          "hi": "के. सी. नियोगी (K. C. Neogy)",
+          "en": "K. C. Neogy"
+        },
+        {
+          "hi": "ए. के. चंदा",
+          "en": "A. K. Chanda"
+        },
+        {
+          "hi": "सी. रंगराजन",
+          "en": "C. Rangarajan"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "15वें वित्त आयोग के अध्यक्ष कौन थे?",
+        "en": "Who was the Chairman of the 15th Finance Commission?"
+      },
+      "o": [
+        {
+          "hi": "वाई. वी. रेड्डी",
+          "en": "Y. V. Reddy"
+        },
+        {
+          "hi": "विजय केलकर",
+          "en": "Vijay Kelkar"
+        },
+        {
+          "hi": "एन. के. सिंह (N. K. Singh)",
+          "en": "N. K. Singh"
+        },
+        {
+          "hi": "डॉ. सी. रंगराजन",
+          "en": "Dr. C. Rangarajan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "16वें वित्त आयोग के अध्यक्ष के रूप में किसे नियुक्त किया गया है?",
+        "en": "Who has been appointed as the Chairman of the 16th Finance Commission?"
+      },
+      "o": [
+        {
+          "hi": "रघुराम राजन",
+          "en": "Raghuram Rajan"
+        },
+        {
+          "hi": "उर्जित पटेल",
+          "en": "Urjit Patel"
+        },
+        {
+          "hi": "सुरजीत भल्ला",
+          "en": "Surjit Bhalla"
+        },
+        {
+          "hi": "डॉ. अरविंद पनगड़िया (Dr. Arvind Panagariya)",
+          "en": "Dr. Arvind Panagariya"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "15वें वित्त आयोग ने विभाज्य कर पूल (Divisible Tax Pool) में राज्यों के लिए कितने प्रतिशत हिस्सेदारी की सिफारिश की?",
+        "en": "What percentage horizontal tax devolution to States was recommended by the 15th Finance Commission?"
+      },
+      "o": [
+        {
+          "hi": "41% (लद्दाख और जम्मु-कश्मीर हेतु 1% समायोजन के बाद)",
+          "en": "41% (after 1% adjustment for J&K and Ladakh)"
+        },
+        {
+          "hi": "42%",
+          "en": "42%"
+        },
+        {
+          "hi": "32%",
+          "en": "32%"
+        },
+        {
+          "hi": "50%",
+          "en": "50%"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संविधान के किस अनुच्छेद के तहत 'धन विधेयक' (Money Bill) को परिभाषित किया गया है?",
+        "en": "Under which Article of the Constitution is a 'Money Bill' defined?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 112",
+          "en": "Article 112"
+        },
+        {
+          "hi": "अनुच्छेद 110 (Article 110)",
+          "en": "Article 110"
+        },
+        {
+          "hi": "अनुच्छेद 265",
+          "en": "Article 265"
+        },
+        {
+          "hi": "अनुच्छेद 368",
+          "en": "Article 368"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अनुच्छेद 265 के अनुसार 'कानून के प्राधिकार के बिना कोई कर न तो लगाया जाएगा और न ही एकत्र किया जाएगा'। इसका क्या अर्थ है?",
+        "en": "According to Article 265, 'No tax shall be levied or collected except by authority of law'. What does this ensure?"
+      },
+      "o": [
+        {
+          "hi": "राष्ट्रपति बिना संसद के कर लगा सकते हैं",
+          "en": "President can impose tax without Parliament"
+        },
+        {
+          "hi": "कर पूरी तरह स्वैच्छिक है",
+          "en": "Taxation is completely voluntary"
+        },
+        {
+          "hi": "कर लगाने के लिए संसद/विधानमंडल द्वारा विधिवत कानून पारित होना अनिवार्य है",
+          "en": "Executive cannot impose tax without statutory parliamentary legislation"
+        },
+        {
+          "hi": "सुप्रीम कोर्ट कर तय करता है",
+          "en": "Supreme Court determines taxes"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वार्षिक वित्तीय विवरण (Annual Financial Statement / बजट) संविधान के किस अनुच्छेद से संबंधित है?",
+        "en": "Annual Financial Statement (Budget) corresponds to which Article of the Constitution?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 280",
+          "en": "Article 280"
+        },
+        {
+          "hi": "अनुच्छेद 110",
+          "en": "Article 110"
+        },
+        {
+          "hi": "अनुच्छेद 370",
+          "en": "Article 370"
+        },
+        {
+          "hi": "अनुच्छेद 112 (Article 112)",
+          "en": "Article 112"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत की संचित निधि (Consolidated Fund of India) का उल्लेख किस अनुच्छेद में है?",
+        "en": "The Consolidated Fund of India is established under which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 266(1) [Article 266(1)]",
+          "en": "Article 266(1)"
+        },
+        {
+          "hi": "अनुच्छेद 267",
+          "en": "Article 267"
+        },
+        {
+          "hi": "अनुच्छेद 280",
+          "en": "Article 280"
+        },
+        {
+          "hi": "अनुच्छेद 300",
+          "en": "Article 300"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत की आकस्मिकता निधि (Contingency Fund of India - Article 267) किसके निपटान में रखी जाती है?",
+        "en": "At whose disposal is the Contingency Fund of India (Article 267) placed?"
+      },
+      "o": [
+        {
+          "hi": "प्रधानमंत्री",
+          "en": "Prime Minister"
+        },
+        {
+          "hi": "भारत के राष्ट्रपति (President of India)",
+          "en": "President of India"
+        },
+        {
+          "hi": "वित्त मंत्री",
+          "en": "Finance Minister"
+        },
+        {
+          "hi": "CAG",
+          "en": "CAG"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में अप्रत्यक्ष कर सुधार के रूप में वस्तु एवं सेवा कर (GST) किस संविधान संशोधन अधिनियम द्वारा लागू किया गया?",
+        "en": "By which Constitutional Amendment Act was GST introduced in India?"
+      },
+      "o": [
+        {
+          "hi": "100वां संशोधन",
+          "en": "100th Amendment"
+        },
+        {
+          "hi": "103वां संशोधन",
+          "en": "103rd Amendment"
+        },
+        {
+          "hi": "101वां संविधान संशोधन अधिनियम, 2016 (101st CAA)",
+          "en": "101st Constitutional Amendment Act, 2016"
+        },
+        {
+          "hi": "105वां संशोधन",
+          "en": "105th Amendment"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में GST किस तिथि से प्रभावी रूप से लागू हुआ?",
+        "en": "On which date did GST officially come into force in India?"
+      },
+      "o": [
+        {
+          "hi": "8 नवंबर 2016",
+          "en": "8 November 2016"
+        },
+        {
+          "hi": "1 अप्रैल 2017",
+          "en": "1 April 2017"
+        },
+        {
+          "hi": "15 अगस्त 2017",
+          "en": "15 August 2017"
+        },
+        {
+          "hi": "1 जुलाई 2017 ('एक राष्ट्र, एक कर')",
+          "en": "1 July 2017 ('One Nation, One Tax')"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में GST की अवधारणा सर्वप्रथम किस कार्यदल/समिति द्वारा सुझाई गई थी?",
+        "en": "The concept of GST in India was first proposed by which task force/committee?"
+      },
+      "o": [
+        {
+          "hi": "विजय केलकर कार्यदल (Kelkar Task Force - 2003)",
+          "en": "Kelkar Task Force (2003)"
+        },
+        {
+          "hi": "असीम दासगुप्ता समिति",
+          "en": "Asim Dasgupta Committee"
+        },
+        {
+          "hi": "राजा चेलैया समिति",
+          "en": "Raja Chelliah Committee"
+        },
+        {
+          "hi": "तांडव समिति",
+          "en": "Tandon Committee"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत ने किस देश के दोहरे GST मॉडल (Dual GST Model) को अपनाया है?",
+        "en": "India adopted the Dual GST Model from which country?"
+      },
+      "o": [
+        {
+          "hi": "फ्रांस",
+          "en": "France"
+        },
+        {
+          "hi": "कनाडा (Canada)",
+          "en": "Canada"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया",
+          "en": "Australia"
+        },
+        {
+          "hi": "अमेरिका",
+          "en": "USA"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व में सबसे पहले GST लागू करने वाला देश कौन सा था?",
+        "en": "Which country was the first in the world to implement GST?"
+      },
+      "o": [
+        {
+          "hi": "जर्मनी",
+          "en": "Germany"
+        },
+        {
+          "hi": "कनाडा",
+          "en": "Canada"
+        },
+        {
+          "hi": "फ्रांस (1954 में)",
+          "en": "France (in 1954)"
+        },
+        {
+          "hi": "ब्रिटेन",
+          "en": "UK"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "GST परिषद (GST Council) का गठन संविधान के किस नए अनुच्छेद के तहत किया गया है?",
+        "en": "Under which new Constitutional Article is the GST Council constituted?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 269A",
+          "en": "Article 269A"
+        },
+        {
+          "hi": "अनुच्छेद 246A",
+          "en": "Article 246A"
+        },
+        {
+          "hi": "अनुच्छेद 280",
+          "en": "Article 280"
+        },
+        {
+          "hi": "अनुच्छेद 279A (Article 279A)",
+          "en": "Article 279A"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "GST परिषद (GST Council) का पदेन अध्यक्ष कौन होता है?",
+        "en": "Who is the ex-officio Chairman of the GST Council?"
+      },
+      "o": [
+        {
+          "hi": "केंद्रीय वित्त मंत्री (Union Finance Minister)",
+          "en": "Union Finance Minister"
+        },
+        {
+          "hi": "प्रधानमंत्री",
+          "en": "Prime Minister"
+        },
+        {
+          "hi": "नीति आयोग के उपाध्यक्ष",
+          "en": "Vice Chairman of NITI Aayog"
+        },
+        {
+          "hi": "केंद्रीय राजस्व सचिव",
+          "en": "Union Revenue Secretary"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "GST परिषद की बैठकों में निर्णय लेने हेतु मताधिकार में केंद्र और राज्यों का क्या अनुपात/भार है?",
+        "en": "In GST Council meetings, what is the weightage of voting power between Centre and States?"
+      },
+      "o": [
+        {
+          "hi": "दोनों का 50% - 50%",
+          "en": "50% - 50% for both"
+        },
+        {
+          "hi": "केंद्र का 1/3 (एक-तिहाई) और सभी राज्यों का मिलाकर 2/3 (दो-तिहाई)",
+          "en": "Centre has 1/3rd weightage and all States together have 2/3rd weightage"
+        },
+        {
+          "hi": "केंद्र का 2/3 और राज्यों का 1/3",
+          "en": "Centre 2/3rd and States 1/3rd"
+        },
+        {
+          "hi": "केवल केंद्र का 100% अधिकार",
+          "en": "Centre 100% authority"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "GST परिषद में कोई निर्णय पारित करने के लिए कुल उपस्थित और मतदान करने वाले सदस्यों के कितने बहुमत की आवश्यकता होती है?",
+        "en": "What weighted majority is required to pass a decision in the GST Council?"
+      },
+      "o": [
+        {
+          "hi": "साधारण बहुमत (50%)",
+          "en": "Simple majority (50%)"
+        },
+        {
+          "hi": "2/3rd बहुमत (66.6%)",
+          "en": "2/3rd majority (66.6%)"
+        },
+        {
+          "hi": "कम से कम 3/4 (75%) भारित बहुमत",
+          "en": "At least 3/4th (75%) weighted majority"
+        },
+        {
+          "hi": "सर्वसम्मति (100%)",
+          "en": "Unanimous (100%)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अंतर-राज्यीय व्यापार (Inter-State Trade) एवं वाणिज्य पर लगने वाले GST को क्या कहते हैं और यह किस अनुच्छेद में है?",
+        "en": "GST levied on Inter-State trade and commerce is called what and governed under which Article?"
+      },
+      "o": [
+        {
+          "hi": "केन्द्रीय GST (CGST) - अनुच्छेद 280",
+          "en": "Central GST (CGST) - Article 280"
+        },
+        {
+          "hi": "राज्य GST (SGST) - अनुच्छेद 300",
+          "en": "State GST (SGST) - Article 300"
+        },
+        {
+          "hi": "केंद्र शासित GST - अनुच्छेद 270",
+          "en": "UTGST - Article 270"
+        },
+        {
+          "hi": "एकीकृत GST (IGST) - अनुच्छेद 269A",
+          "en": "Integrated GST (IGST) - Article 269A"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "राज्य के भीतर (Intra-State) वस्तुओं और सेवाओं की आपूर्ति पर कौन-से दो कर एक साथ लागू होते हैं?",
+        "en": "Which two components apply simultaneously on Intra-State supply of goods and services?"
+      },
+      "o": [
+        {
+          "hi": "CGST और SGST (बराबर दर में विभाजित)",
+          "en": "CGST and SGST (split equally)"
+        },
+        {
+          "hi": "केवल IGST",
+          "en": "IGST only"
+        },
+        {
+          "hi": "केवल CGST",
+          "en": "CGST only"
+        },
+        {
+          "hi": "सीमा शुल्क और GST",
+          "en": "Customs duty and GST"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में वर्तमान में प्राथमिक GST कर स्लैब (Slabs) कौन-कौन से हैं?",
+        "en": "What are the standard primary GST rate slabs in India?"
+      },
+      "o": [
+        {
+          "hi": "2%, 8%, 15%, 20%",
+          "en": "2%, 8%, 15%, 20%"
+        },
+        {
+          "hi": "0%, 5%, 12%, 18% और 28%",
+          "en": "0%, 5%, 12%, 18%, and 28%"
+        },
+        {
+          "hi": "10%, 20%, 30%",
+          "en": "10%, 20%, 30%"
+        },
+        {
+          "hi": "केवल 18%",
+          "en": "18% only"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन सी वस्तु पूर्णतः GST के दायरे से बाहर (संविधान द्वारा बाहर रखी गई) रखी गई है?",
+        "en": "Which commodity is constitutionally excluded from the purview of GST?"
+      },
+      "o": [
+        {
+          "hi": "सोना और चांदी",
+          "en": "Gold and Silver"
+        },
+        {
+          "hi": "मोबाइल फोन",
+          "en": "Mobile Phones"
+        },
+        {
+          "hi": "मानव उपभोग के लिए अल्कोहल / शराब (Alcohol for human consumption)",
+          "en": "Alcohol for human consumption"
+        },
+        {
+          "hi": "हवाई यात्रा टिकट",
+          "en": "Air Travel Tickets"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से किन वस्तुओं पर वर्तमान में GST लागू नहीं है (जिन्हें जीएसटी परिषद द्वारा अभी तक अधिसूचित नहीं किया गया है)?",
+        "en": "On which petroleum products is GST currently NOT levied?"
+      },
+      "o": [
+        {
+          "hi": "एलपीजी सिलिंडर",
+          "en": "LPG cylinders"
+        },
+        {
+          "hi": "कोयला",
+          "en": "Coal"
+        },
+        {
+          "hi": "केरोसिन तेल",
+          "en": "Kerosene oil"
+        },
+        {
+          "hi": "कच्चा तेल, पेट्रोल, डीजल, एविऐशन टरबाइन फ्यूल (ATF) और प्राकृतिक गैस",
+          "en": "Crude oil, Petrol, Diesel, ATF, and Natural Gas"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इनपुट टैक्स क्रेडिट (Input Tax Credit - ITC) की अवधारणा क्या है?",
+        "en": "What is the concept of Input Tax Credit (ITC) under GST?"
+      },
+      "o": [
+        {
+          "hi": "कच्चे माल/इनपुट पर पहले चुकाए गए कर की राशि को अंतिम कर देनदारी से घटाने/समायोजित करने का अधिकार",
+          "en": "Set-off/deduction of tax paid on inputs against final output tax liability"
+        },
+        {
+          "hi": "बैंकों से मिलने वाला नकद कैश बैक",
+          "en": "Cash back from banks"
+        },
+        {
+          "hi": "सरकार से मिलने वाला ऋण",
+          "en": "Government loan"
+        },
+        {
+          "hi": "निर्यात कर में छूट",
+          "en": "Export duty waiver"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "GST पंजीकरण संख्या (GSTIN) में कुल कितने अंक/वर्ण होते हैं?",
+        "en": "How many digits/alphanumeric characters are there in a GST Identification Number (GSTIN)?"
+      },
+      "o": [
+        {
+          "hi": "10 अंक",
+          "en": "10 Digits"
+        },
+        {
+          "hi": "15 अंक/वर्ण (15 Alphanumeric Digits)",
+          "en": "15 Alphanumeric Digits"
+        },
+        {
+          "hi": "12 अंक",
+          "en": "12 Digits"
+        },
+        {
+          "hi": "16 अंक",
+          "en": "16 Digits"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "15-अंकीय GSTIN संरचना में पहले 2 अंक क्या प्रदर्शित करते हैं?",
+        "en": "What do the first 2 digits of a 15-digit GSTIN represent?"
+      },
+      "o": [
+        {
+          "hi": "व्यापारी का पैन नंबर",
+          "en": "Merchant's PAN Number"
+        },
+        {
+          "hi": "पंजीकरण का वर्ष",
+          "en": "Year of Registration"
+        },
+        {
+          "hi": "राज्य कोड (State Code)",
+          "en": "State Code"
+        },
+        {
+          "hi": "बैंक शाखा कोड",
+          "en": "Bank Branch Code"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "GSTIN के मध्य के 10 अंक किसका प्रतिनिधित्व करते हैं?",
+        "en": "What do the 10 middle characters of a GSTIN represent?"
+      },
+      "o": [
+        {
+          "hi": "आधार नंबर",
+          "en": "Aadhaar Number"
+        },
+        {
+          "hi": "पिन कोड",
+          "en": "PIN Code"
+        },
+        {
+          "hi": "टर्नओवर राशि",
+          "en": "Turnover Amount"
+        },
+        {
+          "hi": "करदाता का स्थाई खाता संख्या (PAN Number)",
+          "en": "Taxpayer's Permanent Account Number (PAN)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ई-वे बिल (E-Way Bill) प्रणाली किस मूल्य से अधिक की वस्तुओं के अंतर-राज्यीय परिवहन हेतु अनिवार्य है?",
+        "en": "For movement of goods exceeding what value is an E-Way Bill mandatory?"
+      },
+      "o": [
+        {
+          "hi": "₹50,000 से अधिक मूल्य की वस्तुओं पर",
+          "en": "Goods valued above ₹50,000"
+        },
+        {
+          "hi": "₹1 लाख से अधिक",
+          "en": "Above ₹1 Lakh"
+        },
+        {
+          "hi": "₹10,000 से अधिक",
+          "en": "Above ₹10,000"
+        },
+        {
+          "hi": "₹5 लाख से अधिक",
+          "en": "Above ₹5 Lakh"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "GST लागू होने से केंद्र और राज्यों के लगभग कितने अप्रत्यक्ष कर इसमें समाहित (Subsumed) हो गए थे?",
+        "en": "How many central and state indirect taxes were subsumed into GST?"
+      },
+      "o": [
+        {
+          "hi": "5 कर",
+          "en": "5 taxes"
+        },
+        {
+          "hi": "17 अप्रत्यक्ष कर और 23 उपकर (Cesses)",
+          "en": "17 indirect taxes and 23 cesses"
+        },
+        {
+          "hi": "50 कर",
+          "en": "50 taxes"
+        },
+        {
+          "hi": "10 कर",
+          "en": "10 taxes"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा केंद्रीय कर GST में विलय (Subsumed) हो गया था?",
+        "en": "Which central tax was subsumed into GST?"
+      },
+      "o": [
+        {
+          "hi": "निगम कर",
+          "en": "Corporation Tax"
+        },
+        {
+          "hi": "सीमा शुल्क (Customs Duty)",
+          "en": "Customs Duty"
+        },
+        {
+          "hi": "केंद्रीय उत्पाद शुल्क (Central Excise Duty) और सेवा कर (Service Tax)",
+          "en": "Central Excise Duty and Service Tax"
+        },
+        {
+          "hi": "आयकर",
+          "en": "Income Tax"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन सा राज्य कर GST में विलय हुआ था?",
+        "en": "Which state tax was subsumed into GST?"
+      },
+      "o": [
+        {
+          "hi": "भू-राजस्व",
+          "en": "Land Revenue"
+        },
+        {
+          "hi": "स्टाम्प शुल्क",
+          "en": "Stamp Duty"
+        },
+        {
+          "hi": "कृषि आय कर",
+          "en": "Agricultural Income Tax"
+        },
+        {
+          "hi": "राज्य मूल्य वर्धित कर (VAT) / बिक्री कर और मनोरंजन कर",
+          "en": "State Value Added Tax (VAT) / Sales Tax and Entertainment Tax"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "GST के तहत 'मुआवजा उपकर' (Compensation Cess) का उद्देश्य क्या था?",
+        "en": "What was the purpose of the Compensation Cess under GST?"
+      },
+      "o": [
+        {
+          "hi": "GST लागू होने से राज्यों को होने वाले राजस्व नुकसान की 5 वर्षों तक भरपाई करना",
+          "en": "Compensating States for revenue loss due to GST implementation for 5 years"
+        },
+        {
+          "hi": "विदेशी पर्यटकों को छूट देना",
+          "en": "Exempting foreign tourists"
+        },
+        {
+          "hi": "बैंक घाटा पूरा करना",
+          "en": "Covering bank losses"
+        },
+        {
+          "hi": "सेना का वित्तपोषण",
+          "en": "Financing military"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मुआवजा उपकर (Compensation Cess) मुख्यतः किन वस्तुओं पर लगाया जाता है?",
+        "en": "On what types of goods is Compensation Cess levied?"
+      },
+      "o": [
+        {
+          "hi": "खाद्यान्न और दूध पर",
+          "en": "Foodgrains and Milk"
+        },
+        {
+          "hi": "सिन गुड्स (Sin Goods जैसे तंबाकू, सिगरेट) और लक्जरी कारों पर",
+          "en": "Sin Goods (tobacco, cigarettes) and Luxury Cars"
+        },
+        {
+          "hi": "किताबों और कपड़ों पर",
+          "en": "Books and Clothes"
+        },
+        {
+          "hi": "दवाइयों पर",
+          "en": "Medicines"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "GST नेटवर्क (GSTN) क्या है?",
+        "en": "What is the Goods and Services Tax Network (GSTN)?"
+      },
+      "o": [
+        {
+          "hi": "एक सरकारी बैंक",
+          "en": "A government bank"
+        },
+        {
+          "hi": "कर चोरी रोकने वाली पुलिस",
+          "en": "Tax evasion police force"
+        },
+        {
+          "hi": "GST के क्रियान्वयन हेतु संपूर्ण IT अवसंरचना और पोर्टल प्रदान करने वाली गैर-सरकारी संस्था/कंपनी",
+          "en": "Non-government IT infrastructure provider managing the GST portal"
+        },
+        {
+          "hi": "अंतर्राष्ट्रीय व्यापार संघ",
+          "en": "International Trade Union"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "GST की 'कंपोज़िशन स्कीम' (Composition Scheme) का मुख्य लाभ किसे मिलता है?",
+        "en": "Who gets the main benefit of the GST Composition Scheme?"
+      },
+      "o": [
+        {
+          "hi": "बड़ी बहुराष्ट्रीय कंपनियों को",
+          "en": "Large multinational corporations"
+        },
+        {
+          "hi": "केवल आयातकों को",
+          "en": "Importers only"
+        },
+        {
+          "hi": "सरकारी कर्मचारियों को",
+          "en": "Government employees"
+        },
+        {
+          "hi": "छोटे व्यापारियों को (टर्नओवर ₹1.5 करोड़ तक) कम दर पर सरल कर भुगतान की सुविधा",
+          "en": "Small taxpayers (turnover up to ₹1.5 Cr) offering flat lower tax rate & minimal compliance"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जीएसटी कंपोज़िशन स्कीम अपनाने वाले व्यापारी-",
+        "en": "Merchants opting for the GST Composition Scheme-"
+      },
+      "o": [
+        {
+          "hi": "ग्राहकों से टैक्स एकत्र नहीं कर सकते और न ही इनपुट टैक्स क्रेडिट (ITC) दावा कर सकते हैं",
+          "en": "CANNOT collect tax from customers and CANNOT claim Input Tax Credit (ITC)"
+        },
+        {
+          "hi": "असीमित ITC का दावा कर सकते हैं",
+          "en": "Can claim unlimited ITC"
+        },
+        {
+          "hi": "विदेश में माल बेच सकते हैं",
+          "en": "Can export goods freely"
+        },
+        {
+          "hi": "कर से 100% मुक्त होते हैं",
+          "en": "Are 100% tax exempt"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रिवर्स चार्ज मैकेनिज्म (Reverse Charge Mechanism - RCM) क्या है?",
+        "en": "What is the Reverse Charge Mechanism (RCM) under GST?"
+      },
+      "o": [
+        {
+          "hi": "सरकार द्वारा कर वापस लौटाना",
+          "en": "Government refunding the tax"
+        },
+        {
+          "hi": "ऐसी स्थिति जिसमें कर भुगतान की जिम्मेदारी विक्रेता के बजाय खरीदार/प्राप्तकर्ता पर होती है",
+          "en": "Mechanism where tax payment liability shifts from supplier to recipient"
+        },
+        {
+          "hi": "कर चोरी पर 200% जुर्माना",
+          "en": "200% penalty on tax evasion"
+        },
+        {
+          "hi": "बैंकों द्वारा काटा गया TDS",
+          "en": "TDS deducted by banks"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "GST के तहत 'मुनाफखोरी रोधी प्राधिकरण' (National Anti-Profiteering Authority) के कार्य अब किस संस्था में स्थानांतरित कर दिए गए हैं?",
+        "en": "Functions of the National Anti-Profiteering Authority under GST have been transferred to which body?"
+      },
+      "o": [
+        {
+          "hi": "SEBI",
+          "en": "SEBI"
+        },
+        {
+          "hi": "NITI Aayog",
+          "en": "NITI Aayog"
+        },
+        {
+          "hi": "भारतीय प्रतिस्पर्धा आयोग (CCI)",
+          "en": "Competition Commission of India (CCI)"
+        },
+        {
+          "hi": "CBI",
+          "en": "CBI"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "GST किस प्रकार का कर है?",
+        "en": "What type of tax is GST structurally?"
+      },
+      "o": [
+        {
+          "hi": "उत्पत्ति-आधारित (Origin-based) कर",
+          "en": "Origin-based tax"
+        },
+        {
+          "hi": "केवल उत्पादन कर",
+          "en": "Production tax only"
+        },
+        {
+          "hi": "आय कर",
+          "en": "Income tax"
+        },
+        {
+          "hi": "गंतव्य-आधारित (Destination-based) उपभोग कर",
+          "en": "Destination-based consumption tax"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कर वंचना / कर चोरी (Tax Evasion) और कर परिहार (Tax Avoidance) में क्या अंतर है?",
+        "en": "What is the difference between Tax Evasion and Tax Avoidance?"
+      },
+      "o": [
+        {
+          "hi": "कर चोरी गैर-कानूनी/गैर-संवैधानिक है, जबकि कर परिहार कानून की कमियों का फायदा उठाकर कर बचाना है",
+          "en": "Tax Evasion is illegal/unlawful, while Tax Avoidance exploits legal loopholes"
+        },
+        {
+          "hi": "दोनों पूरी तरह वैध हैं",
+          "en": "Both are completely legal"
+        },
+        {
+          "hi": "कर चोरी केवल कंपनियां करती हैं",
+          "en": "Tax evasion is done by companies only"
+        },
+        {
+          "hi": "कर परिहार में जेल की सजा होती है",
+          "en": "Tax avoidance leads to imprisonment"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "न्यूनतम वैकल्पिक कर (Minimum Alternate Tax - MAT) किस पर लागू होता है?",
+        "en": "On whom does Minimum Alternate Tax (MAT) apply?"
+      },
+      "o": [
+        {
+          "hi": "केवल व्यक्तिगत वेतनभोगी कर्मचारियों पर",
+          "en": "Individual salaried employees only"
+        },
+        {
+          "hi": "ऐसी शून्य-कर कंपनियों (Zero-tax companies) पर जो खाता लाभ दिखाती हैं परंतु विभिन्न छूटों के कारण आयकर नहीं देतीं",
+          "en": "Zero-tax companies showing book profits but paying no income tax due to exemptions"
+        },
+        {
+          "hi": "केवल किसानों पर",
+          "en": "Farmers only"
+        },
+        {
+          "hi": "विदेशी पर्यटकों पर",
+          "en": "Foreign tourists"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गाडगिल-मुखर्जी फॉर्मूला (Gadgil-Mukherjee Formula) का उपयोग किस हेतु किया जाता था?",
+        "en": "What was the Gadgil-Mukherjee Formula used for?"
+      },
+      "o": [
+        {
+          "hi": "GST दरों के निर्धारण हेतु",
+          "en": "Fixing GST rates"
+        },
+        {
+          "hi": "मुद्रास्फीति मापने हेतु",
+          "en": "Measuring inflation"
+        },
+        {
+          "hi": "राज्यों को योजना सहायता और केंद्रीय संसाधनों के आवंटन हेतु",
+          "en": "Allocation of Plan Assistance and central resources to States"
+        },
+        {
+          "hi": "बैंक विलय हेतु",
+          "en": "Bank mergers"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "GAAR (General Anti-Avoidance Rules) का मुख्य उद्देश्य क्या है?",
+        "en": "What is the main objective of GAAR (General Anti-Avoidance Rules)?"
+      },
+      "o": [
+        {
+          "hi": "कर की दरें बढ़ाना",
+          "en": "Increasing tax rates"
+        },
+        {
+          "hi": "जीएसटी रिफंड जारी करना",
+          "en": "Issuing GST refunds"
+        },
+        {
+          "hi": "कृषि आय पर कर लगाना",
+          "en": "Taxing agricultural income"
+        },
+        {
+          "hi": "आक्रामक कर नियोजन और विदेशी टैक्स हैवन के जरिए होने वाली कर चोरी को रोकना",
+          "en": "Curbing aggressive tax planning and tax avoidance through offshore tax havens"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इक्वलैजिशन लेवी (Equalisation Levy), जिसे 'गूगल टैक्स' भी कहा जाता है, किस पर लगाया जाता है?",
+        "en": "On what is the Equalisation Levy ('Google Tax') imposed?"
+      },
+      "o": [
+        {
+          "hi": "अनिवासी डिजिटल कंपनियों (जैसे Google, Meta) द्वारा भारतीय ऑनलाइन विज्ञापन राजस्व पर",
+          "en": "Online advertising revenues earned by non-resident tech giants in India"
+        },
+        {
+          "hi": "स्मार्टफोन की बिक्री पर",
+          "en": "Sale of smartphones"
+        },
+        {
+          "hi": "इंटरनेट डेटा रीचार्ज पर",
+          "en": "Internet data recharges"
+        },
+        {
+          "hi": "सॉफ्टवेयर निर्यात पर",
+          "en": "Software exports"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एंजेल टैक्स (Angel Tax) किससे संबंधित है?",
+        "en": "What is 'Angel Tax' associated with?"
+      },
+      "o": [
+        {
+          "hi": "धार्मिक संस्थाओं पर कर",
+          "en": "Tax on religious bodies"
+        },
+        {
+          "hi": "गैर-सूचीबद्ध स्टार्ट-अप्स द्वारा शेयर जारी कर उचित बाजार मूल्य से अधिक प्राप्त धन पर कर",
+          "en": "Tax on capital raised by unlisted startups issuing shares above Fair Market Value"
+        },
+        {
+          "hi": "विदेशी पर्यटकों द्वारा व्यय पर कर",
+          "en": "Tax on foreign tourist expenditure"
+        },
+        {
+          "hi": "शेयर लाभांश पर कर",
+          "en": "Tax on stock dividends"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "टैबिन टैक्स (Tobin Tax) का प्रस्ताव किस लेन-देन पर कर लगाने के लिए दिया गया था?",
+        "en": "On which transactions was Tobin Tax proposed to be levied?"
+      },
+      "o": [
+        {
+          "hi": "सोने के आयात पर",
+          "en": "Gold imports"
+        },
+        {
+          "hi": "खाद्यान्न बिक्री पर",
+          "en": "Foodgrain sales"
+        },
+        {
+          "hi": "अंतर्राष्ट्रीय विदेशी मुद्रा (Forex) वित्तीय लेनदेन पर सट्टेबाजी रोकने हेतु",
+          "en": "International foreign exchange transactions to curb currency speculation"
+        },
+        {
+          "hi": "पेट्रोलियम बिक्री पर",
+          "en": "Petroleum sales"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पिगोवियन टैक्स (Pigouvian Tax) किस प्रकार का कर है?",
+        "en": "What is a Pigouvian Tax?"
+      },
+      "o": [
+        {
+          "hi": "केवल अमीर लोगों पर कर",
+          "en": "Tax on rich people only"
+        },
+        {
+          "hi": "केवल ऑनलाइन गेमिंग पर कर",
+          "en": "Tax on online gaming only"
+        },
+        {
+          "hi": "निःशुल्क सरकारी कर",
+          "en": "Tax-free subsidy"
+        },
+        {
+          "hi": "नकारात्मक बाह्यता (Negative Externalities जैसे प्रदूषण) पैदा करने वाली गतिविधियों पर लगाया जाने वाला कर",
+          "en": "Tax levied on market activities that generate negative externalities (e.g. pollution)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सिन टैक्स (Sin Tax) किन वस्तुओं पर लगाया जाता है?",
+        "en": "On what items is a 'Sin Tax' levied?"
+      },
+      "o": [
+        {
+          "hi": "समाज और स्वास्थ्य के लिए हानिकारक वस्तुओं (जैसे शराब, तंबाकू, सिगरेट) पर",
+          "en": "Goods considered harmful to society and health (e.g. alcohol, tobacco, cigarettes)"
+        },
+        {
+          "hi": "आवश्यक दवाओं पर",
+          "en": "Essential medicines"
+        },
+        {
+          "hi": "बच्चों के खिलौनों पर",
+          "en": "Children's toys"
+        },
+        {
+          "hi": "सौर ऊर्जा पैनलों पर",
+          "en": "Solar energy panels"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ट्रांसफर प्राइसिंग (Transfer Pricing) का संबंध किससे है?",
+        "en": "What does Transfer Pricing relate to?"
+      },
+      "o": [
+        {
+          "hi": "बस और रेल किराए की कीमत",
+          "en": "Bus and train fare pricing"
+        },
+        {
+          "hi": "एक ही बहुराष्ट्रीय समूह की विभिन्न सहयोगी कंपनियों (Entities) के बीच वस्तुओं/सेवाओं के लेन-देन की कीमत निर्धारण",
+          "en": "Pricing of goods/services transactions between related entities of a multinational firm"
+        },
+        {
+          "hi": "बैंकों के बीच ब्याज दरें",
+          "en": "Inter-bank interest rates"
+        },
+        {
+          "hi": "शेयरों का हस्तांतरण शुल्क",
+          "en": "Stock transfer fees"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फेसलेस असेसमेंट (Faceless Assessment) योजना का मुख्य उद्देश्य क्या है?",
+        "en": "What is the primary goal of the Faceless Assessment scheme in Income Tax?"
+      },
+      "o": [
+        {
+          "hi": "कर दाताओं के चेहरे की पहचान करना",
+          "en": "Facial recognition of taxpayers"
+        },
+        {
+          "hi": "कर छूट समाप्त करना",
+          "en": "Eliminating tax exemptions"
+        },
+        {
+          "hi": "करदाता और कर अधिकारी के बीच प्रत्यक्ष संपर्क समाप्त कर पारदर्शिता लाना और भ्रष्टाचार रोकना",
+          "en": "Eliminating physical interaction between taxpayer and tax officers to boost transparency"
+        },
+        {
+          "hi": "केवल नकद भुगतान स्वीकार करना",
+          "en": "Accepting cash payments only"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विंडफॉल टैक्स (Windfall Tax) कब लगाया जाता है?",
+        "en": "When is a Windfall Tax imposed?"
+      },
+      "o": [
+        {
+          "hi": "प्राकृतिक आपदा से हुए नुकसान पर",
+          "en": "On losses caused by natural disasters"
+        },
+        {
+          "hi": "कंपनी के घाटे पर",
+          "en": "On corporate losses"
+        },
+        {
+          "hi": "स्टार्ट-अप्स बंद होने पर",
+          "en": "On closure of startups"
+        },
+        {
+          "hi": "अनुकूल बाह्य परिस्थितियों (जैसे युद्ध/वैश्विक मांग) के कारण कंपनियों को हुए अप्रत्याशित अभूतपूर्व लाभ पर",
+          "en": "On unexpected, huge profits earned by companies due to favourable external events"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "केंद्रीय प्रत्यक्ष कर बोर्ड (CBDT) और केंद्रीय अप्रत्यक्ष कर और सीमा शुल्क बोर्ड (CBIC) किस मंत्रालय के अंतर्गत आते हैं?",
+        "en": "CBDT and CBIC function under which Union Ministry?"
+      },
+      "o": [
+        {
+          "hi": "वित्त मंत्रालय (राजस्व विभाग)",
+          "en": "Ministry of Finance (Department of Revenue)"
+        },
+        {
+          "hi": "वाणिज्य और उद्योग मंत्रालय",
+          "en": "Ministry of Commerce and Industry"
+        },
+        {
+          "hi": "गृह मंत्रालय",
+          "en": "Ministry of Home Affairs"
+        },
+        {
+          "hi": "कॉर्पोरेट मामलों का मंत्रालय",
+          "en": "Ministry of Corporate Affairs"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राजकोषीय समेकन (Fiscal Consolidation) का क्या अर्थ है?",
+        "en": "What is meant by Fiscal Consolidation?"
+      },
+      "o": [
+        {
+          "hi": "सभी बैंकों का विलय करना",
+          "en": "Merging all banks"
+        },
+        {
+          "hi": "सरकार द्वारा राजकोषीय घाटे (Fiscal Deficit) और कुल ऋण को कम करने की नीतियां",
+          "en": "Policies aimed at reducing government fiscal deficit and public debt"
+        },
+        {
+          "hi": "नए कर लागू करना",
+          "en": "Introducing new taxes"
+        },
+        {
+          "hi": "कागजी नोटों को छापना बंद करना",
+          "en": "Stopping printing paper notes"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "FRBM (Fiscal Responsibility and Budget Management) अधिनियम किस वर्ष पारित किया गया था?",
+        "en": "In which year was the FRBM Act passed in India?"
+      },
+      "o": [
+        {
+          "hi": "1991",
+          "en": "1991"
+        },
+        {
+          "hi": "2014",
+          "en": "2014"
+        },
+        {
+          "hi": "2003",
+          "en": "2003"
+        },
+        {
+          "hi": "2008",
+          "en": "2008"
+        }
+      ],
+      "a": 2
+    }
+  ]
+}

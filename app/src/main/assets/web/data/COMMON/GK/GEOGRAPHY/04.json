@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "महाद्वीप, महासागर और जलधाराएँ / Continents, Oceans & Currents",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Continents, Oceans & Currents.",
+  "questions": [
+    {
+      "q": {
+        "hi": "क्षेत्रफल और जनसंख्या दोनों की दृष्टि से विश्व का सबसे बड़ा महाद्वीप कौन सा है?",
+        "en": "Which is the largest continent in the world by both area and population?"
+      },
+      "o": [
+        {
+          "hi": "एशिया (Asia)",
+          "en": "Asia"
+        },
+        {
+          "hi": "अफ्रीका (Africa)",
+          "en": "Africa"
+        },
+        {
+          "hi": "उत्तरी अमेरिका (North America)",
+          "en": "North America"
+        },
+        {
+          "hi": "यूरोप (Europe)",
+          "en": "Europe"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे छोटा महाद्वीप कौन सा है जिसे 'द्विपीय महाद्वीप' (Island Continent) भी कहा जाता है?",
+        "en": "Which is the smallest continent, also known as the 'Island Continent'?"
+      },
+      "o": [
+        {
+          "hi": "यूरोप (Europe)",
+          "en": "Europe"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        },
+        {
+          "hi": "अंटार्कटिका (Antarctica)",
+          "en": "Antarctica"
+        },
+        {
+          "hi": "दक्षिण अमेरिका (South America)",
+          "en": "South America"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किस महाद्वीप से होकर विषुवत रेखा, कर्क रेखा और मकर रेखा तीनों गुजरती हैं?",
+        "en": "Through which continent do the Equator, Tropic of Cancer, and Tropic of Capricorn all pass?"
+      },
+      "o": [
+        {
+          "hi": "एशिया (Asia)",
+          "en": "Asia"
+        },
+        {
+          "hi": "दक्षिण अमेरिका (South America)",
+          "en": "South America"
+        },
+        {
+          "hi": "अफ्रीका (Africa)",
+          "en": "Africa"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किस महाद्वीप को 'श्वेत महाद्वीप' (White Continent) के नाम से जाना जाता है?",
+        "en": "Which continent is known as the 'White Continent' due to permanent ice cover?"
+      },
+      "o": [
+        {
+          "hi": "यूरोप (Europe)",
+          "en": "Europe"
+        },
+        {
+          "hi": "उत्तरी अमेरिका (North America)",
+          "en": "North America"
+        },
+        {
+          "hi": "एशिया (Asia)",
+          "en": "Asia"
+        },
+        {
+          "hi": "अंटार्कटिका (Antarctica)",
+          "en": "Antarctica"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किस महाद्वीप को 'अंध महाद्वीप' (Dark Continent) कहा जाता है?",
+        "en": "Which continent was historically referred to as the 'Dark Continent'?"
+      },
+      "o": [
+        {
+          "hi": "अफ्रीका (Africa)",
+          "en": "Africa"
+        },
+        {
+          "hi": "एशिया (Asia)",
+          "en": "Asia"
+        },
+        {
+          "hi": "दक्षिण अमेरिका (South America)",
+          "en": "South America"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा महासागर कौन सा है?",
+        "en": "Which is the largest ocean in the world?"
+      },
+      "o": [
+        {
+          "hi": "अटलांटिक महासागर (Atlantic Ocean)",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "प्रशांत महासागर (Pacific Ocean)",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "हिंद महासागर (Indian Ocean)",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर (Arctic Ocean)",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे गहरी गर्त (Deepest Trench) 'मैरियाना गर्त' (Mariana Trench) किस महासागर में स्थित है?",
+        "en": "In which ocean is the world's deepest trench, the Mariana Trench (Challenger Deep), located?"
+      },
+      "o": [
+        {
+          "hi": "अटलांटिक महासागर (Atlantic Ocean)",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "हिंद महासागर (Indian Ocean)",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "प्रशांत महासागर (Pacific Ocean)",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर (Arctic Ocean)",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अंग्रेजी के 'S' आकार का कौन सा महासागर है?",
+        "en": "Which ocean has an 'S' shape?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर (Pacific Ocean)",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "हिंद महासागर (Indian Ocean)",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर (Arctic Ocean)",
+          "en": "Arctic Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर (Atlantic Ocean)",
+          "en": "Atlantic Ocean"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे व्यस्त समुद्री व्यापारिक मार्ग किस महासागर में स्थित है?",
+        "en": "Which ocean contains the world's busiest sea trade routes?"
+      },
+      "o": [
+        {
+          "hi": "उत्तर अटलांटिक महासागर (North Atlantic Ocean)",
+          "en": "North Atlantic Ocean"
+        },
+        {
+          "hi": "प्रशांत महासागर (Pacific Ocean)",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "हिंद महासागर (Indian Ocean)",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "दक्षिण अटलांटिक महासागर",
+          "en": "South Atlantic Ocean"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सारगासो सागर (Sargasso Sea) किस महासागर में स्थित है जहाँ तटरेखा नहीं पाई जाती?",
+        "en": "The Sargasso Sea, which has no coastline, is located in which ocean?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर (Pacific Ocean)",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "उत्तर अटलांटिक महासागर (North Atlantic Ocean)",
+          "en": "North Atlantic Ocean"
+        },
+        {
+          "hi": "हिंद महासागर (Indian Ocean)",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "दक्षिणी महासागर",
+          "en": "Southern Ocean"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हिंद महासागर का सबसे गहरा गर्त कौन सा है?",
+        "en": "Which is the deepest trench in the Indian Ocean?"
+      },
+      "o": [
+        {
+          "hi": "प्यूर्टो रिको गर्त (Puerto Rico Trench)",
+          "en": "Puerto Rico Trench"
+        },
+        {
+          "hi": "मैरियाना गर्त (Mariana Trench)",
+          "en": "Mariana Trench"
+        },
+        {
+          "hi": "सुंडा गर्त / जावा गर्त (Sunda / Java Trench)",
+          "en": "Sunda / Java Trench"
+        },
+        {
+          "hi": "टोन्गा गर्त (Tonga Trench)",
+          "en": "Tonga Trench"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अटलांटिक महासागर का सबसे गहरा गर्त कौन सा है?",
+        "en": "Which is the deepest trench in the Atlantic Ocean?"
+      },
+      "o": [
+        {
+          "hi": "मैरियाना गर्त (Mariana Trench)",
+          "en": "Mariana Trench"
+        },
+        {
+          "hi": "सुंडा गर्त (Sunda Trench)",
+          "en": "Sunda Trench"
+        },
+        {
+          "hi": "रोमैंश गर्त (Romanche Trench)",
+          "en": "Romanche Trench"
+        },
+        {
+          "hi": "प्यूर्टो रिको गर्त (Puerto Rico Trench)",
+          "en": "Puerto Rico Trench"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गल्फ स्ट्रीम (Gulf Stream) किस महासागर की गर्म जलधारा है?",
+        "en": "The Gulf Stream is a warm current of which ocean?"
+      },
+      "o": [
+        {
+          "hi": "अटलांटिक महासागर (Atlantic Ocean)",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "प्रशांत महासागर (Pacific Ocean)",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "हिंद महासागर (Indian Ocean)",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर (Arctic Ocean)",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यूरोप का कंबल (Blanket of Europe) किस जलधारा को कहा जाता है?",
+        "en": "Which warm current is referred to as the 'Blanket of Europe'?"
+      },
+      "o": [
+        {
+          "hi": "लैब्राडोर जलधारा",
+          "en": "Labrador Current"
+        },
+        {
+          "hi": "उत्तरी अटलांटिक प्रवाह / गल्फ स्ट्रीम",
+          "en": "North Atlantic Drift / Gulf Stream"
+        },
+        {
+          "hi": "कनारी जलधारा",
+          "en": "Canary Current"
+        },
+        {
+          "hi": "फ़ॉकलैंड जलधारा",
+          "en": "Falkland Current"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लैब्राडोर जलधारा (Labrador Current) किस महासागर की ठंडी जलधारा है?",
+        "en": "The Labrador Current is a cold current of which ocean?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर (Pacific Ocean)",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "हिंद महासागर (Indian Ocean)",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर (Atlantic Ocean)",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "दक्षिणी महासागर",
+          "en": "Southern Ocean"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पेरू या हम्बोल्ट की जलधारा (Peru / Humboldt Current) किस महासागर की ठंडी जलधारा है?",
+        "en": "The Peru or Humboldt Current is a cold current of which ocean?"
+      },
+      "o": [
+        {
+          "hi": "उत्तर प्रशांत महासागर",
+          "en": "North Pacific Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "दक्षिण प्रशांत महासागर (South Pacific Ocean)",
+          "en": "South Pacific Ocean"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "क्यूरोशियो (Kuroshio) जलधारा किस महासागर की गर्म जलधारा है जिसे 'जापान की काली धारा' कहते हैं?",
+        "en": "The Kuroshio current, known as the 'Black Stream of Japan', is a warm current of which ocean?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर (Pacific Ocean)",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर (Atlantic Ocean)",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "हिंद महासागर (Indian Ocean)",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर (Arctic Ocean)",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ओयाशियो या कमचटका जलधारा (Oyashio / Kamchatka Current) किस प्रकार की जलधारा है?",
+        "en": "What type of current is the Oyashio / Kamchatka Current?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर की गर्म जलधारा",
+          "en": "Warm current of Pacific Ocean"
+        },
+        {
+          "hi": "प्रशांत महासागर की ठंडी जलधारा",
+          "en": "Cold current of Pacific Ocean"
+        },
+        {
+          "hi": "अटलांटिक की गर्म जलधारा",
+          "en": "Warm current of Atlantic"
+        },
+        {
+          "hi": "हिंद महासागर की ठंडी जलधारा",
+          "en": "Cold current of Indian Ocean"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कनारी जलधारा (Canary Current) किस महासागर की ठंडी जलधारा है?",
+        "en": "The Canary Current is a cold current of which ocean?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर (Pacific Ocean)",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "हिंद महासागर (Indian Ocean)",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर (Atlantic Ocean)",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बेंगुएला जलधारा (Benguela Current) किस महासागर की ठंडी धारा है जो अफ्रीका के पश्चिमी तट पर बहती है?",
+        "en": "The Benguela Current flowing along the west coast of Africa is a cold current of which ocean?"
+      },
+      "o": [
+        {
+          "hi": "दक्षिण प्रशांत महासागर",
+          "en": "South Pacific Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "उत्तर अटलांटिक महासागर",
+          "en": "North Atlantic Ocean"
+        },
+        {
+          "hi": "दक्षिण अटलांटिक महासागर (South Atlantic Ocean)",
+          "en": "South Atlantic Ocean"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अगुलहास जलधारा (Agulhas Current) किस महासागर की गर्म जलधारा है?",
+        "en": "The Agulhas Current is a warm current of which ocean?"
+      },
+      "o": [
+        {
+          "hi": "हिंद महासागर (Indian Ocean)",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर (Atlantic Ocean)",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "प्रशांत महासागर (Pacific Ocean)",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मोजाम्बिक जलधारा (Mozambique Current) किस महासागर की गर्म जलधारा है?",
+        "en": "The Mozambique Current is a warm ocean current of which ocean?"
+      },
+      "o": [
+        {
+          "hi": "अटलांटिक महासागर (Atlantic Ocean)",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "हिंद महासागर (Indian Ocean)",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "प्रशांत महासागर (Pacific Ocean)",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "दक्षिणी महासागर",
+          "en": "Southern Ocean"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्वेज नहर (Suez Canal) किन दो सागरों को आपस में जोड़ती है?",
+        "en": "Which two seas are connected by the Suez Canal?"
+      },
+      "o": [
+        {
+          "hi": "लाल सागर और अरब सागर",
+          "en": "Red Sea and Arabian Sea"
+        },
+        {
+          "hi": "भूमध्य सागर और काला सागर",
+          "en": "Mediterranean Sea and Black Sea"
+        },
+        {
+          "hi": "भूमध्य सागर और लाल सागर (Mediterranean Sea and Red Sea)",
+          "en": "Mediterranean Sea and Red Sea"
+        },
+        {
+          "hi": "कैरिबियन सागर और प्रशांत महासागर",
+          "en": "Caribbean Sea and Pacific Ocean"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्वेज नहर का निर्माण किस वर्ष पूरा हुआ था और यातायात के लिए खोला गया?",
+        "en": "In which year was the construction of Suez Canal completed and opened for traffic?"
+      },
+      "o": [
+        {
+          "hi": "1914",
+          "en": "1914"
+        },
+        {
+          "hi": "1859",
+          "en": "1859"
+        },
+        {
+          "hi": "1904",
+          "en": "1904"
+        },
+        {
+          "hi": "1869",
+          "en": "1869"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्वेज नहर का राष्ट्रीयकरण मिस्र (Egypt) द्वारा किस वर्ष किया गया था?",
+        "en": "In which year was the Suez Canal nationalized by Egypt?"
+      },
+      "o": [
+        {
+          "hi": "1956",
+          "en": "1956"
+        },
+        {
+          "hi": "1947",
+          "en": "1947"
+        },
+        {
+          "hi": "1965",
+          "en": "1965"
+        },
+        {
+          "hi": "1971",
+          "en": "1971"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पनामा नहर (Panama Canal) किन दो बड़े महासागरों को आपस में जोड़ती है?",
+        "en": "Which two major oceans are connected by the Panama Canal?"
+      },
+      "o": [
+        {
+          "hi": "हिंद महासागर और प्रशांत महासागर",
+          "en": "Indian and Pacific Oceans"
+        },
+        {
+          "hi": "प्रशांत महासागर और अटलांटिक महासागर (Pacific Ocean and Atlantic Ocean)",
+          "en": "Pacific and Atlantic Oceans"
+        },
+        {
+          "hi": "अटलांटिक महासागर और हिंद महासागर",
+          "en": "Atlantic and Indian Oceans"
+        },
+        {
+          "hi": "आर्कटिक और अटलांटिक महासागर",
+          "en": "Arctic and Atlantic Oceans"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जिब्राल्टर जलडमरूमध्य (Strait of Gibraltar) किन दो जलभागों को जोड़ता है?",
+        "en": "Which two water bodies are connected by the Strait of Gibraltar?"
+      },
+      "o": [
+        {
+          "hi": "लाल सागर और भूमध्य सागर",
+          "en": "Red Sea and Mediterranean Sea"
+        },
+        {
+          "hi": "काला सागर और भूमध्य सागर",
+          "en": "Black Sea and Mediterranean Sea"
+        },
+        {
+          "hi": "भूमध्य सागर और अटलांटिक महासागर (Mediterranean Sea and Atlantic Ocean)",
+          "en": "Mediterranean Sea and Atlantic Ocean"
+        },
+        {
+          "hi": "फारस की खाड़ी और ओमान की खाड़ी",
+          "en": "Persian Gulf and Gulf of Oman"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किस जलसंधि को 'भूमध्य सागर की कुंजी' (Key to the Mediterranean) कहा जाता है?",
+        "en": "Which strait is known as the 'Key to the Mediterranean'?"
+      },
+      "o": [
+        {
+          "hi": "बाब-अल-मंदेब",
+          "en": "Bab-el-Mandeb"
+        },
+        {
+          "hi": "मलक्का जलसंधि",
+          "en": "Strait of Malacca"
+        },
+        {
+          "hi": "बॉसफोरस जलसंधि",
+          "en": "Bosphorus Strait"
+        },
+        {
+          "hi": "जिब्राल्टर जलसंधि (Strait of Gibraltar)",
+          "en": "Strait of Gibraltar"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अंबर की खाड़ी / 'आँसुओं का प्रवेश द्वार' (Gate of Tears) किस जलसंधि को कहा जाता है?",
+        "en": "Which strait is known as the 'Gate of Tears' (Bab-el-Mandeb)?"
+      },
+      "o": [
+        {
+          "hi": "बाब-अल-मंदेब जलसंधि (Bab-el-Mandeb)",
+          "en": "Bab-el-Mandeb"
+        },
+        {
+          "hi": "हॉरमुज जलसंधि",
+          "en": "Strait of Hormuz"
+        },
+        {
+          "hi": "मलक्का जलसंधि",
+          "en": "Strait of Malacca"
+        },
+        {
+          "hi": "पाक जलसंधि",
+          "en": "Palk Strait"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पाक जलडमरूमध्य (Palk Strait) किन दो देशों को अलग करता है?",
+        "en": "The Palk Strait separates which two countries?"
+      },
+      "o": [
+        {
+          "hi": "भारत और पाकिस्तान",
+          "en": "India and Pakistan"
+        },
+        {
+          "hi": "भारत और श्रीलंका (India and Sri Lanka)",
+          "en": "India and Sri Lanka"
+        },
+        {
+          "hi": "भारत और मालदीव",
+          "en": "India and Maldives"
+        },
+        {
+          "hi": "श्रीलंका और मालदीव",
+          "en": "Sri Lanka and Maldives"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मलक्का जलसंधि (Strait of Malacca) किन दो जल निकायों को जोड़ती है?",
+        "en": "The Strait of Malacca connects which two water bodies?"
+      },
+      "o": [
+        {
+          "hi": "जावा सागर और सेलेबीज सागर",
+          "en": "Java Sea and Celebes Sea"
+        },
+        {
+          "hi": "लाल सागर और अरब सागर",
+          "en": "Red Sea and Arabian Sea"
+        },
+        {
+          "hi": "अंडमान सागर और दक्षिण चीन सागर (Andaman Sea and South China Sea)",
+          "en": "Andaman Sea and South China Sea"
+        },
+        {
+          "hi": "प्रशांत महासागर और हिंद महासागर",
+          "en": "Pacific Ocean and Indian Ocean"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बेरिंग जलसंधि (Bering Strait) किन दो महाद्वीपों को अलग करती है?",
+        "en": "The Bering Strait separates which two continents?"
+      },
+      "o": [
+        {
+          "hi": "यूरोप और अफ्रीका",
+          "en": "Europe and Africa"
+        },
+        {
+          "hi": "उत्तरी अमेरिका और दक्षिण अमेरिका",
+          "en": "North America and South America"
+        },
+        {
+          "hi": "एशिया और यूरोप",
+          "en": "Asia and Europe"
+        },
+        {
+          "hi": "एशिया और उत्तरी अमेरिका (Asia and North America)",
+          "en": "Asia and North America"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अंतर्राष्ट्रीय तिथि रेखा (180° Longitude) किस जलसंधि के समानांतर स्थित है?",
+        "en": "The International Date Line passes parallel to which strait?"
+      },
+      "o": [
+        {
+          "hi": "बेरिंग जलसंधि (Bering Strait)",
+          "en": "Bering Strait"
+        },
+        {
+          "hi": "जिब्राल्टर जलसंधि",
+          "en": "Strait of Gibraltar"
+        },
+        {
+          "hi": "मलक्का जलसंधि",
+          "en": "Strait of Malacca"
+        },
+        {
+          "hi": "डेविस जलसंधि",
+          "en": "Davis Strait"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे चौड़ी जलसंधि कौन सी है?",
+        "en": "Which is the widest strait in the world?"
+      },
+      "o": [
+        {
+          "hi": "डेनमार्क जलसंधि",
+          "en": "Denmark Strait"
+        },
+        {
+          "hi": "डेविस जलसंधि (Davis Strait)",
+          "en": "Davis Strait"
+        },
+        {
+          "hi": "जिब्राल्टर जलसंधि",
+          "en": "Strait of Gibraltar"
+        },
+        {
+          "hi": "फ्लोरिडा जलसंधि",
+          "en": "Florida Strait"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हॉरमुज जलसंधि (Strait of Hormuz) किन दो खाड़ियों को जोड़ती है?",
+        "en": "The Strait of Hormuz connects which two gulfs?"
+      },
+      "o": [
+        {
+          "hi": "अदन की खाड़ी और लाल सागर",
+          "en": "Gulf of Aden and Red Sea"
+        },
+        {
+          "hi": "मेक्सिको की खाड़ी और कैरिबियन सागर",
+          "en": "Gulf of Mexico and Caribbean Sea"
+        },
+        {
+          "hi": "फारस की खाड़ी और ओमान की खाड़ी (Persian Gulf and Gulf of Oman)",
+          "en": "Persian Gulf and Gulf of Oman"
+        },
+        {
+          "hi": "बंगाल की खाड़ी और मन्नार की खाड़ी",
+          "en": "Bay of Bengal and Gulf of Mannar"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे लंबी पर्वत श्रृंखला कौन सी है जो दक्षिण अमेरिका में स्थित है?",
+        "en": "Which is the longest mountain range in the world, located in South America?"
+      },
+      "o": [
+        {
+          "hi": "रॉकी पर्वतमाला (Rockies)",
+          "en": "Rockies"
+        },
+        {
+          "hi": "हिमालय (Himalayas)",
+          "en": "Himalayas"
+        },
+        {
+          "hi": "ग्रेट डिवाइडिंग रेंज (Great Dividing Range)",
+          "en": "Great Dividing Range"
+        },
+        {
+          "hi": "एंडीज पर्वतमाला (Andes)",
+          "en": "Andes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे ऊँची पर्वत चोटी 'माउंट एवरेस्ट' किस महाद्वीप में स्थित है?",
+        "en": "The highest mountain peak in the world, Mount Everest, is in which continent?"
+      },
+      "o": [
+        {
+          "hi": "एशिया (Asia)",
+          "en": "Asia"
+        },
+        {
+          "hi": "यूरोप (Europe)",
+          "en": "Europe"
+        },
+        {
+          "hi": "उत्तरी अमेरिका (North America)",
+          "en": "North America"
+        },
+        {
+          "hi": "दक्षिण अमेरिका (South America)",
+          "en": "South America"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा मरुस्थल 'सहारा मरुस्थल' किस महाद्वीप में स्थित है?",
+        "en": "The world's largest hot desert, the Sahara Desert, is in which continent?"
+      },
+      "o": [
+        {
+          "hi": "एशिया (Asia)",
+          "en": "Asia"
+        },
+        {
+          "hi": "अफ्रीका (Africa)",
+          "en": "Africa"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        },
+        {
+          "hi": "दक्षिण अमेरिका (South America)",
+          "en": "South America"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे लंबी नदी 'नील नदी' (Nile River) किस महाद्वीप में बहती है?",
+        "en": "The world's longest river, the Nile, flows through which continent?"
+      },
+      "o": [
+        {
+          "hi": "दक्षिण अमेरिका (South America)",
+          "en": "South America"
+        },
+        {
+          "hi": "एशिया (Asia)",
+          "en": "Asia"
+        },
+        {
+          "hi": "अफ्रीका (Africa)",
+          "en": "Africa"
+        },
+        {
+          "hi": "उत्तरी अमेरिका (North America)",
+          "en": "North America"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जल आयतन (Volume of water) की दृष्टि से विश्व की सबसे बड़ी नदी कौन सी है?",
+        "en": "Which is the largest river in the world by volume of water discharged?"
+      },
+      "o": [
+        {
+          "hi": "नील नदी (Nile River)",
+          "en": "Nile River"
+        },
+        {
+          "hi": "यांग्त्जी नदी (Yangtze River)",
+          "en": "Yangtze River"
+        },
+        {
+          "hi": "मिसिसिपी नदी (Mississippi River)",
+          "en": "Mississippi River"
+        },
+        {
+          "hi": "अमेज़न नदी (Amazon River)",
+          "en": "Amazon River"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे ऊँचा जलप्रपात 'एंजेल जलप्रपात' (Angel Falls) किस देश में स्थित है?",
+        "en": "The world's highest waterfall, Angel Falls, is located in which country?"
+      },
+      "o": [
+        {
+          "hi": "वेनेजुएला (Venezuela)",
+          "en": "Venezuela"
+        },
+        {
+          "hi": "ब्राजील (Brazil)",
+          "en": "Brazil"
+        },
+        {
+          "hi": "कनाडा (Canada)",
+          "en": "Canada"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका (USA)",
+          "en": "USA"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे बड़ी मीठे पानी की झील 'सुपीरियर झील' (Lake Superior) कहाँ स्थित है?",
+        "en": "The largest freshwater lake in the world by surface area, Lake Superior, is located where?"
+      },
+      "o": [
+        {
+          "hi": "रूस (सूडान सीमा)",
+          "en": "Russia"
+        },
+        {
+          "hi": "उत्तरी अमेरिका (कनाडा और अमेरिका सीमा)",
+          "en": "North America (Canada-USA border)"
+        },
+        {
+          "hi": "अफ्रीका",
+          "en": "Africa"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया",
+          "en": "Australia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे गहरी झील 'बैकाल झील' (Lake Baikal) किस देश में स्थित है?",
+        "en": "The deepest lake in the world, Lake Baikal, is situated in which country?"
+      },
+      "o": [
+        {
+          "hi": "कनाडा",
+          "en": "Canada"
+        },
+        {
+          "hi": "अमेरिका",
+          "en": "USA"
+        },
+        {
+          "hi": "रूस (Siberia, Russia)",
+          "en": "Russia"
+        },
+        {
+          "hi": "कजाकिस्तान",
+          "en": "Kazakhstan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे बड़ी खारे पानी की झील / आंतरिक जल निकाय कौन सा है?",
+        "en": "Which is the world's largest inland body of water / saline lake?"
+      },
+      "o": [
+        {
+          "hi": "अराल सागर (Aral Sea)",
+          "en": "Aral Sea"
+        },
+        {
+          "hi": "मृत सागर (Dead Sea)",
+          "en": "Dead Sea"
+        },
+        {
+          "hi": "सुपीरियर झील (Lake Superior)",
+          "en": "Lake Superior"
+        },
+        {
+          "hi": "कैस्पियन सागर (Caspian Sea)",
+          "en": "Caspian Sea"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व में सर्वाधिक लवणता (Salinity) वाली झील कौन सी है?",
+        "en": "Which lake has the highest salinity in the world?"
+      },
+      "o": [
+        {
+          "hi": "वान झील (Lake Van - 330‰, Turkey)",
+          "en": "Lake Van (Turkey)"
+        },
+        {
+          "hi": "मृत सागर (Dead Sea - 238‰)",
+          "en": "Dead Sea"
+        },
+        {
+          "hi": "ग्रेट साल्ट लेक (USA)",
+          "en": "Great Salt Lake"
+        },
+        {
+          "hi": "कैस्पियन सागर",
+          "en": "Caspian Sea"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एशिया को यूरोप से अलग करने वाले पर्वत का नाम क्या है?",
+        "en": "Which mountain range separates Europe from Asia?"
+      },
+      "o": [
+        {
+          "hi": "आल्प्स पर्वत (Alps)",
+          "en": "Alps"
+        },
+        {
+          "hi": "यूराल पर्वत (Ural Mountains)",
+          "en": "Ural Mountains"
+        },
+        {
+          "hi": "काकेशस पर्वत (Caucasus)",
+          "en": "Caucasus"
+        },
+        {
+          "hi": "पिरेनीज पर्वत (Pyrenees)",
+          "en": "Pyrenees"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यूरोप की सबसे लंबी नदी कौन सी है जो कैस्पियन सागर में गिरती है?",
+        "en": "Which is the longest river in Europe that empties into the Caspian Sea?"
+      },
+      "o": [
+        {
+          "hi": "डेन्यूब नदी (Danube River)",
+          "en": "Danube River"
+        },
+        {
+          "hi": "राइन नदी (Rhine River)",
+          "en": "Rhine River"
+        },
+        {
+          "hi": "वोलगा नदी (Volga River)",
+          "en": "Volga River"
+        },
+        {
+          "hi": "टेम्स नदी (Thames River)",
+          "en": "Thames River"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा प्रायद्वीप (Peninsula) कौन सा है?",
+        "en": "Which is the largest peninsula in the world?"
+      },
+      "o": [
+        {
+          "hi": "भारतीय प्रायद्वीप (Indian Peninsula)",
+          "en": "Indian Peninsula"
+        },
+        {
+          "hi": "इंडो-चीन प्रायद्वीप",
+          "en": "Indo-China Peninsula"
+        },
+        {
+          "hi": "लैब्राडोर प्रायद्वीप",
+          "en": "Labrador Peninsula"
+        },
+        {
+          "hi": "अरब प्रायद्वीप (Arabian Peninsula)",
+          "en": "Arabian Peninsula"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा द्वीप (Island) कौन सा है?",
+        "en": "Which is the world's largest island by surface area?"
+      },
+      "o": [
+        {
+          "hi": "ग्रीनलैंड (Greenland)",
+          "en": "Greenland"
+        },
+        {
+          "hi": "न्यू गिनी (New Guinea)",
+          "en": "New Guinea"
+        },
+        {
+          "hi": "बोर्नियो (Borneo)",
+          "en": "Borneo"
+        },
+        {
+          "hi": "मेडागास्कर (Madagascar)",
+          "en": "Madagascar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा द्वीपसमूह (Archipelago) कौन सा है?",
+        "en": "Which is the largest archipelago (island group) in the world?"
+      },
+      "o": [
+        {
+          "hi": "फ़िलिपिंस (Philippines)",
+          "en": "Philippines"
+        },
+        {
+          "hi": "इंडोनेशिया (Indonesia)",
+          "en": "Indonesia"
+        },
+        {
+          "hi": "जापान (Japan)",
+          "en": "Japan"
+        },
+        {
+          "hi": "अंडमान-निकोबार (Andaman)",
+          "en": "Andaman"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे ऊँचा पठार 'तिब्बत का पठार' और 'पामीर की छत' किस महाद्वीप में है?",
+        "en": "The highest plateau, the Tibetan Plateau / Pamir Knot, is in which continent?"
+      },
+      "o": [
+        {
+          "hi": "यूरोप (Europe)",
+          "en": "Europe"
+        },
+        {
+          "hi": "अफ्रीका (Africa)",
+          "en": "Africa"
+        },
+        {
+          "hi": "एशिया (Asia)",
+          "en": "Asia"
+        },
+        {
+          "hi": "दक्षिण अमेरिका (South America)",
+          "en": "South America"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व प्रसिद्ध 'ग्रेट बैरियर रीफ' (Great Barrier Reef) किस देश के उत्तर-पूर्वी तट पर स्थित है?",
+        "en": "The world famous Great Barrier Reef is situated off the NE coast of which country?"
+      },
+      "o": [
+        {
+          "hi": "न्यूजीलैंड (New Zealand)",
+          "en": "New Zealand"
+        },
+        {
+          "hi": "इंडोनेशिया (Indonesia)",
+          "en": "Indonesia"
+        },
+        {
+          "hi": "जापान (Japan)",
+          "en": "Japan"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ग्रेट डिवाइडिंग रेंज (Great Dividing Range) पर्वत श्रृंखला किस देश में स्थित है?",
+        "en": "The Great Dividing Range mountain range is located in which country?"
+      },
+      "o": [
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        },
+        {
+          "hi": "दक्षिण अफ्रीका (South Africa)",
+          "en": "South Africa"
+        },
+        {
+          "hi": "कनाडा (Canada)",
+          "en": "Canada"
+        },
+        {
+          "hi": "अर्जेंटीना (Argentina)",
+          "en": "Argentina"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रॉकी पर्वतमाला (Rocky Mountains) किस महाद्वीप में स्थित है?",
+        "en": "The Rocky Mountains are located in which continent?"
+      },
+      "o": [
+        {
+          "hi": "दक्षिण अमेरिका (South America)",
+          "en": "South America"
+        },
+        {
+          "hi": "उत्तरी अमेरिका (North America)",
+          "en": "North America"
+        },
+        {
+          "hi": "यूरोप (Europe)",
+          "en": "Europe"
+        },
+        {
+          "hi": "एशिया (Asia)",
+          "en": "Asia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आल्प्स पर्वतमाला (Alps Mountains) मुख्य रूप से किस महाद्वीप में फैली है?",
+        "en": "The Alps mountain range is located primarily in which continent?"
+      },
+      "o": [
+        {
+          "hi": "एशिया (Asia)",
+          "en": "Asia"
+        },
+        {
+          "hi": "उत्तर अमेरिका (North America)",
+          "en": "North America"
+        },
+        {
+          "hi": "यूरोप (Europe)",
+          "en": "Europe"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उत्तरी अमेरिका की सबसे लंबी नदी कौन सी है?",
+        "en": "Which is the longest river system in North America?"
+      },
+      "o": [
+        {
+          "hi": "सेंट लॉरेंस नदी",
+          "en": "St. Lawrence River"
+        },
+        {
+          "hi": "कोलोराडो नदी",
+          "en": "Colorado River"
+        },
+        {
+          "hi": "मैकेन्जी नदी",
+          "en": "Mackenzie River"
+        },
+        {
+          "hi": "मिसिसिपी-मिसौरी नदी (Mississippi-Missouri River)",
+          "en": "Mississippi-Missouri River"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व प्रसिद्ध नियाग्रा जलप्रपात (Niagara Falls) किन दो झीलों के बीच स्थित है?",
+        "en": "Niagara Falls is situated between which two Great Lakes?"
+      },
+      "o": [
+        {
+          "hi": "इरी और ओंटारियो झील (Lake Erie and Lake Ontario)",
+          "en": "Lake Erie and Lake Ontario"
+        },
+        {
+          "hi": "सुपीरियर और ह्युरॉन झील",
+          "en": "Lake Superior and Lake Huron"
+        },
+        {
+          "hi": "मिशिगन और इरी झील",
+          "en": "Lake Michigan and Lake Erie"
+        },
+        {
+          "hi": "ह्युरॉन और इरी झील",
+          "en": "Lake Huron and Lake Erie"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अटाकामा मरुस्थल (Atacama Desert - world's driest desert) किस देश में स्थित है?",
+        "en": "The Atacama Desert, the driest non-polar desert in the world, is in which country?"
+      },
+      "o": [
+        {
+          "hi": "अर्जेंटीना (Argentina)",
+          "en": "Argentina"
+        },
+        {
+          "hi": "चिली (Chile)",
+          "en": "Chile"
+        },
+        {
+          "hi": "पेरू (Peru)",
+          "en": "Peru"
+        },
+        {
+          "hi": "ब्राजील (Brazil)",
+          "en": "Brazil"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कालाहारी मरुस्थल (Kalahari Desert) अफ्रीका के किस भाग में स्थित है?",
+        "en": "In which part of Africa is the Kalahari Desert located?"
+      },
+      "o": [
+        {
+          "hi": "उत्तरी अफ्रीका",
+          "en": "Northern Africa"
+        },
+        {
+          "hi": "पूर्वी अफ्रीका",
+          "en": "Eastern Africa"
+        },
+        {
+          "hi": "दक्षिणी अफ्रीका (Botswana, Namibia, South Africa)",
+          "en": "Southern Africa"
+        },
+        {
+          "hi": "पश्चिमी अफ्रीका",
+          "en": "Western Africa"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गोबी मरुस्थल (Gobi Desert) किन दो देशों की सीमा में फैला ठंडा मरुस्थल है?",
+        "en": "The Gobi Desert is spread across which two countries in Asia?"
+      },
+      "o": [
+        {
+          "hi": "भारत और पाकिस्तान",
+          "en": "India and Pakistan"
+        },
+        {
+          "hi": "रूस और कजाकिस्तान",
+          "en": "Russia and Kazakhstan"
+        },
+        {
+          "hi": "ईरान और इराक",
+          "en": "Iran and Iraq"
+        },
+        {
+          "hi": "चीन और मंगोलिया (China and Mongolia)",
+          "en": "China and Mongolia"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गर्म जलधारा और ठंडी जलधारा जहाँ आपस में मिलती हैं, वहाँ किसका विकास प्रचुर मात्रा में होता है?",
+        "en": "Where warm and cold ocean currents meet, what develops abundantly aiding fisheries?"
+      },
+      "o": [
+        {
+          "hi": "प्लवक (Plankton) और मत्स्य क्षेत्र",
+          "en": "Plankton and rich fishing grounds"
+        },
+        {
+          "hi": "वालरस और सील",
+          "en": "Walruses and Seals"
+        },
+        {
+          "hi": "मैंग्रोव वन",
+          "en": "Mangrove forests"
+        },
+        {
+          "hi": "प्रवाल भित्तियाँ",
+          "en": "Coral reefs"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कैलम की खाड़ी या न्यूफाउंडलैंड के निकट किन दो विपरीत जलधाराओं के मिलने से घना कोहरा बनता है?",
+        "en": "Thick fog is formed near Newfoundland by the convergence of which two currents?"
+      },
+      "o": [
+        {
+          "hi": "क्यूरोशियो और ओयाशियो",
+          "en": "Kuroshio and Oyashio"
+        },
+        {
+          "hi": "गल्फ स्ट्रीम (गर्म) और लैब्राडोर (ठंडी)",
+          "en": "Gulf Stream (warm) and Labrador (cold)"
+        },
+        {
+          "hi": "ब्राजील और फ़ॉकलैंड",
+          "en": "Brazil and Falkland"
+        },
+        {
+          "hi": "कनारी और बेंगुएला",
+          "en": "Canary and Benguela"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जापान के पास किन दो जलधाराओं के मिलने से विश्व का प्रसिद्ध मत्स्य क्षेत्र बनता है?",
+        "en": "Famous fishing grounds near Japan are created by the meeting of which two currents?"
+      },
+      "o": [
+        {
+          "hi": "गल्फ स्ट्रीम और लैब्राडोर",
+          "en": "Gulf Stream and Labrador"
+        },
+        {
+          "hi": "पेरू और एल-नीनो",
+          "en": "Peru and El-Nino"
+        },
+        {
+          "hi": "क्यूरोशियो और ओयाशियो (Kuroshio and Oyashio)",
+          "en": "Kuroshio and Oyashio"
+        },
+        {
+          "hi": "कैलिफोर्निया और अलास्का",
+          "en": "California and Alaska"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कैलिफोर्निया जलधारा (California Current) प्रशांत महासागर की कैसी जलधारा है?",
+        "en": "What type of current is the California Current in the Pacific Ocean?"
+      },
+      "o": [
+        {
+          "hi": "गर्म जलधारा (Warm Current)",
+          "en": "Warm Current"
+        },
+        {
+          "hi": "विषुवतीय जलधारा",
+          "en": "Equatorial Current"
+        },
+        {
+          "hi": "मौसमी जलधारा",
+          "en": "Seasonal Current"
+        },
+        {
+          "hi": "ठंडी जलधारा (Cold Current)",
+          "en": "Cold Current"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अलास्का की जलधारा (Alaska Current) प्रशांत महासागर में किस प्रकार की जलधारा है?",
+        "en": "What type of current is the Alaska Current in the North Pacific?"
+      },
+      "o": [
+        {
+          "hi": "गर्म जलधारा (Warm Current)",
+          "en": "Warm Current"
+        },
+        {
+          "hi": "ठंडी जलधारा (Cold Current)",
+          "en": "Cold Current"
+        },
+        {
+          "hi": "अत्यधिक ठंडी ध्रुवीय धारा",
+          "en": "Polar Cold Current"
+        },
+        {
+          "hi": "गहरी धारा",
+          "en": "Deep Current"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ब्राजील जलधारा (Brazil Current) अटलांटिक महासागर में किस प्रकार की धारा है?",
+        "en": "The Brazil Current in the South Atlantic Ocean is what type of current?"
+      },
+      "o": [
+        {
+          "hi": "ठंडी जलधारा (Cold Current)",
+          "en": "Cold Current"
+        },
+        {
+          "hi": "गर्म जलधारा (Warm Current)",
+          "en": "Warm Current"
+        },
+        {
+          "hi": "ध्रुवीय धारा",
+          "en": "Polar Current"
+        },
+        {
+          "hi": "विषुवतीय प्रतिधारा",
+          "en": "Equatorial Counter Current"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फ़ॉकलैंड जलधारा (Falkland Current) किस महासागर की ठंडी धारा है?",
+        "en": "The Falkland Current is a cold ocean current of which ocean?"
+      },
+      "o": [
+        {
+          "hi": "दक्षिण प्रशांत महासागर",
+          "en": "South Pacific Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "दक्षिण अटलांटिक महासागर (South Atlantic Ocean)",
+          "en": "South Atlantic Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे बड़ी खाड़ी (Bay / Gulf by shoreline) कौन सी है?",
+        "en": "Which is the largest Gulf in the world by shoreline/surface area?"
+      },
+      "o": [
+        {
+          "hi": "बंगाल की खाड़ी (Bay of Bengal)",
+          "en": "Bay of Bengal"
+        },
+        {
+          "hi": "हडसन की खाड़ी (Hudson Bay)",
+          "en": "Hudson Bay"
+        },
+        {
+          "hi": "फारस की खाड़ी (Persian Gulf)",
+          "en": "Persian Gulf"
+        },
+        {
+          "hi": "मेक्सिको की खाड़ी (Gulf of Mexico)",
+          "en": "Gulf of Mexico"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे लंबी तटीय रेखा (Coastline) किस देश की है?",
+        "en": "Which country has the longest coastline in the world?"
+      },
+      "o": [
+        {
+          "hi": "कनाडा (Canada)",
+          "en": "Canada"
+        },
+        {
+          "hi": "इंडोनेशिया (Indonesia)",
+          "en": "Indonesia"
+        },
+        {
+          "hi": "रूस (Russia)",
+          "en": "Russia"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भूमध्य सागर को 'अंडमान सागर' या 'लाल सागर' से जोड़ने वाली नहरों में स्वेज नहर का निर्माण किस इंजीनियर के निर्देशन में हुआ था?",
+        "en": "Under whose guidance was the Suez Canal designed and built?"
+      },
+      "o": [
+        {
+          "hi": "गौथल्स",
+          "en": "Goethals"
+        },
+        {
+          "hi": "फ़र्डिनेंड डी लेसेप्स (Ferdinand de Lesseps)",
+          "en": "Ferdinand de Lesseps"
+        },
+        {
+          "hi": "रॉबर्ट पीरी",
+          "en": "Robert Peary"
+        },
+        {
+          "hi": "एमुंडसेन",
+          "en": "Amundsen"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा भू-आबद्ध (Landlocked) देश कौन सा है?",
+        "en": "Which is the largest landlocked country in the world?"
+      },
+      "o": [
+        {
+          "hi": "मंगोलिया (Mongolia)",
+          "en": "Mongolia"
+        },
+        {
+          "hi": "अफगानिस्तान (Afghanistan)",
+          "en": "Afghanistan"
+        },
+        {
+          "hi": "कजाकिस्तान (Kazakhstan)",
+          "en": "Kazakhstan"
+        },
+        {
+          "hi": "नेपाल (Nepal)",
+          "en": "Nepal"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दक्षिण अमेरिका के दो भू-आबद्ध (Landlocked) देश कौन से हैं?",
+        "en": "Which two countries in South America are landlocked?"
+      },
+      "o": [
+        {
+          "hi": "पेरू और उरुग्वे",
+          "en": "Peru and Uruguay"
+        },
+        {
+          "hi": "इक्वाडोर और कोलंबिया",
+          "en": "Ecuador and Colombia"
+        },
+        {
+          "hi": "चिली और अर्जेंटीना",
+          "en": "Chile and Argentina"
+        },
+        {
+          "hi": "बोलीविया और पराग्वे (Bolivia and Paraguay)",
+          "en": "Bolivia and Paraguay"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विक्टोरिया झील (Lake Victoria) अफ्रीका के किन देशों की सीमाओं के बीच स्थित है?",
+        "en": "Lake Victoria is located on the borders of which African countries?"
+      },
+      "o": [
+        {
+          "hi": "युगांडा, केन्या और तंजानिया",
+          "en": "Uganda, Kenya and Tanzania"
+        },
+        {
+          "hi": "नाइजीरिया, चाड और नाइजर",
+          "en": "Nigeria, Chad and Niger"
+        },
+        {
+          "hi": "मिस्र, सूडान और इथियोपिया",
+          "en": "Egypt, Sudan and Ethiopia"
+        },
+        {
+          "hi": "कांगो, जाम्बिया और अंगोला",
+          "en": "Congo, Zambia and Angola"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नील नदी (Nile River) का उद्गम किस झील से होता है?",
+        "en": "Which lake is the primary source of the White Nile River?"
+      },
+      "o": [
+        {
+          "hi": "ताना झील (Lake Tana)",
+          "en": "Lake Tana"
+        },
+        {
+          "hi": "विक्टोरिया झील (Lake Victoria)",
+          "en": "Lake Victoria"
+        },
+        {
+          "hi": "चाड झील (Lake Chad)",
+          "en": "Lake Chad"
+        },
+        {
+          "hi": "टांगानिका झील (Lake Tanganyika)",
+          "en": "Lake Tanganyika"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भूमध्य रेखा को दो बार काटने वाली नदी कौन सी है?",
+        "en": "Which river crosses the Equator twice in Africa?"
+      },
+      "o": [
+        {
+          "hi": "नील नदी (Nile River)",
+          "en": "Nile River"
+        },
+        {
+          "hi": "नाइजर नदी (Niger River)",
+          "en": "Niger River"
+        },
+        {
+          "hi": "कांगो / जायरे नदी (Congo / Zaire River)",
+          "en": "Congo / Zaire River"
+        },
+        {
+          "hi": "जांबेजी नदी (Zambezi River)",
+          "en": "Zambezi River"
+        }
+      ],
+      "a": 2
+    }
+  ]
+}

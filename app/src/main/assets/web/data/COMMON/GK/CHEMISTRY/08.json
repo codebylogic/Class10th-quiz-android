@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "दैनिक जीवन में रसायन / Chemistry in Everyday Life",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Chemistry in Everyday Life.",
+  "questions": [
+    {
+      "q": {
+        "hi": "बिना चेतना खोए शरीर के दर्द को कम करने वाली औषधियां क्या कहलाती हैं?",
+        "en": "Drugs used to relieve pain without causing loss of consciousness are called:"
+      },
+      "o": [
+        {
+          "hi": "ज्वरनाशी (Antipyretics)",
+          "en": "Antipyretics"
+        },
+        {
+          "hi": "प्रतिजैविक (Antibiotics)",
+          "en": "Antibiotics"
+        },
+        {
+          "hi": "निश्चेतक (Anaesthetics)",
+          "en": "Anaesthetics"
+        },
+        {
+          "hi": "पीड़ाहारी / एनाल्जेसिक (Analgesics)",
+          "en": "Analgesics"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शरीर के उच्च तापमान (बुखार) को कम करने के लिए प्रयुक्त औषधियां कहलाती हैं:",
+        "en": "Drugs used to lower body temperature during fever are called:"
+      },
+      "o": [
+        {
+          "hi": "एनाल्जेसिक",
+          "en": "Analgesics"
+        },
+        {
+          "hi": "ज्वरनाशी / एंटीपायरेटिक (Antipyretics)",
+          "en": "Antipyretics"
+        },
+        {
+          "hi": "ट्रैंकुलाइजर",
+          "en": "Tranquilizers"
+        },
+        {
+          "hi": "एंटीसेप्टिक",
+          "en": "Antiseptics"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पैरासीटामोल (Paracetamol) और एस्पिरिन (Aspirin) औषधियों की मुख्य श्रेणी क्या है?",
+        "en": "What is the primary classification of Paracetamol and Aspirin drugs?"
+      },
+      "o": [
+        {
+          "hi": "केवल एंटीबायोटिक",
+          "en": "Only Antibiotic"
+        },
+        {
+          "hi": "केवल एंटीसेप्टिक",
+          "en": "Only Antiseptic"
+        },
+        {
+          "hi": "केवल ट्रैंकुलाइजर",
+          "en": "Only Tranquilizer"
+        },
+        {
+          "hi": "एनाल्जेसिक और एंटीपायरेटिक दोनों (Analgesic & Antipyretic)",
+          "en": "Both Analgesic & Antipyretic"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एस्पिरिन (Aspirin) का रासायनिक नाम क्या है जिसका उपयोग हृदयघात रोधी (Anti-blood clotting) के रूप में भी होता है?",
+        "en": "What is the chemical name of Aspirin, also used to prevent blood clotting in heart attack patients?"
+      },
+      "o": [
+        {
+          "hi": "मिथाइल सैलिसिलेट",
+          "en": "Methyl Salicylate"
+        },
+        {
+          "hi": "फिनाइल सैलिसिलेट",
+          "en": "Phenyl Salicylate"
+        },
+        {
+          "hi": "सैलिसिलैडिहाइड",
+          "en": "Salicylaldehyde"
+        },
+        {
+          "hi": "एसिटाइल सैलिसिलिक अम्ल (Acetylsalicylic Acid)",
+          "en": "Acetylsalicylic Acid"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1929 में सिकंदर फ्लेमिंग (Alexander Fleming) द्वारा खोजा गया पहला एंटीबायोटिक (प्रतिजैविक) कौन सा था?",
+        "en": "Which was the first antibiotic discovered by Alexander Fleming in 1929?"
+      },
+      "o": [
+        {
+          "hi": "स्ट्रेप्टोमाइसिन",
+          "en": "Streptomycin"
+        },
+        {
+          "hi": "टेट्रासाइक्लिन",
+          "en": "Tetracycline"
+        },
+        {
+          "hi": "पेनिसिलिन (Penicillin - Penicillium notatum कवक से)",
+          "en": "Penicillin (from Penicillium notatum fungus)"
+        },
+        {
+          "hi": "क्लोरामफेनिकॉल",
+          "en": "Chloramphenicol"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ग्राम-पॉजिटिव और ग्राम-नेगेटिव दोनों प्रकार के हानिकारक जीवाणुओं को नष्ट करने वाली एंटीबायोटिक कहलाती है:",
+        "en": "Antibiotics that kill or inhibit a wide range of Gram-positive and Gram-negative bacteria are called:"
+      },
+      "o": [
+        {
+          "hi": "संकीर्ण स्पेक्ट्रम प्रतिजैविक",
+          "en": "Narrow Spectrum Antibiotic"
+        },
+        {
+          "hi": "सीमित स्पेक्ट्रम प्रतिजैविक",
+          "en": "Limited Spectrum Antibiotic"
+        },
+        {
+          "hi": "विस्तृत स्पेक्ट्रम प्रतिजैविक (Broad Spectrum Antibiotic)",
+          "en": "Broad Spectrum Antibiotic"
+        },
+        {
+          "hi": "एंटीविषाणु",
+          "en": "Antiviral"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन सा एक विस्तृत स्पेक्ट्रम एंटीबायोटिक (Broad Spectrum Antibiotic) का उदाहरण है?",
+        "en": "Which of the following is an example of a Broad Spectrum Antibiotic?"
+      },
+      "o": [
+        {
+          "hi": "पेनिसिलिन जी",
+          "en": "Penicillin G"
+        },
+        {
+          "hi": "क्लोरामफेनिकॉल और एमोक्सिसिलिन (Chloramphenicol & Amoxicillin)",
+          "en": "Chloramphenicol & Amoxicillin"
+        },
+        {
+          "hi": "डेटॉल",
+          "en": "Dettol"
+        },
+        {
+          "hi": "एस्पिरिन",
+          "en": "Aspirin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सजीव ऊतकों (घाव, कटने, छिलने) पर बिना उन्हें नुकसान पहुँचाए जीवाणुओं की वृद्धि रोकने वाली दवाएं कहलाती हैं:",
+        "en": "Chemicals applied to living tissues to prevent growth of microbes without harming tissues are called:"
+      },
+      "o": [
+        {
+          "hi": "विषाणुनाशी / डिस्इन्फेक्टेंट (Disinfectants)",
+          "en": "Disinfectants"
+        },
+        {
+          "hi": "ज्वरनाशी",
+          "en": "Antipyretics"
+        },
+        {
+          "hi": "ट्रैंकुलाइजर",
+          "en": "Tranquilizers"
+        },
+        {
+          "hi": "पूतिरोधी / एंटीसेप्टिक (Antiseptics)",
+          "en": "Antiseptics"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "घर में इस्तेमाल होने वाले प्रसिद्ध एंटीसेप्टिक 'डेटॉल' (Dettol) के दो मुख्य रासायनिक घटक कौन से हैं?",
+        "en": "What are the two main chemical constituents of the popular antiseptic Dettol?"
+      },
+      "o": [
+        {
+          "hi": "फिनोल और एथिल अल्कोहल",
+          "en": "Phenol and Ethyl alcohol"
+        },
+        {
+          "hi": "बोरिक एसिड और आयोडीन",
+          "en": "Boric acid and Iodine"
+        },
+        {
+          "hi": "फॉर्मेल्डिहाइड और ग्लिसरॉल",
+          "en": "Formaldehyde and Glycerol"
+        },
+        {
+          "hi": "क्लोरो जाइलीनॉल और टरपीनॉल (Chloroxylenol and Terpineol)",
+          "en": "Chloroxylenol and Terpineol"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'टिंचर आयोडीन' (Tincture of Iodine) घावों की सफाई के लिए प्रयुक्त एंटीसेप्टिक है, यह किसका घोल होता है?",
+        "en": "'Tincture of Iodine' used as an antiseptic for wound dressing is a solution of:"
+      },
+      "o": [
+        {
+          "hi": "शुद्ध जल में 10% आयोडीन",
+          "en": "10% solution of iodine in pure water"
+        },
+        {
+          "hi": "ऐलकोहॉल-जल मिश्रण में 2% से 3% आयोडीन का घोल",
+          "en": "2% to 3% solution of Iodine in alcohol-water mixture"
+        },
+        {
+          "hi": "ईथर में 50% आयोडीन",
+          "en": "50% solution of iodine in ether"
+        },
+        {
+          "hi": "पोटेशियम आयोडाइड का सांद्र घोल",
+          "en": "Concentrated solution of potassium iodide"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "साबुन को पूतिरोधी (Antiseptic) गुण प्रदान करने के लिए उसमें कौन सा रसायन मिलाया जाता है?",
+        "en": "Which chemical is added to toilet soaps to impart antiseptic properties?"
+      },
+      "o": [
+        {
+          "hi": "क्लोरोफॉर्म",
+          "en": "Chloroform"
+        },
+        {
+          "hi": "बायथिओनॉल (Bithionol)",
+          "en": "Bithionol"
+        },
+        {
+          "hi": "फिनोल",
+          "en": "Phenol"
+        },
+        {
+          "hi": "नेफ्थलीन",
+          "en": "Naphthalene"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "निर्जीव वस्तुओं (फर्श, नाली, शल्य चिकित्सा उपकरण) से जीवाणुओं को नष्ट करने वाले रसायन कहलाते हैं:",
+        "en": "Chemicals used to kill microorganisms on non-living objects (floors, drains, instruments) are:"
+      },
+      "o": [
+        {
+          "hi": "एंटीसेप्टिक",
+          "en": "Antiseptics"
+        },
+        {
+          "hi": "एंटीबायोटिक",
+          "en": "Antibiotics"
+        },
+        {
+          "hi": "एंटीहिस्टामिन",
+          "en": "Antihistamines"
+        },
+        {
+          "hi": "रोगाणुनाशी / डिसइन्फेक्टेंट (Disinfectants)",
+          "en": "Disinfectants"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "फिनोल (Phenol) की सांद्रता के आधार पर उसका उपयोग कैसे बदलता है?",
+        "en": "How does the usage of Phenol change based on its concentration?"
+      },
+      "o": [
+        {
+          "hi": "0.2% फिनोल एंटीसेप्टिक का तथा 1.0% फिनोल डिसइन्फेक्टेंट का कार्य करता है",
+          "en": "0.2% solution acts as antiseptic and 1.0% solution acts as disinfectant"
+        },
+        {
+          "hi": "10% फिनोल एंटीसेप्टिक है",
+          "en": "10% phenol is antiseptic"
+        },
+        {
+          "hi": "0.2% फिनोल डिसइन्फेक्टेंट है",
+          "en": "0.2% phenol is disinfectant"
+        },
+        {
+          "hi": "फिनोल केवल साबुन बनाने में प्रयुक्त होता है",
+          "en": "Phenol is used only in soap making"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानसिक तनाव, चिंता और अवसाद को कम करके शांति प्रदान करने वाली औषधियां क्या कहलाती हैं?",
+        "en": "Drugs used for the treatment of stress, anxiety, and mental disorders are called:"
+      },
+      "o": [
+        {
+          "hi": "प्रशांतक / ट्रैंकुलाइजर (Tranquilizers)",
+          "en": "Tranquilizers"
+        },
+        {
+          "hi": "एनाल्जेसिक",
+          "en": "Analgesics"
+        },
+        {
+          "hi": "एंटीपायरेटिक",
+          "en": "Antipyretics"
+        },
+        {
+          "hi": "एंटीथिस्टामिन",
+          "en": "Antihistamines"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन सा बार्बिट्यूरेट (Barbiturate) श्रेणी का एक नींद लाने वाला प्रशांतक (Hypnotic Tranquilizer) है?",
+        "en": "Which of the following is a hypnotic tranquilizer belonging to the Barbiturate class?"
+      },
+      "o": [
+        {
+          "hi": "ल्यूमिनल और सेकोनल (Luminal and Seconal)",
+          "en": "Luminal and Seconal"
+        },
+        {
+          "hi": "पेनिसिलिन",
+          "en": "Penicillin"
+        },
+        {
+          "hi": "एस्पिरिन",
+          "en": "Aspirin"
+        },
+        {
+          "hi": "क्लोरोक्वीन",
+          "en": "Chloroquine"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एलर्जी (सर्दी, खुजली, त्वचा पर चकत्ते) के उपचार के लिए हिस्टामिन के प्रभाव को रोकने वाली दवाएं हैं:",
+        "en": "Drugs used to combat allergy by blocking histamine action are called:"
+      },
+      "o": [
+        {
+          "hi": "एंटासिड",
+          "en": "Antacids"
+        },
+        {
+          "hi": "प्रति-हिस्टामिन / एंटीहिस्टामिन (Antihistamines)",
+          "en": "Antihistamines"
+        },
+        {
+          "hi": "एंटीबायोटिक",
+          "en": "Antibiotics"
+        },
+        {
+          "hi": "एनाल्जेसिक",
+          "en": "Analgesics"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मलेरिया (Malaria) रोग के उपचार के लिए प्रयुक्त होने वाली प्रसिद्ध औषधि कौन सी है?",
+        "en": "Which famous drug is used for the treatment of Malaria?"
+      },
+      "o": [
+        {
+          "hi": "पेनिसिलिन",
+          "en": "Penicillin"
+        },
+        {
+          "hi": "क्लोरोक्वीन और कुनैन (Chloroquine and Quinine)",
+          "en": "Chloroquine and Quinine"
+        },
+        {
+          "hi": "एस्पिरिन",
+          "en": "Aspirin"
+        },
+        {
+          "hi": "पैरासीटामोल",
+          "en": "Paracetamol"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मलेरिया रोधी दवा 'कुनैन' (Quinine) प्राकृतिक रूप से किस पौधे की छाल से प्राप्त की जाती है?",
+        "en": "Antimalarial drug 'Quinine' is naturally extracted from the bark of which tree?"
+      },
+      "o": [
+        {
+          "hi": "यूकलिप्टस",
+          "en": "Eucalyptus"
+        },
+        {
+          "hi": "सिनकोना का वृक्ष (Cinchona Tree)",
+          "en": "Cinchona Tree"
+        },
+        {
+          "hi": "नीम का वृक्ष",
+          "en": "Neem Tree"
+        },
+        {
+          "hi": "सर्पगंधा",
+          "en": "Sarpagandha"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मधुमेह (Diabetes) के रोगियों के लिए भोजन में मिठास हेतु प्रयुक्त पहला लोकप्रिय कृत्रिम मधुरक कौन सा है?",
+        "en": "Which was the first popular artificial sweetener used by diabetic patients for zero-calorie sweetness?"
+      },
+      "o": [
+        {
+          "hi": "एस्पार्टेम",
+          "en": "Aspartame"
+        },
+        {
+          "hi": "सैकरिन (Saccharin - चीनी से ~550 गुना मीठा)",
+          "en": "Saccharin (~550 times sweeter than sugar)"
+        },
+        {
+          "hi": "सुक्रालोज",
+          "en": "Sucralose"
+        },
+        {
+          "hi": "ऐलिटेम",
+          "en": "Alitame"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पकाने के तापमान पर अस्थिर होने के कारण केवल ठंडे खाद्य पदार्थों और सॉफ्ट ड्रिंक्स में प्रयुक्त कृत्रिम मधुरक कौन सा है?",
+        "en": "Which artificial sweetener is unstable at cooking temperatures and used only in cold foods and soft drinks?"
+      },
+      "o": [
+        {
+          "hi": "एस्पार्टेम (Aspartame - ~100 गुना मीठा)",
+          "en": "Aspartame (~100 times sweeter)"
+        },
+        {
+          "hi": "सुक्रालोज",
+          "en": "Sucralose"
+        },
+        {
+          "hi": "सैकरिन",
+          "en": "Saccharin"
+        },
+        {
+          "hi": "ऐलिटेम",
+          "en": "Alitame"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "खाना पकाने और पकाने के तापमान पर स्थिर रहने वाला सुक्रोज का ट्राइक्लोरो व्युत्पन्न कृत्रिम मधुरक कौन सा है?",
+        "en": "Which artificial sweetener is a trichloro derivative of sucrose and stable at cooking temperature?"
+      },
+      "o": [
+        {
+          "hi": "एस्पार्टेम",
+          "en": "Aspartame"
+        },
+        {
+          "hi": "सुक्रालोज (Sucralose - ~600 गुना मीठा)",
+          "en": "Sucralose (~600 times sweeter)"
+        },
+        {
+          "hi": "सैकरिन",
+          "en": "Saccharin"
+        },
+        {
+          "hi": "ऐलिटेम",
+          "en": "Alitame"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अत्यधिक उच्च मिठास क्षमता (~2000 गुना) होने के कारण मिठास को नियंत्रित करना कठिन बनाने वाला कृत्रिम मधुरक है:",
+        "en": "Which artificial sweetener has extremely high potency (~2000 times) making sweetness control difficult?"
+      },
+      "o": [
+        {
+          "hi": "एस्पार्टेम",
+          "en": "Aspartame"
+        },
+        {
+          "hi": "सुक्रालोज",
+          "en": "Sucralose"
+        },
+        {
+          "hi": "ऐलिटेम (Alitame)",
+          "en": "Alitame"
+        },
+        {
+          "hi": "सैकरिन",
+          "en": "Saccharin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अचार, सॉस और प्रसंस्कृत खाद्य पदार्थों को सड़ने से बचाने के लिए प्रयुक्त सबसे सामान्य रासायनिक परिरक्षक कौन सा है?",
+        "en": "Which is the most common chemical food preservative used in pickles, sauces, and preserved foods?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम क्लोराइड",
+          "en": "Sodium Chloride"
+        },
+        {
+          "hi": "सोडियम बाइकार्बोनेट",
+          "en": "Sodium Bicarbonate"
+        },
+        {
+          "hi": "सोडियम बेंजोएट (Sodium Benzoate - C6H5COONa)",
+          "en": "Sodium Benzoate (C6H5COONa)"
+        },
+        {
+          "hi": "सोडियम सल्फेट",
+          "en": "Sodium Sulfate"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वसा और तेलों का ऑक्सीकरण रोककर उन्हें बासी/दुर्गंधयुक्त (Rancid) होने से बचाने वाले रसायन क्या कहलाते हैं?",
+        "en": "Chemicals added to fats and oils to prevent oxidation and rancidity are called:"
+      },
+      "o": [
+        {
+          "hi": "प्रतिऑक्सीकारक / एंटीऑक्सीडेंट (Antioxidants - जैसे BHA, BHT)",
+          "en": "Antioxidants (like BHA, BHT)"
+        },
+        {
+          "hi": "प्रशांतक",
+          "en": "Tranquilizers"
+        },
+        {
+          "hi": "एंटीहिस्टामिन",
+          "en": "Antihistamines"
+        },
+        {
+          "hi": "कृत्रिम मधुरक",
+          "en": "Artificial Sweeteners"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दंत मंजन (Toothpaste) में कैविटी और दंत क्षय को रोकने के लिए किस रसायन का यौगिक मिलाया जाता है?",
+        "en": "Which compound is added to toothpaste to prevent cavities and strengthen tooth enamel?"
+      },
+      "o": [
+        {
+          "hi": "क्लोराइड लवण",
+          "en": "Chloride salts"
+        },
+        {
+          "hi": "ब्रोमाइड लवण",
+          "en": "Bromide salts"
+        },
+        {
+          "hi": "आयोडाइड लवण",
+          "en": "Iodide salts"
+        },
+        {
+          "hi": "फ्लोराइड लवण (Fluoride Salts - जैसे NaF / SnF2)",
+          "en": "Fluoride Salts (like NaF / SnF2)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "काँच (Glass) भौतिक रूप से क्या है?",
+        "en": "What is Glass physically considered to be?"
+      },
+      "o": [
+        {
+          "hi": "क्रिस्टलीय ठोस",
+          "en": "Crystalline Solid"
+        },
+        {
+          "hi": "अतिशीतित द्रव / अक्रिस्टलीय छद्म ठोस (Supercooled Liquid / Amorphous Solid)",
+          "en": "Supercooled Liquid / Amorphous Solid"
+        },
+        {
+          "hi": "गैस",
+          "en": "Gas"
+        },
+        {
+          "hi": "शुद्ध धातु",
+          "en": "Pure Metal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बोतलों, खिड़कियों और सामान्य बर्तनों में प्रयुक्त होने वाला साधारण कांच (Soft Glass) किसका मिश्रण है?",
+        "en": "Ordinary soft glass used in bottles and window panes is a mixture of:"
+      },
+      "o": [
+        {
+          "hi": "पोटेशियम और लेड सिलिकेट",
+          "en": "Potassium and Lead silicate"
+        },
+        {
+          "hi": "बोरोन सिलिकेट",
+          "en": "Boron silicate"
+        },
+        {
+          "hi": "शुद्ध सिलिका",
+          "en": "Pure silica"
+        },
+        {
+          "hi": "सोडियम सिलिकेट और कैल्शियम सिलिकेट (Soda Glass)",
+          "en": "Sodium Silicate and Calcium Silicate (Soda Glass)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रिज्म, ऑप्टिकल लेंस और कैमरे के लेंस बनाने के लिए उच्च अपवर्तनांक वाले किस काँच का उपयोग होता है?",
+        "en": "Which high refractive index glass is used for optical lenses, prisms, and camera lenses?"
+      },
+      "o": [
+        {
+          "hi": "फ्लिंट काँच (Flint Glass - लेड ऑक्साइड युक्त)",
+          "en": "Flint Glass (contains Lead Oxide)"
+        },
+        {
+          "hi": "सोडा काँच",
+          "en": "Soda Glass"
+        },
+        {
+          "hi": "पायरेक्स काँच",
+          "en": "Pyrex Glass"
+        },
+        {
+          "hi": "क्वार्ट्ज काँच",
+          "en": "Quartz Glass"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रयोगशाला के बीकर, परखनलियाँ और ओवन के बर्तन बनाने के लिए तापीय-रोधी किस काँच का उपयोग होता है?",
+        "en": "Which heat-resistant glass is used for laboratory apparatus (beakers, test tubes) and ovenware?"
+      },
+      "o": [
+        {
+          "hi": "पायरेक्स या बोरोसिलिकेट काँच (Pyrex / Borosilicate Glass)",
+          "en": "Pyrex / Borosilicate Glass"
+        },
+        {
+          "hi": "सोडा काँच",
+          "en": "Soda Glass"
+        },
+        {
+          "hi": "फ्लिंट काँच",
+          "en": "Flint Glass"
+        },
+        {
+          "hi": "क्रुक्स काँच",
+          "en": "Crookes Glass"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "धूप के चश्मों (Sunglasses) में पराबैंगनी (UV) किरणों को रोकने के लिए किस विशेष काँच का उपयोग होता है?",
+        "en": "Which special glass containing cerium oxide is used in sunglasses to block UV rays?"
+      },
+      "o": [
+        {
+          "hi": "पायरेक्स काँच",
+          "en": "Pyrex Glass"
+        },
+        {
+          "hi": "फ्लिंट काँच",
+          "en": "Flint Glass"
+        },
+        {
+          "hi": "क्रुक्स काँच (Crookes Glass)",
+          "en": "Crookes Glass"
+        },
+        {
+          "hi": "सोडा काँच",
+          "en": "Soda Glass"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "काँच को गहरा शाही नीला रंग (Royal Blue Color) प्रदान करने के लिए कौन सा धातु ऑक्साइड मिलाया जाता है?",
+        "en": "Which metal oxide is added to glass to impart a Royal Blue color?"
+      },
+      "o": [
+        {
+          "hi": "क्यूप्रस ऑक्साइड",
+          "en": "Cuprous Oxide"
+        },
+        {
+          "hi": "फेरस ऑक्साइड",
+          "en": "Ferrous Oxide"
+        },
+        {
+          "hi": "कोबाल्ट ऑक्साइड (Cobalt Oxide - CoO)",
+          "en": "Cobalt Oxide (CoO)"
+        },
+        {
+          "hi": "यूरेनियम ऑक्साइड",
+          "en": "Uranium Oxide"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "काँच को हरा रंग (Green Color) प्रदान करने के लिए कौन सा यौगिक मिलाया जाता है?",
+        "en": "Which compound is added to glass to impart a Green color?"
+      },
+      "o": [
+        {
+          "hi": "फेरस ऑक्साइड (Ferrous Oxide - FeO) या क्रोमियम ऑक्साइड",
+          "en": "Ferrous Oxide (FeO) or Chromium Oxide"
+        },
+        {
+          "hi": "कोबाल्ट ऑक्साइड",
+          "en": "Cobalt Oxide"
+        },
+        {
+          "hi": "कैडमियम सल्फाइड",
+          "en": "Cadmium Sulfide"
+        },
+        {
+          "hi": "गोल्ड क्लोराइड",
+          "en": "Gold Chloride"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "काँच को माणिक जैसा गहरा लाल रंग (Ruby Red Color) देने के लिए क्या मिलाया जाता है?",
+        "en": "What is added to give a Ruby Red color to glass?"
+      },
+      "o": [
+        {
+          "hi": "कोबाल्ट ऑक्साइड",
+          "en": "Cobalt Oxide"
+        },
+        {
+          "hi": "फेरिक ऑक्साइड",
+          "en": "Ferric Oxide"
+        },
+        {
+          "hi": "क्यूप्रस ऑक्साइड (Cu2O) या सेलेनियम या गोल्ड क्लोराइड",
+          "en": "Cuprous Oxide (Cu2O) or Selenium"
+        },
+        {
+          "hi": "निकेल ऑक्साइड",
+          "en": "Nickel Oxide"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पोर्टलैंड सीमेंट (Portland Cement) का आविष्कार 1824 में किस ब्रिटिश बिल्डर ने किया था?",
+        "en": "Who invented Portland Cement in 1824?"
+      },
+      "o": [
+        {
+          "hi": "हेनरी बेकरल",
+          "en": "Henri Becquerel"
+        },
+        {
+          "hi": "थॉमस एडिसन",
+          "en": "Thomas Edison"
+        },
+        {
+          "hi": "जॉन डाल्टन",
+          "en": "John Dalton"
+        },
+        {
+          "hi": "जोसेफ एस्पडिन (Joseph Aspdin)",
+          "en": "Joseph Aspdin"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पोर्टलैंड सीमेंट का सबसे प्रमुख और प्राथमिक रासायनिक घटक कौन सा है?",
+        "en": "Which is the primary and major chemical component (~60-65%) of Portland Cement?"
+      },
+      "o": [
+        {
+          "hi": "सिलिका (SiO2)",
+          "en": "Silica (SiO2)"
+        },
+        {
+          "hi": "ऐलुमिना (Al2O3)",
+          "en": "Alumina (Al2O3)"
+        },
+        {
+          "hi": "चूना / कैल्शियम ऑक्साइड (Lime / CaO)",
+          "en": "Lime / Calcium Oxide (CaO)"
+        },
+        {
+          "hi": "जिप्सम",
+          "en": "Gypsum"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सीमेंट क्लिंकर की अंतिम पिसाई के दौरान उसमें 2% से 3% जिप्सम (CaSO4·2H2O) क्यों मिलाया जाता है?",
+        "en": "Why is 2-3% Gypsum added during the final grinding of cement clinker?"
+      },
+      "o": [
+        {
+          "hi": "सीमेंट को तुरंत जमाने हेतु",
+          "en": "To speed up setting time"
+        },
+        {
+          "hi": "सीमेंट के जमने की दर को धीमा करने हेतु (To retard the setting time)",
+          "en": "To retard the setting time of cement"
+        },
+        {
+          "hi": "सीमेंट का रंग सफेद करने हेतु",
+          "en": "To make cement white"
+        },
+        {
+          "hi": "सीमेंट का भार घटाने हेतु",
+          "en": "To reduce weight of cement"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पौधों में पत्तियों की वृद्धि और हरे रंग के विकास के लिए किस प्राथमिक उर्वरक पोषक तत्व की आवश्यकता होती है?",
+        "en": "Which primary fertilizer nutrient is essential for vegetative growth and green leaves in plants?"
+      },
+      "o": [
+        {
+          "hi": "नाइट्रोजन (Nitrogen / N)",
+          "en": "Nitrogen (N)"
+        },
+        {
+          "hi": "फास्फोरस (Phosphorus / P)",
+          "en": "Phosphorus (P)"
+        },
+        {
+          "hi": "पोटेशियम (Potassium / K)",
+          "en": "Potassium (K)"
+        },
+        {
+          "hi": "कैल्शियम (Calcium / Ca)",
+          "en": "Calcium (Ca)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पौधों में जड़ों के विकास, फूलों और फलों के परिपक्व होने के लिए कौन सा रासायनिक पोषक तत्व आवश्यक है?",
+        "en": "Which chemical nutrient is crucial for root development and flowering in plants?"
+      },
+      "o": [
+        {
+          "hi": "फास्फोरस (Phosphorus / P)",
+          "en": "Phosphorus (P)"
+        },
+        {
+          "hi": "नाइट्रोजन",
+          "en": "Nitrogen"
+        },
+        {
+          "hi": "पोटेशियम",
+          "en": "Potassium"
+        },
+        {
+          "hi": "सोडियम",
+          "en": "Sodium"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उर्वरकों में नाइट्रोजन का प्रतिशत सर्वाधिक (~46%) किस रासायनिक उर्वरक में होता है?",
+        "en": "Which chemical fertilizer contains the highest percentage of Nitrogen (~46%)?"
+      },
+      "o": [
+        {
+          "hi": "अमोनियम सल्फेट",
+          "en": "Ammonium Sulfate"
+        },
+        {
+          "hi": "कैल्शियम अमोनियम नाइट्रेट (CAN)",
+          "en": "CAN"
+        },
+        {
+          "hi": "यूरिया (Urea - NH2CONH2)",
+          "en": "Urea (NH2CONH2)"
+        },
+        {
+          "hi": "अमोनियम फॉस्फेट",
+          "en": "Ammonium Phosphate"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रयोगशाला में मानव द्वारा संश्लेषित पहला कार्बनिक यौगिक यूरिया किसने बनाया था?",
+        "en": "Who synthesized Urea, the first organic compound made in a lab from inorganic starting material in 1828?"
+      },
+      "o": [
+        {
+          "hi": "एंटोनी लेवोज़ियर",
+          "en": "Antoine Lavoisier"
+        },
+        {
+          "hi": "जॉन डाल्टन",
+          "en": "John Dalton"
+        },
+        {
+          "hi": "फ्रेडरिक वोह्लर (Friedrich Wöhler)",
+          "en": "Friedrich Wöhler"
+        },
+        {
+          "hi": "रॉबर्ट बॉयल",
+          "en": "Robert Boyle"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यूरिया (Urea) में नाइट्रोजन किस रूप में उपस्थित होता है?",
+        "en": "In what chemical form is Nitrogen present in Urea?"
+      },
+      "o": [
+        {
+          "hi": "नाइट्रेट रूप में (NO3-)",
+          "en": "Nitrate form"
+        },
+        {
+          "hi": "एमाइड रूप में (Amide form - NH2)",
+          "en": "Amide form (NH2)"
+        },
+        {
+          "hi": "अमोनियम रूप में (NH4+)",
+          "en": "Ammonium form"
+        },
+        {
+          "hi": "नाइट्राइट रूप में (NO2-)",
+          "en": "Nitrite form"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जैविक आवर्धन (Bioaccumulation / Biomagnification) के कारण प्रतिबंधित किया गया प्रसिद्ध कीटनाशक DDT का पूरा नाम क्या है?",
+        "en": "What is the full form of the pesticide DDT banned due to Biomagnification?"
+      },
+      "o": [
+        {
+          "hi": "डाइक्लोरोडाइफिनाइल टेट्राक्लोरोएथेन",
+          "en": "Dichlorodiphenyltetrachloroethane"
+        },
+        {
+          "hi": "डाइमिथाइलडाइफिनाइल ट्राइक्लोरोएथेन",
+          "en": "Dimethyl-diphenyl-trichloroethane"
+        },
+        {
+          "hi": "डाइक्लोरोडाइफिनाइल ट्राइक्लोरोएथेन (Dichlorodiphenyltrichloroethane)",
+          "en": "Dichlorodiphenyltrichloroethane"
+        },
+        {
+          "hi": "डायबेंजोडाइऑक्सिन ट्राइक्लोरोएथेन",
+          "en": "Dibenzodioxin trichloroethane"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गैमेक्सीन, लिंडेन या 666 के नाम से प्रसिद्ध शक्तिशाली कीटनाशक का रासायनिक नाम क्या है?",
+        "en": "What is the chemical name of the potent insecticide Gammaxene / Lindane / 666?"
+      },
+      "o": [
+        {
+          "hi": "हेक्साक्लोरोबेन्जीन",
+          "en": "Hexachlorobenzene"
+        },
+        {
+          "hi": "बेंजीन हेक्साक्लोराइड / गामा-हेक्साक्लोरोसाइक्लोहेक्सेन (BHC)",
+          "en": "Benzene Hexachloride / Gamma-HCH"
+        },
+        {
+          "hi": "क्लोरोबेन्जीन",
+          "en": "Chlorobenzene"
+        },
+        {
+          "hi": "डाइक्लोरोबेन्जीन",
+          "en": "Dichlorobenzene"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चूहों को मारने की दवा (Rodenticide / Rat Poison) के रूप में किस रसायन का उपयोग होता है?",
+        "en": "Which chemical compound is used as Rat Poison (Rodenticide)?"
+      },
+      "o": [
+        {
+          "hi": "जिंक सल्फेट",
+          "en": "Zinc Sulfate"
+        },
+        {
+          "hi": "जिंक कार्बोनेट",
+          "en": "Zinc Carbonate"
+        },
+        {
+          "hi": "जिंक ऑक्साइड",
+          "en": "Zinc Oxide"
+        },
+        {
+          "hi": "जिंक फास्फाइड (Zinc Phosphide - Zn3P2)",
+          "en": "Zinc Phosphide (Zn3P2)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "फसलों पर कवक (Fungus) के संक्रमण को रोकने के लिए प्रयुक्त 'बोर्दो मिश्रण' (Bordeaux Mixture) किसका सम्मिश्रण है?",
+        "en": "Bordeaux Mixture used as a fungicide on crops is a mixture of:"
+      },
+      "o": [
+        {
+          "hi": "फेरस सल्फेट और सोडियम कार्बोनेट",
+          "en": "Ferrous sulfate and Sodium carbonate"
+        },
+        {
+          "hi": "कॉपर सल्फेट (CuSO4) और बुझा हुआ चूना [Ca(OH)2]",
+          "en": "Copper Sulfate (CuSO4) and Slaked Lime [Ca(OH)2]"
+        },
+        {
+          "hi": "जिंक सल्फेट और यूरिया",
+          "en": "Zinc sulfate and Urea"
+        },
+        {
+          "hi": "सल्फ्यूरिक अम्ल और नमक",
+          "en": "Sulfuric acid and Salt"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ग्लोबल वार्मिंग और ग्रीनहाउस प्रभाव (Greenhouse Effect) के लिए सबसे अधिक उत्तरदायी (~60%) गैस कौन सी है?",
+        "en": "Which gas is primarily responsible (~60%) for the Greenhouse Effect and Global Warming?"
+      },
+      "o": [
+        {
+          "hi": "मेथेन (CH4)",
+          "en": "Methane (CH4)"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड (Carbon Dioxide - CO2)",
+          "en": "Carbon Dioxide (CO2)"
+        },
+        {
+          "hi": "नाइट्रस ऑक्साइड (N2O)",
+          "en": "Nitrous Oxide"
+        },
+        {
+          "hi": "क्लोरोफ्लोरोकार्बन (CFC)",
+          "en": "CFCs"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समताप मंडल (Stratosphere) में स्थित ओजोन परत (Ozone Layer) हमारी रक्षा किससे करती है?",
+        "en": "The Ozone Layer present in the Stratosphere protects life on Earth from:"
+      },
+      "o": [
+        {
+          "hi": "अवरक्त किरणों से (Infrared rays)",
+          "en": "Infrared rays"
+        },
+        {
+          "hi": "कॉस्मिक किरणों से",
+          "en": "Cosmic rays"
+        },
+        {
+          "hi": "सूर्य से आने वाली हानिकारक पराबैंगनी किरणों से (UV-B/UV-C Radiation)",
+          "en": "Harmful Ultraviolet (UV) radiation from Sun"
+        },
+        {
+          "hi": "रेडियो तरंगों से",
+          "en": "Radio waves"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ओजोन परत के क्षरण (Ozone Layer Depletion) के लिए मुख्य रूप से उत्तरदायी रसायन कौन से हैं?",
+        "en": "Which chemicals are primarily responsible for Ozone Layer Depletion?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन डाइऑक्साइड और जलवाष्प",
+          "en": "Carbon dioxide and Water vapor"
+        },
+        {
+          "hi": "क्लोरोफ्लोरोकार्बन (CFCs / फ्रिऑन - क्लोरीन मुक्त मूलक)",
+          "en": "Chlorofluorocarbons (CFCs / Freons)"
+        },
+        {
+          "hi": "ऑक्सीजन और नाइट्रोजन",
+          "en": "Oxygen and Nitrogen"
+        },
+        {
+          "hi": "हीलियम और ऑर्गन",
+          "en": "Helium and Argon"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ओजोन परत के संरक्षण हेतु 1987 में हस्ताक्षरित प्रसिद्ध अंतर्राष्ट्रीय समझौता कौन सा है?",
+        "en": "Which famous international treaty signed in 1987 aimed at phasing out CFCs to protect the ozone layer?"
+      },
+      "o": [
+        {
+          "hi": "क्योटो प्रोटोकॉल (Kyoto Protocol)",
+          "en": "Kyoto Protocol"
+        },
+        {
+          "hi": "पेरिस समझौता (Paris Agreement)",
+          "en": "Paris Agreement"
+        },
+        {
+          "hi": "मॉन्ट्रियल प्रोटोकॉल (Montreal Protocol)",
+          "en": "Montreal Protocol"
+        },
+        {
+          "hi": "जेनेवा कंवेंशन (Geneva Convention)",
+          "en": "Geneva Convention"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "क्योटो प्रोटोकॉल (Kyoto Protocol - 1997) का मुख्य उद्देश्य क्या है?",
+        "en": "What is the primary objective of the Kyoto Protocol (1997)?"
+      },
+      "o": [
+        {
+          "hi": "ओजोन क्षरण रोचना",
+          "en": "Stopping ozone depletion"
+        },
+        {
+          "hi": "समुद्री प्रदूषण रोकना",
+          "en": "Controlling marine pollution"
+        },
+        {
+          "hi": "परमाणु हथियारों पर रोक",
+          "en": "Nuclear arms control"
+        },
+        {
+          "hi": "ग्रीनहाउस गैसों के उत्सर्जन को कम करके ग्लोबल वार्मिंग को नियंत्रित करना",
+          "en": "Reducing greenhouse gas emissions to combat Global Warming"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रकाश-रासायनिक धुंध (Photochemical Smog / लॉन्स एंजिल्स स्मॉग) की प्रकृति कैसी होती है?",
+        "en": "What is the chemical nature of Photochemical Smog (Los Angeles Smog)?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सीकारक प्रकृति की (Oxidizing - O3, PAN, NO2 की उपस्थिति)",
+          "en": "Oxidizing in nature (due to O3, PAN, NO2)"
+        },
+        {
+          "hi": "अपचायक प्रकृति की (Reducing)",
+          "en": "Reducing in nature"
+        },
+        {
+          "hi": "उदासीन प्रकृति की",
+          "en": "Neutral in nature"
+        },
+        {
+          "hi": "अत्यधिक क्षारीय प्रकृति की",
+          "en": "Highly basic in nature"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शास्त्रीय धुंध (Classical Smog / लंदन स्मॉग) ठंडे और नम वातावरण में बनती है, इसकी प्रकृति कैसी होती है?",
+        "en": "Classical Smog (London Smog) forms in cool humid climates, what is its nature?"
+      },
+      "o": [
+        {
+          "hi": "अपचायक प्रकृति की (Reducing - SO2 तथा धुएं की उपस्थिति)",
+          "en": "Reducing in nature (due to SO2 and smoke)"
+        },
+        {
+          "hi": "ऑक्सीकारक प्रकृति की",
+          "en": "Oxidizing in nature"
+        },
+        {
+          "hi": "उदासीन",
+          "en": "Neutral"
+        },
+        {
+          "hi": "रेडियोधर्मी",
+          "en": "Radioactive"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रकाश-रासायनिक धुंध (Photochemical Smog) में आँखों में जलन पैदा करने वाला प्रमुख द्वितीयक प्रदूषक कौन सा है?",
+        "en": "Which major secondary pollutant in Photochemical Smog causes eye irritation?"
+      },
+      "o": [
+        {
+          "hi": "सल्फर डाइऑक्साइड (SO2)",
+          "en": "Sulfur dioxide"
+        },
+        {
+          "hi": "कार्बन मोनोऑक्साइड (CO)",
+          "en": "Carbon monoxide"
+        },
+        {
+          "hi": "PAN (पेरॉक्सीएसिटाइल नाइट्रेट) और ओजोन (O3)",
+          "en": "PAN (Peroxyacetyl Nitrate) and Ozone (O3)"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड (CO2)",
+          "en": "Carbon dioxide"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जल निकायों में उर्वरकों के बहकर आने से शैवाल का अत्यधिक प्रसार (Algal Bloom) तथा ऑक्सीजन की कमी होना क्या कहलाता है?",
+        "en": "Excessive nutrient enrichment in water bodies leading to algal bloom and oxygen depletion is called:"
+      },
+      "o": [
+        {
+          "hi": "बायोमैग्निफिकेशन",
+          "en": "Biomagnification"
+        },
+        {
+          "hi": "बायोरिमीडिएशन",
+          "en": "Bioremediation"
+        },
+        {
+          "hi": "सुपोषण (Eutrophication)",
+          "en": "Eutrophication"
+        },
+        {
+          "hi": "नाइट्रीकरण",
+          "en": "Nitrification"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जल प्रदूषण की मात्रा मापने का पैमाना 'BOD' का पूर्ण रूप क्या है?",
+        "en": "What is the full form of 'BOD', the metric used to measure organic water pollution?"
+      },
+      "o": [
+        {
+          "hi": "बायोकेमिकल ऑक्सीजन डिमांड (Biochemical Oxygen Demand)",
+          "en": "Biochemical Oxygen Demand"
+        },
+        {
+          "hi": "बायोलॉजिकल ऑक्सीजन डेफिसिट",
+          "en": "Biological Oxygen Deficit"
+        },
+        {
+          "hi": "बैक्टिरियल ऑक्सीजन डीके",
+          "en": "Bacterial Oxygen Decay"
+        },
+        {
+          "hi": "बायोकेमिकल ओजोन डिसऑर्डर",
+          "en": "Biochemical Ozone Disorder"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पेयजल में जैविक प्रदूषण अधिक होने पर उसके BOD मान पर क्या प्रभाव पड़ता है?",
+        "en": "What is the effect of high organic pollution on the BOD value of a water sample?"
+      },
+      "o": [
+        {
+          "hi": "BOD मान अत्यधिक बढ़ जाता है (> 17 ppm)",
+          "en": "BOD value increases significantly (> 17 ppm)"
+        },
+        {
+          "hi": "BOD मान शून्य हो जाता है",
+          "en": "BOD value becomes zero"
+        },
+        {
+          "hi": "BOD मान घट जाता है",
+          "en": "BOD value decreases"
+        },
+        {
+          "hi": "कोई प्रभाव नहीं पड़ता",
+          "en": "No effect"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शुद्ध स्वच्छ पेयजल का BOD मान लगभग कितना होना चाहिए?",
+        "en": "What should be the approximate BOD value of clean pure drinking water?"
+      },
+      "o": [
+        {
+          "hi": "15 ppm से 20 ppm",
+          "en": "15 ppm to 20 ppm"
+        },
+        {
+          "hi": "5 ppm से कम (< 5 ppm)",
+          "en": "Less than 5 ppm (< 5 ppm)"
+        },
+        {
+          "hi": "50 ppm से अधिक",
+          "en": "Greater than 50 ppm"
+        },
+        {
+          "hi": "100 ppm",
+          "en": "100 ppm"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सब्जियों और खाद्य पदार्थों को पकाने पर कौन सा जल-घुलनशील विटामिन आसानी से नष्ट हो जाता है?",
+        "en": "Which water-soluble vitamin is easily destroyed by heating during cooking?"
+      },
+      "o": [
+        {
+          "hi": "विटामिन ए",
+          "en": "Vitamin A"
+        },
+        {
+          "hi": "विटामिन डी",
+          "en": "Vitamin D"
+        },
+        {
+          "hi": "विटामिन सी (Vitamin C / एस्कॉर्बिक एसिड)",
+          "en": "Vitamin C (Ascorbic Acid)"
+        },
+        {
+          "hi": "विटामिन के",
+          "en": "Vitamin K"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऑपरेशन थिएटर में रोगियों को बेहोश करने के लिए निश्चेतक (Anaesthetic) के रूप में किस गैस का प्रयोग किया जाता है?",
+        "en": "Which gas is used as an inhalation anaesthetic in surgery?"
+      },
+      "o": [
+        {
+          "hi": "सल्फर डाइऑक्साइड",
+          "en": "Sulfur dioxide"
+        },
+        {
+          "hi": "कार्बन मोनोऑक्साइड",
+          "en": "Carbon monoxide"
+        },
+        {
+          "hi": "क्लोरीन",
+          "en": "Chlorine"
+        },
+        {
+          "hi": "नाइट्रस ऑक्साइड (N2O) और ईथर/हेलोथेन",
+          "en": "Nitrous Oxide (N2O) and Ether/Halothane"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दूध को फटने से बचाने के लिए और उसकी शेल्फ लाइफ बढ़ाने के लिए पाश्चुरीकरण (Pasteurization) किसने खोजा था?",
+        "en": "Who developed the Pasteurization process to preserve milk from bacterial spoilage?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट कोच",
+          "en": "Robert Koch"
+        },
+        {
+          "hi": "लुई पाश्चर (Louis Pasteur - 63°C पर 30 मिनट या 72°C पर 15 सेकंड)",
+          "en": "Louis Pasteur (at 63°C for 30 min or 72°C for 15 sec)"
+        },
+        {
+          "hi": "एडवर्ड जेनर",
+          "en": "Edward Jenner"
+        },
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग",
+          "en": "Alexander Fleming"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हवाई जहाजों की खिड़कियों और बुलेटप्रूफ जैकेट में प्रयुक्त होने वाला अटूट पारदर्शी बहुलक काँच 'प्लेक्सिग्लास' (Plexiglass) क्या है?",
+        "en": "What is the unbreakable transparent polymer glass 'Plexiglass' used in aircraft windows and bulletproof glass?"
+      },
+      "o": [
+        {
+          "hi": "पॉलीस्टाइरीन",
+          "en": "Polystyrene"
+        },
+        {
+          "hi": "पॉलीथीन",
+          "en": "Polythene"
+        },
+        {
+          "hi": "बैकेलाइट",
+          "en": "Bakelite"
+        },
+        {
+          "hi": "पॉलीमेथिल मेथाक्रिलेट (PMMA / ऐक्रिलिक ग्लास)",
+          "en": "Polymethyl Methacrylate (PMMA / Acrylic Glass)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बुलेटप्रूफ खिड़कियाँ और हेलमेट बनाने के लिए किस मजबूत थर्मोप्लास्टिक बहुलक का उपयोग होता है?",
+        "en": "Which strong thermoplastic polymer is used to make bulletproof windows and helmets?"
+      },
+      "o": [
+        {
+          "hi": "पॉलीथीन",
+          "en": "Polythene"
+        },
+        {
+          "hi": "पीवीसी",
+          "en": "PVC"
+        },
+        {
+          "hi": "पॉलीकार्बोनेट (Polycarbonate / लेक्सन)",
+          "en": "Polycarbonate (Lexan)"
+        },
+        {
+          "hi": "टेफ्लॉन",
+          "en": "Teflon"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बुलेटप्रूफ जैकेट (Bulletproof Jackets) बनाने में किस उच्च सामर्थ्य वाले सिंथेटिक एरामिड रेशा का उपयोग किया जाता है?",
+        "en": "Which high-strength synthetic aramid fiber is used in manufacturing Bulletproof Jackets?"
+      },
+      "o": [
+        {
+          "hi": "केवलर (Kevlar)",
+          "en": "Kevlar"
+        },
+        {
+          "hi": "नायलॉन",
+          "en": "Nylon"
+        },
+        {
+          "hi": "रेयॉन",
+          "en": "Rayon"
+        },
+        {
+          "hi": "डैक्रॉन",
+          "en": "Dacron"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कुओं के पानी को कीटाणुरहित (Disinfect) करने के लिए ब्लीचिंग पाउडर के अलावा किस 'लाल दवा' का प्रयोग किया जाता है?",
+        "en": "Which 'Red Medicine' (Laal Dawa) is used as a water disinfectant for wells?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम बाइकार्बोनेट",
+          "en": "Sodium Bicarbonate"
+        },
+        {
+          "hi": "कॉपर सल्फेट",
+          "en": "Copper Sulfate"
+        },
+        {
+          "hi": "कैल्शियम कार्बोनेट",
+          "en": "Calcium Carbonate"
+        },
+        {
+          "hi": "पोटेशियम परमैंगनेट (Potassium Permanganate - KMnO4)",
+          "en": "Potassium Permanganate (KMnO4)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जल की अस्थायी कठोरता (Temporary Hardness of Water) किन लवणों के कारण होती है जिसे उबालकर दूर किया जा सकता है?",
+        "en": "Temporary hardness of water removable by boiling is caused by hydrogen carbonates of:"
+      },
+      "o": [
+        {
+          "hi": "कैल्शियम और मैग्नीशियम के क्लोराइड तथा सल्फेट",
+          "en": "Chlorides and Sulfates of Calcium and Magnesium"
+        },
+        {
+          "hi": "सोडियम और पोटेशियम के कार्बोनेट",
+          "en": "Carbonates of Sodium and Potassium"
+        },
+        {
+          "hi": "आयरन और लेड के नाइट्रेट",
+          "en": "Nitrates of Iron and Lead"
+        },
+        {
+          "hi": "कैल्शियम और मैग्नीशियम के बाइकार्बोनेट [Ca(HCO3)2 & Mg(HCO3)2]",
+          "en": "Bicarbonates of Calcium and Magnesium"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जल की स्थायी कठोरता (Permanent Hardness) किन लवणों की उपस्थिति के कारण होती है जिसे केवल उबालकर दूर नहीं किया जा सकता?",
+        "en": "Permanent hardness of water is caused by the presence of:"
+      },
+      "o": [
+        {
+          "hi": "कैल्शियम और मैग्नीशियम के बाइकार्बोनेट",
+          "en": "Bicarbonates of Calcium and Magnesium"
+        },
+        {
+          "hi": "सोडियम क्लोराइड और पोटेशियम नाइट्रेट",
+          "en": "Sodium chloride and Potassium nitrate"
+        },
+        {
+          "hi": "सोडियम कार्बोनेट और कॉपर सल्फेट",
+          "en": "Sodium carbonate and Copper sulfate"
+        },
+        {
+          "hi": "कैल्शियम और मैग्नीशियम के क्लोराइड एवं सल्फेट लवण (CaCl2, MgCl2, CaSO4, MgSO4)",
+          "en": "Chlorides and Sulfates of Calcium and Magnesium"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अस्थायी कठोरता को रासायनिक रूप से बुझे चूने [Ca(OH)2] की गणना की गई मात्रा मिलाकर दूर करने की विधि क्या कहलाती है?",
+        "en": "Removing temporary hardness by adding calculated amount of slaked lime is known as:"
+      },
+      "o": [
+        {
+          "hi": "क्लार्क की विधि (Clark's Method)",
+          "en": "Clark's Method"
+        },
+        {
+          "hi": "परम्युटिट विधि (Permutit Process)",
+          "en": "Permutit Process"
+        },
+        {
+          "hi": "आयन विनिमय विधि (Ion Exchange Method)",
+          "en": "Ion Exchange Method"
+        },
+        {
+          "hi": "कैलगन विधि (Calgon Process)",
+          "en": "Calgon Process"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जल की कठोरता दूर करने के लिए 'कैलगन' (Calgon) का सही रासायनिक नाम और सूत्र क्या है?",
+        "en": "What is the chemical name and formula of 'Calgon' used for water softening?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम हेक्सामेटाफॉस्फेट [Na6P6O18 / Na2[Na4(PO3)6]]",
+          "en": "Sodium Hexametaphosphate"
+        },
+        {
+          "hi": "सोडियम सिलिकेट",
+          "en": "Sodium Silicate"
+        },
+        {
+          "hi": "सोडियम एल्युमिनो सिलिकेट (जियोलाइट)",
+          "en": "Sodium Alumino Silicate"
+        },
+        {
+          "hi": "सोडियम बायोसल्फेट",
+          "en": "Sodium Bisulfate"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जल को मृदु बनाने की परम्युटिट प्रक्रिया (Permutit Process) में प्रयुक्त होने वाला 'जियोलाइट' (Zeolite) वास्तव में क्या है?",
+        "en": "Zeolite used in Permutit process for water softening is chemically:"
+      },
+      "o": [
+        {
+          "hi": "कैल्शियम सल्फेट",
+          "en": "Calcium Sulfate"
+        },
+        {
+          "hi": "मैग्नीशियम कार्बोनेट",
+          "en": "Magnesium Carbonate"
+        },
+        {
+          "hi": "पोटेशियम परमैंगनेट",
+          "en": "Potassium Permanganate"
+        },
+        {
+          "hi": "जलयोजित सोडियम एल्युमीनियम सिलिकेट (Hydrated Sodium Aluminium Silicate)",
+          "en": "Hydrated Sodium Aluminium Silicate"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कपड़े धोने वाले डिटर्जेंटों में झाग और मैल साफ करने की क्षमता बढ़ाने के लिए 'बिल्डर' (Builders) के रूप में क्या मिलाया जाता है?",
+        "en": "Which chemical is added as a Builder in detergents to enhance cleansing power and prevent redeposition of dirt?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम क्लोराइड",
+          "en": "Sodium Chloride"
+        },
+        {
+          "hi": "सोडियम नाइट्रेट",
+          "en": "Sodium Nitrate"
+        },
+        {
+          "hi": "सोडियम ट्राइपॉलीफॉस्फेट (STPP)",
+          "en": "Sodium Tripolyphosphate (STPP)"
+        },
+        {
+          "hi": "अमोनियम सल्फेट",
+          "en": "Ammonium Sulfate"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कपड़ों की सफेदी चमकाने के लिए डिटर्जेंट में प्रयुक्त होने वाले प्रकाशिक उज्ज्वलकारी (Optical Brighteners) क्या करते हैं?",
+        "en": "Optical Brighteners added to laundry detergents function by:"
+      },
+      "o": [
+        {
+          "hi": "अदृश्य पराबैंगनी प्रकाश को अवशोषित करके दृश्य नीले प्रकाश के रूप में उत्सर्जित करना",
+          "en": "Absorbing UV light and emitting visible blue light"
+        },
+        {
+          "hi": "कपड़ों को ब्लीच करके जला देना",
+          "en": "Bleaching and burning fabric"
+        },
+        {
+          "hi": "कपड़ों पर सफेद पाउडर जमाना",
+          "en": "Depositing white powder on fabric"
+        },
+        {
+          "hi": "मैल को पूरी तरह जला देना",
+          "en": "Burning dirt completely"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ग्रीन हाउस गैसों में 'ग्लोबल वार्मिंग पोटेंशियल' (GWP) प्रति अणु के हिसाब से CO2 की तुलना में मेथेन का कितने गुना होता है?",
+        "en": "What is the Global Warming Potential (GWP) per molecule of Methane compared to CO2?"
+      },
+      "o": [
+        {
+          "hi": "समान (1 गुना)",
+          "en": "Equal (1 time)"
+        },
+        {
+          "hi": "1000 गुना अधिक",
+          "en": "1000 times higher"
+        },
+        {
+          "hi": "आधा (0.5 गुना)",
+          "en": "Half (0.5 time)"
+        },
+        {
+          "hi": "लगभग 25 से 28 गुना अधिक",
+          "en": "Approx 25 to 28 times higher"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ग्रीन हाउस गैसों में सबसे अधिक टिकाऊ और अत्यधिक उच्च ग्लोबल वार्मिंग क्षमता वाली सीएफसी गैस कौन सी है?",
+        "en": "Which greenhouse gas has an extremely high GWP thousands of times higher than CO2?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सीजन",
+          "en": "Oxygen"
+        },
+        {
+          "hi": "क्लोरोफ्लोरोकार्बन (CFCs) तथा SF6",
+          "en": "Chlorofluorocarbons (CFCs) and SF6"
+        },
+        {
+          "hi": "नाइट्रोजन",
+          "en": "Nitrogen"
+        },
+        {
+          "hi": "ऑर्गन",
+          "en": "Argon"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सैलिसिलिक अम्ल की मिथाइल ऐल्कोहॉल के साथ अभिक्रिया से बनने वाला 'ऑयल ऑफ विंटरग्रीन' (Oil of Wintergreen) किस रूप में प्रयुक्त होता है?",
+        "en": "Oil of Wintergreen (Methyl Salicylate) is used in daily life as a:"
+      },
+      "o": [
+        {
+          "hi": "खाने का रंग",
+          "en": "Food color"
+        },
+        {
+          "hi": "मच्छर भगाने की रिफिल",
+          "en": "Mosquito repellent refill"
+        },
+        {
+          "hi": "दर्द निवारक बाम (Pain relief ointment / Zandu Balm / Iodex component)",
+          "en": "Pain relief ointment / Balm"
+        },
+        {
+          "hi": "कपड़े धोने का पाउडर",
+          "en": "Laundry detergent"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कीड़े-मकोड़ों और मच्छरों को दूर भगाने वाले ऑल-आउट या गुडनाइट जैसे लिक्विड रिफिल में कौन सा रसायन पाया जाता है?",
+        "en": "Which chemical active ingredient is present in liquid mosquito repellents (like All-Out / GoodKnight)?"
+      },
+      "o": [
+        {
+          "hi": "एलेथ्रिन या ट्रांसफ्लोथ्रिन (Prallethrin / Allethrin / Transfluthrin)",
+          "en": "Allethrin / Prallethrin / Transfluthrin"
+        },
+        {
+          "hi": "डीडीटी",
+          "en": "DDT"
+        },
+        {
+          "hi": "फॉर्मेलीन",
+          "en": "Formalin"
+        },
+        {
+          "hi": "पैरासीटामोल",
+          "en": "Paracetamol"
+        }
+      ],
+      "a": 0
+    }
+  ]
+}

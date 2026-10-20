@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "वायुमंडल की संरचना और दाबांतर / Atmosphere & Pressure",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Atmosphere & Pressure.",
+  "questions": [
+    {
+      "q": {
+        "hi": "वायुमंडल में सर्वाधिक मात्रा में पाई जाने वाली गैस कौन सी है?",
+        "en": "Which is the most abundant gas in Earth's atmosphere?"
+      },
+      "o": [
+        {
+          "hi": "नाइट्रोजन (Nitrogen - 78%)",
+          "en": "Nitrogen (78%)"
+        },
+        {
+          "hi": "ऑक्सीजन (Oxygen - 21%)",
+          "en": "Oxygen (21%)"
+        },
+        {
+          "hi": "ऑर्गन (Argon - 0.93%)",
+          "en": "Argon (0.93%)"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड (0.04%)",
+          "en": "Carbon Dioxide (0.04%)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वायुमंडल में आयतन के अनुसार ऑक्सीजन का प्रतिशत कितना है?",
+        "en": "What is the percentage of Oxygen by volume in the atmosphere?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 78%",
+          "en": "About 78%"
+        },
+        {
+          "hi": "लगभग 21%",
+          "en": "About 21%"
+        },
+        {
+          "hi": "लगभग 1%",
+          "en": "About 1%"
+        },
+        {
+          "hi": "लगभग 0.04%",
+          "en": "About 0.04%"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वायुमंडल में पाई जाने वाली तीसरी सबसे प्रचुर गैस (तथा सबसे प्रचुर अक्रिय गैस) कौन सी है?",
+        "en": "Which is the third most abundant gas (and most abundant inert gas) in the atmosphere?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन डाइऑक्साइड",
+          "en": "Carbon Dioxide"
+        },
+        {
+          "hi": "हेलियम",
+          "en": "Helium"
+        },
+        {
+          "hi": "ऑर्गन (Argon)",
+          "en": "Argon"
+        },
+        {
+          "hi": "नियोन",
+          "en": "Neon"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वायुमंडल की सबसे निचली परत कौन सी है जिसमें सभी मौसम संबंधी घटनाएं घटित होती हैं?",
+        "en": "Which is the lowest layer of the atmosphere where all weather phenomena occur?"
+      },
+      "o": [
+        {
+          "hi": "समतापमंडल (Stratosphere)",
+          "en": "Stratosphere"
+        },
+        {
+          "hi": "मध्यमंडल (Mesosphere)",
+          "en": "Mesosphere"
+        },
+        {
+          "hi": "आयोनमंडल (Ionosphere)",
+          "en": "Ionosphere"
+        },
+        {
+          "hi": "क्षोभमंडल (Troposphere)",
+          "en": "Troposphere"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "क्षोभमंडल में ऊँचाई पर जाने पर तापमान किस दर से घटता है (सामान्य ह्रास दर)?",
+        "en": "At what rate does temperature decrease with height in the Troposphere (Normal Lapse Rate)?"
+      },
+      "o": [
+        {
+          "hi": "प्रति 165 मीटर पर 1°C (या 6.5°C प्रति 1000 मीटर)",
+          "en": "1°C per 165 meters (or 6.5°C per 1000 m)"
+        },
+        {
+          "hi": "प्रति 100 मीटर पर 1°C",
+          "en": "1°C per 100 meters"
+        },
+        {
+          "hi": "प्रति 500 मीटर पर 2°C",
+          "en": "2°C per 500 meters"
+        },
+        {
+          "hi": "प्रति 1000 मीटर पर 10°C",
+          "en": "10°C per 1000 meters"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हवाई जहाज (Jet aircrafts) उड़ाने के लिए वायुमंडल की कौन सी परत सबसे आदर्श मानी जाती है?",
+        "en": "Which atmospheric layer is considered most ideal for flying jet aircraft?"
+      },
+      "o": [
+        {
+          "hi": "क्षोभमंडल (Troposphere)",
+          "en": "Troposphere"
+        },
+        {
+          "hi": "समतापमंडल (Stratosphere)",
+          "en": "Stratosphere"
+        },
+        {
+          "hi": "मध्यमंडल (Mesosphere)",
+          "en": "Mesosphere"
+        },
+        {
+          "hi": "तापमंडल (Thermosphere)",
+          "en": "Thermosphere"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ओजोन परत (Ozone Layer) वायुमंडल की किस परत में स्थित है?",
+        "en": "In which layer of the atmosphere is the Ozone layer located?"
+      },
+      "o": [
+        {
+          "hi": "क्षोभमंडल (Troposphere)",
+          "en": "Troposphere"
+        },
+        {
+          "hi": "मध्यमंडल (Mesosphere)",
+          "en": "Mesosphere"
+        },
+        {
+          "hi": "समतापमंडल (Stratosphere)",
+          "en": "Stratosphere"
+        },
+        {
+          "hi": "बाह्यमंडल (Exosphere)",
+          "en": "Exosphere"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सूर्य से आने वाली हानिकारक पराबैंगनी किरणों (UV Rays) से पृथ्वी की रक्षा कौन सी परत करती है?",
+        "en": "Which layer protects the Earth from harmful ultraviolet (UV) radiation from the Sun?"
+      },
+      "o": [
+        {
+          "hi": "आयनमंडल",
+          "en": "Ionosphere"
+        },
+        {
+          "hi": "क्षोभमंडल",
+          "en": "Troposphere"
+        },
+        {
+          "hi": "मध्यमंडल",
+          "en": "Mesosphere"
+        },
+        {
+          "hi": "ओजोन परत (Ozone Layer)",
+          "en": "Ozone Layer"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ओजोन परत की मोटाई मापने की इकाई क्या है?",
+        "en": "What is the unit used to measure the thickness of the Ozone layer?"
+      },
+      "o": [
+        {
+          "hi": "डॉबसन इकाई (Dobson Unit)",
+          "en": "Dobson Unit"
+        },
+        {
+          "hi": "डेसिबल (Decibel)",
+          "en": "Decibel"
+        },
+        {
+          "hi": "पास्कल (Pascal)",
+          "en": "Pascal"
+        },
+        {
+          "hi": "बार (Bar)",
+          "en": "Bar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अंतरिक्ष से आने वाले उल्कापिंड (Meteors) वायुमंडल की किस परत में आकर जल जाते हैं?",
+        "en": "Meteors entering Earth's atmosphere burn up in which layer?"
+      },
+      "o": [
+        {
+          "hi": "समतापमंडल (Stratosphere)",
+          "en": "Stratosphere"
+        },
+        {
+          "hi": "मध्यमंडल (Mesosphere)",
+          "en": "Mesosphere"
+        },
+        {
+          "hi": "क्षोभमंडल (Troposphere)",
+          "en": "Troposphere"
+        },
+        {
+          "hi": "तापमंडल (Thermosphere)",
+          "en": "Thermosphere"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वायुमंडल की सबसे ठंडी परत कौन सी है (जहाँ तापमान -90°C तक गिर जाता है)?",
+        "en": "Which is the coldest layer of Earth's atmosphere (temperature drops to -90°C)?"
+      },
+      "o": [
+        {
+          "hi": "क्षोभमंडल (Troposphere)",
+          "en": "Troposphere"
+        },
+        {
+          "hi": "समतापमंडल (Stratosphere)",
+          "en": "Stratosphere"
+        },
+        {
+          "hi": "मध्यमंडल (Mesosphere)",
+          "en": "Mesosphere"
+        },
+        {
+          "hi": "आयनमंडल (Ionosphere)",
+          "en": "Ionosphere"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रेडियो तरंगों के परावर्तन (Radio wave reflection) के लिए कौन सी परत उत्तरदाई है?",
+        "en": "Which atmospheric layer is responsible for reflecting radio waves back to Earth?"
+      },
+      "o": [
+        {
+          "hi": "क्षोभमंडल (Troposphere)",
+          "en": "Troposphere"
+        },
+        {
+          "hi": "समतापमंडल (Stratosphere)",
+          "en": "Stratosphere"
+        },
+        {
+          "hi": "मध्यमंडल (Mesosphere)",
+          "en": "Mesosphere"
+        },
+        {
+          "hi": "आयनमंडल (Ionosphere)",
+          "en": "Ionosphere"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ध्रुवीय ज्योति (Aurora Borealis & Aurora Australis) की घटना वायुमंडल की किस परत में होती है?",
+        "en": "The phenomenon of Auroras occurs in which layer of the atmosphere?"
+      },
+      "o": [
+        {
+          "hi": "आयनमंडल / तापमंडल (Ionosphere / Thermosphere)",
+          "en": "Ionosphere / Thermosphere"
+        },
+        {
+          "hi": "क्षोभमंडल (Troposphere)",
+          "en": "Troposphere"
+        },
+        {
+          "hi": "समतापमंडल (Stratosphere)",
+          "en": "Stratosphere"
+        },
+        {
+          "hi": "मध्यमंडल (Mesosphere)",
+          "en": "Mesosphere"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उत्तरी ध्रुवीय ज्योति को क्या कहा जाता है?",
+        "en": "What is the Northern Polar Light called?"
+      },
+      "o": [
+        {
+          "hi": "ऑरोरा ऑस्ट्रेलिस (Aurora Australis)",
+          "en": "Aurora Australis"
+        },
+        {
+          "hi": "ऑरोरा बोरियालिस (Aurora Borealis)",
+          "en": "Aurora Borealis"
+        },
+        {
+          "hi": "कोरोना",
+          "en": "Corona"
+        },
+        {
+          "hi": "आयनोस्फीयर",
+          "en": "Ionosphere"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दक्षिणी ध्रुवीय ज्योति को किस नाम से जाना जाता है?",
+        "en": "What is the Southern Polar Light called?"
+      },
+      "o": [
+        {
+          "hi": "ऑरोरा बोरियालिस (Aurora Borealis)",
+          "en": "Aurora Borealis"
+        },
+        {
+          "hi": "सेंट एल्मो फायर",
+          "en": "St. Elmo's Fire"
+        },
+        {
+          "hi": "ऑरोरा ऑस्ट्रेलिस (Aurora Australis)",
+          "en": "Aurora Australis"
+        },
+        {
+          "hi": "जोडिएकल लाइट",
+          "en": "Zodiacal Light"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वायुदाब (Atmospheric Pressure) मापने के लिए किस यंत्र का प्रयोग किया जाता है?",
+        "en": "Which instrument is used to measure Atmospheric Pressure?"
+      },
+      "o": [
+        {
+          "hi": "हाइग्रोमीटर (Hygrometer)",
+          "en": "Hygrometer"
+        },
+        {
+          "hi": "थर्मामीटर (Thermometer)",
+          "en": "Thermometer"
+        },
+        {
+          "hi": "अल्टीमीटर (Altimeter)",
+          "en": "Altimeter"
+        },
+        {
+          "hi": "बैरोमीटर (Barometer)",
+          "en": "Barometer"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बैरोमीटर का पाठ्यांक (Reading) जब अचानक गिर जाता है, तो यह किसका संकेत है?",
+        "en": "A sudden drop in the Barometer reading indicates what?"
+      },
+      "o": [
+        {
+          "hi": "तूफान या चक्रवात आने की संभावना",
+          "en": "Storm or Cyclone"
+        },
+        {
+          "hi": "साफ मौसम",
+          "en": "Clear weather"
+        },
+        {
+          "hi": "वर्षा होने की संभावना",
+          "en": "Rainfall"
+        },
+        {
+          "hi": "अत्यधिक ठंड",
+          "en": "Extreme cold"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बैरोमीटर का पाठ्यांक धीरे-धीरे ऊपर चढ़ना किसका सूचक होता है?",
+        "en": "A gradual rise in the Barometer reading indicates what?"
+      },
+      "o": [
+        {
+          "hi": "भारी वर्षा",
+          "en": "Heavy rain"
+        },
+        {
+          "hi": "प्रतिचक्रवात एवं साफ मौसम",
+          "en": "Anticyclone and clear sunny weather"
+        },
+        {
+          "hi": "तूफान और आंधी",
+          "en": "Storm and gale"
+        },
+        {
+          "hi": "बर्फबारी",
+          "en": "Snowfall"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समुद्र तल पर सामान्य वायुदाब कितना होता है?",
+        "en": "What is the standard atmospheric pressure at sea level?"
+      },
+      "o": [
+        {
+          "hi": "1000 मिलिबार",
+          "en": "1000 millibars"
+        },
+        {
+          "hi": "760 मिलिबार",
+          "en": "760 millibars"
+        },
+        {
+          "hi": "1013.25 मिलिबार (या 76 सेमी पारा)",
+          "en": "1013.25 millibars (or 76 cm Hg)"
+        },
+        {
+          "hi": "1050 मिलिबार",
+          "en": "1050 millibars"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समान वायुदाब वाले स्थानों को मिलाने वाली काल्पनिक रेखाओं को क्या कहा जाता है?",
+        "en": "Imaginary lines connecting places of equal atmospheric pressure are called what?"
+      },
+      "o": [
+        {
+          "hi": "समताप रेखाएं (Isotherms)",
+          "en": "Isotherms"
+        },
+        {
+          "hi": "समवर्षा रेखाएं (Isohyets)",
+          "en": "Isohyets"
+        },
+        {
+          "hi": "समगभीरता रेखाएं (Isobaths)",
+          "en": "Isobaths"
+        },
+        {
+          "hi": "समदाब रेखाएं (Isobars)",
+          "en": "Isobars"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विषुवत रेखा के निकट 5° उत्तर से 5° दक्षिण के बीच शांत हवाओं के क्षेत्र को क्या कहते हैं?",
+        "en": "What is the calm wind zone between 5° N and 5° S near the Equator called?"
+      },
+      "o": [
+        {
+          "hi": "डोलड्रम्स / शांत कटिबंध (Doldrums)",
+          "en": "Doldrums"
+        },
+        {
+          "hi": "अश्व अक्षांश (Horse Latitudes)",
+          "en": "Horse Latitudes"
+        },
+        {
+          "hi": "गरजता चालीसा (Roaring Forties)",
+          "en": "Roaring Forties"
+        },
+        {
+          "hi": "चीखता साठा (Shrieking Sixties)",
+          "en": "Shrieking Sixties"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दोनों गोलार्धों में 30° से 35° अक्षांशों के बीच स्थित उच्च वायुदाब पेटी को क्या कहा जाता है?",
+        "en": "What is the high-pressure belt located between 30° and 35° latitudes in both hemispheres called?"
+      },
+      "o": [
+        {
+          "hi": "डोलड्रम्स (Doldrums)",
+          "en": "Doldrums"
+        },
+        {
+          "hi": "अश्व अक्षांश (Horse Latitudes)",
+          "en": "Horse Latitudes"
+        },
+        {
+          "hi": "उपध्रुवीय निम्नदाब",
+          "en": "Subpolar Low"
+        },
+        {
+          "hi": "ध्रुवीय उच्चदाब",
+          "en": "Polar High"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी के घूर्णन के कारण हवाओं की दिशा में विक्षेपण (Deflection) उत्पन्न करने वाले बल को क्या कहते हैं?",
+        "en": "The deflecting force on winds caused by the Earth's rotation is called what?"
+      },
+      "o": [
+        {
+          "hi": "अभिकेंद्रीय बल (Centripetal Force)",
+          "en": "Centripetal Force"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण बल (Gravitational Force)",
+          "en": "Gravitational Force"
+        },
+        {
+          "hi": "कोरिओलिस बल (Coriolis Force)",
+          "en": "Coriolis Force"
+        },
+        {
+          "hi": "घर्षण बल (Frictional Force)",
+          "en": "Frictional Force"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "फेरेल के नियम (Ferrel's Law) के अनुसार उत्तरी गोलार्ध में हवाएं किस ओर मुड़ जाती हैं?",
+        "en": "According to Ferrel's Law, in which direction do winds deflect in the Northern Hemisphere?"
+      },
+      "o": [
+        {
+          "hi": "अपनी बाईं ओर (Left)",
+          "en": "To their left"
+        },
+        {
+          "hi": "दक्षिण की ओर (South)",
+          "en": "Towards South"
+        },
+        {
+          "hi": "सीधे बिना मुड़े",
+          "en": "Straight without deflection"
+        },
+        {
+          "hi": "अपनी दाईं ओर (Right)",
+          "en": "To their right"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "फेरेल के नियम के अनुसार दक्षिणी गोलार्ध में हवाएं किस दिशा में मुड़ती हैं?",
+        "en": "In which direction do winds deflect in the Southern Hemisphere according to Ferrel's Law?"
+      },
+      "o": [
+        {
+          "hi": "अपनी बाईं ओर (Left)",
+          "en": "To their left"
+        },
+        {
+          "hi": "अपनी दाईं ओर (Right)",
+          "en": "To their right"
+        },
+        {
+          "hi": "उत्तर की ओर (North)",
+          "en": "Towards North"
+        },
+        {
+          "hi": "पूर्व की ओर",
+          "en": "Towards East"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उपष्ण उच्च वायुदाब से विषुवत रेखीय निम्न वायुदाब की ओर चलने वाली स्थायी हवाओं को क्या कहते हैं?",
+        "en": "Permanent winds blowing from Subtropical Highs to Equatorial Lows are called what?"
+      },
+      "o": [
+        {
+          "hi": "पछुआ पवनें (Westerlies)",
+          "en": "Westerlies"
+        },
+        {
+          "hi": "व्यापारिक पवनें (Trade Winds)",
+          "en": "Trade Winds"
+        },
+        {
+          "hi": "ध्रुवीय पवनें (Polar Easterlies)",
+          "en": "Polar Easterlies"
+        },
+        {
+          "hi": "मानसून पवनें",
+          "en": "Monsoon Winds"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दक्षिणी गोलार्ध में 40° अक्षांश के पास चलने वाली तीव्र पछुआ हवाओं को क्या कहा जाता है?",
+        "en": "Strong westerlies near 40° S latitude in the Southern Hemisphere are called what?"
+      },
+      "o": [
+        {
+          "hi": "प्रचंड पचासा (Furious Fifties)",
+          "en": "Furious Fifties"
+        },
+        {
+          "hi": "चीखता साठा (Shrieking Sixties)",
+          "en": "Shrieking Sixties"
+        },
+        {
+          "hi": "गरजता चालीसा (Roaring Forties)",
+          "en": "Roaring Forties"
+        },
+        {
+          "hi": "डोलड्रम्स",
+          "en": "Doldrums"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दक्षिणी गोलार्ध में 50° दक्षिणी अक्षांश पर चलने वाली पछुआ हवाओं को क्या कहते हैं?",
+        "en": "Strong westerlies near 50° S latitude are known as what?"
+      },
+      "o": [
+        {
+          "hi": "गरजता चालीसा (Roaring Forties)",
+          "en": "Roaring Forties"
+        },
+        {
+          "hi": "चीखता साठा (Shrieking Sixties)",
+          "en": "Shrieking Sixties"
+        },
+        {
+          "hi": "अश्व अक्षांश",
+          "en": "Horse Latitudes"
+        },
+        {
+          "hi": "प्रचंड पचासा (Furious Fifties)",
+          "en": "Furious Fifties"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दक्षिणी गोलार्ध में 60° दक्षिणी अक्षांश पर बहने वाली तूफानी हवाओं को क्या कहा जाता है?",
+        "en": "High velocity winds around 60° S latitude are termed as what?"
+      },
+      "o": [
+        {
+          "hi": "चीखता साठा (Shrieking / Screaming Sixties)",
+          "en": "Shrieking Sixties"
+        },
+        {
+          "hi": "गरजता चालीसा (Roaring Forties)",
+          "en": "Roaring Forties"
+        },
+        {
+          "hi": "प्रचंड पचासा (Furious Fifties)",
+          "en": "Furious Fifties"
+        },
+        {
+          "hi": "डोलड्रम्स",
+          "en": "Doldrums"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रॉकी पर्वत (उत्तरी अमेरिका) के पूर्वी ढालों पर बहने वाली गर्म एवं शुष्क हवा को क्या कहते हैं जिसे 'हिम भक्षी' (Snow Eater) भी कहा जाता है?",
+        "en": "The warm dry local wind blowing down the eastern slopes of Rocky Mountains, called 'Snow Eater', is what?"
+      },
+      "o": [
+        {
+          "hi": "फ़ॉन (Fohn)",
+          "en": "Fohn"
+        },
+        {
+          "hi": "चिनूक (Chinook)",
+          "en": "Chinook"
+        },
+        {
+          "hi": "सिरॉको (Sirocco)",
+          "en": "Sirocco"
+        },
+        {
+          "hi": "हरमट्टन (Harmattan)",
+          "en": "Harmattan"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आल्प्स पर्वत (यूरोप) के उत्तरी ढाल के सहारे चलने वाली गर्म शुष्क स्थानीय हवा कौन सी है?",
+        "en": "Which is the warm dry local wind blowing along the northern slopes of the Alps in Europe?"
+      },
+      "o": [
+        {
+          "hi": "चिनूक (Chinook)",
+          "en": "Chinook"
+        },
+        {
+          "hi": "मिस्ट्रल (Mistral)",
+          "en": "Mistral"
+        },
+        {
+          "hi": "फ़ॉन (Fohn)",
+          "en": "Fohn"
+        },
+        {
+          "hi": "बोरा (Bora)",
+          "en": "Bora"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पश्चिम अफ्रीका के सहारा क्षेत्र में चलने वाली शुष्क पवन जिसे 'डॉक्टर विंड' (Doctor Wind) कहा जाता है, कौन सी है?",
+        "en": "Which dry local wind blowing in West Africa / Sahara is called the 'Doctor Wind'?"
+      },
+      "o": [
+        {
+          "hi": "सिरॉको (Sirocco)",
+          "en": "Sirocco"
+        },
+        {
+          "hi": "खमसिन (Khamsin)",
+          "en": "Khamsin"
+        },
+        {
+          "hi": "लू (Loo)",
+          "en": "Loo"
+        },
+        {
+          "hi": "हरमट्टन (Harmattan)",
+          "en": "Harmattan"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सहारा मरुस्थल से भूमध्य सागर की ओर बहने वाली गर्म एवं रेत से भरी हवा को क्या कहते हैं जो इटली में 'रक्त वर्षा' (Blood Rain) करती है?",
+        "en": "The hot dust-laden wind blowing from Sahara to Mediterranean causing 'Blood Rain' in Italy is what?"
+      },
+      "o": [
+        {
+          "hi": "सिरॉको (Sirocco)",
+          "en": "Sirocco"
+        },
+        {
+          "hi": "हरमट्टन (Harmattan)",
+          "en": "Harmattan"
+        },
+        {
+          "hi": "सिमूम (Simoom)",
+          "en": "Simoom"
+        },
+        {
+          "hi": "गिबली (Gibli)",
+          "en": "Gibli"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उत्तर भारत और पाकिस्तान के मैदानी भागों में गर्मियों में दोपहर में बहने वाली अत्यधिक गर्म हवा को क्या कहते हैं?",
+        "en": "The extremely hot and dry local wind blowing during summer afternoons in North India is called what?"
+      },
+      "o": [
+        {
+          "hi": "आंधी",
+          "en": "Andhi"
+        },
+        {
+          "hi": "लू (Loo)",
+          "en": "Loo"
+        },
+        {
+          "hi": "काल बैसाखी",
+          "en": "Kal Baisakhi"
+        },
+        {
+          "hi": "चिनूक",
+          "en": "Chinook"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फ्रांस एवं रोन घाटी से भूमध्य सागर की ओर बहने वाली ठंडी ध्रुवीय हवा को क्या कहा जाता है?",
+        "en": "The cold, dry wind blowing from France and Rhone valley towards Mediterranean Sea is what?"
+      },
+      "o": [
+        {
+          "hi": "बोरा (Bora)",
+          "en": "Bora"
+        },
+        {
+          "hi": "ब्लिज़ार्ड (Blizzard)",
+          "en": "Blizzard"
+        },
+        {
+          "hi": "मिस्ट्रल (Mistral)",
+          "en": "Mistral"
+        },
+        {
+          "hi": "पैम्पैरो (Pampero)",
+          "en": "Pampero"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एड्रियाटिक सागर के तटीय क्षेत्रों में चलने वाली अत्यंत ठंडी एवं शुष्क हवा कौन सी है?",
+        "en": "Which cold and dry wind blows along the coast of Adriatic Sea?"
+      },
+      "o": [
+        {
+          "hi": "मिस्ट्रल (Mistral)",
+          "en": "Mistral"
+        },
+        {
+          "hi": "सिरॉको (Sirocco)",
+          "en": "Sirocco"
+        },
+        {
+          "hi": "फ़ॉन (Fohn)",
+          "en": "Fohn"
+        },
+        {
+          "hi": "बोरा (Bora)",
+          "en": "Bora"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "साइबेरिया, कनाडा और अमेरिका के ध्रुवीय क्षेत्रों में बहने वाली बर्फीली तूफानी हवाओं को क्या कहते हैं?",
+        "en": "Cold snow-bearing polar winds in Canada, USA and Siberia are called what?"
+      },
+      "o": [
+        {
+          "hi": "ब्लिज़ार्ड (Blizzard)",
+          "en": "Blizzard"
+        },
+        {
+          "hi": "पैम्पैरो (Pampero)",
+          "en": "Pampero"
+        },
+        {
+          "hi": "नॉर्दर (Norther)",
+          "en": "Norther"
+        },
+        {
+          "hi": "मिस्ट्रल (Mistral)",
+          "en": "Mistral"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दक्षिण अमेरिका के पंपास (घास के मैदान) क्षेत्र में चलने वाली ठंडी हवा को क्या कहते हैं?",
+        "en": "Which cold wind blows over the Pampas grasslands of South America?"
+      },
+      "o": [
+        {
+          "hi": "ज़ोंडा (Zonda)",
+          "en": "Zonda"
+        },
+        {
+          "hi": "पैम्पैरो (Pampero)",
+          "en": "Pampero"
+        },
+        {
+          "hi": "चिनूक (Chinook)",
+          "en": "Chinook"
+        },
+        {
+          "hi": "सिरॉको (Sirocco)",
+          "en": "Sirocco"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "उत्तरी गोलार्ध में चक्रवात (Cyclone) में हवाओं की दिशा क्या होती है?",
+        "en": "What is the direction of wind rotation in a Cyclone in the Northern Hemisphere?"
+      },
+      "o": [
+        {
+          "hi": "दक्षिणावर्त (घड़ी की सुइयों के अनुकूल / Clockwise)",
+          "en": "Clockwise"
+        },
+        {
+          "hi": "केंद्र से बाहर की ओर सीधी",
+          "en": "Straight outwards"
+        },
+        {
+          "hi": "वामावर्त (घड़ी की सुइयों के विपरीत / Counter-clockwise)",
+          "en": "Counter-clockwise"
+        },
+        {
+          "hi": "केवल पूर्व से पश्चिम",
+          "en": "East to West"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दक्षिणी गोलार्ध में चक्रवात (Cyclone) में हवाओं का घूर्णन किस दिशा में होता है?",
+        "en": "In which direction do winds rotate in a Cyclone in the Southern Hemisphere?"
+      },
+      "o": [
+        {
+          "hi": "वामावर्त (Counter-clockwise)",
+          "en": "Counter-clockwise"
+        },
+        {
+          "hi": "दक्षिण से उत्तर",
+          "en": "South to North"
+        },
+        {
+          "hi": "ऊपर से नीचे",
+          "en": "Top to Bottom"
+        },
+        {
+          "hi": "दक्षिणावर्त (घड़ी की सुई के अनुकूल / Clockwise)",
+          "en": "Clockwise"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रतिचक्रवात (Anticyclone) के केंद्र में कैसा वायुदाब होता है?",
+        "en": "What type of pressure is found at the center of an Anticyclone?"
+      },
+      "o": [
+        {
+          "hi": "उच्च वायुदाब (High Pressure)",
+          "en": "High Pressure"
+        },
+        {
+          "hi": "निम्न वायुदाब (Low Pressure)",
+          "en": "Low Pressure"
+        },
+        {
+          "hi": "शून्य वायुदाब (Zero Pressure)",
+          "en": "Zero Pressure"
+        },
+        {
+          "hi": "परिवर्तनीय वायुदाब",
+          "en": "Variable Pressure"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चक्रवात के केंद्र में स्थित शांत एवं बादल-रहित क्षेत्र को क्या कहा जाता है?",
+        "en": "The calm, clear and low-pressure central area of a tropical cyclone is called what?"
+      },
+      "o": [
+        {
+          "hi": "चक्रवात का हृदय",
+          "en": "Heart of Cyclone"
+        },
+        {
+          "hi": "चक्रवात की आँख (Eye of the Cyclone)",
+          "en": "Eye of the Cyclone"
+        },
+        {
+          "hi": "चक्रवात का भंवर",
+          "en": "Vortex"
+        },
+        {
+          "hi": "केंद्र बिंदु",
+          "en": "Focal Point"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चीन सागर और प्रशांत महासागर में आने वाले तीव्र उष्णकटिबंधीय चक्रवातों को क्या कहा जाता है?",
+        "en": "Tropical cyclones occurring in the China Sea and Western Pacific are called what?"
+      },
+      "o": [
+        {
+          "hi": "हरीकेन (Hurricane)",
+          "en": "Hurricane"
+        },
+        {
+          "hi": "विली-विली (Willy-Willy)",
+          "en": "Willy-Willy"
+        },
+        {
+          "hi": "टाइफून (Typhoon)",
+          "en": "Typhoon"
+        },
+        {
+          "hi": "टॉरनेडो (Tornado)",
+          "en": "Tornado"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कैरिबियन सागर और मेक्सिको की खाड़ी में उठने वाले विनाशकारी चक्रवातों को क्या कहते हैं?",
+        "en": "Destructive tropical cyclones arising in the Caribbean Sea and Gulf of Mexico are what?"
+      },
+      "o": [
+        {
+          "hi": "टाइफून (Typhoon)",
+          "en": "Typhoon"
+        },
+        {
+          "hi": "विली-विली (Willy-Willy)",
+          "en": "Willy-Willy"
+        },
+        {
+          "hi": "टॉरनेडो (Tornado)",
+          "en": "Tornado"
+        },
+        {
+          "hi": "हरीकेन (Hurricane)",
+          "en": "Hurricane"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऑस्ट्रेलिया के उत्तर-पश्चिमी तट पर आने वाले उष्णकटिबंधीय चक्रवातों को क्या नाम दिया गया है?",
+        "en": "What name is given to tropical cyclones on the NW coast of Australia?"
+      },
+      "o": [
+        {
+          "hi": "विली-विली (Willy-Willy)",
+          "en": "Willy-Willy"
+        },
+        {
+          "hi": "टाइफून (Typhoon)",
+          "en": "Typhoon"
+        },
+        {
+          "hi": "हरीकेन (Hurricane)",
+          "en": "Hurricane"
+        },
+        {
+          "hi": "टॉरनेडो (Tornado)",
+          "en": "Tornado"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अमेरिका के मैदानी भागों (मिसिसिपी घाटी) में आने वाले अत्यधिक तीव्र भयंकर कीपाकार तूफानों को क्या कहते हैं?",
+        "en": "The extremely intense funnel-shaped storm over USA's Mississippi valley is called what?"
+      },
+      "o": [
+        {
+          "hi": "टाइफून (Typhoon)",
+          "en": "Typhoon"
+        },
+        {
+          "hi": "टॉरनेडो (Tornado)",
+          "en": "Tornado"
+        },
+        {
+          "hi": "हरीकेन (Hurricane)",
+          "en": "Hurricane"
+        },
+        {
+          "hi": "विली-विली (Willy-Willy)",
+          "en": "Willy-Willy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चक्रवातों की तीव्रता मापने के लिए किस स्केल का प्रयोग किया जाता है?",
+        "en": "Which scale is used to measure the intensity of Hurricanes / Cyclones?"
+      },
+      "o": [
+        {
+          "hi": "रिक्टर स्केल",
+          "en": "Richter Scale"
+        },
+        {
+          "hi": "मर्केली स्केल",
+          "en": "Mercalli Scale"
+        },
+        {
+          "hi": "साफिर-सिम्पसन स्केल / टी-स्केल (Saffir-Simpson Scale)",
+          "en": "Saffir-Simpson Scale / T-scale"
+        },
+        {
+          "hi": "डॉबसन स्केल",
+          "en": "Dobson Scale"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वायु की आर्द्रता (Humidity) मापने वाले यंत्र को क्या कहा जाता है?",
+        "en": "Which instrument is used to measure atmospheric humidity?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोमीटर (Hydrometer)",
+          "en": "Hydrometer"
+        },
+        {
+          "hi": "अल्टीमीटर (Altimeter)",
+          "en": "Altimeter"
+        },
+        {
+          "hi": "लैक्टोमीटर (Lactometer)",
+          "en": "Lactometer"
+        },
+        {
+          "hi": "हाइग्रोमीटर (Hygrometer)",
+          "en": "Hygrometer"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 घन मीटर वायु में उपस्थित जलवाष्प की वास्तविक मात्रा (ग्राम में) को क्या कहते हैं?",
+        "en": "The actual mass of water vapour present per unit volume of air is called what?"
+      },
+      "o": [
+        {
+          "hi": "निरपेक्ष आर्द्रता (Absolute Humidity)",
+          "en": "Absolute Humidity"
+        },
+        {
+          "hi": "सापेक्षिक आर्द्रता (Relative Humidity)",
+          "en": "Relative Humidity"
+        },
+        {
+          "hi": "विशिष्ट आर्द्रता (Specific Humidity)",
+          "en": "Specific Humidity"
+        },
+        {
+          "hi": "ओसांक (Dew Point)",
+          "en": "Dew Point"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किसी निश्चित तापमान पर वायु में उपस्थित जलवाष्प और उसकी धारण क्षमता के अनुपात (%) को क्या कहते हैं?",
+        "en": "The ratio of actual water vapour present to maximum capacity at a temperature is what?"
+      },
+      "o": [
+        {
+          "hi": "निरपेक्ष आर्द्रता (Absolute Humidity)",
+          "en": "Absolute Humidity"
+        },
+        {
+          "hi": "सापेक्षिक आर्द्रता (Relative Humidity)",
+          "en": "Relative Humidity"
+        },
+        {
+          "hi": "विशिष्ट आर्द्रता (Specific Humidity)",
+          "en": "Specific Humidity"
+        },
+        {
+          "hi": "आर्द्रता सामर्थ्य",
+          "en": "Humidity Capacity"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वह तापमान जिस पर दी गई वायु अपनी जलवाष्प क्षमता से पूर्णतः संतृप्त (Saturated) हो जाती है, क्या कहलाता है?",
+        "en": "The temperature at which a given parcel of air becomes fully saturated is called what?"
+      },
+      "o": [
+        {
+          "hi": "गलनांक (Melting Point)",
+          "en": "Melting Point"
+        },
+        {
+          "hi": "क्वथनांक (Boiling Point)",
+          "en": "Boiling Point"
+        },
+        {
+          "hi": "ओसांक / देवांक (Dew Point)",
+          "en": "Dew Point"
+        },
+        {
+          "hi": "हिमांको बिंदु (Freezing Point)",
+          "en": "Freezing Point"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वर्षा का वह प्रकार जो विषुवत रेखीय (Equatorial) क्षेत्रों में प्रतिदिन दोपहर के बाद होता है?",
+        "en": "Which type of rainfall occurs almost daily in the afternoon in Equatorial regions?"
+      },
+      "o": [
+        {
+          "hi": "पर्वतीय वर्षा (Orographic Rainfall)",
+          "en": "Orographic Rainfall"
+        },
+        {
+          "hi": "चक्रवातीय वर्षा (Cyclonic Rainfall)",
+          "en": "Cyclonic Rainfall"
+        },
+        {
+          "hi": "चक्रवातीय हिमपात",
+          "en": "Cyclonic Snowfall"
+        },
+        {
+          "hi": "संवहनीय वर्षा (Convectional Rainfall)",
+          "en": "Convectional Rainfall"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पर्वतों के पवनमुखी ढाल (Windward slope) से टकराकर होने वाली वर्षा को क्या कहते हैं?",
+        "en": "Rainfall caused when moist air is forced to rise over a mountain range is what?"
+      },
+      "o": [
+        {
+          "hi": "पर्वतीय वर्षा (Orographic Rainfall)",
+          "en": "Orographic Rainfall"
+        },
+        {
+          "hi": "संवहनीय वर्षा (Convectional Rainfall)",
+          "en": "Convectional Rainfall"
+        },
+        {
+          "hi": "चक्रवातीय वर्षा (Cyclonic Rainfall)",
+          "en": "Cyclonic Rainfall"
+        },
+        {
+          "hi": "तापीय वर्षा",
+          "en": "Thermal Rain"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पर्वत के दूसरे ढाल जहाँ वर्षा बहुत कम या नहीं होती, उस क्षेत्र को क्या कहा जाता है?",
+        "en": "The leeward side of a mountain receiving very low or no rainfall is called what?"
+      },
+      "o": [
+        {
+          "hi": "पवनमुखी क्षेत्र (Windward Zone)",
+          "en": "Windward Zone"
+        },
+        {
+          "hi": "वृष्टि छाया क्षेत्र (Rain Shadow Area)",
+          "en": "Rain Shadow Area"
+        },
+        {
+          "hi": "संवहनीय क्षेत्र",
+          "en": "Convectional Zone"
+        },
+        {
+          "hi": "आर्द्र क्षेत्र",
+          "en": "Humid Zone"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कपास जैसे रुई के फाहों की तरह दिखाई देने वाले ऊँचे बादलों को क्या कहा जाता है?",
+        "en": "White, fluffy cotton-like clouds scattered in the sky are called what?"
+      },
+      "o": [
+        {
+          "hi": "पक्षैब मेघ (Cirrus Clouds)",
+          "en": "Cirrus Clouds"
+        },
+        {
+          "hi": "स्तरी मेघ (Stratus Clouds)",
+          "en": "Stratus Clouds"
+        },
+        {
+          "hi": "कपासी मेघ (Cumulus Clouds)",
+          "en": "Cumulus Clouds"
+        },
+        {
+          "hi": "वर्षामेघ (Nimbus Clouds)",
+          "en": "Nimbus Clouds"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आकाश में सबसे अधिक ऊँचाई पर पाए जाने वाले पंखनुमा या रेशमी बादलों को क्या कहते हैं?",
+        "en": "High altitude thin, feathery or fibrous clouds are called what?"
+      },
+      "o": [
+        {
+          "hi": "कपासी मेघ (Cumulus Clouds)",
+          "en": "Cumulus Clouds"
+        },
+        {
+          "hi": "स्तरी मेघ (Stratus Clouds)",
+          "en": "Stratus Clouds"
+        },
+        {
+          "hi": "कपासी-वर्षामेघ",
+          "en": "Cumulonimbus"
+        },
+        {
+          "hi": "पक्षैब मेघ (Cirrus Clouds)",
+          "en": "Cirrus Clouds"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अत्यधिक काले-घने, वर्षा कराने वाले एवं गर्जन वाले तूफानी बादलों को क्या कहा जाता है?",
+        "en": "Dark, dense clouds associated with heavy thunderstorms and rainfall are called what?"
+      },
+      "o": [
+        {
+          "hi": "कपासी-वर्षामेघ (Cumulonimbus Clouds)",
+          "en": "Cumulonimbus Clouds"
+        },
+        {
+          "hi": "पक्षैब-स्तरी (Cirrostratus)",
+          "en": "Cirrostratus"
+        },
+        {
+          "hi": "पक्षैब मेघ (Cirrus)",
+          "en": "Cirrus"
+        },
+        {
+          "hi": "उच्च-स्तरी मेघ (Altostratus)",
+          "en": "Altostratus"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव स्वास्थ्य के लिए हानिकारक माने जाने वाले ओजोन छिद्र (Ozone Hole) की खोज सबसे पहले कहाँ हुई थी?",
+        "en": "The Ozone Hole was first discovered over which region in 1985?"
+      },
+      "o": [
+        {
+          "hi": "आर्कटिक पर (Arctic)",
+          "en": "Arctic"
+        },
+        {
+          "hi": "अंटार्कटिका पर (Antarctica)",
+          "en": "Antarctica"
+        },
+        {
+          "hi": "हिमालय पर (Himalayas)",
+          "en": "Himalayas"
+        },
+        {
+          "hi": "सहारा मरुस्थल पर",
+          "en": "Sahara Desert"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ओजोन परत के क्षरण के लिए मुख्य रूप से उत्तरदाई गैस कौन सी है?",
+        "en": "Which gas is primarily responsible for the depletion of the Ozone layer?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन डाइऑक्साइड (CO₂)",
+          "en": "Carbon Dioxide"
+        },
+        {
+          "hi": "मीथेन (CH₄)",
+          "en": "Methane"
+        },
+        {
+          "hi": "क्लोरोफ्लोरोकार्बन (CFC)",
+          "en": "Chlorofluorocarbon (CFC)"
+        },
+        {
+          "hi": "सल्फर डाइऑक्साइड (SO₂)",
+          "en": "Sulphur Dioxide"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ग्रीनहाउस प्रभाव (Greenhouse Effect) के लिए मुख्य रूप से उत्तरदाई गैस कौन सी है?",
+        "en": "Which gas is primarily responsible for the Greenhouse Effect on Earth?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सीजन (O₂)",
+          "en": "Oxygen"
+        },
+        {
+          "hi": "नाइट्रोजन (N₂)",
+          "en": "Nitrogen"
+        },
+        {
+          "hi": "आर्गन (Ar)",
+          "en": "Argon"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड (CO₂)",
+          "en": "Carbon Dioxide"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मॉन्ट्रियल प्रोटोकॉल (Montreal Protocol - 1987) का संबंध किस संरक्षण से है?",
+        "en": "The Montreal Protocol (1987) is an international treaty designed to protect what?"
+      },
+      "o": [
+        {
+          "hi": "ओजोन परत का संरक्षण (Ozone Layer Protection)",
+          "en": "Ozone Layer Protection"
+        },
+        {
+          "hi": "जैव विविधता संरक्षण",
+          "en": "Biodiversity Conservation"
+        },
+        {
+          "hi": "ग्लोबल वार्मिंग में कमी",
+          "en": "Global Warming Reduction"
+        },
+        {
+          "hi": "आर्द्रभूमि संरक्षण",
+          "en": "Wetland Protection"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्योटो प्रोटोकॉल (Kyoto Protocol - 1997) का मुख्य उद्देश्य क्या था?",
+        "en": "What was the primary objective of the Kyoto Protocol (1997)?"
+      },
+      "o": [
+        {
+          "hi": "ओजोन छिद्र बंद करना",
+          "en": "Close Ozone Hole"
+        },
+        {
+          "hi": "ग्रीनहाउस गैसों के उत्सर्जन को कम करना (Reduce GHG Emissions)",
+          "en": "Reduce GHG emissions"
+        },
+        {
+          "hi": "समुद्री प्रदूषण रोकना",
+          "en": "Prevent Marine Pollution"
+        },
+        {
+          "hi": "वन उन्मूलन रोकना",
+          "en": "Stop Deforestation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व ओजोन दिवस (World Ozone Day) प्रतिवर्ष कब मनाया जाता है?",
+        "en": "World Ozone Day is celebrated annually on which date?"
+      },
+      "o": [
+        {
+          "hi": "5 जून (5 June)",
+          "en": "5 June"
+        },
+        {
+          "hi": "22 अप्रैल (22 April)",
+          "en": "22 April"
+        },
+        {
+          "hi": "16 सितंबर (16 September)",
+          "en": "16 September"
+        },
+        {
+          "hi": "21 मार्च (21 March)",
+          "en": "21 March"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समान वर्षा वाले स्थानों को मिलाने वाली रेखा को क्या कहा जाता है?",
+        "en": "Imaginary lines joining places having equal rainfall are called what?"
+      },
+      "o": [
+        {
+          "hi": "समदाब रेखा (Isobar)",
+          "en": "Isobar"
+        },
+        {
+          "hi": "समताप रेखा (Isotherm)",
+          "en": "Isotherm"
+        },
+        {
+          "hi": "समलवण रेखा (Isohaline)",
+          "en": "Isohaline"
+        },
+        {
+          "hi": "समवर्षा रेखा (Isohyet)",
+          "en": "Isohyet"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समान तापमान वाले स्थानों को मिलाने वाली काल्पनिक रेखा क्या कहलाती है?",
+        "en": "Imaginary lines joining places of equal temperature are called what?"
+      },
+      "o": [
+        {
+          "hi": "समताप रेखा (Isotherm)",
+          "en": "Isotherm"
+        },
+        {
+          "hi": "समदाब रेखा (Isobar)",
+          "en": "Isobar"
+        },
+        {
+          "hi": "समवर्षा रेखा (Isohyet)",
+          "en": "Isohyet"
+        },
+        {
+          "hi": "समगभीरता रेखा (Isobath)",
+          "en": "Isobath"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दिन में भूमि से समुद्र की ओर बहने वाली स्थानीय पवन को क्या कहते हैं?",
+        "en": "Local sea-breeze blowing during the day blows in which direction?"
+      },
+      "o": [
+        {
+          "hi": "स्थल से समुद्र की ओर (Land Breeze)",
+          "en": "Land to Sea"
+        },
+        {
+          "hi": "समुद्र से स्थल की ओर (Sea Breeze)",
+          "en": "Sea to Land"
+        },
+        {
+          "hi": "पर्वत से घाटी की ओर",
+          "en": "Mountain to Valley"
+        },
+        {
+          "hi": "घाटी से पर्वत की ओर",
+          "en": "Valley to Mountain"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रात्रि में स्थल भाग के तेजी से ठंडे होने के कारण बहने वाली पवन कौन सी होती है?",
+        "en": "The wind blowing at night from land to sea is called what?"
+      },
+      "o": [
+        {
+          "hi": "समुद्र समीर (Sea Breeze)",
+          "en": "Sea Breeze"
+        },
+        {
+          "hi": "घाटी समीर (Valley Breeze)",
+          "en": "Valley Breeze"
+        },
+        {
+          "hi": "स्थल समीर (Land Breeze)",
+          "en": "Land Breeze"
+        },
+        {
+          "hi": "चिनूक",
+          "en": "Chinook"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "घाटी में दिन के समय गर्म होकर ऊपर उठने वाली पवनों को क्या कहते हैं?",
+        "en": "Winds blowing up a mountain slope during the day are known as what?"
+      },
+      "o": [
+        {
+          "hi": "पर्वत समीर (Mountain Breeze / Katabatic wind)",
+          "en": "Mountain Breeze"
+        },
+        {
+          "hi": "स्थल समीर",
+          "en": "Land Breeze"
+        },
+        {
+          "hi": "समुद्र समीर",
+          "en": "Sea Breeze"
+        },
+        {
+          "hi": "घाटी समीर (Valley Breeze / Anabatic wind)",
+          "en": "Valley Breeze"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रात के समय पर्वत के ऊपरी ढालों से घाटी की ओर नीचे उतरने वाली ठंडी पवन को क्या कहते हैं?",
+        "en": "Cold dense air blowing down the mountain slope into the valley at night is what?"
+      },
+      "o": [
+        {
+          "hi": "पर्वत समीर (Mountain Breeze / Katabatic wind)",
+          "en": "Katabatic / Mountain Breeze"
+        },
+        {
+          "hi": "घाटी समीर (Anabatic wind)",
+          "en": "Anabatic / Valley Breeze"
+        },
+        {
+          "hi": "समुद्र समीर",
+          "en": "Sea Breeze"
+        },
+        {
+          "hi": "लू",
+          "en": "Loo"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जेट स्ट्रीम (Jet Streams) वायुमंडल के किस भाग में बहने वाली तीव्र हवाएं हैं?",
+        "en": "Jet Streams are high-velocity winds flowing near the upper boundary of which layer?"
+      },
+      "o": [
+        {
+          "hi": "समतापमंडल का मध्य भाग",
+          "en": "Middle Stratosphere"
+        },
+        {
+          "hi": "क्षोभमंडल की ऊपरी सीमा (Upper Troposphere)",
+          "en": "Upper Troposphere"
+        },
+        {
+          "hi": "मध्यमंडल",
+          "en": "Mesosphere"
+        },
+        {
+          "hi": "बाह्यमंडल",
+          "en": "Exosphere"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जेट स्ट्रीम की दिशा मुख्य रूप से किस ओर होती है?",
+        "en": "In which general direction do Jet Streams flow?"
+      },
+      "o": [
+        {
+          "hi": "पूर्व से पश्चिम (East to West)",
+          "en": "East to West"
+        },
+        {
+          "hi": "उत्तर से दक्षिण (North to South)",
+          "en": "North to South"
+        },
+        {
+          "hi": "पश्चिम से पूर्व (West to East)",
+          "en": "West to East"
+        },
+        {
+          "hi": "दक्षिण से उत्तर (South to North)",
+          "en": "South to North"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एल-नीनो (El Nino) की उत्पत्ति मुख्य रूप से किस महासागर में होती है?",
+        "en": "In which ocean does the El Nino ocean phenomenon originate?"
+      },
+      "o": [
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        },
+        {
+          "hi": "प्रशांत महासागर (Pacific Ocean - Peru Coast)",
+          "en": "Pacific Ocean"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एल-नीनो का भारतीय मानसून पर आमतौर पर क्या प्रभाव पड़ता है?",
+        "en": "What is the typical impact of El Nino on the Indian Monsoon?"
+      },
+      "o": [
+        {
+          "hi": "कम वर्षा / सूखा की स्थिति (Weak Monsoon / Drought)",
+          "en": "Weak Monsoon / Drought"
+        },
+        {
+          "hi": "अत्यधिक वर्षा / बाढ़",
+          "en": "Excessive rain / Floods"
+        },
+        {
+          "hi": "कोई प्रभाव नहीं पड़ता",
+          "en": "No effect"
+        },
+        {
+          "hi": "शीतकालीन हिमपात",
+          "en": "Winter snowfall"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ला-नीना (La Nina) का भारतीय मानसून पर क्या प्रभाव होता है?",
+        "en": "What is the general impact of La Nina on the Indian Monsoon?"
+      },
+      "o": [
+        {
+          "hi": "सूखा पड़ना",
+          "en": "Drought condition"
+        },
+        {
+          "hi": "अच्छा मानसून / अच्छी वर्षा (Good Monsoon / Rain)",
+          "en": "Good Monsoon / Rain"
+        },
+        {
+          "hi": "मानसून में विलंब",
+          "en": "Delayed monsoon"
+        },
+        {
+          "hi": "मानसून का न आना",
+          "en": "No monsoon"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तापीय प्रतिलोमन (Temperature Inversion) की स्थिति में क्या होता है?",
+        "en": "What happens during a Temperature Inversion condition in the lower atmosphere?"
+      },
+      "o": [
+        {
+          "hi": "ऊँचाई बढ़ने पर तापमान तेजी से घटता है",
+          "en": "Temperature decreases rapidly with altitude"
+        },
+        {
+          "hi": "तापमान पूरी तरह स्थिर रहता है",
+          "en": "Temperature remains strictly constant"
+        },
+        {
+          "hi": "ऊँचाई बढ़ने पर तापमान घटता नहीं बल्कि बढ़ता है",
+          "en": "Temperature increases with altitude instead of decreasing"
+        },
+        {
+          "hi": "वायुमंडल का दबाव शून्य हो जाता है",
+          "en": "Pressure becomes zero"
+        }
+      ],
+      "a": 2
+    }
+  ]
+}

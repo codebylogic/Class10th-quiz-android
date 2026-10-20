@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "सौरमंडल, पृथ्वी की गति और अक्षांश-देशांतर / Solar System & Earth Movements",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Solar System & Earth Movements.",
+  "questions": [
+    {
+      "q": {
+        "hi": "सौरमंडल का सबसे बड़ा ग्रह कौन सा है?",
+        "en": "Which is the largest planet in the Solar System?"
+      },
+      "o": [
+        {
+          "hi": "बृहस्पति",
+          "en": "Jupiter"
+        },
+        {
+          "hi": "शनि",
+          "en": "Saturn"
+        },
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सूर्य के सबसे निकटतम ग्रह कौन सा है?",
+        "en": "Which planet is closest to the Sun?"
+      },
+      "o": [
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        },
+        {
+          "hi": "बुध",
+          "en": "Mercury"
+        },
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "पृथ्वी",
+          "en": "Earth"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किस ग्रह को 'भोर का तारा' या 'सांझ का तारा' कहा जाता है?",
+        "en": "Which planet is known as the 'Morning Star' or 'Evening Star'?"
+      },
+      "o": [
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "बृहस्पति",
+          "en": "Jupiter"
+        },
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        },
+        {
+          "hi": "शनि",
+          "en": "Saturn"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी की अपने अक्ष पर घूर्णन की दिशा क्या है?",
+        "en": "What is the direction of Earth's rotation on its axis?"
+      },
+      "o": [
+        {
+          "hi": "पूर्व से पश्चिम",
+          "en": "East to West"
+        },
+        {
+          "hi": "उत्तर से दक्षिण",
+          "en": "North to South"
+        },
+        {
+          "hi": "दक्षिण से उत्तर",
+          "en": "South to North"
+        },
+        {
+          "hi": "पश्चिम से पूर्व",
+          "en": "West to East"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किस ग्रह को 'लाल ग्रह' (Red Planet) कहा जाता है?",
+        "en": "Which planet is known as the 'Red Planet'?"
+      },
+      "o": [
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        },
+        {
+          "hi": "बुध",
+          "en": "Mercury"
+        },
+        {
+          "hi": "शनि",
+          "en": "Saturn"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी का निकटतम खगोलीय पिंड कौन सा है?",
+        "en": "Which is the celestial body closest to the Earth?"
+      },
+      "o": [
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        },
+        {
+          "hi": "चंद्रमा",
+          "en": "Moon"
+        },
+        {
+          "hi": "सूर्य",
+          "en": "Sun"
+        },
+        {
+          "hi": "बुध",
+          "en": "Mercury"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सूर्य के चारों ओर पृथ्वी की परिक्रमा अवधि कितनी है?",
+        "en": "What is the period of revolution of Earth around the Sun?"
+      },
+      "o": [
+        {
+          "hi": "360 दिन",
+          "en": "360 days"
+        },
+        {
+          "hi": "300 दिन",
+          "en": "300 days"
+        },
+        {
+          "hi": "365.25 दिन",
+          "en": "365.25 days"
+        },
+        {
+          "hi": "366 दिन",
+          "en": "366 days"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किस ग्रह के पास सौरमंडल में सबसे अधिक उपग्रह हैं?",
+        "en": "Which planet has the maximum number of satellites/moons in the Solar System?"
+      },
+      "o": [
+        {
+          "hi": "बृहस्पति",
+          "en": "Jupiter"
+        },
+        {
+          "hi": "अरुण",
+          "en": "Uranus"
+        },
+        {
+          "hi": "वरुण",
+          "en": "Neptune"
+        },
+        {
+          "hi": "शनि",
+          "en": "Saturn"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "0° अक्षांश रेखा को किस नाम से जाना जाता है?",
+        "en": "By what name is the 0° latitude line known?"
+      },
+      "o": [
+        {
+          "hi": "विषुवत रेखा (भूमध्य रेखा)",
+          "en": "Equator"
+        },
+        {
+          "hi": "कर्क रेखा",
+          "en": "Tropic of Cancer"
+        },
+        {
+          "hi": "मकर रेखा",
+          "en": "Tropic of Capricorn"
+        },
+        {
+          "hi": "प्रधान मध्याह्न रेखा",
+          "en": "Prime Meridian"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "0° देशांतर रेखा (Prime Meridian) कहाँ से होकर गुजरती है?",
+        "en": "Where does the 0° longitude line (Prime Meridian) pass through?"
+      },
+      "o": [
+        {
+          "hi": "पेरिस",
+          "en": "Paris"
+        },
+        {
+          "hi": "ग्रीनविच (लंदन)",
+          "en": "Greenwich (London)"
+        },
+        {
+          "hi": "न्यूयॉर्क",
+          "en": "New York"
+        },
+        {
+          "hi": "टोक्यो",
+          "en": "Tokyo"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अंतर्राष्ट्रीय तिथि रेखा (International Date Line) लगभग किस देशांतर के समांतर है?",
+        "en": "The International Date Line roughly corresponds to which longitude?"
+      },
+      "o": [
+        {
+          "hi": "0° देशांतर",
+          "en": "0° Longitude"
+        },
+        {
+          "hi": "90° पूर्व देशांतर",
+          "en": "90° E Longitude"
+        },
+        {
+          "hi": "180° देशांतर",
+          "en": "180° Longitude"
+        },
+        {
+          "hi": "90° पश्चिम देशांतर",
+          "en": "90° W Longitude"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का मानक समय (IST) किस देशांतर से लिया गया है?",
+        "en": "Indian Standard Time (IST) is based on which longitude?"
+      },
+      "o": [
+        {
+          "hi": "80.5° पूर्व देशांतर",
+          "en": "80.5° E Longitude"
+        },
+        {
+          "hi": "85° पूर्व देशांतर",
+          "en": "85° E Longitude"
+        },
+        {
+          "hi": "75° पूर्व देशांतर",
+          "en": "75° E Longitude"
+        },
+        {
+          "hi": "82.5° पूर्व देशांतर",
+          "en": "82.5° E Longitude"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत का मानक समय ग्रीनविच माध्य समय (GMT) से कितना आगे है?",
+        "en": "How much ahead is Indian Standard Time (IST) from Greenwich Mean Time (GMT)?"
+      },
+      "o": [
+        {
+          "hi": "5 घंटे 30 मिनट",
+          "en": "5 hours 30 minutes"
+        },
+        {
+          "hi": "5 घंटे",
+          "en": "5 hours"
+        },
+        {
+          "hi": "6 घंटे",
+          "en": "6 hours"
+        },
+        {
+          "hi": "4 घंटे 30 मिनट",
+          "en": "4 hours 30 minutes"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कर्क रेखा (Tropic of Cancer) का अक्षांश मान क्या है?",
+        "en": "What is the latitude value of the Tropic of Cancer?"
+      },
+      "o": [
+        {
+          "hi": "23.5° दक्षिण",
+          "en": "23.5° South"
+        },
+        {
+          "hi": "23.5° उत्तर",
+          "en": "23.5° North"
+        },
+        {
+          "hi": "66.5° उत्तर",
+          "en": "66.5° North"
+        },
+        {
+          "hi": "66.5° दक्षिण",
+          "en": "66.5° South"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मकर रेखा (Tropic of Capricorn) का अक्षांश मान क्या है?",
+        "en": "What is the latitude value of the Tropic of Capricorn?"
+      },
+      "o": [
+        {
+          "hi": "23.5° उत्तर",
+          "en": "23.5° North"
+        },
+        {
+          "hi": "66.5° दक्षिण",
+          "en": "66.5° South"
+        },
+        {
+          "hi": "23.5° दक्षिण",
+          "en": "23.5° South"
+        },
+        {
+          "hi": "66.5° उत्तर",
+          "en": "66.5° North"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी पर दिन और रात की अवधि बराबर (Equinox) कब होती है?",
+        "en": "When are day and night equal all over the Earth (Equinox)?"
+      },
+      "o": [
+        {
+          "hi": "21 जून और 22 दिसंबर",
+          "en": "21 June and 22 December"
+        },
+        {
+          "hi": "4 जुलाई और 3 जनवरी",
+          "en": "4 July and 3 January"
+        },
+        {
+          "hi": "15 अगस्त और 26 जनवरी",
+          "en": "15 August and 26 January"
+        },
+        {
+          "hi": "21 मार्च और 23 सितंबर",
+          "en": "21 March and 23 September"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उत्तरी गोलार्ध में सबसे लंबा दिन कब होता है (Summer Solstice)?",
+        "en": "When is the longest day in the Northern Hemisphere (Summer Solstice)?"
+      },
+      "o": [
+        {
+          "hi": "21 जून",
+          "en": "21 June"
+        },
+        {
+          "hi": "22 दिसंबर",
+          "en": "22 December"
+        },
+        {
+          "hi": "21 मार्च",
+          "en": "21 March"
+        },
+        {
+          "hi": "23 सितंबर",
+          "en": "23 September"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उत्तरी गोलार्ध में सबसे छोटा दिन (शीतकालीन अयनांत) कब होता है?",
+        "en": "When is the shortest day in the Northern Hemisphere (Winter Solstice)?"
+      },
+      "o": [
+        {
+          "hi": "21 जून",
+          "en": "21 June"
+        },
+        {
+          "hi": "22 दिसंबर",
+          "en": "22 December"
+        },
+        {
+          "hi": "23 सितंबर",
+          "en": "23 September"
+        },
+        {
+          "hi": "21 मार्च",
+          "en": "21 March"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी की सूर्य से न्यूनतम दूरी (उपसौर / Perihelion) कब होती है?",
+        "en": "When is the Earth closest to the Sun (Perihelion)?"
+      },
+      "o": [
+        {
+          "hi": "4 जुलाई",
+          "en": "4 July"
+        },
+        {
+          "hi": "21 मार्च",
+          "en": "21 March"
+        },
+        {
+          "hi": "3 जनवरी",
+          "en": "3 January"
+        },
+        {
+          "hi": "23 सितंबर",
+          "en": "23 September"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी की सूर्य से अधिकतम दूरी (अपसौर / Aphelion) कब होती है?",
+        "en": "When is the Earth farthest from the Sun (Aphelion)?"
+      },
+      "o": [
+        {
+          "hi": "3 जनवरी",
+          "en": "3 January"
+        },
+        {
+          "hi": "21 जून",
+          "en": "21 June"
+        },
+        {
+          "hi": "22 दिसंबर",
+          "en": "22 December"
+        },
+        {
+          "hi": "4 जुलाई",
+          "en": "4 July"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दो अक्षांश रेखाओं के बीच की दूरी लगभग कितनी होती है?",
+        "en": "What is the approximate distance between two consecutive latitudes?"
+      },
+      "o": [
+        {
+          "hi": "111 किमी",
+          "en": "111 km"
+        },
+        {
+          "hi": "120 किमी",
+          "en": "120 km"
+        },
+        {
+          "hi": "100 किमी",
+          "en": "100 km"
+        },
+        {
+          "hi": "150 किमी",
+          "en": "150 km"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दो देशांतर रेखाओं के बीच की अधिकतम दूरी कहाँ होती है?",
+        "en": "Where is the maximum distance between two meridians of longitude?"
+      },
+      "o": [
+        {
+          "hi": "ध्रुवों पर",
+          "en": "At the Poles"
+        },
+        {
+          "hi": "विषुवत रेखा पर",
+          "en": "At the Equator"
+        },
+        {
+          "hi": "कर्क रेखा पर",
+          "en": "At Tropic of Cancer"
+        },
+        {
+          "hi": "मकर रेखा पर",
+          "en": "At Tropic of Capricorn"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1 डिग्री देशांतर को पार करने में सूर्य को कितना समय लगता है?",
+        "en": "How much time does the Sun take to cross 1 degree of longitude?"
+      },
+      "o": [
+        {
+          "hi": "1 घंटा",
+          "en": "1 hour"
+        },
+        {
+          "hi": "15 मिनट",
+          "en": "15 minutes"
+        },
+        {
+          "hi": "4 मिनट",
+          "en": "4 minutes"
+        },
+        {
+          "hi": "10 मिनट",
+          "en": "10 minutes"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सौरमंडल का सबसे चमकीला और सबसे गर्म ग्रह कौन सा है?",
+        "en": "Which is the brightest and hottest planet in the Solar System?"
+      },
+      "o": [
+        {
+          "hi": "बुध",
+          "en": "Mercury"
+        },
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "बृहस्पति",
+          "en": "Jupiter"
+        },
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किस ग्रह के चारों ओर स्पष्ट वलय (Rings) पाए जाते हैं?",
+        "en": "Which planet has prominent rings around it?"
+      },
+      "o": [
+        {
+          "hi": "शनि",
+          "en": "Saturn"
+        },
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        },
+        {
+          "hi": "बुध",
+          "en": "Mercury"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किस ग्रह को 'नीला ग्रह' (Blue Planet) कहा जाता है?",
+        "en": "Which planet is called the 'Blue Planet'?"
+      },
+      "o": [
+        {
+          "hi": "वरुण",
+          "en": "Neptune"
+        },
+        {
+          "hi": "पृथ्वी",
+          "en": "Earth"
+        },
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        },
+        {
+          "hi": "बृहस्पति",
+          "en": "Jupiter"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सूर्य में ऊर्जा का मुख्य स्रोत क्या है?",
+        "en": "What is the main source of energy in the Sun?"
+      },
+      "o": [
+        {
+          "hi": "नाभिकीय विखंडन (Nuclear Fission)",
+          "en": "Nuclear Fission"
+        },
+        {
+          "hi": "रासायनिक दहन",
+          "en": "Chemical Combustion"
+        },
+        {
+          "hi": "नाभिकीय संलयन (Nuclear Fusion)",
+          "en": "Nuclear Fusion"
+        },
+        {
+          "hi": "गुरुत्वीय संकुचन",
+          "en": "Gravitational Contraction"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सूर्य के प्रकाश को पृथ्वी तक पहुँचने में कितना समय लगता है?",
+        "en": "How long does light from the Sun take to reach Earth?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 5 मिनट",
+          "en": "About 5 minutes"
+        },
+        {
+          "hi": "लगभग 10 मिनट",
+          "en": "About 10 minutes"
+        },
+        {
+          "hi": "लगभग 12 मिनट",
+          "en": "About 12 minutes"
+        },
+        {
+          "hi": "लगभग 8 मिनट 20 सेकंड",
+          "en": "About 8 minutes 20 seconds"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चंद्रमा के प्रकाश को पृथ्वी तक पहुँचने में कितना समय लगता है?",
+        "en": "How long does reflected light from the Moon take to reach Earth?"
+      },
+      "o": [
+        {
+          "hi": "1.3 सेकंड",
+          "en": "1.3 seconds"
+        },
+        {
+          "hi": "8 मिनट",
+          "en": "8 minutes"
+        },
+        {
+          "hi": "3.2 सेकंड",
+          "en": "3.2 seconds"
+        },
+        {
+          "hi": "50 सेकंड",
+          "en": "50 seconds"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सौरमंडल का सबसे ऊँचा पर्वत 'ओलंपस मॉन्स' किस ग्रह पर स्थित है?",
+        "en": "The highest mountain in the Solar System, 'Olympus Mons', is on which planet?"
+      },
+      "o": [
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        },
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "बृहस्पति",
+          "en": "Jupiter"
+        },
+        {
+          "hi": "शनि",
+          "en": "Saturn"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बृहस्पति का सबसे बड़ा उपग्रह कौन सा है जो सौरमंडल का भी सबसे बड़ा उपग्रह है?",
+        "en": "Which is the largest satellite of Jupiter and also the largest in the Solar System?"
+      },
+      "o": [
+        {
+          "hi": "टाइटन (Titan)",
+          "en": "Titan"
+        },
+        {
+          "hi": "कैलिस्टो (Callisto)",
+          "en": "Callisto"
+        },
+        {
+          "hi": "गैनिमीड (Ganymede)",
+          "en": "Ganymede"
+        },
+        {
+          "hi": "यूरोपा (Europa)",
+          "en": "Europa"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शनि का सबसे बड़ा उपग्रह कौन सा है?",
+        "en": "Which is the largest satellite of Saturn?"
+      },
+      "o": [
+        {
+          "hi": "गैनिमीड (Ganymede)",
+          "en": "Ganymede"
+        },
+        {
+          "hi": "फोबोस (Phobos)",
+          "en": "Phobos"
+        },
+        {
+          "hi": "ट्राइटन (Triton)",
+          "en": "Triton"
+        },
+        {
+          "hi": "टाइटन (Titan)",
+          "en": "Titan"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मंगल ग्रह के दो प्राकृतिक उपग्रहों के नाम क्या हैं?",
+        "en": "What are the names of the two natural satellites of Mars?"
+      },
+      "o": [
+        {
+          "hi": "फोबोस और डीमोस",
+          "en": "Phobos and Deimos"
+        },
+        {
+          "hi": "टाइटन और गैनिमीड",
+          "en": "Titan and Ganymede"
+        },
+        {
+          "hi": "इरास और सेरेस",
+          "en": "Eris and Ceres"
+        },
+        {
+          "hi": "लो और यूरोप",
+          "en": "Io and Europa"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किस ग्रह को पूर्व से पश्चिम (दक्षिणावर्त) घूर्णन करने के लिए जाना जाता है?",
+        "en": "Which planet is known to rotate from East to West (clockwise)?"
+      },
+      "o": [
+        {
+          "hi": "मंगल और बुध",
+          "en": "Mars & Mercury"
+        },
+        {
+          "hi": "शुक्र और अरुण (Venus & Uranus)",
+          "en": "Venus & Uranus"
+        },
+        {
+          "hi": "बृहस्पति और शनि",
+          "en": "Jupiter & Saturn"
+        },
+        {
+          "hi": "पृथ्वी और वरुण",
+          "en": "Earth & Neptune"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सौरमंडल का सबसे कम घनत्व वाला ग्रह कौन सा है जो पानी पर भी तैर सकता है?",
+        "en": "Which planet has the lowest density in the Solar System and could float on water?"
+      },
+      "o": [
+        {
+          "hi": "अरुण",
+          "en": "Uranus"
+        },
+        {
+          "hi": "वरुण",
+          "en": "Neptune"
+        },
+        {
+          "hi": "शनि",
+          "en": "Saturn"
+        },
+        {
+          "hi": "बृहस्पति",
+          "en": "Jupiter"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्लूटो को किस वर्ष ग्रह की श्रेणी से हटाकर बौने ग्रह (Dwarf Planet) में डाला गया?",
+        "en": "In which year was Pluto reclassified from a planet to a dwarf planet?"
+      },
+      "o": [
+        {
+          "hi": "2001",
+          "en": "2001"
+        },
+        {
+          "hi": "2010",
+          "en": "2010"
+        },
+        {
+          "hi": "1998",
+          "en": "1998"
+        },
+        {
+          "hi": "2006",
+          "en": "2006"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सूर्य ग्रहण (Solar Eclipse) कब होता है?",
+        "en": "When does a Solar Eclipse occur?"
+      },
+      "o": [
+        {
+          "hi": "जब चंद्रमा, सूर्य और पृथ्वी के बीच आ जाता है",
+          "en": "When the Moon comes between the Sun and the Earth"
+        },
+        {
+          "hi": "जब पृथ्वी, सूर्य और चंद्रमा के बीच आ जाती है",
+          "en": "When the Earth comes between the Sun and the Moon"
+        },
+        {
+          "hi": "जब सूर्य, पृथ्वी और चंद्रमा के बीच आ जाता है",
+          "en": "When the Sun comes between the Earth and the Moon"
+        },
+        {
+          "hi": "अमावस्या के दिन सूर्य का गायब हो जाना",
+          "en": "Disappearance of the Sun on Full Moon day"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चंद्र ग्रहण (Lunar Eclipse) कब होता है?",
+        "en": "When does a Lunar Eclipse occur?"
+      },
+      "o": [
+        {
+          "hi": "जब चंद्रमा, सूर्य और पृथ्वी के बीच आ जाता है",
+          "en": "When the Moon comes between the Sun and the Earth"
+        },
+        {
+          "hi": "जब पृथ्वी, सूर्य और चंद्रमा के बीच आ जाती है",
+          "en": "When the Earth comes between the Sun and the Moon"
+        },
+        {
+          "hi": "जब सूर्य, पृथ्वी और चंद्रमा के बीच आ जाता है",
+          "en": "When the Sun comes between the Earth and the Moon"
+        },
+        {
+          "hi": "केवल सूर्य ग्रहण के तुरंत बाद",
+          "en": "Immediately after a Solar Eclipse"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सूर्य ग्रहण हमेशा किस दिन होता है?",
+        "en": "A Solar Eclipse always occurs on which day?"
+      },
+      "o": [
+        {
+          "hi": "पूर्णिमा (Full Moon Day)",
+          "en": "Full Moon Day"
+        },
+        {
+          "hi": "एकादशी",
+          "en": "Ekadashi"
+        },
+        {
+          "hi": "अमावस्या (New Moon Day)",
+          "en": "New Moon Day"
+        },
+        {
+          "hi": "प्रथम चतुर्थांश",
+          "en": "First Quarter"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चंद्र ग्रहण हमेशा किस तिथि को होता है?",
+        "en": "A Lunar Eclipse always occurs on which day?"
+      },
+      "o": [
+        {
+          "hi": "अमावस्या (New Moon Day)",
+          "en": "New Moon Day"
+        },
+        {
+          "hi": "सप्तमी",
+          "en": "Saptami"
+        },
+        {
+          "hi": "अष्टमी",
+          "en": "Ashtami"
+        },
+        {
+          "hi": "पूर्णिमा (Full Moon Day)",
+          "en": "Full Moon Day"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी अपने अक्ष (Axis) पर कितने डिग्री झुकी हुई है?",
+        "en": "By how many degrees is the Earth tilted on its rotational axis?"
+      },
+      "o": [
+        {
+          "hi": "23.5°",
+          "en": "23.5°"
+        },
+        {
+          "hi": "66.5°",
+          "en": "66.5°"
+        },
+        {
+          "hi": "90°",
+          "en": "90°"
+        },
+        {
+          "hi": "45°",
+          "en": "45°"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी की कक्षा तल (Orbital Plane) के साथ पृथ्वी का अक्ष कितना कोण बनाता है?",
+        "en": "What angle does Earth's axis make with its orbital plane?"
+      },
+      "o": [
+        {
+          "hi": "23.5°",
+          "en": "23.5°"
+        },
+        {
+          "hi": "66.5°",
+          "en": "66.5°"
+        },
+        {
+          "hi": "90°",
+          "en": "90°"
+        },
+        {
+          "hi": "0°",
+          "en": "0°"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्षुद्रग्रह पट्टी (Asteroid Belt) किन दो ग्रहों की कक्षाओं के बीच स्थित है?",
+        "en": "Between the orbits of which two planets is the Asteroid Belt located?"
+      },
+      "o": [
+        {
+          "hi": "बुध और शुक्र",
+          "en": "Mercury and Venus"
+        },
+        {
+          "hi": "बृहस्पति और शनि",
+          "en": "Jupiter and Saturn"
+        },
+        {
+          "hi": "मंगल और बृहस्पति",
+          "en": "Mars and Jupiter"
+        },
+        {
+          "hi": "शनि और अरुण",
+          "en": "Saturn and Uranus"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किस ग्रह को 'हरा ग्रह' (Green Planet) भी कहा जाता है?",
+        "en": "Which planet is also referred to as the 'Green Planet' due to methane gas?"
+      },
+      "o": [
+        {
+          "hi": "शुक्र (Venus)",
+          "en": "Venus"
+        },
+        {
+          "hi": "मंगल (Mars)",
+          "en": "Mars"
+        },
+        {
+          "hi": "शनि (Saturn)",
+          "en": "Saturn"
+        },
+        {
+          "hi": "अरुण (Uranus)",
+          "en": "Uranus"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हेली का धूमकेतु (Halley's Comet) कितने वर्षों बाद पुनः दिखाई देता है?",
+        "en": "After how many years does Halley's Comet reappear?"
+      },
+      "o": [
+        {
+          "hi": "76 वर्ष",
+          "en": "76 years"
+        },
+        {
+          "hi": "86 वर्ष",
+          "en": "86 years"
+        },
+        {
+          "hi": "50 वर्ष",
+          "en": "50 years"
+        },
+        {
+          "hi": "100 वर्ष",
+          "en": "100 years"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हेली का धूमकेतु अंतिम बार किस वर्ष दिखाई दिया था?",
+        "en": "In which year was Halley's Comet last seen?"
+      },
+      "o": [
+        {
+          "hi": "1996",
+          "en": "1996"
+        },
+        {
+          "hi": "1986",
+          "en": "1986"
+        },
+        {
+          "hi": "2006",
+          "en": "2006"
+        },
+        {
+          "hi": "1976",
+          "en": "1976"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी पर ऋतु परिवर्तन (Change of Seasons) का मुख्य कारण क्या है?",
+        "en": "What is the primary reason for the change of seasons on Earth?"
+      },
+      "o": [
+        {
+          "hi": "पृथ्वी का घूर्णन (Rotation)",
+          "en": "Earth's rotation on its axis"
+        },
+        {
+          "hi": "चंद्रमा का गुरुत्वाकर्षण",
+          "en": "Gravitational force of Moon"
+        },
+        {
+          "hi": "पृथ्वी का सूर्य के चारों ओर परिक्रमण और अक्ष का झुकाव",
+          "en": "Earth's revolution around Sun and tilt of its axis"
+        },
+        {
+          "hi": "सूर्य की दूरियों में परिवर्तन",
+          "en": "Change in Sun's brightness"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी पर दिन और रात बनने का क्या कारण है?",
+        "en": "What causes day and night on Earth?"
+      },
+      "o": [
+        {
+          "hi": "पृथ्वी का सूर्य के चारों ओर परिक्रमण (Revolution)",
+          "en": "Earth's revolution around the Sun"
+        },
+        {
+          "hi": "पृथ्वी का अक्षीय झुकाव",
+          "en": "Earth's axial tilt"
+        },
+        {
+          "hi": "चंद्रमा का परिक्रमण",
+          "en": "Moon's revolution"
+        },
+        {
+          "hi": "पृथ्वी का अपने अक्ष पर घूर्णन (Rotation)",
+          "en": "Earth's rotation on its axis"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आर्कटिक वृत्त (Arctic Circle) का मान कितना है?",
+        "en": "What is the latitude value of the Arctic Circle?"
+      },
+      "o": [
+        {
+          "hi": "66.5° उत्तर",
+          "en": "66.5° North"
+        },
+        {
+          "hi": "66.5° दक्षिण",
+          "en": "66.5° South"
+        },
+        {
+          "hi": "23.5° उत्तर",
+          "en": "23.5° North"
+        },
+        {
+          "hi": "90° उत्तर",
+          "en": "90° North"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अंटार्कटिक वृत्त (Antarctic Circle) का मान कितना है?",
+        "en": "What is the latitude value of the Antarctic Circle?"
+      },
+      "o": [
+        {
+          "hi": "66.5° उत्तर",
+          "en": "66.5° North"
+        },
+        {
+          "hi": "66.5° दक्षिण",
+          "en": "66.5° South"
+        },
+        {
+          "hi": "23.5° दक्षिण",
+          "en": "23.5° South"
+        },
+        {
+          "hi": "90° दक्षिण",
+          "en": "90° South"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कुल अक्षांश रेखाओं (Latitudes) की संख्या कितनी है?",
+        "en": "What is the total number of latitude lines (including poles as points)?"
+      },
+      "o": [
+        {
+          "hi": "360",
+          "en": "360"
+        },
+        {
+          "hi": "180",
+          "en": "180"
+        },
+        {
+          "hi": "181",
+          "en": "181"
+        },
+        {
+          "hi": "90",
+          "en": "90"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कुल देशांतर रेखाओं (Longitudes) की संख्या कितनी है?",
+        "en": "What is the total number of longitude lines?"
+      },
+      "o": [
+        {
+          "hi": "180",
+          "en": "180"
+        },
+        {
+          "hi": "181",
+          "en": "181"
+        },
+        {
+          "hi": "90",
+          "en": "90"
+        },
+        {
+          "hi": "360",
+          "en": "360"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विषुवत रेखा पर देशांतरों के बीच की दूरी कितनी होती है?",
+        "en": "What is the distance between longitudes at the Equator?"
+      },
+      "o": [
+        {
+          "hi": "111.32 किमी",
+          "en": "111.32 km"
+        },
+        {
+          "hi": "100 किमी",
+          "en": "100 km"
+        },
+        {
+          "hi": "120.5 किमी",
+          "en": "120.5 km"
+        },
+        {
+          "hi": "150 किमी",
+          "en": "150 km"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यदि अंतर्राष्ट्रीय तिथि रेखा से पूर्व की ओर यात्रा करते हैं तो समय पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to the time/day when crossing the International Date Line towards the East?"
+      },
+      "o": [
+        {
+          "hi": "एक दिन बढ़ जाता है (lose a day)",
+          "en": "One day is lost"
+        },
+        {
+          "hi": "एक दिन घट जाता है (gain a day)",
+          "en": "One day is gained"
+        },
+        {
+          "hi": "कोई बदलाव नहीं",
+          "en": "No change"
+        },
+        {
+          "hi": "12 घंटे आगे",
+          "en": "12 hours ahead"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में सबसे पहले सूर्योदय किस राज्य में होता है?",
+        "en": "In which Indian state does the sunrise occur first?"
+      },
+      "o": [
+        {
+          "hi": "गुजरात",
+          "en": "Gujarat"
+        },
+        {
+          "hi": "असम",
+          "en": "Assam"
+        },
+        {
+          "hi": "अरुणाचल प्रदेश",
+          "en": "Arunachal Pradesh"
+        },
+        {
+          "hi": "तमिलनाडु",
+          "en": "Tamil Nadu"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अरुणाचल प्रदेश और गुजरात के स्थानीय समय में लगभग कितना अंतर है?",
+        "en": "What is the approximate local time difference between Arunachal Pradesh and Gujarat?"
+      },
+      "o": [
+        {
+          "hi": "1 घंटा",
+          "en": "1 hour"
+        },
+        {
+          "hi": "3 घंटे",
+          "en": "3 hours"
+        },
+        {
+          "hi": "30 मिनट",
+          "en": "30 minutes"
+        },
+        {
+          "hi": "2 घंटे",
+          "en": "2 hours"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सौरमंडल का सबसे छोटा ग्रह कौन सा है?",
+        "en": "Which is the smallest planet in the Solar System?"
+      },
+      "o": [
+        {
+          "hi": "बुध",
+          "en": "Mercury"
+        },
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        },
+        {
+          "hi": "वरुण",
+          "en": "Neptune"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किस ग्रह को 'पृथ्वी की जुड़वां बहन' (Earth's Twin) कहा जाता है?",
+        "en": "Which planet is called 'Earth's Twin' due to similar size and mass?"
+      },
+      "o": [
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        },
+        {
+          "hi": "बृहस्पति",
+          "en": "Jupiter"
+        },
+        {
+          "hi": "बुध",
+          "en": "Mercury"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सूर्य की सतह का तापमान (Surface Temperature) लगभग कितना है?",
+        "en": "What is the approximate surface temperature of the Sun?"
+      },
+      "o": [
+        {
+          "hi": "1000°C",
+          "en": "1000°C"
+        },
+        {
+          "hi": "15000°C",
+          "en": "15000°C"
+        },
+        {
+          "hi": "6000°C",
+          "en": "6000°C"
+        },
+        {
+          "hi": "500°C",
+          "en": "500°C"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सूर्य के वायुमंडल का बाह्यतम भाग जो केवल पूर्ण सूर्यग्रहण के समय दिखाई देता है, क्या कहलाता है?",
+        "en": "What is the outermost layer of the Sun's atmosphere visible during a total solar eclipse?"
+      },
+      "o": [
+        {
+          "hi": "प्रकाशमंडल (Photosphere)",
+          "en": "Photosphere"
+        },
+        {
+          "hi": "वर्णमंडल (Chromosphere)",
+          "en": "Chromosphere"
+        },
+        {
+          "hi": "कोर (Core)",
+          "en": "Core"
+        },
+        {
+          "hi": "कोरोना (Corona / Kirit)",
+          "en": "Corona"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सूर्य का वह भाग जो हमें सामान्य रूप से दिखाई देता है, क्या कहलाता है?",
+        "en": "Which part of the Sun is visible to us normally?"
+      },
+      "o": [
+        {
+          "hi": "प्रकाशमंडल (Photosphere)",
+          "en": "Photosphere"
+        },
+        {
+          "hi": "वर्णमंडल (Chromosphere)",
+          "en": "Chromosphere"
+        },
+        {
+          "hi": "कोरोना (Corona)",
+          "en": "Corona"
+        },
+        {
+          "hi": "कोर (Core)",
+          "en": "Core"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी का एकमात्र प्राकृतिक उपग्रह कौन सा है?",
+        "en": "Which is the only natural satellite of Earth?"
+      },
+      "o": [
+        {
+          "hi": "टाइटन",
+          "en": "Titan"
+        },
+        {
+          "hi": "चंद्रमा",
+          "en": "Moon"
+        },
+        {
+          "hi": "फोबोस",
+          "en": "Phobos"
+        },
+        {
+          "hi": "आर्यभट्ट",
+          "en": "Aryabhata"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सी ऑफ ट्रैंक्विलिटी (Sea of Tranquility) कहाँ स्थित है?",
+        "en": "Where is the 'Sea of Tranquility' located?"
+      },
+      "o": [
+        {
+          "hi": "मंगल ग्रह पर",
+          "en": "On Mars"
+        },
+        {
+          "hi": "शुक्र ग्रह पर",
+          "en": "On Venus"
+        },
+        {
+          "hi": "चंद्रमा पर",
+          "en": "On the Moon"
+        },
+        {
+          "hi": "पृथ्वी के महासागर में",
+          "en": "In Earth's ocean"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चंद्रमा के अध्ययन वाले विज्ञान को क्या कहा जाता है?",
+        "en": "What is the study of the Moon called?"
+      },
+      "o": [
+        {
+          "hi": "कॉस्मोलॉजी (Cosmology)",
+          "en": "Cosmology"
+        },
+        {
+          "hi": "एस्ट्रोनॉमी (Astronomy)",
+          "en": "Astronomy"
+        },
+        {
+          "hi": "जियोलॉजी (Geology)",
+          "en": "Geology"
+        },
+        {
+          "hi": "सेलेनोलॉजी (Selenology)",
+          "en": "Selenology"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सुपरनोवा (Supernova) क्या है?",
+        "en": "What is a Supernova?"
+      },
+      "o": [
+        {
+          "hi": "एक मृतप्राय या विस्फोटी तारा",
+          "en": "An exploding / dying star"
+        },
+        {
+          "hi": "एक नया ग्रह",
+          "en": "A new planet"
+        },
+        {
+          "hi": "एक क्षुद्रग्रह",
+          "en": "An asteroid"
+        },
+        {
+          "hi": "ब्लैक होल",
+          "en": "A black hole"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हमारी आकाशगंगा (Galaxy) का नाम क्या है?",
+        "en": "What is the name of our Galaxy?"
+      },
+      "o": [
+        {
+          "hi": "एंड्रोमेडा",
+          "en": "Andromeda"
+        },
+        {
+          "hi": "मिल्की वे (दुग्धमेखला)",
+          "en": "Milky Way"
+        },
+        {
+          "hi": "समब्रिरो",
+          "en": "Sombrero"
+        },
+        {
+          "hi": "त्रियांगुलम",
+          "en": "Triangulum"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हमारी आकाशगंगा के सबसे निकटतम गैलेक्सी कौन सी है?",
+        "en": "Which is the closest galaxy to our Milky Way?"
+      },
+      "o": [
+        {
+          "hi": "लार्ज मैगेलैनिक क्लाउड",
+          "en": "Large Magellanic Cloud"
+        },
+        {
+          "hi": "स्मॉल मैगेलैनिक क्लाउड",
+          "en": "Small Magellanic Cloud"
+        },
+        {
+          "hi": "एंड्रोमेडा (देवयानी)",
+          "en": "Andromeda"
+        },
+        {
+          "hi": "ड्रैको",
+          "en": "Draco"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तारों का रंग किस बात का सूचक होता है?",
+        "en": "What does the color of a star indicate?"
+      },
+      "o": [
+        {
+          "hi": "उसकी दूरी का",
+          "en": "Its distance"
+        },
+        {
+          "hi": "उसके आकार का",
+          "en": "Its size"
+        },
+        {
+          "hi": "उसके भार का",
+          "en": "Its mass"
+        },
+        {
+          "hi": "उसके तापमान का",
+          "en": "Its temperature"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रकाश वर्ष (Light Year) किसकी इकाई है?",
+        "en": "Light Year is a unit of measurement of what?"
+      },
+      "o": [
+        {
+          "hi": "खगोलीय दूरी की",
+          "en": "Astronomical distance"
+        },
+        {
+          "hi": "समय की",
+          "en": "Time"
+        },
+        {
+          "hi": "प्रकाश की तीव्रता की",
+          "en": "Light intensity"
+        },
+        {
+          "hi": "द्रव्यमान की",
+          "en": "Mass"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एक पारसेक (Parsec) में कितने प्रकाश वर्ष होते हैं?",
+        "en": "How many light years are there in one Parsec?"
+      },
+      "o": [
+        {
+          "hi": "9.46 प्रकाश वर्ष",
+          "en": "9.46 light years"
+        },
+        {
+          "hi": "3.26 प्रकाश वर्ष",
+          "en": "3.26 light years"
+        },
+        {
+          "hi": "1.5 प्रकाश वर्ष",
+          "en": "1.5 light years"
+        },
+        {
+          "hi": "5.0 प्रकाश वर्ष",
+          "en": "5.0 light years"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी की आकृति को मुख्य रूप से किस रूप में वर्णित किया जाता है?",
+        "en": "How is the shape of the Earth primarily described?"
+      },
+      "o": [
+        {
+          "hi": "पूर्ण गोलाकार",
+          "en": "Perfect Sphere"
+        },
+        {
+          "hi": "अंडाकार",
+          "en": "Oval"
+        },
+        {
+          "hi": "भू-आभ (Geoid)",
+          "en": "Geoid"
+        },
+        {
+          "hi": "चपटा बेलनाकार",
+          "en": "Flat Cylinder"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विषुवतीय व्यास (Equatorial Diameter) और ध्रुवीय व्यास (Polar Diameter) में कितना अंतर है?",
+        "en": "What is the difference between Earth's Equatorial Diameter and Polar Diameter?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 100 किमी",
+          "en": "About 100 km"
+        },
+        {
+          "hi": "लगभग 12 किमी",
+          "en": "About 12 km"
+        },
+        {
+          "hi": "लगभग 250 किमी",
+          "en": "About 250 km"
+        },
+        {
+          "hi": "लगभग 43 किमी",
+          "en": "About 43 km"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी की त्रिज्या (Radius) लगभग कितनी है?",
+        "en": "What is the approximate radius of the Earth?"
+      },
+      "o": [
+        {
+          "hi": "6,371 किमी",
+          "en": "6,371 km"
+        },
+        {
+          "hi": "5,000 किमी",
+          "en": "5,000 km"
+        },
+        {
+          "hi": "7,500 किमी",
+          "en": "7,500 km"
+        },
+        {
+          "hi": "10,000 किमी",
+          "en": "10,000 km"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जब चंद्रमा पृथ्वी और सूर्य के बीच आ जाता है और सूर्य का मध्य भाग ढक जाता है, तो उसे क्या कहते हैं?",
+        "en": "When the Moon covers the center of the Sun leaving a ring of light, what is it called?"
+      },
+      "o": [
+        {
+          "hi": "पूर्ण सूर्यग्रहण",
+          "en": "Total Solar Eclipse"
+        },
+        {
+          "hi": "वलयाकार सूर्यग्रहण (Annular Solar Eclipse)",
+          "en": "Annular Solar Eclipse"
+        },
+        {
+          "hi": "आंशिक सूर्यग्रहण",
+          "en": "Partial Solar Eclipse"
+        },
+        {
+          "hi": "चंद्रग्रहण",
+          "en": "Lunar Eclipse"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किस अक्षांश को शांति कटिबंध या 'डोलड्रम्स' (Doldrums) कहा जाता है?",
+        "en": "Which latitude zone is known as the Belt of Calms or 'Doldrums'?"
+      },
+      "o": [
+        {
+          "hi": "23.5° उत्तर से 23.5° दक्षिण",
+          "en": "23.5° N to 23.5° S"
+        },
+        {
+          "hi": "66.5° उत्तर से 66.5° दक्षिण",
+          "en": "66.5° N to 66.5° S"
+        },
+        {
+          "hi": "5° उत्तर से 5° दक्षिण अक्षांश",
+          "en": "5° N to 5° S Latitudes"
+        },
+        {
+          "hi": "30° से 35° उत्तर और दक्षिण",
+          "en": "30° to 35° N and S"
+        }
+      ],
+      "a": 2
+    }
+  ]
+}

@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "मुद्रास्फीति और मंदी / Inflation & Recession",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Inflation & Recession.",
+  "questions": [
+    {
+      "q": {
+        "hi": "अर्थव्यवस्था में समय के साथ वस्तुओं और सेवाओं की सामान्य कीमत स्तर में निरंतर वृद्धि को क्या कहते हैं?",
+        "en": "Continuous increase in the general price level of goods and services in an economy over time is called-"
+      },
+      "o": [
+        {
+          "hi": "मुद्रास्फीति (Inflation)",
+          "en": "Inflation"
+        },
+        {
+          "hi": "मुद्रास्फीतिजन्य मंदी (Stagflation)",
+          "en": "Stagflation"
+        },
+        {
+          "hi": "अवस्फीति (Deflation)",
+          "en": "Deflation"
+        },
+        {
+          "hi": "विस्फीति (Disinflation)",
+          "en": "Disinflation"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मुद्रास्फीति की स्थिति में मुद्रा की क्रय शक्ति (Purchasing Power of Money) पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to the Purchasing Power of Money during inflation?"
+      },
+      "o": [
+        {
+          "hi": "क्रय शक्ति बढ़ती है",
+          "en": "Purchasing power increases"
+        },
+        {
+          "hi": "क्रय शक्ति घटती है (Decreases)",
+          "en": "Purchasing power decreases"
+        },
+        {
+          "hi": "कोई प्रभाव नहीं पड़ता",
+          "en": "No effect"
+        },
+        {
+          "hi": "क्रय शक्ति शून्य हो जाती है",
+          "en": "Purchasing power becomes zero"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ऐसी स्थिति जिसमें मुद्रास्फीति की दर बहुत धीमी और एक अंक में (जैसे 1% से 3% प्रति वर्ष) होती है, क्या कहलाती है?",
+        "en": "A situation where the inflation rate is very slow and in single digits (e.g. 1% to 3% per year) is called-"
+      },
+      "o": [
+        {
+          "hi": "भागती मुद्रास्फीति (Galloping Inflation)",
+          "en": "Galloping Inflation"
+        },
+        {
+          "hi": "अतिमुद्रास्फीति (Hyperinflation)",
+          "en": "Hyperinflation"
+        },
+        {
+          "hi": "रेंगती मुद्रास्फीति (Creeping Inflation)",
+          "en": "Creeping Inflation"
+        },
+        {
+          "hi": "कोर मुद्रास्फीति (Core Inflation)",
+          "en": "Core Inflation"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अतिमुद्रास्फीति (Hyperinflation) की क्या विशेषता है?",
+        "en": "What is the key characteristic of Hyperinflation?"
+      },
+      "o": [
+        {
+          "hi": "कीमतों में गिरावट",
+          "en": "Decline in prices"
+        },
+        {
+          "hi": "शून्य बेरोजगारी",
+          "en": "Zero unemployment"
+        },
+        {
+          "hi": "स्थिर मुद्रा दर",
+          "en": "Fixed currency rate"
+        },
+        {
+          "hi": "कीमतों में अत्यधिक तेज़ और अनियंत्रित वृद्धि (सैकड़ों या हज़ारों प्रतिशत प्रति वर्ष)",
+          "en": "Extremely rapid and out of control price rise (hundreds or thousands of percent annually)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हेडलाइन मुद्रास्फीति (Headline Inflation) और कोर मुद्रास्फीति (Core Inflation) में मुख्य अंतर क्या है?",
+        "en": "What is the main difference between Headline Inflation and Core Inflation?"
+      },
+      "o": [
+        {
+          "hi": "कोर मुद्रास्फीति में खाद्य और ईंधन (अस्थिर कीमतों वाली वस्तुएं) शामिल नहीं होतीं",
+          "en": "Core Inflation excludes food and fuel (volatile items)"
+        },
+        {
+          "hi": "हेडलाइन मुद्रास्फीति केवल थोक दरों पर मापी जाती है",
+          "en": "Headline Inflation is measured at wholesale rates only"
+        },
+        {
+          "hi": "कोर मुद्रास्फीति में सभी वस्तुएं शामिल होती हैं",
+          "en": "Core Inflation includes all goods"
+        },
+        {
+          "hi": "हेडलाइन मुद्रास्फीति केवल सेवाओं को शामिल करती है",
+          "en": "Headline Inflation includes services only"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोर मुद्रास्फीति (Core Inflation) का सही सूत्र क्या है?",
+        "en": "What is the correct formula for Core Inflation?"
+      },
+      "o": [
+        {
+          "hi": "हेडलाइन मुद्रास्फीति + औद्योगिक उत्पाद",
+          "en": "Headline Inflation + Industrial products"
+        },
+        {
+          "hi": "हेडलाइन मुद्रास्फीति - (खाद्य पदार्थ + ईंधन और ऊर्जा की कीमतें)",
+          "en": "Headline Inflation - (Food items + Fuel & Energy prices)"
+        },
+        {
+          "hi": "WPI - CPI",
+          "en": "WPI - CPI"
+        },
+        {
+          "hi": "CPI / WPI",
+          "en": "CPI / WPI"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अवस्फीति (Deflation) का क्या अर्थ है?",
+        "en": "What is Deflation?"
+      },
+      "o": [
+        {
+          "hi": "मुद्रास्फीति की दर में कमी लेकिन दर का धनात्मक रहना",
+          "en": "Decrease in rate of inflation while remaining positive"
+        },
+        {
+          "hi": "केवल खाद्य वस्तुओं की कीमत में वृद्धि",
+          "en": "Rise in price of food items only"
+        },
+        {
+          "hi": "सामान्य कीमत स्तर में निरंतर गिरावट (ऋणात्मक मुद्रास्फीति दर)",
+          "en": "Continuous decline in general price level (Negative Inflation rate)"
+        },
+        {
+          "hi": "ब्याज दरों में वृद्धि",
+          "en": "Increase in interest rates"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विस्फीति (Disinflation) और अवस्फीति (Deflation) में क्या अंतर है?",
+        "en": "What is the difference between Disinflation and Deflation?"
+      },
+      "o": [
+        {
+          "hi": "दोनों एक ही शब्द हैं",
+          "en": "Both are identical terms"
+        },
+        {
+          "hi": "अवस्फीति में दर धनात्मक होती है",
+          "en": "In Deflation the rate is positive"
+        },
+        {
+          "hi": "विस्फीति में कीमतें ऋणात्मक हो जाती हैं",
+          "en": "In Disinflation prices become negative"
+        },
+        {
+          "hi": "विस्फीति में मुद्रास्फीति की दर घटती है परंतु कीमतें बढ़ती रहती हैं, जबकि अवस्फीति में कीमतें गिरती हैं",
+          "en": "In Disinflation, the inflation rate decreases but prices still rise, whereas in Deflation, prices decline"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मुद्रास्फीतिजन्य मंदी (Stagflation) अर्थव्यवस्था की किस स्थिति को दर्शाती है?",
+        "en": "What situation in the economy does Stagflation represent?"
+      },
+      "o": [
+        {
+          "hi": "उच्च मुद्रास्फीति + उच्च बेरोजगारी + धीमी आर्थिक वृद्धि (GDP मंदी)",
+          "en": "High Inflation + High Unemployment + Stagnant Economic Growth"
+        },
+        {
+          "hi": "कम मुद्रास्फीति + उच्च वृद्धि",
+          "en": "Low Inflation + High Growth"
+        },
+        {
+          "hi": "उच्च वृद्धि + शून्य बेरोजगारी",
+          "en": "High Growth + Zero Unemployment"
+        },
+        {
+          "hi": "शून्य मुद्रास्फीति + स्थिर वृद्धि",
+          "en": "Zero Inflation + Stable Growth"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पुनःस्फीति (Reflation) की स्थिति कब उत्पन्न की जाती है?",
+        "en": "When is Reflation introduced?"
+      },
+      "o": [
+        {
+          "hi": "मुद्रास्फीति को रोकने के लिए कर बढ़ाना",
+          "en": "Increasing taxes to curb inflation"
+        },
+        {
+          "hi": "मंदी या अवस्फीति से निपटने के लिए जानबूझकर मौद्रिक या राजकोषीय नीति द्वारा मुद्रा आपूर्ति बढ़ाना",
+          "en": "Deliberately expanding money supply via monetary/fiscal policy to combat recession/deflation"
+        },
+        {
+          "hi": "बैंक दरें बहुत बढ़ाना",
+          "en": "Raising bank rates sharply"
+        },
+        {
+          "hi": "सरकारी खर्च पूरी तरह बंद करना",
+          "en": "Completely stopping government expenditure"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मांग-प्रेरित मुद्रास्फीति (Demand-Pull Inflation) का मुख्य कारण क्या है?",
+        "en": "What is the primary cause of Demand-Pull Inflation?"
+      },
+      "o": [
+        {
+          "hi": "कच्चे माल की लागत में वृद्धि",
+          "en": "Increase in raw material costs"
+        },
+        {
+          "hi": "मजदूरी में भारी गिरावट",
+          "en": "Sharp decline in wages"
+        },
+        {
+          "hi": "वस्तुओं की कुल मांग (Aggregate Demand) का उनकी कुल आपूर्ति (Aggregate Supply) से अधिक होना",
+          "en": "Aggregate Demand for goods exceeding Aggregate Supply"
+        },
+        {
+          "hi": "आयात करों में कमी",
+          "en": "Reduction in import duties"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लागत-पुश मुद्रास्फीति (Cost-Push Inflation) का मुख्य कारण क्या होता है?",
+        "en": "What causes Cost-Push Inflation?"
+      },
+      "o": [
+        {
+          "hi": "जनसंख्या में अचानक वृद्धि",
+          "en": "Sudden population rise"
+        },
+        {
+          "hi": "उपभोक्ता आय में अत्यधिक वृद्धि",
+          "en": "Excessive rise in consumer income"
+        },
+        {
+          "hi": "सरकारी सब्सिडी में भारी वृद्धि",
+          "en": "Heavy increase in government subsidies"
+        },
+        {
+          "hi": "उत्पादन लागत (जैसे कच्चा माल, ईंधन, मजदूरी) में वृद्धि",
+          "en": "Increase in production costs (raw materials, fuel, wages)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बोतलबंद/संरचनात्मक मुद्रास्फीति (Structural Inflation) का प्रमुख कारण क्या है?",
+        "en": "What is a major cause of Structural Inflation?"
+      },
+      "o": [
+        {
+          "hi": "सप्लाई चेन बाधाएं, भंडारण की कमी और बुनियादी ढांचे की अक्षमताएं",
+          "en": "Supply chain bottlenecks, storage shortages, and infrastructure inefficiencies"
+        },
+        {
+          "hi": "आरबीआई द्वारा अचानक नोट छापना",
+          "en": "Sudden currency printing by RBI"
+        },
+        {
+          "hi": "विदेशी पर्यटकों का आगमन",
+          "en": "Arrival of foreign tourists"
+        },
+        {
+          "hi": "उच्च साक्षरता दर",
+          "en": "High literacy rate"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जब मुद्रास्फीति आयातित वस्तुओं (जैसे कच्चे तेल) की उच्च कीमतों के कारण होती है, तो इसे क्या कहते हैं?",
+        "en": "When inflation occurs due to high prices of imported items (e.g. crude oil), it is called-"
+      },
+      "o": [
+        {
+          "hi": "घरेलू मुद्रास्फीति",
+          "en": "Domestic Inflation"
+        },
+        {
+          "hi": "आयातित मुद्रास्फीति (Imported Inflation)",
+          "en": "Imported Inflation"
+        },
+        {
+          "hi": "प्रच्छन्न मुद्रास्फीति",
+          "en": "Disguised Inflation"
+        },
+        {
+          "hi": "चालू खाता स्फीति",
+          "en": "Current Account Inflation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'स्कैगफ्लेशन' (Skewflation) का अर्थ क्या होता है?",
+        "en": "What does 'Skewflation' mean?"
+      },
+      "o": [
+        {
+          "hi": "सभी वस्तुओं की कीमत गिरना",
+          "en": "Price fall across all items"
+        },
+        {
+          "hi": "अदृश्य मुद्रास्फीति",
+          "en": "Invisible inflation"
+        },
+        {
+          "hi": "केवल एक या कुछ विशिष्ट वस्तुओं (जैसे केवल भोजन) की कीमतों में अत्यधिक वृद्धि",
+          "en": "Price rise skewed towards only one or a few specific commodities (e.g. food only)"
+        },
+        {
+          "hi": "अंतर्राष्ट्रीय मुद्रास्फीति",
+          "en": "International inflation"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में थोक मूल्य सूचकांक (Wholesale Price Index - WPI) कौन सा कार्यालय जारी करता है?",
+        "en": "Which office releases the Wholesale Price Index (WPI) in India?"
+      },
+      "o": [
+        {
+          "hi": "राष्ट्रीय सांख्यिकी कार्यालय (NSO)",
+          "en": "National Statistical Office (NSO)"
+        },
+        {
+          "hi": "भारतीय रिजर्व बैंक",
+          "en": "Reserve Bank of India"
+        },
+        {
+          "hi": "श्रम ब्यूरो",
+          "en": "Labour Bureau"
+        },
+        {
+          "hi": "आर्थिक सलाहकार का कार्यालय (DPIIT, वाणिज्य एवं उद्योग मंत्रालय)",
+          "en": "Office of Economic Adviser (DPIIT, Ministry of Commerce and Industry)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में थोक मूल्य सूचकांक (WPI) का वर्तमान आधार वर्ष (Base Year) क्या है?",
+        "en": "What is the current Base Year for WPI in India?"
+      },
+      "o": [
+        {
+          "hi": "2011-12",
+          "en": "2011-12"
+        },
+        {
+          "hi": "2004-05",
+          "en": "2004-05"
+        },
+        {
+          "hi": "2012",
+          "en": "2012"
+        },
+        {
+          "hi": "2016",
+          "en": "2016"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "WPI टोकरी में किस समूह का भार (Weightage) सबसे अधिक है?",
+        "en": "Which major group has the highest Weightage in the WPI basket?"
+      },
+      "o": [
+        {
+          "hi": "प्राथमिक वस्तुएँ (Primary Articles)",
+          "en": "Primary Articles"
+        },
+        {
+          "hi": "विनिर्मित उत्पाद (Manufactured Products - ~64.2%)",
+          "en": "Manufactured Products (~64.2%)"
+        },
+        {
+          "hi": "ईंधन एवं बिजली (Fuel & Power)",
+          "en": "Fuel & Power"
+        },
+        {
+          "hi": "खाद्य वस्तुएँ (Food Articles)",
+          "en": "Food Articles"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "WPI सूचकांक की मुख्य सीमा या कमी क्या है?",
+        "en": "What is the main limitation of WPI?"
+      },
+      "o": [
+        {
+          "hi": "यह केवल ग्रामीण क्षेत्रों के लिए है",
+          "en": "It is for rural areas only"
+        },
+        {
+          "hi": "यह केवल सालाना जारी होता है",
+          "en": "It is published annually only"
+        },
+        {
+          "hi": "इसमें सेवाओं (Services) को शामिल नहीं किया जाता",
+          "en": "It does NOT include Services"
+        },
+        {
+          "hi": "इसमें कृषि उत्पादों को बाहर रखा गया है",
+          "en": "It excludes agricultural products"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में उपभोक्ता मूल्य सूचकांक (CPI - Combined) कौन सी संस्था जारी करती है?",
+        "en": "Which organization releases the Consumer Price Index (CPI - Combined) in India?"
+      },
+      "o": [
+        {
+          "hi": "श्रम ब्यूरो",
+          "en": "Labour Bureau"
+        },
+        {
+          "hi": "वित्त मंत्रालय",
+          "en": "Ministry of Finance"
+        },
+        {
+          "hi": "नीति आयोग",
+          "en": "NITI Aayog"
+        },
+        {
+          "hi": "राष्ट्रीय सांख्यिकी कार्यालय (NSO, MoSPI)",
+          "en": "National Statistical Office (NSO, MoSPI)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उपभोक्ता मूल्य सूचकांक - संयुक्त (CPI-Combined) का आधार वर्ष क्या है?",
+        "en": "What is the Base Year for CPI-Combined in India?"
+      },
+      "o": [
+        {
+          "hi": "2012",
+          "en": "2012"
+        },
+        {
+          "hi": "2011-12",
+          "en": "2011-12"
+        },
+        {
+          "hi": "2001",
+          "en": "2001"
+        },
+        {
+          "hi": "2016",
+          "en": "2016"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "औद्योगिक श्रमिकों के लिए उपभोक्ता मूल्य सूचकांक (CPI-IW) कौन जारी करता है?",
+        "en": "Who compiles and releases CPI for Industrial Workers (CPI-IW)?"
+      },
+      "o": [
+        {
+          "hi": "NSO",
+          "en": "NSO"
+        },
+        {
+          "hi": "श्रम ब्यूरो (Labour Bureau, श्रम एवं रोजगार मंत्रालय)",
+          "en": "Labour Bureau (Ministry of Labour & Employment)"
+        },
+        {
+          "hi": "RBI",
+          "en": "RBI"
+        },
+        {
+          "hi": "CSO",
+          "en": "CSO"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "CPI-IW (Industrial Workers) का वर्तमान आधार वर्ष (Base Year) क्या है?",
+        "en": "What is the current Base Year for CPI-IW?"
+      },
+      "o": [
+        {
+          "hi": "2001",
+          "en": "2001"
+        },
+        {
+          "hi": "1982",
+          "en": "1982"
+        },
+        {
+          "hi": "2016",
+          "en": "2016"
+        },
+        {
+          "hi": "2012",
+          "en": "2012"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "केंद्रीय कर्मचारियों के महंगाई भत्ते (Dearness Allowance - DA) की गणना किस सूचकांक के आधार पर की जाती है?",
+        "en": "Dearness Allowance (DA) for central government employees is calculated based on which index?"
+      },
+      "o": [
+        {
+          "hi": "WPI",
+          "en": "WPI"
+        },
+        {
+          "hi": "CPI-AL (कृषि मजदूर)",
+          "en": "CPI-AL (Agricultural Labourers)"
+        },
+        {
+          "hi": "GDP Deflator",
+          "en": "GDP Deflator"
+        },
+        {
+          "hi": "CPI-IW (औद्योगिक श्रमिकों हेतु)",
+          "en": "CPI-IW (Industrial Workers)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय रिजर्व बैंक (RBI) मुद्रास्फीति लक्षणीकरण (Inflation Targeting) के लिए किस सूचकांक को प्राथमिक मापदंड मानता है?",
+        "en": "Which price index is used as the primary metric by RBI for Inflation Targeting?"
+      },
+      "o": [
+        {
+          "hi": "उपभोक्ता मूल्य सूचकांक - संयुक्त (CPI - Combined)",
+          "en": "Consumer Price Index - Combined (CPI-C)"
+        },
+        {
+          "hi": "थोक मूल्य सूचकांक (WPI)",
+          "en": "Wholesale Price Index (WPI)"
+        },
+        {
+          "hi": "उत्पादक मूल्य सूचकांक (PPI)",
+          "en": "Producer Price Index (PPI)"
+        },
+        {
+          "hi": "GDP डिफ्लेटर",
+          "en": "GDP Deflator"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "CPI टोकरी में सबसे अधिक भार (Weightage ~45.86%) किस समूह का है?",
+        "en": "Which component has the highest weightage (~45.86%) in the CPI basket?"
+      },
+      "o": [
+        {
+          "hi": "आवास (Housing)",
+          "en": "Housing"
+        },
+        {
+          "hi": "खाद्य एवं पेय पदार्थ (Food and Beverages)",
+          "en": "Food and Beverages"
+        },
+        {
+          "hi": "ईंधन और प्रकाश",
+          "en": "Fuel and Light"
+        },
+        {
+          "hi": "परिवहन और संचार",
+          "en": "Transport and Communication"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "RBI और केंद्र सरकार द्वारा तय किए गए लचीले मुद्रास्फीति लक्ष्य (Inflation Target) की सीमा क्या है?",
+        "en": "What is the flexible Inflation Target range set by RBI and Government of India?"
+      },
+      "o": [
+        {
+          "hi": "3% (±1%)",
+          "en": "3% (±1%)"
+        },
+        {
+          "hi": "5% (±3%)",
+          "en": "5% (±3%)"
+        },
+        {
+          "hi": "4% (±2%) अर्थात 2% से 6%",
+          "en": "4% (±2%) i.e. 2% to 6%"
+        },
+        {
+          "hi": "6% से 8%",
+          "en": "6% to 8%"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उत्पादक मूल्य सूचकांक (Producer Price Index - PPI) का मुख्य उद्देश्य क्या मापना है?",
+        "en": "What does the Producer Price Index (PPI) measure?"
+      },
+      "o": [
+        {
+          "hi": "खुदरा विक्रेताओं का लाभ",
+          "en": "Retailers' profit margin"
+        },
+        {
+          "hi": "केवल आयातित माल की लागत",
+          "en": "Cost of imported goods only"
+        },
+        {
+          "hi": "बैंक जमा दरें",
+          "en": "Bank deposit rates"
+        },
+        {
+          "hi": "उत्पादकों द्वारा अपने उत्पादों की बिक्री के बिंदु पर प्राप्त कीमतों में परिवर्तन",
+          "en": "Change in prices received by domestic producers at point of sale"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "CPI-AL (कृषि श्रमिकों के लिए) और CPI-RL (ग्रामीण श्रमिकों के लिए) कौन जारी करता है?",
+        "en": "Who releases CPI-AL (Agricultural Labourers) and CPI-RL (Rural Labourers)?"
+      },
+      "o": [
+        {
+          "hi": "श्रम ब्यूरो, शिमला/चंडीगढ़",
+          "en": "Labour Bureau, Shimla/Chandigarh"
+        },
+        {
+          "hi": "कृषि मंत्रालय",
+          "en": "Ministry of Agriculture"
+        },
+        {
+          "hi": "NABARD",
+          "en": "NABARD"
+        },
+        {
+          "hi": "NSO",
+          "en": "NSO"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आधार प्रभाव (Base Effect) का मुद्रास्फीति की दर पर क्या प्रभाव पड़ता है?",
+        "en": "How does the Base Effect influence the calculated Inflation Rate?"
+      },
+      "o": [
+        {
+          "hi": "मुद्रा का अवमूल्यन",
+          "en": "Currency devaluation"
+        },
+        {
+          "hi": "पिछले वर्ष के सूचकांक स्तर का वर्तमान वर्ष की मुद्रास्फीति दर के आंकड़े पर प्रभाव",
+          "en": "Impact of the previous year's index level on the current year's inflation rate calculation"
+        },
+        {
+          "hi": "ब्याज दरों का आधार",
+          "en": "Base for interest rates"
+        },
+        {
+          "hi": "कर दरों में बदलाव",
+          "en": "Change in tax rates"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मुद्रास्फीति की स्थिति में निम्नलिखित में से किसे लाभ होता है?",
+        "en": "Who gains during an inflationary situation?"
+      },
+      "o": [
+        {
+          "hi": "ऋणदाता / साहूकार (Creditors)",
+          "en": "Creditors / Lenders"
+        },
+        {
+          "hi": "निश्चित आय वर्ग (जैसे पेंशनभोगी)",
+          "en": "Fixed income group (Pensioners)"
+        },
+        {
+          "hi": "ऋणी / कर्जदार (Debtors)",
+          "en": "Debtors / Borrowers"
+        },
+        {
+          "hi": "बचत खाता धारक",
+          "en": "Savings account holders"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मुद्रास्फीति की स्थिति में किसे हानि होती है?",
+        "en": "Who suffers a loss during inflation?"
+      },
+      "o": [
+        {
+          "hi": "उद्यमी और व्यापारी",
+          "en": "Entrepreneurs and Traders"
+        },
+        {
+          "hi": "जमीन/संपत्ति के मालिक",
+          "en": "Real estate owners"
+        },
+        {
+          "hi": "इक्विटी शेयर धारक",
+          "en": "Equity share holders"
+        },
+        {
+          "hi": "ऋणदाता (Creditors) और निश्चित वेतनभोगी",
+          "en": "Creditors and Fixed Salary earners"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "फिलिप्स वक्र (Phillips Curve) किन दो आर्थिक चरों के बीच अल्पकालिक व्युत्क्रम (विपरीत) संबंध दर्शाता है?",
+        "en": "The Phillips Curve illustrates a short-run inverse relationship between which two economic variables?"
+      },
+      "o": [
+        {
+          "hi": "मुद्रास्फीति की दर और बेरोजगारी की दर",
+          "en": "Inflation Rate and Unemployment Rate"
+        },
+        {
+          "hi": "आयात और निर्यात",
+          "en": "Imports and Exports"
+        },
+        {
+          "hi": "कर दरें और राजस्व",
+          "en": "Tax rates and Revenue"
+        },
+        {
+          "hi": "आर्थिक वृद्धि और जनसंख्या",
+          "en": "Economic growth and Population"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फिलिप्स वक्र के अनुसार यदि बेरोजगारी दर घटती है, तो मुद्रास्फीति पर क्या प्रभाव पड़ेगा?",
+        "en": "According to the Phillips Curve, if the unemployment rate decreases, what happens to inflation?"
+      },
+      "o": [
+        {
+          "hi": "मुद्रास्फीति घटेगी",
+          "en": "Inflation will decrease"
+        },
+        {
+          "hi": "मुद्रास्फीति की दर बढ़ेगी",
+          "en": "Inflation rate will increase"
+        },
+        {
+          "hi": "मुद्रास्फीति शून्य हो जाएगी",
+          "en": "Inflation will become zero"
+        },
+        {
+          "hi": "कोई प्रभाव नहीं पड़ेगा",
+          "en": "No impact"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मुद्रास्फीति को नियंत्रित करने के लिए केंद्रीय बैंक (RBI) कौन-सा मौद्रिक उपाय करता है?",
+        "en": "Which monetary measure does the central bank (RBI) take to curb inflation?"
+      },
+      "o": [
+        {
+          "hi": "रेपो दर में कटौती",
+          "en": "Cutting Repo Rate"
+        },
+        {
+          "hi": "सरकारी प्रतिभूतियाँ खरीदना",
+          "en": "Buying government securities"
+        },
+        {
+          "hi": "रेपो दर, CRR और SLR में वृद्धि (महंगी मौद्रिक नीति)",
+          "en": "Increasing Repo Rate, CRR, and SLR (Dear Money Policy)"
+        },
+        {
+          "hi": "अधिक मुद्रा छापना",
+          "en": "Printing more currency"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मुद्रास्फीति को नियंत्रित करने के लिए सरकार कौन-सा राजकोषीय उपाय (Fiscal Measure) अपनाती है?",
+        "en": "Which Fiscal Measure does the government adopt to control inflation?"
+      },
+      "o": [
+        {
+          "hi": "सरकारी खर्च में भारी वृद्धि",
+          "en": "Heavy increase in government expenditure"
+        },
+        {
+          "hi": "कर दरों में भारी कटौती",
+          "en": "Heavy cut in tax rates"
+        },
+        {
+          "hi": "सब्सिडी बढ़ाना",
+          "en": "Increasing subsidies"
+        },
+        {
+          "hi": "सार्वजनिक व्यय में कमी और करों में वृद्धि",
+          "en": "Reducing public expenditure and increasing taxes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मुद्रास्फीतिक अंतराल (Inflationary Gap) क्या दर्शाता है?",
+        "en": "What does an Inflationary Gap represent?"
+      },
+      "o": [
+        {
+          "hi": "पूर्ण रोजगार स्तर पर कुल मांग का कुल पूर्ति से अधिक होना",
+          "en": "Excess of aggregate demand over aggregate supply at full employment"
+        },
+        {
+          "hi": "कुल पूर्ति का मांग से अधिक होना",
+          "en": "Excess of supply over demand"
+        },
+        {
+          "hi": "शून्य मांग की स्थिति",
+          "en": "Zero demand situation"
+        },
+        {
+          "hi": "व्यापार संतुलन घाटा",
+          "en": "Trade balance deficit"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अवस्फीतिक अंतराल (Deflationary Gap) क्या दर्शाता है?",
+        "en": "What does a Deflationary Gap indicate?"
+      },
+      "o": [
+        {
+          "hi": "उच्च मुद्रास्फीति",
+          "en": "High inflation"
+        },
+        {
+          "hi": "पूर्ण रोजगार स्तर पर कुल मांग का कुल पूर्ति से कम होना",
+          "en": "Shortfall of aggregate demand relative to full employment aggregate supply"
+        },
+        {
+          "hi": "सरकारी घाटा",
+          "en": "Government deficit"
+        },
+        {
+          "hi": "अत्यधिक विदेशी निवेश",
+          "en": "Excessive foreign investment"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'रचनात्मक विनाश' (Creative Destruction) की अवधारणा मंदी/चक्र से संबंधित किसने दी थी?",
+        "en": "Who introduced the concept of 'Creative Destruction' related to business cycles?"
+      },
+      "o": [
+        {
+          "hi": "जॉन मेनार्ड कीन्स",
+          "en": "John Maynard Keynes"
+        },
+        {
+          "hi": "एडम स्मिथ",
+          "en": "Adam Smith"
+        },
+        {
+          "hi": "जोसेफ शम्पेटर (Joseph Schumpeter)",
+          "en": "Joseph Schumpeter"
+        },
+        {
+          "hi": "मिलटन फ्रीडमैन",
+          "en": "Milton Friedman"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मुद्रास्फीति का बॉन्ड कीमतों (Bond Prices) पर क्या प्रभाव पड़ता है?",
+        "en": "What is the impact of inflation on Bond Prices?"
+      },
+      "o": [
+        {
+          "hi": "बॉन्ड की कीमतें बढ़ती हैं",
+          "en": "Bond prices rise"
+        },
+        {
+          "hi": "कोई प्रभाव नहीं पड़ता",
+          "en": "No effect"
+        },
+        {
+          "hi": "बॉन्ड रद्द हो जाते हैं",
+          "en": "Bonds get cancelled"
+        },
+        {
+          "hi": "बॉन्ड की कीमतें गिरती हैं (Bond Prices fall)",
+          "en": "Bond prices fall"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मुद्रास्फीति का देश के निर्यात पर क्या प्रतिकूल प्रभाव पड़ता है?",
+        "en": "How does inflation adversely affect a country's exports?"
+      },
+      "o": [
+        {
+          "hi": "घरेलू वस्तुएं महंगी होने से निर्यात अंतर्राष्ट्रीय बाजार में कम प्रतिस्पर्धी हो जाता है",
+          "en": "Domestic goods become expensive, making exports less competitive internationally"
+        },
+        {
+          "hi": "निर्यात बहुत सस्ता हो जाता है",
+          "en": "Exports become very cheap"
+        },
+        {
+          "hi": "निर्यात पर प्रतिबंध लग जाता है",
+          "en": "Exports get banned"
+        },
+        {
+          "hi": "निर्यात में 100% वृद्धि होती है",
+          "en": "Exports increase by 100%"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मुद्रास्फीति की स्थिति में देश की मुद्रा की विनिमय दर (Exchange Rate) पर क्या प्रभाव पड़ता है?",
+        "en": "How does inflation impact a country's currency Exchange Rate?"
+      },
+      "o": [
+        {
+          "hi": "घरेलू मुद्रा मजबूत होती है",
+          "en": "Domestic currency appreciates"
+        },
+        {
+          "hi": "घरेलू मुद्रा का मूल्य घटता है (Depreciation)",
+          "en": "Domestic currency depreciates"
+        },
+        {
+          "hi": "विनिमय दर स्थिर रहती है",
+          "en": "Exchange rate remains fixed"
+        },
+        {
+          "hi": "विदेशी मुद्रा का मूल्य गिरता है",
+          "en": "Foreign currency depreciates"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मुद्रास्फीति सूचकांकित बॉन्ड (Inflation-Indexed Bonds - IIBs) का मुख्य लाभ क्या है?",
+        "en": "What is the key advantage of Inflation-Indexed Bonds (IIBs)?"
+      },
+      "o": [
+        {
+          "hi": "कर से 100% छूट",
+          "en": "100% tax exemption"
+        },
+        {
+          "hi": "शून्य जोखिम और 50% ब्याज",
+          "en": "Zero risk and 50% interest"
+        },
+        {
+          "hi": "मूलधन और ब्याज भुगतान को मुद्रास्फीति से सुरक्षा प्रदान करना",
+          "en": "Protecting principal and interest payments against inflation"
+        },
+        {
+          "hi": "केवल बैंकों द्वारा खरीद योग्य होना",
+          "en": "Purchasable by banks only"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "श shrinkflation (श्रिंकफ्लेशन) का क्या तात्पर्य है?",
+        "en": "What does 'Shrinkflation' mean?"
+      },
+      "o": [
+        {
+          "hi": "कीमतों में भारी गिरावट",
+          "en": "Sharp decline in prices"
+        },
+        {
+          "hi": "पैकेट की मात्रा बढ़ाना",
+          "en": "Increasing packet quantity"
+        },
+        {
+          "hi": "केवल प्लास्टिक पैकेजिंग पर कर",
+          "en": "Tax on plastic packaging only"
+        },
+        {
+          "hi": "वस्तु की कीमत वही रखते हुए उसके पैकेट का आकार या मात्रा घटा देना",
+          "en": "Reducing the size or quantity of a product package while keeping price same"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ग्रीडफ्लेशन (Greedflation) का क्या अर्थ है?",
+        "en": "What is Greedflation?"
+      },
+      "o": [
+        {
+          "hi": "कॉर्पोरेट कंपनियों द्वारा अपने लाभ मार्जिन को अत्यधिक बढ़ाने के लिए कीमतें बढ़ाना",
+          "en": "Corporate firms hiking prices excessively to boost profit margins"
+        },
+        {
+          "hi": "लालच के कारण बचत करना",
+          "en": "Saving money due to greed"
+        },
+        {
+          "hi": "सरकारी कर्मचारियों के वेतन में वृद्धि",
+          "en": "Increase in government employees' salaries"
+        },
+        {
+          "hi": "विदेशी बैंकों में जमा काला धन",
+          "en": "Black money in foreign banks"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आर्थिक मंदी (Recession) को तकनीकी रूप से किस प्रकार परिभाषित किया जाता है?",
+        "en": "How is a Recession technically defined in economics?"
+      },
+      "o": [
+        {
+          "hi": "केवल 1 महीने के लिए गिरावट",
+          "en": "Decline for 1 month only"
+        },
+        {
+          "hi": "लगातार दो तिमाहियों (6 माह) तक वास्तविक GDP में ऋणात्मक वृद्धि",
+          "en": "Negative real GDP growth for two consecutive quarters (6 months)"
+        },
+        {
+          "hi": "लगातार 5 वर्षों तक गिरावट",
+          "en": "Decline for 5 consecutive years"
+        },
+        {
+          "hi": "मुद्रास्फीति का 10% से अधिक होना",
+          "en": "Inflation crossing 10%"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "व्यापार चक्र (Business Cycle) के मुख्य चार चरण कौन-कौन से हैं?",
+        "en": "What are the four main phases of a Business Cycle?"
+      },
+      "o": [
+        {
+          "hi": "आय, व्यय, बचत और निवेश",
+          "en": "Income, Expenditure, Savings, and Investment"
+        },
+        {
+          "hi": "कृषि, उद्योग, सेवा और निर्यात",
+          "en": "Agriculture, Industry, Services, and Exports"
+        },
+        {
+          "hi": "विस्तार (Expansion), शिखर (Peak), संकुचन/मंदी (Contraction) और गर्त (Trough)",
+          "en": "Expansion, Peak, Contraction/Recession, and Trough"
+        },
+        {
+          "hi": "कर, ऋण, सब्सिडी और बजट",
+          "en": "Taxes, Loans, Subsidies, and Budget"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महासंकट या महान मंदी (Great Depression) किस वर्ष शुरू हुई थी?",
+        "en": "In which year did the Great Depression begin?"
+      },
+      "o": [
+        {
+          "hi": "1914",
+          "en": "1914"
+        },
+        {
+          "hi": "1945",
+          "en": "1945"
+        },
+        {
+          "hi": "2008",
+          "en": "2008"
+        },
+        {
+          "hi": "1929 (अमेरिका के वॉल स्ट्रीट क्रैश से)",
+          "en": "1929 (Wall Street Crash)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "2008 का वैश्विक वित्तीय संकट (Global Financial Crisis) मुख्य रूप से किससे उत्पन्न हुआ था?",
+        "en": "The 2008 Global Financial Crisis originated primarily from what?"
+      },
+      "o": [
+        {
+          "hi": "अमेरिका का सब-प्राइम संकट (Subprime Mortgage Crisis)",
+          "en": "Subprime Mortgage Crisis in the USA"
+        },
+        {
+          "hi": "कच्चे तेल की कमी",
+          "en": "Shortage of crude oil"
+        },
+        {
+          "hi": "एशियाई मुद्रा संकट",
+          "en": "Asian currency crisis"
+        },
+        {
+          "hi": "विश्व युद्ध",
+          "en": "World War"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मंदी (Recession) के दौरान अर्थव्यवस्था में क्या लक्षण दिखाई देते हैं?",
+        "en": "What symptoms are observed in an economy during a recession?"
+      },
+      "o": [
+        {
+          "hi": "अत्यधिक निवेश और रोजगार",
+          "en": "Excessive investment and employment"
+        },
+        {
+          "hi": "मांग में गिरावट, उत्पादन में कमी, बेरोजगारी में वृद्धि और व्यावसायिक घाटा",
+          "en": "Fall in demand, reduced production, rising unemployment, and business losses"
+        },
+        {
+          "hi": "उच्च मुद्रास्फीति और शेयर बाजार में उछाल",
+          "en": "High inflation and stock market surge"
+        },
+        {
+          "hi": "बजट अधिशेष",
+          "en": "Budget surplus"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मंदी से उबरने के लिए किस प्रकार की नीतियां (Counter-Cyclical Policies) अपनाई जाती हैं?",
+        "en": "What type of Counter-Cyclical Policies are adopted to recover from a recession?"
+      },
+      "o": [
+        {
+          "hi": "ब्याज दरें बढ़ाना और सरकारी खर्च घटाना",
+          "en": "Raising interest rates and reducing public spending"
+        },
+        {
+          "hi": "करों में भारी वृद्धि",
+          "en": "Heavy tax hikes"
+        },
+        {
+          "hi": "विस्तारवादी मौद्रिक नीति (ब्याज दर घटाना) और विस्तारवादी राजकोषीय नीति (सरकारी खर्च बढ़ाना)",
+          "en": "Expansionary monetary policy (cutting interest rates) and expansionary fiscal policy (boosting public spending)"
+        },
+        {
+          "hi": "ऋण देना पूरी तरह बंद करना",
+          "en": "Completely stopping lending"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रति-चक्रीय राजकोषीय नीति (Counter-Cyclical Fiscal Policy) का क्या अर्थ है?",
+        "en": "What is meant by Counter-Cyclical Fiscal Policy?"
+      },
+      "o": [
+        {
+          "hi": "हमेशा बजट घाटा बनाए रखना",
+          "en": "Maintaining budget deficit permanently"
+        },
+        {
+          "hi": "हमेशा कर दरें बढ़ाना",
+          "en": "Raising tax rates permanently"
+        },
+        {
+          "hi": "केवल विदेशी ऋण पर निर्भर रहना",
+          "en": "Relying on foreign debt only"
+        },
+        {
+          "hi": "मंदी के समय सरकारी खर्च बढ़ाना और तेजी के समय खर्च घटाना",
+          "en": "Increasing government spending during recession and reducing it during boom"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लिक्विडिटी ट्रैप (Liquidity Trap) की स्थिति में क्या होता है?",
+        "en": "What happens in a Liquidity Trap situation?"
+      },
+      "o": [
+        {
+          "hi": "ब्याज दरें बेहद कम होने के बावजूद लोग पैसे बचाते हैं और निवेश/उपभोग नहीं बढ़ता",
+          "en": "Despite extremely low interest rates, people hoard cash and investment/consumption fails to rise"
+        },
+        {
+          "hi": "बैंकों में नकदी खत्म हो जाती है",
+          "en": "Banks run out of cash"
+        },
+        {
+          "hi": "ब्याज दरें 100% हो जाती हैं",
+          "en": "Interest rates become 100%"
+        },
+        {
+          "hi": "केवल डिजिटल मुद्रा चलती है",
+          "en": "Only digital currency flows"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लिक्विडिटी ट्रैप की अवधारणा किस अर्थशास्त्री द्वारा प्रस्तुत की गई थी?",
+        "en": "Which economist introduced the concept of the Liquidity Trap?"
+      },
+      "o": [
+        {
+          "hi": "एडम स्मिथ",
+          "en": "Adam Smith"
+        },
+        {
+          "hi": "जॉन मेनार्ड कीन्स (J. M. Keynes)",
+          "en": "John Maynard Keynes"
+        },
+        {
+          "hi": "मिलटन फ्रीडमैन",
+          "en": "Milton Friedman"
+        },
+        {
+          "hi": "डेविड रिकार्डो",
+          "en": "David Ricardo"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "डबल-डिप मंदी (Double-Dip Recession / W-shaped) क्या होती है?",
+        "en": "What is a Double-Dip Recession (W-shaped)?"
+      },
+      "o": [
+        {
+          "hi": "जब दो देश एक साथ मंदी में जाते हैं",
+          "en": "When two countries go into recession simultaneously"
+        },
+        {
+          "hi": "10 वर्षों तक चलने वाली मंदी",
+          "en": "Recession lasting 10 years"
+        },
+        {
+          "hi": "जब अर्थव्यवस्था मंदी से थोड़ा उबरने के बाद पुनः मंदी में गिर जाती है",
+          "en": "When economy briefly recovers from recession then slips back into recession again"
+        },
+        {
+          "hi": "केवल कृषि क्षेत्र की मंदी",
+          "en": "Agricultural recession only"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "V-आकार की आर्थिक रिकवरी (V-shaped Recovery) की क्या विशेषता है?",
+        "en": "What characterizes a V-shaped Economic Recovery?"
+      },
+      "o": [
+        {
+          "hi": "धीमी और लंबी रिकवरी",
+          "en": "Slow and prolonged recovery"
+        },
+        {
+          "hi": "रिकवरी का कभी न होना",
+          "en": "Recovery never taking place"
+        },
+        {
+          "hi": "केवल असमान विकास",
+          "en": "Unequal growth only"
+        },
+        {
+          "hi": "तीव्र गिरावट के बाद उतनी ही तेजी से आर्थिक वापसी (Quick rebound)",
+          "en": "Sharp decline followed by an equally quick economic rebound"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "K-आकार की रिकवरी (K-shaped Recovery) का क्या अर्थ है?",
+        "en": "What does a K-shaped Recovery imply?"
+      },
+      "o": [
+        {
+          "hi": "अर्थव्यवस्था के विभिन्न क्षेत्रों/वर्गों में असमान रिकवरी (कुछ का तेजी से बढ़ना, कुछ का गिरना)",
+          "en": "Uneven recovery across different sectors/groups (some bounce back, others decline)"
+        },
+        {
+          "hi": "सभी क्षेत्रों में समान वृद्धि",
+          "en": "Equal growth across all sectors"
+        },
+        {
+          "hi": "ज्ञान-आधारित रिकवरी",
+          "en": "Knowledge-based recovery"
+        },
+        {
+          "hi": "कोरियाई मॉडल पर आधारित विकास",
+          "en": "Growth based on Korean model"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "U-आकार की रिकवरी (U-shaped Recovery) में क्या होता है?",
+        "en": "What happens in a U-shaped Recovery?"
+      },
+      "o": [
+        {
+          "hi": "तुरंत उछाल आता है",
+          "en": "Immediate bounce back"
+        },
+        {
+          "hi": "अर्थव्यवस्था गिरावट के बाद निचले स्तर पर कुछ समय बिताती है फिर धीरे-धीरे सुधरती है",
+          "en": "Economy stagnates at bottom for some time after fall before recovering gradually"
+        },
+        {
+          "hi": "अर्थव्यवस्था कभी मंदी में नहीं जाती",
+          "en": "Economy never enters recession"
+        },
+        {
+          "hi": "केवल विनिर्माण बढ़ता है",
+          "en": "Manufacturing alone grows"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एल-आकार की रिकवरी (L-shaped Recovery) क्या दर्शाती है?",
+        "en": "What does an L-shaped Recovery indicate?"
+      },
+      "o": [
+        {
+          "hi": "लक्जरी सामानों की बिक्री में उछाल",
+          "en": "Surge in luxury goods sales"
+        },
+        {
+          "hi": "त्वरित वापसी",
+          "en": "Rapid rebound"
+        },
+        {
+          "hi": "गंभीर गिरावट के बाद वर्षों तक कोई सुधार न होना (दीर्घकालिक मंदी)",
+          "en": "Severe downturn followed by years of no recovery (persistent stagnation)"
+        },
+        {
+          "hi": "आय में भारी वृद्धि",
+          "en": "Huge income rise"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हेलीकॉप्टर मनी (Helicopter Money) शब्द का प्रयोग सर्वप्रथम किसने किया था?",
+        "en": "Who first coined the term 'Helicopter Money'?"
+      },
+      "o": [
+        {
+          "hi": "जे. एम. कीन्स",
+          "en": "J. M. Keynes"
+        },
+        {
+          "hi": "बेन बर्नानके",
+          "en": "Ben Bernanke"
+        },
+        {
+          "hi": "अल्बर्ट आइंस्टीन",
+          "en": "Albert Einstein"
+        },
+        {
+          "hi": "मिलटन फ्रीडमैन (Milton Friedman, 1969)",
+          "en": "Milton Friedman (1969)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हेलीकॉप्टर मनी (Helicopter Money) का विचार मंदी में किस प्रकार कार्य करता है?",
+        "en": "How does the concept of Helicopter Money function during a recession?"
+      },
+      "o": [
+        {
+          "hi": "केंद्रीय बैंक द्वारा नई मुद्रा छापकर सीधे जनता के खातों में देना ताकि मांग बढ़े",
+          "en": "Central bank prints new money to directly transfer to citizens to boost demand"
+        },
+        {
+          "hi": "हेलीकॉप्टर उद्योग को सब्सिडी देना",
+          "en": "Subsidizing the helicopter industry"
+        },
+        {
+          "hi": "विदेशी बैंकों से कर्ज लेना",
+          "en": "Borrowing from foreign banks"
+        },
+        {
+          "hi": "सैनिकों को मुफ्त राशन देना",
+          "en": "Distributing free rations to soldiers"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मात्रात्मक सुगमता (Quantitative Easing - QE) क्या है?",
+        "en": "What is Quantitative Easing (QE)?"
+      },
+      "o": [
+        {
+          "hi": "गुणात्मक ऋण नियंत्रण",
+          "en": "Qualitative credit control"
+        },
+        {
+          "hi": "केंद्रीय बैंक द्वारा मंदी के समय वित्तीय बाजारों से बड़े पैमाने पर सरकारी/निजी बॉन्ड खरीदकर नकदी डालना",
+          "en": "Unconventional monetary policy where central bank buys government/private bonds to inject liquidity"
+        },
+        {
+          "hi": "कर दरों में कमी की घोषणा",
+          "en": "Announcement of tax cuts"
+        },
+        {
+          "hi": "नई मुद्रा नोटों का विमुद्रीकरण",
+          "en": "Demonetization of currency notes"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यदि किसी देश में मुद्रास्फीति अत्यधिक बढ़ जाती है, तो विदेशी विनिमय बाजार में उस देश की मुद्रा का क्या होता है?",
+        "en": "If inflation in a country rises sharply, what happens to its currency in foreign exchange markets?"
+      },
+      "o": [
+        {
+          "hi": "मुद्रा का मूल्य बढ़ता है",
+          "en": "Currency appreciates"
+        },
+        {
+          "hi": "कोई परिवर्तन नहीं होता",
+          "en": "No change occurs"
+        },
+        {
+          "hi": "मुद्रा का मूल्य गिरता है (Depreciation)",
+          "en": "Currency depreciates"
+        },
+        {
+          "hi": "विदेशी मुद्रा का प्रवाह रुक जाता है",
+          "en": "Foreign exchange flow stops completely"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मुद्रास्फीति को मापने के लिए उपभोक्ता मूल्य सूचकांक (CPI) में किस सूचकांक सूत्र का प्रयोग किया जाता है?",
+        "en": "Which index formula is primarily used to construct Consumer Price Index (CPI)?"
+      },
+      "o": [
+        {
+          "hi": "पाशे का सूचकांक (Paasche Index)",
+          "en": "Paasche Index"
+        },
+        {
+          "hi": "फिशर का आदर्श सूचकांक",
+          "en": "Fisher's Ideal Index"
+        },
+        {
+          "hi": "मार्शल-एजवर्थ सूचकांक",
+          "en": "Marshall-Edgeworth Index"
+        },
+        {
+          "hi": "लेस्पेयर का सूचकांक (Laspeyres Price Index)",
+          "en": "Laspeyres Price Index"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कीमत वृद्धि का वह प्रकार जो मजदूरी बढ़ने से कीमतें बढ़ने और कीमतें बढ़ने से पुनः मजदूरी बढ़ने का दुष्चक्र बनाता है, क्या कहलाता है?",
+        "en": "The wage-price spiral where wage hikes lead to price hikes which further lead to higher wage demands is called-"
+      },
+      "o": [
+        {
+          "hi": "मजदूरी-कीमत चक्र / निर्मित मुद्रास्फीति (Wage-Price Spiral / Built-in Inflation)",
+          "en": "Wage-Price Spiral / Built-in Inflation"
+        },
+        {
+          "hi": "रेंगती मुद्रास्फीति",
+          "en": "Creeping Inflation"
+        },
+        {
+          "hi": "कोर मुद्रास्फीति",
+          "en": "Core Inflation"
+        },
+        {
+          "hi": "स्टैगफ्लेशन",
+          "en": "Stagflation"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बोतलबंद मुद्रास्फीति (Bottleneck Inflation) तब होती है जब-",
+        "en": "Bottleneck Inflation occurs when-"
+      },
+      "o": [
+        {
+          "hi": "मांग शून्य हो जाती है",
+          "en": "Demand drops to zero"
+        },
+        {
+          "hi": "मांग वही रहती है परंतु आपूर्ति में अचानक भारी गिरावट आ जाती है",
+          "en": "Demand remains constant but supply falls drastically due to structural bottlenecks"
+        },
+        {
+          "hi": "आपूर्ति असीम हो जाती है",
+          "en": "Supply becomes unlimited"
+        },
+        {
+          "hi": "सरकार कीमतें तय करती है",
+          "en": "Government sets all prices"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मुद्रास्फीति का करदाताओं पर क्या प्रभाव पड़ता है जब वे बिना वास्तविक आय बढ़े उच्च कर स्लैब में चले जाते हैं?",
+        "en": "What effect occurs when inflation pushes taxpayers into higher tax brackets without a real income gain?"
+      },
+      "o": [
+        {
+          "hi": "कर चोरी",
+          "en": "Tax Evasion"
+        },
+        {
+          "hi": "लाफर वक्र प्रभाव",
+          "en": "Laffer Curve effect"
+        },
+        {
+          "hi": "ब्रैकेट क्रीप / राजकोषीय खिंचाव (Bracket Creep / Fiscal Drag)",
+          "en": "Bracket Creep / Fiscal Drag"
+        },
+        {
+          "hi": "कर छूट",
+          "en": "Tax Exemption"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में मौद्रिक नीति समिति (MPC) का गठन किस वर्ष किया गया था?",
+        "en": "In which year was the Monetary Policy Committee (MPC) constituted in India?"
+      },
+      "o": [
+        {
+          "hi": "2010",
+          "en": "2010"
+        },
+        {
+          "hi": "2018",
+          "en": "2018"
+        },
+        {
+          "hi": "2020",
+          "en": "2020"
+        },
+        {
+          "hi": "2016",
+          "en": "2016"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मौद्रिक नीति समिति (MPC) में कुल कितने सदस्य होते हैं?",
+        "en": "How many total members are there in the Monetary Policy Committee (MPC)?"
+      },
+      "o": [
+        {
+          "hi": "6 सदस्य (3 RBI से और 3 केंद्र सरकार द्वारा नामित)",
+          "en": "6 members (3 from RBI and 3 nominated by Central Govt)"
+        },
+        {
+          "hi": "5 सदस्य",
+          "en": "5 members"
+        },
+        {
+          "hi": "10 सदस्य",
+          "en": "10 members"
+        },
+        {
+          "hi": "4 सदस्य",
+          "en": "4 members"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मौद्रिक नीति समिति (MPC) की अध्यक्षता कौन करता है?",
+        "en": "Who chairs the Monetary Policy Committee (MPC)?"
+      },
+      "o": [
+        {
+          "hi": "केंद्रीय वित्त मंत्री",
+          "en": "Central Finance Minister"
+        },
+        {
+          "hi": "भारतीय रिजर्व बैंक के गवर्नर",
+          "en": "Governor of Reserve Bank of India"
+        },
+        {
+          "hi": "मुख्य आर्थिक सलाहकार",
+          "en": "Chief Economic Adviser"
+        },
+        {
+          "hi": "नीति आयोग के उपाध्यक्ष",
+          "en": "Vice Chairman of NITI Aayog"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यदि MPC की बैठक में किसी प्रस्ताव पर मत बराबर (Tie) हो जाएं, तो निर्णायक वोट (Casting Vote) कौन डालता है?",
+        "en": "In case of a tie in voting during an MPC meeting, who exercises the Casting Vote?"
+      },
+      "o": [
+        {
+          "hi": "वित्त सचिव",
+          "en": "Finance Secretary"
+        },
+        {
+          "hi": "प्रधानमंत्री",
+          "en": "Prime Minister"
+        },
+        {
+          "hi": "RBI गवर्नर (Governor of RBI)",
+          "en": "RBI Governor"
+        },
+        {
+          "hi": "वरिष्ठतम सदस्य",
+          "en": "Senior-most member"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उचित मुद्रास्फीति की दर अर्थव्यवस्था के लिए क्यों आवश्यक मानी जाती है?",
+        "en": "Why is a moderate rate of inflation considered necessary for an economy?"
+      },
+      "o": [
+        {
+          "hi": "यह सब कुछ मुफ्त कर देती है",
+          "en": "It makes everything free"
+        },
+        {
+          "hi": "यह कर संग्रह समाप्त कर देती है",
+          "en": "It eliminates tax collection"
+        },
+        {
+          "hi": "यह बैंकों को बंद कर देती है",
+          "en": "It closes banks"
+        },
+        {
+          "hi": "यह उत्पादकों को निवेश और उत्पादन बढ़ाने के लिए प्रोत्साहित करती है",
+          "en": "It incentivizes producers to invest and increase production"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मंदी के दौरान स्वचालित स्टेबलाइजर (Automatic Stabilizer) के रूप में क्या कार्य करता है?",
+        "en": "What acts as an Automatic Stabilizer during a recession?"
+      },
+      "o": [
+        {
+          "hi": "प्रगतिशील आयकर और बेरोजगारी भत्ता (Progressive Income Tax & Unemployment Benefits)",
+          "en": "Progressive Income Tax & Unemployment Benefits"
+        },
+        {
+          "hi": "स्थिर कॉर्पोरेट कर",
+          "en": "Flat Corporate Tax"
+        },
+        {
+          "hi": "उच्च सीमा शुल्क",
+          "en": "High Customs Duty"
+        },
+        {
+          "hi": "बैंक की एफडी दरें",
+          "en": "Bank FD Rates"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मुद्रास्फीति का बचतकर्ताओं (Savers) पर क्या प्रभाव पड़ता है यदि बैंक ब्याज दर मुद्रास्फीति दर से कम हो?",
+        "en": "What is the impact on Savers if bank interest rate is lower than the inflation rate?"
+      },
+      "o": [
+        {
+          "hi": "बचतकर्ता अमीर हो जाते हैं",
+          "en": "Savers become richer"
+        },
+        {
+          "hi": "वास्तविक ब्याज दर ऋणात्मक हो जाती है और बचतकर्ताओं को हानि होती है",
+          "en": "Real interest rate becomes negative, resulting in a loss for savers"
+        },
+        {
+          "hi": "कोई प्रभाव नहीं पड़ता",
+          "en": "No impact"
+        },
+        {
+          "hi": "कर में 100% छूट मिलती है",
+          "en": "100% tax rebate is given"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वास्तविक ब्याज दर (Real Interest Rate) ज्ञात करने का सही सूत्र क्या है?",
+        "en": "What is the correct formula for calculating the Real Interest Rate?"
+      },
+      "o": [
+        {
+          "hi": "नामित ब्याज दर + मुद्रास्फीति की दर",
+          "en": "Nominal Interest Rate + Inflation Rate"
+        },
+        {
+          "hi": "नामित ब्याज दर × मुद्रास्फीति की दर",
+          "en": "Nominal Interest Rate × Inflation Rate"
+        },
+        {
+          "hi": "नामित ब्याज दर - मुद्रास्फीति की दर (Nominal Interest Rate - Inflation Rate)",
+          "en": "Nominal Interest Rate - Inflation Rate"
+        },
+        {
+          "hi": "मुद्रास्फीति दर / 100",
+          "en": "Inflation Rate / 100"
+        }
+      ],
+      "a": 2
+    }
+  ]
+}

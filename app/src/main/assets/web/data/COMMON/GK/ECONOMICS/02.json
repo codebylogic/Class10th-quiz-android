@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "राष्ट्रीय आय, GDP, GNP / National Income, GDP & GNP",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on National Income, GDP & GNP.",
+  "questions": [
+    {
+      "q": {
+        "hi": "किसी देश की घरेलू सीमा के भीतर एक वित्तीय वर्ष में उत्पादित सभी अंतिम वस्तुओं और सेवाओं का कुल मौद्रिक मूल्य क्या कहलाता है?",
+        "en": "What is the total monetary value of all final goods and services produced within the domestic territory of a country in a financial year called?"
+      },
+      "o": [
+        {
+          "hi": "सकल घरेलू उत्पाद (GDP)",
+          "en": "Gross Domestic Product (GDP)"
+        },
+        {
+          "hi": "सकल राष्ट्रीय उत्पाद (GNP)",
+          "en": "Gross National Product (GNP)"
+        },
+        {
+          "hi": "शुद्ध राष्ट्रीय उत्पाद (NNP)",
+          "en": "Net National Product (NNP)"
+        },
+        {
+          "hi": "प्रति व्यक्ति आय (PCI)",
+          "en": "Per Capita Income (PCI)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सकल घरेलू उत्पाद (GDP) में 'घरेलू' शब्द का क्या अर्थ है?",
+        "en": "What does the term 'Domestic' signify in Gross Domestic Product (GDP)?"
+      },
+      "o": [
+        {
+          "hi": "केवल नागरिकों द्वारा किया गया उत्पादन",
+          "en": "Production by citizens only"
+        },
+        {
+          "hi": "देश की राजनीतिक एवं आर्थिक सीमा के भीतर उत्पादन",
+          "en": "Production within the political and economic territory of the country"
+        },
+        {
+          "hi": "विदेशी व्यापार से प्राप्त शुद्ध आय",
+          "en": "Net income from foreign trade"
+        },
+        {
+          "hi": "केवल घरेलू हस्तशिल्प उत्पाद",
+          "en": "Domestic handicraft products only"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सकल राष्ट्रीय उत्पाद (GNP) ज्ञात करने का सही सूत्र क्या है?",
+        "en": "What is the correct formula to calculate Gross National Product (GNP)?"
+      },
+      "o": [
+        {
+          "hi": "GNP = GDP - मूल्यह्रास (Depreciation)",
+          "en": "GNP = GDP - Depreciation"
+        },
+        {
+          "hi": "GNP = NNP + अप्रत्यक्ष कर",
+          "en": "GNP = NNP + Indirect Taxes"
+        },
+        {
+          "hi": "GNP = GDP + विदेशों से प्राप्त शुद्ध साधन आय (NFIA)",
+          "en": "GNP = GDP + Net Factor Income from Abroad (NFIA)"
+        },
+        {
+          "hi": "GNP = GDP - निर्यात",
+          "en": "GNP = GDP - Exports"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यदि किसी देश के लिए विदेशों से प्राप्त शुद्ध साधन आय (NFIA) ऋणात्मक है, तो-",
+        "en": "If Net Factor Income from Abroad (NFIA) is negative for a country, then-"
+      },
+      "o": [
+        {
+          "hi": "GNP, GDP से अधिक होगा",
+          "en": "GNP will be greater than GDP"
+        },
+        {
+          "hi": "GNP और GDP बराबर होंगे",
+          "en": "GNP and GDP will be equal"
+        },
+        {
+          "hi": "GDP शून्य हो जाएगा",
+          "en": "GDP will become zero"
+        },
+        {
+          "hi": "GNP, GDP से कम होगा (GNP < GDP)",
+          "en": "GNP will be less than GDP (GNP < GDP)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शुद्ध घरेलू उत्पाद (NDP) प्राप्त करने के लिए GDP में से किसे घटाया जाता है?",
+        "en": "What is deducted from GDP to obtain Net Domestic Product (NDP)?"
+      },
+      "o": [
+        {
+          "hi": "मूल्यह्रास (Depreciation)",
+          "en": "Depreciation"
+        },
+        {
+          "hi": "अप्रत्यक्ष कर",
+          "en": "Indirect Taxes"
+        },
+        {
+          "hi": "सब्सिडी",
+          "en": "Subsidies"
+        },
+        {
+          "hi": "विदेशी ऋण",
+          "en": "Foreign Debt"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अर्थशास्त्र में मूल्यह्रास (Depreciation / Capital Consumption Allowance) का क्या तात्पर्य है?",
+        "en": "What does Depreciation mean in economics?"
+      },
+      "o": [
+        {
+          "hi": "मुद्रा का अवमूल्यन",
+          "en": "Devaluation of currency"
+        },
+        {
+          "hi": "उत्पादन के दौरान स्थिर पूंजी परिसंपत्तियों के घिसावट एवं टूट-फूट की लागत",
+          "en": "Wear and tear cost of fixed capital assets during production"
+        },
+        {
+          "hi": "शेयर बाजार में गिरावट",
+          "en": "Decline in stock market"
+        },
+        {
+          "hi": "बैंक दर में कमी",
+          "en": "Reduction in Bank Rate"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "शुद्ध राष्ट्रीय उत्पाद (NNP) ज्ञात करने का सही समीकरण क्या है?",
+        "en": "What is the correct equation for Net National Product (NNP)?"
+      },
+      "o": [
+        {
+          "hi": "NNP = GDP + मूल्यह्रास",
+          "en": "NNP = GDP + Depreciation"
+        },
+        {
+          "hi": "NNP = NDP + मूल्यह्रास",
+          "en": "NNP = NDP + Depreciation"
+        },
+        {
+          "hi": "NNP = GNP - मूल्यह्रास (Depreciation)",
+          "en": "NNP = GNP - Depreciation"
+        },
+        {
+          "hi": "NNP = GNP + अप्रत्यक्ष कर",
+          "en": "NNP = GNP + Indirect Taxes"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "साधन लागत पर शुद्ध राष्ट्रीय उत्पाद (NNP at Factor Cost) को क्या कहा जाता है?",
+        "en": "What is Net National Product at Factor Cost (NNP at FC) commonly known as?"
+      },
+      "o": [
+        {
+          "hi": "व्यक्तिगत आय",
+          "en": "Personal Income"
+        },
+        {
+          "hi": "सकल मूल्य वर्धित (GVA)",
+          "en": "Gross Value Added (GVA)"
+        },
+        {
+          "hi": "प्रयोज्य आय",
+          "en": "Disposable Income"
+        },
+        {
+          "hi": "राष्ट्रीय आय (National Income)",
+          "en": "National Income"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बाजार मूल्य (Market Price) और साधन लागत (Factor Cost) के बीच मुख्य अंतर क्या है?",
+        "en": "What is the main difference between Market Price and Factor Cost?"
+      },
+      "o": [
+        {
+          "hi": "शुद्ध अप्रत्यक्ष कर (Net Indirect Taxes = अप्रत्यक्ष कर - सब्सिडी)",
+          "en": "Net Indirect Taxes (Indirect Taxes - Subsidies)"
+        },
+        {
+          "hi": "मूल्यह्रास",
+          "en": "Depreciation"
+        },
+        {
+          "hi": "विदेशी आय",
+          "en": "Foreign Income"
+        },
+        {
+          "hi": "ब्याज दर",
+          "en": "Interest Rate"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "साधन लागत (Factor Cost) पर मूल्य निकालने का सही सूत्र क्या है?",
+        "en": "What is the correct formula to derive value at Factor Cost?"
+      },
+      "o": [
+        {
+          "hi": "बाजार मूल्य + अप्रत्यक्ष कर - सब्सिडी",
+          "en": "Market Price + Indirect Taxes - Subsidies"
+        },
+        {
+          "hi": "बाजार मूल्य - अप्रत्यक्ष कर + सब्सिडी",
+          "en": "Market Price - Indirect Taxes + Subsidies"
+        },
+        {
+          "hi": "बाजार मूल्य + मूल्यह्रास",
+          "en": "Market Price + Depreciation"
+        },
+        {
+          "hi": "बाजार मूल्य - मूल्यह्रास",
+          "en": "Market Price - Depreciation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सकल मूल्य वर्धित (GVA) और सकल घरेलू उत्पाद (GDP) में क्या संबंध है?",
+        "en": "What is the relationship between Gross Value Added (GVA) and GDP?"
+      },
+      "o": [
+        {
+          "hi": "GDP = GVA - मूल्यह्रास",
+          "en": "GDP = GVA - Depreciation"
+        },
+        {
+          "hi": "GDP = GVA / जनसंख्या",
+          "en": "GDP = GVA / Population"
+        },
+        {
+          "hi": "GDP = GVA + शुद्ध उत्पाद कर (उत्पाद कर - उत्पाद सब्सिडी)",
+          "en": "GDP = GVA + Net Product Taxes (Product Taxes - Product Subsidies)"
+        },
+        {
+          "hi": "GDP = GVA + विदेशों से आय",
+          "en": "GDP = GVA + Income from abroad"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वास्तविक सकल घरेलू उत्पाद (Real GDP) की गणना किस पर की जाती है?",
+        "en": "On what basis is Real GDP calculated?"
+      },
+      "o": [
+        {
+          "hi": "वर्तमान चालू कीमतों पर",
+          "en": "At Current Prices"
+        },
+        {
+          "hi": "अंतर्राष्ट्रीय बाजार दरों पर",
+          "en": "At International Market Rates"
+        },
+        {
+          "hi": "थोक मूल्य सूचकांक पर",
+          "en": "At Wholesale Price Index"
+        },
+        {
+          "hi": "स्थिर कीमतों पर (At Constant Prices / Base Year Prices)",
+          "en": "At Constant Prices (Base Year Prices)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नामित सकल घरेलू उत्पाद (Nominal GDP) की गणना किस पर की जाती है?",
+        "en": "Nominal GDP is calculated at which prices?"
+      },
+      "o": [
+        {
+          "hi": "चालू (वर्तमान) कीमतों पर (At Current Prices)",
+          "en": "At Current Prices"
+        },
+        {
+          "hi": "आधार वर्ष की कीमतों पर",
+          "en": "At Base Year Prices"
+        },
+        {
+          "hi": "शून्य कीमत पर",
+          "en": "At Zero Price"
+        },
+        {
+          "hi": "स्थिर दरों पर",
+          "en": "At Fixed Rates"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "GDP डिफ्लेटर (GDP Deflator) का सही सूत्र क्या है?",
+        "en": "What is the correct formula for the GDP Deflator?"
+      },
+      "o": [
+        {
+          "hi": "(Real GDP / Nominal GDP) × 100",
+          "en": "(Real GDP / Nominal GDP) × 100"
+        },
+        {
+          "hi": "(Nominal GDP / Real GDP) × 100",
+          "en": "(Nominal GDP / Real GDP) × 100"
+        },
+        {
+          "hi": "Nominal GDP - Real GDP",
+          "en": "Nominal GDP - Real GDP"
+        },
+        {
+          "hi": "(Real GDP × Nominal GDP) / 100",
+          "en": "(Real GDP × Nominal GDP) / 100"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "GDP डिफ्लेटर मुख्य रूप से किसका मापक है?",
+        "en": "What does the GDP Deflator primarily measure?"
+      },
+      "o": [
+        {
+          "hi": "केवल खाद्यान्न मुद्रास्फीति",
+          "en": "Food inflation only"
+        },
+        {
+          "hi": "बेरोजगारी की दर",
+          "en": "Unemployment rate"
+        },
+        {
+          "hi": "अर्थव्यवस्था में समग्र मूल्य स्तर और मुद्रास्फीति (Overall Price Inflation)",
+          "en": "Overall price level and inflation in the economy"
+        },
+        {
+          "hi": "राजकोषीय घाटा",
+          "en": "Fiscal Deficit"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में राष्ट्रीय आय का पहला अनुमान 1868 में किसने लगाया था?",
+        "en": "Who made the first estimate of National Income in India in 1868?"
+      },
+      "o": [
+        {
+          "hi": "वी. के. आर. वी. राव",
+          "en": "V. K. R. V. Rao"
+        },
+        {
+          "hi": "पी. सी. महालनोबिस",
+          "en": "P. C. Mahalanobis"
+        },
+        {
+          "hi": "एम. विश्वेश्वरैया",
+          "en": "M. Visvesvaraya"
+        },
+        {
+          "hi": "दादाभाई नौरोजी",
+          "en": "Dadabhai Naoroji"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दादाभाई नौरोजी ने 1868 में अपनी पुस्तक 'पावर्टी एंड अन-ब्रिटिश रूल इन इंडिया' में भारत की प्रति व्यक्ति आय कितनी बताई थी?",
+        "en": "What was the per capita income estimated by Dadabhai Naoroji in 1868 in his book 'Poverty and Un-British Rule in India'?"
+      },
+      "o": [
+        {
+          "hi": "₹20 प्रति वर्ष",
+          "en": "₹20 per annum"
+        },
+        {
+          "hi": "₹50 प्रति वर्ष",
+          "en": "₹50 per annum"
+        },
+        {
+          "hi": "₹100 प्रति वर्ष",
+          "en": "₹100 per annum"
+        },
+        {
+          "hi": "₹5 प्रति वर्ष",
+          "en": "₹5 per annum"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में राष्ट्रीय आय का प्रथम वैज्ञानिक अनुमान (Scientific Estimate) लगाने का श्रेय किसे जाता है?",
+        "en": "Who is credited with making the first scientific estimate of National Income in India (1931-32)?"
+      },
+      "o": [
+        {
+          "hi": "दादाभाई नौरोजी",
+          "en": "Dadabhai Naoroji"
+        },
+        {
+          "hi": "डॉ. वी. के. आर. वी. राव",
+          "en": "Dr. V. K. R. V. Rao"
+        },
+        {
+          "hi": "आर. सी. दत्त",
+          "en": "R. C. Dutt"
+        },
+        {
+          "hi": "डी. आर. गाडगिल",
+          "en": "D. R. Gadgil"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्वतंत्रता के बाद 1949 में गठित राष्ट्रीय आय समिति (National Income Committee) के अध्यक्ष कौन थे?",
+        "en": "Who was the Chairman of the National Income Committee formed in 1949 after independence?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. बी. आर. अम्बेडकर",
+          "en": "Dr. B. R. Ambedkar"
+        },
+        {
+          "hi": "जॉन मथाई",
+          "en": "John Mathai"
+        },
+        {
+          "hi": "प्रो. पी. सी. महालनोबिस",
+          "en": "Prof. P. C. Mahalanobis"
+        },
+        {
+          "hi": "सी. डी. देशमुख",
+          "en": "C. D. Deshmukh"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में राष्ट्रीय आय के आंकड़े जारी करने वाली केंद्रीय संस्था वर्तमान में कौन-सी है?",
+        "en": "Which central agency currently releases National Income estimates in India?"
+      },
+      "o": [
+        {
+          "hi": "भारतीय रिजर्व बैंक (RBI)",
+          "en": "Reserve Bank of India (RBI)"
+        },
+        {
+          "hi": "वित्त मंत्रालय",
+          "en": "Ministry of Finance"
+        },
+        {
+          "hi": "नीति आयोग",
+          "en": "NITI Aayog"
+        },
+        {
+          "hi": "राष्ट्रीय सांख्यिकी कार्यालय (NSO)",
+          "en": "National Statistical Office (NSO)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "केंद्रीय सांख्यिकी संगठन (CSO) की स्थापना किस वर्ष की गई थी?",
+        "en": "In which year was the Central Statistical Organisation (CSO) established?"
+      },
+      "o": [
+        {
+          "hi": "1951",
+          "en": "1951"
+        },
+        {
+          "hi": "1947",
+          "en": "1947"
+        },
+        {
+          "hi": "1965",
+          "en": "1965"
+        },
+        {
+          "hi": "1991",
+          "en": "1991"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "2019 में CSO और NSSO का विलय करके किस नए निकाय का गठन किया गया?",
+        "en": "Which new body was created in 2019 by merging CSO and NSSO?"
+      },
+      "o": [
+        {
+          "hi": "राष्ट्रीय सांख्यिकी आयोग (NSC)",
+          "en": "National Statistical Commission (NSC)"
+        },
+        {
+          "hi": "राष्ट्रीय सांख्यिकी कार्यालय (NSO)",
+          "en": "National Statistical Office (NSO)"
+        },
+        {
+          "hi": "केंद्रीय सांख्यिकी ब्यूरो (CSB)",
+          "en": "Central Statistics Bureau (CSB)"
+        },
+        {
+          "hi": "नीति सांख्यिकी विभाग",
+          "en": "NITI Statistics Division"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में राष्ट्रीय आय और GDP गणना का वर्तमान आधार वर्ष (Base Year) क्या है?",
+        "en": "What is the current base year for National Income and GDP calculation in India?"
+      },
+      "o": [
+        {
+          "hi": "2004-05",
+          "en": "2004-05"
+        },
+        {
+          "hi": "2017-18",
+          "en": "2017-18"
+        },
+        {
+          "hi": "2011-12",
+          "en": "2011-12"
+        },
+        {
+          "hi": "2020-21",
+          "en": "2020-21"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "NSO किस केंद्रीय मंत्रालय के अंतर्गत कार्य करता है?",
+        "en": "NSO operates under which Central Ministry?"
+      },
+      "o": [
+        {
+          "hi": "वित्त मंत्रालय",
+          "en": "Ministry of Finance"
+        },
+        {
+          "hi": "गृह मंत्रालय",
+          "en": "Ministry of Home Affairs"
+        },
+        {
+          "hi": "वाणिज्य और उद्योग मंत्रालय",
+          "en": "Ministry of Commerce and Industry"
+        },
+        {
+          "hi": "सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय (MoSPI)",
+          "en": "Ministry of Statistics and Programme Implementation (MoSPI)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रीय आय मापने की कितनी प्रमुख विधियाँ हैं?",
+        "en": "How many major methods are there for calculating National Income?"
+      },
+      "o": [
+        {
+          "hi": "3 (उत्पाद, आय और व्यय विधि)",
+          "en": "3 (Product, Income, and Expenditure methods)"
+        },
+        {
+          "hi": "2",
+          "en": "2"
+        },
+        {
+          "hi": "5",
+          "en": "5"
+        },
+        {
+          "hi": "4",
+          "en": "4"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उत्पाद विधि (Product Method / Value Added Method) को और किस नाम से जाना जाता है?",
+        "en": "By what other name is the Product Method / Value Added Method known?"
+      },
+      "o": [
+        {
+          "hi": "फैक्टर आय विधि",
+          "en": "Factor Income Method"
+        },
+        {
+          "hi": "शुद्ध उत्पादन विधि या औद्योगिक उत्पत्ति विधि",
+          "en": "Net Output Method or Industrial Origin Method"
+        },
+        {
+          "hi": "उपभोग विधि",
+          "en": "Consumption Method"
+        },
+        {
+          "hi": "बचत विधि",
+          "en": "Savings Method"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आय विधि (Income Method) के तहत राष्ट्रीय आय में क्या जोड़ा जाता है?",
+        "en": "What is added in National Income under the Income Method?"
+      },
+      "o": [
+        {
+          "hi": "केवल सरकारी राजस्व",
+          "en": "Government revenue only"
+        },
+        {
+          "hi": "केवल कंपनियों का कुल कारोबार",
+          "en": "Total turnover of companies only"
+        },
+        {
+          "hi": "उत्पादक साधनों के पुरस्कार (मजदूरी + लगान + ब्याज + लाभ)",
+          "en": "Rewards of factors of production (Wages + Rent + Interest + Profit)"
+        },
+        {
+          "hi": "केवल व्यक्तिगत बचत",
+          "en": "Personal savings only"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "व्यय विधि (Expenditure Method) का सूत्र क्या है?",
+        "en": "What is the formula for the Expenditure Method?"
+      },
+      "o": [
+        {
+          "hi": "C + S + T",
+          "en": "C + S + T"
+        },
+        {
+          "hi": "GDP + NNP",
+          "en": "GDP + NNP"
+        },
+        {
+          "hi": "X - M",
+          "en": "X - M"
+        },
+        {
+          "hi": "C + I + G + (X - M)",
+          "en": "C + I + G + (X - M)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "व्यय विधि समीकरण C + I + G + (X - M) में 'G' क्या दर्शाता है?",
+        "en": "In the Expenditure Method equation C + I + G + (X - M), what does 'G' stand for?"
+      },
+      "o": [
+        {
+          "hi": "सरकारी उपभोग एवं निवेश व्यय (Government Expenditure)",
+          "en": "Government Expenditure"
+        },
+        {
+          "hi": "सकल विकास (Gross Growth)",
+          "en": "Gross Growth"
+        },
+        {
+          "hi": "सोना भंडार (Gold Reserves)",
+          "en": "Gold Reserves"
+        },
+        {
+          "hi": "सकल आयात (Gross Imports)",
+          "en": "Gross Imports"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "व्यय विधि समीकरण में (X - M) क्या प्रदर्शित करता है?",
+        "en": "What does (X - M) represent in the Expenditure Method equation?"
+      },
+      "o": [
+        {
+          "hi": "सकल विनिमय दर",
+          "en": "Gross Exchange Rate"
+        },
+        {
+          "hi": "शुद्ध निर्यात (निर्यात - आयात)",
+          "en": "Net Exports (Exports - Imports)"
+        },
+        {
+          "hi": "विदेशी ऋण",
+          "en": "Foreign Debt"
+        },
+        {
+          "hi": "मुद्रास्फीति अंतर",
+          "en": "Inflation Differential"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से किसे राष्ट्रीय आय की गणना में शामिल नहीं किया जाता है?",
+        "en": "Which of the following is NOT included in the calculation of National Income?"
+      },
+      "o": [
+        {
+          "hi": "सरकारी कर्मचारियों का वेतन",
+          "en": "Salaries of government employees"
+        },
+        {
+          "hi": "स्व-स्वामित्व वाले मकान का आरोपित किराया",
+          "en": "Imputed rent of self-occupied houses"
+        },
+        {
+          "hi": "हस्तांतरण भुगतान (Transfer Payments जैसे पेंशन, छात्रवृत्ति)",
+          "en": "Transfer Payments (such as Pensions, Scholarships)"
+        },
+        {
+          "hi": "कंपनियों का अप्रतीत लाभ",
+          "en": "Undistributed corporate profits"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हस्तांतरण भुगतान (Transfer Payments) को राष्ट्रीय आय में शामिल क्यों नहीं किया जाता?",
+        "en": "Why are Transfer Payments excluded from National Income?"
+      },
+      "o": [
+        {
+          "hi": "क्योंकि यह विदेशी मुद्रा में होता है",
+          "en": "Because it is in foreign currency"
+        },
+        {
+          "hi": "क्योंकि यह केवल बैंकों द्वारा दिया जाता है",
+          "en": "Because it is given only by banks"
+        },
+        {
+          "hi": "क्योंकि यह कर योग्य नहीं है",
+          "en": "Because it is non-taxable"
+        },
+        {
+          "hi": "क्योंकि इसके बदले कोई प्रत्यक्ष वस्तु या सेवा उत्पादित नहीं होती",
+          "en": "Because no direct good or service is produced in return"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शेयरों और डिबेंचर की पुरानी बिक्री से प्राप्त राशि को राष्ट्रीय आय में क्यों शामिल नहीं किया जाता?",
+        "en": "Why is the sale amount of old shares and debentures excluded from National Income?"
+      },
+      "o": [
+        {
+          "hi": "यह केवल वित्तीय परिसंपत्तियों का हस्तांतरण है, नया उत्पादन नहीं",
+          "en": "It is merely a transfer of financial assets, not new production"
+        },
+        {
+          "hi": "यह अवैध आय है",
+          "en": "It is illegal income"
+        },
+        {
+          "hi": "यह विदेशी आय है",
+          "en": "It is foreign income"
+        },
+        {
+          "hi": "यह केवल सरकार का राजस्व है",
+          "en": "It is government revenue only"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गृहणियों (Housewives) द्वारा दी जाने वाली घरेलू सेवाओं को राष्ट्रीय आय में शामिल न करने का मुख्य कारण क्या है?",
+        "en": "What is the main reason for excluding domestic services of housewives from National Income?"
+      },
+      "o": [
+        {
+          "hi": "सरकार का नियम",
+          "en": "Government rule"
+        },
+        {
+          "hi": "गैर-बाजार व्यवहार और सटीक मौद्रिक मूल्यांकन का अभाव",
+          "en": "Non-market transactions and lack of precise monetary valuation"
+        },
+        {
+          "hi": "कम उत्पादकता",
+          "en": "Low productivity"
+        },
+        {
+          "hi": "उच्च कर दर",
+          "en": "High tax rate"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मध्यवर्ती वस्तुओं (Intermediate Goods) के मूल्य को GDP में क्यों नहीं जोड़ा जाता?",
+        "en": "Why is the value of Intermediate Goods not added to GDP?"
+      },
+      "o": [
+        {
+          "hi": "क्योंकि वे बेकार होती हैं",
+          "en": "Because they are useless"
+        },
+        {
+          "hi": "क्योंकि वे विदेश भेजी जाती हैं",
+          "en": "Because they are sent abroad"
+        },
+        {
+          "hi": "दोहरी गणना (Double Counting) की समस्या से बचने के लिए",
+          "en": "To avoid the problem of Double Counting"
+        },
+        {
+          "hi": "क्योंकि उनकी कीमत स्थिर होती है",
+          "en": "Because their price is fixed"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अवैध गतिविधियों (जैसे कालाबाजारी, तस्करी) से प्राप्त आय को राष्ट्रीय आय में शामिल क्यों नहीं किया जाता?",
+        "en": "Why is income from illegal activities (black marketing, smuggling) excluded from National Income?"
+      },
+      "o": [
+        {
+          "hi": "क्योंकि यह बहुत कम होती है",
+          "en": "Because it is very negligible"
+        },
+        {
+          "hi": "क्योंकि यह केवल विदेशी मुद्रा में होती है",
+          "en": "Because it is in foreign currency only"
+        },
+        {
+          "hi": "क्योंकि इस पर GST लगता है",
+          "en": "Because GST applies on it"
+        },
+        {
+          "hi": "आधिकारिक डेटा की अनुपलब्धता और गैर-कानूनी प्रकृति के कारण",
+          "en": "Due to non-availability of official data and illegal nature"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रति व्यक्ति आय (Per Capita Income) ज्ञात करने का सही सूत्र क्या है?",
+        "en": "What is the correct formula to calculate Per Capita Income?"
+      },
+      "o": [
+        {
+          "hi": "राष्ट्रीय आय / कुल जनसंख्या",
+          "en": "National Income / Total Population"
+        },
+        {
+          "hi": "GDP / कार्यकारी जनसंख्या",
+          "en": "GDP / Working Population"
+        },
+        {
+          "hi": "व्यक्तिगत आय / कुल घर",
+          "en": "Personal Income / Total Households"
+        },
+        {
+          "hi": "राष्ट्रीय आय × कुल जनसंख्या",
+          "en": "National Income × Total Population"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "व्यक्तिगत आय (Personal Income) प्राप्त करने के लिए राष्ट्रीय आय में से क्या घटाया जाता है?",
+        "en": "What is deducted from National Income to derive Personal Income?"
+      },
+      "o": [
+        {
+          "hi": "केवल प्रत्यक्ष कर",
+          "en": "Direct taxes only"
+        },
+        {
+          "hi": "अवितरित निगम लाभ, निगम कर और सामाजिक सुरक्षा योगदान",
+          "en": "Undistributed corporate profits, corporate tax, and social security contributions"
+        },
+        {
+          "hi": "केवल मूल्यह्रास",
+          "en": "Depreciation only"
+        },
+        {
+          "hi": "सब्सिडी",
+          "en": "Subsidies"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "व्यक्तिगत प्रयोज्य आय (Personal Disposable Income) का क्या अर्थ है?",
+        "en": "What is Personal Disposable Income?"
+      },
+      "o": [
+        {
+          "hi": "व्यक्तिगत आय + अप्रत्यक्ष कर",
+          "en": "Personal Income + Indirect Taxes"
+        },
+        {
+          "hi": "कुल राष्ट्रीय आय - कुल बचत",
+          "en": "Total National Income - Total Savings"
+        },
+        {
+          "hi": "व्यक्तिगत आय - प्रत्यक्ष कर (जैसे आयकर)",
+          "en": "Personal Income - Direct Taxes (such as Income Tax)"
+        },
+        {
+          "hi": "प्रति व्यक्ति आय + सब्सिडी",
+          "en": "Per Capita Income + Subsidies"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रयोज्य आय (Disposable Income) का उपयोग व्यक्ति मुख्यतः किन दो कार्यों के लिए करता है?",
+        "en": "An individual primarily uses Disposable Income for which two purposes?"
+      },
+      "o": [
+        {
+          "hi": "केवल कर भुगतान",
+          "en": "Tax payment only"
+        },
+        {
+          "hi": "केवल आयात",
+          "en": "Imports only"
+        },
+        {
+          "hi": "दान और ऋण भुगतान",
+          "en": "Donations and Debt Repayment"
+        },
+        {
+          "hi": "उपभोग और बचत (Consumption and Saving)",
+          "en": "Consumption and Saving"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ग्रीन GDP (Green GDP) में किसे ध्यान में रखकर GDP की गणना की जाती है?",
+        "en": "Green GDP is calculated by taking into account what?"
+      },
+      "o": [
+        {
+          "hi": "पर्यावरणीय क्षति और प्राकृतिक संसाधनों का ह्रास",
+          "en": "Environmental damage and depletion of natural resources"
+        },
+        {
+          "hi": "केवल कृषि उत्पाद",
+          "en": "Agricultural products only"
+        },
+        {
+          "hi": "वनों का कुल क्षेत्रफल",
+          "en": "Total forest area"
+        },
+        {
+          "hi": "सौर ऊर्जा का उत्पादन",
+          "en": "Solar energy production"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्रय शक्ति समानता (Purchasing Power Parity - PPP) के आधार पर विश्व अर्थव्यवस्था में भारत का कौन सा स्थान है?",
+        "en": "What is India's rank in the world economy based on Purchasing Power Parity (PPP)?"
+      },
+      "o": [
+        {
+          "hi": "पहला",
+          "en": "1st"
+        },
+        {
+          "hi": "तीसरा (3rd)",
+          "en": "3rd"
+        },
+        {
+          "hi": "पांचवां",
+          "en": "5th"
+        },
+        {
+          "hi": "सातवां",
+          "en": "7th"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नामित (Nominal) GDP के आकार के आधार पर वर्तमान में भारत विश्व की कौन-सी सबसे बड़ी अर्थव्यवस्था है?",
+        "en": "Based on Nominal GDP size, India is currently which largest economy in the world?"
+      },
+      "o": [
+        {
+          "hi": "तीसरी",
+          "en": "3rd"
+        },
+        {
+          "hi": "दसवीं",
+          "en": "10th"
+        },
+        {
+          "hi": "पांचवीं (5th)",
+          "en": "5th"
+        },
+        {
+          "hi": "दूसरी",
+          "en": "2nd"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हिन्दू वृद्धि दर (Hindu Rate of Growth) का संबंध किससे है?",
+        "en": "What is the 'Hindu Rate of Growth' related to?"
+      },
+      "o": [
+        {
+          "hi": "जनसंख्या वृद्धि दर से",
+          "en": "Population growth rate"
+        },
+        {
+          "hi": "साक्षरता दर से",
+          "en": "Literacy rate"
+        },
+        {
+          "hi": "धार्मिक आबादी से",
+          "en": "Religious population"
+        },
+        {
+          "hi": "1950-1980 के दौरान भारतीय GDP की निम्न वृद्धि दर (~3.5%) से",
+          "en": "Low Indian GDP growth rate (~3.5%) during 1950-1980"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'हिन्दू वृद्धि दर' (Hindu Rate of Growth) शब्द का प्रतिपादन किस भारतीय अर्थशास्त्री ने किया था?",
+        "en": "Which Indian economist coined the term 'Hindu Rate of Growth'?"
+      },
+      "o": [
+        {
+          "hi": "प्रो. राज कृष्णा",
+          "en": "Prof. Raj Krishna"
+        },
+        {
+          "hi": "प्रो. अमर्त्य सेन",
+          "en": "Prof. Amartya Sen"
+        },
+        {
+          "hi": "डॉ. मनमोहन सिंह",
+          "en": "Dr. Manmohan Singh"
+        },
+        {
+          "hi": "मोंटेक सिंह अहलूवालिया",
+          "en": "Montek Singh Ahluwalia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पूंजी-उत्पाद अनुपात (Capital-Output Ratio) क्या दर्शाता है?",
+        "en": "What does Capital-Output Ratio measure?"
+      },
+      "o": [
+        {
+          "hi": "पूंजी पर ब्याज दर",
+          "en": "Interest rate on capital"
+        },
+        {
+          "hi": "उत्पादन की एक इकाई प्राप्त करने के लिए आवश्यक पूंजी की मात्रा",
+          "en": "The amount of capital required to produce one unit of output"
+        },
+        {
+          "hi": "कुल श्रम बल",
+          "en": "Total labour force"
+        },
+        {
+          "hi": "लाभ का प्रतिशत",
+          "en": "Percentage of profit"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वृद्धि दर बढ़ाने के लिए वृद्धिशील पूंजी-उत्पाद अनुपात (ICOR) कैसा होना चाहिए?",
+        "en": "To increase the growth rate, Incremental Capital-Output Ratio (ICOR) should ideally be-"
+      },
+      "o": [
+        {
+          "hi": "अधिक",
+          "en": "Higher"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "कम (Lower - अधिक दक्षता सूचक)",
+          "en": "Lower (indicates higher efficiency)"
+        },
+        {
+          "hi": "शून्य से कम",
+          "en": "Below zero"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यदि निवेश में वृद्धि के परिणामस्वरूप राष्ट्रीय आय में कई गुना वृद्धि होती है, तो इसे क्या कहते हैं?",
+        "en": "If an increase in investment leads to a manifold increase in National Income, it is called-"
+      },
+      "o": [
+        {
+          "hi": "त्वरक (Accelerator)",
+          "en": "Accelerator"
+        },
+        {
+          "hi": "मूल्यस्फीति अंतर",
+          "en": "Inflationary gap"
+        },
+        {
+          "hi": "राजकोषीय विचलन",
+          "en": "Fiscal drift"
+        },
+        {
+          "hi": "निवेश गुणक (Investment Multiplier)",
+          "en": "Investment Multiplier"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "निवेश गुणक (K) और सीमांत उपभोग प्रवृत्ति (MPC) में क्या संबंध है?",
+        "en": "What is the relationship between Investment Multiplier (K) and Marginal Propensity to Consume (MPC)?"
+      },
+      "o": [
+        {
+          "hi": "K = 1 / (1 - MPC)",
+          "en": "K = 1 / (1 - MPC)"
+        },
+        {
+          "hi": "K = 1 + MPC",
+          "en": "K = 1 + MPC"
+        },
+        {
+          "hi": "K = MPC / MPS",
+          "en": "K = MPC / MPS"
+        },
+        {
+          "hi": "K = 1 - MPC",
+          "en": "K = 1 - MPC"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सीमांत बचत प्रवृत्ति (MPS) और सीमांत उपभोग प्रवृत्ति (MPC) का योग हमेशा कितना होता है?",
+        "en": "What is the sum of Marginal Propensity to Save (MPS) and Marginal Propensity to Consume (MPC) always equal to?"
+      },
+      "o": [
+        {
+          "hi": "0 (शून्य)",
+          "en": "0 (Zero)"
+        },
+        {
+          "hi": "1 (एक)",
+          "en": "1 (One)"
+        },
+        {
+          "hi": "100",
+          "en": "100"
+        },
+        {
+          "hi": "असीम",
+          "en": "Infinite"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बंद अर्थव्यवस्था में राष्ट्रीय आय संतुलन स्थिति क्या होती है?",
+        "en": "What is the National Income equilibrium condition in a closed economy without government?"
+      },
+      "o": [
+        {
+          "hi": "आय = कर",
+          "en": "Income = Taxes"
+        },
+        {
+          "hi": "निर्यात = आयात",
+          "en": "Exports = Imports"
+        },
+        {
+          "hi": "बचत = निवेश (S = I)",
+          "en": "Savings = Investment (S = I)"
+        },
+        {
+          "hi": "उपभोग = शून्य",
+          "en": "Consumption = Zero"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सकल राष्ट्रीय प्रसन्नता (Gross National Happiness - GNH) सूचकांक सबसे पहले किस देश ने अपनाया?",
+        "en": "Which country first adopted the Gross National Happiness (GNH) index?"
+      },
+      "o": [
+        {
+          "hi": "भारत",
+          "en": "India"
+        },
+        {
+          "hi": "नेपाल",
+          "en": "Nepal"
+        },
+        {
+          "hi": "फिनलैंड",
+          "en": "Finland"
+        },
+        {
+          "hi": "भूटान",
+          "en": "Bhutan"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किसी देश में घरेलू सीमाओं के भीतर विदेशी नागरिकों द्वारा अर्जित आय किसमें शामिल होती है?",
+        "en": "Income earned by foreign nationals within the domestic territory of a country is included in-"
+      },
+      "o": [
+        {
+          "hi": "उस देश के GDP में",
+          "en": "GDP of that country"
+        },
+        {
+          "hi": "उस देश के GNP में",
+          "en": "GNP of that country"
+        },
+        {
+          "hi": "उस देश के NNP में",
+          "en": "NNP of that country"
+        },
+        {
+          "hi": "राष्ट्रीय आय में",
+          "en": "National Income"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किसी देश के नागरिकों द्वारा विदेश में अर्जित आय किसमें जोड़ी जाती है?",
+        "en": "Income earned abroad by the citizens of a country is added to-"
+      },
+      "o": [
+        {
+          "hi": "केवल GDP में",
+          "en": "GDP only"
+        },
+        {
+          "hi": "GNP में (GDP में नहीं)",
+          "en": "GNP (and not GDP)"
+        },
+        {
+          "hi": "केवल NDP में",
+          "en": "NDP only"
+        },
+        {
+          "hi": "किसी में नहीं",
+          "en": "Neither"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यदि किसी अर्थव्यवस्था में मूल्यह्रास (Depreciation) शून्य हो, तो-",
+        "en": "If depreciation in an economy is zero, then-"
+      },
+      "o": [
+        {
+          "hi": "GNP शून्य हो जाएगा",
+          "en": "GNP will become zero"
+        },
+        {
+          "hi": "राष्ट्रीय आय शून्य हो जाएगी",
+          "en": "National Income will become zero"
+        },
+        {
+          "hi": "GDP और NDP दोनों बराबर होंगे",
+          "en": "Both GDP and NDP will be equal"
+        },
+        {
+          "hi": "प्रति व्यक्ति आय दोगुनी हो जाएगी",
+          "en": "Per capita income will double"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रीय आय गणना में 'दोहरी गणना' (Double Counting) का क्या परिणाम होता है?",
+        "en": "What is the consequence of 'Double Counting' in National Income estimation?"
+      },
+      "o": [
+        {
+          "hi": "राष्ट्रीय आय का अव-मूल्यांकन",
+          "en": "Underestimation of National Income"
+        },
+        {
+          "hi": "सटीक आंकड़ा प्राप्त होना",
+          "en": "Obtaining accurate figures"
+        },
+        {
+          "hi": "कर संग्रह में वृद्धि",
+          "en": "Increase in tax collection"
+        },
+        {
+          "hi": "राष्ट्रीय आय का अति-मूल्यांकन (Overestimation)",
+          "en": "Overestimation of National Income"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सकल घरेलू उत्पाद (GDP) किसका माप नहीं है?",
+        "en": "Gross Domestic Product (GDP) is NOT a measure of what?"
+      },
+      "o": [
+        {
+          "hi": "देश में धन का समान वितरण और कल्याण",
+          "en": "Equitable distribution of wealth and welfare in the nation"
+        },
+        {
+          "hi": "वस्तुओं और सेवाओं का कुल उत्पादन",
+          "en": "Total production of goods and services"
+        },
+        {
+          "hi": "अर्थव्यवस्था का आकार",
+          "en": "Size of the economy"
+        },
+        {
+          "hi": "उत्पादन की बाजार कीमत",
+          "en": "Market value of output"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत की राष्ट्रीय आय में सबसे कम योगदान वर्तमान में किस क्षेत्र का है?",
+        "en": "Which sector currently has the lowest contribution to India's National Income?"
+      },
+      "o": [
+        {
+          "hi": "द्वितीयक क्षेत्र",
+          "en": "Secondary Sector"
+        },
+        {
+          "hi": "प्राथमिक क्षेत्र (कृषि)",
+          "en": "Primary Sector (Agriculture)"
+        },
+        {
+          "hi": "तृतीयक क्षेत्र",
+          "en": "Tertiary Sector"
+        },
+        {
+          "hi": "आईटी क्षेत्र",
+          "en": "IT Sector"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "व्यक्तिगत बचत (Personal Savings) का क्या अर्थ है?",
+        "en": "What is Personal Savings?"
+      },
+      "o": [
+        {
+          "hi": "कुल आय - प्रत्यक्ष कर",
+          "en": "Total Income - Direct Taxes"
+        },
+        {
+          "hi": "राष्ट्रीय आय - निवेश",
+          "en": "National Income - Investment"
+        },
+        {
+          "hi": "व्यक्तिगत प्रयोज्य आय - उपभोग व्यय",
+          "en": "Personal Disposable Income - Consumption Expenditure"
+        },
+        {
+          "hi": "सकल राजस्व - लाभांश",
+          "en": "Gross Revenue - Dividend"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निगम कर (Corporate Tax) किस आय का हिस्सा होता है?",
+        "en": "Corporate Tax is deducted from which income during NI calculation?"
+      },
+      "o": [
+        {
+          "hi": "व्यक्तिगत प्रयोज्य आय से",
+          "en": "Personal disposable income"
+        },
+        {
+          "hi": "हस्तांतरण आय से",
+          "en": "Transfer income"
+        },
+        {
+          "hi": "विदेशी अनुदान से",
+          "en": "Foreign grants"
+        },
+        {
+          "hi": "कंपनियों के निजी लाभ से",
+          "en": "Private corporate profits"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सकल पूंजी निर्माण (Gross Capital Formation) का अर्थ क्या होता है?",
+        "en": "What does Gross Capital Formation mean?"
+      },
+      "o": [
+        {
+          "hi": "अर्थव्यवस्था में वास्तविक भौतिक परिसंपत्तियों (मशीनों, भवनों आदि) का जोड़",
+          "en": "Addition to real physical assets (machinery, buildings, etc.) in the economy"
+        },
+        {
+          "hi": "बैंक जमा में वृद्धि",
+          "en": "Increase in bank deposits"
+        },
+        {
+          "hi": "शेयर बाजार पूंजीकरण",
+          "en": "Stock market capitalization"
+        },
+        {
+          "hi": "विदेशी मुद्रा भंडार में वृद्धि",
+          "en": "Increase in forex reserves"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "निवल (शुद्ध) पूंजी निर्माण की गणना का सूत्र क्या है?",
+        "en": "What is the formula for Net Capital Formation?"
+      },
+      "o": [
+        {
+          "hi": "सकल पूंजी निर्माण + अप्रत्यक्ष कर",
+          "en": "Gross Capital Formation + Indirect Taxes"
+        },
+        {
+          "hi": "सकल पूंजी निर्माण - मूल्यह्रास",
+          "en": "Gross Capital Formation - Depreciation"
+        },
+        {
+          "hi": "सकल पूंजी निर्माण - बचत",
+          "en": "Gross Capital Formation - Savings"
+        },
+        {
+          "hi": "सकल पूंजी निर्माण + विदेशी निवेश",
+          "en": "Gross Capital Formation + Foreign Investment"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यदि किसी देश में वास्तविक GDP बढ़ रही है परंतु प्रति व्यक्ति वास्तविक GDP घट रही है, तो इसका कारण क्या है?",
+        "en": "If real GDP is growing but per capita real GDP is declining in a country, what is the reason?"
+      },
+      "o": [
+        {
+          "hi": "मुद्रास्फीति बहुत कम है",
+          "en": "Inflation is very low"
+        },
+        {
+          "hi": "निर्यात बढ़ रहा है",
+          "en": "Exports are rising"
+        },
+        {
+          "hi": "जनसंख्या वृद्धि दर GDP वृद्धि दर से अधिक है",
+          "en": "Population growth rate is higher than GDP growth rate"
+        },
+        {
+          "hi": "कर संग्रह बढ़ रहा है",
+          "en": "Tax collection is rising"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वस्तुओं के अंतिम उपभोग पर आधारित गणना विधि को क्या कहते हैं?",
+        "en": "What is the method based on final consumption of goods called?"
+      },
+      "o": [
+        {
+          "hi": "आय विधि",
+          "en": "Income Method"
+        },
+        {
+          "hi": "मूल्य वर्धित विधि",
+          "en": "Value Added Method"
+        },
+        {
+          "hi": "लागत विधि",
+          "en": "Cost Method"
+        },
+        {
+          "hi": "व्यय विधि (Expenditure Method)",
+          "en": "Expenditure Method"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सेवा क्षेत्र में उत्पादित सेवाओं के मूल्य की गणना के लिए मुख्यतः कौन सी विधि अपनाई जाती है?",
+        "en": "Which method is primarily used to estimate value in the service sector?"
+      },
+      "o": [
+        {
+          "hi": "आय विधि (Income Method)",
+          "en": "Income Method"
+        },
+        {
+          "hi": "उत्पाद विधि",
+          "en": "Product Method"
+        },
+        {
+          "hi": "मूल्यह्रास विधि",
+          "en": "Depreciation Method"
+        },
+        {
+          "hi": "सीमा शुल्क विधि",
+          "en": "Customs Duty Method"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कृषि और निर्माण क्षेत्र में उत्पादन मापने के लिए मुख्यतः किस विधि का प्रयोग होता है?",
+        "en": "Which method is mainly used to measure output in agriculture and construction?"
+      },
+      "o": [
+        {
+          "hi": "व्यय विधि",
+          "en": "Expenditure Method"
+        },
+        {
+          "hi": "उत्पाद विधि / मूल्य वर्धित विधि",
+          "en": "Product Method / Value Added Method"
+        },
+        {
+          "hi": "आय विधि",
+          "en": "Income Method"
+        },
+        {
+          "hi": "लाभ विधि",
+          "en": "Profit Method"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चालू मूल्य पर GDP को 'नामित GDP' तथा स्थिर मूल्य पर GDP को क्या कहते हैं?",
+        "en": "GDP at current prices is 'Nominal GDP', while GDP at constant prices is called-"
+      },
+      "o": [
+        {
+          "hi": "सकल NNP",
+          "en": "Gross NNP"
+        },
+        {
+          "hi": "प्रयोज्य GDP",
+          "en": "Disposable GDP"
+        },
+        {
+          "hi": "वास्तविक GDP (Real GDP)",
+          "en": "Real GDP"
+        },
+        {
+          "hi": "शुद्ध GVA",
+          "en": "Net GVA"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सकल राष्ट्रीय उत्पाद (GNP) मापने में विदेशी पर्यटकों द्वारा भारत में किया गया व्यय किसमें आता है?",
+        "en": "Expenditure by foreign tourists in India is counted under which category for GDP?"
+      },
+      "o": [
+        {
+          "hi": "भारत का आयात",
+          "en": "Imports of India"
+        },
+        {
+          "hi": "हस्तांतरण भुगतान",
+          "en": "Transfer Payment"
+        },
+        {
+          "hi": "मूल्यह्रास",
+          "en": "Depreciation"
+        },
+        {
+          "hi": "भारत का निर्यात (Exports of India)",
+          "en": "Exports of India"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विदेशों में रहने वाले भारतीय प्रवासियों द्वारा स्वदेश भेजी गई रकम (Remittances) किसमें शामिल होती है?",
+        "en": "Remittances sent home by Indian NRIs living abroad are included in-"
+      },
+      "o": [
+        {
+          "hi": "भारत के GNP में (GDP में नहीं)",
+          "en": "India's GNP (and not GDP)"
+        },
+        {
+          "hi": "भारत के GDP में",
+          "en": "India's GDP"
+        },
+        {
+          "hi": "भारत के NDP में",
+          "en": "India's NDP"
+        },
+        {
+          "hi": "किसी भी राष्ट्रीय खाते में नहीं",
+          "en": "No national account"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वैश्वीकरण के दौर में यदि कोई देश बहुत अधिक विदेशी निवेश प्राप्त करता है, तो उसके GDP और GNP में क्या अंतर दिखेगा?",
+        "en": "If a country receives huge foreign investment during globalization, what difference will appear between its GDP and GNP?"
+      },
+      "o": [
+        {
+          "hi": "GNP, GDP से अधिक हो जाएगा",
+          "en": "GNP will become greater than GDP"
+        },
+        {
+          "hi": "GDP, GNP से काफी अधिक हो जाएगा (GDP > GNP)",
+          "en": "GDP will become significantly greater than GNP (GDP > GNP)"
+        },
+        {
+          "hi": "दोनों बराबर रहेंगे",
+          "en": "Both will remain equal"
+        },
+        {
+          "hi": "GDP घट जाएगा",
+          "en": "GDP will decrease"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सकल राष्ट्रीय उत्पाद (GNP) को किसी देश के आर्थिक स्वास्थ्य के लिए GDP से बेहतर क्यों माना जाता है?",
+        "en": "Why is GNP sometimes preferred over GDP for measuring economic health of citizens?"
+      },
+      "o": [
+        {
+          "hi": "यह केवल कर दरों को मापता है",
+          "en": "It measures tax rates only"
+        },
+        {
+          "hi": "यह जनसंख्या को शामिल नहीं करता",
+          "en": "It excludes population"
+        },
+        {
+          "hi": "यह केवल देश के वास्तविक नागरिकों द्वारा अर्जित आय को मापता है",
+          "en": "It measures income earned exclusively by actual citizens of the country"
+        },
+        {
+          "hi": "इसमें मूल्यह्रास शून्य होता है",
+          "en": "Depreciation is zero in it"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राष्‍ट्रीय आय में 'पेंशन' को शामिल न करने का कारण क्या है जबकि 'सेवानिवृत्ति पेंशन' (Retirement Pension) को शामिल किया जाता है?",
+        "en": "Why is social pension excluded while retirement pension is included in National Income?"
+      },
+      "o": [
+        {
+          "hi": "सामाजिक पेंशन में कर लगता है",
+          "en": "Social pension is taxed"
+        },
+        {
+          "hi": "दोनों को शामिल किया जाता है",
+          "en": "Both are included"
+        },
+        {
+          "hi": "दोनों को बाहर रखा जाता है",
+          "en": "Both are excluded"
+        },
+        {
+          "hi": "सेवानिवृत्ति पेंशन अतीत की उत्पादक सेवाओं का आस्थगित भुगतान है",
+          "en": "Retirement pension is deferred payment for past productive service"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उत्पादन मूल्य (Value of Output) और मूल्य वर्धन (Value Addition) में क्या अंतर है?",
+        "en": "What is the difference between Value of Output and Value Addition?"
+      },
+      "o": [
+        {
+          "hi": "मध्यवर्ती उपभोग की लागत (Value of Output - Intermediate Consumption = Value Added)",
+          "en": "Cost of intermediate consumption (Value of Output - Intermediate Consumption = Value Added)"
+        },
+        {
+          "hi": "केवल प्रत्यक्ष कर",
+          "en": "Direct taxes only"
+        },
+        {
+          "hi": "केवल लाभ",
+          "en": "Profit only"
+        },
+        {
+          "hi": "सब्सिडी की राशि",
+          "en": "Subsidy amount"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संयुक्त राष्ट्र सांख्यिकी आयोग द्वारा राष्ट्रीय लेखा प्रणाली (SNA) कब जारी की गई थी?",
+        "en": "When was the System of National Accounts (SNA) standard framework released by UN Statistical Commission?"
+      },
+      "o": [
+        {
+          "hi": "2020",
+          "en": "2020"
+        },
+        {
+          "hi": "1953, 1968, 1993, 2008",
+          "en": "1953, 1968, 1993, 2008"
+        },
+        {
+          "hi": "1900",
+          "en": "1900"
+        },
+        {
+          "hi": "1947",
+          "en": "1947"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत ने 2015 में GDP मापन में कौन सा प्रमुख सुधार किया था?",
+        "en": "Which major reform was implemented by India in GDP measurement in 2015?"
+      },
+      "o": [
+        {
+          "hi": "GDP की गणना बंद करना",
+          "en": "Stopping GDP calculation"
+        },
+        {
+          "hi": "केवल डॉलर में GDP मापना",
+          "en": "Measuring GDP in USD only"
+        },
+        {
+          "hi": "आधार वर्ष बदलकर 2011-12 करना और फैक्टर कॉस्ट के स्थान पर मार्केट प्राइस (GVA) अपनाना",
+          "en": "Changing base year to 2011-12 and adopting Market Prices (GVA) over Factor Cost"
+        },
+        {
+          "hi": "केवल निजी क्षेत्र को शामिल करना",
+          "en": "Including private sector only"
+        }
+      ],
+      "a": 2
+    }
+  ]
+}
