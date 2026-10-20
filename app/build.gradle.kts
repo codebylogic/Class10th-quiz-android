@@ -13,8 +13,8 @@ android {
         applicationId = "com.smartquiz.portal"
         minSdk = 24
         targetSdk = 35
-        versionCode = 6
-        versionName = "1.5.0"
+        versionCode = 7
+        versionName = "1.5.1"
 
         vectorDrawables {
             useSupportLibrary = true
@@ -23,12 +23,25 @@ android {
 
     signingConfigs {
         getByName("debug") {
-            val rootDebugKeystore = rootProject.file("debug.keystore")
-            if (rootDebugKeystore.exists()) {
-                storeFile = rootDebugKeystore
-                storePassword = "android"
-                keyAlias = "androiddebugkey"
-                keyPassword = "android"
+            // Preferred: a FIXED keystore supplied by CI through secrets. Because the signing
+            // certificate stays the same across builds, a newly built APK installs straight
+            // over the previous one (and the in-app updater can replace the app in place).
+            val fixedKeystorePath = System.getenv("SIGNING_KEYSTORE_PATH")
+            if (!fixedKeystorePath.isNullOrBlank() && rootProject.file(fixedKeystorePath).exists()) {
+                storeFile = rootProject.file(fixedKeystorePath)
+                storePassword = System.getenv("SIGNING_STORE_PASSWORD")
+                keyAlias = System.getenv("SIGNING_KEY_ALIAS")
+                keyPassword = System.getenv("SIGNING_KEY_PASSWORD")
+                storeType = "PKCS12"
+            } else {
+                // Fallback: a generated ./debug.keystore (its key changes on every fresh CI run)
+                val rootDebugKeystore = rootProject.file("debug.keystore")
+                if (rootDebugKeystore.exists()) {
+                    storeFile = rootDebugKeystore
+                    storePassword = "android"
+                    keyAlias = "androiddebugkey"
+                    keyPassword = "android"
+                }
             }
         }
     }
