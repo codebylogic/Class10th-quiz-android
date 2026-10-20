@@ -1,0 +1,3949 @@
+{
+  "contentVersion": "2026.10.1",
+  "courses": [
+    {
+      "id": "bseb10",
+      "shortLabel": "BSEB 10th",
+      "badge": "BOARD 2026",
+      "title": "बिहार बोर्ड कक्षा 10 वीं सफलता पोर्टल",
+      "subtitle": "Bihar School Examination Board (Class 10)",
+      "baseDir": "data/BSEB/10th/",
+      "subjects": [
+        {
+          "id": "bseb10_hindi",
+          "name": "हिंदी - गोधूलि (HINDI)",
+          "titleHi": "हिंदी - गोधूलि",
+          "titleEn": "HINDI",
+          "description": "कक्षा 10वीं बिहार बोर्ड हिंदी गद्यखंड, काव्यखंड एवं वर्णिका।",
+          "icon": "📔",
+          "badge": "Hindi",
+          "accentBg": "rgba(245, 158, 11, 0.16)",
+          "accentBorder": "rgba(245, 158, 11, 0.35)",
+          "sections": [
+            {
+              "id": "bseb10_hindi_prose",
+              "name": "गद्यखंड (PROSE)",
+              "titleHi": "गद्यखंड",
+              "titleEn": "PROSE",
+              "chapters": [
+                {
+                  "id": "bseb10_hindi_prose_01",
+                  "name": "पाठ 01 (श्रम विभाजन और जाति प्रथा)",
+                  "titleHi": "पाठ 01 (श्रम विभाजन और जाति प्रथा)",
+                  "titleEn": "पाठ 01 (श्रम विभाजन और जाति प्रथा)",
+                  "file": "HINDI/PROSE/01.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_prose_02",
+                  "name": "पाठ 02 (विष के दांत)",
+                  "titleHi": "पाठ 02 (विष के दांत)",
+                  "titleEn": "पाठ 02 (विष के दांत)",
+                  "file": "HINDI/PROSE/02.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_prose_03",
+                  "name": "पाठ 03 (भारत से हम क्या सीखें)",
+                  "titleHi": "पाठ 03 (भारत से हम क्या सीखें)",
+                  "titleEn": "पाठ 03 (भारत से हम क्या सीखें)",
+                  "file": "HINDI/PROSE/03.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_prose_04",
+                  "name": "पाठ 04 (नाखून क्यों बढ़ते हैं)",
+                  "titleHi": "पाठ 04 (नाखून क्यों बढ़ते हैं)",
+                  "titleEn": "पाठ 04 (नाखून क्यों बढ़ते हैं)",
+                  "file": "HINDI/PROSE/04.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_prose_05",
+                  "name": "पाठ 05 (नागरी लिपि)",
+                  "titleHi": "पाठ 05 (नागरी लिपि)",
+                  "titleEn": "पाठ 05 (नागरी लिपि)",
+                  "file": "HINDI/PROSE/05.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_prose_06",
+                  "name": "पाठ 06 (बहादुर)",
+                  "titleHi": "पाठ 06 (बहादुर)",
+                  "titleEn": "पाठ 06 (बहादुर)",
+                  "file": "HINDI/PROSE/06.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_prose_07",
+                  "name": "पाठ 07 (परंपरा का मूल्यांकन)",
+                  "titleHi": "पाठ 07 (परंपरा का मूल्यांकन)",
+                  "titleEn": "पाठ 07 (परंपरा का मूल्यांकन)",
+                  "file": "HINDI/PROSE/07.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_prose_08",
+                  "name": "पाठ 08 (जीत-जीत मैं निरखत हूँ)",
+                  "titleHi": "पाठ 08 (जीत-जीत मैं निरखत हूँ)",
+                  "titleEn": "पाठ 08 (जीत-जीत मैं निरखत हूँ)",
+                  "file": "HINDI/PROSE/08.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_prose_09",
+                  "name": "पाठ 09 (अविन्यों)",
+                  "titleHi": "पाठ 09 (अविन्यों)",
+                  "titleEn": "पाठ 09 (अविन्यों)",
+                  "file": "HINDI/PROSE/09.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_prose_10",
+                  "name": "पाठ 10 (मछली)",
+                  "titleHi": "पाठ 10 (मछली)",
+                  "titleEn": "पाठ 10 (मछली)",
+                  "file": "HINDI/PROSE/10.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_prose_11",
+                  "name": "पाठ 11 (नौबतखाने में इबादत)",
+                  "titleHi": "पाठ 11 (नौबतखाने में इबादत)",
+                  "titleEn": "पाठ 11 (नौबतखाने में इबादत)",
+                  "file": "HINDI/PROSE/11.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_prose_12",
+                  "name": "पाठ 12 (शिक्षा और संस्कृति)",
+                  "titleHi": "पाठ 12 (शिक्षा और संस्कृति)",
+                  "titleEn": "पाठ 12 (शिक्षा और संस्कृति)",
+                  "file": "HINDI/PROSE/12.json",
+                  "questions": 70
+                }
+              ]
+            },
+            {
+              "id": "bseb10_hindi_poetry",
+              "name": "काव्यखंड (POETRY)",
+              "titleHi": "काव्यखंड",
+              "titleEn": "POETRY",
+              "chapters": [
+                {
+                  "id": "bseb10_hindi_poetry_01",
+                  "name": "पाठ 01 (राम नाम बिनु बिरथे जगि जन्मा)",
+                  "titleHi": "पाठ 01 (राम नाम बिनु बिरथे जगि जन्मा)",
+                  "titleEn": "पाठ 01 (राम नाम बिनु बिरथे जगि जन्मा)",
+                  "file": "HINDI/POETRY/01.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_poetry_02",
+                  "name": "पाठ 02 (प्रेम अयनि श्री राधिका)",
+                  "titleHi": "पाठ 02 (प्रेम अयनि श्री राधिका)",
+                  "titleEn": "पाठ 02 (प्रेम अयनि श्री राधिका)",
+                  "file": "HINDI/POETRY/02.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_poetry_03",
+                  "name": "पाठ 03 (अति सूधो सनेह को मारगु है)",
+                  "titleHi": "पाठ 03 (अति सूधो सनेह को मारगु है)",
+                  "titleEn": "पाठ 03 (अति सूधो सनेह को मारगु है)",
+                  "file": "HINDI/POETRY/03.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_poetry_04",
+                  "name": "पाठ 04 (स्वदेशी)",
+                  "titleHi": "पाठ 04 (स्वदेशी)",
+                  "titleEn": "पाठ 04 (स्वदेशी)",
+                  "file": "HINDI/POETRY/04.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_poetry_05",
+                  "name": "पाठ 05 (भारतमाता)",
+                  "titleHi": "पाठ 05 (भारतमाता)",
+                  "titleEn": "पाठ 05 (भारतमाता)",
+                  "file": "HINDI/POETRY/05.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_poetry_06",
+                  "name": "पाठ 06 (जनतंत्र का जन्म)",
+                  "titleHi": "पाठ 06 (जनतंत्र का जन्म)",
+                  "titleEn": "पाठ 06 (जनतंत्र का जन्म)",
+                  "file": "HINDI/POETRY/06.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_poetry_07",
+                  "name": "पाठ 07 (हिरोशिमा)",
+                  "titleHi": "पाठ 07 (हिरोशिमा)",
+                  "titleEn": "पाठ 07 (हिरोशिमा)",
+                  "file": "HINDI/POETRY/07.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_poetry_08",
+                  "name": "पाठ 08 (एक वृक्ष की हत्या)",
+                  "titleHi": "पाठ 08 (एक वृक्ष की हत्या)",
+                  "titleEn": "पाठ 08 (एक वृक्ष की हत्या)",
+                  "file": "HINDI/POETRY/08.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_poetry_09",
+                  "name": "पाठ 09 (हमारी नींद)",
+                  "titleHi": "पाठ 09 (हमारी नींद)",
+                  "titleEn": "पाठ 09 (हमारी नींद)",
+                  "file": "HINDI/POETRY/09.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_poetry_10",
+                  "name": "पाठ 10 (अक्षर-ज्ञान)",
+                  "titleHi": "पाठ 10 (अक्षर-ज्ञान)",
+                  "titleEn": "पाठ 10 (अक्षर-ज्ञान)",
+                  "file": "HINDI/POETRY/10.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_poetry_11",
+                  "name": "पाठ 11 (लौटकर आऊँगा फिर)",
+                  "titleHi": "पाठ 11 (लौटकर आऊँगा फिर)",
+                  "titleEn": "पाठ 11 (लौटकर आऊँगा फिर)",
+                  "file": "HINDI/POETRY/11.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_poetry_12",
+                  "name": "पाठ 12 (मेरे बिना तुम प्रभु)",
+                  "titleHi": "पाठ 12 (मेरे बिना तुम प्रभु)",
+                  "titleEn": "पाठ 12 (मेरे बिना तुम प्रभु)",
+                  "file": "HINDI/POETRY/12.json",
+                  "questions": 70
+                }
+              ]
+            },
+            {
+              "id": "bseb10_hindi_varnika",
+              "name": "वर्णिका (VARNIKA)",
+              "titleHi": "वर्णिका",
+              "titleEn": "VARNIKA",
+              "chapters": [
+                {
+                  "id": "bseb10_hindi_varnika_01",
+                  "name": "अध्याय 01 (दही वाली मंगम्मा)",
+                  "titleHi": "अध्याय 01 (दही वाली मंगम्मा)",
+                  "titleEn": "अध्याय 01 (दही वाली मंगम्मा)",
+                  "file": "HINDI/VARNIKA/01.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_varnika_02",
+                  "name": "अध्याय 02 (ढहते विश्वास)",
+                  "titleHi": "अध्याय 02 (ढहते विश्वास)",
+                  "titleEn": "अध्याय 02 (ढहते विश्वास)",
+                  "file": "HINDI/VARNIKA/02.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_varnika_03",
+                  "name": "अध्याय 03 (माँ)",
+                  "titleHi": "अध्याय 03 (माँ)",
+                  "titleEn": "अध्याय 03 (माँ)",
+                  "file": "HINDI/VARNIKA/03.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_varnika_04",
+                  "name": "अध्याय 04 (नगर)",
+                  "titleHi": "अध्याय 04 (नगर)",
+                  "titleEn": "अध्याय 04 (नगर)",
+                  "file": "HINDI/VARNIKA/04.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_hindi_varnika_05",
+                  "name": "अध्याय 05 (धरती कब तक घूमेगी)",
+                  "titleHi": "अध्याय 05 (धरती कब तक घूमेगी)",
+                  "titleEn": "अध्याय 05 (धरती कब तक घूमेगी)",
+                  "file": "HINDI/VARNIKA/05.json",
+                  "questions": 70
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bseb10_science",
+          "name": "विज्ञान (SCIENCE)",
+          "titleHi": "विज्ञान",
+          "titleEn": "SCIENCE",
+          "description": "भौतिकी, रसायनशास्त्र और जीवविज्ञान के वस्तुनिष्ठ प्रश्न।",
+          "icon": "🔬",
+          "badge": "Core",
+          "accentBg": "rgba(6, 182, 212, 0.16)",
+          "accentBorder": "rgba(6, 182, 212, 0.35)",
+          "sections": [
+            {
+              "id": "bseb10_science_physics",
+              "name": "भौतिक विज्ञान (PHYSICS)",
+              "titleHi": "भौतिक विज्ञान",
+              "titleEn": "PHYSICS",
+              "chapters": [
+                {
+                  "id": "bseb10_science_physics_01",
+                  "name": "अध्याय 01 (प्रकाश का परावर्तन एवं अपवर्तन)",
+                  "titleHi": "अध्याय 01 (प्रकाश का परावर्तन एवं अपवर्तन)",
+                  "titleEn": "अध्याय 01 (प्रकाश का परावर्तन एवं अपवर्तन)",
+                  "file": "SCIENCE/PHYSICS/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_science_physics_02",
+                  "name": "अध्याय 02 (मानव नेत्र और रंगबिरंगा संसार)",
+                  "titleHi": "अध्याय 02 (मानव नेत्र और रंगबिरंगा संसार)",
+                  "titleEn": "अध्याय 02 (मानव नेत्र और रंगबिरंगा संसार)",
+                  "file": "SCIENCE/PHYSICS/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_science_physics_03",
+                  "name": "अध्याय 03 (विद्युत धारा)",
+                  "titleHi": "अध्याय 03 (विद्युत धारा)",
+                  "titleEn": "अध्याय 03 (विद्युत धारा)",
+                  "file": "SCIENCE/PHYSICS/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_science_physics_04",
+                  "name": "अध्याय 04 (विद्युत धारा का चुंबकीय प्रभाव)",
+                  "titleHi": "अध्याय 04 (विद्युत धारा का चुंबकीय प्रभाव)",
+                  "titleEn": "अध्याय 04 (विद्युत धारा का चुंबकीय प्रभाव)",
+                  "file": "SCIENCE/PHYSICS/04.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_science_physics_05",
+                  "name": "अध्याय 05 (ऊर्जा के स्रोत)",
+                  "titleHi": "अध्याय 05 (ऊर्जा के स्रोत)",
+                  "titleEn": "अध्याय 05 (ऊर्जा के स्रोत)",
+                  "file": "SCIENCE/PHYSICS/05.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_science_physics_06",
+                  "name": "अध्याय 06 (प्रायोगिक एवं अति-महत्वपूर्ण)",
+                  "titleHi": "अध्याय 06 (प्रायोगिक एवं अति-महत्वपूर्ण)",
+                  "titleEn": "अध्याय 06 (प्रायोगिक एवं अति-महत्वपूर्ण)",
+                  "file": "SCIENCE/PHYSICS/06.json",
+                  "questions": 96
+                },
+                {
+                  "id": "bseb10_science_physics_07",
+                  "name": "अध्याय 07 (भौतिकी रिवीजन मॉडल)",
+                  "titleHi": "अध्याय 07 (भौतिकी रिवीजन मॉडल)",
+                  "titleEn": "अध्याय 07 (भौतिकी रिवीजन मॉडल)",
+                  "file": "SCIENCE/PHYSICS/07.json",
+                  "questions": 96
+                },
+                {
+                  "id": "bseb10_science_physics_08",
+                  "name": "मेगा टेस्ट (Mega Physics Test)",
+                  "titleHi": "मेगा टेस्ट (Mega Physics Test)",
+                  "titleEn": "मेगा टेस्ट (Mega Physics Test)",
+                  "file": "SCIENCE/PHYSICS/mega.json",
+                  "questions": 199
+                }
+              ]
+            },
+            {
+              "id": "bseb10_science_chemistry",
+              "name": "रसायन विज्ञान (CHEMISTRY)",
+              "titleHi": "रसायन विज्ञान",
+              "titleEn": "CHEMISTRY",
+              "chapters": [
+                {
+                  "id": "bseb10_science_chemistry_01",
+                  "name": "अध्याय 01 (रासायनिक अभिक्रियाएं एवं समीकरण)",
+                  "titleHi": "अध्याय 01 (रासायनिक अभिक्रियाएं एवं समीकरण)",
+                  "titleEn": "अध्याय 01 (रासायनिक अभिक्रियाएं एवं समीकरण)",
+                  "file": "SCIENCE/CHEMISTRY/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_science_chemistry_02",
+                  "name": "अध्याय 02 (अम्ल, क्षारक एवं लवण)",
+                  "titleHi": "अध्याय 02 (अम्ल, क्षारक एवं लवण)",
+                  "titleEn": "अध्याय 02 (अम्ल, क्षारक एवं लवण)",
+                  "file": "SCIENCE/CHEMISTRY/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_science_chemistry_03",
+                  "name": "अध्याय 03 (धातु एवं अधातु)",
+                  "titleHi": "अध्याय 03 (धातु एवं अधातु)",
+                  "titleEn": "अध्याय 03 (धातु एवं अधातु)",
+                  "file": "SCIENCE/CHEMISTRY/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_science_chemistry_04",
+                  "name": "अध्याय 04 (कार्बन एवं इसके यौगिक)",
+                  "titleHi": "अध्याय 04 (कार्बन एवं इसके यौगिक)",
+                  "titleEn": "अध्याय 04 (कार्बन एवं इसके यौगिक)",
+                  "file": "SCIENCE/CHEMISTRY/04.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_science_chemistry_05",
+                  "name": "अध्याय 05 (तत्वों का आवर्त वर्गीकरण)",
+                  "titleHi": "अध्याय 05 (तत्वों का आवर्त वर्गीकरण)",
+                  "titleEn": "अध्याय 05 (तत्वों का आवर्त वर्गीकरण)",
+                  "file": "SCIENCE/CHEMISTRY/05.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_science_chemistry_06",
+                  "name": "अध्याय 06 (प्राकृतिक संसाधन प्रबंधन)",
+                  "titleHi": "अध्याय 06 (प्राकृतिक संसाधन प्रबंधन)",
+                  "titleEn": "अध्याय 06 (प्राकृतिक संसाधन प्रबंधन)",
+                  "file": "SCIENCE/CHEMISTRY/06.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "bseb10_science_biology",
+              "name": "जीव विज्ञान (BIOLOGY)",
+              "titleHi": "जीव विज्ञान",
+              "titleEn": "BIOLOGY",
+              "chapters": [
+                {
+                  "id": "bseb10_science_biology_01",
+                  "name": "अध्याय 01 (जैव प्रक्रम)",
+                  "titleHi": "अध्याय 01 (जैव प्रक्रम)",
+                  "titleEn": "अध्याय 01 (जैव प्रक्रम)",
+                  "file": "SCIENCE/BIOLOGY/01.json",
+                  "questions": 101
+                },
+                {
+                  "id": "bseb10_science_biology_02",
+                  "name": "अध्याय 02 (नियंत्रण एवं समन्वय)",
+                  "titleHi": "अध्याय 02 (नियंत्रण एवं समन्वय)",
+                  "titleEn": "अध्याय 02 (नियंत्रण एवं समन्वय)",
+                  "file": "SCIENCE/BIOLOGY/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_science_biology_03",
+                  "name": "अध्याय 03 (जीव जनन कैसे करते हैं)",
+                  "titleHi": "अध्याय 03 (जीव जनन कैसे करते हैं)",
+                  "titleEn": "अध्याय 03 (जीव जनन कैसे करते हैं)",
+                  "file": "SCIENCE/BIOLOGY/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_science_biology_04",
+                  "name": "अध्याय 04 (आनुवंशिकता एवं जैव विकास)",
+                  "titleHi": "अध्याय 04 (आनुवंशिकता एवं जैव विकास)",
+                  "titleEn": "अध्याय 04 (आनुवंशिकता एवं जैव विकास)",
+                  "file": "SCIENCE/BIOLOGY/04.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_science_biology_05",
+                  "name": "अध्याय 05 (हमारा पर्यावरण)",
+                  "titleHi": "अध्याय 05 (हमारा पर्यावरण)",
+                  "titleEn": "अध्याय 05 (हमारा पर्यावरण)",
+                  "file": "SCIENCE/BIOLOGY/05.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_science_biology_06",
+                  "name": "अध्याय 06 (श्वसन और पोषण)",
+                  "titleHi": "अध्याय 06 (श्वसन और पोषण)",
+                  "titleEn": "अध्याय 06 (श्वसन और पोषण)",
+                  "file": "SCIENCE/BIOLOGY/06.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_science_biology_07",
+                  "name": "अध्याय 07 (परिवहन और उत्सर्जन)",
+                  "titleHi": "अध्याय 07 (परिवहन और उत्सर्जन)",
+                  "titleEn": "अध्याय 07 (परिवहन और उत्सर्जन)",
+                  "file": "SCIENCE/BIOLOGY/07.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_science_biology_08",
+                  "name": "अध्याय 08 (जीव विज्ञान रिवीजन)",
+                  "titleHi": "अध्याय 08 (जीव विज्ञान रिवीजन)",
+                  "titleEn": "अध्याय 08 (जीव विज्ञान रिवीजन)",
+                  "file": "SCIENCE/BIOLOGY/08.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_science_biology_09",
+                  "name": "मेगा टेस्ट (Mega Biology Test)",
+                  "titleHi": "मेगा टेस्ट (Mega Biology Test)",
+                  "titleEn": "मेगा टेस्ट (Mega Biology Test)",
+                  "file": "SCIENCE/BIOLOGY/mega.json",
+                  "questions": 200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bseb10_social_science",
+          "name": "सामाजिक विज्ञान (SOCIAL SCIENCE)",
+          "titleHi": "सामाजिक विज्ञान",
+          "titleEn": "SOCIAL SCIENCE",
+          "description": "इतिहास, भूगोल, राजनीति, अर्थशास्त्र एवं आपदा प्रबंधन।",
+          "icon": "🔬",
+          "badge": "Core",
+          "accentBg": "rgba(244, 63, 94, 0.16)",
+          "accentBorder": "rgba(244, 63, 94, 0.35)",
+          "sections": [
+            {
+              "id": "bseb10_social_science_history",
+              "name": "इतिहास (HISTORY)",
+              "titleHi": "इतिहास",
+              "titleEn": "HISTORY",
+              "chapters": [
+                {
+                  "id": "bseb10_social_science_history_01",
+                  "name": "पाठ 01 (यूरोप में राष्ट्रवाद)",
+                  "titleHi": "पाठ 01 (यूरोप में राष्ट्रवाद)",
+                  "titleEn": "पाठ 01 (यूरोप में राष्ट्रवाद)",
+                  "file": "SOCIAL_SCIENCE/HISTORY/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_history_02",
+                  "name": "पाठ 02 (समाजवाद एवं साम्यवाद)",
+                  "titleHi": "पाठ 02 (समाजवाद एवं साम्यवाद)",
+                  "titleEn": "पाठ 02 (समाजवाद एवं साम्यवाद)",
+                  "file": "SOCIAL_SCIENCE/HISTORY/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_history_03",
+                  "name": "पाठ 03 (हिन्द-चीन में राष्ट्रवादी आंदोलन)",
+                  "titleHi": "पाठ 03 (हिन्द-चीन में राष्ट्रवादी आंदोलन)",
+                  "titleEn": "पाठ 03 (हिन्द-चीन में राष्ट्रवादी आंदोलन)",
+                  "file": "SOCIAL_SCIENCE/HISTORY/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_history_04",
+                  "name": "पाठ 04 (भारत में राष्ट्रवाद)",
+                  "titleHi": "पाठ 04 (भारत में राष्ट्रवाद)",
+                  "titleEn": "पाठ 04 (भारत में राष्ट्रवाद)",
+                  "file": "SOCIAL_SCIENCE/HISTORY/04.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_history_05",
+                  "name": "पाठ 05 (अर्थव्यवस्था और आजीविका)",
+                  "titleHi": "पाठ 05 (अर्थव्यवस्था और आजीविका)",
+                  "titleEn": "पाठ 05 (अर्थव्यवस्था और आजीविका)",
+                  "file": "SOCIAL_SCIENCE/HISTORY/05.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_history_06",
+                  "name": "पाठ 06 (शहरीकरण एवं शहरी जीवन)",
+                  "titleHi": "पाठ 06 (शहरीकरण एवं शहरी जीवन)",
+                  "titleEn": "पाठ 06 (शहरीकरण एवं शहरी जीवन)",
+                  "file": "SOCIAL_SCIENCE/HISTORY/06.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_history_07",
+                  "name": "पाठ 07 (व्यापार और भूमंडलीकरण)",
+                  "titleHi": "पाठ 07 (व्यापार और भूमंडलीकरण)",
+                  "titleEn": "पाठ 07 (व्यापार और भूमंडलीकरण)",
+                  "file": "SOCIAL_SCIENCE/HISTORY/07.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_history_08",
+                  "name": "पाठ 08 (प्रेस-संस्कृति और राष्ट्रवाद)",
+                  "titleHi": "पाठ 08 (प्रेस-संस्कृति और राष्ट्रवाद)",
+                  "titleEn": "पाठ 08 (प्रेस-संस्कृति और राष्ट्रवाद)",
+                  "file": "SOCIAL_SCIENCE/HISTORY/08.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "bseb10_social_science_geography",
+              "name": "भूगोल (GEOGRAPHY)",
+              "titleHi": "भूगोल",
+              "titleEn": "GEOGRAPHY",
+              "chapters": [
+                {
+                  "id": "bseb10_social_science_geography_01",
+                  "name": "इकाई 1: संसाधन एवं उपयोग",
+                  "titleHi": "इकाई 1: संसाधन एवं उपयोग",
+                  "titleEn": "इकाई 1: संसाधन एवं उपयोग",
+                  "file": "SOCIAL_SCIENCE/GEOGRAPHY/010.json",
+                  "questions": 99
+                },
+                {
+                  "id": "bseb10_social_science_geography_02",
+                  "name": "इकाई 1(क): प्राकृतिक संसाधन",
+                  "titleHi": "इकाई 1(क): प्राकृतिक संसाधन",
+                  "titleEn": "इकाई 1(क): प्राकृतिक संसाधन",
+                  "file": "SOCIAL_SCIENCE/GEOGRAPHY/011.json",
+                  "questions": 99
+                },
+                {
+                  "id": "bseb10_social_science_geography_03",
+                  "name": "इकाई 1(ख): जल संसाधन",
+                  "titleHi": "इकाई 1(ख): जल संसाधन",
+                  "titleEn": "इकाई 1(ख): जल संसाधन",
+                  "file": "SOCIAL_SCIENCE/GEOGRAPHY/012.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_geography_04",
+                  "name": "इकाई 1(ग): वन एवं वन्य प्राणी",
+                  "titleHi": "इकाई 1(ग): वन एवं वन्य प्राणी",
+                  "titleEn": "इकाई 1(ग): वन एवं वन्य प्राणी",
+                  "file": "SOCIAL_SCIENCE/GEOGRAPHY/013.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_geography_05",
+                  "name": "इकाई 1(घ): खनिज संसाधन",
+                  "titleHi": "इकाई 1(घ): खनिज संसाधन",
+                  "titleEn": "इकाई 1(घ): खनिज संसाधन",
+                  "file": "SOCIAL_SCIENCE/GEOGRAPHY/014.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_geography_06",
+                  "name": "इकाई 1(ङ): शक्ति/ऊर्जा संसाधन",
+                  "titleHi": "इकाई 1(ङ): शक्ति/ऊर्जा संसाधन",
+                  "titleEn": "इकाई 1(ङ): शक्ति/ऊर्जा संसाधन",
+                  "file": "SOCIAL_SCIENCE/GEOGRAPHY/015.json",
+                  "questions": 98
+                },
+                {
+                  "id": "bseb10_social_science_geography_07",
+                  "name": "इकाई 2: कृषि",
+                  "titleHi": "इकाई 2: कृषि",
+                  "titleEn": "इकाई 2: कृषि",
+                  "file": "SOCIAL_SCIENCE/GEOGRAPHY/020.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_geography_08",
+                  "name": "इकाई 3: निर्माण उद्योग",
+                  "titleHi": "इकाई 3: निर्माण उद्योग",
+                  "titleEn": "इकाई 3: निर्माण उद्योग",
+                  "file": "SOCIAL_SCIENCE/GEOGRAPHY/030.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_geography_09",
+                  "name": "इकाई 4: परिवहन, संचार एवं व्यापार",
+                  "titleHi": "इकाई 4: परिवहन, संचार एवं व्यापार",
+                  "titleEn": "इकाई 4: परिवहन, संचार एवं व्यापार",
+                  "file": "SOCIAL_SCIENCE/GEOGRAPHY/040.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_geography_10",
+                  "name": "इकाई 5: बिहार : कृषि एवं वन",
+                  "titleHi": "इकाई 5: बिहार : कृषि एवं वन",
+                  "titleEn": "इकाई 5: बिहार : कृषि एवं वन",
+                  "file": "SOCIAL_SCIENCE/GEOGRAPHY/051.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_geography_11",
+                  "name": "इकाई 5(क): बिहार : खनिज एवं ऊर्जा",
+                  "titleHi": "इकाई 5(क): बिहार : खनिज एवं ऊर्जा",
+                  "titleEn": "इकाई 5(क): बिहार : खनिज एवं ऊर्जा",
+                  "file": "SOCIAL_SCIENCE/GEOGRAPHY/052.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_geography_12",
+                  "name": "इकाई 5(ख): बिहार : उद्योग एवं परिवहन",
+                  "titleHi": "इकाई 5(ख): बिहार : उद्योग एवं परिवहन",
+                  "titleEn": "इकाई 5(ख): बिहार : उद्योग एवं परिवहन",
+                  "file": "SOCIAL_SCIENCE/GEOGRAPHY/053.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_geography_13",
+                  "name": "इकाई 5(ग): बिहार : जनसंख्या एवं नगरीकरण",
+                  "titleHi": "इकाई 5(ग): बिहार : जनसंख्या एवं नगरीकरण",
+                  "titleEn": "इकाई 5(ग): बिहार : जनसंख्या एवं नगरीकरण",
+                  "file": "SOCIAL_SCIENCE/GEOGRAPHY/054.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_geography_14",
+                  "name": "इकाई 6: मानचित्र अध्ययन",
+                  "titleHi": "इकाई 6: मानचित्र अध्ययन",
+                  "titleEn": "इकाई 6: मानचित्र अध्ययन",
+                  "file": "SOCIAL_SCIENCE/GEOGRAPHY/060.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "bseb10_social_science_political_science",
+              "name": "राजनीति विज्ञान (POLITICAL SCIENCE)",
+              "titleHi": "राजनीति विज्ञान",
+              "titleEn": "POLITICAL SCIENCE",
+              "chapters": [
+                {
+                  "id": "bseb10_social_science_political_science_01",
+                  "name": "पाठ 01 (लोकतंत्र में साझेदारी)",
+                  "titleHi": "पाठ 01 (लोकतंत्र में साझेदारी)",
+                  "titleEn": "पाठ 01 (लोकतंत्र में साझेदारी)",
+                  "file": "SOCIAL_SCIENCE/POLITICS/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_political_science_02",
+                  "name": "पाठ 02 (सत्ता में साझेदारी की कार्यप्रणाली)",
+                  "titleHi": "पाठ 02 (सत्ता में साझेदारी की कार्यप्रणाली)",
+                  "titleEn": "पाठ 02 (सत्ता में साझेदारी की कार्यप्रणाली)",
+                  "file": "SOCIAL_SCIENCE/POLITICS/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_political_science_03",
+                  "name": "पाठ 03 (लोकतंत्र की प्रतिस्पर्धा)",
+                  "titleHi": "पाठ 03 (लोकतंत्र की प्रतिस्पर्धा)",
+                  "titleEn": "पाठ 03 (लोकतंत्र की प्रतिस्पर्धा)",
+                  "file": "SOCIAL_SCIENCE/POLITICS/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_political_science_04",
+                  "name": "पाठ 04 (लोकतंत्र की उपलब्धियां)",
+                  "titleHi": "पाठ 04 (लोकतंत्र की उपलब्धियां)",
+                  "titleEn": "पाठ 04 (लोकतंत्र की उपलब्धियां)",
+                  "file": "SOCIAL_SCIENCE/POLITICS/04.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_political_science_05",
+                  "name": "पाठ 05 (लोकतंत्र की चुनौतियां)",
+                  "titleHi": "पाठ 05 (लोकतंत्र की चुनौतियां)",
+                  "titleEn": "पाठ 05 (लोकतंत्र की चुनौतियां)",
+                  "file": "SOCIAL_SCIENCE/POLITICS/05.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "bseb10_social_science_economics",
+              "name": "अर्थशास्त्र (ECONOMICS)",
+              "titleHi": "अर्थशास्त्र",
+              "titleEn": "ECONOMICS",
+              "chapters": [
+                {
+                  "id": "bseb10_social_science_economics_01",
+                  "name": "पाठ 01 (अर्थव्यवस्था एवं इसके विकास का इतिहास)",
+                  "titleHi": "पाठ 01 (अर्थव्यवस्था एवं इसके विकास का इतिहास)",
+                  "titleEn": "पाठ 01 (अर्थव्यवस्था एवं इसके विकास का इतिहास)",
+                  "file": "SOCIAL_SCIENCE/ECONOMICS/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_economics_02",
+                  "name": "पाठ 02 (राज्य एवं राष्ट्र की आय)",
+                  "titleHi": "पाठ 02 (राज्य एवं राष्ट्र की आय)",
+                  "titleEn": "पाठ 02 (राज्य एवं राष्ट्र की आय)",
+                  "file": "SOCIAL_SCIENCE/ECONOMICS/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_economics_03",
+                  "name": "पाठ 03 (मुद्रा, बचत एवं साख)",
+                  "titleHi": "पाठ 03 (मुद्रा, बचत एवं साख)",
+                  "titleEn": "पाठ 03 (मुद्रा, बचत एवं साख)",
+                  "file": "SOCIAL_SCIENCE/ECONOMICS/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_economics_04",
+                  "name": "पाठ 04 (हमारी वित्तीय संस्थाएं)",
+                  "titleHi": "पाठ 04 (हमारी वित्तीय संस्थाएं)",
+                  "titleEn": "पाठ 04 (हमारी वित्तीय संस्थाएं)",
+                  "file": "SOCIAL_SCIENCE/ECONOMICS/04.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_economics_05",
+                  "name": "पाठ 05 (रोजगार एवं सेवाएँ)",
+                  "titleHi": "पाठ 05 (रोजगार एवं सेवाएँ)",
+                  "titleEn": "पाठ 05 (रोजगार एवं सेवाएँ)",
+                  "file": "SOCIAL_SCIENCE/ECONOMICS/05.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_economics_06",
+                  "name": "पाठ 06 (वैश्वीकरण)",
+                  "titleHi": "पाठ 06 (वैश्वीकरण)",
+                  "titleEn": "पाठ 06 (वैश्वीकरण)",
+                  "file": "SOCIAL_SCIENCE/ECONOMICS/06.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb10_social_science_economics_07",
+                  "name": "पाठ 07 (उपभोक्ता जागरण एवं संरक्षण)",
+                  "titleHi": "पाठ 07 (उपभोक्ता जागरण एवं संरक्षण)",
+                  "titleEn": "पाठ 07 (उपभोक्ता जागरण एवं संरक्षण)",
+                  "file": "SOCIAL_SCIENCE/ECONOMICS/07.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "bseb10_social_science_disaster_management",
+              "name": "आपदा प्रबंधन (DISASTER MANAGEMENT)",
+              "titleHi": "आपदा प्रबंधन",
+              "titleEn": "DISASTER MANAGEMENT",
+              "chapters": [
+                {
+                  "id": "bseb10_social_science_disaster_management_01",
+                  "name": "पाठ 01 (प्राकृतिक आपदा : परिचय)",
+                  "titleHi": "पाठ 01 (प्राकृतिक आपदा : परिचय)",
+                  "titleEn": "पाठ 01 (प्राकृतिक आपदा : परिचय)",
+                  "file": "SOCIAL_SCIENCE/DISASTER/01.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_social_science_disaster_management_02",
+                  "name": "पाठ 02 (बाढ़ और सुखाड़)",
+                  "titleHi": "पाठ 02 (बाढ़ और सुखाड़)",
+                  "titleEn": "पाठ 02 (बाढ़ और सुखाड़)",
+                  "file": "SOCIAL_SCIENCE/DISASTER/02.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_social_science_disaster_management_03",
+                  "name": "पाठ 03 (भूकंप एवं सुनामी)",
+                  "titleHi": "पाठ 03 (भूकंप एवं सुनामी)",
+                  "titleEn": "पाठ 03 (भूकंप एवं सुनामी)",
+                  "file": "SOCIAL_SCIENCE/DISASTER/03.json",
+                  "questions": 70
+                },
+                {
+                  "id": "bseb10_social_science_disaster_management_04",
+                  "name": "पाठ 04 (जीवन रक्षक आकस्मिक प्रबंधन)",
+                  "titleHi": "पाठ 04 (जीवन रक्षक आकस्मिक प्रबंधन)",
+                  "titleEn": "पाठ 04 (जीवन रक्षक आकस्मिक प्रबंधन)",
+                  "file": "SOCIAL_SCIENCE/DISASTER/04.json",
+                  "questions": 70
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bseb10_sanskrit",
+          "name": "संस्कृत (SANSKRIT)",
+          "titleHi": "संस्कृत",
+          "titleEn": "SANSKRIT",
+          "description": "कक्षा 10वीं बिहार बोर्ड संस्कृत - अध्यायवार वस्तुनिष्ठ प्रश्न संग्रह।",
+          "icon": "📜",
+          "badge": "Sanskrit",
+          "accentBg": "rgba(139, 92, 246, 0.16)",
+          "accentBorder": "rgba(139, 92, 246, 0.35)",
+          "chapters": [
+            {
+              "id": "bseb10_sanskrit_01",
+              "name": "अध्याय 01 (मंगलम्)",
+              "titleHi": "अध्याय 01 (मंगलम्)",
+              "titleEn": "अध्याय 01 (मंगलम्)",
+              "file": "SANSKRIT/01.json",
+              "questions": 60
+            },
+            {
+              "id": "bseb10_sanskrit_02",
+              "name": "अध्याय 02 (पाटलिपुत्रवैभवम्)",
+              "titleHi": "अध्याय 02 (पाटलिपुत्रवैभवम्)",
+              "titleEn": "अध्याय 02 (पाटलिपुत्रवैभवम्)",
+              "file": "SANSKRIT/02.json",
+              "questions": 60
+            },
+            {
+              "id": "bseb10_sanskrit_03",
+              "name": "अध्याय 03 (अलसकथा)",
+              "titleHi": "अध्याय 03 (अलसकथा)",
+              "titleEn": "अध्याय 03 (अलसकथा)",
+              "file": "SANSKRIT/03.json",
+              "questions": 60
+            },
+            {
+              "id": "bseb10_sanskrit_04",
+              "name": "अध्याय 04 (संस्कृतसाहित्ये लेखिकाः)",
+              "titleHi": "अध्याय 04 (संस्कृतसाहित्ये लेखिकाः)",
+              "titleEn": "अध्याय 04 (संस्कृतसाहित्ये लेखिकाः)",
+              "file": "SANSKRIT/04.json",
+              "questions": 60
+            },
+            {
+              "id": "bseb10_sanskrit_05",
+              "name": "अध्याय 05 (भारतमहिमा)",
+              "titleHi": "अध्याय 05 (भारतमहिमा)",
+              "titleEn": "अध्याय 05 (भारतमहिमा)",
+              "file": "SANSKRIT/05.json",
+              "questions": 60
+            },
+            {
+              "id": "bseb10_sanskrit_06",
+              "name": "अध्याय 06 (भारतीयसंस्काराः)",
+              "titleHi": "अध्याय 06 (भारतीयसंस्काराः)",
+              "titleEn": "अध्याय 06 (भारतीयसंस्काराः)",
+              "file": "SANSKRIT/06.json",
+              "questions": 60
+            },
+            {
+              "id": "bseb10_sanskrit_07",
+              "name": "अध्याय 07 (नीतिश्लोकाः)",
+              "titleHi": "अध्याय 07 (नीतिश्लोकाः)",
+              "titleEn": "अध्याय 07 (नीतिश्लोकाः)",
+              "file": "SANSKRIT/07.json",
+              "questions": 60
+            },
+            {
+              "id": "bseb10_sanskrit_08",
+              "name": "अध्याय 08 (कर्मवीरकथा)",
+              "titleHi": "अध्याय 08 (कर्मवीरकथा)",
+              "titleEn": "अध्याय 08 (कर्मवीरकथा)",
+              "file": "SANSKRIT/08.json",
+              "questions": 60
+            },
+            {
+              "id": "bseb10_sanskrit_09",
+              "name": "अध्याय 09 (स्वामी दयानन्दः)",
+              "titleHi": "अध्याय 09 (स्वामी दयानन्दः)",
+              "titleEn": "अध्याय 09 (स्वामी दयानन्दः)",
+              "file": "SANSKRIT/09.json",
+              "questions": 60
+            },
+            {
+              "id": "bseb10_sanskrit_10",
+              "name": "अध्याय 10 (मन्दाकिनीवर्णनम्)",
+              "titleHi": "अध्याय 10 (मन्दाकिनीवर्णनम्)",
+              "titleEn": "अध्याय 10 (मन्दाकिनीवर्णनम्)",
+              "file": "SANSKRIT/10.json",
+              "questions": 60
+            },
+            {
+              "id": "bseb10_sanskrit_11",
+              "name": "अध्याय 11 (व्याघ्रपथिककथा)",
+              "titleHi": "अध्याय 11 (व्याघ्रपथिककथा)",
+              "titleEn": "अध्याय 11 (व्याघ्रपथिककथा)",
+              "file": "SANSKRIT/11.json",
+              "questions": 60
+            },
+            {
+              "id": "bseb10_sanskrit_12",
+              "name": "अध्याय 12 (कर्णस्य दानवीरता)",
+              "titleHi": "अध्याय 12 (कर्णस्य दानवीरता)",
+              "titleEn": "अध्याय 12 (कर्णस्य दानवीरता)",
+              "file": "SANSKRIT/12.json",
+              "questions": 60
+            },
+            {
+              "id": "bseb10_sanskrit_13",
+              "name": "अध्याय 13 (विश्वशान्तिः)",
+              "titleHi": "अध्याय 13 (विश्वशान्तिः)",
+              "titleEn": "अध्याय 13 (विश्वशान्तिः)",
+              "file": "SANSKRIT/13.json",
+              "questions": 60
+            },
+            {
+              "id": "bseb10_sanskrit_14",
+              "name": "अध्याय 14 (शास्त्रकाराः)",
+              "titleHi": "अध्याय 14 (शास्त्रकाराः)",
+              "titleEn": "अध्याय 14 (शास्त्रकाराः)",
+              "file": "SANSKRIT/14.json",
+              "questions": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cbse10",
+      "shortLabel": "CBSE 10th",
+      "badge": "CBSE 2026",
+      "title": "CBSE Class 10 Board Mastery Portal",
+      "subtitle": "NCERT Science, SST, English & Hindi (Kshitij)",
+      "baseDir": "data/CBSE/10th/",
+      "subjects": [
+        {
+          "id": "cbse10_science",
+          "name": "SCIENCE",
+          "titleHi": "SCIENCE",
+          "titleEn": "SCIENCE",
+          "description": "",
+          "icon": "🔬",
+          "badge": "Core",
+          "accentBg": "rgba(6, 182, 212, 0.16)",
+          "accentBorder": "rgba(6, 182, 212, 0.35)",
+          "sections": [
+            {
+              "id": "cbse10_science_physics",
+              "name": "PHYSICS",
+              "titleHi": "PHYSICS",
+              "titleEn": "PHYSICS",
+              "chapters": [
+                {
+                  "id": "cbse10_science_physics_01",
+                  "name": "Chapter 01 (Light - Reflection and Refraction)",
+                  "titleHi": "Chapter 01 (Light - Reflection and Refraction)",
+                  "titleEn": "Chapter 01 (Light - Reflection and Refraction)",
+                  "file": "SCIENCE/PHYSICS/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_science_physics_02",
+                  "name": "Chapter 02 (Human Eye and Colourful World)",
+                  "titleHi": "Chapter 02 (Human Eye and Colourful World)",
+                  "titleEn": "Chapter 02 (Human Eye and Colourful World)",
+                  "file": "SCIENCE/PHYSICS/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_science_physics_03",
+                  "name": "Chapter 03 (Electricity)",
+                  "titleHi": "Chapter 03 (Electricity)",
+                  "titleEn": "Chapter 03 (Electricity)",
+                  "file": "SCIENCE/PHYSICS/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_science_physics_04",
+                  "name": "Chapter 04 (Magnetic Effects of Electric Current)",
+                  "titleHi": "Chapter 04 (Magnetic Effects of Electric Current)",
+                  "titleEn": "Chapter 04 (Magnetic Effects of Electric Current)",
+                  "file": "SCIENCE/PHYSICS/04.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "cbse10_science_chemistry",
+              "name": "CHEMISTRY",
+              "titleHi": "CHEMISTRY",
+              "titleEn": "CHEMISTRY",
+              "chapters": [
+                {
+                  "id": "cbse10_science_chemistry_01",
+                  "name": "Chapter 01 (Chemical Reactions and Equations)",
+                  "titleHi": "Chapter 01 (Chemical Reactions and Equations)",
+                  "titleEn": "Chapter 01 (Chemical Reactions and Equations)",
+                  "file": "SCIENCE/CHEMISTRY/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_science_chemistry_02",
+                  "name": "Chapter 02 (Acids, Bases and Salts)",
+                  "titleHi": "Chapter 02 (Acids, Bases and Salts)",
+                  "titleEn": "Chapter 02 (Acids, Bases and Salts)",
+                  "file": "SCIENCE/CHEMISTRY/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_science_chemistry_03",
+                  "name": "Chapter 03 (Metals and Non-metals)",
+                  "titleHi": "Chapter 03 (Metals and Non-metals)",
+                  "titleEn": "Chapter 03 (Metals and Non-metals)",
+                  "file": "SCIENCE/CHEMISTRY/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_science_chemistry_04",
+                  "name": "Chapter 04 (Carbon and its Compounds)",
+                  "titleHi": "Chapter 04 (Carbon and its Compounds)",
+                  "titleEn": "Chapter 04 (Carbon and its Compounds)",
+                  "file": "SCIENCE/CHEMISTRY/04.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "cbse10_science_biology",
+              "name": "BIOLOGY",
+              "titleHi": "BIOLOGY",
+              "titleEn": "BIOLOGY",
+              "chapters": [
+                {
+                  "id": "cbse10_science_biology_01",
+                  "name": "Chapter 01 (Life Processes)",
+                  "titleHi": "Chapter 01 (Life Processes)",
+                  "titleEn": "Chapter 01 (Life Processes)",
+                  "file": "SCIENCE/BIOLOGY/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_science_biology_02",
+                  "name": "Chapter 02 (Control and Coordination)",
+                  "titleHi": "Chapter 02 (Control and Coordination)",
+                  "titleEn": "Chapter 02 (Control and Coordination)",
+                  "file": "SCIENCE/BIOLOGY/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_science_biology_03",
+                  "name": "Chapter 03 (How do Organisms Reproduce?)",
+                  "titleHi": "Chapter 03 (How do Organisms Reproduce?)",
+                  "titleEn": "Chapter 03 (How do Organisms Reproduce?)",
+                  "file": "SCIENCE/BIOLOGY/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_science_biology_04",
+                  "name": "Chapter 04 (Heredity and Evolution)",
+                  "titleHi": "Chapter 04 (Heredity and Evolution)",
+                  "titleEn": "Chapter 04 (Heredity and Evolution)",
+                  "file": "SCIENCE/BIOLOGY/04.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_science_biology_05",
+                  "name": "Chapter 05 (Our Environment)",
+                  "titleHi": "Chapter 05 (Our Environment)",
+                  "titleEn": "Chapter 05 (Our Environment)",
+                  "file": "SCIENCE/BIOLOGY/05.json",
+                  "questions": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cbse10_english",
+          "name": "ENGLISH",
+          "titleHi": "ENGLISH",
+          "titleEn": "ENGLISH",
+          "description": "",
+          "icon": "📖",
+          "badge": "English",
+          "accentBg": "rgba(16, 185, 129, 0.16)",
+          "accentBorder": "rgba(16, 185, 129, 0.35)",
+          "sections": [
+            {
+              "id": "cbse10_english_first_flight_prose",
+              "name": "FIRST FLIGHT - PROSE",
+              "titleHi": "FIRST FLIGHT - PROSE",
+              "titleEn": "FIRST FLIGHT - PROSE",
+              "chapters": [
+                {
+                  "id": "cbse10_english_first_flight_prose_01",
+                  "name": "Chapter 01 (A Letter to God)",
+                  "titleHi": "Chapter 01 (A Letter to God)",
+                  "titleEn": "Chapter 01 (A Letter to God)",
+                  "file": "ENGLISH/FIRST_FLIGHT/PROSE/01.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_first_flight_prose_02",
+                  "name": "Chapter 02 (Nelson Mandela: Long Walk to Freedom)",
+                  "titleHi": "Chapter 02 (Nelson Mandela: Long Walk to Freedom)",
+                  "titleEn": "Chapter 02 (Nelson Mandela: Long Walk to Freedom)",
+                  "file": "ENGLISH/FIRST_FLIGHT/PROSE/02.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_first_flight_prose_03",
+                  "name": "Chapter 03 (Two Stories about Flying)",
+                  "titleHi": "Chapter 03 (Two Stories about Flying)",
+                  "titleEn": "Chapter 03 (Two Stories about Flying)",
+                  "file": "ENGLISH/FIRST_FLIGHT/PROSE/03.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_first_flight_prose_04",
+                  "name": "Chapter 04 (From the Diary of Anne Frank)",
+                  "titleHi": "Chapter 04 (From the Diary of Anne Frank)",
+                  "titleEn": "Chapter 04 (From the Diary of Anne Frank)",
+                  "file": "ENGLISH/FIRST_FLIGHT/PROSE/04.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_first_flight_prose_05",
+                  "name": "Chapter 05 (Glimpses of India)",
+                  "titleHi": "Chapter 05 (Glimpses of India)",
+                  "titleEn": "Chapter 05 (Glimpses of India)",
+                  "file": "ENGLISH/FIRST_FLIGHT/PROSE/05.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_first_flight_prose_06",
+                  "name": "Chapter 06 (Mijbil the Otter)",
+                  "titleHi": "Chapter 06 (Mijbil the Otter)",
+                  "titleEn": "Chapter 06 (Mijbil the Otter)",
+                  "file": "ENGLISH/FIRST_FLIGHT/PROSE/06.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_first_flight_prose_07",
+                  "name": "Chapter 07 (Madam Rides the Bus)",
+                  "titleHi": "Chapter 07 (Madam Rides the Bus)",
+                  "titleEn": "Chapter 07 (Madam Rides the Bus)",
+                  "file": "ENGLISH/FIRST_FLIGHT/PROSE/07.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_first_flight_prose_08",
+                  "name": "Chapter 08 (The Sermon at Benares)",
+                  "titleHi": "Chapter 08 (The Sermon at Benares)",
+                  "titleEn": "Chapter 08 (The Sermon at Benares)",
+                  "file": "ENGLISH/FIRST_FLIGHT/PROSE/08.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_first_flight_prose_09",
+                  "name": "Chapter 09 (The Proposal)",
+                  "titleHi": "Chapter 09 (The Proposal)",
+                  "titleEn": "Chapter 09 (The Proposal)",
+                  "file": "ENGLISH/FIRST_FLIGHT/PROSE/09.json",
+                  "questions": 50
+                }
+              ]
+            },
+            {
+              "id": "cbse10_english_first_flight_poetry",
+              "name": "FIRST FLIGHT - POETRY",
+              "titleHi": "FIRST FLIGHT - POETRY",
+              "titleEn": "FIRST FLIGHT - POETRY",
+              "chapters": [
+                {
+                  "id": "cbse10_english_first_flight_poetry_01",
+                  "name": "Poem 01 (Dust of Snow)",
+                  "titleHi": "Poem 01 (Dust of Snow)",
+                  "titleEn": "Poem 01 (Dust of Snow)",
+                  "file": "ENGLISH/FIRST_FLIGHT/POETRY/01.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_first_flight_poetry_02",
+                  "name": "Poem 02 (Fire and Ice)",
+                  "titleHi": "Poem 02 (Fire and Ice)",
+                  "titleEn": "Poem 02 (Fire and Ice)",
+                  "file": "ENGLISH/FIRST_FLIGHT/POETRY/02.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_first_flight_poetry_03",
+                  "name": "Poem 03 (A Tiger in the Zoo)",
+                  "titleHi": "Poem 03 (A Tiger in the Zoo)",
+                  "titleEn": "Poem 03 (A Tiger in the Zoo)",
+                  "file": "ENGLISH/FIRST_FLIGHT/POETRY/03.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_first_flight_poetry_04",
+                  "name": "Poem 04 (How to Tell Wild Animals)",
+                  "titleHi": "Poem 04 (How to Tell Wild Animals)",
+                  "titleEn": "Poem 04 (How to Tell Wild Animals)",
+                  "file": "ENGLISH/FIRST_FLIGHT/POETRY/04.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_first_flight_poetry_05",
+                  "name": "Poem 05 (The Ball Poem)",
+                  "titleHi": "Poem 05 (The Ball Poem)",
+                  "titleEn": "Poem 05 (The Ball Poem)",
+                  "file": "ENGLISH/FIRST_FLIGHT/POETRY/05.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_first_flight_poetry_06",
+                  "name": "Poem 06 (Amanda!)",
+                  "titleHi": "Poem 06 (Amanda!)",
+                  "titleEn": "Poem 06 (Amanda!)",
+                  "file": "ENGLISH/FIRST_FLIGHT/POETRY/06.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_first_flight_poetry_07",
+                  "name": "Poem 07 (The Trees)",
+                  "titleHi": "Poem 07 (The Trees)",
+                  "titleEn": "Poem 07 (The Trees)",
+                  "file": "ENGLISH/FIRST_FLIGHT/POETRY/07.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_first_flight_poetry_08",
+                  "name": "Poem 08 (Fog)",
+                  "titleHi": "Poem 08 (Fog)",
+                  "titleEn": "Poem 08 (Fog)",
+                  "file": "ENGLISH/FIRST_FLIGHT/POETRY/08.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_first_flight_poetry_09",
+                  "name": "Poem 09 (The Tale of Custard the Dragon)",
+                  "titleHi": "Poem 09 (The Tale of Custard the Dragon)",
+                  "titleEn": "Poem 09 (The Tale of Custard the Dragon)",
+                  "file": "ENGLISH/FIRST_FLIGHT/POETRY/09.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_first_flight_poetry_10",
+                  "name": "Poem 10 (For Anne Gregory)",
+                  "titleHi": "Poem 10 (For Anne Gregory)",
+                  "titleEn": "Poem 10 (For Anne Gregory)",
+                  "file": "ENGLISH/FIRST_FLIGHT/POETRY/10.json",
+                  "questions": 50
+                }
+              ]
+            },
+            {
+              "id": "cbse10_english_footprints_without_feet",
+              "name": "FOOTPRINTS WITHOUT FEET",
+              "titleHi": "FOOTPRINTS WITHOUT FEET",
+              "titleEn": "FOOTPRINTS WITHOUT FEET",
+              "chapters": [
+                {
+                  "id": "cbse10_english_footprints_without_feet_01",
+                  "name": "Chapter 01 (A Triumph of Surgery)",
+                  "titleHi": "Chapter 01 (A Triumph of Surgery)",
+                  "titleEn": "Chapter 01 (A Triumph of Surgery)",
+                  "file": "ENGLISH/FOOTPRINTS_WITHOUT_FEET/01.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_footprints_without_feet_02",
+                  "name": "Chapter 02 (The Thief's Story)",
+                  "titleHi": "Chapter 02 (The Thief's Story)",
+                  "titleEn": "Chapter 02 (The Thief's Story)",
+                  "file": "ENGLISH/FOOTPRINTS_WITHOUT_FEET/02.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_footprints_without_feet_03",
+                  "name": "Chapter 03 (The Midnight Visitor)",
+                  "titleHi": "Chapter 03 (The Midnight Visitor)",
+                  "titleEn": "Chapter 03 (The Midnight Visitor)",
+                  "file": "ENGLISH/FOOTPRINTS_WITHOUT_FEET/03.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_footprints_without_feet_04",
+                  "name": "Chapter 04 (A Question of Trust)",
+                  "titleHi": "Chapter 04 (A Question of Trust)",
+                  "titleEn": "Chapter 04 (A Question of Trust)",
+                  "file": "ENGLISH/FOOTPRINTS_WITHOUT_FEET/04.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_footprints_without_feet_05",
+                  "name": "Chapter 05 (Footprints without Feet)",
+                  "titleHi": "Chapter 05 (Footprints without Feet)",
+                  "titleEn": "Chapter 05 (Footprints without Feet)",
+                  "file": "ENGLISH/FOOTPRINTS_WITHOUT_FEET/05.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_footprints_without_feet_06",
+                  "name": "Chapter 06 (The Making of a Scientist)",
+                  "titleHi": "Chapter 06 (The Making of a Scientist)",
+                  "titleEn": "Chapter 06 (The Making of a Scientist)",
+                  "file": "ENGLISH/FOOTPRINTS_WITHOUT_FEET/06.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_footprints_without_feet_07",
+                  "name": "Chapter 07 (The Necklace)",
+                  "titleHi": "Chapter 07 (The Necklace)",
+                  "titleEn": "Chapter 07 (The Necklace)",
+                  "file": "ENGLISH/FOOTPRINTS_WITHOUT_FEET/07.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_footprints_without_feet_08",
+                  "name": "Chapter 08 (Bholi)",
+                  "titleHi": "Chapter 08 (Bholi)",
+                  "titleEn": "Chapter 08 (Bholi)",
+                  "file": "ENGLISH/FOOTPRINTS_WITHOUT_FEET/08.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_english_footprints_without_feet_09",
+                  "name": "Chapter 09 (The Book That Saved the Earth)",
+                  "titleHi": "Chapter 09 (The Book That Saved the Earth)",
+                  "titleEn": "Chapter 09 (The Book That Saved the Earth)",
+                  "file": "ENGLISH/FOOTPRINTS_WITHOUT_FEET/09.json",
+                  "questions": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cbse10_hindi",
+          "name": "HINDI",
+          "titleHi": "HINDI",
+          "titleEn": "HINDI",
+          "description": "",
+          "icon": "📔",
+          "badge": "Hindi",
+          "accentBg": "rgba(245, 158, 11, 0.16)",
+          "accentBorder": "rgba(245, 158, 11, 0.35)",
+          "sections": [
+            {
+              "id": "cbse10_hindi_kshitij_gadya_khand",
+              "name": "KSHITIJ - GADYA KHAND",
+              "titleHi": "KSHITIJ - GADYA KHAND",
+              "titleEn": "KSHITIJ - GADYA KHAND",
+              "chapters": [
+                {
+                  "id": "cbse10_hindi_kshitij_gadya_khand_01",
+                  "name": "पाठ 01 (नेताजी का चश्मा)",
+                  "titleHi": "पाठ 01 (नेताजी का चश्मा)",
+                  "titleEn": "पाठ 01 (नेताजी का चश्मा)",
+                  "file": "HINDI/KSHITIJ/GADYA_KHAND/01.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_hindi_kshitij_gadya_khand_02",
+                  "name": "पाठ 02 (बालगोबिन भगत)",
+                  "titleHi": "पाठ 02 (बालगोबिन भगत)",
+                  "titleEn": "पाठ 02 (बालगोबिन भगत)",
+                  "file": "HINDI/KSHITIJ/GADYA_KHAND/02.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_hindi_kshitij_gadya_khand_03",
+                  "name": "पाठ 03 (लखनवी अंदाज)",
+                  "titleHi": "पाठ 03 (लखनवी अंदाज)",
+                  "titleEn": "पाठ 03 (लखनवी अंदाज)",
+                  "file": "HINDI/KSHITIJ/GADYA_KHAND/03.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_hindi_kshitij_gadya_khand_04",
+                  "name": "पाठ 04 (एक कहानी यह भी)",
+                  "titleHi": "पाठ 04 (एक कहानी यह भी)",
+                  "titleEn": "पाठ 04 (एक कहानी यह भी)",
+                  "file": "HINDI/KSHITIJ/GADYA_KHAND/04.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_hindi_kshitij_gadya_khand_05",
+                  "name": "पाठ 05 (नौबतखाने में इबादत)",
+                  "titleHi": "पाठ 05 (नौबतखाने में इबादत)",
+                  "titleEn": "पाठ 05 (नौबतखाने में इबादत)",
+                  "file": "HINDI/KSHITIJ/GADYA_KHAND/05.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_hindi_kshitij_gadya_khand_06",
+                  "name": "पाठ 06 (संस्कृति)",
+                  "titleHi": "पाठ 06 (संस्कृति)",
+                  "titleEn": "पाठ 06 (संस्कृति)",
+                  "file": "HINDI/KSHITIJ/GADYA_KHAND/06.json",
+                  "questions": 50
+                }
+              ]
+            },
+            {
+              "id": "cbse10_hindi_kshitij_kavya_khand",
+              "name": "KSHITIJ - KAVYA KHAND",
+              "titleHi": "KSHITIJ - KAVYA KHAND",
+              "titleEn": "KSHITIJ - KAVYA KHAND",
+              "chapters": [
+                {
+                  "id": "cbse10_hindi_kshitij_kavya_khand_01",
+                  "name": "पाठ 01 (पद - सूरदास)",
+                  "titleHi": "पाठ 01 (पद - सूरदास)",
+                  "titleEn": "पाठ 01 (पद - सूरदास)",
+                  "file": "HINDI/KSHITIJ/KAVYA_KHAND/01.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_hindi_kshitij_kavya_khand_02",
+                  "name": "पाठ 02 (राम-लक्ष्मण-परशुराम संवाद)",
+                  "titleHi": "पाठ 02 (राम-लक्ष्मण-परशुराम संवाद)",
+                  "titleEn": "पाठ 02 (राम-लक्ष्मण-परशुराम संवाद)",
+                  "file": "HINDI/KSHITIJ/KAVYA_KHAND/02.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_hindi_kshitij_kavya_khand_03",
+                  "name": "पाठ 03 (आत्मकथ्य)",
+                  "titleHi": "पाठ 03 (आत्मकथ्य)",
+                  "titleEn": "पाठ 03 (आत्मकथ्य)",
+                  "file": "HINDI/KSHITIJ/KAVYA_KHAND/03.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_hindi_kshitij_kavya_khand_04",
+                  "name": "पाठ 04 (उत्साह और अट नहीं रही)",
+                  "titleHi": "पाठ 04 (उत्साह और अट नहीं रही)",
+                  "titleEn": "पाठ 04 (उत्साह और अट नहीं रही)",
+                  "file": "HINDI/KSHITIJ/KAVYA_KHAND/04.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_hindi_kshitij_kavya_khand_05",
+                  "name": "पाठ 05 (यह दंतुरित मुसकान और फसल)",
+                  "titleHi": "पाठ 05 (यह दंतुरित मुसकान और फसल)",
+                  "titleEn": "पाठ 05 (यह दंतुरित मुसकान और फसल)",
+                  "file": "HINDI/KSHITIJ/KAVYA_KHAND/05.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_hindi_kshitij_kavya_khand_06",
+                  "name": "पाठ 06 (संगतकार)",
+                  "titleHi": "पाठ 06 (संगतकार)",
+                  "titleEn": "पाठ 06 (संगतकार)",
+                  "file": "HINDI/KSHITIJ/KAVYA_KHAND/Sangatkar.json",
+                  "questions": 50
+                }
+              ]
+            },
+            {
+              "id": "cbse10_hindi_kritika",
+              "name": "KRITIKA",
+              "titleHi": "KRITIKA",
+              "titleEn": "KRITIKA",
+              "chapters": [
+                {
+                  "id": "cbse10_hindi_kritika_01",
+                  "name": "पाठ 01 (माता का आँचल)",
+                  "titleHi": "पाठ 01 (माता का आँचल)",
+                  "titleEn": "पाठ 01 (माता का आँचल)",
+                  "file": "HINDI/KRITIKA/01.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_hindi_kritika_02",
+                  "name": "पाठ 02 (साना-साना हाथ जोड़ि...)",
+                  "titleHi": "पाठ 02 (साना-साना हाथ जोड़ि...)",
+                  "titleEn": "पाठ 02 (साना-साना हाथ जोड़ि...)",
+                  "file": "HINDI/KRITIKA/02.json",
+                  "questions": 50
+                },
+                {
+                  "id": "cbse10_hindi_kritika_03",
+                  "name": "पाठ 03 (मैं क्यों लिखता हूँ?)",
+                  "titleHi": "पाठ 03 (मैं क्यों लिखता हूँ?)",
+                  "titleEn": "पाठ 03 (मैं क्यों लिखता हूँ?)",
+                  "file": "HINDI/KRITIKA/03.json",
+                  "questions": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cbse10_sst_social_science",
+          "name": "SST (SOCIAL SCIENCE)",
+          "titleHi": "SST (SOCIAL SCIENCE)",
+          "titleEn": "SST (SOCIAL SCIENCE)",
+          "description": "",
+          "icon": "🔬",
+          "badge": "Core",
+          "accentBg": "rgba(244, 63, 94, 0.16)",
+          "accentBorder": "rgba(244, 63, 94, 0.35)",
+          "sections": [
+            {
+              "id": "cbse10_sst_social_science_history",
+              "name": "HISTORY",
+              "titleHi": "HISTORY",
+              "titleEn": "HISTORY",
+              "chapters": [
+                {
+                  "id": "cbse10_sst_social_science_history_01",
+                  "name": "Chapter 01 (The Rise of Nationalism in Europe)",
+                  "titleHi": "Chapter 01 (The Rise of Nationalism in Europe)",
+                  "titleEn": "Chapter 01 (The Rise of Nationalism in Europe)",
+                  "file": "SST/HISTORY/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_sst_social_science_history_02",
+                  "name": "Chapter 02 (Nationalism in India)",
+                  "titleHi": "Chapter 02 (Nationalism in India)",
+                  "titleEn": "Chapter 02 (Nationalism in India)",
+                  "file": "SST/HISTORY/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_sst_social_science_history_03",
+                  "name": "Chapter 03 (The Making of a Global World)",
+                  "titleHi": "Chapter 03 (The Making of a Global World)",
+                  "titleEn": "Chapter 03 (The Making of a Global World)",
+                  "file": "SST/HISTORY/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_sst_social_science_history_04",
+                  "name": "Chapter 04 (The Age of Industrialisation)",
+                  "titleHi": "Chapter 04 (The Age of Industrialisation)",
+                  "titleEn": "Chapter 04 (The Age of Industrialisation)",
+                  "file": "SST/HISTORY/04.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_sst_social_science_history_05",
+                  "name": "Chapter 05 (Print Culture and Modern World)",
+                  "titleHi": "Chapter 05 (Print Culture and Modern World)",
+                  "titleEn": "Chapter 05 (Print Culture and Modern World)",
+                  "file": "SST/HISTORY/05.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "cbse10_sst_social_science_geography",
+              "name": "GEOGRAPHY",
+              "titleHi": "GEOGRAPHY",
+              "titleEn": "GEOGRAPHY",
+              "chapters": [
+                {
+                  "id": "cbse10_sst_social_science_geography_01",
+                  "name": "Chapter 01 (Resources and Development)",
+                  "titleHi": "Chapter 01 (Resources and Development)",
+                  "titleEn": "Chapter 01 (Resources and Development)",
+                  "file": "SST/GEOGRAPHY/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_sst_social_science_geography_02",
+                  "name": "Chapter 02 (Forest and Wildlife Resources)",
+                  "titleHi": "Chapter 02 (Forest and Wildlife Resources)",
+                  "titleEn": "Chapter 02 (Forest and Wildlife Resources)",
+                  "file": "SST/GEOGRAPHY/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_sst_social_science_geography_03",
+                  "name": "Chapter 03 (Water Resources)",
+                  "titleHi": "Chapter 03 (Water Resources)",
+                  "titleEn": "Chapter 03 (Water Resources)",
+                  "file": "SST/GEOGRAPHY/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_sst_social_science_geography_04",
+                  "name": "Chapter 04 (Agriculture)",
+                  "titleHi": "Chapter 04 (Agriculture)",
+                  "titleEn": "Chapter 04 (Agriculture)",
+                  "file": "SST/GEOGRAPHY/04.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_sst_social_science_geography_05",
+                  "name": "Chapter 05 (Minerals and Energy Resources)",
+                  "titleHi": "Chapter 05 (Minerals and Energy Resources)",
+                  "titleEn": "Chapter 05 (Minerals and Energy Resources)",
+                  "file": "SST/GEOGRAPHY/05.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_sst_social_science_geography_06",
+                  "name": "Chapter 06 (Manufacturing Industries)",
+                  "titleHi": "Chapter 06 (Manufacturing Industries)",
+                  "titleEn": "Chapter 06 (Manufacturing Industries)",
+                  "file": "SST/GEOGRAPHY/06.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_sst_social_science_geography_07",
+                  "name": "Chapter 07 (Lifelines of National Economy)",
+                  "titleHi": "Chapter 07 (Lifelines of National Economy)",
+                  "titleEn": "Chapter 07 (Lifelines of National Economy)",
+                  "file": "SST/GEOGRAPHY/07.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "cbse10_sst_social_science_political_science",
+              "name": "POLITICAL SCIENCE",
+              "titleHi": "POLITICAL SCIENCE",
+              "titleEn": "POLITICAL SCIENCE",
+              "chapters": [
+                {
+                  "id": "cbse10_sst_social_science_political_science_01",
+                  "name": "Chapter 01 (Power Sharing)",
+                  "titleHi": "Chapter 01 (Power Sharing)",
+                  "titleEn": "Chapter 01 (Power Sharing)",
+                  "file": "SST/POLITICAL_SCIENCE/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_sst_social_science_political_science_02",
+                  "name": "Chapter 02 (Federalism)",
+                  "titleHi": "Chapter 02 (Federalism)",
+                  "titleEn": "Chapter 02 (Federalism)",
+                  "file": "SST/POLITICAL_SCIENCE/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_sst_social_science_political_science_03",
+                  "name": "Chapter 03 (Gender, Religion and Caste)",
+                  "titleHi": "Chapter 03 (Gender, Religion and Caste)",
+                  "titleEn": "Chapter 03 (Gender, Religion and Caste)",
+                  "file": "SST/POLITICAL_SCIENCE/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_sst_social_science_political_science_04",
+                  "name": "Chapter 04 (Political Parties)",
+                  "titleHi": "Chapter 04 (Political Parties)",
+                  "titleEn": "Chapter 04 (Political Parties)",
+                  "file": "SST/POLITICAL_SCIENCE/04.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_sst_social_science_political_science_05",
+                  "name": "Chapter 05 (Outcomes of Democracy)",
+                  "titleHi": "Chapter 05 (Outcomes of Democracy)",
+                  "titleEn": "Chapter 05 (Outcomes of Democracy)",
+                  "file": "SST/POLITICAL_SCIENCE/05.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "cbse10_sst_social_science_economics",
+              "name": "ECONOMICS",
+              "titleHi": "ECONOMICS",
+              "titleEn": "ECONOMICS",
+              "chapters": [
+                {
+                  "id": "cbse10_sst_social_science_economics_01",
+                  "name": "Chapter 01 (Development)",
+                  "titleHi": "Chapter 01 (Development)",
+                  "titleEn": "Chapter 01 (Development)",
+                  "file": "SST/ECONOMICS/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_sst_social_science_economics_02",
+                  "name": "Chapter 02 (Sectors of the Indian Economy)",
+                  "titleHi": "Chapter 02 (Sectors of the Indian Economy)",
+                  "titleEn": "Chapter 02 (Sectors of the Indian Economy)",
+                  "file": "SST/ECONOMICS/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_sst_social_science_economics_03",
+                  "name": "Chapter 03 (Money and Credit)",
+                  "titleHi": "Chapter 03 (Money and Credit)",
+                  "titleEn": "Chapter 03 (Money and Credit)",
+                  "file": "SST/ECONOMICS/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_sst_social_science_economics_04",
+                  "name": "Chapter 04 (Globalization and the Indian Economy)",
+                  "titleHi": "Chapter 04 (Globalization and the Indian Economy)",
+                  "titleEn": "Chapter 04 (Globalization and the Indian Economy)",
+                  "file": "SST/ECONOMICS/04.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse10_sst_social_science_economics_05",
+                  "name": "Chapter 05 (Consumer Rights)",
+                  "titleHi": "Chapter 05 (Consumer Rights)",
+                  "titleEn": "Chapter 05 (Consumer Rights)",
+                  "file": "SST/ECONOMICS/05.json",
+                  "questions": 100
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bseb11",
+      "shortLabel": "BSEB 11th",
+      "badge": "CLASS 11",
+      "title": "बिहार बोर्ड कक्षा 11 वीं विज्ञान पोर्टल",
+      "subtitle": "BSEB Class 11 Science (Physics, Chemistry, Biology)",
+      "baseDir": "data/BSEB/11th/SCIENCE/",
+      "subjects": [
+        {
+          "id": "bseb11_physics",
+          "name": "भौतिक विज्ञान (PHYSICS)",
+          "titleHi": "भौतिक विज्ञान",
+          "titleEn": "PHYSICS",
+          "description": "",
+          "icon": "⚡",
+          "badge": "Physics",
+          "accentBg": "rgba(6, 182, 212, 0.16)",
+          "accentBorder": "rgba(6, 182, 212, 0.35)",
+          "chapters": [
+            {
+              "id": "bseb11_physics_01",
+              "name": "अध्याय 01 (भौतिक जगत)",
+              "titleHi": "अध्याय 01 (भौतिक जगत)",
+              "titleEn": "अध्याय 01 (भौतिक जगत)",
+              "file": "PHYSICS/01.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_physics_02",
+              "name": "अध्याय 02 (मात्रक और मापन)",
+              "titleHi": "अध्याय 02 (मात्रक और मापन)",
+              "titleEn": "अध्याय 02 (मात्रक और मापन)",
+              "file": "PHYSICS/02.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_physics_03",
+              "name": "अध्याय 03 (सरल रेखा में गति)",
+              "titleHi": "अध्याय 03 (सरल रेखा में गति)",
+              "titleEn": "अध्याय 03 (सरल रेखा में गति)",
+              "file": "PHYSICS/03.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_physics_04",
+              "name": "अध्याय 04 (समतल में गति)",
+              "titleHi": "अध्याय 04 (समतल में गति)",
+              "titleEn": "अध्याय 04 (समतल में गति)",
+              "file": "PHYSICS/04.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_physics_05",
+              "name": "अध्याय 05 (गति के नियम)",
+              "titleHi": "अध्याय 05 (गति के नियम)",
+              "titleEn": "अध्याय 05 (गति के नियम)",
+              "file": "PHYSICS/05.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_physics_06",
+              "name": "अध्याय 06 (कार्य, ऊर्जा और शक्ति)",
+              "titleHi": "अध्याय 06 (कार्य, ऊर्जा और शक्ति)",
+              "titleEn": "अध्याय 06 (कार्य, ऊर्जा और शक्ति)",
+              "file": "PHYSICS/06.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_physics_07",
+              "name": "अध्याय 07 (कणों के निकाय तथा घूर्णी गति)",
+              "titleHi": "अध्याय 07 (कणों के निकाय तथा घूर्णी गति)",
+              "titleEn": "अध्याय 07 (कणों के निकाय तथा घूर्णी गति)",
+              "file": "PHYSICS/07.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_physics_08",
+              "name": "अध्याय 08 (गुरुत्वाकर्षण)",
+              "titleHi": "अध्याय 08 (गुरुत्वाकर्षण)",
+              "titleEn": "अध्याय 08 (गुरुत्वाकर्षण)",
+              "file": "PHYSICS/08.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_physics_09",
+              "name": "अध्याय 09 (ठोसों के यांत्रिक गुण)",
+              "titleHi": "अध्याय 09 (ठोसों के यांत्रिक गुण)",
+              "titleEn": "अध्याय 09 (ठोसों के यांत्रिक गुण)",
+              "file": "PHYSICS/09.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_physics_10",
+              "name": "अध्याय 10 (तरलों के यांत्रिकी गुण)",
+              "titleHi": "अध्याय 10 (तरलों के यांत्रिकी गुण)",
+              "titleEn": "अध्याय 10 (तरलों के यांत्रिकी गुण)",
+              "file": "PHYSICS/10.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_physics_11",
+              "name": "अध्याय 11 (द्रव्य के तापीय गुण)",
+              "titleHi": "अध्याय 11 (द्रव्य के तापीय गुण)",
+              "titleEn": "अध्याय 11 (द्रव्य के तापीय गुण)",
+              "file": "PHYSICS/11.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_physics_12",
+              "name": "अध्याय 12 (ऊष्मागतिकी)",
+              "titleHi": "अध्याय 12 (ऊष्मागतिकी)",
+              "titleEn": "अध्याय 12 (ऊष्मागतिकी)",
+              "file": "PHYSICS/12.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_physics_13",
+              "name": "अध्याय 13 (अणुगति सिद्धांत)",
+              "titleHi": "अध्याय 13 (अणुगति सिद्धांत)",
+              "titleEn": "अध्याय 13 (अणुगति सिद्धांत)",
+              "file": "PHYSICS/13.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_physics_14",
+              "name": "अध्याय 14 (दोलन)",
+              "titleHi": "अध्याय 14 (दोलन)",
+              "titleEn": "अध्याय 14 (दोलन)",
+              "file": "PHYSICS/14.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_physics_15",
+              "name": "अध्याय 15 (तरंगें)",
+              "titleHi": "अध्याय 15 (तरंगें)",
+              "titleEn": "अध्याय 15 (तरंगें)",
+              "file": "PHYSICS/15.json",
+              "questions": 100
+            }
+          ]
+        },
+        {
+          "id": "bseb11_chemistry",
+          "name": "रसायन विज्ञान (CHEMISTRY)",
+          "titleHi": "रसायन विज्ञान",
+          "titleEn": "CHEMISTRY",
+          "description": "",
+          "icon": "🧪",
+          "badge": "Chemistry",
+          "accentBg": "rgba(6, 182, 212, 0.16)",
+          "accentBorder": "rgba(6, 182, 212, 0.35)",
+          "chapters": [
+            {
+              "id": "bseb11_chemistry_01",
+              "name": "अध्याय 01 (रसायन विज्ञान की मूल अवधारणाएं)",
+              "titleHi": "अध्याय 01 (रसायन विज्ञान की मूल अवधारणाएं)",
+              "titleEn": "अध्याय 01 (रसायन विज्ञान की मूल अवधारणाएं)",
+              "file": "CHEMISTRY/01.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_chemistry_02",
+              "name": "अध्याय 02 (परमाणु की संरचना)",
+              "titleHi": "अध्याय 02 (परमाणु की संरचना)",
+              "titleEn": "अध्याय 02 (परमाणु की संरचना)",
+              "file": "CHEMISTRY/02.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_chemistry_03",
+              "name": "अध्याय 03 (तत्वों का वर्गीकरण एवं आवर्तिता)",
+              "titleHi": "अध्याय 03 (तत्वों का वर्गीकरण एवं आवर्तिता)",
+              "titleEn": "अध्याय 03 (तत्वों का वर्गीकरण एवं आवर्तिता)",
+              "file": "CHEMISTRY/03.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_chemistry_04",
+              "name": "अध्याय 04 (रासायनिक आबंधन तथा आण्विक संरचना)",
+              "titleHi": "अध्याय 04 (रासायनिक आबंधन तथा आण्विक संरचना)",
+              "titleEn": "अध्याय 04 (रासायनिक आबंधन तथा आण्विक संरचना)",
+              "file": "CHEMISTRY/04.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_chemistry_05",
+              "name": "अध्याय 05 (ऊष्मागतिकी)",
+              "titleHi": "अध्याय 05 (ऊष्मागतिकी)",
+              "titleEn": "अध्याय 05 (ऊष्मागतिकी)",
+              "file": "CHEMISTRY/05.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_chemistry_06",
+              "name": "अध्याय 06 (साम्यावस्था)",
+              "titleHi": "अध्याय 06 (साम्यावस्था)",
+              "titleEn": "अध्याय 06 (साम्यावस्था)",
+              "file": "CHEMISTRY/06.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_chemistry_07",
+              "name": "अध्याय 07 (अपचयोपचय अभिक्रियाएं - Redox)",
+              "titleHi": "अध्याय 07 (अपचयोपचय अभिक्रियाएं - Redox)",
+              "titleEn": "अध्याय 07 (अपचयोपचय अभिक्रियाएं - Redox)",
+              "file": "CHEMISTRY/07.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_chemistry_08",
+              "name": "अध्याय 08 (कार्बनिक रसायन: आधारभूत सिद्धांत)",
+              "titleHi": "अध्याय 08 (कार्बनिक रसायन: आधारभूत सिद्धांत)",
+              "titleEn": "अध्याय 08 (कार्बनिक रसायन: आधारभूत सिद्धांत)",
+              "file": "CHEMISTRY/08.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_chemistry_09",
+              "name": "अध्याय 09 (हाइड्रोकार्बन)",
+              "titleHi": "अध्याय 09 (हाइड्रोकार्बन)",
+              "titleEn": "अध्याय 09 (हाइड्रोकार्बन)",
+              "file": "CHEMISTRY/09.json",
+              "questions": 100
+            }
+          ]
+        },
+        {
+          "id": "bseb11_biology",
+          "name": "जीव विज्ञान (BIOLOGY)",
+          "titleHi": "जीव विज्ञान",
+          "titleEn": "BIOLOGY",
+          "description": "",
+          "icon": "🧬",
+          "badge": "Biology",
+          "accentBg": "rgba(6, 182, 212, 0.16)",
+          "accentBorder": "rgba(6, 182, 212, 0.35)",
+          "chapters": [
+            {
+              "id": "bseb11_biology_01",
+              "name": "अध्याय 01 (जीव जगत)",
+              "titleHi": "अध्याय 01 (जीव जगत)",
+              "titleEn": "अध्याय 01 (जीव जगत)",
+              "file": "BIOLOGY/01.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_biology_02",
+              "name": "अध्याय 02 (जीव जगत का वर्गीकरण)",
+              "titleHi": "अध्याय 02 (जीव जगत का वर्गीकरण)",
+              "titleEn": "अध्याय 02 (जीव जगत का वर्गीकरण)",
+              "file": "BIOLOGY/02.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_biology_03",
+              "name": "अध्याय 03 (वनस्पति जगत)",
+              "titleHi": "अध्याय 03 (वनस्पति जगत)",
+              "titleEn": "अध्याय 03 (वनस्पति जगत)",
+              "file": "BIOLOGY/03.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_biology_04",
+              "name": "अध्याय 04 (प्राणि जगत)",
+              "titleHi": "अध्याय 04 (प्राणि जगत)",
+              "titleEn": "अध्याय 04 (प्राणि जगत)",
+              "file": "BIOLOGY/04.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_biology_05",
+              "name": "अध्याय 05 (पुष्पी पादपों की आकारिकी)",
+              "titleHi": "अध्याय 05 (पुष्पी पादपों की आकारिकी)",
+              "titleEn": "अध्याय 05 (पुष्पी पादपों की आकारिकी)",
+              "file": "BIOLOGY/05.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_biology_06",
+              "name": "अध्याय 06 (पुष्पी पादपों का शरीर)",
+              "titleHi": "अध्याय 06 (पुष्पी पादपों का शरीर)",
+              "titleEn": "अध्याय 06 (पुष्पी पादपों का शरीर)",
+              "file": "BIOLOGY/06.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_biology_07",
+              "name": "अध्याय 07 (प्राणियों में संरचनात्मक संगठन)",
+              "titleHi": "अध्याय 07 (प्राणियों में संरचनात्मक संगठन)",
+              "titleEn": "अध्याय 07 (प्राणियों में संरचनात्मक संगठन)",
+              "file": "BIOLOGY/07.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_biology_08",
+              "name": "अध्याय 08 (कोशिका: जीवन की इकाई)",
+              "titleHi": "अध्याय 08 (कोशिका: जीवन की इकाई)",
+              "titleEn": "अध्याय 08 (कोशिका: जीवन की इकाई)",
+              "file": "BIOLOGY/08.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_biology_09",
+              "name": "अध्याय 09 (जैव अणु)",
+              "titleHi": "अध्याय 09 (जैव अणु)",
+              "titleEn": "अध्याय 09 (जैव अणु)",
+              "file": "BIOLOGY/09.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_biology_10",
+              "name": "अध्याय 10 (कोशिका चक्र और कोशिका विभाजन)",
+              "titleHi": "अध्याय 10 (कोशिका चक्र और कोशिका विभाजन)",
+              "titleEn": "अध्याय 10 (कोशिका चक्र और कोशिका विभाजन)",
+              "file": "BIOLOGY/10.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_biology_11",
+              "name": "अध्याय 11 (उच्च पादपों में प्रकाश-संश्लेषण)",
+              "titleHi": "अध्याय 11 (उच्च पादपों में प्रकाश-संश्लेषण)",
+              "titleEn": "अध्याय 11 (उच्च पादपों में प्रकाश-संश्लेषण)",
+              "file": "BIOLOGY/11.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_biology_12",
+              "name": "अध्याय 12 (पादप में श्वसन)",
+              "titleHi": "अध्याय 12 (पादप में श्वसन)",
+              "titleEn": "अध्याय 12 (पादप में श्वसन)",
+              "file": "BIOLOGY/12.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_biology_13",
+              "name": "अध्याय 13 (पादप वृद्धि एवं परिवर्धन)",
+              "titleHi": "अध्याय 13 (पादप वृद्धि एवं परिवर्धन)",
+              "titleEn": "अध्याय 13 (पादप वृद्धि एवं परिवर्धन)",
+              "file": "BIOLOGY/13.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_biology_14",
+              "name": "अध्याय 14 (श्वसन और गैसों का विनिमय)",
+              "titleHi": "अध्याय 14 (श्वसन और गैसों का विनिमय)",
+              "titleEn": "अध्याय 14 (श्वसन और गैसों का विनिमय)",
+              "file": "BIOLOGY/14.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_biology_15",
+              "name": "अध्याय 15 (शरीर द्रव तथा परिसंचरण)",
+              "titleHi": "अध्याय 15 (शरीर द्रव तथा परिसंचरण)",
+              "titleEn": "अध्याय 15 (शरीर द्रव तथा परिसंचरण)",
+              "file": "BIOLOGY/15.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_biology_16",
+              "name": "अध्याय 16 (उत्सर्जी उत्पाद एवं निष्कासन)",
+              "titleHi": "अध्याय 16 (उत्सर्जी उत्पाद एवं निष्कासन)",
+              "titleEn": "अध्याय 16 (उत्सर्जी उत्पाद एवं निष्कासन)",
+              "file": "BIOLOGY/16.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_biology_17",
+              "name": "अध्याय 17 (गमन एवं संचलन)",
+              "titleHi": "अध्याय 17 (गमन एवं संचलन)",
+              "titleEn": "अध्याय 17 (गमन एवं संचलन)",
+              "file": "BIOLOGY/17.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_biology_18",
+              "name": "अध्याय 18 (तंत्रकीय नियंत्रण एवं समन्वय)",
+              "titleHi": "अध्याय 18 (तंत्रकीय नियंत्रण एवं समन्वय)",
+              "titleEn": "अध्याय 18 (तंत्रकीय नियंत्रण एवं समन्वय)",
+              "file": "BIOLOGY/18.json",
+              "questions": 100
+            },
+            {
+              "id": "bseb11_biology_19",
+              "name": "अध्याय 19 (रासायनिक समन्वय तथा एकीकरण)",
+              "titleHi": "अध्याय 19 (रासायनिक समन्वय तथा एकीकरण)",
+              "titleEn": "अध्याय 19 (रासायनिक समन्वय तथा एकीकरण)",
+              "file": "BIOLOGY/19.json",
+              "questions": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bseb9",
+      "shortLabel": "BSEB 9th",
+      "badge": "CLASS 9",
+      "title": "बिहार बोर्ड कक्षा 9 वीं फाउंडेशन पोर्टल",
+      "subtitle": "BSEB Class 9 Science & Social Science",
+      "baseDir": "data/BSEB/9th/",
+      "subjects": [
+        {
+          "id": "bseb9_science",
+          "name": "विज्ञान (SCIENCE)",
+          "titleHi": "विज्ञान",
+          "titleEn": "SCIENCE",
+          "description": "",
+          "icon": "🔬",
+          "badge": "Core",
+          "accentBg": "rgba(6, 182, 212, 0.16)",
+          "accentBorder": "rgba(6, 182, 212, 0.35)",
+          "sections": [
+            {
+              "id": "bseb9_science_physics",
+              "name": "भौतिकी (PHYSICS)",
+              "titleHi": "भौतिकी",
+              "titleEn": "PHYSICS",
+              "chapters": [
+                {
+                  "id": "bseb9_science_physics_01",
+                  "name": "पाठ 01 (गति)",
+                  "titleHi": "पाठ 01 (गति)",
+                  "titleEn": "पाठ 01 (गति)",
+                  "file": "SCIENCE/PHYSICS/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_science_physics_02",
+                  "name": "पाठ 02 (बल तथा गति के नियम)",
+                  "titleHi": "पाठ 02 (बल तथा गति के नियम)",
+                  "titleEn": "पाठ 02 (बल तथा गति के नियम)",
+                  "file": "SCIENCE/PHYSICS/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_science_physics_03",
+                  "name": "पाठ 03 (गुरुत्वाकर्षण)",
+                  "titleHi": "पाठ 03 (गुरुत्वाकर्षण)",
+                  "titleEn": "पाठ 03 (गुरुत्वाकर्षण)",
+                  "file": "SCIENCE/PHYSICS/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_science_physics_04",
+                  "name": "पाठ 04 (कार्य, ऊर्जा तथा शक्ति)",
+                  "titleHi": "पाठ 04 (कार्य, ऊर्जा तथा शक्ति)",
+                  "titleEn": "पाठ 04 (कार्य, ऊर्जा तथा शक्ति)",
+                  "file": "SCIENCE/PHYSICS/04.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_science_physics_05",
+                  "name": "पाठ 05 (ध्वनि)",
+                  "titleHi": "पाठ 05 (ध्वनि)",
+                  "titleEn": "पाठ 05 (ध्वनि)",
+                  "file": "SCIENCE/PHYSICS/05.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "bseb9_science_chemistry",
+              "name": "रसायन शास्त्र (CHEMISTRY)",
+              "titleHi": "रसायन शास्त्र",
+              "titleEn": "CHEMISTRY",
+              "chapters": [
+                {
+                  "id": "bseb9_science_chemistry_01",
+                  "name": "पाठ 01 (हमारे आस-पास के पदार्थ)",
+                  "titleHi": "पाठ 01 (हमारे आस-पास के पदार्थ)",
+                  "titleEn": "पाठ 01 (हमारे आस-पास के पदार्थ)",
+                  "file": "SCIENCE/CHEMISTRY/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_science_chemistry_02",
+                  "name": "पाठ 02 (क्या हमारे आस-पास के पदार्थ शुद्ध हैं)",
+                  "titleHi": "पाठ 02 (क्या हमारे आस-पास के पदार्थ शुद्ध हैं)",
+                  "titleEn": "पाठ 02 (क्या हमारे आस-पास के पदार्थ शुद्ध हैं)",
+                  "file": "SCIENCE/CHEMISTRY/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_science_chemistry_03",
+                  "name": "पाठ 03 (परमाणु एवं अणु)",
+                  "titleHi": "पाठ 03 (परमाणु एवं अणु)",
+                  "titleEn": "पाठ 03 (परमाणु एवं अणु)",
+                  "file": "SCIENCE/CHEMISTRY/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_science_chemistry_04",
+                  "name": "पाठ 04 (परमाणु की संरचना)",
+                  "titleHi": "पाठ 04 (परमाणु की संरचना)",
+                  "titleEn": "पाठ 04 (परमाणु की संरचना)",
+                  "file": "SCIENCE/CHEMISTRY/04.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "bseb9_science_biology",
+              "name": "जीव विज्ञान (BIOLOGY)",
+              "titleHi": "जीव विज्ञान",
+              "titleEn": "BIOLOGY",
+              "chapters": [
+                {
+                  "id": "bseb9_science_biology_01",
+                  "name": "पाठ 01 (जीवन की मौलिक इकाई)",
+                  "titleHi": "पाठ 01 (जीवन की मौलिक इकाई)",
+                  "titleEn": "पाठ 01 (जीवन की मौलिक इकाई)",
+                  "file": "SCIENCE/BIOLOGY/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_science_biology_02",
+                  "name": "पाठ 02 (ऊतक)",
+                  "titleHi": "पाठ 02 (ऊतक)",
+                  "titleEn": "पाठ 02 (ऊतक)",
+                  "file": "SCIENCE/BIOLOGY/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_science_biology_03",
+                  "name": "पाठ 03 (जीवों में विविधता)",
+                  "titleHi": "पाठ 03 (जीवों में विविधता)",
+                  "titleEn": "पाठ 03 (जीवों में विविधता)",
+                  "file": "SCIENCE/BIOLOGY/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_science_biology_04",
+                  "name": "पाठ 04 (हम बीमार क्यों होते हैं)",
+                  "titleHi": "पाठ 04 (हम बीमार क्यों होते हैं)",
+                  "titleEn": "पाठ 04 (हम बीमार क्यों होते हैं)",
+                  "file": "SCIENCE/BIOLOGY/04.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_science_biology_05",
+                  "name": "पाठ 05 (प्राकृतिक संपदा)",
+                  "titleHi": "पाठ 05 (प्राकृतिक संपदा)",
+                  "titleEn": "पाठ 05 (प्राकृतिक संपदा)",
+                  "file": "SCIENCE/BIOLOGY/05.json",
+                  "questions": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bseb9_social_science",
+          "name": "सामाजिक विज्ञान (SOCIAL SCIENCE)",
+          "titleHi": "सामाजिक विज्ञान",
+          "titleEn": "SOCIAL SCIENCE",
+          "description": "",
+          "icon": "🔬",
+          "badge": "Core",
+          "accentBg": "rgba(244, 63, 94, 0.16)",
+          "accentBorder": "rgba(244, 63, 94, 0.35)",
+          "sections": [
+            {
+              "id": "bseb9_social_science_history",
+              "name": "इतिहास (HISTORY)",
+              "titleHi": "इतिहास",
+              "titleEn": "HISTORY",
+              "chapters": [
+                {
+                  "id": "bseb9_social_science_history_01",
+                  "name": "पाठ 01 (भौगोलिक खोजें)",
+                  "titleHi": "पाठ 01 (भौगोलिक खोजें)",
+                  "titleEn": "पाठ 01 (भौगोलिक खोजें)",
+                  "file": "SST/HISTORY/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_social_science_history_02",
+                  "name": "पाठ 02 (अमेरिकी स्वतंत्रता संग्राम)",
+                  "titleHi": "पाठ 02 (अमेरिकी स्वतंत्रता संग्राम)",
+                  "titleEn": "पाठ 02 (अमेरिकी स्वतंत्रता संग्राम)",
+                  "file": "SST/HISTORY/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_social_science_history_03",
+                  "name": "पाठ 03 (फ्रांस की क्रांति)",
+                  "titleHi": "पाठ 03 (फ्रांस की क्रांति)",
+                  "titleEn": "पाठ 03 (फ्रांस की क्रांति)",
+                  "file": "SST/HISTORY/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_social_science_history_04",
+                  "name": "पाठ 04 (विश्वयुद्धों का इतिहास)",
+                  "titleHi": "पाठ 04 (विश्वयुद्धों का इतिहास)",
+                  "titleEn": "पाठ 04 (विश्वयुद्धों का इतिहास)",
+                  "file": "SST/HISTORY/04.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_social_science_history_05",
+                  "name": "पाठ 05 (नाज़ीवाद और हिटलर)",
+                  "titleHi": "पाठ 05 (नाज़ीवाद और हिटलर)",
+                  "titleEn": "पाठ 05 (नाज़ीवाद और हिटलर)",
+                  "file": "SST/HISTORY/05.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_social_science_history_06",
+                  "name": "पाठ 06 (वन्य समाज और उपनिवेशवाद)",
+                  "titleHi": "पाठ 06 (वन्य समाज और उपनिवेशवाद)",
+                  "titleEn": "पाठ 06 (वन्य समाज और उपनिवेशवाद)",
+                  "file": "SST/HISTORY/06.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "bseb9_social_science_geography",
+              "name": "भूगोल (GEOGRAPHY)",
+              "titleHi": "भूगोल",
+              "titleEn": "GEOGRAPHY",
+              "chapters": [
+                {
+                  "id": "bseb9_social_science_geography_01",
+                  "name": "पाठ 01 (भारत : आकार और स्थिति)",
+                  "titleHi": "पाठ 01 (भारत : आकार और स्थिति)",
+                  "titleEn": "पाठ 01 (भारत : आकार और स्थिति)",
+                  "file": "SST/GEOGRAPHY/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_social_science_geography_02",
+                  "name": "पाठ 02 (भारत का भौतिक स्वरूप)",
+                  "titleHi": "पाठ 02 (भारत का भौतिक स्वरूप)",
+                  "titleEn": "पाठ 02 (भारत का भौतिक स्वरूप)",
+                  "file": "SST/GEOGRAPHY/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_social_science_geography_03",
+                  "name": "पाठ 03 (अपवाह)",
+                  "titleHi": "पाठ 03 (अपवाह)",
+                  "titleEn": "पाठ 03 (अपवाह)",
+                  "file": "SST/GEOGRAPHY/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_social_science_geography_04",
+                  "name": "पाठ 04 (जलवायु)",
+                  "titleHi": "पाठ 04 (जलवायु)",
+                  "titleEn": "पाठ 04 (जलवायु)",
+                  "file": "SST/GEOGRAPHY/04.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_social_science_geography_05",
+                  "name": "पाठ 05 (प्राकृतिक वनस्पति तथा वन्य प्राणी)",
+                  "titleHi": "पाठ 05 (प्राकृतिक वनस्पति तथा वन्य प्राणी)",
+                  "titleEn": "पाठ 05 (प्राकृतिक वनस्पति तथा वन्य प्राणी)",
+                  "file": "SST/GEOGRAPHY/05.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_social_science_geography_06",
+                  "name": "पाठ 06 (जनसंख्या)",
+                  "titleHi": "पाठ 06 (जनसंख्या)",
+                  "titleEn": "पाठ 06 (जनसंख्या)",
+                  "file": "SST/GEOGRAPHY/06.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "bseb9_social_science_political_science",
+              "name": "राजनीतिक शास्त्र (POLITICAL SCIENCE)",
+              "titleHi": "राजनीतिक शास्त्र",
+              "titleEn": "POLITICAL SCIENCE",
+              "chapters": [
+                {
+                  "id": "bseb9_social_science_political_science_01",
+                  "name": "पाठ 01 (लोकतंत्र का क्रमिक विकास)",
+                  "titleHi": "पाठ 01 (लोकतंत्र का क्रमिक विकास)",
+                  "titleEn": "पाठ 01 (लोकतंत्र का क्रमिक विकास)",
+                  "file": "SST/POLITICAL_SCIENCE/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_social_science_political_science_02",
+                  "name": "पाठ 02 (लोकतंत्र क्या? लोकतंत्र क्यों?)",
+                  "titleHi": "पाठ 02 (लोकतंत्र क्या? लोकतंत्र क्यों?)",
+                  "titleEn": "पाठ 02 (लोकतंत्र क्या? लोकतंत्र क्यों?)",
+                  "file": "SST/POLITICAL_SCIENCE/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_social_science_political_science_03",
+                  "name": "पाठ 03 (संविधान निर्माण)",
+                  "titleHi": "पाठ 03 (संविधान निर्माण)",
+                  "titleEn": "पाठ 03 (संविधान निर्माण)",
+                  "file": "SST/POLITICAL_SCIENCE/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_social_science_political_science_04",
+                  "name": "पाठ 04 (चुनावी राजनीति)",
+                  "titleHi": "पाठ 04 (चुनावी राजनीति)",
+                  "titleEn": "पाठ 04 (चुनावी राजनीति)",
+                  "file": "SST/POLITICAL_SCIENCE/04.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_social_science_political_science_05",
+                  "name": "पाठ 05 (संस्थाओं का कामकाज)",
+                  "titleHi": "पाठ 05 (संस्थाओं का कामकाज)",
+                  "titleEn": "पाठ 05 (संस्थाओं का कामकाज)",
+                  "file": "SST/POLITICAL_SCIENCE/05.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "bseb9_social_science_economics",
+              "name": "अर्थशास्त्र (ECONOMICS)",
+              "titleHi": "अर्थशास्त्र",
+              "titleEn": "ECONOMICS",
+              "chapters": [
+                {
+                  "id": "bseb9_social_science_economics_01",
+                  "name": "पाठ 01 (बिहार के एक गाँव की कहानी)",
+                  "titleHi": "पाठ 01 (बिहार के एक गाँव की कहानी)",
+                  "titleEn": "पाठ 01 (बिहार के एक गाँव की कहानी)",
+                  "file": "SST/ECONOMICS/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_social_science_economics_02",
+                  "name": "पाठ 02 (मानव एक संसाधन के रूप में)",
+                  "titleHi": "पाठ 02 (मानव एक संसाधन के रूप में)",
+                  "titleEn": "पाठ 02 (मानव एक संसाधन के रूप में)",
+                  "file": "SST/ECONOMICS/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_social_science_economics_03",
+                  "name": "पाठ 03 (निर्धनता : एक चुनौती)",
+                  "titleHi": "पाठ 03 (निर्धनता : एक चुनौती)",
+                  "titleEn": "पाठ 03 (निर्धनता : एक चुनौती)",
+                  "file": "SST/ECONOMICS/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "bseb9_social_science_economics_04",
+                  "name": "पाठ 04 (भारत में खाद्य सुरक्षा)",
+                  "titleHi": "पाठ 04 (भारत में खाद्य सुरक्षा)",
+                  "titleEn": "पाठ 04 (भारत में खाद्य सुरक्षा)",
+                  "file": "SST/ECONOMICS/04.json",
+                  "questions": 100
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cbse9",
+      "shortLabel": "CBSE 9th",
+      "badge": "CBSE 9",
+      "title": "CBSE Class 9 NCERT Foundation",
+      "subtitle": "CBSE Class 9 Science & Social Science",
+      "baseDir": "data/CBSE/9th/",
+      "subjects": [
+        {
+          "id": "cbse9_science",
+          "name": "SCIENCE",
+          "titleHi": "SCIENCE",
+          "titleEn": "SCIENCE",
+          "description": "",
+          "icon": "🔬",
+          "badge": "Core",
+          "accentBg": "rgba(6, 182, 212, 0.16)",
+          "accentBorder": "rgba(6, 182, 212, 0.35)",
+          "sections": [
+            {
+              "id": "cbse9_science_physics",
+              "name": "PHYSICS",
+              "titleHi": "PHYSICS",
+              "titleEn": "PHYSICS",
+              "chapters": [
+                {
+                  "id": "cbse9_science_physics_01",
+                  "name": "Chapter 01 (Motion)",
+                  "titleHi": "Chapter 01 (Motion)",
+                  "titleEn": "Chapter 01 (Motion)",
+                  "file": "SCIENCE/PHYSICS/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse9_science_physics_02",
+                  "name": "Chapter 02 (Force and Laws of Motion)",
+                  "titleHi": "Chapter 02 (Force and Laws of Motion)",
+                  "titleEn": "Chapter 02 (Force and Laws of Motion)",
+                  "file": "SCIENCE/PHYSICS/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse9_science_physics_03",
+                  "name": "Chapter 03 (Gravitation)",
+                  "titleHi": "Chapter 03 (Gravitation)",
+                  "titleEn": "Chapter 03 (Gravitation)",
+                  "file": "SCIENCE/PHYSICS/03.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "cbse9_science_chemistry",
+              "name": "CHEMISTRY",
+              "titleHi": "CHEMISTRY",
+              "titleEn": "CHEMISTRY",
+              "chapters": [
+                {
+                  "id": "cbse9_science_chemistry_01",
+                  "name": "Chapter 01 (Matter in Our Surroundings)",
+                  "titleHi": "Chapter 01 (Matter in Our Surroundings)",
+                  "titleEn": "Chapter 01 (Matter in Our Surroundings)",
+                  "file": "SCIENCE/CHEMISTRY/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse9_science_chemistry_02",
+                  "name": "Chapter 02 (Is Matter Around Us Pure)",
+                  "titleHi": "Chapter 02 (Is Matter Around Us Pure)",
+                  "titleEn": "Chapter 02 (Is Matter Around Us Pure)",
+                  "file": "SCIENCE/CHEMISTRY/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse9_science_chemistry_03",
+                  "name": "Chapter 03 (Atoms and Molecules)",
+                  "titleHi": "Chapter 03 (Atoms and Molecules)",
+                  "titleEn": "Chapter 03 (Atoms and Molecules)",
+                  "file": "SCIENCE/CHEMISTRY/03.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "cbse9_science_biology",
+              "name": "BIOLOGY",
+              "titleHi": "BIOLOGY",
+              "titleEn": "BIOLOGY",
+              "chapters": [
+                {
+                  "id": "cbse9_science_biology_01",
+                  "name": "Chapter 01 (The Fundamental Unit of Life)",
+                  "titleHi": "Chapter 01 (The Fundamental Unit of Life)",
+                  "titleEn": "Chapter 01 (The Fundamental Unit of Life)",
+                  "file": "SCIENCE/BIOLOGY/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse9_science_biology_02",
+                  "name": "Chapter 02 (Tissues)",
+                  "titleHi": "Chapter 02 (Tissues)",
+                  "titleEn": "Chapter 02 (Tissues)",
+                  "file": "SCIENCE/BIOLOGY/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse9_science_biology_03",
+                  "name": "Chapter 03 (Improvement in Food Resources)",
+                  "titleHi": "Chapter 03 (Improvement in Food Resources)",
+                  "titleEn": "Chapter 03 (Improvement in Food Resources)",
+                  "file": "SCIENCE/BIOLOGY/03.json",
+                  "questions": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cbse9_sst_social_science",
+          "name": "SST (SOCIAL SCIENCE)",
+          "titleHi": "SST (SOCIAL SCIENCE)",
+          "titleEn": "SST (SOCIAL SCIENCE)",
+          "description": "",
+          "icon": "🔬",
+          "badge": "Core",
+          "accentBg": "rgba(244, 63, 94, 0.16)",
+          "accentBorder": "rgba(244, 63, 94, 0.35)",
+          "sections": [
+            {
+              "id": "cbse9_sst_social_science_history",
+              "name": "HISTORY",
+              "titleHi": "HISTORY",
+              "titleEn": "HISTORY",
+              "chapters": [
+                {
+                  "id": "cbse9_sst_social_science_history_01",
+                  "name": "Chapter 01 (The French Revolution)",
+                  "titleHi": "Chapter 01 (The French Revolution)",
+                  "titleEn": "Chapter 01 (The French Revolution)",
+                  "file": "SST/HISTORY/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse9_sst_social_science_history_02",
+                  "name": "Chapter 02 (Socialism in Europe)",
+                  "titleHi": "Chapter 02 (Socialism in Europe)",
+                  "titleEn": "Chapter 02 (Socialism in Europe)",
+                  "file": "SST/HISTORY/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse9_sst_social_science_history_03",
+                  "name": "Chapter 03 (Nazism and the Rise of Hitler)",
+                  "titleHi": "Chapter 03 (Nazism and the Rise of Hitler)",
+                  "titleEn": "Chapter 03 (Nazism and the Rise of Hitler)",
+                  "file": "SST/HISTORY/03.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "cbse9_sst_social_science_geography",
+              "name": "GEOGRAPHY",
+              "titleHi": "GEOGRAPHY",
+              "titleEn": "GEOGRAPHY",
+              "chapters": [
+                {
+                  "id": "cbse9_sst_social_science_geography_01",
+                  "name": "Chapter 01 (India - Size and Location)",
+                  "titleHi": "Chapter 01 (India - Size and Location)",
+                  "titleEn": "Chapter 01 (India - Size and Location)",
+                  "file": "SST/GEOGRAPHY/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse9_sst_social_science_geography_02",
+                  "name": "Chapter 02 (Physical Features of India)",
+                  "titleHi": "Chapter 02 (Physical Features of India)",
+                  "titleEn": "Chapter 02 (Physical Features of India)",
+                  "file": "SST/GEOGRAPHY/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse9_sst_social_science_geography_03",
+                  "name": "Chapter 03 (Drainage)",
+                  "titleHi": "Chapter 03 (Drainage)",
+                  "titleEn": "Chapter 03 (Drainage)",
+                  "file": "SST/GEOGRAPHY/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse9_sst_social_science_geography_04",
+                  "name": "Chapter 04 (Climate)",
+                  "titleHi": "Chapter 04 (Climate)",
+                  "titleEn": "Chapter 04 (Climate)",
+                  "file": "SST/GEOGRAPHY/04.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse9_sst_social_science_geography_05",
+                  "name": "Chapter 05 (Natural Vegetation and Wildlife)",
+                  "titleHi": "Chapter 05 (Natural Vegetation and Wildlife)",
+                  "titleEn": "Chapter 05 (Natural Vegetation and Wildlife)",
+                  "file": "SST/GEOGRAPHY/05.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse9_sst_social_science_geography_06",
+                  "name": "Chapter 06 (Population)",
+                  "titleHi": "Chapter 06 (Population)",
+                  "titleEn": "Chapter 06 (Population)",
+                  "file": "SST/GEOGRAPHY/06.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "cbse9_sst_social_science_political_science",
+              "name": "POLITICAL SCIENCE",
+              "titleHi": "POLITICAL SCIENCE",
+              "titleEn": "POLITICAL SCIENCE",
+              "chapters": [
+                {
+                  "id": "cbse9_sst_social_science_political_science_01",
+                  "name": "Chapter 01 (What is Democracy?)",
+                  "titleHi": "Chapter 01 (What is Democracy?)",
+                  "titleEn": "Chapter 01 (What is Democracy?)",
+                  "file": "SST/POLITICAL_SCIENCE/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse9_sst_social_science_political_science_02",
+                  "name": "Chapter 02 (Constitutional Design)",
+                  "titleHi": "Chapter 02 (Constitutional Design)",
+                  "titleEn": "Chapter 02 (Constitutional Design)",
+                  "file": "SST/POLITICAL_SCIENCE/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse9_sst_social_science_political_science_03",
+                  "name": "Chapter 03 (Electoral Politics)",
+                  "titleHi": "Chapter 03 (Electoral Politics)",
+                  "titleEn": "Chapter 03 (Electoral Politics)",
+                  "file": "SST/POLITICAL_SCIENCE/03.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse9_sst_social_science_political_science_04",
+                  "name": "Chapter 04 (Working of Institutions)",
+                  "titleHi": "Chapter 04 (Working of Institutions)",
+                  "titleEn": "Chapter 04 (Working of Institutions)",
+                  "file": "SST/POLITICAL_SCIENCE/04.json",
+                  "questions": 100
+                }
+              ]
+            },
+            {
+              "id": "cbse9_sst_social_science_economics",
+              "name": "ECONOMICS",
+              "titleHi": "ECONOMICS",
+              "titleEn": "ECONOMICS",
+              "chapters": [
+                {
+                  "id": "cbse9_sst_social_science_economics_01",
+                  "name": "Chapter 01 (The Story of Village Palampur)",
+                  "titleHi": "Chapter 01 (The Story of Village Palampur)",
+                  "titleEn": "Chapter 01 (The Story of Village Palampur)",
+                  "file": "SST/ECONOMICS/01.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse9_sst_social_science_economics_02",
+                  "name": "Chapter 02 (People as Resource)",
+                  "titleHi": "Chapter 02 (People as Resource)",
+                  "titleEn": "Chapter 02 (People as Resource)",
+                  "file": "SST/ECONOMICS/02.json",
+                  "questions": 100
+                },
+                {
+                  "id": "cbse9_sst_social_science_economics_03",
+                  "name": "Chapter 03 (Poverty as a Challenge)",
+                  "titleHi": "Chapter 03 (Poverty as a Challenge)",
+                  "titleEn": "Chapter 03 (Poverty as a Challenge)",
+                  "file": "SST/ECONOMICS/03.json",
+                  "questions": 100
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "common_gk",
+      "shortLabel": "Common GK",
+      "badge": "GK TRACK",
+      "title": "सामान्य ज्ञान (Common GK — 9 Subjects)",
+      "subtitle": "Indian Polity, History, Geography & General Science",
+      "baseDir": "data/COMMON/",
+      "subjects": [
+        {
+          "id": "common_gk_history",
+          "name": "इतिहास (HISTORY)",
+          "titleHi": "इतिहास",
+          "titleEn": "HISTORY",
+          "description": "GK — HISTORY",
+          "icon": "🏛️",
+          "badge": "History",
+          "accentBg": "rgba(244, 63, 94, 0.16)",
+          "accentBorder": "rgba(244, 63, 94, 0.35)",
+          "chapters": [
+            {
+              "id": "common_gk_history_01",
+              "name": "पाठ 01 (सिंधु घाटी सभ्यता / Indus Valley Civilization)",
+              "titleHi": "पाठ 01 (सिंधु घाटी सभ्यता",
+              "titleEn": "Indus Valley Civilization)",
+              "file": "COMMON/GK/HISTORY/01.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_history_02",
+              "name": "पाठ 02 (वैदिक संस्कृति एवं सभ्यता / Vedic Culture)",
+              "titleHi": "पाठ 02 (वैदिक संस्कृति एवं सभ्यता",
+              "titleEn": "Vedic Culture)",
+              "file": "COMMON/GK/HISTORY/02.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_history_03",
+              "name": "पाठ 03 (महाजनपद काल, बौद्ध एवं जैन धर्म / Mahajanapadas, Buddhism & Jainism)",
+              "titleHi": "पाठ 03 (महाजनपद काल, बौद्ध एवं जैन धर्म",
+              "titleEn": "Mahajanapadas, Buddhism & Jainism)",
+              "file": "COMMON/GK/HISTORY/03.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_history_04",
+              "name": "पाठ 04 (मौर्य साम्राज्य और गुप्त साम्राज्य / Mauryan & Gupta Empire)",
+              "titleHi": "पाठ 04 (मौर्य साम्राज्य और गुप्त साम्राज्य",
+              "titleEn": "Mauryan & Gupta Empire)",
+              "file": "COMMON/GK/HISTORY/04.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_history_05",
+              "name": "पाठ 05 (दक्षिण भारत के प्रमुख राजवंश / South Indian Dynasties)",
+              "titleHi": "पाठ 05 (दक्षिण भारत के प्रमुख राजवंश",
+              "titleEn": "South Indian Dynasties)",
+              "file": "COMMON/GK/HISTORY/05.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_history_06",
+              "name": "पाठ 06 (दिल्ली सल्तनत / Delhi Sultanate)",
+              "titleHi": "पाठ 06 (दिल्ली सल्तनत",
+              "titleEn": "Delhi Sultanate)",
+              "file": "COMMON/GK/HISTORY/06.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_history_07",
+              "name": "पाठ 07 (मुगल साम्राज्य और मराठा साम्राज्य / Mughal & Maratha Empire)",
+              "titleHi": "पाठ 07 (मुगल साम्राज्य और मराठा साम्राज्य",
+              "titleEn": "Mughal & Maratha Empire)",
+              "file": "COMMON/GK/HISTORY/07.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_history_08",
+              "name": "पाठ 08 (भारत में यूरोपीय कंपनियों का आगमन / Arrival of European Companies)",
+              "titleHi": "पाठ 08 (भारत में यूरोपीय कंपनियों का आगमन",
+              "titleEn": "Arrival of European Companies)",
+              "file": "COMMON/GK/HISTORY/08.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_history_09",
+              "name": "पाठ 09 (1857 की क्रांति / Revolt of 1857)",
+              "titleHi": "पाठ 09 (1857 की क्रांति",
+              "titleEn": "Revolt of 1857)",
+              "file": "COMMON/GK/HISTORY/09.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_history_10",
+              "name": "पाठ 10 (सामाजिक और धार्मिक सुधार आंदोलन / Socio-Religious Reform Movements)",
+              "titleHi": "पाठ 10 (सामाजिक और धार्मिक सुधार आंदोलन",
+              "titleEn": "Socio-Religious Reform Movements)",
+              "file": "COMMON/GK/HISTORY/10.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_history_11",
+              "name": "पाठ 11 (भारतीय राष्ट्रीय कांग्रेस और प्रमुख अधिवेशन / INC & Important Sessions)",
+              "titleHi": "पाठ 11 (भारतीय राष्ट्रीय कांग्रेस और प्रमुख अधिवेशन",
+              "titleEn": "INC & Important Sessions)",
+              "file": "COMMON/GK/HISTORY/11.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_history_12",
+              "name": "पाठ 12 (स्वतंत्रता संग्राम और प्रमुख आंदोलन / Freedom Movement)",
+              "titleHi": "पाठ 12 (स्वतंत्रता संग्राम और प्रमुख आंदोलन",
+              "titleEn": "Freedom Movement)",
+              "file": "COMMON/GK/HISTORY/12.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_history_13",
+              "name": "पाठ 13 (भारत का विभाजन और स्वतंत्रता / Partition and Independence)",
+              "titleHi": "पाठ 13 (भारत का विभाजन और स्वतंत्रता",
+              "titleEn": "Partition and Independence)",
+              "file": "COMMON/GK/HISTORY/13.json",
+              "questions": 75
+            }
+          ]
+        },
+        {
+          "id": "common_gk_geography",
+          "name": "भूगोल (GEOGRAPHY)",
+          "titleHi": "भूगोल",
+          "titleEn": "GEOGRAPHY",
+          "description": "GK — GEOGRAPHY",
+          "icon": "🗺️",
+          "badge": "Geography",
+          "accentBg": "rgba(244, 63, 94, 0.16)",
+          "accentBorder": "rgba(244, 63, 94, 0.35)",
+          "chapters": [
+            {
+              "id": "common_gk_geography_01",
+              "name": "पाठ 01 (सौरमंडल, पृथ्वी की गति और अक्षांश-देशांतर / Solar System & Earth Movements)",
+              "titleHi": "पाठ 01 (सौरमंडल, पृथ्वी की गति और अक्षांश-देशांतर",
+              "titleEn": "Solar System & Earth Movements)",
+              "file": "COMMON/GK/GEOGRAPHY/01.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_geography_02",
+              "name": "पाठ 02 (पृथ्वी की आंतरिक संरचना, भूकंप और ज्वालामुखी / Earth Interior, Volcanoes & Earthquakes)",
+              "titleHi": "पाठ 02 (पृथ्वी की आंतरिक संरचना, भूकंप और ज्वालामुखी",
+              "titleEn": "Earth Interior, Volcanoes & Earthquakes)",
+              "file": "COMMON/GK/GEOGRAPHY/02.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_geography_03",
+              "name": "पाठ 03 (वायुमंडल की संरचना और दाबांतर / Atmosphere & Pressure)",
+              "titleHi": "पाठ 03 (वायुमंडल की संरचना और दाबांतर",
+              "titleEn": "Atmosphere & Pressure)",
+              "file": "COMMON/GK/GEOGRAPHY/03.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_geography_04",
+              "name": "पाठ 04 (महाद्वीप, महासागर और जलधाराएँ / Continents, Oceans & Currents)",
+              "titleHi": "पाठ 04 (महाद्वीप, महासागर और जलधाराएँ",
+              "titleEn": "Continents, Oceans & Currents)",
+              "file": "COMMON/GK/GEOGRAPHY/04.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_geography_05",
+              "name": "पाठ 05 (भारत की भौतिक बनावट / Physical Features of India)",
+              "titleHi": "पाठ 05 (भारत की भौतिक बनावट",
+              "titleEn": "Physical Features of India)",
+              "file": "COMMON/GK/GEOGRAPHY/05.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_geography_06",
+              "name": "पाठ 06 (भारत की नदियाँ, झीलें और जलप्रपात / Rivers, Lakes & Waterfalls)",
+              "titleHi": "पाठ 06 (भारत की नदियाँ, झीलें और जलप्रपात",
+              "titleEn": "Rivers, Lakes & Waterfalls)",
+              "file": "COMMON/GK/GEOGRAPHY/06.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_geography_07",
+              "name": "पाठ 07 (भारत की जलवायु और मृदा के प्रकार / Climate & Soil Types of India)",
+              "titleHi": "पाठ 07 (भारत की जलवायु और मृदा के प्रकार",
+              "titleEn": "Climate & Soil Types of India)",
+              "file": "COMMON/GK/GEOGRAPHY/07.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_geography_08",
+              "name": "पाठ 08 (कृषि, सिंचाई और प्रमुख फसलें / Agriculture & Major Crops)",
+              "titleHi": "पाठ 08 (कृषि, सिंचाई और प्रमुख फसलें",
+              "titleEn": "Agriculture & Major Crops)",
+              "file": "COMMON/GK/GEOGRAPHY/08.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_geography_09",
+              "name": "पाठ 09 (खनिज संसाधन, ऊर्जा और उद्योग / Minerals, Energy & Industries)",
+              "titleHi": "पाठ 09 (खनिज संसाधन, ऊर्जा और उद्योग",
+              "titleEn": "Minerals, Energy & Industries)",
+              "file": "COMMON/GK/GEOGRAPHY/09.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_geography_10",
+              "name": "पाठ 10 (राष्ट्रीय उद्यान और अभयारण्य / National Parks & Wildlife Sanctuaries)",
+              "titleHi": "पाठ 10 (राष्ट्रीय उद्यान और अभयारण्य",
+              "titleEn": "National Parks & Wildlife Sanctuaries)",
+              "file": "COMMON/GK/GEOGRAPHY/10.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_geography_11",
+              "name": "पाठ 11 (जनगणना और जनसंख्या वितरण / Census & Population Distribution)",
+              "titleHi": "पाठ 11 (जनगणना और जनसंख्या वितरण",
+              "titleEn": "Census & Population Distribution)",
+              "file": "COMMON/GK/GEOGRAPHY/11.json",
+              "questions": 75
+            }
+          ]
+        },
+        {
+          "id": "common_gk_polity",
+          "name": "भारतीय राजव्यवस्था (POLITY)",
+          "titleHi": "भारतीय राजव्यवस्था",
+          "titleEn": "POLITY",
+          "description": "GK — POLITY",
+          "icon": "⚖️",
+          "badge": "Polity",
+          "accentBg": "rgba(99, 102, 241, 0.16)",
+          "accentBorder": "rgba(99, 102, 241, 0.35)",
+          "chapters": [
+            {
+              "id": "common_gk_polity_01",
+              "name": "पाठ 01 (संविधान का निर्माण और सभा / Making of Constitution)",
+              "titleHi": "पाठ 01 (संविधान का निर्माण और सभा",
+              "titleEn": "Making of Constitution)",
+              "file": "COMMON/GK/POLITY/01.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_polity_02",
+              "name": "पाठ 02 (प्रस्तावना और प्रमुख स्रोत / Preamble & Sources of Constitution)",
+              "titleHi": "पाठ 02 (प्रस्तावना और प्रमुख स्रोत",
+              "titleEn": "Preamble & Sources of Constitution)",
+              "file": "COMMON/GK/POLITY/02.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_polity_03",
+              "name": "पाठ 03 (अनुसूचियाँ और भाग / Schedules & Parts)",
+              "titleHi": "पाठ 03 (अनुसूचियाँ और भाग",
+              "titleEn": "Schedules & Parts)",
+              "file": "COMMON/GK/POLITY/03.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_polity_04",
+              "name": "पाठ 04 (नागरिकता / Citizenship)",
+              "titleHi": "पाठ 04 (नागरिकता",
+              "titleEn": "Citizenship)",
+              "file": "COMMON/GK/POLITY/04.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_polity_05",
+              "name": "पाठ 05 (मौलिक अधिकार और कर्तव्य / Fundamental Rights & Duties)",
+              "titleHi": "पाठ 05 (मौलिक अधिकार और कर्तव्य",
+              "titleEn": "Fundamental Rights & Duties)",
+              "file": "COMMON/GK/POLITY/05.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_polity_06",
+              "name": "पाठ 06 (राज्य के नीति निदेशक तत्व / DPSP)",
+              "titleHi": "पाठ 06 (राज्य के नीति निदेशक तत्व",
+              "titleEn": "DPSP)",
+              "file": "COMMON/GK/POLITY/06.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_polity_07",
+              "name": "पाठ 07 (राष्ट्रपति, उपराष्ट्रपति और प्रधानमंत्री / President, VP & Prime Minister)",
+              "titleHi": "पाठ 07 (राष्ट्रपति, उपराष्ट्रपति और प्रधानमंत्री",
+              "titleEn": "President, VP & Prime Minister)",
+              "file": "COMMON/GK/POLITY/07.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_polity_08",
+              "name": "पाठ 08 (संसद - लोकसभा और राज्यसभा / Parliament - Lok Sabha & Rajya Sabha)",
+              "titleHi": "पाठ 08 (संसद - लोकसभा और राज्यसभा",
+              "titleEn": "Parliament - Lok Sabha & Rajya Sabha)",
+              "file": "COMMON/GK/POLITY/08.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_polity_09",
+              "name": "पाठ 09 (सर्वोच्च न्यायालय और उच्च न्यायालय / Supreme Court & High Court)",
+              "titleHi": "पाठ 09 (सर्वोच्च न्यायालय और उच्च न्यायालय",
+              "titleEn": "Supreme Court & High Court)",
+              "file": "COMMON/GK/POLITY/09.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_polity_10",
+              "name": "पाठ 10 (राज्यपाल और मुख्यमंत्री / Governor & Chief Minister)",
+              "titleHi": "पाठ 10 (राज्यपाल और मुख्यमंत्री",
+              "titleEn": "Governor & Chief Minister)",
+              "file": "COMMON/GK/POLITY/10.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_polity_11",
+              "name": "पाठ 11 (पंचायती राज और स्थानीय स्वशासन / Panchayati Raj)",
+              "titleHi": "पाठ 11 (पंचायती राज और स्थानीय स्वशासन",
+              "titleEn": "Panchayati Raj)",
+              "file": "COMMON/GK/POLITY/11.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_polity_12",
+              "name": "पाठ 12 (निर्वाचन आयोग, UPSC और CAG / Constitutional Bodies)",
+              "titleHi": "पाठ 12 (निर्वाचन आयोग, UPSC और CAG",
+              "titleEn": "Constitutional Bodies)",
+              "file": "COMMON/GK/POLITY/12.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_polity_13",
+              "name": "पाठ 13 (प्रमुख संवैधानिक संशोधन / Important Constitutional Amendments)",
+              "titleHi": "पाठ 13 (प्रमुख संवैधानिक संशोधन",
+              "titleEn": "Important Constitutional Amendments)",
+              "file": "COMMON/GK/POLITY/13.json",
+              "questions": 75
+            }
+          ]
+        },
+        {
+          "id": "common_gk_economics",
+          "name": "अर्थशास्त्र (ECONOMICS)",
+          "titleHi": "अर्थशास्त्र",
+          "titleEn": "ECONOMICS",
+          "description": "GK — ECONOMICS",
+          "icon": "💰",
+          "badge": "Economics",
+          "accentBg": "rgba(244, 63, 94, 0.16)",
+          "accentBorder": "rgba(244, 63, 94, 0.35)",
+          "chapters": [
+            {
+              "id": "common_gk_economics_01",
+              "name": "पाठ 01 (अर्थशास्त्र के प्रकार और क्षेत्र / Types and Sectors of Economy)",
+              "titleHi": "पाठ 01 (अर्थशास्त्र के प्रकार और क्षेत्र",
+              "titleEn": "Types and Sectors of Economy)",
+              "file": "COMMON/GK/ECONOMICS/01.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_economics_02",
+              "name": "पाठ 02 (राष्ट्रीय आय, GDP, GNP / National Income, GDP & GNP)",
+              "titleHi": "पाठ 02 (राष्ट्रीय आय, GDP, GNP",
+              "titleEn": "National Income, GDP & GNP)",
+              "file": "COMMON/GK/ECONOMICS/02.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_economics_03",
+              "name": "पाठ 03 (मुद्रास्फीति और मंदी / Inflation & Recession)",
+              "titleHi": "पाठ 03 (मुद्रास्फीति और मंदी",
+              "titleEn": "Inflation & Recession)",
+              "file": "COMMON/GK/ECONOMICS/03.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_economics_04",
+              "name": "पाठ 04 (भारतीय बैंकिंग प्रणाली और RBI / Indian Banking & RBI)",
+              "titleHi": "पाठ 04 (भारतीय बैंकिंग प्रणाली और RBI",
+              "titleEn": "Indian Banking & RBI)",
+              "file": "COMMON/GK/ECONOMICS/04.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_economics_05",
+              "name": "पाठ 05 (कर प्रणाली एवं GST / Tax System & GST)",
+              "titleHi": "पाठ 05 (कर प्रणाली एवं GST",
+              "titleEn": "Tax System & GST)",
+              "file": "COMMON/GK/ECONOMICS/05.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_economics_06",
+              "name": "पाठ 06 (बजट और वित्तीय प्रणाली / Budget & Financial System)",
+              "titleHi": "पाठ 06 (बजट और वित्तीय प्रणाली",
+              "titleEn": "Budget & Financial System)",
+              "file": "COMMON/GK/ECONOMICS/06.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_economics_07",
+              "name": "पाठ 07 (निर्धनता, बेरोजगारी और योजनाएँ / Poverty, Unemployment & Schemes)",
+              "titleHi": "पाठ 07 (निर्धनता, बेरोजगारी और योजनाएँ",
+              "titleEn": "Poverty, Unemployment & Schemes)",
+              "file": "COMMON/GK/ECONOMICS/07.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_economics_08",
+              "name": "पाठ 08 (पंचवर्षीय योजनाएँ और नीति आयोग / Five Year Plans & NITI Aayog)",
+              "titleHi": "पाठ 08 (पंचवर्षीय योजनाएँ और नीति आयोग",
+              "titleEn": "Five Year Plans & NITI Aayog)",
+              "file": "COMMON/GK/ECONOMICS/08.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_economics_09",
+              "name": "पाठ 09 (अंतर्राष्ट्रीय आर्थिक संगठन / International Economic Organizations)",
+              "titleHi": "पाठ 09 (अंतर्राष्ट्रीय आर्थिक संगठन",
+              "titleEn": "International Economic Organizations)",
+              "file": "COMMON/GK/ECONOMICS/09.json",
+              "questions": 75
+            }
+          ]
+        },
+        {
+          "id": "common_gk_physics",
+          "name": "भौतिक विज्ञान (PHYSICS)",
+          "titleHi": "भौतिक विज्ञान",
+          "titleEn": "PHYSICS",
+          "description": "GK — PHYSICS",
+          "icon": "⚡",
+          "badge": "Physics",
+          "accentBg": "rgba(6, 182, 212, 0.16)",
+          "accentBorder": "rgba(6, 182, 212, 0.35)",
+          "chapters": [
+            {
+              "id": "common_gk_physics_01",
+              "name": "पाठ 01 (मात्रक और मापन / Units and Measurements)",
+              "titleHi": "पाठ 01 (मात्रक और मापन",
+              "titleEn": "Units and Measurements)",
+              "file": "COMMON/GK/PHYSICS/01.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_physics_02",
+              "name": "पाठ 02 (गति, बल और न्यूटन के नियम / Motion, Force & Laws of Motion)",
+              "titleHi": "पाठ 02 (गति, बल और न्यूटन के नियम",
+              "titleEn": "Motion, Force & Laws of Motion)",
+              "file": "COMMON/GK/PHYSICS/02.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_physics_03",
+              "name": "पाठ 03 (कार्य, ऊर्जा और शक्ति / Work, Energy & Power)",
+              "titleHi": "पाठ 03 (कार्य, ऊर्जा और शक्ति",
+              "titleEn": "Work, Energy & Power)",
+              "file": "COMMON/GK/PHYSICS/03.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_physics_04",
+              "name": "पाठ 04 (गुरुत्वाकर्षण / Gravitation)",
+              "titleHi": "पाठ 04 (गुरुत्वाकर्षण",
+              "titleEn": "Gravitation)",
+              "file": "COMMON/GK/PHYSICS/04.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_physics_05",
+              "name": "पाठ 05 (द्रव के गुण / Properties of Matter & Fluids)",
+              "titleHi": "पाठ 05 (द्रव के गुण",
+              "titleEn": "Properties of Matter & Fluids)",
+              "file": "COMMON/GK/PHYSICS/05.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_physics_06",
+              "name": "पाठ 06 (तरंगें और ध्वनि / Waves and Sound)",
+              "titleHi": "पाठ 06 (तरंगें और ध्वनि",
+              "titleEn": "Waves and Sound)",
+              "file": "COMMON/GK/PHYSICS/06.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_physics_07",
+              "name": "पाठ 07 (ऊष्मा और ताप / Heat and Temperature)",
+              "titleHi": "पाठ 07 (ऊष्मा और ताप",
+              "titleEn": "Heat and Temperature)",
+              "file": "COMMON/GK/PHYSICS/07.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_physics_08",
+              "name": "पाठ 08 (प्रकाश - परावर्तन, अपवर्तन / Light - Reflection & Refraction)",
+              "titleHi": "पाठ 08 (प्रकाश - परावर्तन, अपवर्तन",
+              "titleEn": "Light - Reflection & Refraction)",
+              "file": "COMMON/GK/PHYSICS/08.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_physics_09",
+              "name": "पाठ 09 (विद्युत और चुंबकत्व / Electricity & Magnetism)",
+              "titleHi": "पाठ 09 (विद्युत और चुंबकत्व",
+              "titleEn": "Electricity & Magnetism)",
+              "file": "COMMON/GK/PHYSICS/09.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_physics_10",
+              "name": "पाठ 10 (आधुनिक भौतिकी और परमाणु / Modern Physics & Atomic Structure)",
+              "titleHi": "पाठ 10 (आधुनिक भौतिकी और परमाणु",
+              "titleEn": "Modern Physics & Atomic Structure)",
+              "file": "COMMON/GK/PHYSICS/10.json",
+              "questions": 75
+            }
+          ]
+        },
+        {
+          "id": "common_gk_chemistry",
+          "name": "रसायन विज्ञान (CHEMISTRY)",
+          "titleHi": "रसायन विज्ञान",
+          "titleEn": "CHEMISTRY",
+          "description": "GK — CHEMISTRY",
+          "icon": "🧪",
+          "badge": "Chemistry",
+          "accentBg": "rgba(6, 182, 212, 0.16)",
+          "accentBorder": "rgba(6, 182, 212, 0.35)",
+          "chapters": [
+            {
+              "id": "common_gk_chemistry_01",
+              "name": "पाठ 01 (पदार्थ की अवस्थाएँ और वर्गीकरण / States & Classification of Matter)",
+              "titleHi": "पाठ 01 (पदार्थ की अवस्थाएँ और वर्गीकरण",
+              "titleEn": "States & Classification of Matter)",
+              "file": "COMMON/GK/CHEMISTRY/01.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_chemistry_02",
+              "name": "पाठ 02 (परमाणु संरचना और रासायनिक बंध / Atomic Structure & Chemical Bonding)",
+              "titleHi": "पाठ 02 (परमाणु संरचना और रासायनिक बंध",
+              "titleEn": "Atomic Structure & Chemical Bonding)",
+              "file": "COMMON/GK/CHEMISTRY/02.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_chemistry_03",
+              "name": "पाठ 03 (तत्वों का आवर्त वर्गीकरण / Periodic Classification of Elements)",
+              "titleHi": "पाठ 03 (तत्वों का आवर्त वर्गीकरण",
+              "titleEn": "Periodic Classification of Elements)",
+              "file": "COMMON/GK/CHEMISTRY/03.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_chemistry_04",
+              "name": "पाठ 04 (अम्ल, क्षार और लवण / Acids, Bases & Salts)",
+              "titleHi": "पाठ 04 (अम्ल, क्षार और लवण",
+              "titleEn": "Acids, Bases & Salts)",
+              "file": "COMMON/GK/CHEMISTRY/04.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_chemistry_05",
+              "name": "पाठ 05 (धातु, अधातु और उपधातु / Metals, Non-metals & Metalloids)",
+              "titleHi": "पाठ 05 (धातु, अधातु और उपधातु",
+              "titleEn": "Metals, Non-metals & Metalloids)",
+              "file": "COMMON/GK/CHEMISTRY/05.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_chemistry_06",
+              "name": "पाठ 06 (कार्बन और उसके यौगिक / Carbon & Its Compounds)",
+              "titleHi": "पाठ 06 (कार्बन और उसके यौगिक",
+              "titleEn": "Carbon & Its Compounds)",
+              "file": "COMMON/GK/CHEMISTRY/06.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_chemistry_07",
+              "name": "पाठ 07 (ईंधन और विस्फोटक पदार्थ / Fuels & Explosives)",
+              "titleHi": "पाठ 07 (ईंधन और विस्फोटक पदार्थ",
+              "titleEn": "Fuels & Explosives)",
+              "file": "COMMON/GK/CHEMISTRY/07.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_chemistry_08",
+              "name": "पाठ 08 (दैनिक जीवन में रसायन / Chemistry in Everyday Life)",
+              "titleHi": "पाठ 08 (दैनिक जीवन में रसायन",
+              "titleEn": "Chemistry in Everyday Life)",
+              "file": "COMMON/GK/CHEMISTRY/08.json",
+              "questions": 75
+            }
+          ]
+        },
+        {
+          "id": "common_gk_biology",
+          "name": "जीव विज्ञान (BIOLOGY)",
+          "titleHi": "जीव विज्ञान",
+          "titleEn": "BIOLOGY",
+          "description": "GK — BIOLOGY",
+          "icon": "🧬",
+          "badge": "Biology",
+          "accentBg": "rgba(6, 182, 212, 0.16)",
+          "accentBorder": "rgba(6, 182, 212, 0.35)",
+          "chapters": [
+            {
+              "id": "common_gk_biology_01",
+              "name": "पाठ 01 (कोशिका - संरचना और कार्य / Cell - Structure & Function)",
+              "titleHi": "पाठ 01 (कोशिका - संरचना और कार्य",
+              "titleEn": "Cell - Structure & Function)",
+              "file": "COMMON/GK/BIOLOGY/01.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_biology_02",
+              "name": "पाठ 02 (ऊतक / Tissues)",
+              "titleHi": "पाठ 02 (ऊतक",
+              "titleEn": "Tissues)",
+              "file": "COMMON/GK/BIOLOGY/02.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_biology_03",
+              "name": "पाठ 03 (मानव शरीर तंत्र / Human Organ Systems)",
+              "titleHi": "पाठ 03 (मानव शरीर तंत्र",
+              "titleEn": "Human Organ Systems)",
+              "file": "COMMON/GK/BIOLOGY/03.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_biology_04",
+              "name": "पाठ 04 (पोषक तत्व / Nutrients - Vitamins, Proteins, Fats)",
+              "titleHi": "पाठ 04 (पोषक तत्व",
+              "titleEn": "Nutrients - Vitamins, Proteins, Fats)",
+              "file": "COMMON/GK/BIOLOGY/04.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_biology_05",
+              "name": "पाठ 05 (मानव रोग, कारण और बचाव / Human Diseases, Causes & Cure)",
+              "titleHi": "पाठ 05 (मानव रोग, कारण और बचाव",
+              "titleEn": "Human Diseases, Causes & Cure)",
+              "file": "COMMON/GK/BIOLOGY/05.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_biology_06",
+              "name": "पाठ 06 (पादप कार्यिकी / Plant Physiology)",
+              "titleHi": "पाठ 06 (पादप कार्यिकी",
+              "titleEn": "Plant Physiology)",
+              "file": "COMMON/GK/BIOLOGY/06.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_biology_07",
+              "name": "पाठ 07 (पारिस्थितिकी और पर्यावरण / Ecology & Environment)",
+              "titleHi": "पाठ 07 (पारिस्थितिकी और पर्यावरण",
+              "titleEn": "Ecology & Environment)",
+              "file": "COMMON/GK/BIOLOGY/07.json",
+              "questions": 75
+            }
+          ]
+        },
+        {
+          "id": "common_gk_static_gk",
+          "name": "स्टैटिक जीके (STATIC GK)",
+          "titleHi": "स्टैटिक जीके",
+          "titleEn": "STATIC GK",
+          "description": "GK — STATIC GK",
+          "icon": "📚",
+          "badge": "Core",
+          "accentBg": "rgba(99, 102, 241, 0.16)",
+          "accentBorder": "rgba(99, 102, 241, 0.35)",
+          "chapters": [
+            {
+              "id": "common_gk_static_gk_01",
+              "name": "पाठ 01 (भारत और विश्व में प्रथम / First in India & World)",
+              "titleHi": "पाठ 01 (भारत और विश्व में प्रथम",
+              "titleEn": "First in India & World)",
+              "file": "COMMON/GK/STATIC_GK/01.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_static_gk_02",
+              "name": "पाठ 02 (लोक और शास्त्रीय नृत्य / Folk & Classical Dances)",
+              "titleHi": "पाठ 02 (लोक और शास्त्रीय नृत्य",
+              "titleEn": "Folk & Classical Dances)",
+              "file": "COMMON/GK/STATIC_GK/02.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_static_gk_03",
+              "name": "पाठ 03 (प्रमुख त्योहार और मेले / Major Festivals & Fairs)",
+              "titleHi": "पाठ 03 (प्रमुख त्योहार और मेले",
+              "titleEn": "Major Festivals & Fairs)",
+              "file": "COMMON/GK/STATIC_GK/03.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_static_gk_04",
+              "name": "पाठ 04 (प्रसिद्ध मंदिर, धरोहर और स्मारक / Famous Temples & Monuments)",
+              "titleHi": "पाठ 04 (प्रसिद्ध मंदिर, धरोहर और स्मारक",
+              "titleEn": "Famous Temples & Monuments)",
+              "file": "COMMON/GK/STATIC_GK/04.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_static_gk_05",
+              "name": "पाठ 05 (महत्वपूर्ण राष्ट्रीय व अंतर्राष्ट्रीय दिवस / Important Days)",
+              "titleHi": "पाठ 05 (महत्वपूर्ण राष्ट्रीय व अंतर्राष्ट्रीय दिवस",
+              "titleEn": "Important Days)",
+              "file": "COMMON/GK/STATIC_GK/05.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_static_gk_06",
+              "name": "पाठ 06 (प्रमुख पुस्तकें और लेखक / Famous Books & Authors)",
+              "titleHi": "पाठ 06 (प्रमुख पुस्तकें और लेखक",
+              "titleEn": "Famous Books & Authors)",
+              "file": "COMMON/GK/STATIC_GK/06.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_static_gk_07",
+              "name": "पाठ 07 (अंतर्राष्ट्रीय संगठन और मुख्यालय / International Organizations & HQ)",
+              "titleHi": "पाठ 07 (अंतर्राष्ट्रीय संगठन और मुख्यालय",
+              "titleEn": "International Organizations & HQ)",
+              "file": "COMMON/GK/STATIC_GK/07.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_static_gk_08",
+              "name": "पाठ 08 (खेलकूद - कप, ट्रॉफियाँ, शब्दावली / Sports - Cups & Terms)",
+              "titleHi": "पाठ 08 (खेलकूद - कप, ट्रॉफियाँ, शब्दावली",
+              "titleEn": "Sports - Cups & Terms)",
+              "file": "COMMON/GK/STATIC_GK/08.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_static_gk_09",
+              "name": "पाठ 09 (भारत के राष्ट्रीय प्रतीक / National Symbols of India)",
+              "titleHi": "पाठ 09 (भारत के राष्ट्रीय प्रतीक",
+              "titleEn": "National Symbols of India)",
+              "file": "COMMON/GK/STATIC_GK/09.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_static_gk_10",
+              "name": "पाठ 10 (प्रमुख पुरस्कार और सम्मान / Major Awards & Honors)",
+              "titleHi": "पाठ 10 (प्रमुख पुरस्कार और सम्मान",
+              "titleEn": "Major Awards & Honors)",
+              "file": "COMMON/GK/STATIC_GK/10.json",
+              "questions": 75
+            }
+          ]
+        },
+        {
+          "id": "common_gk_current_affairs",
+          "name": "समसामयिकी (CURRENT AFFAIRS)",
+          "titleHi": "समसामयिकी",
+          "titleEn": "CURRENT AFFAIRS",
+          "description": "GK — CURRENT AFFAIRS",
+          "icon": "📰",
+          "badge": "Core",
+          "accentBg": "rgba(99, 102, 241, 0.16)",
+          "accentBorder": "rgba(99, 102, 241, 0.35)",
+          "chapters": [
+            {
+              "id": "common_gk_current_affairs_01",
+              "name": "पाठ 01 (राष्ट्रीय और अंतर्राष्ट्रीय घटनाक्रम / National & International Events)",
+              "titleHi": "पाठ 01 (राष्ट्रीय और अंतर्राष्ट्रीय घटनाक्रम",
+              "titleEn": "National & International Events)",
+              "file": "COMMON/GK/CURRENT_AFFAIRS/01.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_current_affairs_02",
+              "name": "पाठ 02 (प्रमुख नियुक्तियाँ और निधन / Appointments & Obituaries)",
+              "titleHi": "पाठ 02 (प्रमुख नियुक्तियाँ और निधन",
+              "titleEn": "Appointments & Obituaries)",
+              "file": "COMMON/GK/CURRENT_AFFAIRS/02.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_current_affairs_03",
+              "name": "पाठ 03 (खेल समाचार और विजेता / Sports News & Winners)",
+              "titleHi": "पाठ 03 (खेल समाचार और विजेता",
+              "titleEn": "Sports News & Winners)",
+              "file": "COMMON/GK/CURRENT_AFFAIRS/03.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_current_affairs_04",
+              "name": "पाठ 04 (सैन्य अभ्यास और सुरक्षा / Military Exercises & Security)",
+              "titleHi": "पाठ 04 (सैन्य अभ्यास और सुरक्षा",
+              "titleEn": "Military Exercises & Security)",
+              "file": "COMMON/GK/CURRENT_AFFAIRS/04.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_current_affairs_05",
+              "name": "पाठ 05 (विज्ञान एवं प्रौद्योगिकी, अंतरिक्ष / Science, Tech & Space)",
+              "titleHi": "पाठ 05 (विज्ञान एवं प्रौद्योगिकी, अंतरिक्ष",
+              "titleEn": "Science, Tech & Space)",
+              "file": "COMMON/GK/CURRENT_AFFAIRS/05.json",
+              "questions": 75
+            },
+            {
+              "id": "common_gk_current_affairs_06",
+              "name": "पाठ 06 (सरकारी योजनाएँ / Government Schemes)",
+              "titleHi": "पाठ 06 (सरकारी योजनाएँ",
+              "titleEn": "Government Schemes)",
+              "file": "COMMON/GK/CURRENT_AFFAIRS/06.json",
+              "questions": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "common_grammar",
+      "shortLabel": "Grammar",
+      "badge": "GRAMMAR",
+      "title": "सामान्य व्याकरण (Hindi & English Grammar)",
+      "subtitle": "संधि, समास, मुहावरे • Voice, Narration & Tense",
+      "baseDir": "data/COMMON/",
+      "subjects": [
+        {
+          "id": "common_grammar_hindi",
+          "name": "हिंदी व्याकरण (HINDI)",
+          "titleHi": "हिंदी व्याकरण",
+          "titleEn": "HINDI",
+          "description": "Grammar — HINDI",
+          "icon": "📔",
+          "badge": "Hindi",
+          "accentBg": "rgba(245, 158, 11, 0.16)",
+          "accentBorder": "rgba(245, 158, 11, 0.35)",
+          "chapters": [
+            {
+              "id": "common_grammar_hindi_01",
+              "name": "अध्याय 01 (वर्ण विचार और उच्चारण स्थान)",
+              "titleHi": "अध्याय 01 (वर्ण विचार और उच्चारण स्थान)",
+              "titleEn": "अध्याय 01 (वर्ण विचार और उच्चारण स्थान)",
+              "file": "COMMON/GRAMMAR/HINDI_GRAMMAR/01.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_hindi_02",
+              "name": "अध्याय 02 (अयोगवाह और वर्तनी शुद्धि)",
+              "titleHi": "अध्याय 02 (अयोगवाह और वर्तनी शुद्धि)",
+              "titleEn": "अध्याय 02 (अयोगवाह और वर्तनी शुद्धि)",
+              "file": "COMMON/GRAMMAR/HINDI_GRAMMAR/02.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_hindi_03",
+              "name": "अध्याय 03 (शब्द भेद - तत्सम, तद्भव)",
+              "titleHi": "अध्याय 03 (शब्द भेद - तत्सम, तद्भव)",
+              "titleEn": "अध्याय 03 (शब्द भेद - तत्सम, तद्भव)",
+              "file": "COMMON/GRAMMAR/HINDI_GRAMMAR/03.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_hindi_04",
+              "name": "अध्याय 04 (शब्द रचना - रूढ़, यौगिक)",
+              "titleHi": "अध्याय 04 (शब्द रचना - रूढ़, यौगिक)",
+              "titleEn": "अध्याय 04 (शब्द रचना - रूढ़, यौगिक)",
+              "file": "COMMON/GRAMMAR/HINDI_GRAMMAR/04.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_hindi_05",
+              "name": "अध्याय 05 (विकारी शब्द - संज्ञा, सर्वनाम)",
+              "titleHi": "अध्याय 05 (विकारी शब्द - संज्ञा, सर्वनाम)",
+              "titleEn": "अध्याय 05 (विकारी शब्द - संज्ञा, सर्वनाम)",
+              "file": "COMMON/GRAMMAR/HINDI_GRAMMAR/05.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_hindi_06",
+              "name": "अध्याय 06 (क्रिया, काल और वाच्य)",
+              "titleHi": "अध्याय 06 (क्रिया, काल और वाच्य)",
+              "titleEn": "अध्याय 06 (क्रिया, काल और वाच्य)",
+              "file": "COMMON/GRAMMAR/HINDI_GRAMMAR/06.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_hindi_07",
+              "name": "अध्याय 07 (अविकारी शब्द - अव्यय और निपात)",
+              "titleHi": "अध्याय 07 (अविकारी शब्द - अव्यय और निपात)",
+              "titleEn": "अध्याय 07 (अविकारी शब्द - अव्यय और निपात)",
+              "file": "COMMON/GRAMMAR/HINDI_GRAMMAR/07.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_hindi_08",
+              "name": "अध्याय 08 (उपसर्ग और प्रत्यय)",
+              "titleHi": "अध्याय 08 (उपसर्ग और प्रत्यय)",
+              "titleEn": "अध्याय 08 (उपसर्ग और प्रत्यय)",
+              "file": "COMMON/GRAMMAR/HINDI_GRAMMAR/08.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_hindi_09",
+              "name": "अध्याय 09 (संधि - स्वर, व्यंजन, विसर्ग)",
+              "titleHi": "अध्याय 09 (संधि - स्वर, व्यंजन, विसर्ग)",
+              "titleEn": "अध्याय 09 (संधि - स्वर, व्यंजन, विसर्ग)",
+              "file": "COMMON/GRAMMAR/HINDI_GRAMMAR/09.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_hindi_10",
+              "name": "अध्याय 10 (समास और उसके भेद)",
+              "titleHi": "अध्याय 10 (समास और उसके भेद)",
+              "titleEn": "अध्याय 10 (समास और उसके भेद)",
+              "file": "COMMON/GRAMMAR/HINDI_GRAMMAR/10.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_hindi_11",
+              "name": "अध्याय 11 (शब्द भण्डार - पर्यायवाची, विलोम)",
+              "titleHi": "अध्याय 11 (शब्द भण्डार - पर्यायवाची, विलोम)",
+              "titleEn": "अध्याय 11 (शब्द भण्डार - पर्यायवाची, विलोम)",
+              "file": "COMMON/GRAMMAR/HINDI_GRAMMAR/11.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_hindi_12",
+              "name": "अध्याय 12 (वाक्यांश के लिए एक शब्द)",
+              "titleHi": "अध्याय 12 (वाक्यांश के लिए एक शब्द)",
+              "titleEn": "अध्याय 12 (वाक्यांश के लिए एक शब्द)",
+              "file": "COMMON/GRAMMAR/HINDI_GRAMMAR/12.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_hindi_13",
+              "name": "अध्याय 13 (मुहावरे और लोकोक्तियाँ)",
+              "titleHi": "अध्याय 13 (मुहावरे और लोकोक्तियाँ)",
+              "titleEn": "अध्याय 13 (मुहावरे और लोकोक्तियाँ)",
+              "file": "COMMON/GRAMMAR/HINDI_GRAMMAR/13.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_hindi_14",
+              "name": "अध्याय 14 (वाक्य विचार और पदबंध)",
+              "titleHi": "अध्याय 14 (वाक्य विचार और पदबंध)",
+              "titleEn": "अध्याय 14 (वाक्य विचार और पदबंध)",
+              "file": "COMMON/GRAMMAR/HINDI_GRAMMAR/14.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_hindi_15",
+              "name": "अध्याय 15 (वाक्य शुद्धि और पद परिचय)",
+              "titleHi": "अध्याय 15 (वाक्य शुद्धि और पद परिचय)",
+              "titleEn": "अध्याय 15 (वाक्य शुद्धि और पद परिचय)",
+              "file": "COMMON/GRAMMAR/HINDI_GRAMMAR/15.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_hindi_16",
+              "name": "अध्याय 16 (विराम चिह्न)",
+              "titleHi": "अध्याय 16 (विराम चिह्न)",
+              "titleEn": "अध्याय 16 (विराम चिह्न)",
+              "file": "COMMON/GRAMMAR/HINDI_GRAMMAR/16.json",
+              "questions": 50
+            }
+          ]
+        },
+        {
+          "id": "common_grammar_english",
+          "name": "ENGLISH",
+          "titleHi": "ENGLISH",
+          "titleEn": "ENGLISH",
+          "description": "Grammar — ENGLISH",
+          "icon": "📖",
+          "badge": "English",
+          "accentBg": "rgba(16, 185, 129, 0.16)",
+          "accentBorder": "rgba(16, 185, 129, 0.35)",
+          "chapters": [
+            {
+              "id": "common_grammar_english_01",
+              "name": "Chapter 01 (Tenses and Aspects)",
+              "titleHi": "Chapter 01 (Tenses and Aspects)",
+              "titleEn": "Chapter 01 (Tenses and Aspects)",
+              "file": "COMMON/GRAMMAR/ENGLISH_GRAMMAR/01.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_english_02",
+              "name": "Chapter 02 (Modals and Auxiliaries)",
+              "titleHi": "Chapter 02 (Modals and Auxiliaries)",
+              "titleEn": "Chapter 02 (Modals and Auxiliaries)",
+              "file": "COMMON/GRAMMAR/ENGLISH_GRAMMAR/02.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_english_03",
+              "name": "Chapter 03 (Subject - Verb Concord)",
+              "titleHi": "Chapter 03 (Subject - Verb Concord)",
+              "titleEn": "Chapter 03 (Subject - Verb Concord)",
+              "file": "COMMON/GRAMMAR/ENGLISH_GRAMMAR/03.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_english_04",
+              "name": "Chapter 04 (Reported Speech)",
+              "titleHi": "Chapter 04 (Reported Speech)",
+              "titleEn": "Chapter 04 (Reported Speech)",
+              "file": "COMMON/GRAMMAR/ENGLISH_GRAMMAR/04.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_english_05",
+              "name": "Chapter 05 (Active and Passive Voice)",
+              "titleHi": "Chapter 05 (Active and Passive Voice)",
+              "titleEn": "Chapter 05 (Active and Passive Voice)",
+              "file": "COMMON/GRAMMAR/ENGLISH_GRAMMAR/05.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_english_06",
+              "name": "Chapter 06 (Articles and Determiners)",
+              "titleHi": "Chapter 06 (Articles and Determiners)",
+              "titleEn": "Chapter 06 (Articles and Determiners)",
+              "file": "COMMON/GRAMMAR/ENGLISH_GRAMMAR/06.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_english_07",
+              "name": "Chapter 07 (Prepositions & Phrasal Verbs)",
+              "titleHi": "Chapter 07 (Prepositions & Phrasal Verbs)",
+              "titleEn": "Chapter 07 (Prepositions & Phrasal Verbs)",
+              "file": "COMMON/GRAMMAR/ENGLISH_GRAMMAR/07.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_english_08",
+              "name": "Chapter 08 (Nouns and Pronouns)",
+              "titleHi": "Chapter 08 (Nouns and Pronouns)",
+              "titleEn": "Chapter 08 (Nouns and Pronouns)",
+              "file": "COMMON/GRAMMAR/ENGLISH_GRAMMAR/08.json",
+              "questions": 49
+            },
+            {
+              "id": "common_grammar_english_09",
+              "name": "Chapter 09 (Adjectives and Adverbs)",
+              "titleHi": "Chapter 09 (Adjectives and Adverbs)",
+              "titleEn": "Chapter 09 (Adjectives and Adverbs)",
+              "file": "COMMON/GRAMMAR/ENGLISH_GRAMMAR/09.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_english_10",
+              "name": "Chapter 10 (Conjunctions & Connectors)",
+              "titleHi": "Chapter 10 (Conjunctions & Connectors)",
+              "titleEn": "Chapter 10 (Conjunctions & Connectors)",
+              "file": "COMMON/GRAMMAR/ENGLISH_GRAMMAR/10.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_english_11",
+              "name": "Chapter 11 (Sentence Transformation)",
+              "titleHi": "Chapter 11 (Sentence Transformation)",
+              "titleEn": "Chapter 11 (Sentence Transformation)",
+              "file": "COMMON/GRAMMAR/ENGLISH_GRAMMAR/11.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_english_12",
+              "name": "Chapter 12 (Clause Analysis)",
+              "titleHi": "Chapter 12 (Clause Analysis)",
+              "titleEn": "Chapter 12 (Clause Analysis)",
+              "file": "COMMON/GRAMMAR/ENGLISH_GRAMMAR/12.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_english_13",
+              "name": "Chapter 13 (Synonyms and Antonyms)",
+              "titleHi": "Chapter 13 (Synonyms and Antonyms)",
+              "titleEn": "Chapter 13 (Synonyms and Antonyms)",
+              "file": "COMMON/GRAMMAR/ENGLISH_GRAMMAR/13.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_english_14",
+              "name": "Chapter 14 (One Word Substitution)",
+              "titleHi": "Chapter 14 (One Word Substitution)",
+              "titleEn": "Chapter 14 (One Word Substitution)",
+              "file": "COMMON/GRAMMAR/ENGLISH_GRAMMAR/14.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_english_15",
+              "name": "Chapter 15 (Idioms and Phrases)",
+              "titleHi": "Chapter 15 (Idioms and Phrases)",
+              "titleEn": "Chapter 15 (Idioms and Phrases)",
+              "file": "COMMON/GRAMMAR/ENGLISH_GRAMMAR/15.json",
+              "questions": 50
+            },
+            {
+              "id": "common_grammar_english_16",
+              "name": "Chapter 16 (Common Errors & Correction)",
+              "titleHi": "Chapter 16 (Common Errors & Correction)",
+              "titleEn": "Chapter 16 (Common Errors & Correction)",
+              "file": "COMMON/GRAMMAR/ENGLISH_GRAMMAR/16.json",
+              "questions": 50
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
