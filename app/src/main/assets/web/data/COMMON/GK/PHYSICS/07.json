@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "ऊष्मा और ताप / Heat and Temperature",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Heat and Temperature.",
+  "questions": [
+    {
+      "q": {
+        "hi": "वस्तु के तापीय संतुलन और गर्माहट या ठंडक के माप को क्या कहते हैं?",
+        "en": "The degree of hotness or coldness of a body is called:"
+      },
+      "o": [
+        {
+          "hi": "तापमान (Temperature)",
+          "en": "Temperature"
+        },
+        {
+          "hi": "ऊष्मा (Heat)",
+          "en": "Heat"
+        },
+        {
+          "hi": "विशिष्ट ऊष्मा",
+          "en": "Specific heat"
+        },
+        {
+          "hi": "गुप्त ऊष्मा",
+          "en": "Latent heat"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ऊष्मा (Heat) किस प्रकार की ऊर्जा है?",
+        "en": "Heat is which form of energy?"
+      },
+      "o": [
+        {
+          "hi": "तापीय स्थानांतरण ऊर्जा (Thermal Energy in transit)",
+          "en": "Thermal Energy in transit"
+        },
+        {
+          "hi": "यांत्रिक स्थितिज ऊर्जा",
+          "en": "Mechanical Potential Energy"
+        },
+        {
+          "hi": "नाभिकीय ऊर्जा",
+          "en": "Nuclear Energy"
+        },
+        {
+          "hi": "विद्युत ऊर्जा",
+          "en": "Electrical Energy"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ऊष्मा का SI मात्रक क्या है?",
+        "en": "What is the SI unit of Heat?"
+      },
+      "o": [
+        {
+          "hi": "जूल (Joule)",
+          "en": "Joule"
+        },
+        {
+          "hi": "कैलोरी (Calorie)",
+          "en": "Calorie"
+        },
+        {
+          "hi": "सेल्सियस",
+          "en": "Celsius"
+        },
+        {
+          "hi": "केल्विन",
+          "en": "Kelvin"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 ग्राम जल का ताप 1°C (14.5°C से 15.5°C) बढ़ाने के लिए आवश्यक ऊष्मा को क्या कहते हैं?",
+        "en": "Heat required to raise temperature of 1 g water by 1°C is:"
+      },
+      "o": [
+        {
+          "hi": "1 कैलोरी (1 Calorie)",
+          "en": "1 Calorie"
+        },
+        {
+          "hi": "1 जूल",
+          "en": "1 Joule"
+        },
+        {
+          "hi": "1 बीटीयू (BTU)",
+          "en": "1 BTU"
+        },
+        {
+          "hi": "1 वाट",
+          "en": "1 Watt"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 कैलोरी कितने जूल के बराबर होती है?",
+        "en": "1 Calorie is equal to how many Joules?"
+      },
+      "o": [
+        {
+          "hi": "4.184 जूल (लगभग 4.2 J)",
+          "en": "4.184 Joules (approx 4.2 J)"
+        },
+        {
+          "hi": "3.6 J",
+          "en": "3.6 J"
+        },
+        {
+          "hi": "1000 J",
+          "en": "1000 J"
+        },
+        {
+          "hi": "746 J",
+          "en": "746 J"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सेल्सियस (°C), फॉरेनहाइट (°F) और केल्विन (K) पैमानों में सही संबंध क्या है?",
+        "en": "What is the correct relationship between Celsius (°C), Fahrenheit (°F), and Kelvin (K)?"
+      },
+      "o": [
+        {
+          "hi": "C / 5 = (F - 32) / 9 = (K - 273) / 5",
+          "en": "C / 5 = (F - 32) / 9 = (K - 273) / 5"
+        },
+        {
+          "hi": "C / 100 = (F - 32) / 100 = K / 100",
+          "en": "C / 100 = (F - 32) / 100 = K / 100"
+        },
+        {
+          "hi": "C = F = K",
+          "en": "C = F = K"
+        },
+        {
+          "hi": "C / 9 = (F - 32) / 5 = K / 5",
+          "en": "C / 9 = (F - 32) / 5 = K / 5"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किस तापमान पर सेल्सियस और फॉरेनहाइट दोनों पैमानों का मान समान (-40) होता है?",
+        "en": "At what temperature do Celsius and Fahrenheit scales read the exact same value?"
+      },
+      "o": [
+        {
+          "hi": "-40°",
+          "en": "-40°"
+        },
+        {
+          "hi": "0°",
+          "en": "0°"
+        },
+        {
+          "hi": "40°",
+          "en": "40°"
+        },
+        {
+          "hi": "100°",
+          "en": "100°"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सैद्धांतिक रूप से संभव न्यूनतम न्यूनतम तापमान (Absolute Zero Temperature) कितना है?",
+        "en": "The lowest theoretically possible temperature (Absolute Zero) is:"
+      },
+      "o": [
+        {
+          "hi": "-273.15°C या 0 K",
+          "en": "-273.15°C or 0 K"
+        },
+        {
+          "hi": "0°C",
+          "en": "0°C"
+        },
+        {
+          "hi": "-100°C",
+          "en": "-100°C"
+        },
+        {
+          "hi": "-40°C",
+          "en": "-40°C"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "केल्विन पैमाने (Kelvin Scale) पर ऋणात्मक (-) मान क्यों नहीं हो सकता?",
+        "en": "Why can there be no negative value on the Kelvin scale?"
+      },
+      "o": [
+        {
+          "hi": "क्योंकि 0 K पर आणविक गति पूर्णतः रुक जाती है (यह परम शून्य है)",
+          "en": "Because molecular motion ceases at 0 K (absolute zero)"
+        },
+        {
+          "hi": "यह मनुष्य द्वारा बनाया गया कृत्रिम प्रतिबंध है",
+          "en": "Artificial restriction"
+        },
+        {
+          "hi": "केल्विन में केवल सम संख्याएं होती हैं",
+          "en": "Kelvin only has even numbers"
+        },
+        {
+          "hi": "पारे के जमने के कारण",
+          "en": "Due to freezing of mercury"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्वस्थ मानव शरीर का सामान्य तापमान सेल्सियस और फॉरेनहाइट में कितना होता है?",
+        "en": "Normal temperature of a healthy human body in Celsius and Fahrenheit is:"
+      },
+      "o": [
+        {
+          "hi": "37°C या 98.6°F (केल्विन में 310 K)",
+          "en": "37°C or 98.6°F (310 K in Kelvin)"
+        },
+        {
+          "hi": "98.6°C या 37°F",
+          "en": "98.6°C or 37°F"
+        },
+        {
+          "hi": "30°C या 100°F",
+          "en": "30°C or 100°F"
+        },
+        {
+          "hi": "40°C या 104°F",
+          "en": "40°C or 104°F"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जल का त्रिक बिंदु (Triple Point of Water) कितना होता है?",
+        "en": "The Triple Point of Water (where solid, liquid, gas co-exist in equilibrium) is:"
+      },
+      "o": [
+        {
+          "hi": "273.16 K (या 0.01°C)",
+          "en": "273.16 K (or 0.01°C)"
+        },
+        {
+          "hi": "0 K",
+          "en": "0 K"
+        },
+        {
+          "hi": "100°C",
+          "en": "100°C"
+        },
+        {
+          "hi": "373 K",
+          "en": "373 K"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "डॉक्टरी थर्मामीटर (Clinical Thermometer) का पाठ्यांक परास (Range) कितना होता है?",
+        "en": "The range of a clinical thermometer in Fahrenheit / Celsius is:"
+      },
+      "o": [
+        {
+          "hi": "35°C से 42°C (या 95°F से 108°F)",
+          "en": "35°C to 42°C (or 95°F to 108°F)"
+        },
+        {
+          "hi": "0°C से 100°C",
+          "en": "0°C to 100°C"
+        },
+        {
+          "hi": "-10°C से 110°C",
+          "en": "-10°C to 110°C"
+        },
+        {
+          "hi": "0°F से 212°F",
+          "en": "0°F to 212°F"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "थर्मामीटर में पारे (Mercury) का प्रयोग क्यों किया जाता है?",
+        "en": "Why is Mercury used in liquid-in-glass thermometers?"
+      },
+      "o": [
+        {
+          "hi": "यह कांच से चिपकता नहीं, चमकीला है और इसका प्रसार एकसमान होता है",
+          "en": "Does not stick to glass, is shiny, and expands uniformly"
+        },
+        {
+          "hi": "यह बहुत सस्ता है",
+          "en": "It is cheap"
+        },
+        {
+          "hi": "यह पानी में आसानी से घुल जाता है",
+          "en": "Dissolves easily in water"
+        },
+        {
+          "hi": "इसका क्वथनांक बहुत कम होता है",
+          "en": "Has very low boiling point"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पारे का हिमांक (Freezing Point of Mercury) कितना होता है?",
+        "en": "What is the freezing point of Mercury?"
+      },
+      "o": [
+        {
+          "hi": "-39°C",
+          "en": "-39°C"
+        },
+        {
+          "hi": "0°C",
+          "en": "0°C"
+        },
+        {
+          "hi": "-115°C",
+          "en": "-115°C"
+        },
+        {
+          "hi": "-273°C",
+          "en": "-273°C"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अत्यधिक ठंडे स्थानों (जैसे -40°C से नीचे) पर तापमान मापने के लिए किस द्रव थर्मामीटर का उपयोग होता है?",
+        "en": "For measuring temperatures below -39°C in cold regions, which liquid is used?"
+      },
+      "o": [
+        {
+          "hi": "अल्कोहल थर्मामीटर (Alcohol Thermometer)",
+          "en": "Alcohol Thermometer"
+        },
+        {
+          "hi": "पारा थर्मामीटर",
+          "en": "Mercury Thermometer"
+        },
+        {
+          "hi": "जल थर्मामीटर",
+          "en": "Water Thermometer"
+        },
+        {
+          "hi": "तेल थर्मामीटर",
+          "en": "Oil Thermometer"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अल्कोहल का हिमांक (Freezing Point of Alcohol) कितना होता है?",
+        "en": "What is the freezing point of Alcohol?"
+      },
+      "o": [
+        {
+          "hi": "-115°C",
+          "en": "-115°C"
+        },
+        {
+          "hi": "-39°C",
+          "en": "-39°C"
+        },
+        {
+          "hi": "0°C",
+          "en": "0°C"
+        },
+        {
+          "hi": "-80°C",
+          "en": "-80°C"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गैस थर्मामीटर (Gas Thermometers) द्रव थर्मामीटरों की तुलना में अधिक संवेदनशील क्यों होते हैं?",
+        "en": "Why are gas thermometers more sensitive than liquid thermometers?"
+      },
+      "o": [
+        {
+          "hi": "गैसों का तापीय प्रसार गुणांक द्रवों से बहुत अधिक होता है",
+          "en": "Thermal expansion coefficient of gas is much higher than liquids"
+        },
+        {
+          "hi": "गैस हल्की होती है",
+          "en": "Gas is light"
+        },
+        {
+          "hi": "गैस रंगीन होती है",
+          "en": "Gas is colored"
+        },
+        {
+          "hi": "गैस कांच में चिपक जाती है",
+          "en": "Gas sticks to glass"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दूर स्थित अति उच्च तापीय वस्तुओं (जैसे सूर्य या भट्टी) का ताप मापने के लिए किसका प्रयोग होता है?",
+        "en": "For non-contact measurement of extremely high temperatures (e.g. Sun), we use:"
+      },
+      "o": [
+        {
+          "hi": "पूर्ण विकिरण पायरोमीटर (Total Radiation Pyrometer)",
+          "en": "Total Radiation Pyrometer"
+        },
+        {
+          "hi": "पारा थर्मामीटर",
+          "en": "Mercury Thermometer"
+        },
+        {
+          "hi": "प्लैटिनम प्रतिरोध थर्मामीटर",
+          "en": "Platinum Resistance Thermometer"
+        },
+        {
+          "hi": "कैलोरीमीटर",
+          "en": "Calorimeter"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पायरोमीटर (Pyrometer) किस भौतिक नियम पर आधारित है?",
+        "en": "Radiation Pyrometer is based on which physical law?"
+      },
+      "o": [
+        {
+          "hi": "स्टीफन का नियम (Stefan's Law, E ∝ T⁴)",
+          "en": "Stefan's Law (E ∝ T⁴)"
+        },
+        {
+          "hi": "न्यूटन का शीतलन नियम",
+          "en": "Newton's Law of Cooling"
+        },
+        {
+          "hi": "वीन का विस्थापन नियम",
+          "en": "Wien's Displacement Law"
+        },
+        {
+          "hi": "किरचॉफ का नियम",
+          "en": "Kirchhoff's Law"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्टीफन के नियम के अनुसार कृष्णिका द्वारा उत्सर्जित विकिरणी ऊर्जा (E) और ताप (T) में क्या संबंध है?",
+        "en": "According to Stefan's Law, radiant energy E is proportional to temperature T as:"
+      },
+      "o": [
+        {
+          "hi": "E ∝ T²",
+          "en": "E ∝ T²"
+        },
+        {
+          "hi": "E ∝ T⁴",
+          "en": "E ∝ T⁴"
+        },
+        {
+          "hi": "E ∝ T",
+          "en": "E ∝ T"
+        },
+        {
+          "hi": "E ∝ 1/T⁴",
+          "en": "E ∝ 1/T⁴"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यदि किसी वस्तु का परम ताप दोगुना (2T) कर दिया जाए, तो उसकी उत्सर्जित विकिरण ऊर्जा कितने गुना हो जाएगी?",
+        "en": "If absolute temperature of a blackbody is doubled (2T), its emitted energy increases by:"
+      },
+      "o": [
+        {
+          "hi": "4 गुना (4 times)",
+          "en": "4 times"
+        },
+        {
+          "hi": "16 गुना (16 times)",
+          "en": "16 times"
+        },
+        {
+          "hi": "2 गुना (2 times)",
+          "en": "2 times"
+        },
+        {
+          "hi": "8 गुना (8 times)",
+          "en": "8 times"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गर्म करने पर ठोस छड़ की लंबाई में वृद्धि को क्या कहते हैं?",
+        "en": "Increase in length of a solid rod on heating is called:"
+      },
+      "o": [
+        {
+          "hi": "क्षेत्रीय प्रसार (Superficial Expansion, β)",
+          "en": "Superficial Expansion (β)"
+        },
+        {
+          "hi": "रेखीय प्रसार (Linear Expansion, α)",
+          "en": "Linear Expansion (α)"
+        },
+        {
+          "hi": "आयतन प्रसार (Cubical Expansion, γ)",
+          "en": "Cubical Expansion (γ)"
+        },
+        {
+          "hi": "असंगत प्रसार",
+          "en": "Anomalous Expansion"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रेखीय प्रसार (α), क्षेत्रीय प्रसार (β) और आयतन प्रसार (γ) गुणांकों का अनुपात कितना होता है?",
+        "en": "What is the ratio of linear (α), superficial (β), and cubical (γ) expansion coefficients?"
+      },
+      "o": [
+        {
+          "hi": "α : β : γ = 3 : 2 : 1",
+          "en": "α : β : γ = 3 : 2 : 1"
+        },
+        {
+          "hi": "α : β : γ = 1 : 2 : 3",
+          "en": "α : β : γ = 1 : 2 : 3"
+        },
+        {
+          "hi": "α : β : γ = 1 : 1 : 1",
+          "en": "α : β : γ = 1 : 1 : 1"
+        },
+        {
+          "hi": "α : β : γ = 1 : 4 : 9",
+          "en": "α : β : γ = 1 : 4 : 9"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रेल की पटरियों के बीच में थोड़ा स्थान (गेप) क्यों छोड़ा जाता है?",
+        "en": "Why is a small gap left between successive railway tracks?"
+      },
+      "o": [
+        {
+          "hi": "पटरियों का वजन घटाने के लिए",
+          "en": "To reduce track weight"
+        },
+        {
+          "hi": "गर्मियों में उष्मीय प्रसार के कारण पटरियों को फैलने की जगह देने के लिए",
+          "en": "To accommodate thermal expansion of rails during summer"
+        },
+        {
+          "hi": "ट्रेन की चाल बढ़ाने के लिए",
+          "en": "To increase train speed"
+        },
+        {
+          "hi": "हवा बहने के लिए",
+          "en": "To allow air flow"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "द्वि-धातु पट्टी (Bimetallic Strip) का उपयोग किस उपकरण में तापन नियंत्रण (Thermostat) के रूप में होता है?",
+        "en": "Bimetallic Strips are used in thermostats of iron/refrigerator because:"
+      },
+      "o": [
+        {
+          "hi": "वे बहुत सस्ती होती हैं",
+          "en": "They are cheap"
+        },
+        {
+          "hi": "दो धातुओं के तापीय प्रसार गुणांक भिन्न-भिन्न होते हैं",
+          "en": "Two metals have different thermal expansion coefficients"
+        },
+        {
+          "hi": "वे विद्युत की कुचालक होती हैं",
+          "en": "They are insulators"
+        },
+        {
+          "hi": "वे कभी गरम नहीं होतीं",
+          "en": "They never heat up"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जल का असंगत प्रसार (Anomalous Expansion of Water) किस ताप परिसर में देखा जाता है?",
+        "en": "Anomalous expansion of water is observed in temperature range:"
+      },
+      "o": [
+        {
+          "hi": "4°C से 100°C",
+          "en": "4°C to 100°C"
+        },
+        {
+          "hi": "0°C से 4°C",
+          "en": "0°C to 4°C"
+        },
+        {
+          "hi": "-10°C से 0°C",
+          "en": "-10°C to 0°C"
+        },
+        {
+          "hi": "100°C से ऊपर",
+          "en": "100°C above"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जब पानी को 0°C से 4°C तक गर्म किया जाता है, तो इसके आयतन और घनत्व में क्या परिवर्तन होता है?",
+        "en": "When water is heated from 0°C to 4°C, its volume and density change as:"
+      },
+      "o": [
+        {
+          "hi": "आयतन बढ़ता है और घनत्व घटता है",
+          "en": "Volume increases and density decreases"
+        },
+        {
+          "hi": "आयतन घटता है और घनत्व बढ़ता है",
+          "en": "Volume decreases and density increases"
+        },
+        {
+          "hi": "दोनों बढ़ते हैं",
+          "en": "Both increase"
+        },
+        {
+          "hi": "दोनों घटते हैं",
+          "en": "Both decrease"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ठंड के मौसम में पानी की पाइपलाइनें अचानक क्यों फट जाती हैं?",
+        "en": "Why do water pipes freeze and burst in extreme cold climate?"
+      },
+      "o": [
+        {
+          "hi": "पाइप सिकुड़ जाती है",
+          "en": "Pipe shrinks"
+        },
+        {
+          "hi": "पानी जमने पर बर्फ बनती है और उसका आयतन बढ़ जाता है",
+          "en": "Water expands on freezing into ice"
+        },
+        {
+          "hi": "वायुमंडलीय दाब बढ़ता है",
+          "en": "Atmospheric pressure increases"
+        },
+        {
+          "hi": "पानी का घनत्व घटता है",
+          "en": "Density drops"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किसी पदार्थ के 1 ग्राम द्रव्यमान का ताप 1°C बढ़ाने के लिए आवश्यक ऊष्मा को क्या कहते हैं?",
+        "en": "Heat required to raise temperature of unit mass of substance by 1°C is:"
+      },
+      "o": [
+        {
+          "hi": "ऊष्मा धारिता (Heat Capacity)",
+          "en": "Heat Capacity"
+        },
+        {
+          "hi": "विशिष्ट ऊष्मा धारिता (Specific Heat Capacity, c)",
+          "en": "Specific Heat Capacity (c)"
+        },
+        {
+          "hi": "गुप्त ऊष्मा (Latent Heat)",
+          "en": "Latent Heat"
+        },
+        {
+          "hi": "जल तुल्यांक",
+          "en": "Water Equivalent"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विशिष्ट ऊष्मा का सूत्र Q = m c ΔT है, इसका SI मात्रक क्या है?",
+        "en": "What is the SI unit of Specific Heat Capacity?"
+      },
+      "o": [
+        {
+          "hi": "J / kg",
+          "en": "J / kg"
+        },
+        {
+          "hi": "J / (kg·K)",
+          "en": "J / (kg·K)"
+        },
+        {
+          "hi": "J / K",
+          "en": "J / K"
+        },
+        {
+          "hi": "Cal / g",
+          "en": "Cal / g"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "साधारण द्रवों में सबसे अधिक विशिष्ट ऊष्मा धारिता (High Specific Heat) किसकी होती है?",
+        "en": "Which common substance has the highest Specific Heat Capacity (~4200 J/kg·K)?"
+      },
+      "o": [
+        {
+          "hi": "पारा (Mercury)",
+          "en": "Mercury"
+        },
+        {
+          "hi": "जल (Water)",
+          "en": "Water"
+        },
+        {
+          "hi": "केरोसिन (Kerosene)",
+          "en": "Kerosene"
+        },
+        {
+          "hi": "लोहा (Iron)",
+          "en": "Iron"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गाड़ियों के रेडिएटर (Radiator) में इंजन को ठंडा रखने के लिए पानी का उपयोग क्यों किया जाता है?",
+        "en": "Why is water used as a coolant in car radiators?"
+      },
+      "o": [
+        {
+          "hi": "यह बहुत सस्ता है",
+          "en": "It is cheap"
+        },
+        {
+          "hi": "इसकी उच्च विशिष्ट ऊष्मा धारिता के कारण",
+          "en": "Due to its high specific heat capacity"
+        },
+        {
+          "hi": "यह हल्का है",
+          "en": "It is light"
+        },
+        {
+          "hi": "यह वाष्पित नहीं होता",
+          "en": "It does not evaporate"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समुद्री तटीय क्षेत्रों में दिन में थल की ओर बहने वाली हवा (Sea Breeze) का मुख्य कारण क्या है?",
+        "en": "Sea Breeze during day time in coastal areas is primarily due to:"
+      },
+      "o": [
+        {
+          "hi": "चालन (Conduction)",
+          "en": "Conduction"
+        },
+        {
+          "hi": "भूमि और जल की विशिष्ट ऊष्मा में अंतर के कारण संवहन (Convection)",
+          "en": "Convection due to difference in specific heat of land and water"
+        },
+        {
+          "hi": "विकिरण (Radiation)",
+          "en": "Radiation"
+        },
+        {
+          "hi": "वाष्पीकरण",
+          "en": "Evaporation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अवस्था परिवर्तन (Phase Change) के दौरान बिना ताप बदले दी गई या ली गई ऊष्मा को क्या कहते हैं?",
+        "en": "Heat absorbed or released during phase change at constant temperature is:"
+      },
+      "o": [
+        {
+          "hi": "विशिष्ट ऊष्मा",
+          "en": "Specific Heat"
+        },
+        {
+          "hi": "गुप्त ऊष्मा (Latent Heat, L)",
+          "en": "Latent Heat (L)"
+        },
+        {
+          "hi": "ऊष्मा धारिता",
+          "en": "Heat Capacity"
+        },
+        {
+          "hi": "परम ऊष्मा",
+          "en": "Absolute Heat"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गुप्त ऊष्मा का सूत्र Q = m L है, इसका SI मात्रक क्या है?",
+        "en": "What is the SI unit of Latent Heat?"
+      },
+      "o": [
+        {
+          "hi": "J / (kg·K)",
+          "en": "J / (kg·K)"
+        },
+        {
+          "hi": "J / kg (जूल प्रति किग्रा)",
+          "en": "J / kg (Joule per kg)"
+        },
+        {
+          "hi": "J / K",
+          "en": "J / K"
+        },
+        {
+          "hi": "Watt",
+          "en": "Watt"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बर्फ के गलन की गुप्त ऊष्मा (Latent Heat of Fusion of Ice) का मान कितना होता है?",
+        "en": "What is the value of Latent Heat of Fusion of Ice?"
+      },
+      "o": [
+        {
+          "hi": "540 cal/g",
+          "en": "540 cal/g"
+        },
+        {
+          "hi": "80 cal/g (या 3.36 × 10⁵ J/kg)",
+          "en": "80 cal/g (or 3.36 × 10⁵ J/kg)"
+        },
+        {
+          "hi": "100 cal/g",
+          "en": "100 cal/g"
+        },
+        {
+          "hi": "1 cal/g",
+          "en": "1 cal/g"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जल के वाष्पन की गुप्त ऊष्मा (Latent Heat of Vaporization of Water) का मान कितना है?",
+        "en": "What is the value of Latent Heat of Vaporization of Water?"
+      },
+      "o": [
+        {
+          "hi": "80 cal/g",
+          "en": "80 cal/g"
+        },
+        {
+          "hi": "540 cal/g (या ~2.26 × 10⁶ J/kg)",
+          "en": "540 cal/g (or ~2.26 × 10⁶ J/kg)"
+        },
+        {
+          "hi": "100 cal/g",
+          "en": "100 cal/g"
+        },
+        {
+          "hi": "336 cal/g",
+          "en": "336 cal/g"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "100°C के उबलते पानी की तुलना में 100°C की भाप (Steam) से हाथ अधिक गंभीर रूप से क्यों जलता है?",
+        "en": "Why does 100°C steam cause more severe burns than 100°C boiling water?"
+      },
+      "o": [
+        {
+          "hi": "भाप का तापमान अधिक होता है",
+          "en": "Steam temperature is higher"
+        },
+        {
+          "hi": "भाप में वाष्पन की गुप्त ऊष्मा (540 cal/g) अतिरिक्त संचित रहती है",
+          "en": "Steam possesses additional latent heat of vaporization (540 cal/g)"
+        },
+        {
+          "hi": "भाप गैस है",
+          "en": "Steam is a gas"
+        },
+        {
+          "hi": "पानी ठंडा होता है",
+          "en": "Boiling water is cool"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बर्फ में नमक या अशुद्धि मिलाने पर उसके गलनांक (Melting Point) पर क्या प्रभाव पड़ता है?",
+        "en": "Adding salt or impurities to ice causes its melting point to:"
+      },
+      "o": [
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remain unchanged"
+        },
+        {
+          "hi": "बढ़ जाता है",
+          "en": "Increase"
+        },
+        {
+          "hi": "घट जाता है (0°C से -21°C तक गिर सकता है)",
+          "en": "Decrease (can drop from 0°C to -21°C)"
+        },
+        {
+          "hi": "100°C हो जाता है",
+          "en": "Become 100°C"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कुल्फी या आइसक्रीम बनाने में बर्फ के साथ नमक का मिश्रण (Freezing Mixture) क्यों मिलाया जाता है?",
+        "en": "Freezing mixture of ice and salt is used in making ice cream to:"
+      },
+      "o": [
+        {
+          "hi": "बर्फ को जल्दी पिघलाने के लिए",
+          "en": "Melt ice quickly"
+        },
+        {
+          "hi": "स्वाद बढ़ाने के लिए",
+          "en": "Enhance taste"
+        },
+        {
+          "hi": "गलनांक को घटाकर तापमान 0°C से नीचे ले जाने के लिए",
+          "en": "Lower the melting point to lower temperature below 0°C"
+        },
+        {
+          "hi": "रंग बदलने के लिए",
+          "en": "Change color"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऊष्मा स्थानांतरण की वह कौन सी विधि है जो केवल ठोसों में अणुओं के बिना स्थान बदले होती है?",
+        "en": "Heat transfer in solids without actual movement of particles is called:"
+      },
+      "o": [
+        {
+          "hi": "विकिरण (Radiation)",
+          "en": "Radiation"
+        },
+        {
+          "hi": "संवहन (Convection)",
+          "en": "Convection"
+        },
+        {
+          "hi": "चालन (Conduction)",
+          "en": "Conduction"
+        },
+        {
+          "hi": "वाष्पन",
+          "en": "Evaporation"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऊष्मा स्थानांतरण की वह विधि जिसमें पदार्थ के कण स्वयं गति करके ऊष्मा ले जाते हैं (द्रवों और गैसों में)?",
+        "en": "Heat transfer in fluids where particles actually move carrying heat is:"
+      },
+      "o": [
+        {
+          "hi": "विकिरण (Radiation)",
+          "en": "Radiation"
+        },
+        {
+          "hi": "चालन (Conduction)",
+          "en": "Conduction"
+        },
+        {
+          "hi": "संवहन (Convection)",
+          "en": "Convection"
+        },
+        {
+          "hi": "विवर्तन",
+          "en": "Diffraction"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऊष्मा स्थानांतरण की वह कौन सी विधि है जिसे किसी भौतिक माध्यम की आवश्यकता नहीं होती (निर्वात में चलती है)?",
+        "en": "Heat transfer method that requires NO physical medium (works in vacuum) is:"
+      },
+      "o": [
+        {
+          "hi": "संवहन (Convection)",
+          "en": "Convection"
+        },
+        {
+          "hi": "चालन (Conduction)",
+          "en": "Conduction"
+        },
+        {
+          "hi": "विकिरण (Radiation)",
+          "en": "Radiation"
+        },
+        {
+          "hi": "वाष्पीकरण",
+          "en": "Evaporation"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सूर्य से पृथ्वी तक ऊष्मा किस विधि द्वारा पहुँचती है?",
+        "en": "Heat from the Sun reaches the Earth through which mechanism?"
+      },
+      "o": [
+        {
+          "hi": "संवहन (Convection)",
+          "en": "Convection"
+        },
+        {
+          "hi": "चालन (Conduction)",
+          "en": "Conduction"
+        },
+        {
+          "hi": "विकिरण (Radiation)",
+          "en": "Radiation"
+        },
+        {
+          "hi": "विप्रसरण",
+          "en": "Diffusion"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वायुमंडल का गर्म होना मुख्यतः ऊष्मा स्थानांतरण की किस विधि द्वारा होता है?",
+        "en": "Heating of the Earth's atmosphere occurs primarily by:"
+      },
+      "o": [
+        {
+          "hi": "विकिरण (Radiation)",
+          "en": "Radiation"
+        },
+        {
+          "hi": "चालन (Conduction)",
+          "en": "Conduction"
+        },
+        {
+          "hi": "संवहन (Convection)",
+          "en": "Convection"
+        },
+        {
+          "hi": "अपवर्तन",
+          "en": "Refraction"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पानी का उबलना या चाय की केतली का गर्म होना किस विधि का उदाहरण है?",
+        "en": "Boiling water in a kettle heat transfer is an example of:"
+      },
+      "o": [
+        {
+          "hi": "विकिरण (Radiation)",
+          "en": "Radiation"
+        },
+        {
+          "hi": "चालन (Conduction)",
+          "en": "Conduction"
+        },
+        {
+          "hi": "संवहन (Convection)",
+          "en": "Convection"
+        },
+        {
+          "hi": "ध्रुवण",
+          "en": "Polarization"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रेफ्रिजरेटर में फ्रीजर चेस्ट ऊपर की ओर क्यों लगाया जाता है?",
+        "en": "Why is the freezer chest placed at the top in a refrigerator?"
+      },
+      "o": [
+        {
+          "hi": "स्थान कम घेरता है",
+          "en": "Takes less space"
+        },
+        {
+          "hi": "दिखने में अच्छा लगता है",
+          "en": "Aesthetic look"
+        },
+        {
+          "hi": "ठंडी हवा नीचे बैठकर पूरे फ्रिज में संवहन धाराएं (Convection currents) बनाती है",
+          "en": "Cold air moves down creating effective convection currents"
+        },
+        {
+          "hi": "कंप्रेसर ऊपर होता है",
+          "en": "Compressor is at top"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गर्मियों में सफेद कपड़े और सर्दियों में काले/गहरे रंग के कपड़े पहनना क्यों आरामदायक होता है?",
+        "en": "Why is white clothing preferred in summer and dark in winter?"
+      },
+      "o": [
+        {
+          "hi": "काले कपड़े ठंडे होते हैं",
+          "en": "Dark clothes are cool"
+        },
+        {
+          "hi": "सफेद कपड़े भारी होते हैं",
+          "en": "White clothes are heavy"
+        },
+        {
+          "hi": "सफेद कपड़े विकिरण ऊष्मा के बुरे अवशोषक/अच्छे परावर्तक होते हैं, जबकि काले कपड़े अच्छे अवशोषक होते हैं",
+          "en": "White reflects heat radiation well, while dark absorbs heat well"
+        },
+        {
+          "hi": "रंग का तापीय विकिरण से संबंध नहीं है",
+          "en": "Color has no effect"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रेगिस्तान दिन में बहुत गर्म तथा रात में बहुत ठंडे क्यों हो जाते हैं?",
+        "en": "Why are deserts very hot during daytime and very cold at night?"
+      },
+      "o": [
+        {
+          "hi": "रेगिस्तान समुद्र से दूर है",
+          "en": "Far from sea"
+        },
+        {
+          "hi": "रेगिस्तान में पेड़ नहीं होते",
+          "en": "No trees in desert"
+        },
+        {
+          "hi": "बालू (रेत) ऊष्मा का अच्छा अवशोषक तथा अच्छा उत्सर्जक दोनों है",
+          "en": "Sand is both a good absorber and good emitter of heat radiation"
+        },
+        {
+          "hi": "हवा का दबाव अधिक होता है",
+          "en": "High air pressure"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किरचॉफ का नियम (Kirchhoff's Law of Radiation) क्या कहता है?",
+        "en": "What does Kirchhoff's Law of Radiation state?"
+      },
+      "o": [
+        {
+          "hi": "ऊष्मा हमेशा कम ताप से उच्च ताप की ओर बहती है",
+          "en": "Heat flows low to high temp"
+        },
+        {
+          "hi": "काली वस्तुएं ऊष्मा परावर्तित करती हैं",
+          "en": "Black objects reflect heat"
+        },
+        {
+          "hi": "अच्छे अवशोषक ही अच्छे उत्सर्जक होते हैं (Good absorbers are good emitters)",
+          "en": "Good absorbers are good emitters"
+        },
+        {
+          "hi": "उत्सर्जन ताप के वर्ग के समानुपाती है",
+          "en": "Emission proportional to T²"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वीन का विस्थापन नियम (Wien's Displacement Law) अधिकतम तरंगदैर्ध्य (λ_max) और ताप (T) में क्या संबंध बताता है?",
+        "en": "Wien's Displacement Law relates wavelength λ_max and temperature T as:"
+      },
+      "o": [
+        {
+          "hi": "λ_max = T²",
+          "en": "λ_max = T²"
+        },
+        {
+          "hi": "λ_max / T = नियतांक",
+          "en": "λ_max / T = Constant"
+        },
+        {
+          "hi": "λ_max × T = नियतांक (b)",
+          "en": "λ_max × T = Constant (b)"
+        },
+        {
+          "hi": "λ_max × T⁴ = नियतांक",
+          "en": "λ_max × T⁴ = Constant"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तारे के रंग (Color of a Star) से उसके किस भौतिक गुण की जानकारी मिलती है?",
+        "en": "The color of a star gives an indication of its:"
+      },
+      "o": [
+        {
+          "hi": "दूरी (Distance)",
+          "en": "Distance"
+        },
+        {
+          "hi": "द्रव्यमान (Mass)",
+          "en": "Mass"
+        },
+        {
+          "hi": "पृष्ठीय तापमान (Surface Temperature)",
+          "en": "Surface Temperature"
+        },
+        {
+          "hi": "आकार (Size)",
+          "en": "Size"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "न्यूटन का शीतलन नियम (Newton's Law of Cooling) किसके बीच लागू होता है?",
+        "en": "Newton's Law of Cooling states rate of loss of heat is proportional to:"
+      },
+      "o": [
+        {
+          "hi": "ताप के वर्ग के",
+          "en": "Square of temperature"
+        },
+        {
+          "hi": "केवल वस्तु के ताप T के",
+          "en": "Only temperature of body T"
+        },
+        {
+          "hi": "वस्तु और वातावरण के ताप के अंतर (T - T₀) के",
+          "en": "Temperature difference between body and surroundings (T - T₀)"
+        },
+        {
+          "hi": "वस्तु के द्रव्यमान के",
+          "en": "Mass of body"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "न्यूटन का शीतलन नियम केवल कब सही लागू होता है?",
+        "en": "Newton's Law of Cooling holds good only when:"
+      },
+      "o": [
+        {
+          "hi": "वस्तु निर्वात में रखी हो",
+          "en": "Body is in vacuum"
+        },
+        {
+          "hi": "तापांतर 500°C से अधिक हो",
+          "en": "Temperature difference > 500°C"
+        },
+        {
+          "hi": "तापांतर (T - T₀) बहुत अधिक न हो (कम अंतर पर)",
+          "en": "Temperature difference is small"
+        },
+        {
+          "hi": "वस्तु जम रही हो",
+          "en": "Body is freezing"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऊष्मागतिकी का शून्यवाँ नियम (Zeroth Law of Thermodynamics) किसकी अवधारणा को परिभाषित करता है?",
+        "en": "Zeroth Law of Thermodynamics defines the concept of:"
+      },
+      "o": [
+        {
+          "hi": "एंट्रॉपी (Entropy)",
+          "en": "Entropy"
+        },
+        {
+          "hi": "आंतरिक ऊर्जा (Internal Energy)",
+          "en": "Internal Energy"
+        },
+        {
+          "hi": "तापमान (Temperature / Thermal Equilibrium)",
+          "en": "Temperature / Thermal Equilibrium"
+        },
+        {
+          "hi": "कार्य (Work)",
+          "en": "Work"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऊष्मागतिकी का प्रथम नियम (First Law of Thermodynamics) किस मौलिक नियम का पुनरकथन है?",
+        "en": "First Law of Thermodynamics (ΔQ = ΔU + ΔW) is a statement of:"
+      },
+      "o": [
+        {
+          "hi": "संवेग संरक्षण",
+          "en": "Conservation of Momentum"
+        },
+        {
+          "hi": "द्रव्यमान संरक्षण",
+          "en": "Conservation of Mass"
+        },
+        {
+          "hi": "ऊर्जा संरक्षण का नियम (Law of Conservation of Energy)",
+          "en": "Law of Conservation of Energy"
+        },
+        {
+          "hi": "आवेश संरक्षण",
+          "en": "Conservation of Charge"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऊष्मागतिकी का प्रथम नियम किस भौतिक राशि को परिभाषित करता है?",
+        "en": "First Law of Thermodynamics introduces the concept of:"
+      },
+      "o": [
+        {
+          "hi": "तापमान",
+          "en": "Temperature"
+        },
+        {
+          "hi": "एंट्रॉपी",
+          "en": "Entropy"
+        },
+        {
+          "hi": "आंतरिक ऊर्जा (Internal Energy, U)",
+          "en": "Internal Energy (U)"
+        },
+        {
+          "hi": "श्यानता",
+          "en": "Viscosity"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऊष्मागतिकी का द्वितीय नियम (Second Law of Thermodynamics) किस भौतिक राशि को पेश करता है?",
+        "en": "Second Law of Thermodynamics introduces the concept of:"
+      },
+      "o": [
+        {
+          "hi": "त्वरण",
+          "en": "Acceleration"
+        },
+        {
+          "hi": "आंतरिक ऊर्जा",
+          "en": "Internal Energy"
+        },
+        {
+          "hi": "द्रव्यमान",
+          "en": "Mass"
+        },
+        {
+          "hi": "एंट्रॉपी / ऊष्मा प्रवाह की दिशा (Entropy / Direction of Heat Flow)",
+          "en": "Entropy / Direction of Heat Flow"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "केल्विन-प्लांक और क्लॉसियस के कथन ऊष्मागतिकी के किस नियम से संबंधित हैं?",
+        "en": "Kelvin-Planck and Clausius statements belong to which law of thermodynamics?"
+      },
+      "o": [
+        {
+          "hi": "तृतीय नियम (Third Law)",
+          "en": "Third Law"
+        },
+        {
+          "hi": "प्रथम नियम (First Law)",
+          "en": "First Law"
+        },
+        {
+          "hi": "शून्यवाँ नियम (Zeroth Law)",
+          "en": "Zeroth Law"
+        },
+        {
+          "hi": "द्वितीय नियम (Second Law)",
+          "en": "Second Law"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "क्लॉसियस के कथन के अनुसार स्वयं बिना किसी बाहरी कार्य के ऊष्मा निम्न ताप से उच्च ताप की ओर स्थानांतरित:",
+        "en": "According to Clausius statement, heat cannot spontaneously flow from cold to hot body without:"
+      },
+      "o": [
+        {
+          "hi": "केवल गैसों में होती है",
+          "en": "Only in gases"
+        },
+        {
+          "hi": "हो सकती है आसानी से",
+          "en": "Can flow easily"
+        },
+        {
+          "hi": "हमेशा होती है",
+          "en": "Always flows"
+        },
+        {
+          "hi": "नहीं हो सकती (Cannot flow spontaneously without external work)",
+          "en": "Cannot flow spontaneously without external work"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समतापीय प्रक्रम (Isothermal Process) में कौन सी भौतिक राशि नियत रहती है?",
+        "en": "In an Isothermal Process, which thermodynamic quantity remains constant?"
+      },
+      "o": [
+        {
+          "hi": "ऊष्मा (Heat)",
+          "en": "Heat"
+        },
+        {
+          "hi": "दाब (Pressure)",
+          "en": "Pressure"
+        },
+        {
+          "hi": "आयतन (Volume)",
+          "en": "Volume"
+        },
+        {
+          "hi": "तापमान (Temperature, T)",
+          "en": "Temperature (T)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रुद्धोष्म प्रक्रम (Adiabatic Process) में क्या नियत रहता है (निकाय और वातावरण में ऊष्मा का आदान-प्रदान नहीं होता)?",
+        "en": "In an Adiabatic Process, what remains constant (no heat exchange with surroundings)?"
+      },
+      "o": [
+        {
+          "hi": "घनत्व",
+          "en": "Density"
+        },
+        {
+          "hi": "तापमान (Temperature)",
+          "en": "Temperature"
+        },
+        {
+          "hi": "दाब (Pressure)",
+          "en": "Pressure"
+        },
+        {
+          "hi": "कुल ऊष्मा (Heat, Q = 0 / Entropy constant)",
+          "en": "Heat content (Q = Constant)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अचानक साइकिल का टायर फटने पर उसमें से निकलने वाली हवा ठंडी क्यों महसूस होती है?",
+        "en": "Why does air escaping a suddenly burst bicycle tire feel cold?"
+      },
+      "o": [
+        {
+          "hi": "चालन के कारण",
+          "en": "Conduction"
+        },
+        {
+          "hi": "समतापीय प्रसार के कारण",
+          "en": "Isothermal expansion"
+        },
+        {
+          "hi": "समदाबी प्रक्रम के कारण",
+          "en": "Isobaric process"
+        },
+        {
+          "hi": "रुद्धोष्म प्रसार (Adiabatic Expansion) के कारण",
+          "en": "Due to Adiabatic Expansion"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समदाबी प्रक्रम (Isobaric Process) में कौन सा चर स्थिर रहता है?",
+        "en": "In an Isobaric Process, which parameter remains constant?"
+      },
+      "o": [
+        {
+          "hi": "आंतरिक ऊर्जा",
+          "en": "Internal Energy"
+        },
+        {
+          "hi": "आयतन (Volume)",
+          "en": "Volume"
+        },
+        {
+          "hi": "तापमान (Temperature)",
+          "en": "Temperature"
+        },
+        {
+          "hi": "दाब (Pressure, P)",
+          "en": "Pressure (P)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समायतनी प्रक्रम (Isochoric Process) में किया गया कार्य (Work done) कितना होता है?",
+        "en": "In an Isochoric Process (constant volume ΔV = 0), work done is:"
+      },
+      "o": [
+        {
+          "hi": "अनंत (Infinite)",
+          "en": "Infinite"
+        },
+        {
+          "hi": "अधिकतम (Maximum)",
+          "en": "Maximum"
+        },
+        {
+          "hi": "P × V",
+          "en": "P × V"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कार्नो इंजन (Carnot Engine) की दक्षता (Efficiency, η) का सूत्र क्या है?",
+        "en": "Efficiency of a Carnot Engine working between T₁ (source) and T₂ (sink) is:"
+      },
+      "o": [
+        {
+          "hi": "η = (T₁ - T₂) / T₂",
+          "en": "η = (T₁ - T₂) / T₂"
+        },
+        {
+          "hi": "η = 1 + (T₂ / T₁)",
+          "en": "η = 1 + (T₂ / T₁)"
+        },
+        {
+          "hi": "η = T₁ / T₂",
+          "en": "η = T₁ / T₂"
+        },
+        {
+          "hi": "η = 1 - (T₂ / T₁)",
+          "en": "η = 1 - (T₂ / T₁)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कार्नो इंजन की दक्षता 100% (1) केवल कब हो सकती है?",
+        "en": "Efficiency of a Carnot Engine can be 100% only if sink temperature T₂ is:"
+      },
+      "o": [
+        {
+          "hi": "यह व्यावहारिक रूप से हमेशा 100% होती है",
+          "en": "Always 100%"
+        },
+        {
+          "hi": "स्रोत का ताप T₁ = 100°C",
+          "en": "Source temp = 100°C"
+        },
+        {
+          "hi": "T₁ = T₂",
+          "en": "T₁ = T₂"
+        },
+        {
+          "hi": "सिंक का ताप T₂ = 0 K (परम शून्य)",
+          "en": "Sink temperature T₂ = 0 K (Absolute zero)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बॉयल का नियम (Boyle's Law) नियत ताप पर दाब (P) और आयतन (V) में क्या संबंध दर्शाता है?",
+        "en": "Boyle's Law states that at constant temperature, pressure P and volume V are:"
+      },
+      "o": [
+        {
+          "hi": "P = V",
+          "en": "P = V"
+        },
+        {
+          "hi": "P ∝ V (समानुपाती)",
+          "en": "P ∝ V (Directly proportional)"
+        },
+        {
+          "hi": "P ∝ T",
+          "en": "P ∝ T"
+        },
+        {
+          "hi": "P ∝ 1 / V (व्युत्क्रमानुपाती)",
+          "en": "P ∝ 1 / V (Inversely proportional)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चार्लस का नियम (Charles's Law) नियत दाब पर आयतन (V) और परम ताप (T) में क्या संबंध बताता है?",
+        "en": "Charles's Law states that at constant pressure, volume V is:"
+      },
+      "o": [
+        {
+          "hi": "V = नियतांक",
+          "en": "V = Constant"
+        },
+        {
+          "hi": "V ∝ 1 / T",
+          "en": "V ∝ 1 / T"
+        },
+        {
+          "hi": "V ∝ P",
+          "en": "V ∝ P"
+        },
+        {
+          "hi": "V ∝ T (समानुपाती)",
+          "en": "V ∝ T (Directly proportional)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गे-लुसाक का नियम (Gay-Lussac's Law) नियत आयतन पर दाब (P) और परम ताप (T) में क्या संबंध बताता है?",
+        "en": "Gay-Lussac's Law states that at constant volume, pressure P is:"
+      },
+      "o": [
+        {
+          "hi": "P = T²",
+          "en": "P = T²"
+        },
+        {
+          "hi": "P ∝ 1 / T",
+          "en": "P ∝ 1 / T"
+        },
+        {
+          "hi": "P ∝ V",
+          "en": "P ∝ V"
+        },
+        {
+          "hi": "P ∝ T",
+          "en": "P ∝ T"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आदर्श गैस समीकरण (Ideal Gas Equation) क्या है?",
+        "en": "What is the Ideal Gas Equation for n moles of gas?"
+      },
+      "o": [
+        {
+          "hi": "PV = mgh",
+          "en": "PV = mgh"
+        },
+        {
+          "hi": "P / V = nRT",
+          "en": "P / V = nRT"
+        },
+        {
+          "hi": "PT = nRV",
+          "en": "PT = nRV"
+        },
+        {
+          "hi": "PV = nRT",
+          "en": "PV = nRT"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सार्वत्रिक गैस नियतांक (Universal Gas Constant, R) का मान कितना होता है?",
+        "en": "What is the value of Universal Gas Constant (R)?"
+      },
+      "o": [
+        {
+          "hi": "9.8 J / (mol·K)",
+          "en": "9.8 J / (mol·K)"
+        },
+        {
+          "hi": "6.67 × 10⁻¹¹ J / (mol·K)",
+          "en": "6.67 × 10⁻¹¹ J / (mol·K)"
+        },
+        {
+          "hi": "1.38 × 10⁻²³ J / (mol·K)",
+          "en": "1.38 × 10⁻²³ J / (mol·K)"
+        },
+        {
+          "hi": "8.314 J / (mol·K)",
+          "en": "8.314 J / (mol·K)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बोल्ट्ज़मैन नियतांक (Boltzmann Constant, k_B) किसके बराबर होता है?",
+        "en": "Boltzmann Constant (k_B) is equal to:"
+      },
+      "o": [
+        {
+          "hi": "R² N_A",
+          "en": "R² N_A"
+        },
+        {
+          "hi": "R × N_A",
+          "en": "R × N_A"
+        },
+        {
+          "hi": "N_A / R",
+          "en": "N_A / R"
+        },
+        {
+          "hi": "R / N_A (गैस नियतांक / आवोगाद्रो संख्या)",
+          "en": "R / N_A (Gas constant / Avogadro number)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अवरक्त विकिरणी ऊष्मा को मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+        "en": "Which instrument measures infrared radiant heat?"
+      },
+      "o": [
+        {
+          "hi": "फैदोमीटर",
+          "en": "Fathometer"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "हाइग्रोमीटर",
+          "en": "Hygrometer"
+        },
+        {
+          "hi": "बोलोमीटर (Bolometer)",
+          "en": "Bolometer"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जल की वाष्पीकरण दर (Rate of Evaporation) किन कारकों पर निर्भर करती है?",
+        "en": "The rate of evaporation of a liquid depends on:"
+      },
+      "o": [
+        {
+          "hi": "केवल पानी की गहराई पर",
+          "en": "Only depth of water"
+        },
+        {
+          "hi": "केवल बर्तन के रंग पर",
+          "en": "Only color of vessel"
+        },
+        {
+          "hi": "केवल वायुमंडलीय दाब पर",
+          "en": "Only atmospheric pressure"
+        },
+        {
+          "hi": "सतह के क्षेत्रफल, तापमान, वायु की गति और आर्द्रता पर",
+          "en": "Surface area, temperature, wind speed, and humidity"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}

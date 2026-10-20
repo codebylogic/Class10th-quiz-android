@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "वैदिक संस्कृति एवं सभ्यता / Vedic Culture",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Vedic Culture.",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारत का सबसे प्राचीन वेद कौन सा है?",
+        "en": "Which is the oldest Veda of India?"
+      },
+      "o": [
+        {
+          "hi": "ऋग्वेद",
+          "en": "Rigveda"
+        },
+        {
+          "hi": "सामवेद",
+          "en": "Samaveda"
+        },
+        {
+          "hi": "यजुर्वेद",
+          "en": "Yajurveda"
+        },
+        {
+          "hi": "अथर्ववेद",
+          "en": "Atharvaveda"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ऋग्वेद में कुल कितने मण्डल और सूक्त हैं?",
+        "en": "How many Mandalas and Suktas are there in Rigveda?"
+      },
+      "o": [
+        {
+          "hi": "8 मण्डल, 1000 सूक्त",
+          "en": "8 Mandalas, 1000 Suktas"
+        },
+        {
+          "hi": "10 मण्डल, 1028 सूक्त",
+          "en": "10 Mandalas, 1028 Suktas"
+        },
+        {
+          "hi": "12 मण्डल, 1080 सूक्त",
+          "en": "12 Mandalas, 1080 Suktas"
+        },
+        {
+          "hi": "15 मण्डल, 1128 सूक्त",
+          "en": "15 Mandalas, 1128 Suktas"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गायत्री मंत्र ऋग्वेद के किस मण्डल में स्थित है?",
+        "en": "In which Mandala of Rigveda is the Gayatri Mantra located?"
+      },
+      "o": [
+        {
+          "hi": "प्रथम मण्डल",
+          "en": "First Mandala"
+        },
+        {
+          "hi": "द्वितीय मण्डल",
+          "en": "Second Mandala"
+        },
+        {
+          "hi": "तृतीय मण्डल",
+          "en": "Third Mandala"
+        },
+        {
+          "hi": "चतुर्थ मण्डल",
+          "en": "Fourth Mandala"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गायत्री मंत्र की रचना किसने की थी?",
+        "en": "Who composed the Gayatri Mantra?"
+      },
+      "o": [
+        {
+          "hi": "महर्षि वशिष्ठ",
+          "en": "Maharshi Vashistha"
+        },
+        {
+          "hi": "महर्षि अगस्त्य",
+          "en": "Maharshi Agastya"
+        },
+        {
+          "hi": "महर्षि भारद्वाज",
+          "en": "Maharshi Bharadwaja"
+        },
+        {
+          "hi": "महर्षि विश्वामित्र",
+          "en": "Maharshi Vishvamitra"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय संगीत का जनक किस वेद को माना जाता है?",
+        "en": "Which Veda is considered the father of Indian music?"
+      },
+      "o": [
+        {
+          "hi": "सामवेद",
+          "en": "Samaveda"
+        },
+        {
+          "hi": "यजुर्वेद",
+          "en": "Yajurveda"
+        },
+        {
+          "hi": "अथर्ववेद",
+          "en": "Atharvaveda"
+        },
+        {
+          "hi": "ऋग्वेद",
+          "en": "Rigveda"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कौन सा वेद गद्य एवं पद्य दोनों में रचित है?",
+        "en": "Which Veda is composed in both prose and poetry?"
+      },
+      "o": [
+        {
+          "hi": "ऋग्वेद",
+          "en": "Rigveda"
+        },
+        {
+          "hi": "यजुर्वेद",
+          "en": "Yajurveda"
+        },
+        {
+          "hi": "सामवेद",
+          "en": "Samaveda"
+        },
+        {
+          "hi": "अथर्ववेद",
+          "en": "Atharvaveda"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तंत्र-मंत्र, जादू-टोना और वशीकरण से संबंधित वेद कौन सा है?",
+        "en": "Which Veda is related to charms, spells, and magic?"
+      },
+      "o": [
+        {
+          "hi": "सामवेद",
+          "en": "Samaveda"
+        },
+        {
+          "hi": "ऋग्वेद",
+          "en": "Rigveda"
+        },
+        {
+          "hi": "अथर्ववेद",
+          "en": "Atharvaveda"
+        },
+        {
+          "hi": "यजुर्वेद",
+          "en": "Yajurveda"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऋग्वेद का उपवेद कौन सा है?",
+        "en": "Which is the Upaveda of Rigveda?"
+      },
+      "o": [
+        {
+          "hi": "धनुर्वेद",
+          "en": "Dhanurveda"
+        },
+        {
+          "hi": "गंधर्ववेद",
+          "en": "Gandharvaveda"
+        },
+        {
+          "hi": "शिल्पवेद",
+          "en": "Shilpaveda"
+        },
+        {
+          "hi": "आयुर्वेद",
+          "en": "Ayurveda"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सामवेद का उपवेद कौन सा है?",
+        "en": "Which is the Upaveda of Samaveda?"
+      },
+      "o": [
+        {
+          "hi": "गंधर्ववेद",
+          "en": "Gandharvaveda"
+        },
+        {
+          "hi": "धनुर्वेद",
+          "en": "Dhanurveda"
+        },
+        {
+          "hi": "शिल्पवेद",
+          "en": "Shilpaveda"
+        },
+        {
+          "hi": "आयुर्वेद",
+          "en": "Ayurveda"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वेदांगों की कुल संख्या कितनी है?",
+        "en": "What is the total number of Vedangas?"
+      },
+      "o": [
+        {
+          "hi": "4",
+          "en": "4"
+        },
+        {
+          "hi": "6",
+          "en": "6"
+        },
+        {
+          "hi": "8",
+          "en": "8"
+        },
+        {
+          "hi": "12",
+          "en": "12"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ऋग्वैदिक नदी 'परुष्णी' का आधुनिक नाम क्या है?",
+        "en": "What is the modern name of the Rigvedic river 'Parushni'?"
+      },
+      "o": [
+        {
+          "hi": "झेलम",
+          "en": "Jhelum"
+        },
+        {
+          "hi": "चिनाब",
+          "en": "Chenab"
+        },
+        {
+          "hi": "रावी",
+          "en": "Ravi"
+        },
+        {
+          "hi": "ब्यास",
+          "en": "Beas"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऋग्वैदिक नदी 'वितस्ता' का आधुनिक नाम क्या है?",
+        "en": "What is the modern name of the Rigvedic river 'Vitasta'?"
+      },
+      "o": [
+        {
+          "hi": "ब्यास",
+          "en": "Beas"
+        },
+        {
+          "hi": "रावी",
+          "en": "Ravi"
+        },
+        {
+          "hi": "सतलुज",
+          "en": "Sutlej"
+        },
+        {
+          "hi": "झेलम",
+          "en": "Jhelum"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऋग्वैदिक नदी 'अस्किनी' का आधुनिक नाम क्या है?",
+        "en": "What is the modern name of the Rigvedic river 'Askini'?"
+      },
+      "o": [
+        {
+          "hi": "चिनाब",
+          "en": "Chenab"
+        },
+        {
+          "hi": "सतलुज",
+          "en": "Sutlej"
+        },
+        {
+          "hi": "रावी",
+          "en": "Ravi"
+        },
+        {
+          "hi": "झेलम",
+          "en": "Jhelum"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ऋग्वैदिक नदी 'विपाशा' (विपास) का आधुनिक नाम क्या है?",
+        "en": "What is the modern name of the Rigvedic river 'Vipasa' (Vipas)?"
+      },
+      "o": [
+        {
+          "hi": "रावी",
+          "en": "Ravi"
+        },
+        {
+          "hi": "ब्यास",
+          "en": "Beas"
+        },
+        {
+          "hi": "सतलुज",
+          "en": "Sutlej"
+        },
+        {
+          "hi": "चिनाब",
+          "en": "Chenab"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ऋग्वैदिक नदी 'शुतुद्री' का आधुनिक नाम क्या है?",
+        "en": "What is the modern name of the Rigvedic river 'Shatudri'?"
+      },
+      "o": [
+        {
+          "hi": "चिनाब",
+          "en": "Chenab"
+        },
+        {
+          "hi": "रावी",
+          "en": "Ravi"
+        },
+        {
+          "hi": "सतलुज",
+          "en": "Sutlej"
+        },
+        {
+          "hi": "ब्यास",
+          "en": "Beas"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऋग्वेद में सबसे पवित्र नदी किसे माना गया है?",
+        "en": "Which river is considered the most sacred in Rigveda?"
+      },
+      "o": [
+        {
+          "hi": "गंगा",
+          "en": "Ganga"
+        },
+        {
+          "hi": "सिंधु",
+          "en": "Sindhu"
+        },
+        {
+          "hi": "यमुना",
+          "en": "Yamuna"
+        },
+        {
+          "hi": "सरस्वती",
+          "en": "Saraswati"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऋग्वेद में सर्वाधिक बार किस नदी का उल्लेख हुआ है?",
+        "en": "Which river is mentioned most frequently in Rigveda?"
+      },
+      "o": [
+        {
+          "hi": "सिंधु",
+          "en": "Sindhu"
+        },
+        {
+          "hi": "सरस्वती",
+          "en": "Saraswati"
+        },
+        {
+          "hi": "गंगा",
+          "en": "Ganga"
+        },
+        {
+          "hi": "सतलुज",
+          "en": "Sutlej"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रसिद्ध दशराज्ञ युद्ध किस नदी के तट पर लड़ा गया था?",
+        "en": "On the banks of which river was the famous Battle of Ten Kings fought?"
+      },
+      "o": [
+        {
+          "hi": "वितस्ता",
+          "en": "Vitasta"
+        },
+        {
+          "hi": "परुष्णी (रावी)",
+          "en": "Parushni (Ravi)"
+        },
+        {
+          "hi": "अस्किनी",
+          "en": "Askini"
+        },
+        {
+          "hi": "विपाशा",
+          "en": "Vipasa"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दशराज्ञ युद्ध में विजय प्राप्त करने वाले राजा सुदास किस कबीले के थे?",
+        "en": "King Sudas, who won the Battle of Ten Kings, belonged to which tribe?"
+      },
+      "o": [
+        {
+          "hi": "अनु",
+          "en": "Anu"
+        },
+        {
+          "hi": "पुरु",
+          "en": "Puru"
+        },
+        {
+          "hi": "भरत",
+          "en": "Bharata"
+        },
+        {
+          "hi": "द्रुह्यु",
+          "en": "Druhyu"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऋग्वैदिक काल के सबसे प्रमुख देवता कौन थे?",
+        "en": "Who was the chief deity of the Rigvedic period?"
+      },
+      "o": [
+        {
+          "hi": "अग्नि",
+          "en": "Agni"
+        },
+        {
+          "hi": "वरुण",
+          "en": "Varuna"
+        },
+        {
+          "hi": "सोम",
+          "en": "Soma"
+        },
+        {
+          "hi": "इंद्र",
+          "en": "Indra"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऋग्वेद में इंद्र के लिए कितने सूक्त समर्पित हैं?",
+        "en": "How many hymns are dedicated to Indra in Rigveda?"
+      },
+      "o": [
+        {
+          "hi": "250",
+          "en": "250"
+        },
+        {
+          "hi": "200",
+          "en": "200"
+        },
+        {
+          "hi": "300",
+          "en": "300"
+        },
+        {
+          "hi": "350",
+          "en": "350"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ऋग्वेद में 'पुरंदर' (किलों को तोड़ने वाला) शब्द का प्रयोग किसके लिए किया गया है?",
+        "en": "In Rigveda, the word 'Purandara' (breaker of forts) is used for whom?"
+      },
+      "o": [
+        {
+          "hi": "वरुण",
+          "en": "Varuna"
+        },
+        {
+          "hi": "इंद्र",
+          "en": "Indra"
+        },
+        {
+          "hi": "अग्नि",
+          "en": "Agni"
+        },
+        {
+          "hi": "सूर्य",
+          "en": "Surya"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ऋग्वेद में अग्नि देवता के लिए कितने सूक्त समर्पित हैं?",
+        "en": "How many hymns are dedicated to Agni in Rigveda?"
+      },
+      "o": [
+        {
+          "hi": "150",
+          "en": "150"
+        },
+        {
+          "hi": "250",
+          "en": "250"
+        },
+        {
+          "hi": "200",
+          "en": "200"
+        },
+        {
+          "hi": "100",
+          "en": "100"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऋग्वेद का नवां मण्डल पूर्णतः किस देवता को समर्पित है?",
+        "en": "The 9th Mandala of Rigveda is entirely dedicated to which deity?"
+      },
+      "o": [
+        {
+          "hi": "इंद्र",
+          "en": "Indra"
+        },
+        {
+          "hi": "अग्नि",
+          "en": "Agni"
+        },
+        {
+          "hi": "वरुण",
+          "en": "Varuna"
+        },
+        {
+          "hi": "सोम",
+          "en": "Soma"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऋग्वेद के किस सूक्त में वर्ण व्यवस्था (चार वर्णों) का प्रथम उल्लेख मिलता है?",
+        "en": "In which Sukta of Rigveda is the first mention of the Varna system found?"
+      },
+      "o": [
+        {
+          "hi": "पुरुष सूक्त",
+          "en": "Purusha Sukta"
+        },
+        {
+          "hi": "नासदीय सूक्त",
+          "en": "Nasadiya Sukta"
+        },
+        {
+          "hi": "विवाह सूक्त",
+          "en": "Vivaha Sukta"
+        },
+        {
+          "hi": "हिरण्यगर्भ सूक्त",
+          "en": "Hiranyagarbha Sukta"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पुरुष सूक्त ऋग्वेद के किस मण्डल में स्थित है?",
+        "en": "In which Mandala of Rigveda is Purusha Sukta located?"
+      },
+      "o": [
+        {
+          "hi": "प्रथम मण्डल",
+          "en": "First Mandala"
+        },
+        {
+          "hi": "दसवां मण्डल",
+          "en": "Tenth Mandala"
+        },
+        {
+          "hi": "आठवां मण्डल",
+          "en": "Eighth Mandala"
+        },
+        {
+          "hi": "पांचवां मण्डल",
+          "en": "Fifth Mandala"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'सत्यमेव जयते' महावाक्य किस उपनिषद से लिया गया है?",
+        "en": "From which Upanishad is the motto 'Satyameva Jayate' taken?"
+      },
+      "o": [
+        {
+          "hi": "कठोपनिषद",
+          "en": "Katha Upanishad"
+        },
+        {
+          "hi": "छांदोग्य उपनिषद",
+          "en": "Chandogya Upanishad"
+        },
+        {
+          "hi": "मुण्डकोपनिषद",
+          "en": "Mundaka Upanishad"
+        },
+        {
+          "hi": "ईशावास्य उपनिषद",
+          "en": "Isha Upanishad"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यम और नचिकेता का प्रसिद्ध संवाद किस उपनिषद में वर्णित है?",
+        "en": "The famous dialogue between Yama and Nachiketa is described in which Upanishad?"
+      },
+      "o": [
+        {
+          "hi": "मुण्डकोपनिषद",
+          "en": "Mundaka Upanishad"
+        },
+        {
+          "hi": "छांदोग्य उपनिषद",
+          "en": "Chandogya Upanishad"
+        },
+        {
+          "hi": "केन उपनिषद",
+          "en": "Kena Upanishad"
+        },
+        {
+          "hi": "कठोपनिषद",
+          "en": "Katha Upanishad"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सबसे विशाल और प्राचीन उपनिषद कौन सा माना जाता है?",
+        "en": "Which Upanishad is considered the largest and oldest?"
+      },
+      "o": [
+        {
+          "hi": "बृहदारण्यक उपनिषद",
+          "en": "Brihadaranyaka Upanishad"
+        },
+        {
+          "hi": "मांडूक्य उपनिषद",
+          "en": "Mandukya Upanishad"
+        },
+        {
+          "hi": "छांदोग्य उपनिषद",
+          "en": "Chandogya Upanishad"
+        },
+        {
+          "hi": "तैत्तिरीय उपनिषद",
+          "en": "Taittiriya Upanishad"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चारों आश्रमों (ब्रह्मचर्य, गृहस्थ, वानप्रस्थ, संन्यास) का सर्वप्रथम उल्लेख किस उपनिषद में मिलता है?",
+        "en": "Where is the first mention of the four Ashramas found?"
+      },
+      "o": [
+        {
+          "hi": "छांदोग्य उपनिषद",
+          "en": "Chandogya Upanishad"
+        },
+        {
+          "hi": "जाबाल उपनिषद",
+          "en": "Jabala Upanishad"
+        },
+        {
+          "hi": "मुण्डकोपनिषद",
+          "en": "Mundaka Upanishad"
+        },
+        {
+          "hi": "श्वेताश्वतर उपनिषद",
+          "en": "Svetasvatara Upanishad"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "उपनिषदों की कुल संख्या कितनी मानी गई है?",
+        "en": "What is the total number of Upanishads?"
+      },
+      "o": [
+        {
+          "hi": "18",
+          "en": "18"
+        },
+        {
+          "hi": "100",
+          "en": "100"
+        },
+        {
+          "hi": "108",
+          "en": "108"
+        },
+        {
+          "hi": "112",
+          "en": "112"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पुराणों की कुल संख्या कितनी है?",
+        "en": "What is the total number of Puranas?"
+      },
+      "o": [
+        {
+          "hi": "12",
+          "en": "12"
+        },
+        {
+          "hi": "16",
+          "en": "16"
+        },
+        {
+          "hi": "20",
+          "en": "20"
+        },
+        {
+          "hi": "18",
+          "en": "18"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सब्स प्राचीन एवं प्रमाणिक पुराण कौन सा है?",
+        "en": "Which is the oldest and most authentic Purana?"
+      },
+      "o": [
+        {
+          "hi": "मत्स्य पुराण",
+          "en": "Matsya Purana"
+        },
+        {
+          "hi": "विष्णु पुराण",
+          "en": "Vishnu Purana"
+        },
+        {
+          "hi": "वायु पुराण",
+          "en": "Vayu Purana"
+        },
+        {
+          "hi": "भागवत पुराण",
+          "en": "Bhagavata Purana"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सांख्य दर्शन के प्रतिपादक कौन थे?",
+        "en": "Who was the founder of Sankhya philosophy?"
+      },
+      "o": [
+        {
+          "hi": "पतंजलि",
+          "en": "Patanjali"
+        },
+        {
+          "hi": "कपिल मुनि",
+          "en": "Kapila Muni"
+        },
+        {
+          "hi": "गौतम मुनि",
+          "en": "Gautama Muni"
+        },
+        {
+          "hi": "महर्षि कणाद",
+          "en": "Maharshi Kanada"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "योग दर्शन के प्रतिपादक कौन थे?",
+        "en": "Who was the founder of Yoga philosophy?"
+      },
+      "o": [
+        {
+          "hi": "कपिल",
+          "en": "Kapila"
+        },
+        {
+          "hi": "जैमिनी",
+          "en": "Jaimini"
+        },
+        {
+          "hi": "पतंजलि",
+          "en": "Patanjali"
+        },
+        {
+          "hi": "बादरायण",
+          "en": "Badarayana"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "न्याय दर्शन के प्रतिपादक कौन थे?",
+        "en": "Who was the founder of Nyaya philosophy?"
+      },
+      "o": [
+        {
+          "hi": "जैमिनी",
+          "en": "Jaimini"
+        },
+        {
+          "hi": "महर्षि कणाद",
+          "en": "Maharshi Kanada"
+        },
+        {
+          "hi": "कपिल मुनि",
+          "en": "Kapila Muni"
+        },
+        {
+          "hi": "महर्षि गौतम",
+          "en": "Maharshi Gautama"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वैशेषिक दर्शन के प्रतिपादक कौन थे?",
+        "en": "Who was the founder of Vaisheshika philosophy?"
+      },
+      "o": [
+        {
+          "hi": "महर्षि कणाद (उलूक)",
+          "en": "Maharshi Kanada (Uluka)"
+        },
+        {
+          "hi": "जैमिनी",
+          "en": "Jaimini"
+        },
+        {
+          "hi": "पतंजलि",
+          "en": "Patanjali"
+        },
+        {
+          "hi": "बादरायण",
+          "en": "Badarayana"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पूर्व मीमांसा दर्शन के प्रवर्तक कौन थे?",
+        "en": "Who was the proponent of Purva Mimamsa philosophy?"
+      },
+      "o": [
+        {
+          "hi": "बादरायण",
+          "en": "Badarayana"
+        },
+        {
+          "hi": "जैमिनी",
+          "en": "Jaimini"
+        },
+        {
+          "hi": "गौतम",
+          "en": "Gautama"
+        },
+        {
+          "hi": "कपिल",
+          "en": "Kapila"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "उत्तर मीमांसा (वेदांत) दर्शन के प्रवर्तक कौन थे?",
+        "en": "Who was the proponent of Uttara Mimamsa (Vedanta) philosophy?"
+      },
+      "o": [
+        {
+          "hi": "जैमिनी",
+          "en": "Jaimini"
+        },
+        {
+          "hi": "कपिल",
+          "en": "Kapila"
+        },
+        {
+          "hi": "बादरायण",
+          "en": "Badarayana"
+        },
+        {
+          "hi": "पतंजलि",
+          "en": "Patanjali"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऋग्वैदिक काल में जन-सभाओं में से स्त्रियों की भागीदारी किसमें थी?",
+        "en": "In the Rigvedic period, in which assembly did women participate?"
+      },
+      "o": [
+        {
+          "hi": "सभा",
+          "en": "Sabha"
+        },
+        {
+          "hi": "गण",
+          "en": "Gana"
+        },
+        {
+          "hi": "समिति",
+          "en": "Samiti"
+        },
+        {
+          "hi": "विदथ",
+          "en": "Vidatha"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऋग्वैदिक काल में राजा को सलाह देने वाली श्रेष्ठ एवं संभ्रांत लोगों की संस्था क्या कहलाती थी?",
+        "en": "What was the assembly of elders/elites in the Rigvedic period called?"
+      },
+      "o": [
+        {
+          "hi": "सभा",
+          "en": "Sabha"
+        },
+        {
+          "hi": "विदथ",
+          "en": "Vidatha"
+        },
+        {
+          "hi": "समिति",
+          "en": "Samiti"
+        },
+        {
+          "hi": "परिषद",
+          "en": "Parishad"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ऋग्वैदिक काल में सामान्य जनता की प्रतिनिधि संस्था कौन सी थी?",
+        "en": "Which was the representative assembly of the common people in the Rigvedic period?"
+      },
+      "o": [
+        {
+          "hi": "सभा",
+          "en": "Sabha"
+        },
+        {
+          "hi": "समिति",
+          "en": "Samiti"
+        },
+        {
+          "hi": "विदथ",
+          "en": "Vidatha"
+        },
+        {
+          "hi": "गण",
+          "en": "Gana"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ऋग्वैदिक प्रशासन में ग्राम के मुखिया को क्या कहा जाता था?",
+        "en": "What was the head of a village called in Rigvedic administration?"
+      },
+      "o": [
+        {
+          "hi": "विषपति",
+          "en": "Vishpati"
+        },
+        {
+          "hi": "गोप",
+          "en": "Gopa"
+        },
+        {
+          "hi": "ग्रामणी",
+          "en": "Gramani"
+        },
+        {
+          "hi": "पुरपति",
+          "en": "Purapati"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऋग्वैदिक काल में 'विष' का प्रधान क्या कहलाता था?",
+        "en": "What was the head of a 'Vish' called in the Rigvedic period?"
+      },
+      "o": [
+        {
+          "hi": "ग्रामणी",
+          "en": "Gramani"
+        },
+        {
+          "hi": "सेनानी",
+          "en": "Senani"
+        },
+        {
+          "hi": "कुलप",
+          "en": "Kulapa"
+        },
+        {
+          "hi": "विषपति",
+          "en": "Vishpati"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऋग्वेद में निष्क (Nishka) का प्रयोग किस रूप में होता था?",
+        "en": "In what form was 'Nishka' used in the Rigveda?"
+      },
+      "o": [
+        {
+          "hi": "आभूषण / स्वर्ण आभूषण",
+          "en": "Ornament / Gold ornament"
+        },
+        {
+          "hi": "अस्त्र-शस्त्र",
+          "en": "Weapon"
+        },
+        {
+          "hi": "कृषि यंत्र",
+          "en": "Agricultural tool"
+        },
+        {
+          "hi": "वस्त्र",
+          "en": "Garment"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उत्तर वैदिक काल में लोहे को क्या कहा जाता था?",
+        "en": "What was iron called in the Later Vedic period?"
+      },
+      "o": [
+        {
+          "hi": "लोहित अयस",
+          "en": "Lohit Ayas"
+        },
+        {
+          "hi": "श्याम अयस / कृष्ण अयस",
+          "en": "Shyama Ayas / Krishna Ayas"
+        },
+        {
+          "hi": "हिरण्य",
+          "en": "Hiranya"
+        },
+        {
+          "hi": "ताम्र",
+          "en": "Tamra"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ऋग्वैदिक काल में 'अयस' शब्द का प्रयोग मुख्यतः किस धातु के लिए होता था?",
+        "en": "In the Rigvedic period, the word 'Ayas' was mainly used for which metal?"
+      },
+      "o": [
+        {
+          "hi": "सोना",
+          "en": "Gold"
+        },
+        {
+          "hi": "लोहा",
+          "en": "Iron"
+        },
+        {
+          "hi": "तांबा / कांसा",
+          "en": "Copper / Bronze"
+        },
+        {
+          "hi": "चांदी",
+          "en": "Silver"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राजा के राज्याभिषेक के समय कौन सा यज्ञ किया जाता था?",
+        "en": "Which sacrifice was performed during the coronation of a king?"
+      },
+      "o": [
+        {
+          "hi": "अश्वमेध यज्ञ",
+          "en": "Ashvamedha Yajna"
+        },
+        {
+          "hi": "अग्निष्टोम यज्ञ",
+          "en": "Agnishtoma Yajna"
+        },
+        {
+          "hi": "वाजपेय यज्ञ",
+          "en": "Vajapeya Yajna"
+        },
+        {
+          "hi": "राजसूय यज्ञ",
+          "en": "Rajasuya Yajna"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "साम्राज्य विस्तार एवं अपनी संप्रभुता सिद्ध करने हेतु राजा द्वारा कौन सा यज्ञ किया जाता था?",
+        "en": "Which sacrifice was performed by a king for territorial expansion and sovereignty?"
+      },
+      "o": [
+        {
+          "hi": "अश्वमेध यज्ञ",
+          "en": "Ashvamedha Yajna"
+        },
+        {
+          "hi": "वाजपेय यज्ञ",
+          "en": "Vajapeya Yajna"
+        },
+        {
+          "hi": "राजसूय यज्ञ",
+          "en": "Rajasuya Yajna"
+        },
+        {
+          "hi": "पुरुषमेध यज्ञ",
+          "en": "Purushamedha Yajna"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राजा की शक्ति प्रदर्शन एवं रथ-दौड़ से संबंधित यज्ञ कौन सा था?",
+        "en": "Which sacrifice was related to the display of king's power and chariot racing?"
+      },
+      "o": [
+        {
+          "hi": "राजसूय यज्ञ",
+          "en": "Rajasuya Yajna"
+        },
+        {
+          "hi": "वाजपेय यज्ञ",
+          "en": "Vajapeya Yajna"
+        },
+        {
+          "hi": "अश्वमेध यज्ञ",
+          "en": "Ashvamedha Yajna"
+        },
+        {
+          "hi": "सौत्रामणी यज्ञ",
+          "en": "Sautramani Yajna"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रामायण के रचयिता कौन हैं?",
+        "en": "Who is the author of Ramayana?"
+      },
+      "o": [
+        {
+          "hi": "वेद व्यास",
+          "en": "Ved Vyasa"
+        },
+        {
+          "hi": "तुलसीदास",
+          "en": "Tulsidas"
+        },
+        {
+          "hi": "महर्षि वाल्मीकि",
+          "en": "Maharshi Valmiki"
+        },
+        {
+          "hi": "कालिदास",
+          "en": "Kalidasa"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महाभारत का मूल नाम (प्राचीन नाम) क्या था?",
+        "en": "What was the original name of Mahabharata?"
+      },
+      "o": [
+        {
+          "hi": "भारत संहिता",
+          "en": "Bharata Samhita"
+        },
+        {
+          "hi": "कथासरित्सागर",
+          "en": "Kathasaritsagara"
+        },
+        {
+          "hi": "महाभारतम्",
+          "en": "Mahabharatam"
+        },
+        {
+          "hi": "जय संहिता",
+          "en": "Jaya Samhita"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऐतरेय एवं कौषीतकि ब्राह्मण किस वेद से संबंधित हैं?",
+        "en": "Aitareya and Kaushitaki Brahmanas are associated with which Veda?"
+      },
+      "o": [
+        {
+          "hi": "ऋग्वेद",
+          "en": "Rigveda"
+        },
+        {
+          "hi": "यजुर्वेद",
+          "en": "Yajurveda"
+        },
+        {
+          "hi": "सामवेद",
+          "en": "Samaveda"
+        },
+        {
+          "hi": "अथर्ववेद",
+          "en": "Atharvaveda"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शतपथ ब्राह्मण किस वेद से संबंधित है?",
+        "en": "Satapatha Brahmana is associated with which Veda?"
+      },
+      "o": [
+        {
+          "hi": "ऋग्वेद",
+          "en": "Rigveda"
+        },
+        {
+          "hi": "यजुर्वेद",
+          "en": "Yajurveda"
+        },
+        {
+          "hi": "सामवेद",
+          "en": "Samaveda"
+        },
+        {
+          "hi": "अथर्ववेद",
+          "en": "Atharvaveda"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गोपथ ब्राह्मण किस वेद का एकमात्र ब्राह्मण ग्रंथ है?",
+        "en": "Gopatha Brahmana is the only Brahmana text of which Veda?"
+      },
+      "o": [
+        {
+          "hi": "ऋग्वेद",
+          "en": "Rigveda"
+        },
+        {
+          "hi": "सामवेद",
+          "en": "Samaveda"
+        },
+        {
+          "hi": "अथर्ववेद",
+          "en": "Atharvaveda"
+        },
+        {
+          "hi": "यजुर्वेद",
+          "en": "Yajurveda"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'गोत्र' शब्द का सर्वप्रथम उल्लेख किस ग्रंथ में मिलता है?",
+        "en": "Where does the word 'Gotra' first appear?"
+      },
+      "o": [
+        {
+          "hi": "अथर्ववेद",
+          "en": "Atharvaveda"
+        },
+        {
+          "hi": "शतपथ ब्राह्मण",
+          "en": "Satapatha Brahmana"
+        },
+        {
+          "hi": "सामवेद",
+          "en": "Samaveda"
+        },
+        {
+          "hi": "ऋग्वेद",
+          "en": "Rigveda"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वैदिक काल में जौ (Barley) को क्या कहा जाता था?",
+        "en": "What was Barley called in the Vedic period?"
+      },
+      "o": [
+        {
+          "hi": "यव",
+          "en": "Yava"
+        },
+        {
+          "hi": "गोधूम",
+          "en": "Godhuma"
+        },
+        {
+          "hi": "व्रीहि",
+          "en": "Vrihi"
+        },
+        {
+          "hi": "मुद्ग",
+          "en": "Mudga"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वैदिक साहित्य में चावल को किस नाम से जाना जाता था?",
+        "en": "By what name was Rice known in Vedic literature?"
+      },
+      "o": [
+        {
+          "hi": "यव",
+          "en": "Yava"
+        },
+        {
+          "hi": "व्रीहि",
+          "en": "Vrihi"
+        },
+        {
+          "hi": "गोधूम",
+          "en": "Godhuma"
+        },
+        {
+          "hi": "माष",
+          "en": "Masha"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वैदिक काल में गेहूं को किस नाम से जाना जाता था?",
+        "en": "By what name was Wheat known in the Vedic period?"
+      },
+      "o": [
+        {
+          "hi": "यव",
+          "en": "Yava"
+        },
+        {
+          "hi": "व्रीहि",
+          "en": "Vrihi"
+        },
+        {
+          "hi": "गोधूम",
+          "en": "Godhuma"
+        },
+        {
+          "hi": "इक्षु",
+          "en": "Ikshu"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऋग्वेद में 'पणि' (Pani) शब्द का प्रयोग किसके लिए हुआ है?",
+        "en": "In Rigveda, the word 'Pani' is used for whom?"
+      },
+      "o": [
+        {
+          "hi": "कृषक",
+          "en": "Farmers"
+        },
+        {
+          "hi": "पुरोहित",
+          "en": "Priests"
+        },
+        {
+          "hi": "सैनिक",
+          "en": "Soldiers"
+        },
+        {
+          "hi": "व्यापारी / पशु चोर व्यापारी",
+          "en": "Traders / Cattle merchant traders"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वैदिक समाज की सबसे छोटी प्रशासनिक या सामाजिक इकाई क्या थी?",
+        "en": "What was the smallest social or administrative unit of Vedic society?"
+      },
+      "o": [
+        {
+          "hi": "कुल (परिवार)",
+          "en": "Kula (Family)"
+        },
+        {
+          "hi": "विष",
+          "en": "Vish"
+        },
+        {
+          "hi": "ग्राम",
+          "en": "Grama"
+        },
+        {
+          "hi": "जन",
+          "en": "Jana"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "परिवार के मुखिया को वैदिक काल में क्या कहा जाता था?",
+        "en": "What was the head of the family called in the Vedic period?"
+      },
+      "o": [
+        {
+          "hi": "ग्रामणी",
+          "en": "Gramani"
+        },
+        {
+          "hi": "कुलप / गृहपति",
+          "en": "Kulapa / Grihapati"
+        },
+        {
+          "hi": "विषपति",
+          "en": "Vishpati"
+        },
+        {
+          "hi": "गोप",
+          "en": "Gopa"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पुरोहित को कन्या दान के रूप में दी जाने वाली विवाह प्रथा क्या कहलाती थी?",
+        "en": "Which form of marriage involved giving a daughter to a priest as dakshina?"
+      },
+      "o": [
+        {
+          "hi": "ब्रह्म विवाह",
+          "en": "Brahma Vivaha"
+        },
+        {
+          "hi": "आर्ष विवाह",
+          "en": "Arsha Vivaha"
+        },
+        {
+          "hi": "दैव विवाह",
+          "en": "Daiva Vivaha"
+        },
+        {
+          "hi": "प्रजापत्य विवाह",
+          "en": "Prajapatya Vivaha"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वर-वधू के परस्पर प्रेम एवं सहमति से होने वाले विवाह को क्या कहा जाता था?",
+        "en": "What was the marriage based on mutual love and consent called?"
+      },
+      "o": [
+        {
+          "hi": "असुर विवाह",
+          "en": "Asura Vivaha"
+        },
+        {
+          "hi": "पैशाच विवाह",
+          "en": "Paishacha Vivaha"
+        },
+        {
+          "hi": "राक्षस विवाह",
+          "en": "Rakshasa Vivaha"
+        },
+        {
+          "hi": "गन्धर्व विवाह",
+          "en": "Gandharva Vivaha"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वैदिक काल में रित (Rta) यानी प्राकृतिक व नैतिक व्यवस्था का संरक्षक किस देवता को माना गया था?",
+        "en": "In the Vedic period, which deity was considered guardian of Rta (Cosmic Order)?"
+      },
+      "o": [
+        {
+          "hi": "वरुण",
+          "en": "Varuna"
+        },
+        {
+          "hi": "अग्नि",
+          "en": "Agni"
+        },
+        {
+          "hi": "इंद्र",
+          "en": "Indra"
+        },
+        {
+          "hi": "सूर्य",
+          "en": "Surya"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ऋग्वैदिक काल में उग्र (Ugra) शब्द का प्रयोग किसके लिए किया जाता था?",
+        "en": "In the Rigvedic period, the word 'Ugra' was used for whom?"
+      },
+      "o": [
+        {
+          "hi": "गुप्तचर",
+          "en": "Spy"
+        },
+        {
+          "hi": "पुलिस अधिकारी / अपराधी को पकड़ने वाला",
+          "en": "Police official / Officer catching criminals"
+        },
+        {
+          "hi": "ग्राम प्रमुख",
+          "en": "Village chief"
+        },
+        {
+          "hi": "न्यायाधीश",
+          "en": "Judge"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ऋग्वैदिक काल में गुप्तचरों को किस नाम से जाना जाता था?",
+        "en": "By what name were spies known in the Rigvedic period?"
+      },
+      "o": [
+        {
+          "hi": "सूत",
+          "en": "Suta"
+        },
+        {
+          "hi": "उग्र",
+          "en": "Ugra"
+        },
+        {
+          "hi": "स्पश",
+          "en": "Spasha"
+        },
+        {
+          "hi": "पालगल",
+          "en": "Palagala"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऋग्वेद के किस मण्डल में राजा सुदास और 10 राजाओं के युद्ध का वर्णन है?",
+        "en": "In which Mandala of Rigveda is the battle between King Sudas and 10 kings described?"
+      },
+      "o": [
+        {
+          "hi": "तीसरे मण्डल में",
+          "en": "In 3rd Mandala"
+        },
+        {
+          "hi": "दसवें मण्डल में",
+          "en": "In 10th Mandala"
+        },
+        {
+          "hi": "नौवें मण्डल में",
+          "en": "In 9th Mandala"
+        },
+        {
+          "hi": "सातवें मण्डल में",
+          "en": "In 7th Mandala"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऋग्वैदिक काल में मुख्य रूप से कौन सा व्यापार प्रचलित था?",
+        "en": "Which trade form was mainly prevalent during the Rigvedic period?"
+      },
+      "o": [
+        {
+          "hi": "वस्तु विनिमय प्रणाली (Barter System)",
+          "en": "Barter System"
+        },
+        {
+          "hi": "मुद्रा प्रणाली",
+          "en": "Monetary system"
+        },
+        {
+          "hi": "हुंडी प्रणाली",
+          "en": "Hundi system"
+        },
+        {
+          "hi": "क्रेडिट प्रणाली",
+          "en": "Credit system"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उत्तर वैदिक काल का प्रमुख केंद्र कौन सा क्षेत्र था?",
+        "en": "Which region was the major center during the Later Vedic period?"
+      },
+      "o": [
+        {
+          "hi": "सप्त सैंधव प्रदेश",
+          "en": "Sapt Saindhav region"
+        },
+        {
+          "hi": "मध्य देश (गंगा-यमुना दोआब)",
+          "en": "Madhyadesha (Ganga-Yamuna Doab)"
+        },
+        {
+          "hi": "दक्षिण भारत",
+          "en": "South India"
+        },
+        {
+          "hi": "गुजरात क्षेत्र",
+          "en": "Gujarat region"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वेदांग 'शिक्षा' का संबंध किससे है?",
+        "en": "The Vedanga 'Shiksha' is related to what?"
+      },
+      "o": [
+        {
+          "hi": "व्याकरण",
+          "en": "Grammar"
+        },
+        {
+          "hi": "छंद शास्त्र",
+          "en": "Metrics"
+        },
+        {
+          "hi": "उच्चारण एवं ध्वनिशास्त्र (Phonetics)",
+          "en": "Phonetics & Pronunciation"
+        },
+        {
+          "hi": "ज्योतिष शास्त्र",
+          "en": "Astronomy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वेदांग 'कल्प' का संबंध किससे है?",
+        "en": "The Vedanga 'Kalpa' is related to what?"
+      },
+      "o": [
+        {
+          "hi": "ध्वनिविज्ञान",
+          "en": "Phonetics"
+        },
+        {
+          "hi": "शब्द व्युत्पत्ति",
+          "en": "Etymology"
+        },
+        {
+          "hi": "ज्योतिष",
+          "en": "Astronomy"
+        },
+        {
+          "hi": "कर्मकांड एवं यज्ञीय नियम",
+          "en": "Rituals and sacrificial rules"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वेदांग 'निरुक्त' की रचना किसने की थी?",
+        "en": "Who composed the Vedanga 'Nirukta'?"
+      },
+      "o": [
+        {
+          "hi": "यास्क",
+          "en": "Yaska"
+        },
+        {
+          "hi": "पाणिनी",
+          "en": "Panini"
+        },
+        {
+          "hi": "पिंगल",
+          "en": "Pingala"
+        },
+        {
+          "hi": "लगध",
+          "en": "Lagadha"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रसिद्ध संस्कृत व्याकरण ग्रंथ 'अष्टाध्यायी' के लेखक कौन हैं?",
+        "en": "Who is the author of the famous Sanskrit grammar text 'Ashtadhyayi'?"
+      },
+      "o": [
+        {
+          "hi": "पतंजलि",
+          "en": "Patanjali"
+        },
+        {
+          "hi": "पाणिनी",
+          "en": "Panini"
+        },
+        {
+          "hi": "कात्यायन",
+          "en": "Katyayana"
+        },
+        {
+          "hi": "भर्तृहरि",
+          "en": "Bhartrihari"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ऋग्वैदिक काल में आजीवन अविवाहित रहने वाली महिलाओं को क्या कहा जाता था?",
+        "en": "What were women who remained unmarried throughout life called in the Rigvedic period?"
+      },
+      "o": [
+        {
+          "hi": "ब्रह्मवादिनी",
+          "en": "Brahmavadini"
+        },
+        {
+          "hi": "सद्योवाहा",
+          "en": "Sadyovaha"
+        },
+        {
+          "hi": "अमाजू",
+          "en": "Amaju"
+        },
+        {
+          "hi": "विश्ववारा",
+          "en": "Vishvavara"
+        }
+      ],
+      "a": 2
+    }
+  ]
+}

@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "आधुनिक भौतिकी और परमाणु / Modern Physics & Atomic Structure",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Modern Physics & Atomic Structure.",
+  "questions": [
+    {
+      "q": {
+        "hi": "कैथोड किरणों (Cathode Rays) की खोज किसने की थी?",
+        "en": "Cathode Rays were discovered by:"
+      },
+      "o": [
+        {
+          "hi": "सर विलियम क्रुक्स / जे. जे. थॉमसन",
+          "en": "Sir William Crookes / J. J. Thomson"
+        },
+        {
+          "hi": "अर्नेस्ट रदरफोर्ड",
+          "en": "Ernest Rutherford"
+        },
+        {
+          "hi": "जेम्स चैडविक",
+          "en": "James Chadwick"
+        },
+        {
+          "hi": "जॉन डाल्टन",
+          "en": "John Dalton"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कैथोड किरणें (Cathode Rays) वास्तव में किसकी तीव्र धाराएं होती हैं?",
+        "en": "Cathode Rays are streams of high-speed:"
+      },
+      "o": [
+        {
+          "hi": "ऋणावेशित इलेक्ट्रॉनों की (Electrons)",
+          "en": "Negatively charged Electrons"
+        },
+        {
+          "hi": "धनावेशित प्रोटॉनों की",
+          "en": "Positively charged Protons"
+        },
+        {
+          "hi": "न्यूट्रॉनों की",
+          "en": "Neutrons"
+        },
+        {
+          "hi": "फोटॉनों की",
+          "en": "Photons"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इलेक्ट्रॉन (Electron) की खोज किसने की थी?",
+        "en": "Who discovered the Electron in 1897?"
+      },
+      "o": [
+        {
+          "hi": "जे. जे. थॉमसन (J. J. Thomson)",
+          "en": "J. J. Thomson"
+        },
+        {
+          "hi": "ई. रदरफोर्ड",
+          "en": "E. Rutherford"
+        },
+        {
+          "hi": "जेम्स चैडविक",
+          "en": "James Chadwick"
+        },
+        {
+          "hi": "नील्स बोर",
+          "en": "Niels Bohr"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इलेक्ट्रॉन पर आवेश का मान सटीक रूप से तेल बूंद प्रयोग (Oil Drop Experiment) द्वारा किसने मापा था?",
+        "en": "Charge on electron was precisely measured via Oil Drop Experiment by:"
+      },
+      "o": [
+        {
+          "hi": "आर. ए. मिलिकन (R. A. Millikan)",
+          "en": "R. A. Millikan"
+        },
+        {
+          "hi": "जे. जे. थॉमसन",
+          "en": "J. J. Thomson"
+        },
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "हेनरी बेकरल",
+          "en": "Henri Becquerel"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इलेक्ट्रॉन का द्रव्यमान (Mass of Electron) कितना होता है?",
+        "en": "What is the rest mass of an Electron?"
+      },
+      "o": [
+        {
+          "hi": "9.1 × 10⁻³¹ kg",
+          "en": "9.1 × 10⁻³¹ kg"
+        },
+        {
+          "hi": "1.67 × 10⁻²⁷ kg",
+          "en": "1.67 × 10⁻²⁷ kg"
+        },
+        {
+          "hi": "1.6 × 10⁻¹⁹ kg",
+          "en": "1.6 × 10⁻¹⁹ kg"
+        },
+        {
+          "hi": "9.1 × 10⁻²८ kg",
+          "en": "9.1 × 10⁻²८ kg"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एनोड किरणों या कैनाल किरणों (Anode / Canal Rays) की खोज किसने की थी?",
+        "en": "Canal Rays / Anode Rays were discovered by:"
+      },
+      "o": [
+        {
+          "hi": "ई. गोल्डस्टीन (E. Goldstein - 1886)",
+          "en": "E. Goldstein"
+        },
+        {
+          "hi": "जे. जे. थॉमसन",
+          "en": "J. J. Thomson"
+        },
+        {
+          "hi": "जेम्स चैडविक",
+          "en": "James Chadwick"
+        },
+        {
+          "hi": "जॉन डाल्टन",
+          "en": "John Dalton"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रोटॉन (Proton) नाम किसने दिया तथा इसके नाभिकीय अस्तित्व का श्रेय किसे जाता है?",
+        "en": "The particle 'Proton' was named and identified in nucleus by:"
+      },
+      "o": [
+        {
+          "hi": "अर्नेस्ट रदरफोर्ड (Ernest Rutherford - 1919)",
+          "en": "Ernest Rutherford"
+        },
+        {
+          "hi": "गोल्डस्टीन",
+          "en": "Goldstein"
+        },
+        {
+          "hi": "थॉमसन",
+          "en": "Thomson"
+        },
+        {
+          "hi": "चैडविक",
+          "en": "Chadwick"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "न्यूट्रॉन (Neutron) की खोज किस वैज्ञानिक ने 1932 में बेरिलियम पर अल्फा कणों की बौछार करके की थी?",
+        "en": "Neutron was discovered in 1932 by:"
+      },
+      "o": [
+        {
+          "hi": "जेम्स चैडविक (James Chadwick)",
+          "en": "James Chadwick"
+        },
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "जे. जे. थॉमसन",
+          "en": "J. J. Thomson"
+        },
+        {
+          "hi": "एनरिको फर्मी",
+          "en": "Enrico Fermi"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "न्यूट्रॉन (Neutron) पर कितना विद्युत आवेश होता है?",
+        "en": "What is the electric charge on a Neutron?"
+      },
+      "o": [
+        {
+          "hi": "उदासीन / शून्य आवेश (Neutral / Zero Charge)",
+          "en": "Neutral / Zero Charge"
+        },
+        {
+          "hi": "+1.6 × 10⁻¹⁹ C",
+          "en": "+1.6 × 10⁻¹⁹ C"
+        },
+        {
+          "hi": "-1.6 × 10⁻¹⁹ C",
+          "en": "-1.6 × 10⁻¹⁹ C"
+        },
+        {
+          "hi": "+2 e",
+          "en": "+2 e"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "परमाणु के नाभिक (Atomic Nucleus) की खोज रदरफोर्ड ने किस प्रयोग द्वारा की थी?",
+        "en": "Rutherford discovered the atomic nucleus through which experiment?"
+      },
+      "o": [
+        {
+          "hi": "अल्फा कण प्रकीर्णन प्रयोग (Alpha Particle Scattering Experiment on Gold Foil)",
+          "en": "Alpha Particle Scattering Experiment on Gold Foil"
+        },
+        {
+          "hi": "तेल बूंद प्रयोग",
+          "en": "Oil Drop Experiment"
+        },
+        {
+          "hi": "कैथोड किरण नली प्रयोग",
+          "en": "Cathode Ray Tube Experiment"
+        },
+        {
+          "hi": "फोटोइलेक्ट्रिक प्रयोग",
+          "en": "Photoelectric Experiment"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "परमाणु के नाभिक में कौन-कौन से मूल कण उपस्थित होते हैं?",
+        "en": "Which fundamental particles reside inside the Atomic Nucleus (Nucleons)?"
+      },
+      "o": [
+        {
+          "hi": "प्रोटॉन और न्यूट्रॉन (Protons and Neutrons)",
+          "en": "Protons and Neutrons"
+        },
+        {
+          "hi": "इलेक्ट्रॉन और प्रोटॉन",
+          "en": "Electrons and Protons"
+        },
+        {
+          "hi": "केवल इलेक्ट्रॉन",
+          "en": "Only Electrons"
+        },
+        {
+          "hi": "इलेक्ट्रॉन, प्रोटॉन और न्यूट्रॉन",
+          "en": "Electrons, Protons and Neutrons"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "परमाणु संख्या (Atomic Number, Z) किसके बराबर होती है?",
+        "en": "Atomic Number (Z) of a neutral atom is equal to:"
+      },
+      "o": [
+        {
+          "hi": "नाभिक में प्रोटॉनों की संख्या (Number of Protons)",
+          "en": "Number of Protons in nucleus"
+        },
+        {
+          "hi": "न्यूट्रॉनों की संख्या",
+          "en": "Number of Neutrons"
+        },
+        {
+          "hi": "प्रोटॉन और न्यूट्रॉन का योग",
+          "en": "Protons + Neutrons"
+        },
+        {
+          "hi": "इलेक्ट्रॉन - प्रोटॉन",
+          "en": "Electrons - Protons"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "द्रव्यमान संख्या (Mass Number, A) किसके बराबर होती है?",
+        "en": "Mass Number (A) of an atom is defined as:"
+      },
+      "o": [
+        {
+          "hi": "प्रोटॉनों और न्यूट्रॉनों की कुल संख्या का योग (A = Z + N)",
+          "en": "Total number of Protons and Neutrons (A = Z + N)"
+        },
+        {
+          "hi": "केवल प्रोटॉनों की संख्या",
+          "en": "Only Protons"
+        },
+        {
+          "hi": "केवल न्यूट्रॉनों की संख्या",
+          "en": "Only Neutrons"
+        },
+        {
+          "hi": "केवल इलेक्ट्रॉनों की संख्या",
+          "en": "Only Electrons"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सस्थानिक (Isotopes) वे तत्व हैं जिनकी परमाणु संख्या (Z):",
+        "en": "Isotopes are atoms of the same element having:"
+      },
+      "o": [
+        {
+          "hi": "परमाणु संख्या (Z) समान परंतु द्रव्यमान संख्या (A) भिन्न होती है",
+          "en": "Same Atomic Number (Z) but different Mass Number (A)"
+        },
+        {
+          "hi": "द्रव्यमान संख्या समान तथा परमाणु संख्या भिन्न",
+          "en": "Same Mass Number but different Atomic Number"
+        },
+        {
+          "hi": "न्यूट्रॉन संख्या समान",
+          "en": "Same number of Neutrons"
+        },
+        {
+          "hi": "इलेक्ट्रॉन संख्या भिन्न",
+          "en": "Different number of Electrons"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन के तीन समस्थानिक कौन-कौन से हैं?",
+        "en": "What are the three isotopes of Hydrogen?"
+      },
+      "o": [
+        {
+          "hi": "प्रोशियम (¹H₁), ड्यूटेरियम (²H₁), ट्राइटियम (³H₁)",
+          "en": "Protium (¹H₁), Deuterium (²H₁), Tritium (³H₁)"
+        },
+        {
+          "hi": "अल्फा, बीटा, गामा",
+          "en": "Alpha, Beta, Gamma"
+        },
+        {
+          "hi": "ड्यूटेरियम, हीलियम, लिथियम",
+          "en": "Deuterium, Helium, Lithium"
+        },
+        {
+          "hi": "हाइड्रोजन, ऑक्सीजन, नाइट्रोजन",
+          "en": "Hydrogen, Oxygen, Nitrogen"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन का कौन सा समस्थानिक रेडियोधर्मी (Radioactive) होता है?",
+        "en": "Which isotope of Hydrogen is radioactive in nature?"
+      },
+      "o": [
+        {
+          "hi": "ट्राइटियम (³H₁ / Tritium)",
+          "en": "Tritium (³H₁)"
+        },
+        {
+          "hi": "प्रोशियम (¹H₁)",
+          "en": "Protium (¹H₁)"
+        },
+        {
+          "hi": "ड्यूटेरियम (²H₁)",
+          "en": "Deuterium (²H₁)"
+        },
+        {
+          "hi": "कोई भी नहीं",
+          "en": "None"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समभारिक (Isobars) वे परमाणु हैं जिनमें:",
+        "en": "Isobars are atoms of different elements having:"
+      },
+      "o": [
+        {
+          "hi": "द्रव्यमान संख्या (A) समान परंतु परमाणु संख्या (Z) भिन्न होती है",
+          "en": "Same Mass Number (A) but different Atomic Number (Z)"
+        },
+        {
+          "hi": "परमाणु संख्या समान परंतु द्रव्यमान संख्या भिन्न",
+          "en": "Same Atomic Number but different Mass Number"
+        },
+        {
+          "hi": "न्यूट्रॉन संख्या समान होती है",
+          "en": "Same number of Neutrons"
+        },
+        {
+          "hi": "इलेक्ट्रॉन संख्या समान होती है",
+          "en": "Same number of Electrons"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समन्यूट्रॉनिक (Isotones) वे नाभिक हैं जिनमें:",
+        "en": "Isotones are atomic nuclei that have:"
+      },
+      "o": [
+        {
+          "hi": "न्यूट्रॉनों की संख्या (N = A - Z) समान होती है",
+          "en": "Same number of Neutrons (N = A - Z)"
+        },
+        {
+          "hi": "प्रोटॉनों की संख्या समान होती है",
+          "en": "Same number of Protons"
+        },
+        {
+          "hi": "द्रव्यमान संख्या समान होती है",
+          "en": "Same Mass Number"
+        },
+        {
+          "hi": "आवेश समान होता है",
+          "en": "Same Charge"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पॉज़िट्रॉन (Positron) की खोज किसने की थी?",
+        "en": "Positron (Antiparticle of Electron) was discovered by:"
+      },
+      "o": [
+        {
+          "hi": "सी. डी. एंडरसन (C. D. Anderson - 1932)",
+          "en": "C. D. Anderson"
+        },
+        {
+          "hi": "जे. जे. थॉमसन",
+          "en": "J. J. Thomson"
+        },
+        {
+          "hi": "युकावा",
+          "en": "Hideki Yukawa"
+        },
+        {
+          "hi": "पॉली",
+          "en": "Wolfgang Pauli"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "न्यूट्रिनो और एंटीन्यूट्रिनो (Neutrino & Antineutrino) की परिकल्पना किसने दी थी?",
+        "en": "Hypothesis of Neutrino was proposed by:"
+      },
+      "o": [
+        {
+          "hi": "इंसाइन",
+          "en": "Einstein"
+        },
+        {
+          "hi": "वुल्फगैंग पॉली (Wolfgang Pauli - 1930)",
+          "en": "Wolfgang Pauli"
+        },
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "बोर",
+          "en": "Bohr"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नाभिकीय बलों (Nuclear Forces) के लिए मेसॉन सिद्धांत (Meson Theory) किसने दिया था?",
+        "en": "Meson Theory of Nuclear Forces was propounded by:"
+      },
+      "o": [
+        {
+          "hi": "सी. वी. रामन",
+          "en": "C. V. Raman"
+        },
+        {
+          "hi": "हिदेकी युकावा (Hideki Yukawa - 1935)",
+          "en": "Hideki Yukawa"
+        },
+        {
+          "hi": "एच. जे. भाभा",
+          "en": "H. J. Bhabha"
+        },
+        {
+          "hi": "एस. एन. बोस",
+          "en": "S. N. Bose"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रकाश-विद्युत प्रभाव (Photoelectric Effect) की खोज सर्वप्रथम किसने की थी?",
+        "en": "Photoelectric Effect was first observed experimentally by:"
+      },
+      "o": [
+        {
+          "hi": "अल्बर्ट आइंस्टीन",
+          "en": "Albert Einstein"
+        },
+        {
+          "hi": "हेनरिक हर्ट्ज़ / फिलिप लेनार्ड (Heinrich Hertz / Lenard)",
+          "en": "Heinrich Hertz / Lenard"
+        },
+        {
+          "hi": "मैक्स प्लांक",
+          "en": "Max Planck"
+        },
+        {
+          "hi": "न्यूटन",
+          "en": "Newton"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रकाश-विद्युत प्रभाव की सफल व्याख्या (क्वांटम सिद्धांत द्वारा) के लिए आइंस्टीन को किस वर्ष नोबेल पुरस्कार मिला?",
+        "en": "Albert Einstein was awarded Nobel Prize in Physics in 1921 for explaining:"
+      },
+      "o": [
+        {
+          "hi": "सापेक्षता का सिद्धांत",
+          "en": "Theory of Relativity"
+        },
+        {
+          "hi": "प्रकाश-विद्युत प्रभाव (Photoelectric Effect)",
+          "en": "Photoelectric Effect"
+        },
+        {
+          "hi": "ब्राउनियन गति",
+          "en": "Brownian Motion"
+        },
+        {
+          "hi": "विशिष्ट ऊष्मा",
+          "en": "Specific Heat"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "धातु की सतह से इलेक्ट्रॉन उत्सर्जित करने के लिए आवश्यक न्यूनतम ऊर्जा को क्या कहते हैं?",
+        "en": "Minimum energy required to emit an electron from a metal surface is:"
+      },
+      "o": [
+        {
+          "hi": "आयनीकरण विभव",
+          "en": "Ionization Potential"
+        },
+        {
+          "hi": "कार्य फलन (Work Function, Φ = h ν₀)",
+          "en": "Work Function (Φ = h ν₀)"
+        },
+        {
+          "hi": "देहली आवृत्ति",
+          "en": "Threshold Frequency"
+        },
+        {
+          "hi": "उत्सर्जन क्षमता",
+          "en": "Emissivity"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वह न्यूनतम आवृत्ति जिससे कम आवृत्ति का प्रकाश धातु पर पड़ने पर फोटोइलेक्ट्रॉन उत्सर्जित नहीं होते, कहलाती है:",
+        "en": "Minimum frequency of incident light required for photoelectric emission is:"
+      },
+      "o": [
+        {
+          "hi": "क्रांतिक आवृत्ति",
+          "en": "Critical Frequency"
+        },
+        {
+          "hi": "देहली आवृत्ति (Threshold Frequency, ν₀)",
+          "en": "Threshold Frequency (ν₀)"
+        },
+        {
+          "hi": "कट-ऑफ विभव",
+          "en": "Cut-off Potential"
+        },
+        {
+          "hi": "प्लांक आवृत्ति",
+          "en": "Planck Frequency"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आइंस्टीन का फोटोइलेक्ट्रिक समीकरण क्या है?",
+        "en": "Einstein's Photoelectric Equation relating KE_max, incident photon energy hν, and Work Function Φ is:"
+      },
+      "o": [
+        {
+          "hi": "KE_max = h ν + Φ",
+          "en": "KE_max = h ν + Φ"
+        },
+        {
+          "hi": "KE_max = h ν - Φ (या hν - hν₀)",
+          "en": "KE_max = h ν - Φ (or hν - hν₀)"
+        },
+        {
+          "hi": "KE_max = h ν / Φ",
+          "en": "KE_max = h ν / Φ"
+        },
+        {
+          "hi": "KE_max = ½ m v² h ν",
+          "en": "KE_max = ½ m v² h ν"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रकाश के क्वांटम / कण रूप को क्या कहा जाता है?",
+        "en": "A packet or quantum of electromagnetic / light energy is called:"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रॉन",
+          "en": "Electron"
+        },
+        {
+          "hi": "फोटॉन (Photon)",
+          "en": "Photon"
+        },
+        {
+          "hi": "प्रोटॉन",
+          "en": "Proton"
+        },
+        {
+          "hi": "फॉनॉन",
+          "en": "Phonon"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक फोटॉन की ऊर्जा (E) का सूत्र प्लांक के सिद्धांत अनुसार क्या है?",
+        "en": "Energy E of a single photon of frequency ν is given by:"
+      },
+      "o": [
+        {
+          "hi": "E = m c²",
+          "en": "E = m c²"
+        },
+        {
+          "hi": "E = h ν = h c / λ",
+          "en": "E = h ν = h c / λ"
+        },
+        {
+          "hi": "E = ½ h ν²",
+          "en": "E = ½ h ν²"
+        },
+        {
+          "hi": "E = h / λ",
+          "en": "E = h / λ"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्लांक नियतांक (Planck's Constant, h) का मान कितना होता है?",
+        "en": "What is the value of Planck's Constant (h)?"
+      },
+      "o": [
+        {
+          "hi": "1.6 × 10⁻¹⁹ J·s",
+          "en": "1.6 × 10⁻¹⁹ J·s"
+        },
+        {
+          "hi": "6.63 × 10⁻³⁴ J·s",
+          "en": "6.63 × 10⁻³⁴ J·s"
+        },
+        {
+          "hi": "6.67 × 10⁻¹¹ J·s",
+          "en": "6.67 × 10⁻¹¹ J·s"
+        },
+        {
+          "hi": "9.1 × 10⁻³¹ J·s",
+          "en": "9.1 × 10⁻³¹ J·s"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "डी-ब्रोग्ली (de Broglie) के अनुसार गतिशील कण के साथ सम्बद्ध तरंग की तरंगदैर्ध्य (λ) का सूत्र क्या है?",
+        "en": "According to de Broglie, wavelength λ associated with a moving particle of momentum p is:"
+      },
+      "o": [
+        {
+          "hi": "λ = p / h",
+          "en": "λ = p / h"
+        },
+        {
+          "hi": "λ = h / p = h / (m v)",
+          "en": "λ = h / p = h / (m v)"
+        },
+        {
+          "hi": "λ = h m v",
+          "en": "λ = h m v"
+        },
+        {
+          "hi": "λ = h / (m v²)",
+          "en": "λ = h / (m v²)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक्स-किरणों (X-Rays) का उत्पादन किस नली द्वारा किया जाता है?",
+        "en": "X-Rays are produced commercially in high vacuum using:"
+      },
+      "o": [
+        {
+          "hi": "क्रुक्स नली",
+          "en": "Crookes Tube"
+        },
+        {
+          "hi": "कूलिज नली (Coolidge Tube)",
+          "en": "Coolidge Tube"
+        },
+        {
+          "hi": "गीगर-मुलर नली",
+          "en": "Geiger-Muller Tube"
+        },
+        {
+          "hi": "साइक्लोट्रॉन",
+          "en": "Cyclotron"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक्स-किरणों (X-Rays) का उपयोग मुख्यतः कहाँ किया जाता है?",
+        "en": "X-Rays are widely used in:"
+      },
+      "o": [
+        {
+          "hi": "रेडियो प्रसारण में",
+          "en": "Radio broadcasting"
+        },
+        {
+          "hi": "चिकित्सा में अस्थिभंग (हड्डी टूटने) की जांच व कैंसर उपचार में",
+          "en": "Medical imaging for bone fractures & cancer therapy"
+        },
+        {
+          "hi": "टीवी रिमोट में",
+          "en": "TV remotes"
+        },
+        {
+          "hi": "जल शोधन में",
+          "en": "Water purification"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रेडियोधर्मिता (Radioactivity) की खोज 1896 में किस वैज्ञानिक ने की थी?",
+        "en": "Radioactivity was discovered in 1896 by:"
+      },
+      "o": [
+        {
+          "hi": "मैडम क्यूरी",
+          "en": "Madame Curie"
+        },
+        {
+          "hi": "हेनरी बेकरल (Henri Becquerel)",
+          "en": "Henri Becquerel"
+        },
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "पियरे क्यूरी",
+          "en": "Pierre Curie"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रेडियम (Radium) और पोलोनियम (Polonium) तत्वों की खोज का श्रेय किसे जाता है?",
+        "en": "Discovery of radioactive elements Radium and Polonium is credited to:"
+      },
+      "o": [
+        {
+          "hi": "हेनरी बेकरल",
+          "en": "Henri Becquerel"
+        },
+        {
+          "hi": "मैरी क्यूरी और पियरे क्यूरी (Marie & Pierre Curie)",
+          "en": "Marie & Pierre Curie"
+        },
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "ओटो हान",
+          "en": "Otto Hahn"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रेडियोधर्मी क्षय में उत्सर्जित अल्फा कण (Alpha Particle) वास्तव में क्या होता है?",
+        "en": "An Alpha particle (α) emitted in radioactive decay is:"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रॉन",
+          "en": "Electron"
+        },
+        {
+          "hi": "द्वि-धनावेशित हीलियम नाभिक (⁴He₂ / Doubly ionized Helium nucleus)",
+          "en": "Doubly ionized Helium nucleus (⁴He₂)"
+        },
+        {
+          "hi": "न्यूट्रॉन",
+          "en": "Neutron"
+        },
+        {
+          "hi": "विद्युतचुंबकीय फोटॉन",
+          "en": "Electromagnetic Photon"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रेडियोधर्मी क्षय में बीटा कण (Beta Particle, β) क्या होता है?",
+        "en": "A Beta particle (β⁻) emitted from nucleus is:"
+      },
+      "o": [
+        {
+          "hi": "हीलियम नाभिक",
+          "en": "Helium nucleus"
+        },
+        {
+          "hi": "तीव्रगामी इलेक्ट्रॉन (Fast moving Electron)",
+          "en": "Fast moving Electron"
+        },
+        {
+          "hi": "प्रोटॉन",
+          "en": "Proton"
+        },
+        {
+          "hi": "न्यूट्रॉन",
+          "en": "Neutron"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रेडियोधर्मी गामा किरणें (Gamma Rays, γ) क्या होती हैं?",
+        "en": "Gamma rays (γ) emitted during radioactive decay are:"
+      },
+      "o": [
+        {
+          "hi": "धनावेशित कण",
+          "en": "Positively charged particles"
+        },
+        {
+          "hi": "उच्च ऊर्जा वाली विद्युतचुंबकीय किरणें (High Energy Electromagnetic Radiation)",
+          "en": "High Energy Electromagnetic Radiation"
+        },
+        {
+          "hi": "ऋणावेशित कण",
+          "en": "Negatively charged particles"
+        },
+        {
+          "hi": "न्यूट्रॉन की धारा",
+          "en": "Stream of neutrons"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अल्फा, बीटा और गामा किरणों में सबसे अधिक वेधन क्षमता (Penetrating Power) किसकी होती है?",
+        "en": "Which radiation has the HIGHEST Penetrating Power?"
+      },
+      "o": [
+        {
+          "hi": "बीटा किरणें",
+          "en": "Beta Rays"
+        },
+        {
+          "hi": "गामा किरणें (Gamma Rays)",
+          "en": "Gamma Rays"
+        },
+        {
+          "hi": "अल्फा किरणें",
+          "en": "Alpha Rays"
+        },
+        {
+          "hi": "एक्स-किरणें",
+          "en": "X-Rays"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अल्फा, बीटा और गामा किरणों में सबसे अधिक आयनीकरण क्षमता (Ionizing Power) किसकी होती है?",
+        "en": "Which radiation has the HIGHEST Ionizing Power?"
+      },
+      "o": [
+        {
+          "hi": "गामा किरणें",
+          "en": "Gamma Rays"
+        },
+        {
+          "hi": "बीटा किरणें",
+          "en": "Beta Rays"
+        },
+        {
+          "hi": "अल्फा किरणें (Alpha Rays)",
+          "en": "Alpha Rays"
+        },
+        {
+          "hi": "पराबैंगनी किरणें",
+          "en": "UV Rays"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अल्फा कण के उत्सर्जन से मूल परमाणु की परमाणु संख्या (Z) और द्रव्यमान संख्या (A) में क्या परिवर्तन होता है?",
+        "en": "When a nucleus emits an Alpha particle, Z and A change as:"
+      },
+      "o": [
+        {
+          "hi": "A में कोई परिवर्तन नहीं होता",
+          "en": "No change in A"
+        },
+        {
+          "hi": "Z में 1 की वृद्धि होती है",
+          "en": "Z increases by 1"
+        },
+        {
+          "hi": "Z में 2 की कमी और A में 4 की कमी आती है",
+          "en": "Z decreases by 2, A decreases by 4"
+        },
+        {
+          "hi": "Z और A दोनों में 1 की कमी",
+          "en": "Z and A both decrease by 1"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बीटा कण (β⁻) के उत्सर्जन से परमाणु संख्या (Z) में क्या परिवर्तन होता है?",
+        "en": "When a nucleus emits a Beta particle (β⁻), Atomic Number Z:"
+      },
+      "o": [
+        {
+          "hi": "1 घट जाता है",
+          "en": "Decreases by 1"
+        },
+        {
+          "hi": "2 घट जाता है",
+          "en": "Decreases by 2"
+        },
+        {
+          "hi": "1 बढ़ जाता है (Z + 1)",
+          "en": "Increases by 1 (Z + 1)"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गामा किरणों (γ) के उत्सर्जन से परमाणु संख्या और द्रव्यमान संख्या पर क्या प्रभाव पड़ता है?",
+        "en": "Emission of Gamma rays causes what change in Z and A?"
+      },
+      "o": [
+        {
+          "hi": "A में 2 की कमी",
+          "en": "A decreases by 2"
+        },
+        {
+          "hi": "Z में 1 की कमी",
+          "en": "Z decreases by 1"
+        },
+        {
+          "hi": "कोई परिवर्तन नहीं होता (Z और A अपरिवर्तित रहते हैं)",
+          "en": "No change in both Z and A"
+        },
+        {
+          "hi": "Z और A दोनों दुगुने हो जाते हैं",
+          "en": "Both Z and A double"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रेडियोधर्मी पदार्थ का अर्ध-आयु काल (Half-life Period, T½) और क्षय नियतांक (λ) में क्या संबंध है?",
+        "en": "Relation between Half-life period T½ and Decay constant λ is:"
+      },
+      "o": [
+        {
+          "hi": "T½ = 0.693 × λ",
+          "en": "T½ = 0.693 × λ"
+        },
+        {
+          "hi": "T½ = λ / 0.693",
+          "en": "T½ = λ / 0.693"
+        },
+        {
+          "hi": "T½ = 0.693 / λ",
+          "en": "T½ = 0.693 / λ"
+        },
+        {
+          "hi": "T½ = 1 / λ²",
+          "en": "T½ = 1 / λ²"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जीवाश्मों, मृत वृक्षों और पुरानी पुरातात्विक वस्तुओं की आयु ज्ञात करने के लिए किस विधि का प्रयोग किया जाता है?",
+        "en": "Age of fossils and organic remains is determined using:"
+      },
+      "o": [
+        {
+          "hi": "पोटेशियम-आर्गन डेटिंग",
+          "en": "Potassium-Argon Dating"
+        },
+        {
+          "hi": "यूरेनियम डेटिंग",
+          "en": "Uranium Dating"
+        },
+        {
+          "hi": "रेडियो कार्बन डेटिंग (Carbon-14 Dating / C-14)",
+          "en": "Carbon-14 Dating (C-14)"
+        },
+        {
+          "hi": "सोडियम डेटिंग",
+          "en": "Sodium Dating"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी, चट्टानों और पुरानी ढांचों/उल्कापिंडों की आयु ज्ञात करने के लिए किस विधि का प्रयोग होता है?",
+        "en": "Age of Earth, rocks, and meteorites is determined using:"
+      },
+      "o": [
+        {
+          "hi": "नाइट्रोजन डेटिंग",
+          "en": "Nitrogen Dating"
+        },
+        {
+          "hi": "कार्बन-14 डेटिंग",
+          "en": "Carbon-14 Dating"
+        },
+        {
+          "hi": "यूरेनियम-लेड डेटिंग (Uranium-Lead Dating)",
+          "en": "Uranium-Lead Dating"
+        },
+        {
+          "hi": "हाइड्रोजन डेटिंग",
+          "en": "Hydrogen Dating"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रेडियोधर्मी विकिरण की माप और कणों की उपस्थिति का पता लगाने के लिए किस यंत्र का प्रयोग होता है?",
+        "en": "Radioactive radiation and particles are detected using:"
+      },
+      "o": [
+        {
+          "hi": "रेडार",
+          "en": "RADAR"
+        },
+        {
+          "hi": "सोनार",
+          "en": "SONAR"
+        },
+        {
+          "hi": "गीगर-मुलर काउंटर (Geiger-Muller Counter / GM Counter)",
+          "en": "Geiger-Muller Counter (GM Counter)"
+        },
+        {
+          "hi": "पैरोमीटर",
+          "en": "Pyrometer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नाभिकीय विखंडन (Nuclear Fission) की खोज 1938 में किन वैज्ञानिकों ने की थी?",
+        "en": "Nuclear Fission of Uranium-235 was discovered in 1938 by:"
+      },
+      "o": [
+        {
+          "hi": "आइंस्टीन",
+          "en": "Einstein"
+        },
+        {
+          "hi": "एनरिको फर्मी",
+          "en": "Enrico Fermi"
+        },
+        {
+          "hi": "ओटो हान और फ्रिट्ज़ स्ट्रॉसमान (Otto Hahn & Fritz Strassmann)",
+          "en": "Otto Hahn & Fritz Strassmann"
+        },
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यूरेनियम-235 (²³⁵U) पर मन्द गति वाले न्यूट्रॉन (Slow / Thermal Neutrons) की बौछार करने पर वह किन दो नाभिकों में टूटता है?",
+        "en": "When ²³⁵U absorbs a thermal neutron, it splits into:"
+      },
+      "o": [
+        {
+          "hi": "रेडियम और पोलोनियम",
+          "en": "Radium and Polonium"
+        },
+        {
+          "hi": "हीलियम और हाइड्रोजन",
+          "en": "Helium and Hydrogen"
+        },
+        {
+          "hi": "बेरियम (Ba-141) और क्रिप्टॉन (Kr-92) तथा 3 न्यूट्रॉन",
+          "en": "Barium (Ba-141) and Krypton (Kr-92) + 3 neutrons"
+        },
+        {
+          "hi": "सोडियम और क्लोरीन",
+          "en": "Sodium and Chlorine"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "परमाणु बम (Atom Bomb) किस सिद्धांत पर आधारित होता है?",
+        "en": "An Atom Bomb works on the principle of:"
+      },
+      "o": [
+        {
+          "hi": "अनियंत्रित नाभिकीय संलयन",
+          "en": "Uncontrolled Nuclear Fusion"
+        },
+        {
+          "hi": "नियंत्रित नाभिकीय संलयन",
+          "en": "Controlled Nuclear Fusion"
+        },
+        {
+          "hi": "अनियंत्रित नाभिकीय विखंडन शृंखला अभिक्रिया (Uncontrolled Nuclear Fission)",
+          "en": "Uncontrolled Nuclear Fission Chain Reaction"
+        },
+        {
+          "hi": "रासायनिक विस्फोट",
+          "en": "Chemical Explosion"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व का पहला परमाणु बम किस परियोजना (Manhattan Project) के तहत जे. रॉबर्ट ओपनहाइमर के नेतृत्व में बना था?",
+        "en": "First Atom Bomb was developed under Manhattan Project led by:"
+      },
+      "o": [
+        {
+          "hi": "एडवर्ड टेलर",
+          "en": "Edward Teller"
+        },
+        {
+          "hi": "एनरिको फर्मी",
+          "en": "Enrico Fermi"
+        },
+        {
+          "hi": "जे. रॉबर्ट ओपनहाइमर (J. Robert Oppenheimer)",
+          "en": "J. Robert Oppenheimer"
+        },
+        {
+          "hi": "अल्बर्ट आइंस्टीन",
+          "en": "Albert Einstein"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "द्वितीय विश्व युद्ध के दौरान हिरोशिमा और नागासाकी पर गिराए गए परमाणु बमों के नाम क्या थे?",
+        "en": "Code names of atom bombs dropped on Hiroshima & Nagasaki in Aug 1945 were:"
+      },
+      "o": [
+        {
+          "hi": "'अल्फा' और 'बीटा'",
+          "en": "'Alpha' and 'Beta'"
+        },
+        {
+          "hi": "'तस्वीर' और 'धमाका'",
+          "en": "'Picture' and 'Blast'"
+        },
+        {
+          "hi": "'लिटिल बॉय' (हिरोशिमा) और 'फैट मैन' (नागासाकी)",
+          "en": "'Little Boy' (Hiroshima) and 'Fat Man' (Nagasaki)"
+        },
+        {
+          "hi": "'सुपरमैन' और 'आयरनमैन'",
+          "en": "'Superman' and 'Ironman'"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "परमाणु भट्टी या न्यूक्लियर रिएक्टर (Nuclear Reactor) में किस सिद्धांत का प्रयोग होता है?",
+        "en": "A Nuclear Reactor operates on the principle of:"
+      },
+      "o": [
+        {
+          "hi": "नाभिकीय संलयन",
+          "en": "Nuclear Fusion"
+        },
+        {
+          "hi": "अनियंत्रित विखंडन",
+          "en": "Uncontrolled Fission"
+        },
+        {
+          "hi": "नियंत्रित नाभिकीय विखंडन (Controlled Nuclear Fission)",
+          "en": "Controlled Nuclear Fission Chain Reaction"
+        },
+        {
+          "hi": "रेडियोधर्मी क्षय",
+          "en": "Radioactive Decay"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व का पहला न्यूक्लियर रिएक्टर (Chicago Pile-1, 1942) किसने बनाया था?",
+        "en": "First Nuclear Reactor was built in 1942 at Chicago by:"
+      },
+      "o": [
+        {
+          "hi": "ओटो हान",
+          "en": "Otto Hahn"
+        },
+        {
+          "hi": "ओपनहाइमर",
+          "en": "Oppenheimer"
+        },
+        {
+          "hi": "एनरिको फर्मी (Enrico Fermi)",
+          "en": "Enrico Fermi"
+        },
+        {
+          "hi": "नील्स बोर",
+          "en": "Niels Bohr"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "न्यूक्लियर रिएक्टर में न्यूट्रॉनों की गति को धीमा (मन्दित) करने के लिए मंदक (Moderator) के रूप में किसका प्रयोग होता है?",
+        "en": "Which materials are used as Moderators in nuclear reactors to slow down neutrons?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम द्रव",
+          "en": "Liquid Sodium"
+        },
+        {
+          "hi": "कैडमियम और बोरोन छड़ें",
+          "en": "Cadmium and Boron rods"
+        },
+        {
+          "hi": "भारी जल (Heavy Water, D₂O) और ग्रैफाइट (Graphite)",
+          "en": "Heavy Water (D₂O) and Graphite"
+        },
+        {
+          "hi": "यूरेनियम-235",
+          "en": "Uranium-235"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "न्यूक्लियर रिएक्टर में विखंडन दर को नियंत्रित करने के लिए नियंत्रक छड़ों (Control Rods) के रूप में किसका उपयोग होता है?",
+        "en": "Rods used as Control Rods to absorb excess neutrons in nuclear reactors are:"
+      },
+      "o": [
+        {
+          "hi": "ग्रैफाइट",
+          "en": "Graphite"
+        },
+        {
+          "hi": "भारी जल",
+          "en": "Heavy Water"
+        },
+        {
+          "hi": "कैडमियम (Cadmium) और बोरोन (Boron) छड़ें",
+          "en": "Cadmium and Boron rods"
+        },
+        {
+          "hi": "प्लूटोनियम",
+          "en": "Plutonium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नाभिकीय संलयन (Nuclear Fusion) प्रक्रिया में क्या होता है?",
+        "en": "In Nuclear Fusion process:"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रॉन उत्सर्जित होते हैं",
+          "en": "Electrons emit"
+        },
+        {
+          "hi": "एक भारी नाभिक दो भागों में टूटता है",
+          "en": "A heavy nucleus splits"
+        },
+        {
+          "hi": "दो या अधिक हल्के नाभिक जुड़कर एक भारी नाभिक बनाते हैं तथा अपार ऊर्जा मुक्त करते हैं",
+          "en": "Two or more light nuclei combine to form a heavier nucleus releasing huge energy"
+        },
+        {
+          "hi": "अल्फा कण नष्ट होते हैं",
+          "en": "Alpha particles destroy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सूर्य और तारों की अपार ऊर्जा का मुख्य स्रोत कौन सी प्रक्रिया है?",
+        "en": "Primary energy source of the Sun and stars is:"
+      },
+      "o": [
+        {
+          "hi": "रासायनिक दहन",
+          "en": "Chemical Combustion"
+        },
+        {
+          "hi": "नाभिकीय विखंडन",
+          "en": "Nuclear Fission"
+        },
+        {
+          "hi": "नाभिकीय संलयन (Nuclear Fusion - प्रोटॉन-प्रोटॉन चक्र)",
+          "en": "Nuclear Fusion (Proton-Proton chain)"
+        },
+        {
+          "hi": "गुरुत्वीय संकुचन",
+          "en": "Gravitational Contraction"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन बम (Hydrogen Bomb) किस सिद्धांत पर आधारित होता है?",
+        "en": "A Hydrogen Bomb is based on the principle of:"
+      },
+      "o": [
+        {
+          "hi": "रासायनिक प्रतिक्रिया",
+          "en": "Chemical Reaction"
+        },
+        {
+          "hi": "नियंत्रित विखंडन",
+          "en": "Controlled Fission"
+        },
+        {
+          "hi": "अनियंत्रित विखंडन",
+          "en": "Uncontrolled Fission"
+        },
+        {
+          "hi": "अनियंत्रित नाभिकीय संलयन (Uncontrolled Nuclear Fusion)",
+          "en": "Uncontrolled Nuclear Fusion"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन बम का आविष्कार किस वैज्ञानिक ने किया था?",
+        "en": "Hydrogen Bomb was invented in 1952 by:"
+      },
+      "o": [
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "ओपनहाइमर",
+          "en": "Oppenheimer"
+        },
+        {
+          "hi": "फर्मी",
+          "en": "Fermi"
+        },
+        {
+          "hi": "एडवर्ड टेलर (Edward Teller)",
+          "en": "Edward Teller"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नाभिकीय संलयन प्रक्रिया के लिए अत्यंत उच्च ताप (~10⁷ K) तथा अति-उच्च दाब क्यों आवश्यक है?",
+        "en": "Why are extremely high temperature (~10⁷ K) and pressure required for nuclear fusion?"
+      },
+      "o": [
+        {
+          "hi": "नाभिक को ठंडा करने के लिए",
+          "en": "To cool the nucleus"
+        },
+        {
+          "hi": "इलेक्ट्रॉन हटाने के लिए",
+          "en": "To remove electrons"
+        },
+        {
+          "hi": "न्यूट्रॉन बनाने के लिए",
+          "en": "To form neutrons"
+        },
+        {
+          "hi": "धनावेशित नाभिकों के बीच स्थिरविद्युत प्रतिकर्षण बल को पार करने के लिए",
+          "en": "To overcome electrostatic repulsion between positively charged nuclei"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कृत्रिम तत्व रूपांतरण (Artificial Transmutation / Radioactivity) की खोज किसने की थी?",
+        "en": "Artificial Radioactivity was discovered by:"
+      },
+      "o": [
+        {
+          "hi": "चैडविक",
+          "en": "Chadwick"
+        },
+        {
+          "hi": "मैडम क्यूरी",
+          "en": "Madame Curie"
+        },
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "आइरीन जोलियट क्यूरी और फ्रेडरिक जोलियट (Irene Joliot-Curie & Frederic Joliot)",
+          "en": "Irene Joliot-Curie & Frederic Joliot"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कैंसर के इलाज में (Radiation Therapy) किस रेडियोधर्मी समस्थानिक का उपयोग किया जाता है?",
+        "en": "Which radioactive isotope is commonly used in Radiation Therapy for cancer?"
+      },
+      "o": [
+        {
+          "hi": "यूरैनियम-238",
+          "en": "Uranium-238"
+        },
+        {
+          "hi": "सोडियम-24",
+          "en": "Sodium-24"
+        },
+        {
+          "hi": "कार्बन-14",
+          "en": "Carbon-14"
+        },
+        {
+          "hi": "कोबाल्ट-60 (Cobalt-60) और आयोडीन-131",
+          "en": "Cobalt-60 and Iodine-131"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "थायरॉइड ग्रंथि के कैंसर और विकारों के इलाज में किस समस्थानिक का प्रयोग होता है?",
+        "en": "Which isotope is used to diagnose and treat Thyroid gland disorders?"
+      },
+      "o": [
+        {
+          "hi": "लोहा-59",
+          "en": "Iron-59"
+        },
+        {
+          "hi": "कोबाल्ट-60",
+          "en": "Cobalt-60"
+        },
+        {
+          "hi": "फॉस्फोरस-32",
+          "en": "Phosphorus-32"
+        },
+        {
+          "hi": "आयोडीन-131 (Iodine-131)",
+          "en": "Iodine-131"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रक्त प्रवाह में रुकावट या थक्के का पता लगाने के लिए किस ट्रेसर का उपयोग किया जाता है?",
+        "en": "Which radioisotope tracer is used to detect blood clots in the circulatory system?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन-14",
+          "en": "Carbon-14"
+        },
+        {
+          "hi": "कोबाल्ट-60",
+          "en": "Cobalt-60"
+        },
+        {
+          "hi": "आयोडीन-131",
+          "en": "Iodine-131"
+        },
+        {
+          "hi": "सोडियम-24 (Sodium-24)",
+          "en": "Sodium-24"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रक्त कैंसर (Leukemia) के उपचार में किस रेडियोधर्मी समस्थानिक का उपयोग होता है?",
+        "en": "Which radioisotope is used in the treatment of Leukemia (Blood Cancer)?"
+      },
+      "o": [
+        {
+          "hi": "यूरेनियम-235",
+          "en": "Uranium-235"
+        },
+        {
+          "hi": "सोडियम-24",
+          "en": "Sodium-24"
+        },
+        {
+          "hi": "आयोडीन-131",
+          "en": "Iodine-131"
+        },
+        {
+          "hi": "फॉस्फोरस-32 (Phosphorus-32) और कोबाल्ट-60",
+          "en": "Phosphorus-32 and Cobalt-60"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शुद्ध अर्धचालक (Intrinsic Semiconductors) की चालकता परम शून्य ताप (0 K) पर कितनी होती है?",
+        "en": "At Absolute Zero (0 K), electrical conductivity of a pure Intrinsic Semiconductor is:"
+      },
+      "o": [
+        {
+          "hi": "अतिचालक के समान",
+          "en": "Equal to superconductors"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "धातुओं के बराबर",
+          "en": "Equal to metals"
+        },
+        {
+          "hi": "शून्य (यह पूर्ण अचालक/इंसुलेटर की तरह व्यवहार करता है)",
+          "en": "Zero (behaves as a perfect Insulator)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शुद्ध अर्धचालक (जैसे जर्मेनियम या सिलिकॉन) में अशुद्धि मिलाने की प्रक्रिया को क्या कहते हैं?",
+        "en": "Process of deliberately adding impurity atoms to a pure semiconductor is:"
+      },
+      "o": [
+        {
+          "hi": "प्रशीतन",
+          "en": "Refrigeration"
+        },
+        {
+          "hi": "आयनन",
+          "en": "Ionization"
+        },
+        {
+          "hi": "मिश्रण",
+          "en": "Blending"
+        },
+        {
+          "hi": "डोपिंग / मादन (Doping)",
+          "en": "Doping"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "n-प्रकार के अर्धचालक (n-type Semiconductor) बनाने के लिए किस संयोजकता वाली अशुद्धि मिलाई जाती है?",
+        "en": "To obtain an n-type semiconductor, pure silicon/germanium is doped with:"
+      },
+      "o": [
+        {
+          "hi": "शून्य संयोजी",
+          "en": "Zero valent"
+        },
+        {
+          "hi": "त्रिसंयोजी अशुद्धि",
+          "en": "Trivalent impurity"
+        },
+        {
+          "hi": "द्विसंयोजी अशुद्धि",
+          "en": "Divalent impurity"
+        },
+        {
+          "hi": "पंचसंयोजी अशुद्धि (Pentavalent impurity - जैसे फास्फोरस, आर्सेनिक, एंटीमनी)",
+          "en": "Pentavalent impurity (e.g., Phosphorus, Arsenic, Antimony)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "p-प्रकार के अर्धचालक (p-type Semiconductor) बनाने के लिए किस संयोजकता वाली अशुद्धि मिलाई जाती है?",
+        "en": "To obtain a p-type semiconductor, pure silicon is doped with:"
+      },
+      "o": [
+        {
+          "hi": "अक्रिय गैस",
+          "en": "Inert gas"
+        },
+        {
+          "hi": "पंचसंयोजी अशुद्धि",
+          "en": "Pentavalent impurity"
+        },
+        {
+          "hi": "चतुःसंयोजी अशुद्धि",
+          "en": "Tetravalent impurity"
+        },
+        {
+          "hi": "त्रिसंयोजी अशुद्धि (Trivalent impurity - जैसे बोरॉन, एल्युमीनियम, गैलियम, इंडियम)",
+          "en": "Trivalent impurity (e.g., Boron, Aluminum, Gallium, Indium)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "n-प्रकार के अर्धचालक में बहुसंख्यक आवेश वाहक (Majority Charge Carriers) कौन होते हैं?",
+        "en": "In an n-type semiconductor, majority charge carriers are:"
+      },
+      "o": [
+        {
+          "hi": "न्यूट्रॉन",
+          "en": "Neutrons"
+        },
+        {
+          "hi": "होल / कोटर (Holes)",
+          "en": "Holes"
+        },
+        {
+          "hi": "धनावेशित आयन",
+          "en": "Positive Ions"
+        },
+        {
+          "hi": "मुक्त इलेक्ट्रॉन (Free Electrons)",
+          "en": "Free Electrons"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "p-प्रकार के अर्धचालक में बहुसंख्यक आवेश वाहक (Majority Charge Carriers) कौन होते हैं?",
+        "en": "In a p-type semiconductor, majority charge carriers are:"
+      },
+      "o": [
+        {
+          "hi": "अल्फा कण",
+          "en": "Alpha particles"
+        },
+        {
+          "hi": "मुक्त इलेक्ट्रॉन",
+          "en": "Free Electrons"
+        },
+        {
+          "hi": "प्रोटॉन",
+          "en": "Protons"
+        },
+        {
+          "hi": "होल या कोटर (Holes)",
+          "en": "Holes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रकाश उत्सर्जक डायोड (LED - Light Emitting Diode) अग्र अभिनत (Forward Bias) में विद्युत ऊर्जा को किसमें बदलता है?",
+        "en": "A Light Emitting Diode (LED) under forward bias converts electrical energy directly into:"
+      },
+      "o": [
+        {
+          "hi": "नाभिकीय ऊर्जा",
+          "en": "Nuclear Energy"
+        },
+        {
+          "hi": "यांत्रिक ऊर्जा",
+          "en": "Mechanical Energy"
+        },
+        {
+          "hi": "ध्वनि ऊर्जा",
+          "en": "Sound Energy"
+        },
+        {
+          "hi": "प्रकाश ऊर्जा (Light Energy)",
+          "en": "Light Energy"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सोलर सेल (Solar Cell / Photovoltaic Cell) किसका बना p-n संधि डायोड है?",
+        "en": "A Solar Cell is a p-n junction diode made usually of Silicon that:"
+      },
+      "o": [
+        {
+          "hi": "वोल्टेज घटाता है",
+          "en": "Decreases voltage"
+        },
+        {
+          "hi": "विद्युत ऊर्जा को प्रकाश में बदलता है",
+          "en": "Converts electricity to light"
+        },
+        {
+          "hi": "ऊष्मा को ध्वनि में बदलता है",
+          "en": "Converts heat to sound"
+        },
+        {
+          "hi": "सूर्य के प्रकाश को सीधे विद्युत ऊर्जा में बदलता है",
+          "en": "Converts sunlight directly into electrical energy"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लेजर (LASER) का पूरा नाम क्या है?",
+        "en": "What is the full form of LASER?"
+      },
+      "o": [
+        {
+          "hi": "Long Atomic Source of Radiation",
+          "en": "Long Atomic Source of Radiation"
+        },
+        {
+          "hi": "Light Absorption by Solar Emission Energy",
+          "en": "Light Absorption by Solar Emission Energy"
+        },
+        {
+          "hi": "Linear Amplification of Sound and Energy",
+          "en": "Linear Amplification of Sound and Energy"
+        },
+        {
+          "hi": "Light Amplification by Stimulated Emission of Radiation",
+          "en": "Light Amplification by Stimulated Emission of Radiation"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नेनोटेक्नोलॉजी (Nanotechnology) में नैनो स्केल का आकार परिमाण कितना होता है?",
+        "en": "In Nanotechnology, the nanoscale range refers to dimensions of:"
+      },
+      "o": [
+        {
+          "hi": "1 मीटर से 10 मीटर",
+          "en": "1 m to 10 m"
+        },
+        {
+          "hi": "1 मिलीमीटर से 1 सेमी",
+          "en": "1 mm to 1 cm"
+        },
+        {
+          "hi": "1 एंगस्ट्रॉम से कम",
+          "en": "Less than 1 Å"
+        },
+        {
+          "hi": "1 नैनोमीटर से 100 नैनोमीटर (1 nm to 100 nm / 10⁻⁹ m)",
+          "en": "1 nanometer to 100 nanometers (1 nm to 100 nm)"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}

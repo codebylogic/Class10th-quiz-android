@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "गति, बल और न्यूटन के नियम / Motion, Force & Laws of Motion",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Motion, Force & Laws of Motion.",
+  "questions": [
+    {
+      "q": {
+        "hi": "वस्तु द्वारा तय की गई पथ की कुल लंबाई को क्या कहते हैं?",
+        "en": "What is the total length of the path traversed by an object called?"
+      },
+      "o": [
+        {
+          "hi": "दूरी (Distance)",
+          "en": "Distance"
+        },
+        {
+          "hi": "विस्थापन (Displacement)",
+          "en": "Displacement"
+        },
+        {
+          "hi": "वेग (Velocity)",
+          "en": "Velocity"
+        },
+        {
+          "hi": "त्वरण (Acceleration)",
+          "en": "Acceleration"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वस्तु की प्रारंभिक और अंतिम स्थिति के बीच की न्यूनतम दूरी को क्या कहते हैं?",
+        "en": "What is the shortest distance between the initial and final position of an object called?"
+      },
+      "o": [
+        {
+          "hi": "विस्थापन",
+          "en": "Displacement"
+        },
+        {
+          "hi": "दूरी",
+          "en": "Distance"
+        },
+        {
+          "hi": "चाल",
+          "en": "Speed"
+        },
+        {
+          "hi": "त्वरण",
+          "en": "Acceleration"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विस्थापन के संदर्भ में कौन सा कथन सत्य है?",
+        "en": "Which statement is true regarding displacement?"
+      },
+      "o": [
+        {
+          "hi": "यह शून्य, धनात्मक या ऋणात्मक हो सकता है",
+          "en": "It can be zero, positive, or negative"
+        },
+        {
+          "hi": "यह केवल धनात्मक हो सकता है",
+          "en": "It can only be positive"
+        },
+        {
+          "hi": "यह हमेशा दूरी से बड़ा होता है",
+          "en": "It is always greater than distance"
+        },
+        {
+          "hi": "यह एक अदिश राशि है",
+          "en": "It is a scalar quantity"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दूरी और विस्थापन का अनुपात (विस्थापन / दूरी) हमेशा कैसा होता है?",
+        "en": "The ratio of displacement to distance is always:"
+      },
+      "o": [
+        {
+          "hi": "1 के बराबर या 1 से कम (≤ 1)",
+          "en": "Less than or equal to 1 (≤ 1)"
+        },
+        {
+          "hi": "हमेशा 1 से बड़ा",
+          "en": "Always greater than 1"
+        },
+        {
+          "hi": "हमेशा 0 के बराबर",
+          "en": "Always equal to 0"
+        },
+        {
+          "hi": "1 के बराबर या 1 से अधिक (≥ 1)",
+          "en": "Greater than or equal to 1 (≥ 1)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इकाई समय में तय की गई दूरी को क्या कहते हैं?",
+        "en": "What is the distance traveled per unit time called?"
+      },
+      "o": [
+        {
+          "hi": "चाल (Speed)",
+          "en": "Speed"
+        },
+        {
+          "hi": "वेग (Velocity)",
+          "en": "Velocity"
+        },
+        {
+          "hi": "त्वरण (Acceleration)",
+          "en": "Acceleration"
+        },
+        {
+          "hi": "संवेग (Momentum)",
+          "en": "Momentum"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इकाई समय में हुए विस्थापन को क्या कहते हैं?",
+        "en": "What is the displacement per unit time called?"
+      },
+      "o": [
+        {
+          "hi": "वेग (Velocity)",
+          "en": "Velocity"
+        },
+        {
+          "hi": "चाल",
+          "en": "Speed"
+        },
+        {
+          "hi": "त्वरण",
+          "en": "Acceleration"
+        },
+        {
+          "hi": "बल",
+          "en": "Force"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वेग में परिवर्तन की दर को क्या कहा जाता है?",
+        "en": "What is the rate of change of velocity called?"
+      },
+      "o": [
+        {
+          "hi": "त्वरण (Acceleration)",
+          "en": "Acceleration"
+        },
+        {
+          "hi": "चाल",
+          "en": "Speed"
+        },
+        {
+          "hi": "संवेग",
+          "en": "Momentum"
+        },
+        {
+          "hi": "बल",
+          "en": "Force"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ऋणात्मक त्वरण (Negative Acceleration) को किस नाम से जाना जाता है?",
+        "en": "Negative acceleration is also known as:"
+      },
+      "o": [
+        {
+          "hi": "मंदन (Retardation / Deceleration)",
+          "en": "Retardation / Deceleration"
+        },
+        {
+          "hi": "शून्य त्वरण",
+          "en": "Zero acceleration"
+        },
+        {
+          "hi": "समान वेग",
+          "en": "Uniform velocity"
+        },
+        {
+          "hi": "आवर्ती गति",
+          "en": "Periodic motion"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गति का प्रथम समीकरण कौन सा है?",
+        "en": "Which is the first equation of motion?"
+      },
+      "o": [
+        {
+          "hi": "v = u + at",
+          "en": "v = u + at"
+        },
+        {
+          "hi": "s = ut + ½ at²",
+          "en": "s = ut + ½ at²"
+        },
+        {
+          "hi": "v² = u² + 2as",
+          "en": "v² = u² + 2as"
+        },
+        {
+          "hi": "F = ma",
+          "en": "F = ma"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विस्थापन, समय और त्वरण से संबंधित गति का द्वितीय समीकरण क्या है?",
+        "en": "What is the second equation of motion relating displacement, time, and acceleration?"
+      },
+      "o": [
+        {
+          "hi": "s = ut + ½ at²",
+          "en": "s = ut + ½ at²"
+        },
+        {
+          "hi": "v = u + at",
+          "en": "v = u + at"
+        },
+        {
+          "hi": "v² = u² + 2as",
+          "en": "v² = u² + 2as"
+        },
+        {
+          "hi": "s = (u + v)t",
+          "en": "s = (u + v)t"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गति का तृतीय समीकरण v² = u² + 2as किसके बीच संबंध स्थापित करता है?",
+        "en": "The third equation of motion v² = u² + 2as establishes a relationship between:"
+      },
+      "o": [
+        {
+          "hi": "वेग और विस्थापन",
+          "en": "Velocity and Displacement"
+        },
+        {
+          "hi": "वेग और समय",
+          "en": "Velocity and Time"
+        },
+        {
+          "hi": "स्थिति और समय",
+          "en": "Position and Time"
+        },
+        {
+          "hi": "बल और त्वरण",
+          "en": "Force and Acceleration"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "न्यूटन के गति का प्रथम नियम किस नाम से जाना जाता है?",
+        "en": "Newton's first law of motion is also known as:"
+      },
+      "o": [
+        {
+          "hi": "जड़त्व का नियम (Law of Inertia)",
+          "en": "Law of Inertia"
+        },
+        {
+          "hi": "संवेग का नियम",
+          "en": "Law of Momentum"
+        },
+        {
+          "hi": "क्रिया-प्रतिक्रिया का नियम",
+          "en": "Law of Action-Reaction"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण का नियम",
+          "en": "Law of Gravitation"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किसी वस्तु का वह गुण जो उसकी विराम या गति की अवस्था में परिवर्तन का विरोध करता है, क्या कहलाता है?",
+        "en": "The property of an object to resist changes in its state of rest or motion is called:"
+      },
+      "o": [
+        {
+          "hi": "जड़त्व (Inertia)",
+          "en": "Inertia"
+        },
+        {
+          "hi": "बल (Force)",
+          "en": "Force"
+        },
+        {
+          "hi": "संवेग (Momentum)",
+          "en": "Momentum"
+        },
+        {
+          "hi": "त्वरण (Acceleration)",
+          "en": "Acceleration"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बस के अचानक चलने पर यात्रियों का पीछे की ओर झुकना किसका उदाहरण है?",
+        "en": "Passengers leaning backward when a bus suddenly starts is an example of:"
+      },
+      "o": [
+        {
+          "hi": "विराम का जड़त्व (Inertia of Rest)",
+          "en": "Inertia of Rest"
+        },
+        {
+          "hi": "गति का जड़त्व (Inertia of Motion)",
+          "en": "Inertia of Motion"
+        },
+        {
+          "hi": "दिशा का जड़त्व",
+          "en": "Inertia of Direction"
+        },
+        {
+          "hi": "संवेग संरक्षण",
+          "en": "Conservation of Momentum"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चलती हुई गाड़ी के अचानक रुकने पर यात्री का आगे की ओर गिरना किसका उदाहरण है?",
+        "en": "A passenger falling forward when a moving vehicle stops suddenly is an example of:"
+      },
+      "o": [
+        {
+          "hi": "गति का जड़त्व (Inertia of Motion)",
+          "en": "Inertia of Motion"
+        },
+        {
+          "hi": "विराम का जड़त्व",
+          "en": "Inertia of Rest"
+        },
+        {
+          "hi": "दिशा का जड़त्व",
+          "en": "Inertia of Direction"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण",
+          "en": "Gravitation"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दरी को छड़ी से पीटने पर धूल के कणों का अलग होना न्यूटन के किस नियम पर आधारित है?",
+        "en": "Dust particles separating from a carpet when beaten with a stick is based on which of Newton's laws?"
+      },
+      "o": [
+        {
+          "hi": "प्रथम नियम (First Law)",
+          "en": "First Law"
+        },
+        {
+          "hi": "द्वितीय नियम (Second Law)",
+          "en": "Second Law"
+        },
+        {
+          "hi": "तृतीय नियम (Third Law)",
+          "en": "Third Law"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण नियम",
+          "en": "Law of Gravitation"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बल की परिभाषा न्यूटन के किस नियम से मिलती है?",
+        "en": "The definition of Force is derived from which of Newton's laws?"
+      },
+      "o": [
+        {
+          "hi": "प्रथम नियम (First Law)",
+          "en": "First Law"
+        },
+        {
+          "hi": "द्वितीय नियम (Second Law)",
+          "en": "Second Law"
+        },
+        {
+          "hi": "तृतीय नियम (Third Law)",
+          "en": "Third Law"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण नियम",
+          "en": "Law of Gravitation"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बल का व्यंजक (F = ma) न्यूटन के किस नियम से प्राप्त होता है?",
+        "en": "The formula for Force (F = ma) is derived from which of Newton's laws?"
+      },
+      "o": [
+        {
+          "hi": "द्वितीय नियम (Second Law)",
+          "en": "Second Law"
+        },
+        {
+          "hi": "प्रथम नियम",
+          "en": "First Law"
+        },
+        {
+          "hi": "तृतीय नियम",
+          "en": "Third Law"
+        },
+        {
+          "hi": "संवेग संरक्षण का नियम",
+          "en": "Law of Conservation of Momentum"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किसी वस्तु के द्रव्यमान और वेग के गुणनफल को क्या कहते हैं?",
+        "en": "The product of mass and velocity of an object is called:"
+      },
+      "o": [
+        {
+          "hi": "संवेग (Momentum)",
+          "en": "Momentum"
+        },
+        {
+          "hi": "आवेग (Impulse)",
+          "en": "Impulse"
+        },
+        {
+          "hi": "बल (Force)",
+          "en": "Force"
+        },
+        {
+          "hi": "कार्य (Work)",
+          "en": "Work"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संवेग (Momentum) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of Momentum?"
+      },
+      "o": [
+        {
+          "hi": "kg·m/s²",
+          "en": "kg·m/s²"
+        },
+        {
+          "hi": "kg·m/s",
+          "en": "kg·m/s"
+        },
+        {
+          "hi": "N·s",
+          "en": "N·s"
+        },
+        {
+          "hi": "J·s",
+          "en": "J·s"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संवेग में परिवर्तन की दर किसके बराबर होती है?",
+        "en": "The rate of change of momentum is equal to:"
+      },
+      "o": [
+        {
+          "hi": "कार्य (Work)",
+          "en": "Work"
+        },
+        {
+          "hi": "आरोपित बल (Applied Force)",
+          "en": "Applied Force"
+        },
+        {
+          "hi": "त्वरण (Acceleration)",
+          "en": "Acceleration"
+        },
+        {
+          "hi": "आवेग (Impulse)",
+          "en": "Impulse"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्रिकेट का खिलाड़ी तेजी से आती हुई बॉल को कैच करते समय अपने हाथों को पीछे क्यों खींचता है?",
+        "en": "Why does a cricketer pull his hands backward while catching a fast moving ball?"
+      },
+      "o": [
+        {
+          "hi": "संवेग बढ़ाने के लिए",
+          "en": "To increase momentum"
+        },
+        {
+          "hi": "संपर्क समय बढ़ाकर बल के प्रभाव को कम करने के लिए",
+          "en": "To decrease force by increasing contact time"
+        },
+        {
+          "hi": "बल बढ़ाने के लिए",
+          "en": "To increase force"
+        },
+        {
+          "hi": "कैच छूटने से बचाने के लिए",
+          "en": "To prevent dropping the catch"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "न्यूटन का तृतीय गति नियम क्या है?",
+        "en": "What is Newton's third law of motion?"
+      },
+      "o": [
+        {
+          "hi": "F = ma",
+          "en": "F = ma"
+        },
+        {
+          "hi": "प्रत्येक क्रिया के बराबर और विपरीत प्रतिक्रिया होती है",
+          "en": "To every action there is an equal and opposite reaction"
+        },
+        {
+          "hi": "जड़त्व का नियम",
+          "en": "Law of Inertia"
+        },
+        {
+          "hi": "संवेग में परिवर्तन बल के समानुपाती होता है",
+          "en": "Rate of change of momentum is proportional to force"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रॉकेट का उड़ना न्यूटन के किस नियम या सिद्धांत पर आधारित है?",
+        "en": "The propulsion of a rocket is based on which law or principle?"
+      },
+      "o": [
+        {
+          "hi": "न्यूटन का प्रथम नियम",
+          "en": "Newton's First Law"
+        },
+        {
+          "hi": "न्यूटन का तृतीय नियम / संवेग संरक्षण",
+          "en": "Newton's Third Law / Conservation of Momentum"
+        },
+        {
+          "hi": "पास्कल का नियम",
+          "en": "Pascal's Law"
+        },
+        {
+          "hi": "आर्किमिडीज का सिद्धांत",
+          "en": "Archimedes' Principle"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बंदूक से गोली चलाने पर चलाने वाले को पीछे की ओर धक्का लगना किसका उदाहरण है?",
+        "en": "Recoil of a gun when a bullet is fired is an example of:"
+      },
+      "o": [
+        {
+          "hi": "न्यूटन का प्रथम नियम",
+          "en": "Newton's First Law"
+        },
+        {
+          "hi": "न्यूटन का तृतीय गति नियम",
+          "en": "Newton's Third Law of Motion"
+        },
+        {
+          "hi": "ऊर्जा संरक्षण नियम",
+          "en": "Law of Conservation of Energy"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण नियम",
+          "en": "Law of Gravitation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नाव से किनारे पर कूदते समय नाव का पीछे की ओर खिसकना किसका उदाहरण है?",
+        "en": "A boat moving backward when a person jumps ashore is an example of:"
+      },
+      "o": [
+        {
+          "hi": "जड़त्व नियम",
+          "en": "Law of Inertia"
+        },
+        {
+          "hi": "क्रिया और प्रतिक्रिया नियम (Action-Reaction Law)",
+          "en": "Action and Reaction Law"
+        },
+        {
+          "hi": "घर्षण बल",
+          "en": "Frictional Force"
+        },
+        {
+          "hi": "गुरुत्वीय बल",
+          "en": "Gravitational Force"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यदि किसी वस्तु पर कोई बाहरी बल न लगे, तो उसका कुल संवेग कैसा रहता है?",
+        "en": "If no external force acts on an object, its total momentum remains:"
+      },
+      "o": [
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "संरक्षित (Constant / Conserved)",
+          "en": "Conserved / Constant"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "परिवर्तनशील",
+          "en": "Variable"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बल और समय अंतराल के गुणनफल (F × Δt) को क्या कहते हैं?",
+        "en": "The product of force and time interval (F × Δt) is called:"
+      },
+      "o": [
+        {
+          "hi": "संवेग (Momentum)",
+          "en": "Momentum"
+        },
+        {
+          "hi": "आवेग (Impulse)",
+          "en": "Impulse"
+        },
+        {
+          "hi": "कार्य (Work)",
+          "en": "Work"
+        },
+        {
+          "hi": "शक्ति (Power)",
+          "en": "Power"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आवेग (Impulse) किसके बराबर होता है?",
+        "en": "Impulse is equal to:"
+      },
+      "o": [
+        {
+          "hi": "संवेग में परिवर्तन की दर",
+          "en": "Rate of change of momentum"
+        },
+        {
+          "hi": "संवेग में परिवर्तन (Change in Momentum)",
+          "en": "Change in Momentum"
+        },
+        {
+          "hi": "बल / समय",
+          "en": "Force / Time"
+        },
+        {
+          "hi": "द्रव्यमान × त्वरण",
+          "en": "Mass × Acceleration"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सड़क पर चलने की तुलना में बर्फ पर चलना कठिन क्यों है?",
+        "en": "Why is it harder to walk on ice than on a road?"
+      },
+      "o": [
+        {
+          "hi": "बर्फ सड़क से सख्त होती है",
+          "en": "Ice is harder than the road"
+        },
+        {
+          "hi": "बर्फ में सड़क की तुलना में घर्षण कम होता है",
+          "en": "Ice has less friction than the road"
+        },
+        {
+          "hi": "बर्फ पर गुरुत्वाकर्षण कम होता है",
+          "en": "Gravitation is lower on ice"
+        },
+        {
+          "hi": "सड़क बर्फ से चिकनी होती है",
+          "en": "Road is smoother than ice"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "घर्षण बल (Friction Force) की दिशा हमेशा कैसी होती है?",
+        "en": "What is the direction of frictional force?"
+      },
+      "o": [
+        {
+          "hi": "वस्तु की गति की दिशा में",
+          "en": "In the direction of motion"
+        },
+        {
+          "hi": "वस्तु की गति की दिशा के विपरीत",
+          "en": "Opposite to the direction of motion"
+        },
+        {
+          "hi": "गति की दिशा के लंबवत",
+          "en": "Perpendicular to motion"
+        },
+        {
+          "hi": "किसी भी दिशा में",
+          "en": "In any random direction"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से सबसे अधिक घर्षण बल कौन सा है?",
+        "en": "Which of the following frictional forces is the highest?"
+      },
+      "o": [
+        {
+          "hi": "सर्पी घर्षण (Sliding Friction)",
+          "en": "Sliding Friction"
+        },
+        {
+          "hi": "स्थैतिक घर्षण (Static Friction)",
+          "en": "Static Friction"
+        },
+        {
+          "hi": "लोटनिक घर्षण (Rolling Friction)",
+          "en": "Rolling Friction"
+        },
+        {
+          "hi": "द्रव घर्षण (Fluid Friction)",
+          "en": "Fluid Friction"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से सबसे कम घर्षण बल कौन सा होता है?",
+        "en": "Which of the following frictional forces is the lowest?"
+      },
+      "o": [
+        {
+          "hi": "स्थैतिक घर्षण (Static Friction)",
+          "en": "Static Friction"
+        },
+        {
+          "hi": "लोटनिक घर्षण (Rolling Friction)",
+          "en": "Rolling Friction"
+        },
+        {
+          "hi": "सर्पी घर्षण (Sliding Friction)",
+          "en": "Sliding Friction"
+        },
+        {
+          "hi": "सीमांत घर्षण (Limiting Friction)",
+          "en": "Limiting Friction"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बॉल बेयरिंग (Ball Bearings) का उपयोग किस लिए किया जाता है?",
+        "en": "What is the main purpose of using ball bearings in machinery?"
+      },
+      "o": [
+        {
+          "hi": "घर्षण बढ़ाने के लिए",
+          "en": "To increase friction"
+        },
+        {
+          "hi": "गतिज घर्षण को लोटनिक घर्षण में बदलने के लिए",
+          "en": "To convert kinetic friction into rolling friction"
+        },
+        {
+          "hi": "गति रोकने के लिए",
+          "en": "To stop motion"
+        },
+        {
+          "hi": "मशीन का वजन कम करने के लिए",
+          "en": "To reduce weight of machine"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वृत्ताकार पथ पर गतिमान वस्तु पर केंद्र की ओर लगने वाले बल को क्या कहते हैं?",
+        "en": "The force directed toward the center acting on a body moving in a circular path is called:"
+      },
+      "o": [
+        {
+          "hi": "अपकेंद्रीय बल (Centrifugal Force)",
+          "en": "Centrifugal Force"
+        },
+        {
+          "hi": "अभिकेंद्रीय बल (Centripetal Force)",
+          "en": "Centripetal Force"
+        },
+        {
+          "hi": "गुरुत्वीय बल",
+          "en": "Gravitational Force"
+        },
+        {
+          "hi": "घर्षण बल",
+          "en": "Frictional Force"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अभिकेंद्रीय बल (Centripetal Force) का गणितीय सूत्र क्या है?",
+        "en": "What is the mathematical formula for Centripetal Force?"
+      },
+      "o": [
+        {
+          "hi": "F = mvr",
+          "en": "F = mvr"
+        },
+        {
+          "hi": "F = mv²/r",
+          "en": "F = mv²/r"
+        },
+        {
+          "hi": "F = mv/r²",
+          "en": "F = mv/r²"
+        },
+        {
+          "hi": "F = m²v/r",
+          "en": "F = m²v/r"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कपड़े धोने की मशीन (Washing Machine) और छाछ से मक्खन निकालने की मशीन किस सिद्धांत पर कार्य करती है?",
+        "en": "Washing machine and cream separator work on which principle?"
+      },
+      "o": [
+        {
+          "hi": "अभिकेंद्रीय बल (Centripetal Force)",
+          "en": "Centripetal Force"
+        },
+        {
+          "hi": "अपकेंद्रीय बल (Centrifugal Force)",
+          "en": "Centrifugal Force"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण बल",
+          "en": "Gravitational Force"
+        },
+        {
+          "hi": "डॉपलर प्रभाव",
+          "en": "Doppler Effect"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अपकेंद्रीय बल (Centrifugal Force) किस प्रकार का बल है?",
+        "en": "Centrifugal Force is classified as what type of force?"
+      },
+      "o": [
+        {
+          "hi": "वास्तविक बल (Real Force)",
+          "en": "Real Force"
+        },
+        {
+          "hi": "छद्म या आभासी बल (Pseudo / Fictitious Force)",
+          "en": "Pseudo / Fictitious Force"
+        },
+        {
+          "hi": "नाभिकीय बल (Nuclear Force)",
+          "en": "Nuclear Force"
+        },
+        {
+          "hi": "विद्युतचुंबकीय बल (Electromagnetic Force)",
+          "en": "Electromagnetic Force"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सड़क के मोड़ पर बाहरी किनारे को थोड़ा ऊपर क्यों उठाया जाता है (Banking of Roads)?",
+        "en": "Why are roads banked (outer edge raised) at sharp curves?"
+      },
+      "o": [
+        {
+          "hi": "घर्षण खत्म करने के लिए",
+          "en": "To eliminate friction"
+        },
+        {
+          "hi": "गाड़ी की गति बढ़ाने के लिए",
+          "en": "To increase speed"
+        },
+        {
+          "hi": "आवश्यक अभिकेंद्रीय बल प्रदान करने के लिए",
+          "en": "To provide necessary centripetal force"
+        },
+        {
+          "hi": "सुंदरता बढ़ाने के लिए",
+          "en": "To enhance aesthetics"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जब कोई वस्तु समान चाल से वृत्ताकार पथ पर चलती है, तो उसकी गति में क्या परिवर्तित होता है?",
+        "en": "When an object moves with uniform speed in a circular path, what constantly changes?"
+      },
+      "o": [
+        {
+          "hi": "द्रव्यमान (Mass)",
+          "en": "Mass"
+        },
+        {
+          "hi": "चाल (Speed)",
+          "en": "Speed"
+        },
+        {
+          "hi": "वेग की दिशा (Direction of Velocity)",
+          "en": "Direction of Velocity"
+        },
+        {
+          "hi": "समय (Time)",
+          "en": "Time"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समान वृत्तीय गति (Uniform Circular Motion) में त्वरण की दिशा किधर होती है?",
+        "en": "In uniform circular motion, what is the direction of acceleration?"
+      },
+      "o": [
+        {
+          "hi": "केंद्र से बाहर की ओर",
+          "en": "Away from the center"
+        },
+        {
+          "hi": "स्पर्श रेखा की दिशा में",
+          "en": "Along the tangent"
+        },
+        {
+          "hi": "वृत्त के केंद्र की ओर",
+          "en": "Toward the center of the circle"
+        },
+        {
+          "hi": "गति के लंबवत बाहर की ओर",
+          "en": "Perpendicular outwards"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यदि किसी वस्तु का वेग दोगुना कर दिया जाए, तो उसका संवेग कितना हो जाएगा?",
+        "en": "If the velocity of an object is doubled, what happens to its momentum?"
+      },
+      "o": [
+        {
+          "hi": "आधा हो जाएगा (Halved)",
+          "en": "Halved"
+        },
+        {
+          "hi": "चार गुना हो जाएगा (Four times)",
+          "en": "Four times"
+        },
+        {
+          "hi": "दोगुना हो जाएगा (Doubled)",
+          "en": "Doubled"
+        },
+        {
+          "hi": "अपरिवर्तित रहेगा (Unchanged)",
+          "en": "Unchanged"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यदि किसी वस्तु का द्रव्यमान स्थिर रखकर उसका वेग तीन गुना कर दिया जाए, तो बल कितना लगेगा समान समय में रोकने के लिए?",
+        "en": "If mass is constant and velocity is tripled, the force required to stop it in the same time will be:"
+      },
+      "o": [
+        {
+          "hi": "छह गुना (6 times)",
+          "en": "6 times"
+        },
+        {
+          "hi": "नौ गुना (9 times)",
+          "en": "9 times"
+        },
+        {
+          "hi": "तीन गुना (3 times)",
+          "en": "3 times"
+        },
+        {
+          "hi": "एक-तिहाई (1/3rd)",
+          "en": "1/3rd"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रक्षेप्य गति (Projectile Motion) का पथ कैसा होता है?",
+        "en": "What is the trajectory of a projectile motion?"
+      },
+      "o": [
+        {
+          "hi": "सरल रेखीय (Straight line)",
+          "en": "Straight line"
+        },
+        {
+          "hi": "वृत्ताकार (Circular)",
+          "en": "Circular"
+        },
+        {
+          "hi": "परवलयाकार (Parabolic)",
+          "en": "Parabolic"
+        },
+        {
+          "hi": "दीर्घवृत्ताकार (Elliptical)",
+          "en": "Elliptical"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रक्षेप्य की अधिकतम परास (Maximum Range) प्राप्त करने के लिए प्रक्षेपण कोण कितना होना चाहिए?",
+        "en": "At what angle of projection is the horizontal range of a projectile maximum?"
+      },
+      "o": [
+        {
+          "hi": "30°",
+          "en": "30°"
+        },
+        {
+          "hi": "90°",
+          "en": "90°"
+        },
+        {
+          "hi": "45°",
+          "en": "45°"
+        },
+        {
+          "hi": "60°",
+          "en": "60°"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रक्षेप्य की अधिकतम ऊंचाई (Maximum Height) के लिए प्रक्षेपण कोण कितना होना चाहिए?",
+        "en": "At what angle of projection is the height attained by a projectile maximum?"
+      },
+      "o": [
+        {
+          "hi": "60°",
+          "en": "60°"
+        },
+        {
+          "hi": "45°",
+          "en": "45°"
+        },
+        {
+          "hi": "90°",
+          "en": "90°"
+        },
+        {
+          "hi": "0°",
+          "en": "0°"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यदि दो कोणों θ और (90° - θ) पर वस्तुओं को दागा जाए, तो उनकी क्षैतिज परास (Horizontal Range) में क्या संबंध होगा?",
+        "en": "If two projectiles are launched at angles θ and (90° - θ), their horizontal ranges will be:"
+      },
+      "o": [
+        {
+          "hi": "द्वितीय की अधिक होगी",
+          "en": "Greater for the second"
+        },
+        {
+          "hi": "प्रथम की अधिक होगी",
+          "en": "Greater for the first"
+        },
+        {
+          "hi": "बराबर होंगी (Equal)",
+          "en": "Equal"
+        },
+        {
+          "hi": "शून्य होगी",
+          "en": "Zero"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रक्षेप्य पथ के उच्चतम बिंदु पर वेग और त्वरण के बीच का कोण कितना होता है?",
+        "en": "What is the angle between velocity and acceleration at the highest point of a projectile path?"
+      },
+      "o": [
+        {
+          "hi": "180°",
+          "en": "180°"
+        },
+        {
+          "hi": "0°",
+          "en": "0°"
+        },
+        {
+          "hi": "90°",
+          "en": "90°"
+        },
+        {
+          "hi": "45°",
+          "en": "45°"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रक्षेप्य पथ के उच्चतम बिंदु पर वस्तु का न्यूनतम वेग कितना होता है?",
+        "en": "At the highest point of a projectile trajectory, the minimum velocity is:"
+      },
+      "o": [
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        },
+        {
+          "hi": "u sin θ",
+          "en": "u sin θ"
+        },
+        {
+          "hi": "u cos θ",
+          "en": "u cos θ"
+        },
+        {
+          "hi": "u",
+          "en": "u"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किसी स्थिर वस्तु को गति में लाने के लिए आवश्यक बल क्या कहलाता है?",
+        "en": "The force required to start moving a stationary object overcomes:"
+      },
+      "o": [
+        {
+          "hi": "लोटनिक घर्षण (Rolling Friction)",
+          "en": "Rolling Friction"
+        },
+        {
+          "hi": "गतिज घर्षण (Kinetic Friction)",
+          "en": "Kinetic Friction"
+        },
+        {
+          "hi": "सीमांत घर्षण (Limiting Friction)",
+          "en": "Limiting Friction"
+        },
+        {
+          "hi": "गुरुत्वीय बल (Gravitational Force)",
+          "en": "Gravitational Force"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "घर्षण गुणांक (Coefficient of Friction, μ) का मान सामान्यतः कितना होता है?",
+        "en": "The value of coefficient of friction (μ) is generally:"
+      },
+      "o": [
+        {
+          "hi": "हमेशा 0 के बराबर",
+          "en": "Always equal to 0"
+        },
+        {
+          "hi": "हमेशा 1 से बड़ा",
+          "en": "Always greater than 1"
+        },
+        {
+          "hi": "0 और 1 के बीच",
+          "en": "Between 0 and 1"
+        },
+        {
+          "hi": "ऋणात्मक",
+          "en": "Negative"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "घर्षण गुणांक (Coefficient of Friction) का मात्रक क्या है?",
+        "en": "What is the unit of Coefficient of Friction?"
+      },
+      "o": [
+        {
+          "hi": "किग्रा/मीटर",
+          "en": "kg/meter"
+        },
+        {
+          "hi": "न्यूटन",
+          "en": "Newton"
+        },
+        {
+          "hi": "यह मात्रकहीन (Unitless) है",
+          "en": "It is unitless"
+        },
+        {
+          "hi": "न्यूटन-मीटर",
+          "en": "Newton-meter"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "झूलते हुए झूले की गति किस प्रकार की गति का उदाहरण है?",
+        "en": "The motion of a swinging pendulum is an example of:"
+      },
+      "o": [
+        {
+          "hi": "प्रक्षेप्य गति",
+          "en": "Projectile Motion"
+        },
+        {
+          "hi": "घूर्णन गति",
+          "en": "Rotational Motion"
+        },
+        {
+          "hi": "आवर्ती एवं दोलनी गति (Periodic and Oscillatory Motion)",
+          "en": "Periodic and Oscillatory Motion"
+        },
+        {
+          "hi": "सरल रेखीय गति",
+          "en": "Rectilinear Motion"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एकसमान गति (Uniform Motion) में दूरी-समय ग्राफ की आकृति कैसी होती है?",
+        "en": "What is the shape of distance-time graph for uniform motion?"
+      },
+      "o": [
+        {
+          "hi": "वृत (Circle)",
+          "en": "Circle"
+        },
+        {
+          "hi": "एक वक्र रेखा (A curved line)",
+          "en": "A curved line"
+        },
+        {
+          "hi": "एक सीधी रेखा (A straight line)",
+          "en": "A straight line"
+        },
+        {
+          "hi": "परवलय (Parabola)",
+          "en": "Parabola"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वेग-समय ग्राफ का क्षेत्रफल (Area under Velocity-Time graph) क्या दर्शाता है?",
+        "en": "What does the area under velocity-time graph represent?"
+      },
+      "o": [
+        {
+          "hi": "बल",
+          "en": "Force"
+        },
+        {
+          "hi": "त्वरण",
+          "en": "Acceleration"
+        },
+        {
+          "hi": "विस्थापन या दूरी (Displacement or Distance)",
+          "en": "Displacement or Distance"
+        },
+        {
+          "hi": "चाल",
+          "en": "Speed"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वेग-समय ग्राफ की ढाल (Slope of Velocity-Time graph) क्या दर्शाती है?",
+        "en": "What does the slope of velocity-time graph represent?"
+      },
+      "o": [
+        {
+          "hi": "दूरी",
+          "en": "Distance"
+        },
+        {
+          "hi": "विस्थापन",
+          "en": "Displacement"
+        },
+        {
+          "hi": "त्वरण (Acceleration)",
+          "en": "Acceleration"
+        },
+        {
+          "hi": "संवेग",
+          "en": "Momentum"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दूरी-समय ग्राफ की ढाल (Slope of Distance-Time graph) क्या दर्शाती है?",
+        "en": "What does the slope of distance-time graph represent?"
+      },
+      "o": [
+        {
+          "hi": "विस्थापन",
+          "en": "Displacement"
+        },
+        {
+          "hi": "त्वरण",
+          "en": "Acceleration"
+        },
+        {
+          "hi": "चाल (Speed)",
+          "en": "Speed"
+        },
+        {
+          "hi": "बल",
+          "en": "Force"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जब कोई वस्तु स्थिर होती है, तो उसका दूरी-समय ग्राफ कैसा होता है?",
+        "en": "When an object is at rest, its distance-time graph is:"
+      },
+      "o": [
+        {
+          "hi": "परवलयाकार वक्र",
+          "en": "Parabolic curve"
+        },
+        {
+          "hi": "दूरी-अक्ष के समांतर सीधी रेखा",
+          "en": "Straight line parallel to distance-axis"
+        },
+        {
+          "hi": "45° पर झुकी रेखा",
+          "en": "Line inclined at 45°"
+        },
+        {
+          "hi": "समय-अक्ष के समांतर सीधी रेखा",
+          "en": "Straight line parallel to time-axis"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यदि किसी वस्तु का त्वरण शून्य है, तो उसका वेग-समय ग्राफ कैसा होगा?",
+        "en": "If the acceleration of an object is zero, its velocity-time graph will be:"
+      },
+      "o": [
+        {
+          "hi": "वक्र रेखा",
+          "en": "Curved line"
+        },
+        {
+          "hi": "मूल बिंदु से गुजरती सीधी रेखा",
+          "en": "Straight line passing through origin"
+        },
+        {
+          "hi": "नीचे की ओर ढलान वाली रेखा",
+          "en": "Downward sloping line"
+        },
+        {
+          "hi": "समय-अक्ष के समांतर सीधी रेखा",
+          "en": "Straight line parallel to time-axis"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समान त्वरण से गिरती हुई वस्तु के लिए कौन सा कथन सत्य है?",
+        "en": "Which statement is true for a freely falling body with uniform acceleration?"
+      },
+      "o": [
+        {
+          "hi": "त्वरण समय के साथ बदलता है",
+          "en": "Acceleration changes with time"
+        },
+        {
+          "hi": "चाल नियत रहती है",
+          "en": "Speed remains constant"
+        },
+        {
+          "hi": "विस्थापन नियत रहता है",
+          "en": "Displacement remains constant"
+        },
+        {
+          "hi": "समान समय में वेग में समान वृद्धि होती है",
+          "en": "Velocity increases equally in equal time intervals"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जब दो ट्रेनें एक ही दिशा में v₁ और v₂ चाल से चल रही हों, तो उनकी सापेक्ष चाल (Relative Speed) क्या होगी?",
+        "en": "When two trains are moving in the same direction with speeds v₁ and v₂, their relative speed is:"
+      },
+      "o": [
+        {
+          "hi": "v₁ / v₂",
+          "en": "v₁ / v₂"
+        },
+        {
+          "hi": "v₁ + v₂",
+          "en": "v₁ + v₂"
+        },
+        {
+          "hi": "v₁ × v₂",
+          "en": "v₁ × v₂"
+        },
+        {
+          "hi": "|v₁ - v₂|",
+          "en": "|v₁ - v₂|"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जब दो ट्रेनें विपरीत दिशाओं में v₁ और v₂ चाल से चल रही हों, तो उनकी सापेक्ष चाल क्या होगी?",
+        "en": "When two trains are moving in opposite directions with speeds v₁ and v₂, their relative speed is:"
+      },
+      "o": [
+        {
+          "hi": "v₁ × v₂",
+          "en": "v₁ × v₂"
+        },
+        {
+          "hi": "|v₁ - v₂|",
+          "en": "|v₁ - v₂|"
+        },
+        {
+          "hi": "(v₁ + v₂)/2",
+          "en": "(v₁ + v₂)/2"
+        },
+        {
+          "hi": "v₁ + v₂",
+          "en": "v₁ + v₂"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लिफ्ट में यात्री को अपना भार बढ़ा हुआ कब प्रतीत होता है?",
+        "en": "When does a passenger inside an elevator feel heavier?"
+      },
+      "o": [
+        {
+          "hi": "जब लिफ्ट की डोरी टूट जाए",
+          "en": "When elevator cable breaks"
+        },
+        {
+          "hi": "जब लिफ्ट नीचे की ओर त्वरण से जा रही हो",
+          "en": "When elevator accelerates downwards"
+        },
+        {
+          "hi": "जब लिफ्ट एकसमान वेग से ऊपर जा रही हो",
+          "en": "When elevator moves up with uniform velocity"
+        },
+        {
+          "hi": "जब लिफ्ट ऊपर की ओर त्वरण से जा रही हो",
+          "en": "When elevator accelerates upwards"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लिफ्ट में यात्री को अपना भार घटा हुआ कब प्रतीत होता है?",
+        "en": "When does a passenger inside an elevator feel lighter?"
+      },
+      "o": [
+        {
+          "hi": "जब लिफ्ट स्थिर हो",
+          "en": "When elevator is stationary"
+        },
+        {
+          "hi": "जब लिफ्ट ऊपर की ओर त्वरण से जा रही हो",
+          "en": "When elevator accelerates upwards"
+        },
+        {
+          "hi": "जब लिफ्ट एकसमान चाल से नीचे जा रही हो",
+          "en": "When elevator moves down with uniform speed"
+        },
+        {
+          "hi": "जब लिफ्ट नीचे की ओर त्वरण से जा रही हो",
+          "en": "When elevator accelerates downwards"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यदि लिफ्ट की डोरी अचानक टूट जाए, तो लिफ्ट में बैठे व्यक्ति का आभासी भार कितना होगा?",
+        "en": "If the cable of an elevator breaks suddenly, the apparent weight of a person inside will be:"
+      },
+      "o": [
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "वास्तविक भार से अधिक",
+          "en": "Greater than actual weight"
+        },
+        {
+          "hi": "वास्तविक भार के बराबर",
+          "en": "Equal to actual weight"
+        },
+        {
+          "hi": "शून्य (Zero / Weightlessness)",
+          "en": "Zero / Weightlessness"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "घूर्णन करती हुई किसी वस्तु के कोणीय वेग (Angular Velocity, ω) का मात्रक क्या है?",
+        "en": "What is the unit of Angular Velocity (ω) of a rotating body?"
+      },
+      "o": [
+        {
+          "hi": "हर्ट्ज़",
+          "en": "Hertz"
+        },
+        {
+          "hi": "मीटर/सेकंड",
+          "en": "Meter/second"
+        },
+        {
+          "hi": "रेडियन/सेकंड²",
+          "en": "Radian/second²"
+        },
+        {
+          "hi": "रेडियन/सेकंड (rad/s)",
+          "en": "Radian/second (rad/s)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रेखीय वेग (v) और कोणीय वेग (ω) में क्या संबंध है?",
+        "en": "What is the relation between linear velocity (v) and angular velocity (ω)?"
+      },
+      "o": [
+        {
+          "hi": "v = r²ω",
+          "en": "v = r²ω"
+        },
+        {
+          "hi": "ω = rv",
+          "en": "ω = rv"
+        },
+        {
+          "hi": "v = ω/r",
+          "en": "v = ω/r"
+        },
+        {
+          "hi": "v = rω",
+          "en": "v = rω"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कोणीय त्वरण (Angular Acceleration) की SI इकाई क्या है?",
+        "en": "What is the SI unit of Angular Acceleration?"
+      },
+      "o": [
+        {
+          "hi": "N/m",
+          "en": "N/m"
+        },
+        {
+          "hi": "rad/s",
+          "en": "rad/s"
+        },
+        {
+          "hi": "m/s²",
+          "en": "m/s²"
+        },
+        {
+          "hi": "rad/s²",
+          "en": "rad/s²"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बल आघूर्ण (Torque) का गणितीय मान किसके बराबर होता है?",
+        "en": "Torque is mathematically defined as:"
+      },
+      "o": [
+        {
+          "hi": "बल × समय",
+          "en": "Force × Time"
+        },
+        {
+          "hi": "बल / दूरी",
+          "en": "Force / Distance"
+        },
+        {
+          "hi": "द्रव्यमान × त्वरण",
+          "en": "Mass × Acceleration"
+        },
+        {
+          "hi": "बल × लंबवत दूरी (Force × Perpendicular Distance)",
+          "en": "Force × Perpendicular Distance"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बल आघूर्ण (Torque) की SI इकाई क्या है?",
+        "en": "What is the SI unit of Torque?"
+      },
+      "o": [
+        {
+          "hi": "न्यूटन-सेकंड",
+          "en": "Newton-second"
+        },
+        {
+          "hi": "न्यूटन/मीटर",
+          "en": "Newton/meter"
+        },
+        {
+          "hi": "जूल-सेकंड",
+          "en": "Joule-second"
+        },
+        {
+          "hi": "न्यूटन-मीटर (N·m)",
+          "en": "Newton-meter (N·m)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पेचकश (Screwdriver) का हत्था चौड़ा क्यों बनाया जाता है?",
+        "en": "Why is the handle of a screwdriver made wide?"
+      },
+      "o": [
+        {
+          "hi": "सुंदरता के लिए",
+          "en": "For appearance"
+        },
+        {
+          "hi": "घर्षण घटाने के लिए",
+          "en": "To decrease friction"
+        },
+        {
+          "hi": "वजन बढ़ाने के लिए",
+          "en": "To increase weight"
+        },
+        {
+          "hi": "बल आघूर्ण (Torque) बढ़ाने के लिए",
+          "en": "To increase torque"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हाथ से आटा पीसने वाली चक्की में हत्था केंद्र से दूर क्यों लगाया जाता है?",
+        "en": "Why is the handle of a hand-operated flour mill fitted far from the center?"
+      },
+      "o": [
+        {
+          "hi": "संतुलन बनाए रखने के लिए",
+          "en": "To maintain balance"
+        },
+        {
+          "hi": "घर्षण बल बढ़ाने के लिए",
+          "en": "To increase friction"
+        },
+        {
+          "hi": "चक्की की चाल धीमी करने के लिए",
+          "en": "To slow down rotation"
+        },
+        {
+          "hi": "कम बल लगाकर अधिक बल आघूर्ण प्राप्त करने के लिए",
+          "en": "To get larger torque by applying less force"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "झुककर चलते समय व्यक्ति आगे की ओर क्यों झुकता है पहाड़ी पर चढ़ते समय?",
+        "en": "Why does a person bend forward while climbing a hill?"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्वीय त्वरण घटाने के लिए",
+          "en": "To decrease gravitational acceleration"
+        },
+        {
+          "hi": "थकान कम करने के लिए",
+          "en": "To reduce fatigue"
+        },
+        {
+          "hi": "चाल बढ़ाने के लिए",
+          "en": "To increase speed"
+        },
+        {
+          "hi": "स्थायित्व (Stability) बढ़ाने के लिए",
+          "en": "To increase stability"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पीसा की झुकी हुई मीनार (Leaning Tower of Pisa) गिरती क्यों नहीं है?",
+        "en": "Why does the Leaning Tower of Pisa not fall?"
+      },
+      "o": [
+        {
+          "hi": "यह एक विशेष धातु से बनी है",
+          "en": "It is made of a special metal"
+        },
+        {
+          "hi": "यह बहुत हल्की है",
+          "en": "It is very light"
+        },
+        {
+          "hi": "वहाँ गुरुत्वाकर्षण शून्य है",
+          "en": "Gravitation is zero there"
+        },
+        {
+          "hi": "इसके गुरुत्व केंद्र से होकर जाने वाली लंबवत रेखा इसके आधार से गुजरती है",
+          "en": "The vertical line passing through its center of gravity falls within its base"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "साम्यावस्था (Equilibrium) की स्थिति प्राप्त करने के लिए वस्तु पर परिणामी बल कितना होना चाहिए?",
+        "en": "To achieve equilibrium, the net resultant force on a body must be:"
+      },
+      "o": [
+        {
+          "hi": "वस्तु के भार के बराबर",
+          "en": "Equal to weight of object"
+        },
+        {
+          "hi": "अनंत (Infinite)",
+          "en": "Infinite"
+        },
+        {
+          "hi": "1 न्यूटन",
+          "en": "1 Newton"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}

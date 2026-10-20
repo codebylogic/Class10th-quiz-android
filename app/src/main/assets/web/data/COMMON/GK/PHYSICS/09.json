@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "विद्युत और चुंबकत्व / Electricity & Magnetism",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Electricity & Magnetism.",
+  "questions": [
+    {
+      "q": {
+        "hi": "समान आवेशों (Like Charges) में और विपरीत आवेशों (Unlike Charges) में क्या संबंध होता है?",
+        "en": "What is the nature of force between like charges and unlike charges?"
+      },
+      "o": [
+        {
+          "hi": "समान आवेशों में प्रतिकर्षण तथा विपरीत आवेशों में आकर्षण होता है",
+          "en": "Like charges repel and unlike charges attract"
+        },
+        {
+          "hi": "समान आवेशों में आकर्षण होता है",
+          "en": "Like charges attract"
+        },
+        {
+          "hi": "दोनों में हमेशा आकर्षण होता है",
+          "en": "Both always attract"
+        },
+        {
+          "hi": "दोनों में कोई बल नहीं लगता",
+          "en": "No force acts between them"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कूलाम का नियम (Coulomb's Law) दो बिंदु आवेशों के बीच लगने वाले बल (F) का मान क्या बताता है?",
+        "en": "Coulomb's Law expresses electrostatic force F between two point charges q₁ and q₂ as:"
+      },
+      "o": [
+        {
+          "hi": "F = k (q₁ q₂ / r²)",
+          "en": "F = k (q₁ q₂ / r²)"
+        },
+        {
+          "hi": "F = k (q₁ q₂ / r)",
+          "en": "F = k (q₁ q₂ / r)"
+        },
+        {
+          "hi": "F = k (q₁ + q₂ / r²)",
+          "en": "F = k (q₁ + q₂ / r²)"
+        },
+        {
+          "hi": "F = k q₁ q₂ r²",
+          "en": "F = k q₁ q₂ r²"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इलेक्ट्रॉन पर मूल आवेश (Elementary Charge, e) का मान कितना होता है?",
+        "en": "What is the magnitude of elementary charge on an electron?"
+      },
+      "o": [
+        {
+          "hi": "1.6 × 10⁻¹⁹ C (ऋणात्मक)",
+          "en": "1.6 × 10⁻¹⁹ C (Negative)"
+        },
+        {
+          "hi": "1.6 × 10⁻¹⁶ C",
+          "en": "1.6 × 10⁻¹⁶ C"
+        },
+        {
+          "hi": "9.1 × 10⁻³¹ C",
+          "en": "9.1 × 10⁻³¹ C"
+        },
+        {
+          "hi": "6.67 × 10⁻¹¹ C",
+          "en": "6.67 × 10⁻¹¹ C"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 कूलाम (1 Coulomb) आवेश में कितने इलेक्ट्रॉन होते हैं?",
+        "en": "How many electrons constitute 1 Coulomb of electric charge?"
+      },
+      "o": [
+        {
+          "hi": "6.25 × 10¹⁸ इलेक्ट्रॉन",
+          "en": "6.25 × 10¹⁸ electrons"
+        },
+        {
+          "hi": "1.6 × 10⁻¹⁹ इलेक्ट्रॉन",
+          "en": "1.6 × 10⁻¹⁹ electrons"
+        },
+        {
+          "hi": "6.023 × 10²³ इलेक्ट्रॉन",
+          "en": "6.023 × 10²³ electrons"
+        },
+        {
+          "hi": "10⁶ इलेक्ट्रॉन",
+          "en": "10⁶ electrons"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चालक (Conductor) का सबसे अच्छा उदाहरण निम्नलिखित में से कौन सा है?",
+        "en": "Which of the following is the best conductor of electricity?"
+      },
+      "o": [
+        {
+          "hi": "चांदी (Silver)",
+          "en": "Silver"
+        },
+        {
+          "hi": "तांबा (Copper)",
+          "en": "Copper"
+        },
+        {
+          "hi": "एल्युमीनियम (Aluminum)",
+          "en": "Aluminum"
+        },
+        {
+          "hi": "सोना (Gold)",
+          "en": "Gold"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विद्युत की सुचालकता के मामले में धातुओं की वरीयता श्रेणी क्या है?",
+        "en": "Order of electrical conductivity among common metals is:"
+      },
+      "o": [
+        {
+          "hi": "चांदी > तांबा > सोना > एल्युमीनियम",
+          "en": "Silver > Copper > Gold > Aluminum"
+        },
+        {
+          "hi": "तांबा > चांदी > एल्युमीनियम > सोना",
+          "en": "Copper > Silver > Aluminum > Gold"
+        },
+        {
+          "hi": "एल्युमीनियम > तांबा > चांदी > सोना",
+          "en": "Aluminum > Copper > Silver > Gold"
+        },
+        {
+          "hi": "सोना > चांदी > तांबा > एल्युमीनियम",
+          "en": "Gold > Silver > Copper > Aluminum"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विद्युत रोधी / कुचालक (Insulator) का उदाहरण कौन सा है?",
+        "en": "Which of the following is an electrical insulator?"
+      },
+      "o": [
+        {
+          "hi": "लकड़ी, रबर और कांच",
+          "en": "Wood, Rubber, and Glass"
+        },
+        {
+          "hi": "तांबा और एल्युमीनियम",
+          "en": "Copper and Aluminum"
+        },
+        {
+          "hi": "मानव शरीर",
+          "en": "Human body"
+        },
+        {
+          "hi": "अम्लीय जल",
+          "en": "Acidified water"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विद्युत धारा (Electric Current, I) की परिभाषा क्या है?",
+        "en": "Electric Current is defined as:"
+      },
+      "o": [
+        {
+          "hi": "आवेश प्रवाह की दर (I = Q / t)",
+          "en": "Rate of flow of charge (I = Q / t)"
+        },
+        {
+          "hi": "कार्य / आवेश",
+          "en": "Work / Charge"
+        },
+        {
+          "hi": "विभव × समय",
+          "en": "Potential × Time"
+        },
+        {
+          "hi": "प्रतिरोध / समय",
+          "en": "Resistance / Time"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "परिपथ में विद्युत धारा की वास्तविक दिशा इलेक्ट्रॉनों की गति के कैसी होती है?",
+        "en": "Conventional direction of electric current is:"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रॉनों के प्रवाह की विपरीत दिशा में (धन सिरे से ऋण सिरे की ओर)",
+          "en": "Opposite to the flow of electrons (Positive to Negative terminal)"
+        },
+        {
+          "hi": "इलेक्ट्रॉनों की गति की दिशा में",
+          "en": "In direction of electron flow"
+        },
+        {
+          "hi": "किसी भी दिशा में",
+          "en": "In random direction"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ओम का नियम (Ohm's Law) स्थिर ताप पर विभवांतर (V) और धारा (I) में क्या संबंध बताता है?",
+        "en": "Ohm's Law states that at constant temperature, Voltage V and Current I are related as:"
+      },
+      "o": [
+        {
+          "hi": "V = I R (V ∝ I)",
+          "en": "V = I R (V ∝ I)"
+        },
+        {
+          "hi": "V = I / R",
+          "en": "V = I / R"
+        },
+        {
+          "hi": "I = V R",
+          "en": "I = V R"
+        },
+        {
+          "hi": "V = I² R",
+          "en": "V = I² R"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ओम का नियम किन चालकों के लिए लागू होता है?",
+        "en": "Ohm's Law is strictly valid for:"
+      },
+      "o": [
+        {
+          "hi": "धात्विक चालकों के लिए स्थिर ताप पर (Ohmic Conductors)",
+          "en": "Metallic conductors at constant temperature"
+        },
+        {
+          "hi": "डायोड और ट्रांजिस्टर के लिए",
+          "en": "Diodes and transistors"
+        },
+        {
+          "hi": "सेमीकंडक्टर के लिए",
+          "en": "Semiconductors"
+        },
+        {
+          "hi": "निर्वात नलिका के लिए",
+          "en": "Vacuum tubes"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किसी तार का प्रतिरोध (Resistance, R) किन कारकों पर निर्भर करता है?",
+        "en": "Resistance R of a uniform wire of length L and cross-section A is given by:"
+      },
+      "o": [
+        {
+          "hi": "R = ρ (L / A)",
+          "en": "R = ρ (L / A)"
+        },
+        {
+          "hi": "R = ρ (A / L)",
+          "en": "R = ρ (A / L)"
+        },
+        {
+          "hi": "R = ρ L A",
+          "en": "R = ρ L A"
+        },
+        {
+          "hi": "R = L / (ρ A)",
+          "en": "R = L / (ρ A)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चालक तार की लंबाई बढ़ाने पर उसके प्रतिरोध पर क्या प्रभाव पड़ता है?",
+        "en": "Increasing the length of a conducting wire causes its resistance to:"
+      },
+      "o": [
+        {
+          "hi": "बढ़ जाता है (Directly proportional to length)",
+          "en": "Increase (Directly proportional)"
+        },
+        {
+          "hi": "घट जाता है",
+          "en": "Decrease"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remain unchanged"
+        },
+        {
+          "hi": "शून्य हो जाता है",
+          "en": "Become zero"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चालक तार का अनुप्रस्थ काट का क्षेत्रफल (मोटाई) बढ़ाने पर प्रतिरोध पर क्या प्रभाव पड़ता है?",
+        "en": "Increasing the thickness/area of a wire causes its resistance to:"
+      },
+      "o": [
+        {
+          "hi": "घट जाता है (Inversely proportional to area)",
+          "en": "Decrease (Inversely proportional)"
+        },
+        {
+          "hi": "बढ़ जाता है",
+          "en": "Increase"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remain unchanged"
+        },
+        {
+          "hi": "अनंत हो जाता है",
+          "en": "Become infinite"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यदि किसी तार को खींचकर उसकी लंबाई दोगुनी कर दी जाए, तो उसका नया प्रतिरोध कितने गुना हो जाएगा?",
+        "en": "If a wire is stretched to double its original length, its new resistance becomes:"
+      },
+      "o": [
+        {
+          "hi": "4 गुना (4 times - R' = n² R)",
+          "en": "4 times (R' = n² R)"
+        },
+        {
+          "hi": "2 गुना",
+          "en": "2 times"
+        },
+        {
+          "hi": "8 गुना",
+          "en": "8 times"
+        },
+        {
+          "hi": "आधा",
+          "en": "Half"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "धातुओं का तापमान बढ़ाने पर उनके प्रतिरोध और प्रतिरोधकता पर क्या प्रभाव पड़ता है?",
+        "en": "With an increase in temperature, resistance of metallic conductors:"
+      },
+      "o": [
+        {
+          "hi": "बढ़ता है (Increases)",
+          "en": "Increases"
+        },
+        {
+          "hi": "घटता है (Decreases)",
+          "en": "Decreases"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "शून्य हो जाता है",
+          "en": "Becomes zero"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अर्धचालकों (Semiconductors - जैसे सिलिकॉन, जर्मेनियम) का ताप बढ़ाने पर उनके प्रतिरोध पर क्या प्रभाव पड़ता है?",
+        "en": "With an increase in temperature, resistance of semiconductors (Si, Ge):"
+      },
+      "o": [
+        {
+          "hi": "घटता है (Decreases)",
+          "en": "Decreases"
+        },
+        {
+          "hi": "बढ़ता है (Increases)",
+          "en": "Increases"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "अनंत हो जाता है",
+          "en": "Becomes infinite"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वह परिघटना जिसमें अत्यंत कम ताप (अतिनिम्न ताप) पर पदार्थ का विद्युत प्रतिरोध शून्य हो जाता है, क्या कहलाती है?",
+        "en": "Phenomenon in which electrical resistance vanishes at extremely low temperatures is:"
+      },
+      "o": [
+        {
+          "hi": "अतिचालकता (Superconductivity)",
+          "en": "Superconductivity"
+        },
+        {
+          "hi": "तापीय विद्युत",
+          "en": "Thermoelectricity"
+        },
+        {
+          "hi": "विद्युत अपघटन",
+          "en": "Electrolysis"
+        },
+        {
+          "hi": "प्रेरण",
+          "en": "Induction"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अतिचालकता की खोज किस वैज्ञानिक ने 1911 में पारे में 4.2 K ताप पर की थी?",
+        "en": "Superconductivity was discovered in mercury at 4.2 K by:"
+      },
+      "o": [
+        {
+          "hi": "कैमरलिंग ओन्स (Heike Kamerlingh Onnes)",
+          "en": "Heike Kamerlingh Onnes"
+        },
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "अल्बर्ट आइंस्टीन",
+          "en": "Albert Einstein"
+        },
+        {
+          "hi": "थामस एडिसन",
+          "en": "Thomas Edison"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अतिचालक (Superconductor) का पूर्ण चुंबकीय प्रतिकर्षण का गुण क्या कहलाता है?",
+        "en": "Expulsion of magnetic field from a superconductor is known as:"
+      },
+      "o": [
+        {
+          "hi": "पेल्टियर प्रभाव",
+          "en": "Peltier Effect"
+        },
+        {
+          "hi": "माइसनर प्रभाव (Meissner Effect)",
+          "en": "Meissner Effect"
+        },
+        {
+          "hi": "सीबेक प्रभाव",
+          "en": "Seebeck Effect"
+        },
+        {
+          "hi": "हॉल प्रभाव",
+          "en": "Hall Effect"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जब तीन प्रतिरोध R₁, R₂, R₃ श्रेणीक्रम (Series Combination) में जुड़े हों, तो कुल तुल्य प्रतिरोध कितना होता है?",
+        "en": "Equivalent resistance R for three resistors in Series Combination is:"
+      },
+      "o": [
+        {
+          "hi": "1/R = 1/R₁ + 1/R₂ + 1/R₃",
+          "en": "1/R = 1/R₁ + 1/R₂ + 1/R₃"
+        },
+        {
+          "hi": "R = R₁ + R₂ + R₃",
+          "en": "R = R₁ + R₂ + R₃"
+        },
+        {
+          "hi": "R = R₁ R₂ R₃",
+          "en": "R = R₁ R₂ R₃"
+        },
+        {
+          "hi": "R = (R₁ + R₂)/R₃",
+          "en": "R = (R₁ + R₂)/R₃"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जब तीन प्रतिरोध R₁, R₂, R₃ समांतर क्रम (Parallel Combination) में जुड़े हों, तो तुल्य प्रतिरोध क्या होता है?",
+        "en": "Equivalent resistance R for three resistors in Parallel Combination is:"
+      },
+      "o": [
+        {
+          "hi": "R = R₁ + R₂ + R₃",
+          "en": "R = R₁ + R₂ + R₃"
+        },
+        {
+          "hi": "1/R = 1/R₁ + 1/R₂ + 1/R₃",
+          "en": "1/R = 1/R₁ + 1/R₂ + 1/R₃"
+        },
+        {
+          "hi": "R = (R₁ + R₂ + R₃) / 3",
+          "en": "R = (R₁ + R₂ + R₃) / 3"
+        },
+        {
+          "hi": "1/R = R₁ R₂ R₃",
+          "en": "1/R = R₁ R₂ R₃"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "घरों में विद्युत उपकरण (बल्ब, पंखे, टीवी आदि) किस क्रम में संयोजित किए जाते हैं?",
+        "en": "Household electrical appliances (bulbs, fans, TV) are connected in:"
+      },
+      "o": [
+        {
+          "hi": "श्रेणीक्रम में (Series Combination)",
+          "en": "Series Combination"
+        },
+        {
+          "hi": "समांतर क्रम में (Parallel Combination)",
+          "en": "Parallel Combination"
+        },
+        {
+          "hi": "मिश्रित क्रम में",
+          "en": "Mixed Combination"
+        },
+        {
+          "hi": "किसी भी क्रम में",
+          "en": "Any random order"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सजावटी बल्ब की लड़ियाँ (Diwali Lights) किस क्रम में जोड़ी जाती हैं?",
+        "en": "Diwali decorative fairy lights are connected in:"
+      },
+      "o": [
+        {
+          "hi": "समांतर क्रम में",
+          "en": "Parallel Combination"
+        },
+        {
+          "hi": "श्रेणीक्रम में (Series Combination)",
+          "en": "Series Combination"
+        },
+        {
+          "hi": "अतिचालक क्रम में",
+          "en": "Superconducting order"
+        },
+        {
+          "hi": "खुले परिपथ में",
+          "en": "Open circuit"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत धारा के उष्मीय प्रभाव पर जूल का नियम (Joule's Law of Heating) उत्पन्न ऊष्मा (H) का मान क्या बताता है?",
+        "en": "Joule's Law of Heating states that heat generated H in a conductor is:"
+      },
+      "o": [
+        {
+          "hi": "H = I R t",
+          "en": "H = I R t"
+        },
+        {
+          "hi": "H = I² R t",
+          "en": "H = I² R t"
+        },
+        {
+          "hi": "H = I R² t",
+          "en": "H = I R² t"
+        },
+        {
+          "hi": "H = I² / R t",
+          "en": "H = I² / R t"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत हीटर और गीजर का तापन अवयव (Heating Element) किस धातु/मिश्रधातु का बना होता है?",
+        "en": "The heating element in an electric heater and geyser is made of:"
+      },
+      "o": [
+        {
+          "hi": "टंगस्टन (Tungsten)",
+          "en": "Tungsten"
+        },
+        {
+          "hi": "नाइक्रोम (Nichrome - निकेल और क्रोमियम का मिश्रधातु)",
+          "en": "Nichrome (Alloy of Nickel & Chromium)"
+        },
+        {
+          "hi": "तांबा (Copper)",
+          "en": "Copper"
+        },
+        {
+          "hi": "नाइलोन",
+          "en": "Nylon"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत बल्ब का फिलामेंट (Filament of Electric Bulb) किस उच्च गलनांक वाली धातु का बना होता है?",
+        "en": "The filament of a traditional incandescent electric bulb is made of:"
+      },
+      "o": [
+        {
+          "hi": "नाइक्रोम",
+          "en": "Nichrome"
+        },
+        {
+          "hi": "टंगस्टन (Tungsten - गलनांक ~3422°C)",
+          "en": "Tungsten (Melting point ~3422°C)"
+        },
+        {
+          "hi": "तांबा",
+          "en": "Copper"
+        },
+        {
+          "hi": "एल्युमीनियम",
+          "en": "Aluminum"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत बल्ब में फिलामेंट के ऑक्सीकरण को रोकने के लिए कौन सी अक्रिय गैस भरी जाती है?",
+        "en": "Which inert gas or mixture is filled inside electric bulbs to prevent oxidation?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सीजन",
+          "en": "Oxygen"
+        },
+        {
+          "hi": "ऑर्गन और नाइट्रोजन (Argon and Nitrogen)",
+          "en": "Argon and Nitrogen"
+        },
+        {
+          "hi": "हाइड्रोजन",
+          "en": "Hydrogen"
+        },
+        {
+          "hi": "क्लोरीन",
+          "en": "Chlorine"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत फ्यूज तार (Electric Fuse Wire) की क्या विशेषता होनी चाहिए?",
+        "en": "An Electric Fuse wire must possess:"
+      },
+      "o": [
+        {
+          "hi": "निम्न प्रतिरोध तथा उच्च गलनांक",
+          "en": "Low Resistance & High Melting Point"
+        },
+        {
+          "hi": "उच्च प्रतिरोध तथा निम्न गलनांक (High Resistance & Low Melting Point)",
+          "en": "High Resistance & Low Melting Point"
+        },
+        {
+          "hi": "उच्च प्रतिरोध तथा उच्च गलनांक",
+          "en": "High Resistance & High Melting Point"
+        },
+        {
+          "hi": "निम्न प्रतिरोध तथा निम्न गलनांक",
+          "en": "Low Resistance & Low Melting Point"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत फ्यूज तार मुख्यतः किस मिश्रधातु की बनी होती है?",
+        "en": "Fuse wire is typically an alloy made of:"
+      },
+      "o": [
+        {
+          "hi": "तांबा और जस्ता",
+          "en": "Copper and Zinc"
+        },
+        {
+          "hi": "टिन और सीसा (Tin and Lead - Sn 63% & Pb 37%)",
+          "en": "Tin and Lead (Sn & Pb)"
+        },
+        {
+          "hi": "लोहा और निकेल",
+          "en": "Iron and Nickel"
+        },
+        {
+          "hi": "एल्युमीनियम और सिल्वर",
+          "en": "Aluminum and Silver"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत फ्यूज परिपथ में किस तार में और किस क्रम में लगाया जाता है?",
+        "en": "Electric Fuse is connected in which wire and in what combination?"
+      },
+      "o": [
+        {
+          "hi": "उदासीन तार (Neutral Wire) में समांतर क्रम में",
+          "en": "Neutral Wire in Parallel"
+        },
+        {
+          "hi": "जीवंत/फेज तार (Live Wire) में श्रेणीक्रम में",
+          "en": "Live Wire in Series Combination"
+        },
+        {
+          "hi": "अर्थ तार (Earth Wire) में श्रेणीक्रम में",
+          "en": "Earth Wire in Series"
+        },
+        {
+          "hi": "किसी भी तार में समांतर क्रम में",
+          "en": "Any wire in Parallel"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "घरेलू विद्युत आपूर्ति में तीन तारों के रंग कोड क्या हैं (लाइव, न्यूट्रल, अर्थ)?",
+        "en": "In household wiring, standard color codes for Live, Neutral, Earth wires are:"
+      },
+      "o": [
+        {
+          "hi": "हरा (लाइव), लाल (न्यूट्रल), काला (अर्थ)",
+          "en": "Green (Live), Red (Neutral), Black (Earth)"
+        },
+        {
+          "hi": "लाल (लाइव), काला/नीला (न्यूट्रल), हरा (अर्थ)",
+          "en": "Red (Live), Black/Blue (Neutral), Green (Earth)"
+        },
+        {
+          "hi": "सफेद (लाइव), पीला (न्यूट्रल), लाल (अर्थ)",
+          "en": "White (Live), Yellow (Neutral), Red (Earth)"
+        },
+        {
+          "hi": "नीला (लाइव), हरा (न्यूट्रल), लाल (अर्थ)",
+          "en": "Blue (Live), Green (Neutral), Red (Earth)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत शक्ति (Electric Power, P) के विभिन्न सूत्र कौन-कौन से हैं?",
+        "en": "Which formulas represent Electric Power?"
+      },
+      "o": [
+        {
+          "hi": "P = V / I",
+          "en": "P = V / I"
+        },
+        {
+          "hi": "P = V I = I² R = V² / R",
+          "en": "P = V I = I² R = V² / R"
+        },
+        {
+          "hi": "P = I² / R",
+          "en": "P = I² / R"
+        },
+        {
+          "hi": "P = V² I",
+          "en": "P = V² I"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1 किलोवाट-घंटा (1 kWh) विद्युत ऊर्जा में कितने जूल होते हैं?",
+        "en": "1 Kilowatt-hour (1 kWh) electrical energy equals how many Joules?"
+      },
+      "o": [
+        {
+          "hi": "3.6 × 10⁵ J",
+          "en": "3.6 × 10⁵ J"
+        },
+        {
+          "hi": "3.6 × 10⁶ J",
+          "en": "3.6 × 10⁶ J"
+        },
+        {
+          "hi": "1000 J",
+          "en": "1000 J"
+        },
+        {
+          "hi": "3600 J",
+          "en": "3600 J"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्वतंत्रतापूर्वक लटका हुआ चुंबक किस दिशा में ठहरता है?",
+        "en": "A freely suspended bar magnet aligns itself in which direction?"
+      },
+      "o": [
+        {
+          "hi": "पूर्व-पश्चिम दिशा में",
+          "en": "East-West Direction"
+        },
+        {
+          "hi": "उत्तर-दक्षिण दिशा में (North-South Direction)",
+          "en": "North-South Direction"
+        },
+        {
+          "hi": "उत्तर-पूर्व दिशा में",
+          "en": "North-East Direction"
+        },
+        {
+          "hi": "किसी भी दिशा में",
+          "en": "In any random direction"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चुंबक के दो ध्रुवों (North & South Poles) को क्या एक-दूसरे से अलग किया जा सकता है?",
+        "en": "Can isolated magnetic monopoles exist independently?"
+      },
+      "o": [
+        {
+          "hi": "हाँ (काटकर अलग किया जा सकता है)",
+          "en": "Yes"
+        },
+        {
+          "hi": "नहीं (चुंबकीय ध्रुव हमेशा युग्म/जोड़े में पाए जाते हैं)",
+          "en": "No (Magnetic poles always exist in pairs)"
+        },
+        {
+          "hi": "केवल गर्म करने पर",
+          "en": "Only on heating"
+        },
+        {
+          "hi": "केवल जल में",
+          "en": "Only in water"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चुंबक का चुंबकत्व (Magnetism) किस क्रिया द्वारा नष्ट हो सकता है?",
+        "en": "Magnetism of a bar magnet can be destroyed by:"
+      },
+      "o": [
+        {
+          "hi": "जल में डुबोने पर",
+          "en": "Immersing in water"
+        },
+        {
+          "hi": "अत्यधिक गर्म करने या हथौड़े से पीटने पर",
+          "en": "Heating strongly or hammering"
+        },
+        {
+          "hi": "कांच में रखने पर",
+          "en": "Keeping in glass"
+        },
+        {
+          "hi": "तेल लगाने पर",
+          "en": "Applying oil"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चुंबकीय बल रेखाएं (Magnetic Lines of Force) चुंबक के बाहर किस दिशा में चलती हैं?",
+        "en": "Outside a bar magnet, magnetic field lines travel from:"
+      },
+      "o": [
+        {
+          "hi": "दक्षिणी ध्रुव से उत्तरी ध्रुव की ओर",
+          "en": "South Pole to North Pole"
+        },
+        {
+          "hi": "उत्तरी ध्रुव से दक्षिणी ध्रुव की ओर (North Pole to South Pole)",
+          "en": "North Pole to South Pole"
+        },
+        {
+          "hi": "केंद्र से बाहर की ओर",
+          "en": "Center to outside"
+        },
+        {
+          "hi": "वृत्ताकार पथ पर केवल",
+          "en": "On circular paths only"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चुंबक के अंदर चुंबकीय बल रेखाएं किस दिशा में चलती हैं?",
+        "en": "Inside a bar magnet, magnetic field lines travel from:"
+      },
+      "o": [
+        {
+          "hi": "लंबवत बाहर",
+          "en": "Perpendicular outside"
+        },
+        {
+          "hi": "उत्तरी ध्रुव से दक्षिणी ध्रुव की ओर",
+          "en": "North Pole to South Pole"
+        },
+        {
+          "hi": "दक्षिणी ध्रुव से उत्तरी ध्रुव की ओर (South Pole to North Pole)",
+          "en": "South Pole to North Pole"
+        },
+        {
+          "hi": "रेखाएं नहीं होतीं",
+          "en": "No lines inside"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी के भौगोलिक ध्रुव और चुंबकीय ध्रुव के बीच के कोण को क्या कहते हैं?",
+        "en": "The angle between Geographic Meridian and Magnetic Meridian is:"
+      },
+      "o": [
+        {
+          "hi": "क्रांतिक कोण",
+          "en": "Critical Angle"
+        },
+        {
+          "hi": "नमन कोण (Angle of Dip)",
+          "en": "Angle of Dip"
+        },
+        {
+          "hi": "दिक्पात कोण (Angle of Declination)",
+          "en": "Angle of Declination"
+        },
+        {
+          "hi": "ध्रुवण कोण",
+          "en": "Polarizing Angle"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी के ध्रुवों पर नमन कोण (Angle of Dip at Poles) का मान कितना होता है?",
+        "en": "What is the value of Angle of Dip at the magnetic poles of Earth?"
+      },
+      "o": [
+        {
+          "hi": "45°",
+          "en": "45°"
+        },
+        {
+          "hi": "0° (शून्य)",
+          "en": "0° (Zero)"
+        },
+        {
+          "hi": "90° (समकोण)",
+          "en": "90° (Right angle)"
+        },
+        {
+          "hi": "180°",
+          "en": "180°"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भूमध्य रेखा / विषुवत रेखा पर नमन कोण (Angle of Dip at Equator) का मान कितना होता है?",
+        "en": "What is the value of Angle of Dip at the magnetic Equator of Earth?"
+      },
+      "o": [
+        {
+          "hi": "45°",
+          "en": "45°"
+        },
+        {
+          "hi": "90°",
+          "en": "90°"
+        },
+        {
+          "hi": "0° (शून्य)",
+          "en": "0° (Zero)"
+        },
+        {
+          "hi": "60°",
+          "en": "60°"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रतिचुंबकीय पदार्थ (Diamagnetic Materials) वे हैं जो चुंबकीय क्षेत्र में रखे जाने पर क्या होते हैं?",
+        "en": "Diamagnetic materials when placed in a magnetic field:"
+      },
+      "o": [
+        {
+          "hi": "अपरिवर्तित रहते हैं",
+          "en": "Remain unaffected"
+        },
+        {
+          "hi": "तीव्रता से आकर्षित होते हैं",
+          "en": "Strongly attracted"
+        },
+        {
+          "hi": "क्षेत्र से विपरीत दिशा में क्षीण चुंबकत्व प्राप्त करते हैं (प्रतिकर्षित होते हैं)",
+          "en": "Feebly repelled / magnetized in opposite direction"
+        },
+        {
+          "hi": "गर्म हो जाते हैं",
+          "en": "Get heated"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रतिचुंबकीय पदार्थों के उदाहरण कौन से हैं?",
+        "en": "Which of the following are examples of Diamagnetic substances?"
+      },
+      "o": [
+        {
+          "hi": "एल्युमीनियम, प्लैटिनम, सोडियम",
+          "en": "Aluminum, Platinum, Sodium"
+        },
+        {
+          "hi": "लोहा, निकेल, कोबाल्ट",
+          "en": "Iron, Nickel, Cobalt"
+        },
+        {
+          "hi": "बिस्मथ, तांबा, जल, सोना, चांदी, जस्ता",
+          "en": "Bismuth, Copper, Water, Gold, Silver, Zinc"
+        },
+        {
+          "hi": "केवल वायु",
+          "en": "Only Air"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अनुचुंबकीय पदार्थ (Paramagnetic Materials) चुंबकीय क्षेत्र द्वारा कैसा बल अनुभव करते हैं?",
+        "en": "Paramagnetic materials when placed in a magnetic field:"
+      },
+      "o": [
+        {
+          "hi": "तीव्रता से आकर्षित होते हैं",
+          "en": "Strongly Attracted"
+        },
+        {
+          "hi": "प्रतिकर्षित होते हैं",
+          "en": "Repelled"
+        },
+        {
+          "hi": "दुर्बल रूप से आकर्षित होते हैं (Feebly Attracted)",
+          "en": "Feebly Attracted"
+        },
+        {
+          "hi": "शून्य बल लगता है",
+          "en": "Zero Force"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अनुचुंबकीय पदार्थों के उदाहरण कौन-कौन से हैं?",
+        "en": "Which of the following are examples of Paramagnetic substances?"
+      },
+      "o": [
+        {
+          "hi": "लोहा, निकेल, कोबाल्ट",
+          "en": "Iron, Nickel, Cobalt"
+        },
+        {
+          "hi": "बिस्मथ और जल",
+          "en": "Bismuth and Water"
+        },
+        {
+          "hi": "एल्युमीनियम, प्लैटिनम, मैंगनीज, सोडियम, ऑक्सीजन",
+          "en": "Aluminum, Platinum, Manganese, Sodium, Oxygen"
+        },
+        {
+          "hi": "सोना और चांदी",
+          "en": "Gold and Silver"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लोहचुंबकीय पदार्थ (Ferromagnetic Materials) चुंबकीय क्षेत्र में कैसा व्यवहार करते हैं?",
+        "en": "Ferromagnetic materials when placed in a magnetic field:"
+      },
+      "o": [
+        {
+          "hi": "अपरिवर्तित रहते हैं",
+          "en": "Remain unchanged"
+        },
+        {
+          "hi": "दुर्बल रूप से प्रतिकर्षित होते हैं",
+          "en": "Feebly repelled"
+        },
+        {
+          "hi": "क्षेत्र की दिशा में तीव्र चुंबकत्व प्राप्त करते हैं (प्रबलता से आकर्षित)",
+          "en": "Strongly attracted and magnetized"
+        },
+        {
+          "hi": "प्रकाश उत्सर्जित करते हैं",
+          "en": "Emit light"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लोहचुंबकीय पदार्थों के मुख्य उदाहरण कौन से हैं?",
+        "en": "Which of the following are primary examples of Ferromagnetic materials?"
+      },
+      "o": [
+        {
+          "hi": "जल और लकड़ी",
+          "en": "Water and Wood"
+        },
+        {
+          "hi": "सोना, चांदी, तांबा",
+          "en": "Gold, Silver, Copper"
+        },
+        {
+          "hi": "लोहा (Iron), निकेल (Nickel), कोबाल्ट (Cobalt)",
+          "en": "Iron, Nickel, Cobalt"
+        },
+        {
+          "hi": "प्लास्टिक और कांच",
+          "en": "Plastic and Glass"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "क्यूरी ताप (Curie Temperature) वह ताप है जिसके ऊपर लोहचुंबकीय पदार्थ किसमें बदल जाता है?",
+        "en": "Above Curie Temperature, a Ferromagnetic material transforms into:"
+      },
+      "o": [
+        {
+          "hi": "अतिचालक में",
+          "en": "Superconductor"
+        },
+        {
+          "hi": "प्रतिचुंबकीय पदार्थ में",
+          "en": "Diamagnetic Material"
+        },
+        {
+          "hi": "अनुचुंबकीय पदार्थ में (Paramagnetic Material)",
+          "en": "Paramagnetic Material"
+        },
+        {
+          "hi": "अचालक में",
+          "en": "Insulator"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लोहे के लिए क्यूरी ताप का मान कितना होता है?",
+        "en": "What is the Curie Temperature for Iron?"
+      },
+      "o": [
+        {
+          "hi": "1120°C",
+          "en": "1120°C"
+        },
+        {
+          "hi": "358°C",
+          "en": "358°C"
+        },
+        {
+          "hi": "770°C (1043 K)",
+          "en": "770°C (1043 K)"
+        },
+        {
+          "hi": "0°C",
+          "en": "0°C"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अस्थायी चुंबक (Temporary Magnet / Electromagnet) बनाने के लिए किस धातु का प्रयोग होता है?",
+        "en": "Temporary Magnets or Electromagnets are made using:"
+      },
+      "o": [
+        {
+          "hi": "तांबा",
+          "en": "Copper"
+        },
+        {
+          "hi": "स्टील / इस्पात (Steel)",
+          "en": "Steel"
+        },
+        {
+          "hi": "नर्म लोहा (Soft Iron)",
+          "en": "Soft Iron"
+        },
+        {
+          "hi": "एल्युमीनियम",
+          "en": "Aluminum"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्थायी चुंबक (Permanent Magnet) बनाने के लिए किस मिश्रधातु/पदार्थ का उपयोग होता है?",
+        "en": "Permanent Magnets are commonly made using:"
+      },
+      "o": [
+        {
+          "hi": "जस्ता",
+          "en": "Zinc"
+        },
+        {
+          "hi": "नर्म लोहा",
+          "en": "Soft Iron"
+        },
+        {
+          "hi": "स्टील (Steel) या एल्निको (Alnico)",
+          "en": "Steel or Alnico (Al-Ni-Co)"
+        },
+        {
+          "hi": "पीतल",
+          "en": "Brass"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विद्युत धारा के चुंबकीय प्रभाव (Magnetic Effect of Electric Current) की खोज 1820 में किसने की थी?",
+        "en": "Who discovered the Magnetic Effect of Electric Current in 1820?"
+      },
+      "o": [
+        {
+          "hi": "अन्द्रे एम्पियर",
+          "en": "Andre Ampere"
+        },
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "हंस क्रिश्चियन ऑर्स्टेड (Hans Christian Oersted)",
+          "en": "Hans Christian Oersted"
+        },
+        {
+          "hi": "जॉर्ज साइमन ओम",
+          "en": "Georg Simon Ohm"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दाहिने हाथ के अंगूठे का नियम (Right Hand Thumb Rule) क्या ज्ञात करने के काम आता है?",
+        "en": "Right Hand Thumb Rule is used to determine:"
+      },
+      "o": [
+        {
+          "hi": "प्रतिरोध का मान",
+          "en": "Resistance value"
+        },
+        {
+          "hi": "विद्युत धारा का मान",
+          "en": "Magnitude of electric current"
+        },
+        {
+          "hi": "धारावाही चालक के चारों ओर चुंबकीय क्षेत्र की दिशा",
+          "en": "Direction of magnetic field around a current-carrying conductor"
+        },
+        {
+          "hi": "ऊष्मा की मात्रा",
+          "en": "Amount of heat"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "फ्लेमिंग के बाएं हाथ का नियम (Fleming's Left Hand Rule) किस उपकरण का कार्य सिद्धांत समझने में मदद करता है?",
+        "en": "Fleming's Left Hand Rule gives direction of force on a current-carrying wire in a magnetic field, used in:"
+      },
+      "o": [
+        {
+          "hi": "ट्रांसफॉर्मर",
+          "en": "Transformer"
+        },
+        {
+          "hi": "विद्युत जनित्र (Generator)",
+          "en": "Electric Generator"
+        },
+        {
+          "hi": "विद्युत मोटर (Electric Motor)",
+          "en": "Electric Motor"
+        },
+        {
+          "hi": "प्रतिरोधक",
+          "en": "Resistor"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "फ्लेमिंग के बाएं हाथ के नियम में तर्जनी (Forefinger), मध्यमा (Middle Finger) और अंगूठा क्या दर्शाते हैं?",
+        "en": "In Fleming's Left Hand Rule, Forefinger, Middle Finger, and Thumb represent respectively:"
+      },
+      "o": [
+        {
+          "hi": "धारा, बल और विभव",
+          "en": "Current, Force, Potential"
+        },
+        {
+          "hi": "बल, चुंबकीय क्षेत्र और धारा",
+          "en": "Force, Magnetic Field, Current"
+        },
+        {
+          "hi": "चुंबकीय क्षेत्र, विद्युत धारा और बल/गति की दिशा",
+          "en": "Magnetic Field, Current, and Force/Motion"
+        },
+        {
+          "hi": "विभव, धारा और बल",
+          "en": "Potential, Current, Force"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विद्युत चुंबकीय प्रेरण (Electromagnetic Induction, EMI) की खोज किसने की थी?",
+        "en": "Electromagnetic Induction (EMI) was discovered by:"
+      },
+      "o": [
+        {
+          "hi": "निकोला टेस्ला",
+          "en": "Nikola Tesla"
+        },
+        {
+          "hi": "हेनरिक हर्ट्ज़",
+          "en": "Heinrich Hertz"
+        },
+        {
+          "hi": "माइकल फैराडे (Michael Faraday - 1831)",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "थॉमस एडिसन",
+          "en": "Thomas Edison"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "फैराडे के विद्युत चुंबकीय प्रेरण के नियमानुसार प्रेरित विद्युत वाहक बल (e.m.f.) किसके समानुपाती होता है?",
+        "en": "According to Faraday's Law, induced e.m.f. is proportional to:"
+      },
+      "o": [
+        {
+          "hi": "तापमान के",
+          "en": "Temperature"
+        },
+        {
+          "hi": "केवल चुंबकीय क्षेत्र के",
+          "en": "Only magnetic field"
+        },
+        {
+          "hi": "प्रतिरोध के",
+          "en": "Resistance"
+        },
+        {
+          "hi": "चुंबकीय फ्लक्स में परिवर्तन की दर के (Rate of change of magnetic flux)",
+          "en": "Rate of change of magnetic flux"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लेंज का नियम (Lenz's Law) प्रेरित धारा की दिशा बताता है, यह किस भौतिक नियम के संरक्षण पर आधारित है?",
+        "en": "Lenz's Law determines the direction of induced current and is based on conservation of:"
+      },
+      "o": [
+        {
+          "hi": "द्रव्यमान संरक्षण",
+          "en": "Conservation of Mass"
+        },
+        {
+          "hi": "आवेश संरक्षण",
+          "en": "Conservation of Charge"
+        },
+        {
+          "hi": "संवेग संरक्षण",
+          "en": "Conservation of Momentum"
+        },
+        {
+          "hi": "ऊर्जा संरक्षण का नियम (Law of Conservation of Energy)",
+          "en": "Law of Conservation of Energy"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "फ्लेमिंग के दाएं हाथ का नियम (Fleming's Right Hand Rule) किसकी दिशा ज्ञात करने के लिए प्रयुक्त होता है?",
+        "en": "Fleming's Right Hand Rule is used to find the direction of:"
+      },
+      "o": [
+        {
+          "hi": "आवेश की गति की",
+          "en": "Motion of charge"
+        },
+        {
+          "hi": "चुंबकीय बल की दिशा",
+          "en": "Direction of magnetic force"
+        },
+        {
+          "hi": "विद्युत प्रतिरोध की",
+          "en": "Electrical resistance"
+        },
+        {
+          "hi": "प्रेरित विद्युत धारा की दिशा (Induced Current in Generator)",
+          "en": "Direction of Induced Current"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "डायनेमो या विद्युत जनरेटर (Electric Generator) किस सिद्धांत पर कार्य करता है?",
+        "en": "An Electric Generator / Dynamo operates on the principle of:"
+      },
+      "o": [
+        {
+          "hi": "रसायन प्रेरण",
+          "en": "Chemical Induction"
+        },
+        {
+          "hi": "पेल्टियर प्रभाव",
+          "en": "Peltier Effect"
+        },
+        {
+          "hi": "धारा का उष्मीय प्रभाव",
+          "en": "Joule's Heating Effect"
+        },
+        {
+          "hi": "विद्युत चुंबकीय प्रेरण (Electromagnetic Induction)",
+          "en": "Electromagnetic Induction"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ट्रांसफॉर्मर (Transformer) का मुख्य कार्य क्या है?",
+        "en": "What is the primary function of a Transformer?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत ऊर्जा उत्पन्न करना",
+          "en": "Generate electrical energy"
+        },
+        {
+          "hi": "AC को DC में बदलना",
+          "en": "Convert AC to DC"
+        },
+        {
+          "hi": "DC को AC में बदलना",
+          "en": "Convert DC to AC"
+        },
+        {
+          "hi": "प्रत्यावर्ती वोल्टेज (AC Voltage) के मान को बढ़ाना या घटाना",
+          "en": "Step-up or Step-down AC Voltage"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ट्रांसफॉर्मर केवल किस धारा (Current) पर कार्य करता है?",
+        "en": "A Transformer works ONLY on:"
+      },
+      "o": [
+        {
+          "hi": "बैटरी धारा पर",
+          "en": "Battery current"
+        },
+        {
+          "hi": "दिष्ट धारा (DC - Direct Current)",
+          "en": "Direct Current (DC)"
+        },
+        {
+          "hi": "AC और DC दोनों पर",
+          "en": "Both AC and DC"
+        },
+        {
+          "hi": "प्रत्यावर्ती धारा (AC - Alternating Current)",
+          "en": "Alternating Current (AC)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्टेप-अप ट्रांसफॉर्मर (Step-up Transformer) क्या करता है?",
+        "en": "A Step-up Transformer:"
+      },
+      "o": [
+        {
+          "hi": "आवृत्ति बढ़ाता है",
+          "en": "Increases frequency"
+        },
+        {
+          "hi": "उच्च विभव AC को निम्न विभव में बदलता है",
+          "en": "Decreases AC Voltage"
+        },
+        {
+          "hi": "AC को DC बनाता है",
+          "en": "Converts AC to DC"
+        },
+        {
+          "hi": "निम्न विभव की AC को उच्च विभव AC में बदलता है (धारा घटाता है)",
+          "en": "Increases AC Voltage (decreases current)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्टेप-डाउन ट्रांसफॉर्मर (Step-down Transformer) क्या करता है?",
+        "en": "A Step-down Transformer:"
+      },
+      "o": [
+        {
+          "hi": "ऊर्जा बढ़ाता है",
+          "en": "Increases energy"
+        },
+        {
+          "hi": "निम्न विभव AC को उच्च विभव में बदलता है",
+          "en": "Increases AC Voltage"
+        },
+        {
+          "hi": "DC विभव बढ़ाता है",
+          "en": "Increases DC voltage"
+        },
+        {
+          "hi": "उच्च विभव की AC को निम्न विभव AC में बदलता है",
+          "en": "Decreases AC Voltage (increases current)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ट्रांसफॉर्मर की क्रोड (Core of Transformer) भंवर धाराओं (Eddy Currents) के क्षय को कम करने के लिए कैसी बनाई जाती है?",
+        "en": "To minimize Eddy Current loss, Transformer core is made:"
+      },
+      "o": [
+        {
+          "hi": "कांच की",
+          "en": "Glass"
+        },
+        {
+          "hi": "ठोस लोहे की",
+          "en": "Solid Iron Block"
+        },
+        {
+          "hi": "तांबे की चादरों की",
+          "en": "Copper Sheets"
+        },
+        {
+          "hi": "पट लित नर्म लोहे की (Laminated Soft Iron Core)",
+          "en": "Laminated Soft Iron Core"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रेक्टिफायर / दिष्टकारी (Rectifier) का मुख्य कार्य क्या है?",
+        "en": "What is the primary function of a Rectifier?"
+      },
+      "o": [
+        {
+          "hi": "आवृत्ति बदलना",
+          "en": "Change frequency"
+        },
+        {
+          "hi": "DC को AC में बदलना",
+          "en": "Convert DC into AC"
+        },
+        {
+          "hi": "वोल्टेज बढ़ाना",
+          "en": "Step-up voltage"
+        },
+        {
+          "hi": "प्रत्यावर्ती धारा (AC) को दिष्ट धारा (DC) में बदलना",
+          "en": "Convert AC into DC"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इनवर्टर (Inverter) का मुख्य कार्य क्या है?",
+        "en": "What is the function of an Inverter?"
+      },
+      "o": [
+        {
+          "hi": "वोल्टेज को स्थिर रखना",
+          "en": "Stabilize voltage"
+        },
+        {
+          "hi": "AC को DC में बदलना",
+          "en": "Convert AC into DC"
+        },
+        {
+          "hi": "प्रतिरोध घटाना",
+          "en": "Decrease resistance"
+        },
+        {
+          "hi": "दिष्ट धारा (DC - बैटरी) को प्रत्यावर्ती धारा (AC) में बदलना",
+          "en": "Convert DC (Battery) into AC"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में घरेलू AC विद्युत आपूर्ति की आवृति (Frequency) और वोल्टेज कितना होता है?",
+        "en": "In India, standard domestic AC power supply has frequency and voltage of:"
+      },
+      "o": [
+        {
+          "hi": "50 Hz और 440 V",
+          "en": "50 Hz and 440 V"
+        },
+        {
+          "hi": "60 Hz और 110 V",
+          "en": "60 Hz and 110 V"
+        },
+        {
+          "hi": "100 Hz और 220 V",
+          "en": "100 Hz and 220 V"
+        },
+        {
+          "hi": "50 Hz और 220 V",
+          "en": "50 Hz and 220 V"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अमेरिका (USA) में मानक घरेलू बिजली आपूर्ति की आवृत्ति और वोल्टेज कितना होता है?",
+        "en": "In USA, standard domestic power supply frequency and voltage are:"
+      },
+      "o": [
+        {
+          "hi": "60 Hz और 220 V",
+          "en": "60 Hz and 220 V"
+        },
+        {
+          "hi": "50 Hz और 220 V",
+          "en": "50 Hz and 220 V"
+        },
+        {
+          "hi": "50 Hz और 110 V",
+          "en": "50 Hz and 110 V"
+        },
+        {
+          "hi": "60 Hz और 110 V - 120 V",
+          "en": "60 Hz and 110 V - 120 V"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दिष्ट धारा (DC) की आवृत्ति (Frequency of DC) कितनी होती है?",
+        "en": "What is the frequency of Direct Current (DC)?"
+      },
+      "o": [
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "50 Hz",
+          "en": "50 Hz"
+        },
+        {
+          "hi": "60 Hz",
+          "en": "60 Hz"
+        },
+        {
+          "hi": "0 Hz (शून्य)",
+          "en": "0 Hz (Zero)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गैल्वेनोमीटर को अमीटर (Ammeter) में बदलने के लिए क्या करना पड़ता है?",
+        "en": "To convert a Galvanometer into an Ammeter, we connect:"
+      },
+      "o": [
+        {
+          "hi": "कम प्रतिरोध को श्रेणीक्रम में",
+          "en": "Low resistance in Series"
+        },
+        {
+          "hi": "उच्च प्रतिरोध को श्रेणीक्रम में",
+          "en": "High resistance in Series"
+        },
+        {
+          "hi": "उच्च प्रतिरोध को समांतर क्रम में",
+          "en": "High resistance in Parallel"
+        },
+        {
+          "hi": "कम प्रतिरोध (शंट) को समांतर क्रम में (Low resistance Shunt in Parallel)",
+          "en": "Low resistance (Shunt) in Parallel"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गैल्वेनोमीटर को वोल्टमीटर (Voltmeter) में बदलने के लिए क्या किया जाता है?",
+        "en": "To convert a Galvanometer into a Voltmeter, we connect:"
+      },
+      "o": [
+        {
+          "hi": "संधारित्र को श्रेणीक्रम में",
+          "en": "Capacitor in Series"
+        },
+        {
+          "hi": "कम प्रतिरोध को समांतर क्रम में",
+          "en": "Low Resistance in Parallel"
+        },
+        {
+          "hi": "कम प्रतिरोध को श्रेणीक्रम में",
+          "en": "Low Resistance in Series"
+        },
+        {
+          "hi": "उच्च प्रतिरोध को श्रेणीक्रम में (High Resistance in Series)",
+          "en": "High Resistance in Series"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एक आदर्श अमीटर (Ideal Ammeter) का प्रतिरोध कितना होना चाहिए?",
+        "en": "Resistance of an Ideal Ammeter should be:"
+      },
+      "o": [
+        {
+          "hi": "1 ओम",
+          "en": "1 Ohm"
+        },
+        {
+          "hi": "अनंत (Infinite)",
+          "en": "Infinite"
+        },
+        {
+          "hi": "100 ओम",
+          "en": "100 Ohms"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एक आदर्श वोल्टमीटर (Ideal Voltmeter) का प्रतिरोध कितना होना चाहिए?",
+        "en": "Resistance of an Ideal Voltmeter should be:"
+      },
+      "o": [
+        {
+          "hi": "1000 ओम",
+          "en": "1000 Ohms"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        },
+        {
+          "hi": "1 ओम",
+          "en": "1 Ohm"
+        },
+        {
+          "hi": "अनंत (Infinite)",
+          "en": "Infinite"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}

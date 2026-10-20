@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "प्रकाश - परावर्तन, अपवर्तन / Light - Reflection & Refraction",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Light - Reflection & Refraction.",
+  "questions": [
+    {
+      "q": {
+        "hi": "प्रकाश किस प्रकार की तरंग है?",
+        "en": "Light is what type of wave?"
+      },
+      "o": [
+        {
+          "hi": "अनुप्रस्थ विद्युतचुंबकीय तरंग (Transverse Electromagnetic Wave)",
+          "en": "Transverse Electromagnetic Wave"
+        },
+        {
+          "hi": "अनुदैर्ध्य यांत्रिक तरंग",
+          "en": "Longitudinal Mechanical Wave"
+        },
+        {
+          "hi": "द्रव्य तरंग",
+          "en": "Matter Wave"
+        },
+        {
+          "hi": "ध्वनि तरंग",
+          "en": "Sound Wave"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "निर्वात में प्रकाश की चाल (Speed of Light in Vacuum) कितनी होती है?",
+        "en": "What is the speed of light in vacuum?"
+      },
+      "o": [
+        {
+          "hi": "3 × 10⁸ m/s (या 3 लाख किमी/सेकंड)",
+          "en": "3 × 10⁸ m/s (or 3 lakh km/s)"
+        },
+        {
+          "hi": "332 m/s",
+          "en": "332 m/s"
+        },
+        {
+          "hi": "3 × 10⁵ m/s",
+          "en": "3 × 10⁵ m/s"
+        },
+        {
+          "hi": "1.5 × 10⁸ m/s",
+          "en": "1.5 × 10⁸ m/s"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सूर्य के प्रकाश को पृथ्वी तक पहुँचने में कितना समय लगता है?",
+        "en": "How much time does sunlight take to reach the Earth?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 8 मिनट 20 सेकंड (500 सेकंड)",
+          "en": "Approx 8 minutes 20 seconds (500 seconds)"
+        },
+        {
+          "hi": "8 सेकंड",
+          "en": "8 seconds"
+        },
+        {
+          "hi": "1 मिनट",
+          "en": "1 minute"
+        },
+        {
+          "hi": "24 घंटे",
+          "en": "24 hours"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चंद्रमा से परावर्तित प्रकाश को पृथ्वी तक पहुँचने में कितना समय लगता है?",
+        "en": "How much time does reflected light from Moon take to reach Earth?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 1.28 सेकंड (1.3 सेकंड)",
+          "en": "Approx 1.28 seconds (1.3 seconds)"
+        },
+        {
+          "hi": "8 मिनट",
+          "en": "8 minutes"
+        },
+        {
+          "hi": "500 सेकंड",
+          "en": "500 seconds"
+        },
+        {
+          "hi": "10 सेकंड",
+          "en": "10 seconds"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रकाश के परावर्तन के नियम (Laws of Reflection) के अनुसार आपतन कोण (i) और परावर्तन कोण (r) में क्या संबंध होता है?",
+        "en": "According to Laws of Reflection, angle of incidence (i) and angle of reflection (r) are:"
+      },
+      "o": [
+        {
+          "hi": "i = r (आपतन कोण = परावर्तन कोण)",
+          "en": "i = r (Angle of incidence = Angle of reflection)"
+        },
+        {
+          "hi": "i > r",
+          "en": "i > r"
+        },
+        {
+          "hi": "i + r = 90°",
+          "en": "i + r = 90°"
+        },
+        {
+          "hi": "i = 2r",
+          "en": "i = 2r"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समतल दर्पण (Plane Mirror) द्वारा बना प्रतिबिंब कैसा होता है?",
+        "en": "The image formed by a Plane Mirror is:"
+      },
+      "o": [
+        {
+          "hi": "आभासी, सीधा और वस्तु के बराबर (Virtual, Erect & Same Size)",
+          "en": "Virtual, Erect & Same Size"
+        },
+        {
+          "hi": "वास्तविक और उल्टा",
+          "en": "Real & Inverted"
+        },
+        {
+          "hi": "वास्तविक और बड़ा",
+          "en": "Real & Enlarged"
+        },
+        {
+          "hi": "आभासी और छोटा",
+          "en": "Virtual & Diminished"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समतल दर्पण में अपना पूरा प्रतिबिंब देखने के लिए दर्पण की न्यूनतम लंबाई कितनी होनी चाहिए?",
+        "en": "To view a full-length image, minimum height of a plane mirror must be:"
+      },
+      "o": [
+        {
+          "hi": "व्यक्ति की लंबाई की आधी (Half the height of person)",
+          "en": "Half the height of person"
+        },
+        {
+          "hi": "व्यक्ति की लंबाई के बराबर",
+          "en": "Equal to height of person"
+        },
+        {
+          "hi": "एक-चौथाई",
+          "en": "One-fourth"
+        },
+        {
+          "hi": "दोगुनी",
+          "en": "Double"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यदि दो समतल दर्पण θ कोण पर झुके हों, तो उनके बीच रखी वस्तु के प्रतिबिंबों की संख्या (n) ज्ञात करने का सूत्र क्या है?",
+        "en": "If two plane mirrors are inclined at angle θ, number of images formed (n) is given by:"
+      },
+      "o": [
+        {
+          "hi": "n = (360° / θ) - 1 (यदि 360/θ सम संख्या हो)",
+          "en": "n = (360° / θ) - 1 (if 360/θ is even)"
+        },
+        {
+          "hi": "n = 360° / θ",
+          "en": "n = 360° / θ"
+        },
+        {
+          "hi": "n = 180° / θ",
+          "en": "n = 180° / θ"
+        },
+        {
+          "hi": "n = θ / 360°",
+          "en": "n = θ / 360°"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यदि दो समतल दर्पण एक-दूसरे के समांतर (θ = 0°) रखे हों, तो उनके बीच रखी वस्तु के कितने प्रतिबिंब बनेंगे?",
+        "en": "If two plane mirrors are placed parallel to each other (θ = 0°), number of images formed is:"
+      },
+      "o": [
+        {
+          "hi": "अनंत (Infinite)",
+          "en": "Infinite"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        },
+        {
+          "hi": "2",
+          "en": "2"
+        },
+        {
+          "hi": "4",
+          "en": "4"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जब कोई व्यक्ति v चाल से समतल दर्पण की ओर दौड़ता है, तो उसका प्रतिबिंब उसकी ओर किस चाल से आता प्रतीत होता है?",
+        "en": "If a person moves toward a plane mirror with speed v, his image approaches him with speed:"
+      },
+      "o": [
+        {
+          "hi": "2v (दोगुनी चाल से)",
+          "en": "2v (Double speed)"
+        },
+        {
+          "hi": "v (समान चाल से)",
+          "en": "v (Same speed)"
+        },
+        {
+          "hi": "v / 2 (आधी चाल से)",
+          "en": "v / 2 (Half speed)"
+        },
+        {
+          "hi": "4v",
+          "en": "4v"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गाड़ियों की हेडलाइट, टॉर्च और सर्चलाइट में किस दर्पण का उपयोग किया जाता है?",
+        "en": "Which mirror is used in headlights of vehicles, torches, and searchlights?"
+      },
+      "o": [
+        {
+          "hi": "अवतल दर्पण (Concave Mirror / Parabolic Mirror)",
+          "en": "Concave Mirror / Parabolic Mirror"
+        },
+        {
+          "hi": "उत्तल दर्पण (Convex Mirror)",
+          "en": "Convex Mirror"
+        },
+        {
+          "hi": "समतल दर्पण",
+          "en": "Plane Mirror"
+        },
+        {
+          "hi": "बेलनाकार दर्पण",
+          "en": "Cylindrical Mirror"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दाढ़ी बनाने (Shaving Mirror) और ई.एन.टी. (ENT) डॉक्टरों द्वारा कान-नाक-गले की जांच के लिए कौन सा दर्पण प्रयुक्त होता है?",
+        "en": "Which mirror is used as a shaving mirror and by ENT doctors?"
+      },
+      "o": [
+        {
+          "hi": "अवतल दर्पण (Concave Mirror)",
+          "en": "Concave Mirror"
+        },
+        {
+          "hi": "उत्तल दर्पण (Convex Mirror)",
+          "en": "Convex Mirror"
+        },
+        {
+          "hi": "समतल दर्पण",
+          "en": "Plane Mirror"
+        },
+        {
+          "hi": "उत्तलावतल दर्पण",
+          "en": "Convexo-Concave Mirror"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वाहनों में पीछे का दृश्य देखने के लिए (Side View / Rear View Mirror) किस दर्पण का उपयोग किया जाता है?",
+        "en": "Which mirror is used as a rear-view mirror in automobiles?"
+      },
+      "o": [
+        {
+          "hi": "उत्तल दर्पण (Convex Mirror)",
+          "en": "Convex Mirror"
+        },
+        {
+          "hi": "अवतल दर्पण (Concave Mirror)",
+          "en": "Concave Mirror"
+        },
+        {
+          "hi": "समतल दर्पण",
+          "en": "Plane Mirror"
+        },
+        {
+          "hi": "द्विफोकसी दर्पण",
+          "en": "Bifocal Mirror"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सड़क पर लगी स्ट्रीट लाइटों (Street Lamps) में परावर्तक के रूप में किस दर्पण का उपयोग होता है?",
+        "en": "Which mirror is used in street lamp reflectors to diverge light?"
+      },
+      "o": [
+        {
+          "hi": "उत्तल दर्पण (Convex Mirror)",
+          "en": "Convex Mirror"
+        },
+        {
+          "hi": "अवतल दर्पण (Concave Mirror)",
+          "en": "Concave Mirror"
+        },
+        {
+          "hi": "समतल दर्पण",
+          "en": "Plane Mirror"
+        },
+        {
+          "hi": "बेलनाकार दर्पण",
+          "en": "Cylindrical Mirror"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गोलीय दर्पण के ध्रुव (Pole) और फोकस बिंदु के बीच की दूरी को क्या कहते हैं?",
+        "en": "Distance between the pole and focus of a spherical mirror is called:"
+      },
+      "o": [
+        {
+          "hi": "फोकस दूरी (Focal Length, f)",
+          "en": "Focal Length (f)"
+        },
+        {
+          "hi": "वक्रता त्रिज्या (Radius of Curvature, R)",
+          "en": "Radius of Curvature (R)"
+        },
+        {
+          "hi": "मुख्य अक्ष",
+          "en": "Principal Axis"
+        },
+        {
+          "hi": "द्वारक",
+          "en": "Aperture"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गोलीय दर्पण की फोकस दूरी (f) और वक्रता त्रिज्या (R) में क्या संबंध होता है?",
+        "en": "Relation between focal length (f) and radius of curvature (R) of a spherical mirror is:"
+      },
+      "o": [
+        {
+          "hi": "f = R / 2",
+          "en": "f = R / 2"
+        },
+        {
+          "hi": "f = 2R",
+          "en": "f = 2R"
+        },
+        {
+          "hi": "f = R²",
+          "en": "f = R²"
+        },
+        {
+          "hi": "f = 1 / R",
+          "en": "f = 1 / R"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दर्पण सूत्र (Mirror Formula) क्या है?",
+        "en": "What is the Mirror Formula relating u, v, and f?"
+      },
+      "o": [
+        {
+          "hi": "1/f = 1/v + 1/u",
+          "en": "1/f = 1/v + 1/u"
+        },
+        {
+          "hi": "1/f = 1/v - 1/u",
+          "en": "1/f = 1/v - 1/u"
+        },
+        {
+          "hi": "f = u + v",
+          "en": "f = u + v"
+        },
+        {
+          "hi": "1/f = u · v",
+          "en": "1/f = u · v"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अवतल दर्पण की फोकस दूरी का चिह्न (Sign Convention) परिपाटी के अनुसार कैसा होता है?",
+        "en": "According to Cartesian Sign Convention, focal length of a Concave Mirror is:"
+      },
+      "o": [
+        {
+          "hi": "ऋणात्मक (Negative)",
+          "en": "Negative"
+        },
+        {
+          "hi": "धनात्मक (Positive)",
+          "en": "Positive"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        },
+        {
+          "hi": "अनंत (Infinite)",
+          "en": "Infinite"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उत्तल दर्पण की फोकस दूरी का चिह्न परिपाटी के अनुसार कैसा होता है?",
+        "en": "Focal length of a Convex Mirror is always taken as:"
+      },
+      "o": [
+        {
+          "hi": "धनात्मक (Positive)",
+          "en": "Positive"
+        },
+        {
+          "hi": "ऋणात्मक (Negative)",
+          "en": "Negative"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "अपरिभाषित",
+          "en": "Undefined"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अवतल दर्पण के सामने वस्तु को कहाँ रखने पर उसका आभासी, सीधा और बड़ा प्रतिबिंब बनता है?",
+        "en": "Where should an object be placed in front of a concave mirror to get virtual, erect & enlarged image?"
+      },
+      "o": [
+        {
+          "hi": "फोकस पर (At F)",
+          "en": "At Focus (F)"
+        },
+        {
+          "hi": "ध्रुव (P) और फोकस (F) के बीच",
+          "en": "Between Pole (P) and Focus (F)"
+        },
+        {
+          "hi": "वक्रता केंद्र पर (At C)",
+          "en": "At Center of Curvature (C)"
+        },
+        {
+          "hi": "अनंत पर (At Infinity)",
+          "en": "At Infinity"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अवतल दर्पण में वक्रता केंद्र (C) पर रखी वस्तु का प्रतिबिंब कहाँ और कैसा बनता है?",
+        "en": "Image of an object placed at Center of Curvature (C) of a concave mirror is:"
+      },
+      "o": [
+        {
+          "hi": "फोकस पर, छोटा",
+          "en": "At Focus, diminished"
+        },
+        {
+          "hi": "वक्रता केंद्र (C) पर ही, वास्तविक, उल्टा और समान आकार का",
+          "en": "At C, Real, Inverted & Same Size"
+        },
+        {
+          "hi": "अनंत पर, बड़ा",
+          "en": "At Infinity, enlarged"
+        },
+        {
+          "hi": "दर्पण के पीछे, आभासी",
+          "en": "Behind mirror, virtual"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जब प्रकाश की किरण एक पारदर्शी माध्यम से दूसरे पारदर्शी माध्यम में प्रवेश करती है, तो अपने पथ से विचलित होना क्या कहलाता है?",
+        "en": "Bending of light ray when passing from one medium to another is called:"
+      },
+      "o": [
+        {
+          "hi": "प्रकाश का परावर्तन (Reflection)",
+          "en": "Reflection"
+        },
+        {
+          "hi": "प्रकाश का अपवर्तन (Refraction of Light)",
+          "en": "Refraction of Light"
+        },
+        {
+          "hi": "प्रकाश का विवर्तन (Diffraction)",
+          "en": "Diffraction"
+        },
+        {
+          "hi": "प्रकाश का ध्रुवण (Polarization)",
+          "en": "Polarization"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जब प्रकाश किरण विरल माध्यम (Rarer) से सघन माध्यम (Denser) में प्रवेश करती है, तो वह अभिलंब की ओर:",
+        "en": "When light travels from rarer to denser medium, it bends:"
+      },
+      "o": [
+        {
+          "hi": "दूर हट जाती है (Bends away from Normal)",
+          "en": "Bends away from Normal"
+        },
+        {
+          "hi": "झुक जाती है (Bends towards the Normal)",
+          "en": "Bends towards the Normal"
+        },
+        {
+          "hi": "सीधी निकल जाती है",
+          "en": "Goes unbent"
+        },
+        {
+          "hi": "वापस लौट जाती है",
+          "en": "Reflects back"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जब प्रकाश किरण सघन माध्यम (Denser) से विरल माध्यम (Rarer) में प्रवेश करती है, तो वह अभिलंब से:",
+        "en": "When light travels from denser to rarer medium, it bends:"
+      },
+      "o": [
+        {
+          "hi": "पास आ जाती है (Bends towards Normal)",
+          "en": "Bends towards Normal"
+        },
+        {
+          "hi": "दूर हट जाती है (Bends away from the Normal)",
+          "en": "Bends away from the Normal"
+        },
+        {
+          "hi": "विचलित नहीं होती",
+          "en": "Does not bend"
+        },
+        {
+          "hi": "अवशोषित हो जाती है",
+          "en": "Gets absorbed"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रकाश के अपवर्तन के दौरान कौन सी भौतिक राशि अपरिवर्तित रहती है (नहीं बदलती)?",
+        "en": "Which property of light remains UNCHANGED during refraction?"
+      },
+      "o": [
+        {
+          "hi": "चाल (Speed, v)",
+          "en": "Speed (v)"
+        },
+        {
+          "hi": "आवृत्ति (Frequency, f)",
+          "en": "Frequency (f)"
+        },
+        {
+          "hi": "तरंगदैर्ध्य (Wavelength, λ)",
+          "en": "Wavelength (λ)"
+        },
+        {
+          "hi": "तीव्रता (Intensity)",
+          "en": "Intensity"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्नेल का नियम (Snell's Law) अपवर्तन के लिए क्या सूत्र देता है?",
+        "en": "Snell's Law of Refraction is mathematically expressed as:"
+      },
+      "o": [
+        {
+          "hi": "sin i × sin r = μ",
+          "en": "sin i × sin r = μ"
+        },
+        {
+          "hi": "sin i / sin r = μ (नियतांक)",
+          "en": "sin i / sin r = μ (Constant)"
+        },
+        {
+          "hi": "cos i / cos r = μ",
+          "en": "cos i / cos r = μ"
+        },
+        {
+          "hi": "tan i / tan r = μ",
+          "en": "tan i / tan r = μ"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किसी माध्यम का निरपेक्ष अपवर्तनांक (Absolute Refractive Index, μ) क्या होता है?",
+        "en": "Absolute refractive index (μ) of a medium is defined as:"
+      },
+      "o": [
+        {
+          "hi": "μ = v / c",
+          "en": "μ = v / c"
+        },
+        {
+          "hi": "μ = c / v (निर्वात में प्रकाश की चाल / माध्यम में प्रकाश की चाल)",
+          "en": "μ = c / v (Speed in vacuum / Speed in medium)"
+        },
+        {
+          "hi": "μ = c × v",
+          "en": "μ = c × v"
+        },
+        {
+          "hi": "μ = c + v",
+          "en": "μ = c + v"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कांच में प्रकाश की चाल 2 × 10⁸ m/s है, तो कांच का अपवर्तनांक कितना होगा?",
+        "en": "If speed of light in glass is 2 × 10⁸ m/s, refractive index of glass is:"
+      },
+      "o": [
+        {
+          "hi": "1.33",
+          "en": "1.33"
+        },
+        {
+          "hi": "1.5",
+          "en": "1.5"
+        },
+        {
+          "hi": "2.42",
+          "en": "2.42"
+        },
+        {
+          "hi": "1.0",
+          "en": "1.0"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जल का अपवर्तनांक (Refractive Index of Water) कितना होता है?",
+        "en": "What is the refractive index of pure water?"
+      },
+      "o": [
+        {
+          "hi": "1.5 (या 3/2)",
+          "en": "1.5 (or 3/2)"
+        },
+        {
+          "hi": "1.33 (या 4/3)",
+          "en": "1.33 (or 4/3)"
+        },
+        {
+          "hi": "2.42",
+          "en": "2.42"
+        },
+        {
+          "hi": "1.00",
+          "en": "1.00"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हीरे का अपवर्तनांक (Refractive Index of Diamond) कितना होता है?",
+        "en": "What is the refractive index of Diamond (~2.42)?"
+      },
+      "o": [
+        {
+          "hi": "1.5",
+          "en": "1.5"
+        },
+        {
+          "hi": "2.42 (सबसे अधिक)",
+          "en": "2.42 (Highest)"
+        },
+        {
+          "hi": "1.33",
+          "en": "1.33"
+        },
+        {
+          "hi": "1.0",
+          "en": "1.0"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जल में आंशिक रूप से डूबी हुई छड़ का मुड़ी हुई दिखाई देना किसका उदाहरण है?",
+        "en": "A stick partially immersed in water appears bent due to:"
+      },
+      "o": [
+        {
+          "hi": "प्रकाश का परावर्तन (Reflection)",
+          "en": "Reflection"
+        },
+        {
+          "hi": "प्रकाश का अपवर्तन (Refraction)",
+          "en": "Refraction"
+        },
+        {
+          "hi": "पूर्ण आंतरिक परावर्तन",
+          "en": "Total Internal Reflection"
+        },
+        {
+          "hi": "प्रकीर्णन",
+          "en": "Scattering"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रात्रि में तारों का टिमटिमाना (Twinkling of Stars) किस घटना के कारण होता है?",
+        "en": "Twinkling of stars at night is caused by:"
+      },
+      "o": [
+        {
+          "hi": "प्रकाश का व्यतिकरण",
+          "en": "Interference"
+        },
+        {
+          "hi": "वायुमंडलीय अपवर्तन (Atmospheric Refraction)",
+          "en": "Atmospheric Refraction"
+        },
+        {
+          "hi": "पूर्ण आंतरिक परावर्तन",
+          "en": "Total Internal Reflection"
+        },
+        {
+          "hi": "प्रकाश का विवर्तन",
+          "en": "Diffraction"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सूर्य के वास्तव में क्षितिज से ऊपर आने से 2 मिनट पहले ही सूर्य दिखने का कारण क्या है?",
+        "en": "Early sunrise and delayed sunset (by about 2 minutes) is due to:"
+      },
+      "o": [
+        {
+          "hi": "प्रकाश का प्रकीर्णन",
+          "en": "Scattering"
+        },
+        {
+          "hi": "वायुमंडलीय अपवर्तन (Atmospheric Refraction)",
+          "en": "Atmospheric Refraction"
+        },
+        {
+          "hi": "पूर्ण आंतरिक परावर्तन",
+          "en": "Total Internal Reflection"
+        },
+        {
+          "hi": "प्रकाश का ध्रुवण",
+          "en": "Polarization"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पानी से भरे बर्तन की तली में पड़ा सिक्का थोड़ा ऊपर उठा हुआ क्यों दिखाई देता है?",
+        "en": "A coin lying at the bottom of a water vessel appears raised due to:"
+      },
+      "o": [
+        {
+          "hi": "परावर्तन",
+          "en": "Reflection"
+        },
+        {
+          "hi": "अपवर्तन (Refraction)",
+          "en": "Refraction"
+        },
+        {
+          "hi": "विवर्तन",
+          "en": "Diffraction"
+        },
+        {
+          "hi": "वर्ण विक्षेपण",
+          "en": "Dispersion"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सघन माध्यम में वह आपतन कोण जिसके लिए विरल माध्यम में अपवर्तन कोण 90° हो जाता है, क्या कहलाता है?",
+        "en": "Angle of incidence in denser medium for which angle of refraction in rarer medium is 90° is:"
+      },
+      "o": [
+        {
+          "hi": "ध्रुवण कोण (Polarizing Angle)",
+          "en": "Polarizing Angle"
+        },
+        {
+          "hi": "क्रांतिक कोण (Critical Angle, i_c)",
+          "en": "Critical Angle (i_c)"
+        },
+        {
+          "hi": "अपवर्तन कोण",
+          "en": "Refraction Angle"
+        },
+        {
+          "hi": "विचलन कोण",
+          "en": "Deviation Angle"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्रांतिक कोण (i_c) और अपवर्तनांक (μ) में सही संबंध क्या है?",
+        "en": "Correct relation between critical angle (i_c) and refractive index (μ) is:"
+      },
+      "o": [
+        {
+          "hi": "cos i_c = 1 / μ",
+          "en": "cos i_c = 1 / μ"
+        },
+        {
+          "hi": "sin i_c = 1 / μ",
+          "en": "sin i_c = 1 / μ"
+        },
+        {
+          "hi": "sin i_c = μ",
+          "en": "sin i_c = μ"
+        },
+        {
+          "hi": "tan i_c = 1 / μ",
+          "en": "tan i_c = 1 / μ"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कांच-वायु पृष्ठ के लिए क्रांतिक कोण लगभग कितना होता है?",
+        "en": "Critical angle for glass-air interface is approximately:"
+      },
+      "o": [
+        {
+          "hi": "24.4°",
+          "en": "24.4°"
+        },
+        {
+          "hi": "42°",
+          "en": "42°"
+        },
+        {
+          "hi": "48.6°",
+          "en": "48.6°"
+        },
+        {
+          "hi": "90°",
+          "en": "90°"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हीरे-वायु पृष्ठ के लिए क्रांतिक कोण का मान कितना होता है?",
+        "en": "Critical angle for diamond-air interface is extremely small, about:"
+      },
+      "o": [
+        {
+          "hi": "42°",
+          "en": "42°"
+        },
+        {
+          "hi": "24.4°",
+          "en": "24.4°"
+        },
+        {
+          "hi": "48.6°",
+          "en": "48.6°"
+        },
+        {
+          "hi": "60°",
+          "en": "60°"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जब आपतन कोण का मान क्रांतिक कोण से बड़ा (i > i_c) हो जाता है, तो पूरी प्रकाश किरण सघन माध्यम में लौट आती है, इसे क्या कहते हैं?",
+        "en": "When angle of incidence exceeds critical angle, light ray reflects back completely. This is:"
+      },
+      "o": [
+        {
+          "hi": "वर्ण विक्षेपण",
+          "en": "Dispersion"
+        },
+        {
+          "hi": "आंशिक परावर्तन",
+          "en": "Partial Reflection"
+        },
+        {
+          "hi": "पूर्ण आंतरिक परावर्तन (Total Internal Reflection, TIR)",
+          "en": "Total Internal Reflection (TIR)"
+        },
+        {
+          "hi": "व्यतिकरण",
+          "en": "Interference"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रेगिस्तान में मरीचिका (Mirage in Deserts) बनने की घटना किस भौतिक नियम पर आधारित है?",
+        "en": "Mirage formation in hot deserts is an example of:"
+      },
+      "o": [
+        {
+          "hi": "प्रकीर्णन",
+          "en": "Scattering"
+        },
+        {
+          "hi": "केवल अपवर्तन",
+          "en": "Only Refraction"
+        },
+        {
+          "hi": "पूर्ण आंतरिक परावर्तन (Total Internal Reflection)",
+          "en": "Total Internal Reflection"
+        },
+        {
+          "hi": "विवर्तन",
+          "en": "Diffraction"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हीरे का अत्यधिक चमकना (Sparkling of Diamond) किस कारण से होता है?",
+        "en": "Brilliance and sparkling of a diamond is due to:"
+      },
+      "o": [
+        {
+          "hi": "प्रकाश का विवर्तन",
+          "en": "Diffraction of light"
+        },
+        {
+          "hi": "प्रकाश का प्रकीर्णन",
+          "en": "Scattering of light"
+        },
+        {
+          "hi": "अत्यधिक उच्च अपवर्तनांक और छोटे क्रांतिक कोण के कारण पूर्ण आंतरिक परावर्तन",
+          "en": "Total Internal Reflection due to small critical angle & high refractive index"
+        },
+        {
+          "hi": "हीरे का अपना प्रकाश होना",
+          "en": "Diamond emitting own light"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रकाशिक तंतु (Optical Fiber) किस सिद्धांत पर कार्य करता है?",
+        "en": "Optical Fiber communication operates on the principle of:"
+      },
+      "o": [
+        {
+          "hi": "प्रकाश का प्रकीर्णन",
+          "en": "Scattering of light"
+        },
+        {
+          "hi": "प्रकाश का अपवर्तन",
+          "en": "Refraction of light"
+        },
+        {
+          "hi": "पूर्ण आंतरिक परावर्तन (Total Internal Reflection)",
+          "en": "Total Internal Reflection"
+        },
+        {
+          "hi": "प्रकाश का व्यतिकरण",
+          "en": "Interference of light"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एंडोस्कोपी (Endoscopy) में पेट का आंतरिक निरीक्षण करने वाली नली किस पर आधारित है?",
+        "en": "Medical Endoscopy for internal organ imaging works on:"
+      },
+      "o": [
+        {
+          "hi": "अल्ट्रासाउंड",
+          "en": "Ultrasound"
+        },
+        {
+          "hi": "एक्स-किरण उत्सर्जन",
+          "en": "X-Ray emission"
+        },
+        {
+          "hi": "प्रकाशिक तंतु / पूर्ण आंतरिक परावर्तन (Optical Fiber / TIR)",
+          "en": "Optical Fiber / TIR"
+        },
+        {
+          "hi": "लेजर",
+          "en": "Laser"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कांच में आई दरार का चमकीला दिखाई देना किसका उदाहरण है?",
+        "en": "A crack in a glass vessel appears silvery bright due to:"
+      },
+      "o": [
+        {
+          "hi": "विवर्तन",
+          "en": "Diffraction"
+        },
+        {
+          "hi": "परावर्तन",
+          "en": "Reflection"
+        },
+        {
+          "hi": "पूर्ण आंतरिक परावर्तन (Total Internal Reflection)",
+          "en": "Total Internal Reflection"
+        },
+        {
+          "hi": "ध्रुवण",
+          "en": "Polarization"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उत्तल लेंस (Convex Lens) प्रकाश की किरणों को क्या करता है?",
+        "en": "A Convex Lens acts as a:"
+      },
+      "o": [
+        {
+          "hi": "समतल लेंस",
+          "en": "Flat Lens"
+        },
+        {
+          "hi": "अपसारी लेंस (Diverging Lens)",
+          "en": "Diverging Lens"
+        },
+        {
+          "hi": "अभिसारी लेंस (Converging Lens - किरणों को केंद्रित करता है)",
+          "en": "Converging Lens"
+        },
+        {
+          "hi": "परावर्तक",
+          "en": "Reflector"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अवतल लेंस (Concave Lens) प्रकाश किरणों पर क्या प्रभाव डालता है?",
+        "en": "A Concave Lens acts as a:"
+      },
+      "o": [
+        {
+          "hi": "समतल दर्पण",
+          "en": "Plane Mirror"
+        },
+        {
+          "hi": "अभिसारी लेंस (Converging Lens)",
+          "en": "Converging Lens"
+        },
+        {
+          "hi": "अपसारी लेंस (Diverging Lens - किरणों को फैलाता है)",
+          "en": "Diverging Lens"
+        },
+        {
+          "hi": "प्रिज्म",
+          "en": "Prism"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लेंस की क्षमता (Power of Lens, P) और फोकस दूरी (f, मीटर में) में क्या संबंध है?",
+        "en": "Power of Lens (P in Diopters) and focal length (f in meters) are related as:"
+      },
+      "o": [
+        {
+          "hi": "P = 100 × f",
+          "en": "P = 100 × f"
+        },
+        {
+          "hi": "P = f",
+          "en": "P = f"
+        },
+        {
+          "hi": "P = 1 / f(m)",
+          "en": "P = 1 / f(m)"
+        },
+        {
+          "hi": "P = f²",
+          "en": "P = f²"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लेंस की क्षमता का मात्रक क्या है?",
+        "en": "What is the SI unit of Power of a Lens?"
+      },
+      "o": [
+        {
+          "hi": "वाट",
+          "en": "Watt"
+        },
+        {
+          "hi": "मीटर",
+          "en": "Meter"
+        },
+        {
+          "hi": "डायोप्टर (Diopter, D)",
+          "en": "Diopter (D)"
+        },
+        {
+          "hi": "ल्यूमेन",
+          "en": "Lumen"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उत्तर लेंस की क्षमता का चिह्न कैसा होता है?",
+        "en": "Power and focal length of a Convex Lens is always:"
+      },
+      "o": [
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "ऋणात्मक (-)",
+          "en": "Negative (-)"
+        },
+        {
+          "hi": "धनात्मक (+)",
+          "en": "Positive (+)"
+        },
+        {
+          "hi": "अपरिभाषित",
+          "en": "Undefined"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अवतल लेंस की क्षमता का चिह्न कैसा होता है?",
+        "en": "Power and focal length of a Concave Lens is always:"
+      },
+      "o": [
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "धनात्मक (+)",
+          "en": "Positive (+)"
+        },
+        {
+          "hi": "ऋणात्मक (-)",
+          "en": "Negative (-)"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पानी के अंदर हवा का बुलबुला (Air bubble in water) किस लेंस की भांति व्यवहार करता है?",
+        "en": "An air bubble inside water behaves like which type of lens?"
+      },
+      "o": [
+        {
+          "hi": "समतल कांच",
+          "en": "Flat Glass"
+        },
+        {
+          "hi": "उत्तल लेंस (Convex Lens)",
+          "en": "Convex Lens"
+        },
+        {
+          "hi": "अवतल लेंस / अपसारी लेंस (Concave / Diverging Lens)",
+          "en": "Concave / Diverging Lens"
+        },
+        {
+          "hi": "बेलनाकार लेंस",
+          "en": "Cylindrical Lens"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "धूप के चश्मे (Sunglasses) की क्षमता कितनी होती है?",
+        "en": "Power of sunglasses lenses is:"
+      },
+      "o": [
+        {
+          "hi": "2 D",
+          "en": "2 Diopters"
+        },
+        {
+          "hi": "1 D",
+          "en": "1 Diopter"
+        },
+        {
+          "hi": "0 डायोप्टर (0 D)",
+          "en": "0 Diopter (0 D)"
+        },
+        {
+          "hi": "-1 D",
+          "en": "-1 Diopter"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव नेत्र में किसी वस्तु का प्रतिबिंब रेटिना (Retina) पर कैसा बनता है?",
+        "en": "Image formed on the Retina of human eye is:"
+      },
+      "o": [
+        {
+          "hi": "वास्तविक और बड़ा",
+          "en": "Real & Enlarged"
+        },
+        {
+          "hi": "आभासी और सीधा",
+          "en": "Virtual & Erect"
+        },
+        {
+          "hi": "वास्तविक, उल्टा और वस्तु से छोटा (Real, Inverted & Smaller)",
+          "en": "Real, Inverted & Smaller"
+        },
+        {
+          "hi": "आभासी और उल्टा",
+          "en": "Virtual & Inverted"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव आँख में प्रवेश करने वाले प्रकाश की मात्रा को कौन नियंत्रित करता है?",
+        "en": "Amount of light entering the human eye is controlled by:"
+      },
+      "o": [
+        {
+          "hi": "रेटिना",
+          "en": "Retina"
+        },
+        {
+          "hi": "कॉर्निया (Cornea)",
+          "en": "Cornea"
+        },
+        {
+          "hi": "आइरिस / परितारिका (Iris / Pupil size)",
+          "en": "Iris / Pupil size"
+        },
+        {
+          "hi": "नेत्र लेंस",
+          "en": "Eye Lens"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नेत्रदान (Eye Donation) में आँख का कौन सा भाग दान किया जाता है?",
+        "en": "In Eye Donation, which part of the eye is transplanted?"
+      },
+      "o": [
+        {
+          "hi": "आइरिस",
+          "en": "Iris"
+        },
+        {
+          "hi": "रेटिना",
+          "en": "Retina"
+        },
+        {
+          "hi": "कॉर्निया (Cornea)",
+          "en": "Cornea"
+        },
+        {
+          "hi": "पूरा नेत्र गोलक",
+          "en": "Entire Eyeball"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सामान्य वयस्क दृष्टि के लिए स्पष्ट दृष्टि की न्यूनतम दूरी (Least Distance of Distinct Vision) कितनी होती है?",
+        "en": "Least Distance of Distinct Vision (LDDV) for a normal young adult is:"
+      },
+      "o": [
+        {
+          "hi": "25 m",
+          "en": "25 m"
+        },
+        {
+          "hi": "2.5 cm",
+          "en": "2.5 cm"
+        },
+        {
+          "hi": "25 cm",
+          "en": "25 cm"
+        },
+        {
+          "hi": "अनंत (Infinite)",
+          "en": "Infinite"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सामान्य मानव आँख के लिए दूर बिंदु (Far Point) कितना होता है?",
+        "en": "Far Point for a normal human eye is at:"
+      },
+      "o": [
+        {
+          "hi": "100 m",
+          "en": "100 m"
+        },
+        {
+          "hi": "25 cm",
+          "en": "25 cm"
+        },
+        {
+          "hi": "अनंत (Infinity)",
+          "en": "Infinity"
+        },
+        {
+          "hi": "1 km",
+          "en": "1 km"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निकट दृष्टि दोष (Myopia) से पीड़ित व्यक्ति को दूर की वस्तुएँ स्पष्ट नहीं दिखतीं, इसके निवारण के लिए किस लेंस का उपयोग होता है?",
+        "en": "To correct Near-sightedness / Short-sightedness (Myopia), which lens is used?"
+      },
+      "o": [
+        {
+          "hi": "द्विफोकसी लेंस",
+          "en": "Bifocal Lens"
+        },
+        {
+          "hi": "उत्तल लेंस (Convex Lens)",
+          "en": "Convex Lens"
+        },
+        {
+          "hi": "बेलनाकार लेंस",
+          "en": "Cylindrical Lens"
+        },
+        {
+          "hi": "अवतल लेंस (Concave Lens)",
+          "en": "Concave Lens"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दूर दृष्टि दोष (Hypermetropia) के निवारण के लिए किस लेंस का उपयोग किया जाता है?",
+        "en": "To correct Far-sightedness / Long-sightedness (Hypermetropia), which lens is used?"
+      },
+      "o": [
+        {
+          "hi": "समतल लेंस",
+          "en": "Flat Lens"
+        },
+        {
+          "hi": "अवतल लेंस (Concave Lens)",
+          "en": "Concave Lens"
+        },
+        {
+          "hi": "बेलनाकार लेंस",
+          "en": "Cylindrical Lens"
+        },
+        {
+          "hi": "उत्तल लेंस (Convex Lens)",
+          "en": "Convex Lens"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जरा-दूरदर्शिता (Presbyopia - वृद्धावस्था में दृष्टि दोष) के निवारण के लिए किस लेंस का चश्मा प्रयुक्त होता है?",
+        "en": "Presbyopia in old age is corrected using:"
+      },
+      "o": [
+        {
+          "hi": "बेलनाकार लेंस",
+          "en": "Cylindrical Lens"
+        },
+        {
+          "hi": "अवतल लेंस",
+          "en": "Concave Lens"
+        },
+        {
+          "hi": "उत्तल लेंस",
+          "en": "Convex Lens"
+        },
+        {
+          "hi": "बायफोकल / द्विफोकसी लेंस (Bifocal Lens)",
+          "en": "Bifocal Lens"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अबिंदुकता (Astigmatism) दृष्टि दोष को दूर करने के लिए किस प्रकार के लेंस का उपयोग किया जाता है?",
+        "en": "Astigmatism is corrected using:"
+      },
+      "o": [
+        {
+          "hi": "अवतल लेंस",
+          "en": "Concave Lens"
+        },
+        {
+          "hi": "बायफोकल लेंस",
+          "en": "Bifocal Lens"
+        },
+        {
+          "hi": "उत्तल लेंस",
+          "en": "Convex Lens"
+        },
+        {
+          "hi": "बेलनाकार लेंस (Cylindrical Lens)",
+          "en": "Cylindrical Lens"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सफेद प्रकाश का प्रिज्म से होकर गुज़रने पर सात रंगों में विभाजित हो जाना क्या कहलाता है?",
+        "en": "Splitting of white light into its seven constituent colors when passing through a prism is:"
+      },
+      "o": [
+        {
+          "hi": "ध्रुवण (Polarization)",
+          "en": "Polarization"
+        },
+        {
+          "hi": "प्रकीर्णन (Scattering)",
+          "en": "Scattering"
+        },
+        {
+          "hi": "विवर्तन (Diffraction)",
+          "en": "Diffraction"
+        },
+        {
+          "hi": "वर्ण विक्षेपण (Dispersion of Light)",
+          "en": "Dispersion of Light"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रिज्म द्वारा वर्ण विक्षेपण में किस रंग का विचलन (Deviation) सबसे अधिक होता है?",
+        "en": "In dispersion through a glass prism, which color deviates the MOST?"
+      },
+      "o": [
+        {
+          "hi": "पीला (Yellow)",
+          "en": "Yellow"
+        },
+        {
+          "hi": "लाल (Red)",
+          "en": "Red"
+        },
+        {
+          "hi": "हरा (Green)",
+          "en": "Green"
+        },
+        {
+          "hi": "बैंगनी (Violet)",
+          "en": "Violet"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रिज्म द्वारा वर्ण विक्षेपण में किस रंग का विचलन (Deviation) सबसे कम होता है?",
+        "en": "In dispersion through a prism, which color deviates the LEAST?"
+      },
+      "o": [
+        {
+          "hi": "पीला (Yellow)",
+          "en": "Yellow"
+        },
+        {
+          "hi": "बैंगनी (Violet)",
+          "en": "Violet"
+        },
+        {
+          "hi": "नीला (Blue)",
+          "en": "Blue"
+        },
+        {
+          "hi": "लाल (Red)",
+          "en": "Red"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दृश्य प्रकाश में किस रंग की तरंगदैर्ध्य (Wavelength) सबसे अधिक (~750 nm) होती है?",
+        "en": "In visible spectrum, which color has the LONGEST wavelength?"
+      },
+      "o": [
+        {
+          "hi": "पीला (Yellow)",
+          "en": "Yellow"
+        },
+        {
+          "hi": "बैंगनी (Violet)",
+          "en": "Violet"
+        },
+        {
+          "hi": "हरा (Green)",
+          "en": "Green"
+        },
+        {
+          "hi": "लाल (Red)",
+          "en": "Red"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दृश्य प्रकाश में किस रंग की तरंगदैर्ध्य सबसे कम (~400 nm) तथा आवृत्ति/ऊर्जा सर्वाधिक होती है?",
+        "en": "Which color of visible light has the SHORTEST wavelength and highest frequency?"
+      },
+      "o": [
+        {
+          "hi": "नारंगी (Orange)",
+          "en": "Orange"
+        },
+        {
+          "hi": "लाल (Red)",
+          "en": "Red"
+        },
+        {
+          "hi": "नीला (Blue)",
+          "en": "Blue"
+        },
+        {
+          "hi": "बैंगनी (Violet)",
+          "en": "Violet"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्राथमिक रंग (Primary Colors) कौन-कौन से हैं?",
+        "en": "Which three colors are known as Primary Colors in optics?"
+      },
+      "o": [
+        {
+          "hi": "सफेद, काला, लाल",
+          "en": "White, Black, Red"
+        },
+        {
+          "hi": "लाल, पीला, नीला",
+          "en": "Red, Yellow, Blue"
+        },
+        {
+          "hi": "पीला, हरा, बैंगनी",
+          "en": "Yellow, Green, Violet"
+        },
+        {
+          "hi": "लाल, हरा, नीला (RGB - Red, Green, Blue)",
+          "en": "Red, Green, Blue (RGB)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रेले का प्रकीर्णन नियम (Rayleigh's Scattering Law) के अनुसार प्रकीर्णित प्रकाश की तीव्रता (I) तरंगदैर्ध्य (λ) पर कैसे निर्भर करती है?",
+        "en": "According to Rayleigh's Scattering Law, intensity of scattered light I is proportional to:"
+      },
+      "o": [
+        {
+          "hi": "I ∝ λ",
+          "en": "I ∝ λ"
+        },
+        {
+          "hi": "I ∝ λ⁴",
+          "en": "I ∝ λ⁴"
+        },
+        {
+          "hi": "I ∝ 1 / λ²",
+          "en": "I ∝ 1 / λ²"
+        },
+        {
+          "hi": "I ∝ 1 / λ⁴",
+          "en": "I ∝ 1 / λ⁴"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आकाश का रंग नीला दिखाई देने का मुख्य कारण क्या है?",
+        "en": "The blue color of the sky is due to:"
+      },
+      "o": [
+        {
+          "hi": "प्रकाश का ध्रुवण",
+          "en": "Polarization"
+        },
+        {
+          "hi": "समुद्र का परावर्तन",
+          "en": "Reflection of sea"
+        },
+        {
+          "hi": "प्रकाश का अपवर्तन",
+          "en": "Refraction of light"
+        },
+        {
+          "hi": "छोटे कणों द्वारा कम तरंगदैर्ध्य वाले नीले प्रकाश का प्रकीर्णन (Scattering of Light)",
+          "en": "Scattering of shorter wavelength blue light"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सूर्योदय और सूर्यास्त के समय सूर्य का रंग लाल क्यों दिखाई देता है?",
+        "en": "Reddish appearance of Sun during sunrise and sunset is due to:"
+      },
+      "o": [
+        {
+          "hi": "पूर्ण आंतरिक परावर्तन",
+          "en": "Total Internal Reflection"
+        },
+        {
+          "hi": "सूर्य का तापमान कम होना",
+          "en": "Low temperature of Sun"
+        },
+        {
+          "hi": "पृथ्वी का घूर्णन",
+          "en": "Earth's rotation"
+        },
+        {
+          "hi": "अधिक तरंगदैर्ध्य वाले लाल प्रकाश का न्यूनतम प्रकीर्णन",
+          "en": "Scattering of light (red light is scattered least and reaches eye)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "खतरे के संकेत (Danger Signals) का रंग लाल क्यों बनाया जाता है?",
+        "en": "Why are danger signal lights made RED?"
+      },
+      "o": [
+        {
+          "hi": "यह आँख को नुकसान नहीं पहुँचाता",
+          "en": "Doesn't harm eye"
+        },
+        {
+          "hi": "लाल रंग सुंदर दिखता है",
+          "en": "Red looks attractive"
+        },
+        {
+          "hi": "लाल रंग की चाल सबसे अधिक है",
+          "en": "Red travels fastest"
+        },
+        {
+          "hi": "लाल रंग का तरंगदैर्ध्य अधिक होने के कारण धुंध/कोहरे में प्रकीर्णन न्यूनतम होता है",
+          "en": "Red light has longest wavelength, so it is scattered least by fog"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अंतरिक्ष यात्री को अंतरिक्ष से आकाश का रंग कैसा दिखाई देता है?",
+        "en": "To an astronaut in space, the sky appears:"
+      },
+      "o": [
+        {
+          "hi": "लाल",
+          "en": "Red"
+        },
+        {
+          "hi": "नीला",
+          "en": "Blue"
+        },
+        {
+          "hi": "सफेद",
+          "en": "White"
+        },
+        {
+          "hi": "काला (Black - क्योंकि वायुमंडल न होने से प्रकीर्णन नहीं होता)",
+          "en": "Black (due to absence of atmosphere and scattering)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "साबुन के बुलबुले या तेल की परत का रंगीन दिखना किस घटना का परिणाम है?",
+        "en": "Brilliant colors seen in soap bubbles or oil films on water are due to:"
+      },
+      "o": [
+        {
+          "hi": "वर्ण विक्षेपण",
+          "en": "Dispersion"
+        },
+        {
+          "hi": "प्रकाश का प्रकीर्णन",
+          "en": "Scattering"
+        },
+        {
+          "hi": "प्रकाश का विवर्तन",
+          "en": "Diffraction"
+        },
+        {
+          "hi": "प्रकाश का व्यतिकरण (Interference of Light)",
+          "en": "Interference of Light"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इंद्रधनुष (Rainbow) बनने में प्रकाश की कौन-कौन सी घटनाएं शामिल होती हैं?",
+        "en": "Formation of a Rainbow involves which light phenomena in rain droplets?"
+      },
+      "o": [
+        {
+          "hi": "केवल ध्रुवण",
+          "en": "Only Polarization"
+        },
+        {
+          "hi": "केवल प्रकीर्णन",
+          "en": "Only Scattering"
+        },
+        {
+          "hi": "केवल व्यतिकरण",
+          "en": "Only Interference"
+        },
+        {
+          "hi": "अपवर्तन, परावर्तन, वर्ण विक्षेपण और आंतरिक परावर्तन",
+          "en": "Refraction, Reflection, Dispersion & Internal Reflection"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्राथमिक इंद्रधनुष (Primary Rainbow) में बाहरी किनारे पर कौन सा रंग होता है?",
+        "en": "In a Primary Rainbow, which color is on the outermost arc?"
+      },
+      "o": [
+        {
+          "hi": "पीला रंग",
+          "en": "Yellow color"
+        },
+        {
+          "hi": "बैंगनी रंग (Violet)",
+          "en": "Violet color"
+        },
+        {
+          "hi": "हरा रंग",
+          "en": "Green color"
+        },
+        {
+          "hi": "लाल रंग (Red - कोण ~42°)",
+          "en": "Red color (angle ~42°)"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}

@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "द्रव के गुण / Properties of Matter & Fluids",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Properties of Matter & Fluids.",
+  "questions": [
+    {
+      "q": {
+        "hi": "किसी पदार्थ का वह गुण जिसके कारण वह रूप बदलने वाले बल को हटाने पर पुनः अपनी प्रारंभिक आकृति प्राप्त कर लेता है, क्या कहलाता है?",
+        "en": "The property of matter by virtue of which it regains its original shape after removal of deforming force is:"
+      },
+      "o": [
+        {
+          "hi": "प्रत्यास्थता (Elasticity)",
+          "en": "Elasticity"
+        },
+        {
+          "hi": "सुघट्यता (Plasticity)",
+          "en": "Plasticity"
+        },
+        {
+          "hi": "श्यानता (Viscosity)",
+          "en": "Viscosity"
+        },
+        {
+          "hi": "प्रत्यास्थ उत्तर प्रभाव",
+          "en": "Elastic After Effect"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इकाई क्षेत्रफल पर लगने वाले आंतरिक पुनरुद्धारक बल (Restoring Force per unit area) को क्या कहते हैं?",
+        "en": "Restoring force developed per unit area of a body is called:"
+      },
+      "o": [
+        {
+          "hi": "प्रतिबल (Stress)",
+          "en": "Stress"
+        },
+        {
+          "hi": "विकृति (Strain)",
+          "en": "Strain"
+        },
+        {
+          "hi": "दाब (Pressure)",
+          "en": "Pressure"
+        },
+        {
+          "hi": "पृष्ठ तनाव (Surface Tension)",
+          "en": "Surface Tension"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रतिबल (Stress) की SI इकाई क्या है?",
+        "en": "What is the SI unit of Stress?"
+      },
+      "o": [
+        {
+          "hi": "N/m² या पास्कल",
+          "en": "N/m² or Pascal"
+        },
+        {
+          "hi": "N/m",
+          "en": "N/m"
+        },
+        {
+          "hi": "जूल",
+          "en": "Joule"
+        },
+        {
+          "hi": "मात्रकहीन (Unitless)",
+          "en": "Unitless"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विरूपक बल के कारण वस्तु की विमाओं में होने वाले आपेक्षिक परिवर्तन को क्या कहते हैं?",
+        "en": "The fractional change produced in dimensions of a body is called:"
+      },
+      "o": [
+        {
+          "hi": "विकृति (Strain)",
+          "en": "Strain"
+        },
+        {
+          "hi": "प्रतिबल (Stress)",
+          "en": "Stress"
+        },
+        {
+          "hi": "प्रत्यास्थता गुणांक",
+          "en": "Modulus of Elasticity"
+        },
+        {
+          "hi": "पॉइसन अनुपात",
+          "en": "Poisson Ratio"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विकृति (Strain) की इकाई क्या है?",
+        "en": "What is the unit of Strain?"
+      },
+      "o": [
+        {
+          "hi": "यह एक मात्रकहीन एवं विमाहीन राशि है",
+          "en": "It is a unitless and dimensionless quantity"
+        },
+        {
+          "hi": "N/m²",
+          "en": "N/m²"
+        },
+        {
+          "hi": "मीटर",
+          "en": "Meter"
+        },
+        {
+          "hi": "पास्कल",
+          "en": "Pascal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रत्यास्थता की सीमा के अंदर प्रतिबल और विकृति के संबंध में हुक का नियम (Hooke's Law) क्या है?",
+        "en": "According to Hooke's Law within elastic limit, stress and strain are related as:"
+      },
+      "o": [
+        {
+          "hi": "प्रतिबल ∝ विकृति (Stress ∝ Strain)",
+          "en": "Stress ∝ Strain"
+        },
+        {
+          "hi": "प्रतिबल ∝ 1/विकृति",
+          "en": "Stress ∝ 1/Strain"
+        },
+        {
+          "hi": "प्रतिबल + विकृति = नियतांक",
+          "en": "Stress + Strain = Constant"
+        },
+        {
+          "hi": "प्रतिबल = (विकृति)²",
+          "en": "Stress = (Strain)²"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अनुदैर्ध्य प्रतिबल और अनुदैर्ध्य विकृति के अनुपात को कौन सा प्रत्यास्थता गुणांक कहते हैं?",
+        "en": "The ratio of longitudinal stress to longitudinal strain is called:"
+      },
+      "o": [
+        {
+          "hi": "यंग प्रत्यास्थता गुणांक (Young's Modulus, Y)",
+          "en": "Young's Modulus (Y)"
+        },
+        {
+          "hi": "आयतन प्रत्यास्थता गुणांक (Bulk Modulus, B)",
+          "en": "Bulk Modulus (B)"
+        },
+        {
+          "hi": "दृढ़ता गुणांक (Modulus of Rigidity, η)",
+          "en": "Modulus of Rigidity (η)"
+        },
+        {
+          "hi": "पॉइसन अनुपात",
+          "en": "Poisson Ratio"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यंग प्रत्यास्थता गुणांक (Y) केवल किस अवस्था में पदार्थों के लिए परिभाषित होता है?",
+        "en": "Young's Modulus of Elasticity (Y) is defined only for:"
+      },
+      "o": [
+        {
+          "hi": "ठोस (Solids)",
+          "en": "Solids"
+        },
+        {
+          "hi": "द्रव (Liquids)",
+          "en": "Liquids"
+        },
+        {
+          "hi": "गैस (Gases)",
+          "en": "Gases"
+        },
+        {
+          "hi": "द्रव और गैस दोनों",
+          "en": "Both Liquids and Gases"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन सा पदार्थ सबसे अधिक प्रत्यास्थ (Most Elastic) है?",
+        "en": "Which of the following materials is the most elastic?"
+      },
+      "o": [
+        {
+          "hi": "स्टील (Steel)",
+          "en": "Steel"
+        },
+        {
+          "hi": "रबड़ (Rubber)",
+          "en": "Rubber"
+        },
+        {
+          "hi": "कांच (Glass)",
+          "en": "Glass"
+        },
+        {
+          "hi": "प्लास्टिक (Plastic)",
+          "en": "Plastic"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अभिलंब प्रतिबल और आयतन विकृति के अनुपात को क्या कहते हैं?",
+        "en": "The ratio of normal stress to volumetric strain is called:"
+      },
+      "o": [
+        {
+          "hi": "आयतन प्रत्यास्थता गुणांक (Bulk Modulus, B)",
+          "en": "Bulk Modulus (B)"
+        },
+        {
+          "hi": "यंग गुणांक",
+          "en": "Young's Modulus"
+        },
+        {
+          "hi": "दृढ़ता गुणांक",
+          "en": "Modulus of Rigidity"
+        },
+        {
+          "hi": "संपीड्यता",
+          "en": "Compressibility"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आयतन प्रत्यास्थता गुणांक के व्युत्क्रम (1/B) को क्या कहा जाता है?",
+        "en": "The reciprocal of Bulk Modulus (1/B) is known as:"
+      },
+      "o": [
+        {
+          "hi": "संपीड्यता (Compressibility)",
+          "en": "Compressibility"
+        },
+        {
+          "hi": "प्रत्यास्थता",
+          "en": "Elasticity"
+        },
+        {
+          "hi": "दृढ़ता",
+          "en": "Rigidity"
+        },
+        {
+          "hi": "श्यानता",
+          "en": "Viscosity"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अपरूपण प्रतिबल और अपरूपण विकृति के अनुपात को क्या कहते हैं?",
+        "en": "The ratio of shearing stress to shearing strain is called:"
+      },
+      "o": [
+        {
+          "hi": "दृढ़ता गुणांक (Modulus of Rigidity, η)",
+          "en": "Modulus of Rigidity (η)"
+        },
+        {
+          "hi": "यंग गुणांक",
+          "en": "Young's Modulus"
+        },
+        {
+          "hi": "आयतन गुणांक",
+          "en": "Bulk Modulus"
+        },
+        {
+          "hi": "पॉइसन अनुपात",
+          "en": "Poisson Ratio"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किसी द्रव का दृढ़ता गुणांक (Modulus of Rigidity of a liquid) कितना होता है?",
+        "en": "What is the Modulus of Rigidity for a fluid/liquid?"
+      },
+      "o": [
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        },
+        {
+          "hi": "अनंत (Infinite)",
+          "en": "Infinite"
+        },
+        {
+          "hi": "1 N/m²",
+          "en": "1 N/m²"
+        },
+        {
+          "hi": "100 N/m²",
+          "en": "100 N/m²"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किसी द्रव के स्वतंत्र पृष्ठ पर खिंची गई काल्पनिक रेखा की प्रति एकांक लंबाई पर लगने वाले बल को क्या कहते हैं?",
+        "en": "Force acting per unit length on an imaginary line drawn on the free surface of a liquid is:"
+      },
+      "o": [
+        {
+          "hi": "पृष्ठ तनाव (Surface Tension)",
+          "en": "Surface Tension"
+        },
+        {
+          "hi": "श्यानता (Viscosity)",
+          "en": "Viscosity"
+        },
+        {
+          "hi": "केशिकत्व (Capillarity)",
+          "en": "Capillarity"
+        },
+        {
+          "hi": "प्लावन बल",
+          "en": "Buoyant Force"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पृष्ठ तनाव (Surface Tension) की SI इकाई क्या है?",
+        "en": "What is the SI unit of Surface Tension?"
+      },
+      "o": [
+        {
+          "hi": "N/m (न्यूटन/मीटर)",
+          "en": "N/m (Newton/meter)"
+        },
+        {
+          "hi": "N·m",
+          "en": "N·m"
+        },
+        {
+          "hi": "N/m²",
+          "en": "N/m²"
+        },
+        {
+          "hi": "J/m",
+          "en": "J/m"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वर्षा की बूंदों का गोल होना किस भौतिक गुण के कारण होता है?",
+        "en": "Raindrops acquire spherical shape due to which physical property?"
+      },
+      "o": [
+        {
+          "hi": "पृष्ठ तनाव (Surface Tension)",
+          "en": "Surface Tension"
+        },
+        {
+          "hi": "श्यानता (Viscosity)",
+          "en": "Viscosity"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण (Gravitation)",
+          "en": "Gravitation"
+        },
+        {
+          "hi": "वायुमंडलीय दाब",
+          "en": "Atmospheric Pressure"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तापमान बढ़ाने पर द्रवों के पृष्ठ तनाव पर क्या प्रभाव पड़ता है?",
+        "en": "With an increase in temperature, the surface tension of liquids:"
+      },
+      "o": [
+        {
+          "hi": "घटता है (Decreases)",
+          "en": "Decreases"
+        },
+        {
+          "hi": "बढ़ता है (Increases)",
+          "en": "Increases"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "शून्य हो जाता है तुरंत",
+          "en": "Immediately becomes zero"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किस तापमान पर द्रव का पृष्ठ तनाव शून्य हो जाता है?",
+        "en": "At what temperature does the surface tension of a liquid become zero?"
+      },
+      "o": [
+        {
+          "hi": "क्रांतिक ताप (Critical Temperature)",
+          "en": "Critical Temperature"
+        },
+        {
+          "hi": "परम शून्य ताप (Absolute Zero)",
+          "en": "Absolute Zero"
+        },
+        {
+          "hi": "क्वथनांक (Boiling Point)",
+          "en": "Boiling Point"
+        },
+        {
+          "hi": "गलनांक (Melting Point)",
+          "en": "Melting Point"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पानी में डिटर्जेंट या साबुन मिलाने पर उसके पृष्ठ तनाव पर क्या प्रभाव पड़ता है?",
+        "en": "Adding soap or detergent to water causes its surface tension to:"
+      },
+      "o": [
+        {
+          "hi": "घट जाता है (Decreases)",
+          "en": "Decrease"
+        },
+        {
+          "hi": "बढ़ जाता है (Increases)",
+          "en": "Increase"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remain unchanged"
+        },
+        {
+          "hi": "दुगुना हो जाता है",
+          "en": "Double"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सूप को गरम पीने पर वह अधिक स्वादिष्ट क्यों लगता है?",
+        "en": "Why does hot soup taste better than cold soup?"
+      },
+      "o": [
+        {
+          "hi": "गरम सूप गाढ़ा होता है",
+          "en": "Hot soup is thicker"
+        },
+        {
+          "hi": "गरम होने पर पृष्ठ तनाव कम हो जाता है जिससे यह जीभ पर पूरी तरह फैलता है",
+          "en": "Hot soup has lower surface tension, spreading evenly over the tongue"
+        },
+        {
+          "hi": "ठंडे सूप का घनत्व अधिक होता है",
+          "en": "Cold soup has higher density"
+        },
+        {
+          "hi": "गरम सूप का तापमान जीभ जलाता है",
+          "en": "Hot soup burns the tongue"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक ही पदार्थ के अणुओं के बीच लगने वाले आकर्षण बल को क्या कहते हैं?",
+        "en": "Attraction force acting between molecules of the same substance is called:"
+      },
+      "o": [
+        {
+          "hi": "आसंजक बल (Adhesive Force)",
+          "en": "Adhesive Force"
+        },
+        {
+          "hi": "ससंजक बल (Cohesive Force)",
+          "en": "Cohesive Force"
+        },
+        {
+          "hi": "गुरुत्वीय बल",
+          "en": "Gravitational Force"
+        },
+        {
+          "hi": "स्थिरविद्युत बल",
+          "en": "Electrostatic Force"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भिन्न-भिन्न पदार्थों के अणुओं के बीच लगने वाले आकर्षण बल को क्या कहते हैं?",
+        "en": "Attraction force acting between molecules of different substances is called:"
+      },
+      "o": [
+        {
+          "hi": "ससंजक बल (Cohesive Force)",
+          "en": "Cohesive Force"
+        },
+        {
+          "hi": "आसंजक बल (Adhesive Force)",
+          "en": "Adhesive Force"
+        },
+        {
+          "hi": "चुंबकीय बल",
+          "en": "Magnetic Force"
+        },
+        {
+          "hi": "नाभिकीय बल",
+          "en": "Nuclear Force"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पानी कांच की सतह को भिगोता है जबकि पारा (Mercury) कांच से नहीं चिपका रहता, इसका कारण है:",
+        "en": "Water wets glass whereas mercury does not stick to glass because:"
+      },
+      "o": [
+        {
+          "hi": "पानी का ससंजक बल अधिक होता है",
+          "en": "Water has higher cohesive force"
+        },
+        {
+          "hi": "पारे का ससंजक बल आसंजक बल से अधिक होता है",
+          "en": "Cohesive force of mercury is greater than adhesive force with glass"
+        },
+        {
+          "hi": "पारा द्रव नहीं है",
+          "en": "Mercury is not a liquid"
+        },
+        {
+          "hi": "कांच पारे को अवशोषित कर लेता है",
+          "en": "Glass absorbs mercury"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कांच की महीन नली (केशनल / Capillary Tube) में द्रव के ऊपर चढ़ने या उतरने की घटना को क्या कहते हैं?",
+        "en": "The phenomenon of rise or depression of a liquid in a narrow tube is called:"
+      },
+      "o": [
+        {
+          "hi": "श्यानता (Viscosity)",
+          "en": "Viscosity"
+        },
+        {
+          "hi": "केशिकत्व (Capillarity)",
+          "en": "Capillarity"
+        },
+        {
+          "hi": "विप्रसरण (Diffusion)",
+          "en": "Diffusion"
+        },
+        {
+          "hi": "परासरण (Osmosis)",
+          "en": "Osmosis"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लांटेन या लैंप की बत्ती में मिट्टी के तेल के ऊपर चढ़ने का क्या कारण है?",
+        "en": "Kerosene oil rises up in the wick of a lantern due to:"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्वाकर्षण",
+          "en": "Gravitation"
+        },
+        {
+          "hi": "केशिकत्व (Capillarity)",
+          "en": "Capillarity"
+        },
+        {
+          "hi": "संवहन (Convection)",
+          "en": "Convection"
+        },
+        {
+          "hi": "उत्प्लावन (Buoyancy)",
+          "en": "Buoyancy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ब्लॉटिंग पेपर (Blotting Paper) द्वारा स्याही सोखने की प्रक्रिया किस पर आधारित है?",
+        "en": "Absorption of ink by blotting paper works on the principle of:"
+      },
+      "o": [
+        {
+          "hi": "श्यानता (Viscosity)",
+          "en": "Viscosity"
+        },
+        {
+          "hi": "केशिकत्व (Capillarity)",
+          "en": "Capillarity"
+        },
+        {
+          "hi": "संसंजन (Cohesion)",
+          "en": "Cohesion"
+        },
+        {
+          "hi": "साइफन क्रिया",
+          "en": "Siphon Action"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पेड़-पौधों की जड़ों द्वारा मृदा से जल और खनिज लवणों का पत्तियों तक पहुँचना किसका परिणाम है?",
+        "en": "Rise of water and minerals from soil to leaves in plants is due to:"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्वाकर्षण बल",
+          "en": "Gravitational Force"
+        },
+        {
+          "hi": "केशिकत्व एवं वाष्पोत्सर्जन (Capillarity and Transpiration)",
+          "en": "Capillarity and Transpiration"
+        },
+        {
+          "hi": "पृष्ठ तनाव की कमी",
+          "en": "Decrease in surface tension"
+        },
+        {
+          "hi": "वायुमंडलीय दाब",
+          "en": "Atmospheric pressure"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जल के लिए स्पर्श कोण (Angle of Contact for pure water & glass) कितना होता है?",
+        "en": "What is the angle of contact between pure water and clean glass?"
+      },
+      "o": [
+        {
+          "hi": "90°",
+          "en": "90°"
+        },
+        {
+          "hi": "0° (शून्य)",
+          "en": "0° (Zero)"
+        },
+        {
+          "hi": "138°",
+          "en": "138°"
+        },
+        {
+          "hi": "45°",
+          "en": "45°"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पारे और स्वच्छ कांच के लिए स्पर्श कोण (Angle of Contact for Mercury & Glass) कैसा होता है?",
+        "en": "The angle of contact between mercury and clean glass is:"
+      },
+      "o": [
+        {
+          "hi": "न्यूनकोण (0°)",
+          "en": "Acute angle (0°)"
+        },
+        {
+          "hi": "अधिककोण (~135° - 138°)",
+          "en": "Obtuse angle (~135° - 138°)"
+        },
+        {
+          "hi": "समकोण (90°)",
+          "en": "Right angle (90°)"
+        },
+        {
+          "hi": "180°",
+          "en": "180°"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यदि स्पर्श कोण न्यूनकोण (< 90°) हो, तो केशनल में द्रव का तल कैसा दिखता है?",
+        "en": "If angle of contact is acute (< 90°), the liquid meniscus in capillary tube is:"
+      },
+      "o": [
+        {
+          "hi": "उत्थल (Convex)",
+          "en": "Convex"
+        },
+        {
+          "hi": "अवतल (Concave)",
+          "en": "Concave"
+        },
+        {
+          "hi": "समतल (Flat)",
+          "en": "Flat"
+        },
+        {
+          "hi": "बेलनाकार",
+          "en": "Cylindrical"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "द्रव की परतों के बीच उनकी आपेक्षिक गति का विरोध करने वाले आंतरिक घर्षण बल को क्या कहते हैं?",
+        "en": "Internal friction force opposing relative motion between liquid layers is called:"
+      },
+      "o": [
+        {
+          "hi": "पृष्ठ तनाव (Surface Tension)",
+          "en": "Surface Tension"
+        },
+        {
+          "hi": "श्यानता (Viscosity)",
+          "en": "Viscosity"
+        },
+        {
+          "hi": "प्रत्यास्थता",
+          "en": "Elasticity"
+        },
+        {
+          "hi": "उत्प्लावन",
+          "en": "Buoyancy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "श्यानता (Viscosity) का गुण मुख्यतः किन पदार्थों में पाया जाता है?",
+        "en": "Viscosity is a characteristic property of:"
+      },
+      "o": [
+        {
+          "hi": "केवल ठोसों में",
+          "en": "Only Solids"
+        },
+        {
+          "hi": "द्रवों और गैसों (Liquids and Gases) में",
+          "en": "Liquids and Gases"
+        },
+        {
+          "hi": "केवल द्रवों में",
+          "en": "Only Liquids"
+        },
+        {
+          "hi": "केवल गैसों में",
+          "en": "Only Gases"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तापमान बढ़ाने पर द्रवों की श्यानता पर क्या प्रभाव पड़ता है?",
+        "en": "With an increase in temperature, the viscosity of liquids:"
+      },
+      "o": [
+        {
+          "hi": "बढ़ती है (Increases)",
+          "en": "Increases"
+        },
+        {
+          "hi": "घटती है (Decreases)",
+          "en": "Decreases"
+        },
+        {
+          "hi": "अपरिवर्तित रहती है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "शून्य हो जाती है",
+          "en": "Becomes zero"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तापमान बढ़ाने पर गैसों की श्यानता (Viscosity of Gases) पर क्या प्रभाव पड़ता है?",
+        "en": "With an increase in temperature, the viscosity of gases:"
+      },
+      "o": [
+        {
+          "hi": "घटती है (Decreases)",
+          "en": "Decreases"
+        },
+        {
+          "hi": "बढ़ती है (Increases)",
+          "en": "Increases"
+        },
+        {
+          "hi": "अपरिवर्तित रहती है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "अनंत हो जाती है",
+          "en": "Becomes infinite"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किसी श्यान द्रव में गिरती हुई वस्तु द्वारा प्राप्त अधिकतम स्थिर वेग को क्या कहते हैं?",
+        "en": "The maximum constant velocity attained by a body falling through a viscous fluid is:"
+      },
+      "o": [
+        {
+          "hi": "पलायन वेग",
+          "en": "Escape Velocity"
+        },
+        {
+          "hi": "सीमान्त वेग (Terminal Velocity)",
+          "en": "Terminal Velocity"
+        },
+        {
+          "hi": "कक्षीय वेग",
+          "en": "Orbital Velocity"
+        },
+        {
+          "hi": "क्रांतिक वेग",
+          "en": "Critical Velocity"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्टोक्स का नियम (Stokes' Law) श्यान बल (F) के लिए क्या सूत्र देता है?",
+        "en": "What is the formula for Viscous force (F) according to Stokes' Law?"
+      },
+      "o": [
+        {
+          "hi": "F = 6π η r² v",
+          "en": "F = 6π η r² v"
+        },
+        {
+          "hi": "F = 6π η r v",
+          "en": "F = 6π η r v"
+        },
+        {
+          "hi": "F = ½ m v²",
+          "en": "F = ½ m v²"
+        },
+        {
+          "hi": "F = 3π η r v²",
+          "en": "F = 3π η r v²"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पैराशूट की सहायता से व्यक्ति सुरक्षित जमीन पर किस कारण उतर पाता है?",
+        "en": "A person with a parachute descends safely to the ground due to:"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्वाकर्षण शून्य होने से",
+          "en": "Zero gravity"
+        },
+        {
+          "hi": "सीमान्त वेग प्राप्त करने के कारण (Terminal Velocity)",
+          "en": "Attaining Terminal Velocity due to air viscosity"
+        },
+        {
+          "hi": "पृष्ठ तनाव के कारण",
+          "en": "Surface tension"
+        },
+        {
+          "hi": "उत्प्लावन बल के कारण",
+          "en": "Buoyant force"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "द्रव प्रवाह की वह अधिकतम चाल जिससे नीचे प्रवाह धाराLine रहता है और ऊपर विक्षुब्ध हो जाता है, क्या कहलाती है?",
+        "en": "The maximum velocity of fluid flow up to which flow is streamlined is called:"
+      },
+      "o": [
+        {
+          "hi": "सीमान्त वेग",
+          "en": "Terminal Velocity"
+        },
+        {
+          "hi": "क्रांतिक वेग (Critical Velocity)",
+          "en": "Critical Velocity"
+        },
+        {
+          "hi": "ध्वनिक वेग",
+          "en": "Acoustic Velocity"
+        },
+        {
+          "hi": "पलायन वेग",
+          "en": "Escape Velocity"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रेनॉल्ड संख्या (Reynolds Number, Re) का मान 2000 से कम होने पर द्रव का प्रवाह कैसा होता है?",
+        "en": "When Reynolds Number (Re) is less than 2000, fluid flow is:"
+      },
+      "o": [
+        {
+          "hi": "अस्थिर प्रवाह",
+          "en": "Unsteady Flow"
+        },
+        {
+          "hi": "विक्षुब्ध प्रवाह (Turbulent Flow)",
+          "en": "Turbulent Flow"
+        },
+        {
+          "hi": "धारारेखीय प्रवाह (Streamline / Laminar Flow)",
+          "en": "Streamline / Laminar Flow"
+        },
+        {
+          "hi": "घूर्णी प्रवाह",
+          "en": "Rotational Flow"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सांतत्य का समीकरण (Equation of Continuity) A₁v₁ = A₂v₂ किस सिद्धांत पर आधारित है?",
+        "en": "Equation of Continuity (A₁v₁ = A₂v₂) for fluid flow is based on:"
+      },
+      "o": [
+        {
+          "hi": "संवेग संरक्षण",
+          "en": "Conservation of Momentum"
+        },
+        {
+          "hi": "ऊर्जा संरक्षण",
+          "en": "Conservation of Energy"
+        },
+        {
+          "hi": "द्रव्यमान संरक्षण का नियम (Conservation of Mass)",
+          "en": "Law of Conservation of Mass"
+        },
+        {
+          "hi": "दाब संरक्षण",
+          "en": "Conservation of Pressure"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बरनोली का प्रमेय (Bernoulli's Theorem) किस भौतिक सिद्धांत पर आधारित है?",
+        "en": "Bernoulli's Theorem for ideal fluid flow is based on:"
+      },
+      "o": [
+        {
+          "hi": "संवेग संरक्षण",
+          "en": "Conservation of Momentum"
+        },
+        {
+          "hi": "द्रव्यमान संरक्षण",
+          "en": "Conservation of Mass"
+        },
+        {
+          "hi": "ऊर्जा संरक्षण का नियम (Conservation of Energy)",
+          "en": "Law of Conservation of Energy"
+        },
+        {
+          "hi": "आवेश संरक्षण",
+          "en": "Conservation of Charge"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बरनोली के प्रमेय के अनुसार आदर्श द्रव के प्रवाह में किन तीन ऊर्जाओं का योग नियत रहता है?",
+        "en": "According to Bernoulli's principle, the sum of which three energies remains constant?"
+      },
+      "o": [
+        {
+          "hi": "केवल दाब और ऊष्मीय ऊर्जा",
+          "en": "Only Pressure and Thermal energy"
+        },
+        {
+          "hi": "केवल गतिज और स्थितिज ऊर्जा",
+          "en": "Only Kinetic and Potential energy"
+        },
+        {
+          "hi": "दाब ऊर्जा, गतिज ऊर्जा और स्थितिज ऊर्जा",
+          "en": "Pressure energy, Kinetic energy, and Potential energy"
+        },
+        {
+          "hi": "ध्वनि, प्रकाश और यांत्रिक ऊर्जा",
+          "en": "Sound, Light, and Mechanical energy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हवाई जहाज का ऊपर उठना (Lift of Airplane Wings) किस सिद्धांत पर आधारित है?",
+        "en": "The aerodynamic lift of an airplane wing is based on:"
+      },
+      "o": [
+        {
+          "hi": "पास्कल का नियम",
+          "en": "Pascal's Law"
+        },
+        {
+          "hi": "आर्किमिडीज का सिद्धांत",
+          "en": "Archimedes' Principle"
+        },
+        {
+          "hi": "बरनोली का प्रमेय (Bernoulli's Theorem)",
+          "en": "Bernoulli's Theorem"
+        },
+        {
+          "hi": "स्टोक्स का नियम",
+          "en": "Stokes' Law"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आंधी आने पर टिन की छत का उड़ जाना किस नियम के कारण होता है?",
+        "en": "Blowing off of tin roofs during a high-speed storm is explained by:"
+      },
+      "o": [
+        {
+          "hi": "हुक का नियम",
+          "en": "Hooke's Law"
+        },
+        {
+          "hi": "पास्कल का नियम",
+          "en": "Pascal's Law"
+        },
+        {
+          "hi": "बरनोली का सिद्धांत (Bernoulli's Principle)",
+          "en": "Bernoulli's Principle"
+        },
+        {
+          "hi": "न्यूटन का तृतीय नियम",
+          "en": "Newton's Third Law"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्प्रेयर या ऑटोमाइज़र (Atomizer / Perfume Spray) किस सिद्धांत पर कार्य करता है?",
+        "en": "A perfume spray or scent atomizer operates on:"
+      },
+      "o": [
+        {
+          "hi": "पास्कल का नियम",
+          "en": "Pascal's Law"
+        },
+        {
+          "hi": "आर्किमिडीज का सिद्धांत",
+          "en": "Archimedes' Principle"
+        },
+        {
+          "hi": "बरनोली का सिद्धांत (Bernoulli's Principle)",
+          "en": "Bernoulli's Principle"
+        },
+        {
+          "hi": "केप्लर का नियम",
+          "en": "Kepler's Law"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वेंचुरीमीटर (Venturimeter) का उपयोग क्या मापने के लिए किया जाता है?",
+        "en": "A Venturimeter is used to measure:"
+      },
+      "o": [
+        {
+          "hi": "पृष्ठ तनाव",
+          "en": "Surface Tension"
+        },
+        {
+          "hi": "द्रव का घनत्व",
+          "en": "Density of liquid"
+        },
+        {
+          "hi": "द्रव के प्रवाह की दर (Rate of flow of liquid)",
+          "en": "Rate of flow of liquid"
+        },
+        {
+          "hi": "द्रव की श्यानता",
+          "en": "Viscosity of liquid"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "टॉरीसेली का नियम (Torricelli's Law) किसी बर्तन के छिद्र से निकलने वाले द्रव का बहिःस्राव वेग (Velocity of Efflux) कितना बताता है?",
+        "en": "According to Torricelli's Law, velocity of efflux (v) from an orifice is:"
+      },
+      "o": [
+        {
+          "hi": "v = √(gh)",
+          "en": "v = √(gh)"
+        },
+        {
+          "hi": "v = 2gh",
+          "en": "v = 2gh"
+        },
+        {
+          "hi": "v = √(2gh)",
+          "en": "v = √(2gh)"
+        },
+        {
+          "hi": "v = ½ gh²",
+          "en": "v = ½ gh²"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पास्कल का नियम (Pascal's Law) किस परिस्थिति में लागू होता है?",
+        "en": "Pascal's Law applies to static fluids as:"
+      },
+      "o": [
+        {
+          "hi": "केवल गैसों पर",
+          "en": "Only to gases"
+        },
+        {
+          "hi": "केवल गतिमान द्रवों पर",
+          "en": "Only to moving fluids"
+        },
+        {
+          "hi": "बंधे हुए बर्तन में विराम अवस्था में स्थित द्रव पर लगाया गया दाब सभी दिशाओं में समान रूप से संचारित होता है",
+          "en": "Pressure applied to an enclosed fluid at rest is transmitted equally in all directions"
+        },
+        {
+          "hi": "केवल ठोसों पर",
+          "en": "Only to solids"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोलिक लिफ्ट, हाइड्रोलिक प्रेस और हाइड्रोलिक ब्रेक किस सिद्धांत पर कार्य करते हैं?",
+        "en": "Hydraulic lift, hydraulic press, and hydraulic brakes work on:"
+      },
+      "o": [
+        {
+          "hi": "बरनोली का प्रमेय",
+          "en": "Bernoulli's Theorem"
+        },
+        {
+          "hi": "आर्किमिडीज का सिद्धांत",
+          "en": "Archimedes' Principle"
+        },
+        {
+          "hi": "पास्कल का नियम (Pascal's Law)",
+          "en": "Pascal's Law"
+        },
+        {
+          "hi": "टॉरीसेली का नियम",
+          "en": "Torricelli's Law"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जब किसी वस्तु को किसी द्रव में पूर्ण या आंशिक रूप से डुबोया जाता है, तो उसके भार में आभासी कमी किसके बराबर होती है?",
+        "en": "Apparent loss in weight of a body immersed in fluid equals:"
+      },
+      "o": [
+        {
+          "hi": "द्रव के कुल आयतन के बराबर",
+          "en": "Total volume of liquid"
+        },
+        {
+          "hi": "वस्तु के कुल भार के बराबर",
+          "en": "Total weight of body"
+        },
+        {
+          "hi": "वस्तु द्वारा हटाए गए द्रव के भार के बराबर (Weight of displaced liquid)",
+          "en": "Weight of displaced liquid"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उपर्युक्त नियम किस वैज्ञानिक का सिद्धांत कहलाता है?",
+        "en": "The above statement is known as the principle of which scientist?"
+      },
+      "o": [
+        {
+          "hi": "बरनोली का प्रमेय",
+          "en": "Bernoulli's Theorem"
+        },
+        {
+          "hi": "पास्कल का नियम",
+          "en": "Pascal's Law"
+        },
+        {
+          "hi": "आर्किमिडीज का सिद्धांत (Archimedes' Principle)",
+          "en": "Archimedes' Principle"
+        },
+        {
+          "hi": "न्यूटन का द्वितीय नियम",
+          "en": "Newton's Second Law"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "द्रव द्वारा वस्तु पर ऊपर की ओर लगाए जाने वाले बल को क्या कहते हैं?",
+        "en": "The upward force exerted by a fluid on an immersed object is called:"
+      },
+      "o": [
+        {
+          "hi": "पृष्ठ तनाव बल",
+          "en": "Surface Tension Force"
+        },
+        {
+          "hi": "श्यान बल",
+          "en": "Viscous Force"
+        },
+        {
+          "hi": "उत्प्लावन बल / उत्क्षेप बल (Buoyant Force / Upthrust)",
+          "en": "Buoyant Force / Upthrust"
+        },
+        {
+          "hi": "घर्षण बल",
+          "en": "Frictional Force"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उत्प्लावन बल का मान किस पर निर्भर करता है?",
+        "en": "The magnitude of Buoyant Force depends on:"
+      },
+      "o": [
+        {
+          "hi": "बर्तन की गहराई पर",
+          "en": "Depth of container"
+        },
+        {
+          "hi": "वस्तु के रंग पर",
+          "en": "Color of object"
+        },
+        {
+          "hi": "वस्तु के डूबे भाग के आयतन और द्रव के घनत्व पर",
+          "en": "Volume of immersed part and density of liquid"
+        },
+        {
+          "hi": "वायुमंडलीय दाब पर",
+          "en": "Atmospheric pressure"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जलपोत (शिप) और पनडुब्बियों के तैरने की डिजाइनिंग किस सिद्धांत पर आधारित होती है?",
+        "en": "Designing of ships and submarines to float is based on:"
+      },
+      "o": [
+        {
+          "hi": "बरनोली का नियम",
+          "en": "Bernoulli's Principle"
+        },
+        {
+          "hi": "पास्कल का नियम",
+          "en": "Pascal's Law"
+        },
+        {
+          "hi": "आर्किमिडीज का सिद्धांत (Archimedes' Principle)",
+          "en": "Archimedes' Principle"
+        },
+        {
+          "hi": "केप्लर का नियम",
+          "en": "Kepler's Law"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्लावन के नियम (Law of Floatation) के अनुसार तैरती हुई वस्तु का भार हटाया गए द्रव के भार के कैसा होता है?",
+        "en": "According to the Law of Floatation, weight of a floating body is:"
+      },
+      "o": [
+        {
+          "hi": "हटाए गए द्रव के भार से कम",
+          "en": "Less than weight of displaced liquid"
+        },
+        {
+          "hi": "हटाए गए द्रव के भार से अधिक",
+          "en": "Greater than weight of displaced liquid"
+        },
+        {
+          "hi": "हटाए गए द्रव के भार के बराबर (Equal to weight of displaced liquid)",
+          "en": "Equal to weight of displaced liquid"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आपेक्षित घनत्व (Relative Density) को किस उपकरण द्वारा मापा जाता है?",
+        "en": "Relative Density of liquids is measured using:"
+      },
+      "o": [
+        {
+          "hi": "लैक्टोमीटर",
+          "en": "Lactometer"
+        },
+        {
+          "hi": "हाइग्रोमीटर (Hygrometer)",
+          "en": "Hygrometer"
+        },
+        {
+          "hi": "हाइड्रोमीटर (Hydrometer)",
+          "en": "Hydrometer"
+        },
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आपेक्षित घनत्व (Relative Density) की इकाई क्या है?",
+        "en": "What is the unit of Relative Density?"
+      },
+      "o": [
+        {
+          "hi": "kg/m³",
+          "en": "kg/m³"
+        },
+        {
+          "hi": "g/cm³",
+          "en": "g/cm³"
+        },
+        {
+          "hi": "यह एक मात्रकहीन (Unitless) राशि है",
+          "en": "It is a unitless quantity"
+        },
+        {
+          "hi": "N/m³",
+          "en": "N/m³"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जल का घनत्व किस तापमान पर अधिकतम (4°C) होता है?",
+        "en": "Water attains maximum density at what temperature?"
+      },
+      "o": [
+        {
+          "hi": "-4°C",
+          "en": "-4°C"
+        },
+        {
+          "hi": "0°C",
+          "en": "0°C"
+        },
+        {
+          "hi": "100°C",
+          "en": "100°C"
+        },
+        {
+          "hi": "4°C",
+          "en": "4°C"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "4°C पर जल का घनत्व कितना होता है?",
+        "en": "What is the density of pure water at 4°C?"
+      },
+      "o": [
+        {
+          "hi": "500 kg/m³",
+          "en": "500 kg/m³"
+        },
+        {
+          "hi": "100 kg/m³",
+          "en": "100 kg/m³"
+        },
+        {
+          "hi": "13600 kg/m³",
+          "en": "13600 kg/m³"
+        },
+        {
+          "hi": "1000 kg/m³ या 1 g/cm³",
+          "en": "1000 kg/m³ or 1 g/cm³"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जब बर्फ का टुकड़ा पानी पर तैरता है, तो उसका कितना भाग पानी के ऊपर रहता है?",
+        "en": "When an ice block floats on water, what fraction of its volume remains above water surface?"
+      },
+      "o": [
+        {
+          "hi": "1/4 भाग",
+          "en": "1/4 part"
+        },
+        {
+          "hi": "9/10 भाग",
+          "en": "9/10th part"
+        },
+        {
+          "hi": "1/2 भाग",
+          "en": "1/2 part"
+        },
+        {
+          "hi": "1/10 भाग (1/10th part)",
+          "en": "1/10th part"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जब बर्फ का टुकड़ा पानी पर तैरता है, तो उसका कितना भाग पानी के अंदर डूबा रहता है?",
+        "en": "When an ice block floats on water, what fraction of its volume remains submerged underwater?"
+      },
+      "o": [
+        {
+          "hi": "3/4 भाग",
+          "en": "3/4 part"
+        },
+        {
+          "hi": "1/10 भाग",
+          "en": "1/10th part"
+        },
+        {
+          "hi": "1/2 भाग",
+          "en": "1/2 part"
+        },
+        {
+          "hi": "9/10 भाग (9/10th part)",
+          "en": "9/10th part"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बर्तन में पिघलने पर तैरती हुई बर्फ के जलस्तर पर क्या प्रभाव पड़ता है?",
+        "en": "When a floating piece of ice inside a beaker melts completely, the water level:"
+      },
+      "o": [
+        {
+          "hi": "पहले बढ़ता है फिर घटता है",
+          "en": "First rises then falls"
+        },
+        {
+          "hi": "बढ़ जाता है",
+          "en": "Rises"
+        },
+        {
+          "hi": "घट जाता है",
+          "en": "Falls"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है (Remains unchanged)",
+          "en": "Remains unchanged"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समुद्र के पानी में तैरना नदी के पानी में तैरने की तुलना में आसान क्यों होता है?",
+        "en": "Why is it easier to swim in sea water than in river water?"
+      },
+      "o": [
+        {
+          "hi": "समुद्र में पानी बहुत अधिक होता है",
+          "en": "Sea has huge volume"
+        },
+        {
+          "hi": "समुद्र का पानी शांत रहता है",
+          "en": "Sea water is calm"
+        },
+        {
+          "hi": "समुद्र में लहरें उठती हैं",
+          "en": "Sea has high waves"
+        },
+        {
+          "hi": "समुद्री जल में लवणों के कारण उसका घनत्व नदी के जल से अधिक होता है",
+          "en": "Sea water has higher density due to dissolved salts"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जब कोई जहाज नदी से निकलकर समुद्र में प्रवेश करता है, तो वह थोड़ा:",
+        "en": "When a ship enters the sea from a river, it:"
+      },
+      "o": [
+        {
+          "hi": "पलट जाता है",
+          "en": "Flips over"
+        },
+        {
+          "hi": "नीचे डूब जाता है",
+          "en": "Sinks slightly lower"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains at same level"
+        },
+        {
+          "hi": "ऊपर उठ जाता है (Rises slightly higher)",
+          "en": "Rises slightly higher"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बैरोमीटर का पाठ्यांक अचानक नीचे गिरना (Sudden fall in Barometer reading) किसका संकेत है?",
+        "en": "A sudden drop in barometer reading indicates:"
+      },
+      "o": [
+        {
+          "hi": "अत्यधिक ठंड का",
+          "en": "Severe cold"
+        },
+        {
+          "hi": "वर्षा होने की संभावना",
+          "en": "Probability of rain"
+        },
+        {
+          "hi": "मौसम साफ रहने का",
+          "en": "Fair clear weather"
+        },
+        {
+          "hi": "आंधी/तूफान आने की संभावना (Storm / Cyclone)",
+          "en": "Storm / Cyclone"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बैरोमीटर का पाठ्यांक धीरे-धीरे नीचे गिरना किसका संकेत है?",
+        "en": "A gradual slow fall in barometer reading indicates:"
+      },
+      "o": [
+        {
+          "hi": "भूकंप का",
+          "en": "Earthquake"
+        },
+        {
+          "hi": "आंधी आने की",
+          "en": "Storm"
+        },
+        {
+          "hi": "मौसम साफ रहने की",
+          "en": "Fair clear weather"
+        },
+        {
+          "hi": "वर्षा होने की संभावना (Probability of Rain)",
+          "en": "Probability of Rain"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बैरोमीटर का पाठ्यांक धीरे-धीरे ऊपर चढ़ना किसका संकेत देता है?",
+        "en": "A gradual rise in barometer reading indicates:"
+      },
+      "o": [
+        {
+          "hi": "हिमपात का",
+          "en": "Snowfall"
+        },
+        {
+          "hi": "तूफान का",
+          "en": "Storm"
+        },
+        {
+          "hi": "वर्षा का",
+          "en": "Rain"
+        },
+        {
+          "hi": "साफ एवं स्वच्छ मौसम का (Fair and clear weather)",
+          "en": "Fair and clear weather"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रमाणिक वायुमंडलीय दाब (Standard Atmospheric Pressure) का मान कितना होता है?",
+        "en": "What is the value of standard atmospheric pressure at sea level?"
+      },
+      "o": [
+        {
+          "hi": "1 Pa",
+          "en": "1 Pa"
+        },
+        {
+          "hi": "10³ Pa",
+          "en": "10³ Pa"
+        },
+        {
+          "hi": "76 mm of Hg",
+          "en": "76 mm of Hg"
+        },
+        {
+          "hi": "1.013 × 10⁵ Pa (या 760 mm of Hg)",
+          "en": "1.013 × 10⁵ Pa (or 760 mm of Hg)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पहाड़ों पर खाना पकाने में अधिक समय क्यों लगता है?",
+        "en": "Why does cooking take longer time on mountains?"
+      },
+      "o": [
+        {
+          "hi": "लकड़ी गीली होती है",
+          "en": "Wood is damp"
+        },
+        {
+          "hi": "वहाँ ठंड अधिक होती है",
+          "en": "It is colder there"
+        },
+        {
+          "hi": "वहाँ ऑक्सीजन कम होती है",
+          "en": "Oxygen is lower"
+        },
+        {
+          "hi": "वायुमंडलीय दाब कम होने से जल का क्वथनांक 100°C से घट जाता है",
+          "en": "Atmospheric pressure is low, so boiling point of water drops below 100°C"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रेशर कुकर में खाना जल्दी क्यों पक जाता है?",
+        "en": "Why does food cook faster inside a Pressure Cooker?"
+      },
+      "o": [
+        {
+          "hi": "भाप बाहर नहीं निकल पाती",
+          "en": "Steam cannot escape"
+        },
+        {
+          "hi": "दाब बढ़ने से जल का क्वथनांक घट जाता है",
+          "en": "Increased pressure lowers boiling point"
+        },
+        {
+          "hi": "कुकर की दीवारें मोटी होती हैं",
+          "en": "Cooker walls are thick"
+        },
+        {
+          "hi": "दाब बढ़ने से जल का क्वथनांक बढ़ जाता है (~120°C)",
+          "en": "Increased pressure raises boiling point of water (~120°C)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हवाई जहाज में यात्रा करते समय फाउंटेन पेन से स्याही बाहर क्यों निकलने लगती है?",
+        "en": "Why does ink leak from a fountain pen inside an airplane at high altitude?"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्वाकर्षण बढ़ने से",
+          "en": "Increase in gravity"
+        },
+        {
+          "hi": "तापमान बढ़ने से",
+          "en": "Increase in temperature"
+        },
+        {
+          "hi": "विमान के कंपन से",
+          "en": "Vibrations of plane"
+        },
+        {
+          "hi": "ऊंचाई पर वायुमंडलीय दाब में कमी आने के कारण",
+          "en": "Due to decrease in atmospheric pressure at high altitude"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अत्यधिक ऊंचाई पर मानव शरीर की नाक से खून (Nose bleeding) क्यों बहने लगता है?",
+        "en": "Why do people suffer nosebleeds at very high altitudes?"
+      },
+      "o": [
+        {
+          "hi": "शरीर का तापमान घटता है",
+          "en": "Body temperature drops"
+        },
+        {
+          "hi": "रक्त जम जाता है",
+          "en": "Blood freezes"
+        },
+        {
+          "hi": "ऑक्सीजन की मात्रा बढ़ जाती है",
+          "en": "Oxygen concentration rises"
+        },
+        {
+          "hi": "बाहरी वायुमंडलीय दाब रक्तचाप की तुलना में बहुत कम हो जाता है",
+          "en": "External atmospheric pressure drops below blood pressure"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पानी का घनत्व अधिकतम किस तापक्रम पर होता है?",
+        "en": "At what temperature is the density of water maximum?"
+      },
+      "o": [
+        {
+          "hi": "273 K",
+          "en": "273 K"
+        },
+        {
+          "hi": "0°C",
+          "en": "0°C"
+        },
+        {
+          "hi": "100°C",
+          "en": "100°C"
+        },
+        {
+          "hi": "4°C",
+          "en": "4°C"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शीत ऋतु में झील की ऊपरी सतह जम जाने के बावजूद जलीय जीव जीवित क्यों रहते हैं?",
+        "en": "How do aquatic organisms survive under a frozen lake during winter?"
+      },
+      "o": [
+        {
+          "hi": "वे शीतनिद्रा में चले जाते हैं",
+          "en": "They go to hibernation"
+        },
+        {
+          "hi": "जलीय जीव बर्फ में सांस ले सकते हैं",
+          "en": "Aquatic life breathes in ice"
+        },
+        {
+          "hi": "बर्फ से ऑक्सीजन प्राप्त होती है",
+          "en": "Ice releases oxygen"
+        },
+        {
+          "hi": "झील की तली में 4°C पर द्रव जल बना रहता है (असंगत प्रसार के कारण)",
+          "en": "Water remains liquid at 4°C near the bottom due to anomalous expansion"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जल को 0°C से 10°C तक गर्म करने पर उसके आयतन में क्या परिवर्तन होता है?",
+        "en": "When water is heated from 0°C to 10°C, its volume:"
+      },
+      "o": [
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "लगातार बढ़ता है",
+          "en": "Increases continuously"
+        },
+        {
+          "hi": "लगातार घटता है",
+          "en": "Decreases continuously"
+        },
+        {
+          "hi": "पहले 4°C तक घटता है फिर बढ़ता है",
+          "en": "First decreases up to 4°C then increases"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}

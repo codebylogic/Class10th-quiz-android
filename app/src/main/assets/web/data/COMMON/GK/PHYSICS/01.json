@@ -1,0 +1,1882 @@
+{
+  "title": "GENERAL KNOWLEDGE",
+  "subtitle": "मात्रक और मापन / Units and Measurements",
+  "description": "Comprehensive bilingual online test set containing 75 high-yield objective MCQs on Units and Measurements.",
+  "questions": [
+    {
+      "q": {
+        "hi": "विद्युत धारा की SI इकाई क्या है?",
+        "en": "What is the SI unit of electric current?"
+      },
+      "o": [
+        {
+          "hi": "एम्पियर",
+          "en": "Ampere"
+        },
+        {
+          "hi": "वोल्ट",
+          "en": "Volt"
+        },
+        {
+          "hi": "ओम",
+          "en": "Ohm"
+        },
+        {
+          "hi": "वाट",
+          "en": "Watt"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ज्योति तीव्रता (Luminous Intensity) की SI इकाई क्या है?",
+        "en": "What is the SI unit of luminous intensity?"
+      },
+      "o": [
+        {
+          "hi": "कैंडेला",
+          "en": "Candela"
+        },
+        {
+          "hi": "लक्स",
+          "en": "Lux"
+        },
+        {
+          "hi": "ल्यूमेन",
+          "en": "Lumen"
+        },
+        {
+          "hi": "वाट",
+          "en": "Watt"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पदार्थ की मात्रा की SI इकाई क्या है?",
+        "en": "What is the SI unit of amount of substance?"
+      },
+      "o": [
+        {
+          "hi": "मोल",
+          "en": "Mole"
+        },
+        {
+          "hi": "ग्राम",
+          "en": "Gram"
+        },
+        {
+          "hi": "किलोग्राम",
+          "en": "Kilogram"
+        },
+        {
+          "hi": "कैंडेला",
+          "en": "Candela"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'प्रकाश वर्ष' (Light Year) किसकी इकाई है?",
+        "en": "'Light year' is a unit of which physical quantity?"
+      },
+      "o": [
+        {
+          "hi": "दूरी",
+          "en": "Distance"
+        },
+        {
+          "hi": "समय",
+          "en": "Time"
+        },
+        {
+          "hi": "प्रकाश की तीव्रता",
+          "en": "Light intensity"
+        },
+        {
+          "hi": "द्रव्यमान",
+          "en": "Mass"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एक प्रकाश वर्ष कितने मीटर के बराबर होता है?",
+        "en": "One light year is equal to how many meters?"
+      },
+      "o": [
+        {
+          "hi": "9.46 × 10¹⁵ m",
+          "en": "9.46 × 10¹⁵ m"
+        },
+        {
+          "hi": "9.46 × 10¹² m",
+          "en": "9.46 × 10¹² m"
+        },
+        {
+          "hi": "3.26 × 10¹⁵ m",
+          "en": "3.26 × 10¹⁵ m"
+        },
+        {
+          "hi": "1.496 × 10¹¹ m",
+          "en": "1.496 × 10¹¹ m"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "खगोलीय दूरी मापने की सबसे बड़ी इकाई कौन सी है?",
+        "en": "Which is the largest unit used to measure astronomical distance?"
+      },
+      "o": [
+        {
+          "hi": "पारसेक",
+          "en": "Parsec"
+        },
+        {
+          "hi": "प्रकाश वर्ष",
+          "en": "Light year"
+        },
+        {
+          "hi": "खगोलीय इकाई",
+          "en": "Astronomical Unit"
+        },
+        {
+          "hi": "एंगस्ट्रॉम",
+          "en": "Angstrom"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एक पारसेक (Parsec) लगभग कितने प्रकाश वर्ष के बराबर होता है?",
+        "en": "One Parsec is approximately equal to how many light years?"
+      },
+      "o": [
+        {
+          "hi": "3.26 प्रकाश वर्ष",
+          "en": "3.26 light years"
+        },
+        {
+          "hi": "9.46 प्रकाश वर्ष",
+          "en": "9.46 light years"
+        },
+        {
+          "hi": "1.49 प्रकाश वर्ष",
+          "en": "1.49 light years"
+        },
+        {
+          "hi": "4.24 प्रकाश वर्ष",
+          "en": "4.24 light years"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बल (Force) की SI इकाई क्या है?",
+        "en": "What is the SI unit of Force?"
+      },
+      "o": [
+        {
+          "hi": "न्यूटन",
+          "en": "Newton"
+        },
+        {
+          "hi": "जूल",
+          "en": "Joule"
+        },
+        {
+          "hi": "डाइन",
+          "en": "Dyne"
+        },
+        {
+          "hi": "पास्कल",
+          "en": "Pascal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 न्यूटन बल का मान किसके बराबर होता है?",
+        "en": "1 Newton of force is equal to:"
+      },
+      "o": [
+        {
+          "hi": "1 kg·m/s²",
+          "en": "1 kg·m/s²"
+        },
+        {
+          "hi": "1 kg·m/s",
+          "en": "1 kg·m/s"
+        },
+        {
+          "hi": "1 kg·m²/s²",
+          "en": "1 kg·m²/s²"
+        },
+        {
+          "hi": "1 g·cm/s²",
+          "en": "1 g·cm/s²"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "CGS पद्धति में बल का मात्रक क्या है?",
+        "en": "What is the unit of force in the CGS system?"
+      },
+      "o": [
+        {
+          "hi": "डाइन",
+          "en": "Dyne"
+        },
+        {
+          "hi": "न्यूटन",
+          "en": "Newton"
+        },
+        {
+          "hi": "अर्ग्",
+          "en": "Erg"
+        },
+        {
+          "hi": "पॉइज़",
+          "en": "Poise"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 न्यूटन कितने डाइन के बराबर होता है?",
+        "en": "1 Newton is equal to how many dynes?"
+      },
+      "o": [
+        {
+          "hi": "10⁵ डाइन",
+          "en": "10⁵ dynes"
+        },
+        {
+          "hi": "10³ डाइन",
+          "en": "10³ dynes"
+        },
+        {
+          "hi": "10⁷ डाइन",
+          "en": "10⁷ dynes"
+        },
+        {
+          "hi": "10⁹ डाइन",
+          "en": "10⁹ dynes"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दाब (Pressure) की SI इकाई क्या है?",
+        "en": "What is the SI unit of Pressure?"
+      },
+      "o": [
+        {
+          "hi": "पास्कल",
+          "en": "Pascal"
+        },
+        {
+          "hi": "बार",
+          "en": "Bar"
+        },
+        {
+          "hi": "टॉर",
+          "en": "Torr"
+        },
+        {
+          "hi": "न्यूटन",
+          "en": "Newton"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 पास्कल किसके बराबर होता है?",
+        "en": "1 Pascal is equal to:"
+      },
+      "o": [
+        {
+          "hi": "1 N/m²",
+          "en": "1 N/m²"
+        },
+        {
+          "hi": "1 N/m",
+          "en": "1 N/m"
+        },
+        {
+          "hi": "1 N·m",
+          "en": "1 N·m"
+        },
+        {
+          "hi": "1 kg/m²",
+          "en": "1 kg/m²"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वायुमंडलीय दाब मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+        "en": "Which instrument is used to measure atmospheric pressure?"
+      },
+      "o": [
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "हाइग्रोमीटर",
+          "en": "Hygrometer"
+        },
+        {
+          "hi": "अमीटर",
+          "en": "Ammeter"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कार्य और ऊर्जा का SI मात्रक क्या है?",
+        "en": "What is the SI unit of work and energy?"
+      },
+      "o": [
+        {
+          "hi": "जूल",
+          "en": "Joule"
+        },
+        {
+          "hi": "न्यूटन",
+          "en": "Newton"
+        },
+        {
+          "hi": "वाट",
+          "en": "Watt"
+        },
+        {
+          "hi": "कैलोरी",
+          "en": "Calorie"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 जूल कितने अर्ग (Erg) के बराबर होता है?",
+        "en": "1 Joule is equal to how many ergs?"
+      },
+      "o": [
+        {
+          "hi": "10⁷ अर्ग",
+          "en": "10⁷ ergs"
+        },
+        {
+          "hi": "10⁵ अर्ग",
+          "en": "10⁵ ergs"
+        },
+        {
+          "hi": "10⁻⁷ अर्ग",
+          "en": "10⁻⁷ ergs"
+        },
+        {
+          "hi": "10³ अर्ग",
+          "en": "10³ ergs"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शक्ति (Power) की SI इकाई क्या है?",
+        "en": "What is the SI unit of Power?"
+      },
+      "o": [
+        {
+          "hi": "वाट",
+          "en": "Watt"
+        },
+        {
+          "hi": "जूल",
+          "en": "Joule"
+        },
+        {
+          "hi": "ओम",
+          "en": "Ohm"
+        },
+        {
+          "hi": "एम्पियर",
+          "en": "Ampere"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एक अशक्ति (1 Horsepower) में कितने वाट होते हैं?",
+        "en": "One Horsepower (1 HP) is equal to how many watts?"
+      },
+      "o": [
+        {
+          "hi": "746 वाट",
+          "en": "746 watts"
+        },
+        {
+          "hi": "736 वाट",
+          "en": "736 watts"
+        },
+        {
+          "hi": "756 वाट",
+          "en": "756 watts"
+        },
+        {
+          "hi": "1000 वाट",
+          "en": "1000 watts"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विद्युत आवेश (Electric Charge) की SI इकाई क्या है?",
+        "en": "What is the SI unit of Electric Charge?"
+      },
+      "o": [
+        {
+          "hi": "कूलाम",
+          "en": "Coulomb"
+        },
+        {
+          "hi": "एम्पियर",
+          "en": "Ampere"
+        },
+        {
+          "hi": "फैराडे",
+          "en": "Farad"
+        },
+        {
+          "hi": "वोल्ट",
+          "en": "Volt"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विभवांतर (Potential Difference) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of Potential Difference?"
+      },
+      "o": [
+        {
+          "hi": "ओम",
+          "en": "Ohm"
+        },
+        {
+          "hi": "वोल्ट",
+          "en": "Volt"
+        },
+        {
+          "hi": "वाट",
+          "en": "Watt"
+        },
+        {
+          "hi": "कूलाम",
+          "en": "Coulomb"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "परिपथ में विद्युत धारा मापने के लिए किस यंत्र का प्रयोग किया जाता है?",
+        "en": "Which instrument is used to measure electric current in a circuit?"
+      },
+      "o": [
+        {
+          "hi": "वोल्टमीटर",
+          "en": "Voltmeter"
+        },
+        {
+          "hi": "अमीटर",
+          "en": "Ammeter"
+        },
+        {
+          "hi": "गैल्वेनोमीटर",
+          "en": "Galvanometer"
+        },
+        {
+          "hi": "ओह्ममीटर",
+          "en": "Ohmmeter"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दो बिंदुओं के बीच विभवांतर मापने वाला उपकरण कौन सा है?",
+        "en": "Which device is used to measure potential difference between two points?"
+      },
+      "o": [
+        {
+          "hi": "अमीटर",
+          "en": "Ammeter"
+        },
+        {
+          "hi": "वोल्टमीटर",
+          "en": "Voltmeter"
+        },
+        {
+          "hi": "विभवमापी",
+          "en": "Potentiometer"
+        },
+        {
+          "hi": "गैल्वेनोमीटर",
+          "en": "Galvanometer"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत प्रतिरोध (Electric Resistance) की इकाई क्या है?",
+        "en": "What is the unit of Electric Resistance?"
+      },
+      "o": [
+        {
+          "hi": "ओम-मीटर",
+          "en": "Ohm-meter"
+        },
+        {
+          "hi": "ओम",
+          "en": "Ohm"
+        },
+        {
+          "hi": "म्हो",
+          "en": "Mho"
+        },
+        {
+          "hi": "हेनरी",
+          "en": "Henry"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रतिरोधकता (Resistivity) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of Resistivity?"
+      },
+      "o": [
+        {
+          "hi": "ओम",
+          "en": "Ohm"
+        },
+        {
+          "hi": "ओम-मीटर",
+          "en": "Ohm-meter"
+        },
+        {
+          "hi": "ओम/मीटर",
+          "en": "Ohm/meter"
+        },
+        {
+          "hi": "साइमेंस",
+          "en": "Siemens"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आवृत्ति (Frequency) की SI इकाई क्या है?",
+        "en": "What is the SI unit of Frequency?"
+      },
+      "o": [
+        {
+          "hi": "डेसिबल",
+          "en": "Decibel"
+        },
+        {
+          "hi": "हर्ट्ज़",
+          "en": "Hertz"
+        },
+        {
+          "hi": "मीटर/सेकंड",
+          "en": "Meter/second"
+        },
+        {
+          "hi": "रेडियन",
+          "en": "Radian"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समतल कोण (Plane Angle) मापने का पूरक SI मात्रक क्या है?",
+        "en": "What is the supplementary SI unit for measuring plane angle?"
+      },
+      "o": [
+        {
+          "hi": "डिग्री",
+          "en": "Degree"
+        },
+        {
+          "hi": "रेडियन",
+          "en": "Radian"
+        },
+        {
+          "hi": "स्टेरेडियन",
+          "en": "Steradian"
+        },
+        {
+          "hi": "मिनट",
+          "en": "Minute"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "घन कोण (Solid Angle) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of Solid Angle?"
+      },
+      "o": [
+        {
+          "hi": "रेडियन",
+          "en": "Radian"
+        },
+        {
+          "hi": "स्टेरेडियन",
+          "en": "Steradian"
+        },
+        {
+          "hi": "डिग्री",
+          "en": "Degree"
+        },
+        {
+          "hi": "कैंडेला",
+          "en": "Candela"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वायुमंडल की सापेक्ष आर्द्रता (Relative Humidity) मापने के लिए किस यंत्र का प्रयोग होता है?",
+        "en": "Which instrument is used to measure relative humidity of the atmosphere?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोमीटर",
+          "en": "Hydrometer"
+        },
+        {
+          "hi": "हाइग्रोमीटर",
+          "en": "Hygrometer"
+        },
+        {
+          "hi": "पायरोमीटर",
+          "en": "Pyrometer"
+        },
+        {
+          "hi": "लैक्टोमीटर",
+          "en": "Lactometer"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दूध की शुद्धता या आपेक्षिक घनत्व मापने वाला यंत्र कौन सा है?",
+        "en": "Which device measures the purity or relative density of milk?"
+      },
+      "o": [
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "लैक्टोमीटर",
+          "en": "Lactometer"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "फैदोमीटर",
+          "en": "Fathometer"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "उच्च तापमान (जैसे सूर्य का ताप) मापने के लिए किस यंत्र का प्रयोग किया जाता है?",
+        "en": "Which instrument is used to measure high temperatures (e.g., temperature of the Sun)?"
+      },
+      "o": [
+        {
+          "hi": "थर्मामीटर",
+          "en": "Thermometer"
+        },
+        {
+          "hi": "पायरोमीटर",
+          "en": "Pyrometer"
+        },
+        {
+          "hi": "कैलोरीमीटर",
+          "en": "Calorimeter"
+        },
+        {
+          "hi": "क्रायोमीटर",
+          "en": "Cryometer"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पवन की गति और दिशा मापने वाला यंत्र कौन सा है?",
+        "en": "Which instrument measures wind speed and direction?"
+      },
+      "o": [
+        {
+          "hi": "स्पीडोमीटर",
+          "en": "Speedometer"
+        },
+        {
+          "hi": "एनीमोमीटर",
+          "en": "Anemometer"
+        },
+        {
+          "hi": "अमीटर",
+          "en": "Ammeter"
+        },
+        {
+          "hi": "ऑडोमीटर",
+          "en": "Odometer"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बल का विमीय सूत्र (Dimensional formula) क्या है?",
+        "en": "What is the dimensional formula of Force?"
+      },
+      "o": [
+        {
+          "hi": "[M¹ L² T⁻²]",
+          "en": "[M¹ L² T⁻²]"
+        },
+        {
+          "hi": "[M¹ L¹ T⁻²]",
+          "en": "[M¹ L¹ T⁻²]"
+        },
+        {
+          "hi": "[M¹ L¹ T⁻¹]",
+          "en": "[M¹ L¹ T⁻¹]"
+        },
+        {
+          "hi": "[M⁰ L¹ T⁻²]",
+          "en": "[M⁰ L¹ T⁻²]"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कार्य और ऊर्जा का विमीय सूत्र क्या है?",
+        "en": "What is the dimensional formula of Work and Energy?"
+      },
+      "o": [
+        {
+          "hi": "[M¹ L¹ T⁻²]",
+          "en": "[M¹ L¹ T⁻²]"
+        },
+        {
+          "hi": "[M¹ L² T⁻²]",
+          "en": "[M¹ L² T⁻²]"
+        },
+        {
+          "hi": "[M¹ L² T⁻¹]",
+          "en": "[M¹ L² T⁻¹]"
+        },
+        {
+          "hi": "[M¹ L⁰ T⁻²]",
+          "en": "[M¹ L⁰ T⁻²]"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वेग (Velocity) का विमीय सूत्र क्या है?",
+        "en": "What is the dimensional formula of Velocity?"
+      },
+      "o": [
+        {
+          "hi": "[M⁰ L¹ T⁻²]",
+          "en": "[M⁰ L¹ T⁻²]"
+        },
+        {
+          "hi": "[M⁰ L¹ T⁻¹]",
+          "en": "[M⁰ L¹ T⁻¹]"
+        },
+        {
+          "hi": "[M¹ L¹ T⁻¹]",
+          "en": "[M¹ L¹ T⁻¹]"
+        },
+        {
+          "hi": "[M⁰ L⁰ T⁻¹]",
+          "en": "[M⁰ L⁰ T⁻¹]"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "त्वरण (Acceleration) का विमीय सूत्र क्या है?",
+        "en": "What is the dimensional formula of Acceleration?"
+      },
+      "o": [
+        {
+          "hi": "[M⁰ L¹ T⁻¹]",
+          "en": "[M⁰ L¹ T⁻¹]"
+        },
+        {
+          "hi": "[M⁰ L¹ T⁻²]",
+          "en": "[M⁰ L¹ T⁻²]"
+        },
+        {
+          "hi": "[M¹ L¹ T⁻²]",
+          "en": "[M¹ L¹ T⁻²]"
+        },
+        {
+          "hi": "[M⁰ L² T⁻²]",
+          "en": "[M⁰ L² T⁻²]"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन सी विमाहीन (Dimensionless) राशि है?",
+        "en": "Which of the following is a dimensionless physical quantity?"
+      },
+      "o": [
+        {
+          "hi": "प्रतिबल (Stress)",
+          "en": "Stress"
+        },
+        {
+          "hi": "विकृति (Strain)",
+          "en": "Strain"
+        },
+        {
+          "hi": "दाब (Pressure)",
+          "en": "Pressure"
+        },
+        {
+          "hi": "त्वरण (Acceleration)",
+          "en": "Acceleration"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चुंबकीय फ्लक्स (Magnetic Flux) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of Magnetic Flux?"
+      },
+      "o": [
+        {
+          "hi": "टेस्ला",
+          "en": "Tesla"
+        },
+        {
+          "hi": "वेबर",
+          "en": "Weber"
+        },
+        {
+          "hi": "हेनरी",
+          "en": "Henry"
+        },
+        {
+          "hi": "गाउस",
+          "en": "Gauss"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चुंबकीय क्षेत्र की तीव्रता (Magnetic Field Strength) की SI इकाई क्या है?",
+        "en": "What is the SI unit of Magnetic Field Strength?"
+      },
+      "o": [
+        {
+          "hi": "वेबर",
+          "en": "Weber"
+        },
+        {
+          "hi": "टेस्ला",
+          "en": "Tesla"
+        },
+        {
+          "hi": "हेनरी",
+          "en": "Henry"
+        },
+        {
+          "hi": "फैराडे",
+          "en": "Farad"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रेरकत्व (Inductance) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of Inductance?"
+      },
+      "o": [
+        {
+          "hi": "वेबर",
+          "en": "Weber"
+        },
+        {
+          "hi": "फैराडे",
+          "en": "Farad"
+        },
+        {
+          "hi": "हेनरी",
+          "en": "Henry"
+        },
+        {
+          "hi": "ओम",
+          "en": "Ohm"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लेंस की क्षमता (Power of Lens) की इकाई क्या है?",
+        "en": "What is the unit of Power of Lens?"
+      },
+      "o": [
+        {
+          "hi": "लक्स",
+          "en": "Lux"
+        },
+        {
+          "hi": "ल्यूमेन",
+          "en": "Lumen"
+        },
+        {
+          "hi": "डायोप्टर",
+          "en": "Diopter"
+        },
+        {
+          "hi": "मीटर",
+          "en": "Meter"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन सी एक अदिश राशि (Scalar Quantity) है?",
+        "en": "Which of the following is a scalar quantity?"
+      },
+      "o": [
+        {
+          "hi": "बल (Force)",
+          "en": "Force"
+        },
+        {
+          "hi": "वेग (Velocity)",
+          "en": "Velocity"
+        },
+        {
+          "hi": "चाल (Speed)",
+          "en": "Speed"
+        },
+        {
+          "hi": "त्वरण (Acceleration)",
+          "en": "Acceleration"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन सी एक सदिश राशि (Vector Quantity) है?",
+        "en": "Which of the following is a vector quantity?"
+      },
+      "o": [
+        {
+          "hi": "दूरी (Distance)",
+          "en": "Distance"
+        },
+        {
+          "hi": "द्रव्यमान (Mass)",
+          "en": "Mass"
+        },
+        {
+          "hi": "संवेग (Momentum)",
+          "en": "Momentum"
+        },
+        {
+          "hi": "समय (Time)",
+          "en": "Time"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जल के भीतर ध्वनि तरंगों का पता लगाने के लिए किस उपकरण का उपयोग किया जाता है?",
+        "en": "Which device is used to detect sound waves underwater?"
+      },
+      "o": [
+        {
+          "hi": "ऑडियोफोन",
+          "en": "Audiophone"
+        },
+        {
+          "hi": "सोनार",
+          "en": "Sonar"
+        },
+        {
+          "hi": "हाइड्रोफोन",
+          "en": "Hydrophone"
+        },
+        {
+          "hi": "रेडार",
+          "en": "Radar"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रक्तचाप (Blood Pressure) मापने वाले उपकरण को क्या कहा जाता है?",
+        "en": "What is the instrument used to measure blood pressure called?"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रोकार्डियोग्राफ",
+          "en": "Electrocardiograph"
+        },
+        {
+          "hi": "स्टेथोस्कोप",
+          "en": "Stethoscope"
+        },
+        {
+          "hi": "स्फिग्मोमैनोमीटर",
+          "en": "Sphygmomanometer"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उपसृग 'नैनो' (nano) का मान कितना होता है?",
+        "en": "What is the value represented by prefix 'nano'?"
+      },
+      "o": [
+        {
+          "hi": "10⁻¹²",
+          "en": "10⁻¹²"
+        },
+        {
+          "hi": "10⁻⁶",
+          "en": "10⁻⁶"
+        },
+        {
+          "hi": "10⁻⁹",
+          "en": "10⁻⁹"
+        },
+        {
+          "hi": "10⁻¹⁵",
+          "en": "10⁻¹⁵"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उपसर्ग 'माइक्रो' (micro) का क्या मान होता है?",
+        "en": "What value does the prefix 'micro' represent?"
+      },
+      "o": [
+        {
+          "hi": "10⁻³",
+          "en": "10⁻³"
+        },
+        {
+          "hi": "10⁻⁹",
+          "en": "10⁻⁹"
+        },
+        {
+          "hi": "10⁻⁶",
+          "en": "10⁻⁶"
+        },
+        {
+          "hi": "10⁻¹²",
+          "en": "10⁻¹²"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1 पीकोमीटर (Picometer) कितने मीटर के बराबर है?",
+        "en": "1 Picometer is equal to how many meters?"
+      },
+      "o": [
+        {
+          "hi": "10⁻¹⁵ m",
+          "en": "10⁻¹⁵ m"
+        },
+        {
+          "hi": "10⁻⁹ m",
+          "en": "10⁻⁹ m"
+        },
+        {
+          "hi": "10⁻¹² m",
+          "en": "10⁻¹² m"
+        },
+        {
+          "hi": "10⁻⁶ m",
+          "en": "10⁻⁶ m"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उपसर्ग 'मेगा' (Mega) का मान कितना होता है?",
+        "en": "What is the value of prefix 'Mega'?"
+      },
+      "o": [
+        {
+          "hi": "10³",
+          "en": "10³"
+        },
+        {
+          "hi": "10⁹",
+          "en": "10⁹"
+        },
+        {
+          "hi": "10⁶",
+          "en": "10⁶"
+        },
+        {
+          "hi": "10¹²",
+          "en": "10¹²"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उपसर्ग 'गीगा' (Giga) का मान कितना होता है?",
+        "en": "What is the value of prefix 'Giga'?"
+      },
+      "o": [
+        {
+          "hi": "10¹²",
+          "en": "10¹²"
+        },
+        {
+          "hi": "10⁶",
+          "en": "10⁶"
+        },
+        {
+          "hi": "10⁹",
+          "en": "10⁹"
+        },
+        {
+          "hi": "10¹⁵",
+          "en": "10¹⁵"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1 एंगस्ट्रॉम (Å) का मान मीटर में कितना होता है?",
+        "en": "What is the value of 1 Angstrom (Å) in meters?"
+      },
+      "o": [
+        {
+          "hi": "10⁻¹² m",
+          "en": "10⁻¹² m"
+        },
+        {
+          "hi": "10⁻⁸ m",
+          "en": "10⁻⁸ m"
+        },
+        {
+          "hi": "10⁻¹⁰ m",
+          "en": "10⁻¹⁰ m"
+        },
+        {
+          "hi": "10⁻⁹ m",
+          "en": "10⁻⁹ m"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1 फर्मी (Fermi / Femtometer) किसके बराबर होता है?",
+        "en": "1 Fermi (femtometer) is equal to:"
+      },
+      "o": [
+        {
+          "hi": "10⁻⁹ m",
+          "en": "10⁻⁹ m"
+        },
+        {
+          "hi": "10⁻¹² m",
+          "en": "10⁻¹² m"
+        },
+        {
+          "hi": "10⁻¹⁵ m",
+          "en": "10⁻¹⁵ m"
+        },
+        {
+          "hi": "10⁻¹⁰ m",
+          "en": "10⁻¹⁰ m"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समुद्र की गहराई मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+        "en": "Which instrument is used to measure the depth of the ocean?"
+      },
+      "o": [
+        {
+          "hi": "क्रोनोमीटर",
+          "en": "Chronometer"
+        },
+        {
+          "hi": "ऑडोमीटर",
+          "en": "Odometer"
+        },
+        {
+          "hi": "फैदोमीटर",
+          "en": "Fathometer"
+        },
+        {
+          "hi": "अल्टीमीटर",
+          "en": "Altimeter"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'फ़ैदम' (Fathom) किसकी माप की इकाई है?",
+        "en": "'Fathom' is a unit used to measure:"
+      },
+      "o": [
+        {
+          "hi": "आवृत्ति",
+          "en": "Frequency"
+        },
+        {
+          "hi": "ध्वनि की गति",
+          "en": "Speed of sound"
+        },
+        {
+          "hi": "समुद्र की गहराई",
+          "en": "Depth of sea"
+        },
+        {
+          "hi": "प्रकाश की तीव्रता",
+          "en": "Light intensity"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आवेग (Impulse) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of Impulse?"
+      },
+      "o": [
+        {
+          "hi": "जूल-सेकंड",
+          "en": "Joule-second"
+        },
+        {
+          "hi": "न्यूटन/सेकंड",
+          "en": "Newton/second"
+        },
+        {
+          "hi": "न्यूटन-सेकंड",
+          "en": "Newton-second"
+        },
+        {
+          "hi": "न्यूटन-मीटर",
+          "en": "Newton-meter"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृष्ठ तनाव (Surface Tension) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of Surface Tension?"
+      },
+      "o": [
+        {
+          "hi": "न्यूटन/मीटर²",
+          "en": "Newton/meter²"
+        },
+        {
+          "hi": "न्यूटन-मीटर",
+          "en": "Newton-meter"
+        },
+        {
+          "hi": "न्यूटन/मीटर",
+          "en": "Newton/meter"
+        },
+        {
+          "hi": "जूल/मीटर",
+          "en": "Joule/meter"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "श्यानता गुणांक (Coefficient of Viscosity) की SI इकाई क्या है?",
+        "en": "What is the SI unit of Coefficient of Viscosity?"
+      },
+      "o": [
+        {
+          "hi": "पास्कल",
+          "en": "Pascal"
+        },
+        {
+          "hi": "पॉइज़",
+          "en": "Poise"
+        },
+        {
+          "hi": "पॉइज़ुली (N·s/m²)",
+          "en": "Poiseuille (N·s/m²)"
+        },
+        {
+          "hi": "स्टोक्स",
+          "en": "Stokes"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "श्यानता का CGS मात्रक क्या है?",
+        "en": "What is the CGS unit of Viscosity?"
+      },
+      "o": [
+        {
+          "hi": "डाइन",
+          "en": "Dyne"
+        },
+        {
+          "hi": "पॉइज़ुली",
+          "en": "Poiseuille"
+        },
+        {
+          "hi": "पॉइज़ (Poise)",
+          "en": "Poise"
+        },
+        {
+          "hi": "अर्ग्",
+          "en": "Erg"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तापमान की मूल SI इकाई क्या है?",
+        "en": "What is the base SI unit of Temperature?"
+      },
+      "o": [
+        {
+          "hi": "कैलोरी",
+          "en": "Calorie"
+        },
+        {
+          "hi": "सेल्सियस",
+          "en": "Celsius"
+        },
+        {
+          "hi": "फॉरेनहाइट",
+          "en": "Fahrenheit"
+        },
+        {
+          "hi": "केल्विन",
+          "en": "Kelvin"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विशिष्ट ऊष्मा धारिता (Specific Heat Capacity) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of Specific Heat Capacity?"
+      },
+      "o": [
+        {
+          "hi": "Cal/g",
+          "en": "Cal/g"
+        },
+        {
+          "hi": "J/kg",
+          "en": "J/kg"
+        },
+        {
+          "hi": "J/K",
+          "en": "J/K"
+        },
+        {
+          "hi": "J/(kg·K)",
+          "en": "J/(kg·K)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऊष्मा चालकता (Thermal Conductivity) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of Thermal Conductivity?"
+      },
+      "o": [
+        {
+          "hi": "W/K",
+          "en": "W/K"
+        },
+        {
+          "hi": "W/m²",
+          "en": "W/m²"
+        },
+        {
+          "hi": "J/(m·K)",
+          "en": "J/(m·K)"
+        },
+        {
+          "hi": "W/(m·K)",
+          "en": "W/(m·K)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'क्यूरी' (Curie) किसकी इकाई है?",
+        "en": "'Curie' is a unit of which phenomenon?"
+      },
+      "o": [
+        {
+          "hi": "ऊर्जा",
+          "en": "Energy"
+        },
+        {
+          "hi": "तापमान",
+          "en": "Temperature"
+        },
+        {
+          "hi": "ऊष्मा",
+          "en": "Heat"
+        },
+        {
+          "hi": "रेडियोधर्मिता",
+          "en": "Radioactivity"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रेडियोधर्मिता का SI मात्रक क्या है?",
+        "en": "What is the SI unit of Radioactivity?"
+      },
+      "o": [
+        {
+          "hi": "रोएंटजन",
+          "en": "Roentgen"
+        },
+        {
+          "hi": "क्यूरी",
+          "en": "Curie"
+        },
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "बेकरल (Bequerel)",
+          "en": "Bequerel"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'बार' (Bar) निम्नलिखित में से किसकी इकाई है?",
+        "en": "'Bar' is a unit of which of the following?"
+      },
+      "o": [
+        {
+          "hi": "आवृत्ति",
+          "en": "Frequency"
+        },
+        {
+          "hi": "बल",
+          "en": "Force"
+        },
+        {
+          "hi": "ऊर्जा",
+          "en": "Energy"
+        },
+        {
+          "hi": "वायुमंडलीय दाब",
+          "en": "Atmospheric Pressure"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 बार (Bar) कितने पास्कल के बराबर होता है?",
+        "en": "1 Bar is equal to how many Pascals?"
+      },
+      "o": [
+        {
+          "hi": "10³ Pa",
+          "en": "10³ Pa"
+        },
+        {
+          "hi": "10⁶ Pa",
+          "en": "10⁶ Pa"
+        },
+        {
+          "hi": "10⁴ Pa",
+          "en": "10⁴ Pa"
+        },
+        {
+          "hi": "10⁵ Pa",
+          "en": "10⁵ Pa"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'टॉर' (Torr) किसकी इकाई है?",
+        "en": "'Torr' is a unit of:"
+      },
+      "o": [
+        {
+          "hi": "घनत्व",
+          "en": "Density"
+        },
+        {
+          "hi": "बल",
+          "en": "Force"
+        },
+        {
+          "hi": "कार्य",
+          "en": "Work"
+        },
+        {
+          "hi": "दाब",
+          "en": "Pressure"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समुद्री दूरी मापने के लिए किस इकाई का प्रयोग किया जाता है?",
+        "en": "Which unit is used to measure distance in navigation at sea?"
+      },
+      "o": [
+        {
+          "hi": "फ़ैदम",
+          "en": "Fathom"
+        },
+        {
+          "hi": "प्रकाश वर्ष",
+          "en": "Light year"
+        },
+        {
+          "hi": "किलोमीटर",
+          "en": "Kilometer"
+        },
+        {
+          "hi": "समुद्री मील (Nautical Mile)",
+          "en": "Nautical Mile"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 समुद्री मील (Nautical Mile) कितने किलोमीटर के बराबर होता है?",
+        "en": "1 Nautical Mile is equal to how many kilometers?"
+      },
+      "o": [
+        {
+          "hi": "2.050 km",
+          "en": "2.050 km"
+        },
+        {
+          "hi": "1.609 km",
+          "en": "1.609 km"
+        },
+        {
+          "hi": "1.496 km",
+          "en": "1.496 km"
+        },
+        {
+          "hi": "1.852 km",
+          "en": "1.852 km"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समुद्री जहाजों की गति मापने की इकाई क्या है?",
+        "en": "What is the unit used to measure the speed of ships?"
+      },
+      "o": [
+        {
+          "hi": "फ़ैदम",
+          "en": "Fathom"
+        },
+        {
+          "hi": "समुद्री मील",
+          "en": "Nautical Mile"
+        },
+        {
+          "hi": "माक संख्या",
+          "en": "Mach Number"
+        },
+        {
+          "hi": "नॉट (Knot)",
+          "en": "Knot"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अत्यंत अल्प विद्युत धारा की उपस्थिति एवं दिशा का पता लगाने वाला यंत्र कौन सा है?",
+        "en": "Which device detects the presence and direction of small electric currents?"
+      },
+      "o": [
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "अमीटर",
+          "en": "Ammeter"
+        },
+        {
+          "hi": "वोल्टमीटर",
+          "en": "Voltmeter"
+        },
+        {
+          "hi": "गैल्वेनोमीटर",
+          "en": "Galvanometer"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नली के आंतरिक एवं बाह्य व्यास मापने के लिए प्रयुक्त सूक्ष्म मापी यंत्र कौन सा है?",
+        "en": "Which precision instrument is used to measure internal and external diameters of tubes?"
+      },
+      "o": [
+        {
+          "hi": "माइक्रोमीटर",
+          "en": "Micrometer"
+        },
+        {
+          "hi": "स्क्रू गेज",
+          "en": "Screw Gauge"
+        },
+        {
+          "hi": "स्फेरोमीटर",
+          "en": "Spherometer"
+        },
+        {
+          "hi": "वर्नियर कैलीपर्स",
+          "en": "Vernier Calipers"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पतले तार का व्यास मापने के लिए सबसे उपयुक्त उपकरण कौन सा है?",
+        "en": "Which instrument is best suited to measure the diameter of thin wires?"
+      },
+      "o": [
+        {
+          "hi": "फैदोमीटर",
+          "en": "Fathometer"
+        },
+        {
+          "hi": "वर्नियर कैलीपर्स",
+          "en": "Vernier Calipers"
+        },
+        {
+          "hi": "मीटर स्केल",
+          "en": "Meter Scale"
+        },
+        {
+          "hi": "स्क्रू गेज",
+          "en": "Screw Gauge"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रकाश फ्लक्स (Luminous Flux) की SI इकाई क्या है?",
+        "en": "What is the SI unit of Luminous Flux?"
+      },
+      "o": [
+        {
+          "hi": "वाट",
+          "en": "Watt"
+        },
+        {
+          "hi": "लक्स",
+          "en": "Lux"
+        },
+        {
+          "hi": "कैंडेला",
+          "en": "Candela"
+        },
+        {
+          "hi": "ल्यूमेन",
+          "en": "Lumen"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रदीप्ति घनत्व (Illuminance) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of Illuminance?"
+      },
+      "o": [
+        {
+          "hi": "डायोप्टर",
+          "en": "Diopter"
+        },
+        {
+          "hi": "ल्यूमेन",
+          "en": "Lumen"
+        },
+        {
+          "hi": "कैंडेला",
+          "en": "Candela"
+        },
+        {
+          "hi": "लक्स (Lux)",
+          "en": "Lux"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जड़त्व आघूर्ण (Moment of Inertia) की SI इकाई क्या है?",
+        "en": "What is the SI unit of Moment of Inertia?"
+      },
+      "o": [
+        {
+          "hi": "N·m",
+          "en": "N·m"
+        },
+        {
+          "hi": "kg/m²",
+          "en": "kg/m²"
+        },
+        {
+          "hi": "kg·m",
+          "en": "kg·m"
+        },
+        {
+          "hi": "kg·m²",
+          "en": "kg·m²"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 खगोलीय इकाई (Astronomical Unit) किसकी औसत दूरी दर्शाती है?",
+        "en": "1 Astronomical Unit (AU) represents the average distance between:"
+      },
+      "o": [
+        {
+          "hi": "सूर्य और प्लूटो के बीच",
+          "en": "Between Sun and Pluto"
+        },
+        {
+          "hi": "पृथ्वी और चंद्रमा के बीच",
+          "en": "Between Earth and Moon"
+        },
+        {
+          "hi": "सूर्य और बृहस्पति के बीच",
+          "en": "Between Sun and Jupiter"
+        },
+        {
+          "hi": "पृथ्वी और सूर्य के बीच",
+          "en": "Between Earth and Sun"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}
