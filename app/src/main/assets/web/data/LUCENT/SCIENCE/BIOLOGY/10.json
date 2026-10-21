@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - जीव विज्ञान (Biology)",
+  "subtitle": "मानव रोग",
+  "description": "मानव रोग पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "तपेदिक / यक्ष्मा / टीबी (Tuberculosis) किस रोगजनक जीवाणु के संक्रमण से होता है?",
+        "en": "Tuberculosis (TB) is caused by which pathogenic bacterial species?"
+      },
+      "o": [
+        {
+          "hi": "माइकोबैक्टीरियम ट्यूबरकुलोसिस (Mycobacterium tuberculosis)",
+          "en": "Mycobacterium tuberculosis"
+        },
+        {
+          "hi": "साल्मोनेला टाइफी (Salmonella typhi)",
+          "en": "Salmonella typhi"
+        },
+        {
+          "hi": "विब्रियो कोलरी (Vibrio cholerae)",
+          "en": "Vibrio cholerae"
+        },
+        {
+          "hi": "क्लॉस्ट्रिडियम टिटैनी (Clostridium tetani)",
+          "en": "Clostridium tetani"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "टीबी (Tuberculosis) की रोकथाम के लिए नवजात शिशुओं को कौन-सा टीका लगाया जाता है?",
+        "en": "Which vaccine is administered to infants for immunization against Tuberculosis?"
+      },
+      "o": [
+        {
+          "hi": "डी.पी.टी. का टीका (DPT Vaccine)",
+          "en": "DPT Vaccine"
+        },
+        {
+          "hi": "बी.सी.जी. का टीका (BCG - Bacillus Calmette-Guérin)",
+          "en": "BCG Vaccine (Bacillus Calmette-Guérin)"
+        },
+        {
+          "hi": "ओ.पी.वी. (Oral Polio Vaccine)",
+          "en": "OPV Vaccine"
+        },
+        {
+          "hi": "एम.एम.आर. का टीका (MMR Vaccine)",
+          "en": "MMR Vaccine"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हैजा (Cholera) रोग किस जीवाणु के संक्रमण से होता है और यह कैसे फैलता है?",
+        "en": "Cholera is an acute diarrheal infection caused by which bacterium?"
+      },
+      "o": [
+        {
+          "hi": "साल्मोनेला टाइफी (हवा द्वारा)",
+          "en": "Salmonella typhi (Airborne)"
+        },
+        {
+          "hi": "कोरीनेबैक्टीरियम (मच्छर द्वारा)",
+          "en": "Corynebacterium (Mosquito)"
+        },
+        {
+          "hi": "विब्रियो कोलरी (दूषित जल एवं भोजन द्वारा)",
+          "en": "Vibrio cholerae (Contaminated food and water)"
+        },
+        {
+          "hi": "ट्रिपैनोसोमा (मक्खी द्वारा)",
+          "en": "Trypanosoma (Fly)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मियादी बुखार / टाइफाइड (Typhoid) की पुष्टि के लिए कौन-सा नैदानिक परीक्षण किया जाता है?",
+        "en": "Which diagnostic clinical blood test is standardly performed to confirm Typhoid fever?"
+      },
+      "o": [
+        {
+          "hi": "एलिसा टेस्ट (ELISA Test)",
+          "en": "ELISA Test"
+        },
+        {
+          "hi": "मोंटू टेस्ट (Mantoux Test)",
+          "en": "Mantoux Test"
+        },
+        {
+          "hi": "वेस्टर्न ब्लॉट टेस्ट (Western Blot)",
+          "en": "Western Blot Test"
+        },
+        {
+          "hi": "विडाल टेस्ट (Widal Test)",
+          "en": "Widal Test"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'धनुषटंकार' या 'लॉकजॉ' (Lockjaw) किस घातक जीवाणु जनित रोग को कहा जाता है?",
+        "en": "Which acute bacterial disease caused by Clostridium tetani is commonly called 'Lockjaw'?"
+      },
+      "o": [
+        {
+          "hi": "टिटनेस (Tetanus)",
+          "en": "Tetanus"
+        },
+        {
+          "hi": "डिप्थीरिया (Diphtheria)",
+          "en": "Diphtheria"
+        },
+        {
+          "hi": "रेबीज (Rabies)",
+          "en": "Rabies"
+        },
+        {
+          "hi": "पोलियो (Polio)",
+          "en": "Polio"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "डीपीटी (DPT) का त्रि-संयोजी टीका किन तीन संक्रामक रोगों से सुरक्षा प्रदान करता है?",
+        "en": "The DPT triple antigen vaccine confers protection against which three diseases?"
+      },
+      "o": [
+        {
+          "hi": "डायबिटीज, पोलियो और टाइफाइड",
+          "en": "Diabetes, Polio, and Typhoid"
+        },
+        {
+          "hi": "डिप्थीरिया, पर्टुसिस (काली खांसी) और टिटनेस",
+          "en": "Diphtheria, Pertussis (Whooping Cough), and Tetanus"
+        },
+        {
+          "hi": "डिप्थीरिया, प्लेग और तपेदिक",
+          "en": "Diphtheria, Plague, and TB"
+        },
+        {
+          "hi": "डेंगू, पोलियो और टिटनेस",
+          "en": "Dengue, Polio, and Tetanus"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'काली मौत' (Black Death) के नाम से इतिहास में किस महामारी को जाना जाता है?",
+        "en": "Which catastrophic pandemic disease caused by Yersinia pestis was historically called the 'Black Death'?"
+      },
+      "o": [
+        {
+          "hi": "हैजा (Cholera)",
+          "en": "Cholera"
+        },
+        {
+          "hi": "चेचक (Smallpox)",
+          "en": "Smallpox"
+        },
+        {
+          "hi": "प्लेग (Plague - वाहक: चूहे का पिस्सू)",
+          "en": "Plague (Vector: Rat Flea / Xenopsylla)"
+        },
+        {
+          "hi": "मलेरिया (Malaria)",
+          "en": "Malaria"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कुष्ठ रोग (Leprosy) को अन्य किस नाम से जाना जाता है?",
+        "en": "Leprosy (caused by Mycobacterium leprae) is also known by what clinical name?"
+      },
+      "o": [
+        {
+          "hi": "हॉजकिन का रोग (Hodgkin's Disease)",
+          "en": "Hodgkin's Disease"
+        },
+        {
+          "hi": "ब्राइट का रोग (Bright's Disease)",
+          "en": "Bright's Disease"
+        },
+        {
+          "hi": "पार्किंसन रोग (Parkinson's Disease)",
+          "en": "Parkinson's Disease"
+        },
+        {
+          "hi": "हैनसेन का रोग (Hansen's Disease)",
+          "en": "Hansen's Disease"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एड्स (AIDS) का पूरा विस्तारित नाम (Full Form) क्या है?",
+        "en": "What is the full expansion of the acronym AIDS?"
+      },
+      "o": [
+        {
+          "hi": "Acquired Immuno Deficiency Syndrome",
+          "en": "Acquired Immuno Deficiency Syndrome"
+        },
+        {
+          "hi": "Acute Immune Disease Syndrome",
+          "en": "Acute Immune Disease Syndrome"
+        },
+        {
+          "hi": "Auto Immune Disorder System",
+          "en": "Auto Immune Disorder System"
+        },
+        {
+          "hi": "Acquired Infection Defect State",
+          "en": "Acquired Infection Defect State"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एड्स (AIDS) का कारक 'एचआईवी' (HIV) किस प्रकार का विषाणु है?",
+        "en": "The Human Immunodeficiency Virus (HIV) causing AIDS belongs to which viral group?"
+      },
+      "o": [
+        {
+          "hi": "डीएनए वायरस (Double-stranded DNA)",
+          "en": "Double-stranded DNA Virus"
+        },
+        {
+          "hi": "रेट्रोवायरस (Retrovirus - एकल रज्जुक RNA युक्त)",
+          "en": "Retrovirus (Single-stranded RNA with Reverse Transcriptase)"
+        },
+        {
+          "hi": "राइनोवायरस (Rhinovirus)",
+          "en": "Rhinovirus"
+        },
+        {
+          "hi": "बैक्टीरियोफेज (Bacteriophage)",
+          "en": "Bacteriophage"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एचआईवी (HIV) मानव शरीर की किन प्रतिरक्षा कोशिकाओं को नष्ट कर प्रतिरक्षा तंत्र ध्वस्त करता है?",
+        "en": "HIV progressively cripples the immune system by selectively targeting and destroying:"
+      },
+      "o": [
+        {
+          "hi": "लाल रक्त कणिकाएं (RBCs)",
+          "en": "Red Blood Cells"
+        },
+        {
+          "hi": "रक्त प्लेटलेट्स",
+          "en": "Blood Platelets"
+        },
+        {
+          "hi": "T-सहायक लिम्फोसाइट्स / CD4 कोशिकाएं (T4 Helper Cells)",
+          "en": "T4 Helper Lymphocytes (CD4+ T cells)"
+        },
+        {
+          "hi": "बी-लिम्फोसाइट्स",
+          "en": "B-Lymphocytes"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एड्स (HIV संक्रमण) की प्रारंभिक नैदानिक जांच के लिए कौन-सा परीक्षण किया जाता है?",
+        "en": "Which primary serological screening test is widely performed for detecting HIV antibodies?"
+      },
+      "o": [
+        {
+          "hi": "विडाल टेस्ट (Widal Test)",
+          "en": "Widal Test"
+        },
+        {
+          "hi": "मोंटू टेस्ट (Mantoux Test)",
+          "en": "Mantoux Test"
+        },
+        {
+          "hi": "शिक टेस्ट (Schick Test)",
+          "en": "Schick Test"
+        },
+        {
+          "hi": "एलिसा टेस्ट (ELISA - Enzyme-Linked Immunosorbent Assay)",
+          "en": "ELISA Test (Enzyme-Linked Immunosorbent Assay)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एचआईवी (HIV) संक्रमण की पुष्टि (Confirmatory Test) हेतु कौन-सा परीक्षण किया जाता है?",
+        "en": "Which specific confirmatory test is used to validate a positive ELISA result for HIV?"
+      },
+      "o": [
+        {
+          "hi": "वेस्टर्न ब्लॉट टेस्ट (Western Blot Test)",
+          "en": "Western Blot Test"
+        },
+        {
+          "hi": "ईएसआर टेस्ट (ESR Test)",
+          "en": "ESR Test"
+        },
+        {
+          "hi": "बायोप्सी (Biopsy)",
+          "en": "Biopsy"
+        },
+        {
+          "hi": "विडाल टेस्ट (Widal Test)",
+          "en": "Widal Test"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व एड्स दिवस (World AIDS Day) प्रतिवर्ष किस तिथि को मनाया जाता है?",
+        "en": "On which date is World AIDS Day observed globally every year?"
+      },
+      "o": [
+        {
+          "hi": "10 दिसंबर (मानवाधिकार दिवस)",
+          "en": "10 December"
+        },
+        {
+          "hi": "1 दिसंबर (1 December)",
+          "en": "1 December"
+        },
+        {
+          "hi": "11 जुलाई (जनसंख्या दिवस)",
+          "en": "11 July"
+        },
+        {
+          "hi": "7 अप्रैल (स्वास्थ्य दिवस)",
+          "en": "7 April"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पोलियो (Poliomyelitis) विषाणु शरीर के किस तंत्र को मुख्य रूप से प्रभावित करता है?",
+        "en": "The Poliovirus primarily infects and destroys motor neurons in which organ/system?"
+      },
+      "o": [
+        {
+          "hi": "श्वसन तंत्र (फेफड़े)",
+          "en": "Respiratory System (Lungs)"
+        },
+        {
+          "hi": "पाचन तंत्र (यकृत)",
+          "en": "Digestive System (Liver)"
+        },
+        {
+          "hi": "केंद्रीय तंत्रिका तंत्र (मेरुरज्जु / Spinal Cord)",
+          "en": "Central Nervous System (Spinal Cord)"
+        },
+        {
+          "hi": "उत्सर्जन तंत्र (वृक्क)",
+          "en": "Excretory System (Kidneys)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रेबीज (जलांतक / Hydrophobia) रोग में रोगी को किससे अत्यधिक भय लगने लगता है?",
+        "en": "In Rabies (Hydrophobia) caused by Rhabdovirus, what does the patient develop a terrifying fear of?"
+      },
+      "o": [
+        {
+          "hi": "अंधेरे से (Darkness)",
+          "en": "Darkness"
+        },
+        {
+          "hi": "ऊंचाई से (Heights)",
+          "en": "Heights"
+        },
+        {
+          "hi": "अग्नि से (Fire)",
+          "en": "Fire"
+        },
+        {
+          "hi": "पानी से (Water)",
+          "en": "Water"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "डेंगू बुखार (Breakbone Fever) का संचरण किस मादा मच्छर के काटने से होता है?",
+        "en": "Dengue virus is transmitted to humans through the bite of which infected mosquito?"
+      },
+      "o": [
+        {
+          "hi": "एडीज एजिप्टी मच्छर (Aedes aegypti / टाइगर मच्छर)",
+          "en": "Aedes aegypti (Tiger Mosquito)"
+        },
+        {
+          "hi": "मादा एनाफिलीज़ मच्छर (मलेरिया हेतु)",
+          "en": "Female Anopheles mosquito"
+        },
+        {
+          "hi": "मादा क्यूलेक्स मच्छर (फाइलेरिया हेतु)",
+          "en": "Female Culex mosquito"
+        },
+        {
+          "hi": "मंसोनिया मच्छर",
+          "en": "Mansonia mosquito"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "डेंगू बुखार में मानव शरीर में किसकी संख्या में तेजी से अत्यधिक गिरावट आती है?",
+        "en": "Severe Dengue fever is characteristically diagnosed by a rapid and precipitous drop in:"
+      },
+      "o": [
+        {
+          "hi": "लाल रक्त कणिकाएं (RBCs)",
+          "en": "Red Blood Cells"
+        },
+        {
+          "hi": "रक्त प्लेटलेट्स (Platelets / Thrombocytes)",
+          "en": "Blood Platelets (Thrombocytes)"
+        },
+        {
+          "hi": "श्वेत रक्त कणिकाएं (WBCs)",
+          "en": "White Blood Cells"
+        },
+        {
+          "hi": "हीमोग्लोबिन स्तर",
+          "en": "Hemoglobin Level"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मलेरिया रोग का संक्रमण किस प्रोटोजोआ द्वारा तथा किस वाहक मच्छर से होता है?",
+        "en": "Malaria is caused by Plasmodium and transmitted through the bite of:"
+      },
+      "o": [
+        {
+          "hi": "मादा एडीज मच्छर",
+          "en": "Female Aedes mosquito"
+        },
+        {
+          "hi": "मादा क्यूलेक्स मच्छर",
+          "en": "Female Culex mosquito"
+        },
+        {
+          "hi": "मादा एनाफिलीज़ मच्छर (Female Anopheles Mosquito)",
+          "en": "Female Anopheles Mosquito"
+        },
+        {
+          "hi": "नर एनाफिलीज़ मच्छर",
+          "en": "Male Anopheles mosquito"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मलेरिया परजीवी (Plasmodium) का जीवन चक्र मानव शरीर के किन दो अंगों में पूर्ण होता है?",
+        "en": "Inside the human body, Plasmodium completes its schizogony cycle in:"
+      },
+      "o": [
+        {
+          "hi": "फेफड़े तथा हृदय में",
+          "en": "Lungs and Heart"
+        },
+        {
+          "hi": "वृक्क तथा मूत्राशय में",
+          "en": "Kidneys and Bladder"
+        },
+        {
+          "hi": "मस्तिष्क तथा मेरुरज्जु में",
+          "en": "Brain and Spinal Cord"
+        },
+        {
+          "hi": "यकृत (Liver) तथा लाल रक्त कणिकाओं (RBCs) में",
+          "en": "Liver cells and Red Blood Cells (RBCs)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मलेरिया के उपचार में प्रयुक्त प्रसिद्ध पारंपरिक औषधि 'कुनैन' (Quinine) किससे प्राप्त होती है?",
+        "en": "The antimalarial drug Quinine is traditionally extracted from the bark of which tree?"
+      },
+      "o": [
+        {
+          "hi": "सिनकोना वृक्ष की छाल (Cinchona Bark)",
+          "en": "Cinchona Bark"
+        },
+        {
+          "hi": "नीम की छाल (Neem Bark)",
+          "en": "Neem Bark"
+        },
+        {
+          "hi": "यूकेलिप्टस की पत्तियां",
+          "en": "Eucalyptus leaves"
+        },
+        {
+          "hi": "बेलाडोना की जड़ें",
+          "en": "Belladonna roots"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मलेरिया के कारण लाल रक्त कणिकाओं के फटने से कौन-सा विषैला रसायन निकलता है जिससे तेज कंपकंपी आती है?",
+        "en": "The periodic chills and high fever of malaria are induced by the toxic release of:"
+      },
+      "o": [
+        {
+          "hi": "हिस्टामिन (Histamine)",
+          "en": "Histamine"
+        },
+        {
+          "hi": "हीमोजोइन (Haemozoin)",
+          "en": "Haemozoin"
+        },
+        {
+          "hi": "इंटरफेरॉन (Interferon)",
+          "en": "Interferon"
+        },
+        {
+          "hi": "बिलिरूबिन (Bilirubin)",
+          "en": "Bilirubin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दाद (Ringworm) रोग किसके संक्रमण से होने वाला त्वचा रोग है?",
+        "en": "Ringworm (Tinea) is a contagious fungal skin infection caused by:"
+      },
+      "o": [
+        {
+          "hi": "जीवाणु (Bacteria)",
+          "en": "Bacteria"
+        },
+        {
+          "hi": "विषाणु (Virus)",
+          "en": "Virus"
+        },
+        {
+          "hi": "कवक (Fungus - ट्राइकोफाइटन / माइक्रोस्पोरम)",
+          "en": "Fungi (Trichophyton / Microsporum)"
+        },
+        {
+          "hi": "प्रोटोजोआ (Protozoa)",
+          "en": "Protozoa"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'एथलीट फुट' (Athlete's Foot) नामक संक्रामक पैर का रोग किससे होता है?",
+        "en": "Athlete's Foot (Tinea pedis) is a fungal infection caused by which organism?"
+      },
+      "o": [
+        {
+          "hi": "जीवाणु (Bacteria)",
+          "en": "Bacteria"
+        },
+        {
+          "hi": "विषाणु (Virus)",
+          "en": "Virus"
+        },
+        {
+          "hi": "गोलकृमि (Nematode)",
+          "en": "Nematode"
+        },
+        {
+          "hi": "कवक (Tinea pedis कवक द्वारा)",
+          "en": "Fungus (Tinea pedis)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चेचक (Smallpox) का टीका सर्वप्रथम 1796 में किस अंग्रेज चिकित्सक ने विकसित किया था?",
+        "en": "Who developed the world's first successful vaccine (against Smallpox) in 1796?"
+      },
+      "o": [
+        {
+          "hi": "एडवर्ड जेनर (Edward Jenner - फादर ऑफ इम्यूनोलॉजी)",
+          "en": "Edward Jenner (Father of Immunology)"
+        },
+        {
+          "hi": "लुई पाश्चर (Louis Pasteur)",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग",
+          "en": "Alexander Fleming"
+        },
+        {
+          "hi": "रॉबर्ट कोच",
+          "en": "Robert Koch"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व स्वास्थ्य संगठन (WHO) द्वारा चेचक (Smallpox) का विश्व से पूर्ण उन्मूलन कब घोषित किया गया?",
+        "en": "In which year did the World Health Organization (WHO) declare smallpox globally eradicated?"
+      },
+      "o": [
+        {
+          "hi": "1975 में",
+          "en": "In 1975"
+        },
+        {
+          "hi": "1980 में (मई 1980)",
+          "en": "In 1980 (May 1980)"
+        },
+        {
+          "hi": "1990 में",
+          "en": "In 1990"
+        },
+        {
+          "hi": "2000 में",
+          "en": "In 2000"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पोलियो के पहले टीके (इंजेक्टेबल Salk Vaccine) की खोज 1952 में किसने की थी?",
+        "en": "Who developed the first inactivated injectable polio vaccine (IPV) in 1952?"
+      },
+      "o": [
+        {
+          "hi": "अल्बर्ट साबिन (Albert Sabin - ओरल ड्रॉप्स)",
+          "en": "Albert Sabin"
+        },
+        {
+          "hi": "एडवर्ड जेनर",
+          "en": "Edward Jenner"
+        },
+        {
+          "hi": "जोनास साल्क (Jonas Salk)",
+          "en": "Jonas Salk"
+        },
+        {
+          "hi": "लुई पाश्चर",
+          "en": "Louis Pasteur"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मुंह से पिलाई जाने वाली ओरल पोलियो ड्रॉप्स (OPV) की खोज 1961 में किसने की थी?",
+        "en": "Who developed the live attenuated Oral Polio Vaccine (OPV) drops in 1961?"
+      },
+      "o": [
+        {
+          "hi": "जोनास साल्क",
+          "en": "Jonas Salk"
+        },
+        {
+          "hi": "लुई पाश्चर",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग",
+          "en": "Alexander Fleming"
+        },
+        {
+          "hi": "अल्बर्ट साबिन (Albert Sabin)",
+          "en": "Albert Sabin"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्वाइन फ्लू (Swine Flu) किस इन्फ्लुएंजा विषाणु के संक्रमण से फैलता है?",
+        "en": "Swine Flu respiratory infection is caused by which subtype of Influenza A virus?"
+      },
+      "o": [
+        {
+          "hi": "H1N1 वायरस",
+          "en": "H1N1 Virus"
+        },
+        {
+          "hi": "H5N1 वायरस (बर्ड फ्लू हेतु)",
+          "en": "H5N1 Virus (Bird Flu)"
+        },
+        {
+          "hi": "H2N2 वायरस",
+          "en": "H2N2 Virus"
+        },
+        {
+          "hi": "H3N2 वायरस",
+          "en": "H3N2 Virus"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बर्ड फ्लू (Bird Flu / एवियन इन्फ्लूएंजा) का मुख्य वायरस स्ट्रेन कौन-सा है?",
+        "en": "Avian Influenza (Bird Flu) is predominantly caused by which viral strain?"
+      },
+      "o": [
+        {
+          "hi": "H1N1 वायरस",
+          "en": "H1N1 Virus"
+        },
+        {
+          "hi": "H5N1 वायरस",
+          "en": "H5N1 Virus"
+        },
+        {
+          "hi": "HIV वायरस",
+          "en": "HIV Virus"
+        },
+        {
+          "hi": "SARS-CoV-2",
+          "en": "SARS-CoV-2"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जीका वायरस (Zika Virus) और चिकुनगुनिया का संचरण किस मच्छर के काटने से होता है?",
+        "en": "Zika virus, Chikungunya, and Yellow fever are primarily transmitted by which mosquito vector?"
+      },
+      "o": [
+        {
+          "hi": "एनाफिलीज़ मच्छर",
+          "en": "Anopheles Mosquito"
+        },
+        {
+          "hi": "क्यूलेक्स मच्छर",
+          "en": "Culex Mosquito"
+        },
+        {
+          "hi": "एडीज मच्छर (Aedes Mosquito)",
+          "en": "Aedes Mosquito"
+        },
+        {
+          "hi": "मंसोनिया मच्छर",
+          "en": "Mansonia Mosquito"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मिनीमाता रोग (Minamata Disease) किस भारी धातु के औद्योगिक प्रदूषण और विषाक्तता से हुआ था?",
+        "en": "The crippling neurological Minamata disease in Japan was caused by severe toxicity of:"
+      },
+      "o": [
+        {
+          "hi": "कैडमियम (Cadmium - Cd)",
+          "en": "Cadmium (Cd)"
+        },
+        {
+          "hi": "सीसा / लेड (Lead - Pb)",
+          "en": "Lead (Pb)"
+        },
+        {
+          "hi": "आर्सेनिक (Arsenic - As)",
+          "en": "Arsenic (As)"
+        },
+        {
+          "hi": "पारा / मरकरी (Mercury - Hg / मिथाइल मरकरी)",
+          "en": "Mercury (Methylmercury - Hg)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'इटाई-इटाई' (Itai-Itai Disease) रोग किस भारी धातु के प्रदूषण से हड्डियों और गुर्दों को नुकसान पहुंचाता है?",
+        "en": "Itai-Itai disease, causing severe osteomalacia and renal failure in Japan, was caused by:"
+      },
+      "o": [
+        {
+          "hi": "कैडमियम (Cadmium - Cd)",
+          "en": "Cadmium (Cd)"
+        },
+        {
+          "hi": "पारा (Mercury)",
+          "en": "Mercury"
+        },
+        {
+          "hi": "आर्सेनिक (Arsenic)",
+          "en": "Arsenic"
+        },
+        {
+          "hi": "तांबा (Copper)",
+          "en": "Copper"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पीने के पानी में आर्सेनिक (Arsenic) की अधिकता से त्वचा पर कौन-सा रोग हो जाता है?",
+        "en": "Chronic consumption of drinking water contaminated with Arsenic leads to:"
+      },
+      "o": [
+        {
+          "hi": "ब्लू बेबी सिंड्रोम",
+          "en": "Blue Baby Syndrome"
+        },
+        {
+          "hi": "ब्लैक फुट रोग (Black Foot Disease)",
+          "en": "Black Foot Disease"
+        },
+        {
+          "hi": "मिनीमाता रोग",
+          "en": "Minamata Disease"
+        },
+        {
+          "hi": "सिकल सेल रोग",
+          "en": "Sickle Cell Disease"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पेयजल में नाइट्रेट (Nitrate) की अधिक मात्रा से शिशुओं में कौन-सा घातक सिंड्रोम होता है?",
+        "en": "Excess nitrate contamination in infant drinking water causes Methemoglobinemia, commonly known as:"
+      },
+      "o": [
+        {
+          "hi": "ब्लैक फुट रोग",
+          "en": "Black Foot Disease"
+        },
+        {
+          "hi": "इटाई-इटाई रोग",
+          "en": "Itai-Itai Disease"
+        },
+        {
+          "hi": "ब्लू बेबी सिंड्रोम (Blue Baby Syndrome)",
+          "en": "Blue Baby Syndrome"
+        },
+        {
+          "hi": "डाउन सिंड्रोम",
+          "en": "Down Syndrome"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कोयले की खानों में काम करने वाले श्रमिकों के फेफड़ों में होने वाला व्यावसायिक रोग कौन-सा है?",
+        "en": "What is the occupational lung disease prevalent among coal miners called?"
+      },
+      "o": [
+        {
+          "hi": "सिलिकोसिस (Silicosis - पत्थर खदानों में)",
+          "en": "Silicosis"
+        },
+        {
+          "hi": "एस्बेस्टोसिस (Asbestosis)",
+          "en": "Asbestosis"
+        },
+        {
+          "hi": "बायसिनोसिस (Byssinosis - कपास मिलों में)",
+          "en": "Byssinosis"
+        },
+        {
+          "hi": "न्यूमोकोनियोसिस / ब्लैक लंग रोग (Anthracosis / Black Lung)",
+          "en": "Anthracosis / Black Lung Disease"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कपास की धूल (Cotton Dust) में लंबे समय तक सांस लेने से कपड़ा मिल मजदूरों को कौन-सा रोग होता है?",
+        "en": "Chronic inhalation of cotton fibers by textile mill workers causes which respiratory disease?"
+      },
+      "o": [
+        {
+          "hi": "बायसिनोसिस / ब्राउन लंग रोग (Byssinosis)",
+          "en": "Byssinosis / Brown Lung Disease"
+        },
+        {
+          "hi": "सिलिकोसिस",
+          "en": "Silicosis"
+        },
+        {
+          "hi": "एन्थ्रेकोसिस",
+          "en": "Anthracosis"
+        },
+        {
+          "hi": "एस्बेस्टोसिस",
+          "en": "Asbestosis"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कैंसर (Cancer) कोशिकाओं की अनियंत्रित वृद्धि और विभाजन का अध्ययन क्या कहलाता है?",
+        "en": "The specialized medical branch devoted to the diagnosis and treatment of cancer is:"
+      },
+      "o": [
+        {
+          "hi": "हेमेटोलॉजी (Hematology)",
+          "en": "Hematology"
+        },
+        {
+          "hi": "ऑन्कोलॉजी (Oncology)",
+          "en": "Oncology"
+        },
+        {
+          "hi": "नेफ्रोलॉजी (Nephrology)",
+          "en": "Nephrology"
+        },
+        {
+          "hi": "एंडोक्रिनोलॉजी",
+          "en": "Endocrinology"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ल्यूकेमिया (Leukemia) किस प्रकार का कैंसर है?",
+        "en": "Leukemia is cancer of which cells/tissue in the human body?"
+      },
+      "o": [
+        {
+          "hi": "त्वचा कैंसर (Melanoma)",
+          "en": "Skin Cancer"
+        },
+        {
+          "hi": "हड्डी का कैंसर (Osteosarcoma)",
+          "en": "Bone Cancer"
+        },
+        {
+          "hi": "रक्त कैंसर (श्वेत रक्त कोशिकाओं / WBCs की अनियंत्रित वृद्धि)",
+          "en": "Blood Cancer (Uncontrolled proliferation of abnormal WBCs)"
+        },
+        {
+          "hi": "यकृत का कैंसर",
+          "en": "Liver Cancer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कैंसर की जांच के लिए संदिग्ध ऊतक का टुकड़ा काटकर की जाने वाली सूक्ष्मदर्शी जांच क्या कहलाती है?",
+        "en": "The diagnostic surgical removal and microscopic examination of suspicious tissue is called a:"
+      },
+      "o": [
+        {
+          "hi": "ऑटोप्सी / शव परीक्षण (Autopsy)",
+          "en": "Autopsy"
+        },
+        {
+          "hi": "एंडोस्कोपी (Endoscopy)",
+          "en": "Endoscopy"
+        },
+        {
+          "hi": "डायग्नोस्टिक सोनोग्राफी",
+          "en": "Diagnostic Sonography"
+        },
+        {
+          "hi": "बायोप्सी (Biopsy)",
+          "en": "Biopsy"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कैंसर के रेडियोथेरेपी उपचार में किस रेडियोधर्मी समस्थानिक का सामान्यतः उपयोग किया जाता है?",
+        "en": "Which radioactive isotope is commonly used in radiation therapy to destroy malignant cancer cells?"
+      },
+      "o": [
+        {
+          "hi": "कोबाल्ट-60 (Cobalt-60 - गामा किरणें)",
+          "en": "Cobalt-60 (Gamma rays)"
+        },
+        {
+          "hi": "आयोडीन-131 (थायरॉयड हेतु)",
+          "en": "Iodine-131"
+        },
+        {
+          "hi": "कार्बन-14",
+          "en": "Carbon-14"
+        },
+        {
+          "hi": "सोडियम-24",
+          "en": "Sodium-24"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "थायरॉयड ग्रंथि के कैंसर और अतिसक्रियता की जांच व उपचार हेतु कौन-सा समस्थानिक प्रयुक्त होता है?",
+        "en": "Which radioisotope is used in the diagnosis and targeted radiotherapy of thyroid cancer?"
+      },
+      "o": [
+        {
+          "hi": "कोबाल्ट-60",
+          "en": "Cobalt-60"
+        },
+        {
+          "hi": "आयोडीन-131 (Iodine-131)",
+          "en": "Iodine-131"
+        },
+        {
+          "hi": "आर्सेनिक-74",
+          "en": "Arsenic-74"
+        },
+        {
+          "hi": "फास्फोरस-32",
+          "en": "Phosphorus-32"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ल्यूकेमिया (रक्त कैंसर) के उपचार में किस रेडियोधर्मी समस्थानिक का प्रयोग किया जाता है?",
+        "en": "Which radioisotope is clinically employed in the treatment of Leukemia and Polycythemia?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम-24",
+          "en": "Sodium-24"
+        },
+        {
+          "hi": "कार्बन-14",
+          "en": "Carbon-14"
+        },
+        {
+          "hi": "फास्फोरस-32 (Phosphorus-32)",
+          "en": "Phosphorus-32"
+        },
+        {
+          "hi": "यूरेनियम-235",
+          "en": "Uranium-235"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रक्त प्रवाह में थक्कों (Blood Clots) का पता लगाने हेतु किस रेडियोधर्मी ट्रेसर का उपयोग होता है?",
+        "en": "Which radioisotope tracer is used to detect vascular blood clots and circulatory abnormalities?"
+      },
+      "o": [
+        {
+          "hi": "आयोडीन-131",
+          "en": "Iodine-131"
+        },
+        {
+          "hi": "कोबाल्ट-60",
+          "en": "Cobalt-60"
+        },
+        {
+          "hi": "फास्फोरस-32",
+          "en": "Phosphorus-32"
+        },
+        {
+          "hi": "सोडियम-24 (Sodium-24 / Na-24)",
+          "en": "Sodium-24 (Na-24)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मस्तिष्क ट्यूमर (Brain Tumor) की स्थिति और ट्यूमर का पता लगाने में कौन-सा समस्थानिक सहायक है?",
+        "en": "Which radioisotope is useful in scanning and localizing Brain Tumors?"
+      },
+      "o": [
+        {
+          "hi": "आर्सेनिक-74 (Arsenic-74)",
+          "en": "Arsenic-74"
+        },
+        {
+          "hi": "कोबाल्ट-60",
+          "en": "Cobalt-60"
+        },
+        {
+          "hi": "सोडियम-24",
+          "en": "Sodium-24"
+        },
+        {
+          "hi": "कार्बन-14",
+          "en": "Carbon-14"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गोनोरिया (Gonorrhoea) और सिफलिस (Syphilis) किस प्रकार के संक्रामक रोग हैं?",
+        "en": "Gonorrhoea and Syphilis are primarily classified as:"
+      },
+      "o": [
+        {
+          "hi": "विषाणु जनित रोग",
+          "en": "Viral Diseases"
+        },
+        {
+          "hi": "जीवाणु जनित यौन संचारित रोग (Bacterial STDs)",
+          "en": "Bacterial Sexually Transmitted Diseases"
+        },
+        {
+          "hi": "कवक जनित त्वचा रोग",
+          "en": "Fungal Skin Diseases"
+        },
+        {
+          "hi": "प्रोटोजोआ जनित रोग",
+          "en": "Protozoan Diseases"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मलेरिया रोधी दवा 'क्लोरोक्वीन' (Chloroquine) किस प्रकार की औषधि है?",
+        "en": "The antimalarial drug Chloroquine is chemically synthesized as:"
+      },
+      "o": [
+        {
+          "hi": "सल्फा एंटीबायोटिक",
+          "en": "Sulfa Antibiotic"
+        },
+        {
+          "hi": "स्टेरॉयड हार्मोन",
+          "en": "Steroid Hormone"
+        },
+        {
+          "hi": "सिंथेटिक 4-अमीनोक्विनोलिन औषधि",
+          "en": "Synthetic 4-Aminoquinoline Drug"
+        },
+        {
+          "hi": "प्राकृतिक एंजाइम",
+          "en": "Natural Enzyme"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हैजा, पेचिश और पीलिया मुख्य रूप से किसके माध्यम से फैलने वाले संक्रामक रोग हैं?",
+        "en": "Cholera, dysentery, and Hepatitis-A are predominantly spread through:"
+      },
+      "o": [
+        {
+          "hi": "केवल वायु द्वारा (Airborne)",
+          "en": "Airborne droplets only"
+        },
+        {
+          "hi": "रक्त आधान द्वारा",
+          "en": "Blood transfusion only"
+        },
+        {
+          "hi": "मच्छरों के काटने से",
+          "en": "Mosquito bites only"
+        },
+        {
+          "hi": "दूषित जल और अशुद्ध भोजन (Waterborne/Foodborne)",
+          "en": "Contaminated water and adulterated food"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अल्जाइमर रोग (Alzheimer's Disease) मानव शरीर के किस अंग को गंभीर रूप से प्रभावित करता है?",
+        "en": "Alzheimer's disease is a progressive neurodegenerative disorder that primarily destroys:"
+      },
+      "o": [
+        {
+          "hi": "मस्तिष्क (Brain - याददाश्त और संज्ञानात्मक क्षमता)",
+          "en": "Brain (Memory and cognitive functions)"
+        },
+        {
+          "hi": "यकृत (Liver)",
+          "en": "Liver"
+        },
+        {
+          "hi": "हृदय (Heart)",
+          "en": "Heart"
+        },
+        {
+          "hi": "वृक्क (Kidney)",
+          "en": "Kidney"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पार्किंसन रोग (Parkinson's Disease) मस्तिष्क में किस न्यूरोट्रांसमीटर रसायन की कमी से होता है?",
+        "en": "Parkinson's motor disorder occurs due to degeneration of neurons producing which neurotransmitter?"
+      },
+      "o": [
+        {
+          "hi": "एसिटिलकोलीन (Acetylcholine)",
+          "en": "Acetylcholine"
+        },
+        {
+          "hi": "डोपामाइन (Dopamine)",
+          "en": "Dopamine"
+        },
+        {
+          "hi": "सीरोटोनिन (Serotonin)",
+          "en": "Serotonin"
+        },
+        {
+          "hi": "गाबा (GABA)",
+          "en": "GABA"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

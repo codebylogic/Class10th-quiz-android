@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - जीव विज्ञान (Biology)",
+  "subtitle": "आनुवंशिकी",
+  "description": "आनुवंशिकी पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "आनुवंशिकी का जनक (Father of Genetics) किसे कहा जाता है?",
+        "en": "Who is revered as the Father of Genetics?"
+      },
+      "o": [
+        {
+          "hi": "ग्रेगर जॉन मेंडल (Gregor Johann Mendel)",
+          "en": "Gregor Johann Mendel"
+        },
+        {
+          "hi": "चार्ल्स डार्विन (Charles Darwin)",
+          "en": "Charles Darwin"
+        },
+        {
+          "hi": "टी.एच. मॉर्गन (T.H. Morgan)",
+          "en": "T.H. Morgan"
+        },
+        {
+          "hi": "ह्यूगो डी व्रीज (Hugo de Vries)",
+          "en": "Hugo de Vries"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मेंडल ने अपने आनुवंशिकी के ऐतिहासिक संकरण प्रयोग किस पौधे पर किए थे?",
+        "en": "On which plant did Gregor Mendel perform his historic hybridization experiments?"
+      },
+      "o": [
+        {
+          "hi": "मीठी मटर (Sweet Pea / Lathyrus)",
+          "en": "Sweet Pea (Lathyrus odoratus)"
+        },
+        {
+          "hi": "उद्यान मटर (Garden Pea / Pisum sativum)",
+          "en": "Garden Pea (Pisum sativum)"
+        },
+        {
+          "hi": "जंगली मटर (Wild Pea)",
+          "en": "Wild Pea"
+        },
+        {
+          "hi": "चना (Chickpea / Cicer)",
+          "en": "Chickpea (Cicer arietinum)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मेंडल ने मटर के पौधे में कितने जोड़ी विपर्यायी लक्षणों (Contrasting Traits) का अध्ययन किया?",
+        "en": "How many pairs of contrasting characters in the pea plant did Mendel study?"
+      },
+      "o": [
+        {
+          "hi": "5 जोड़ी लक्षण",
+          "en": "5 Pairs"
+        },
+        {
+          "hi": "9 जोड़ी लक्षण",
+          "en": "9 Pairs"
+        },
+        {
+          "hi": "7 जोड़ी लक्षण (7 Pairs)",
+          "en": "7 Pairs of Traits"
+        },
+        {
+          "hi": "12 जोड़ी लक्षण",
+          "en": "12 Pairs"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'जेनेटिक्स' (Genetics / आनुवंशिकी) शब्द का सर्वप्रथम प्रयोग 1905 में किसने किया था?",
+        "en": "Who first coined the term 'Genetics' in 1905?"
+      },
+      "o": [
+        {
+          "hi": "ग्रेगर मेंडल",
+          "en": "Gregor Mendel"
+        },
+        {
+          "hi": "विल्हेम जोहान्सन",
+          "en": "Wilhelm Johannsen"
+        },
+        {
+          "hi": "वाल्टर सटन",
+          "en": "Walter Sutton"
+        },
+        {
+          "hi": "विलियम बेटसन (William Bateson)",
+          "en": "William Bateson"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'जीन' (Gene) शब्द का सर्वप्रथम प्रयोग 1909 में किस वैज्ञानिक ने किया था?",
+        "en": "Who coined the biological term 'Gene' in 1909?"
+      },
+      "o": [
+        {
+          "hi": "विल्हेम जोहान्सन (Wilhelm Johannsen)",
+          "en": "Wilhelm Johannsen"
+        },
+        {
+          "hi": "विलियम बेटसन",
+          "en": "William Bateson"
+        },
+        {
+          "hi": "ग्रेगर मेंडल (इन्होंने कारक/Factor कहा था)",
+          "en": "Gregor Mendel"
+        },
+        {
+          "hi": "टी.एच. मॉर्गन",
+          "en": "T.H. Morgan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1900 में मेंडल के आनुवंशिकी नियमों की स्वतंत्र रूप से पुनः खोज किन तीन वैज्ञानिकों ने की?",
+        "en": "Which three scientists independently rediscovered Mendel's laws of inheritance in 1900?"
+      },
+      "o": [
+        {
+          "hi": "सटन, बोवेरी और मॉर्गन",
+          "en": "Sutton, Boveri, and Morgan"
+        },
+        {
+          "hi": "ह्यूगो डी व्रीज, कार्ल कोरेन्स और एरिक वॉन शेरमाक",
+          "en": "Hugo de Vries, Carl Correns, and Erich von Tschermak"
+        },
+        {
+          "hi": "वाटसन, क्रिक और विल्किंस",
+          "en": "Watson, Crick, and Wilkins"
+        },
+        {
+          "hi": "डार्विन, वालेस और लैमार्क",
+          "en": "Darwin, Wallace, and Lamarck"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मेंडल के एकसंकर संकरण (Monohybrid Cross) का लक्षणप्ररूपी अनुपात (Phenotypic Ratio) क्या था?",
+        "en": "What was the phenotypic ratio in Mendel's monohybrid cross in the F2 generation?"
+      },
+      "o": [
+        {
+          "hi": "1 : 2 : 1",
+          "en": "1 : 2 : 1"
+        },
+        {
+          "hi": "9 : 3 : 3 : 1",
+          "en": "9 : 3 : 3 : 1"
+        },
+        {
+          "hi": "3 : 1 (3 लंबा : 1 बौना)",
+          "en": "3 : 1 (3 Tall : 1 Dwarf)"
+        },
+        {
+          "hi": "2 : 1",
+          "en": "2 : 1"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मेंडल के एकसंकर संकरण का जीनप्ररूपी अनुपात (Genotypic Ratio) F2 पीढ़ी में क्या था?",
+        "en": "What was the genotypic ratio in the F2 generation of a monohybrid cross?"
+      },
+      "o": [
+        {
+          "hi": "3 : 1",
+          "en": "3 : 1"
+        },
+        {
+          "hi": "9 : 3 : 3 : 1",
+          "en": "9 : 3 : 3 : 1"
+        },
+        {
+          "hi": "1 : 1 : 1 : 1",
+          "en": "1 : 1 : 1 : 1"
+        },
+        {
+          "hi": "1 : 2 : 1 (1 शुद्ध लंबा : 2 संकर लंबा : 1 शुद्ध बौना)",
+          "en": "1 : 2 : 1 (1 TT : 2 Tt : 1 tt)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मेंडल के द्विसंकर संकरण (Dihybrid Cross) का F2 पीढ़ी में फीनोटाइपिक अनुपात क्या था?",
+        "en": "What was the phenotypic ratio in the F2 generation of Mendel's dihybrid cross?"
+      },
+      "o": [
+        {
+          "hi": "9 : 3 : 3 : 1",
+          "en": "9 : 3 : 3 : 1"
+        },
+        {
+          "hi": "9 : 7",
+          "en": "9 : 7"
+        },
+        {
+          "hi": "15 : 1",
+          "en": "15 : 1"
+        },
+        {
+          "hi": "1 : 2 : 1",
+          "en": "1 : 2 : 1"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मेंडल का कौन-सा नियम 'युग्मकों की शुद्धता का नियम' (Law of Purity of Gametes) भी कहलाता है?",
+        "en": "Which of Mendel's laws is also known as the 'Law of Purity of Gametes'?"
+      },
+      "o": [
+        {
+          "hi": "प्रभाविता का नियम (Law of Dominance)",
+          "en": "Law of Dominance"
+        },
+        {
+          "hi": "प्रथक्करण का नियम (Law of Segregation)",
+          "en": "Law of Segregation"
+        },
+        {
+          "hi": "स्वतंत्र अपव्यूहन का नियम",
+          "en": "Law of Independent Assortment"
+        },
+        {
+          "hi": "सहलग्नता का नियम",
+          "en": "Law of Linkage"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आनुवंशिकता का गुणसूत्र सिद्धांत (Chromosomal Theory of Inheritance) 1902 में किसने दिया?",
+        "en": "Who proposed the Chromosomal Theory of Inheritance in 1902?"
+      },
+      "o": [
+        {
+          "hi": "वाटसन और क्रिक",
+          "en": "Watson and Crick"
+        },
+        {
+          "hi": "जैकब और मोनोड",
+          "en": "Jacob and Monod"
+        },
+        {
+          "hi": "वाल्टर सटन तथा थियोडोर बोवेरी (Sutton & Boveri)",
+          "en": "Walter Sutton and Theodor Boveri"
+        },
+        {
+          "hi": "बीडल और टैटम",
+          "en": "Beadle and Tatum"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'प्रायोगिक आनुवंशिकी का जनक' (Father of Experimental Genetics) किसे कहा जाता है?",
+        "en": "Who is known as the 'Father of Experimental Genetics' for his work on fruit flies?"
+      },
+      "o": [
+        {
+          "hi": "ग्रेगर मेंडल",
+          "en": "Gregor Mendel"
+        },
+        {
+          "hi": "ह्यूगो डी व्रीज",
+          "en": "Hugo de Vries"
+        },
+        {
+          "hi": "विलियम बेटसन",
+          "en": "William Bateson"
+        },
+        {
+          "hi": "टी.एच. मॉर्गन (Thomas Hunt Morgan - ड्रोसोफिला पर कार्य)",
+          "en": "T.H. Morgan (Work on Drosophila)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "डीएनए (DNA) का प्रसिद्ध द्विकुंडलिनी मॉडल (Double Helix Model) 1953 में किसने प्रस्तुत किया?",
+        "en": "Who proposed the famous Double Helix Model of DNA structure in 1953?"
+      },
+      "o": [
+        {
+          "hi": "जेम्स वाटसन तथा फ्रांसिस क्रिक (Watson & Crick)",
+          "en": "James Watson and Francis Crick"
+        },
+        {
+          "hi": "हर्षे और चेस (Hershey & Chase)",
+          "en": "Hershey and Chase"
+        },
+        {
+          "hi": "मेसेलसन और स्टाल",
+          "en": "Meselson and Stahl"
+        },
+        {
+          "hi": "विल्किंस और फ्रैंकलिन",
+          "en": "Wilkins and Franklin"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "डीएनए में एडेनिन (A) हमेशा थाइमिन (T) से कितने हाइड्रोजन बंधों द्वारा जुड़ता है?",
+        "en": "In a DNA molecule, Adenine (A) always pairs with Thymine (T) via how many hydrogen bonds?"
+      },
+      "o": [
+        {
+          "hi": "3 हाइड्रोजन बंध",
+          "en": "3 Hydrogen Bonds"
+        },
+        {
+          "hi": "2 हाइड्रोजन बंध (2 Hydrogen Bonds)",
+          "en": "2 Hydrogen Bonds"
+        },
+        {
+          "hi": "1 हाइड्रोजन बंध",
+          "en": "1 Hydrogen Bond"
+        },
+        {
+          "hi": "4 हाइड्रोजन बंध",
+          "en": "4 Hydrogen Bonds"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "डीएनए में ग्वानिन (G) हमेशा साइटोसिन (C) के साथ कितने हाइड्रोजन बंधों से जुड़ता है?",
+        "en": "In DNA, Guanine (G) pairs with Cytosine (C) through how many hydrogen bonds?"
+      },
+      "o": [
+        {
+          "hi": "2 हाइड्रोजन बंध",
+          "en": "2 Hydrogen Bonds"
+        },
+        {
+          "hi": "1 हाइड्रोजन बंध",
+          "en": "1 Hydrogen Bond"
+        },
+        {
+          "hi": "3 हाइड्रोजन बंध (3 Hydrogen Bonds)",
+          "en": "3 Hydrogen Bonds"
+        },
+        {
+          "hi": "4 हाइड्रोजन बंध",
+          "en": "4 Hydrogen Bonds"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आरएनए (RNA) में थाइमिन (Thymine) के स्थान पर कौन-सा पिरिमिडीन क्षार पाया जाता है?",
+        "en": "In RNA, which pyrimidine nitrogenous base replaces Thymine?"
+      },
+      "o": [
+        {
+          "hi": "एडेनिन (Adenine)",
+          "en": "Adenine"
+        },
+        {
+          "hi": "ग्वानिन (Guanine)",
+          "en": "Guanine"
+        },
+        {
+          "hi": "साइटोसिन (Cytosine)",
+          "en": "Cytosine"
+        },
+        {
+          "hi": "यूरेसिल (Uracil)",
+          "en": "Uracil"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "डीएनए से आरएनए बनने की जैविक प्रक्रिया को क्या कहा जाता है?",
+        "en": "What is the biological process of synthesizing RNA from a DNA template called?"
+      },
+      "o": [
+        {
+          "hi": "अनुलेखन / ट्रांसक्रिप्शन (Transcription)",
+          "en": "Transcription"
+        },
+        {
+          "hi": "अनुवादन / ट्रांसलेशन (Translation)",
+          "en": "Translation"
+        },
+        {
+          "hi": "प्रतिकृतियन / रेप्लिकेशन (Replication)",
+          "en": "Replication"
+        },
+        {
+          "hi": "उत्परिवर्तन / म्यूटेशन (Mutation)",
+          "en": "Mutation"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एम-आरएनए (mRNA) की सूचना से प्रोटीन बनने की क्रिया को क्या कहा जाता है?",
+        "en": "What is the process of synthesizing proteins from mRNA genetic information called?"
+      },
+      "o": [
+        {
+          "hi": "अनुलेखन (Transcription)",
+          "en": "Transcription"
+        },
+        {
+          "hi": "अनुवादन / रूपांतरण (Translation)",
+          "en": "Translation"
+        },
+        {
+          "hi": "ट्रांसडक्शन (Transduction)",
+          "en": "Transduction"
+        },
+        {
+          "hi": "ट्रांसफॉर्मेशन (Transformation)",
+          "en": "Transformation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आनुवंशिक कूट (Genetic Code) की खोज और प्रोटीन संश्लेषण हेतु किस भारतीय वैज्ञानिक को नोबेल मिला?",
+        "en": "Which Indian-American scientist was awarded the Nobel Prize in 1968 for deciphering the genetic code?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. सी.वी. रमन (C.V. Raman)",
+          "en": "Dr. C.V. Raman"
+        },
+        {
+          "hi": "डॉ. वेंकटरमन रामकृष्णन",
+          "en": "Dr. Venkatraman Ramakrishnan"
+        },
+        {
+          "hi": "डॉ. हरगोविंद खुराना (Har Gobind Khorana)",
+          "en": "Dr. Har Gobind Khorana"
+        },
+        {
+          "hi": "डॉ. होमी जहांगीर भाभा",
+          "en": "Dr. Homi Jehangir Bhabha"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आनुवंशिक कोड में कुल कितने प्रकूट (Codons) होते हैं और कितने अमीनो एसिड कोड करते हैं?",
+        "en": "How many total codons are there in the genetic code and how many code for amino acids?"
+      },
+      "o": [
+        {
+          "hi": "कुल 20 प्रकूट",
+          "en": "Total 20 Codons"
+        },
+        {
+          "hi": "कुल 32 प्रकूट",
+          "en": "Total 32 Codons"
+        },
+        {
+          "hi": "कुल 128 प्रकूट",
+          "en": "Total 128 Codons"
+        },
+        {
+          "hi": "कुल 64 प्रकूट (61 अमीनो एसिड हेतु + 3 स्टॉप प्रकूट)",
+          "en": "Total 64 Codons (61 for amino acids + 3 Stop codons)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रोटीन संश्लेषण की शुरुआत करने वाला प्रारंभिक प्रकूट (Start Codon) कौन-सा है?",
+        "en": "Which codon acts as the universal initiator / Start Codon (coding for Methionine)?"
+      },
+      "o": [
+        {
+          "hi": "एयूजी (AUG - मेथियोनीन हेतु)",
+          "en": "AUG (Codes for Methionine)"
+        },
+        {
+          "hi": "यूएए (UAA)",
+          "en": "UAA"
+        },
+        {
+          "hi": "यूएजी (UAG)",
+          "en": "UAG"
+        },
+        {
+          "hi": "यूजीए (UGA)",
+          "en": "UGA"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-से तीन प्रकूट 'समापन प्रकूट' (Stop / Nonsense Codons) कहलाते हैं?",
+        "en": "Which three codons are termination or Stop Codons in genetic translation?"
+      },
+      "o": [
+        {
+          "hi": "AUG, GUG और UUG",
+          "en": "AUG, GUG, and UUG"
+        },
+        {
+          "hi": "UAA, UAG और UGA",
+          "en": "UAA, UAG, and UGA"
+        },
+        {
+          "hi": "AAA, UUU और GGG",
+          "en": "AAA, UUU, and GGG"
+        },
+        {
+          "hi": "CAU, CAG और CGA",
+          "en": "CAU, CAG, and CGA"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव में लिंग निर्धारण (Sex Determination) के लिए पिता का कौन-सा गुणसूत्र उत्तरदायी होता है?",
+        "en": "In humans, which paternal chromosome determines the male sex of the offspring?"
+      },
+      "o": [
+        {
+          "hi": "एक्स गुणसूत्र (X Chromosome)",
+          "en": "X Chromosome"
+        },
+        {
+          "hi": "21वां गुणसूत्र",
+          "en": "21st Chromosome"
+        },
+        {
+          "hi": "वाई गुणसूत्र (Y Chromosome)",
+          "en": "Y Chromosome"
+        },
+        {
+          "hi": "मातृ एक्स गुणसूत्र",
+          "en": "Maternal X Chromosome"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव में ऑटोसोम (Autosomes / कायिक गुणसूत्र) की संख्या कितनी होती है?",
+        "en": "How many autosomes (non-sex chromosomes) are present in normal human body cells?"
+      },
+      "o": [
+        {
+          "hi": "23 जोड़ी (46 गुणसूत्र)",
+          "en": "23 Pairs"
+        },
+        {
+          "hi": "1 जोड़ी (2 गुणसूत्र)",
+          "en": "1 Pair"
+        },
+        {
+          "hi": "21 जोड़ी (42 गुणसूत्र)",
+          "en": "21 Pairs"
+        },
+        {
+          "hi": "22 जोड़ी (44 गुणसूत्र)",
+          "en": "22 Pairs (44 Chromosomes)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "डाउन सिंड्रोम (Down Syndrome / मंगोलिज्म) किस गुणसूत्र की त्रिसूत्रता (Trisomy) के कारण होता है?",
+        "en": "Down Syndrome (Mongolism) is caused by the trisomy of which human chromosome?"
+      },
+      "o": [
+        {
+          "hi": "21वें गुणसूत्र की त्रिसूत्रता (Trisomy 21 / कुल 47 गुणसूत्र)",
+          "en": "Trisomy of Chromosome 21 (Total 47 chromosomes)"
+        },
+        {
+          "hi": "18वें गुणसूत्र की त्रिसूत्रता",
+          "en": "Trisomy 18 (Edwards)"
+        },
+        {
+          "hi": "13वें गुणसूत्र की त्रिसूत्रता",
+          "en": "Trisomy 13 (Patau)"
+        },
+        {
+          "hi": "लिंग गुणसूत्र की अधिकता",
+          "en": "Sex chromosome abnormality"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "टर्नर सिंड्रोम (Turner Syndrome) से ग्रसित महिलाओं में गुणसूत्रों की संख्या और विन्यास क्या होता है?",
+        "en": "What is the chromosomal constitution and count in females with Turner Syndrome?"
+      },
+      "o": [
+        {
+          "hi": "47 गुणसूत्र (44 + XXY)",
+          "en": "47 Chromosomes (44 + XXY)"
+        },
+        {
+          "hi": "45 गुणसूत्र (44 + XO - एक X गुणसूत्र की कमी)",
+          "en": "45 Chromosomes (44 + XO)"
+        },
+        {
+          "hi": "47 गुणसूत्र (44 + XXX)",
+          "en": "47 Chromosomes (44 + XXX)"
+        },
+        {
+          "hi": "46 गुणसूत्र (44 + XY)",
+          "en": "46 Chromosomes (44 + XY)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्लाइनफेल्टर सिंड्रोम (Klinefelter Syndrome) से पीड़ित पुरुषों में गुणसूत्रों का विन्यास क्या होता है?",
+        "en": "What is the karyotype in males affected by Klinefelter Syndrome?"
+      },
+      "o": [
+        {
+          "hi": "45 गुणसूत्र (44 + XO)",
+          "en": "45 Chromosomes (44 + XO)"
+        },
+        {
+          "hi": "47 गुणसूत्र (44 + XYY)",
+          "en": "47 Chromosomes (44 + XYY)"
+        },
+        {
+          "hi": "47 गुणसूत्र (44 + XXY - अतिरिक्त X गुणसूत्र)",
+          "en": "47 Chromosomes (44 + XXY)"
+        },
+        {
+          "hi": "46 गुणसूत्र (44 + XX)",
+          "en": "46 Chromosomes (44 + XX)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'रॉयल डिजीज' या 'शाही रोग' के नाम से जाना जाने वाला आनुवंशिक रक्तस्राव विकार कौन-सा है?",
+        "en": "Which genetic bleeding disorder in European royalty is termed the 'Royal Disease'?"
+      },
+      "o": [
+        {
+          "hi": "वर्णांधता (Colour Blindness)",
+          "en": "Colour Blindness"
+        },
+        {
+          "hi": "सिकल सेल एनीमिया",
+          "en": "Sickle Cell Anaemia"
+        },
+        {
+          "hi": "थैलेसीमिया (Thalassaemia)",
+          "en": "Thalassaemia"
+        },
+        {
+          "hi": "हीमोफीलिया (Haemophilia - रक्त का थक्का नहीं जमता)",
+          "en": "Haemophilia (Blood fails to clot)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हीमोफीलिया और लाल-हरा वर्णांधता (Colour Blindness) किस प्रकार के आनुवंशिक विकार हैं?",
+        "en": "Haemophilia and Red-Green Colour Blindness are what type of genetic inheritance disorders?"
+      },
+      "o": [
+        {
+          "hi": "X-सहलग्न अप्रभावी विकार (X-Linked Recessive)",
+          "en": "X-Linked Recessive Disorders"
+        },
+        {
+          "hi": "Y-सहलग्न प्रभावी विकार",
+          "en": "Y-Linked Dominant"
+        },
+        {
+          "hi": "ऑटोसोमल प्रभावी विकार",
+          "en": "Autosomal Dominant"
+        },
+        {
+          "hi": "माइटोकॉन्ड्रियल विकार",
+          "en": "Mitochondrial Disorders"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वर्णांध (Colour Blind) व्यक्ति किन दो प्राथमिक रंगों में भेद करने में असमर्थ होता है?",
+        "en": "A person with red-green colour blindness is unable to distinguish between:"
+      },
+      "o": [
+        {
+          "hi": "नीला और पीला रंग",
+          "en": "Blue and Yellow"
+        },
+        {
+          "hi": "लाल और हरा रंग (Red and Green)",
+          "en": "Red and Green"
+        },
+        {
+          "hi": "सफेद और काला रंग",
+          "en": "White and Black"
+        },
+        {
+          "hi": "बैंगनी और नारंगी रंग",
+          "en": "Violet and Orange"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सिकल सेल एनीमिया (हंसियाकार रक्ताणु अरक्तता) में हीमोग्लोबिन की बीटा श्रृंखला में क्या उत्परिवर्तन होता है?",
+        "en": "In Sickle Cell Anaemia, what point mutation occurs at the 6th position of beta-globin chain?"
+      },
+      "o": [
+        {
+          "hi": "वैलीन का स्थान ल्यूसीन ले लेता है",
+          "en": "Valine is replaced by Leucine"
+        },
+        {
+          "hi": "ग्लाइसिन का स्थान एलानिन ले लेता है",
+          "en": "Glycine is replaced by Alanine"
+        },
+        {
+          "hi": "ग्लूटामिक एसिड का स्थान वैलीन ले लेता है",
+          "en": "Glutamic acid is replaced by Valine"
+        },
+        {
+          "hi": "लाइसिन का स्थान प्रोलीन ले लेता है",
+          "en": "Lysine is replaced by Proline"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "थैलेसीमिया (Thalassaemia) रोग में मानव शरीर में किसका संश्लेषण बाधित होता है?",
+        "en": "Thalassaemia is an inherited blood disorder characterized by impaired synthesis of:"
+      },
+      "o": [
+        {
+          "hi": "रक्त में श्वेत रक्त कणिकाएं",
+          "en": "White blood cells"
+        },
+        {
+          "hi": "रक्त में प्लेटलेट्स",
+          "en": "Blood platelets"
+        },
+        {
+          "hi": "प्लाज्मा में एल्ब्यूमिन",
+          "en": "Albumin in plasma"
+        },
+        {
+          "hi": "हीमोग्लोबिन की ग्लोबिन प्रोटीन श्रृंखला",
+          "en": "Globin chains of Hemoglobin"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'एक जीन-एक एंजाइम' (One Gene-One Enzyme) परिकल्पना 1941 में किसने प्रस्तुत की थी?",
+        "en": "Who formulated the 'One Gene-One Enzyme' hypothesis in 1941 (using Neurospora crassa)?"
+      },
+      "o": [
+        {
+          "hi": "जॉर्ज बीडल तथा एडवर्ड टैटम (Beadle & Tatum)",
+          "en": "George Beadle and Edward Tatum"
+        },
+        {
+          "hi": "वाटसन और क्रिक",
+          "en": "Watson and Crick"
+        },
+        {
+          "hi": "जैकब और मोनोड",
+          "en": "Jacob and Monod"
+        },
+        {
+          "hi": "सटन और बोवेरी",
+          "en": "Sutton and Boveri"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जीन अभिव्यक्ति के नियमन का 'ओपेरॉन मॉडल' (Lac Operon) 1961 में किसने दिया?",
+        "en": "Who elucidated the 'Operon Model' of gene regulation in bacteria in 1961?"
+      },
+      "o": [
+        {
+          "hi": "बीडल और टैटम",
+          "en": "Beadle and Tatum"
+        },
+        {
+          "hi": "फ्रांस्वा जैकब और जैक्स मोनोड (Jacob & Monod)",
+          "en": "François Jacob and Jacques Monod"
+        },
+        {
+          "hi": "मेसेलसन और स्टाल",
+          "en": "Meselson and Stahl"
+        },
+        {
+          "hi": "एवरी, मैकलियोड और मैकार्थी",
+          "en": "Avery, MacLeod, and McCarty"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "डीएनए फिंगरप्रिंटिंग (DNA Fingerprinting) तकनीक का आविष्कार सर्वप्रथम किसने किया था?",
+        "en": "Who originally invented the DNA Fingerprinting technique in 1984?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. लालजी सिंह (भारत में जनक)",
+          "en": "Dr. Lalji Singh"
+        },
+        {
+          "hi": "कैरी मुलिस (PCR के जनक)",
+          "en": "Kary Mullis"
+        },
+        {
+          "hi": "सर एलेक जेफ्रीस (Sir Alec Jeffreys - UK)",
+          "en": "Sir Alec Jeffreys (UK)"
+        },
+        {
+          "hi": "फ्रेडरिक सेंगर",
+          "en": "Frederick Sanger"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'भारत में डीएनए फिंगरप्रिंटिंग के जनक' (Father of DNA Fingerprinting in India) कौन कहलाते हैं?",
+        "en": "Who is revered as the 'Father of DNA Fingerprinting in India'?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. हरगोविंद खुराना",
+          "en": "Dr. Har Gobind Khorana"
+        },
+        {
+          "hi": "डॉ. एम.एस. स्वामीनाथन",
+          "en": "Dr. M.S. Swaminathan"
+        },
+        {
+          "hi": "डॉ. बीरबल साहनी",
+          "en": "Dr. Birbal Sahni"
+        },
+        {
+          "hi": "डॉ. लालजी सिंह (Dr. Lalji Singh - CCMB हैदराबाद)",
+          "en": "Dr. Lalji Singh (CCMB Hyderabad)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पॉलीमरेज चेन रिएक्शन (PCR) तकनीक का आविष्कार 1983 में किसने किया था?",
+        "en": "Who invented the Polymerase Chain Reaction (PCR) technique for DNA amplification in 1983?"
+      },
+      "o": [
+        {
+          "hi": "कैरी मुलिस (Kary Mullis - नोबेल 1993)",
+          "en": "Kary Mullis (Nobel Prize 1993)"
+        },
+        {
+          "hi": "एलेक जेफ्रीस",
+          "en": "Alec Jeffreys"
+        },
+        {
+          "hi": "हरगोविंद खुराना",
+          "en": "Har Gobind Khorana"
+        },
+        {
+          "hi": "पॉल बर्ग (जेनेटिक इंजीनियरिंग)",
+          "en": "Paul Berg"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'आनुवंशिक अभियांत्रिकी का पिता' (Father of Genetic Engineering) किसे कहा जाता है?",
+        "en": "Who is recognized as the 'Father of Genetic Engineering' (first recombinant DNA, 1972)?"
+      },
+      "o": [
+        {
+          "hi": "स्टैनली कोहेन",
+          "en": "Stanley Cohen"
+        },
+        {
+          "hi": "पॉल बर्ग (Paul Berg - नोबेल 1980)",
+          "en": "Paul Berg (Nobel Prize 1980)"
+        },
+        {
+          "hi": "हर्बर्ट बॉयर",
+          "en": "Herbert Boyer"
+        },
+        {
+          "hi": "कैरी मुलिस",
+          "en": "Kary Mullis"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "डीएनए को विशिष्ट स्थलों पर काटने वाली 'आणविक कैंची' (Molecular Scissors) किसे कहते हैं?",
+        "en": "Which enzymes act as 'Molecular Scissors' cutting DNA at specific recognition sequences?"
+      },
+      "o": [
+        {
+          "hi": "डीएनए लिगेज (DNA Ligase - आणविक गोंद)",
+          "en": "DNA Ligase"
+        },
+        {
+          "hi": "डीएनए पॉलीमरेज",
+          "en": "DNA Polymerase"
+        },
+        {
+          "hi": "प्रतिबंधन एंडोन्यूक्लिएज (Restriction Endonuclease)",
+          "en": "Restriction Endonucleases"
+        },
+        {
+          "hi": "टोपोआइसोमेरेस",
+          "en": "Topoisomerase"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "डीएनए के कटे हुए खंडों को आपस में जोड़ने वाला 'आणविक गोंद' (Molecular Glue) कौन-सा एंजाइम है?",
+        "en": "Which enzyme acts as 'Molecular Glue' joining cut DNA fragments together?"
+      },
+      "o": [
+        {
+          "hi": "प्रतिबंधन एंडोन्यूक्लिएज",
+          "en": "Restriction Endonuclease"
+        },
+        {
+          "hi": "रिवर्स ट्रांसक्रिप्टेस",
+          "en": "Reverse Transcriptase"
+        },
+        {
+          "hi": "हेलिकेस (Helicase)",
+          "en": "Helicase"
+        },
+        {
+          "hi": "डीएनए लिगेज (DNA Ligase)",
+          "en": "DNA Ligase"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जीवाणुओं में मुख्य गुणसूत्र के अतिरिक्त पाया जाने वाला वृत्ताकार स्वप्रतिकृती डीएनए क्या कहलाता है?",
+        "en": "The extrachromosomal, self-replicating circular DNA molecule in bacteria used as a vector is:"
+      },
+      "o": [
+        {
+          "hi": "प्लास्मिड (Plasmid)",
+          "en": "Plasmid"
+        },
+        {
+          "hi": "कॉस्मिड (Cosmid)",
+          "en": "Cosmid"
+        },
+        {
+          "hi": "फाजमिड (Phagemid)",
+          "en": "Phagemid"
+        },
+        {
+          "hi": "मीसोसोम (Mesosome)",
+          "en": "Mesosome"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसार का पहला क्लोन स्तनधारी प्राणी 'डॉली' (Dolly Sheep) 1996 में किसने विकसित किया?",
+        "en": "Who successfully created 'Dolly the Sheep', the world's first cloned mammal, in 1996?"
+      },
+      "o": [
+        {
+          "hi": "पॉल बर्ग",
+          "en": "Paul Berg"
+        },
+        {
+          "hi": "इयान विल्मुट (Ian Wilmut - रोजलिन संस्थान, स्कॉटलैंड)",
+          "en": "Ian Wilmut (Roslin Institute, Scotland)"
+        },
+        {
+          "hi": "रॉबर्ट एडवर्ड्स",
+          "en": "Robert Edwards"
+        },
+        {
+          "hi": "जेम्स थॉम्पसन",
+          "en": "James Thomson"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रीय डेयरी अनुसंधान संस्थान (NDRI), करनाल द्वारा भारत का पहला क्लोन भैंस का बच्चा किस नाम से जन्मा?",
+        "en": "What was the name of India's first cloned buffalo calf produced by NDRI Karnal in 2009?"
+      },
+      "o": [
+        {
+          "hi": "डॉली (Dolly)",
+          "en": "Dolly"
+        },
+        {
+          "hi": "नूरी (Noori - पश्मीना बकरी)",
+          "en": "Noori"
+        },
+        {
+          "hi": "गरिमा (Garima) और प्रथम 'समरूपा'",
+          "en": "Garima (and first 'Samrupa')"
+        },
+        {
+          "hi": "गंगा (Ganga)",
+          "en": "Ganga"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव जीनोम परियोजना (Human Genome Project - HGP) की शुरुआत किस वर्ष हुई थी?",
+        "en": "In which year was the international Human Genome Project (HGP) officially launched?"
+      },
+      "o": [
+        {
+          "hi": "1985 में",
+          "en": "In 1985"
+        },
+        {
+          "hi": "1995 में",
+          "en": "In 1995"
+        },
+        {
+          "hi": "2000 में",
+          "en": "In 2000"
+        },
+        {
+          "hi": "1990 में (2003 में पूर्ण)",
+          "en": "In 1990 (Completed in 2003)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव जीनोम में लगभग कितने न्यूक्लियोटाइड क्षार युग्म (Base Pairs) पाए जाते हैं?",
+        "en": "Approximately how many base pairs are contained in the haploid human genome?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 3.14 बिलियन (3 x 10^9 क्षार युग्म)",
+          "en": "Approximately 3.14 Billion base pairs"
+        },
+        {
+          "hi": "लगभग 1 बिलियन",
+          "en": "About 1 Billion"
+        },
+        {
+          "hi": "लगभग 10 बिलियन",
+          "en": "About 10 Billion"
+        },
+        {
+          "hi": "लगभग 500 मिलियन",
+          "en": "About 500 Million"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बार बॉडी (Barr Body) सामान्यतः किन कोशिकाओं के केंद्रक में पाई जाती है?",
+        "en": "In mammalian genetics, a Barr Body (inactivated X chromosome) is found in:"
+      },
+      "o": [
+        {
+          "hi": "सामान्य नर की कायिक कोशिकाओं में",
+          "en": "Normal Male Somatic Cells"
+        },
+        {
+          "hi": "सामान्य मादा की कायिक कोशिकाओं में (Normal Female Somatic Cells)",
+          "en": "Normal Female Somatic Cells"
+        },
+        {
+          "hi": "केवल जनन कोशिकाओं (शुक्राणु) में",
+          "en": "Only in Sperm Cells"
+        },
+        {
+          "hi": "केवल लाल रक्त कणिकाओं में",
+          "en": "Only in Erythrocytes"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जंपिंग जीन (Jumping Genes / ट्रांसपोसोन्स) की खोज मक्के में करने पर किसे नोबेल पुरस्कार मिला?",
+        "en": "Who was awarded the Nobel Prize in 1983 for discovering 'Jumping Genes' (Transposons) in maize?"
+      },
+      "o": [
+        {
+          "hi": "रोजलिंड फ्रैंकलिन",
+          "en": "Rosalind Franklin"
+        },
+        {
+          "hi": "मैरी क्यूरी",
+          "en": "Marie Curie"
+        },
+        {
+          "hi": "बारबरा मैक्लिंटॉक (Barbara McClintock)",
+          "en": "Barbara McClintock"
+        },
+        {
+          "hi": "जेनिफर डौडना",
+          "en": "Jennifer Doudna"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जीन एडिटिंग की क्रांतिकारी तकनीक 'CRISPR-Cas9' की खोज हेतु किन्हें 2020 का नोबेल मिला?",
+        "en": "Who received the 2020 Nobel Prize in Chemistry for developing the CRISPR-Cas9 genome editing tool?"
+      },
+      "o": [
+        {
+          "hi": "एलेक जेफ्रीस और कैरी मुलिस",
+          "en": "Alec Jeffreys and Kary Mullis"
+        },
+        {
+          "hi": "वाटसन और क्रिक",
+          "en": "Watson and Crick"
+        },
+        {
+          "hi": "बीडल और टैटम",
+          "en": "Beadle and Tatum"
+        },
+        {
+          "hi": "इमैनुएल चार्पेंटियर और जेनिफर डौडना",
+          "en": "Emmanuelle Charpentier & Jennifer Doudna"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आनुवंशिक रूप से संशोधित 'बीटी कपास' (Bt Cotton) में 'Bt' का क्या तात्पर्य है?",
+        "en": "In genetically modified 'Bt Cotton', what does 'Bt' stand for?"
+      },
+      "o": [
+        {
+          "hi": "बैसिलस थुरिंजिएंसिस (Bacillus thuringiensis - मृदा जीवाणु)",
+          "en": "Bacillus thuringiensis (Soil bacterium)"
+        },
+        {
+          "hi": "बायोटेक्नोलॉजी (Biotechnology)",
+          "en": "Biotechnology"
+        },
+        {
+          "hi": "ब्रिटिश टॉक्सिन (British Toxin)",
+          "en": "British Toxin"
+        },
+        {
+          "hi": "बेस्ट ट्रीटमेंट (Best Treatment)",
+          "en": "Best Treatment"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गोल्डन राइस (Golden Rice) में किस विटामिन के निर्माण हेतु आनुवंशिक रूप से जीन डाले गए हैं?",
+        "en": "Golden Rice has been genetically engineered to biosynthesize which vitamin precursor?"
+      },
+      "o": [
+        {
+          "hi": "विटामिन C (एस्कॉर्बिक एसिड)",
+          "en": "Vitamin C"
+        },
+        {
+          "hi": "विटामिन A (बीटा-कैरोटीन)",
+          "en": "Vitamin A (Beta-carotene)"
+        },
+        {
+          "hi": "विटामिन D (कैल्सीफेरॉल)",
+          "en": "Vitamin D"
+        },
+        {
+          "hi": "विटामिन B12 (कोबालामिन)",
+          "en": "Vitamin B12"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

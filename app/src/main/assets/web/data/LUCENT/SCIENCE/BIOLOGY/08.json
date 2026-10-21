@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - जीव विज्ञान (Biology)",
+  "subtitle": "पोषक पदार्थ",
+  "description": "पोषक पदार्थ पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "शरीर को त्वरित ऊर्जा (Instant Energy) प्रदान करने वाले मुख्य कार्बनिक यौगिक कौन-से हैं?",
+        "en": "Which primary organic nutrients provide immediate and rapid energy to the human body?"
+      },
+      "o": [
+        {
+          "hi": "कार्बोहाइड्रेट (Carbohydrates - C, H, O 1:2:1)",
+          "en": "Carbohydrates (C, H, O in 1:2:1)"
+        },
+        {
+          "hi": "प्रोटीन (Proteins)",
+          "en": "Proteins"
+        },
+        {
+          "hi": "विटामिन (Vitamins)",
+          "en": "Vitamins"
+        },
+        {
+          "hi": "खनिज लवण (Minerals)",
+          "en": "Minerals"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एक ग्राम कार्बोहाइड्रेट के पूर्ण ऑक्सीकरण से शरीर को लगभग कितनी ऊर्जा प्राप्त होती है?",
+        "en": "Approximately how much energy is released from the complete oxidation of 1 gram of carbohydrate?"
+      },
+      "o": [
+        {
+          "hi": "9.3 किलोकैलोरी (वसा से)",
+          "en": "9.3 kcal (from Fat)"
+        },
+        {
+          "hi": "4.2 किलोकैलोरी (4.2 kcal)",
+          "en": "4.2 kcal (17.6 kJ)"
+        },
+        {
+          "hi": "2.0 किलोकैलोरी",
+          "en": "2.0 kcal"
+        },
+        {
+          "hi": "7.0 किलोकैलोरी",
+          "en": "7.0 kcal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रति ग्राम सर्वाधिक ऊर्जा (Highest Energy per Gram - ~9.3 kcal) किससे मिलती है?",
+        "en": "Which nutrient yields the highest caloric energy per gram upon metabolic oxidation?"
+      },
+      "o": [
+        {
+          "hi": "कार्बोहाइड्रेट (Carbohydrates)",
+          "en": "Carbohydrates"
+        },
+        {
+          "hi": "प्रोटीन (Proteins)",
+          "en": "Proteins"
+        },
+        {
+          "hi": "वसा / लिपिड्स (Fats / Lipids - 9.3 kcal/g)",
+          "en": "Fats / Lipids (9.3 kcal/g)"
+        },
+        {
+          "hi": "विटामिन (Vitamins)",
+          "en": "Vitamins"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्राकृतिक रूप से पाई जाने वाली सबसे मीठी शर्करा (Sweetest Natural Sugar) कौन-सी है?",
+        "en": "What is the sweetest naturally occurring carbohydrate sugar (found in fruits and honey)?"
+      },
+      "o": [
+        {
+          "hi": "ग्लूकोज (Glucose)",
+          "en": "Glucose"
+        },
+        {
+          "hi": "सुक्रोज (Sucrose / Cane Sugar)",
+          "en": "Sucrose"
+        },
+        {
+          "hi": "माल्टोज (Maltose)",
+          "en": "Maltose"
+        },
+        {
+          "hi": "फ्रुक्टोज / फल शर्करा (Fructose)",
+          "en": "Fructose (Fruit Sugar)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "टेबल शुगर / गन्ने की साधारण शर्करा (Cane Sugar) रासायनिक रूप से क्या होती है?",
+        "en": "What is ordinary household table sugar / cane sugar chemically composed of?"
+      },
+      "o": [
+        {
+          "hi": "सुक्रोज (Sucrose - ग्लूकोज + फ्रुक्टोज)",
+          "en": "Sucrose (Glucose + Fructose)"
+        },
+        {
+          "hi": "माल्टोज (ग्लूकोज + ग्लूकोज)",
+          "en": "Maltose"
+        },
+        {
+          "hi": "लैक्टोज (ग्लूकोज + गैलेक्टोज)",
+          "en": "Lactose"
+        },
+        {
+          "hi": "केवल शुद्ध ग्लूकोज",
+          "en": "Pure Glucose"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दूध में पाई जाने वाली प्राकृतिक शर्करा (Milk Sugar) कौन-सी है?",
+        "en": "Which disaccharide carbohydrate is naturally found in mammalian milk?"
+      },
+      "o": [
+        {
+          "hi": "सुक्रोज (Sucrose)",
+          "en": "Sucrose"
+        },
+        {
+          "hi": "लैक्टोज (Lactose)",
+          "en": "Lactose"
+        },
+        {
+          "hi": "माल्टोज (Maltose)",
+          "en": "Maltose"
+        },
+        {
+          "hi": "गैलेक्टोज (Galactose)",
+          "en": "Galactose"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जंतुओं और मानव शरीर में अतिरिक्त ग्लूकोज किस रूप में यकृत व मांसपेशियों में संचित होता है?",
+        "en": "In animals and humans, surplus glucose is stored in liver and skeletal muscles as:"
+      },
+      "o": [
+        {
+          "hi": "स्टार्च (Starch)",
+          "en": "Starch"
+        },
+        {
+          "hi": "सेल्युलोज (Cellulose)",
+          "en": "Cellulose"
+        },
+        {
+          "hi": "ग्लाइकोजन / जन्तु स्टार्च (Glycogen)",
+          "en": "Glycogen (Animal Starch)"
+        },
+        {
+          "hi": "सुक्रोज (Sucrose)",
+          "en": "Sucrose"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शरीर के ऊतकों की वृद्धि, निर्माण और मरम्मत के लिए मुख्य पोषक तत्व कौन-सा है?",
+        "en": "Which macronutrient is fundamental for body building, tissue growth, and cellular repair?"
+      },
+      "o": [
+        {
+          "hi": "कार्बोहाइड्रेट (Carbohydrates)",
+          "en": "Carbohydrates"
+        },
+        {
+          "hi": "वसा (Fats)",
+          "en": "Fats"
+        },
+        {
+          "hi": "जल (Water)",
+          "en": "Water"
+        },
+        {
+          "hi": "प्रोटीन (Proteins - अमीनो अम्लों के बहुलक)",
+          "en": "Proteins (Polymers of Amino Acids)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रोटीन निर्माण के लिए आवश्यक अमीनो अम्लों (Amino Acids) की कुल संख्या कितनी होती है?",
+        "en": "How many standard amino acids are required to synthesize all human body proteins?"
+      },
+      "o": [
+        {
+          "hi": "20 अमीनो अम्ल (10 आवश्यक + 10 अनावश्यक)",
+          "en": "20 Amino Acids (10 Essential + 10 Non-essential)"
+        },
+        {
+          "hi": "10 अमीनो अम्ल",
+          "en": "10 Amino Acids"
+        },
+        {
+          "hi": "25 अमीनो अम्ल",
+          "en": "25 Amino Acids"
+        },
+        {
+          "hi": "15 अमीनो अम्ल",
+          "en": "15 Amino Acids"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बच्चों में प्रोटीन की कमी से होने वाला गंभीर कुपोषण रोग कौन-सा है जिसमें पेट फूल जाता है?",
+        "en": "Which severe pediatric protein deficiency disease causes abdominal distension and edema?"
+      },
+      "o": [
+        {
+          "hi": "मरास्मस (Marasmus - प्रोटीन व कैलोरी दोनों की कमी)",
+          "en": "Marasmus"
+        },
+        {
+          "hi": "क्वाशिओरकर (Kwashiorkor)",
+          "en": "Kwashiorkor"
+        },
+        {
+          "hi": "रिकेट्स (Rickets)",
+          "en": "Rickets"
+        },
+        {
+          "hi": "स्कर्वी (Scurvy)",
+          "en": "Scurvy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक वर्ष से कम आयु के शिशुओं में प्रोटीन और कुल कैलोरी दोनों की अत्यधिक कमी से कौन-सा रोग होता है?",
+        "en": "Which severe wasting disease occurs in infants under 1 year due to deficiency of both protein and calories?"
+      },
+      "o": [
+        {
+          "hi": "क्वाशिओरकर (Kwashiorkor)",
+          "en": "Kwashiorkor"
+        },
+        {
+          "hi": "पेलाग्रा (Pellagra)",
+          "en": "Pellagra"
+        },
+        {
+          "hi": "मरास्मस / सूखा रोग (Marasmus)",
+          "en": "Marasmus"
+        },
+        {
+          "hi": "बेरी-बेरी (Beri-beri)",
+          "en": "Beri-beri"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सोयाबीन में प्रोटीन की प्रतिशत मात्रा लगभग कितनी पाई जाती है (सर्वाधिक)?",
+        "en": "What is the approximate percentage of high-quality protein found in soybeans (highest plant source)?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 20% से 25%",
+          "en": "About 20% to 25%"
+        },
+        {
+          "hi": "लगभग 60% से 70%",
+          "en": "About 60% to 70%"
+        },
+        {
+          "hi": "लगभग 10% से 15%",
+          "en": "About 10% to 15%"
+        },
+        {
+          "hi": "लगभग 40% से 42%",
+          "en": "Approximately 40% to 42%"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'विटामिन' (Vitamin) शब्द का सर्वप्रथम प्रयोग 1912 में किस वैज्ञानिक ने किया था?",
+        "en": "Who coined the word 'Vitamin' in 1912?"
+      },
+      "o": [
+        {
+          "hi": "कासिमिर फंक (Casimir Funk)",
+          "en": "Casimir Funk"
+        },
+        {
+          "hi": "एन.आई. लुनिन (N.I. Lunin, 1881)",
+          "en": "N.I. Lunin"
+        },
+        {
+          "hi": "एफ.जी. हॉपकिंस (F.G. Hopkins)",
+          "en": "F.G. Hopkins"
+        },
+        {
+          "hi": "लुई पाश्चर (Louis Pasteur)",
+          "en": "Louis Pasteur"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वसा में घुलनशील (Fat-Soluble) विटामिनों का सही समूह कौन-सा है?",
+        "en": "Which of the following groups comprises all the Fat-Soluble vitamins?"
+      },
+      "o": [
+        {
+          "hi": "विटामिन B और C",
+          "en": "Vitamins B and C"
+        },
+        {
+          "hi": "विटामिन A, D, E और K",
+          "en": "Vitamins A, D, E, and K"
+        },
+        {
+          "hi": "विटामिन A, B और C",
+          "en": "Vitamins A, B, and C"
+        },
+        {
+          "hi": "विटामिन C, D और E",
+          "en": "Vitamins C, D, and E"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जल में घुलनशील (Water-Soluble) विटामिन कौन-से हैं?",
+        "en": "Which vitamins are soluble in water (excreted in urine and need daily replenishment)?"
+      },
+      "o": [
+        {
+          "hi": "विटामिन A और D",
+          "en": "Vitamins A and D"
+        },
+        {
+          "hi": "विटामिन E और K",
+          "en": "Vitamins E and K"
+        },
+        {
+          "hi": "विटामिन B-कॉम्प्लेक्स और विटामिन C",
+          "en": "Vitamin B-Complex and Vitamin C"
+        },
+        {
+          "hi": "विटामिन A, D और K",
+          "en": "Vitamins A, D, and K"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विटामिन A का रासायनिक नाम क्या है?",
+        "en": "What is the chemical name of Vitamin A?"
+      },
+      "o": [
+        {
+          "hi": "थायमिन (Thiamine)",
+          "en": "Thiamine"
+        },
+        {
+          "hi": "राइबोफ्लेविन (Riboflavin)",
+          "en": "Riboflavin"
+        },
+        {
+          "hi": "टोकोफेरॉल (Tocopherol)",
+          "en": "Tocopherol"
+        },
+        {
+          "hi": "रेटिनॉल (Retinol)",
+          "en": "Retinol"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विटामिन A की कमी से कौन-सा मुख्य नेत्र रोग हो जाता है?",
+        "en": "Deficiency of Vitamin A primarily causes which vision impairment disorder?"
+      },
+      "o": [
+        {
+          "hi": "रतौंधी (Night Blindness / Nyctalopia) और जेरोफ्थैल्मिया",
+          "en": "Night Blindness and Xerophthalmia"
+        },
+        {
+          "hi": "स्कर्वी (Scurvy)",
+          "en": "Scurvy"
+        },
+        {
+          "hi": "रिकेट्स (Rickets)",
+          "en": "Rickets"
+        },
+        {
+          "hi": "बेरी-बेरी (Beri-beri)",
+          "en": "Beri-beri"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गाजर और आम में प्रचुर मात्रा में कौन-सा विटामिन पूर्ववर्ती पाया जाता है?",
+        "en": "Carrots, mangoes, and papaya are exceptionally rich dietary sources of:"
+      },
+      "o": [
+        {
+          "hi": "विटामिन C",
+          "en": "Vitamin C"
+        },
+        {
+          "hi": "विटामिन A (बीटा-कैरोटीन)",
+          "en": "Vitamin A (Beta-carotene)"
+        },
+        {
+          "hi": "विटामिन D",
+          "en": "Vitamin D"
+        },
+        {
+          "hi": "विटामिन E",
+          "en": "Vitamin E"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विटामिन B1 का रासायनिक नाम क्या है जिसकी कमी से 'बेरी-बेरी' रोग होता है?",
+        "en": "What is the chemical name of Vitamin B1, whose deficiency causes Beri-beri?"
+      },
+      "o": [
+        {
+          "hi": "नियासिन (Niacin)",
+          "en": "Niacin"
+        },
+        {
+          "hi": "पायरीडॉक्सिन (Pyridoxine)",
+          "en": "Pyridoxine"
+        },
+        {
+          "hi": "थायमिन (Thiamine)",
+          "en": "Thiamine"
+        },
+        {
+          "hi": "बायोटिन (Biotin)",
+          "en": "Biotin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पॉलिश किए हुए चावल खाने से मुख्य रूप से किस विटामिन की कमी हो जाती है?",
+        "en": "Consuming polished parboiled rice regularly leads to deficiency of which essential vitamin?"
+      },
+      "o": [
+        {
+          "hi": "विटामिन A",
+          "en": "Vitamin A"
+        },
+        {
+          "hi": "विटामिन C",
+          "en": "Vitamin C"
+        },
+        {
+          "hi": "विटामिन D",
+          "en": "Vitamin D"
+        },
+        {
+          "hi": "विटामिन B1 (थायमिन)",
+          "en": "Vitamin B1 (Thiamine)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विटामिन B2 का रासायनिक नाम क्या है जिसकी कमी से होंठ फटना (Cheilosis) होता है?",
+        "en": "What is the chemical name of Vitamin B2 (causes cracking of lips/cheilosis upon deficiency)?"
+      },
+      "o": [
+        {
+          "hi": "राइबोफ्लेविन (Riboflavin)",
+          "en": "Riboflavin"
+        },
+        {
+          "hi": "थायमिन",
+          "en": "Thiamine"
+        },
+        {
+          "hi": "फोलिक एसिड",
+          "en": "Folic Acid"
+        },
+        {
+          "hi": "सायनोकोबालामिन",
+          "en": "Cyanocobalamin"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विटामिन B3 (नियासिन / निकोटिनिक अम्ल) की कमी से कौन-सा प्रसिद्ध रोग होता है?",
+        "en": "Deficiency of Vitamin B3 (Niacin / Nicotinic Acid) causes which clinical deficiency disease?"
+      },
+      "o": [
+        {
+          "hi": "बेरी-बेरी (Beri-beri)",
+          "en": "Beri-beri"
+        },
+        {
+          "hi": "पेलाग्रा (Pellagra / 4D सिंड्रोम)",
+          "en": "Pellagra (4D Syndrome)"
+        },
+        {
+          "hi": "स्कर्वी (Scurvy)",
+          "en": "Scurvy"
+        },
+        {
+          "hi": "रिकेट्स (Rickets)",
+          "en": "Rickets"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विटामिन B7 का रासायनिक नाम क्या है जिसकी कमी से बाल झड़ते हैं?",
+        "en": "What is the chemical name of Vitamin B7 (causes hair loss and skin dermatitis)?"
+      },
+      "o": [
+        {
+          "hi": "पैंटोथेनिक एसिड",
+          "en": "Pantothenic Acid"
+        },
+        {
+          "hi": "पायरीडॉक्सिन",
+          "en": "Pyridoxine"
+        },
+        {
+          "hi": "बायोटिन (Biotin / विटामिन H)",
+          "en": "Biotin (Vitamin H)"
+        },
+        {
+          "hi": "नियासिन",
+          "en": "Niacin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किस विटामिन में 'कोबाल्ट' (Cobalt - Co) धातु अनिवार्य रूप से उपस्थित होती है?",
+        "en": "Which vitamin molecule contains the mineral Cobalt (Co) at its core?"
+      },
+      "o": [
+        {
+          "hi": "विटामिन B1 (थायमिन)",
+          "en": "Vitamin B1"
+        },
+        {
+          "hi": "विटामिन B6 (पायरीडॉक्सिन)",
+          "en": "Vitamin B6"
+        },
+        {
+          "hi": "विटामिन B2 (राइबोफ्लेविन)",
+          "en": "Vitamin B2"
+        },
+        {
+          "hi": "विटामिन B12 (सायनोकोबालामिन / Cyanocobalamin)",
+          "en": "Vitamin B12 (Cyanocobalamin)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विटामिन B12 की गंभीर कमी से कौन-सा घातक रक्ताल्पता रोग होता है?",
+        "en": "Severe deficiency of Vitamin B12 causes which life-threatening megaloblastic anemia?"
+      },
+      "o": [
+        {
+          "hi": "घातक अरक्तता / पर्णिशियस एनीमिया (Pernicious Anaemia)",
+          "en": "Pernicious Anaemia"
+        },
+        {
+          "hi": "सिकल सेल एनीमिया",
+          "en": "Sickle Cell Anaemia"
+        },
+        {
+          "hi": "थैलेसीमिया",
+          "en": "Thalassaemia"
+        },
+        {
+          "hi": "एप्लास्टिक एनीमिया",
+          "en": "Aplastic Anaemia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विटामिन C का रासायनिक नाम क्या है?",
+        "en": "What is the chemical name of Vitamin C?"
+      },
+      "o": [
+        {
+          "hi": "सिट्रिक अम्ल (Citric Acid)",
+          "en": "Citric Acid"
+        },
+        {
+          "hi": "एस्कॉर्बिक अम्ल (Ascorbic Acid)",
+          "en": "Ascorbic Acid"
+        },
+        {
+          "hi": "टार्टरिक अम्ल (Tartaric Acid)",
+          "en": "Tartaric Acid"
+        },
+        {
+          "hi": "एसिटिक अम्ल (Acetic Acid)",
+          "en": "Acetic Acid"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विटामिन C की कमी से मसूड़ों से खून आना और घाव न भरना किस रोग का लक्षण है?",
+        "en": "Bleeding spongy gums, capillary fragility, and poor wound healing due to Vitamin C deficiency characterize:"
+      },
+      "o": [
+        {
+          "hi": "रिकेट्स (Rickets)",
+          "en": "Rickets"
+        },
+        {
+          "hi": "रतौंधी (Night Blindness)",
+          "en": "Night Blindness"
+        },
+        {
+          "hi": "स्कर्वी (Scurvy)",
+          "en": "Scurvy"
+        },
+        {
+          "hi": "पेलाग्रा (Pellagra)",
+          "en": "Pellagra"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विटामिन C का प्रकृति में सर्वोत्तम और सबसे समृद्ध स्रोत कौन-सा है?",
+        "en": "Which fruit is the richest natural source of Vitamin C (Ascorbic acid)?"
+      },
+      "o": [
+        {
+          "hi": "नींबू और संतरा (Lemon & Orange)",
+          "en": "Lemon and Orange"
+        },
+        {
+          "hi": "अमरूद (Guava)",
+          "en": "Guava"
+        },
+        {
+          "hi": "टमाटर (Tomato)",
+          "en": "Tomato"
+        },
+        {
+          "hi": "आंवला (Indian Gooseberry / Amla)",
+          "en": "Amla (Indian Gooseberry)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सब्जियों को छीलकर अधिक धोने या भोजन को तेज गर्म करने पर कौन-सा विटामिन नष्ट हो जाता है?",
+        "en": "Which heat-sensitive water-soluble vitamin is readily destroyed during prolonged cooking and washing?"
+      },
+      "o": [
+        {
+          "hi": "विटामिन C (एस्कॉर्बिक अम्ल)",
+          "en": "Vitamin C (Ascorbic Acid)"
+        },
+        {
+          "hi": "विटामिन A",
+          "en": "Vitamin A"
+        },
+        {
+          "hi": "विटामिन D",
+          "en": "Vitamin D"
+        },
+        {
+          "hi": "विटामिन K",
+          "en": "Vitamin K"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विटामिन D का रासायनिक नाम क्या है?",
+        "en": "What is the chemical name of Vitamin D?"
+      },
+      "o": [
+        {
+          "hi": "टोकोफेरॉल (Tocopherol)",
+          "en": "Tocopherol"
+        },
+        {
+          "hi": "कैल्सीफेरॉल (Calciferol / Cholecalciferol)",
+          "en": "Calciferol (Cholecalciferol)"
+        },
+        {
+          "hi": "फिलोक्विनोन (Phylloquinone)",
+          "en": "Phylloquinone"
+        },
+        {
+          "hi": "रेटिनॉल (Retinol)",
+          "en": "Retinol"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बच्चों में विटामिन D की कमी से हड्डियों के टेढ़े होने वाला कौन-सा रोग होता है?",
+        "en": "Which soft bone deformity disease in children is caused by severe Vitamin D deficiency?"
+      },
+      "o": [
+        {
+          "hi": "ऑस्टियोमलेशिया (वयस्कों में)",
+          "en": "Osteomalacia (in adults)"
+        },
+        {
+          "hi": "स्कर्वी (Scurvy)",
+          "en": "Scurvy"
+        },
+        {
+          "hi": "रिकेट्स / सूखा रोग (Rickets)",
+          "en": "Rickets"
+        },
+        {
+          "hi": "बेरी-बेरी (Beri-beri)",
+          "en": "Beri-beri"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वयस्कों में विटामिन D और कैल्शियम की कमी से हड्डियां कमजोर होकर टूटने वाला रोग कौन-सा है?",
+        "en": "In adults, softening and weakening of bones due to Vitamin D deficiency is called:"
+      },
+      "o": [
+        {
+          "hi": "रिकेट्स (Rickets)",
+          "en": "Rickets"
+        },
+        {
+          "hi": "ऑस्टियोपोरोसिस (Osteoporosis)",
+          "en": "Osteoporosis"
+        },
+        {
+          "hi": "गठिया / अर्थराइटिस (Arthritis)",
+          "en": "Arthritis"
+        },
+        {
+          "hi": "ऑस्टियोमलेशिया (Osteomalacia)",
+          "en": "Osteomalacia"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'सनशाइन विटामिन' (Sunshine Vitamin) तथा हार्मोन की तरह कार्य करने वाला विटामिन कौन-सा है?",
+        "en": "Which vitamin synthesized in human skin upon exposure to sunlight functions like a steroid hormone?"
+      },
+      "o": [
+        {
+          "hi": "विटामिन D (Calciferol)",
+          "en": "Vitamin D (Calciferol)"
+        },
+        {
+          "hi": "विटामिन A",
+          "en": "Vitamin A"
+        },
+        {
+          "hi": "विटामिन E",
+          "en": "Vitamin E"
+        },
+        {
+          "hi": "विटामिन K",
+          "en": "Vitamin K"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विटामिन E का रासायनिक नाम क्या है जिसकी कमी से जनन क्षमता (प्रजनन) कम हो जाती है?",
+        "en": "What is the chemical name of Vitamin E (deficiency causes sterility / reproductive failure)?"
+      },
+      "o": [
+        {
+          "hi": "फिलोक्विनोन",
+          "en": "Phylloquinone"
+        },
+        {
+          "hi": "टोकोफेरॉल (Tocopherol / 'सौंदर्य विटामिन')",
+          "en": "Tocopherol ('Beauty Vitamin')"
+        },
+        {
+          "hi": "कैल्सीफेरॉल",
+          "en": "Calciferol"
+        },
+        {
+          "hi": "एस्कॉर्बिक एसिड",
+          "en": "Ascorbic Acid"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विटामिन K का रासायनिक नाम क्या है जो रक्त का थक्का जमने में अनिवार्य होता है?",
+        "en": "What is the chemical name of Vitamin K essential for prothrombin synthesis and blood clotting?"
+      },
+      "o": [
+        {
+          "hi": "टोकोफेरॉल",
+          "en": "Tocopherol"
+        },
+        {
+          "hi": "कैल्सीफेरॉल",
+          "en": "Calciferol"
+        },
+        {
+          "hi": "फिलोक्विनोन / नेफ्थोक्विनोन (Phylloquinone)",
+          "en": "Phylloquinone / Naphthoquinone"
+        },
+        {
+          "hi": "बायोटिन",
+          "en": "Biotin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में हीमोग्लोबिन के निर्माण के लिए कौन-सा खनिज तत्व अनिवार्य है?",
+        "en": "Which trace mineral element is essential for the biosynthesis of Hemoglobin in erythrocytes?"
+      },
+      "o": [
+        {
+          "hi": "कैल्शियम (Calcium - Ca)",
+          "en": "Calcium (Ca)"
+        },
+        {
+          "hi": "आयोडीन (Iodine - I)",
+          "en": "Iodine (I)"
+        },
+        {
+          "hi": "सोडियम (Sodium - Na)",
+          "en": "Sodium (Na)"
+        },
+        {
+          "hi": "लोहा / आयरन (Iron - Fe)",
+          "en": "Iron (Fe)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भोजन में लोहे (Iron) की कमी से कौन-सा रोग हो जाता है?",
+        "en": "Dietary deficiency of Iron in humans leads to which nutritional disorder?"
+      },
+      "o": [
+        {
+          "hi": "रक्ताल्पता / अरक्तता (Anaemia)",
+          "en": "Anaemia"
+        },
+        {
+          "hi": "घेंघा (Goitre)",
+          "en": "Goitre"
+        },
+        {
+          "hi": "स्कर्वी (Scurvy)",
+          "en": "Scurvy"
+        },
+        {
+          "hi": "रिकेट्स (Rickets)",
+          "en": "Rickets"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आहार में आयोडीन (Iodine) की कमी से थायरॉयड ग्रंथि फूलकर कौन-सा रोग बनाती है?",
+        "en": "Deficiency of dietary Iodine causes enlargement of the thyroid gland, known as:"
+      },
+      "o": [
+        {
+          "hi": "मधुमेह (Diabetes)",
+          "en": "Diabetes"
+        },
+        {
+          "hi": "घेंघा / गलगंड (Simple Goitre)",
+          "en": "Simple Goitre"
+        },
+        {
+          "hi": "कुष्ठ रोग (Leprosy)",
+          "en": "Leprosy"
+        },
+        {
+          "hi": "मरास्मस (Marasmus)",
+          "en": "Marasmus"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दांतों और हड्डियों के स्वस्थ निर्माण हेतु कौन-से दो प्रमुख खनिज आवश्यक हैं?",
+        "en": "Which two major mineral elements are vital structural constituents of bones and teeth?"
+      },
+      "o": [
+        {
+          "hi": "लोहा और तांबा",
+          "en": "Iron and Copper"
+        },
+        {
+          "hi": "सोडियम और पोटेशियम",
+          "en": "Sodium and Potassium"
+        },
+        {
+          "hi": "कैल्शियम और फास्फोरस (Calcium & Phosphorus)",
+          "en": "Calcium and Phosphorus"
+        },
+        {
+          "hi": "सल्फर और मैग्नीशियम",
+          "en": "Sulfur and Magnesium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पीने के पानी में 'फ्लोरीन' (Fluorine) की अधिकता से दांतों और हड्डियों का कौन-सा विकार होता है?",
+        "en": "Excess concentration of Fluoride in drinking water leads to which skeletal/dental disorder?"
+      },
+      "o": [
+        {
+          "hi": "दंत क्षय / कैरीज (फ्लोरीन की कमी से)",
+          "en": "Dental Caries (from Fluorine deficiency)"
+        },
+        {
+          "hi": "स्कर्वी (Scurvy)",
+          "en": "Scurvy"
+        },
+        {
+          "hi": "पायरिया (Pyorrhea)",
+          "en": "Pyorrhea"
+        },
+        {
+          "hi": "फ्लोरोसिस (Fluorosis - दांतों पर पीले धब्बे व हड्डियां मुड़ना)",
+          "en": "Fluorosis (Dental mottling and skeletal deformities)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शरीर में तंत्रिका आवेगों के संचरण और जल संतुलन को बनाए रखने वाले प्रमुख आयन कौन-से हैं?",
+        "en": "Which primary cations are responsible for transmission of nerve impulses and electrolyte balance?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम और पोटेशियम (Na+ and K+)",
+          "en": "Sodium and Potassium (Na+ and K+)"
+        },
+        {
+          "hi": "कैल्शियम और मैग्नीशियम",
+          "en": "Calcium and Magnesium"
+        },
+        {
+          "hi": "लोहा और तांबा",
+          "en": "Iron and Copper"
+        },
+        {
+          "hi": "क्लोरीन और फास्फोरस",
+          "en": "Chlorine and Phosphorus"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हरी पत्तेदार सब्जियों (विशेषकर पालक) में कौन-सा खनिज तत्व प्रचुर मात्रा में पाया जाता है?",
+        "en": "Green leafy vegetables, particularly Spinach, are exceptionally rich sources of:"
+      },
+      "o": [
+        {
+          "hi": "आयोडीन (Iodine)",
+          "en": "Iodine"
+        },
+        {
+          "hi": "लोहा (Iron - Fe)",
+          "en": "Iron (Fe)"
+        },
+        {
+          "hi": "जस्ता (Zinc)",
+          "en": "Zinc"
+        },
+        {
+          "hi": "सोडियम (Sodium)",
+          "en": "Sodium"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समुद्री भोजन (Seafood) और आयोडीनयुक्त नमक किसके मुख्य आहार स्रोत हैं?",
+        "en": "Seafood (marine fish, kelp) and iodized salt are principal dietary sources of:"
+      },
+      "o": [
+        {
+          "hi": "विटामिन C",
+          "en": "Vitamin C"
+        },
+        {
+          "hi": "विटामिन B1",
+          "en": "Vitamin B1"
+        },
+        {
+          "hi": "आयोडीन (Iodine)",
+          "en": "Iodine"
+        },
+        {
+          "hi": "कैल्शियम",
+          "en": "Calcium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मछली के यकृत के तेल (Cod Liver Oil) में कौन-से दो विटामिन प्रचुर मात्रा में पाए जाते हैं?",
+        "en": "Fish liver oil (Cod/Shark liver oil) is an exceptionally rich source of which two vitamins?"
+      },
+      "o": [
+        {
+          "hi": "विटामिन B और C",
+          "en": "Vitamin B and C"
+        },
+        {
+          "hi": "विटामिन E और K",
+          "en": "Vitamin E and K"
+        },
+        {
+          "hi": "विटामिन C और D",
+          "en": "Vitamin C and D"
+        },
+        {
+          "hi": "विटामिन A और विटामिन D",
+          "en": "Vitamin A and Vitamin D"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वनस्पति तेलों (Vegetable Oils) से वनस्पति घी बनाने के हाइड्रोजनीकरण में कौन-सा उत्प्रेरक प्रयुक्त होता है?",
+        "en": "Which metallic catalyst is used in the industrial hydrogenation of vegetable oils into vanaspati ghee?"
+      },
+      "o": [
+        {
+          "hi": "निकल (Nickel - Ni)",
+          "en": "Nickel (Ni)"
+        },
+        {
+          "hi": "लोहा (Iron - Fe)",
+          "en": "Iron (Fe)"
+        },
+        {
+          "hi": "प्लैटिनम (Platinum - Pt)",
+          "en": "Platinum (Pt)"
+        },
+        {
+          "hi": "तांबा (Copper - Cu)",
+          "en": "Copper (Cu)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर के कुल भार का लगभग कितना प्रतिशत भाग जल (Water - H2O) होता है?",
+        "en": "Approximately what percentage of the total adult human body weight consists of water?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 40% से 50%",
+          "en": "About 40% to 50%"
+        },
+        {
+          "hi": "लगभग 65% से 70%",
+          "en": "Approximately 65% to 70%"
+        },
+        {
+          "hi": "लगभग 85% से 90%",
+          "en": "About 85% to 90%"
+        },
+        {
+          "hi": "लगभग 30% से 35%",
+          "en": "About 30% to 35%"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "शरीर में निर्जलीकरण (Dehydration) होने पर किसकी गंभीर कमी हो जाती है?",
+        "en": "During clinical Dehydration, the human body suffers a critical depletion of:"
+      },
+      "o": [
+        {
+          "hi": "केवल हीमोग्लोबिन",
+          "en": "Only Hemoglobin"
+        },
+        {
+          "hi": "केवल ग्लूकोज",
+          "en": "Only Glucose"
+        },
+        {
+          "hi": "जल तथा सोडियम क्लोराइड (नमक)",
+          "en": "Water and Sodium Chloride (Salts)"
+        },
+        {
+          "hi": "कैल्शियम फॉस्फेट",
+          "en": "Calcium Phosphate"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ओआरएस (ORS - ओरल रीहाइड्रेशन सॉल्ट) का मुख्य कार्य क्या है?",
+        "en": "What is the primary medical purpose of administering Oral Rehydration Solution (ORS)?"
+      },
+      "o": [
+        {
+          "hi": "रक्त में हीमोग्लोबिन बढ़ाना",
+          "en": "Increasing blood hemoglobin"
+        },
+        {
+          "hi": "एंटीबायोटिक की तरह जीवाणु मारना",
+          "en": "Killing bacteria as antibiotic"
+        },
+        {
+          "hi": "रक्तचाप को तुरंत गिराना",
+          "en": "Immediately reducing blood pressure"
+        },
+        {
+          "hi": "दस्त व उल्टी में जल एवं इलेक्ट्रोलाइट्स की पुनर्पूर्ति",
+          "en": "Restoring lost water and electrolytes during diarrhea"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संतृप्त वसा अम्ल (Saturated Fatty Acids) का सामान्य उदाहरण कौन-सा है जो कमरे के ताप पर ठोस रहते हैं?",
+        "en": "Which of the following is a classic saturated fat that solidifies at room temperature?"
+      },
+      "o": [
+        {
+          "hi": "मक्खन, घी और चर्बी (Animal Fats & Ghee)",
+          "en": "Butter, Ghee, and Animal Tallow"
+        },
+        {
+          "hi": "सरसों का तेल (Mustard Oil)",
+          "en": "Mustard Oil"
+        },
+        {
+          "hi": "सूरजमुखी का तेल (Sunflower Oil)",
+          "en": "Sunflower Oil"
+        },
+        {
+          "hi": "जैतून का तेल (Olive Oil)",
+          "en": "Olive Oil"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हृदय रोगियों के लिए सबसे उपयुक्त और लाभदायक तेल कौन-सा माना जाता है (असंतृप्त वसा अम्ल)?",
+        "en": "Which oil rich in polyunsaturated fatty acids (PUFA) is considered healthiest for cardiac patients?"
+      },
+      "o": [
+        {
+          "hi": "नारियल का तेल (Coconut Oil)",
+          "en": "Coconut Oil"
+        },
+        {
+          "hi": "सूरजमुखी तथा कुसुम का तेल (Sunflower / Safflower Oil)",
+          "en": "Sunflower and Safflower Oil"
+        },
+        {
+          "hi": "पाम तेल (Palm Oil)",
+          "en": "Palm Oil"
+        },
+        {
+          "hi": "वनस्पति डालडा घी",
+          "en": "Hydrogenated Vanaspati Ghee"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - जीव विज्ञान (Biology)",
+  "subtitle": "विचित्रताएँ",
+  "description": "विचित्रताएँ पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "संसार का सबसे बड़ा जीवित स्तनधारी प्राणी (Largest Mammal on Earth) कौन-सा है?",
+        "en": "Which is the largest living mammal and animal species on Earth?"
+      },
+      "o": [
+        {
+          "hi": "ब्लू व्हेल (नीली व्हेल - लंबाई ~30 मी, भार ~150 टन)",
+          "en": "Blue Whale (Balaenoptera musculus)"
+        },
+        {
+          "hi": "अफ्रीकी हाथी (African Bush Elephant)",
+          "en": "African Bush Elephant"
+        },
+        {
+          "hi": "विशालकाय शार्क (Whale Shark)",
+          "en": "Whale Shark"
+        },
+        {
+          "hi": "जिराफ (Giraffe)",
+          "en": "Giraffe"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी पर सबसे बड़ा जीवित स्थलीय स्तनधारी प्राणी (Largest Land Mammal) कौन-सा है?",
+        "en": "Which is the largest living terrestrial land mammal on Earth?"
+      },
+      "o": [
+        {
+          "hi": "एशियाई हाथी (Asian Elephant)",
+          "en": "Asian Elephant"
+        },
+        {
+          "hi": "अफ्रीकी हाथी (African Bush Elephant - भार ~6-7 टन)",
+          "en": "African Bush Elephant"
+        },
+        {
+          "hi": "सफेद गैंडा (White Rhinoceros)",
+          "en": "White Rhinoceros"
+        },
+        {
+          "hi": "दरियाई घोड़ा (Hippopotamus)",
+          "en": "Hippopotamus"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे ऊंचा जीवित जंतु (Tallest Animal on Earth - ऊंचाई ~5.5 मीटर) कौन-सा है?",
+        "en": "Which is the tallest living animal in the world, reaching up to 5.5 meters?"
+      },
+      "o": [
+        {
+          "hi": "अफ्रीकी हाथी",
+          "en": "African Elephant"
+        },
+        {
+          "hi": "ऊंट (Camel)",
+          "en": "Camel"
+        },
+        {
+          "hi": "जिराफ (Giraffe)",
+          "en": "Giraffe"
+        },
+        {
+          "hi": "शुतुरमुर्ग (Ostrich)",
+          "en": "Ostrich"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "धरती पर सबसे तेज दौड़ने वाला स्तनधारी प्राणी (Fastest Land Animal - 110-120 किमी/घंटा) कौन-सा है?",
+        "en": "Which is the fastest land animal on Earth, sprinting up to 110-120 km/h?"
+      },
+      "o": [
+        {
+          "hi": "तेंदुआ (Leopard)",
+          "en": "Leopard"
+        },
+        {
+          "hi": "शेर (Lion)",
+          "en": "Lion"
+        },
+        {
+          "hi": "काला हिरण (Blackbuck)",
+          "en": "Blackbuck"
+        },
+        {
+          "hi": "चीता (Cheetah / Acinonyx jubatus)",
+          "en": "Cheetah (Acinonyx jubatus)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे छोटा स्तनधारी प्राणी (Smallest Mammal - भार मात्र ~2 ग्राम) कौन-सा है?",
+        "en": "Which is the smallest mammal in the world by body length/mass?"
+      },
+      "o": [
+        {
+          "hi": "बम्बल-बी चमगादड़ (Kitti's Hog-nosed Bat) या एट्रस्कन छछूंदर",
+          "en": "Bumblebee Bat / Etruscan Shrew"
+        },
+        {
+          "hi": "घरेलू चूहा (House Mouse)",
+          "en": "House Mouse"
+        },
+        {
+          "hi": "गिलहरी (Squirrel)",
+          "en": "Squirrel"
+        },
+        {
+          "hi": "खरगोश (Rabbit)",
+          "en": "Rabbit"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वह कौन-सा रेगिस्तानी स्तनधारी है जो जीवनभर कभी पानी नहीं पीता?",
+        "en": "Which desert rodent never drinks liquid water in its entire life, relying on metabolic water?"
+      },
+      "o": [
+        {
+          "hi": "ऊंट (Camel)",
+          "en": "Camel"
+        },
+        {
+          "hi": "कंगारू चूहा (Kangaroo Rat - उत्तरी अमेरिका)",
+          "en": "Kangaroo Rat (North America)"
+        },
+        {
+          "hi": "रेगिस्तानी लोमड़ी (Fennec Fox)",
+          "en": "Fennec Fox"
+        },
+        {
+          "hi": "कांटेदार छिपकली (Thorny Devil)",
+          "en": "Thorny Devil"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी पर सबसे लंबी आयु (200 से 250 वर्ष से अधिक) जीने वाला कशेरुकी प्राणी कौन-सा है?",
+        "en": "Which vertebrate animal holds the record for the longest individual lifespan (over 190-250 years)?"
+      },
+      "o": [
+        {
+          "hi": "अफ्रीकी हाथी",
+          "en": "African Elephant"
+        },
+        {
+          "hi": "ब्लू व्हेल",
+          "en": "Blue Whale"
+        },
+        {
+          "hi": "विशालकाय कछुआ (Giant Tortoise) तथा ग्रीनलैंड शार्क",
+          "en": "Giant Tortoise and Greenland Shark"
+        },
+        {
+          "hi": "मगरमच्छ",
+          "en": "Crocodile"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "घरेलू स्तनधारियों में सबसे अधिक शारीरिक तापमान (लगभग 39°C से 40°C) किसका होता है?",
+        "en": "Among common domesticated mammals, which animal possesses the highest normal body temperature (~39-40°C)?"
+      },
+      "o": [
+        {
+          "hi": "गाय (Cow)",
+          "en": "Cow"
+        },
+        {
+          "hi": "घोड़ा (Horse)",
+          "en": "Horse"
+        },
+        {
+          "hi": "कुत्ता (Dog)",
+          "en": "Dog"
+        },
+        {
+          "hi": "बकरी (Goat)",
+          "en": "Goat"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे बड़ा अकशेरुकी प्राणी (Largest Living Invertebrate) कौन-सा है?",
+        "en": "Which is the largest living invertebrate animal on Earth by weight and eye size?"
+      },
+      "o": [
+        {
+          "hi": "कोलोसल स्क्विड / जाइंट स्क्विड (Colossal Squid - Phylum Mollusca)",
+          "en": "Colossal Squid / Giant Squid (Phylum Mollusca)"
+        },
+        {
+          "hi": "विशाल ऑक्टोपस (Giant Octopus)",
+          "en": "Giant Octopus"
+        },
+        {
+          "hi": "किंग क्रैब (King Crab)",
+          "en": "King Crab"
+        },
+        {
+          "hi": "जेलिफ़िश (Lion's Mane Jellyfish)",
+          "en": "Lion's Mane Jellyfish"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसार की एकमात्र विषैली छिपकली (Poisonous Lizard) कौन-सी है?",
+        "en": "Which is the only venomous lizard found in nature?"
+      },
+      "o": [
+        {
+          "hi": "कोमोडो ड्रैगन (Komodo Dragon)",
+          "en": "Komodo Dragon"
+        },
+        {
+          "hi": "हीलोडर्मा / गिला मॉन्स्टर (Heloderma / Gila Monster)",
+          "en": "Heloderma (Gila Monster)"
+        },
+        {
+          "hi": "गिरगिट (Chameleon)",
+          "en": "Chameleon"
+        },
+        {
+          "hi": "गेको / घरेलू छिपकली (Gecko)",
+          "en": "Gecko"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विषैला डंक रखने वाला एकमात्र स्तनधारी (Poisonous Mammal) कौन-सा है?",
+        "en": "Which unique egg-laying male mammal possesses a venomous spur on its hind legs?"
+      },
+      "o": [
+        {
+          "hi": "कंगारू (Kangaroo)",
+          "en": "Kangaroo"
+        },
+        {
+          "hi": "चमगादड़ (Bat)",
+          "en": "Bat"
+        },
+        {
+          "hi": "डक-बिल्ड प्लैटिपस (Male Duck-billed Platypus)",
+          "en": "Male Duck-billed Platypus"
+        },
+        {
+          "hi": "कोआला (Koala)",
+          "en": "Koala"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे बड़ा जीवित पक्षी (Largest Living Bird) कौन-सा है?",
+        "en": "Which is the largest, heaviest, and tallest living bird in the world?"
+      },
+      "o": [
+        {
+          "hi": "एमू (Emu)",
+          "en": "Emu"
+        },
+        {
+          "hi": "कैसोवरी (Cassowary)",
+          "en": "Cassowary"
+        },
+        {
+          "hi": "अल्बाट्रॉस (Albatross)",
+          "en": "Albatross"
+        },
+        {
+          "hi": "शुतुरमुर्ग (Ostrich / Struthio camelus)",
+          "en": "Ostrich (Struthio camelus)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे छोटा पक्षी कौन-सा है जो आगे और पीछे दोनों दिशाओं में उड़ सकता है?",
+        "en": "Which tiny bird (Bee Hummingbird) can fly forwards, backwards, and hover mid-air?"
+      },
+      "o": [
+        {
+          "hi": "हमिंगबर्ड / गुंजन पक्षी (Hummingbird)",
+          "en": "Hummingbird"
+        },
+        {
+          "hi": "दर्जिन चिड़िया (Tailorbird)",
+          "en": "Tailorbird"
+        },
+        {
+          "hi": "सनबर्ड (Sunbird)",
+          "en": "Sunbird"
+        },
+        {
+          "hi": "वीवर बर्ड (Weaver Bird)",
+          "en": "Weaver Bird"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उड़ते समय सबसे विशाल पंखों का फैलाव (Largest Wingspan - ~3.5 मीटर) किस पक्षी का होता है?",
+        "en": "Which oceanic seabird has the largest wingspan of any living bird (~3.5 meters)?"
+      },
+      "o": [
+        {
+          "hi": "गोल्डन ईगल (Golden Eagle)",
+          "en": "Golden Eagle"
+        },
+        {
+          "hi": "वांडरिंग अल्बाट्रॉस (Wandering Albatross)",
+          "en": "Wandering Albatross"
+        },
+        {
+          "hi": "कैलफोर्नियाई कोंडोर (Condor)",
+          "en": "Californian Condor"
+        },
+        {
+          "hi": "राजहंस / फ्लेमिंगो (Flamingo)",
+          "en": "Flamingo"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रकृति में सबसे बड़ा अंडा (Largest Egg - भार ~1.5 किग्रा) किस पक्षी का होता है?",
+        "en": "Which bird lays the largest single biological egg, weighing around 1.5 kg?"
+      },
+      "o": [
+        {
+          "hi": "एमू (Emu)",
+          "en": "Emu"
+        },
+        {
+          "hi": "कीवी (Kiwi)",
+          "en": "Kiwi"
+        },
+        {
+          "hi": "शुतुरमुर्ग (Ostrich)",
+          "en": "Ostrich"
+        },
+        {
+          "hi": "पेलिकन (Pelican)",
+          "en": "Pelican"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अपने शरीर के अनुपात में सबसे बड़ा अंडा देने वाला पक्षी (शरीर के भार का 20%) कौन-सा है?",
+        "en": "Which flightless bird lays an egg that is up to 20% of its own body weight?"
+      },
+      "o": [
+        {
+          "hi": "शुतुरमुर्ग (Ostrich)",
+          "en": "Ostrich"
+        },
+        {
+          "hi": "एमू (Emu)",
+          "en": "Emu"
+        },
+        {
+          "hi": "पेंगुइन (Penguin)",
+          "en": "Penguin"
+        },
+        {
+          "hi": "कीवी (Kiwi - न्यूजीलैंड का राष्ट्रीय पक्षी)",
+          "en": "Kiwi (New Zealand)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अंड परजीविता (Brood Parasitism) दर्शाने वाला पक्षी जो अपने अंडे कौवे के घोंसले में देता है:",
+        "en": "Which classic brood parasite bird never builds a nest and lays its eggs in crow nests?"
+      },
+      "o": [
+        {
+          "hi": "कोयल / कुक्कू (Cuckoo / Asian Koel)",
+          "en": "Asian Koel / Cuckoo"
+        },
+        {
+          "hi": "कबूतर (Pigeon)",
+          "en": "Pigeon"
+        },
+        {
+          "hi": "गौरैया (Sparrow)",
+          "en": "Sparrow"
+        },
+        {
+          "hi": "मैना (Myna)",
+          "en": "Myna"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसार की सबसे बड़ी पत्ती (Largest Leaf - व्यास 3 मीटर तक) किस जलीय पौधे की होती है?",
+        "en": "Which giant aquatic water lily plant has the largest floating circular leaves in the world?"
+      },
+      "o": [
+        {
+          "hi": "कमल (Nelumbo nucifera)",
+          "en": "Lotus"
+        },
+        {
+          "hi": "विक्टोरिया अमेज़ोनिका (Victoria amazonica / जायंट वाटर लिली)",
+          "en": "Victoria amazonica (Giant Water Lily)"
+        },
+        {
+          "hi": "केला (Banana Leaf)",
+          "en": "Banana"
+        },
+        {
+          "hi": "ताड़ (Fan Palm)",
+          "en": "Fan Palm"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे बड़ा और भारी बीज / फल (Double Coconut - भार 20-30 किग्रा) किसका होता है?",
+        "en": "Which palm tree produces the largest and heaviest seed / fruit in the world ('Double Coconut')?"
+      },
+      "o": [
+        {
+          "hi": "सामान्य नारियल (Cocos nucifera)",
+          "en": "Common Coconut"
+        },
+        {
+          "hi": "कटहल (Jackfruit)",
+          "en": "Jackfruit"
+        },
+        {
+          "hi": "लोडोइसिया मालदीविका (Lodoicea maldivica / कोको डी मेर)",
+          "en": "Lodoicea maldivica (Coco de Mer)"
+        },
+        {
+          "hi": "सुपारी (Areca Palm)",
+          "en": "Areca Nut"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे छोटा धूल जैसा बीज (Smallest Seed) किस पौधे का होता है?",
+        "en": "Which plant family produces the smallest, dust-like microscopic seeds in nature?"
+      },
+      "o": [
+        {
+          "hi": "वोल्फिया (Wolffia)",
+          "en": "Wolffia"
+        },
+        {
+          "hi": "खसखस / पोस्ता (Poppy)",
+          "en": "Poppy Seeds"
+        },
+        {
+          "hi": "सरसों (Mustard)",
+          "en": "Mustard"
+        },
+        {
+          "hi": "ऑर्किड (Orchid Seeds - भार मात्र 0.004 मिलीग्राम)",
+          "en": "Orchid Seeds (weighing ~0.004 mg)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "धरती पर सबसे तेजी से बढ़ने वाला पौधा (Fastest Growing Plant - 90-100 सेमी/दिन) कौन-सा है?",
+        "en": "Which is the fastest growing woody plant/grass in the world (up to 90 cm per day)?"
+      },
+      "o": [
+        {
+          "hi": "बांस (Bamboo - घास कुल का पौधा)",
+          "en": "Bamboo (Giant Grass)"
+        },
+        {
+          "hi": "यूकेलिप्टस (Eucalyptus)",
+          "en": "Eucalyptus"
+        },
+        {
+          "hi": "गन्ना (Sugarcane)",
+          "en": "Sugarcane"
+        },
+        {
+          "hi": "बरगद (Banyan)",
+          "en": "Banyan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे प्राचीनतम जीवित वृक्ष (Oldest Living Tree - 5000 वर्ष से अधिक) कौन-सा है?",
+        "en": "Which non-clonal gymnosperm tree holds the record for the oldest living individual tree?"
+      },
+      "o": [
+        {
+          "hi": "सिकोया (Giant Sequoia)",
+          "en": "Giant Sequoia"
+        },
+        {
+          "hi": "ब्रिसलकोन पाइन (Bristlecone Pine / मैथ्यूसेलाह - USA)",
+          "en": "Bristlecone Pine (Pinus longaeva / Methuselah)"
+        },
+        {
+          "hi": "गिंको बाइलोबा",
+          "en": "Ginkgo biloba"
+        },
+        {
+          "hi": "बरगद का पेड़",
+          "en": "Great Banyan Tree"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पश्चिमी घाट में 12 वर्षों में केवल एक बार खिलने वाला प्रसिद्ध नीला पुष्प कौन-सा है?",
+        "en": "Which famous blue flower blooming once every 12 years carpets the Shola grasslands of Western Ghats?"
+      },
+      "o": [
+        {
+          "hi": "ब्रह्मकमल (Brahma Kamal)",
+          "en": "Brahma Kamal"
+        },
+        {
+          "hi": "पलाश (Flame of the Forest)",
+          "en": "Palash"
+        },
+        {
+          "hi": "नीलकुरिंजी (Strobilanthes kunthiana)",
+          "en": "Neelakurinji (Strobilanthes kunthiana)"
+        },
+        {
+          "hi": "रात की रानी (Night-blooming Jasmine)",
+          "en": "Night Jasmine"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मृतप्राय सूख जाने के बाद जल मिलते ही पुनः हरी होने वाली 'संजीवनी बूटी' कौन-सा पौधा है?",
+        "en": "Which pteridophyte 'Resurrection Plant' revives and unfurls green upon rehydration?"
+      },
+      "o": [
+        {
+          "hi": "अजोला (Azolla)",
+          "en": "Azolla"
+        },
+        {
+          "hi": "मार्सीलिया (Marsilea)",
+          "en": "Marsilea"
+        },
+        {
+          "hi": "इक्विसिटम (Equisetum)",
+          "en": "Equisetum"
+        },
+        {
+          "hi": "सिलाजिनेला लेपिडोफिला (Selaginella lepidophylla)",
+          "en": "Selaginella lepidophylla (Resurrection Plant)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे भारी काष्ठ (Heaviest / Densest Wood) किस वृक्ष का होता है?",
+        "en": "Which tree species produces the densest and heaviest wood in the world (Ironwood)?"
+      },
+      "o": [
+        {
+          "hi": "ग्वायकम ऑफिसिनेल (Guaiacum officinale / लिग्नम वाइटी)",
+          "en": "Guaiacum officinale (Lignum vitae)"
+        },
+        {
+          "hi": "ओक्रोमा लैगोपस (बाल्सा - सबसे हल्की)",
+          "en": "Ochroma lagopus (Balsa - Lightest)"
+        },
+        {
+          "hi": "शीशम (Dalbergia)",
+          "en": "Rosewood (Dalbergia)"
+        },
+        {
+          "hi": "सागौन (Teak)",
+          "en": "Teak (Tectona)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसार की सबसे हल्की लकड़ी (Lightest Wood) किस वृक्ष की होती है?",
+        "en": "Which tree produces the world's lightest commercial timber wood (density ~0.16 g/cm³)?"
+      },
+      "o": [
+        {
+          "hi": "लिग्नम वाइटी (Lignum vitae)",
+          "en": "Lignum vitae"
+        },
+        {
+          "hi": "बाल्सा की लकड़ी (Ochroma pyramidale / Balsa Wood)",
+          "en": "Balsa Wood (Ochroma pyramidale)"
+        },
+        {
+          "hi": "बांस की लकड़ी",
+          "en": "Bamboo"
+        },
+        {
+          "hi": "चीड़ की लकड़ी",
+          "en": "Pine Wood"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वह कौन-सा जंतु है जो अपनी आंखें स्वतंत्र रूप से दो अलग दिशाओं में एक साथ घुमा सकता है?",
+        "en": "Which reptile can move and focus each of its protruding eyes independently in two different directions?"
+      },
+      "o": [
+        {
+          "hi": "सांप (Snake)",
+          "en": "Snake"
+        },
+        {
+          "hi": "मगरमच्छ (Crocodile)",
+          "en": "Crocodile"
+        },
+        {
+          "hi": "गिरगिट (Chameleon)",
+          "en": "Chameleon"
+        },
+        {
+          "hi": "उल्लू (Owl)",
+          "en": "Owl"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उल्लू (Owl) अपनी गर्दन को कितने कोण तक घुमा सकता है?",
+        "en": "Up to what extraordinary angular degree can an Owl rotate its head without moving its body?"
+      },
+      "o": [
+        {
+          "hi": "180 डिग्री",
+          "en": "180 Degrees"
+        },
+        {
+          "hi": "360 डिग्री",
+          "en": "360 Degrees"
+        },
+        {
+          "hi": "90 डिग्री",
+          "en": "90 Degrees"
+        },
+        {
+          "hi": "लगभग 270 डिग्री (270 Degrees)",
+          "en": "Approximately 270 Degrees"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "घोड़े की नाल केकड़ा (Horseshoe Crab / लिमुलस) का नीला रक्त मेडिकल साइंस में क्यों अमूल्य है?",
+        "en": "Why is the blue copper-based blood of the Horseshoe Crab (Limulus) indispensable in pharmaceuticals?"
+      },
+      "o": [
+        {
+          "hi": "दवाओं और टीकों में बैक्टीरियल एंडोटॉक्सिन की जांच हेतु (LAL टेस्ट)",
+          "en": "To test injectable drugs/vaccines for bacterial endotoxins (LAL test)"
+        },
+        {
+          "hi": "यह कैंसर की एकमात्र दवा है",
+          "en": "It cures all cancers"
+        },
+        {
+          "hi": "यह कृत्रिम हीमोग्लोबिन बनाता है",
+          "en": "It forms synthetic hemoglobin"
+        },
+        {
+          "hi": "यह रक्तचाप को तुरंत घटाता है",
+          "en": "It immediately lowers BP"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे बड़ा घोंघा (Largest Snail - विशाल अफ्रीकी भूमि घोंघा) कौन-सा है?",
+        "en": "Which is the largest terrestrial gastropod snail species in the world?"
+      },
+      "o": [
+        {
+          "hi": "पाइला (Pila globosa)",
+          "en": "Pila globosa"
+        },
+        {
+          "hi": "जायंट अफ्रीकन स्नेल (Achatina fulica)",
+          "en": "Giant African Snail (Achatina fulica)"
+        },
+        {
+          "hi": "यूनियो (Unio)",
+          "en": "Unio"
+        },
+        {
+          "hi": "हेलिक्स पोमाटिया",
+          "en": "Helix pomatia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वह कौन-सा पक्षी है जो अपने अंडों को खुद न सेकर रेत और सड़ती पत्तियों के ढेर में गर्म रखता है?",
+        "en": "Which Australasian mound-building bird uses geothermal/fermenting mound heat to incubate eggs?"
+      },
+      "o": [
+        {
+          "hi": "पेंगुइन (Penguin)",
+          "en": "Penguin"
+        },
+        {
+          "hi": "कीवी (Kiwi)",
+          "en": "Kiwi"
+        },
+        {
+          "hi": "मेगापोड / मल्लेफाउल (Megapode / Malleefowl)",
+          "en": "Megapode / Malleefowl"
+        },
+        {
+          "hi": "हॉर्नबिल (Hornbill)",
+          "en": "Hornbill"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे बड़ा जीवित उभयचर (Largest Amphibian - लंबाई 1.8 मीटर) कौन-सा है?",
+        "en": "Which is the largest living amphibian species in the world?"
+      },
+      "o": [
+        {
+          "hi": "गोलायथ मेंढक (Goliath Frog)",
+          "en": "Goliath Frog"
+        },
+        {
+          "hi": "इथियोफिस (Ichthyophis)",
+          "en": "Ichthyophis"
+        },
+        {
+          "hi": "टाइगर सैलामैंडर",
+          "en": "Tiger Salamander"
+        },
+        {
+          "hi": "चीनी विशाल सैलामैंडर (Chinese Giant Salamander - Andrias)",
+          "en": "Chinese Giant Salamander (Andrias davidianus)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे बड़ा मेंढक (Largest Frog - वजन 3.2 किग्रा तक) कौन-सा है?",
+        "en": "Which is the largest living anuran frog species in the world (Cameroon/Equatorial Guinea)?"
+      },
+      "o": [
+        {
+          "hi": "गोलायथ मेंढक (Goliath Frog / Conraua goliath)",
+          "en": "Goliath Frog (Conraua goliath)"
+        },
+        {
+          "hi": "बुलफ्रॉग (Bullfrog)",
+          "en": "Bullfrog"
+        },
+        {
+          "hi": "ट्री फ्रॉग (Tree Frog)",
+          "en": "Tree Frog"
+        },
+        {
+          "hi": "पॉइजन डार्ट फ्रॉग",
+          "en": "Poison Dart Frog"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे विषैला मेंढक (Most Poisonous Frog) कौन-सा है जिसकी त्वचा से घातक विष निकलता है?",
+        "en": "Which tiny neotropical frog is documented as the most poisonous vertebrate animal on Earth?"
+      },
+      "o": [
+        {
+          "hi": "गोलायथ मेंढक",
+          "en": "Goliath Frog"
+        },
+        {
+          "hi": "गोल्डन पॉइजन डार्ट फ्रॉग (Phyllobates terribilis)",
+          "en": "Golden Poison Dart Frog (Phyllobates terribilis)"
+        },
+        {
+          "hi": "टोएड (Bufo)",
+          "en": "Toad (Bufo)"
+        },
+        {
+          "hi": "राणा टिग्रीना",
+          "en": "Rana tigrina"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे तेज उड़ने वाला पक्षी (Fastest Flying Bird / Animal - गोता लगाते समय >320 किमी/घंटा) कौन-सा है?",
+        "en": "Which raptor bird is the fastest living creature on Earth, diving at speeds exceeding 320 km/h?"
+      },
+      "o": [
+        {
+          "hi": "गोल्डन ईगल (Golden Eagle)",
+          "en": "Golden Eagle"
+        },
+        {
+          "hi": "स्वीफ्ट (Spine-tailed Swift)",
+          "en": "Spine-tailed Swift"
+        },
+        {
+          "hi": "पेरेग्रीन फाल्कन / शाहीन बाज़ (Peregrine Falcon)",
+          "en": "Peregrine Falcon (Falco peregrinus)"
+        },
+        {
+          "hi": "चील (Kite)",
+          "en": "Kite"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे ऊंचा उड़ने वाला प्रवासी पक्षी कौन-सा है जो हिमालय को पार करता है?",
+        "en": "Which migratory waterbird flies at extreme altitudes (>8,000 meters) over the peaks of Mount Everest?"
+      },
+      "o": [
+        {
+          "hi": "सारस क्रेन (Sarus Crane)",
+          "en": "Sarus Crane"
+        },
+        {
+          "hi": "साइबेरियन क्रेन",
+          "en": "Siberian Crane"
+        },
+        {
+          "hi": "पेलिकन (Pelican)",
+          "en": "Pelican"
+        },
+        {
+          "hi": "बार-हेडेड गूज / पट्टी-सिर राजहंस (Bar-headed Goose)",
+          "en": "Bar-headed Goose (Anser indicus)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संसार की सबसे लंबी जीवित छिपकली (Largest Living Lizard - लंबाई 3 मीटर तक) कौन-सी है?",
+        "en": "Which is the largest and heaviest living monitor lizard in the world (Indonesia)?"
+      },
+      "o": [
+        {
+          "hi": "कोमोडो ड्रैगन (Komodo Dragon / Varanus komodoensis)",
+          "en": "Komodo Dragon (Varanus komodoensis)"
+        },
+        {
+          "hi": "भारतीय मॉनिटर गोह",
+          "en": "Bengal Monitor"
+        },
+        {
+          "hi": "इगुआना (Iguana)",
+          "en": "Iguana"
+        },
+        {
+          "hi": "गिला मॉन्स्टर (Gila Monster)",
+          "en": "Gila Monster"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे लंबा विषैला सांप (Longest Venomous Snake - लंबाई 5.5 मीटर तक) कौन-सा है?",
+        "en": "Which is the longest venomous snake species in the world?"
+      },
+      "o": [
+        {
+          "hi": "ब्लैक मांबा (Black Mamba)",
+          "en": "Black Mamba"
+        },
+        {
+          "hi": "किंग कोबरा (King Cobra / Ophiophagus hannah)",
+          "en": "King Cobra (Ophiophagus hannah)"
+        },
+        {
+          "hi": "रसेल वाइपर (Russell's Viper)",
+          "en": "Russell's Viper"
+        },
+        {
+          "hi": "इनलैंड ताइपन (Inland Taipan - सबसे विषैला)",
+          "en": "Inland Taipan"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे अधिक विषैला सांप (Most Toxic Venomous Snake on Land) कौन-सा है?",
+        "en": "Which Australian elapid snake possesses the most lethal venom per drop of any land snake?"
+      },
+      "o": [
+        {
+          "hi": "किंग कोबरा (King Cobra)",
+          "en": "King Cobra"
+        },
+        {
+          "hi": "ब्लैक मांबा (Black Mamba)",
+          "en": "Black Mamba"
+        },
+        {
+          "hi": "इनलैंड ताइपन (Inland Taipan / Oxyuranus microlepidotus)",
+          "en": "Inland Taipan (Fierce Snake)"
+        },
+        {
+          "hi": "भारतीय करैत (Bungarus)",
+          "en": "Common Krait"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे भारी और सबसे विशालकाय सांप कौन-सा है?",
+        "en": "Which is the heaviest, thickest, and most massive snake species in the world?"
+      },
+      "o": [
+        {
+          "hi": "जालीदार अजगर (Reticulated Python - सबसे लंबा)",
+          "en": "Reticulated Python (Longest)"
+        },
+        {
+          "hi": "भारतीय अजगर (Indian Rock Python)",
+          "en": "Indian Rock Python"
+        },
+        {
+          "hi": "बोआ कॉनस्ट्रिक्टर",
+          "en": "Boa Constrictor"
+        },
+        {
+          "hi": "ग्रीन एनाकोंडा (Green Anaconda - दक्षिण अमेरिका)",
+          "en": "Green Anaconda (Eunectes murinus)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अपने भार के 50 गुना अधिक भार उठाने वाली सबसे शक्तिशाली कीट कौन-सी है?",
+        "en": "Relative to body mass, which social insect can carry objects up to 50 times its own body weight?"
+      },
+      "o": [
+        {
+          "hi": "चींटी (Ant)",
+          "en": "Ant"
+        },
+        {
+          "hi": "दीमक (Termite)",
+          "en": "Termite"
+        },
+        {
+          "hi": "मधुमक्खी (Honeybee)",
+          "en": "Honeybee"
+        },
+        {
+          "hi": "भृंग / गोबरैला (Dung Beetle)",
+          "en": "Dung Beetle"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा कीट (Heavy-bodied Insect) कौन-सा माना जाता है?",
+        "en": "Which is one of the heaviest and largest insects in the world?"
+      },
+      "o": [
+        {
+          "hi": "एटलस मोथ (Atlas Moth - सबसे बड़ा पंख)",
+          "en": "Atlas Moth"
+        },
+        {
+          "hi": "गोलियाथ भृंग (Goliath Beetle / जाइंट वेटा)",
+          "en": "Goliath Beetle / Giant Weta"
+        },
+        {
+          "hi": "तिलचट्टा (Cockroach)",
+          "en": "Cockroach"
+        },
+        {
+          "hi": "व्याध पतंग (Dragonfly)",
+          "en": "Dragonfly"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बिना सिर के भी कई दिनों तक जीवित रहने वाला कीट कौन-सा है?",
+        "en": "Which insect can survive for over a week even after its head is completely severed?"
+      },
+      "o": [
+        {
+          "hi": "चींटी (Ant)",
+          "en": "Ant"
+        },
+        {
+          "hi": "मक्खी (Housefly)",
+          "en": "Housefly"
+        },
+        {
+          "hi": "तिलचट्टा / कॉकरोच (Cockroach - खुला श्वसन व खंडीय तंत्रिका तंत्र)",
+          "en": "Cockroach (Periplaneta americana)"
+        },
+        {
+          "hi": "मच्छर (Mosquito)",
+          "en": "Mosquito"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वह कौन-सा पक्षी है जो अपने जीवन में कभी जमीन पर पैर नहीं रखता और पेड़ों पर रहता है?",
+        "en": "Which green pigeon found in Maharashtra and UP rarely touches the ground?"
+      },
+      "o": [
+        {
+          "hi": "कोयल (Koel)",
+          "en": "Koel"
+        },
+        {
+          "hi": "कठफोड़वा (Woodpecker)",
+          "en": "Woodpecker"
+        },
+        {
+          "hi": "सारस (Crane)",
+          "en": "Crane"
+        },
+        {
+          "hi": "हरियल पक्षी (Yellow-footed Green Pigeon / Harial)",
+          "en": "Yellow-footed Green Pigeon (Harial)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे बड़ा फूल 'रेफ्लेशिया' किस प्रकार का परजीवी पौधा है?",
+        "en": "The world's largest flower Rafflesia arnoldii is biologically categorized as a:"
+      },
+      "o": [
+        {
+          "hi": "पूर्ण मूल परजीवी (Total Root Parasite - सड़ते मांस जैसी गंध)",
+          "en": "Total Root Parasite (Rotting meat odor)"
+        },
+        {
+          "hi": "पूर्ण स्तंभ परजीवी (अमरबेल)",
+          "en": "Total Stem Parasite"
+        },
+        {
+          "hi": "कीटभक्षी पादप",
+          "en": "Insectivorous Plant"
+        },
+        {
+          "hi": "सहजीवी पादप",
+          "en": "Symbiotic Plant"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसार की सबसे धीमी गति से चलने वाला स्तनधारी प्राणी (Slowest Mammal) कौन-सा है?",
+        "en": "Which arboreal Neotropical mammal is recognized as the slowest moving mammal on Earth?"
+      },
+      "o": [
+        {
+          "hi": "कछुआ (Tortoise)",
+          "en": "Tortoise"
+        },
+        {
+          "hi": "थ्री-टोएड स्लॉथ (Three-toed Sloth - गति ~0.24 किमी/घंटा)",
+          "en": "Three-toed Sloth"
+        },
+        {
+          "hi": "कोआला (Koala)",
+          "en": "Koala"
+        },
+        {
+          "hi": "स्नेल / घोंघा (Snail)",
+          "en": "Snail"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समुद्र में रात के समय जैविक प्रकाश (Bioluminescence) उत्पन्न कर चमकने वाले सूक्ष्म जीव कौन-से हैं?",
+        "en": "Which marine dinoflagellate protozoans cause the sparkling blue night glow in ocean waves?"
+      },
+      "o": [
+        {
+          "hi": "यूग्लीना (Euglena)",
+          "en": "Euglena"
+        },
+        {
+          "hi": "पैरामीशियम",
+          "en": "Paramecium"
+        },
+        {
+          "hi": "नॉक्टिलुका / नोक्टिल्यूका (Noctiluca scintillans / 'सी स्पार्कल')",
+          "en": "Noctiluca scintillans ('Sea Sparkle')"
+        },
+        {
+          "hi": "अमीबा",
+          "en": "Amoeba"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जुगनू (Firefly) रात में किस एंजाइम की सहायता से बिना ताप उत्पन्न किए ठंडी रोशनी पैदा करता है?",
+        "en": "Fireflies produce cool chemical bioluminescent light through oxidation catalyzed by which enzyme?"
+      },
+      "o": [
+        {
+          "hi": "पेप्सिन एंजाइम",
+          "en": "Pepsin Enzyme"
+        },
+        {
+          "hi": "एमाइलेज एंजाइम",
+          "en": "Amylase Enzyme"
+        },
+        {
+          "hi": "कैटालेज एंजाइम",
+          "en": "Catalase Enzyme"
+        },
+        {
+          "hi": "ल्यूसिफेरेज एंजाइम (Luciferase Enzyme - ल्यूसिफेरिन वर्णक)",
+          "en": "Luciferase Enzyme (Luciferin substrate)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वह कौन-सा जीव है जिसके 3 हृदय, 9 मस्तिष्क और नीला खून होता है?",
+        "en": "Which cephalopod animal is anatomically famous for having 3 hearts, 9 brains, and blue blood?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्टोपस (Octopus)",
+          "en": "Octopus"
+        },
+        {
+          "hi": "कटलफिश (Cuttlefish)",
+          "en": "Cuttlefish"
+        },
+        {
+          "hi": "जेलीफिश (Jellyfish)",
+          "en": "Jellyfish"
+        },
+        {
+          "hi": "स्टारफिश (Starfish)",
+          "en": "Starfish"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे कठोर और अविनाशी सूक्ष्मजीव 'टार्डिग्रेड' (Tardigrade) को किस नाम से जाना जाता है?",
+        "en": "Which microscopic 8-legged extremophile animal surviving outer space vacuum and radiation is called:"
+      },
+      "o": [
+        {
+          "hi": "सी-लाउस (Sea Louse)",
+          "en": "Sea Louse"
+        },
+        {
+          "hi": "जल रीछ / वाटर बेयर (Water Bear / Tardigrade)",
+          "en": "Water Bear / Moss Piglet (Tardigrade)"
+        },
+        {
+          "hi": "रोटीफर (Rotifer)",
+          "en": "Rotifer"
+        },
+        {
+          "hi": "सैंड फ्लाई (Sandfly)",
+          "en": "Sandfly"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

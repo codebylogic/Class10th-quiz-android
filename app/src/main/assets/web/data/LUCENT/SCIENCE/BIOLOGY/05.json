@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - जीव विज्ञान (Biology)",
+  "subtitle": "वनस्पति विज्ञान",
+  "description": "वनस्पति विज्ञान पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "पादप जगत का उभयचर (Amphibians of the Plant Kingdom) किसे कहा जाता है?",
+        "en": "Which group of plants is known as the 'Amphibians of the Plant Kingdom'?"
+      },
+      "o": [
+        {
+          "hi": "ब्रायोफाइटा (Bryophyta - निषेचन हेतु जल आवश्यक)",
+          "en": "Bryophyta (Water required for fertilization)"
+        },
+        {
+          "hi": "थैलोफाइटा (Thallophyta)",
+          "en": "Thallophyta"
+        },
+        {
+          "hi": "टेरिडोफाइटा (Pteridophyta)",
+          "en": "Pteridophyta"
+        },
+        {
+          "hi": "जिम्नोस्पर्म (Gymnosperms)",
+          "en": "Gymnosperms"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संवहन ऊतक (जाइलम और फ्लोएम) युक्त प्रथम स्थलीय पादप कौन-से हैं?",
+        "en": "Which were the first terrestrial plants to possess vascular tissues (Xylem & Phloem)?"
+      },
+      "o": [
+        {
+          "hi": "ब्रायोफाइटा (Bryophyta)",
+          "en": "Bryophyta"
+        },
+        {
+          "hi": "टेरिडोफाइटा (Pteridophyta / फर्न)",
+          "en": "Pteridophyta (Ferns)"
+        },
+        {
+          "hi": "शैवाल (Algae)",
+          "en": "Algae"
+        },
+        {
+          "hi": "कवक (Fungi)",
+          "en": "Fungi"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "शैवालों (Algae) के अध्ययन को विज्ञान की किस शाखा के अंतर्गत रखा जाता है?",
+        "en": "The scientific study of algae is known as:"
+      },
+      "o": [
+        {
+          "hi": "माइकोलॉजी / कवक विज्ञान (Mycology)",
+          "en": "Mycology"
+        },
+        {
+          "hi": "ब्रायोलॉजी (Bryology)",
+          "en": "Bryology"
+        },
+        {
+          "hi": "फाइकोलॉजी / शैवाल विज्ञान (Phycology)",
+          "en": "Phycology / Algology"
+        },
+        {
+          "hi": "डेंड्रोलॉजी (Dendrology)",
+          "en": "Dendrology"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कवकों (Fungi) के अध्ययन को विज्ञान की किस शाखा के अंतर्गत रखा जाता है?",
+        "en": "The branch of botany that deals with the study of fungi is:"
+      },
+      "o": [
+        {
+          "hi": "फाइकोलॉजी (Phycology)",
+          "en": "Phycology"
+        },
+        {
+          "hi": "पोमोलॉजी (Pomology)",
+          "en": "Pomology"
+        },
+        {
+          "hi": "एंथोलॉजी (Anthology)",
+          "en": "Anthology"
+        },
+        {
+          "hi": "माइकोलॉजी (Mycology)",
+          "en": "Mycology"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व का पहला एंटीबायोटिक 'पेनिसिलिन' (Penicillin) 1928 में फ्लेमिंग ने किस कवक से खोजा?",
+        "en": "From which fungus did Alexander Fleming discover the first antibiotic Penicillin in 1928?"
+      },
+      "o": [
+        {
+          "hi": "पेनिसिलियम नोटेटम (Penicillium notatum)",
+          "en": "Penicillium notatum"
+        },
+        {
+          "hi": "एस्परगिलस नाइजर",
+          "en": "Aspergillus niger"
+        },
+        {
+          "hi": "राइजोपस स्टोलोनिफर",
+          "en": "Rhizopus stolonifer"
+        },
+        {
+          "hi": "सैकरोमाइसीज सेरेविसी",
+          "en": "Saccharomyces cerevisiae"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ब्रेड तथा बीयर बनाने में किस एककोशिकीय कवक (खमीर) का उपयोग होता है?",
+        "en": "Which unicellular fungus (Yeast) is universally used in bread baking and beer brewing?"
+      },
+      "o": [
+        {
+          "hi": "म्यूकर (Mucor)",
+          "en": "Mucor"
+        },
+        {
+          "hi": "यीस्ट / सैकरोमाइसीज सेरेविसी (Saccharomyces cerevisiae)",
+          "en": "Yeast (Saccharomyces cerevisiae)"
+        },
+        {
+          "hi": "एगारिकस (Agaricus)",
+          "en": "Agaricus"
+        },
+        {
+          "hi": "क्लैविसेप्स (Claviceps)",
+          "en": "Claviceps"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लाइकेन (Lichen) किन दो जीवों के बीच का सहजीवी (Symbiotic) संबंध है?",
+        "en": "Lichens represent a mutualistic symbiotic association between which two organisms?"
+      },
+      "o": [
+        {
+          "hi": "जीवाणु और कवक",
+          "en": "Bacteria and Fungi"
+        },
+        {
+          "hi": "शैवाल और ब्रायोफाइट",
+          "en": "Algae and Bryophytes"
+        },
+        {
+          "hi": "शैवाल और कवक (Algae and Fungi)",
+          "en": "Algae and Fungi"
+        },
+        {
+          "hi": "कवक और पादप जड़",
+          "en": "Fungi and Higher Plant Roots"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लाइकेन वायु प्रदूषण, विशेष रूप से किस गैस के प्रदूषण के सबसे संवेदनशील सूचक (Bioindicators) हैं?",
+        "en": "Lichens are sensitive bioindicators of air pollution, especially for which gas?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन डाइऑक्साइड (CO2)",
+          "en": "Carbon Dioxide (CO2)"
+        },
+        {
+          "hi": "मीथेन (CH4)",
+          "en": "Methane (CH4)"
+        },
+        {
+          "hi": "नाइट्रोजन डाइऑक्साइड (NO2)",
+          "en": "Nitrogen Dioxide (NO2)"
+        },
+        {
+          "hi": "सल्फर डाइऑक्साइड (SO2)",
+          "en": "Sulfur Dioxide (SO2)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रयोगशाला में अम्ल-क्षार परीक्षण हेतु प्रयुक्त 'लिटमस पत्र' (Litmus Paper) किस लाइकेन से मिलता है?",
+        "en": "From which lichen is the natural pH indicator dye 'Litmus' extracted?"
+      },
+      "o": [
+        {
+          "hi": "रोसेला (Roccella tinctoria)",
+          "en": "Roccella tinctoria"
+        },
+        {
+          "hi": "पारमेलिया (Parmelia)",
+          "en": "Parmelia"
+        },
+        {
+          "hi": "उसनेया (Usnea)",
+          "en": "Usnea"
+        },
+        {
+          "hi": "क्लेडोनिया (Cladonia)",
+          "en": "Cladonia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अंतरिक्ष यात्रियों के केबिन में ऑक्सीजन आपूर्ति और प्रोटीन युक्त भोजन हेतु किस शैवाल का प्रयोग होता है?",
+        "en": "Which single-celled green alga is cultured in space missions for oxygen and high-protein food?"
+      },
+      "o": [
+        {
+          "hi": "स्पाइरोगाइरा (Spirogyra)",
+          "en": "Spirogyra"
+        },
+        {
+          "hi": "क्लोरेला (Chlorella / अंतरिक्ष शैवाल)",
+          "en": "Chlorella (Space Algae)"
+        },
+        {
+          "hi": "यूलोथ्रिक्स (Ulothrix)",
+          "en": "Ulothrix"
+        },
+        {
+          "hi": "सारगासम (Sargassum)",
+          "en": "Sargassum"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आयोडीन (Iodine) का निष्कर्षण मुख्य रूप से किस समुद्री भूरे शैवाल (Kelp) से किया जाता है?",
+        "en": "Iodine is commercially extracted from which marine brown alga (Kelp)?"
+      },
+      "o": [
+        {
+          "hi": "फ्यूकस (Fucus)",
+          "en": "Fucus"
+        },
+        {
+          "hi": "पॉलीसाइफोनिया",
+          "en": "Polysiphonia"
+        },
+        {
+          "hi": "लैमिनेरिया (Laminaria)",
+          "en": "Laminaria"
+        },
+        {
+          "hi": "ग्रेसिलेरिया",
+          "en": "Gracilaria"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रयोगशाला में संवर्धन माध्यम (Culture Medium) बनाने वाला 'एगार-एगार' (Agar-agar) किस लाल शैवाल से मिलता है?",
+        "en": "Agar-agar, used as a solidifying agent in culture media, is derived from which red algae?"
+      },
+      "o": [
+        {
+          "hi": "लैमिनेरिया तथा सारगासम",
+          "en": "Laminaria and Sargassum"
+        },
+        {
+          "hi": "स्पाइरोगाइरा तथा वॉल्वॉक्स",
+          "en": "Spirogyra and Volvox"
+        },
+        {
+          "hi": "नोस्टॉक तथा एनाबीना",
+          "en": "Nostoc and Anabaena"
+        },
+        {
+          "hi": "जेलिडियम तथा ग्रेसिलेरिया (Gelidium & Gracilaria)",
+          "en": "Gelidium and Gracilaria"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "धान के खेतों में जैव उर्वरक (Biofertilizer) के रूप में किस जलीय फर्न (Pteridophyte) का उपयोग होता है?",
+        "en": "Which aquatic fern is widely used as a biofertilizer in paddy fields with Anabaena?"
+      },
+      "o": [
+        {
+          "hi": "अजोला (Azolla)",
+          "en": "Azolla"
+        },
+        {
+          "hi": "मार्सीलिया (Marsilea)",
+          "en": "Marsilea"
+        },
+        {
+          "hi": "ड्रायोप्टेरिस (Dryopteris)",
+          "en": "Dryopteris"
+        },
+        {
+          "hi": "साल्विनिया (Salvinia)",
+          "en": "Salvinia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे ऊंचा वृक्ष (Tallest Gymnosperm Tree - लगभग 115 मीटर) कौन-सा है?",
+        "en": "Which is the tallest tree in the world (Coast Redwood / Giant Sequoia)?"
+      },
+      "o": [
+        {
+          "hi": "यूकेलिप्टस रेग्नांस",
+          "en": "Eucalyptus regnans"
+        },
+        {
+          "hi": "सिकोया सेम्परविरेन्स (Sequoia sempervirens)",
+          "en": "Sequoia sempervirens"
+        },
+        {
+          "hi": "पाइनस लोंगीफोलिया",
+          "en": "Pinus longifolia"
+        },
+        {
+          "hi": "साइकस रिवोल्युटा",
+          "en": "Cycas revoluta"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "साबूदाना (Sago) मुख्य रूप से किस नग्नबीजी (Gymnosperm) पौधे के तने के गूदे से निकाला जाता है?",
+        "en": "Commercial Sago (Sabudana) is primarily obtained from the pith of which gymnosperm plant?"
+      },
+      "o": [
+        {
+          "hi": "पाइनस (Pinus)",
+          "en": "Pinus"
+        },
+        {
+          "hi": "एफेड्रा (Ephedra)",
+          "en": "Ephedra"
+        },
+        {
+          "hi": "साइकस (Cycas revoluta - सागो पाम)",
+          "en": "Cycas (Cycas revoluta - Sago Palm)"
+        },
+        {
+          "hi": "जिंको (Ginkgo)",
+          "en": "Ginkgo"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चिलगोजा (Chilgoza - सूखा मेवा) किस जिम्नोस्पर्म के बीज से प्राप्त होता है?",
+        "en": "The edible dry fruit 'Chilgoza' is obtained from the seeds of which pine tree?"
+      },
+      "o": [
+        {
+          "hi": "साइकस सरसिनेलिस",
+          "en": "Cycas circinalis"
+        },
+        {
+          "hi": "पाइनस रॉक्सबर्गी",
+          "en": "Pinus roxburghii"
+        },
+        {
+          "hi": "सिड्रस देवदारा (देवदार)",
+          "en": "Cedrus deodara"
+        },
+        {
+          "hi": "पाइनस जेरार्डियाना (Pinus gerardiana)",
+          "en": "Pinus gerardiana"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तारपीन का तेल (Turpentine Oil) किस वृक्ष की राल (Resin) से प्राप्त किया जाता है?",
+        "en": "Turpentine oil is distilled from the resin of which tree?"
+      },
+      "o": [
+        {
+          "hi": "चीड़ का पेड़ (Pine Tree / Pinus)",
+          "en": "Pine Tree (Pinus)"
+        },
+        {
+          "hi": "देवदार (Cedar)",
+          "en": "Cedar (Cedrus)"
+        },
+        {
+          "hi": "साइकस (Cycas)",
+          "en": "Cycas"
+        },
+        {
+          "hi": "नीलगिरी (Eucalyptus)",
+          "en": "Eucalyptus"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दमा एवं श्वसन रोगों में प्रयुक्त औषधि 'एफेड्रिन' (Ephedrine) किस पौधे से प्राप्त होती है?",
+        "en": "The respiratory medication 'Ephedrine' is extracted from which gymnosperm plant?"
+      },
+      "o": [
+        {
+          "hi": "साइकस (Cycas)",
+          "en": "Cycas"
+        },
+        {
+          "hi": "एफेड्रा (Ephedra)",
+          "en": "Ephedra"
+        },
+        {
+          "hi": "सिंकोना (Cinchona)",
+          "en": "Cinchona"
+        },
+        {
+          "hi": "बेलाडोना (Belladonna)",
+          "en": "Belladonna"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा पुष्प (Largest Flower) कौन-सा है?",
+        "en": "Which is the largest single flower in the world (up to 1 meter in diameter)?"
+      },
+      "o": [
+        {
+          "hi": "वोल्फिया (Wolffia)",
+          "en": "Wolffia"
+        },
+        {
+          "hi": "कमल (Nelumbo nucifera)",
+          "en": "Lotus"
+        },
+        {
+          "hi": "रैफ्लेशिया अर्नोल्डी (Rafflesia arnoldii)",
+          "en": "Rafflesia arnoldii"
+        },
+        {
+          "hi": "सूर्यमुखी (Helianthus)",
+          "en": "Sunflower"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे छोटा आवृतबीजी पादप और पुष्प (Smallest Flowering Plant) कौन-सा है?",
+        "en": "Which is the smallest flowering plant and flower in the world?"
+      },
+      "o": [
+        {
+          "hi": "रैफ्लेशिया",
+          "en": "Rafflesia"
+        },
+        {
+          "hi": "लेम्ना (Lemna)",
+          "en": "Lemna"
+        },
+        {
+          "hi": "पिस्टिया (Pistia)",
+          "en": "Pistia"
+        },
+        {
+          "hi": "वोल्फिया माइक्रोस्कोपिका (Wolffia microscopica)",
+          "en": "Wolffia microscopica"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मूसला जड़ (Tap Root) के रूपांतरण में 'शंकुरूप' (Conical) जड़ का उदाहरण कौन-सा है?",
+        "en": "Which vegetable is a classic example of a conical modified tap root?"
+      },
+      "o": [
+        {
+          "hi": "गाजर (Carrot)",
+          "en": "Carrot"
+        },
+        {
+          "hi": "मूली (तर्कुरूप / Fusiform)",
+          "en": "Radish (Fusiform)"
+        },
+        {
+          "hi": "शलजम (कुंभीरूप / Napiform)",
+          "en": "Turnip (Napiform)"
+        },
+        {
+          "hi": "आलू (स्तंभ कंद / Stem Tuber)",
+          "en": "Potato (Stem Tuber)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मूली (Radish) मूसला जड़ के किस रूपांतरण का उदाहरण है?",
+        "en": "Radish is an example of which modified tap root form?"
+      },
+      "o": [
+        {
+          "hi": "शंकुरूप (Conical Root)",
+          "en": "Conical Root"
+        },
+        {
+          "hi": "तर्कुरूप (Fusiform Root)",
+          "en": "Fusiform Root"
+        },
+        {
+          "hi": "कुंभीरूप (Napiform Root)",
+          "en": "Napiform Root"
+        },
+        {
+          "hi": "गांठदार (Tuberous Root)",
+          "en": "Tuberous Root"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "शलजम (Turnip) और चुकंदर (Beetroot) किस प्रकार की रूपांतरित जड़ हैं?",
+        "en": "Turnip and Beetroot are examples of which modified root shape?"
+      },
+      "o": [
+        {
+          "hi": "तर्कुरूप (Fusiform)",
+          "en": "Fusiform"
+        },
+        {
+          "hi": "शंकुरूप (Conical)",
+          "en": "Conical"
+        },
+        {
+          "hi": "कुंभीरूप (Napiform Root)",
+          "en": "Napiform Root"
+        },
+        {
+          "hi": "ग्रंथिदार (Nodular)",
+          "en": "Nodular"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बरगद (Banyan Tree) की शाखाओं से नीचे लटकने वाली मजबूत जड़ें क्या कहलाती हैं?",
+        "en": "What are the pillar-like aerial hanging roots of the Banyan tree called?"
+      },
+      "o": [
+        {
+          "hi": "अवस्तंभ मूल (Stilt Roots)",
+          "en": "Stilt Roots"
+        },
+        {
+          "hi": "श्वसन मूल (Pneumatophores)",
+          "en": "Pneumatophores"
+        },
+        {
+          "hi": "आरोही मूल (Climbing Roots)",
+          "en": "Climbing Roots"
+        },
+        {
+          "hi": "स्तंभ मूल / सहारा जड़ें (Prop Roots)",
+          "en": "Prop Roots / Pillar Roots"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मक्का और गन्ने के तने के निचले हिस्से से निकलने वाली तिरछी जड़ें क्या कहलाती हैं?",
+        "en": "The supportive oblique roots arising from the lower stem nodes of maize and sugarcane are:"
+      },
+      "o": [
+        {
+          "hi": "अवस्तंभ मूल (Stilt Roots)",
+          "en": "Stilt Roots"
+        },
+        {
+          "hi": "स्तंभ मूल (Prop Roots)",
+          "en": "Prop Roots"
+        },
+        {
+          "hi": "श्वसन मूल (Pneumatophores)",
+          "en": "Pneumatophores"
+        },
+        {
+          "hi": "परजीवी मूल (Parasitic Roots)",
+          "en": "Parasitic Roots"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सुंदरी (राइजोफोरा / मैंग्रोव) जैसे दलदली पौधों में श्वसन हेतु ऊपर निकलने वाली जड़ें क्या कहलाती हैं?",
+        "en": "The specialized negative geotropic aerial respiratory roots in mangrove plants are called:"
+      },
+      "o": [
+        {
+          "hi": "जटा मूल",
+          "en": "Fibrous Roots"
+        },
+        {
+          "hi": "न्यूमेटोफोर / श्वसन मूल (Pneumatophores)",
+          "en": "Pneumatophores / Respiratory Roots"
+        },
+        {
+          "hi": "गुच्छ मूल",
+          "en": "Fasciculated Roots"
+        },
+        {
+          "hi": "कंद मूल",
+          "en": "Tuberous Roots"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आलू (Potato) पौधे का कौन-सा भाग है जिसे हम खाते हैं?",
+        "en": "Morphologically, the edible potato is a modified:"
+      },
+      "o": [
+        {
+          "hi": "रूपांतरित जड़ (Modified Root)",
+          "en": "Modified Root"
+        },
+        {
+          "hi": "भूमिगत फल (Underground Fruit)",
+          "en": "Underground Fruit"
+        },
+        {
+          "hi": "रूपांतरित भूमिगत तना / कंद (Stem Tuber)",
+          "en": "Underground Stem Tuber"
+        },
+        {
+          "hi": "रूपांतरित पत्ती (Modified Leaf)",
+          "en": "Modified Leaf"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अदरक (Ginger) और हल्दी (Turmeric) रूपांतरित तने के किस प्रकार के उदाहरण हैं?",
+        "en": "Ginger and Turmeric are examples of which modified underground stem?"
+      },
+      "o": [
+        {
+          "hi": "कंद (Tuber)",
+          "en": "Tuber"
+        },
+        {
+          "hi": "शलकंद (Bulb)",
+          "en": "Bulb"
+        },
+        {
+          "hi": "घनकंद (Corm)",
+          "en": "Corm"
+        },
+        {
+          "hi": "प्रकंद (Rhizome)",
+          "en": "Rhizome"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्याज (Onion) और लहसुन (Garlic) में खाने योग्य भाग क्या होता है?",
+        "en": "What is the edible part in Onion and Garlic?"
+      },
+      "o": [
+        {
+          "hi": "मांसल शल्क पत्र / शलकंद (Fleshy Scale Leaves / Bulb)",
+          "en": "Fleshy Scale Leaves / Bulb"
+        },
+        {
+          "hi": "प्रकंद (Rhizome)",
+          "en": "Rhizome"
+        },
+        {
+          "hi": "जड़ (Root)",
+          "en": "Root"
+        },
+        {
+          "hi": "पुष्पक्रम (Inflorescence)",
+          "en": "Inflorescence"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अरबी (Colocasia) और जिमीकंद (Zamikand) तने के किस रूपांतरण के उदाहरण हैं?",
+        "en": "Colocasia and Zamikand (Elephant Foot Yam) are examples of which underground stem?"
+      },
+      "o": [
+        {
+          "hi": "प्रकंद (Rhizome)",
+          "en": "Rhizome"
+        },
+        {
+          "hi": "घनकंद (Corm)",
+          "en": "Corm"
+        },
+        {
+          "hi": "कंद (Tuber)",
+          "en": "Tuber"
+        },
+        {
+          "hi": "शलकंद (Bulb)",
+          "en": "Bulb"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वह फल जिसका विकास केवल अंडाशय (Ovary) से होता है, क्या कहलाता है?",
+        "en": "A fruit that develops exclusively from the ovary of a flower is called a:"
+      },
+      "o": [
+        {
+          "hi": "असत्य फल या कूट फल (False Fruit)",
+          "en": "False Fruit"
+        },
+        {
+          "hi": "अनिषेकजनित फल (Parthenocarpic)",
+          "en": "Parthenocarpic Fruit"
+        },
+        {
+          "hi": "सत्य फल (True Fruit)",
+          "en": "True Fruit"
+        },
+        {
+          "hi": "समग्र फल (Composite Fruit)",
+          "en": "Composite Fruit"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सेब (Apple) और नाशपाती (Pear) असत्य फल (False Fruit) हैं क्योंकि इनका खाने योग्य भाग क्या है?",
+        "en": "Apple and Pear are false fruits (Pome) because their primary edible fleshy part is:"
+      },
+      "o": [
+        {
+          "hi": "मध्य फलभित्ति (Mesocarp)",
+          "en": "Mesocarp"
+        },
+        {
+          "hi": "अंतः फलभित्ति (Endocarp)",
+          "en": "Endocarp"
+        },
+        {
+          "hi": "बीजचोल (Aril)",
+          "en": "Aril"
+        },
+        {
+          "hi": "पुष्पासन (Fleshy Thalamus)",
+          "en": "Fleshy Thalamus"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आम (Mango) में खाने योग्य भाग कौन-सा होता है?",
+        "en": "Which morphological part is eaten in a Mango fruit (Drupe)?"
+      },
+      "o": [
+        {
+          "hi": "मध्य फलभित्ति (Mesocarp)",
+          "en": "Mesocarp"
+        },
+        {
+          "hi": "बाह्य फलभित्ति (Epicarp)",
+          "en": "Epicarp"
+        },
+        {
+          "hi": "अंतः फलभित्ति (Endocarp)",
+          "en": "Endocarp"
+        },
+        {
+          "hi": "भ्रूणपोष (Endosperm)",
+          "en": "Endosperm"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नारियल (Coconut) में खाने योग्य भाग कौन-सा होता है?",
+        "en": "What is the edible part of a Coconut (Drupe)?"
+      },
+      "o": [
+        {
+          "hi": "मध्य फलभित्ति (Mesocarp - रेशेदार)",
+          "en": "Mesocarp (Fibrous)"
+        },
+        {
+          "hi": "भ्रूणपोष (Endosperm - तरल व ठोस)",
+          "en": "Endosperm (Liquid and Solid)"
+        },
+        {
+          "hi": "बाह्य फलभित्ति (Epicarp)",
+          "en": "Epicarp"
+        },
+        {
+          "hi": "पुष्पासन (Thalamus)",
+          "en": "Thalamus"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लीची (Litchi) में खाने योग्य रसीला भाग क्या कहलाता है?",
+        "en": "What is the edible fleshy, juicy part of a Litchi fruit called?"
+      },
+      "o": [
+        {
+          "hi": "मध्य फलभित्ति",
+          "en": "Mesocarp"
+        },
+        {
+          "hi": "पुष्पासन",
+          "en": "Thalamus"
+        },
+        {
+          "hi": "एरिल या बीजचोल (Fleshy Aril)",
+          "en": "Fleshy Aril"
+        },
+        {
+          "hi": "पेरिकार्प",
+          "en": "Pericarp"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "काजू (Cashew nut) में खाने योग्य भाग क्या होता है?",
+        "en": "What is the edible portion of a Cashew nut?"
+      },
+      "o": [
+        {
+          "hi": "भ्रूणपोष (Endosperm)",
+          "en": "Endosperm"
+        },
+        {
+          "hi": "मध्य फलभित्ति",
+          "en": "Mesocarp"
+        },
+        {
+          "hi": "एरिल (Aril)",
+          "en": "Aril"
+        },
+        {
+          "hi": "पुष्पवृंत तथा बीजपत्र (Pedicel and Cotyledons)",
+          "en": "Pedicel and Cotyledons"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बिना निषेचन (Without Fertilization) के फल बनने की प्रक्रिया को क्या कहते हैं?",
+        "en": "The development of a fruit without prior fertilization of the ovary is called:"
+      },
+      "o": [
+        {
+          "hi": "अनिषेकफलन (Parthenocarpy - जैसे केला, अनानास)",
+          "en": "Parthenocarpy (e.g. Banana, Pineapple)"
+        },
+        {
+          "hi": "अनिषेकजनन (Parthenogenesis)",
+          "en": "Parthenogenesis"
+        },
+        {
+          "hi": "असंगजनन (Apomixis)",
+          "en": "Apomixis"
+        },
+        {
+          "hi": "बहुभ्रूणता (Polyembryony)",
+          "en": "Polyembryony"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रकाश संश्लेषण (Photosynthesis) के दौरान निकलने वाली ऑक्सीजन (O2) कहाँ से प्राप्त होती है?",
+        "en": "During photosynthesis, the oxygen (O2) released as a byproduct originates from:"
+      },
+      "o": [
+        {
+          "hi": "कार्बन डाइऑक्साइड (CO2) से",
+          "en": "From Carbon Dioxide (CO2)"
+        },
+        {
+          "hi": "जल के प्रकाशिक अपघटन से (Photolysis of Water / H2O)",
+          "en": "Photolysis of Water (H2O)"
+        },
+        {
+          "hi": "ग्लूकोज के टूटने से",
+          "en": "Breakdown of Glucose"
+        },
+        {
+          "hi": "पर्णहरित के विघटन से",
+          "en": "Degradation of Chlorophyll"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्लोरोफिल (पर्णहरित) के केंद्र में कौन-सा धातु परमाणु उपस्थित होता है?",
+        "en": "Which metal ion is coordinated at the center of the porphyrin ring of Chlorophyll?"
+      },
+      "o": [
+        {
+          "hi": "लोहा (Iron - Fe)",
+          "en": "Iron (Fe)"
+        },
+        {
+          "hi": "तांबा (Copper - Cu)",
+          "en": "Copper (Cu)"
+        },
+        {
+          "hi": "मैग्नीशियम (Magnesium - Mg)",
+          "en": "Magnesium (Mg)"
+        },
+        {
+          "hi": "जस्ता (Zinc - Zn)",
+          "en": "Zinc (Zn)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रकाश संश्लेषण की दर प्रकाश के किस रंग के स्पेक्ट्रम में अधिकतम होती है?",
+        "en": "The rate of photosynthesis is maximum in which color wavelength of visible light?"
+      },
+      "o": [
+        {
+          "hi": "नीला प्रकाश (Blue Light)",
+          "en": "Blue Light"
+        },
+        {
+          "hi": "हरा प्रकाश (Green Light - न्यूनतम)",
+          "en": "Green Light (Minimum)"
+        },
+        {
+          "hi": "पीला प्रकाश (Yellow Light)",
+          "en": "Yellow Light"
+        },
+        {
+          "hi": "लाल प्रकाश (Red Light)",
+          "en": "Red Light"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रकाश संश्लेषण की प्रकाशिक अभिक्रिया (Light Reaction / हिल अभिक्रिया) क्लोरोप्लास्ट के किस भाग में होती है?",
+        "en": "The light-dependent reaction of photosynthesis takes place in which chloroplast structure?"
+      },
+      "o": [
+        {
+          "hi": "ग्रेना (Grana / थाइलाकोइड्स)",
+          "en": "Grana (Thylakoids)"
+        },
+        {
+          "hi": "स्ट्रोमा (Stroma - डार्क रिएक्शन हेतु)",
+          "en": "Stroma (For Dark Reaction)"
+        },
+        {
+          "hi": "आंतरिक झिल्ली",
+          "en": "Inner Membrane"
+        },
+        {
+          "hi": "राइबोसोम",
+          "en": "Ribosomes"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रकाश संश्लेषण की अंधकार अभिक्रिया (Dark Reaction / केल्विन चक्र) कहाँ संपन्न होती है?",
+        "en": "The light-independent Dark Reaction (Calvin Cycle) takes place in which part of chloroplast?"
+      },
+      "o": [
+        {
+          "hi": "ग्रेना (Grana)",
+          "en": "Grana"
+        },
+        {
+          "hi": "स्ट्रोमा (Stroma)",
+          "en": "Stroma"
+        },
+        {
+          "hi": "क्रिस्टी (Cristae)",
+          "en": "Cristae"
+        },
+        {
+          "hi": "टोनोप्लास्ट",
+          "en": "Tonoplast"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पादपों में जल एवं खनिज लवणों का संवहन (Transport of Water & Minerals) किसके द्वारा होता है?",
+        "en": "The transport of water and dissolved minerals from roots to leaves in plants is conducted by:"
+      },
+      "o": [
+        {
+          "hi": "फ्लोएम ऊतक (Phloem Tissue)",
+          "en": "Phloem Tissue"
+        },
+        {
+          "hi": "कैम्बियम (Cambium)",
+          "en": "Cambium"
+        },
+        {
+          "hi": "जाइलम ऊतक (Xylem Tissue)",
+          "en": "Xylem Tissue"
+        },
+        {
+          "hi": "कॉर्टेक्स (Cortex)",
+          "en": "Cortex"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पत्तियों द्वारा निर्मित भोज्य पदार्थों को पौधे के अन्य भागों तक पहुँचाने का कार्य कौन करता है?",
+        "en": "The translocation of synthesized organic food (sugars) throughout the plant is carried out by:"
+      },
+      "o": [
+        {
+          "hi": "जाइलम ऊतक (Xylem Tissue)",
+          "en": "Xylem Tissue"
+        },
+        {
+          "hi": "मज्जा किरणें (Medullary Rays)",
+          "en": "Medullary Rays"
+        },
+        {
+          "hi": "एपिडर्मिस (Epidermis)",
+          "en": "Epidermis"
+        },
+        {
+          "hi": "फ्लोएम ऊतक (Phloem Tissue)",
+          "en": "Phloem Tissue"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पौधों में वाष्पोत्सर्जन (Transpiration) की दर को मापने वाला यंत्र कौन-सा है?",
+        "en": "Which instrument is used to measure the rate of transpiration in plants?"
+      },
+      "o": [
+        {
+          "hi": "पोटोमीटर (Potometer / गैनॉन्ग पोटोमीटर)",
+          "en": "Potometer (Ganong's Potometer)"
+        },
+        {
+          "hi": "ऑक्सैनोमीटर (वृद्धि हेतु)",
+          "en": "Auxanometer (For Growth)"
+        },
+        {
+          "hi": "मैनोमीटर (दाब हेतु)",
+          "en": "Manometer"
+        },
+        {
+          "hi": "पाइरोमीटर (ताप हेतु)",
+          "en": "Pyrometer"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पौधों की लंबाई और वृद्धि दर को मापने वाला ऐतिहासिक यंत्र 'क्रेस्कोग्राफ' किसने बनाया था?",
+        "en": "Who invented the 'Crescograph' to measure plant growth and responsiveness?"
+      },
+      "o": [
+        {
+          "hi": "बीरबल साहनी",
+          "en": "Birbal Sahni"
+        },
+        {
+          "hi": "सर जगदीश चंद्र बोस (J.C. Bose)",
+          "en": "Sir Jagadish Chandra Bose"
+        },
+        {
+          "hi": "सी.वी. रमन",
+          "en": "C.V. Raman"
+        },
+        {
+          "hi": "सत्येंद्र नाथ बोस",
+          "en": "Satyendra Nath Bose"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फलों को प्राकृतिक रूप से पकाने वाला एकमात्र गैसीय पादप हार्मोन कौन-सा है?",
+        "en": "Which is the only naturally occurring gaseous plant hormone responsible for fruit ripening?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सिन (Auxin)",
+          "en": "Auxin"
+        },
+        {
+          "hi": "जिबरेलिन (Gibberellin)",
+          "en": "Gibberellin"
+        },
+        {
+          "hi": "एथिलीन (Ethylene / C2H4)",
+          "en": "Ethylene (C2H4)"
+        },
+        {
+          "hi": "साइटोकाइनिन (Cytokinin)",
+          "en": "Cytokinin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पौधों में कोशिका विभाजन (Cell Division) को प्रेरित करने वाला प्रमुख पादप हार्मोन कौन-सा है?",
+        "en": "Which plant hormone primarily promotes active cell division and retards senescence?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सिन (Auxin)",
+          "en": "Auxin"
+        },
+        {
+          "hi": "एब्सिसिक अम्ल (ABA)",
+          "en": "Abscisic Acid (ABA)"
+        },
+        {
+          "hi": "जिबरेलिन (Gibberellin)",
+          "en": "Gibberellin"
+        },
+        {
+          "hi": "साइटोकाइनिन (Cytokinin)",
+          "en": "Cytokinin"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पौधों में शीर्ष प्रभाविता (Apical Dominance) और प्रकाशानुवर्तन (Phototropism) हेतु कौन-सा हार्मोन जिम्मेदार है?",
+        "en": "Which plant hormone controls apical dominance, cell elongation, and phototropic bending?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सिन (Auxin / IAA - इंडोल एसिटिक एसिड)",
+          "en": "Auxin (IAA - Indole-3-Acetic Acid)"
+        },
+        {
+          "hi": "जिबरेलिन (Gibberellin)",
+          "en": "Gibberellin"
+        },
+        {
+          "hi": "एथिलीन (Ethylene)",
+          "en": "Ethylene"
+        },
+        {
+          "hi": "साइटोकाइनिन (Cytokinin)",
+          "en": "Cytokinin"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पौधों में पत्तों के झड़ने, बीजों की प्रसुप्ति और रंध्रों को बंद करने वाला 'तनाव हार्मोन' (Stress Hormone) कौन-सा है?",
+        "en": "Which plant growth inhibitor is known as the 'Stress Hormone', inducing stomatal closure?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सिन (Auxin)",
+          "en": "Auxin"
+        },
+        {
+          "hi": "एब्सिसिक अम्ल (Abscisic Acid / ABA)",
+          "en": "Abscisic Acid (ABA)"
+        },
+        {
+          "hi": "जिबरेलिन (Gibberellin)",
+          "en": "Gibberellin"
+        },
+        {
+          "hi": "फ्लोरिजन (Florigen)",
+          "en": "Florigen"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

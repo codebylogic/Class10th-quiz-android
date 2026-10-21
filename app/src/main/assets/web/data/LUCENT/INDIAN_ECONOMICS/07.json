@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भारतीय अर्थव्यवस्था (Indian Economy)",
+  "subtitle": "व्यापार",
+  "description": "व्यापार पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "किसी देश के दृश्य आयातों (Imports) और दृश्य निर्यातों (Exports) के अंतर को क्या कहा जाता है?",
+        "en": "What is the difference between visible imports and visible exports of a country called?"
+      },
+      "o": [
+        {
+          "hi": "व्यापार संतुलन (Balance of Trade)",
+          "en": "Balance of Trade (BOT)"
+        },
+        {
+          "hi": "भुगतान संतुलन (Balance of Payments)",
+          "en": "Balance of Payments (BOP)"
+        },
+        {
+          "hi": "चालू खाता अधिशेष (Current Surplus)",
+          "en": "Current Account Surplus"
+        },
+        {
+          "hi": "पूंजी खाता अंतर (Capital Gap)",
+          "en": "Capital Account Gap"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यदि किसी देश का कुल निर्यात मूल्य उसके कुल आयात मूल्य से अधिक हो, तो व्यापार संतुलन कैसा होगा?",
+        "en": "If a country's total export value exceeds its total import value, what is the balance of trade called?"
+      },
+      "o": [
+        {
+          "hi": "प्रतिकूल या घाटे का व्यापार संतुलन",
+          "en": "Unfavourable or Deficit BOT"
+        },
+        {
+          "hi": "अनुकूल या अधिशेष व्यापार संतुलन (Favourable/Surplus)",
+          "en": "Favourable or Surplus BOT"
+        },
+        {
+          "hi": "संतुलित व्यापार संतुलन (Balanced BOT)",
+          "en": "Balanced BOT"
+        },
+        {
+          "hi": "शून्य व्यापार संतुलन (Zero BOT)",
+          "en": "Zero BOT"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किसी देश के एक वित्तीय वर्ष में शेष विश्व के साथ हुए समस्त आर्थिक लेन-देन का क्रमबद्ध लेखा क्या कहलाता है?",
+        "en": "What is the systematic record of all economic transactions between a country and the rest of the world during a year called?"
+      },
+      "o": [
+        {
+          "hi": "व्यापार संतुलन (Balance of Trade)",
+          "en": "Balance of Trade (BOT)"
+        },
+        {
+          "hi": "राजकोषीय लेखा (Fiscal Account)",
+          "en": "Fiscal Account"
+        },
+        {
+          "hi": "भुगतान संतुलन (Balance of Payments - BOP)",
+          "en": "Balance of Payments (BOP)"
+        },
+        {
+          "hi": "राष्ट्रीय आय लेखा (National Accounts)",
+          "en": "National Accounts"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भुगतान संतुलन (BOP) के अंतर्गत चालू खाते (Current Account) में कौन-सी मदें शामिल होती हैं?",
+        "en": "Under Balance of Payments (BOP), which items are included in the Current Account?"
+      },
+      "o": [
+        {
+          "hi": "प्रत्यक्ष विदेशी निवेश एवं पोर्टफोलियो निवेश",
+          "en": "FDI and Portfolio Investment"
+        },
+        {
+          "hi": "विदेशी ऋण और वाणिज्यिक उधारी (ECB)",
+          "en": "Foreign Loans and Commercial Borrowings"
+        },
+        {
+          "hi": "आरबीआई का स्वर्ण एवं मुद्रा भंडार लेन-देन",
+          "en": "RBI Gold and Forex Reserve Operations"
+        },
+        {
+          "hi": "दृश्य वस्तुएं, अदृश्य सेवाएं एवं हस्तांतरण भुगतान",
+          "en": "Visible Goods, Invisible Services & Transfers"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विदेशी प्रत्यक्ष निवेश (FDI) और विदेशी संस्थागत निवेश (FII) भुगतान संतुलन के किस खाते में आते हैं?",
+        "en": "Foreign Direct Investment (FDI) and Foreign Institutional Investment (FII) fall under which BOP account?"
+      },
+      "o": [
+        {
+          "hi": "पूंजी खाता (Capital Account)",
+          "en": "Capital Account"
+        },
+        {
+          "hi": "चालू खाता (Current Account)",
+          "en": "Current Account"
+        },
+        {
+          "hi": "व्यापार खाता (Trade Account)",
+          "en": "Trade Account"
+        },
+        {
+          "hi": "राजस्व खाता (Revenue Account)",
+          "en": "Revenue Account"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जब किसी देश का चालू खाता व्यय उसकी चालू खाता प्राप्तियों से अधिक होता है, तो उसे क्या कहा जाता है?",
+        "en": "When a country's current account expenditures exceed its current account receipts, what is it called?"
+      },
+      "o": [
+        {
+          "hi": "राजकोषीय घाटा (Fiscal Deficit)",
+          "en": "Fiscal Deficit"
+        },
+        {
+          "hi": "चालू खाता घाटा (Current Account Deficit - CAD)",
+          "en": "Current Account Deficit (CAD)"
+        },
+        {
+          "hi": "प्राथमिक घाटा (Primary Deficit)",
+          "en": "Primary Deficit"
+        },
+        {
+          "hi": "राजस्व घाटा (Revenue Deficit)",
+          "en": "Revenue Deficit"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत के विदेशी मुद्रा भंडार (Forex Reserves) का संरक्षक कौन होता है?",
+        "en": "Who is the custodian of India's Foreign Exchange Reserves?"
+      },
+      "o": [
+        {
+          "hi": "वित्त मंत्रालय (Ministry of Finance)",
+          "en": "Ministry of Finance"
+        },
+        {
+          "hi": "स्टेट बैंक ऑफ इंडिया (SBI)",
+          "en": "State Bank of India (SBI)"
+        },
+        {
+          "hi": "भारतीय रिजर्व बैंक (RBI)",
+          "en": "Reserve Bank of India (RBI)"
+        },
+        {
+          "hi": "वाणिज्य एवं उद्योग मंत्रालय",
+          "en": "Ministry of Commerce and Industry"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत के विदेशी मुद्रा भंडार में निम्नलिखित में से कौन-सा घटक शामिल नहीं है?",
+        "en": "Which of the following components is NOT included in India's Foreign Exchange Reserves?"
+      },
+      "o": [
+        {
+          "hi": "विदेशी मुद्रा परिसंपत्तियां (FCA)",
+          "en": "Foreign Currency Assets (FCA)"
+        },
+        {
+          "hi": "स्वर्ण भंडार (Gold Reserves)",
+          "en": "Gold Reserves"
+        },
+        {
+          "hi": "विशेष आहरण अधिकार (SDRs) एवं RTP",
+          "en": "Special Drawing Rights (SDRs) and RTP"
+        },
+        {
+          "hi": "निजी वाणिज्यिक बैंकों की विदेशी पूंजी",
+          "en": "Foreign Equity of Private Commercial Banks"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विशेष आहरण अधिकार (SDR) किस अंतरराष्ट्रीय वित्तीय संस्था की खाता इकाई (Unit of Account) है?",
+        "en": "Special Drawing Rights (SDR) is the unit of account of which international financial institution?"
+      },
+      "o": [
+        {
+          "hi": "अंतरराष्ट्रीय मुद्रा कोष (IMF)",
+          "en": "International Monetary Fund (IMF)"
+        },
+        {
+          "hi": "विश्व बैंक (World Bank)",
+          "en": "World Bank"
+        },
+        {
+          "hi": "विश्व व्यापार संगठन (WTO)",
+          "en": "World Trade Organization (WTO)"
+        },
+        {
+          "hi": "एशियाई विकास बैंक (ADB)",
+          "en": "Asian Development Bank (ADB)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एसडीआर (SDR) को अन्य किस लोकप्रिय नाम से जाना जाता है?",
+        "en": "By what other popular name is the SDR commonly referred to?"
+      },
+      "o": [
+        {
+          "hi": "हार्ड करेंसी (Hard Currency)",
+          "en": "Hard Currency"
+        },
+        {
+          "hi": "कागजी सोना (Paper Gold)",
+          "en": "Paper Gold"
+        },
+        {
+          "hi": "सॉफ्ट करेंसी (Soft Currency)",
+          "en": "Soft Currency"
+        },
+        {
+          "hi": "डिजिटल गोल्ड (Digital Gold)",
+          "en": "Digital Gold"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अंतरराष्ट्रीय मुद्रा कोष (IMF) की स्थापना किस ऐतिहासिक सम्मेलन के फलस्वरूप 1944 में हुई थी?",
+        "en": "The International Monetary Fund (IMF) was established in 1944 as a result of which historic conference?"
+      },
+      "o": [
+        {
+          "hi": "जिनेवा सम्मेलन (Geneva Conference)",
+          "en": "Geneva Conference"
+        },
+        {
+          "hi": "सैन फ्रांसिस्को सम्मेलन",
+          "en": "San Francisco Conference"
+        },
+        {
+          "hi": "ब्रेटन वुड्स सम्मेलन (Bretton Woods)",
+          "en": "Bretton Woods Conference"
+        },
+        {
+          "hi": "हेग शांति सम्मेलन (Hague Conference)",
+          "en": "Hague Peace Conference"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अंतरराष्ट्रीय मुद्रा कोष (IMF) और विश्व बैंक (World Bank) दोनों का मुख्यालय कहाँ स्थित है?",
+        "en": "Where are the headquarters of both the IMF and the World Bank located?"
+      },
+      "o": [
+        {
+          "hi": "न्यूयॉर्क (USA)",
+          "en": "New York (USA)"
+        },
+        {
+          "hi": "जिनेवा (स्विट्जरलैंड)",
+          "en": "Geneva (Switzerland)"
+        },
+        {
+          "hi": "पेरिस (फ्रांस)",
+          "en": "Paris (France)"
+        },
+        {
+          "hi": "वाशिंगटन डी.सी. (USA)",
+          "en": "Washington D.C. (USA)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व बैंक (World Bank) की किस संस्था को 'सुलभ ऋण खिड़की' (Soft Loan Window) कहा जाता है?",
+        "en": "Which affiliate of the World Bank Group is called the 'Soft Loan Window'?"
+      },
+      "o": [
+        {
+          "hi": "अंतरराष्ट्रीय विकास संघ (IDA)",
+          "en": "International Development Association (IDA)"
+        },
+        {
+          "hi": "अंतरराष्ट्रीय वित्त निगम (IFC)",
+          "en": "International Finance Corporation (IFC)"
+        },
+        {
+          "hi": "पुनर्निर्माण और विकास बैंक (IBRD)",
+          "en": "IBRD"
+        },
+        {
+          "hi": "बहुपक्षीय निवेश गारंटी एजेंसी (MIGA)",
+          "en": "MIGA"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व व्यापार संगठन (WTO) की स्थापना किस तिथि को की गई थी?",
+        "en": "On which date was the World Trade Organization (WTO) established?"
+      },
+      "o": [
+        {
+          "hi": "1 जनवरी 1991",
+          "en": "1 January 1991"
+        },
+        {
+          "hi": "1 जनवरी 1995",
+          "en": "1 January 1995"
+        },
+        {
+          "hi": "15 अगस्त 1995",
+          "en": "15 August 1995"
+        },
+        {
+          "hi": "1 अप्रैल 1994",
+          "en": "1 April 1994"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व व्यापार संगठन (WTO) ने किस पूर्ववर्ती अंतरराष्ट्रीय समझौते का स्थान लिया?",
+        "en": "The World Trade Organization (WTO) replaced which predecessor international agreement?"
+      },
+      "o": [
+        {
+          "hi": "अंकटाड (UNCTAD)",
+          "en": "UNCTAD"
+        },
+        {
+          "hi": "ओईसीडी (OECD)",
+          "en": "OECD"
+        },
+        {
+          "hi": "गैट (GATT - 1947)",
+          "en": "GATT (General Agreement on Tariffs & Trade)"
+        },
+        {
+          "hi": "नाफ्टा (NAFTA)",
+          "en": "NAFTA"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व व्यापार संगठन (WTO) की स्थापना किस समझौते (Agreement) के तहत हुई थी?",
+        "en": "Under which agreement was the World Trade Organization (WTO) officially established?"
+      },
+      "o": [
+        {
+          "hi": "उरुग्वे दौर समझौता",
+          "en": "Uruguay Round Agreement"
+        },
+        {
+          "hi": "दोहा घोषणा पत्र",
+          "en": "Doha Declaration"
+        },
+        {
+          "hi": "पेरिस जलवायु समझौता",
+          "en": "Paris Climate Agreement"
+        },
+        {
+          "hi": "माराकेश समझौता (Marrakesh Agreement, 1994)",
+          "en": "Marrakesh Agreement, 1994"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व व्यापार संगठन (WTO) का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of the World Trade Organization (WTO) situated?"
+      },
+      "o": [
+        {
+          "hi": "जिनेवा (स्विट्जरलैंड)",
+          "en": "Geneva (Switzerland)"
+        },
+        {
+          "hi": "वियना (ऑस्ट्रिया)",
+          "en": "Vienna (Austria)"
+        },
+        {
+          "hi": "ब्रुसेल्स (बेल्जियम)",
+          "en": "Brussels (Belgium)"
+        },
+        {
+          "hi": "लंदन (ब्रिटेन)",
+          "en": "London (UK)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "डंकल प्रस्ताव (Dunkel Draft) का संबंध किससे था?",
+        "en": "With what was the Dunkel Draft related?"
+      },
+      "o": [
+        {
+          "hi": "परमाणु अप्रसार संधि से",
+          "en": "Nuclear Non-Proliferation Treaty"
+        },
+        {
+          "hi": "उरुग्वे दौर की वार्ताओं एवं गैट/डब्ल्यूटीओ से",
+          "en": "Uruguay Round Negotiations and GATT/WTO"
+        },
+        {
+          "hi": "अंतरराष्ट्रीय समुद्री सीमा कानून से",
+          "en": "International Law of the Sea"
+        },
+        {
+          "hi": "पर्यावरण एवं जैव विविधता संरक्षण से",
+          "en": "Biodiversity Conservation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ट्रिप्स (TRIPS) का पूरा नाम क्या है, जो बौद्धिक संपदा अधिकारों से संबंधित है?",
+        "en": "What is the full form of TRIPS under WTO?"
+      },
+      "o": [
+        {
+          "hi": "Trade Regulations of Intellectual Property Systems",
+          "en": "Trade Regulations of Intellectual Property Systems"
+        },
+        {
+          "hi": "Tariff Related Industrial Property Standards",
+          "en": "Tariff Related Industrial Property Standards"
+        },
+        {
+          "hi": "Trade-Related Aspects of Intellectual Property Rights",
+          "en": "Trade-Related Aspects of Intellectual Property Rights"
+        },
+        {
+          "hi": "Total Regional Investment Protection Scheme",
+          "en": "Total Regional Investment Protection Scheme"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ट्रिम्स (TRIMS) का पूरा नाम क्या है, जो विदेशी निवेश उपायों को नियंत्रित करता है?",
+        "en": "What is the full form of TRIMS under WTO?"
+      },
+      "o": [
+        {
+          "hi": "Tariff Rates on Industrial Manufacturing Sector",
+          "en": "Tariff Rates on Industrial Manufacturing Sector"
+        },
+        {
+          "hi": "Trade Regulatory Integrated Monitoring System",
+          "en": "Trade Regulatory Integrated Monitoring System"
+        },
+        {
+          "hi": "Total Resource Investment Management Scheme",
+          "en": "Total Resource Investment Management Scheme"
+        },
+        {
+          "hi": "Trade-Related Investment Measures",
+          "en": "Trade-Related Investment Measures"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "डब्ल्यूटीओ के नियमों में 'सर्वाधिक वरीयता प्राप्त राष्ट्र' (MFN) सिद्धांत का क्या अर्थ है?",
+        "en": "In WTO terminology, what does the 'Most Favoured Nation' (MFN) principle imply?"
+      },
+      "o": [
+        {
+          "hi": "सभी सदस्य देशों के साथ व्यापार में गैर-भेदभावपूर्ण व्यवहार",
+          "en": "Non-discriminatory trade treatment to all members"
+        },
+        {
+          "hi": "केवल मित्र देशों को शून्य सीमा शुल्क देना",
+          "en": "Zero customs duties for ally nations only"
+        },
+        {
+          "hi": "पड़ोसी देशों को विशेष छूट देना",
+          "en": "Special exemptions for neighbouring countries only"
+        },
+        {
+          "hi": "विकासशील देशों पर अतिरिक्त टैरिफ लगाना",
+          "en": "Imposing extra tariffs on developing nations"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संयुक्त राष्ट्र व्यापार और विकास सम्मेलन (UNCTAD) की स्थापना किस वर्ष हुई थी?",
+        "en": "In which year was the United Nations Conference on Trade and Development (UNCTAD) established?"
+      },
+      "o": [
+        {
+          "hi": "1950 में",
+          "en": "In 1950"
+        },
+        {
+          "hi": "1964 में",
+          "en": "In 1964"
+        },
+        {
+          "hi": "1972 में",
+          "en": "In 1972"
+        },
+        {
+          "hi": "1985 में",
+          "en": "In 1985"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय आयात-निर्यात बैंक (EXIM Bank) की स्थापना किस अधिनियम के तहत 1982 में की गई थी?",
+        "en": "Under which Act was the Export-Import Bank of India (EXIM Bank) set up in 1982?"
+      },
+      "o": [
+        {
+          "hi": "आरबीआई अधिनियम, 1934",
+          "en": "RBI Act, 1934"
+        },
+        {
+          "hi": "बैंकिंग विनियमन अधिनियम, 1949",
+          "en": "Banking Regulation Act, 1949"
+        },
+        {
+          "hi": "एक्जिम बैंक अधिनियम, 1981",
+          "en": "EXIM Bank Act, 1981"
+        },
+        {
+          "hi": "कंपनी अधिनियम, 1956",
+          "en": "Companies Act, 1956"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय निर्यात ऋण गारंटी निगम (ECGC) का मुख्य कार्य क्या है?",
+        "en": "What is the primary function of the Export Credit Guarantee Corporation of India (ECGC)?"
+      },
+      "o": [
+        {
+          "hi": "प्रत्यक्ष रूप से विदेशी मुद्रा में ऋण देना",
+          "en": "Directly lending loans in foreign currency"
+        },
+        {
+          "hi": "विदेशों में भारतीय दुकानें खोलना",
+          "en": "Opening Indian retail outlets abroad"
+        },
+        {
+          "hi": "कस्टम क्लीयरेंस की औपचारिकताएं पूरी करना",
+          "en": "Completing customs clearance formalities"
+        },
+        {
+          "hi": "भारतीय निर्यातकों को साख जोखिम बीमा प्रदान करना",
+          "en": "Providing credit risk insurance to Indian exporters"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत सरकार में विदेश व्यापार नीति (Foreign Trade Policy) किस मंत्रालय द्वारा तैयार की जाती है?",
+        "en": "Foreign Trade Policy in India is formulated by which Union Ministry?"
+      },
+      "o": [
+        {
+          "hi": "वाणिज्य एवं उद्योग मंत्रालय",
+          "en": "Ministry of Commerce and Industry"
+        },
+        {
+          "hi": "विदेश मंत्रालय (Ministry of External Affairs)",
+          "en": "Ministry of External Affairs"
+        },
+        {
+          "hi": "वित्त मंत्रालय (Ministry of Finance)",
+          "en": "Ministry of Finance"
+        },
+        {
+          "hi": "कॉर्पोरेट कार्य मंत्रालय",
+          "en": "Ministry of Corporate Affairs"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत की विदेश व्यापार नीति 2023 का मुख्य दीर्घकालिक निर्यात लक्ष्य क्या निर्धारित किया गया है?",
+        "en": "What long-term export target has India's Foreign Trade Policy 2023 set by 2030?"
+      },
+      "o": [
+        {
+          "hi": "1 ट्रिलियन डॉलर का निर्यात",
+          "en": "$1 Trillion in total exports"
+        },
+        {
+          "hi": "2 ट्रिलियन डॉलर का कुल निर्यात",
+          "en": "$2 Trillion in total exports"
+        },
+        {
+          "hi": "5 ट्रिलियन डॉलर का निर्यात",
+          "en": "$5 Trillion in total exports"
+        },
+        {
+          "hi": "500 बिलियन डॉलर का निर्यात",
+          "en": "$500 Billion in total exports"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वर्तमान में भारत का सबसे बड़ा एकल व्यापारिक साझेदार (Top Trading Partner) देश कौन-सा है?",
+        "en": "At present, which country is India's largest single trading partner?"
+      },
+      "o": [
+        {
+          "hi": "चीन (China)",
+          "en": "China"
+        },
+        {
+          "hi": "संयुक्त अरब अमीरात (UAE)",
+          "en": "United Arab Emirates (UAE)"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका (USA)",
+          "en": "United States of America (USA)"
+        },
+        {
+          "hi": "रूस (Russia)",
+          "en": "Russia"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत के निर्यातों (Exports) का सबसे बड़ा गंतव्य देश कौन-सा है?",
+        "en": "Which country is the largest destination for India's exports?"
+      },
+      "o": [
+        {
+          "hi": "चीन (China)",
+          "en": "China"
+        },
+        {
+          "hi": "संयुक्त अरब अमीरात (UAE)",
+          "en": "United Arab Emirates (UAE)"
+        },
+        {
+          "hi": "नीदरलैंड (Netherlands)",
+          "en": "Netherlands"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका (USA)",
+          "en": "United States of America (USA)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत सर्वाधिक वस्तुएं किस देश से आयात (Import) करता है?",
+        "en": "From which country does India import the highest value of goods?"
+      },
+      "o": [
+        {
+          "hi": "चीन (China)",
+          "en": "China"
+        },
+        {
+          "hi": "अमेरिका (USA)",
+          "en": "USA"
+        },
+        {
+          "hi": "रूस (Russia)",
+          "en": "Russia"
+        },
+        {
+          "hi": "सऊदी अरब (Saudi Arabia)",
+          "en": "Saudi Arabia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत के कुल आयात बिल (Import Bill) में मूल्य की दृष्टि से शीर्ष मद कौन-सी है?",
+        "en": "In terms of value, which commodity constitutes the highest share in India's total import bill?"
+      },
+      "o": [
+        {
+          "hi": "सोना एवं चांदी (Gold & Silver)",
+          "en": "Gold & Silver"
+        },
+        {
+          "hi": "कच्चा पेट्रोलियम / खनिज तेल (Crude Oil)",
+          "en": "Crude Petroleum / Mineral Oil"
+        },
+        {
+          "hi": "इलेक्ट्रॉनिक उपकरण (Electronics)",
+          "en": "Electronic Goods"
+        },
+        {
+          "hi": "कोयला एवं कोक (Coal & Coke)",
+          "en": "Coal & Coke"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत के कुल निर्यातों में मूल्य के आधार पर प्रमुख मद कौन-सी है?",
+        "en": "Which is a leading commodity in India's export basket in terms of value?"
+      },
+      "o": [
+        {
+          "hi": "कच्चा लोहा (Iron Ore)",
+          "en": "Iron Ore"
+        },
+        {
+          "hi": "कपास और जूट (Raw Cotton & Jute)",
+          "en": "Raw Cotton & Jute"
+        },
+        {
+          "hi": "पेट्रोलियम परिष्कृत उत्पाद (Refined Petroleum)",
+          "en": "Refined Petroleum Products"
+        },
+        {
+          "hi": "चाय और कॉफी (Tea & Coffee)",
+          "en": "Tea & Coffee"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कृषि एवं प्रसंस्कृत खाद्य उत्पाद निर्यात विकास प्राधिकरण (APEDA) की स्थापना कब हुई थी?",
+        "en": "When was the Agricultural & Processed Food Products Export Development Authority (APEDA) set up?"
+      },
+      "o": [
+        {
+          "hi": "1975 में",
+          "en": "In 1975"
+        },
+        {
+          "hi": "1991 में",
+          "en": "In 1991"
+        },
+        {
+          "hi": "2001 में",
+          "en": "In 2001"
+        },
+        {
+          "hi": "1986 में",
+          "en": "In 1986"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समुद्री उत्पाद निर्यात विकास प्राधिकरण (MPEDA) का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of the Marine Products Export Development Authority (MPEDA) located?"
+      },
+      "o": [
+        {
+          "hi": "कोच्चि (केरल)",
+          "en": "Kochi (Kerala)"
+        },
+        {
+          "hi": "चेन्नई (तमिलनाडु)",
+          "en": "Chennai (Tamil Nadu)"
+        },
+        {
+          "hi": "मुंबई (महाराष्ट्र)",
+          "en": "Mumbai (Maharashtra)"
+        },
+        {
+          "hi": "विशाखापट्टनम (आंध्र प्रदेश)",
+          "en": "Visakhapatnam (Andhra Pradesh)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जब कोई विदेशी निर्यातक किसी वस्तु को अपने घरेलू बाजार मूल्य से कम पर दूसरे देश में बेचता है, तो इसे क्या कहते हैं?",
+        "en": "When an exporter sells goods in a foreign market below their domestic cost, what is this practice called?"
+      },
+      "o": [
+        {
+          "hi": "हेजिंग (Hedging)",
+          "en": "Hedging"
+        },
+        {
+          "hi": "डंपिंग या पाटना (Dumping)",
+          "en": "Dumping"
+        },
+        {
+          "hi": "तस्करी (Smuggling)",
+          "en": "Smuggling"
+        },
+        {
+          "hi": "आर्बिट्रेज (Arbitrage)",
+          "en": "Arbitrage"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "डंपिंग से घरेलू उद्योग की सुरक्षा हेतु आयात पर कौन-सा विशेष शुल्क लगाया जाता है?",
+        "en": "Which special tariff is imposed on imports to protect domestic industries from dumping?"
+      },
+      "o": [
+        {
+          "hi": "मूल्य संवर्धित कर (VAT)",
+          "en": "Value Added Tax (VAT)"
+        },
+        {
+          "hi": "उत्पाद शुल्क (Excise Duty)",
+          "en": "Excise Duty"
+        },
+        {
+          "hi": "पाटन-रोधी शुल्क (Anti-Dumping Duty)",
+          "en": "Anti-Dumping Duty"
+        },
+        {
+          "hi": "उपकर (Cess)",
+          "en": "Cess"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विदेशी सरकार द्वारा दी गई सब्सिडी के प्रभाव को निष्प्रभावी करने के लिए आयात पर लगाया जाने वाला कर क्या कहलाता है?",
+        "en": "A tariff levied on imports to neutralize the effect of foreign government subsidies is called:"
+      },
+      "o": [
+        {
+          "hi": "सुरक्षा शुल्क (Safeguard Duty)",
+          "en": "Safeguard Duty"
+        },
+        {
+          "hi": "सीमा शुल्क (Customs Duty)",
+          "en": "Customs Duty"
+        },
+        {
+          "hi": "अग्रिम आयकर (Advance Tax)",
+          "en": "Advance Income Tax"
+        },
+        {
+          "hi": "प्रतिकारी शुल्क (Countervailing Duty - CVD)",
+          "en": "Countervailing Duty (CVD)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत ने किस वर्ष अंतरराष्ट्रीय स्तर पर व्यापक आर्थिक सहयोग समझौता (CEPA) संयुक्त अरब अमीरात (UAE) के साथ किया?",
+        "en": "In which year did India sign the landmark Comprehensive Economic Partnership Agreement (CEPA) with UAE?"
+      },
+      "o": [
+        {
+          "hi": "2022 में",
+          "en": "In 2022"
+        },
+        {
+          "hi": "2018 में",
+          "en": "In 2018"
+        },
+        {
+          "hi": "2015 में",
+          "en": "In 2015"
+        },
+        {
+          "hi": "2020 में",
+          "en": "In 2020"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विशेष आर्थिक क्षेत्र (SEZ) को व्यापार नियमों के अनुसार किस रूप में माना जाता है?",
+        "en": "For tariff and regulatory purposes, a Special Economic Zone (SEZ) is treated as:"
+      },
+      "o": [
+        {
+          "hi": "सामान्य घरेलू क्षेत्र (Domestic Area)",
+          "en": "Normal Domestic Area"
+        },
+        {
+          "hi": "विदेशी क्षेत्र के समतुल्य (Deemed Foreign Territory)",
+          "en": "Deemed Foreign Territory"
+        },
+        {
+          "hi": "सैन्य प्रतिबंधित क्षेत्र (Defense Area)",
+          "en": "Defense Restricted Area"
+        },
+        {
+          "hi": "कर-मुक्त ग्रामीण क्षेत्र",
+          "en": "Tax-free Rural Area"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे बड़ा कंटेनर बंदरगाह (Container Port) कौन-सा है?",
+        "en": "Which is India's largest container handling port?"
+      },
+      "o": [
+        {
+          "hi": "मुंबई पोर्ट (Mumbai Port)",
+          "en": "Mumbai Port"
+        },
+        {
+          "hi": "चेन्नई पोर्ट (Chennai Port)",
+          "en": "Chennai Port"
+        },
+        {
+          "hi": "जवाहरलाल नेहरू पोर्ट (JNPT / न्हावा शेवा)",
+          "en": "Jawaharlal Nehru Port Trust (JNPT / Nhava Sheva)"
+        },
+        {
+          "hi": "कांडला / दीनदयाल पोर्ट",
+          "en": "Deendayal / Kandla Port"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दीनदयाल पोर्ट ट्रस्ट (पूर्व नाम कांडला बंदरगाह) किस प्रकार का बंदरगाह है?",
+        "en": "Deendayal Port Trust (formerly Kandla Port) in Gujarat is what type of port?"
+      },
+      "o": [
+        {
+          "hi": "कृत्रिम अंतर्देशीय बंदरगाह",
+          "en": "Artificial Inland Port"
+        },
+        {
+          "hi": "केवल नौसैनिक अड्डा",
+          "en": "Naval Base Port Only"
+        },
+        {
+          "hi": "नदी तटीय मौसमी बंदरगाह",
+          "en": "Riverine Seasonal Port"
+        },
+        {
+          "hi": "ज्वारीय एवं प्राकृतिक मुक्त व्यापार बंदरगाह",
+          "en": "Tidal and Natural Free Trade Port"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत का एकमात्र नदीय प्रमुख बंदरगाह (Riverine Major Port) कौन-सा है?",
+        "en": "Which is the only major riverine port in India?"
+      },
+      "o": [
+        {
+          "hi": "कोलकाता / श्यामा प्रसाद मुखर्जी पोर्ट (हुगली नदी)",
+          "en": "Kolkata / Syama Prasad Mookerjee Port (Hooghly)"
+        },
+        {
+          "hi": "पारादीप पोर्ट (महानदी)",
+          "en": "Paradip Port (Mahanadi)"
+        },
+        {
+          "hi": "कोच्चि पोर्ट (पेरियार नदी)",
+          "en": "Kochi Port (Periyar)"
+        },
+        {
+          "hi": "हल्दिया पोर्ट (दामोदर नदी)",
+          "en": "Haldia Port (Damodar)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में प्रवासियों से सर्वाधिक विदेशी धन (Remittances) प्राप्त करने वाला देश कौन-सा है?",
+        "en": "Which country receives the highest foreign remittances from its diaspora globally?"
+      },
+      "o": [
+        {
+          "hi": "चीन (China)",
+          "en": "China"
+        },
+        {
+          "hi": "भारत (India)",
+          "en": "India"
+        },
+        {
+          "hi": "मेक्सिको (Mexico)",
+          "en": "Mexico"
+        },
+        {
+          "hi": "फिलीपींस (Philippines)",
+          "en": "Philippines"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "व्यापार में 'टैरिफ' (Tariff) का क्या अर्थ होता है?",
+        "en": "What does 'Tariff' mean in international trade?"
+      },
+      "o": [
+        {
+          "hi": "आयात की भौतिक मात्रा पर सीमा",
+          "en": "Physical quota on quantity of imports"
+        },
+        {
+          "hi": "जहाज परिवहन का बीमा शुल्क",
+          "en": "Shipping transport insurance charge"
+        },
+        {
+          "hi": "आयात या निर्यात पर लगाया जाने वाला सीमा कर",
+          "en": "Customs duty imposed on imports or exports"
+        },
+        {
+          "hi": "विदेशी मुद्रा विनिमय पर छूट",
+          "en": "Discount on foreign exchange conversion"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "व्यापार में 'कोटा' (Quota) का क्या तात्पर्य है?",
+        "en": "What does 'Quota' imply in foreign trade policy?"
+      },
+      "o": [
+        {
+          "hi": "प्रति वस्तु आयात कर की दर",
+          "en": "Per unit rate of import tax"
+        },
+        {
+          "hi": "विदेशी खरीदार को दिया जाने वाला ऋण",
+          "en": "Credit granted to foreign buyers"
+        },
+        {
+          "hi": "बंदरगाह पर भंडारण का किराया",
+          "en": "Warehouse rental charge at ports"
+        },
+        {
+          "hi": "आयातित वस्तु की मात्रा पर प्रत्यक्ष भौतिक सीमा",
+          "en": "Direct quantitative restriction on imports"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विदेशी व्यापार में 'अदृश्य मदों' (Invisibles) से क्या तात्पर्य है?",
+        "en": "In foreign trade accounting, what do 'Invisibles' refer to?"
+      },
+      "o": [
+        {
+          "hi": "सेवाएं, पर्यटन, बैंकिंग, बीमा और प्रेषण",
+          "en": "Services, Tourism, Banking, Insurance & Remittances"
+        },
+        {
+          "hi": "बिना बिल के आयातित माल",
+          "en": "Goods imported without invoices"
+        },
+        {
+          "hi": "भूमिगत पाइपलाइनों से गैस व्यापार",
+          "en": "Gas trade through underground pipelines"
+        },
+        {
+          "hi": "तस्करी द्वारा लाया गया सोना",
+          "en": "Smuggled gold and silver"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रुपये की परिवर्तनीयता (Convertibility of Rupee) का क्या तात्पर्य है?",
+        "en": "What does the 'Convertibility of Rupee' mean?"
+      },
+      "o": [
+        {
+          "hi": "रुपये के बदले केवल सोना प्राप्त करना",
+          "en": "Obtaining pure gold in exchange for Rupees"
+        },
+        {
+          "hi": "रुपये को अन्य प्रमुख विदेशी मुद्राओं में स्वतंत्र रूप से बदलने की अनुमति",
+          "en": "Freely converting Rupee into other major currencies"
+        },
+        {
+          "hi": "रुपये के नए डिजाइन के नोट जारी करना",
+          "en": "Issuing newly designed currency notes"
+        },
+        {
+          "hi": "रुपये को अंतरराष्ट्रीय डिजिटल मुद्रा बनाना",
+          "en": "Making Rupee an international digital coin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में विदेशी मुद्रा विनिमय दर का निर्धारण वर्तमान में किस प्रणाली द्वारा होता है?",
+        "en": "How is foreign exchange rate determined in India at present?"
+      },
+      "o": [
+        {
+          "hi": "सरकार द्वारा नियत स्थिर विनिमय दर प्रणाली",
+          "en": "Government-fixed Constant Exchange Rate"
+        },
+        {
+          "hi": "स्वर्ण मानक विनिमय प्रणाली",
+          "en": "Gold Standard Exchange System"
+        },
+        {
+          "hi": "बाजार आधारित प्रबंधित फ्लोटिंग दर प्रणाली",
+          "en": "Market-determined Managed Floating Rate System"
+        },
+        {
+          "hi": "केवल संसद द्वारा पारित वार्षिक दर",
+          "en": "Annual rate passed by Parliament only"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का पहला विशेष आर्थिक क्षेत्र (SEZ) मॉडल किस पूर्ववर्ती व्यवस्था पर आधारित था?",
+        "en": "India's Special Economic Zone (SEZ) policy was modeled after which earlier setup?"
+      },
+      "o": [
+        {
+          "hi": "मुक्त बंदरगाह मॉडल (Free Port)",
+          "en": "Free Port Model"
+        },
+        {
+          "hi": "औद्योगिक एस्टेट मॉडल",
+          "en": "Industrial Estate Model"
+        },
+        {
+          "hi": "सार्वजनिक निजी साझेदारी मॉडल",
+          "en": "Public Private Partnership Model"
+        },
+        {
+          "hi": "निर्यात प्रसंस्करण क्षेत्र (EPZ Model)",
+          "en": "Export Processing Zone (EPZ Model)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में पेटेंट अधिनियम (Patent Act) मूल रूप से किस वर्ष पारित किया गया था?",
+        "en": "In which year was the Patents Act originally enacted in India?"
+      },
+      "o": [
+        {
+          "hi": "1970 में (संशोधित 2005)",
+          "en": "In 1970 (amended in 2005)"
+        },
+        {
+          "hi": "1951 में",
+          "en": "In 1951"
+        },
+        {
+          "hi": "1995 में",
+          "en": "In 1995"
+        },
+        {
+          "hi": "1980 में",
+          "en": "In 1980"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भौगोलिक उपदर्शन (GI Tag) अधिनियम भारत में किस वर्ष लागू हुआ था?",
+        "en": "In which year did the Geographical Indications of Goods Act come into force in India?"
+      },
+      "o": [
+        {
+          "hi": "जनवरी 1995",
+          "en": "January 1995"
+        },
+        {
+          "hi": "सितंबर 2003 (अधिनियम 1999)",
+          "en": "September 2003 (Act 1999)"
+        },
+        {
+          "hi": "अप्रैल 2005",
+          "en": "April 2005"
+        },
+        {
+          "hi": "अक्टूबर 2010",
+          "en": "October 2010"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

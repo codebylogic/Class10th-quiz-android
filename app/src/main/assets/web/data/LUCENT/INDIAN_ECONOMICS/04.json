@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भारतीय अर्थव्यवस्था (Indian Economy)",
+  "subtitle": "भारतीय वित्त व्यवस्था",
+  "description": "भारतीय वित्त व्यवस्था पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारतीय वित्तीय व्यवस्था को मुख्य रूप से किन दो बाजारों में विभाजित किया जाता है?",
+        "en": "The Indian Financial System is primarily divided into which two markets?"
+      },
+      "o": [
+        {
+          "hi": "मुद्रा बाजार और पूंजी बाजार",
+          "en": "Money Market and Capital Market"
+        },
+        {
+          "hi": "थोक बाजार और खुदरा बाजार",
+          "en": "Wholesale Market and Retail Market"
+        },
+        {
+          "hi": "घरेलू बाजार और विदेशी बाजार",
+          "en": "Domestic Market and Foreign Market"
+        },
+        {
+          "hi": "प्राथमिक बाजार और तृतीयक बाजार",
+          "en": "Primary Market and Tertiary Market"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अल्पकालिक वित्तीय परिसंपत्तियों (एक वर्ष से कम) का लेन-देन किस बाजार में होता है?",
+        "en": "Transactions of short-term financial assets (less than one year) take place in which market?"
+      },
+      "o": [
+        {
+          "hi": "पूंजी बाजार (Capital Market)",
+          "en": "Capital Market"
+        },
+        {
+          "hi": "मुद्रा बाजार (Money Market)",
+          "en": "Money Market"
+        },
+        {
+          "hi": "कमोडिटी बाजार (Commodity Market)",
+          "en": "Commodity Market"
+        },
+        {
+          "hi": "विदेशी मुद्रा वायदा बाजार",
+          "en": "Forex Futures Market"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में मुद्रा बाजार (Money Market) का सर्वोच्च नियामक (Regulator) कौन है?",
+        "en": "Who is the apex regulator of the Money Market in India?"
+      },
+      "o": [
+        {
+          "hi": "सेबी (SEBI)",
+          "en": "Securities and Exchange Board of India (SEBI)"
+        },
+        {
+          "hi": "वित्त मंत्रालय (Ministry of Finance)",
+          "en": "Ministry of Finance"
+        },
+        {
+          "hi": "भारतीय रिजर्व बैंक (RBI)",
+          "en": "Reserve Bank of India (RBI)"
+        },
+        {
+          "hi": "स्टेट बैंक ऑफ इंडिया (SBI)",
+          "en": "State Bank of India (SBI)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दीर्घकालिक वित्तीय परिसंपत्तियों एवं प्रतिभूतियों (शेयर, डिबेंचर) का लेन-देन किस बाजार में होता है?",
+        "en": "Transactions of long-term financial assets and securities (shares, debentures) occur in which market?"
+      },
+      "o": [
+        {
+          "hi": "मुद्रा बाजार (Money Market)",
+          "en": "Money Market"
+        },
+        {
+          "hi": "कॉल मनी मार्केट (Call Money Market)",
+          "en": "Call Money Market"
+        },
+        {
+          "hi": "ट्रेजरी बिल बाजार (T-Bill Market)",
+          "en": "Treasury Bill Market"
+        },
+        {
+          "hi": "पूंजी बाजार (Capital Market)",
+          "en": "Capital Market"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में पूंजी बाजार (Capital Market) और स्टॉक एक्सचेंजों का सर्वोच्च नियामक कौन है?",
+        "en": "Who is the apex regulator of the Capital Market and stock exchanges in India?"
+      },
+      "o": [
+        {
+          "hi": "सेबी (SEBI)",
+          "en": "Securities and Exchange Board of India (SEBI)"
+        },
+        {
+          "hi": "भारतीय रिजर्व बैंक (RBI)",
+          "en": "Reserve Bank of India (RBI)"
+        },
+        {
+          "hi": "इरडा (IRDAI)",
+          "en": "Insurance Regulatory and Dev Authority (IRDAI)"
+        },
+        {
+          "hi": "कॉर्पोरेट कार्य मंत्रालय",
+          "en": "Ministry of Corporate Affairs"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय रिजर्व बैंक (RBI) की स्थापना किस आयोग की सिफारिशों के आधार पर की गई थी?",
+        "en": "The Reserve Bank of India (RBI) was established based on the recommendations of which commission?"
+      },
+      "o": [
+        {
+          "hi": "हंटर आयोग (Hunter Commission)",
+          "en": "Hunter Commission"
+        },
+        {
+          "hi": "हिल्टन-यंग आयोग (रॉयल कमीशन, 1926)",
+          "en": "Hilton-Young Commission (Royal Commission, 1926)"
+        },
+        {
+          "hi": "साइमन कमीशन (Simon Commission)",
+          "en": "Simon Commission"
+        },
+        {
+          "hi": "मैकलेगन समिति (Maclagan Committee)",
+          "en": "Maclagan Committee"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय रिजर्व बैंक (RBI) की स्थापना किस तिथि को हुई थी?",
+        "en": "On which date was the Reserve Bank of India (RBI) established?"
+      },
+      "o": [
+        {
+          "hi": "1 जनवरी 1949",
+          "en": "1 January 1949"
+        },
+        {
+          "hi": "15 अगस्त 1947",
+          "en": "15 August 1947"
+        },
+        {
+          "hi": "1 अप्रैल 1935",
+          "en": "1 April 1935"
+        },
+        {
+          "hi": "26 जनवरी 1950",
+          "en": "26 January 1950"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्थापना के समय भारतीय रिजर्व बैंक का केंद्रीय कार्यालय कहाँ स्थित था?",
+        "en": "At the time of establishment, where was the central office of RBI located?"
+      },
+      "o": [
+        {
+          "hi": "मुंबई (Mumbai)",
+          "en": "Mumbai"
+        },
+        {
+          "hi": "नई दिल्ली (New Delhi)",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "चेन्नई (Chennai)",
+          "en": "Chennai"
+        },
+        {
+          "hi": "कोलकाता (Kolkata)",
+          "en": "Kolkata"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय रिजर्व बैंक का मुख्यालय 1937 में स्थायी रूप से कहाँ स्थानांतरित कर दिया गया?",
+        "en": "In 1937, the headquarters of RBI was permanently shifted to which city?"
+      },
+      "o": [
+        {
+          "hi": "मुंबई (Mumbai)",
+          "en": "Mumbai"
+        },
+        {
+          "hi": "नई दिल्ली (New Delhi)",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "कोलकाता (Kolkata)",
+          "en": "Kolkata"
+        },
+        {
+          "hi": "बेंगलुरु (Bengaluru)",
+          "en": "Bengaluru"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय रिजर्व बैंक का राष्ट्रीयकरण (Nationalization) किस तिथि को हुआ था?",
+        "en": "On which date was the Reserve Bank of India nationalized?"
+      },
+      "o": [
+        {
+          "hi": "1 अप्रैल 1935",
+          "en": "1 April 1935"
+        },
+        {
+          "hi": "1 जनवरी 1949",
+          "en": "1 January 1949"
+        },
+        {
+          "hi": "19 जुलाई 1969",
+          "en": "19 July 1969"
+        },
+        {
+          "hi": "15 अगस्त 1947",
+          "en": "15 August 1947"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय रिजर्व बैंक के प्रथम गवर्नर (First Governor) कौन थे?",
+        "en": "Who was the first Governor of the Reserve Bank of India?"
+      },
+      "o": [
+        {
+          "hi": "सर जेम्स टेलर (Sir James Taylor)",
+          "en": "Sir James Taylor"
+        },
+        {
+          "hi": "सी.डी. देशमुख (C.D. Deshmukh)",
+          "en": "C.D. Deshmukh"
+        },
+        {
+          "hi": "सर ओसबोर्न स्मिथ (Sir Osborne Smith)",
+          "en": "Sir Osborne Smith"
+        },
+        {
+          "hi": "सर बेनेगल रामा राव",
+          "en": "Sir Benegal Rama Rau"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय रिजर्व बैंक के प्रथम भारतीय मूल के गवर्नर कौन थे?",
+        "en": "Who was the first Indian Governor of the Reserve Bank of India?"
+      },
+      "o": [
+        {
+          "hi": "मनमोहन सिंह (Manmohan Singh)",
+          "en": "Manmohan Singh"
+        },
+        {
+          "hi": "पी.सी. भट्टाचार्य",
+          "en": "P.C. Bhattacharya"
+        },
+        {
+          "hi": "आई.जी. पटेल",
+          "en": "I.G. Patel"
+        },
+        {
+          "hi": "सी.डी. देशमुख (C.D. Deshmukh)",
+          "en": "C.D. Deshmukh"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में एकमात्र प्रधानमंत्री कौन हैं जो भारतीय रिजर्व बैंक के गवर्नर भी रहे हैं?",
+        "en": "Who is the only Prime Minister of India who also served as the Governor of RBI?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. मनमोहन सिंह (Dr. Manmohan Singh)",
+          "en": "Dr. Manmohan Singh"
+        },
+        {
+          "hi": "मोरारजी देसाई",
+          "en": "Morarji Desai"
+        },
+        {
+          "hi": "चौधरी चरण सिंह",
+          "en": "Chaudhary Charan Singh"
+        },
+        {
+          "hi": "इंद्र कुमार गुजराल",
+          "en": "Inder Kumar Gujral"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में एक रुपये का नोट और सभी सिक्के किसके द्वारा जारी किए जाते हैं?",
+        "en": "One-rupee notes and all coins in India are issued by whom?"
+      },
+      "o": [
+        {
+          "hi": "भारतीय रिजर्व बैंक (RBI)",
+          "en": "Reserve Bank of India (RBI)"
+        },
+        {
+          "hi": "भारत सरकार (वित्त मंत्रालय)",
+          "en": "Government of India (Ministry of Finance)"
+        },
+        {
+          "hi": "भारतीय स्टेट बैंक (SBI)",
+          "en": "State Bank of India (SBI)"
+        },
+        {
+          "hi": "राष्ट्रीय प्रतिभूति न्यास",
+          "en": "National Securities Depository"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में एक रुपये के नोट पर किसके हस्ताक्षर होते हैं?",
+        "en": "Whose signature appears on the one-rupee note in India?"
+      },
+      "o": [
+        {
+          "hi": "आरबीआई गवर्नर",
+          "en": "Governor, Reserve Bank of India"
+        },
+        {
+          "hi": "केंद्रीय वित्त मंत्री",
+          "en": "Union Finance Minister"
+        },
+        {
+          "hi": "वित्त सचिव, भारत सरकार",
+          "en": "Finance Secretary, Government of India"
+        },
+        {
+          "hi": "भारत का राष्ट्रपति",
+          "en": "President of India"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एक रुपये से अधिक मूल्य के सभी बैंक नोटों पर किसके हस्ताक्षर होते हैं?",
+        "en": "Whose signature is printed on all banknotes above one rupee in India?"
+      },
+      "o": [
+        {
+          "hi": "वित्त सचिव",
+          "en": "Finance Secretary"
+        },
+        {
+          "hi": "केंद्रीय वित्त मंत्री",
+          "en": "Union Finance Minister"
+        },
+        {
+          "hi": "प्रधानमंत्री",
+          "en": "Prime Minister"
+        },
+        {
+          "hi": "आरबीआई गवर्नर (Governor of RBI)",
+          "en": "Governor of RBI"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आरबीआई नोट निर्गमन के लिए 1956 से किस प्रणाली का अनुसरण कर रहा है?",
+        "en": "Which system has the RBI been following for note issuance since 1956?"
+      },
+      "o": [
+        {
+          "hi": "न्यूनतम आरक्षित प्रणाली (Minimum Reserve System)",
+          "en": "Minimum Reserve System"
+        },
+        {
+          "hi": "आनुपातिक आरक्षित प्रणाली",
+          "en": "Proportional Reserve System"
+        },
+        {
+          "hi": "स्वर्ण मानक प्रणाली",
+          "en": "Gold Standard System"
+        },
+        {
+          "hi": "नियत प्रत्ययी प्रणाली",
+          "en": "Fixed Fiduciary System"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "न्यूनतम आरक्षित प्रणाली (MRS) के तहत आरबीआई को कुल कितना न्यूनतम कोष रखना अनिवार्य है?",
+        "en": "Under Minimum Reserve System (MRS), what total minimum reserve must RBI maintain?"
+      },
+      "o": [
+        {
+          "hi": "₹500 करोड़ (₹300 करोड़ सोना + ₹200 करोड़ प्रतिभूतियां)",
+          "en": "₹500 Crore (₹300 Cr Gold + ₹200 Cr Securities)"
+        },
+        {
+          "hi": "₹200 करोड़ (₹115 करोड़ सोना + ₹85 करोड़ विदेशी मुद्रा)",
+          "en": "₹200 Crore (₹115 Cr Gold + ₹85 Cr Forex)"
+        },
+        {
+          "hi": "₹100 करोड़ (केवल स्वर्ण भंडार)",
+          "en": "₹100 Crore (Pure Gold Only)"
+        },
+        {
+          "hi": "₹1000 करोड़ (विदेशी मुद्रा एवं स्वर्ण)",
+          "en": "₹1000 Crore (Forex & Gold)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आरबीआई के प्रतीक चिह्न (Seal/Logo) में कौन-सा पेड़ और कौन-सा पशु अंकित है?",
+        "en": "Which tree and which animal are depicted on the official seal/logo of RBI?"
+      },
+      "o": [
+        {
+          "hi": "बरगद का पेड़ और एशियाई शेर",
+          "en": "Banyan Tree and Asiatic Lion"
+        },
+        {
+          "hi": "अशोक वृक्ष और हाथी",
+          "en": "Ashoka Tree and Elephant"
+        },
+        {
+          "hi": "ताड़ का पेड़ और रॉयल बंगाल टाइगर",
+          "en": "Palm Tree and Royal Bengal Tiger"
+        },
+        {
+          "hi": "पीपल का पेड़ और एक सींग वाला गैंडा",
+          "en": "Peepal Tree and One-horned Rhino"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वह ब्याज दर जिस पर वाणिज्यिक बैंक आरबीआई से अल्पकालिक ऋण लेते हैं, क्या कहलाती है?",
+        "en": "What is the interest rate at which commercial banks borrow short-term funds from RBI called?"
+      },
+      "o": [
+        {
+          "hi": "रिवर्स रेपो दर (Reverse Repo Rate)",
+          "en": "Reverse Repo Rate"
+        },
+        {
+          "hi": "बैंक दर (Bank Rate)",
+          "en": "Bank Rate"
+        },
+        {
+          "hi": "नकद आरक्षित अनुपात (CRR)",
+          "en": "Cash Reserve Ratio (CRR)"
+        },
+        {
+          "hi": "रेपो दर (Repo Rate)",
+          "en": "Repo Rate"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वह ब्याज दर जिस पर आरबीआई वाणिज्यिक बैंकों से अल्पकालिक जमा स्वीकार करता है, क्या कहलाती है?",
+        "en": "The rate at which RBI accepts short-term deposits from commercial banks is called:"
+      },
+      "o": [
+        {
+          "hi": "रिवर्स रेपो दर (Reverse Repo Rate)",
+          "en": "Reverse Repo Rate"
+        },
+        {
+          "hi": "रेपो दर (Repo Rate)",
+          "en": "Repo Rate"
+        },
+        {
+          "hi": "सीमांत स्थायी सुविधा (MSF)",
+          "en": "Marginal Standing Facility (MSF)"
+        },
+        {
+          "hi": "वैधानिक तरलता अनुपात (SLR)",
+          "en": "Statutory Liquidity Ratio (SLR)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वाणिज्यिक बैंकों को अपनी कुल जमा (NDTL) का एक निश्चित प्रतिशत नकद रूप में आरबीआई के पास रखना क्या कहलाता है?",
+        "en": "The fixed percentage of total deposits (NDTL) banks must keep in cash with RBI is called:"
+      },
+      "o": [
+        {
+          "hi": "वैधानिक तरलता अनुपात (SLR)",
+          "en": "Statutory Liquidity Ratio (SLR)"
+        },
+        {
+          "hi": "नकद आरक्षित अनुपात (CRR)",
+          "en": "Cash Reserve Ratio (CRR)"
+        },
+        {
+          "hi": "पूंजी पर्याप्तता अनुपात (CAR)",
+          "en": "Capital Adequacy Ratio (CAR)"
+        },
+        {
+          "hi": "प्राथमिक ऋण दर (PLR)",
+          "en": "Prime Lending Rate (PLR)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बैंकों को अपनी कुल जमा का जो अंश स्वर्ण, सरकारी प्रतिभूतियों या नकदी में अपने पास रखना होता है, उसे क्या कहते हैं?",
+        "en": "The portion of deposits banks must maintain with themselves in liquid assets like gold, govt securities, or cash is called:"
+      },
+      "o": [
+        {
+          "hi": "नकद आरक्षित अनुपात (CRR)",
+          "en": "Cash Reserve Ratio (CRR)"
+        },
+        {
+          "hi": "रेपो दर (Repo Rate)",
+          "en": "Repo Rate"
+        },
+        {
+          "hi": "वैधानिक तरलता अनुपात (SLR)",
+          "en": "Statutory Liquidity Ratio (SLR)"
+        },
+        {
+          "hi": "सीमांत स्थायी दर (MSF)",
+          "en": "Marginal Standing Facility (MSF)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आरबीआई द्वारा खुले बाजार में सरकारी प्रतिभूतियों की खरीद-बिक्री की क्रिया क्या कहलाती है?",
+        "en": "The buying and selling of government securities in the open market by RBI is known as:"
+      },
+      "o": [
+        {
+          "hi": "तरलता समायोजन सुविधा (LAF)",
+          "en": "Liquidity Adjustment Facility (LAF)"
+        },
+        {
+          "hi": "चयनात्मक साख नियंत्रण (SCC)",
+          "en": "Selective Credit Control (SCC)"
+        },
+        {
+          "hi": "नैतिक दबाव (Moral Suasion)",
+          "en": "Moral Suasion"
+        },
+        {
+          "hi": "खुला बाजार परिचालन (Open Market Operations - OMO)",
+          "en": "Open Market Operations (OMO)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मुद्रास्फीति (Inflation) को नियंत्रित करने के लिए केंद्रीय बैंक सामान्यतः क्या कदम उठाता है?",
+        "en": "To control inflation, what step does the central bank generally take?"
+      },
+      "o": [
+        {
+          "hi": "रेपो दर और सीआरआर में वृद्धि करता है",
+          "en": "Increases Repo Rate and CRR"
+        },
+        {
+          "hi": "रेपो दर और सीआरआर में कमी करता है",
+          "en": "Decreases Repo Rate and CRR"
+        },
+        {
+          "hi": "अधिक मुद्रा छापकर वितरित करता है",
+          "en": "Prints and distributes more currency"
+        },
+        {
+          "hi": "सरकारी प्रतिभूतियां बड़े पैमाने पर खरीदता है",
+          "en": "Purchases government securities heavily"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत की मौद्रिक नीति समिति (Monetary Policy Committee - MPC) में कुल कितने सदस्य होते हैं?",
+        "en": "How many total members are there in India's Monetary Policy Committee (MPC)?"
+      },
+      "o": [
+        {
+          "hi": "5 सदस्य",
+          "en": "5 Members"
+        },
+        {
+          "hi": "6 सदस्य (3 RBI + 3 केंद्र सरकार)",
+          "en": "6 Members (3 RBI + 3 Central Govt)"
+        },
+        {
+          "hi": "7 सदस्य",
+          "en": "7 Members"
+        },
+        {
+          "hi": "9 सदस्य",
+          "en": "9 Members"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मौद्रिक नीति समिति (MPC) की अध्यक्षता पदेन रूप से कौन करता है?",
+        "en": "Who serves as the ex-officio Chairperson of the Monetary Policy Committee (MPC)?"
+      },
+      "o": [
+        {
+          "hi": "केंद्रीय वित्त मंत्री",
+          "en": "Union Finance Minister"
+        },
+        {
+          "hi": "मुख्य आर्थिक सलाहकार",
+          "en": "Chief Economic Advisor"
+        },
+        {
+          "hi": "आरबीआई का गवर्नर",
+          "en": "Governor of RBI"
+        },
+        {
+          "hi": "नीति आयोग का उपाध्यक्ष",
+          "en": "Vice-Chairman of NITI Aayog"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में आधुनिक बैंकिंग प्रणाली की शुरुआत 1770 में किस बैंक की स्थापना से मानी जाती है?",
+        "en": "The beginning of modern banking in India is traced to the establishment of which bank in 1770?"
+      },
+      "o": [
+        {
+          "hi": "बंगाल बैंक (Bank of Bengal)",
+          "en": "Bank of Bengal"
+        },
+        {
+          "hi": "अवध कमर्शियल बैंक (Oudh Bank)",
+          "en": "Oudh Commercial Bank"
+        },
+        {
+          "hi": "इलाहाबाद बैंक (Allahabad Bank)",
+          "en": "Allahabad Bank"
+        },
+        {
+          "hi": "बैंक ऑफ हिंदुस्तान (Bank of Hindostan)",
+          "en": "Bank of Hindostan"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीयों द्वारा प्रबंधित सीमित देयता वाला पहला बैंक (1881) कौन-सा था?",
+        "en": "Which was the first bank managed by Indians with limited liability established in 1881?"
+      },
+      "o": [
+        {
+          "hi": "अवध कमर्शियल बैंक (Oudh Commercial Bank)",
+          "en": "Oudh Commercial Bank"
+        },
+        {
+          "hi": "पंजाब नेशनल बैंक (PNB)",
+          "en": "Punjab National Bank (PNB)"
+        },
+        {
+          "hi": "इलाहाबाद बैंक (Allahabad Bank)",
+          "en": "Allahabad Bank"
+        },
+        {
+          "hi": "इम्पीरियल बैंक ऑफ इंडिया",
+          "en": "Imperial Bank of India"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पूर्ण रूप से पहला भारतीय बैंक 1894 में लाहौर में कौन-सा स्थापित किया गया था?",
+        "en": "Which was the first purely Indian bank established in Lahore in 1894?"
+      },
+      "o": [
+        {
+          "hi": "बैंक ऑफ बड़ौदा (Bank of Baroda)",
+          "en": "Bank of Baroda"
+        },
+        {
+          "hi": "पंजाब नेशनल बैंक (PNB)",
+          "en": "Punjab National Bank (PNB)"
+        },
+        {
+          "hi": "सेंट्रल बैंक ऑफ इंडिया (CBI)",
+          "en": "Central Bank of India (CBI)"
+        },
+        {
+          "hi": "यूनियन बैंक ऑफ इंडिया",
+          "en": "Union Bank of India"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1921 में तीन प्रेसीडेंसी बैंकों (बंगाल, बॉम्बे, मद्रास) का विलय कर किस बैंक की स्थापना हुई थी?",
+        "en": "In 1921, the three presidency banks (Bengal, Bombay, Madras) were merged to form which bank?"
+      },
+      "o": [
+        {
+          "hi": "रिजर्व बैंक ऑफ इंडिया",
+          "en": "Reserve Bank of India"
+        },
+        {
+          "hi": "स्टेट बैंक ऑफ इंडिया",
+          "en": "State Bank of India"
+        },
+        {
+          "hi": "इम्पीरियल बैंक ऑफ इंडिया (Imperial Bank of India)",
+          "en": "Imperial Bank of India"
+        },
+        {
+          "hi": "सेंट्रल बैंक ऑफ इंडिया",
+          "en": "Central Bank of India"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गोरवाला समिति की सिफारिश पर 1 जुलाई 1955 को इम्पीरियल बैंक का राष्ट्रीयकरण कर किस बैंक का गठन किया गया?",
+        "en": "On the recommendation of Gorewala Committee, Imperial Bank was nationalized on 1 July 1955 to create which bank?"
+      },
+      "o": [
+        {
+          "hi": "रिजर्व बैंक ऑफ इंडिया",
+          "en": "Reserve Bank of India"
+        },
+        {
+          "hi": "पंजाब नेशनल बैंक",
+          "en": "Punjab National Bank"
+        },
+        {
+          "hi": "यूको बैंक (UCO Bank)",
+          "en": "UCO Bank"
+        },
+        {
+          "hi": "भारतीय स्टेट बैंक (SBI)",
+          "en": "State Bank of India (SBI)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "19 जुलाई 1969 को कितने प्रमुख निजी बैंकों का पहली बार राष्ट्रीयकरण किया गया था?",
+        "en": "On 19 July 1969, how many major private commercial banks were nationalized for the first time?"
+      },
+      "o": [
+        {
+          "hi": "14 वाणिज्यिक बैंक",
+          "en": "14 Commercial Banks"
+        },
+        {
+          "hi": "6 बैंक",
+          "en": "6 Banks"
+        },
+        {
+          "hi": "10 बैंक",
+          "en": "10 Banks"
+        },
+        {
+          "hi": "20 बैंक",
+          "en": "20 Banks"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1969 में 14 बैंकों के राष्ट्रीयकरण हेतु न्यूनतम जमा पूंजी सीमा क्या निर्धारित की गई थी?",
+        "en": "What was the minimum deposit threshold set for the nationalization of 14 banks in 1969?"
+      },
+      "o": [
+        {
+          "hi": "₹100 करोड़",
+          "en": "₹100 Crore"
+        },
+        {
+          "hi": "₹50 करोड़ या उससे अधिक",
+          "en": "₹50 Crore or more"
+        },
+        {
+          "hi": "₹200 करोड़",
+          "en": "₹200 Crore"
+        },
+        {
+          "hi": "₹25 करोड़",
+          "en": "₹25 Crore"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "15 अप्रैल 1980 को 6 और बैंकों का राष्ट्रीयकरण किस न्यूनतम जमा सीमा के आधार पर किया गया?",
+        "en": "On 15 April 1980, 6 more banks were nationalized based on what minimum deposit criteria?"
+      },
+      "o": [
+        {
+          "hi": "₹50 करोड़",
+          "en": "₹50 Crore"
+        },
+        {
+          "hi": "₹100 करोड़",
+          "en": "₹100 Crore"
+        },
+        {
+          "hi": "₹200 करोड़ या उससे अधिक",
+          "en": "₹200 Crore or more"
+        },
+        {
+          "hi": "₹500 करोड़",
+          "en": "₹500 Crore"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में प्रथम क्षेत्रीय ग्रामीण बैंक (RRB) 'प्रथमा बैंक' की स्थापना कब हुई थी?",
+        "en": "When was India's first Regional Rural Bank (RRB), 'Prathama Bank', established?"
+      },
+      "o": [
+        {
+          "hi": "15 अगस्त 1969",
+          "en": "15 August 1969"
+        },
+        {
+          "hi": "1 जनवरी 1982",
+          "en": "1 January 1982"
+        },
+        {
+          "hi": "14 नवंबर 1980",
+          "en": "14 November 1980"
+        },
+        {
+          "hi": "2 अक्टूबर 1975",
+          "en": "2 October 1975"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "क्षेत्रीय ग्रामीण बैंकों (RRBs) में केंद्र, राज्य और प्रायोजक बैंक की अंशधारिता का अनुपात क्या होता है?",
+        "en": "What is the shareholding ratio of Centre, State, and Sponsor Bank in RRBs?"
+      },
+      "o": [
+        {
+          "hi": "50% : 15% : 35%",
+          "en": "50% : 15% : 35%"
+        },
+        {
+          "hi": "60% : 20% : 20%",
+          "en": "60% : 20% : 20%"
+        },
+        {
+          "hi": "40% : 30% : 30%",
+          "en": "40% : 30% : 30%"
+        },
+        {
+          "hi": "33% : 33% : 34%",
+          "en": "33% : 33% : 34%"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत के किन दो राज्यों में कोई क्षेत्रीय ग्रामीण बैंक (RRB) कार्यरत नहीं है?",
+        "en": "In which two Indian states are there no Regional Rural Banks (RRBs) operating?"
+      },
+      "o": [
+        {
+          "hi": "मणिपुर और नागालैंड",
+          "en": "Manipur and Nagaland"
+        },
+        {
+          "hi": "सिक्किम और गोवा",
+          "en": "Sikkim and Goa"
+        },
+        {
+          "hi": "केरल और त्रिपुरा",
+          "en": "Kerala and Tripura"
+        },
+        {
+          "hi": "हिमाचल प्रदेश और मिजोरम",
+          "en": "Himachal Pradesh and Mizoram"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कृषि एवं ग्रामीण विकास के लिए शीर्ष बैंक 'नाबार्ड' (NABARD) की स्थापना किस समिति की सिफारिश पर हुई थी?",
+        "en": "On the recommendation of which committee was NABARD established on 12 July 1982?"
+      },
+      "o": [
+        {
+          "hi": "नरसिम्हम समिति",
+          "en": "Narasimham Committee"
+        },
+        {
+          "hi": "तेंदुलकर समिति",
+          "en": "Tendulkar Committee"
+        },
+        {
+          "hi": "शिवरामन समिति (B. Sivaraman Committee)",
+          "en": "B. Sivaraman Committee"
+        },
+        {
+          "hi": "गाडगिल समिति",
+          "en": "Gadgil Committee"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय लघु उद्योग विकास बैंक (SIDBI) का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of the Small Industries Development Bank of India (SIDBI) located?"
+      },
+      "o": [
+        {
+          "hi": "मुंबई (Mumbai)",
+          "en": "Mumbai"
+        },
+        {
+          "hi": "नई दिल्ली (New Delhi)",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "कोलकाता (Kolkata)",
+          "en": "Kolkata"
+        },
+        {
+          "hi": "लखनऊ (Lucknow)",
+          "en": "Lucknow"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय प्रतिभूति एवं विनिमय बोर्ड (SEBI) की स्थापना गैर-वैधानिक रूप में कब हुई थी?",
+        "en": "When was the Securities and Exchange Board of India (SEBI) initially set up as a non-statutory body?"
+      },
+      "o": [
+        {
+          "hi": "12 अप्रैल 1988",
+          "en": "12 April 1988"
+        },
+        {
+          "hi": "30 जनवरी 1992",
+          "en": "30 January 1992"
+        },
+        {
+          "hi": "1 जनवरी 1990",
+          "en": "1 January 1990"
+        },
+        {
+          "hi": "15 अगस्त 1985",
+          "en": "15 August 1985"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सेबी (SEBI) को अध्यादेश/संसदीय अधिनियम द्वारा वैधानिक दर्जा (Statutory Status) कब प्रदान किया गया?",
+        "en": "When was SEBI granted statutory status through an Act of Parliament?"
+      },
+      "o": [
+        {
+          "hi": "12 अप्रैल 1988",
+          "en": "12 April 1988"
+        },
+        {
+          "hi": "30 जनवरी 1992",
+          "en": "30 January 1992"
+        },
+        {
+          "hi": "1 जुलाई 1995",
+          "en": "1 July 1995"
+        },
+        {
+          "hi": "1 अप्रैल 2000",
+          "en": "1 April 2000"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एशिया का सबसे पुराना स्टॉक एक्सचेंज कौन-सा है जिसकी स्थापना 1875 में हुई थी?",
+        "en": "Which is the oldest stock exchange in Asia, established in 1875?"
+      },
+      "o": [
+        {
+          "hi": "नेशनल स्टॉक एक्सचेंज (NSE)",
+          "en": "National Stock Exchange (NSE)"
+        },
+        {
+          "hi": "टोक्यो स्टॉक एक्सचेंज",
+          "en": "Tokyo Stock Exchange"
+        },
+        {
+          "hi": "बॉम्बे स्टॉक एक्सचेंज (BSE)",
+          "en": "Bombay Stock Exchange (BSE)"
+        },
+        {
+          "hi": "हांगकांग स्टॉक एक्सचेंज",
+          "en": "Hong Kong Stock Exchange"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बॉम्बे स्टॉक एक्सचेंज (BSE) के संवेदी सूचकांक 'सेंसेक्स' (Sensex) में कितनी शीर्ष कंपनियां शामिल हैं?",
+        "en": "How many top companies comprise the BSE benchmark index 'Sensex'?"
+      },
+      "o": [
+        {
+          "hi": "50 कंपनियां",
+          "en": "50 Companies"
+        },
+        {
+          "hi": "100 कंपनियां",
+          "en": "100 Companies"
+        },
+        {
+          "hi": "25 कंपनियां",
+          "en": "25 Companies"
+        },
+        {
+          "hi": "30 कंपनियां",
+          "en": "30 Companies"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नेशनल स्टॉक एक्सचेंज (NSE) की स्थापना 1992 में किस समिति की सिफारिश पर हुई थी?",
+        "en": "NSE was established in 1992 on the recommendation of which committee?"
+      },
+      "o": [
+        {
+          "hi": "एम.जे. फेरवानी समिति (Pherwani Committee)",
+          "en": "M.J. Pherwani Committee"
+        },
+        {
+          "hi": "सी. रंगराजन समिति",
+          "en": "C. Rangarajan Committee"
+        },
+        {
+          "hi": "तारापोर समिति",
+          "en": "Tarapore Committee"
+        },
+        {
+          "hi": "दवे समिति",
+          "en": "Dave Committee"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नेशनल स्टॉक एक्सचेंज (NSE) का प्रमुख सूचकांक 'निफ्टी' (Nifty 50) कितनी कंपनियों पर आधारित है?",
+        "en": "On how many companies is the NSE benchmark index 'Nifty 50' based?"
+      },
+      "o": [
+        {
+          "hi": "30 कंपनियां",
+          "en": "30 Companies"
+        },
+        {
+          "hi": "50 प्रमुख कंपनियां",
+          "en": "50 Top Companies"
+        },
+        {
+          "hi": "100 कंपनियां",
+          "en": "100 Companies"
+        },
+        {
+          "hi": "500 कंपनियां",
+          "en": "500 Companies"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "शेयर बाजार में 'तेजड़िया' (Bull) और 'मंदड़िया' (Bear) शब्द किससे संबंधित हैं?",
+        "en": "In the stock market, what do the terms 'Bull' and 'Bear' relate to?"
+      },
+      "o": [
+        {
+          "hi": "विदेशी निवेशक",
+          "en": "Foreign Investors"
+        },
+        {
+          "hi": "बैंक ऋणदाता",
+          "en": "Bank Lenders"
+        },
+        {
+          "hi": "सटोरिए / बाजार आशावादी व निराशावादी",
+          "en": "Speculators / Optimistic and Pessimistic traders"
+        },
+        {
+          "hi": "सरकारी लेखाकार",
+          "en": "Government Auditors"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय जीवन बीमा निगम (LIC) की स्थापना और राष्ट्रीयकरण किस वर्ष हुआ था?",
+        "en": "In which year was the Life Insurance Corporation of India (LIC) established and nationalized?"
+      },
+      "o": [
+        {
+          "hi": "1 जनवरी 1972",
+          "en": "1 January 1972"
+        },
+        {
+          "hi": "15 अगस्त 1948",
+          "en": "15 August 1948"
+        },
+        {
+          "hi": "1 अप्रैल 1960",
+          "en": "1 April 1960"
+        },
+        {
+          "hi": "1 सितंबर 1956",
+          "en": "1 September 1956"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बीमा क्षेत्र का नियामक प्राधिकरण 'IRDAI' (इरडा) का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of the insurance sector regulator 'IRDAI' located?"
+      },
+      "o": [
+        {
+          "hi": "हैदराबाद (Hyderabad)",
+          "en": "Hyderabad"
+        },
+        {
+          "hi": "मुंबई (Mumbai)",
+          "en": "Mumbai"
+        },
+        {
+          "hi": "नई दिल्ली (New Delhi)",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "चेन्नई (Chennai)",
+          "en": "Chennai"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आर.एन. मल्होत्रा समिति (1993-94) की सिफारिशों का संबंध किस क्षेत्र के सुधारों से था?",
+        "en": "The recommendations of the R.N. Malhotra Committee (1993-94) pertained to reforms in:"
+      },
+      "o": [
+        {
+          "hi": "बैंकिंग ढांचा सुधार",
+          "en": "Banking Structure Reforms"
+        },
+        {
+          "hi": "बीमा क्षेत्र सुधार (Insurance Sector Reforms)",
+          "en": "Insurance Sector Reforms"
+        },
+        {
+          "hi": "शेयर बाजार सुधार",
+          "en": "Stock Market Reforms"
+        },
+        {
+          "hi": "रेलवे बजट सुधार",
+          "en": "Railway Budget Reforms"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

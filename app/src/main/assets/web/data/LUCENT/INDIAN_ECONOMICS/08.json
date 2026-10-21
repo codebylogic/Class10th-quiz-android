@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भारतीय अर्थव्यवस्था (Indian Economy)",
+  "subtitle": "आर्थिक शब्दावली और विविध तथ्य",
+  "description": "आर्थिक शब्दावली और विविध तथ्य पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "वस्तुओं और सेवाओं के सामान्य मूल्य स्तर में निरंतर एवं सतत वृद्धि को क्या कहते हैं?",
+        "en": "What is a sustained and continuous increase in the general price level of goods and services called?"
+      },
+      "o": [
+        {
+          "hi": "मुद्रास्फीति (Inflation)",
+          "en": "Inflation"
+        },
+        {
+          "hi": "मुद्रा संकुचन या अपस्फीति (Deflation)",
+          "en": "Deflation"
+        },
+        {
+          "hi": "मुद्रा अवमूल्यन (Devaluation)",
+          "en": "Devaluation"
+        },
+        {
+          "hi": "मंदी (Recession)",
+          "en": "Recession"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मुद्रास्फीति (Inflation) के दौरान मुद्रा के मूल्य (क्रय शक्ति) पर क्या प्रभाव पड़ता है?",
+        "en": "During inflation, what happens to the purchasing power of money?"
+      },
+      "o": [
+        {
+          "hi": "मुद्रा की क्रय शक्ति बढ़ती है (Increases)",
+          "en": "Purchasing power of money increases"
+        },
+        {
+          "hi": "मुद्रा की क्रय शक्ति घटती है (Decreases)",
+          "en": "Purchasing power of money decreases"
+        },
+        {
+          "hi": "मुद्रा की क्रय शक्ति अपरिवर्तित रहती है",
+          "en": "Purchasing power remains unchanged"
+        },
+        {
+          "hi": "शून्य हो जाती है",
+          "en": "Becomes zero"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मुद्रास्फीति से सर्वाधिक लाभ किसे होता है?",
+        "en": "Who benefits the most from inflation?"
+      },
+      "o": [
+        {
+          "hi": "ऋणदाता / साहूकार (Creditor/Lender)",
+          "en": "Creditor / Lender"
+        },
+        {
+          "hi": "पेंशनभोगी / स्थिर आय वर्ग",
+          "en": "Pensioners / Fixed Income Earners"
+        },
+        {
+          "hi": "ऋणी / कर्जदार (Debtor/Borrower)",
+          "en": "Debtor / Borrower"
+        },
+        {
+          "hi": "बचत खाता धारक",
+          "en": "Savings Account Depositors"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जब अर्थव्यवस्था में उच्च मुद्रास्फीति के साथ आर्थिक संवृद्धि मंद हो और उच्च बेरोजगारी हो, तो उसे क्या कहते हैं?",
+        "en": "When high inflation coexists with stagnant economic growth and high unemployment, what is it called?"
+      },
+      "o": [
+        {
+          "hi": "अति-मुद्रास्फीति (Hyperinflation)",
+          "en": "Hyperinflation"
+        },
+        {
+          "hi": "रिफ्लेशन (Reflation)",
+          "en": "Reflation"
+        },
+        {
+          "hi": "अवस्फीति (Disinflation)",
+          "en": "Disinflation"
+        },
+        {
+          "hi": "स्टैगफ्लेशन / मुद्रास्फीतिजनित मंदी",
+          "en": "Stagflation"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मुद्रास्फीति और बेरोजगारी के बीच व्युत्क्रम (उल्टा) संबंध प्रदर्शित करने वाले वक्र को क्या कहते हैं?",
+        "en": "What is the curve showing the inverse relationship between inflation and unemployment called?"
+      },
+      "o": [
+        {
+          "hi": "फिलिप्स वक्र (Phillips Curve)",
+          "en": "Phillips Curve"
+        },
+        {
+          "hi": "लॉरेंज वक्र (Lorenz Curve)",
+          "en": "Lorenz Curve"
+        },
+        {
+          "hi": "लाफर वक्र (Laffer Curve)",
+          "en": "Laffer Curve"
+        },
+        {
+          "hi": "एंजेल वक्र (Engel Curve)",
+          "en": "Engel Curve"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किसी देश में आय अथवा धन की विषमता (विभाजन) को मापने के लिए किस वक्र का प्रयोग किया जाता है?",
+        "en": "Which curve is used to graphically represent income or wealth inequality in a population?"
+      },
+      "o": [
+        {
+          "hi": "फिलिप्स वक्र (Phillips Curve)",
+          "en": "Phillips Curve"
+        },
+        {
+          "hi": "लॉरेंज वक्र (Lorenz Curve)",
+          "en": "Lorenz Curve"
+        },
+        {
+          "hi": "लाफर वक्र (Laffer Curve)",
+          "en": "Laffer Curve"
+        },
+        {
+          "hi": "कुजनेट्स वक्र (Kuznets Curve)",
+          "en": "Kuznets Curve"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आय असमानता का संख्यात्मक माप 'गिनी गुणांक' (Gini Coefficient) का मान किसके मध्य होता है?",
+        "en": "What is the numerical range of the Gini Coefficient measuring income inequality?"
+      },
+      "o": [
+        {
+          "hi": "-1 से +1 के बीच",
+          "en": "Between -1 and +1"
+        },
+        {
+          "hi": "0 से 100 के बीच",
+          "en": "Between 0 and 100"
+        },
+        {
+          "hi": "0 से 1 के बीच (0 = पूर्ण समानता, 1 = पूर्ण असमानता)",
+          "en": "Between 0 and 1 (0=Equality, 1=Inequality)"
+        },
+        {
+          "hi": "1 से 10 के बीच",
+          "en": "Between 1 and 10"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कर की दरों (Tax Rates) और कुल प्राप्त कर राजस्व (Tax Revenue) के संबंध को कौन-सा वक्र दर्शाता है?",
+        "en": "Which curve illustrates the relationship between tax rates and total tax revenue?"
+      },
+      "o": [
+        {
+          "hi": "एंजेल वक्र (Engel Curve)",
+          "en": "Engel Curve"
+        },
+        {
+          "hi": "फिलिप्स वक्र (Phillips Curve)",
+          "en": "Phillips Curve"
+        },
+        {
+          "hi": "लॉरेंज वक्र (Lorenz Curve)",
+          "en": "Lorenz Curve"
+        },
+        {
+          "hi": "लाफर वक्र (Laffer Curve)",
+          "en": "Laffer Curve"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'आय बढ़ने पर भोजन पर होने वाले व्यय का अनुपात घटता जाता है'—यह नियम किसका है?",
+        "en": "'As income increases, the proportion of income spent on food decreases'—Whose law is this?"
+      },
+      "o": [
+        {
+          "hi": "एंजेल का नियम (Engel's Law)",
+          "en": "Engel's Law"
+        },
+        {
+          "hi": "ग्रीशम का नियम (Gresham's Law)",
+          "en": "Gresham's Law"
+        },
+        {
+          "hi": "से का नियम (Say's Law)",
+          "en": "Say's Law of Markets"
+        },
+        {
+          "hi": "माल्थस का नियम (Malthus's Law)",
+          "en": "Malthus's Law"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'बुरी मुद्रा अच्छी मुद्रा को चलन से बाहर कर देती है'—यह प्रसिद्ध नियम किसका है?",
+        "en": "'Bad money drives out good money from circulation'—Whose famous economic law is this?"
+      },
+      "o": [
+        {
+          "hi": "एडम स्मिथ का नियम",
+          "en": "Adam Smith's Law"
+        },
+        {
+          "hi": "ग्रीशम का नियम (Sir Thomas Gresham)",
+          "en": "Gresham's Law (Sir Thomas Gresham)"
+        },
+        {
+          "hi": "रिकार्डो का नियम",
+          "en": "Ricardo's Law"
+        },
+        {
+          "hi": "कीन्स का नियम",
+          "en": "Keynes's Law"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'पूर्ति अपनी मांग स्वयं सृजित करती है' (Supply creates its own demand)—यह कथन किसका है?",
+        "en": "'Supply creates its own demand'—Which classical economist stated this?"
+      },
+      "o": [
+        {
+          "hi": "जे.एम. कीन्स (J.M. Keynes)",
+          "en": "J.M. Keynes"
+        },
+        {
+          "hi": "अमर्त्य सेन (Amartya Sen)",
+          "en": "Amartya Sen"
+        },
+        {
+          "hi": "जे.बी. से (J.B. Say)",
+          "en": "J.B. Say"
+        },
+        {
+          "hi": "अल्फ्रेड मार्शल (Alfred Marshall)",
+          "en": "Alfred Marshall"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में गरीबी रेखा के निर्धारण हेतु कैलोरी मान ग्रामीण और शहरी क्षेत्रों के लिए क्रमशः क्या तय किया गया था?",
+        "en": "What daily minimum calorie intake was set for poverty line determination in rural and urban areas respectively?"
+      },
+      "o": [
+        {
+          "hi": "ग्रामीण 2100 कैलोरी और शहरी 2400 कैलोरी",
+          "en": "Rural 2100 kcal and Urban 2400 kcal"
+        },
+        {
+          "hi": "ग्रामीण 2500 कैलोरी और शहरी 2200 कैलोरी",
+          "en": "Rural 2500 kcal and Urban 2200 kcal"
+        },
+        {
+          "hi": "ग्रामीण 2000 कैलोरी और शहरी 1800 कैलोरी",
+          "en": "Rural 2000 kcal and Urban 1800 kcal"
+        },
+        {
+          "hi": "ग्रामीण 2400 कैलोरी और शहरी 2100 कैलोरी",
+          "en": "Rural 2400 kcal and Urban 2100 kcal"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गरीबी मापन के लिए न्यूनतम कैलोरी उपभोग का पैमाना किस कार्यदल (1979) ने निर्धारित किया था?",
+        "en": "Which Task Force (1979) recommended the minimum calorie intake criterion for poverty measurement?"
+      },
+      "o": [
+        {
+          "hi": "वाई.के. अलघ कार्यदल (Y.K. Alagh Committee)",
+          "en": "Y.K. Alagh Task Force"
+        },
+        {
+          "hi": "सुरेश तेंदुलकर समिति",
+          "en": "Suresh Tendulkar Committee"
+        },
+        {
+          "hi": "सी. रंगराजन समिति",
+          "en": "C. Rangarajan Committee"
+        },
+        {
+          "hi": "डी.टी. लकड़ावाला समिति",
+          "en": "D.T. Lakdawala Committee"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में गरीबी आकलन के लिए 2009 में प्रति व्यक्ति मासिक उपभोग व्यय आधारित रिपोर्ट किस समिति ने सौंपी?",
+        "en": "Which committee submitted a report in 2009 on poverty estimation based on monthly per capita expenditure?"
+      },
+      "o": [
+        {
+          "hi": "सी. रंगराजन समिति",
+          "en": "C. Rangarajan Committee"
+        },
+        {
+          "hi": "सुरेश तेंदुलकर समिति (Suresh Tendulkar Committee)",
+          "en": "Suresh Tendulkar Committee"
+        },
+        {
+          "hi": "राजा चेलैया समिति",
+          "en": "Raja Chelliah Committee"
+        },
+        {
+          "hi": "तारापोर समिति",
+          "en": "Tarapore Committee"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तेंदुलकर समिति की पद्धति के अनुसार 2011-12 में भारत में गरीबी का अनुपात कितना आंका गया था?",
+        "en": "According to the Tendulkar Committee methodology, what was India's poverty ratio in 2011-12?"
+      },
+      "o": [
+        {
+          "hi": "29.5%",
+          "en": "29.5%"
+        },
+        {
+          "hi": "37.2%",
+          "en": "37.2%"
+        },
+        {
+          "hi": "21.9% (लगभग 22%)",
+          "en": "21.9% (Approx 22%)"
+        },
+        {
+          "hi": "15.5%",
+          "en": "15.5%"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तेंदुलकर समिति की सिफारिशों की समीक्षा हेतु 2012 में गठित समिति के अध्यक्ष कौन थे?",
+        "en": "Who chaired the expert committee formed in 2012 to review the Tendulkar methodology on poverty?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. बिमल जालान",
+          "en": "Dr. Bimal Jalan"
+        },
+        {
+          "hi": "उर्जित पटेल",
+          "en": "Urjit Patel"
+        },
+        {
+          "hi": "अरविंद सुब्रमण्यन",
+          "en": "Arvind Subramanian"
+        },
+        {
+          "hi": "डॉ. सी. रंगराजन (Dr. C. Rangarajan)",
+          "en": "Dr. C. Rangarajan"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में 'राष्ट्रीय बहुआयामी गरीबी सूचकांक' (National MPI) कौन जारी करता है?",
+        "en": "Who releases the 'National Multidimensional Poverty Index' (MPI) in India?"
+      },
+      "o": [
+        {
+          "hi": "नीति आयोग (NITI Aayog)",
+          "en": "NITI Aayog"
+        },
+        {
+          "hi": "राष्ट्रीय सांख्यिकी कार्यालय (NSO)",
+          "en": "National Statistical Office (NSO)"
+        },
+        {
+          "hi": "वित्त मंत्रालय (Ministry of Finance)",
+          "en": "Ministry of Finance"
+        },
+        {
+          "hi": "गृह मंत्रालय (Ministry of Home Affairs)",
+          "en": "Ministry of Home Affairs"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सरकार के कुल व्यय और कुल प्राप्तियों (उधार छोड़कर) का अंतर क्या कहलाता है?",
+        "en": "The difference between total government expenditure and total receipts (excluding borrowings) is:"
+      },
+      "o": [
+        {
+          "hi": "राजस्व घाटा (Revenue Deficit)",
+          "en": "Revenue Deficit"
+        },
+        {
+          "hi": "राजकोषीय घाटा (Fiscal Deficit)",
+          "en": "Fiscal Deficit"
+        },
+        {
+          "hi": "प्राथमिक घाटा (Primary Deficit)",
+          "en": "Primary Deficit"
+        },
+        {
+          "hi": "मौद्रिक घाटा (Monetized Deficit)",
+          "en": "Monetized Deficit"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्राथमिक घाटा (Primary Deficit) ज्ञात करने का सही सूत्र क्या है?",
+        "en": "What is the correct formula to compute the Primary Deficit?"
+      },
+      "o": [
+        {
+          "hi": "राजस्व घाटा - सब्सिडी भुगतान",
+          "en": "Revenue Deficit - Subsidies"
+        },
+        {
+          "hi": "बजट घाटा - पूंजीगत व्यय",
+          "en": "Budget Deficit - Capital Expenditure"
+        },
+        {
+          "hi": "राजकोषीय घाटा - ब्याज भुगतान",
+          "en": "Fiscal Deficit - Interest Payments"
+        },
+        {
+          "hi": "राजकोषीय घाटा + विदेशी सहायता",
+          "en": "Fiscal Deficit + Foreign Aid"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राजस्व व्यय (Revenue Expenditure) और राजस्व प्राप्तियों (Revenue Receipts) के अंतर को क्या कहते हैं?",
+        "en": "The excess of revenue expenditure over revenue receipts is called:"
+      },
+      "o": [
+        {
+          "hi": "पूंजीगत घाटा (Capital Deficit)",
+          "en": "Capital Deficit"
+        },
+        {
+          "hi": "प्रभावी राजस्व घाटा (Effective Revenue Deficit)",
+          "en": "Effective Revenue Deficit"
+        },
+        {
+          "hi": "व्यापार घाटा (Trade Deficit)",
+          "en": "Trade Deficit"
+        },
+        {
+          "hi": "राजस्व घाटा (Revenue Deficit)",
+          "en": "Revenue Deficit"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शून्य आधारित बजटिंग (Zero-Based Budgeting - ZBB) का जनक किसे माना जाता है?",
+        "en": "Who is considered the Father of Zero-Based Budgeting (ZBB)?"
+      },
+      "o": [
+        {
+          "hi": "पीटर ए. पायर (Peter A. Pyhrr)",
+          "en": "Peter A. Pyhrr"
+        },
+        {
+          "hi": "एडम स्मिथ (Adam Smith)",
+          "en": "Adam Smith"
+        },
+        {
+          "hi": "डेविड रिकार्डो (David Ricardo)",
+          "en": "David Ricardo"
+        },
+        {
+          "hi": "मिल्टन फ्रीडमैन (Milton Friedman)",
+          "en": "Milton Friedman"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में शून्य आधारित बजट (ZBB) सर्वप्रथम किस वित्तीय वर्ष के केंद्रीय बजट में प्रस्तुत किया गया था?",
+        "en": "In which financial year's Union Budget was Zero-Based Budgeting first introduced in India?"
+      },
+      "o": [
+        {
+          "hi": "1991-92 में",
+          "en": "In 1991-92"
+        },
+        {
+          "hi": "1986-87 में (वी.पी. सिंह वित्त मंत्री)",
+          "en": "In 1986-87 (V.P. Singh Finance Minister)"
+        },
+        {
+          "hi": "1998-99 में",
+          "en": "In 1998-99"
+        },
+        {
+          "hi": "2004-05 में",
+          "en": "In 2004-05"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में 'जेंडर बजटिंग' (Gender Budgeting) की औपचारिक शुरुआत किस वित्तीय वर्ष के बजट से हुई?",
+        "en": "In which financial year was 'Gender Budgeting' formally introduced in India?"
+      },
+      "o": [
+        {
+          "hi": "2000-01 के बजट से",
+          "en": "From 2000-01 Budget"
+        },
+        {
+          "hi": "2010-11 के बजट से",
+          "en": "From 2010-11 Budget"
+        },
+        {
+          "hi": "2005-06 के बजट से",
+          "en": "From the 2005-06 Budget"
+        },
+        {
+          "hi": "2014-15 के बजट से",
+          "en": "From 2014-15 Budget"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लगभग 92 वर्षों बाद किस समिति की सिफारिश पर रेल बजट का आम बजट में विलय 2017-18 में किया गया?",
+        "en": "On the recommendation of which committee was the Railway Budget merged with the General Budget in 2017-18?"
+      },
+      "o": [
+        {
+          "hi": "एकवर्थ समिति (Acworth Committee)",
+          "en": "Acworth Committee"
+        },
+        {
+          "hi": "सैम पित्रोदा समिति",
+          "en": "Sam Pitroda Committee"
+        },
+        {
+          "hi": "रंगराजन समिति",
+          "en": "Rangarajan Committee"
+        },
+        {
+          "hi": "बिबेक देबरॉय समिति (Bibek Debroy Committee)",
+          "en": "Bibek Debroy Committee"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रेल बजट को आम बजट से अलग किस समिति की सिफारिश पर 1924 में किया गया था?",
+        "en": "On the recommendation of which committee was the Railway Budget separated from the General Budget in 1924?"
+      },
+      "o": [
+        {
+          "hi": "विलियम एकवर्थ समिति (Acworth Committee)",
+          "en": "William Acworth Committee"
+        },
+        {
+          "hi": "हिल्टन यंग समिति",
+          "en": "Hilton Young Committee"
+        },
+        {
+          "hi": "मैकलेगन समिति",
+          "en": "Maclagan Committee"
+        },
+        {
+          "hi": "बबलर समिति",
+          "en": "Babler Committee"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "केंद्रीय बजट पेश करने की तिथि 28 फरवरी से बदलकर 1 फरवरी किस वर्ष से की गई?",
+        "en": "From which year was the presentation of the Union Budget shifted from late February to 1 February?"
+      },
+      "o": [
+        {
+          "hi": "2014 से",
+          "en": "From 2014"
+        },
+        {
+          "hi": "2017 से (अरुण जेटली द्वारा)",
+          "en": "From 2017 (by Arun Jaitley)"
+        },
+        {
+          "hi": "2019 से",
+          "en": "From 2019"
+        },
+        {
+          "hi": "2015 से",
+          "en": "From 2015"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में सर्वाधिक बार (10 बार) बजट पेश करने का कीर्तिमान किस वित्त मंत्री के नाम है?",
+        "en": "Which Finance Minister holds the record for presenting the Union Budget the highest number of times (10 times)?"
+      },
+      "o": [
+        {
+          "hi": "पी. चिदंबरम (P. Chidambaram)",
+          "en": "P. Chidambaram"
+        },
+        {
+          "hi": "प्रणब मुखर्जी (Pranab Mukherjee)",
+          "en": "Pranab Mukherjee"
+        },
+        {
+          "hi": "मोरारजी देसाई (Morarji Desai)",
+          "en": "Morarji Desai"
+        },
+        {
+          "hi": "डॉ. मनमोहन सिंह (Dr. Manmohan Singh)",
+          "en": "Dr. Manmohan Singh"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्वतंत्र भारत का पहला केंद्रीय बजट 26 नवंबर 1947 को किसने पेश किया था?",
+        "en": "Who presented independent India's first Union Budget on 26 November 1947?"
+      },
+      "o": [
+        {
+          "hi": "जॉन मथाई (John Mathai)",
+          "en": "John Mathai"
+        },
+        {
+          "hi": "सी.डी. देशमुख (C.D. Deshmukh)",
+          "en": "C.D. Deshmukh"
+        },
+        {
+          "hi": "लियाकत अली खान (Liaquat Ali Khan)",
+          "en": "Liaquat Ali Khan"
+        },
+        {
+          "hi": "आर.के. षणमुखम चेट्टी (R.K. Shanmukham Chetty)",
+          "en": "R.K. Shanmukham Chetty"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गणतंत्र भारत का पहला केंद्रीय बजट 1950 में किसने पेश किया था?",
+        "en": "Who presented the first Union Budget of the Republic of India in 1950?"
+      },
+      "o": [
+        {
+          "hi": "जॉन मथाई (John Mathai)",
+          "en": "John Mathai"
+        },
+        {
+          "hi": "आर.के. षणमुखम चेट्टी",
+          "en": "R.K. Shanmukham Chetty"
+        },
+        {
+          "hi": "सी.डी. देशमुख",
+          "en": "C.D. Deshmukh"
+        },
+        {
+          "hi": "टी.टी. कृष्णमाचारी",
+          "en": "T.T. Krishnamachari"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में पहला बजट ब्रिटिश शासन के दौरान 18 फरवरी 1860 को किसने पेश किया था?",
+        "en": "Who presented the first budget in India during British rule on 18 February 1860?"
+      },
+      "o": [
+        {
+          "hi": "लॉर्ड कैनिंग (Lord Canning)",
+          "en": "Lord Canning"
+        },
+        {
+          "hi": "जेम्स विल्सन (James Wilson)",
+          "en": "James Wilson"
+        },
+        {
+          "hi": "लॉर्ड डलहौजी (Lord Dalhousie)",
+          "en": "Lord Dalhousie"
+        },
+        {
+          "hi": "विलियम बेंटिंक (William Bentinck)",
+          "en": "William Bentinck"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वह बाजार जहाँ केवल एक ही विक्रेता (क्रेता अनेक) होता है, क्या कहलाता है?",
+        "en": "A market structure where there is only a single seller of a product is called:"
+      },
+      "o": [
+        {
+          "hi": "अल्पाधिकार (Oligopoly)",
+          "en": "Oligopoly"
+        },
+        {
+          "hi": "क्रेताधिकार (Monopsony)",
+          "en": "Monopsony"
+        },
+        {
+          "hi": "एकाधिकार (Monopoly)",
+          "en": "Monopoly"
+        },
+        {
+          "hi": "द्वयाधिकार (Duopoly)",
+          "en": "Duopoly"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वह बाजार संरचना जहाँ केवल कुछ ही बड़े विक्रेता होते हैं, क्या कहलाती है?",
+        "en": "A market situation dominated by a small number of large sellers is known as:"
+      },
+      "o": [
+        {
+          "hi": "एकाधिकार (Monopoly)",
+          "en": "Monopoly"
+        },
+        {
+          "hi": "पूर्ण प्रतियोगिता (Perfect Competition)",
+          "en": "Perfect Competition"
+        },
+        {
+          "hi": "द्वयाधिकार (Duopoly)",
+          "en": "Duopoly"
+        },
+        {
+          "hi": "अल्पाधिकार (Oligopoly)",
+          "en": "Oligopoly"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वह बाजार जहाँ केवल एक ही खरीदार (क्रेता) होता है, क्या कहलाता है?",
+        "en": "What is a market structure with only one single buyer called?"
+      },
+      "o": [
+        {
+          "hi": "क्रेताधिकार (Monopsony)",
+          "en": "Monopsony"
+        },
+        {
+          "hi": "एकाधिकार (Monopoly)",
+          "en": "Monopoly"
+        },
+        {
+          "hi": "अल्पाधिकार (Oligopoly)",
+          "en": "Oligopoly"
+        },
+        {
+          "hi": "सिंडिकेट (Syndicate)",
+          "en": "Syndicate"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गिफिन वस्तुएं (Giffen Goods) किस प्रकार की वस्तुएं होती हैं?",
+        "en": "What are Giffen Goods defined as in microeconomics?"
+      },
+      "o": [
+        {
+          "hi": "विलासिता की अत्यंत महंगी वस्तुएं",
+          "en": "Extremely expensive luxury goods"
+        },
+        {
+          "hi": "निकृष्ट वस्तुएं जिन पर मांग का नियम लागू नहीं होता",
+          "en": "Inferior goods on which law of demand does not apply"
+        },
+        {
+          "hi": "वेबलेन प्रतिष्ठा सूचक वस्तुएं",
+          "en": "Veblen status-seeking goods"
+        },
+        {
+          "hi": "सार्वजनिक उपयोग की मुफ्त वस्तुएं",
+          "en": "Free public utility goods"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किसी वस्तु की कीमत बढ़ने पर उसकी मांग में कमी आना अर्थशास्त्र का कौन-सा नियम है?",
+        "en": "The economic principle stating that when price rises, demand falls is known as:"
+      },
+      "o": [
+        {
+          "hi": "पूर्ति का नियम (Law of Supply)",
+          "en": "Law of Supply"
+        },
+        {
+          "hi": "सीमान्त उपयोगिता ह्रास नियम",
+          "en": "Law of Diminishing Marginal Utility"
+        },
+        {
+          "hi": "मांग का नियम (Law of Demand)",
+          "en": "Law of Demand"
+        },
+        {
+          "hi": "प्रतिस्थापन का नियम (Law of Substitution)",
+          "en": "Law of Substitution"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अर्थशास्त्र का नोबेल पुरस्कार जीतने वाले प्रथम भारतीय कौन थे?",
+        "en": "Who was the first Indian to win the Nobel Prize in Economic Sciences (in 1998)?"
+      },
+      "o": [
+        {
+          "hi": "अभिजीत बनर्जी (Abhijit Banerjee)",
+          "en": "Abhijit Banerjee"
+        },
+        {
+          "hi": "डॉ. मनमोहन सिंह (Dr. Manmohan Singh)",
+          "en": "Dr. Manmohan Singh"
+        },
+        {
+          "hi": "प्रो. राज कृष्णा (Prof. Raj Krishna)",
+          "en": "Prof. Raj Krishna"
+        },
+        {
+          "hi": "प्रो. अमर्त्य सेन (Prof. Amartya Sen)",
+          "en": "Prof. Amartya Sen"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अमर्त्य सेन को किस क्षेत्र में योगदान के लिए 1998 में अर्थशास्त्र का नोबेल पुरस्कार दिया गया था?",
+        "en": "For contributions in which field was Amartya Sen awarded the Nobel Prize in Economics in 1998?"
+      },
+      "o": [
+        {
+          "hi": "कल्याणकारी अर्थशास्त्र (Welfare Economics)",
+          "en": "Welfare Economics"
+        },
+        {
+          "hi": "मौद्रिक अर्थशास्त्र (Monetary Economics)",
+          "en": "Monetary Economics"
+        },
+        {
+          "hi": "अंतरराष्ट्रीय व्यापार सिद्धांत",
+          "en": "International Trade Theory"
+        },
+        {
+          "hi": "औद्योगिक संगठन सिद्धांत",
+          "en": "Industrial Organization Theory"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "2019 में अर्थशास्त्र का नोबेल पुरस्कार जीतने वाले भारतीय मूल के अर्थशास्त्री कौन हैं?",
+        "en": "Which Indian-origin economist won the Nobel Memorial Prize in Economics in 2019?"
+      },
+      "o": [
+        {
+          "hi": "रघुराम राजन (Raghuram Rajan)",
+          "en": "Raghuram Rajan"
+        },
+        {
+          "hi": "अभिजीत बनर्जी (Abhijit Banerjee)",
+          "en": "Abhijit Banerjee"
+        },
+        {
+          "hi": "अरविंद सुब्रमण्यन",
+          "en": "Arvind Subramanian"
+        },
+        {
+          "hi": "गीता गोपीनाथ (Gita Gopinath)",
+          "en": "Gita Gopinath"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पुस्तक 'The Wealth of Nations' (1776) के लेखक तथा 'अर्थशास्त्र के जनक' कौन हैं?",
+        "en": "Who is the author of 'The Wealth of Nations' (1776) and considered the 'Father of Economics'?"
+      },
+      "o": [
+        {
+          "hi": "जॉन मेनार्ड कीन्स (J.M. Keynes)",
+          "en": "John Maynard Keynes"
+        },
+        {
+          "hi": "कार्ल मार्क्स (Karl Marx)",
+          "en": "Karl Marx"
+        },
+        {
+          "hi": "एडम स्मिथ (Adam Smith)",
+          "en": "Adam Smith"
+        },
+        {
+          "hi": "डेविड रिकार्डो (David Ricardo)",
+          "en": "David Ricardo"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'द जनरल थ्योरी ऑफ एम्प्लॉयमेंट, इंटरेस्ट एंड मनी' (1936) के लेखक कौन हैं?",
+        "en": "Who authored the famous book 'The General Theory of Employment, Interest and Money' (1936)?"
+      },
+      "o": [
+        {
+          "hi": "एडम स्मिथ (Adam Smith)",
+          "en": "Adam Smith"
+        },
+        {
+          "hi": "अल्फ्रेड मार्शल (Alfred Marshall)",
+          "en": "Alfred Marshall"
+        },
+        {
+          "hi": "जोसेफ शुम्पीटर (Joseph Schumpeter)",
+          "en": "Joseph Schumpeter"
+        },
+        {
+          "hi": "जॉन मेनार्ड कीन्स (J.M. Keynes)",
+          "en": "John Maynard Keynes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'दास कैपिटल' (Das Kapital) और 'कम्युनिस्ट मेनिफेस्टो' के रचयिता कौन थे?",
+        "en": "Who was the author of 'Das Kapital' and 'The Communist Manifesto'?"
+      },
+      "o": [
+        {
+          "hi": "कार्ल मार्क्स (Karl Marx)",
+          "en": "Karl Marx"
+        },
+        {
+          "hi": "व्लादिमीर लेनिन (Vladimir Lenin)",
+          "en": "Vladimir Lenin"
+        },
+        {
+          "hi": "फ्रेडरिक एंगेल्स",
+          "en": "Friedrich Engels"
+        },
+        {
+          "hi": "मैक्स वेबर (Max Weber)",
+          "en": "Max Weber"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में योजना आयोग की जगह गठित 'नीति आयोग' के प्रथम उपाध्यक्ष कौन थे?",
+        "en": "Who was the first Vice-Chairman of NITI Aayog?"
+      },
+      "o": [
+        {
+          "hi": "राजीव कुमार (Rajiv Kumar)",
+          "en": "Rajiv Kumar"
+        },
+        {
+          "hi": "अरविंद पनगढ़िया (Arvind Panagariya)",
+          "en": "Arvind Panagariya"
+        },
+        {
+          "hi": "सुमन बेरी (Suman Bery)",
+          "en": "Suman Bery"
+        },
+        {
+          "hi": "अमिताभ कांत (Amitabh Kant)",
+          "en": "Amitabh Kant"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नीति आयोग के प्रथम मुख्य कार्यकारी अधिकारी (First CEO) कौन थे?",
+        "en": "Who was the first Chief Executive Officer (CEO) of NITI Aayog?"
+      },
+      "o": [
+        {
+          "hi": "अमिताभ कांत (Amitabh Kant)",
+          "en": "Amitabh Kant"
+        },
+        {
+          "hi": "परमेश्वरन अय्यर",
+          "en": "Parameswaran Iyer"
+        },
+        {
+          "hi": "सिंधुश्री खुल्लर (Sindhushree Khullar)",
+          "en": "Sindhushree Khullar"
+        },
+        {
+          "hi": "बी.वी.आर. सुब्रह्मण्यम",
+          "en": "B.V.R. Subrahmanyam"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अर्थशास्त्र में 'हार्ड करेंसी' (Hard Currency) किसे कहा जाता है?",
+        "en": "In international economics, what is 'Hard Currency' defined as?"
+      },
+      "o": [
+        {
+          "hi": "सिक्कों के रूप में ढली धातु मुद्रा",
+          "en": "Metallic currency in the form of coins"
+        },
+        {
+          "hi": "वह मुद्रा जिसका मूल्य तेजी से गिर रहा हो",
+          "en": "Currency whose value is rapidly depreciating"
+        },
+        {
+          "hi": "केवल सोने द्वारा समर्थित स्थानीय मुद्रा",
+          "en": "Local currency purely backed by gold"
+        },
+        {
+          "hi": "वह मुद्रा जिसकी वैश्विक मांग आपूर्ति से सदैव अधिक रहती है",
+          "en": "Currency whose global demand always exceeds supply"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'सॉफ्ट करेंसी' (Soft Currency) से क्या तात्पर्य है?",
+        "en": "What is meant by 'Soft Currency'?"
+      },
+      "o": [
+        {
+          "hi": "वह मुद्रा जिसकी वैश्विक आपूर्ति मांग से अधिक हो (आसानी से सुलभ)",
+          "en": "Currency whose supply exceeds demand globally"
+        },
+        {
+          "hi": "प्लास्टिक या पॉलीमर से बने नोट",
+          "en": "Banknotes made of plastic or polymer"
+        },
+        {
+          "hi": "अंतरराष्ट्रीय व्यापार में सर्वाधिक प्रयुक्त मुद्रा",
+          "en": "Most widely used currency in global trade"
+        },
+        {
+          "hi": "अति-मूल्यवान स्वर्ण आधारित मुद्रा",
+          "en": "High-value gold-backed currency"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शेयर बाजार में 'हॉट मनी' (Hot Money) किसे कहा जाता है?",
+        "en": "In financial markets, what is 'Hot Money' referred to as?"
+      },
+      "o": [
+        {
+          "hi": "काले धन से अर्जित नकद नकदी",
+          "en": "Cash liquidity generated from black money"
+        },
+        {
+          "hi": "वह अल्पकालिक विदेशी पूंजी जो त्वरित लाभ हेतु तेजी से पलायन करती है",
+          "en": "Short-term foreign capital that flees quickly for quick gains"
+        },
+        {
+          "hi": "केंद्रीय बैंक द्वारा मुद्रित ताजे नोट",
+          "en": "Fresh notes newly printed by the central bank"
+        },
+        {
+          "hi": "भारी ब्याज दर वाला संकटकालीन ऋण",
+          "en": "Emergency loan with exorbitant interest rate"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'सकल कर राजस्व' (Gross Tax Revenue) में सर्वाधिक योगदान सामान्यतः किसका होता है?",
+        "en": "In India's Gross Tax Revenue, which category generally contributes the largest share?"
+      },
+      "o": [
+        {
+          "hi": "सीमा शुल्क (Customs Duty)",
+          "en": "Customs Duty"
+        },
+        {
+          "hi": "केंद्रीय उत्पाद शुल्क (Central Excise)",
+          "en": "Central Excise Duty"
+        },
+        {
+          "hi": "जीएसटी और प्रत्यक्ष कर (आयकर व निगम कर)",
+          "en": "GST and Direct Taxes (Income & Corporate Tax)"
+        },
+        {
+          "hi": "प्रतिभूति लेन-देन कर (STT)",
+          "en": "Securities Transaction Tax (STT)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में आयकर (Income Tax) किस प्रकार का कर है?",
+        "en": "In India, Income Tax is which type of tax?"
+      },
+      "o": [
+        {
+          "hi": "अप्रत्यक्ष एवं प्रतिगामी कर",
+          "en": "Indirect and Regressive Tax"
+        },
+        {
+          "hi": "प्रत्यक्ष एवं आनुपातिक कर",
+          "en": "Direct and Proportional Tax"
+        },
+        {
+          "hi": "केवल स्थानीय स्तर का उपकर",
+          "en": "Local level cess only"
+        },
+        {
+          "hi": "प्रत्यक्ष एवं प्रगतिशील कर (Direct and Progressive)",
+          "en": "Direct and Progressive Tax"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "16वें वित्त आयोग (16th Finance Commission) के अध्यक्ष कौन नियुक्त किए गए हैं?",
+        "en": "Who has been appointed as the Chairman of the 16th Finance Commission of India?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. अरविंद पनगढ़िया (Dr. Arvind Panagariya)",
+          "en": "Dr. Arvind Panagariya"
+        },
+        {
+          "hi": "एन.के. सिंह (N.K. Singh)",
+          "en": "N.K. Singh"
+        },
+        {
+          "hi": "वाई.वी. रेड्डी (Y.V. Reddy)",
+          "en": "Y.V. Reddy"
+        },
+        {
+          "hi": "विजय केलकर (Vijay Kelkar)",
+          "en": "Vijay Kelkar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संविधान के किस अनुच्छेद के तहत राष्ट्रपति प्रत्येक 5 वर्ष में वित्त आयोग का गठन करता है?",
+        "en": "Under which Article of the Constitution does the President constitute the Finance Commission every 5 years?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 268 (Article 268)",
+          "en": "Article 268"
+        },
+        {
+          "hi": "अनुच्छेद 280 (Article 280)",
+          "en": "Article 280"
+        },
+        {
+          "hi": "अनुच्छेद 324 (Article 324)",
+          "en": "Article 324"
+        },
+        {
+          "hi": "अनुच्छेद 360 (Article 360)",
+          "en": "Article 360"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

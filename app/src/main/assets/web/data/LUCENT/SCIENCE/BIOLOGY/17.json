@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - जीव विज्ञान (Biology)",
+  "subtitle": "मानव शरीर के महत्वपूर्ण तथ्य",
+  "description": "मानव शरीर के महत्वपूर्ण तथ्य पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "मानव शरीर की सबसे बड़ी हड्डी (Longest & Strongest Bone) कौन-सी है?",
+        "en": "Which is the longest, strongest, and heaviest bone in the human body?"
+      },
+      "o": [
+        {
+          "hi": "फीमर / ऊरु-अस्थि (Femur - जांघ की हड्डी)",
+          "en": "Femur (Thigh Bone)"
+        },
+        {
+          "hi": "टिबिया (Tibia)",
+          "en": "Tibia"
+        },
+        {
+          "hi": "ह्यूमरस (Humerus)",
+          "en": "Humerus"
+        },
+        {
+          "hi": "कशेरुक दंड (Vertebral Column)",
+          "en": "Vertebral Column"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की सबसे छोटी हड्डी (Smallest Bone) कौन-सी है?",
+        "en": "Which is the smallest bone in the human body?"
+      },
+      "o": [
+        {
+          "hi": "मैलियस (Malleus)",
+          "en": "Malleus"
+        },
+        {
+          "hi": "स्टेपीज (Stapes - मध्य कर्ण की हड्डी)",
+          "en": "Stapes (Middle Ear Bone)"
+        },
+        {
+          "hi": "इंकस (Incus)",
+          "en": "Incus"
+        },
+        {
+          "hi": "नासास्थि (Nasal Bone)",
+          "en": "Nasal Bone"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की सबसे बड़ी ग्रंथि (Largest Gland) कौन-सी है?",
+        "en": "Which is the largest internal gland/organ in the human body by weight (~1.5 kg)?"
+      },
+      "o": [
+        {
+          "hi": "अग्न्याशय (Pancreas)",
+          "en": "Pancreas"
+        },
+        {
+          "hi": "थायरॉयड ग्रंथि (Thyroid)",
+          "en": "Thyroid Gland"
+        },
+        {
+          "hi": "यकृत / लिवर (Liver)",
+          "en": "Liver"
+        },
+        {
+          "hi": "प्लीहा (Spleen)",
+          "en": "Spleen"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर का सबसे बड़ा अंग (Largest Organ of Human Body - भार ~4 किग्रा) कौन-सा है?",
+        "en": "What is the single largest organ of the human body by total surface area and weight?"
+      },
+      "o": [
+        {
+          "hi": "यकृत (Liver)",
+          "en": "Liver"
+        },
+        {
+          "hi": "बड़ी आंत (Large Intestine)",
+          "en": "Large Intestine"
+        },
+        {
+          "hi": "मस्तिष्क (Brain)",
+          "en": "Brain"
+        },
+        {
+          "hi": "त्वचा / चमड़ी (Skin / Integumentary Organ)",
+          "en": "Skin (Integumentary System)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की सबसे बड़ी अंतःस्रावी ग्रंथि (Largest Endocrine Gland) कौन-सी है?",
+        "en": "Which is the largest purely endocrine gland in the human body?"
+      },
+      "o": [
+        {
+          "hi": "थायरॉयड ग्रंथि (Thyroid Gland / अवटु ग्रंथि)",
+          "en": "Thyroid Gland"
+        },
+        {
+          "hi": "अधिवृक्क ग्रंथि (Adrenal)",
+          "en": "Adrenal Gland"
+        },
+        {
+          "hi": "पीयूष ग्रंथि (Pituitary)",
+          "en": "Pituitary Gland"
+        },
+        {
+          "hi": "थाइमस ग्रंथि (Thymus)",
+          "en": "Thymus Gland"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की सबसे छोटी अंतःस्रावी ग्रंथि (Smallest Endocrine Gland - भार 0.1-0.2 ग्राम) कौन-सी है?",
+        "en": "Which is the smallest endocrine gland in the human body?"
+      },
+      "o": [
+        {
+          "hi": "थायरॉयड ग्रंथि",
+          "en": "Thyroid Gland"
+        },
+        {
+          "hi": "पीनियल ग्रंथि (Pineal Gland / अथवा पीयूष ग्रंथि)",
+          "en": "Pineal Gland (or Pituitary Gland)"
+        },
+        {
+          "hi": "अधिवृक्क ग्रंथि",
+          "en": "Adrenal Gland"
+        },
+        {
+          "hi": "पैराथायरॉयड",
+          "en": "Parathyroid Gland"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की सबसे मजबूत मांसपेशी (Strongest Muscle - चबाने वाली पेशी) कौन-सी है?",
+        "en": "Which is considered the strongest muscle based on its exertion weight in the human body?"
+      },
+      "o": [
+        {
+          "hi": "ग्लूटियस मैक्सिमस",
+          "en": "Gluteus Maximus"
+        },
+        {
+          "hi": "बाइसेप्स (Biceps)",
+          "en": "Biceps"
+        },
+        {
+          "hi": "मैसिटर पेशी (Masseter Muscle - जबड़े की पेशी)",
+          "en": "Masseter Muscle (Jaw Muscle)"
+        },
+        {
+          "hi": "हृदय पेशी (Cardiac Muscle)",
+          "en": "Cardiac Muscle"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की सबसे बड़ी मांसपेशी (Largest Muscle) कौन-सी है?",
+        "en": "Which is the largest and most massive skeletal muscle in the human body?"
+      },
+      "o": [
+        {
+          "hi": "सारटोरियस (Sartorius)",
+          "en": "Sartorius"
+        },
+        {
+          "hi": "लैटिसिमस डोर्सी",
+          "en": "Latissimus Dorsi"
+        },
+        {
+          "hi": "क्वाड्रिसेप्स",
+          "en": "Quadriceps"
+        },
+        {
+          "hi": "ग्लूटियस मैक्सिमस (Gluteus Maximus - नितंब की पेशी)",
+          "en": "Gluteus Maximus (Buttock Muscle)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की सबसे लंबी मांसपेशी (Longest Muscle - टेलर मसल) कौन-सी है?",
+        "en": "Which is the longest ribbon-like skeletal muscle in the human body?"
+      },
+      "o": [
+        {
+          "hi": "सारटोरियस (Sartorius Muscle - जांघ में स्थित)",
+          "en": "Sartorius Muscle (Thigh)"
+        },
+        {
+          "hi": "ग्लूटियस मैक्सिमस",
+          "en": "Gluteus Maximus"
+        },
+        {
+          "hi": "गैस्ट्रोक्नीमियस",
+          "en": "Gastrocnemius"
+        },
+        {
+          "hi": "ट्रेपेजियस",
+          "en": "Trapezius"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की सबसे छोटी मांसपेशी (Smallest Muscle) कौन-सी है?",
+        "en": "Which is the smallest muscle in the human body (length ~1 mm)?"
+      },
+      "o": [
+        {
+          "hi": "सिलियरी पेशी (Ciliary Muscle)",
+          "en": "Ciliary Muscle"
+        },
+        {
+          "hi": "स्टेपिडियस पेशी (Stapedius Muscle - कान में स्टेपीज से जुड़ी)",
+          "en": "Stapedius Muscle (Middle Ear)"
+        },
+        {
+          "hi": "अरेक्टोर पिली (Arrector Pili)",
+          "en": "Arrector Pili"
+        },
+        {
+          "hi": "ऑर्बिकुलरिस ओकुलाई",
+          "en": "Orbicularis Oculi"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव मस्तिष्क का औसत वजन (Average Weight of Adult Brain) कितना होता है?",
+        "en": "What is the average weight of a healthy adult human brain?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 1000 ग्राम",
+          "en": "About 1000 grams"
+        },
+        {
+          "hi": "लगभग 1800 ग्राम",
+          "en": "About 1800 grams"
+        },
+        {
+          "hi": "लगभग 1350 से 1400 ग्राम (शरीर के भार का ~2%)",
+          "en": "Approximately 1350 to 1400 grams (~2% of body weight)"
+        },
+        {
+          "hi": "लगभग 800 ग्राम",
+          "en": "About 800 grams"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव हृदय का औसत वजन (Average Weight of Adult Heart) कितना होता है?",
+        "en": "What is the average weight of an adult human heart?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 500 ग्राम",
+          "en": "About 500 grams"
+        },
+        {
+          "hi": "लगभग 150 ग्राम",
+          "en": "About 150 grams"
+        },
+        {
+          "hi": "लगभग 700 ग्राम",
+          "en": "About 700 grams"
+        },
+        {
+          "hi": "लगभग 300 ग्राम (पुरुष ~300g, महिला ~250g)",
+          "en": "Approximately 300 grams (Male ~300g, Female ~250g)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वयस्क मानव में रीढ़ की हड्डी में कुल कितनी कशेरुकाएं (Vertebrae) होती हैं?",
+        "en": "How many articulated vertebrae are in the adult human vertebral column?"
+      },
+      "o": [
+        {
+          "hi": "26 कशेरुकाएं (शिशु अवस्था में 33)",
+          "en": "26 Vertebrae (in infants 33)"
+        },
+        {
+          "hi": "33 कशेरुकाएं",
+          "en": "33 Vertebrae"
+        },
+        {
+          "hi": "24 कशेरुकाएं",
+          "en": "24 Vertebrae"
+        },
+        {
+          "hi": "28 कशेरुकाएं",
+          "en": "28 Vertebrae"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव छाती में पसलियों की कुल संख्या (Total Ribs) कितनी होती है?",
+        "en": "What is the total number of ribs in the human thoracic cage?"
+      },
+      "o": [
+        {
+          "hi": "22 पसलियां (11 जोड़ी)",
+          "en": "22 Ribs"
+        },
+        {
+          "hi": "24 पसलियां (12 जोड़ी)",
+          "en": "24 Ribs (12 Pairs)"
+        },
+        {
+          "hi": "26 पसलियां (13 जोड़ी)",
+          "en": "26 Ribs"
+        },
+        {
+          "hi": "20 पसलियां (10 जोड़ी)",
+          "en": "20 Ribs"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव पसलियों में 'तैरती हुई पसलियां' (Floating Ribs) कौन-सी जोड़ी होती हैं?",
+        "en": "Which pairs of ribs are known as 'Floating Ribs' because they lack anterior sternal attachment?"
+      },
+      "o": [
+        {
+          "hi": "8वीं, 9वीं और 10वीं जोड़ी (झूठी पसलियां)",
+          "en": "8th, 9th, and 10th Pairs"
+        },
+        {
+          "hi": "1ली और 2री जोड़ी",
+          "en": "1st and 2nd Pairs"
+        },
+        {
+          "hi": "11वीं और 12वीं जोड़ी (11th & 12th Pairs)",
+          "en": "11th and 12th Pairs"
+        },
+        {
+          "hi": "6वीं और 7वीं जोड़ी",
+          "en": "6th and 7th Pairs"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव खोपड़ी (Human Skull) में कुल कितनी अस्थियां (Bones) होती हैं?",
+        "en": "How many total bones constitute the complete human skull (Cranium 8 + Facial 14 + Ear 6 + Hyoid 1)?"
+      },
+      "o": [
+        {
+          "hi": "22 अस्थियां (कान व हायोइड छोड़कर)",
+          "en": "22 Bones"
+        },
+        {
+          "hi": "24 अस्थियां",
+          "en": "24 Bones"
+        },
+        {
+          "hi": "32 अस्थियां",
+          "en": "32 Bones"
+        },
+        {
+          "hi": "29 अस्थियां (क्रेनियम 8 + चेहरा 14 + कान 6 + हायोइड 1)",
+          "en": "29 Bones (Cranial 8 + Facial 14 + Ear 6 + Hyoid 1)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव चेहरे (Face) में कुल कितनी हड्डियां होती हैं?",
+        "en": "How many facial bones are present in the human skull skeleton?"
+      },
+      "o": [
+        {
+          "hi": "14 हड्डियां (14 Facial Bones)",
+          "en": "14 Facial Bones"
+        },
+        {
+          "hi": "8 हड्डियां (कपाल में)",
+          "en": "8 Bones (Cranial)"
+        },
+        {
+          "hi": "12 हड्डियां",
+          "en": "12 Bones"
+        },
+        {
+          "hi": "10 हड्डियां",
+          "en": "10 Bones"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव कपाल / क्रेनियम (Brain Box) को सुरक्षित रखने वाली कुल कितनी हड्डियां होती हैं?",
+        "en": "How many bones encase and protect the brain in the human cranium?"
+      },
+      "o": [
+        {
+          "hi": "14 हड्डियां",
+          "en": "14 Bones"
+        },
+        {
+          "hi": "8 हड्डियां (8 Cranial Bones)",
+          "en": "8 Cranial Bones"
+        },
+        {
+          "hi": "6 हड्डियां",
+          "en": "6 Bones"
+        },
+        {
+          "hi": "10 हड्डियां",
+          "en": "10 Bones"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव के दोनों कानों में कुल कितनी श्रवण अस्थियां (Ear Ossicles) होती हैं?",
+        "en": "How many total middle ear ossicles are present in both human ears combined?"
+      },
+      "o": [
+        {
+          "hi": "4 हड्डियां",
+          "en": "4 Bones"
+        },
+        {
+          "hi": "2 हड्डियां",
+          "en": "2 Bones"
+        },
+        {
+          "hi": "6 हड्डियां (प्रत्येक कान में 3: मैलियस, इंकस, स्टेपीज)",
+          "en": "6 Bones (3 per ear: Malleus, Incus, Stapes)"
+        },
+        {
+          "hi": "8 हड्डियां",
+          "en": "8 Bones"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गले में स्थित घोड़े की नाल के आकार की एकमात्र अकेली गैर-संधिबद्ध हड्डी कौन-सी है?",
+        "en": "Which solitary U-shaped bone in the anterior neck does not articulate with any other bone?"
+      },
+      "o": [
+        {
+          "hi": "क्लैविकिल (Clavicle / कॉलर बोन)",
+          "en": "Clavicle"
+        },
+        {
+          "hi": "स्कैपुला (Scapula)",
+          "en": "Scapula"
+        },
+        {
+          "hi": "स्टर्नम (Sternum)",
+          "en": "Sternum"
+        },
+        {
+          "hi": "हायोइड अस्थि (Hyoid Bone / जिह्वास्थि)",
+          "en": "Hyoid Bone"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'ब्यूटी बोन' या कॉलर बोन (Collar Bone) का वैज्ञानिक नाम क्या है?",
+        "en": "What is the anatomical name of the human collarbone ('Beauty Bone')?"
+      },
+      "o": [
+        {
+          "hi": "क्लैविकिल (Clavicle)",
+          "en": "Clavicle"
+        },
+        {
+          "hi": "स्कैपुला (Scapula)",
+          "en": "Scapula"
+        },
+        {
+          "hi": "स्टर्नम (Sternum)",
+          "en": "Sternum"
+        },
+        {
+          "hi": "पेटेला (Patella)",
+          "en": "Patella"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "घुटने की टोपी (Knee Cap) वाली हड्डी का वैज्ञानिक नाम क्या है?",
+        "en": "What is the medical anatomical name of the kneecap bone?"
+      },
+      "o": [
+        {
+          "hi": "टिबिया (Tibia)",
+          "en": "Tibia"
+        },
+        {
+          "hi": "पेटेला (Patella / सेसामोइड अस्थि)",
+          "en": "Patella (Sesamoid Bone)"
+        },
+        {
+          "hi": "फाइबुला (Fibula)",
+          "en": "Fibula"
+        },
+        {
+          "hi": "टार्सल (Tarsal)",
+          "en": "Tarsal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव में कपाल तंत्रिकाओं (Cranial Nerves) के कितने जोड़े होते हैं?",
+        "en": "How many pairs of cranial nerves originate directly from the human brain?"
+      },
+      "o": [
+        {
+          "hi": "31 जोड़े (मेरु तंत्रिकाएं)",
+          "en": "31 Pairs (Spinal Nerves)"
+        },
+        {
+          "hi": "10 जोड़े",
+          "en": "10 Pairs"
+        },
+        {
+          "hi": "12 जोड़े (12 Pairs)",
+          "en": "12 Pairs"
+        },
+        {
+          "hi": "24 जोड़े",
+          "en": "24 Pairs"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव में मेरु तंत्रिकाओं (Spinal Nerves) के कुल कितने जोड़े पाए जाते हैं?",
+        "en": "How many pairs of spinal nerves branch off the human spinal cord?"
+      },
+      "o": [
+        {
+          "hi": "12 जोड़े",
+          "en": "12 Pairs"
+        },
+        {
+          "hi": "26 जोड़े",
+          "en": "26 Pairs"
+        },
+        {
+          "hi": "33 जोड़े",
+          "en": "33 Pairs"
+        },
+        {
+          "hi": "31 जोड़े (31 Pairs)",
+          "en": "31 Pairs"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में रक्त का थक्का (Clotting Time) सामान्यतः कितने समय में जम जाता है?",
+        "en": "What is the normal physiological blood clotting / coagulation time in a healthy human?"
+      },
+      "o": [
+        {
+          "hi": "2 से 8 मिनट (औसतन 3 से 6 मिनट)",
+          "en": "2 to 8 minutes (Average 3 to 6 mins)"
+        },
+        {
+          "hi": "10 से 20 सेकंड",
+          "en": "10 to 20 seconds"
+        },
+        {
+          "hi": "15 से 30 मिनट",
+          "en": "15 to 30 minutes"
+        },
+        {
+          "hi": "1 घंटा",
+          "en": "1 Hour"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्वस्थ वयस्क व्यक्ति की सामान्य विश्राम श्वसन दर (Respiratory Rate) कितनी होती है?",
+        "en": "What is the normal resting respiratory breathing rate per minute in an adult human?"
+      },
+      "o": [
+        {
+          "hi": "72 बार प्रति मिनट (नाड़ी दर)",
+          "en": "72 per minute (Pulse rate)"
+        },
+        {
+          "hi": "12 से 16 बार प्रति मिनट (12-16 breaths/min)",
+          "en": "12 to 16 breaths per minute"
+        },
+        {
+          "hi": "25 से 30 बार प्रति मिनट",
+          "en": "25 to 30 per minute"
+        },
+        {
+          "hi": "6 से 8 बार प्रति मिनट",
+          "en": "6 to 8 per minute"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक कार्डियक चक्र (Cardiac Cycle / हृदय की एक धड़कन) पूरा होने में कितना समय लगता है?",
+        "en": "What is the exact duration of a single complete human cardiac cycle (at 75 bpm)?"
+      },
+      "o": [
+        {
+          "hi": "1.0 सेकंड",
+          "en": "1.0 Second"
+        },
+        {
+          "hi": "0.5 सेकंड",
+          "en": "0.5 Seconds"
+        },
+        {
+          "hi": "0.8 सेकंड (0.8 Seconds)",
+          "en": "0.8 Seconds"
+        },
+        {
+          "hi": "1.2 सेकंड",
+          "en": "1.2 Seconds"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रत्येक धड़कन में हृदय के बाएं निलय द्वारा धमनियों में पंप किया गया रक्त आयतन (Stroke Volume) कितना होता है?",
+        "en": "What is the average Stroke Volume of blood pumped by the left ventricle per heartbeat?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 100 मिलीलीटर",
+          "en": "About 100 ml"
+        },
+        {
+          "hi": "लगभग 50 मिलीलीटर",
+          "en": "About 50 ml"
+        },
+        {
+          "hi": "लगभग 120 मिलीलीटर",
+          "en": "About 120 ml"
+        },
+        {
+          "hi": "लगभग 70 मिलीलीटर (70 ml)",
+          "en": "Approximately 70 ml"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव हृदय एक मिनट में कुल कितना रक्त पंप करता है (Cardiac Output)?",
+        "en": "What is the total resting Cardiac Output pumped by the human heart per minute?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 5 लीटर प्रति मिनट (Stroke Volume x Heart Rate)",
+          "en": "Approximately 5 Litres per minute"
+        },
+        {
+          "hi": "लगभग 2.5 लीटर",
+          "en": "About 2.5 Litres"
+        },
+        {
+          "hi": "लगभग 8 लीटर",
+          "en": "About 8 Litres"
+        },
+        {
+          "hi": "लगभग 10 लीटर",
+          "en": "About 10 Litres"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में रक्त का शुद्धिकरण (Filtration of Blood) किस अंग में होता है?",
+        "en": "In which primary organ is metabolic waste filtered from circulating blood to produce urine?"
+      },
+      "o": [
+        {
+          "hi": "हृदय (Heart)",
+          "en": "Heart"
+        },
+        {
+          "hi": "वृक्क / गुर्दे (Kidneys)",
+          "en": "Kidneys"
+        },
+        {
+          "hi": "फेफड़े (ऑक्सीजनीकरण हेतु)",
+          "en": "Lungs (Oxygenation)"
+        },
+        {
+          "hi": "प्लीहा (Spleen)",
+          "en": "Spleen"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्वस्थ मनुष्य के दोनों गुर्दे 24 घंटे में कुल कितना नेफ्रिक निस्यंद (Glomerular Filtrate) छानते हैं?",
+        "en": "Approximately how much initial fluid filtrate do human kidneys filter per day (GFR)?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 50 लीटर",
+          "en": "About 50 Litres"
+        },
+        {
+          "hi": "लगभग 10 लीटर",
+          "en": "About 10 Litres"
+        },
+        {
+          "hi": "लगभग 180 लीटर प्रति दिन (जिसमें से ~1.5 लीटर मूत्र बनता है)",
+          "en": "Approximately 180 Litres per day (~1.5 L urine excreted)"
+        },
+        {
+          "hi": "लगभग 500 लीटर",
+          "en": "About 500 Litres"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में प्रतिदिन सामान्यतः कितना मूत्र (Urine) उत्सर्जित होता है?",
+        "en": "What is the normal daily urinary output volume of an average healthy adult human?"
+      },
+      "o": [
+        {
+          "hi": "3 से 4 लीटर",
+          "en": "3 to 4 Litres"
+        },
+        {
+          "hi": "0.5 लीटर",
+          "en": "0.5 Litres"
+        },
+        {
+          "hi": "5 लीटर",
+          "en": "5 Litres"
+        },
+        {
+          "hi": "1.5 से 1.8 लीटर प्रतिदिन (1.5 - 1.8 L/day)",
+          "en": "1.5 to 1.8 Litres per day"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव लार (Saliva) का दैनिक औसत उत्पादन कितना होता है?",
+        "en": "Approximately how much saliva is secreted daily by salivary glands in an adult human?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 1.0 से 1.5 लीटर प्रतिदिन",
+          "en": "Approximately 1.0 to 1.5 Litres per day"
+        },
+        {
+          "hi": "लगभग 0.2 लीटर",
+          "en": "About 0.2 Litres"
+        },
+        {
+          "hi": "लगभग 3.0 लीटर",
+          "en": "About 3.0 Litres"
+        },
+        {
+          "hi": "लगभग 500 मिलीलीटर",
+          "en": "About 500 ml"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में पित्त रस (Bile) का दैनिक औसत उत्पादन यकृत द्वारा कितना होता है?",
+        "en": "What is the average volume of bile juice produced daily by the human liver?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 200 मिलीलीटर",
+          "en": "About 200 ml"
+        },
+        {
+          "hi": "लगभग 600 से 1000 मिलीलीटर (लगभग 800 ml)",
+          "en": "Approximately 600 to 1000 ml (about 800 ml)"
+        },
+        {
+          "hi": "लगभग 2.5 लीटर",
+          "en": "About 2.5 Litres"
+        },
+        {
+          "hi": "लगभग 100 मिलीलीटर",
+          "en": "About 100 ml"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में जठर रस (Gastric Juice) का प्रतिदिन अमाशय द्वारा कितना स्राव होता है?",
+        "en": "Approximately how much gastric juice is secreted daily by the human stomach mucosa?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 500 मिलीलीटर",
+          "en": "About 500 ml"
+        },
+        {
+          "hi": "लगभग 5 लीटर",
+          "en": "About 5 Litres"
+        },
+        {
+          "hi": "लगभग 2 से 3 लीटर प्रतिदिन",
+          "en": "Approximately 2 to 3 Litres per day"
+        },
+        {
+          "hi": "लगभग 1 लीटर",
+          "en": "About 1 Litre"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर का सामान्य हीमोग्लोबिन स्तर पुरुषों और महिलाओं में क्रमशः कितना होता है?",
+        "en": "What is the reference normal hemoglobin concentration in adult males and females?"
+      },
+      "o": [
+        {
+          "hi": "पुरुष: 10-12 g/dL; महिला: 8-10 g/dL",
+          "en": "Male: 10-12; Female: 8-10"
+        },
+        {
+          "hi": "दोनों में 18-20 g/dL",
+          "en": "18-20 g/dL in both"
+        },
+        {
+          "hi": "पुरुष: 18-22 g/dL; महिला: 16-18 g/dL",
+          "en": "Male: 18-22; Female: 16-18"
+        },
+        {
+          "hi": "पुरुष: 14-16 g/dL; महिला: 12-14 g/dL",
+          "en": "Male: 14-16 g/dL; Female: 12-14 g/dL"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रक्त में श्वेत रक्त कणिकाओं (WBCs) की सामान्य संख्या प्रति घन मिमी कितनी होती है?",
+        "en": "What is the normal total leukocyte (WBC) count in a cubic millimeter of healthy human blood?"
+      },
+      "o": [
+        {
+          "hi": "5,000 से 10,000 प्रति घन मिमी",
+          "en": "5,000 to 10,000 per mm³"
+        },
+        {
+          "hi": "45 से 55 लाख प्रति घन मिमी (RBC हेतु)",
+          "en": "4.5 to 5.5 Million per mm³ (RBC)"
+        },
+        {
+          "hi": "1.5 से 4 लाख प्रति घन मिमी (प्लेटलेट्स)",
+          "en": "1.5 to 4.0 Lakh per mm³ (Platelets)"
+        },
+        {
+          "hi": "1,000 से 2,000 प्रति घन मिमी",
+          "en": "1,000 to 2,000 per mm³"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रक्त में प्लेटलेट्स (Platelets / Thrombocytes) की सामान्य संख्या कितनी होती है?",
+        "en": "What is the normal platelet count per microlitre of healthy human blood?"
+      },
+      "o": [
+        {
+          "hi": "5,000 से 10,000 प्रति माइक्रोलीटर",
+          "en": "5,000 to 10,000 per µL"
+        },
+        {
+          "hi": "1.5 लाख से 4.5 लाख प्रति माइक्रोलीटर",
+          "en": "1.5 Lakh to 4.5 Lakh per µL"
+        },
+        {
+          "hi": "40 लाख से 50 लाख",
+          "en": "4 to 5 Million"
+        },
+        {
+          "hi": "50,000 से कम",
+          "en": "Under 50,000"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में लाल रक्त कणिकाओं (RBCs) की सामान्य संख्या कितनी होती है?",
+        "en": "What is the normal erythrocyte (RBC) count per cubic millimeter of adult human blood?"
+      },
+      "o": [
+        {
+          "hi": "10,000 से 20,000 / mm³",
+          "en": "10,000 to 20,000 / mm³"
+        },
+        {
+          "hi": "1 से 2 लाख / mm³",
+          "en": "1 to 2 Lakh / mm³"
+        },
+        {
+          "hi": "पुरुष: 5.0 - 5.5 मिलियन; महिला: 4.5 - 5.0 मिलियन / mm³",
+          "en": "Male: 5.0-5.5 Million; Female: 4.5-5.0 Million / mm³"
+        },
+        {
+          "hi": "8 से 10 मिलियन / mm³",
+          "en": "8 to 10 Million / mm³"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव नेत्र (Human Eye) के स्पष्ट दृष्टि की न्यूनतम दूरी (Least Distance of Distinct Vision) कितनी होती है?",
+        "en": "What is the near point / least distance of distinct vision for a normal human eye?"
+      },
+      "o": [
+        {
+          "hi": "10 सेंटीमीटर",
+          "en": "10 cm"
+        },
+        {
+          "hi": "50 सेंटीमीटर",
+          "en": "50 cm"
+        },
+        {
+          "hi": "अनंत (Infinity - दूर बिंदु हेतु)",
+          "en": "Infinity (Far Point)"
+        },
+        {
+          "hi": "25 सेंटीमीटर (25 cm)",
+          "en": "25 centimeters (25 cm)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रेटिना पर किसी वस्तु के बनने वाले प्रतिबिंब का प्रभाव मस्तिष्क पर कितने समय तक रहता है?",
+        "en": "What is the duration of Persistence of Vision on the human retina for image retention?"
+      },
+      "o": [
+        {
+          "hi": "1 / 16 सेकंड (1/16th of a Second)",
+          "en": "1/16th of a Second"
+        },
+        {
+          "hi": "1 / 10 सेकंड",
+          "en": "1/10th Second"
+        },
+        {
+          "hi": "1 / 25 सेकंड",
+          "en": "1/25th Second"
+        },
+        {
+          "hi": "1 सेकंड",
+          "en": "1 Second"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आंख के दान (Eye Donation) में नेत्रदानकर्ता की आंख का कौन-सा भाग प्रत्यारोपित किया जाता है?",
+        "en": "In human eye donation / corneal grafting, which specific tissue is transplanted?"
+      },
+      "o": [
+        {
+          "hi": "रेटिना / दृष्टिपटल (Retina)",
+          "en": "Retina"
+        },
+        {
+          "hi": "कॉर्निया / स्वच्छ पटल (Cornea - क्योंकि इसमें रक्त वाहिकाएं नहीं होतीं)",
+          "en": "Cornea (Avascular tissue)"
+        },
+        {
+          "hi": "लेंस (Lens)",
+          "en": "Lens"
+        },
+        {
+          "hi": "संपूर्ण नेत्रगोलक (Entire Eyeball)",
+          "en": "Entire Eyeball"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में सबसे अधिक पुनरुद्भवन क्षमता (Highest Regenerative Capacity) किस अंग में होती है?",
+        "en": "Which human visceral organ possesses the highest regenerative cellular capacity?"
+      },
+      "o": [
+        {
+          "hi": "मस्तिष्क / न्यूरॉन (न्यूनतम क्षमता)",
+          "en": "Brain / Neurons (Lowest)"
+        },
+        {
+          "hi": "हृदय (Heart)",
+          "en": "Heart"
+        },
+        {
+          "hi": "यकृत / लिवर (Liver)",
+          "en": "Liver"
+        },
+        {
+          "hi": "वृक्क (Kidney)",
+          "en": "Kidney"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की किन कोशिकाओं में कोशिका विभाजन और पुनरुद्भवन की क्षमता लगभग शून्य (न्यूनतम) होती है?",
+        "en": "Which human cells have virtually zero / least regenerative division capacity after birth?"
+      },
+      "o": [
+        {
+          "hi": "यकृत कोशिकाएं",
+          "en": "Hepatocytes"
+        },
+        {
+          "hi": "त्वचा कोशिकाएं",
+          "en": "Epithelial Skin Cells"
+        },
+        {
+          "hi": "अस्थि मज्जा कोशिकाएं",
+          "en": "Bone Marrow Stem Cells"
+        },
+        {
+          "hi": "मस्तिष्क की तंत्रिका कोशिकाएं / न्यूरॉन्स (Neurons)",
+          "en": "Brain Neurons (Nerve Cells)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में रक्त का सबसे बड़ा भंडार और लिम्फाइड अंग कौन-सा है?",
+        "en": "Which is the largest secondary lymphoid organ in the human body?"
+      },
+      "o": [
+        {
+          "hi": "प्लीहा / तिल्ली (Spleen)",
+          "en": "Spleen"
+        },
+        {
+          "hi": "थाइमस (Thymus)",
+          "en": "Thymus"
+        },
+        {
+          "hi": "टॉन्सिल (Tonsils)",
+          "en": "Tonsils"
+        },
+        {
+          "hi": "लसीका ग्रंथि (Lymph Node)",
+          "en": "Lymph Node"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में यकृत (Liver) में संचित रहने वाले वसा-घुलनशील विटामिन कौन-से हैं?",
+        "en": "Which fat-soluble vitamins can be stored in significant quantities in the human liver?"
+      },
+      "o": [
+        {
+          "hi": "केवल विटामिन C",
+          "en": "Only Vitamin C"
+        },
+        {
+          "hi": "विटामिन A, D, E और B12",
+          "en": "Vitamins A, D, E, and B12"
+        },
+        {
+          "hi": "केवल विटामिन B1 और B2",
+          "en": "Only Vitamins B1 and B2"
+        },
+        {
+          "hi": "विटामिन C और K",
+          "en": "Vitamins C and K"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव हृदय के किस कक्ष की पेशीय दीवार सबसे मोटी और शक्तिशाली होती है?",
+        "en": "Which chamber of the human heart has the thickest and most muscular myocardium wall?"
+      },
+      "o": [
+        {
+          "hi": "दायां निलय (Right Ventricle)",
+          "en": "Right Ventricle"
+        },
+        {
+          "hi": "बायां अलिंद (Left Atrium)",
+          "en": "Left Atrium"
+        },
+        {
+          "hi": "बायां निलय (Left Ventricle - पूरे शरीर में रक्त पंप करता है)",
+          "en": "Left Ventricle (Pumps systemic blood)"
+        },
+        {
+          "hi": "दायां अलिंद (Right Atrium)",
+          "en": "Right Atrium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "फेफड़ों से शुद्ध ऑक्सीजनित रक्त बाएं अलिंद में लाने वाली एकमात्र शिरा कौन-सी है?",
+        "en": "Which is the only vein in the human body that carries oxygen-rich blood from lungs to heart?"
+      },
+      "o": [
+        {
+          "hi": "फुफ्फुस धमनी (अशुद्ध रक्त ले जाती है)",
+          "en": "Pulmonary Artery"
+        },
+        {
+          "hi": "महाशिरा (Vena Cava)",
+          "en": "Vena Cava"
+        },
+        {
+          "hi": "यकृत शिरा (Hepatic Vein)",
+          "en": "Hepatic Vein"
+        },
+        {
+          "hi": "फुफ्फुस शिरा (Pulmonary Vein)",
+          "en": "Pulmonary Vein"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हृदय से अशुद्ध विऑक्सीजनित रक्त फेफड़ों में ले जाने वाली एकमात्र धमनी कौन-सी है?",
+        "en": "Which is the only artery in the human body that transports deoxygenated blood to the lungs?"
+      },
+      "o": [
+        {
+          "hi": "फुफ्फुस धमनी (Pulmonary Artery)",
+          "en": "Pulmonary Artery"
+        },
+        {
+          "hi": "फुफ्फुस शिरा (Pulmonary Vein)",
+          "en": "Pulmonary Vein"
+        },
+        {
+          "hi": "महाधमनी (Aorta)",
+          "en": "Aorta"
+        },
+        {
+          "hi": "कोरोनरी धमनी",
+          "en": "Coronary Artery"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की सबसे बड़ी रक्त वाहिका / धमनी (Largest Artery) कौन-सी है?",
+        "en": "Which is the largest systemic blood vessel / artery in the human body?"
+      },
+      "o": [
+        {
+          "hi": "महाशिरा (Vena Cava)",
+          "en": "Vena Cava"
+        },
+        {
+          "hi": "महाधमनी (Aorta)",
+          "en": "Aorta"
+        },
+        {
+          "hi": "फुफ्फुस धमनी",
+          "en": "Pulmonary Artery"
+        },
+        {
+          "hi": "कैरोटिड धमनी",
+          "en": "Carotid Artery"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - जीव विज्ञान (Biology)",
+  "subtitle": "वास्तविक मछलियाँ",
+  "description": "वास्तविक मछलियाँ पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "सत्य मछलियों (True Fishes) का अंतःकंकाल किन दो पदार्थों का बना हो सकता है?",
+        "en": "The endoskeleton of true fishes (Class Pisces) is composed of either:"
+      },
+      "o": [
+        {
+          "hi": "उपास्थि (Cartilage) या अस्थि (Bone)",
+          "en": "Cartilage (Chondrichthyes) or Bone (Osteichthyes)"
+        },
+        {
+          "hi": "केवल काइटिन (Chitin)",
+          "en": "Only Chitin"
+        },
+        {
+          "hi": "केवल सिलिका (Silica)",
+          "en": "Only Silica"
+        },
+        {
+          "hi": "कैल्शियम कार्बोनेट का बाह्य आवरण मात्र",
+          "en": "Only Calcium Carbonate shell"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वास्तविक मछलियों में श्वसन (Respiration) मुख्य रूप से किसके द्वारा होता है?",
+        "en": "Gas exchange in aquatic true fishes is conducted through specialized vascular structures called:"
+      },
+      "o": [
+        {
+          "hi": "फेफड़े (Lungs)",
+          "en": "Lungs"
+        },
+        {
+          "hi": "गलफड़े / क्लोम (Gills)",
+          "en": "Gills"
+        },
+        {
+          "hi": "त्वचा (Moist Skin)",
+          "en": "Moist Skin"
+        },
+        {
+          "hi": "श्वासनली (Trachea)",
+          "en": "Trachea"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मछलियों के हृदय में कितने कक्ष होते हैं और इसमें किस प्रकार का रक्त बहता है?",
+        "en": "How many chambers are in a fish heart and what kind of blood flows through it?"
+      },
+      "o": [
+        {
+          "hi": "3 कक्ष (मिश्रित रक्त)",
+          "en": "3 Chambers (Mixed blood)"
+        },
+        {
+          "hi": "4 कक्ष (शुद्ध और अशुद्ध अलग)",
+          "en": "4 Chambers (Pure and impure separate)"
+        },
+        {
+          "hi": "2 कक्ष (केवल अशुद्ध / विऑक्सीकृत रक्त बहता है - वीनस हृदय)",
+          "en": "2 Chambers (Only deoxygenated blood flows - Venous Heart)"
+        },
+        {
+          "hi": "1 कक्ष (खुला परिसंचरण)",
+          "en": "1 Chamber (Open circulation)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मछलियों में जल की तरंगों, दबाव और धारा की दिशा का ज्ञान कराने वाला संवेदी अंग कौन-सा है?",
+        "en": "Which unique sensory mechanoreceptive system detects water currents and vibrations in fishes?"
+      },
+      "o": [
+        {
+          "hi": "संयुक्त आंखें (Compound Eyes)",
+          "en": "Compound Eyes"
+        },
+        {
+          "hi": "कर्णपटह (Tympanum)",
+          "en": "Tympanum"
+        },
+        {
+          "hi": "एंटीना (Antennae)",
+          "en": "Antennae"
+        },
+        {
+          "hi": "पार्श्व रेखा प्रणाली (Lateral Line System)",
+          "en": "Lateral Line System"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उपास्थि मछलियों (Chondrichthyes / जैसे शार्क) की त्वचा पर कौन-से सूक्ष्म शल्क होते हैं?",
+        "en": "Which microscopic tooth-like dermal denticle scales cover the skin of cartilaginous fishes (Sharks)?"
+      },
+      "o": [
+        {
+          "hi": "प्लेकॉइड शल्क (Placoid Scales)",
+          "en": "Placoid Scales"
+        },
+        {
+          "hi": "साइक्लॉइड शल्क (Cycloid Scales)",
+          "en": "Cycloid Scales"
+        },
+        {
+          "hi": "टीनॉइड शल्क (Ctenoid Scales)",
+          "en": "Ctenoid Scales"
+        },
+        {
+          "hi": "गैनॉइड शल्क (Ganoid Scales)",
+          "en": "Ganoid Scales"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अस्थि मछलियों (Osteichthyes / जैसे रोहू, कतला) की त्वचा पर कौन-से शल्क पाए जाते हैं?",
+        "en": "Which smooth, flexible circular overlapping scales cover the skin of bony freshwater fishes?"
+      },
+      "o": [
+        {
+          "hi": "प्लेकॉइड शल्क (Placoid Scales)",
+          "en": "Placoid Scales"
+        },
+        {
+          "hi": "साइक्लॉइड और टीनॉइड शल्क (Cycloid & Ctenoid Scales)",
+          "en": "Cycloid and Ctenoid Scales"
+        },
+        {
+          "hi": "काइटिन प्लेट्स",
+          "en": "Chitinous Plates"
+        },
+        {
+          "hi": "शल्क अनुपस्थित होते हैं",
+          "en": "Scales are completely absent"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "उपास्थि मछलियों (जैसे शार्क) में कौन-सा अंग अनुपस्थित होता है जिसके कारण इन्हें लगातार तैरना पड़ता है?",
+        "en": "Which hydrostatic organ is absent in cartilaginous sharks, forcing them to swim constantly?"
+      },
+      "o": [
+        {
+          "hi": "हृदय (Heart)",
+          "en": "Heart"
+        },
+        {
+          "hi": "यकृत (Liver)",
+          "en": "Liver"
+        },
+        {
+          "hi": "वायु कोष / स्विम ब्लैडर (Air Bladder / Swim Bladder)",
+          "en": "Swim Bladder (Air Bladder)"
+        },
+        {
+          "hi": "गलफड़े (Gills)",
+          "en": "Gills"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अस्थि मछलियों (Bony Fishes) में गलफड़ों को ढकने वाला सुरक्षात्मक ढक्कन क्या कहलाता है?",
+        "en": "What is the bony flap that covers and protects the gills in bony fishes called?"
+      },
+      "o": [
+        {
+          "hi": "प्लेकॉइड (Placoid)",
+          "en": "Placoid"
+        },
+        {
+          "hi": "रोस्ट्रम (Rostrum)",
+          "en": "Rostrum"
+        },
+        {
+          "hi": "क्लोएका (Cloaca)",
+          "en": "Cloaca"
+        },
+        {
+          "hi": "ऑपरकुलम / गलफड़ा ढक्कन (Operculum)",
+          "en": "Operculum"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'डॉगफिश' (Dogfish / कुत्ता मछली) वास्तव में किस प्रकार की मछली है?",
+        "en": "The Dogfish (Scoliodon) is biologically classified as which type of marine fish?"
+      },
+      "o": [
+        {
+          "hi": "एक उपास्थि सत्य मछली / छोटी शार्क (Cartilaginous Shark)",
+          "en": "A Cartilaginous True Fish (Shark / Scoliodon)"
+        },
+        {
+          "hi": "एक मीठे पानी की अस्थि मछली",
+          "en": "A freshwater bony fish"
+        },
+        {
+          "hi": "एक समुद्री स्तनधारी",
+          "en": "A marine mammal"
+        },
+        {
+          "hi": "एक अवास्तविक मोलस्क",
+          "en": "An invertebrate mollusc"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "डॉगफिश (स्कोलियोडॉन) को 'डॉगफिश' क्यों कहा जाता है?",
+        "en": "Why is the shark Scoliodon commonly called 'Dogfish'?"
+      },
+      "o": [
+        {
+          "hi": "यह कुत्ते की तरह भौंकती है",
+          "en": "It barks like a dog"
+        },
+        {
+          "hi": "इसकी गंध सूंघने की तीव्र क्षमता शिकारी कुत्ते जैसी होती है",
+          "en": "Its acute olfactory sense of smell resembles a hunting hound"
+        },
+        {
+          "hi": "यह कुत्ते की तरह दौड़ती है",
+          "en": "It runs like a dog"
+        },
+        {
+          "hi": "इसके चार पैर होते हैं",
+          "en": "It has four legs"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कौन-सी उपास्थि मछली अपने रूपांतरित पेशीय अंगों से 200 वोल्ट तक का बिजली का झटका दे सकती है?",
+        "en": "Which electric ray fish generates electric shocks up to 200 volts to stun prey?"
+      },
+      "o": [
+        {
+          "hi": "स्कोलियोडॉन (Scoliodon)",
+          "en": "Scoliodon"
+        },
+        {
+          "hi": "प्रिस्टिस (Pristis)",
+          "en": "Pristis"
+        },
+        {
+          "hi": "टॉरपीडो / विद्युत रे (Torpedo / Electric Ray)",
+          "en": "Torpedo (Electric Ray)"
+        },
+        {
+          "hi": "ट्राइगॉन (Trygon)",
+          "en": "Trygon"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'सॉ-फिश' (Sawfish / आरी मछली) का वास्तविक वैज्ञानिक नाम क्या है?",
+        "en": "What is the zoological genus name of the Cartilaginous Sawfish?"
+      },
+      "o": [
+        {
+          "hi": "टॉरपीडो (Torpedo)",
+          "en": "Torpedo"
+        },
+        {
+          "hi": "स्कोलियोडॉन (Scoliodon)",
+          "en": "Scoliodon"
+        },
+        {
+          "hi": "काइमेरा (Chimaera)",
+          "en": "Chimaera"
+        },
+        {
+          "hi": "प्रिस्टिस (Pristis)",
+          "en": "Pristis"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'स्टिंग रे' (Sting Ray / ट्राइगॉन) अपने बचाव के लिए किसका उपयोग करती है?",
+        "en": "Which defensive anatomical structure does the marine Stingray (Trygon) possess on its whiplike tail?"
+      },
+      "o": [
+        {
+          "hi": "पूंछ पर स्थित विषैला कांटा / डंक (Venomous Spine / Sting)",
+          "en": "Venomous Serrated Tail Spine"
+        },
+        {
+          "hi": "विद्युत अंग (Electric Organ)",
+          "en": "Electric Organ"
+        },
+        {
+          "hi": "आरीनुमा थूथन (Saw-like Rostrum)",
+          "en": "Saw-like Rostrum"
+        },
+        {
+          "hi": "स्याही की थैली (Ink Sac)",
+          "en": "Ink Sac"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उपास्थि और अस्थि मछलियों के बीच की संयोजक कड़ी मानी जाने वाली 'घोस्ट शार्क' कौन-सी है?",
+        "en": "Which unique holocephalian cartilaginous fish with an operculum is known as 'Chimaera / Ratfish'?"
+      },
+      "o": [
+        {
+          "hi": "स्कोलियोडॉन",
+          "en": "Scoliodon"
+        },
+        {
+          "hi": "काइमेरा / रैटफिश (Chimaera)",
+          "en": "Chimaera (Ratfish / Ghost Shark)"
+        },
+        {
+          "hi": "लैटिमेरिया",
+          "en": "Latimeria"
+        },
+        {
+          "hi": "प्रिस्टिस",
+          "en": "Pristis"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'समुद्री घोड़ा' (Sea Horse / हिप्पोकैम्पस) वास्तव में क्या है?",
+        "en": "What is the biological classification of the Sea Horse (Hippocampus)?"
+      },
+      "o": [
+        {
+          "hi": "एक समुद्री स्तनधारी",
+          "en": "A Marine Mammal"
+        },
+        {
+          "hi": "एक समुद्री सरीसृप",
+          "en": "A Marine Reptile"
+        },
+        {
+          "hi": "एक वास्तविक अस्थि मछली (A True Bony Fish / Osteichthyes)",
+          "en": "A True Bony Fish (Osteichthyes)"
+        },
+        {
+          "hi": "एक अवास्तविक क्रस्टेशियन",
+          "en": "A Crustacean"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समुद्री घोड़े (Sea Horse) में संतानों के संरक्षण (Parental Care) की क्या अनोखी विशेषता होती है?",
+        "en": "What remarkable reproductive adaptation is seen in the Sea Horse (Hippocampus)?"
+      },
+      "o": [
+        {
+          "hi": "मादा जमीन पर घोंसला बनाती है",
+          "en": "Female builds terrestrial nest"
+        },
+        {
+          "hi": "अंडों को मुंह में रखकर सेते हैं",
+          "en": "Mouth-brooding by juveniles"
+        },
+        {
+          "hi": "ये कभी अंडे नहीं देते",
+          "en": "They never lay eggs"
+        },
+        {
+          "hi": "नर के पेट पर ब्रूड पाउच (शिशुधानी) होता है जिसमें वह अंडों को सेता है",
+          "en": "Male possesses an abdominal brood pouch to incubate eggs"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संसार की एकमात्र मछली कौन-सी है जो जल में ऊर्ध्वाधर (Vertically / सीधे) तैरती है?",
+        "en": "Which is the only fish in the world that swims upright in a vertical posture?"
+      },
+      "o": [
+        {
+          "hi": "समुद्री घोड़ा (Sea Horse / Hippocampus)",
+          "en": "Sea Horse (Hippocampus)"
+        },
+        {
+          "hi": "उड़ने वाली मछली (Exocoetus)",
+          "en": "Flying Fish (Exocoetus)"
+        },
+        {
+          "hi": "रोहू मछली (Labeo)",
+          "en": "Rohu Fish"
+        },
+        {
+          "hi": "ईलगर्त मछली (Eel)",
+          "en": "Eel"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'उड़ने वाली मछली' (Flying Fish) का वैज्ञानिक नाम क्या है जो पानी के ऊपर ग्लाइड करती है?",
+        "en": "What is the scientific name of the oceanic Flying Fish with enlarged winglike pectoral fins?"
+      },
+      "o": [
+        {
+          "hi": "हिप्पोकैम्पस (Hippocampus)",
+          "en": "Hippocampus"
+        },
+        {
+          "hi": "एक्सोसीटस (Exocoetus)",
+          "en": "Exocoetus"
+        },
+        {
+          "hi": "एनाबास (Anabas)",
+          "en": "Anabas"
+        },
+        {
+          "hi": "सिनेरा (Syngnathus)",
+          "en": "Syngnathus"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मच्छरों के लार्वा को खाकर मलेरिया नियंत्रण में उपयोग की जाने वाली छोटी मछली कौन-सी है?",
+        "en": "Which top-feeding freshwater fish is widely introduced into ponds for biological control of mosquito larvae?"
+      },
+      "o": [
+        {
+          "hi": "रोहू (Rohu)",
+          "en": "Rohu"
+        },
+        {
+          "hi": "गोल्डफिश (Goldfish)",
+          "en": "Goldfish"
+        },
+        {
+          "hi": "गम्बूशिया / मॉस्किटो फिश (Gambusia affinis)",
+          "en": "Gambusia affinis (Mosquito Fish)"
+        },
+        {
+          "hi": "टॉर्पीडो (Torpedo)",
+          "en": "Torpedo"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय मीठे पानी की प्रमुख खाद्य कार्प मछली 'रोहू' का वैज्ञानिक नाम क्या है?",
+        "en": "What is the scientific zoological name of the prized Indian freshwater major carp Rohu?"
+      },
+      "o": [
+        {
+          "hi": "कतला कतला (Catla catla)",
+          "en": "Catla catla"
+        },
+        {
+          "hi": "सिरहिनस मृगला",
+          "en": "Cirrhinus mrigala"
+        },
+        {
+          "hi": "क्लैरियस बटाचस",
+          "en": "Clarias batrachus"
+        },
+        {
+          "hi": "लेबियो रोहिता (Labeo rohita)",
+          "en": "Labeo rohita"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कैटफिश / मांगुर (Magur) का वैज्ञानिक नाम क्या है जो गंदे जल में भी सांस ले सकती है?",
+        "en": "What is the scientific name of the indigenous air-breathing walking catfish Magur?"
+      },
+      "o": [
+        {
+          "hi": "क्लैरियस बटाचस (Clarias batrachus)",
+          "en": "Clarias batrachus"
+        },
+        {
+          "hi": "हेटरोन्यूस्टिस फॉसिलिस (सिंगी)",
+          "en": "Heteropneustes fossilis"
+        },
+        {
+          "hi": "लेबियो रोहिता",
+          "en": "Labeo rohita"
+        },
+        {
+          "hi": "चन्ना पंक्टेटस (गरई)",
+          "en": "Channa punctatus"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पेड़ों पर चढ़ने और जमीन पर रेंगने की क्षमता वाली 'क्लाइम्बिंग पर्च' मछली कौन-सी है?",
+        "en": "Which labyrinth fish is popularly called the 'Climbing Perch' (capable of terrestrial locomotion)?"
+      },
+      "o": [
+        {
+          "hi": "एक्सोसीटस (Exocoetus)",
+          "en": "Exocoetus"
+        },
+        {
+          "hi": "एनाबास टेस्टुडिनियस (Anabas testudineus / कवाई)",
+          "en": "Anabas testudineus"
+        },
+        {
+          "hi": "पेरिओफ्थैलमस (Periophthalmus)",
+          "en": "Periophthalmus"
+        },
+        {
+          "hi": "लेबियो (Labeo)",
+          "en": "Labeo"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कीचड़ में कूदने और भूमि पर सांस लेने वाली उभयचर मछली कौन-सी है?",
+        "en": "Which amphibious goby fish is famous for skipping across coastal mangrove mudflats?"
+      },
+      "o": [
+        {
+          "hi": "हिप्पोकैम्पस",
+          "en": "Hippocampus"
+        },
+        {
+          "hi": "प्रिस्टिस",
+          "en": "Pristis"
+        },
+        {
+          "hi": "पेरिओफ्थैलमस / मडस्किपर (Mudskipper)",
+          "en": "Periophthalmus (Mudskipper)"
+        },
+        {
+          "hi": "टॉरपीडो",
+          "en": "Torpedo"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शार्क और व्हेल के शरीर पर चिपकने वाली 'चूषक मछली' (Suckerfish / Remora) का वैज्ञानिक नाम क्या है?",
+        "en": "What is the scientific name of the Remora / Suckerfish whose dorsal fin forms a suction disc?"
+      },
+      "o": [
+        {
+          "hi": "स्कोलियोडॉन",
+          "en": "Scoliodon"
+        },
+        {
+          "hi": "एक्सोसीटस",
+          "en": "Exocoetus"
+        },
+        {
+          "hi": "सिनगैंथस (पाइपफिश)",
+          "en": "Syngnathus"
+        },
+        {
+          "hi": "एकिनीस (Echeneis / Remora - सहभोजिता का उदाहरण)",
+          "en": "Echeneis (Remora - Commensalism)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "फेफड़ों द्वारा सांस लेने वाली 'फुफ्फुस मीन' (Lungfish / डिप्नोई) का अफ्रीकी उदाहरण कौन-सा है?",
+        "en": "Which is the African freshwater Dipnoi lungfish capable of aestivation in dry mud cocoons?"
+      },
+      "o": [
+        {
+          "hi": "प्रोटोप्टेरस (Protopterus)",
+          "en": "Protopterus"
+        },
+        {
+          "hi": "लेपिडोसाइरेन (दक्षिण अमेरिकी)",
+          "en": "Lepidosiren"
+        },
+        {
+          "hi": "नियोसेराटोडस (ऑस्ट्रेलियाई)",
+          "en": "Neoceratodus"
+        },
+        {
+          "hi": "लैटिमेरिया (सीलाकेंथ)",
+          "en": "Latimeria"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसार की सबसे अधिक विषैली समुद्री मछली (World's Most Venomous Fish) कौन-सी है?",
+        "en": "Which marine reef dweller with lethal dorsal fin spines is the most venomous fish in the world?"
+      },
+      "o": [
+        {
+          "hi": "लायनफिश (Lionfish)",
+          "en": "Lionfish"
+        },
+        {
+          "hi": "स्टोनफिश / पाषाण मीन (Synanceia verrucosa)",
+          "en": "Stonefish (Synanceia verrucosa)"
+        },
+        {
+          "hi": "पफरफिश (Pufferfish)",
+          "en": "Pufferfish"
+        },
+        {
+          "hi": "स्टिंगरे (Stingray)",
+          "en": "Stingray"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जापान में व्यंजन 'फुगू' (Fugu) के रूप में खाई जाने वाली पफरफिश में कौन-सा घातक विष होता है?",
+        "en": "Which potent neurotoxin is present in the liver and ovaries of culinary Pufferfish (Fugu)?"
+      },
+      "o": [
+        {
+          "hi": "सैक्सिटॉक्सिन (Saxitoxin)",
+          "en": "Saxitoxin"
+        },
+        {
+          "hi": "सिगुआटॉक्सिन (Ciguatoxin)",
+          "en": "Ciguatoxin"
+        },
+        {
+          "hi": "टेट्रोडोटॉक्सिन (Tetrodotoxin - TTX)",
+          "en": "Tetrodotoxin (TTX)"
+        },
+        {
+          "hi": "बैट्राकोटॉक्सिन",
+          "en": "Batrachotoxin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शार्क की थूथन पर विद्युत और तापीय परिवर्तन महसूस करने वाले संवेदी अंग क्या कहलाते हैं?",
+        "en": "What are the specialized electroreceptive jelly-filled pores on a shark's snout called?"
+      },
+      "o": [
+        {
+          "hi": "न्यूरोमास्ट अंग",
+          "en": "Neuromast Organs"
+        },
+        {
+          "hi": "वेबर के ऑसिकल्स",
+          "en": "Weberian Ossicles"
+        },
+        {
+          "hi": "ऑटोथिल अंग",
+          "en": "Otolith Organs"
+        },
+        {
+          "hi": "लोरेन्जिनी की तुम्बिकाएं (Ampullae of Lorenzini)",
+          "en": "Ampullae of Lorenzini"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मछली पालन (Fish Farming / Rearing of Fishes) का वैज्ञानिक अध्ययन क्या कहलाता है?",
+        "en": "The commercial rearing and breeding of fishes in artificial ponds is called:"
+      },
+      "o": [
+        {
+          "hi": "पिसीकल्चर / मत्स्य पालन (Pisciculture)",
+          "en": "Pisciculture"
+        },
+        {
+          "hi": "एपीकल्चर (मधुमक्खी पालन)",
+          "en": "Apiculture"
+        },
+        {
+          "hi": "सेरीकल्चर (रेशम कीट पालन)",
+          "en": "Sericulture"
+        },
+        {
+          "hi": "एक्वाकल्चर (Aquaculture)",
+          "en": "Aquaculture"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मछलियों के तेल (Fish Oil) में कौन-सा आवश्यक पॉलीअनसेचुरेटेड फैटी एसिड प्रचुर मात्रा में होता है?",
+        "en": "Fish oils derived from salmon and mackerel are exceptionally rich in which heart-healthy fatty acid?"
+      },
+      "o": [
+        {
+          "hi": "ओमेगा-6 फैटी एसिड",
+          "en": "Omega-6 Fatty Acids"
+        },
+        {
+          "hi": "ओमेगा-3 फैटी एसिड (Omega-3 Fatty Acids)",
+          "en": "Omega-3 Fatty Acids"
+        },
+        {
+          "hi": "पामिटिक एसिड",
+          "en": "Palmitic Acid"
+        },
+        {
+          "hi": "स्टीयरिक एसिड",
+          "en": "Stearic Acid"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे बड़ा खारे पानी का लैगून जहाँ मछली उत्पादन होता है, कौन-सा है?",
+        "en": "Which is India's largest coastal brackish water lagoon famous for fish and prawn fishery?"
+      },
+      "o": [
+        {
+          "hi": "वेम्बनाड झील (केरल)",
+          "en": "Vembanad Lake (Kerala)"
+        },
+        {
+          "hi": "पुलीकट झील (आंध्र-तमिलनाडु)",
+          "en": "Pulicat Lake"
+        },
+        {
+          "hi": "चिल्का झील (Chilika Lake - ओडिशा)",
+          "en": "Chilika Lake (Odisha)"
+        },
+        {
+          "hi": "कोल्लेरू झील (आंध्र प्रदेश)",
+          "en": "Kolleru Lake"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शार्क के यकृत से कौन-सा हाइड्रोकार्बन यौगिक सौंदर्य प्रसाधनों और टीकों हेतु निकाला जाता है?",
+        "en": "Which natural organic triterpene oil is commercially harvested from shark liver?"
+      },
+      "o": [
+        {
+          "hi": "कोलेस्ट्रॉल (Cholesterol)",
+          "en": "Cholesterol"
+        },
+        {
+          "hi": "लेसिथिन (Lecithin)",
+          "en": "Lecithin"
+        },
+        {
+          "hi": "कैरोटीन (Carotene)",
+          "en": "Carotene"
+        },
+        {
+          "hi": "स्क्वैलीन (Squalene)",
+          "en": "Squalene"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मछलियों में तैरते समय शरीर का संतुलन और दिशा बदलने में कौन-सा पंख (Fin) मुख्य भूमिका निभाता है?",
+        "en": "Which fin acts as a rudder providing steering and forward propulsion in fishes?"
+      },
+      "o": [
+        {
+          "hi": "पुच्छ पंख (Caudal Fin / Tail Fin)",
+          "en": "Caudal Fin (Tail Fin)"
+        },
+        {
+          "hi": "पृष्ठीय पंख (Dorsal Fin)",
+          "en": "Dorsal Fin"
+        },
+        {
+          "hi": "अंस पंख (Pectoral Fin)",
+          "en": "Pectoral Fin"
+        },
+        {
+          "hi": "श्रोणि पंख (Pelvic Fin)",
+          "en": "Pelvic Fin"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मछली का श्वसन अंग गलफड़ा (Gill) जल में घुली हुई किस गैस को अवशोषित करता है?",
+        "en": "Fish gills extract which gas dissolved in water through counter-current capillary flow?"
+      },
+      "o": [
+        {
+          "hi": "जल के हाइड्रोजन अणु",
+          "en": "Hydrogen molecules of water"
+        },
+        {
+          "hi": "विलेय ऑक्सीजन (Dissolved Oxygen - DO)",
+          "en": "Dissolved Oxygen (DO)"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड गैस",
+          "en": "Carbon Dioxide Gas"
+        },
+        {
+          "hi": "नाइट्रोजन गैस",
+          "en": "Nitrogen Gas"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पानी से बाहर निकालने पर मछलियां क्यों मर जाती हैं?",
+        "en": "Why do true fishes suffocate and die when taken out of water onto land?"
+      },
+      "o": [
+        {
+          "hi": "हवा में ऑक्सीजन नहीं होती",
+          "en": "Air contains no oxygen"
+        },
+        {
+          "hi": "उनका रक्त जम जाता है",
+          "en": "Their blood freezes instantly"
+        },
+        {
+          "hi": "गलफड़ों के तंतु आपस में चिपक जाते हैं जिससे गैसीय विनिमय क्षेत्र समाप्त हो जाता है",
+          "en": "Gill filaments collapse and adhere together, drastically reducing surface area for O2 diffusion"
+        },
+        {
+          "hi": "उनका हृदय काम करना बंद कर देता है",
+          "en": "Heart stops pumping immediately"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शार्क में निषेचन (Fertilization) किस प्रकार का होता है?",
+        "en": "In cartilaginous fishes like Sharks, fertilization is characteristically:"
+      },
+      "o": [
+        {
+          "hi": "बाह्य निषेचन (जल में)",
+          "en": "External Fertilization (in water)"
+        },
+        {
+          "hi": "अलैंगिक मुकुलन",
+          "en": "Asexual Budding"
+        },
+        {
+          "hi": "केवल अनिषेकजनन",
+          "en": "Parthenogenesis only"
+        },
+        {
+          "hi": "आंतरिक निषेचन (Internal Fertilization / नर में क्लैस्पर्स द्वारा)",
+          "en": "Internal Fertilization (Using male claspers)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रोहू और कतला जैसी अधिकांश अस्थि मछलियों में निषेचन किस प्रकार का होता है?",
+        "en": "In major bony carps (Rohu, Catla), fertilization is typically:"
+      },
+      "o": [
+        {
+          "hi": "बाह्य निषेचन (जल में अंडे देना / External)",
+          "en": "External Fertilization (in water / Oviparous)"
+        },
+        {
+          "hi": "आंतरिक निषेचन",
+          "en": "Internal Fertilization"
+        },
+        {
+          "hi": "जरायुजता (Vivipary)",
+          "en": "Vivipary"
+        },
+        {
+          "hi": "क्लोनल प्रजनन",
+          "en": "Clonal Reproduction"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मीठे पानी की मछलियों द्वारा स्रावित मुख्य उत्सर्जी पदार्थ क्या होता है?",
+        "en": "What is the primary nitrogenous waste excreted by freshwater teleost fishes (Ammonotelic)?"
+      },
+      "o": [
+        {
+          "hi": "यूरिया (Urea)",
+          "en": "Urea"
+        },
+        {
+          "hi": "अमोनिया (Ammonia - NH3)",
+          "en": "Ammonia (NH3)"
+        },
+        {
+          "hi": "यूरिक अम्ल (Uric Acid)",
+          "en": "Uric Acid"
+        },
+        {
+          "hi": "गुआनिन (Guanine)",
+          "en": "Guanine"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समुद्री उपास्थि मछलियां (शार्क) अपने रक्त में परासरण सांद्रता बनाए रखने के लिए क्या संचित रखती हैं?",
+        "en": "Marine cartilaginous sharks maintain hyperosmotic blood by retaining high concentrations of:"
+      },
+      "o": [
+        {
+          "hi": "अमोनिया (Ammonia)",
+          "en": "Ammonia"
+        },
+        {
+          "hi": "ग्लूकोज (Glucose)",
+          "en": "Glucose"
+        },
+        {
+          "hi": "यूरिया तथा टीएमएओ (Urea & TMAO)",
+          "en": "Urea and TMAO (Trimethylamine oxide)"
+        },
+        {
+          "hi": "सोडियम क्लोराइड मात्र",
+          "en": "Sodium Chloride only"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समुद्री मछली 'ईल' (Eel / ऐंग्विला) का प्रजनन हेतु समुद्र में प्रवास क्या कहलाता है?",
+        "en": "The spawning migration of freshwater European Eels to the Sargasso Sea is termed:"
+      },
+      "o": [
+        {
+          "hi": "एनाड्रोमस प्रवास (समुद्र से नदी - हिल्सा/सैल्मन)",
+          "en": "Anadromous Migration (Marine to Freshwater)"
+        },
+        {
+          "hi": "पोटामाड्रोमस प्रवास",
+          "en": "Potamodromous Migration"
+        },
+        {
+          "hi": "ओशिनोड्रोमस प्रवास",
+          "en": "Oceanodromous Migration"
+        },
+        {
+          "hi": "कैटाड्रोमस प्रवास (Catadromous Migration - नदी से समुद्र)",
+          "en": "Catadromous Migration (Freshwater to Marine)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय हिलसा मछली और सैल्मन (Salmon) अंडे देने के लिए समुद्र से नदी में आती हैं, इसे क्या कहते हैं?",
+        "en": "Spawning migration of Hilsa and Salmon from the sea into freshwater rivers is called:"
+      },
+      "o": [
+        {
+          "hi": "एनाड्रोमस प्रवास (Anadromous Migration)",
+          "en": "Anadromous Migration"
+        },
+        {
+          "hi": "कैटाड्रोमस प्रवास (Catadromous)",
+          "en": "Catadromous Migration"
+        },
+        {
+          "hi": "डायड्रोमस प्रवास",
+          "en": "Diadromous Migration"
+        },
+        {
+          "hi": "स्थानीय प्रवास",
+          "en": "Local Migration"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मछलियों की आयु का निर्धारण उनके शरीर के किन भागों की वृद्धि वलयों (Growth Rings) से किया जाता है?",
+        "en": "The age of a bony fish is scientifically estimated by counting annual growth rings on:"
+      },
+      "o": [
+        {
+          "hi": "दांतों की संख्या से",
+          "en": "Number of Teeth"
+        },
+        {
+          "hi": "शल्क (Scales) तथा ओटोलिथ (Otoliths / कान की हड्डियां)",
+          "en": "Scales and Otoliths (Ear Stones)"
+        },
+        {
+          "hi": "पंखों की लंबाई से",
+          "en": "Length of Fins"
+        },
+        {
+          "hi": "हृदय के आकार से",
+          "en": "Size of Heart"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मछली के गलफड़ों में पानी और रक्त के विपरीत दिशा में बहने से ऑक्सीजन अवशोषण 80% बढ़ जाता है, यह क्या कहलाता है?",
+        "en": "What is the highly efficient oxygen-exchange mechanism where blood and water flow in opposite directions in gills?"
+      },
+      "o": [
+        {
+          "hi": "सह-धारा प्रणाली (Cocurrent)",
+          "en": "Cocurrent Exchange"
+        },
+        {
+          "hi": "समानांतर प्रवाह",
+          "en": "Parallel Flow"
+        },
+        {
+          "hi": "प्रतिधारा विनिमय प्रणाली (Countercurrent Exchange System)",
+          "en": "Countercurrent Exchange System"
+        },
+        {
+          "hi": "स्थैतिक विसरण",
+          "en": "Static Diffusion"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "काले सागर और कैस्पियन सागर की स्टर्जन मछली (Sturgeon) के असंसाधित अंडों से क्या बनता है?",
+        "en": "What world-famous luxury gourmet delicacy is prepared from the salt-cured roe of wild Sturgeon fish?"
+      },
+      "o": [
+        {
+          "hi": "इसिंग्लास (Isinglass)",
+          "en": "Isinglass"
+        },
+        {
+          "hi": "शागग्रीन (Shagreen)",
+          "en": "Shagreen"
+        },
+        {
+          "hi": "सूरीमी (Surimi)",
+          "en": "Surimi"
+        },
+        {
+          "hi": "कैवियार (Caviar)",
+          "en": "Caviar"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मछलियों के वायु कोष (Swim Bladder) से प्राप्त शुद्ध जिलेटिन जो वाइन को साफ करने में प्रयुक्त होता है, क्या कहलाता है?",
+        "en": "What is the pure collagenous substance obtained from fish swim bladders used for clarifying wine/beer called?"
+      },
+      "o": [
+        {
+          "hi": "इसिंग्लास (Isinglass)",
+          "en": "Isinglass"
+        },
+        {
+          "hi": "कैवियार (Caviar)",
+          "en": "Caviar"
+        },
+        {
+          "hi": "शागग्रीन (Shagreen)",
+          "en": "Shagreen"
+        },
+        {
+          "hi": "एम्बरग्रीस (Ambergris)",
+          "en": "Ambergris"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शार्क की खुरदरी त्वचा (Placoid scales युक्त) को सुखाकर लकड़ी की पॉलिश में प्रयुक्त चमड़ा क्या कहलाता है?",
+        "en": "What is dried shark skin covered with placoid scales used as an abrasive leather called?"
+      },
+      "o": [
+        {
+          "hi": "इसिंग्लास",
+          "en": "Isinglass"
+        },
+        {
+          "hi": "शागग्रीन (Shagreen)",
+          "en": "Shagreen"
+        },
+        {
+          "hi": "केसीन",
+          "en": "Casein"
+        },
+        {
+          "hi": "ब्लबर",
+          "en": "Blubber"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अंगूठे के बराबर आकार वाली 'पैडोप्रिस' (Paedocypris) को किस रूप में जाना जाता है?",
+        "en": "Paedocypris progenetica found in peat swamps of Sumatra is known as:"
+      },
+      "o": [
+        {
+          "hi": "संसार की सबसे विषैली मछली",
+          "en": "World's most venomous fish"
+        },
+        {
+          "hi": "संसार की सबसे तेज तैरने वाली मछली",
+          "en": "World's fastest swimming fish"
+        },
+        {
+          "hi": "विश्व की सबसे छोटी ज्ञात सत्य मछलियों में से एक (~7.9 मिमी)",
+          "en": "One of the world's smallest known true fishes (~7.9 mm)"
+        },
+        {
+          "hi": "उड़ने वाली सबसे बड़ी मछली",
+          "en": "Largest flying fish"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संसार की सबसे तेज तैरने वाली मछली कौन-सी मानी जाती है (लगभग 110 किमी/घंटा)?",
+        "en": "Which billfish is widely clocked as the fastest swimming marine fish in the world (~110 km/h)?"
+      },
+      "o": [
+        {
+          "hi": "स्वॉर्डफिश (Swordfish)",
+          "en": "Swordfish"
+        },
+        {
+          "hi": "ब्लूफिन टूना (Bluefin Tuna)",
+          "en": "Bluefin Tuna"
+        },
+        {
+          "hi": "मको शार्क (Mako Shark)",
+          "en": "Mako Shark"
+        },
+        {
+          "hi": "सेलफिश / पाल मछली (Sailfish / Istiophorus platypterus)",
+          "en": "Sailfish (Istiophorus platypterus)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तलहटी में रहने वाली चपटी समुद्री मछली 'फ्ले flounder' और 'हैलibut' किस गण में आती हैं?",
+        "en": "Bottom-dwelling marine flatfishes like Flounder, Sole, and Halibut belong to order:"
+      },
+      "o": [
+        {
+          "hi": "प्लुरोनेक्टिफोर्मिस (Pleuronectiformes - दोनों आंखें एक तरफ)",
+          "en": "Pleuronectiformes (Both eyes on one side)"
+        },
+        {
+          "hi": "साइप्रिनिफोर्मिस",
+          "en": "Cypriniformes"
+        },
+        {
+          "hi": "परसीफोर्मिस",
+          "en": "Perciformes"
+        },
+        {
+          "hi": "सिल्यूरीफोर्मिस",
+          "en": "Siluriformes"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सी मछली मलेरिया और डेंगू नियंत्रण हेतु सरकारी स्वास्थ्य अभियानों में वितरित की जाती है?",
+        "en": "Which larvivorous fish is distributed in public health campaigns to eradicate mosquito-borne fevers?"
+      },
+      "o": [
+        {
+          "hi": "शार्क और स्टिंगरे",
+          "en": "Shark and Stingray"
+        },
+        {
+          "hi": "गम्बूशिया (Gambusia affinis) और गप्पी (Guppy)",
+          "en": "Gambusia and Guppy"
+        },
+        {
+          "hi": "रोहू और कतला",
+          "en": "Rohu and Catla"
+        },
+        {
+          "hi": "मांगुर और सिंघी",
+          "en": "Magur and Singhi"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

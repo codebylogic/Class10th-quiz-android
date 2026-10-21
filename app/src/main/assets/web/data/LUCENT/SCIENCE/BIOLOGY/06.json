@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - जीव विज्ञान (Biology)",
+  "subtitle": "प्राणी विज्ञान",
+  "description": "प्राणी विज्ञान पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "जंतु जगत का सबसे बड़ा संघ (Largest Phylum of Animal Kingdom - लगभग 80% जंतु) कौन-सा है?",
+        "en": "Which is the largest phylum in the Animal Kingdom comprising nearly 80% of all animal species?"
+      },
+      "o": [
+        {
+          "hi": "संघ आर्थ्रोपोडा (Phylum Arthropoda)",
+          "en": "Phylum Arthropoda"
+        },
+        {
+          "hi": "संघ मोलस्का (Mollusca)",
+          "en": "Phylum Mollusca"
+        },
+        {
+          "hi": "संघ प्रोटोजोआ (Protozoa)",
+          "en": "Phylum Protozoa"
+        },
+        {
+          "hi": "संघ एनेलिडा (Annelida)",
+          "en": "Phylum Annelida"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जंतु जगत का दूसरा सबसे बड़ा संघ (Second Largest Phylum) कौन-सा है?",
+        "en": "Which is the second largest phylum of the animal kingdom?"
+      },
+      "o": [
+        {
+          "hi": "संघ आर्थ्रोपोडा",
+          "en": "Phylum Arthropoda"
+        },
+        {
+          "hi": "संघ मोलस्का (Phylum Mollusca)",
+          "en": "Phylum Mollusca"
+        },
+        {
+          "hi": "संघ कॉर्डेटा (Chordata)",
+          "en": "Phylum Chordata"
+        },
+        {
+          "hi": "संघ इकाइनोडर्मेटा",
+          "en": "Phylum Echinodermata"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अमीबा (Amoeba) में प्रचलन (Locomotion) किस रचना द्वारा होता है?",
+        "en": "Locomotion and food capture in Amoeba are carried out by temporary extensions called:"
+      },
+      "o": [
+        {
+          "hi": "सीलिया (Cilia)",
+          "en": "Cilia"
+        },
+        {
+          "hi": "फ्लैजिला (Flagella)",
+          "en": "Flagella"
+        },
+        {
+          "hi": "कूटपाद / स्यूडोपोडिया (Pseudopodia)",
+          "en": "Pseudopodia (False Feet)"
+        },
+        {
+          "hi": "टेंटेकल्स (Tentacles)",
+          "en": "Tentacles"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'चप्पल जंतु' (Slipper Animalcule) के नाम से किस एककोशिकीय प्रोटोजोआ को जाना जाता है?",
+        "en": "Which unicellular ciliated protozoan is commonly nicknamed the 'Slipper Animalcule'?"
+      },
+      "o": [
+        {
+          "hi": "अमीबा (Amoeba)",
+          "en": "Amoeba"
+        },
+        {
+          "hi": "यूग्लीना (Euglena)",
+          "en": "Euglena"
+        },
+        {
+          "hi": "ट्रिपैनोसोमा (Trypanosoma)",
+          "en": "Trypanosoma"
+        },
+        {
+          "hi": "पैरामीशियम (Paramecium)",
+          "en": "Paramecium"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव में पेचिश / अमीबियासिस (Amoebic Dysentery) उत्पन्न करने वाला परजीवी प्रोटोजोआ कौन-सा है?",
+        "en": "Which parasitic protozoan causes amoebic dysentery in the human large intestine?"
+      },
+      "o": [
+        {
+          "hi": "एंटअमीबा हिस्टोलिटिका (Entamoeba histolytica)",
+          "en": "Entamoeba histolytica"
+        },
+        {
+          "hi": "एंटअमीबा जिंजीवैलिस (पायरिया हेतु)",
+          "en": "Entamoeba gingivalis"
+        },
+        {
+          "hi": "प्लाज्मोडियम वाइवैक्स",
+          "en": "Plasmodium vivax"
+        },
+        {
+          "hi": "गियार्डिया (Giardia)",
+          "en": "Giardia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मलेरिया रोग का वाहक कौन-सा प्रोटोजोआ परजीवी है?",
+        "en": "Which protozoan parasite is the causative agent of Malaria?"
+      },
+      "o": [
+        {
+          "hi": "ट्रिपैनोसोमा (Trypanosoma)",
+          "en": "Trypanosoma"
+        },
+        {
+          "hi": "प्लाज्मोडियम (Plasmodium - खोजकर्ता: रोनाल्ड रॉस)",
+          "en": "Plasmodium (Discovered by Ronald Ross)"
+        },
+        {
+          "hi": "लीशमैनिया (Leishmania)",
+          "en": "Leishmania"
+        },
+        {
+          "hi": "एंटअमीबा (Entamoeba)",
+          "en": "Entamoeba"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "निद्रा रोग (Sleeping Sickness) किस प्रोटोजोआ के कारण होता है और इसका वाहक कौन है?",
+        "en": "African Sleeping Sickness is caused by Trypanosoma and transmitted by which vector fly?"
+      },
+      "o": [
+        {
+          "hi": "लीशमैनिया (वाहक: बालू मक्खी)",
+          "en": "Leishmania (Vector: Sandfly)"
+        },
+        {
+          "hi": "प्लाज्मोडियम (वाहक: एनाफिलीज़)",
+          "en": "Plasmodium (Vector: Anopheles)"
+        },
+        {
+          "hi": "ट्रिपैनोसोमा (वाहक: सी-सी मक्खी / Tsetse Fly)",
+          "en": "Trypanosoma (Vector: Tsetse Fly)"
+        },
+        {
+          "hi": "बैसिलस (वाहक: पिस्सू)",
+          "en": "Bacillus (Vector: Flea)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कालाजार (Kala-azar / Dumdum Fever) किस प्रोटोजोआ द्वारा फैलता है और इसका वाहक कौन है?",
+        "en": "Kala-azar (Visceral Leishmaniasis) is caused by Leishmania and transmitted by:"
+      },
+      "o": [
+        {
+          "hi": "ट्रिपैनोसोमा (वाहक: घरेलू मक्खी)",
+          "en": "Trypanosoma (Housefly)"
+        },
+        {
+          "hi": "प्लाज्मोडियम (वाहक: एडीज मच्छर)",
+          "en": "Plasmodium (Aedes mosquito)"
+        },
+        {
+          "hi": "वुचेरेरिया (वाहक: क्यूलेक्स)",
+          "en": "Wuchereria (Culex)"
+        },
+        {
+          "hi": "लीशमैनिया डोनोवानी (वाहक: बालू मक्खी / Sandfly)",
+          "en": "Leishmania donovani (Vector: Sandfly)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्पंज (Sponges) किस संघ के अंतर्गत आते हैं जिनका शरीर छिद्रयुक्त (Pore-bearing) होता है?",
+        "en": "Pore-bearing multicellular sedentary animals (Sponges) belong to which phylum?"
+      },
+      "o": [
+        {
+          "hi": "संघ पोरिफेरा (Phylum Porifera)",
+          "en": "Phylum Porifera"
+        },
+        {
+          "hi": "संघ सीलेन्टरेटा (Coelenterata)",
+          "en": "Phylum Coelenterata"
+        },
+        {
+          "hi": "संघ प्लेटीहेल्मिन्थीज",
+          "en": "Phylum Platyhelminthes"
+        },
+        {
+          "hi": "संघ मोलस्का",
+          "en": "Phylum Mollusca"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जापान में नवदंपतियों को उपहार स्वरूप दिया जाने वाला 'वीनस की फूलों की डलिया' कौन-सा स्पंज है?",
+        "en": "Which beautiful glass sponge is gifted as a wedding present in Japan ('Venus' Flower Basket')?"
+      },
+      "o": [
+        {
+          "hi": "यूस्पॉन्जिया / बाथ स्पंज",
+          "en": "Euspongia (Bath Sponge)"
+        },
+        {
+          "hi": "यूप्लेक्टेला (Euplectella)",
+          "en": "Euplectella"
+        },
+        {
+          "hi": "स्पॉन्जिला (Spongilla)",
+          "en": "Spongilla"
+        },
+        {
+          "hi": "साइकोन (Sycon)",
+          "en": "Sycon"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दंश कोशिकाएं (Nematocysts) और हाइड्रा किस संघ के प्रमुख लक्षण हैं?",
+        "en": "Stinging cells (nematocysts) and regenerative Hydra are characteristic of which phylum?"
+      },
+      "o": [
+        {
+          "hi": "संघ पोरिफेरा",
+          "en": "Phylum Porifera"
+        },
+        {
+          "hi": "संघ एनेलिडा",
+          "en": "Phylum Annelida"
+        },
+        {
+          "hi": "संघ सीलेन्टरेटा / नाइडेरिया (Cnidaria)",
+          "en": "Phylum Coelenterata / Cnidaria"
+        },
+        {
+          "hi": "संघ आर्थ्रोपोडा",
+          "en": "Phylum Arthropoda"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किस जंतु में तंत्रिका तंत्र तो होता है परंतु मस्तिष्क (Brain) नहीं होता?",
+        "en": "Which organism possesses a primitive nerve net but lacks a centralized brain?"
+      },
+      "o": [
+        {
+          "hi": "केंचुआ (Earthworm)",
+          "en": "Earthworm"
+        },
+        {
+          "hi": "तिलचट्टा (Cockroach)",
+          "en": "Cockroach"
+        },
+        {
+          "hi": "तारा मछली (Starfish)",
+          "en": "Starfish"
+        },
+        {
+          "hi": "हाइड्रा (Hydra)",
+          "en": "Hydra"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'पुर्तगाली युद्धपोत' (Portuguese Man-of-War) के नाम से किस सीलेन्टरेट जीव को जाना जाता है?",
+        "en": "Which colonial marine hydrozoan is commonly known as 'Portuguese Man-of-War'?"
+      },
+      "o": [
+        {
+          "hi": "फाइसेलिया (Physalia)",
+          "en": "Physalia"
+        },
+        {
+          "hi": "ऑरेलिया (Aurelia / Jellyfish)",
+          "en": "Aurelia"
+        },
+        {
+          "hi": "सी-एनीमोन (Sea Anemone)",
+          "en": "Sea Anemone"
+        },
+        {
+          "hi": "ओबेलिया (Obelia)",
+          "en": "Obelia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जलीय पारदर्शी छतरीनुमा 'जेलीफिश' (Jellyfish) का वास्तविक वैज्ञानिक नाम क्या है?",
+        "en": "What is the true zoological genus name of the marine Jellyfish (Coelenterata)?"
+      },
+      "o": [
+        {
+          "hi": "फाइसेलिया (Physalia)",
+          "en": "Physalia"
+        },
+        {
+          "hi": "ऑरेलिया (Aurelia)",
+          "en": "Aurelia"
+        },
+        {
+          "hi": "पेनाटुला (Sea Pen)",
+          "en": "Pennatula"
+        },
+        {
+          "hi": "गॉरगोनिया (Sea Fan)",
+          "en": "Gorgonia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ग्रेट बैरियर रीफ जैसी विशाल मूंगा चट्टानें (Coral Reefs) किस रसायन की बनी होती हैं?",
+        "en": "Coral reefs formed by marine coelenterate polyps are composed predominantly of:"
+      },
+      "o": [
+        {
+          "hi": "सिलिका (SiO2)",
+          "en": "Silica (SiO2)"
+        },
+        {
+          "hi": "कैल्शियम फॉस्फेट",
+          "en": "Calcium Phosphate"
+        },
+        {
+          "hi": "कैल्शियम कार्बोनेट (Calcium Carbonate - CaCO3)",
+          "en": "Calcium Carbonate (CaCO3)"
+        },
+        {
+          "hi": "मैग्नीशियम सल्फेट",
+          "en": "Magnesium Sulfate"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चपटे कृमियों (Flatworms) में उत्सर्जन (Excretion) किस विशिष्ट कोशिका द्वारा होता है?",
+        "en": "In flatworms (Platyhelminthes like Planaria, Tapeworm), excretion is carried out by:"
+      },
+      "o": [
+        {
+          "hi": "नेफ्रीडिया (Nephridia)",
+          "en": "Nephridia"
+        },
+        {
+          "hi": "मैल्पीघियन नलिकाएं (Malpighian Tubules)",
+          "en": "Malpighian Tubules"
+        },
+        {
+          "hi": "ग्रीन ग्रंथियां (Green Glands)",
+          "en": "Green Glands"
+        },
+        {
+          "hi": "ज्वाला कोशिकाएं / फ्लेम सेल्स (Flame Cells / Protonephridia)",
+          "en": "Flame Cells (Protonephridia)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्राणी जगत में पुनरुद्भवन (Regeneration) की सर्वाधिक आश्चर्यजनक क्षमता किसमें पाई जाती है?",
+        "en": "Which simple flatworm possesses the highest and most extraordinary power of regeneration?"
+      },
+      "o": [
+        {
+          "hi": "प्लेनेरिया (Planaria)",
+          "en": "Planaria"
+        },
+        {
+          "hi": "फीताकृमि (Tapeworm)",
+          "en": "Tapeworm"
+        },
+        {
+          "hi": "हाइड्रा (Hydra)",
+          "en": "Hydra"
+        },
+        {
+          "hi": "केंचुआ (Earthworm)",
+          "en": "Earthworm"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हाथीपांव / फाइलेरिया (Elephantiasis / Filariasis) रोग किस गोलकृमि के संक्रमण से होता है?",
+        "en": "Elephantiasis (Lymphatic Filariasis) is caused by which parasitic roundworm?"
+      },
+      "o": [
+        {
+          "hi": "एस्केरिस लुम्ब्रिकोइड्स",
+          "en": "Ascaris lumbricoides"
+        },
+        {
+          "hi": "वुचेरेरिया ब्रैंक्रोफ्टाई (Wuchereria bancrofti - वाहक: क्यूलेक्स)",
+          "en": "Wuchereria bancrofti (Vector: Culex)"
+        },
+        {
+          "hi": "टीनिया सोलियम",
+          "en": "Taenia solium"
+        },
+        {
+          "hi": "एंटरोबियस (Pinworm)",
+          "en": "Enterobius"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "केंचुए (Earthworm) में उत्सर्जन का कार्य कौन-से अंग करते हैं?",
+        "en": "In Annelids like Earthworm, the excretory organs are:"
+      },
+      "o": [
+        {
+          "hi": "ज्वाला कोशिकाएं (Flame Cells)",
+          "en": "Flame Cells"
+        },
+        {
+          "hi": "मैल्पीघियन नलिकाएं",
+          "en": "Malpighian Tubules"
+        },
+        {
+          "hi": "नेफ्रीडिया / वृक्कक (Nephridia)",
+          "en": "Nephridia"
+        },
+        {
+          "hi": "कोक्जल ग्रंथियां",
+          "en": "Coxal Glands"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "केंचुए के रुधिर में हीमोग्लोबिन कहाँ घुला रहता है?",
+        "en": "In the closed circulatory system of earthworms, where is hemoglobin located?"
+      },
+      "o": [
+        {
+          "hi": "लाल रुधिर कणिकाओं में",
+          "en": "Inside Red Blood Cells"
+        },
+        {
+          "hi": "श्वेत रुधिर कणिकाओं में",
+          "en": "Inside White Blood Cells"
+        },
+        {
+          "hi": "लिम्फ कोशिकाओं में",
+          "en": "Inside Lymph Cells"
+        },
+        {
+          "hi": "रुधिर प्लाज्मा में घुला रहता है (RBCs अनुपस्थित)",
+          "en": "Dissolved in Blood Plasma (RBCs absent)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "केंचुए में कुल कितने जोड़े हृदय (Aortic Arches / Lateral Hearts) पाए जाते हैं?",
+        "en": "How many pairs of lateral hearts are present in an earthworm (segments 7, 9, 12, 13)?"
+      },
+      "o": [
+        {
+          "hi": "4 जोड़े हृदय (8 हृदय)",
+          "en": "4 Pairs of Hearts (8 hearts)"
+        },
+        {
+          "hi": "2 जोड़े",
+          "en": "2 Pairs"
+        },
+        {
+          "hi": "1 जोड़ा",
+          "en": "1 Pair"
+        },
+        {
+          "hi": "6 जोड़े",
+          "en": "6 Pairs"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "केंचुए में कितनी आंखें (Eyes) पाई जाती हैं?",
+        "en": "How many eyes does an earthworm possess?"
+      },
+      "o": [
+        {
+          "hi": "1 आंख",
+          "en": "1 Eye"
+        },
+        {
+          "hi": "एक भी नहीं (कोई आंख नहीं होती)",
+          "en": "None (No eyes)"
+        },
+        {
+          "hi": "2 आंखें",
+          "en": "2 Eyes"
+        },
+        {
+          "hi": "अनेक संयुक्त आंखें",
+          "en": "Multiple compound eyes"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "केंचुए और जोंक (Leech) लैंगिक दृष्टि से किस प्रकार के प्राणी हैं?",
+        "en": "Reproductively, Earthworms and Leeches are which type of animals?"
+      },
+      "o": [
+        {
+          "hi": "एकलिंगी (Dioecious)",
+          "en": "Dioecious"
+        },
+        {
+          "hi": "अलैंगिक (Asexual)",
+          "en": "Asexual"
+        },
+        {
+          "hi": "उभयलिंगी / द्विलिंगी (Hermaphrodite / Monoecious)",
+          "en": "Hermaphrodite (Monoecious)"
+        },
+        {
+          "hi": "केवल अनिषेकजनित",
+          "en": "Parthenogenetic only"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जोंक (Leech) खून चूसते समय कौन-सा थक्का-रोधी रसायन (Anticoagulant) छोड़ती है?",
+        "en": "Which powerful anticoagulant chemical is secreted in the saliva of blood-sucking leeches?"
+      },
+      "o": [
+        {
+          "hi": "हेपेरिन (Heparin)",
+          "en": "Heparin"
+        },
+        {
+          "hi": "हिस्टामिन (Histamine)",
+          "en": "Histamine"
+        },
+        {
+          "hi": "सीरोटोनिन (Serotonin)",
+          "en": "Serotonin"
+        },
+        {
+          "hi": "हिरुडिन (Hirudin)",
+          "en": "Hirudin"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कीट वर्ग (Class Insecta) के जंतुओं में चलने के लिए कितने पैर (टांगें) होते हैं?",
+        "en": "How many walking legs are present in animals belonging to Class Insecta?"
+      },
+      "o": [
+        {
+          "hi": "6 पैर (3 जोड़े टांगें)",
+          "en": "6 Legs (3 Pairs of Legs)"
+        },
+        {
+          "hi": "8 पैर (4 जोड़े - मकड़ी में)",
+          "en": "8 Legs (4 Pairs - Arachnids)"
+        },
+        {
+          "hi": "10 पैर (5 जोड़े)",
+          "en": "10 Legs"
+        },
+        {
+          "hi": "4 पैर (2 जोड़े)",
+          "en": "4 Legs"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मकड़ी (Spider) और बिच्छू (Scorpion) कीट वर्ग में नहीं आते, क्योंकि इनमें कितने पैर होते हैं?",
+        "en": "Spiders and Scorpions are not classified as true insects because they have:"
+      },
+      "o": [
+        {
+          "hi": "6 पैर (3 जोड़े)",
+          "en": "6 Legs"
+        },
+        {
+          "hi": "8 पैर (4 जोड़े टांगें - वर्ग अरेकनिडा)",
+          "en": "8 Legs (4 Pairs of Legs - Class Arachnida)"
+        },
+        {
+          "hi": "10 पैर (5 जोड़े)",
+          "en": "10 Legs"
+        },
+        {
+          "hi": "12 पैर (6 जोड़े)",
+          "en": "12 Legs"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कीटों में मुख्य श्वसन अंग (Respiratory Organ) कौन-सा होता है?",
+        "en": "What is the primary respiratory system/organ in insects (e.g. Cockroach)?"
+      },
+      "o": [
+        {
+          "hi": "गलफड़े / गिल्स (Gills)",
+          "en": "Gills"
+        },
+        {
+          "hi": "फेफड़े (Lungs)",
+          "en": "Lungs"
+        },
+        {
+          "hi": "श्वासनली तंत्र / ट्रैकिया (Tracheal System)",
+          "en": "Tracheal System"
+        },
+        {
+          "hi": "बुक लंग्स (Book Lungs)",
+          "en": "Book Lungs"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कीटों में उत्सर्जन (Excretion) मुख्य रूप से किन नलिकाओं द्वारा होता है?",
+        "en": "In insects, the main excretory and osmoregulatory organs are:"
+      },
+      "o": [
+        {
+          "hi": "नेफ्रीडिया (Nephridia)",
+          "en": "Nephridia"
+        },
+        {
+          "hi": "फ्लेम सेल्स (Flame Cells)",
+          "en": "Flame Cells"
+        },
+        {
+          "hi": "वृक्क (Kidneys)",
+          "en": "Kidneys"
+        },
+        {
+          "hi": "मैल्पीघियन नलिकाएं (Malpighian Tubules)",
+          "en": "Malpighian Tubules"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तिलचट्टे (Cockroach) के हृदय में कितने कक्ष (Chambers) होते हैं?",
+        "en": "How many chambers are there in the elongated dorsal heart of a Cockroach?"
+      },
+      "o": [
+        {
+          "hi": "13 कक्ष (13 Chambers)",
+          "en": "13 Chambers"
+        },
+        {
+          "hi": "4 कक्ष",
+          "en": "4 Chambers"
+        },
+        {
+          "hi": "8 कक्ष",
+          "en": "8 Chambers"
+        },
+        {
+          "hi": "10 कक्ष",
+          "en": "10 Chambers"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तिलचट्टे का रुधिर (Blood) रंगहीन क्यों होता है?",
+        "en": "Why is the blood (hemolymph) of a Cockroach white / colorless?"
+      },
+      "o": [
+        {
+          "hi": "सफेद लवणों की अधिकता",
+          "en": "High concentration of white salts"
+        },
+        {
+          "hi": "हीमोग्लोबिन या किसी श्वसन वर्णक का पूर्ण अभाव",
+          "en": "Complete absence of hemoglobin or respiratory pigment"
+        },
+        {
+          "hi": "कैल्शियम की प्रचुरता",
+          "en": "Abundance of calcium"
+        },
+        {
+          "hi": "क्लोरोफिल की उपस्थिति",
+          "en": "Presence of chlorophyll"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ऑक्टोपस (Octopus / डेविल फिश) के रुधिर का रंग नीला किसके कारण होता है?",
+        "en": "The blood of Octopus and Snail is blue in color due to the presence of:"
+      },
+      "o": [
+        {
+          "hi": "हीमोग्लोबिन (लोहा युक्त)",
+          "en": "Hemoglobin (Iron-based)"
+        },
+        {
+          "hi": "हीमोएरिथ्रिन",
+          "en": "Hemoerythrin"
+        },
+        {
+          "hi": "हीमोसायनिन वर्णक (तांबा / कॉपर युक्त)",
+          "en": "Hemocyanin pigment (Copper-based)"
+        },
+        {
+          "hi": "क्लोरोक्रूओरिन",
+          "en": "Chlorocruorin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऑक्टोपस (डेविल फिश) में कुल कितनी भुजाएं (Arms) और कितने हृदय होते हैं?",
+        "en": "How many arms and hearts does an Octopus possess?"
+      },
+      "o": [
+        {
+          "hi": "10 भुजाएं और 2 हृदय",
+          "en": "10 Arms and 2 Hearts"
+        },
+        {
+          "hi": "6 भुजाएं और 1 हृदय",
+          "en": "6 Arms and 1 Heart"
+        },
+        {
+          "hi": "8 भुजाएं और 4 हृदय",
+          "en": "8 Arms and 4 Hearts"
+        },
+        {
+          "hi": "8 भुजाएं और 3 हृदय",
+          "en": "8 Arms and 3 Hearts"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मोती (Pearl) का उत्पादन किस समुद्री मोलस्क जीव द्वारा किया जाता है?",
+        "en": "Natural pearls are commercially cultured and harvested from which marine bivalve mollusc?"
+      },
+      "o": [
+        {
+          "hi": "मुक्ता सीप / पर्ल ऑयस्टर (Pinctada)",
+          "en": "Pearl Oyster (Pinctada)"
+        },
+        {
+          "hi": "पाइला / घोंघा (Pila)",
+          "en": "Apple Snail (Pila)"
+        },
+        {
+          "hi": "यूनियो (Unio)",
+          "en": "Freshwater Mussel (Unio)"
+        },
+        {
+          "hi": "सीपिया (Sepia)",
+          "en": "Cuttlefish (Sepia)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जल संवहन तंत्र (Water Vascular System / Tube Feet) किस संघ के जंतुओं की अनूठी विशेषता है?",
+        "en": "A Water Vascular System and tube feet for locomotion are unique features of:"
+      },
+      "o": [
+        {
+          "hi": "संघ मोलस्का (Mollusca)",
+          "en": "Phylum Mollusca"
+        },
+        {
+          "hi": "संघ इकाइनोडर्मेटा (Phylum Echinodermata / जैसे स्टारफिश)",
+          "en": "Phylum Echinodermata (e.g. Starfish)"
+        },
+        {
+          "hi": "संघ सीलेन्टरेटा (Coelenterata)",
+          "en": "Phylum Coelenterata"
+        },
+        {
+          "hi": "संघ पोरिफेरा (Porifera)",
+          "en": "Phylum Porifera"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मछलियों (Fishes) के हृदय में कितने कक्ष (Chambers) होते हैं?",
+        "en": "How many chambers are there in the heart of a true Fish (Pisces)?"
+      },
+      "o": [
+        {
+          "hi": "3 कक्ष",
+          "en": "3 Chambers"
+        },
+        {
+          "hi": "4 कक्ष",
+          "en": "4 Chambers"
+        },
+        {
+          "hi": "2 कक्ष (1 अलिंद + 1 निलय / वीनस हृदय)",
+          "en": "2 Chambers (1 Atrium + 1 Ventricle / Venous Heart)"
+        },
+        {
+          "hi": "1 कक्ष",
+          "en": "1 Chamber"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मेंढक (Amphibian) के हृदय में कुल कितने कक्ष (Chambers) होते हैं?",
+        "en": "How many chambers are there in an adult Frog's heart?"
+      },
+      "o": [
+        {
+          "hi": "2 कक्ष",
+          "en": "2 Chambers"
+        },
+        {
+          "hi": "4 कक्ष",
+          "en": "4 Chambers"
+        },
+        {
+          "hi": "5 कक्ष",
+          "en": "5 Chambers"
+        },
+        {
+          "hi": "3 कक्ष (2 अलिंद + 1 निलय)",
+          "en": "3 Chambers (2 Atria + 1 Ventricle)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मेंढक शीतकाल में किसके माध्यम से श्वसन करता है (शीतनिष्क्रियता / Hibernation)?",
+        "en": "During hibernation in winter, how does an adult frog breathe?"
+      },
+      "o": [
+        {
+          "hi": "केवल नम त्वचा द्वारा (Cutaneous Respiration)",
+          "en": "Only through moist skin"
+        },
+        {
+          "hi": "केवल फेफड़ों द्वारा",
+          "en": "Only through lungs"
+        },
+        {
+          "hi": "गलफड़ों (Gills) द्वारा",
+          "en": "Through gills"
+        },
+        {
+          "hi": "मुखगुहा द्वारा",
+          "en": "Through buccal cavity"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मेंढक के लार्वा (टैडपोल) में श्वसन अंग क्या होता है?",
+        "en": "What is the respiratory organ in a frog's aquatic larva (Tadpole)?"
+      },
+      "o": [
+        {
+          "hi": "फेफड़े (Lungs)",
+          "en": "Lungs"
+        },
+        {
+          "hi": "गलफड़े / गिल्स (Gills)",
+          "en": "Gills"
+        },
+        {
+          "hi": "त्वचा (Skin)",
+          "en": "Skin"
+        },
+        {
+          "hi": "श्वासनली (Trachea)",
+          "en": "Trachea"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अधिकांश सरीसृपों (Reptiles) में 3 कक्षीय हृदय होता है, परंतु किस सरीसृप में 4 कक्षीय हृदय होता है?",
+        "en": "While most reptiles have a 3-chambered heart, which reptile possesses a 4-chambered heart?"
+      },
+      "o": [
+        {
+          "hi": "सांप (Snake)",
+          "en": "Snake"
+        },
+        {
+          "hi": "छिपकली (Lizard)",
+          "en": "Lizard"
+        },
+        {
+          "hi": "मगरमच्छ तथा घड़ियाल (Crocodile & Alligator)",
+          "en": "Crocodile and Alligator"
+        },
+        {
+          "hi": "कछुआ (Tortoise)",
+          "en": "Tortoise"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संसार का एकमात्र सांप कौन-सा है जो अपने अंडे देने के लिए घोंसला (Nest) बनाता है?",
+        "en": "Which is the only snake species in the world that builds a nest for its eggs?"
+      },
+      "o": [
+        {
+          "hi": "भारतीय करैत (Bungarus caeruleus)",
+          "en": "Common Krait"
+        },
+        {
+          "hi": "रसेल वाइपर (Daboia russelii)",
+          "en": "Russell's Viper"
+        },
+        {
+          "hi": "अजगर / पायथन (Python)",
+          "en": "Python"
+        },
+        {
+          "hi": "किंग कोबरा / नागराज (Ophiophagus hannah)",
+          "en": "King Cobra (Ophiophagus hannah)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पक्षियों (Aves) की हड्डियां कैसी होती हैं जो उन्हें उड़ने में मदद करती हैं?",
+        "en": "What is the specialized structure of avian (bird) bones that facilitates flight?"
+      },
+      "o": [
+        {
+          "hi": "वायवीय / खोखली एवं हल्की हड्डियां (Pneumatic Bones)",
+          "en": "Pneumatic / Hollow and light bones"
+        },
+        {
+          "hi": "अत्यंत भारी एवं ठोस हड्डियां",
+          "en": "Extremely dense and solid bones"
+        },
+        {
+          "hi": "उपास्थि युक्त लचीली हड्डियां",
+          "en": "Cartilaginous soft bones"
+        },
+        {
+          "hi": "मज्जा से भरी भारी हड्डियां",
+          "en": "Marrow-filled heavy bones"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पक्षियों में ध्वनि उत्पादन करने वाला अंग कौन-सा होता है?",
+        "en": "What is the specialized vocal / sound-producing organ located at the base of a bird's trachea?"
+      },
+      "o": [
+        {
+          "hi": "लैरिंक्स / स्वरयंत्र (Larynx)",
+          "en": "Larynx"
+        },
+        {
+          "hi": "सिरिंक्स / शब्दनी (Syrinx)",
+          "en": "Syrinx"
+        },
+        {
+          "hi": "ग्रसनी (Pharynx)",
+          "en": "Pharynx"
+        },
+        {
+          "hi": "गिजार्ड (Gizzard)",
+          "en": "Gizzard"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे बड़ा जीवित पक्षी कौन-सा है जो उड़ने में असमर्थ है?",
+        "en": "Which is the largest living flightless bird in the world?"
+      },
+      "o": [
+        {
+          "hi": "एमू (Emu - ऑस्ट्रेलिया)",
+          "en": "Emu"
+        },
+        {
+          "hi": "कीवी (Kiwi - न्यूजीलैंड)",
+          "en": "Kiwi"
+        },
+        {
+          "hi": "शुतुरमुर्ग (Ostrich / Struthio camelus)",
+          "en": "Ostrich (Struthio camelus)"
+        },
+        {
+          "hi": "पेंगुइन (Penguin)",
+          "en": "Penguin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे छोटा पक्षी कौन-सा है जो पीछे की ओर भी उड़ सकता है?",
+        "en": "Which is the smallest bird in the world capable of flying backwards?"
+      },
+      "o": [
+        {
+          "hi": "दर्जिन चिड़िया (Tailorbird)",
+          "en": "Tailorbird"
+        },
+        {
+          "hi": "कटफोड़वा (Woodpecker)",
+          "en": "Woodpecker"
+        },
+        {
+          "hi": "गौरैया (Sparrow)",
+          "en": "Sparrow"
+        },
+        {
+          "hi": "हमिंगबर्ड / गुंजन पक्षी (Bee Hummingbird)",
+          "en": "Bee Hummingbird"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्तनधारी (Mammals) प्राणियों के हृदय में कितने कक्ष (Chambers) होते हैं?",
+        "en": "How many chambers are present in the mammalian heart?"
+      },
+      "o": [
+        {
+          "hi": "4 कक्ष (2 अलिंद + 2 निलय)",
+          "en": "4 Chambers (2 Atria + 2 Ventricles)"
+        },
+        {
+          "hi": "3 कक्ष",
+          "en": "3 Chambers"
+        },
+        {
+          "hi": "2 कक्ष",
+          "en": "2 Chambers"
+        },
+        {
+          "hi": "6 कक्ष",
+          "en": "6 Chambers"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्तनधारियों की लाल रक्त कोशिकाओं (RBCs) में केंद्रक नहीं होता, परंतु इसके अपवाद कौन-से दो स्तनधारी हैं?",
+        "en": "Mammalian RBCs are enucleated. Which two mammals are notable exceptions having nucleated RBCs?"
+      },
+      "o": [
+        {
+          "hi": "हाथी और व्हेल",
+          "en": "Elephant and Whale"
+        },
+        {
+          "hi": "ऊंट और लामा (Camel and Llama)",
+          "en": "Camel and Llama"
+        },
+        {
+          "hi": "घोड़ा और गधा",
+          "en": "Horse and Donkey"
+        },
+        {
+          "hi": "चमगादड़ और छछूंदर",
+          "en": "Bat and Shrew"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे विशाल जीवित स्तनधारी प्राणी कौन-सा है?",
+        "en": "Which is the largest and heaviest living mammal on Earth?"
+      },
+      "o": [
+        {
+          "hi": "अफ्रीकी हाथी (African Bush Elephant)",
+          "en": "African Bush Elephant"
+        },
+        {
+          "hi": "जिराफ (Giraffe)",
+          "en": "Giraffe"
+        },
+        {
+          "hi": "ब्लू व्हेल (नीली व्हेल / Balaenoptera musculus)",
+          "en": "Blue Whale (Balaenoptera musculus)"
+        },
+        {
+          "hi": "राइनो / गैंडा (Rhinoceros)",
+          "en": "Rhinoceros"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अंडे देने वाले स्तनधारी (Prototheria / Monotremata) कौन-से हैं?",
+        "en": "Which unique primitive mammals lay eggs instead of giving birth to live young?"
+      },
+      "o": [
+        {
+          "hi": "कंगारू और कोआला",
+          "en": "Kangaroo and Koala"
+        },
+        {
+          "hi": "चमगादड़ और डॉल्फिन",
+          "en": "Bat and Dolphin"
+        },
+        {
+          "hi": "आर्माडिलो और स्लॉथ",
+          "en": "Armadillo and Sloth"
+        },
+        {
+          "hi": "प्लैटिपस और एकिडना (Platypus & Echidna)",
+          "en": "Platypus and Echidna"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अपरिपक्व बच्चों को जन्म देकर उन्हें अपनी मार्सुपियल थैली में पालने वाला स्तनधारी कौन-सा है?",
+        "en": "Which marsupial mammal gives birth to premature young and rears them in an abdominal pouch?"
+      },
+      "o": [
+        {
+          "hi": "कंगारू (Kangaroo / Metatheria)",
+          "en": "Kangaroo (Metatheria)"
+        },
+        {
+          "hi": "प्लैटिपस (Platypus)",
+          "en": "Platypus"
+        },
+        {
+          "hi": "व्हेल (Whale)",
+          "en": "Whale"
+        },
+        {
+          "hi": "पांडा (Panda)",
+          "en": "Panda"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उड़ान भरने वाला एकमात्र वास्तविक स्तनधारी (Flying Mammal) कौन-सा है?",
+        "en": "Which is the only mammal capable of true and sustained flight?"
+      },
+      "o": [
+        {
+          "hi": "उड़ने वाली गिलहरी (Flying Squirrel)",
+          "en": "Flying Squirrel"
+        },
+        {
+          "hi": "चमगादड़ (Bat / गण काइरोप्टेरा)",
+          "en": "Bat (Order Chiroptera)"
+        },
+        {
+          "hi": "उड़ने वाला लेमूर (Colugo)",
+          "en": "Colugo"
+        },
+        {
+          "hi": "उड़ने वाली छिपकली (Draco)",
+          "en": "Draco"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - जीव विज्ञान (Biology)",
+  "subtitle": "चिकित्सा संबंधी आविष्कार",
+  "description": "चिकित्सा संबंधी आविष्कार पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "विश्व का पहला सफल हृदय प्रत्यारोपण (Heart Transplant) 3 दिसंबर 1967 को किसने किया था?",
+        "en": "Who performed the world's first successful human heart transplant on 3 December 1967?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. क्रिश्चियन बर्नार्ड (Dr. Christiaan Barnard - दक्षिण अफ्रीका)",
+          "en": "Dr. Christiaan Barnard (South Africa)"
+        },
+        {
+          "hi": "डॉ. विलियम हार्वे",
+          "en": "Dr. William Harvey"
+        },
+        {
+          "hi": "डॉ. रेने लाएनक",
+          "en": "Dr. René Laennec"
+        },
+        {
+          "hi": "डॉ. रॉबर्ट जार्विक",
+          "en": "Dr. Robert Jarvik"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में पहला सफल हृदय प्रत्यारोपण 3 अगस्त 1994 को एम्स (नई दिल्ली) में किसने किया था?",
+        "en": "Who performed India's first successful heart transplant at AIIMS New Delhi on 3 August 1994?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. नरेश त्रेहन",
+          "en": "Dr. Naresh Trehan"
+        },
+        {
+          "hi": "डॉ. पी. वेणुगोपाल (Dr. P. Venugopal)",
+          "en": "Dr. P. Venugopal"
+        },
+        {
+          "hi": "डॉ. देवी शेट्टी",
+          "en": "Dr. Devi Shetty"
+        },
+        {
+          "hi": "डॉ. बी.सी. रॉय",
+          "en": "Dr. B.C. Roy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संसार के पहले टेस्ट ट्यूब बेबी (परखनली शिशु - लुईस जॉय ब्राउन, 1978) के जनक कौन थे?",
+        "en": "Who were the medical pioneers behind the world's first test-tube baby (Louise Brown, 1978)?"
+      },
+      "o": [
+        {
+          "hi": "इयान विल्मुट और कीथ कैंपबेल",
+          "en": "Ian Wilmut and Keith Campbell"
+        },
+        {
+          "hi": "पॉल बर्ग और हर्बर्ट बॉयर",
+          "en": "Paul Berg and Herbert Boyer"
+        },
+        {
+          "hi": "रॉबर्ट एडवर्ड्स और पैट्रिक स्टेप्टो (Edwards & Steptoe)",
+          "en": "Robert Edwards and Patrick Steptoe"
+        },
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग और हॉवर्ड फ्लोरी",
+          "en": "Alexander Fleming and Howard Florey"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में पहले टेस्ट ट्यूब बेबी 'दुर्गा' (कनुप्रिया अग्रवाल, 1978) को जन्म दिलाने वाले डॉक्टर कौन थे?",
+        "en": "Which Indian physician pioneered India's first test-tube baby 'Durga' in Kolkata (1978)?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. टी.सी. आनंद कुमार",
+          "en": "Dr. T.C. Anand Kumar"
+        },
+        {
+          "hi": "डॉ. पी. वेणुगोपाल",
+          "en": "Dr. P. Venugopal"
+        },
+        {
+          "hi": "डॉ. बी.सी. रॉय",
+          "en": "Dr. B.C. Roy"
+        },
+        {
+          "hi": "डॉ. सुभाष मुखोपाध्याय (Dr. Subhash Mukhopadhyay)",
+          "en": "Dr. Subhash Mukhopadhyay"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एंटीबायोटिक पेनिसिलिन (Penicillin) की खोज 1928 में किसने की थी?",
+        "en": "Who discovered the first miracle antibiotic Penicillin in 1928?"
+      },
+      "o": [
+        {
+          "hi": "सर अलेक्जेंडर फ्लेमिंग (Sir Alexander Fleming)",
+          "en": "Sir Alexander Fleming"
+        },
+        {
+          "hi": "लुई पाश्चर (Louis Pasteur)",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "रॉबर्ट कोच (Robert Koch)",
+          "en": "Robert Koch"
+        },
+        {
+          "hi": "सेलमैन वाक्समैन (Selman Waksman)",
+          "en": "Selman Waksman"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "टीबी के उपचार हेतु 'स्ट्रेप्टोमाइसिन' (Streptomycin) एंटीबायोटिक की खोज किसने की थी?",
+        "en": "Who discovered the aminoglycoside antibiotic Streptomycin in 1943 (Nobel Prize 1952)?"
+      },
+      "o": [
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग",
+          "en": "Alexander Fleming"
+        },
+        {
+          "hi": "सेलमैन वाक्समैन (Selman Waksman - इन्होंने 'एंटीबायोटिक' शब्द गढ़ा)",
+          "en": "Selman Waksman (Coined term 'Antibiotic')"
+        },
+        {
+          "hi": "पॉल एर्लिच",
+          "en": "Paul Ehrlich"
+        },
+        {
+          "hi": "गेरहार्ड डोमाग",
+          "en": "Gerhard Domagk"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "शल्य चिकित्सा में निश्चेतक (Anesthesia) के रूप में 'क्लोरोफॉर्म' (Chloroform) का पहला सफल प्रयोग किसने किया?",
+        "en": "Who introduced Chloroform as a general anesthetic agent in surgery and obstetrics in 1847?"
+      },
+      "o": [
+        {
+          "hi": "विलियम मॉर्टन (ईथर हेतु)",
+          "en": "William Morton"
+        },
+        {
+          "hi": "जोसेफ लिस्टर",
+          "en": "Joseph Lister"
+        },
+        {
+          "hi": "सर जेम्स यंग सिम्पसन (Sir James Young Simpson)",
+          "en": "Sir James Young Simpson"
+        },
+        {
+          "hi": "हम्फ्री डेवी",
+          "en": "Humphry Davy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एंटीसेप्टिक सर्जरी (Antiseptic Surgery - कार्बोलिक एसिड द्वारा) का जनक किसे कहा जाता है?",
+        "en": "Who is acclaimed as the 'Father of Antiseptic Surgery' for pioneering carbolic acid sterilisation?"
+      },
+      "o": [
+        {
+          "hi": "लुई पाश्चर",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "रॉबर्ट कोच",
+          "en": "Robert Koch"
+        },
+        {
+          "hi": "विलियम हार्वे",
+          "en": "William Harvey"
+        },
+        {
+          "hi": "जोसेफ लिस्टर (Joseph Lister)",
+          "en": "Joseph Lister"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "होम्योपैथी चिकित्सा पद्धति (Homeopathy) के संस्थापक और जनक कौन थे?",
+        "en": "Who was the founder and Father of the alternative medical system of Homeopathy?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. सैमुअल हैनीमैन (Dr. Samuel Hahnemann - जर्मनी)",
+          "en": "Dr. Samuel Hahnemann (Germany)"
+        },
+        {
+          "hi": "हिप्पोक्रेट्स (Hippocrates)",
+          "en": "Hippocrates"
+        },
+        {
+          "hi": "गैलन (Galen)",
+          "en": "Galen"
+        },
+        {
+          "hi": "सुश्रुत (Sushruta)",
+          "en": "Sushruta"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्राचीन भारतीय 'शल्य चिकित्सा के जनक' (Father of Surgery / Plastic Surgery) किसे माना जाता है?",
+        "en": "Who is revered as the ancient Indian 'Father of Surgery and Plastic Surgery'?"
+      },
+      "o": [
+        {
+          "hi": "महर्षि चरक (चरक संहिता - आयुर्वेद)",
+          "en": "Maharshi Charaka"
+        },
+        {
+          "hi": "महर्षि सुश्रुत (Sushruta - सुश्रुत संहिता)",
+          "en": "Maharshi Sushruta (Sushruta Samhita)"
+        },
+        {
+          "hi": "धन्वंतरि (Dhanvantari)",
+          "en": "Dhanvantari"
+        },
+        {
+          "hi": "पतंजलि (Patanjali)",
+          "en": "Patanjali"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चिकित्सा विज्ञान का जनक (Father of Western Medicine) किसे कहा जाता है?",
+        "en": "Who is traditionally regarded as the 'Father of Modern Medicine' (Hippocratic Oath)?"
+      },
+      "o": [
+        {
+          "hi": "अरस्तू (Aristotle)",
+          "en": "Aristotle"
+        },
+        {
+          "hi": "गैलन (Galen)",
+          "en": "Galen"
+        },
+        {
+          "hi": "हिप्पोक्रेट्स (Hippocrates - यूनान)",
+          "en": "Hippocrates (Greece)"
+        },
+        {
+          "hi": "थियोफ्रेस्ट्स",
+          "en": "Theophrastus"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्टेथोस्कोप (Stethoscope) का आविष्कार 1816 में किस फ्रांसीसी चिकित्सक ने किया था?",
+        "en": "Who invented the Stethoscope in 1816 for listening to internal heart and lung sounds?"
+      },
+      "o": [
+        {
+          "hi": "विलियम हार्वे",
+          "en": "William Harvey"
+        },
+        {
+          "hi": "विलेम आइनथोवेन",
+          "en": "Willem Einthoven"
+        },
+        {
+          "hi": "कार्ल लैंडस्टीनर",
+          "en": "Karl Landsteiner"
+        },
+        {
+          "hi": "रेने लाएनक (René Laennec)",
+          "en": "René Laennec"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हृदय की विद्युत गतिविधि रिकॉर्ड करने वाले ईसीजी (Electrocardiogram) का आविष्कार किसने किया?",
+        "en": "Who invented the first practical Electrocardiograph (ECG) string galvanometer in 1903?"
+      },
+      "o": [
+        {
+          "hi": "विलेम आइनथोवेन (Willem Einthoven - नोबेल 1924)",
+          "en": "Willem Einthoven (Nobel Prize 1924)"
+        },
+        {
+          "hi": "हंस बर्गर (Hans Berger - EEG हेतु)",
+          "en": "Hans Berger"
+        },
+        {
+          "hi": "रेने लाएनक",
+          "en": "René Laennec"
+        },
+        {
+          "hi": "गॉडफ्रे हाउन्सफील्ड",
+          "en": "Godfrey Hounsfield"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मस्तिष्क की तरंगों को रिकॉर्ड करने वाले ईईजी (Electroencephalogram) का आविष्कार किसने किया?",
+        "en": "Who recorded the first human Electroencephalogram (EEG) to study brain wave activity in 1924?"
+      },
+      "o": [
+        {
+          "hi": "विलेम आइनथोवेन",
+          "en": "Willem Einthoven"
+        },
+        {
+          "hi": "हंस बर्गर (Hans Berger)",
+          "en": "Hans Berger"
+        },
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग",
+          "en": "Alexander Fleming"
+        },
+        {
+          "hi": "कैमिलो गॉल्जी",
+          "en": "Camillo Golgi"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सीटी स्कैन (Computed Tomography / CT Scan) तकनीक का विकास 1972 में किसने किया था?",
+        "en": "Who co-developed the revolutionary CT Scan imaging technique in 1972 (Nobel 1979)?"
+      },
+      "o": [
+        {
+          "hi": "पॉल लोटरबर और पीटर मैन्सफील्ड (MRI)",
+          "en": "Paul Lauterbur & Peter Mansfield"
+        },
+        {
+          "hi": "विल्हेम रॉन्टजन (X-Ray)",
+          "en": "Wilhelm Röntgen"
+        },
+        {
+          "hi": "गॉडफ्रे हाउन्सफील्ड और एलन कॉर्मैक (Godfrey Hounsfield & Allan Cormack)",
+          "en": "Godfrey Hounsfield and Allan Cormack"
+        },
+        {
+          "hi": "विलियम कूलिज",
+          "en": "William Coolidge"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एमआरआई (Magnetic Resonance Imaging) तकनीक के विकास हेतु किन्हें 2003 का नोबेल मिला?",
+        "en": "Who received the 2003 Nobel Prize in Physiology or Medicine for developing MRI diagnostic imaging?"
+      },
+      "o": [
+        {
+          "hi": "हाउन्सफील्ड तथा कॉर्मैक",
+          "en": "Hounsfield and Cormack"
+        },
+        {
+          "hi": "आइनथोवेन तथा लाएनक",
+          "en": "Einthoven and Laennec"
+        },
+        {
+          "hi": "वाटसन तथा क्रिक",
+          "en": "Watson and Crick"
+        },
+        {
+          "hi": "पॉल लोटरबर तथा सर पीटर मैन्सफील्ड",
+          "en": "Paul Lauterbur and Sir Peter Mansfield"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एक्स-रे (X-Rays) की खोज 1895 में किसने की थी (भौतिकी का प्रथम नोबेल पुरस्कार 1901)?",
+        "en": "Who discovered X-Rays in 1895 and was awarded the first Nobel Prize in Physics in 1901?"
+      },
+      "o": [
+        {
+          "hi": "विल्हेम कॉनराड रॉन्टजन (Wilhelm Conrad Röntgen)",
+          "en": "Wilhelm Conrad Röntgen"
+        },
+        {
+          "hi": "हेनरी बेकेरल (रेडियोधर्मिता)",
+          "en": "Henri Becquerel"
+        },
+        {
+          "hi": "मैरी क्यूरी (रेडियम)",
+          "en": "Marie Curie"
+        },
+        {
+          "hi": "जे.जे. थॉमसन",
+          "en": "J.J. Thomson"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रक्त आधान (Blood Transfusion) में आरएच कारक (Rh Factor) की खोज 1940 में किसने की?",
+        "en": "Who discovered the Rh Blood Group factor in Rhesus macaque monkeys in 1940?"
+      },
+      "o": [
+        {
+          "hi": "विलियम हार्वे",
+          "en": "William Harvey"
+        },
+        {
+          "hi": "कार्ल लैंडस्टीनर तथा अलेक्जेंडर विनर (Landsteiner & Wiener)",
+          "en": "Karl Landsteiner and Alexander Wiener"
+        },
+        {
+          "hi": "एडवर्ड जेनर",
+          "en": "Edward Jenner"
+        },
+        {
+          "hi": "डी कास्टेलो और स्टुर्ली",
+          "en": "Decastello and Sturli"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दर्द निवारक दवा 'एस्पिरिन' (Aspirin - एसिटाइल सैलिसिलिक एसिड) का संश्लेषण 1897 में किसने किया?",
+        "en": "Who first synthesized the widely used painkiller Aspirin (Acetylsalicylic acid) in 1897?"
+      },
+      "o": [
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग",
+          "en": "Alexander Fleming"
+        },
+        {
+          "hi": "पॉल एर्लिच",
+          "en": "Paul Ehrlich"
+        },
+        {
+          "hi": "फेलिक्स हॉफमैन (Felix Hoffmann - बायर कंपनी)",
+          "en": "Felix Hoffmann (Bayer)"
+        },
+        {
+          "hi": "जोसेफ लिस्टर",
+          "en": "Joseph Lister"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सल्फा दवाओं (Sulfa Drugs / प्रोंटोसिल) का आविष्कार 1932 में किसने किया था (नोबेल 1939)?",
+        "en": "Who discovered the antibacterial effect of the first sulfonamide drug Prontosil in 1932?"
+      },
+      "o": [
+        {
+          "hi": "सेलमैन वाक्समैन",
+          "en": "Selman Waksman"
+        },
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग",
+          "en": "Alexander Fleming"
+        },
+        {
+          "hi": "पॉल एर्लिच",
+          "en": "Paul Ehrlich"
+        },
+        {
+          "hi": "गेरहार्ड डोमाग (Gerhard Domagk)",
+          "en": "Gerhard Domagk"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'कीमोथेरेपी का जनक' (Father of Chemotherapy) और उपदंश (Syphilis) की दवा साल्वरसन के खोजकर्ता कौन हैं?",
+        "en": "Who is recognized as the 'Father of Chemotherapy' and creator of the magic bullet drug Salvarsan?"
+      },
+      "o": [
+        {
+          "hi": "पॉल एर्लिच (Paul Ehrlich - नोबेल 1908)",
+          "en": "Paul Ehrlich (Nobel Prize 1908)"
+        },
+        {
+          "hi": "रॉबर्ट कोच",
+          "en": "Robert Koch"
+        },
+        {
+          "hi": "लुई पाश्चर",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "एमिल वॉन बेहरिंग",
+          "en": "Emil von Behring"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "डिप्थीरिया और टिटनेस के सीरम उपचार (एंटीटॉक्सिन) हेतु चिकित्सा का प्रथम नोबेल (1901) किसे मिला?",
+        "en": "Who was awarded the first Nobel Prize in Physiology or Medicine (1901) for diphtheria antitoxin serum?"
+      },
+      "o": [
+        {
+          "hi": "पॉल एर्लिच",
+          "en": "Paul Ehrlich"
+        },
+        {
+          "hi": "एमिल वॉन बेहरिंग (Emil von Behring)",
+          "en": "Emil von Behring"
+        },
+        {
+          "hi": "रॉबर्ट कोच",
+          "en": "Robert Koch"
+        },
+        {
+          "hi": "रोनाल्ड रॉस",
+          "en": "Ronald Ross"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मलेरिया के परजीवी और उसके मच्छर द्वारा संचरण की पुष्टि कर 1902 का नोबेल जीतने वाले वैज्ञानिक कौन थे?",
+        "en": "Who proved in 1897 in Secunderabad that mosquitoes transmit malaria parasites (Nobel 1902)?"
+      },
+      "o": [
+        {
+          "hi": "अल्फोंस लैवेरन (परजीवी खोजकर्ता)",
+          "en": "Alphonse Laveran"
+        },
+        {
+          "hi": "पैट्रिक मैनसन",
+          "en": "Patrick Manson"
+        },
+        {
+          "hi": "सर रोनाल्ड रॉस (Sir Ronald Ross)",
+          "en": "Sir Ronald Ross"
+        },
+        {
+          "hi": "जियोवानी ग्रासी",
+          "en": "Giovanni Grassi"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मलेरिया परजीवी (Plasmodium) की खोज 1880 में मानव रक्त में सर्वप्रथम किसने की थी?",
+        "en": "Who first discovered the malaria parasite Plasmodium inside human erythrocytes in 1880?"
+      },
+      "o": [
+        {
+          "hi": "रोनाल्ड रॉस",
+          "en": "Ronald Ross"
+        },
+        {
+          "hi": "रॉबर्ट कोच",
+          "en": "Robert Koch"
+        },
+        {
+          "hi": "लुई पाश्चर",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "चार्ल्स लुई अल्फोंस लैवेरन (Alphonse Laveran - नोबेल 1907)",
+          "en": "Charles Louis Alphonse Laveran (Nobel 1907)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कृत्रिम हृदय (Artificial Heart - जारविक-7) का आविष्कार किस बायोमेडिकल इंजीनियर ने किया था?",
+        "en": "Who designed the first permanent artificial heart implant, the Jarvik-7?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट जार्विक (Robert Jarvik)",
+          "en": "Robert Jarvik"
+        },
+        {
+          "hi": "क्रिश्चियन बर्नार्ड",
+          "en": "Christiaan Barnard"
+        },
+        {
+          "hi": "विलेम कोल्फ (Willem Kolff)",
+          "en": "Willem Kolff"
+        },
+        {
+          "hi": "माइकल डीबेकी",
+          "en": "Michael DeBakey"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पहला कृत्रिम गुर्दा / डायलिसिस मशीन (Artificial Kidney) 1943 में किसने बनाई थी?",
+        "en": "Who invented the first working artificial kidney / hemodialysis machine in 1943?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट जार्विक",
+          "en": "Robert Jarvik"
+        },
+        {
+          "hi": "विलेम कोल्फ (Willem Johan Kolff)",
+          "en": "Willem Johan Kolff"
+        },
+        {
+          "hi": "पॉल एर्लिच",
+          "en": "Paul Ehrlich"
+        },
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग",
+          "en": "Alexander Fleming"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्लोन भेड़ 'डॉली' को तैयार करने के लिए किस कोशिका केंद्रक अंतरण तकनीक (SCNT) का प्रयोग किया गया?",
+        "en": "Which nuclear transfer technique was used by Ian Wilmut to clone Dolly the sheep in 1996?"
+      },
+      "o": [
+        {
+          "hi": "इन-विट्रो फर्टिलाइजेशन (IVF)",
+          "en": "In-Vitro Fertilization (IVF)"
+        },
+        {
+          "hi": "रिकॉम्बिनेंट डीएनए तकनीक",
+          "en": "Recombinant DNA Technology"
+        },
+        {
+          "hi": "सोमैटिक सेल न्यूक्लियर ट्रांसफर (SCNT)",
+          "en": "Somatic Cell Nuclear Transfer (SCNT)"
+        },
+        {
+          "hi": "पॉलीमरेज चेन रिएक्शन (PCR)",
+          "en": "Polymerase Chain Reaction (PCR)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर के अंगों की शल्य चिकित्सा में 'लेप्रोस्कोपी' (Laparoscopy) क्या कहलाती है?",
+        "en": "Minimally invasive surgical procedure using tiny incisions and optical camera is called:"
+      },
+      "o": [
+        {
+          "hi": "ओपन हार्ट सर्जरी",
+          "en": "Open Heart Surgery"
+        },
+        {
+          "hi": "बायोप्सी प्रोसीजर",
+          "en": "Biopsy Procedure"
+        },
+        {
+          "hi": "रेडियोथैरेपी प्रक्रिया",
+          "en": "Radiotherapy Procedure"
+        },
+        {
+          "hi": "की-होल सर्जरी (Keyhole Surgery)",
+          "en": "Keyhole Surgery"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रकाश तंतु (Optical Fibre) के 'पूर्ण आंतरिक परावर्तन' (TIR) पर आधारित चिकित्सा उपकरण कौन-सा है?",
+        "en": "Which diagnostic medical instrument works on Total Internal Reflection (TIR) through optical fibres?"
+      },
+      "o": [
+        {
+          "hi": "एंडोस्कोप (Endoscope)",
+          "en": "Endoscope"
+        },
+        {
+          "hi": "स्टेथोस्कोप (Stethoscope)",
+          "en": "Stethoscope"
+        },
+        {
+          "hi": "स्फिग्मोमैनोमीटर",
+          "en": "Sphygmomanometer"
+        },
+        {
+          "hi": "ईसीजी मशीन",
+          "en": "ECG Machine"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्लीनिकल थर्मामीटर (डॉक्टरी थर्मामीटर) का आविष्कार किसने किया था?",
+        "en": "Who invented the convenient pocket clinical thermometer in 1866?"
+      },
+      "o": [
+        {
+          "hi": "गैलीलियो गैलीली",
+          "en": "Galileo Galilei"
+        },
+        {
+          "hi": "सर थॉमस क्लिफोर्ड ऑलबट (Thomas Clifford Allbutt)",
+          "en": "Sir Thomas Clifford Allbutt"
+        },
+        {
+          "hi": "डेनियल गैब्रियल फारेनहाइट",
+          "en": "Daniel Gabriel Fahrenheit"
+        },
+        {
+          "hi": "एंडर्स सेल्सियस",
+          "en": "Anders Celsius"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर का सामान्य तापमान फारेनहाइट और सेल्सियस पैमाने पर क्रमशः कितना होता है?",
+        "en": "What is normal healthy human body temperature on Fahrenheit and Celsius scales respectively?"
+      },
+      "o": [
+        {
+          "hi": "96.4°F और 35°C",
+          "en": "96.4°F and 35°C"
+        },
+        {
+          "hi": "100°F और 38°C",
+          "en": "100°F and 38°C"
+        },
+        {
+          "hi": "98.6°F और 37°C (केल्विन पर 310 K)",
+          "en": "98.6°F and 37°C (310 K on Kelvin)"
+        },
+        {
+          "hi": "98.0°F और 36.5°C",
+          "en": "98.0°F and 36.5°C"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आंख के भीतरी भाग (रेटिना) का परीक्षण करने वाले 'ऑप्थैल्मोस्कोप' का आविष्कार किसने किया था?",
+        "en": "Who invented the Ophthalmoscope in 1851 for visualizing the human ocular retina?"
+      },
+      "o": [
+        {
+          "hi": "रेने लाएनक",
+          "en": "René Laennec"
+        },
+        {
+          "hi": "रॉबर्ट हुक",
+          "en": "Robert Hooke"
+        },
+        {
+          "hi": "हंस बर्गर",
+          "en": "Hans Berger"
+        },
+        {
+          "hi": "हरमन वॉन हेल्महोल्ट्ज (Hermann von Helmholtz)",
+          "en": "Hermann von Helmholtz"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जीवाणु जनित रोगों में उपयोगी कीमोथेराप्यूटिक सल्फा दवा 'प्रोंटोसिल' की खोज हेतु किसे जाना जाता है?",
+        "en": "Gerhard Domagk discovered Prontosil as an antibacterial agent in 1932. It belongs to:"
+      },
+      "o": [
+        {
+          "hi": "सल्फोनामाइड वर्ग (Sulfonamide Class)",
+          "en": "Sulfonamide Class"
+        },
+        {
+          "hi": "पेनिसिलिन वर्ग",
+          "en": "Penicillin Class"
+        },
+        {
+          "hi": "टेट्रासाइक्लिन वर्ग",
+          "en": "Tetracycline Class"
+        },
+        {
+          "hi": "मैक्रोलाइड वर्ग",
+          "en": "Macrolide Class"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हृदय के स्पंदन को नियंत्रित करने वाले 'कृत्रिम पेसमेकर' का पहली बार सफल रोपण 1958 में कहाँ हुआ?",
+        "en": "Where was the world's first fully implantable artificial cardiac pacemaker implanted in 1958?"
+      },
+      "o": [
+        {
+          "hi": "संयुक्त राज्य अमेरिका (USA)",
+          "en": "United States of America (USA)"
+        },
+        {
+          "hi": "स्वीडन (सर्जन: एके सेनिंग / मरीज: अर्ने लार्सन)",
+          "en": "Sweden (Surgeon: Ake Senning)"
+        },
+        {
+          "hi": "ग्रेट ब्रिटेन (UK)",
+          "en": "Great Britain (UK)"
+        },
+        {
+          "hi": "जर्मनी (Germany)",
+          "en": "Germany"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रक्तचाप मापने वाले आधुनिक 'स्फिग्मोमैनोमीटर' का विकास 1896 में किस इतालवी डॉक्टर ने किया?",
+        "en": "Who invented the modern cuff-based sphygmomanometer for measuring arterial blood pressure in 1896?"
+      },
+      "o": [
+        {
+          "hi": "विलियम हार्वे",
+          "en": "William Harvey"
+        },
+        {
+          "hi": "निकोलई कोरोत्कोव",
+          "en": "Nikolai Korotkoff"
+        },
+        {
+          "hi": "सिपियोने रीवा-रोक्की (Scipione Riva-Rocci)",
+          "en": "Scipione Riva-Rocci"
+        },
+        {
+          "hi": "स्टीफन हेल्स (घोड़े में बीपी)",
+          "en": "Stephen Hales"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रक्तचाप मापते समय स्टेथोस्कोप से सुनाई देने वाली ध्वनि को क्या कहा जाता है?",
+        "en": "What are the arterial sounds heard through a stethoscope while measuring blood pressure called?"
+      },
+      "o": [
+        {
+          "hi": "लव-डब ध्वनियां (हृदय की)",
+          "en": "Lub-Dub Sounds"
+        },
+        {
+          "hi": "मर्मर ध्वनियां (हृदय वाल्व)",
+          "en": "Murmur Sounds"
+        },
+        {
+          "hi": "स्ट्रिडोर ध्वनियां",
+          "en": "Stridor Sounds"
+        },
+        {
+          "hi": "कोरोत्कोव ध्वनियां (Korotkoff Sounds)",
+          "en": "Korotkoff Sounds"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चिकित्सा विज्ञान में 'फादर ऑफ इम्यूनोलॉजी' (प्रतिरक्षा विज्ञान के जनक) कौन कहलाते हैं?",
+        "en": "Who is recognized worldwide as the 'Father of Immunology'?"
+      },
+      "o": [
+        {
+          "hi": "एडवर्ड जेनर (Edward Jenner)",
+          "en": "Edward Jenner"
+        },
+        {
+          "hi": "लुई पाश्चर",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "रॉबर्ट कोच",
+          "en": "Robert Koch"
+        },
+        {
+          "hi": "पॉल एर्लिच",
+          "en": "Paul Ehrlich"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रक्त में प्रतिरक्षी (Antibodies) का निर्माण किन कोशिकाओं द्वारा किया जाता है?",
+        "en": "Antibodies (Immunoglobulins) circulating in blood plasma are synthesized by:"
+      },
+      "o": [
+        {
+          "hi": "टी-लिम्फोसाइट्स (कोशिकीय प्रतिरक्षा)",
+          "en": "T-Lymphocytes"
+        },
+        {
+          "hi": "बी-लिम्फोसाइट्स / प्लाज्मा कोशिकाएं (Plasma B-Cells)",
+          "en": "Plasma B-Cells / Lymphocytes"
+        },
+        {
+          "hi": "न्यूट्रोफिल्स",
+          "en": "Neutrophils"
+        },
+        {
+          "hi": "आरबीसी",
+          "en": "Erythrocytes"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में कुल कितने प्रकार के मुख्य इम्यूनोग्लोबुलिन (एंटीबॉडीज) पाए जाते हैं?",
+        "en": "How many primary classes of immunoglobulins (antibodies) are present in the human body?"
+      },
+      "o": [
+        {
+          "hi": "3 प्रकार (IgA, IgG, IgM)",
+          "en": "3 Classes"
+        },
+        {
+          "hi": "4 प्रकार",
+          "en": "4 Classes"
+        },
+        {
+          "hi": "5 प्रकार (IgG, IgA, IgM, IgE, IgD)",
+          "en": "5 Classes (IgG, IgA, IgM, IgE, IgD)"
+        },
+        {
+          "hi": "2 प्रकार",
+          "en": "2 Classes"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एलर्जी (Allergy) और दमा की स्थिति में रक्त में किस एंटीबॉडी (Ig) का स्तर अत्यधिक बढ़ जाता है?",
+        "en": "During allergic reactions and parasitic infections, which immunoglobulin titer increases significantly?"
+      },
+      "o": [
+        {
+          "hi": "आईजीजी (IgG - सर्वाधिक 75%)",
+          "en": "IgG"
+        },
+        {
+          "hi": "आईजीएम (IgM - सबसे बड़ा)",
+          "en": "IgM"
+        },
+        {
+          "hi": "आईजीए (IgA - स्रावों में)",
+          "en": "IgA"
+        },
+        {
+          "hi": "आईजीई (IgE - Immunoglobulin E)",
+          "en": "IgE (Immunoglobulin E)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "माता के गर्भनाल (Placenta) को पार कर भ्रूण में पहुंचने वाली एकमात्र एंटीबॉडी कौन-सी है?",
+        "en": "Which is the only immunoglobulin capable of crossing the human placenta to confer passive immunity to the fetus?"
+      },
+      "o": [
+        {
+          "hi": "आईजीजी (IgG)",
+          "en": "IgG"
+        },
+        {
+          "hi": "आईजीएम (IgM)",
+          "en": "IgM"
+        },
+        {
+          "hi": "आईजीए (IgA)",
+          "en": "IgA"
+        },
+        {
+          "hi": "आईजीई (IgE)",
+          "en": "IgE"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "माता के दूध (कोलोस्ट्रम), लार और आंसुओं में मुख्य रूप से कौन-सी एंटीबॉडी पाई जाती है?",
+        "en": "Which secretory antibody is predominantly present in colostrum, saliva, tears, and mucous secretions?"
+      },
+      "o": [
+        {
+          "hi": "आईजीजी (IgG)",
+          "en": "IgG"
+        },
+        {
+          "hi": "आईजीए (IgA)",
+          "en": "IgA"
+        },
+        {
+          "hi": "आईजीएम (IgM)",
+          "en": "IgM"
+        },
+        {
+          "hi": "आईजीडी (IgD)",
+          "en": "IgD"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तीव्र प्राथमिक संक्रमण की स्थिति में शरीर द्वारा सबसे पहले निर्मित होने वाली भारी एंटीबॉडी कौन-सी है?",
+        "en": "Which is the largest pentameric antibody produced first by the immune system in acute primary response?"
+      },
+      "o": [
+        {
+          "hi": "आईजीजी (IgG)",
+          "en": "IgG"
+        },
+        {
+          "hi": "आईजीए (IgA)",
+          "en": "IgA"
+        },
+        {
+          "hi": "आईजीएम (IgM)",
+          "en": "IgM"
+        },
+        {
+          "hi": "आईजीई (IgE)",
+          "en": "IgE"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में जन्मजात गैर-विशिष्ट प्रतिरक्षा (Innate Immunity) का उदाहरण कौन-सा है?",
+        "en": "Which of the following is an anatomical physical barrier of Innate Immunity in humans?"
+      },
+      "o": [
+        {
+          "hi": "टी-कोशिकाएं",
+          "en": "T-Cells"
+        },
+        {
+          "hi": "बी-कोशिकाएं",
+          "en": "B-Cells"
+        },
+        {
+          "hi": "विशिष्ट एंटीबॉडीज",
+          "en": "Specific Antibodies"
+        },
+        {
+          "hi": "त्वचा तथा श्लेष्म झिल्ली (Skin & Mucous Membrane)",
+          "en": "Skin and Mucous Membrane"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शरीर में वायरस संक्रमण के विरुद्ध प्रतिरक्षा कोशिकाओं द्वारा स्रावित प्राकृतिक प्रोटीन कौन-सा है?",
+        "en": "Which cytokine glycoproteins are naturally produced by virus-infected cells to protect neighboring cells?"
+      },
+      "o": [
+        {
+          "hi": "इंटरफेरॉन (Interferon - खोजकर्ता: इसाक्स व लिंडेनमैन, 1957)",
+          "en": "Interferon (Isaacs & Lindenmann, 1957)"
+        },
+        {
+          "hi": "एंटीजन (Antigen)",
+          "en": "Antigen"
+        },
+        {
+          "hi": "हिस्टामिन (Histamine)",
+          "en": "Histamine"
+        },
+        {
+          "hi": "इंसुलिन (Insulin)",
+          "en": "Insulin"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विटामिन A, D, B और C की खोज क्रमशः किन वैज्ञानिकों द्वारा की गई थी?",
+        "en": "Vitamins A, B, and C were originally discovered/isolated by which pioneer researchers?"
+      },
+      "o": [
+        {
+          "hi": "सभी की खोज कासिमिर फंक ने की",
+          "en": "All discovered by Casimir Funk"
+        },
+        {
+          "hi": "विटामिन A व B: मैकुलम; विटामिन C: होल्कट; विटामिन D: हॉपकिंस",
+          "en": "Vit A & B: McCollum; Vit C: Holst; Vit D: Hopkins"
+        },
+        {
+          "hi": "विटामिन A: फ्लेमिंग; विटामिन B: पाश्चर",
+          "en": "Vit A: Fleming; Vit B: Pasteur"
+        },
+        {
+          "hi": "विटामिन C: एडवर्ड जेनर; विटामिन D: साल्क",
+          "en": "Vit C: Jenner; Vit D: Salk"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव रुधिर में यूरिक एसिड की अत्यधिक मात्रा से गाउट (Gout) होने पर कौन-सी दवा दी जाती है?",
+        "en": "Which xanthine oxidase inhibitor drug is standardly prescribed to lower uric acid levels in gout?"
+      },
+      "o": [
+        {
+          "hi": "पेनिसिलिन (Penicillin)",
+          "en": "Penicillin"
+        },
+        {
+          "hi": "पैरासिटामोल (Paracetamol)",
+          "en": "Paracetamol"
+        },
+        {
+          "hi": "एलोप्यूरिनॉल (Allopurinol)",
+          "en": "Allopurinol"
+        },
+        {
+          "hi": "इंसुलिन (Insulin)",
+          "en": "Insulin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व स्वास्थ्य संगठन (WHO) की स्थापना किस तिथि को की गई थी (विश्व स्वास्थ्य दिवस)?",
+        "en": "On which historic date was the World Health Organization (WHO) founded in Geneva?"
+      },
+      "o": [
+        {
+          "hi": "24 अक्टूबर 1945",
+          "en": "24 October 1945"
+        },
+        {
+          "hi": "1 दिसंबर 1950",
+          "en": "1 December 1950"
+        },
+        {
+          "hi": "15 अगस्त 1947",
+          "en": "15 August 1947"
+        },
+        {
+          "hi": "7 अप्रैल 1948 (7 April 1948)",
+          "en": "7 April 1948"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "डब्ल्यूएचओ (WHO) का मुख्यालय किस शहर में स्थित है?",
+        "en": "Where is the global headquarters of the World Health Organization (WHO) located?"
+      },
+      "o": [
+        {
+          "hi": "जिनेवा (स्विट्जरलैंड)",
+          "en": "Geneva (Switzerland)"
+        },
+        {
+          "hi": "न्यूयॉर्क (USA)",
+          "en": "New York (USA)"
+        },
+        {
+          "hi": "पेरिस (फ्रांस)",
+          "en": "Paris (France)"
+        },
+        {
+          "hi": "लंदन (ब्रिटेन)",
+          "en": "London (UK)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत को विश्व स्वास्थ्य संगठन (WHO) द्वारा पोलियो मुक्त (Polio-Free) कब प्रमाणित किया गया?",
+        "en": "When was India officially certified as a Polio-Free nation by the WHO?"
+      },
+      "o": [
+        {
+          "hi": "15 अगस्त 2010 को",
+          "en": "15 August 2010"
+        },
+        {
+          "hi": "27 मार्च 2014 को",
+          "en": "27 March 2014"
+        },
+        {
+          "hi": "26 जनवरी 2012 को",
+          "en": "26 January 2012"
+        },
+        {
+          "hi": "2 अक्टूबर 2015 को",
+          "en": "2 October 2015"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - जीव विज्ञान (Biology)",
+  "subtitle": "विज्ञान की कुछ प्रमुख शाखाएँ",
+  "description": "विज्ञान की कुछ प्रमुख शाखाएँ पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "रेशम कीट पालन (Rearing of Silkworms) का वैज्ञानिक अध्ययन क्या कहलाता है?",
+        "en": "The commercial rearing of silkworms for the production of raw silk is termed:"
+      },
+      "o": [
+        {
+          "hi": "सेरीकल्चर (Sericulture)",
+          "en": "Sericulture"
+        },
+        {
+          "hi": "एपीकल्चर (Apiculture)",
+          "en": "Apiculture"
+        },
+        {
+          "hi": "पिसीकल्चर (Pisciculture)",
+          "en": "Pisciculture"
+        },
+        {
+          "hi": "मोरीकल्चर (Moriculture)",
+          "en": "Moriculture"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मधुमक्खी पालन (Beekeeping / Honey Production) का वैज्ञानिक अध्ययन क्या कहलाता है?",
+        "en": "The scientific rearing and management of honeybees for honey and wax is called:"
+      },
+      "o": [
+        {
+          "hi": "सेरीकल्चर (Sericulture)",
+          "en": "Sericulture"
+        },
+        {
+          "hi": "एपीकल्चर (Apiculture)",
+          "en": "Apiculture"
+        },
+        {
+          "hi": "सिल्वीकल्चर (Silviculture)",
+          "en": "Silviculture"
+        },
+        {
+          "hi": "फ्लोरीकल्चर (Floriculture)",
+          "en": "Floriculture"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मत्स्य पालन (Fish Farming / Rearing of Fishes) क्या कहलाता है?",
+        "en": "The commercial breeding, rearing, and transplantation of fish is termed:"
+      },
+      "o": [
+        {
+          "hi": "इचिथियोलॉजी (Ichthyology - मछलियों का जैविक अध्ययन)",
+          "en": "Ichthyology"
+        },
+        {
+          "hi": "एपीकल्चर",
+          "en": "Apiculture"
+        },
+        {
+          "hi": "पिसीकल्चर (Pisciculture)",
+          "en": "Pisciculture"
+        },
+        {
+          "hi": "वर्मीकल्चर",
+          "en": "Vermiculture"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "फलों के उत्पादन और अध्ययन से संबंधित विज्ञान की शाखा कौन-सी है?",
+        "en": "The scientific branch of agriculture that specializes in the study and cultivation of fruits is:"
+      },
+      "o": [
+        {
+          "hi": "एंथोलॉजी (पुष्पों का अध्ययन)",
+          "en": "Anthology"
+        },
+        {
+          "hi": "ओलेरीकल्चर (सब्जियों का अध्ययन)",
+          "en": "Olericulture"
+        },
+        {
+          "hi": "फ्लोरीकल्चर (फूलों का अध्ययन)",
+          "en": "Floriculture"
+        },
+        {
+          "hi": "पोमोलॉजी (Pomology)",
+          "en": "Pomology"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "फूलों / पुष्पों का वैज्ञानिक अध्ययन (Study of Flowers) क्या कहलाता है?",
+        "en": "The scientific study of flowers and flowering plant biology is known as:"
+      },
+      "o": [
+        {
+          "hi": "एंथोलॉजी (Anthology)",
+          "en": "Anthology"
+        },
+        {
+          "hi": "फ्लोरीकल्चर (व्यावसायिक पुष्प कृषि)",
+          "en": "Floriculture"
+        },
+        {
+          "hi": "पोमोलॉजी (फलों का अध्ययन)",
+          "en": "Pomology"
+        },
+        {
+          "hi": "डेंड्रोलॉजी",
+          "en": "Dendrology"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सजावटी फूलों की व्यावसायिक खेती (Cultivation of Flowers) क्या कहलाती है?",
+        "en": "The commercial cultivation and marketing of ornamental flowering plants is called:"
+      },
+      "o": [
+        {
+          "hi": "एंथोलॉजी",
+          "en": "Anthology"
+        },
+        {
+          "hi": "फ्लोरीकल्चर (Floriculture)",
+          "en": "Floriculture"
+        },
+        {
+          "hi": "ओलेरीकल्चर",
+          "en": "Olericulture"
+        },
+        {
+          "hi": "सिल्वीकल्चर",
+          "en": "Silviculture"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सब्जियों की व्यावसायिक कृषि (Cultivation of Vegetables) क्या कहलाती है?",
+        "en": "The science and art of commercial vegetable growing and management is termed:"
+      },
+      "o": [
+        {
+          "hi": "पोमोलॉजी",
+          "en": "Pomology"
+        },
+        {
+          "hi": "हॉर्टिकल्चर",
+          "en": "Horticulture"
+        },
+        {
+          "hi": "ओलेरीकल्चर (Olericulture)",
+          "en": "Olericulture"
+        },
+        {
+          "hi": "एग्रोनॉमी",
+          "en": "Agronomy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अंगूरों की व्यावसायिक खेती और उत्पादन (Cultivation of Grapes) क्या कहलाता है?",
+        "en": "The agricultural cultivation and harvesting of grapes (viticulture/viniculture) is called:"
+      },
+      "o": [
+        {
+          "hi": "सिल्वीकल्चर",
+          "en": "Silviculture"
+        },
+        {
+          "hi": "मोरीकल्चर",
+          "en": "Moriculture"
+        },
+        {
+          "hi": "हॉर्टिकल्चर",
+          "en": "Horticulture"
+        },
+        {
+          "hi": "विटीकल्चर (Viticulture)",
+          "en": "Viticulture"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वर्मीकंपोस्ट खाद बनाने हेतु केंचुआ पालन (Earthworm Rearing) क्या कहलाता है?",
+        "en": "The rearing and cultivation of earthworms to produce organic vermicompost is termed:"
+      },
+      "o": [
+        {
+          "hi": "वर्मीकल्चर (Vermiculture)",
+          "en": "Vermiculture"
+        },
+        {
+          "hi": "सेरीकल्चर",
+          "en": "Sericulture"
+        },
+        {
+          "hi": "पिसीकल्चर",
+          "en": "Pisciculture"
+        },
+        {
+          "hi": "एपीकल्चर",
+          "en": "Apiculture"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रेशम कीटों के भोजन हेतु शहतूत के वृक्षों की खेती (Mulberry Cultivation) क्या कहलाती है?",
+        "en": "The agricultural cultivation of mulberry trees to feed silkworm caterpillars is known as:"
+      },
+      "o": [
+        {
+          "hi": "सेरीकल्चर",
+          "en": "Sericulture"
+        },
+        {
+          "hi": "मोरीकल्चर (Moriculture)",
+          "en": "Moriculture"
+        },
+        {
+          "hi": "विटीकल्चर",
+          "en": "Viticulture"
+        },
+        {
+          "hi": "ओलेरीकल्चर",
+          "en": "Olericulture"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "काष्ठीय वन वृक्षों का संवर्धन एवं वानिकी संवर्धन (Forestry / Timber Cultivation) क्या कहलाता है?",
+        "en": "The cultivation and management of forest timber trees and woodland resources is termed:"
+      },
+      "o": [
+        {
+          "hi": "हॉर्टिकल्चर",
+          "en": "Horticulture"
+        },
+        {
+          "hi": "फ्लोरीकल्चर",
+          "en": "Floriculture"
+        },
+        {
+          "hi": "सिल्वीकल्चर (Silviculture)",
+          "en": "Silviculture"
+        },
+        {
+          "hi": "डेंड्रोलॉजी",
+          "en": "Dendrology"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वृक्षों एवं झाड़ियों का वैज्ञानिक अध्ययन (Study of Trees and Shrubs) क्या कहलाता है?",
+        "en": "The botanical study of woody trees, lianas, and shrubs is known as:"
+      },
+      "o": [
+        {
+          "hi": "सिल्वीकल्चर",
+          "en": "Silviculture"
+        },
+        {
+          "hi": "पोमोलॉजी",
+          "en": "Pomology"
+        },
+        {
+          "hi": "पेडोलॉजी",
+          "en": "Pedology"
+        },
+        {
+          "hi": "डेंड्रोलॉजी (Dendrology)",
+          "en": "Dendrology"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वृक्षों की वार्षिक वृद्धि वलयों (Annual Rings) को गिनकर उनकी आयु निर्धारित करना क्या कहलाता है?",
+        "en": "The scientific method of dating environmental events and tree age by analyzing annual growth rings is:"
+      },
+      "o": [
+        {
+          "hi": "डेंड्रोक्रोनोलॉजी (Dendrochronology)",
+          "en": "Dendrochronology"
+        },
+        {
+          "hi": "डेंड्रोलॉजी",
+          "en": "Dendrology"
+        },
+        {
+          "hi": "क्रोनोलॉजी",
+          "en": "Chronology"
+        },
+        {
+          "hi": "पैलिनोलॉजी",
+          "en": "Palynology"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मृदा / मिट्टी का वैज्ञानिक अध्ययन (Study of Soils) क्या कहलाता है?",
+        "en": "The scientific study of soils in their natural environment is termed:"
+      },
+      "o": [
+        {
+          "hi": "पेट्रोलॉजी (चट्टानों का अध्ययन)",
+          "en": "Petrology"
+        },
+        {
+          "hi": "पेडोलॉजी (Pedology / मृदा विज्ञान)",
+          "en": "Pedology"
+        },
+        {
+          "hi": "लिम्नोलॉजी",
+          "en": "Limnology"
+        },
+        {
+          "hi": "जियोलॉजी",
+          "en": "Geology"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चट्टानों की उत्पत्ति और खनिज संगठन का अध्ययन (Study of Rocks) क्या कहलाता है?",
+        "en": "The geological science dealing with the origin, structure, and composition of rocks is:"
+      },
+      "o": [
+        {
+          "hi": "पेडोलॉजी (Pedology)",
+          "en": "Pedology"
+        },
+        {
+          "hi": "मिनरेलॉजी (Mineralogy)",
+          "en": "Mineralogy"
+        },
+        {
+          "hi": "पेट्रोलॉजी (Petrology)",
+          "en": "Petrology"
+        },
+        {
+          "hi": "सीस्मोलॉजी (Seismology)",
+          "en": "Seismology"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भूकंपों (Earthquakes) का वैज्ञानिक अध्ययन एवं मापन क्या कहलाता है?",
+        "en": "The scientific study of earthquakes and propagation of elastic seismic waves is:"
+      },
+      "o": [
+        {
+          "hi": "वल्केनोलॉजी (Volcanology)",
+          "en": "Volcanology"
+        },
+        {
+          "hi": "ओशिनोग्राफी",
+          "en": "Oceanography"
+        },
+        {
+          "hi": "मौसम विज्ञान (Meteorology)",
+          "en": "Meteorology"
+        },
+        {
+          "hi": "सीस्मोलॉजी / भूकंप विज्ञान (Seismology)",
+          "en": "Seismology"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पक्षियों (Birds) का वैज्ञानिक अध्ययन क्या कहलाता है?",
+        "en": "The zoological study of birds is called:"
+      },
+      "o": [
+        {
+          "hi": "ऑर्निथोलॉजी (Ornithology)",
+          "en": "Ornithology"
+        },
+        {
+          "hi": "ओफियोलॉजी (Ophiology)",
+          "en": "Ophiology"
+        },
+        {
+          "hi": "इचिथियोलॉजी (Ichthyology)",
+          "en": "Ichthyology"
+        },
+        {
+          "hi": "एंटोमोलॉजी (Entomology)",
+          "en": "Entomology"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कीटों (Insects) का वैज्ञानिक अध्ययन जीव विज्ञान की किस शाखा में किया जाता है?",
+        "en": "The branch of zoology that studies insects is termed:"
+      },
+      "o": [
+        {
+          "hi": "एटिकोलॉजी (Etiology)",
+          "en": "Etiology"
+        },
+        {
+          "hi": "एंटोमोलॉजी / कीट विज्ञान (Entomology)",
+          "en": "Entomology"
+        },
+        {
+          "hi": "हेल्मिन्थोलॉजी",
+          "en": "Helminthology"
+        },
+        {
+          "hi": "मैलाकोलॉजी",
+          "en": "Malacology"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सांपों (Snakes) का वैज्ञानिक अध्ययन क्या कहलाता है?",
+        "en": "The scientific study of snakes is known as:"
+      },
+      "o": [
+        {
+          "hi": "सौरोलॉजी (Saurology - छिपकलियां)",
+          "en": "Saurology"
+        },
+        {
+          "hi": "हर्पेटोलॉजी (Herpetology - उभयचर व सरीसृप)",
+          "en": "Herpetology"
+        },
+        {
+          "hi": "ओफियोलॉजी / सर्पेटोलॉजी (Ophiology)",
+          "en": "Ophiology"
+        },
+        {
+          "hi": "ऑर्निथोलॉजी",
+          "en": "Ornithology"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "छिपकलियों (Lizards) का वैज्ञानिक अध्ययन क्या कहलाता है?",
+        "en": "The scientific study of lizards is designated as:"
+      },
+      "o": [
+        {
+          "hi": "ओफियोलॉजी",
+          "en": "Ophiology"
+        },
+        {
+          "hi": "इचिथियोलॉजी",
+          "en": "Ichthyology"
+        },
+        {
+          "hi": "मैलाकोलॉजी",
+          "en": "Malacology"
+        },
+        {
+          "hi": "सौरोलॉजी (Saurology)",
+          "en": "Saurology"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उभयचरों और सरीसृपों (Amphibians & Reptiles) का संयुक्त अध्ययन क्या कहलाता है?",
+        "en": "The zoological study of both amphibians and reptiles is collectively termed:"
+      },
+      "o": [
+        {
+          "hi": "हर्पेटोलॉजी (Herpetology)",
+          "en": "Herpetology"
+        },
+        {
+          "hi": "सौरोलॉजी",
+          "en": "Saurology"
+        },
+        {
+          "hi": "ऑर्निथोलॉजी",
+          "en": "Ornithology"
+        },
+        {
+          "hi": "मैमोलॉजी (Mammalogy)",
+          "en": "Mammalogy"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मछलियों (Fishes) की शारीरिक संरचना और वर्गीकरण का अध्ययन क्या कहलाता है?",
+        "en": "The specialized biological study of true fishes is known as:"
+      },
+      "o": [
+        {
+          "hi": "पिसीकल्चर (पालन हेतु)",
+          "en": "Pisciculture"
+        },
+        {
+          "hi": "इचिथियोलॉजी (Ichthyology)",
+          "en": "Ichthyology"
+        },
+        {
+          "hi": "मैलाकोलॉजी",
+          "en": "Malacology"
+        },
+        {
+          "hi": "लिम्नोलॉजी",
+          "en": "Limnology"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मोलस्का संघ के कोमल जंतुओं का अध्ययन क्या कहलाता है?",
+        "en": "The zoological branch devoted to the study of molluscs (snails, clams, octopuses) is:"
+      },
+      "o": [
+        {
+          "hi": "कॉन्कोलॉजी (Conchology - कवचों का अध्ययन)",
+          "en": "Conchology"
+        },
+        {
+          "hi": "माइकोलॉजी",
+          "en": "Mycology"
+        },
+        {
+          "hi": "मैलाकोलॉजी (Malacology)",
+          "en": "Malacology"
+        },
+        {
+          "hi": "फाइकोलॉजी",
+          "en": "Phycology"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मोलस्का जीवों के बाह्य शंखों / कवचों (Shells) का अध्ययन क्या कहलाता है?",
+        "en": "The study of mollusc shells is specifically termed:"
+      },
+      "o": [
+        {
+          "hi": "मैलाकोलॉजी",
+          "en": "Malacology"
+        },
+        {
+          "hi": "क्रेनियोलॉजी",
+          "en": "Craniology"
+        },
+        {
+          "hi": "ओस्टियोलॉजी",
+          "en": "Osteology"
+        },
+        {
+          "hi": "कॉन्कोलॉजी (Conchology)",
+          "en": "Conchology"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की अस्थियों / हड्डियों (Bones) का वैज्ञानिक अध्ययन क्या कहलाता है?",
+        "en": "The medical science branch dealing with bones and skeletal disorders is called:"
+      },
+      "o": [
+        {
+          "hi": "ऑस्टियोलॉजी / अस्थि विज्ञान (Osteology)",
+          "en": "Osteology"
+        },
+        {
+          "hi": "मायोलॉजी (मांसपेशियां)",
+          "en": "Myology"
+        },
+        {
+          "hi": "ऑन्कोलॉजी (कैंसर)",
+          "en": "Oncology"
+        },
+        {
+          "hi": "ओडोंटोलॉजी (दांत)",
+          "en": "Odontology"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की मांसपेशियों (Muscles) का वैज्ञानिक अध्ययन क्या कहलाता है?",
+        "en": "The study of the structure, function, and diseases of muscles is known as:"
+      },
+      "o": [
+        {
+          "hi": "ऑस्टियोलॉजी",
+          "en": "Osteology"
+        },
+        {
+          "hi": "मायोलॉजी या सार्कोलॉजी (Myology / Sarcology)",
+          "en": "Myology / Sarcology"
+        },
+        {
+          "hi": "न्यूरोलॉजी",
+          "en": "Neurology"
+        },
+        {
+          "hi": "नेफ्रोलॉजी",
+          "en": "Nephrology"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दांतों की संरचना, रोगों और उपचार का वैज्ञानिक अध्ययन क्या कहलाता है?",
+        "en": "The branch of medicine and dentistry dedicated to the study of teeth is called:"
+      },
+      "o": [
+        {
+          "hi": "ऑस्टियोलॉजी",
+          "en": "Osteology"
+        },
+        {
+          "hi": "ऑन्कोलॉजी",
+          "en": "Oncology"
+        },
+        {
+          "hi": "ओडोंटोलॉजी / दंत विज्ञान (Odontology)",
+          "en": "Odontology"
+        },
+        {
+          "hi": "ऑटोलोजी",
+          "en": "Otology"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव त्वचा (Skin) और उसके रोगों का चिकित्सीय अध्ययन क्या कहलाता है?",
+        "en": "The medical specialty focused on the diagnosis and treatment of skin conditions is:"
+      },
+      "o": [
+        {
+          "hi": "हेपेटोलॉजी",
+          "en": "Hepatology"
+        },
+        {
+          "hi": "नेफ्रोलॉजी",
+          "en": "Nephrology"
+        },
+        {
+          "hi": "ऑप्थैल्मोलॉजी",
+          "en": "Ophthalmology"
+        },
+        {
+          "hi": "डर्मेटोलॉजी / त्वचा विज्ञान (Dermatology)",
+          "en": "Dermatology"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यकृत (Liver), पित्ताशय और पित्त नली के रोगों का अध्ययन क्या कहलाता है?",
+        "en": "The specialized medical branch studying the liver, gallbladder, and biliary tree is:"
+      },
+      "o": [
+        {
+          "hi": "हेपेटोलॉजी (Hepatology)",
+          "en": "Hepatology"
+        },
+        {
+          "hi": "हेमेटोलॉजी (रक्त का अध्ययन)",
+          "en": "Hematology"
+        },
+        {
+          "hi": "गैस्ट्रोएंटरोलॉजी",
+          "en": "Gastroenterology"
+        },
+        {
+          "hi": "नेफ्रोलॉजी",
+          "en": "Nephrology"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रुधिर (Blood) और रक्त संबंधी विकारों का अध्ययन क्या कहलाता है?",
+        "en": "The branch of medicine concerned with the study and treatment of blood and blood disorders is:"
+      },
+      "o": [
+        {
+          "hi": "हेपेटोलॉजी (यकृत)",
+          "en": "Hepatology"
+        },
+        {
+          "hi": "हेमेटोलॉजी / रुधिर विज्ञान (Hematology)",
+          "en": "Hematology"
+        },
+        {
+          "hi": "सीरोलॉजी (एंटीबॉडीज)",
+          "en": "Serology"
+        },
+        {
+          "hi": "एंजियोलॉजी (रक्त वाहिकाएं)",
+          "en": "Angiology"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रक्त वाहिकाओं (धमनियों एवं शिराओं) और लसिका तंत्र का अध्ययन क्या कहलाता है?",
+        "en": "The medical study of the circulatory system and lymphatic blood vessels is called:"
+      },
+      "o": [
+        {
+          "hi": "कार्डियोलॉजी (हृदय)",
+          "en": "Cardiology"
+        },
+        {
+          "hi": "हेमेटोलॉजी",
+          "en": "Hematology"
+        },
+        {
+          "hi": "एंजियोलॉजी (Angiology)",
+          "en": "Angiology"
+        },
+        {
+          "hi": "आर्थ्रोलॉजी",
+          "en": "Arthrology"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हृदय (Heart) और उसकी बीमारियों का चिकित्सीय अध्ययन क्या कहलाता है?",
+        "en": "The medical specialty dealing with disorders of the human heart and blood vessels is:"
+      },
+      "o": [
+        {
+          "hi": "पल्मोनोलॉजी (फेफड़े)",
+          "en": "Pulmonology"
+        },
+        {
+          "hi": "नेफ्रोलॉजी",
+          "en": "Nephrology"
+        },
+        {
+          "hi": "न्यूरोलॉजी",
+          "en": "Neurology"
+        },
+        {
+          "hi": "कार्डियोलॉजी / हृदय रोग विज्ञान (Cardiology)",
+          "en": "Cardiology"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वृक्क / गुर्दे (Kidneys) और उनके रोगों का चिकित्सीय अध्ययन क्या कहलाता है?",
+        "en": "The branch of internal medicine focused on the kidneys and their pathology is:"
+      },
+      "o": [
+        {
+          "hi": "नेफ्रोलॉजी (Nephrology)",
+          "en": "Nephrology"
+        },
+        {
+          "hi": "न्यूरोलॉजी (मस्तिष्क/तंत्रिका)",
+          "en": "Neurology"
+        },
+        {
+          "hi": "यूरोलॉजी (मूत्र तंत्र शल्य)",
+          "en": "Urology"
+        },
+        {
+          "hi": "हेपेटोलॉजी",
+          "en": "Hepatology"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तंत्रिका तंत्र (Nervous System) और मस्तिष्क के विकारों का अध्ययन क्या कहलाता है?",
+        "en": "The branch of medicine dealing with the diagnosis and treatment of nervous system disorders is:"
+      },
+      "o": [
+        {
+          "hi": "नेफ्रोलॉजी",
+          "en": "Nephrology"
+        },
+        {
+          "hi": "न्यूरोलॉजी (Neurology)",
+          "en": "Neurology"
+        },
+        {
+          "hi": "साइकाइट्री (मनोरोग)",
+          "en": "Psychiatry"
+        },
+        {
+          "hi": "कार्डियोलॉजी",
+          "en": "Cardiology"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आंखों (Eyes) की संरचना, दृष्टि दोषों और उपचार का चिकित्सीय अध्ययन क्या कहलाता है?",
+        "en": "The medical branch treating physiological disorders of the eye and visual pathways is:"
+      },
+      "o": [
+        {
+          "hi": "ओटोलॉजी (कान)",
+          "en": "Otology"
+        },
+        {
+          "hi": "राइनोलॉजी (नाक)",
+          "en": "Rhinology"
+        },
+        {
+          "hi": "ऑप्थैल्मोलॉजी / नेत्र विज्ञान (Ophthalmology)",
+          "en": "Ophthalmology"
+        },
+        {
+          "hi": "लैरिंजोलॉजी (गला)",
+          "en": "Laryngology"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वृद्धावस्था / बुढ़ापे के जैविक और सामाजिक पहलुओं का वैज्ञानिक अध्ययन क्या कहलाता है?",
+        "en": "The interdisciplinary scientific study of the biological processes of aging is called:"
+      },
+      "o": [
+        {
+          "hi": "पीडियाट्रिक्स (शिशु रोग)",
+          "en": "Pediatrics"
+        },
+        {
+          "hi": "गाइनेकोलॉजी (स्त्री रोग)",
+          "en": "Gynecology"
+        },
+        {
+          "hi": "इथियोलॉजी",
+          "en": "Etiology"
+        },
+        {
+          "hi": "जेरोन्टोलॉजी (Gerontology)",
+          "en": "Gerontology"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विषों / जहर (Poisons) के रासायनिक प्रभावों और उपचार का अध्ययन क्या कहलाता है?",
+        "en": "The scientific discipline studying the nature, effects, and detection of poisons and toxins is:"
+      },
+      "o": [
+        {
+          "hi": "टॉक्सिकोलॉजी / विष विज्ञान (Toxicology)",
+          "en": "Toxicology"
+        },
+        {
+          "hi": "फार्माकोलॉजी (औषध विज्ञान)",
+          "en": "Pharmacology"
+        },
+        {
+          "hi": "पैथोलॉजी (रोग विज्ञान)",
+          "en": "Pathology"
+        },
+        {
+          "hi": "इम्यूनोलॉजी",
+          "en": "Immunology"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "औषधियों और दवाओं के निर्माण, क्रिया और प्रभावों का अध्ययन क्या कहलाता है?",
+        "en": "The science of drug action on biological systems and pharmaceutical compounds is:"
+      },
+      "o": [
+        {
+          "hi": "फार्मेसी (औषध निर्माण)",
+          "en": "Pharmacy"
+        },
+        {
+          "hi": "फार्माकोलॉजी / औषध विज्ञान (Pharmacology)",
+          "en": "Pharmacology"
+        },
+        {
+          "hi": "टॉक्सिकोलॉजी",
+          "en": "Toxicology"
+        },
+        {
+          "hi": "पैथोलॉजी",
+          "en": "Pathology"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रोगों की प्रकृति, कारणों और शरीर पर उनके प्रभावों का नैदानिक अध्ययन क्या कहलाता है?",
+        "en": "The medical branch studying the essential causes, processes, and structural changes of disease is:"
+      },
+      "o": [
+        {
+          "hi": "फिजियोलॉजी (सामान्य क्रियाएं)",
+          "en": "Physiology"
+        },
+        {
+          "hi": "एनाटॉमी (आंतरिक रचना)",
+          "en": "Anatomy"
+        },
+        {
+          "hi": "पैथोलॉजी / रोग विज्ञान (Pathology)",
+          "en": "Pathology"
+        },
+        {
+          "hi": "माइक्रोबायोलॉजी",
+          "en": "Microbiology"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "परागकणों (Pollen Grains) और बीजाणुओं का सूक्ष्म अध्ययन क्या कहलाता है?",
+        "en": "The study of plant pollen grains and spores in living and fossil forms is known as:"
+      },
+      "o": [
+        {
+          "hi": "पोमोलॉजी",
+          "en": "Pomology"
+        },
+        {
+          "hi": "एंथोलॉजी",
+          "en": "Anthology"
+        },
+        {
+          "hi": "डेंड्रोलॉजी",
+          "en": "Dendrology"
+        },
+        {
+          "hi": "पैलिनोलॉजी / परागकण विज्ञान (Palynology)",
+          "en": "Palynology"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "घासों (Grasses) का वानस्पतिक अध्ययन क्या कहलाता है?",
+        "en": "The scientific botanical study of true grasses (Poaceae) is called:"
+      },
+      "o": [
+        {
+          "hi": "एग्रोस्टोलॉजी (Agrostology)",
+          "en": "Agrostology"
+        },
+        {
+          "hi": "एग्रोनॉमी (फसल उत्पादन)",
+          "en": "Agronomy"
+        },
+        {
+          "hi": "हॉर्टिकल्चर",
+          "en": "Horticulture"
+        },
+        {
+          "hi": "सिल्वीकल्चर",
+          "en": "Silviculture"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बिना मिट्टी के केवल जल तथा पोषक घोल में पौधे उगाने की तकनीक क्या कहलाती है?",
+        "en": "The technique of growing plants in water solvent containing mineral nutrients without soil is:"
+      },
+      "o": [
+        {
+          "hi": "एरोपोनिक्स (हवा में उगाना)",
+          "en": "Aeroponics"
+        },
+        {
+          "hi": "हाइड्रोपोनिक्स (Hydroponics / जल संवर्धन)",
+          "en": "Hydroponics"
+        },
+        {
+          "hi": "जियोपोनिक्स (सामान्य मृदा)",
+          "en": "Geoponics"
+        },
+        {
+          "hi": "एक्वापोनिक्स (मछली + पौधे)",
+          "en": "Aquaponics"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हवा में पोषक तत्वों की धुंध/फुहार द्वारा बिना मिट्टी के पौधे उगाने की विधि क्या कहलाती है?",
+        "en": "The cultivation of plants with roots suspended in air and misted with nutrient solution is:"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोपोनिक्स",
+          "en": "Hydroponics"
+        },
+        {
+          "hi": "वर्मीकल्चर",
+          "en": "Vermiculture"
+        },
+        {
+          "hi": "एरोपोनिक्स (Aeroponics / वायु संवर्धन)",
+          "en": "Aeroponics"
+        },
+        {
+          "hi": "टिश्यू कल्चर",
+          "en": "Tissue Culture"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मस्तिष्क की खोपड़ी के उभारों को छूकर मानसिक क्षमताओं का अध्ययन करने वाला पुराना विज्ञान क्या था?",
+        "en": "The historical pseudoscience studying cranial bumps to determine character traits was:"
+      },
+      "o": [
+        {
+          "hi": "क्रेनियोलॉजी (कपाल माप)",
+          "en": "Craniology"
+        },
+        {
+          "hi": "साइकोलॉजी (मनोविज्ञान)",
+          "en": "Psychology"
+        },
+        {
+          "hi": "न्यूरोलॉजी",
+          "en": "Neurology"
+        },
+        {
+          "hi": "फ्रेनोलॉजी (Phrenology)",
+          "en": "Phrenology"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव जनसंख्या के सांख्यिकीय अध्ययन (जन्म दर, मृत्यु दर, घनत्व) को क्या कहते हैं?",
+        "en": "The statistical study of human populations regarding births, deaths, and migrations is:"
+      },
+      "o": [
+        {
+          "hi": "डेमोग्राफी / जनसांख्यिकी (Demography)",
+          "en": "Demography"
+        },
+        {
+          "hi": "ज्योग्राफी (भूगोल)",
+          "en": "Geography"
+        },
+        {
+          "hi": "एंथ्रोपोलॉजी (मानव विज्ञान)",
+          "en": "Anthropology"
+        },
+        {
+          "hi": "सोशियोलॉजी (समाजशास्त्र)",
+          "en": "Sociology"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव प्रजातियों, संस्कृति और विकास के समग्र अध्ययन को क्या कहा जाता है?",
+        "en": "The holistic scientific study of humanity, human evolutionary history, and cultures is:"
+      },
+      "o": [
+        {
+          "hi": "डेमोग्राफी (जनसांख्यिकी)",
+          "en": "Demography"
+        },
+        {
+          "hi": "एंथ्रोपोलॉजी / मानव विज्ञान (Anthropology)",
+          "en": "Anthropology"
+        },
+        {
+          "hi": "आर्कियोलॉजी (पुरातत्व)",
+          "en": "Archaeology"
+        },
+        {
+          "hi": "एथ्नोलॉजी (नृवंशविज्ञान)",
+          "en": "Ethnology"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "उत्खनन द्वारा प्राचीन सभ्यताओं के भौतिक अवशेषों का अध्ययन क्या कहलाता है?",
+        "en": "The study of human history and prehistory through the excavation of material artifacts is:"
+      },
+      "o": [
+        {
+          "hi": "एंथ्रोपोलॉजी",
+          "en": "Anthropology"
+        },
+        {
+          "hi": "पैलियोन्टोलॉजी (जीवाश्म)",
+          "en": "Palaeontology"
+        },
+        {
+          "hi": "आर्कियोलॉजी / पुरातत्व विज्ञान (Archaeology)",
+          "en": "Archaeology"
+        },
+        {
+          "hi": "एपियोग्राफी (शिलालेख)",
+          "en": "Epigraphy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्राचीन शिलालेखों और अभिलेखों का अध्ययन क्या कहलाता है?",
+        "en": "The study and interpretation of ancient inscriptions on rocks, pillars, and copper plates is:"
+      },
+      "o": [
+        {
+          "hi": "न्यूमिस्मैटिक्स (सिक्कों का अध्ययन)",
+          "en": "Numismatics"
+        },
+        {
+          "hi": "पैलियोग्राफी (प्राचीन लिपि)",
+          "en": "Palaeography"
+        },
+        {
+          "hi": "आर्कियोलॉजी",
+          "en": "Archaeology"
+        },
+        {
+          "hi": "एपियोग्राफी / पुरालेखशास्त्र (Epigraphy)",
+          "en": "Epigraphy"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्राचीन सिक्कों और पदकों (Coins & Medals) का वैज्ञानिक अध्ययन क्या कहलाता है?",
+        "en": "The collection and historical study of coins, bank notes, and medals is termed:"
+      },
+      "o": [
+        {
+          "hi": "न्यूमिस्मैटिक्स / मुद्राशास्त्र (Numismatics)",
+          "en": "Numismatics"
+        },
+        {
+          "hi": "एपियोग्राफी",
+          "en": "Epigraphy"
+        },
+        {
+          "hi": "फिलाटेली (डाक टिकट संग्रह)",
+          "en": "Philately"
+        },
+        {
+          "hi": "कार्टोग्राफी (मानचित्र निर्माण)",
+          "en": "Cartography"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानचित्र और चार्ट बनाने की कला व विज्ञान (Map Making) क्या कहलाता है?",
+        "en": "The science and art of designing and constructing geographic maps and charts is:"
+      },
+      "o": [
+        {
+          "hi": "कैलीग्राफी (सुलेखन)",
+          "en": "Calligraphy"
+        },
+        {
+          "hi": "कार्टोग्राफी / मानचित्रकारी (Cartography)",
+          "en": "Cartography"
+        },
+        {
+          "hi": "क्रिप्टोग्राफी (कूटलेखन)",
+          "en": "Cryptography"
+        },
+        {
+          "hi": "डेमोग्राफी",
+          "en": "Demography"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

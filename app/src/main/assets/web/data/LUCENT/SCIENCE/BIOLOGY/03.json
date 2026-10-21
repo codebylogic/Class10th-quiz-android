@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - जीव विज्ञान (Biology)",
+  "subtitle": "जैव-विकास",
+  "description": "जैव-विकास पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "जैव-विकास (Organic Evolution) की प्राथमिक और मूल परिभाषा क्या है?",
+        "en": "What is the fundamental scientific definition of Organic Evolution?"
+      },
+      "o": [
+        {
+          "hi": "प्राचीन सरल जीवों से क्रमिक परिवर्तनों द्वारा जटिल जीवों का विकास",
+          "en": "Gradual development of complex organisms from simpler ancestral forms"
+        },
+        {
+          "hi": "जीवों का अचानक एक ही पीढ़ी में उत्पन्न होना",
+          "en": "Sudden generation of living beings in a single generation"
+        },
+        {
+          "hi": "जीवों का स्थिर व अपरिवर्तनशील रहना",
+          "en": "Living beings remaining static and unchanging"
+        },
+        {
+          "hi": "केवल पर्यावरण प्रदूषण के कारण जीवों का नष्ट होना",
+          "en": "Extinction of organisms due to environmental pollution"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जैव-विकास के संदर्भ में 'उपार्जित लक्षणों की वंशागति' का सिद्धांत किसने दिया था?",
+        "en": "Who proposed the 'Theory of Inheritance of Acquired Characters' (Lamarckism)?"
+      },
+      "o": [
+        {
+          "hi": "चार्ल्स डार्विन (Charles Darwin)",
+          "en": "Charles Darwin"
+        },
+        {
+          "hi": "जीन-बैप्टिस्ट लैमार्क (Jean-Baptiste Lamarck, 1809)",
+          "en": "Jean-Baptiste Lamarck (1809)"
+        },
+        {
+          "hi": "ह्यूगो डी व्रीज (Hugo de Vries)",
+          "en": "Hugo de Vries"
+        },
+        {
+          "hi": "अगस्त वीजमैन (August Weismann)",
+          "en": "August Weismann"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लैमार्क ने अपने जैव-विकास के सिद्धांतों का वर्णन 1809 में किस प्रसिद्ध पुस्तक में किया था?",
+        "en": "In which famous 1809 book did Jean-Baptiste Lamarck elaborate his evolutionary theory?"
+      },
+      "o": [
+        {
+          "hi": "ऑन द ओरिजिन ऑफ स्पीशीज",
+          "en": "On the Origin of Species"
+        },
+        {
+          "hi": "सिस्टेमा नेचुरी",
+          "en": "Systema Naturae"
+        },
+        {
+          "hi": "फिलोसोफिक जूलॉजिक (Philosophie Zoologique)",
+          "en": "Philosophie Zoologique"
+        },
+        {
+          "hi": "द डिसेंट ऑफ मैन",
+          "en": "The Descent of Man"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जिराफ की लंबी गर्दन और सांपों में पैरों का विलोप—यह किस सिद्धांत के प्रमुख उदाहरण हैं?",
+        "en": "The long neck of giraffes and the loss of limbs in snakes are classic examples of:"
+      },
+      "o": [
+        {
+          "hi": "डार्विनवाद (Darwinism)",
+          "en": "Darwinism"
+        },
+        {
+          "hi": "उत्परिवर्तनवाद (Mutation Theory)",
+          "en": "Mutation Theory"
+        },
+        {
+          "hi": "संश्लेषणात्मक सिद्धांत (Synthetic Theory)",
+          "en": "Synthetic Theory"
+        },
+        {
+          "hi": "लैमार्कवाद / अंगों का उपयोग व अनुप्रयोग सिद्धांत",
+          "en": "Lamarckism / Use and Disuse of Organs"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लैमार्कवाद का खंडन चूहों की पूंछ 21 पीढ़ियों तक काटकर किस वैज्ञानिक ने किया था?",
+        "en": "Who disproved Lamarckism by cutting the tails of mice for 21 successive generations?"
+      },
+      "o": [
+        {
+          "hi": "अगस्त वीजमैन (August Weismann - जननद्रव्य सिद्धांत)",
+          "en": "August Weismann (Germplasm Theory)"
+        },
+        {
+          "hi": "ह्यूगो डी व्रीज",
+          "en": "Hugo de Vries"
+        },
+        {
+          "hi": "थॉमस हक्सले",
+          "en": "Thomas Huxley"
+        },
+        {
+          "hi": "अर्न्स्ट हेकेल",
+          "en": "Ernst Haeckel"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'प्राकृतिक वरण द्वारा जातियों की उत्पत्ति' (Natural Selection) का सिद्धांत किसने प्रतिपादित किया?",
+        "en": "Who proposed the Theory of Evolution through Natural Selection?"
+      },
+      "o": [
+        {
+          "hi": "जीन-बैप्टिस्ट लैमार्क",
+          "en": "Jean-Baptiste Lamarck"
+        },
+        {
+          "hi": "चार्ल्स डार्विन (Charles Darwin, 1859)",
+          "en": "Charles Darwin (1859)"
+        },
+        {
+          "hi": "ग्रेगर जॉन मेंडल",
+          "en": "Gregor Johann Mendel"
+        },
+        {
+          "hi": "अल्फ्रेड वेगेनर",
+          "en": "Alfred Wegener"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चार्ल्स डार्विन की ऐतिहासिक पुस्तक 'The Origin of Species' किस वर्ष प्रकाशित हुई थी?",
+        "en": "In which historic year was Charles Darwin's book 'On the Origin of Species' published?"
+      },
+      "o": [
+        {
+          "hi": "1838 में",
+          "en": "In 1838"
+        },
+        {
+          "hi": "1809 में",
+          "en": "In 1809"
+        },
+        {
+          "hi": "24 नवंबर 1859 को",
+          "en": "24 November 1859"
+        },
+        {
+          "hi": "1882 in",
+          "en": "In 1882"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चार्ल्स डार्विन ने अपनी विश्व यात्रा किस ब्रिटिश खोजी जहाज (Survey Ship) से की थी?",
+        "en": "On which British survey vessel did Charles Darwin make his historic voyage (1831-1836)?"
+      },
+      "o": [
+        {
+          "hi": "एच.एम.एस. विक्ट्री (HMS Victory)",
+          "en": "HMS Victory"
+        },
+        {
+          "hi": "टाइटैनिक (Titanic)",
+          "en": "Titanic"
+        },
+        {
+          "hi": "मेफ्लावर (Mayflower)",
+          "en": "Mayflower"
+        },
+        {
+          "hi": "एच.एम.एस. बीगल (HMS Beagle)",
+          "en": "HMS Beagle"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "डार्विन ने जैव-विकास और फिंच पक्षियों (Darwin's Finches) का अध्ययन किस द्वीप समूह पर किया?",
+        "en": "On which isolated archipelago in the Pacific did Charles Darwin study diverse finches?"
+      },
+      "o": [
+        {
+          "hi": "गैलापागोस द्वीप समूह (Galapagos Islands)",
+          "en": "Galapagos Islands"
+        },
+        {
+          "hi": "हवाई द्वीप समूह (Hawaii)",
+          "en": "Hawaiian Islands"
+        },
+        {
+          "hi": "मेडागास्कर द्वीप",
+          "en": "Madagascar"
+        },
+        {
+          "hi": "अंडमान और निकोबार",
+          "en": "Andaman and Nicobar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'योग्यतम की उत्तरजीविता' (Survival of the Fittest) वाक्यांश सर्वप्रथम किसने गढ़ा था?",
+        "en": "Who first coined the phrase 'Survival of the Fittest' in 1864?"
+      },
+      "o": [
+        {
+          "hi": "चार्ल्स डार्विन (Charles Darwin)",
+          "en": "Charles Darwin"
+        },
+        {
+          "hi": "हर्बर्ट स्पेंसर (Herbert Spencer)",
+          "en": "Herbert Spencer"
+        },
+        {
+          "hi": "अल्फ्रेड रसेल वालेस",
+          "en": "Alfred Russel Wallace"
+        },
+        {
+          "hi": "थॉमस माल्थस (Thomas Malthus)",
+          "en": "Thomas Malthus"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जैव-विकास के 'उत्परिवर्तन सिद्धांत' (Mutation Theory) का प्रतिपादन 1901 में किसने किया था?",
+        "en": "Who proposed the 'Mutation Theory of Evolution' in 1901?"
+      },
+      "o": [
+        {
+          "hi": "चार्ल्स डार्विन",
+          "en": "Charles Darwin"
+        },
+        {
+          "hi": "जीन लैमार्क",
+          "en": "Jean Lamarck"
+        },
+        {
+          "hi": "ह्यूगो डी व्रीज (Hugo de Vries - हॉलैंड)",
+          "en": "Hugo de Vries (Holland)"
+        },
+        {
+          "hi": "टी.एच. मॉर्गन",
+          "en": "T.H. Morgan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ह्यूगो डी व्रीज ने अपने उत्परिवर्तन के प्रयोग किस पौधे (इवनिंग प्रिमरोज) पर किए थे?",
+        "en": "On which plant (Evening Primrose) did Hugo de Vries conduct his mutation experiments?"
+      },
+      "o": [
+        {
+          "hi": "पाइसम सैटाइवम (मटर)",
+          "en": "Pisum sativum"
+        },
+        {
+          "hi": "ड्रोसोफिला (फल मक्खी)",
+          "en": "Drosophila"
+        },
+        {
+          "hi": "मिराबिलिस जलापा",
+          "en": "Mirabilis jalapa"
+        },
+        {
+          "hi": "ओइनोथेरा लैमार्कियाना (Oenothera lamarckiana)",
+          "en": "Oenothera lamarckiana"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उत्परिवर्तन (Mutation) का वास्तविक जैविक अर्थ क्या होता है?",
+        "en": "What is the precise biological definition of a Mutation?"
+      },
+      "o": [
+        {
+          "hi": "जीवों के आनुवंशिक पदार्थ (DNA) में होने वाला अचानक वंशागत परिवर्तन",
+          "en": "Sudden inheritable change in the genetic material (DNA)"
+        },
+        {
+          "hi": "उम्र बढ़ने के साथ शरीर में होने वाले सामान्य बदलाव",
+          "en": "Normal bodily changes occurring with aging"
+        },
+        {
+          "hi": "भोजन के कारण आने वाला अस्थायी बदलाव",
+          "en": "Temporary changes caused by dietary intake"
+        },
+        {
+          "hi": "रोगग्रस्त होने के बाद शरीर का कमजोर होना",
+          "en": "Bodily weakness caused by acute infection"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वे अंग जिनकी मूल संरचना और उत्पत्ति समान होती है परंतु कार्य भिन्न होते हैं, क्या कहलाते हैं?",
+        "en": "Organs that have the same basic anatomical origin and structure but perform different functions are:"
+      },
+      "o": [
+        {
+          "hi": "समरूप / समवृत्ति अंग (Analogous Organs)",
+          "en": "Analogous Organs"
+        },
+        {
+          "hi": "समजात अंग (Homologous Organs)",
+          "en": "Homologous Organs"
+        },
+        {
+          "hi": "अवशेषी अंग (Vestigial Organs)",
+          "en": "Vestigial Organs"
+        },
+        {
+          "hi": "पुनर्निर्मित अंग (Regenerated Organs)",
+          "en": "Regenerated Organs"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा समूह समजात अंगों (Homologous Organs) का उत्कृष्ट उदाहरण है?",
+        "en": "Which of the following sets represents Homologous Organs (Divergent Evolution)?"
+      },
+      "o": [
+        {
+          "hi": "चमगादड़ का पंख और तितली का पंख",
+          "en": "Bat wing and butterfly wing"
+        },
+        {
+          "hi": "पक्षी का पंख और कीट का पंख",
+          "en": "Bird wing and insect wing"
+        },
+        {
+          "hi": "मनुष्य का हाथ, चमगादड़ का पंख, घोड़े की अगली टांग और व्हेल का फ्लिपर",
+          "en": "Human arm, bat wing, horse foreleg, and whale flipper"
+        },
+        {
+          "hi": "मछली का पंख और व्हेल का पूंछ",
+          "en": "Fish fin and whale tail"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समजात अंग (Homologous Organs) किस प्रकार के जैव-विकास को प्रदर्शित करते हैं?",
+        "en": "Homologous organs provide evidence for which evolutionary pattern?"
+      },
+      "o": [
+        {
+          "hi": "अभिसारी विकास (Convergent Evolution)",
+          "en": "Convergent Evolution"
+        },
+        {
+          "hi": "समानांतर विकास (Parallel Evolution)",
+          "en": "Parallel Evolution"
+        },
+        {
+          "hi": "प्रतिगामी विकास (Retrogressive Evolution)",
+          "en": "Retrogressive Evolution"
+        },
+        {
+          "hi": "अपसारी विकास (Divergent Evolution)",
+          "en": "Divergent Evolution"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वे अंग जिनके कार्य समान होते हैं परंतु उत्पत्ति और मूल संरचना भिन्न होती है, क्या कहलाते हैं?",
+        "en": "Organs that perform similar functions but have fundamentally different anatomical origin are:"
+      },
+      "o": [
+        {
+          "hi": "समरूप या समवृत्ति अंग (Analogous Organs)",
+          "en": "Analogous Organs"
+        },
+        {
+          "hi": "समजात अंग (Homologous Organs)",
+          "en": "Homologous Organs"
+        },
+        {
+          "hi": "अवशेषी अंग (Vestigial Organs)",
+          "en": "Vestigial Organs"
+        },
+        {
+          "hi": "संयोजक अंग (Connecting Organs)",
+          "en": "Connecting Organs"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तितली के पंख और चमगादड़/पक्षी के पंख किस प्रकार के अंगों के उदाहरण हैं?",
+        "en": "Wings of a butterfly and wings of a bird/bat are examples of:"
+      },
+      "o": [
+        {
+          "hi": "समजात अंग (Homologous Organs)",
+          "en": "Homologous Organs"
+        },
+        {
+          "hi": "समरूप अंग (Analogous Organs - अभिसारी विकास)",
+          "en": "Analogous Organs (Convergent Evolution)"
+        },
+        {
+          "hi": "अवशेषी अंग (Vestigial Organs)",
+          "en": "Vestigial Organs"
+        },
+        {
+          "hi": "प्रागैतिहासिक अंग",
+          "en": "Prehistoric Organs"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वे अंग जो पूर्वजों में पूर्ण विकसित थे परंतु अब अनुपयोगी होकर क्षीण हो गए हैं, क्या कहलाते हैं?",
+        "en": "Organs that were functional in ancestors but have become rudimentary and functionless are called:"
+      },
+      "o": [
+        {
+          "hi": "समजात अंग (Homologous Organs)",
+          "en": "Homologous Organs"
+        },
+        {
+          "hi": "समरूप अंग (Analogous Organs)",
+          "en": "Analogous Organs"
+        },
+        {
+          "hi": "अवशेषी अंग (Vestigial Organs)",
+          "en": "Vestigial Organs"
+        },
+        {
+          "hi": "अति-विकसित अंग (Hypertrophic Organs)",
+          "en": "Hypertrophic Organs"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में पाए जाने वाले अवशेषी अंगों (Vestigial Organs) में कौन-सा शामिल है?",
+        "en": "Which of the following is a classic vestigial organ in the human body?"
+      },
+      "o": [
+        {
+          "hi": "यकृत (Liver)",
+          "en": "Liver"
+        },
+        {
+          "hi": "प्लीहा (Spleen)",
+          "en": "Spleen"
+        },
+        {
+          "hi": "पित्ताशय (Gallbladder)",
+          "en": "Gallbladder"
+        },
+        {
+          "hi": "कृमिरूप परिशेषिका / अपेंडिक्स (Vermiform Appendix)",
+          "en": "Vermiform Appendix"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में लगभग कितने अवशेषी अंग (Vestigial Organs) पहचाने गए हैं?",
+        "en": "Approximately how many vestigial organs/structures have been identified in the human body?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 100 अवशेषी अंग",
+          "en": "About 100 vestigial structures"
+        },
+        {
+          "hi": "लगभग 10",
+          "en": "About 10"
+        },
+        {
+          "hi": "लगभग 25",
+          "en": "About 25"
+        },
+        {
+          "hi": "लगभग 200",
+          "en": "About 200"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आंख की 'निमेषक झिल्ली' (Nictitating Membrane / Plica semilunaris) मानव में क्या है?",
+        "en": "What is the Nictitating Membrane in the inner corner of the human eye?"
+      },
+      "o": [
+        {
+          "hi": "दृष्टि का मुख्य केंद्र",
+          "en": "Main focus of vision"
+        },
+        {
+          "hi": "एक अवशेषी अंग (Vestigial Organ)",
+          "en": "A Vestigial Organ"
+        },
+        {
+          "hi": "आंसू स्रावित करने वाली ग्रंथि",
+          "en": "Tear secreting gland"
+        },
+        {
+          "hi": "प्रकाश अपवर्तक लेंस",
+          "en": "Light refracting lens"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव में कान की पिन्ना की पेशियां (Auricular Muscles) और अक्ल दाढ़ (Wisdom Tooth) क्या हैं?",
+        "en": "Ear pinna muscles and wisdom teeth in humans are examples of:"
+      },
+      "o": [
+        {
+          "hi": "समरूप अंग (Analogous Organs)",
+          "en": "Analogous Organs"
+        },
+        {
+          "hi": "सक्रिय संवेदी अंग",
+          "en": "Active sensory organs"
+        },
+        {
+          "hi": "अवशेषी अंग (Vestigial Organs)",
+          "en": "Vestigial Organs"
+        },
+        {
+          "hi": "अति-महत्वपूर्ण पाचक अंग",
+          "en": "Critical digestive organs"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सरीसृपों (Reptiles) और पक्षियों (Aves) के बीच की 'संयोजक कड़ी' कौन-सा जीवाश्म जीव है?",
+        "en": "Which fossil organism is recognized as the connecting link between Reptiles and Birds?"
+      },
+      "o": [
+        {
+          "hi": "इथियोस्टेगा (Ichthyostega)",
+          "en": "Ichthyostega"
+        },
+        {
+          "hi": "पेरिपेटस (Peripatus)",
+          "en": "Peripatus"
+        },
+        {
+          "hi": "सीलाकेंथ (Coelacanth)",
+          "en": "Coelacanth"
+        },
+        {
+          "hi": "आर्किओप्टेरिक्स (Archaeopteryx)",
+          "en": "Archaeopteryx"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आर्किओप्टेरिक्स (Archaeopteryx) के जीवाश्म में कौन-से सरीसृप लक्षण मौजूद थे?",
+        "en": "Which reptilian characteristics were preserved in the fossil of Archaeopteryx?"
+      },
+      "o": [
+        {
+          "hi": "चोंच में दांत, पंजायुक्त पंख और लंबी पूंछ",
+          "en": "Teeth in beak, claws on wings, and long bony tail"
+        },
+        {
+          "hi": "चार कक्षीय हृदय और स्तन ग्रंथियां",
+          "en": "Four-chambered heart and mammary glands"
+        },
+        {
+          "hi": "खोखली हड्डियां और वायु कोष",
+          "en": "Hollow pneumatic bones and air sacs"
+        },
+        {
+          "hi": "शल्क रहित त्वचा और गिल",
+          "en": "Scaleless skin and gills"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एनेलिडा (केंचुआ वर्ग) और आर्थ्रोपोडा (कीट वर्ग) के बीच की संयोजक कड़ी किसे माना जाता है?",
+        "en": "Which creature is considered the connecting link between Annelida and Arthropoda?"
+      },
+      "o": [
+        {
+          "hi": "यूग्लीना (Euglena)",
+          "en": "Euglena"
+        },
+        {
+          "hi": "पेरिपेटस (Peripatus)",
+          "en": "Peripatus"
+        },
+        {
+          "hi": "आर्किओप्टेरिक्स",
+          "en": "Archaeopteryx"
+        },
+        {
+          "hi": "बैलेनोग्लोसस (Balanoglossus)",
+          "en": "Balanoglossus"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अकशेरुकी (Non-Chordata) और कशेरुकी (Chordata) के बीच की संयोजक कड़ी किसे माना जाता है?",
+        "en": "Which marine hemichordate animal is the connecting link between Non-chordates and Chordates?"
+      },
+      "o": [
+        {
+          "hi": "एम्फिऑक्सस (Amphioxus)",
+          "en": "Amphioxus"
+        },
+        {
+          "hi": "हर्डमानिया (Herdmania)",
+          "en": "Herdmania"
+        },
+        {
+          "hi": "बैलेनोग्लोसस (Balanoglossus)",
+          "en": "Balanoglossus"
+        },
+        {
+          "hi": "पेरिपेटस (Peripatus)",
+          "en": "Peripatus"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सरीसृप और स्तनधारियों (Mammals) के बीच की कड़ी माने जाने वाले अंडे देने वाले स्तनधारी कौन हैं?",
+        "en": "Which egg-laying monotreme mammals are considered connecting links between Reptiles and Mammals?"
+      },
+      "o": [
+        {
+          "hi": "कंगारू और कोआला",
+          "en": "Kangaroo and Koala"
+        },
+        {
+          "hi": "व्हेल और डॉल्फिन",
+          "en": "Whale and Dolphin"
+        },
+        {
+          "hi": "चमगादड़ और छछूंदर",
+          "en": "Bat and Shrew"
+        },
+        {
+          "hi": "प्लैटिपस (डक-बिल्ड) और एकिडना (स्पाइनी एंटीटर)",
+          "en": "Duck-billed Platypus and Echidna"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'जीवित जीवाश्म' (Living Fossil) किसे कहा जाता है?",
+        "en": "What is a 'Living Fossil' defined as in evolutionary biology?"
+      },
+      "o": [
+        {
+          "hi": "प्राचीन काल का जीव जो बिना किसी बड़े बदलाव के आज भी जीवित है",
+          "en": "Ancient organism that has survived virtually unchanged to modern times"
+        },
+        {
+          "hi": "भूमि के भीतर दबे प्राचीन जीवाश्म",
+          "en": "Prehistoric fossils preserved in rock layers"
+        },
+        {
+          "hi": "प्रयोगशाला में कृत्रिम रूप से बनाया गया जीव",
+          "en": "Artificially synthesized laboratory organism"
+        },
+        {
+          "hi": "केवल अत्यधिक ठंडे क्षेत्रों में पाए जाने वाले जीव",
+          "en": "Animals found only in arctic permafrost"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा जीव एक प्रसिद्ध 'जीवित जीवाश्म' (Living Fossil) है?",
+        "en": "Which of the following is a famous living fossil among reptiles?"
+      },
+      "o": [
+        {
+          "hi": "कोमोडो ड्रैगन (Komodo Dragon)",
+          "en": "Komodo Dragon"
+        },
+        {
+          "hi": "स्फिनोडॉन / तुआतारा (Sphenodon - न्यूजीलैंड)",
+          "en": "Sphenodon / Tuatara (New Zealand)"
+        },
+        {
+          "hi": "घड़ियाल (Gharial)",
+          "en": "Gharial"
+        },
+        {
+          "hi": "समुद्री कछुआ (Sea Turtle)",
+          "en": "Sea Turtle"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सी प्राचीन मछली एक जीवित जीवाश्म (Living Fossil) मानी जाती है?",
+        "en": "Which lobe-finned fish thought to be extinct was rediscovered and hailed as a living fossil?"
+      },
+      "o": [
+        {
+          "hi": "शार्क (Shark)",
+          "en": "Shark"
+        },
+        {
+          "hi": "रोहू (Rohu)",
+          "en": "Rohu"
+        },
+        {
+          "hi": "सीलाकेंथ / लैटिमेरिया (Coelacanth / Latimeria)",
+          "en": "Coelacanth / Latimeria"
+        },
+        {
+          "hi": "इलेक्ट्रिक रे (Torpedo)",
+          "en": "Torpedo"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पादप जगत में जीवित जीवाश्म (Living Fossil) का सबसे प्रसिद्ध उदाहरण कौन-सा वृक्ष है?",
+        "en": "Which gymnosperm tree is universally cited as a living fossil in the plant kingdom?"
+      },
+      "o": [
+        {
+          "hi": "पाइनस (चीड़)",
+          "en": "Pinus"
+        },
+        {
+          "hi": "यूकेलिप्टस",
+          "en": "Eucalyptus"
+        },
+        {
+          "hi": "सिकोया (Sequoia)",
+          "en": "Sequoia"
+        },
+        {
+          "hi": "गिंको बाइलोबा (Ginkgo biloba / मेडनहेयर ट्री)",
+          "en": "Ginkgo biloba (Maidenhair Tree)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जियोलॉजिकल टाइम स्केल में डायनासोरों का स्वर्णिम युग किस महाकल्प (Era) को कहा जाता है?",
+        "en": "In the geological time scale, which Era is hailed as the 'Age of Reptiles' / Dinosaurs?"
+      },
+      "o": [
+        {
+          "hi": "मेसोजोइक महाकल्प (Mesozoic Era)",
+          "en": "Mesozoic Era"
+        },
+        {
+          "hi": "पैलियोजोइक महाकल्प (Paleozoic)",
+          "en": "Paleozoic Era"
+        },
+        {
+          "hi": "सीनोज़ोइक महाकल्प (Cenozoic)",
+          "en": "Cenozoic Era"
+        },
+        {
+          "hi": "प्रोटिरोजोइक महाकल्प",
+          "en": "Proterozoic Era"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्तनधारियों (Mammals) और पक्षियों का स्वर्णिम युग किस महाकल्प को कहा जाता है?",
+        "en": "Which geological Era is known as the 'Age of Mammals'?"
+      },
+      "o": [
+        {
+          "hi": "मेसोजोइक महाकल्प",
+          "en": "Mesozoic Era"
+        },
+        {
+          "hi": "सीनोज़ोइक महाकल्प (Cenozoic Era)",
+          "en": "Cenozoic Era"
+        },
+        {
+          "hi": "पैलियोजोइक महाकल्प",
+          "en": "Paleozoic Era"
+        },
+        {
+          "hi": "आर्कियन कल्प",
+          "en": "Archean Era"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'बायोजेनेटिक नियम' (Biogenetic Law: व्यक्तिवृत्त में जातिवृत्त दोहराया जाता है) किसने दिया?",
+        "en": "Who formulated the Biogenetic Law: 'Ontogeny recapitulates Phylogeny'?"
+      },
+      "o": [
+        {
+          "hi": "कार्ल वॉन बेयर (Karl von Baer)",
+          "en": "Karl von Baer"
+        },
+        {
+          "hi": "चार्ल्स डार्विन",
+          "en": "Charles Darwin"
+        },
+        {
+          "hi": "अर्न्स्ट हेकेल (Ernst Haeckel, 1866)",
+          "en": "Ernst Haeckel (1866)"
+        },
+        {
+          "hi": "लैमार्क",
+          "en": "Lamarck"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "औद्योगिक मैलेनिनवाद (Industrial Melanism - बिस्टन बेटुलेरिया मोथ) किसका प्रत्यक्ष प्रमाण है?",
+        "en": "Industrial Melanism in the peppered moth (Biston betularia) in England is evidence of:"
+      },
+      "o": [
+        {
+          "hi": "लैमार्कवाद का प्रमाण",
+          "en": "Evidence of Lamarckism"
+        },
+        {
+          "hi": "उत्परिवर्तन का अभाव",
+          "en": "Absence of mutation"
+        },
+        {
+          "hi": "कृत्रिम चयन (Artificial Selection)",
+          "en": "Artificial Selection"
+        },
+        {
+          "hi": "प्राकृतिक वरण (Natural Selection) का प्रत्यक्ष प्रमाण",
+          "en": "Direct evidence of Natural Selection"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव के विकास इतिहास में पहला पूर्वज जो सीधे दो पैरों पर खड़ा होकर चलता था, कौन था?",
+        "en": "Which human ancestor was the first to walk upright on two feet (bipedal locomotion)?"
+      },
+      "o": [
+        {
+          "hi": "ऑस्ट्रेलोपिथेकस (Australopithecus - 'लूसी')",
+          "en": "Australopithecus ('Lucy')"
+        },
+        {
+          "hi": "रामापिथेकस (Ramapithecus)",
+          "en": "Ramapithecus"
+        },
+        {
+          "hi": "होमो हैबिलिस (Homo habilis)",
+          "en": "Homo habilis"
+        },
+        {
+          "hi": "ड्रायोपिथेकस (Dryopithecus)",
+          "en": "Dryopithecus"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पत्थरों के औजार बनाने वाला पहला मानव पूर्वज 'टूल मेकर' (Handy Man) कौन था?",
+        "en": "Which human ancestor is known as the 'Handy Man' / first maker of stone tools?"
+      },
+      "o": [
+        {
+          "hi": "होमो इरेक्टस (Homo erectus)",
+          "en": "Homo erectus"
+        },
+        {
+          "hi": "होमो हैबिलिस (Homo habilis)",
+          "en": "Homo habilis"
+        },
+        {
+          "hi": "ऑस्ट्रेलोपिथेकस",
+          "en": "Australopithecus"
+        },
+        {
+          "hi": "नियंडरथल मानव",
+          "en": "Neanderthal Man"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आग (Fire) का सर्वप्रथम उपयोग करने वाला और सीधा खड़ा होने वाला मानव पूर्वज कौन था?",
+        "en": "Which early human ancestor was the first to discover and use fire (Java & Peking Man)?"
+      },
+      "o": [
+        {
+          "hi": "होमो हैबिलिस",
+          "en": "Homo habilis"
+        },
+        {
+          "hi": "नियंडरथल मानव",
+          "en": "Neanderthal Man"
+        },
+        {
+          "hi": "होमो इरेक्टस (Homo erectus)",
+          "en": "Homo erectus"
+        },
+        {
+          "hi": "क्रो-मैग्नॉन मानव",
+          "en": "Cro-Magnon Man"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मृतकों को कब्रों में दफनाने और धार्मिक/सामाजिक रीति-रिवाज प्रारंभ करने वाला मानव पूर्वज कौन था?",
+        "en": "Which human ancestor was the first to bury their dead with ceremonial rituals?"
+      },
+      "o": [
+        {
+          "hi": "होमो इरेक्टस",
+          "en": "Homo erectus"
+        },
+        {
+          "hi": "होमो हैबिलिस",
+          "en": "Homo habilis"
+        },
+        {
+          "hi": "रामापिथेकस",
+          "en": "Ramapithecus"
+        },
+        {
+          "hi": "नियंडरथल मानव (Homo neanderthalensis)",
+          "en": "Neanderthal Man (Homo neanderthalensis)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आधुनिक मानव (Homo sapiens) का सबसे निकटतम प्रत्यक्ष पूर्वज कौन माना जाता है?",
+        "en": "Who is considered the most immediate, direct prehistoric ancestor of modern Homo sapiens?"
+      },
+      "o": [
+        {
+          "hi": "क्रो-मैग्नॉन मानव (Cro-Magnon Man - गुफा चित्रकारी)",
+          "en": "Cro-Magnon Man (Cave Art)"
+        },
+        {
+          "hi": "नियंडरथल मानव",
+          "en": "Neanderthal Man"
+        },
+        {
+          "hi": "जावा मानव",
+          "en": "Java Man"
+        },
+        {
+          "hi": "पेकिंग मानव",
+          "en": "Peking Man"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आधुनिक मानव 'होमो सेपियंस' का उद्भव लगभग कितने वर्ष पूर्व हुआ था?",
+        "en": "Approximately how many years ago did modern Homo sapiens emerge on Earth?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 1 लाख वर्ष पूर्व",
+          "en": "About 100,000 years ago"
+        },
+        {
+          "hi": "लगभग 25,000 से 35,000 वर्ष पूर्व",
+          "en": "About 25,000 to 35,000 years ago"
+        },
+        {
+          "hi": "लगभग 10 लाख वर्ष पूर्व",
+          "en": "About 1,000,000 years ago"
+        },
+        {
+          "hi": "लगभग 5,000 वर्ष पूर्व",
+          "en": "About 5,000 years ago"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जीवाश्मों की आयु ज्ञात करने के लिए किस रेडियोधर्मी समस्थानिक का प्रयोग किया जाता है?",
+        "en": "Which radioactive isotope is standardly used for dating fossils and organic remains?"
+      },
+      "o": [
+        {
+          "hi": "यूरेनियम-238 (चट्टानों हेतु)",
+          "en": "Uranium-238"
+        },
+        {
+          "hi": "कोबाल्ट-60",
+          "en": "Cobalt-60"
+        },
+        {
+          "hi": "कार्बन-14 डेटिंग (Carbon-14 Dating / C-14)",
+          "en": "Carbon-14 Dating (C-14)"
+        },
+        {
+          "hi": "आयोडीन-131",
+          "en": "Iodine-131"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी और प्राचीन चट्टानों की आयु निर्धारित करने के लिए किस विधि का प्रयोग होता है?",
+        "en": "Which radiometric dating method is employed to determine the age of rocks and Earth?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन डेटिंग विधि",
+          "en": "Carbon Dating Method"
+        },
+        {
+          "hi": "पोटैशियम-ऑर्गन विधि",
+          "en": "Potassium-Argon Method"
+        },
+        {
+          "hi": "सोडियम डेटिंग विधि",
+          "en": "Sodium Dating Method"
+        },
+        {
+          "hi": "यूरेनियम-लेड डेटिंग विधि (Uranium-Lead Dating)",
+          "en": "Uranium-Lead Dating Method"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जीवाश्म विज्ञान (Paleontology) का जनक किसे माना जाता है?",
+        "en": "Who is acclaimed as the Father of Modern Paleontology (study of fossils)?"
+      },
+      "o": [
+        {
+          "hi": "जॉर्जेस कुवियर (Georges Cuvier)",
+          "en": "Georges Cuvier"
+        },
+        {
+          "hi": "लियोनार्डो दा विंची (Leonardo da Vinci)",
+          "en": "Leonardo da Vinci"
+        },
+        {
+          "hi": "चार्ल्स डार्विन",
+          "en": "Charles Darwin"
+        },
+        {
+          "hi": "रॉबर्ट हुक",
+          "en": "Robert Hooke"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में बीरबल साहनी पुरावनस्पति विज्ञान संस्थान (BSIP) कहाँ स्थित है?",
+        "en": "Where is the Birbal Sahni Institute of Palaeosciences (BSIP) located in India?"
+      },
+      "o": [
+        {
+          "hi": "देहरादून (उत्तराखंड)",
+          "en": "Dehradun (Uttarakhand)"
+        },
+        {
+          "hi": "लखनऊ (उत्तर प्रदेश)",
+          "en": "Lucknow (Uttar Pradesh)"
+        },
+        {
+          "hi": "कोलकाता (पश्चिम बंगाल)",
+          "en": "Kolkata (West Bengal)"
+        },
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जीवाश्मों का अध्ययन जीव विज्ञान की किस विशिष्ट शाखा के अंतर्गत किया जाता है?",
+        "en": "Under which scientific branch is the study of fossils and prehistoric life conducted?"
+      },
+      "o": [
+        {
+          "hi": "इकोलॉजी / पारिस्थितिकी (Ecology)",
+          "en": "Ecology"
+        },
+        {
+          "hi": "एथोलॉजी / जंतु व्यवहारिकी (Ethology)",
+          "en": "Ethology"
+        },
+        {
+          "hi": "पैलियोन्टोलॉजी / जीवाश्म विज्ञान (Palaeontology)",
+          "en": "Palaeontology"
+        },
+        {
+          "hi": "मॉर्फोलॉजी / आकारिकी (Morphology)",
+          "en": "Morphology"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जीवन की उत्पत्ति (Origin of Life) के रासायनिक विकासवाद का सिद्धांत 1924 में किसने दिया?",
+        "en": "Who proposed the biochemical origin of life theory ('The Origin of Life', 1924)?"
+      },
+      "o": [
+        {
+          "hi": "स्टैनली मिलर और हेरोल्ड उरे",
+          "en": "Stanley Miller and Harold Urey"
+        },
+        {
+          "hi": "लुई पाश्चर",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "फ्रांसेस्को रेडी",
+          "en": "Francesco Redi"
+        },
+        {
+          "hi": "ए.आई. ओपेरिन (A.I. Oparin - रूस) तथा जे.बी.एस. हाल्डेन",
+          "en": "A.I. Oparin and J.B.S. Haldane"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1953 में प्रयोगशाला में आदिम पृथ्वी जैसी परिस्थितियों में अमीनो एसिड किसने संश्लेषित किए?",
+        "en": "Who demonstrated the laboratory synthesis of amino acids under prebiotic conditions in 1953?"
+      },
+      "o": [
+        {
+          "hi": "स्टैनली मिलर और हेरोल्ड उरे (Miller-Urey Experiment)",
+          "en": "Stanley Miller and Harold Urey"
+        },
+        {
+          "hi": "ओपेरिन और हाल्डेन",
+          "en": "Oparin and Haldane"
+        },
+        {
+          "hi": "वाटसन और क्रिक",
+          "en": "Watson and Crick"
+        },
+        {
+          "hi": "मेसेलसन और स्टाल",
+          "en": "Meselson and Stahl"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मिलर-उरे के प्रयोग में किन गैसों के मिश्रण में विद्युत चिंगारी दी गई थी?",
+        "en": "In the Miller-Urey experiment, which gases were sparked in a closed flask?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सीजन, नाइट्रोजन और कार्बन डाइऑक्साइड",
+          "en": "O2, N2 and CO2"
+        },
+        {
+          "hi": "मीथेन (CH4), अमोनिया (NH3), हाइड्रोजन (H2) और जलवाष्प (H2O)",
+          "en": "CH4, NH3, H2 and Water Vapour"
+        },
+        {
+          "hi": "कार्बन मोनोऑक्साइड, सल्फर और हीलियम",
+          "en": "CO, SO2 and He"
+        },
+        {
+          "hi": "नाइट्रोजन, ओजोन और क्लोरीन",
+          "en": "N2, O3 and Cl2"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

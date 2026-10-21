@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - जीव विज्ञान (Biology)",
+  "subtitle": "प्रमुख चिकित्सा उपकरण",
+  "description": "प्रमुख चिकित्सा उपकरण पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "हृदय तथा फेफड़ों की आवाज सुनने के लिए चिकित्सक किस उपकरण का उपयोग करते हैं?",
+        "en": "Which acoustic diagnostic instrument is used by medical practitioners to listen to heart and lung sounds?"
+      },
+      "o": [
+        {
+          "hi": "स्टेथोस्कोप (Stethoscope)",
+          "en": "Stethoscope"
+        },
+        {
+          "hi": "स्फिग्मोमैनोमीटर (Sphygmomanometer)",
+          "en": "Sphygmomanometer"
+        },
+        {
+          "hi": "स्पाइरोमीटर (Spirometer)",
+          "en": "Spirometer"
+        },
+        {
+          "hi": "ओटोस्कोप (Otoscope)",
+          "en": "Otoscope"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रक्तचाप (Blood Pressure) मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+        "en": "Which instrument is used in clinical medicine to measure arterial blood pressure?"
+      },
+      "o": [
+        {
+          "hi": "मैनोमीटर (Manometer)",
+          "en": "Manometer"
+        },
+        {
+          "hi": "स्फिग्मोमैनोमीटर (Sphygmomanometer / बीपी मशीन)",
+          "en": "Sphygmomanometer (BP Machine)"
+        },
+        {
+          "hi": "बैरोमीटर (Barometer)",
+          "en": "Barometer"
+        },
+        {
+          "hi": "हाइग्रोमीटर (Hygrometer)",
+          "en": "Hygrometer"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हृदय की धड़कन और विद्युत गतिविधि को आलेखीय रूप में रिकॉर्ड करने वाला उपकरण कौन-सा है?",
+        "en": "Which instrument records the electrical activity of the heart over a period of time?"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रोएन्सेफेलोग्राफ / ईईजी (EEG)",
+          "en": "Electroencephalograph (EEG)"
+        },
+        {
+          "hi": "इलेक्ट्रोमायोग्राफ / ईएमजी (EMG)",
+          "en": "Electromyograph (EMG)"
+        },
+        {
+          "hi": "इलेक्ट्रोकार्डियोग्राफ / ईसीजी (Electrocardiograph - ECG)",
+          "en": "Electrocardiograph (ECG)"
+        },
+        {
+          "hi": "पेसमेकर (Pacemaker)",
+          "en": "Pacemaker"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मस्तिष्क की विद्युत तरंगों और तंत्रिका गतिविधि को मापने वाला उपकरण कौन-सा है?",
+        "en": "Which diagnostic device measures and records the macroscopic electrical activity of the brain?"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रोकार्डियोग्राफ (ECG)",
+          "en": "Electrocardiograph (ECG)"
+        },
+        {
+          "hi": "ऑडियोमीटर (Audiometer)",
+          "en": "Audiometer"
+        },
+        {
+          "hi": "एंडोस्कोप (Endoscope)",
+          "en": "Endoscope"
+        },
+        {
+          "hi": "इलेक्ट्रोएन्सेफेलोग्राफ / ईईजी (EEG)",
+          "en": "Electroencephalograph (EEG)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कंकाल पेशियों (Skeletal Muscles) की विद्युत गतिविधि और कार्यप्रणाली मापने वाला उपकरण कौन-सा है?",
+        "en": "Which diagnostic electrodiagnostic technique evaluates electrical activity produced by skeletal muscles?"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रोमायोग्राफी / ईएमजी (Electromyography - EMG)",
+          "en": "Electromyography (EMG)"
+        },
+        {
+          "hi": "ईसीजी (ECG)",
+          "en": "ECG"
+        },
+        {
+          "hi": "ईईजी (EEG)",
+          "en": "EEG"
+        },
+        {
+          "hi": "पल्स ऑक्सीमीटर",
+          "en": "Pulse Oximeter"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गुर्दे (Kidney) खराब हो जाने पर रक्त से यूरिया और विषैले पदार्थों को छानने वाली मशीन क्या कहलाती है?",
+        "en": "What is the medical device / artificial kidney that filters urea and toxins from blood in renal failure?"
+      },
+      "o": [
+        {
+          "hi": "पेसमेकर (Pacemaker)",
+          "en": "Pacemaker"
+        },
+        {
+          "hi": "डायलिसिस मशीन / हेमोडायलाइजर (Dialysis Machine)",
+          "en": "Dialysis Machine / Hemodialyzer"
+        },
+        {
+          "hi": "वेंटिलेटर (Ventilator)",
+          "en": "Ventilator"
+        },
+        {
+          "hi": "डीफाइब्रिलेटर (Defibrillator)",
+          "en": "Defibrillator"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हृदय की गति मंद पड़ने या अनियमित होने पर छाती में प्रत्यारोपित किया जाने वाला उपकरण कौन-सा है?",
+        "en": "Which surgically implanted electronic device maintains regular heart contractions during bradycardia?"
+      },
+      "o": [
+        {
+          "hi": "स्टेंट (Stent)",
+          "en": "Stent"
+        },
+        {
+          "hi": "कैथेटर (Catheter)",
+          "en": "Catheter"
+        },
+        {
+          "hi": "कृत्रिम पेसमेकर (Artificial Pacemaker)",
+          "en": "Artificial Pacemaker"
+        },
+        {
+          "hi": "डायलाइजर (Dialyzer)",
+          "en": "Dialyzer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शरीर के आंतरिक खोखले अंगों (जैसे अमाशय, आंत) की आंतरिक जांच करने वाला प्रकाशिक उपकरण कौन-सा है?",
+        "en": "Which optical medical instrument using fiber-optic cables visually inspects internal hollow organs?"
+      },
+      "o": [
+        {
+          "hi": "माइक्रोस्कोप (Microscope)",
+          "en": "Microscope"
+        },
+        {
+          "hi": "पेरिस्कोप (Periscope)",
+          "en": "Periscope"
+        },
+        {
+          "hi": "टेलीस्कोप (Telescope)",
+          "en": "Telescope"
+        },
+        {
+          "hi": "एंडोस्कोप (Endoscope - पूर्ण आंतरिक परावर्तन आधारित)",
+          "en": "Endoscope (Based on TIR)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पेट की न्यूनतम चीरे वाली सर्जरी (Keyhole Surgery) में किस उपकरण का प्रयोग किया जाता है?",
+        "en": "Which surgical instrument is inserted through miniature incisions in the abdomen during minimally invasive surgery?"
+      },
+      "o": [
+        {
+          "hi": "लेप्रोस्कोप (Laparoscope)",
+          "en": "Laparoscope"
+        },
+        {
+          "hi": "ब्रोंकोस्कोप (Bronchoscope)",
+          "en": "Bronchoscope"
+        },
+        {
+          "hi": "ऑप्टोमीटर (Optometer)",
+          "en": "Optometer"
+        },
+        {
+          "hi": "सिस्टोस्कोप (Cystoscope)",
+          "en": "Cystoscope"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फेफड़ों की वायु नलिकाओं (श्वसनी) की जांच करने वाला चिकित्सीय उपकरण कौन-सा है?",
+        "en": "Which endoscopic device is inserted through the nose or mouth to view the airways of the lungs?"
+      },
+      "o": [
+        {
+          "hi": "लेप्रोस्कोप (Laparoscope)",
+          "en": "Laparoscope"
+        },
+        {
+          "hi": "ब्रोंकोस्कोप (Bronchoscope)",
+          "en": "Bronchoscope"
+        },
+        {
+          "hi": "गैस्ट्रोस्कोप (Gastroscope)",
+          "en": "Gastroscope"
+        },
+        {
+          "hi": "कोलोनोस्कोप (Colonoscope)",
+          "en": "Colonoscope"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बड़ी आंत और मलाशय (Colon & Rectum) की आंतरिक जांच करने वाला उपकरण क्या कहलाता है?",
+        "en": "What is the flexible illuminated tube used to examine the interior of the large intestine called?"
+      },
+      "o": [
+        {
+          "hi": "एंडोस्कोप (Endoscope)",
+          "en": "Endoscope"
+        },
+        {
+          "hi": "सिस्टोस्कोप (Cystoscope)",
+          "en": "Cystoscope"
+        },
+        {
+          "hi": "कोलोनोस्कोप (Colonoscope)",
+          "en": "Colonoscope"
+        },
+        {
+          "hi": "आर्थ्रोस्कोप (Arthroscrope)",
+          "en": "Arthroscope"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जोड़ों (Joints - जैसे घुटना) के आंतरिक भागों की जांच और सर्जरी करने वाला उपकरण कौन-सा है?",
+        "en": "Which specialized endoscopic instrument examines and repairs the interior of a synovial joint?"
+      },
+      "o": [
+        {
+          "hi": "ओटोस्कोप (Otoscope)",
+          "en": "Otoscope"
+        },
+        {
+          "hi": "ऑप्थैल्मोस्कोप",
+          "en": "Ophthalmoscope"
+        },
+        {
+          "hi": "लेप्रोस्कोप",
+          "en": "Laparoscope"
+        },
+        {
+          "hi": "आर्थ्रोस्कोप (Arthroscope)",
+          "en": "Arthroscope"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कान के पर्दे (Tympanic Membrane) और बाह्य श्रवण नलिका की जांच करने वाला उपकरण कौन-सा है?",
+        "en": "Which handheld medical device equipped with light and magnifying lens inspects the eardrum and ear canal?"
+      },
+      "o": [
+        {
+          "hi": "ओटोस्कोप (Otoscope)",
+          "en": "Otoscope"
+        },
+        {
+          "hi": "ऑप्थैल्मोस्कोप (Ophthalmoscope)",
+          "en": "Ophthalmoscope"
+        },
+        {
+          "hi": "राइनोस्कोप (Rhinoscope)",
+          "en": "Rhinoscope"
+        },
+        {
+          "hi": "लैरिंजोस्कोप (Laryngoscope)",
+          "en": "Laryngoscope"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नेत्र चिकित्सक द्वारा आंख की पुतली और रेटिना का आंतरिक परीक्षण करने वाला उपकरण कौन-सा है?",
+        "en": "Which handheld illuminated instrument is used by eye specialists to inspect the fundus and retina of the eye?"
+      },
+      "o": [
+        {
+          "hi": "ओटोस्कोप (Otoscope)",
+          "en": "Otoscope"
+        },
+        {
+          "hi": "ऑप्थैल्मोस्कोप (Ophthalmoscope)",
+          "en": "Ophthalmoscope"
+        },
+        {
+          "hi": "पेरिमीटर (Perimeter)",
+          "en": "Perimeter"
+        },
+        {
+          "hi": "टोनोमीटर (Tonometer)",
+          "en": "Tonometer"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आंख के भीतर का अंतःनेत्र दाब (Intraocular Pressure / ग्लूकोमा जांच) मापने वाला उपकरण कौन-सा है?",
+        "en": "Which instrument measures fluid pressure inside the eye to evaluate for Glaucoma?"
+      },
+      "o": [
+        {
+          "hi": "ऑप्थैल्मोस्कोप",
+          "en": "Ophthalmoscope"
+        },
+        {
+          "hi": "रिफ्रैक्टोमीटर",
+          "en": "Refractometer"
+        },
+        {
+          "hi": "टोनोमीटर (Tonometer)",
+          "en": "Tonometer"
+        },
+        {
+          "hi": "केराटोमीटर",
+          "en": "Keratometer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कंप्यूटेड टोमोग्राफी (CT Scan) में शरीर की 3D छवियां प्राप्त करने के लिए किन किरणों का उपयोग होता है?",
+        "en": "Computed Tomography (CT Scan) utilizes which electromagnetic radiation to create cross-sectional slices?"
+      },
+      "o": [
+        {
+          "hi": "चुंबकीय तरंगें और रेडियो तरंगें",
+          "en": "Magnetic and Radio Waves"
+        },
+        {
+          "hi": "अल्ट्रासाउंड ध्वनि तरंगें",
+          "en": "Ultrasound Waves"
+        },
+        {
+          "hi": "गामा किरणें (Gamma Rays)",
+          "en": "Gamma Rays"
+        },
+        {
+          "hi": "एक्स-किरणें (X-Rays)",
+          "en": "X-Rays"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एमआरआई (MRI - Magnetic Resonance Imaging) मशीन में किनका उपयोग किया जाता है?",
+        "en": "What physical agents does Magnetic Resonance Imaging (MRI) utilize to construct soft-tissue images?"
+      },
+      "o": [
+        {
+          "hi": "शक्तिशाली चुंबकीय क्षेत्र और रेडियो तरंगें (कोई हानिकारक विकिरण नहीं)",
+          "en": "Strong Magnetic Fields and Radio Waves (No ionizing radiation)"
+        },
+        {
+          "hi": "तीव्र एक्स-किरणें",
+          "en": "Intense X-Rays"
+        },
+        {
+          "hi": "गामा विकिरण और अल्फा कण",
+          "en": "Gamma Rays and Alpha Particles"
+        },
+        {
+          "hi": "उच्च तीव्रता वाली पराबैंगनी किरणें",
+          "en": "Ultraviolet Radiation"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सोनोग्राफी / अल्ट्रासाउंड (USG) में किन तरंगों का उपयोग आंतरिक अंगों और भ्रूण की जांच में होता है?",
+        "en": "Medical diagnostic Ultrasound (Sonography) employs which sound waves (>20 kHz)?"
+      },
+      "o": [
+        {
+          "hi": "अवश्रव्य तरंगें (Infrasonic Waves)",
+          "en": "Infrasonic Waves"
+        },
+        {
+          "hi": "पराश्रव्य ध्वनि तरंगें (Ultrasonic Sound Waves)",
+          "en": "Ultrasonic Sound Waves"
+        },
+        {
+          "hi": "श्रव्य ध्वनि तरंगें (Audible Waves)",
+          "en": "Audible Sound Waves"
+        },
+        {
+          "hi": "विद्युत चुंबकीय तरंगें",
+          "en": "Electromagnetic Waves"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रक्त में ऑक्सीजन संतृप्ति (SpO2) और नाड़ी की दर (Pulse Rate) को बिना चीरा लगाए मापने वाला उपकरण कौन-सा है?",
+        "en": "Which non-invasive fingertip device continuously monitors arterial blood oxygen saturation (SpO2) and pulse?"
+      },
+      "o": [
+        {
+          "hi": "ग्लूकोमीटर (Glucometer)",
+          "en": "Glucometer"
+        },
+        {
+          "hi": "थर्मामीटर (Thermometer)",
+          "en": "Thermometer"
+        },
+        {
+          "hi": "पल्स ऑक्सीमीटर (Pulse Oximeter)",
+          "en": "Pulse Oximeter"
+        },
+        {
+          "hi": "स्फिग्मोमैनोमीटर",
+          "en": "Sphygmomanometer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गंभीर श्वसन विफलता वाले रोगियों को कृत्रिम रूप से सांस देने वाली जीवन रक्षक मशीन कौन-सी है?",
+        "en": "Which mechanical medical apparatus assists or replaces spontaneous breathing in critical care patients?"
+      },
+      "o": [
+        {
+          "hi": "नेबुलाइजर (Nebulizer)",
+          "en": "Nebulizer"
+        },
+        {
+          "hi": "ऑक्सीजन कंसंट्रेटर",
+          "en": "Oxygen Concentrator"
+        },
+        {
+          "hi": "सक्शन मशीन",
+          "en": "Suction Machine"
+        },
+        {
+          "hi": "वेंटिलेटर (Ventilator / कृत्रिम श्वसन यंत्र)",
+          "en": "Mechanical Ventilator"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अस्थमा और फेफड़ों के रोगियों को तरल दवा को भाप/धुंध (Aerosol Mist) बनाकर देने वाला उपकरण कौन-सा है?",
+        "en": "Which device transforms liquid respiratory medication into a fine inhalable aerosol mist?"
+      },
+      "o": [
+        {
+          "hi": "नेबुलाइजर (Nebulizer)",
+          "en": "Nebulizer"
+        },
+        {
+          "hi": "वेंटिलेटर (Ventilator)",
+          "en": "Ventilator"
+        },
+        {
+          "hi": "स्पाइरोमीटर (Spirometer)",
+          "en": "Spirometer"
+        },
+        {
+          "hi": "इन्हेलर (Inhaler)",
+          "en": "Inhaler"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फेफड़ों की वायु धारिता (Lung Volumes and Capacities) मापने वाले यंत्र को क्या कहते हैं?",
+        "en": "What is the respiratory diagnostic instrument used to measure pulmonary air capacity and airflow called?"
+      },
+      "o": [
+        {
+          "hi": "स्फिग्मोमैनोमीटर",
+          "en": "Sphygmomanometer"
+        },
+        {
+          "hi": "स्पाइरोमीटर (Spirometer)",
+          "en": "Spirometer"
+        },
+        {
+          "hi": "पोटोमीटर (Potometer)",
+          "en": "Potometer"
+        },
+        {
+          "hi": "मैनोमीटर (Manometer)",
+          "en": "Manometer"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कार्डियक अरेस्ट (हृदय की धड़कन रुकने) पर बिजली का तेज झटका देकर हृदय चालू करने वाला उपकरण कौन-सा है?",
+        "en": "Which emergency device delivers a controlled electric shock to restore normal rhythm during cardiac arrest?"
+      },
+      "o": [
+        {
+          "hi": "पेसमेकर (Pacemaker)",
+          "en": "Pacemaker"
+        },
+        {
+          "hi": "ईसीजी मशीन (ECG)",
+          "en": "ECG Machine"
+        },
+        {
+          "hi": "डीफाइब्रिलेटर (Defibrillator / AED)",
+          "en": "Defibrillator (AED)"
+        },
+        {
+          "hi": "सक्शन पंप",
+          "en": "Suction Pump"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "डायबिटीज (मधुमेह) के मरीज घर पर ही रक्त शर्करा स्तर किस छोटे डिजिटल उपकरण से मापते हैं?",
+        "en": "Which portable electronic device is routinely used by diabetic patients to self-monitor blood sugar levels?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सीमीटर (Oximeter)",
+          "en": "Oximeter"
+        },
+        {
+          "hi": "थर्मामीटर (Thermometer)",
+          "en": "Thermometer"
+        },
+        {
+          "hi": "ऑटोएनालाइजर (Autoanalyzer)",
+          "en": "Autoanalyzer"
+        },
+        {
+          "hi": "ग्लूकोमीटर (Glucometer)",
+          "en": "Glucometer"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रक्त सीरम में यूरिया, क्रिएटिनिन, ग्लूकोज, कोलेस्ट्रॉल और एंजाइमों का स्वचालित रासायनिक परीक्षण कौन करता है?",
+        "en": "Which automated clinical laboratory machine performs multi-parameter biochemical analyses on blood serum?"
+      },
+      "o": [
+        {
+          "hi": "ऑटोएनालाइजर (Autoanalyzer / बायोकेमिस्ट्री एनालाइजर)",
+          "en": "Biochemistry Autoanalyzer"
+        },
+        {
+          "hi": "सेंट्रीफ्यूज (Centrifuge)",
+          "en": "Centrifuge Machine"
+        },
+        {
+          "hi": "इंक्यूबेटर (Incubator)",
+          "en": "Incubator"
+        },
+        {
+          "hi": "कलरीमीटर (Colorimeter)",
+          "en": "Colorimeter"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रक्त के विभिन्न घटकों (प्लाज्मा, आरबीसी, प्लेटलेट्स) को अलग करने वाली तीव्र घूर्णन मशीन कौन-सी है?",
+        "en": "Which laboratory device uses high centrifugal rotational force to separate blood into plasma and cellular fractions?"
+      },
+      "o": [
+        {
+          "hi": "ऑटोएनालाइजर",
+          "en": "Autoanalyzer"
+        },
+        {
+          "hi": "अपकेंद्रित्र / सेंट्रीफ्यूज (Centrifuge Machine)",
+          "en": "Centrifuge Machine"
+        },
+        {
+          "hi": "ऑटोक्लेव (Autoclave)",
+          "en": "Autoclave"
+        },
+        {
+          "hi": "माइक्रोटोम (Microtome)",
+          "en": "Microtome"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "शल्य चिकित्सा के उपकरणों को उच्च दाब भाप (भाप नसबंदी / 121°C) द्वारा कीटाणुरहित करने वाला उपकरण कौन-सा है?",
+        "en": "Which pressurized steam sterilization machine (121°C) is universally used to sterilize surgical instruments?"
+      },
+      "o": [
+        {
+          "hi": "हॉट एयर ओवन",
+          "en": "Hot Air Oven"
+        },
+        {
+          "hi": "इंक्यूबेटर (Incubator)",
+          "en": "Incubator"
+        },
+        {
+          "hi": "ऑटोक्लेव (Autoclave / प्रेशर स्टरलाइजर)",
+          "en": "Autoclave (Pressure Steam Sterilizer)"
+        },
+        {
+          "hi": "फ्यूमिगेटर",
+          "en": "Fumigator"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समय से पूर्व जन्मे कमजोर नवजात शिशुओं को नियंत्रित तापमान और ऑक्सीजन में रखने वाला उपकरण कौन-सा है?",
+        "en": "Which specialized environmental chamber maintains optimal temperature, humidity, and oxygen for premature infants?"
+      },
+      "o": [
+        {
+          "hi": "रेडिएंट वार्मर",
+          "en": "Radiant Warmer"
+        },
+        {
+          "hi": "ऑटोक्लेव",
+          "en": "Autoclave"
+        },
+        {
+          "hi": "वेंटिलेटर",
+          "en": "Ventilator"
+        },
+        {
+          "hi": "इनक्यूबेटर (Neonatal Incubator)",
+          "en": "Neonatal Incubator"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मनुष्य की श्रवण क्षमता और बहरेपन के स्तर की जांच करने वाला चिकित्सीय उपकरण कौन-सा है?",
+        "en": "Which electroacoustic diagnostic instrument evaluates hearing thresholds across different sound frequencies?"
+      },
+      "o": [
+        {
+          "hi": "ऑडियोमीटर (Audiometer)",
+          "en": "Audiometer"
+        },
+        {
+          "hi": "ओटोस्कोप (Otoscope)",
+          "en": "Otoscope"
+        },
+        {
+          "hi": "सोनोमीटर (Sonometer)",
+          "en": "Sonometer"
+        },
+        {
+          "hi": "फोनोग्राफ (Phonograph)",
+          "en": "Phonograph"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मूत्राशय (Urinary Bladder) की आंतरिक जांच और पथरी हटाने के लिए कौन-सा उपकरण प्रयुक्त होता है?",
+        "en": "Which rigid or flexible endoscope is inserted through the urethra to examine the interior of the urinary bladder?"
+      },
+      "o": [
+        {
+          "hi": "कोलोनोस्कोप (Colonoscope)",
+          "en": "Colonoscope"
+        },
+        {
+          "hi": "सिस्टोस्कोप (Cystoscope)",
+          "en": "Cystoscope"
+        },
+        {
+          "hi": "गैस्ट्रोस्कोप (Gastroscope)",
+          "en": "Gastroscope"
+        },
+        {
+          "hi": "नेफ्रोस्कोप (Nephroscope)",
+          "en": "Nephroscope"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हृदय की धमनियों (Coronary Arteries) में रुकावट को देखने के लिए की जाने वाली एक्स-रे जांच क्या कहलाती है?",
+        "en": "What is the specialized X-ray imaging technique using contrast dye to visualize blockages in coronary arteries called?"
+      },
+      "o": [
+        {
+          "hi": "एंजियोप्लास्टी (उपचार हेतु)",
+          "en": "Angioplasty"
+        },
+        {
+          "hi": "इकोकार्डियोग्राफी (Echocardiography)",
+          "en": "Echocardiography"
+        },
+        {
+          "hi": "कोरोनरी एंजियोग्राफी (Coronary Angiography)",
+          "en": "Coronary Angiography"
+        },
+        {
+          "hi": "ईसीजी (ECG)",
+          "en": "ECG"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हृदय की संकुचित या अवरुद्ध धमनी को खोलने के लिए बैलूनिंग और जालीदार स्प्रिंग डालने की प्रक्रिया क्या कहलाती है?",
+        "en": "What is the minimally invasive catheter procedure to widen narrowed coronary arteries using a balloon and stent called?"
+      },
+      "o": [
+        {
+          "hi": "एंजियोग्राफी (जांच हेतु)",
+          "en": "Angiography"
+        },
+        {
+          "hi": "बायपास सर्जरी (CABG)",
+          "en": "Coronary Bypass Surgery"
+        },
+        {
+          "hi": "पेसमेकर प्रत्यारोपण",
+          "en": "Pacemaker Implantation"
+        },
+        {
+          "hi": "एंजियोप्लास्टी और स्टेंटिंग (Angioplasty & Stenting)",
+          "en": "Angioplasty & Stenting"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अवरुद्ध धमनी के विकल्प के रूप में पैर की नस जोड़कर नया रक्त मार्ग बनाने वाली बड़ी सर्जरी क्या कहलाती है?",
+        "en": "What major cardiac surgery diverts blood around narrowed coronary arteries using grafted vessels?"
+      },
+      "o": [
+        {
+          "hi": "कोरोनरी आर्टरी बाईपास ग्राफ्टिंग (CABG / बाईपास सर्जरी)",
+          "en": "CABG (Coronary Artery Bypass Grafting)"
+        },
+        {
+          "hi": "एंजियोप्लास्टी (Angioplasty)",
+          "en": "Angioplasty"
+        },
+        {
+          "hi": "वॉल्व रिप्लेसमेंट",
+          "en": "Valve Replacement"
+        },
+        {
+          "hi": "पेसमेकर इंसर्शन",
+          "en": "Pacemaker Insertion"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अल्ट्रासाउंड तरंगों द्वारा हृदय की संरचना और वाल्वों की कार्यप्रणाली की वास्तविक समय जांच क्या कहलाती है?",
+        "en": "What is ultrasound imaging of the heart to examine cardiac chambers, walls, and valves called?"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रोकार्डियोग्राम (ईसीजी)",
+          "en": "Electrocardiogram (ECG)"
+        },
+        {
+          "hi": "इकोकार्डियोग्राफी / इको (Echocardiography - ECHO)",
+          "en": "Echocardiography (ECHO)"
+        },
+        {
+          "hi": "एंजियोग्राफी",
+          "en": "Angiography"
+        },
+        {
+          "hi": "होल्टर मॉनिटरिंग",
+          "en": "Holter Monitoring"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "24 से 48 घंटे तक रोगी के शरीर पर लगाकर हृदय की धड़कन लगातार रिकॉर्ड करने वाला पोर्टेबल उपकरण क्या कहलाता है?",
+        "en": "What is the wearable portable battery-operated device that continuously monitors ECG over 24-48 hours called?"
+      },
+      "o": [
+        {
+          "hi": "पल्स ऑक्सीमीटर",
+          "en": "Pulse Oximeter"
+        },
+        {
+          "hi": "पेसमेकर",
+          "en": "Pacemaker"
+        },
+        {
+          "hi": "होल्टर मॉनिटर (Holter Monitor)",
+          "en": "Holter Monitor"
+        },
+        {
+          "hi": "इको मशीन",
+          "en": "ECHO Machine"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कैंसर ट्यूमर के उपापचय (Metabolism) और फैलाव की जांच हेतु प्रयुक्त आधुनिक परमाणु इमेजिंग कौन-सी है?",
+        "en": "Which nuclear medicine imaging technique using radioactive fluorodeoxyglucose (FDG) detects metabolic activity of cancer?"
+      },
+      "o": [
+        {
+          "hi": "सीटी स्कैन (CT Scan)",
+          "en": "CT Scan"
+        },
+        {
+          "hi": "एमआरआई (MRI)",
+          "en": "MRI"
+        },
+        {
+          "hi": "सोनोग्राफी (USG)",
+          "en": "Sonography"
+        },
+        {
+          "hi": "पीईटी स्कैन (PET Scan - Positron Emission Tomography)",
+          "en": "PET Scan (Positron Emission Tomography)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्तन कैंसर (Breast Cancer) की प्रारंभिक जांच हेतु कम खुराक वाले विशेष एक्स-रे उपकरण को क्या कहते हैं?",
+        "en": "Which low-dose specialized X-ray screening machine detects early-stage breast cancer?"
+      },
+      "o": [
+        {
+          "hi": "मैमोग्राफी मशीन (Mammography Machine)",
+          "en": "Mammography Machine"
+        },
+        {
+          "hi": "सोनोग्राफी मशीन",
+          "en": "Sonography Machine"
+        },
+        {
+          "hi": "फ्लोरोस्कोपी मशीन",
+          "en": "Fluoroscopy Machine"
+        },
+        {
+          "hi": "डेक्सा स्कैन (DEXA Scan)",
+          "en": "DEXA Scan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हड्डियों के घनत्व और ऑस्टियोपोरोसिस (अस्थि सुषिरता) की सटीक जांच करने वाला स्कैन कौन-सा है?",
+        "en": "Which dual-energy X-ray absorptiometry scan precisely evaluates bone mineral density (BMD)?"
+      },
+      "o": [
+        {
+          "hi": "सीटी स्कैन",
+          "en": "CT Scan"
+        },
+        {
+          "hi": "डेक्सा स्कैन (DEXA Scan / DXA)",
+          "en": "DEXA Scan (DXA)"
+        },
+        {
+          "hi": "मैमोग्राफी",
+          "en": "Mammography"
+        },
+        {
+          "hi": "एमआरआई",
+          "en": "MRI"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नेत्र विज्ञान में कॉर्निया (स्वच्छ पटल) की वक्रता और अपवर्तक दोष मापने वाला उपकरण कौन-सा है?",
+        "en": "Which ophthalmic instrument measures the curvature of the anterior surface of the cornea (astigmatism)?"
+      },
+      "o": [
+        {
+          "hi": "टोनोमीटर (Tonometer)",
+          "en": "Tonometer"
+        },
+        {
+          "hi": "ऑप्थैल्मोस्कोप",
+          "en": "Ophthalmoscope"
+        },
+        {
+          "hi": "केराटोमीटर / ऑप्थोमोमीटर (Keratometer)",
+          "en": "Keratometer"
+        },
+        {
+          "hi": "ऑटोरेफ्रैक्टर",
+          "en": "Autorefractor"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्वरयंत्र (Larynx / वोकल कॉर्ड) और गले के आंतरिक भाग की जांच करने वाला उपकरण कौन-सा है?",
+        "en": "Which medical instrument is used by laryngologists and anesthetists to view the larynx and vocal cords?"
+      },
+      "o": [
+        {
+          "hi": "ब्रोंकोस्कोप",
+          "en": "Bronchoscope"
+        },
+        {
+          "hi": "ओटोस्कोप",
+          "en": "Otoscope"
+        },
+        {
+          "hi": "राइनोस्कोप",
+          "en": "Rhinoscope"
+        },
+        {
+          "hi": "लैरिंजोस्कोप (Laryngoscope)",
+          "en": "Laryngoscope"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नाक की गुहा और नासा मार्ग की आंतरिक जांच करने वाला उपकरण क्या कहलाता है?",
+        "en": "What is the medical diagnostic tool used to examine the interior of nasal passages called?"
+      },
+      "o": [
+        {
+          "hi": "राइनोस्कोप (Rhinoscope)",
+          "en": "Rhinoscope"
+        },
+        {
+          "hi": "ओटोस्कोप (Otoscope)",
+          "en": "Otoscope"
+        },
+        {
+          "hi": "लैरिंजोस्कोप (Laryngoscope)",
+          "en": "Laryngoscope"
+        },
+        {
+          "hi": "एंडोस्कोप (Endoscope)",
+          "en": "Endoscope"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शल्य चिकित्सा में सूक्ष्म ऊतकों को अत्यंत महीन स्लाइस (Sections) में काटने वाला यंत्र क्या कहलाता है?",
+        "en": "Which precision instrument in histology laboratories slices biological tissue into microscopic thin sections?"
+      },
+      "o": [
+        {
+          "hi": "सेंट्रीफ्यूज (Centrifuge)",
+          "en": "Centrifuge"
+        },
+        {
+          "hi": "माइक्रोटोम (Microtome)",
+          "en": "Microtome"
+        },
+        {
+          "hi": "ऑटोक्लेव (Autoclave)",
+          "en": "Autoclave"
+        },
+        {
+          "hi": "ऑटोएनालाइजर",
+          "en": "Autoanalyzer"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रक्त वाहिकाओं के भीतर तरल और दवाओं को अत्यंत सटीक गति और दर से चढ़ाने वाला उपकरण कौन-सा है?",
+        "en": "Which automated medical electronic device delivers precise dosages of intravenous fluids and medications?"
+      },
+      "o": [
+        {
+          "hi": "सक्शन पंप",
+          "en": "Suction Pump"
+        },
+        {
+          "hi": "डायलिसिस मशीन",
+          "en": "Dialysis Machine"
+        },
+        {
+          "hi": "इन्फ्यूजन पंप / सिरिंज पंप (Infusion Pump)",
+          "en": "Infusion Pump / Syringe Pump"
+        },
+        {
+          "hi": "नेबुलाइजर",
+          "en": "Nebulizer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शल्य चिकित्सा के दौरान रोगी के शरीर से रक्त, बलगम और तरल पदार्थों को बाहर खींचने वाला उपकरण कौन-सा है?",
+        "en": "Which vacuum device removes blood, secretions, saliva, and mucus from a surgical field or airway?"
+      },
+      "o": [
+        {
+          "hi": "इन्फ्यूजन पंप",
+          "en": "Infusion Pump"
+        },
+        {
+          "hi": "वेंटिलेटर",
+          "en": "Ventilator"
+        },
+        {
+          "hi": "ऑक्सीजन कंसंट्रेटर",
+          "en": "Oxygen Concentrator"
+        },
+        {
+          "hi": "सक्शन मशीन / एस्पिरेटर (Suction Apparatus)",
+          "en": "Suction Machine / Aspirator"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वातावरण की वायु से नाइट्रोजन को हटाकर 90-95% शुद्ध ऑक्सीजन देने वाला पोर्टेबल उपकरण क्या कहलाता है?",
+        "en": "Which electrically operated machine extracts nitrogen from ambient air to supply continuous concentrated oxygen?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सीजन कंसंट्रेटर (Oxygen Concentrator)",
+          "en": "Oxygen Concentrator"
+        },
+        {
+          "hi": "ऑक्सीजन सिलेंडर",
+          "en": "Oxygen Cylinder"
+        },
+        {
+          "hi": "वेंटिलेटर",
+          "en": "Ventilator"
+        },
+        {
+          "hi": "नेबुलाइजर",
+          "en": "Nebulizer"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बायोप्सी या ऊतक संवर्धन में जीवाणुओं व कोशिकाओं को विशिष्ट तापमान पर उगाने वाला उपकरण कौन-सा है?",
+        "en": "Which temperature-controlled laboratory chamber provides controlled conditions for culturing microorganisms?"
+      },
+      "o": [
+        {
+          "hi": "ऑटोक्लेव",
+          "en": "Autoclave"
+        },
+        {
+          "hi": "इंक्यूबेटर (Bacteriological Incubator)",
+          "en": "Bacteriological Incubator"
+        },
+        {
+          "hi": "हॉट एयर ओवन",
+          "en": "Hot Air Oven"
+        },
+        {
+          "hi": "लेमिनार फ्लो हुड",
+          "en": "Laminar Airflow"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आंख की पुतली की जांच के लिए नेत्र विशेषज्ञ किस प्रकाशिक उपकरण (Slit Lamp) का उपयोग करते हैं?",
+        "en": "Which high-intensity biomicroscope examines the anterior structures of the eye under magnified illumination?"
+      },
+      "o": [
+        {
+          "hi": "ऑप्थैल्मोस्कोप",
+          "en": "Ophthalmoscope"
+        },
+        {
+          "hi": "केराटोमीटर",
+          "en": "Keratometer"
+        },
+        {
+          "hi": "स्लिट लैंप बायोमाइक्रोस्कोप (Slit Lamp)",
+          "en": "Slit Lamp Biomicroscope"
+        },
+        {
+          "hi": "टोनोमीटर",
+          "en": "Tonometer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हृदय की धमनियों में रुकावट (Coronary Artery Disease) की जांच हेतु ट्रेडमिल पर दौड़ने वाला टेस्ट कौन-सा है?",
+        "en": "Which diagnostic cardiovascular stress test involves walking/running on an exercise treadmill with continuous ECG?"
+      },
+      "o": [
+        {
+          "hi": "ईसीजी टेस्ट",
+          "en": "Resting ECG"
+        },
+        {
+          "hi": "इको टेस्ट",
+          "en": "Echocardiogram"
+        },
+        {
+          "hi": "एंजियोग्राफी",
+          "en": "Angiography"
+        },
+        {
+          "hi": "ट्रेडमिल टेस्ट / टीएमटी (TMT - Treadmill Test)",
+          "en": "TMT (Treadmill Stress Test)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गुर्दे की पथरी को बिना चीरा लगाए पराश्रव्य तरंगों (Shockwaves) से चूरा करने की तकनीक क्या कहलाती है?",
+        "en": "Which non-invasive procedure uses acoustic shock waves to pulverize kidney stones into passable gravel?"
+      },
+      "o": [
+        {
+          "hi": "लिथोट्रिप्सी (ESWL - Extracorporeal Shock Wave Lithotripsy)",
+          "en": "Extracorporeal Shock Wave Lithotripsy (ESWL)"
+        },
+        {
+          "hi": "डायलिसिस (Dialysis)",
+          "en": "Dialysis"
+        },
+        {
+          "hi": "लेप्रोस्कोपी (Laparoscopy)",
+          "en": "Laparoscopy"
+        },
+        {
+          "hi": "बायोप्सी (Biopsy)",
+          "en": "Biopsy"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शिशुओं में पीलिया (Neonatal Jaundice) के उपचार हेतु किस उपकरण का उपयोग किया जाता है?",
+        "en": "Which therapeutic medical light device converts unconjugated bilirubin in newborns with neonatal jaundice?"
+      },
+      "o": [
+        {
+          "hi": "रेडिएंट वार्मर",
+          "en": "Radiant Warmer"
+        },
+        {
+          "hi": "फोटोथेरेपी यूनिट (Phototherapy Unit - नीली रोशनी)",
+          "en": "Phototherapy Unit (Blue Light Therapy)"
+        },
+        {
+          "hi": "इनक्यूबेटर",
+          "en": "Incubator"
+        },
+        {
+          "hi": "अल्ट्रासाउंड मशीन",
+          "en": "Ultrasound Machine"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

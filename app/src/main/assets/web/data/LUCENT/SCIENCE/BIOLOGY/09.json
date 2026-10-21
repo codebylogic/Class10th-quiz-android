@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - जीव विज्ञान (Biology)",
+  "subtitle": "पोषण",
+  "description": "पोषण पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "हरे पौधे अपना भोजन स्वयं बनाते हैं, इसलिए उन्हें किस प्रकार का पोषणकारी कहा जाता है?",
+        "en": "Green plants manufacture their own organic food; hence their mode of nutrition is termed:"
+      },
+      "o": [
+        {
+          "hi": "स्वपोषी / ऑटोट्रॉफिक (Autotrophic Nutrition)",
+          "en": "Autotrophic Nutrition"
+        },
+        {
+          "hi": "परपोषी / हेटरोट्रॉफिक (Heterotrophic)",
+          "en": "Heterotrophic Nutrition"
+        },
+        {
+          "hi": "मृतोपजीवी / सैप्रोफाइटिक (Saprophytic)",
+          "en": "Saprophytic Nutrition"
+        },
+        {
+          "hi": "परजीवी / पैरासिटिक (Parasitic)",
+          "en": "Parasitic Nutrition"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सड़े-गले कार्बनिक पदार्थों से तरल रूप में भोजन अवशोषित करने वाले जीव (जैसे कवक) क्या कहलाते हैं?",
+        "en": "Organisms (like fungi/bread mould) that absorb soluble nutrients from decaying matter are:"
+      },
+      "o": [
+        {
+          "hi": "परजीवी (Parasites)",
+          "en": "Parasites"
+        },
+        {
+          "hi": "मृतोपजीवी (Saprophytes)",
+          "en": "Saprophytes"
+        },
+        {
+          "hi": "स्वपोषी (Autotrophs)",
+          "en": "Autotrophs"
+        },
+        {
+          "hi": "प्राणीसमभोजी (Holozoic)",
+          "en": "Holozoic"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अमरबेल (Cuscuta) किस प्रकार के पोषण का उत्कृष्ट उदाहरण है?",
+        "en": "The yellow non-chlorophyllous vine Cuscuta (Dodder) is a classic example of:"
+      },
+      "o": [
+        {
+          "hi": "मृतोपजीवी (Saprophyte)",
+          "en": "Saprophyte"
+        },
+        {
+          "hi": "कीटभक्षी पादप (Insectivorous Plant)",
+          "en": "Insectivorous Plant"
+        },
+        {
+          "hi": "पूर्ण स्तंभ परजीवी (Total Stem Parasite)",
+          "en": "Total Stem Parasite"
+        },
+        {
+          "hi": "सहजीवी पादप (Symbiotic Plant)",
+          "en": "Symbiotic Plant"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कीटभक्षी पौधे (जैसे घटपर्णी / नेपेंथीस) कीटों को क्यों पकड़कर पचाते हैं?",
+        "en": "Why do insectivorous / pitcher plants trap and digest insects?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन की पूर्ति के लिए",
+          "en": "To obtain carbon"
+        },
+        {
+          "hi": "जल की कमी पूरी करने के लिए",
+          "en": "To obtain water"
+        },
+        {
+          "hi": "सूर्य के प्रकाश के विकल्प के रूप में",
+          "en": "As an alternative to sunlight"
+        },
+        {
+          "hi": "नाइट्रोजन की कमी को पूरा करने के लिए",
+          "en": "To fulfill nitrogen deficiency of swampy soil"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा पौधा एक 'कीटभक्षी पौधा' (Insectivorous Plant) है?",
+        "en": "Which of the following is a recognized insectivorous plant?"
+      },
+      "o": [
+        {
+          "hi": "घटपर्णी / नेपेंथीस (Pitcher Plant / Nepenthes)",
+          "en": "Pitcher Plant (Nepenthes)"
+        },
+        {
+          "hi": "अमरबेल (Cuscuta)",
+          "en": "Cuscuta"
+        },
+        {
+          "hi": "चंदन (Sandalwood)",
+          "en": "Sandalwood"
+        },
+        {
+          "hi": "रेफ्लेशिया (Rafflesia)",
+          "en": "Rafflesia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'वीनस फ्लाईट्रैप' (Dionaea) और 'ड्रोसेरा' (Sundew) किस श्रेणी के पादप हैं?",
+        "en": "Venus Flytrap (Dionaea) and Sundew (Drosera) belong to which nutritional category?"
+      },
+      "o": [
+        {
+          "hi": "पूर्ण मूल परजीवी",
+          "en": "Total Root Parasites"
+        },
+        {
+          "hi": "कीटभक्षी पादप (Insectivorous Plants)",
+          "en": "Insectivorous Plants"
+        },
+        {
+          "hi": "मृतोपजीवी कवक",
+          "en": "Saprophytic Fungi"
+        },
+        {
+          "hi": "जलीय शैवाल",
+          "en": "Aquatic Algae"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मनुष्य और अमीबा में जटिल ठोस भोज्य पदार्थों को अंतर्ग्रहण कर पचाने वाला पोषण क्या कहलाता है?",
+        "en": "The mode of heterotrophic nutrition involving ingestion and internal digestion of solid food is:"
+      },
+      "o": [
+        {
+          "hi": "मृतोपजीवी पोषण (Saprophytic)",
+          "en": "Saprophytic Nutrition"
+        },
+        {
+          "hi": "परजीवी पोषण (Parasitic)",
+          "en": "Parasitic Nutrition"
+        },
+        {
+          "hi": "प्राणीसमभोजी पोषण (Holozoic Nutrition)",
+          "en": "Holozoic Nutrition"
+        },
+        {
+          "hi": "रसायन स्वपोषण (Chemosynthetic)",
+          "en": "Chemosynthetic Nutrition"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एक संतुलित आहार (Balanced Diet) में कार्बोहाइड्रेट, वसा और प्रोटीन का आदर्श ऊर्जा अनुपात क्या होना चाहिए?",
+        "en": "What is the recommended dietary energy proportion of Carbohydrates, Fats, and Proteins?"
+      },
+      "o": [
+        {
+          "hi": "33% : 33% : 34%",
+          "en": "33% : 33% : 34%"
+        },
+        {
+          "hi": "10% : 50% : 40%",
+          "en": "10% : 50% : 40%"
+        },
+        {
+          "hi": "80% : 10% : 10%",
+          "en": "80% : 10% : 10%"
+        },
+        {
+          "hi": "लगभग 60% : 20-25% : 15-20%",
+          "en": "Approximately 60% : 20-25% : 15-20%"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एक सामान्य कार्य करने वाले वयस्क पुरुष को प्रतिदिन लगभग कितनी कैलोरी ऊर्जा की आवश्यकता होती है?",
+        "en": "Approximately how many kilocalories of energy does an average working adult male require daily?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 2400 से 2800 किलोकैलोरी",
+          "en": "Approximately 2400 to 2800 kcal"
+        },
+        {
+          "hi": "लगभग 1200 से 1500 किलोकैलोरी",
+          "en": "About 1200 to 1500 kcal"
+        },
+        {
+          "hi": "लगभग 3500 से 4500 किलोकैलोरी",
+          "en": "About 3500 to 4500 kcal"
+        },
+        {
+          "hi": "लगभग 5000 किलोकैलोरी",
+          "en": "About 5000 kcal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारी शारीरिक श्रम करने वाले मजदूर या एथलीट को प्रतिदिन कितनी ऊर्जा की आवश्यकता होती है?",
+        "en": "What is the daily caloric requirement of a heavy manual laborer or competitive athlete?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 2000 किलोकैलोरी",
+          "en": "About 2000 kcal"
+        },
+        {
+          "hi": "लगभग 3500 से 4000 किलोकैलोरी",
+          "en": "Approximately 3500 to 4000 kcal"
+        },
+        {
+          "hi": "लगभग 1800 किलोकैलोरी",
+          "en": "About 1800 kcal"
+        },
+        {
+          "hi": "लगभग 2500 किलोकैलोरी",
+          "en": "About 2500 kcal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आधारभूत उपापचयी दर (Basal Metabolic Rate - BMR) क्या दर्शाती है?",
+        "en": "What does the Basal Metabolic Rate (BMR) measure in a resting human body?"
+      },
+      "o": [
+        {
+          "hi": "दौड़ते समय खर्च होने वाली अधिकतम ऊर्जा",
+          "en": "Maximum energy expended while sprinting"
+        },
+        {
+          "hi": "भोजन को पचाने में लगने वाली अतिरिक्त ऊर्जा",
+          "en": "Specific dynamic action of digesting food"
+        },
+        {
+          "hi": "पूर्ण विश्राम की अवस्था में जीवन रक्षा हेतु न्यूनतम आवश्यक ऊर्जा",
+          "en": "Minimum energy required to maintain vital vegetative functions at rest"
+        },
+        {
+          "hi": "मानसिक कार्य करते समय मस्तिष्क की ऊर्जा खपत",
+          "en": "Energy consumption during mental concentration"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शाकाहारी व्यक्तियों के लिए प्रोटीन का सबसे प्रमुख और सुलभ आहार स्रोत क्या है?",
+        "en": "Which food group is the primary source of dietary protein for strict vegetarians?"
+      },
+      "o": [
+        {
+          "hi": "चावल और आलू",
+          "en": "Rice and Potatoes"
+        },
+        {
+          "hi": "हरी सब्जियां और फल",
+          "en": "Leafy Vegetables and Fruits"
+        },
+        {
+          "hi": "मक्खन और वनस्पति घी",
+          "en": "Butter and Vanaspati Ghee"
+        },
+        {
+          "hi": "दालें एवं सोयाबीन (Pulses & Legumes)",
+          "en": "Pulses and Legumes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अंडे (Egg) के सफेद भाग (Albumen) में मुख्य रूप से कौन-सा पोषक तत्व पाया जाता है?",
+        "en": "What is the principal macronutrient found in egg white (Albumen)?"
+      },
+      "o": [
+        {
+          "hi": "प्रोटीन (एल्ब्यूमिन प्रोटीन)",
+          "en": "Protein (Ovalbumin)"
+        },
+        {
+          "hi": "वसा और कोलेस्ट्रॉल",
+          "en": "Fats and Cholesterol"
+        },
+        {
+          "hi": "कार्बोहाइड्रेट",
+          "en": "Carbohydrates"
+        },
+        {
+          "hi": "आयरन और कैल्शियम",
+          "en": "Iron and Calcium"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अंडे की जर्दी (Yolk / पीला भाग) में मुख्य रूप से क्या प्रचुर मात्रा में होता है?",
+        "en": "Egg yolk is predominantly concentrated in which nutrients?"
+      },
+      "o": [
+        {
+          "hi": "केवल कार्बोहाइड्रेट",
+          "en": "Only Carbohydrates"
+        },
+        {
+          "hi": "वसा, कोलेस्ट्रॉल और विटामिन A, D",
+          "en": "Fats, Cholesterol, and Vitamins A, D"
+        },
+        {
+          "hi": "विटामिन C और स्टार्च",
+          "en": "Vitamin C and Starch"
+        },
+        {
+          "hi": "केवल सोडियम लवण",
+          "en": "Only Sodium salts"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दूध को संपूर्ण आहार (Complete Food) माना जाता है, परंतु इसमें किन दो तत्वों की कमी होती है?",
+        "en": "Milk is regarded as nearly complete nutrition, but it is conspicuously deficient in:"
+      },
+      "o": [
+        {
+          "hi": "कैल्शियम और फास्फोरस",
+          "en": "Calcium and Phosphorus"
+        },
+        {
+          "hi": "प्रोटीन और वसा",
+          "en": "Protein and Fat"
+        },
+        {
+          "hi": "लोहा (Iron) और विटामिन C",
+          "en": "Iron and Vitamin C"
+        },
+        {
+          "hi": "विटामिन A और B",
+          "en": "Vitamin A and B"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नवजात शिशु के लिए माता का पहला पीला गाढ़ा दूध 'कोलोस्ट्रम' (Colostrum) क्यों अत्यंत महत्वपूर्ण है?",
+        "en": "Why is mother's first milk (Colostrum) vital for a newborn infant?"
+      },
+      "o": [
+        {
+          "hi": "इसमें अत्यधिक वसा और चीनी होती है",
+          "en": "High in fats and refined sugars"
+        },
+        {
+          "hi": "यह बच्चे का वजन तेजी से बढ़ाता है",
+          "en": "Rapidly increases body weight"
+        },
+        {
+          "hi": "यह दांतों को तुरंत उगाने में मदद करता है",
+          "en": "Stimulates immediate dentition"
+        },
+        {
+          "hi": "इसमें प्रचुर मात्रा में एंटीबॉडीज (IgA) होती हैं जो प्रतिरक्षा देती हैं",
+          "en": "Rich in maternal secretory antibodies (IgA) providing passive immunity"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आहार में रेशे / रूक्षांश (Dietary Fibres / Roughage) का मुख्य शारीरिक कार्य क्या है?",
+        "en": "What is the primary physiological function of dietary roughage / dietary fibres (Cellulose)?"
+      },
+      "o": [
+        {
+          "hi": "आंतों की क्रमाकुंचन गति बढ़ाना और कब्ज से बचाव",
+          "en": "Promoting intestinal peristalsis and preventing constipation"
+        },
+        {
+          "hi": "शरीर को भारी मात्रा में कैलोरी देना",
+          "en": "Providing dense metabolic calories"
+        },
+        {
+          "hi": "हीमोग्लोबिन का निर्माण करना",
+          "en": "Synthesizing blood hemoglobin"
+        },
+        {
+          "hi": "हड्डियों को मजबूत बनाना",
+          "en": "Directly ossifying skeleton"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बॉडी मास इंडेक्स (BMI) की गणना व्यक्ति के किन दो मापों के आधार पर की जाती है?",
+        "en": "Body Mass Index (BMI) is calculated using which two anthropometric measurements?"
+      },
+      "o": [
+        {
+          "hi": "ऊंचाई / वजन",
+          "en": "Height / Weight"
+        },
+        {
+          "hi": "वजन (किग्रा में) / [ऊंचाई (मीटर में)]^2",
+          "en": "Weight (kg) / [Height (m)]^2"
+        },
+        {
+          "hi": "वजन x ऊंचाई",
+          "en": "Weight x Height"
+        },
+        {
+          "hi": "कमर की परिधि / वजन",
+          "en": "Waist Circumference / Weight"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व स्वास्थ्य संगठन (WHO) के अनुसार सामान्य और स्वस्थ व्यक्ति का BMI कितना होना चाहिए?",
+        "en": "According to WHO standards, what is the normal healthy range for Body Mass Index (BMI)?"
+      },
+      "o": [
+        {
+          "hi": "15.0 से 18.4 kg/m² (कम वजन)",
+          "en": "15.0 to 18.4 (Underweight)"
+        },
+        {
+          "hi": "25.0 से 29.9 kg/m² (अधिक वजन)",
+          "en": "25.0 to 29.9 (Overweight)"
+        },
+        {
+          "hi": "18.5 से 24.9 kg/m²",
+          "en": "18.5 to 24.9 kg/m²"
+        },
+        {
+          "hi": "30.0 से अधिक (मोटापा)",
+          "en": "Above 30.0 (Obese)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ग्लाइकोजन और स्टार्च के पाचन के अंत में बनने वाला अंतिम मुख्य उत्पाद क्या है?",
+        "en": "What is the ultimate end-product of carbohydrate (starch/glycogen) digestion in the gut?"
+      },
+      "o": [
+        {
+          "hi": "सुक्रोज (Sucrose)",
+          "en": "Sucrose"
+        },
+        {
+          "hi": "अमीनो अम्ल (Amino Acids)",
+          "en": "Amino Acids"
+        },
+        {
+          "hi": "फैटी एसिड (Fatty Acids)",
+          "en": "Fatty Acids"
+        },
+        {
+          "hi": "ग्लूकोज (Glucose / C6H12O6)",
+          "en": "Glucose (C6H12O6)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रोटीन के पाचन के फलस्वरूप अंत में कौन-से सरलतम अवशोषण योग्य अणु बनते हैं?",
+        "en": "What are the final absorbable monomeric end-products of protein digestion?"
+      },
+      "o": [
+        {
+          "hi": "अमीनो अम्ल (Amino Acids)",
+          "en": "Amino Acids"
+        },
+        {
+          "hi": "ग्लिसरॉल (Glycerol)",
+          "en": "Glycerol"
+        },
+        {
+          "hi": "ग्लूकोज (Glucose)",
+          "en": "Glucose"
+        },
+        {
+          "hi": "पेप्टाइड बंध",
+          "en": "Peptide Bonds"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वसा (Fats / Triglycerides) के पूर्ण पाचन के फलस्वरूप कौन-से अणु बनते हैं?",
+        "en": "Complete enzymatic breakdown of dietary fats by lipases produces:"
+      },
+      "o": [
+        {
+          "hi": "अमीनो एसिड और ग्लूकोज",
+          "en": "Amino Acids and Glucose"
+        },
+        {
+          "hi": "फैटी एसिड और ग्लिसरॉल (Fatty Acids and Glycerol)",
+          "en": "Fatty Acids and Glycerol"
+        },
+        {
+          "hi": "ग्लूकोज और फ्रुक्टोज",
+          "en": "Glucose and Fructose"
+        },
+        {
+          "hi": "लैक्टिक एसिड",
+          "en": "Lactic Acid"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किस पोषक तत्व की कमी से शरीर की वृद्धि रुक जाती है और मांसपेशियां दुर्बल हो जाती हैं?",
+        "en": "Deficiency of which macronutrient halts somatic growth and leads to severe muscle wasting?"
+      },
+      "o": [
+        {
+          "hi": "कार्बोहाइड्रेट",
+          "en": "Carbohydrates"
+        },
+        {
+          "hi": "विटामिन A",
+          "en": "Vitamin A"
+        },
+        {
+          "hi": "प्रोटीन (Proteins)",
+          "en": "Proteins"
+        },
+        {
+          "hi": "सोडियम लवण",
+          "en": "Sodium Salts"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एथलीटों और धावकों को तुरंत ऊर्जा प्राप्त करने के लिए क्या दिया जाता है?",
+        "en": "What is immediately administered to sprinters and athletes for instantaneous energy replenishment?"
+      },
+      "o": [
+        {
+          "hi": "प्रोटीन पाउडर",
+          "en": "Protein Powder"
+        },
+        {
+          "hi": "मक्खन / घी",
+          "en": "Butter / Ghee"
+        },
+        {
+          "hi": "विटामिन की गोलियां",
+          "en": "Vitamin Tablets"
+        },
+        {
+          "hi": "ग्लूकोज (Glucose)",
+          "en": "Glucose"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शरीर के तापमान को स्थिर रखने और आंतरिक अंगों को आघातों से बचाने में कौन सहायता करता है?",
+        "en": "Which tissue/nutrient layer acts as a thermal insulator and shock absorber for internal organs?"
+      },
+      "o": [
+        {
+          "hi": "वसा / एडिपोज ऊतक (Subcutaneous Fat / Adipose Tissue)",
+          "en": "Fat / Adipose Tissue"
+        },
+        {
+          "hi": "ग्लाइकोजन परत",
+          "en": "Glycogen Layer"
+        },
+        {
+          "hi": "प्रोटीन आवरण",
+          "en": "Protein Sheath"
+        },
+        {
+          "hi": "जल संचय",
+          "en": "Water Reservoir"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रक्त शर्करा (Blood Sugar) का स्तर सामान्यतः किस इकाई में मापा जाता है?",
+        "en": "Clinical fasting blood glucose concentration is routinely reported in which standard unit?"
+      },
+      "o": [
+        {
+          "hi": "ग्राम प्रति लीटर",
+          "en": "g/L"
+        },
+        {
+          "hi": "मिलीग्राम प्रति डेसीलीटर (mg/dL)",
+          "en": "mg/dL (milligrams per decilitre)"
+        },
+        {
+          "hi": "माइक्रोग्राम प्रति मिलीलीटर",
+          "en": "mcg/mL"
+        },
+        {
+          "hi": "मोल प्रति घन मीटर",
+          "en": "mol/m³"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्वस्थ मनुष्य में खाली पेट (Fasting) सामान्य रक्त शर्करा का स्तर कितना होना चाहिए?",
+        "en": "What is the normal fasting plasma glucose level in a healthy non-diabetic human?"
+      },
+      "o": [
+        {
+          "hi": "140 से 180 mg/dL",
+          "en": "140 to 180 mg/dL"
+        },
+        {
+          "hi": "40 से 50 mg/dL",
+          "en": "40 to 50 mg/dL"
+        },
+        {
+          "hi": "70 से 100 mg/dL",
+          "en": "70 to 100 mg/dL"
+        },
+        {
+          "hi": "110 से 140 mg/dL",
+          "en": "110 to 140 mg/dL"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भोजन के 2 घंटे बाद (Post-prandial) सामान्य रक्त शर्करा का स्तर किससे कम होना चाहिए?",
+        "en": "Normal post-prandial (2 hours post-meal) blood glucose level in healthy adults should be under:"
+      },
+      "o": [
+        {
+          "hi": "200 mg/dL से अधिक",
+          "en": "Over 200 mg/dL"
+        },
+        {
+          "hi": "180 mg/dL से अधिक",
+          "en": "Over 180 mg/dL"
+        },
+        {
+          "hi": "90 mg/dL से कम",
+          "en": "Under 90 mg/dL"
+        },
+        {
+          "hi": "140 mg/dL से कम",
+          "en": "Under 140 mg/dL"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कोलेस्ट्रॉल (Cholesterol) का निर्माण मुख्य रूप से शरीर के किस अंग में होता है?",
+        "en": "Endogenous synthesis of steroid cholesterol takes place primarily in which organ?"
+      },
+      "o": [
+        {
+          "hi": "यकृत / लिवर (Liver)",
+          "en": "Liver"
+        },
+        {
+          "hi": "गुर्दा (Kidney)",
+          "en": "Kidney"
+        },
+        {
+          "hi": "हृदय (Heart)",
+          "en": "Heart"
+        },
+        {
+          "hi": "अग्न्याशय (Pancreas)",
+          "en": "Pancreas"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हृदय रोगों से बचाव के लिए रक्त में किस लिपोप्रोटीन (अच्छा कोलेस्ट्रॉल) का उच्च स्तर होना चाहिए?",
+        "en": "Which lipoprotein fraction is clinically referred to as 'Good Cholesterol' protecting against atherosclerosis?"
+      },
+      "o": [
+        {
+          "hi": "एलडीएल (LDL - बुरा कोलेस्ट्रॉल)",
+          "en": "LDL (Low-Density Lipoprotein)"
+        },
+        {
+          "hi": "एचडीएल (HDL - High Density Lipoprotein)",
+          "en": "HDL (High-Density Lipoprotein)"
+        },
+        {
+          "hi": "वीएलडीएल (VLDL)",
+          "en": "VLDL"
+        },
+        {
+          "hi": "काइलोमाइक्रॉन",
+          "en": "Chylomicrons"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "धमनियों में रुकावट (एथेरोस्क्लेरोसिस) उत्पन्न करने वाला 'बुरा कोलेस्ट्रॉल' कौन-सा कहलाता है?",
+        "en": "Which lipoprotein is designated as 'Bad Cholesterol' because it deposits plaque in arterial walls?"
+      },
+      "o": [
+        {
+          "hi": "एचडीएल (HDL)",
+          "en": "HDL"
+        },
+        {
+          "hi": "एल्ब्यूमिन",
+          "en": "Albumin"
+        },
+        {
+          "hi": "एलडीएल (LDL - Low Density Lipoprotein)",
+          "en": "LDL (Low-Density Lipoprotein)"
+        },
+        {
+          "hi": "ग्लोब्युलिन",
+          "en": "Globulin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दूध का सफेद रंग किस प्रोटीन की उपस्थिति के कारण होता है?",
+        "en": "The opaque white color of cow and buffalo milk is primarily due to:"
+      },
+      "o": [
+        {
+          "hi": "कैरोटीन (पीले रंग हेतु)",
+          "en": "Carotene (causes yellow tint)"
+        },
+        {
+          "hi": "लैक्टोज शर्करा",
+          "en": "Lactose Sugar"
+        },
+        {
+          "hi": "एल्ब्यूमिन",
+          "en": "Albumin"
+        },
+        {
+          "hi": "केसीन प्रोटीन (Casein Protein)",
+          "en": "Casein Protein"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गाय के दूध का हल्का पीला रंग किसकी उपस्थिति के कारण होता है?",
+        "en": "The faint yellowish tinge in cow's milk is due to the presence of:"
+      },
+      "o": [
+        {
+          "hi": "कैरोटीन तथा राइबोफ्लेविन (Carotene)",
+          "en": "Carotene and Riboflavin"
+        },
+        {
+          "hi": "केसीन प्रोटीन",
+          "en": "Casein"
+        },
+        {
+          "hi": "लैक्टिक अम्ल",
+          "en": "Lactic Acid"
+        },
+        {
+          "hi": "ग्लूकोज",
+          "en": "Glucose"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नाखूनों, बालों और त्वचा की सींगनुमा परतों में कौन-सा अघुलनशील संरचनात्मक प्रोटीन होता है?",
+        "en": "Which insoluble fibrous scleroprotein forms human hair, fingernails, and the epidermis stratum corneum?"
+      },
+      "o": [
+        {
+          "hi": "कोलेजन (Collagen)",
+          "en": "Collagen"
+        },
+        {
+          "hi": "कैरोटिन / किरेटिन (Keratin Protein)",
+          "en": "Keratin Protein"
+        },
+        {
+          "hi": "इलास्टिन (Elastin)",
+          "en": "Elastin"
+        },
+        {
+          "hi": "मायोपिन",
+          "en": "Myosin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में सर्वाधिक मात्रा में पाया जाने वाला रेशेदार संयोजी ऊतक प्रोटीन कौन-सा है?",
+        "en": "Which is the most abundant structural protein in the human body (connective tissues, bones, tendons)?"
+      },
+      "o": [
+        {
+          "hi": "किरेटिन (Keratin)",
+          "en": "Keratin"
+        },
+        {
+          "hi": "हीमोग्लोबिन (Hemoglobin)",
+          "en": "Hemoglobin"
+        },
+        {
+          "hi": "कोलेजन (Collagen - कुल प्रोटीन का ~30%)",
+          "en": "Collagen (~30% of total body protein)"
+        },
+        {
+          "hi": "फाइब्रिनोजेन (Fibrinogen)",
+          "en": "Fibrinogen"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव त्वचा का रंग किस प्राकृतिक वर्णक (Pigment) पर निर्भर करता है?",
+        "en": "Human skin, hair, and iris pigmentation is determined by which natural biological pigment?"
+      },
+      "o": [
+        {
+          "hi": "कैरोटीन (Carotene)",
+          "en": "Carotene"
+        },
+        {
+          "hi": "हीमोग्लोबिन (Hemoglobin)",
+          "en": "Hemoglobin"
+        },
+        {
+          "hi": "बिलिरूबिन (Bilirubin)",
+          "en": "Bilirubin"
+        },
+        {
+          "hi": "मेलेनिन (Melanin - मेलेनोसाइट्स द्वारा निर्मित)",
+          "en": "Melanin (Produced by melanocytes)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "त्वचा में मेलेनिन वर्णक का मुख्य सुरक्षात्मक कार्य क्या है?",
+        "en": "What is the vital physiological function of epidermal melanin in human skin?"
+      },
+      "o": [
+        {
+          "hi": "सूर्य की हानिकारक पराबैंगनी (UV) किरणों से रक्षा करना",
+          "en": "Protecting against harmful solar ultraviolet (UV) radiation"
+        },
+        {
+          "hi": "शरीर में विटामिन C का निर्माण करना",
+          "en": "Synthesizing Vitamin C"
+        },
+        {
+          "hi": "त्वचा से पसीने का स्राव रोकना",
+          "en": "Preventing sweat transpiration"
+        },
+        {
+          "hi": "त्वचा के तापमान को बढ़ाना",
+          "en": "Increasing dermal temperature"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रक्त में ऑक्सीजन का परिवहन करने वाले लाल वर्णक 'हीमोग्लोबिन' में ग्लोबिन क्या है?",
+        "en": "In the respiratory pigment Hemoglobin, what is the chemical nature of 'Globin'?"
+      },
+      "o": [
+        {
+          "hi": "एक कार्बोहाइड्रेट",
+          "en": "A Carbohydrate"
+        },
+        {
+          "hi": "एक प्रोटीन (Protein)",
+          "en": "A Protein"
+        },
+        {
+          "hi": "एक वसा / लिपिड",
+          "en": "A Fat / Lipid"
+        },
+        {
+          "hi": "एक खनिज आयन",
+          "en": "A Mineral Ion"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मांसपेशियों में संकुचन और गति उत्पन्न करने वाले दो प्रमुख संकुचनशील प्रोटीन कौन-से हैं?",
+        "en": "Which two contractile proteins interact to generate force and contraction in skeletal muscles?"
+      },
+      "o": [
+        {
+          "hi": "कोलेजन और इलास्टिन",
+          "en": "Collagen and Elastin"
+        },
+        {
+          "hi": "किरेटिन और केसीन",
+          "en": "Keratin and Casein"
+        },
+        {
+          "hi": "एक्टिन और मायोसिन (Actin and Myosin)",
+          "en": "Actin and Myosin"
+        },
+        {
+          "hi": "ग्लोब्युलिन और एल्ब्यूमिन",
+          "en": "Globulin and Albumin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कठिन शारीरिक व्यायाम के बाद मांसपेशियों में थकावट और दर्द किसके जमाव के कारण होता है?",
+        "en": "Muscle fatigue and cramps following strenuous anaerobic exercise are caused by the accumulation of:"
+      },
+      "o": [
+        {
+          "hi": "यूरिक अम्ल (Uric Acid)",
+          "en": "Uric Acid"
+        },
+        {
+          "hi": "पाइरुविक अम्ल (Pyruvic Acid)",
+          "en": "Pyruvic Acid"
+        },
+        {
+          "hi": "एसिटिक अम्ल (Acetic Acid)",
+          "en": "Acetic Acid"
+        },
+        {
+          "hi": "लैक्टिक अम्ल (Lactic Acid / लैक्टेट)",
+          "en": "Lactic Acid"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जोड़ों में 'यूरिक अम्ल' (Uric Acid) के क्रिस्टल जमा होने से कौन-सा दर्दनाक रोग होता है?",
+        "en": "Deposition of monosodium urate / uric acid crystals in synovial joints leads to:"
+      },
+      "o": [
+        {
+          "hi": "गाउट / गठिया वात (Gout)",
+          "en": "Gout"
+        },
+        {
+          "hi": "ऑस्टियोपोरोसिस (Osteoporosis)",
+          "en": "Osteoporosis"
+        },
+        {
+          "hi": "ऑस्टियोमलेशिया (Osteomalacia)",
+          "en": "Osteomalacia"
+        },
+        {
+          "hi": "रिकेट्स (Rickets)",
+          "en": "Rickets"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रक्त में थक्का-रोधी प्राकृतिक पदार्थ (Natural Anticoagulant) कौन-सा है जो यकृत द्वारा बनता है?",
+        "en": "Which endogenous natural anticoagulant produced by the liver prevents intravessel blood clotting?"
+      },
+      "o": [
+        {
+          "hi": "फाइब्रिनोजेन (Fibrinogen)",
+          "en": "Fibrinogen"
+        },
+        {
+          "hi": "हेपेरिन (Heparin)",
+          "en": "Heparin"
+        },
+        {
+          "hi": "प्रोथ्रॉम्बिन (Prothrombin)",
+          "en": "Prothrombin"
+        },
+        {
+          "hi": "थ्रॉम्बिन (Thrombin)",
+          "en": "Thrombin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "शहद (Honey) में मुख्य रूप से कौन-सी शर्करा पाई जाती है?",
+        "en": "Natural pure honey is composed primarily of which simple monosaccharide sugars?"
+      },
+      "o": [
+        {
+          "hi": "केवल सुक्रोज",
+          "en": "Only Sucrose"
+        },
+        {
+          "hi": "केवल स्टार्च और माल्टोज",
+          "en": "Only Starch and Maltose"
+        },
+        {
+          "hi": "फ्रुक्टोज (~38%) और ग्लूकोज (~31%)",
+          "en": "Fructose (~38%) and Glucose (~31%)"
+        },
+        {
+          "hi": "लैक्टोज और गैलेक्टोज",
+          "en": "Lactose and Galactose"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सैलूलोज (Cellulose) का पाचन शाकाहारी जुगाली करने वाले पशुओं में किसकी सहायता से होता है?",
+        "en": "In ruminant herbivores (cattle), cellulose digestion in the rumen is aided by:"
+      },
+      "o": [
+        {
+          "hi": "अमाशय के हाइड्रोक्लोरिक अम्ल से",
+          "en": "Stomach Hydrochloric Acid"
+        },
+        {
+          "hi": "पित्त रस के लवणों से",
+          "en": "Bile salts"
+        },
+        {
+          "hi": "लार के टायलिन एंजाइम से",
+          "en": "Salivary Ptyalin"
+        },
+        {
+          "hi": "सहजीवी जीवाणु और प्रोटोजोआ (सेल्युलेज एंजाइम द्वारा)",
+          "en": "Symbiotic bacteria and ciliates (via Cellulase)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में सेल्युलोज का पाचन क्यों नहीं हो पाता है?",
+        "en": "Why are humans incapable of digesting dietary cellulose?"
+      },
+      "o": [
+        {
+          "hi": "मानव पाचन तंत्र में 'सेल्युलेज' (Cellulase) एंजाइम का पूर्ण अभाव होता है",
+          "en": "Absence of the Cellulase enzyme in human digestive tract"
+        },
+        {
+          "hi": "मानव में अमाशय छोटा होता है",
+          "en": "Human stomach is too small"
+        },
+        {
+          "hi": "सेल्युलोज विषैला पदार्थ है",
+          "en": "Cellulose is toxic to humans"
+        },
+        {
+          "hi": "लार में यूरिया उपस्थित होता है",
+          "en": "Saliva contains urea"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अल्कोहल (मदिरा) का अत्यधिक सेवन करने से मानव का कौन-सा अंग सबसे अधिक क्षतिग्रस्त होता है?",
+        "en": "Chronic and excessive alcohol consumption primarily destroys which vital organ (Cirrhosis)?"
+      },
+      "o": [
+        {
+          "hi": "वृक्क / गुर्दा (Kidney)",
+          "en": "Kidney"
+        },
+        {
+          "hi": "यकृत / लिवर (Liver Cirrhosis)",
+          "en": "Liver (Liver Cirrhosis)"
+        },
+        {
+          "hi": "हृदय (Heart)",
+          "en": "Heart"
+        },
+        {
+          "hi": "फेफड़े (Lungs)",
+          "en": "Lungs"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पीलिया (Jaundice) रोग में रक्त में किसकी मात्रा अत्यधिक बढ़ जाने से त्वचा पीली हो जाती है?",
+        "en": "In Jaundice (Icterus), yellowish discoloration of skin and sclera is caused by elevated:"
+      },
+      "o": [
+        {
+          "hi": "यूरिक एसिड (Uric Acid)",
+          "en": "Uric Acid"
+        },
+        {
+          "hi": "ग्लूकोज (Glucose)",
+          "en": "Glucose"
+        },
+        {
+          "hi": "बिलीरुबिन (Bilirubin - पित्त वर्णक)",
+          "en": "Bilirubin (Bile Pigment)"
+        },
+        {
+          "hi": "क्रिएटिनिन (Creatinine)",
+          "en": "Creatinine"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में ऊर्जा उत्पादन हेतु सर्वप्रथम किस पोषक तत्व का उपभोग होता है?",
+        "en": "During normal cellular respiration, which respiratory substrate is metabolized first for energy?"
+      },
+      "o": [
+        {
+          "hi": "वसा / लिपिड्स (Fats)",
+          "en": "Fats / Lipids"
+        },
+        {
+          "hi": "प्रोटीन (Proteins)",
+          "en": "Proteins"
+        },
+        {
+          "hi": "विटामिन (Vitamins)",
+          "en": "Vitamins"
+        },
+        {
+          "hi": "कार्बोहाइड्रेट / ग्लूकोज (Carbohydrates)",
+          "en": "Carbohydrates / Glucose"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लंबे उपवास या भुखमरी (Starvation) की स्थिति में शरीर क्रमशः किन ऊर्जा स्रोतों का उपयोग करता है?",
+        "en": "During prolonged starvation, what is the sequence of fuel utilization by the body?"
+      },
+      "o": [
+        {
+          "hi": "पहले कार्बोहाइड्रेट -> फिर वसा -> अंत में प्रोटीन",
+          "en": "First Carbohydrates -> then Fats -> finally Proteins"
+        },
+        {
+          "hi": "पहले प्रोटीन -> फिर वसा -> अंत में कार्बोहाइड्रेट",
+          "en": "Proteins -> Fats -> Carbohydrates"
+        },
+        {
+          "hi": "पहले वसा -> फिर प्रोटीन -> अंत में कार्बोहाइड्रेट",
+          "en": "Fats -> Proteins -> Carbohydrates"
+        },
+        {
+          "hi": "कार्बोहाइड्रेट और प्रोटीन एक साथ",
+          "en": "Carbohydrates and Proteins simultaneously"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आयोडीन टिंचर परीक्षण (Iodine Test) द्वारा खाद्य पदार्थों में किसकी उपस्थिति की पुष्टि होती है?",
+        "en": "A deep blue-black color formation upon adding dilute iodine tincture confirms the presence of:"
+      },
+      "o": [
+        {
+          "hi": "प्रोटीन (Proteins)",
+          "en": "Proteins"
+        },
+        {
+          "hi": "मंड / स्टार्च (Starch)",
+          "en": "Starch"
+        },
+        {
+          "hi": "वसा (Fats)",
+          "en": "Fats"
+        },
+        {
+          "hi": "विटामिन C (Vitamin C)",
+          "en": "Vitamin C"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

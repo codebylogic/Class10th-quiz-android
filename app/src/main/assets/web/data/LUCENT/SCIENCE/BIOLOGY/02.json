@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - जीव विज्ञान (Biology)",
+  "subtitle": "कोशिका विज्ञान",
+  "description": "कोशिका विज्ञान पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "कोशिकाओं का अध्ययन जीव विज्ञान की किस शाखा के अंतर्गत किया जाता है?",
+        "en": "The study of structure and function of cells is known as:"
+      },
+      "o": [
+        {
+          "hi": "साइटोलॉजी / कोशिका विज्ञान (Cytology)",
+          "en": "Cytology / Cell Biology"
+        },
+        {
+          "hi": "हिस्टोलॉजी / ऊतक विज्ञान (Histology)",
+          "en": "Histology"
+        },
+        {
+          "hi": "फिजियोलॉजी / शरीरक्रिया विज्ञान",
+          "en": "Physiology"
+        },
+        {
+          "hi": "पैथोलॉजी / रोग विज्ञान (Pathology)",
+          "en": "Pathology"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोशिका (Cell) की खोज 1665 में कॉर्क के टुकड़े में सर्वप्रथम किसने की थी?",
+        "en": "Who first discovered and named the 'cell' in cork tissue in 1665?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट ब्राउन (Robert Brown)",
+          "en": "Robert Brown"
+        },
+        {
+          "hi": "रॉबर्ट हुक (Robert Hooke - पुस्तक: Micrographia)",
+          "en": "Robert Hooke (Book: Micrographia)"
+        },
+        {
+          "hi": "एंटनी वॉन ल्यूवेनहॉक",
+          "en": "Antonie van Leeuwenhoek"
+        },
+        {
+          "hi": "रुडोल्फ विरचो (Rudolf Virchow)",
+          "en": "Rudolf Virchow"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जीवित कोशिका (Living Cell) को पहली बार 1674 में किसने देखा था?",
+        "en": "Who first observed a living cell (bacteria/protozoa) under a microscope in 1674?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट हुक (Robert Hooke)",
+          "en": "Robert Hooke"
+        },
+        {
+          "hi": "पुर्किंजे (Purkinje)",
+          "en": "Purkinje"
+        },
+        {
+          "hi": "एंटनी वॉन ल्यूवेनहॉक (Antonie van Leeuwenhoek)",
+          "en": "Antonie van Leeuwenhoek"
+        },
+        {
+          "hi": "थियोडोर श्वान (Theodor Schwann)",
+          "en": "Theodor Schwann"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'कोशिका सिद्धांत' (Cell Theory) का प्रतिपादन 1838-39 में किन वैज्ञानिकों ने किया था?",
+        "en": "Who formulated the Classical Cell Theory in 1838-1839?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट हुक तथा रॉबर्ट ब्राउन",
+          "en": "Robert Hooke and Robert Brown"
+        },
+        {
+          "hi": "वाटसन तथा क्रिक",
+          "en": "Watson and Crick"
+        },
+        {
+          "hi": "हक्सले तथा लैमार्क",
+          "en": "Huxley and Lamarck"
+        },
+        {
+          "hi": "एम.जे. श्लाइडेन तथा थियोडोर श्वान",
+          "en": "M.J. Schleiden and Theodor Schwann"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'ओमनिस सेलुला ई सेलुला' (नई कोशिकाएं पूर्ववर्ती कोशिकाओं से बनती हैं) किसने कहा था?",
+        "en": "Who stated 'Omnis cellula e cellula' (all cells arise from pre-existing cells) in 1855?"
+      },
+      "o": [
+        {
+          "hi": "रुडोल्फ विरचो (Rudolf Virchow)",
+          "en": "Rudolf Virchow"
+        },
+        {
+          "hi": "श्लाइडेन (Schleiden)",
+          "en": "Schleiden"
+        },
+        {
+          "hi": "श्वान (Schwann)",
+          "en": "Schwann"
+        },
+        {
+          "hi": "लुई पाश्चर (Louis Pasteur)",
+          "en": "Louis Pasteur"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोशिका सिद्धांत का अपवाद (Exception to Cell Theory) किसे माना जाता है?",
+        "en": "Which of the following is considered an exception to the Cell Theory?"
+      },
+      "o": [
+        {
+          "hi": "जीवाणु (Bacteria)",
+          "en": "Bacteria"
+        },
+        {
+          "hi": "विषाणु / वायरस (Virus - क्योंकि यह अकोशिकीय है)",
+          "en": "Virus (Because it is acellular)"
+        },
+        {
+          "hi": "कवक (Fungi)",
+          "en": "Fungi"
+        },
+        {
+          "hi": "नील-हरित शैवाल",
+          "en": "Blue-green Algae"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संसार की सबसे छोटी ज्ञात कोशिका कौन-सी है?",
+        "en": "What is the smallest known living cell in the world?"
+      },
+      "o": [
+        {
+          "hi": "अमीबा (Amoeba)",
+          "en": "Amoeba"
+        },
+        {
+          "hi": "मानव लाल रक्त कणिका (RBC)",
+          "en": "Human RBC"
+        },
+        {
+          "hi": "माइकोप्लाज्मा गैलीसेप्टिकम (PPLO - 0.1 माइक्रोन)",
+          "en": "Mycoplasma gallisepticum (PPLO - 0.1 micron)"
+        },
+        {
+          "hi": "ई. कोलाई जीवाणु",
+          "en": "E. coli bacterium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रकृति में पाई जाने वाली सबसे बड़ी एकल कोशिका कौन-सी है?",
+        "en": "What is the largest single living cell found in nature?"
+      },
+      "o": [
+        {
+          "hi": "हाथी की तंत्रिका कोशिका",
+          "en": "Elephant nerve cell"
+        },
+        {
+          "hi": "व्हेल का अंडाणु",
+          "en": "Whale ovum"
+        },
+        {
+          "hi": "एसिटाबुलैरिया शैवाल",
+          "en": "Acetabularia alga"
+        },
+        {
+          "hi": "शुतुरमुर्ग का अंडा (Ostrich Egg)",
+          "en": "Ostrich Egg"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की सबसे लंबी कोशिका (Longest Cell) कौन-सी है?",
+        "en": "Which is the longest cell in the human body?"
+      },
+      "o": [
+        {
+          "hi": "तंत्रिका कोशिका / न्यूरॉन (Neuron / Nerve Cell)",
+          "en": "Nerve Cell / Neuron"
+        },
+        {
+          "hi": "यकृत कोशिका (Liver Cell)",
+          "en": "Hepatocyte / Liver Cell"
+        },
+        {
+          "hi": "अस्थि कोशिका (Osteocyte)",
+          "en": "Bone Cell"
+        },
+        {
+          "hi": "मांसपेशी कोशिका (Muscle Cell)",
+          "en": "Muscle Cell"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की सबसे छोटी कोशिका (Smallest Cell) सामान्यतः किसे माना जाता है?",
+        "en": "Which is generally considered the smallest cell in the human body?"
+      },
+      "o": [
+        {
+          "hi": "स्त्री अंडाणु (Ovum)",
+          "en": "Female Ovum"
+        },
+        {
+          "hi": "पुरुष शुक्राणु / सेरिबैलम ग्रैन्यूल सेल",
+          "en": "Male Sperm / Cerebellum Granule Cell"
+        },
+        {
+          "hi": "न्यूरॉन (Neuron)",
+          "en": "Neuron"
+        },
+        {
+          "hi": "श्वेत रक्त कोशिका (WBC)",
+          "en": "WBC"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रोकैरियोटिक कोशिकाओं में किस प्रकार के राइबोसोम (Ribosomes) पाए जाते हैं?",
+        "en": "Which type of ribosomes are present in prokaryotic cells (bacteria)?"
+      },
+      "o": [
+        {
+          "hi": "80S राइबोसोम (60S + 40S)",
+          "en": "80S Ribosomes"
+        },
+        {
+          "hi": "60S राइबोसोम",
+          "en": "60S Ribosomes"
+        },
+        {
+          "hi": "70S राइबोसोम (50S + 30S सबयूनिट्स)",
+          "en": "70S Ribosomes (50S + 30S subunits)"
+        },
+        {
+          "hi": "90S राइबोसोम",
+          "en": "90S Ribosomes"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यूकैरियोटिक कोशिकाओं के कोशिकाद्रव्य (Cytoplasm) में किस प्रकार के राइबोसोम होते हैं?",
+        "en": "Which type of ribosomes are found in the cytoplasm of eukaryotic cells?"
+      },
+      "o": [
+        {
+          "hi": "70S राइबोसोम",
+          "en": "70S Ribosomes"
+        },
+        {
+          "hi": "50S राइबोसोम",
+          "en": "50S Ribosomes"
+        },
+        {
+          "hi": "100S राइबोसोम",
+          "en": "100S Ribosomes"
+        },
+        {
+          "hi": "80S राइबोसोम (60S + 40S)",
+          "en": "80S Ribosomes (60S + 40S)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पादप कोशिका भित्ति (Plant Cell Wall) की प्रकृति कैसी होती है?",
+        "en": "What is the permeability nature of the plant cell wall?"
+      },
+      "o": [
+        {
+          "hi": "पूर्णतः पारगम्य (Fully Permeable)",
+          "en": "Fully Permeable"
+        },
+        {
+          "hi": "अर्ध-पारगम्य (Semi-Permeable)",
+          "en": "Semi-Permeable"
+        },
+        {
+          "hi": "चयनात्मक पारगम्य (Selectively Permeable)",
+          "en": "Selectively Permeable"
+        },
+        {
+          "hi": "अपारगम्य (Impermeable)",
+          "en": "Impermeable"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोशिका झिल्ली (Plasma Membrane) की प्रकृति कैसी होती है?",
+        "en": "What is the nature of the plasma membrane (cell membrane)?"
+      },
+      "o": [
+        {
+          "hi": "पूर्ण पारगम्य (Fully Permeable)",
+          "en": "Fully Permeable"
+        },
+        {
+          "hi": "चयनात्मक अर्ध-पारगम्य (Selectively Permeable)",
+          "en": "Selectively Permeable"
+        },
+        {
+          "hi": "अपारगम्य (Impermeable)",
+          "en": "Impermeable"
+        },
+        {
+          "hi": "दृढ़ एवं निर्जीव",
+          "en": "Rigid and Non-living"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कोशिका झिल्ली का सबसे मान्य 'फ्लूइड मोजैक मॉडल' (1972) किसने प्रस्तुत किया था?",
+        "en": "Who proposed the widely accepted 'Fluid Mosaic Model' of cell membrane in 1972?"
+      },
+      "o": [
+        {
+          "hi": "डेनियली और डेवसन",
+          "en": "Danielli and Davson"
+        },
+        {
+          "hi": "रॉबर्टसन (Robertson)",
+          "en": "Robertson"
+        },
+        {
+          "hi": "सिंगर और निकोलसन (S.J. Singer & G.L. Nicolson)",
+          "en": "S.J. Singer and G.L. Nicolson"
+        },
+        {
+          "hi": "वाटसन और क्रिक",
+          "en": "Watson and Crick"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जीवद्रव्य (Protoplasm) को 'जीवन का भौतिक आधार' किसने कहा था?",
+        "en": "Who termed Protoplasm as 'the physical basis of life'?"
+      },
+      "o": [
+        {
+          "hi": "जे.ई. पुर्किंजे (J.E. Purkinje)",
+          "en": "J.E. Purkinje"
+        },
+        {
+          "hi": "फेलिक्स डुजार्डिन",
+          "en": "Felix Dujardin"
+        },
+        {
+          "hi": "रॉबर्ट ब्राउन",
+          "en": "Robert Brown"
+        },
+        {
+          "hi": "टी.एच. हक्सले (T.H. Huxley, 1868)",
+          "en": "T.H. Huxley (1868)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'जीवद्रव्य' (Protoplasm) शब्द का सर्वप्रथम नामकरण 1839 में किसने किया था?",
+        "en": "Who first coined the word 'Protoplasm' in 1839?"
+      },
+      "o": [
+        {
+          "hi": "जे.ई. पुर्किंजे (J.E. Purkinje)",
+          "en": "J.E. Purkinje"
+        },
+        {
+          "hi": "हक्सले (Huxley)",
+          "en": "Huxley"
+        },
+        {
+          "hi": "डुजार्डिन (सारकोड नाम दिया)",
+          "en": "Dujardin"
+        },
+        {
+          "hi": "मैक्स शुल्त्ज",
+          "en": "Max Schultze"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोशिका के केंद्रक (Nucleus) की खोज 1831 में किसने की थी?",
+        "en": "Who discovered the cell nucleus in 1831 (in orchid root cells)?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट हुक (Robert Hooke)",
+          "en": "Robert Hooke"
+        },
+        {
+          "hi": "रॉबर्ट ब्राउन (Robert Brown)",
+          "en": "Robert Brown"
+        },
+        {
+          "hi": "कैमिलो गॉल्जी (Camillo Golgi)",
+          "en": "Camillo Golgi"
+        },
+        {
+          "hi": "क्रिश्चियन डी डुवे",
+          "en": "Christian de Duve"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कोशिका का 'नियंत्रण केंद्र' (Brain/Control Center of Cell) किसे कहा जाता है?",
+        "en": "Which organelle is considered the 'Control Center' or 'Brain' of the cell?"
+      },
+      "o": [
+        {
+          "hi": "माइटोकॉन्ड्रिया (Mitochondria)",
+          "en": "Mitochondria"
+        },
+        {
+          "hi": "गॉल्जीकाय (Golgi Body)",
+          "en": "Golgi Body"
+        },
+        {
+          "hi": "केंद्रक (Nucleus)",
+          "en": "Nucleus"
+        },
+        {
+          "hi": "लाइसोसोम (Lysosome)",
+          "en": "Lysosome"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कोशिका का 'ऊर्जा गृह' / पावर हाउस (Powerhouse of the Cell) किसे कहा जाता है?",
+        "en": "Which organelle is known as the 'Powerhouse of the Cell'?"
+      },
+      "o": [
+        {
+          "hi": "राइबोसोम (Ribosome)",
+          "en": "Ribosome"
+        },
+        {
+          "hi": "लाइसोसोम (Lysosome)",
+          "en": "Lysosome"
+        },
+        {
+          "hi": "क्लोरोप्लास्ट (Chloroplast)",
+          "en": "Chloroplast"
+        },
+        {
+          "hi": "माइटोकॉन्ड्रिया (Mitochondria)",
+          "en": "Mitochondria"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "माइटोकॉन्ड्रिया में कोशिकीय श्वसन द्वारा ऊर्जा किस रूप में संचित होती है?",
+        "en": "In what chemical form is energy stored in mitochondria through cellular respiration?"
+      },
+      "o": [
+        {
+          "hi": "एटीपी (ATP - Adenosine Triphosphate)",
+          "en": "ATP (Adenosine Triphosphate)"
+        },
+        {
+          "hi": "एडीपी (ADP)",
+          "en": "ADP"
+        },
+        {
+          "hi": "ग्लूकोज (Glucose)",
+          "en": "Glucose"
+        },
+        {
+          "hi": "डीएनए (DNA)",
+          "en": "DNA"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "माइटोकॉन्ड्रिया की खोज 1890 में अल्टमैन ने किस नाम से की थी?",
+        "en": "Under what name did Richard Altmann discover mitochondria in 1890?"
+      },
+      "o": [
+        {
+          "hi": "माइटोकॉन्ड्रिया (बेंडा ने दिया)",
+          "en": "Mitochondria (named by Benda)"
+        },
+        {
+          "hi": "बायोब्लास्ट (Bioblast)",
+          "en": "Bioblast"
+        },
+        {
+          "hi": "सारकोसोम",
+          "en": "Sarcosome"
+        },
+        {
+          "hi": "कॉन्ड्रियोसोम",
+          "en": "Chondriosome"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "माइटोकॉन्ड्रिया को 'माइटोकॉन्ड्रिया' नाम 1898 में किस वैज्ञानिक ने दिया?",
+        "en": "Who coined the term 'Mitochondria' in 1898?"
+      },
+      "o": [
+        {
+          "hi": "रिचर्ड अल्टमैन",
+          "en": "Richard Altmann"
+        },
+        {
+          "hi": "अल्बर्ट वॉन कोलिकर",
+          "en": "Albert von Kolliker"
+        },
+        {
+          "hi": "कार्ल बेंडा (Carl Benda)",
+          "en": "Carl Benda"
+        },
+        {
+          "hi": "कैमिलो गॉल्जी",
+          "en": "Camillo Golgi"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "माइटोकॉन्ड्रिया की आंतरिक झिल्ली के अंगुलीनुमा वलन (Folds) क्या कहलाते हैं?",
+        "en": "What are the inner membrane folds of mitochondria called?"
+      },
+      "o": [
+        {
+          "hi": "ग्रेना (Grana)",
+          "en": "Grana"
+        },
+        {
+          "hi": "सिस्टर्नी (Cisternae)",
+          "en": "Cisternae"
+        },
+        {
+          "hi": "थाइलाकोइड (Thylakoids)",
+          "en": "Thylakoids"
+        },
+        {
+          "hi": "क्रिस्टी (Cristae)",
+          "en": "Cristae"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कोशिका का कौन-सा अंगक अपना स्वयं का डीएनए (DNA) और 70S राइबोसोम रखता है?",
+        "en": "Which semi-autonomous cell organelles possess their own circular DNA and 70S ribosomes?"
+      },
+      "o": [
+        {
+          "hi": "माइटोकॉन्ड्रिया और क्लोरोप्लास्ट",
+          "en": "Mitochondria and Chloroplasts"
+        },
+        {
+          "hi": "लाइसोसोम और राइबोसोम",
+          "en": "Lysosomes and Ribosomes"
+        },
+        {
+          "hi": "गॉल्जीकाय और अंतःप्रद्रव्यी जालिका",
+          "en": "Golgi and Endoplasmic Reticulum"
+        },
+        {
+          "hi": "तारककाय और रसधानी",
+          "en": "Centrosome and Vacuole"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोशिका की 'प्रोटीन फैक्ट्री' (Protein Factory of Cell) किसे कहा जाता है?",
+        "en": "Which organelle is called the 'Protein Factory' of the cell?"
+      },
+      "o": [
+        {
+          "hi": "माइटोकॉन्ड्रिया (Mitochondria)",
+          "en": "Mitochondria"
+        },
+        {
+          "hi": "राइबोसोम (Ribosome - खोजकर्ता: जॉर्ज पैलाडे, 1955)",
+          "en": "Ribosome (Discovered by George Palade, 1955)"
+        },
+        {
+          "hi": "लाइसोसोम (Lysosome)",
+          "en": "Lysosome"
+        },
+        {
+          "hi": "गॉल्जीकाय (Golgi Body)",
+          "en": "Golgi Body"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कोशिका का सबसे छोटा झिल्ली-रहित अंगक (Membraneless Organelle) कौन-सा है?",
+        "en": "Which is the smallest non-membrane bound organelle in a cell?"
+      },
+      "o": [
+        {
+          "hi": "लाइसोसोम (Lysosome)",
+          "en": "Lysosome"
+        },
+        {
+          "hi": "परॉक्सिसोम (Peroxisome)",
+          "en": "Peroxisome"
+        },
+        {
+          "hi": "राइबोसोम (Ribosome)",
+          "en": "Ribosome"
+        },
+        {
+          "hi": "सेंट्रोसोम (Centrosome)",
+          "en": "Centrosome"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कोशिका की 'आत्महत्या की थैली' (Suicide Bag of the Cell) किसे कहा जाता है?",
+        "en": "Which organelle is known as the 'Suicide Bag' of the cell?"
+      },
+      "o": [
+        {
+          "hi": "राइबोसोम (Ribosome)",
+          "en": "Ribosome"
+        },
+        {
+          "hi": "माइटोकॉन्ड्रिया (Mitochondria)",
+          "en": "Mitochondria"
+        },
+        {
+          "hi": "गॉल्जीकाय (Golgi Body)",
+          "en": "Golgi Body"
+        },
+        {
+          "hi": "लाइसोसोम (Lysosome - खोजकर्ता: डी डुवे, 1955)",
+          "en": "Lysosome (Discovered by Christian de Duve, 1955)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लाइसोसोम में लगभग कितने प्रकार के जल-अपघटकीय पाचक एंजाइम (Hydrolytic Enzymes) होते हैं?",
+        "en": "Approximately how many types of hydrolytic digestive enzymes are present in lysosomes?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 40 से 50 प्रकार के पाचक एंजाइम",
+          "en": "About 40 to 50 types of enzymes"
+        },
+        {
+          "hi": "केवल 5 प्रकार के",
+          "en": "Only 5 types"
+        },
+        {
+          "hi": "लगभग 10 प्रकार के",
+          "en": "About 10 types"
+        },
+        {
+          "hi": "100 से अधिक प्रकार के",
+          "en": "Over 100 types"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोशिका का 'यातायात प्रबंधक' (Traffic Police / Traffic Manager of Cell) किसे कहते हैं?",
+        "en": "Which organelle is acclaimed as the 'Traffic Controller' of the cell?"
+      },
+      "o": [
+        {
+          "hi": "अंतःप्रद्रव्यी जालिका (ER)",
+          "en": "Endoplasmic Reticulum"
+        },
+        {
+          "hi": "गॉल्जीकाय (Golgi Apparatus / Camillo Golgi, 1898)",
+          "en": "Golgi Apparatus (Camillo Golgi, 1898)"
+        },
+        {
+          "hi": "लाइसोसोम (Lysosome)",
+          "en": "Lysosome"
+        },
+        {
+          "hi": "माइटोकॉन्ड्रिया (Mitochondria)",
+          "en": "Mitochondria"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "शुक्राणु (Sperm) के अग्र भाग 'एक्रोसोम' (Acrosome) का निर्माण किस अंगक द्वारा होता है?",
+        "en": "Which cell organelle is responsible for the formation of the sperm's acrosome?"
+      },
+      "o": [
+        {
+          "hi": "माइटोकॉन्ड्रिया (Mitochondria)",
+          "en": "Mitochondria"
+        },
+        {
+          "hi": "राइबोसोम (Ribosome)",
+          "en": "Ribosome"
+        },
+        {
+          "hi": "गॉल्जीकाय (Golgi Apparatus)",
+          "en": "Golgi Apparatus"
+        },
+        {
+          "hi": "सेंट्रोसोम (Centrosome)",
+          "en": "Centrosome"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पादपों में गॉल्जीकाय की बिखरी हुई इकाइयों को क्या कहा जाता है?",
+        "en": "What are the scattered, unconnected subunits of Golgi apparatus in plant cells called?"
+      },
+      "o": [
+        {
+          "hi": "ग्लाइऑक्सीसोम (Glyoxysomes)",
+          "en": "Glyoxysomes"
+        },
+        {
+          "hi": "परॉक्सिसोम (Peroxisomes)",
+          "en": "Peroxisomes"
+        },
+        {
+          "hi": "मीसोसोम (Mesosomes)",
+          "en": "Mesosomes"
+        },
+        {
+          "hi": "डिक्टियोसोम (Dictyosomes)",
+          "en": "Dictyosomes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "खुरदरी अंतःप्रद्रव्यी जालिका (RER) की सतह पर क्या चिपके रहने के कारण वह खुरदरी दिखती है?",
+        "en": "What particles are attached to the outer surface of Rough ER making it appear rough?"
+      },
+      "o": [
+        {
+          "hi": "राइबोसोम (Ribosomes - प्रोटीन संश्लेषण हेतु)",
+          "en": "Ribosomes (For protein synthesis)"
+        },
+        {
+          "hi": "लाइसोसोम (Lysosomes)",
+          "en": "Lysosomes"
+        },
+        {
+          "hi": "लिपिड कण (Lipids)",
+          "en": "Lipid droplets"
+        },
+        {
+          "hi": "क्लोरोप्लास्ट (Chloroplasts)",
+          "en": "Chloroplasts"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चिकनी अंतःप्रद्रव्यी जालिका (SER) का मुख्य कार्य क्या है?",
+        "en": "What is the primary cellular function of Smooth Endoplasmic Reticulum (SER)?"
+      },
+      "o": [
+        {
+          "hi": "केवल प्रोटीन संश्लेषण",
+          "en": "Only protein synthesis"
+        },
+        {
+          "hi": "लिपिड एवं स्टेरॉयड संश्लेषण तथा विषैले पदार्थों का विषहरण",
+          "en": "Lipid/steroid synthesis & detoxification"
+        },
+        {
+          "hi": "सेल्युलोज का निर्माण",
+          "en": "Cellulose formation"
+        },
+        {
+          "hi": "एटीपी का उत्पादन",
+          "en": "ATP generation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पादप कोशिका की 'रसोई' (Kitchen of the Plant Cell) किसे कहा जाता है?",
+        "en": "Which organelle is called the 'Kitchen of the Plant Cell'?"
+      },
+      "o": [
+        {
+          "hi": "माइटोकॉन्ड्रिया (Mitochondria)",
+          "en": "Mitochondria"
+        },
+        {
+          "hi": "रसधानी / रिक्तिका (Vacuole)",
+          "en": "Vacuole"
+        },
+        {
+          "hi": "हरित लवक / क्लोरोप्लास्ट (Chloroplast)",
+          "en": "Chloroplast"
+        },
+        {
+          "hi": "राइबोसोम (Ribosome)",
+          "en": "Ribosome"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "टमाटर का लाल रंग किस वर्णक (Pigment) के कारण होता है?",
+        "en": "The bright red color of ripe tomato is due to which chromoplast pigment?"
+      },
+      "o": [
+        {
+          "hi": "कैरोटीन (Carotene)",
+          "en": "Carotene"
+        },
+        {
+          "hi": "एंथोसायनिन (Anthocyanin)",
+          "en": "Anthocyanin"
+        },
+        {
+          "hi": "बीटानिन (Betanin)",
+          "en": "Betanin"
+        },
+        {
+          "hi": "लाइकोपीन (Lycopene)",
+          "en": "Lycopene"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गाजर का नारंगी/पीला रंग किस वर्णक की उपस्थिति के कारण होता है?",
+        "en": "The orange color of carrots is due to the presence of which pigment?"
+      },
+      "o": [
+        {
+          "hi": "कैरोटीन (Carotene / Beta-carotene)",
+          "en": "Carotene (Beta-carotene)"
+        },
+        {
+          "hi": "लाइकोपीन (Lycopene)",
+          "en": "Lycopene"
+        },
+        {
+          "hi": "क्लोरोफिल (Chlorophyll)",
+          "en": "Chlorophyll"
+        },
+        {
+          "hi": "जैंथोफिल (Xanthophyll)",
+          "en": "Xanthophyll"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चुकंदर (Beetroot) का गहरा बैंगनी-लाल रंग किस वर्णक के कारण होता है?",
+        "en": "The deep reddish-purple color of beetroot is due to which pigment?"
+      },
+      "o": [
+        {
+          "hi": "लाइकोपीन",
+          "en": "Lycopene"
+        },
+        {
+          "hi": "बीटानिन (Betanin)",
+          "en": "Betanin"
+        },
+        {
+          "hi": "कैरोटीन",
+          "en": "Carotene"
+        },
+        {
+          "hi": "जैंथोफिल",
+          "en": "Xanthophyll"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पत्तियों का पीला रंग किस वर्णक के निर्माण के कारण होता है?",
+        "en": "The yellow color of senescent leaves is due to the formation of which pigment?"
+      },
+      "o": [
+        {
+          "hi": "क्लोरोफिल-ए",
+          "en": "Chlorophyll-a"
+        },
+        {
+          "hi": "बीटानिन",
+          "en": "Betanin"
+        },
+        {
+          "hi": "कैरोटीन तथा जैंथोफिल",
+          "en": "Carotene and Xanthophyll"
+        },
+        {
+          "hi": "लाइकोपीन",
+          "en": "Lycopene"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जंतु कोशिका में कोशिका विभाजन के समय तर्कु तंतुओं (Spindle Fibres) का निर्माण कौन करता है?",
+        "en": "In animal cells, which organelle forms the spindle apparatus during cell division?"
+      },
+      "o": [
+        {
+          "hi": "गॉल्जीकाय (Golgi)",
+          "en": "Golgi"
+        },
+        {
+          "hi": "माइटोकॉन्ड्रिया",
+          "en": "Mitochondria"
+        },
+        {
+          "hi": "लाइसोसोम",
+          "en": "Lysosome"
+        },
+        {
+          "hi": "तारककाय / सेंट्रोसोम (Centrosome / Boveri, 1888)",
+          "en": "Centrosome (Boveri, 1888)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पादप कोशिका की रसधानी / रिक्तिका (Vacuole) को घेरने वाली एकल झिल्ली क्या कहलाती है?",
+        "en": "What is the single semi-permeable membrane enclosing the plant vacuole called?"
+      },
+      "o": [
+        {
+          "hi": "टोनोप्लास्ट (Tonoplast)",
+          "en": "Tonoplast"
+        },
+        {
+          "hi": "प्लाज्मालेम्मा (Plasmalemma)",
+          "en": "Plasmalemma"
+        },
+        {
+          "hi": "सेल्युलोज भित्ति",
+          "en": "Cellulose wall"
+        },
+        {
+          "hi": "थाइलाकोइड झिल्ली",
+          "en": "Thylakoid membrane"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पादप कोशिका और जंतु कोशिका में मुख्य अंतर क्या है?",
+        "en": "What is a primary distinguishing feature between plant and animal cells?"
+      },
+      "o": [
+        {
+          "hi": "जंतु कोशिका में माइटोकॉन्ड्रिया नहीं होता",
+          "en": "Animal cells lack mitochondria"
+        },
+        {
+          "hi": "पादप कोशिका में कोशिका भित्ति व लवक होते हैं, जो जंतु कोशिका में नहीं होते",
+          "en": "Plant cells have cell wall and plastids; animal cells lack them"
+        },
+        {
+          "hi": "पादप कोशिका में केंद्रक नहीं होता",
+          "en": "Plant cells lack a nucleus"
+        },
+        {
+          "hi": "जंतु कोशिका में राइबोसोम नहीं होते",
+          "en": "Animal cells lack ribosomes"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर की कायिक कोशिकाओं (Somatic Cells) में कुल कितने गुणसूत्र (Chromosomes) होते हैं?",
+        "en": "How many total chromosomes (and pairs) are present in human somatic cells?"
+      },
+      "o": [
+        {
+          "hi": "44 गुणसूत्र (22 जोड़े)",
+          "en": "44 Chromosomes"
+        },
+        {
+          "hi": "48 गुणसूत्र (24 जोड़े)",
+          "en": "48 Chromosomes"
+        },
+        {
+          "hi": "46 गुणसूत्र (23 जोड़े)",
+          "en": "46 Chromosomes (23 Pairs)"
+        },
+        {
+          "hi": "42 गुणसूत्र (21 जोड़े)",
+          "en": "42 Chromosomes"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गुणसूत्र (Chromosome) शब्द का सर्वप्रथम प्रयोग 1888 में किस वैज्ञानिक ने किया था?",
+        "en": "Who coined the term 'Chromosome' in 1888?"
+      },
+      "o": [
+        {
+          "hi": "वाल्थर फ्लेमिंग (Walther Flemming)",
+          "en": "Walther Flemming"
+        },
+        {
+          "hi": "टी.एच. मॉर्गन (T.H. Morgan)",
+          "en": "T.H. Morgan"
+        },
+        {
+          "hi": "ग्रेगर मेंडल (Gregor Mendel)",
+          "en": "Gregor Mendel"
+        },
+        {
+          "hi": "डब्ल्यू. वाल्डेयर (Wilhelm von Waldeyer)",
+          "en": "Wilhelm von Waldeyer"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गुणसूत्रों की संरचना और आकारिकी का अध्ययन कोशिका विभाजन की किस अवस्था में सबसे स्पष्ट होता है?",
+        "en": "At which stage of cell division is chromosome morphology and number best studied?"
+      },
+      "o": [
+        {
+          "hi": "मध्यावस्था / मेटाफेज (Metaphase)",
+          "en": "Metaphase"
+        },
+        {
+          "hi": "पूर्वावस्था / प्रोफेज (Prophase)",
+          "en": "Prophase"
+        },
+        {
+          "hi": "पश्चावस्था / एनाफेज (Anaphase)",
+          "en": "Anaphase"
+        },
+        {
+          "hi": "अंत्यावस्था / टेलोफेज (Telophase)",
+          "en": "Telophase"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समसूत्री कोशिका विभाजन (Mitosis) की खोज 1882 में जन्तु कोशिकाओं में किसने की थी?",
+        "en": "Who discovered and described Mitosis in animal cells in 1882?"
+      },
+      "o": [
+        {
+          "hi": "रुडोल्फ विरचो",
+          "en": "Rudolf Virchow"
+        },
+        {
+          "hi": "वाल्थर फ्लेमिंग (Walther Flemming)",
+          "en": "Walther Flemming"
+        },
+        {
+          "hi": "फार्मर तथा मूर",
+          "en": "Farmer and Moore"
+        },
+        {
+          "hi": "एडुआर्ड स्ट्रासबर्गर",
+          "en": "Eduard Strasburger"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'अर्धसूत्री विभाजन' (Meiosis) शब्द 1905 में किन वैज्ञानिकों द्वारा दिया गया था?",
+        "en": "Who coined the term 'Meiosis' for reductional division in 1905?"
+      },
+      "o": [
+        {
+          "hi": "वाल्थर फ्लेमिंग",
+          "en": "Walther Flemming"
+        },
+        {
+          "hi": "वान बेनेडेन (Van Beneden)",
+          "en": "Van Beneden"
+        },
+        {
+          "hi": "फार्मर तथा मूर (J.B. Farmer & J.E.S. Moore)",
+          "en": "J.B. Farmer and J.E.S. Moore"
+        },
+        {
+          "hi": "ऑस्कर हर्टविग (Oscar Hertwig)",
+          "en": "Oscar Hertwig"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अर्धसूत्री विभाजन के प्रोफेज-I की किस उप-अवस्था में 'क्रॉसिंग ओवर' (Crossing Over) होता है?",
+        "en": "During which substage of Prophase-I in Meiosis does genetic Crossing Over occur?"
+      },
+      "o": [
+        {
+          "hi": "लेप्टोटीन अवस्था (Leptotene)",
+          "en": "Leptotene"
+        },
+        {
+          "hi": "जाइगोटीन अवस्था (Zygotene)",
+          "en": "Zygotene"
+        },
+        {
+          "hi": "डिप्लोटीन अवस्था (Diplotene)",
+          "en": "Diplotene"
+        },
+        {
+          "hi": "पैकिटीन अवस्था (Pachytene)",
+          "en": "Pachytene stage"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अर्धसूत्री विभाजन के परिणामस्वरूप एक जनक कोशिका से कितनी संतति कोशिकाएं (Daughter Cells) बनती हैं?",
+        "en": "How many haploid daughter cells are produced from a single parent cell after Meiosis?"
+      },
+      "o": [
+        {
+          "hi": "4 अगुणित (Haploid) कोशिकाएं",
+          "en": "4 Haploid Cells"
+        },
+        {
+          "hi": "2 द्विगुणित (Diploid) कोशिकाएं",
+          "en": "2 Diploid Cells"
+        },
+        {
+          "hi": "2 अगुणित कोशिकाएं",
+          "en": "2 Haploid Cells"
+        },
+        {
+          "hi": "8 अगुणित कोशिकाएं",
+          "en": "8 Haploid Cells"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शरीर के घावों को भरने और शारीरिक वृद्धि व मरम्मत के लिए कौन-सा कोशिका विभाजन आवश्यक है?",
+        "en": "Which type of cell division is responsible for body growth, tissue repair, and wound healing?"
+      },
+      "o": [
+        {
+          "hi": "अर्धसूत्री विभाजन (Meiosis)",
+          "en": "Meiosis"
+        },
+        {
+          "hi": "समसूत्री विभाजन (Mitosis)",
+          "en": "Mitosis"
+        },
+        {
+          "hi": "असूत्री विभाजन (Amitosis)",
+          "en": "Amitosis"
+        },
+        {
+          "hi": "विखंडन (Fission)",
+          "en": "Fission"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

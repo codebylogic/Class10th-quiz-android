@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - जीव विज्ञान (Biology)",
+  "subtitle": "जीवधारियों का वर्गीकरण",
+  "description": "जीवधारियों का वर्गीकरण पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "जीव विज्ञान (Biology) और जंतु विज्ञान (Zoology) का जनक किसे कहा जाता है?",
+        "en": "Who is known as the Father of Biology and Zoology?"
+      },
+      "o": [
+        {
+          "hi": "अरस्तू (Aristotle)",
+          "en": "Aristotle"
+        },
+        {
+          "hi": "थियोफ्रेस्ट्स (Theophrastus)",
+          "en": "Theophrastus"
+        },
+        {
+          "hi": "कैरोलस लिनियस (Carolus Linnaeus)",
+          "en": "Carolus Linnaeus"
+        },
+        {
+          "hi": "लैमार्क (Lamarck)",
+          "en": "Lamarck"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'बायोलॉजी' (Biology) शब्द का सर्वप्रथम प्रयोग 1801 ई. में किन वैज्ञानिकों ने किया था?",
+        "en": "Who first coined and used the term 'Biology' in 1801?"
+      },
+      "o": [
+        {
+          "hi": "अरस्तू तथा प्लेटो",
+          "en": "Aristotle and Plato"
+        },
+        {
+          "hi": "लैमार्क तथा ट्रेविरेनस (Lamarck & Treviranus)",
+          "en": "Lamarck and Treviranus"
+        },
+        {
+          "hi": "लिनियस तथा डार्विन",
+          "en": "Linnaeus and Darwin"
+        },
+        {
+          "hi": "रॉबर्ट हुक तथा ब्राउन",
+          "en": "Robert Hooke and Brown"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वनस्पति विज्ञान (Botany) का जनक किसे माना जाता है?",
+        "en": "Who is regarded as the Father of Botany?"
+      },
+      "o": [
+        {
+          "hi": "अरस्तू (Aristotle)",
+          "en": "Aristotle"
+        },
+        {
+          "hi": "प्लिनी द एल्डर (Pliny the Elder)",
+          "en": "Pliny the Elder"
+        },
+        {
+          "hi": "थियोफ्रेस्ट्स (Theophrastus - पुस्तक: Historia Plantarum)",
+          "en": "Theophrastus (Book: Historia Plantarum)"
+        },
+        {
+          "hi": "ग्रेगर जॉन मेंडल (Gregor Mendel)",
+          "en": "Gregor Johann Mendel"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जीवधारियों के वर्गीकरण की 'द्वि-जगत प्रणाली' (Two-Kingdom Classification) किसने दी थी?",
+        "en": "Who proposed the Two-Kingdom System of classification (Plantae and Animalia)?"
+      },
+      "o": [
+        {
+          "hi": "आर.एच. व्हिटेकर (R.H. Whittaker)",
+          "en": "R.H. Whittaker"
+        },
+        {
+          "hi": "अर्न्स्ट हेकेल (Ernst Haeckel)",
+          "en": "Ernst Haeckel"
+        },
+        {
+          "hi": "कार्ल वूज (Carl Woese)",
+          "en": "Carl Woese"
+        },
+        {
+          "hi": "कैरोलस लिनियस (Carolus Linnaeus, 1735)",
+          "en": "Carolus Linnaeus (1735)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'आधुनिक वर्गीकरण का पिता' (Father of Modern Taxonomy) किसे कहा जाता है?",
+        "en": "Who is known as the 'Father of Modern Taxonomy'?"
+      },
+      "o": [
+        {
+          "hi": "कैरोलस लिनियस (Carolus Linnaeus)",
+          "en": "Carolus Linnaeus"
+        },
+        {
+          "hi": "चार्ल्स डार्विन (Charles Darwin)",
+          "en": "Charles Darwin"
+        },
+        {
+          "hi": "जॉर्ज बेंथम (George Bentham)",
+          "en": "George Bentham"
+        },
+        {
+          "hi": "हचिंसन (Hutchinson)",
+          "en": "Hutchinson"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कैरोलस लिनियस द्वारा लिखित प्रसिद्ध पुस्तक कौन-सी है जिसमें जीवों का वर्गीकरण दिया गया?",
+        "en": "Which famous book by Carolus Linnaeus laid the foundation for biological taxonomy?"
+      },
+      "o": [
+        {
+          "hi": "हिस्टोरिया एनिमेलियम",
+          "en": "Historia Animalium"
+        },
+        {
+          "hi": "सिस्टेमा नेचुरी (Systema Naturae, 1735)",
+          "en": "Systema Naturae (1735)"
+        },
+        {
+          "hi": "ओरिजिन ऑफ स्पीशीज",
+          "en": "Origin of Species"
+        },
+        {
+          "hi": "फिलोसोफिक जूलॉजिक",
+          "en": "Philosophie Zoologique"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जीवों के नामकरण की 'द्विनाम पद्धति' (Binomial Nomenclature) किसने प्रस्तुत की थी?",
+        "en": "Who introduced the system of Binomial Nomenclature for scientific naming in 1753?"
+      },
+      "o": [
+        {
+          "hi": "थियोफ्रेस्ट्स",
+          "en": "Theophrastus"
+        },
+        {
+          "hi": "जॉन रे (John Ray)",
+          "en": "John Ray"
+        },
+        {
+          "hi": "कैरोलस लिनियस (Carolus Linnaeus)",
+          "en": "Carolus Linnaeus"
+        },
+        {
+          "hi": "जी.एल. बफन",
+          "en": "G.L. Buffon"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "द्विनाम पद्धति में वैज्ञानिक नाम के दो भाग क्रमशः क्या प्रदर्शित करते हैं?",
+        "en": "In Binomial Nomenclature, what do the two words in a scientific name represent?"
+      },
+      "o": [
+        {
+          "hi": "कुल (Family) और गण (Order)",
+          "en": "Family and Order"
+        },
+        {
+          "hi": "जगत (Kingdom) और संघ (Phylum)",
+          "en": "Kingdom and Phylum"
+        },
+        {
+          "hi": "वर्ग (Class) और उपवर्ग (Subclass)",
+          "en": "Class and Subclass"
+        },
+        {
+          "hi": "वंश (Genus) और जाति (Species)",
+          "en": "Genus and Species"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव (मनुष्य) का वैज्ञानिक नाम क्या है?",
+        "en": "What is the scientific name of human beings?"
+      },
+      "o": [
+        {
+          "hi": "होमो सेपियंस (Homo sapiens)",
+          "en": "Homo sapiens"
+        },
+        {
+          "hi": "पैंथरा टाइग्रिस (Panthera tigris)",
+          "en": "Panthera tigris"
+        },
+        {
+          "hi": "राणा टिग्रीना (Rana tigrina)",
+          "en": "Rana tigrina"
+        },
+        {
+          "hi": "कैनिस फैमिलिएरिस (Canis familiaris)",
+          "en": "Canis familiaris"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मेंढक (Frog) का वैज्ञानिक नाम क्या है?",
+        "en": "What is the scientific name of the Indian bullfrog?"
+      },
+      "o": [
+        {
+          "hi": "होमो सेपियंस",
+          "en": "Homo sapiens"
+        },
+        {
+          "hi": "राणा टिग्रीना (Rana tigrina)",
+          "en": "Rana tigrina"
+        },
+        {
+          "hi": "फेलिस डोमेस्टिका",
+          "en": "Felis domestica"
+        },
+        {
+          "hi": "बॉस इंडिकस",
+          "en": "Bos indicus"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बिल्ली (Cat) का वैज्ञानिक नाम क्या है?",
+        "en": "What is the scientific name of the domestic cat?"
+      },
+      "o": [
+        {
+          "hi": "कैनिस फैमिलिएरिस",
+          "en": "Canis familiaris"
+        },
+        {
+          "hi": "पैंथरा लियो",
+          "en": "Panthera leo"
+        },
+        {
+          "hi": "फेलिस डोमेस्टिका (Felis domestica)",
+          "en": "Felis domestica"
+        },
+        {
+          "hi": "मस्का डोमेस्टिका",
+          "en": "Musca domestica"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कुत्ता (Dog) का वैज्ञानिक नाम क्या है?",
+        "en": "What is the scientific name of the domestic dog?"
+      },
+      "o": [
+        {
+          "hi": "फेलिस डोमेस्टिका",
+          "en": "Felis domestica"
+        },
+        {
+          "hi": "बॉस इंडिकस",
+          "en": "Bos indicus"
+        },
+        {
+          "hi": "सस डोमेस्टिका",
+          "en": "Sus domestica"
+        },
+        {
+          "hi": "कैनिस फैमिलिएरिस (Canis familiaris)",
+          "en": "Canis familiaris"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गाय (Indian Cow) का वैज्ञानिक नाम क्या है?",
+        "en": "What is the scientific name of the Indian humped cow (Zebu)?"
+      },
+      "o": [
+        {
+          "hi": "बॉस इंडिकस (Bos indicus)",
+          "en": "Bos indicus"
+        },
+        {
+          "hi": "बुबालस बुबालिस",
+          "en": "Bubalus bubalis"
+        },
+        {
+          "hi": "कैनिस फैमिलिएरिस",
+          "en": "Canis familiaris"
+        },
+        {
+          "hi": "इक्वस कैबेलस",
+          "en": "Equus caballus"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "घरेलू मक्खी (Housefly) का वैज्ञानिक नाम क्या है?",
+        "en": "What is the scientific name of the common housefly?"
+      },
+      "o": [
+        {
+          "hi": "एपिस इंडिका",
+          "en": "Apis indica"
+        },
+        {
+          "hi": "मस्का डोमेस्टिका (Musca domestica)",
+          "en": "Musca domestica"
+        },
+        {
+          "hi": "बॉम्बिक्स मोरी",
+          "en": "Bombyx mori"
+        },
+        {
+          "hi": "पेरिप्लैनेटा अमेरिकाना",
+          "en": "Periplaneta americana"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आम (Mango) का वैज्ञानिक नाम क्या है?",
+        "en": "What is the scientific name of Mango?"
+      },
+      "o": [
+        {
+          "hi": "ओराइजा सैटाइवा",
+          "en": "Oryza sativa"
+        },
+        {
+          "hi": "ट्रिटिकम एस्टिवम",
+          "en": "Triticum aestivum"
+        },
+        {
+          "hi": "मैंगिफेरा इंडिका (Mangifera indica)",
+          "en": "Mangifera indica"
+        },
+        {
+          "hi": "पाइसम सैटाइवम",
+          "en": "Pisum sativum"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "धान / चावल (Paddy/Rice) का वैज्ञानिक नाम क्या है?",
+        "en": "What is the scientific name of Rice/Paddy?"
+      },
+      "o": [
+        {
+          "hi": "ट्रिटिकम एस्टिवम",
+          "en": "Triticum aestivum"
+        },
+        {
+          "hi": "जिया मेज",
+          "en": "Zea mays"
+        },
+        {
+          "hi": "मैंगिफेरा इंडिका",
+          "en": "Mangifera indica"
+        },
+        {
+          "hi": "ओराइजा सैटाइवा (Oryza sativa)",
+          "en": "Oryza sativa"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गेहूं (Wheat) का वैज्ञानिक नाम क्या है?",
+        "en": "What is the scientific name of Wheat?"
+      },
+      "o": [
+        {
+          "hi": "ट्रिटिकम एस्टिवम (Triticum aestivum)",
+          "en": "Triticum aestivum"
+        },
+        {
+          "hi": "ओराइजा सैटाइवा",
+          "en": "Oryza sativa"
+        },
+        {
+          "hi": "हॉर्डियम वल्गारे",
+          "en": "Hordeum vulgare"
+        },
+        {
+          "hi": "ब्रासिका कैम्पेस्ट्रिस",
+          "en": "Brassica campestris"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मटर (Pea) का वैज्ञानिक नाम क्या है जिस पर मेंडल ने आनुवंशिकी के प्रयोग किए?",
+        "en": "What is the scientific name of the Garden Pea on which Mendel experimented?"
+      },
+      "o": [
+        {
+          "hi": "कैजैनस कजान",
+          "en": "Cajanus cajan"
+        },
+        {
+          "hi": "पाइसम सैटाइवम (Pisum sativum)",
+          "en": "Pisum sativum"
+        },
+        {
+          "hi": "साइसर एराइटिनम",
+          "en": "Cicer arietinum"
+        },
+        {
+          "hi": "ग्लाइसिन मैक्स",
+          "en": "Glycine max"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सरसों (Mustard) का वैज्ञानिक नाम क्या है?",
+        "en": "What is the scientific name of Mustard?"
+      },
+      "o": [
+        {
+          "hi": "हेलिएन्थस एनस",
+          "en": "Helianthus annuus"
+        },
+        {
+          "hi": "राफेनस सैटाइवस",
+          "en": "Raphanus sativus"
+        },
+        {
+          "hi": "ब्रासिका कैम्पेस्ट्रिस (Brassica campestris)",
+          "en": "Brassica campestris"
+        },
+        {
+          "hi": "पाइसम सैटाइवम",
+          "en": "Pisum sativum"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चना (Gram/Chickpea) का वैज्ञानिक नाम क्या है?",
+        "en": "What is the scientific name of Chickpea / Bengal Gram?"
+      },
+      "o": [
+        {
+          "hi": "पाइसम सैटाइवम",
+          "en": "Pisum sativum"
+        },
+        {
+          "hi": "ओराइजा सैटाइवा",
+          "en": "Oryza sativa"
+        },
+        {
+          "hi": "मैंगिफेरा इंडिका",
+          "en": "Mangifera indica"
+        },
+        {
+          "hi": "साइसर एराइटिनम (Cicer arietinum)",
+          "en": "Cicer arietinum"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जीवधारियों के वर्गीकरण की 'पाँच-जगत प्रणाली' (Five-Kingdom System) 1969 में किसने दी?",
+        "en": "Who proposed the Five-Kingdom Classification of living organisms in 1969?"
+      },
+      "o": [
+        {
+          "hi": "आर.एच. व्हिटेकर (R.H. Whittaker)",
+          "en": "R.H. Whittaker"
+        },
+        {
+          "hi": "कैरोलस लिनियस",
+          "en": "Carolus Linnaeus"
+        },
+        {
+          "hi": "अर्न्स्ट हेकेल",
+          "en": "Ernst Haeckel"
+        },
+        {
+          "hi": "हरबर्ट कोपलैंड",
+          "en": "Herbert Copeland"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "व्हिटेकर की पाँच-जगत प्रणाली में कौन-से 5 जगत शामिल हैं?",
+        "en": "What are the five kingdoms in Whittaker's classification system?"
+      },
+      "o": [
+        {
+          "hi": "जीवाणु, विषाणु, शैवाल, कवक, जंतु",
+          "en": "Bacteria, Virus, Algae, Fungi, Animalia"
+        },
+        {
+          "hi": "मोनेरा, प्रोटिस्टा, कवक, पादप, जंतु",
+          "en": "Monera, Protista, Fungi, Plantae, Animalia"
+        },
+        {
+          "hi": "प्रोकैरियोट, यूकैरियोट, पादप, जंतु, खनिज",
+          "en": "Prokaryote, Eukaryote, Plant, Animal, Mineral"
+        },
+        {
+          "hi": "अमीबा, प्रोटोजोआ, कीट, पक्षी, स्तनधारी",
+          "en": "Amoeba, Protozoa, Insect, Bird, Mammal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सभी प्रोकैरियोटिक (अविकसित केंद्रक वाले) एककोशिकीय जीवों को किस जगत में रखा गया है?",
+        "en": "Under which kingdom are all unicellular prokaryotic organisms grouped?"
+      },
+      "o": [
+        {
+          "hi": "प्रोटिस्टा जगत (Kingdom Protista)",
+          "en": "Kingdom Protista"
+        },
+        {
+          "hi": "कवक जगत (Kingdom Fungi)",
+          "en": "Kingdom Fungi"
+        },
+        {
+          "hi": "मोनेरा जगत (Kingdom Monera)",
+          "en": "Kingdom Monera"
+        },
+        {
+          "hi": "पादप जगत (Kingdom Plantae)",
+          "en": "Kingdom Plantae"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जीवाणु (Bacteria), साइनोबैक्टीरिया (नील-हरित शैवाल) और आर्कीबैक्टीरिया किस जगत के सदस्य हैं?",
+        "en": "Bacteria, Cyanobacteria (blue-green algae), and Archaebacteria belong to which kingdom?"
+      },
+      "o": [
+        {
+          "hi": "प्रोटिस्टा (Protista)",
+          "en": "Protista"
+        },
+        {
+          "hi": "प्लांटी (Plantae)",
+          "en": "Plantae"
+        },
+        {
+          "hi": "माइकोटा / कवक (Fungi)",
+          "en": "Fungi"
+        },
+        {
+          "hi": "मोनेरा (Monera)",
+          "en": "Monera"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एककोशिकीय यूकैरियोटिक (विकसित केंद्रक वाले) जीवों को किस जगत में रखा गया है?",
+        "en": "Unicellular eukaryotic organisms (like Amoeba, Paramecium) are placed in which kingdom?"
+      },
+      "o": [
+        {
+          "hi": "प्रोटिस्टा जगत (Kingdom Protista)",
+          "en": "Kingdom Protista"
+        },
+        {
+          "hi": "मोनेरा जगत (Kingdom Monera)",
+          "en": "Kingdom Monera"
+        },
+        {
+          "hi": "कवक जगत (Kingdom Fungi)",
+          "en": "Kingdom Fungi"
+        },
+        {
+          "hi": "एनिमेलिया जगत (Kingdom Animalia)",
+          "en": "Kingdom Animalia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पादप और जंतु जगत के बीच की 'संयोजक कड़ी' (Connecting Link) किसे माना जाता है?",
+        "en": "Which organism is considered the connecting link between Plants and Animals?"
+      },
+      "o": [
+        {
+          "hi": "अमीबा (Amoeba)",
+          "en": "Amoeba"
+        },
+        {
+          "hi": "यूग्लीना (Euglena - इसमें पर्णहरित पाया जाता है)",
+          "en": "Euglena (Contains chlorophyll)"
+        },
+        {
+          "hi": "पैरामीशियम (Paramecium)",
+          "en": "Paramecium"
+        },
+        {
+          "hi": "क्लैमाइडोमोनास (Chlamydomonas)",
+          "en": "Chlamydomonas"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कवक (Fungi) की कोशिका भित्ति (Cell Wall) मुख्य रूप से किस जटिल शर्करा की बनी होती है?",
+        "en": "The cell wall of fungi is primarily composed of which complex carbohydrate?"
+      },
+      "o": [
+        {
+          "hi": "सेल्युलोज (Cellulose)",
+          "en": "Cellulose"
+        },
+        {
+          "hi": "पेक्टिन (Pectin)",
+          "en": "Pectin"
+        },
+        {
+          "hi": "काइटिन (Chitin)",
+          "en": "Chitin"
+        },
+        {
+          "hi": "पेप्टिडोग्लाइकन (Peptidoglycan)",
+          "en": "Peptidoglycan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कवक में पोषण (Nutrition) किस प्रकार का होता है?",
+        "en": "What type of heterotrophic nutrition is typically exhibited by fungi?"
+      },
+      "o": [
+        {
+          "hi": "स्वपोषी प्रकाश संश्लेषक",
+          "en": "Autotrophic Photosynthetic"
+        },
+        {
+          "hi": "प्राणीसमभोजी (Holozoic)",
+          "en": "Holozoic"
+        },
+        {
+          "hi": "रसायन स्वपोषी (Chemoautotrophic)",
+          "en": "Chemoautotrophic"
+        },
+        {
+          "hi": "मृतोपजीवी / अवशोषण द्वारा (Saprophytic / Absorptive)",
+          "en": "Saprophytic / Absorptive"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पादप जगत (Plantae) के जीवों की कोशिका भित्ति मुख्य रूप से किसकी बनी होती है?",
+        "en": "The cell wall of organisms belonging to Kingdom Plantae is primarily made of:"
+      },
+      "o": [
+        {
+          "hi": "सेल्युलोज (Cellulose)",
+          "en": "Cellulose"
+        },
+        {
+          "hi": "काइटिन (Chitin)",
+          "en": "Chitin"
+        },
+        {
+          "hi": "ग्लाइकोजन (Glycogen)",
+          "en": "Glycogen"
+        },
+        {
+          "hi": "लिपिड और प्रोटीन",
+          "en": "Lipids and Proteins"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वर्गीकरण की सबसे छोटी तथा आधारभूत इकाई (Basic Unit of Classification) क्या है?",
+        "en": "What is the lowest, most fundamental unit of biological classification?"
+      },
+      "o": [
+        {
+          "hi": "वंश (Genus)",
+          "en": "Genus"
+        },
+        {
+          "hi": "जाति (Species)",
+          "en": "Species"
+        },
+        {
+          "hi": "कुल (Family)",
+          "en": "Family"
+        },
+        {
+          "hi": "गण (Order)",
+          "en": "Order"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जैविक वर्गीकरण का सही पदानुक्रम (Hierarchy) उच्च से निम्न स्तर की ओर क्या है?",
+        "en": "What is the correct taxonomic hierarchy from highest to lowest rank?"
+      },
+      "o": [
+        {
+          "hi": "जगत -> वर्ग -> संघ -> कुल -> गण -> वंश -> जाति",
+          "en": "Kingdom -> Class -> Phylum -> Family -> Order -> Genus -> Species"
+        },
+        {
+          "hi": "जगत -> कुल -> वर्ग -> संघ -> गण -> वंश -> जाति",
+          "en": "Kingdom -> Family -> Class -> Phylum -> Order -> Genus -> Species"
+        },
+        {
+          "hi": "जगत -> संघ -> वर्ग -> गण -> कुल -> वंश -> जाति",
+          "en": "Kingdom -> Phylum -> Class -> Order -> Family -> Genus -> Species"
+        },
+        {
+          "hi": "संघ -> जगत -> वर्ग -> कुल -> गण -> जाति -> वंश",
+          "en": "Phylum -> Kingdom -> Class -> Family -> Order -> Species -> Genus"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विषाणु (Virus) की खोज 1892 में किस रूसी वैज्ञानिक ने तंबाकू के मोज़ेक रोग के दौरान की थी?",
+        "en": "Who discovered viruses in 1892 while studying Tobacco Mosaic Disease?"
+      },
+      "o": [
+        {
+          "hi": "मार्टिनस बेइजरिंक (M. Beijerinck)",
+          "en": "M. Beijerinck"
+        },
+        {
+          "hi": "डब्ल्यू.एम. स्टेनली (W.M. Stanley)",
+          "en": "W.M. Stanley"
+        },
+        {
+          "hi": "लुई पाश्चर (Louis Pasteur)",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "दिमित्री इवानोवस्की (Dmitri Ivanovsky)",
+          "en": "Dmitri Ivanovsky"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विषाणु (Virus) को किस रूप में वर्गीकृत किया गया है?",
+        "en": "How are viruses classified in biological science?"
+      },
+      "o": [
+        {
+          "hi": "सजीव और निर्जीव के बीच की कड़ी (अकोशिकीय)",
+          "en": "Connecting link between Living and Non-living (Acellular)"
+        },
+        {
+          "hi": "मोनेरा जगत के अंतर्गत प्रोकैरियोट",
+          "en": "Prokaryotes under Monera"
+        },
+        {
+          "hi": "प्रोटिस्टा जगत के सूक्ष्मजीव",
+          "en": "Microbes under Protista"
+        },
+        {
+          "hi": "परपोषी मृतोपजीवी कवक",
+          "en": "Heterotrophic fungi"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विषाणु का क्रिस्टलीकरण (Crystallization) पहली बार 1935 में किसने किया था (नोबेल पुरस्कार 1946)?",
+        "en": "Who first crystallized viruses in 1935 (awarded Nobel Prize in 1946)?"
+      },
+      "o": [
+        {
+          "hi": "दिमित्री इवानोवस्की",
+          "en": "Dmitri Ivanovsky"
+        },
+        {
+          "hi": "डब्ल्यू.एम. स्टेनली (W.M. Stanley)",
+          "en": "W.M. Stanley"
+        },
+        {
+          "hi": "रॉबर्ट कोच",
+          "en": "Robert Koch"
+        },
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग",
+          "en": "Alexander Fleming"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विषाणु (Virus) का आनुवंशिक पदार्थ क्या होता है?",
+        "en": "What constitutes the genetic material of a virus?"
+      },
+      "o": [
+        {
+          "hi": "डीएनए और आरएनए दोनों एक साथ",
+          "en": "Both DNA and RNA together"
+        },
+        {
+          "hi": "केवल प्रोटीन अणु",
+          "en": "Only protein molecules"
+        },
+        {
+          "hi": "या तो डीएनए (DNA) या आरएनए (RNA) [दोनों कभी एक साथ नहीं]",
+          "en": "Either DNA or RNA (never both together)"
+        },
+        {
+          "hi": "केवल राइबोसोम",
+          "en": "Only ribosomes"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विषाणु के न्यूक्लिक अम्ल के चारों ओर स्थित प्रोटीन के आवरण को क्या कहते हैं?",
+        "en": "What is the outer protective protein coat of a virus called?"
+      },
+      "o": [
+        {
+          "hi": "कैप्सोमीयर (Capsomere)",
+          "en": "Capsomere"
+        },
+        {
+          "hi": "पेपिलोन (Papilloma)",
+          "en": "Papilloma"
+        },
+        {
+          "hi": "प्लाज्मा लेम्मा (Plasmalemma)",
+          "en": "Plasmalemma"
+        },
+        {
+          "hi": "कैप्सिड (Capsid)",
+          "en": "Capsid"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जीवाणुओं को संक्रमित कर उन्हें नष्ट करने वाले विषाणु क्या कहलाते हैं?",
+        "en": "Viruses that infect and destroy bacterial cells are termed as:"
+      },
+      "o": [
+        {
+          "hi": "जीवाणुभोजी (Bacteriophage)",
+          "en": "Bacteriophage"
+        },
+        {
+          "hi": "माइकोप्लाज्मा (Mycoplasma)",
+          "en": "Mycoplasma"
+        },
+        {
+          "hi": "साइनोफेज (Cyanophage)",
+          "en": "Cyanophage"
+        },
+        {
+          "hi": "वायराइड (Viroid)",
+          "en": "Viroid"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गंगा नदी का जल लंबे समय तक सड़ता नहीं है, इसका मुख्य जैविक कारण क्या है?",
+        "en": "Ganga river water remains fresh for a long time without spoiling due to the presence of:"
+      },
+      "o": [
+        {
+          "hi": "सल्फर खनिजों की अधिकता",
+          "en": "High concentration of sulfur"
+        },
+        {
+          "hi": "जीवाणुभोजी (Bacteriophage) की उपस्थिति",
+          "en": "Presence of Bacteriophages"
+        },
+        {
+          "hi": "स्वर्ण भस्म की उपस्थिति",
+          "en": "Presence of gold particles"
+        },
+        {
+          "hi": "शैवालों का अभाव",
+          "en": "Absence of algae"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "केवल संक्रामक आरएनए (RNA) अणुओं से बने सूक्ष्म रोगकारक क्या कहलाते हैं?",
+        "en": "Infectious agents composed solely of naked single-stranded RNA molecules are called:"
+      },
+      "o": [
+        {
+          "hi": "प्रिओन्स (Prions)",
+          "en": "Prions"
+        },
+        {
+          "hi": "विषाणु (Viruses)",
+          "en": "Viruses"
+        },
+        {
+          "hi": "वायराइड्स (Viroids - खोजकर्ता: टी.ओ. डाइनर, 1971)",
+          "en": "Viroids (Discovered by T.O. Diener, 1971)"
+        },
+        {
+          "hi": "प्लास्मिड्स (Plasmids)",
+          "en": "Plasmids"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "केवल संक्रामक प्रोटीन (Protein) कणों से बने रोगकारक जो 'मैड काऊ रोग' उत्पन्न करते हैं, क्या कहलाते हैं?",
+        "en": "Abnormally folded infectious protein particles that cause Mad Cow Disease are called:"
+      },
+      "o": [
+        {
+          "hi": "वायराइड्स (Viroids)",
+          "en": "Viroids"
+        },
+        {
+          "hi": "इंटरफेरॉन (Interferon)",
+          "en": "Interferon"
+        },
+        {
+          "hi": "कैप्सिड (Capsid)",
+          "en": "Capsid"
+        },
+        {
+          "hi": "प्रिओन्स (Prions - खोजकर्ता: स्टैनली प्रूसिनर)",
+          "en": "Prions (Discovered by Stanley Prusiner)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जीवाणु (Bacteria) की खोज 1676 में हॉलैंड के किस वैज्ञानिक ने की थी?",
+        "en": "Who discovered bacteria in 1676 using a single-lens microscope?"
+      },
+      "o": [
+        {
+          "hi": "एंटनी वॉन ल्यूवेनहॉक (Antonie van Leeuwenhoek)",
+          "en": "Antonie van Leeuwenhoek"
+        },
+        {
+          "hi": "रॉबर्ट कोच (Robert Koch)",
+          "en": "Robert Koch"
+        },
+        {
+          "hi": "लुई पाश्चर (Louis Pasteur)",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "एहरेनबर्ग (Ehrenberg)",
+          "en": "Ehrenberg"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सूक्ष्मजीवों को 'बैक्टीरिया' (जीवाणु) नाम 1829 में किस वैज्ञानिक ने दिया था?",
+        "en": "Who coined the scientific term 'Bacteria' in 1829?"
+      },
+      "o": [
+        {
+          "hi": "ल्यूवेनहॉक",
+          "en": "Leeuwenhoek"
+        },
+        {
+          "hi": "क्रिश्चियन गॉटफ्रीड एहरेनबर्ग (Ehrenberg)",
+          "en": "Christian Gottfried Ehrenberg"
+        },
+        {
+          "hi": "रॉबर्ट कोच",
+          "en": "Robert Koch"
+        },
+        {
+          "hi": "लुई पाश्चर",
+          "en": "Louis Pasteur"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दूध के पाश्चुरीकरण (Pasteurization) और रेबीज के टीके की खोज किसने की थी?",
+        "en": "Who developed the pasteurization of milk and the vaccine against rabies?"
+      },
+      "o": [
+        {
+          "hi": "एडवर्ड जेनर (Edward Jenner)",
+          "en": "Edward Jenner"
+        },
+        {
+          "hi": "रॉबर्ट कोच (Robert Koch)",
+          "en": "Robert Koch"
+        },
+        {
+          "hi": "लुई पाश्चर (Louis Pasteur)",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "जोसेफ लिस्टर (Joseph Lister)",
+          "en": "Joseph Lister"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रोगों का 'जर्म सिद्धांत' (Germ Theory of Disease) तथा हैजा व टीबी के जीवाणु की खोज किसने की?",
+        "en": "Who formulated the Germ Theory of Disease and discovered cholera and TB bacteria?"
+      },
+      "o": [
+        {
+          "hi": "लुई पाश्चर",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग",
+          "en": "Alexander Fleming"
+        },
+        {
+          "hi": "पॉल एर्लिच",
+          "en": "Paul Ehrlich"
+        },
+        {
+          "hi": "रॉबर्ट कोच (Robert Koch - 1882)",
+          "en": "Robert Koch (1882)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दलहनी (लेग्यूमिनस) पौधों की जड़ों की गांठों में नाइट्रोजन स्थिरीकरण करने वाला जीवाणु कौन-सा है?",
+        "en": "Which symbiotic bacterium fixes atmospheric nitrogen in the root nodules of leguminous plants?"
+      },
+      "o": [
+        {
+          "hi": "राइजोबियम (Rhizobium leguminosarum)",
+          "en": "Rhizobium leguminosarum"
+        },
+        {
+          "hi": "एजोटोबैक्टर (Azotobacter)",
+          "en": "Azotobacter"
+        },
+        {
+          "hi": "क्लॉस्ट्रिडियम (Clostridium)",
+          "en": "Clostridium"
+        },
+        {
+          "hi": "लैक्टोबैसिलस (Lactobacillus)",
+          "en": "Lactobacillus"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दूध को दही में परिवर्तित करने वाला जीवाणु कौन-सा है?",
+        "en": "Which bacterium is responsible for converting milk into curd?"
+      },
+      "o": [
+        {
+          "hi": "एसिटोबैक्टर एसिटी",
+          "en": "Acetobacter aceti"
+        },
+        {
+          "hi": "लैक्टोबैसिलस (Lactobacillus acidophilus)",
+          "en": "Lactobacillus acidophilus"
+        },
+        {
+          "hi": "स्ट्रेप्टोकोकस न्यूमोनी",
+          "en": "Streptococcus pneumoniae"
+        },
+        {
+          "hi": "विब्रियो कोलरी",
+          "en": "Vibrio cholerae"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी पर प्रकाश संश्लेषण द्वारा ऑक्सीजन मुक्त करने वाले प्रथम जीव कौन माने जाते हैं?",
+        "en": "Which organisms are considered the first to release oxygen on Earth through photosynthesis?"
+      },
+      "o": [
+        {
+          "hi": "ब्रायोफाइटा (Bryophytes)",
+          "en": "Bryophytes"
+        },
+        {
+          "hi": "कवक (Fungi)",
+          "en": "Fungi"
+        },
+        {
+          "hi": "साइनोबैक्टीरिया / नील-हरित शैवाल (Blue-Green Algae)",
+          "en": "Cyanobacteria / Blue-Green Algae"
+        },
+        {
+          "hi": "आर्कीबैक्टीरिया (Archaebacteria)",
+          "en": "Archaebacteria"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अत्यधिक लवणीय, गर्म और प्रतिकूल वातावरण में जीवित रहने वाले प्राचीनतम जीवाणु कौन-से हैं?",
+        "en": "Ancient bacteria capable of surviving in extreme hot, saline, and anaerobic environments are:"
+      },
+      "o": [
+        {
+          "hi": "यूरोबैक्टीरिया",
+          "en": "Eubacteria"
+        },
+        {
+          "hi": "साइनोबैक्टीरिया",
+          "en": "Cyanobacteria"
+        },
+        {
+          "hi": "माइकोबैक्टीरिया",
+          "en": "Mycobacteria"
+        },
+        {
+          "hi": "आर्कीबैक्टीरिया (Archaebacteria)",
+          "en": "Archaebacteria"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गोबर गैस (बायोगैस) संयंत्र में मीथेन गैस उत्पन्न करने वाले जीवाणु किस समूह में आते हैं?",
+        "en": "The bacteria that produce methane gas in biogas / gobar gas plants belong to:"
+      },
+      "o": [
+        {
+          "hi": "मिथेनोजेन्स (Methanogens / आर्कीबैक्टीरिया)",
+          "en": "Methanogens (Archaebacteria)"
+        },
+        {
+          "hi": "नाइट्रीफाइंग जीवाणु",
+          "en": "Nitrifying Bacteria"
+        },
+        {
+          "hi": "अवायवीय कवक",
+          "en": "Anaerobic Fungi"
+        },
+        {
+          "hi": "लैक्टिक एसिड जीवाणु",
+          "en": "Lactic Acid Bacteria"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पादप जगत का 'जोकर' (Joker of Plant Kingdom) बिना कोशिका भित्ति वाले किस सबसे छोटे जीव को कहते हैं?",
+        "en": "Which smallest free-living microorganism lacking a cell wall is called the 'Joker of Plant Kingdom'?"
+      },
+      "o": [
+        {
+          "hi": "विषाणु (Virus)",
+          "en": "Virus"
+        },
+        {
+          "hi": "माइकोप्लाज्मा (Mycoplasma / PPLO)",
+          "en": "Mycoplasma (PPLO)"
+        },
+        {
+          "hi": "जीवाणु (Bacteria)",
+          "en": "Bacteria"
+        },
+        {
+          "hi": "रिकेट्सिया (Rickettsia)",
+          "en": "Rickettsia"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}
