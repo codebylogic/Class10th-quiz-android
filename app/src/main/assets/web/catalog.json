@@ -2831,829 +2831,6 @@
       ]
     },
     {
-      "id": "common_gk",
-      "shortLabel": "Common GK",
-      "badge": "GK TRACK",
-      "title": "सामान्य ज्ञान (Common GK — 9 Subjects)",
-      "subtitle": "Indian Polity, History, Geography & General Science",
-      "baseDir": "data/COMMON/",
-      "subjects": [
-        {
-          "id": "common_gk_history",
-          "name": "इतिहास (HISTORY)",
-          "titleHi": "इतिहास",
-          "titleEn": "HISTORY",
-          "description": "GK — HISTORY",
-          "icon": "🏛️",
-          "badge": "History",
-          "accentBg": "rgba(244, 63, 94, 0.16)",
-          "accentBorder": "rgba(244, 63, 94, 0.35)",
-          "chapters": [
-            {
-              "id": "common_gk_history_01",
-              "name": "पाठ 01 (सिंधु घाटी सभ्यता / Indus Valley Civilization)",
-              "titleHi": "पाठ 01 (सिंधु घाटी सभ्यता",
-              "titleEn": "Indus Valley Civilization)",
-              "file": "COMMON/GK/HISTORY/01.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_history_02",
-              "name": "पाठ 02 (वैदिक संस्कृति एवं सभ्यता / Vedic Culture)",
-              "titleHi": "पाठ 02 (वैदिक संस्कृति एवं सभ्यता",
-              "titleEn": "Vedic Culture)",
-              "file": "COMMON/GK/HISTORY/02.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_history_03",
-              "name": "पाठ 03 (महाजनपद काल, बौद्ध एवं जैन धर्म / Mahajanapadas, Buddhism & Jainism)",
-              "titleHi": "पाठ 03 (महाजनपद काल, बौद्ध एवं जैन धर्म",
-              "titleEn": "Mahajanapadas, Buddhism & Jainism)",
-              "file": "COMMON/GK/HISTORY/03.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_history_04",
-              "name": "पाठ 04 (मौर्य साम्राज्य और गुप्त साम्राज्य / Mauryan & Gupta Empire)",
-              "titleHi": "पाठ 04 (मौर्य साम्राज्य और गुप्त साम्राज्य",
-              "titleEn": "Mauryan & Gupta Empire)",
-              "file": "COMMON/GK/HISTORY/04.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_history_05",
-              "name": "पाठ 05 (दक्षिण भारत के प्रमुख राजवंश / South Indian Dynasties)",
-              "titleHi": "पाठ 05 (दक्षिण भारत के प्रमुख राजवंश",
-              "titleEn": "South Indian Dynasties)",
-              "file": "COMMON/GK/HISTORY/05.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_history_06",
-              "name": "पाठ 06 (दिल्ली सल्तनत / Delhi Sultanate)",
-              "titleHi": "पाठ 06 (दिल्ली सल्तनत",
-              "titleEn": "Delhi Sultanate)",
-              "file": "COMMON/GK/HISTORY/06.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_history_07",
-              "name": "पाठ 07 (मुगल साम्राज्य और मराठा साम्राज्य / Mughal & Maratha Empire)",
-              "titleHi": "पाठ 07 (मुगल साम्राज्य और मराठा साम्राज्य",
-              "titleEn": "Mughal & Maratha Empire)",
-              "file": "COMMON/GK/HISTORY/07.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_history_08",
-              "name": "पाठ 08 (भारत में यूरोपीय कंपनियों का आगमन / Arrival of European Companies)",
-              "titleHi": "पाठ 08 (भारत में यूरोपीय कंपनियों का आगमन",
-              "titleEn": "Arrival of European Companies)",
-              "file": "COMMON/GK/HISTORY/08.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_history_09",
-              "name": "पाठ 09 (1857 की क्रांति / Revolt of 1857)",
-              "titleHi": "पाठ 09 (1857 की क्रांति",
-              "titleEn": "Revolt of 1857)",
-              "file": "COMMON/GK/HISTORY/09.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_history_10",
-              "name": "पाठ 10 (सामाजिक और धार्मिक सुधार आंदोलन / Socio-Religious Reform Movements)",
-              "titleHi": "पाठ 10 (सामाजिक और धार्मिक सुधार आंदोलन",
-              "titleEn": "Socio-Religious Reform Movements)",
-              "file": "COMMON/GK/HISTORY/10.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_history_11",
-              "name": "पाठ 11 (भारतीय राष्ट्रीय कांग्रेस और प्रमुख अधिवेशन / INC & Important Sessions)",
-              "titleHi": "पाठ 11 (भारतीय राष्ट्रीय कांग्रेस और प्रमुख अधिवेशन",
-              "titleEn": "INC & Important Sessions)",
-              "file": "COMMON/GK/HISTORY/11.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_history_12",
-              "name": "पाठ 12 (स्वतंत्रता संग्राम और प्रमुख आंदोलन / Freedom Movement)",
-              "titleHi": "पाठ 12 (स्वतंत्रता संग्राम और प्रमुख आंदोलन",
-              "titleEn": "Freedom Movement)",
-              "file": "COMMON/GK/HISTORY/12.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_history_13",
-              "name": "पाठ 13 (भारत का विभाजन और स्वतंत्रता / Partition and Independence)",
-              "titleHi": "पाठ 13 (भारत का विभाजन और स्वतंत्रता",
-              "titleEn": "Partition and Independence)",
-              "file": "COMMON/GK/HISTORY/13.json",
-              "questions": 75
-            }
-          ]
-        },
-        {
-          "id": "common_gk_geography",
-          "name": "भूगोल (GEOGRAPHY)",
-          "titleHi": "भूगोल",
-          "titleEn": "GEOGRAPHY",
-          "description": "GK — GEOGRAPHY",
-          "icon": "🗺️",
-          "badge": "Geography",
-          "accentBg": "rgba(244, 63, 94, 0.16)",
-          "accentBorder": "rgba(244, 63, 94, 0.35)",
-          "chapters": [
-            {
-              "id": "common_gk_geography_01",
-              "name": "पाठ 01 (सौरमंडल, पृथ्वी की गति और अक्षांश-देशांतर / Solar System & Earth Movements)",
-              "titleHi": "पाठ 01 (सौरमंडल, पृथ्वी की गति और अक्षांश-देशांतर",
-              "titleEn": "Solar System & Earth Movements)",
-              "file": "COMMON/GK/GEOGRAPHY/01.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_geography_02",
-              "name": "पाठ 02 (पृथ्वी की आंतरिक संरचना, भूकंप और ज्वालामुखी / Earth Interior, Volcanoes & Earthquakes)",
-              "titleHi": "पाठ 02 (पृथ्वी की आंतरिक संरचना, भूकंप और ज्वालामुखी",
-              "titleEn": "Earth Interior, Volcanoes & Earthquakes)",
-              "file": "COMMON/GK/GEOGRAPHY/02.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_geography_03",
-              "name": "पाठ 03 (वायुमंडल की संरचना और दाबांतर / Atmosphere & Pressure)",
-              "titleHi": "पाठ 03 (वायुमंडल की संरचना और दाबांतर",
-              "titleEn": "Atmosphere & Pressure)",
-              "file": "COMMON/GK/GEOGRAPHY/03.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_geography_04",
-              "name": "पाठ 04 (महाद्वीप, महासागर और जलधाराएँ / Continents, Oceans & Currents)",
-              "titleHi": "पाठ 04 (महाद्वीप, महासागर और जलधाराएँ",
-              "titleEn": "Continents, Oceans & Currents)",
-              "file": "COMMON/GK/GEOGRAPHY/04.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_geography_05",
-              "name": "पाठ 05 (भारत की भौतिक बनावट / Physical Features of India)",
-              "titleHi": "पाठ 05 (भारत की भौतिक बनावट",
-              "titleEn": "Physical Features of India)",
-              "file": "COMMON/GK/GEOGRAPHY/05.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_geography_06",
-              "name": "पाठ 06 (भारत की नदियाँ, झीलें और जलप्रपात / Rivers, Lakes & Waterfalls)",
-              "titleHi": "पाठ 06 (भारत की नदियाँ, झीलें और जलप्रपात",
-              "titleEn": "Rivers, Lakes & Waterfalls)",
-              "file": "COMMON/GK/GEOGRAPHY/06.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_geography_07",
-              "name": "पाठ 07 (भारत की जलवायु और मृदा के प्रकार / Climate & Soil Types of India)",
-              "titleHi": "पाठ 07 (भारत की जलवायु और मृदा के प्रकार",
-              "titleEn": "Climate & Soil Types of India)",
-              "file": "COMMON/GK/GEOGRAPHY/07.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_geography_08",
-              "name": "पाठ 08 (कृषि, सिंचाई और प्रमुख फसलें / Agriculture & Major Crops)",
-              "titleHi": "पाठ 08 (कृषि, सिंचाई और प्रमुख फसलें",
-              "titleEn": "Agriculture & Major Crops)",
-              "file": "COMMON/GK/GEOGRAPHY/08.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_geography_09",
-              "name": "पाठ 09 (खनिज संसाधन, ऊर्जा और उद्योग / Minerals, Energy & Industries)",
-              "titleHi": "पाठ 09 (खनिज संसाधन, ऊर्जा और उद्योग",
-              "titleEn": "Minerals, Energy & Industries)",
-              "file": "COMMON/GK/GEOGRAPHY/09.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_geography_10",
-              "name": "पाठ 10 (राष्ट्रीय उद्यान और अभयारण्य / National Parks & Wildlife Sanctuaries)",
-              "titleHi": "पाठ 10 (राष्ट्रीय उद्यान और अभयारण्य",
-              "titleEn": "National Parks & Wildlife Sanctuaries)",
-              "file": "COMMON/GK/GEOGRAPHY/10.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_geography_11",
-              "name": "पाठ 11 (जनगणना और जनसंख्या वितरण / Census & Population Distribution)",
-              "titleHi": "पाठ 11 (जनगणना और जनसंख्या वितरण",
-              "titleEn": "Census & Population Distribution)",
-              "file": "COMMON/GK/GEOGRAPHY/11.json",
-              "questions": 75
-            }
-          ]
-        },
-        {
-          "id": "common_gk_polity",
-          "name": "भारतीय राजव्यवस्था (POLITY)",
-          "titleHi": "भारतीय राजव्यवस्था",
-          "titleEn": "POLITY",
-          "description": "GK — POLITY",
-          "icon": "⚖️",
-          "badge": "Polity",
-          "accentBg": "rgba(99, 102, 241, 0.16)",
-          "accentBorder": "rgba(99, 102, 241, 0.35)",
-          "chapters": [
-            {
-              "id": "common_gk_polity_01",
-              "name": "पाठ 01 (संविधान का निर्माण और सभा / Making of Constitution)",
-              "titleHi": "पाठ 01 (संविधान का निर्माण और सभा",
-              "titleEn": "Making of Constitution)",
-              "file": "COMMON/GK/POLITY/01.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_polity_02",
-              "name": "पाठ 02 (प्रस्तावना और प्रमुख स्रोत / Preamble & Sources of Constitution)",
-              "titleHi": "पाठ 02 (प्रस्तावना और प्रमुख स्रोत",
-              "titleEn": "Preamble & Sources of Constitution)",
-              "file": "COMMON/GK/POLITY/02.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_polity_03",
-              "name": "पाठ 03 (अनुसूचियाँ और भाग / Schedules & Parts)",
-              "titleHi": "पाठ 03 (अनुसूचियाँ और भाग",
-              "titleEn": "Schedules & Parts)",
-              "file": "COMMON/GK/POLITY/03.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_polity_04",
-              "name": "पाठ 04 (नागरिकता / Citizenship)",
-              "titleHi": "पाठ 04 (नागरिकता",
-              "titleEn": "Citizenship)",
-              "file": "COMMON/GK/POLITY/04.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_polity_05",
-              "name": "पाठ 05 (मौलिक अधिकार और कर्तव्य / Fundamental Rights & Duties)",
-              "titleHi": "पाठ 05 (मौलिक अधिकार और कर्तव्य",
-              "titleEn": "Fundamental Rights & Duties)",
-              "file": "COMMON/GK/POLITY/05.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_polity_06",
-              "name": "पाठ 06 (राज्य के नीति निदेशक तत्व / DPSP)",
-              "titleHi": "पाठ 06 (राज्य के नीति निदेशक तत्व",
-              "titleEn": "DPSP)",
-              "file": "COMMON/GK/POLITY/06.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_polity_07",
-              "name": "पाठ 07 (राष्ट्रपति, उपराष्ट्रपति और प्रधानमंत्री / President, VP & Prime Minister)",
-              "titleHi": "पाठ 07 (राष्ट्रपति, उपराष्ट्रपति और प्रधानमंत्री",
-              "titleEn": "President, VP & Prime Minister)",
-              "file": "COMMON/GK/POLITY/07.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_polity_08",
-              "name": "पाठ 08 (संसद - लोकसभा और राज्यसभा / Parliament - Lok Sabha & Rajya Sabha)",
-              "titleHi": "पाठ 08 (संसद - लोकसभा और राज्यसभा",
-              "titleEn": "Parliament - Lok Sabha & Rajya Sabha)",
-              "file": "COMMON/GK/POLITY/08.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_polity_09",
-              "name": "पाठ 09 (सर्वोच्च न्यायालय और उच्च न्यायालय / Supreme Court & High Court)",
-              "titleHi": "पाठ 09 (सर्वोच्च न्यायालय और उच्च न्यायालय",
-              "titleEn": "Supreme Court & High Court)",
-              "file": "COMMON/GK/POLITY/09.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_polity_10",
-              "name": "पाठ 10 (राज्यपाल और मुख्यमंत्री / Governor & Chief Minister)",
-              "titleHi": "पाठ 10 (राज्यपाल और मुख्यमंत्री",
-              "titleEn": "Governor & Chief Minister)",
-              "file": "COMMON/GK/POLITY/10.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_polity_11",
-              "name": "पाठ 11 (पंचायती राज और स्थानीय स्वशासन / Panchayati Raj)",
-              "titleHi": "पाठ 11 (पंचायती राज और स्थानीय स्वशासन",
-              "titleEn": "Panchayati Raj)",
-              "file": "COMMON/GK/POLITY/11.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_polity_12",
-              "name": "पाठ 12 (निर्वाचन आयोग, UPSC और CAG / Constitutional Bodies)",
-              "titleHi": "पाठ 12 (निर्वाचन आयोग, UPSC और CAG",
-              "titleEn": "Constitutional Bodies)",
-              "file": "COMMON/GK/POLITY/12.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_polity_13",
-              "name": "पाठ 13 (प्रमुख संवैधानिक संशोधन / Important Constitutional Amendments)",
-              "titleHi": "पाठ 13 (प्रमुख संवैधानिक संशोधन",
-              "titleEn": "Important Constitutional Amendments)",
-              "file": "COMMON/GK/POLITY/13.json",
-              "questions": 75
-            }
-          ]
-        },
-        {
-          "id": "common_gk_economics",
-          "name": "अर्थशास्त्र (ECONOMICS)",
-          "titleHi": "अर्थशास्त्र",
-          "titleEn": "ECONOMICS",
-          "description": "GK — ECONOMICS",
-          "icon": "💰",
-          "badge": "Economics",
-          "accentBg": "rgba(244, 63, 94, 0.16)",
-          "accentBorder": "rgba(244, 63, 94, 0.35)",
-          "chapters": [
-            {
-              "id": "common_gk_economics_01",
-              "name": "पाठ 01 (अर्थशास्त्र के प्रकार और क्षेत्र / Types and Sectors of Economy)",
-              "titleHi": "पाठ 01 (अर्थशास्त्र के प्रकार और क्षेत्र",
-              "titleEn": "Types and Sectors of Economy)",
-              "file": "COMMON/GK/ECONOMICS/01.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_economics_02",
-              "name": "पाठ 02 (राष्ट्रीय आय, GDP, GNP / National Income, GDP & GNP)",
-              "titleHi": "पाठ 02 (राष्ट्रीय आय, GDP, GNP",
-              "titleEn": "National Income, GDP & GNP)",
-              "file": "COMMON/GK/ECONOMICS/02.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_economics_03",
-              "name": "पाठ 03 (मुद्रास्फीति और मंदी / Inflation & Recession)",
-              "titleHi": "पाठ 03 (मुद्रास्फीति और मंदी",
-              "titleEn": "Inflation & Recession)",
-              "file": "COMMON/GK/ECONOMICS/03.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_economics_04",
-              "name": "पाठ 04 (भारतीय बैंकिंग प्रणाली और RBI / Indian Banking & RBI)",
-              "titleHi": "पाठ 04 (भारतीय बैंकिंग प्रणाली और RBI",
-              "titleEn": "Indian Banking & RBI)",
-              "file": "COMMON/GK/ECONOMICS/04.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_economics_05",
-              "name": "पाठ 05 (कर प्रणाली एवं GST / Tax System & GST)",
-              "titleHi": "पाठ 05 (कर प्रणाली एवं GST",
-              "titleEn": "Tax System & GST)",
-              "file": "COMMON/GK/ECONOMICS/05.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_economics_06",
-              "name": "पाठ 06 (बजट और वित्तीय प्रणाली / Budget & Financial System)",
-              "titleHi": "पाठ 06 (बजट और वित्तीय प्रणाली",
-              "titleEn": "Budget & Financial System)",
-              "file": "COMMON/GK/ECONOMICS/06.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_economics_07",
-              "name": "पाठ 07 (निर्धनता, बेरोजगारी और योजनाएँ / Poverty, Unemployment & Schemes)",
-              "titleHi": "पाठ 07 (निर्धनता, बेरोजगारी और योजनाएँ",
-              "titleEn": "Poverty, Unemployment & Schemes)",
-              "file": "COMMON/GK/ECONOMICS/07.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_economics_08",
-              "name": "पाठ 08 (पंचवर्षीय योजनाएँ और नीति आयोग / Five Year Plans & NITI Aayog)",
-              "titleHi": "पाठ 08 (पंचवर्षीय योजनाएँ और नीति आयोग",
-              "titleEn": "Five Year Plans & NITI Aayog)",
-              "file": "COMMON/GK/ECONOMICS/08.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_economics_09",
-              "name": "पाठ 09 (अंतर्राष्ट्रीय आर्थिक संगठन / International Economic Organizations)",
-              "titleHi": "पाठ 09 (अंतर्राष्ट्रीय आर्थिक संगठन",
-              "titleEn": "International Economic Organizations)",
-              "file": "COMMON/GK/ECONOMICS/09.json",
-              "questions": 75
-            }
-          ]
-        },
-        {
-          "id": "common_gk_physics",
-          "name": "भौतिक विज्ञान (PHYSICS)",
-          "titleHi": "भौतिक विज्ञान",
-          "titleEn": "PHYSICS",
-          "description": "GK — PHYSICS",
-          "icon": "⚡",
-          "badge": "Physics",
-          "accentBg": "rgba(6, 182, 212, 0.16)",
-          "accentBorder": "rgba(6, 182, 212, 0.35)",
-          "chapters": [
-            {
-              "id": "common_gk_physics_01",
-              "name": "पाठ 01 (मात्रक और मापन / Units and Measurements)",
-              "titleHi": "पाठ 01 (मात्रक और मापन",
-              "titleEn": "Units and Measurements)",
-              "file": "COMMON/GK/PHYSICS/01.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_physics_02",
-              "name": "पाठ 02 (गति, बल और न्यूटन के नियम / Motion, Force & Laws of Motion)",
-              "titleHi": "पाठ 02 (गति, बल और न्यूटन के नियम",
-              "titleEn": "Motion, Force & Laws of Motion)",
-              "file": "COMMON/GK/PHYSICS/02.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_physics_03",
-              "name": "पाठ 03 (कार्य, ऊर्जा और शक्ति / Work, Energy & Power)",
-              "titleHi": "पाठ 03 (कार्य, ऊर्जा और शक्ति",
-              "titleEn": "Work, Energy & Power)",
-              "file": "COMMON/GK/PHYSICS/03.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_physics_04",
-              "name": "पाठ 04 (गुरुत्वाकर्षण / Gravitation)",
-              "titleHi": "पाठ 04 (गुरुत्वाकर्षण",
-              "titleEn": "Gravitation)",
-              "file": "COMMON/GK/PHYSICS/04.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_physics_05",
-              "name": "पाठ 05 (द्रव के गुण / Properties of Matter & Fluids)",
-              "titleHi": "पाठ 05 (द्रव के गुण",
-              "titleEn": "Properties of Matter & Fluids)",
-              "file": "COMMON/GK/PHYSICS/05.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_physics_06",
-              "name": "पाठ 06 (तरंगें और ध्वनि / Waves and Sound)",
-              "titleHi": "पाठ 06 (तरंगें और ध्वनि",
-              "titleEn": "Waves and Sound)",
-              "file": "COMMON/GK/PHYSICS/06.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_physics_07",
-              "name": "पाठ 07 (ऊष्मा और ताप / Heat and Temperature)",
-              "titleHi": "पाठ 07 (ऊष्मा और ताप",
-              "titleEn": "Heat and Temperature)",
-              "file": "COMMON/GK/PHYSICS/07.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_physics_08",
-              "name": "पाठ 08 (प्रकाश - परावर्तन, अपवर्तन / Light - Reflection & Refraction)",
-              "titleHi": "पाठ 08 (प्रकाश - परावर्तन, अपवर्तन",
-              "titleEn": "Light - Reflection & Refraction)",
-              "file": "COMMON/GK/PHYSICS/08.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_physics_09",
-              "name": "पाठ 09 (विद्युत और चुंबकत्व / Electricity & Magnetism)",
-              "titleHi": "पाठ 09 (विद्युत और चुंबकत्व",
-              "titleEn": "Electricity & Magnetism)",
-              "file": "COMMON/GK/PHYSICS/09.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_physics_10",
-              "name": "पाठ 10 (आधुनिक भौतिकी और परमाणु / Modern Physics & Atomic Structure)",
-              "titleHi": "पाठ 10 (आधुनिक भौतिकी और परमाणु",
-              "titleEn": "Modern Physics & Atomic Structure)",
-              "file": "COMMON/GK/PHYSICS/10.json",
-              "questions": 75
-            }
-          ]
-        },
-        {
-          "id": "common_gk_chemistry",
-          "name": "रसायन विज्ञान (CHEMISTRY)",
-          "titleHi": "रसायन विज्ञान",
-          "titleEn": "CHEMISTRY",
-          "description": "GK — CHEMISTRY",
-          "icon": "🧪",
-          "badge": "Chemistry",
-          "accentBg": "rgba(6, 182, 212, 0.16)",
-          "accentBorder": "rgba(6, 182, 212, 0.35)",
-          "chapters": [
-            {
-              "id": "common_gk_chemistry_01",
-              "name": "पाठ 01 (पदार्थ की अवस्थाएँ और वर्गीकरण / States & Classification of Matter)",
-              "titleHi": "पाठ 01 (पदार्थ की अवस्थाएँ और वर्गीकरण",
-              "titleEn": "States & Classification of Matter)",
-              "file": "COMMON/GK/CHEMISTRY/01.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_chemistry_02",
-              "name": "पाठ 02 (परमाणु संरचना और रासायनिक बंध / Atomic Structure & Chemical Bonding)",
-              "titleHi": "पाठ 02 (परमाणु संरचना और रासायनिक बंध",
-              "titleEn": "Atomic Structure & Chemical Bonding)",
-              "file": "COMMON/GK/CHEMISTRY/02.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_chemistry_03",
-              "name": "पाठ 03 (तत्वों का आवर्त वर्गीकरण / Periodic Classification of Elements)",
-              "titleHi": "पाठ 03 (तत्वों का आवर्त वर्गीकरण",
-              "titleEn": "Periodic Classification of Elements)",
-              "file": "COMMON/GK/CHEMISTRY/03.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_chemistry_04",
-              "name": "पाठ 04 (अम्ल, क्षार और लवण / Acids, Bases & Salts)",
-              "titleHi": "पाठ 04 (अम्ल, क्षार और लवण",
-              "titleEn": "Acids, Bases & Salts)",
-              "file": "COMMON/GK/CHEMISTRY/04.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_chemistry_05",
-              "name": "पाठ 05 (धातु, अधातु और उपधातु / Metals, Non-metals & Metalloids)",
-              "titleHi": "पाठ 05 (धातु, अधातु और उपधातु",
-              "titleEn": "Metals, Non-metals & Metalloids)",
-              "file": "COMMON/GK/CHEMISTRY/05.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_chemistry_06",
-              "name": "पाठ 06 (कार्बन और उसके यौगिक / Carbon & Its Compounds)",
-              "titleHi": "पाठ 06 (कार्बन और उसके यौगिक",
-              "titleEn": "Carbon & Its Compounds)",
-              "file": "COMMON/GK/CHEMISTRY/06.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_chemistry_07",
-              "name": "पाठ 07 (ईंधन और विस्फोटक पदार्थ / Fuels & Explosives)",
-              "titleHi": "पाठ 07 (ईंधन और विस्फोटक पदार्थ",
-              "titleEn": "Fuels & Explosives)",
-              "file": "COMMON/GK/CHEMISTRY/07.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_chemistry_08",
-              "name": "पाठ 08 (दैनिक जीवन में रसायन / Chemistry in Everyday Life)",
-              "titleHi": "पाठ 08 (दैनिक जीवन में रसायन",
-              "titleEn": "Chemistry in Everyday Life)",
-              "file": "COMMON/GK/CHEMISTRY/08.json",
-              "questions": 75
-            }
-          ]
-        },
-        {
-          "id": "common_gk_biology",
-          "name": "जीव विज्ञान (BIOLOGY)",
-          "titleHi": "जीव विज्ञान",
-          "titleEn": "BIOLOGY",
-          "description": "GK — BIOLOGY",
-          "icon": "🧬",
-          "badge": "Biology",
-          "accentBg": "rgba(6, 182, 212, 0.16)",
-          "accentBorder": "rgba(6, 182, 212, 0.35)",
-          "chapters": [
-            {
-              "id": "common_gk_biology_01",
-              "name": "पाठ 01 (कोशिका - संरचना और कार्य / Cell - Structure & Function)",
-              "titleHi": "पाठ 01 (कोशिका - संरचना और कार्य",
-              "titleEn": "Cell - Structure & Function)",
-              "file": "COMMON/GK/BIOLOGY/01.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_biology_02",
-              "name": "पाठ 02 (ऊतक / Tissues)",
-              "titleHi": "पाठ 02 (ऊतक",
-              "titleEn": "Tissues)",
-              "file": "COMMON/GK/BIOLOGY/02.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_biology_03",
-              "name": "पाठ 03 (मानव शरीर तंत्र / Human Organ Systems)",
-              "titleHi": "पाठ 03 (मानव शरीर तंत्र",
-              "titleEn": "Human Organ Systems)",
-              "file": "COMMON/GK/BIOLOGY/03.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_biology_04",
-              "name": "पाठ 04 (पोषक तत्व / Nutrients - Vitamins, Proteins, Fats)",
-              "titleHi": "पाठ 04 (पोषक तत्व",
-              "titleEn": "Nutrients - Vitamins, Proteins, Fats)",
-              "file": "COMMON/GK/BIOLOGY/04.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_biology_05",
-              "name": "पाठ 05 (मानव रोग, कारण और बचाव / Human Diseases, Causes & Cure)",
-              "titleHi": "पाठ 05 (मानव रोग, कारण और बचाव",
-              "titleEn": "Human Diseases, Causes & Cure)",
-              "file": "COMMON/GK/BIOLOGY/05.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_biology_06",
-              "name": "पाठ 06 (पादप कार्यिकी / Plant Physiology)",
-              "titleHi": "पाठ 06 (पादप कार्यिकी",
-              "titleEn": "Plant Physiology)",
-              "file": "COMMON/GK/BIOLOGY/06.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_biology_07",
-              "name": "पाठ 07 (पारिस्थितिकी और पर्यावरण / Ecology & Environment)",
-              "titleHi": "पाठ 07 (पारिस्थितिकी और पर्यावरण",
-              "titleEn": "Ecology & Environment)",
-              "file": "COMMON/GK/BIOLOGY/07.json",
-              "questions": 75
-            }
-          ]
-        },
-        {
-          "id": "common_gk_static_gk",
-          "name": "स्टैटिक जीके (STATIC GK)",
-          "titleHi": "स्टैटिक जीके",
-          "titleEn": "STATIC GK",
-          "description": "GK — STATIC GK",
-          "icon": "📚",
-          "badge": "Core",
-          "accentBg": "rgba(99, 102, 241, 0.16)",
-          "accentBorder": "rgba(99, 102, 241, 0.35)",
-          "chapters": [
-            {
-              "id": "common_gk_static_gk_01",
-              "name": "पाठ 01 (भारत और विश्व में प्रथम / First in India & World)",
-              "titleHi": "पाठ 01 (भारत और विश्व में प्रथम",
-              "titleEn": "First in India & World)",
-              "file": "COMMON/GK/STATIC_GK/01.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_static_gk_02",
-              "name": "पाठ 02 (लोक और शास्त्रीय नृत्य / Folk & Classical Dances)",
-              "titleHi": "पाठ 02 (लोक और शास्त्रीय नृत्य",
-              "titleEn": "Folk & Classical Dances)",
-              "file": "COMMON/GK/STATIC_GK/02.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_static_gk_03",
-              "name": "पाठ 03 (प्रमुख त्योहार और मेले / Major Festivals & Fairs)",
-              "titleHi": "पाठ 03 (प्रमुख त्योहार और मेले",
-              "titleEn": "Major Festivals & Fairs)",
-              "file": "COMMON/GK/STATIC_GK/03.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_static_gk_04",
-              "name": "पाठ 04 (प्रसिद्ध मंदिर, धरोहर और स्मारक / Famous Temples & Monuments)",
-              "titleHi": "पाठ 04 (प्रसिद्ध मंदिर, धरोहर और स्मारक",
-              "titleEn": "Famous Temples & Monuments)",
-              "file": "COMMON/GK/STATIC_GK/04.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_static_gk_05",
-              "name": "पाठ 05 (महत्वपूर्ण राष्ट्रीय व अंतर्राष्ट्रीय दिवस / Important Days)",
-              "titleHi": "पाठ 05 (महत्वपूर्ण राष्ट्रीय व अंतर्राष्ट्रीय दिवस",
-              "titleEn": "Important Days)",
-              "file": "COMMON/GK/STATIC_GK/05.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_static_gk_06",
-              "name": "पाठ 06 (प्रमुख पुस्तकें और लेखक / Famous Books & Authors)",
-              "titleHi": "पाठ 06 (प्रमुख पुस्तकें और लेखक",
-              "titleEn": "Famous Books & Authors)",
-              "file": "COMMON/GK/STATIC_GK/06.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_static_gk_07",
-              "name": "पाठ 07 (अंतर्राष्ट्रीय संगठन और मुख्यालय / International Organizations & HQ)",
-              "titleHi": "पाठ 07 (अंतर्राष्ट्रीय संगठन और मुख्यालय",
-              "titleEn": "International Organizations & HQ)",
-              "file": "COMMON/GK/STATIC_GK/07.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_static_gk_08",
-              "name": "पाठ 08 (खेलकूद - कप, ट्रॉफियाँ, शब्दावली / Sports - Cups & Terms)",
-              "titleHi": "पाठ 08 (खेलकूद - कप, ट्रॉफियाँ, शब्दावली",
-              "titleEn": "Sports - Cups & Terms)",
-              "file": "COMMON/GK/STATIC_GK/08.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_static_gk_09",
-              "name": "पाठ 09 (भारत के राष्ट्रीय प्रतीक / National Symbols of India)",
-              "titleHi": "पाठ 09 (भारत के राष्ट्रीय प्रतीक",
-              "titleEn": "National Symbols of India)",
-              "file": "COMMON/GK/STATIC_GK/09.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_static_gk_10",
-              "name": "पाठ 10 (प्रमुख पुरस्कार और सम्मान / Major Awards & Honors)",
-              "titleHi": "पाठ 10 (प्रमुख पुरस्कार और सम्मान",
-              "titleEn": "Major Awards & Honors)",
-              "file": "COMMON/GK/STATIC_GK/10.json",
-              "questions": 75
-            }
-          ]
-        },
-        {
-          "id": "common_gk_current_affairs",
-          "name": "समसामयिकी (CURRENT AFFAIRS)",
-          "titleHi": "समसामयिकी",
-          "titleEn": "CURRENT AFFAIRS",
-          "description": "GK — CURRENT AFFAIRS",
-          "icon": "📰",
-          "badge": "Core",
-          "accentBg": "rgba(99, 102, 241, 0.16)",
-          "accentBorder": "rgba(99, 102, 241, 0.35)",
-          "chapters": [
-            {
-              "id": "common_gk_current_affairs_01",
-              "name": "पाठ 01 (राष्ट्रीय और अंतर्राष्ट्रीय घटनाक्रम / National & International Events)",
-              "titleHi": "पाठ 01 (राष्ट्रीय और अंतर्राष्ट्रीय घटनाक्रम",
-              "titleEn": "National & International Events)",
-              "file": "COMMON/GK/CURRENT_AFFAIRS/01.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_current_affairs_02",
-              "name": "पाठ 02 (प्रमुख नियुक्तियाँ और निधन / Appointments & Obituaries)",
-              "titleHi": "पाठ 02 (प्रमुख नियुक्तियाँ और निधन",
-              "titleEn": "Appointments & Obituaries)",
-              "file": "COMMON/GK/CURRENT_AFFAIRS/02.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_current_affairs_03",
-              "name": "पाठ 03 (खेल समाचार और विजेता / Sports News & Winners)",
-              "titleHi": "पाठ 03 (खेल समाचार और विजेता",
-              "titleEn": "Sports News & Winners)",
-              "file": "COMMON/GK/CURRENT_AFFAIRS/03.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_current_affairs_04",
-              "name": "पाठ 04 (सैन्य अभ्यास और सुरक्षा / Military Exercises & Security)",
-              "titleHi": "पाठ 04 (सैन्य अभ्यास और सुरक्षा",
-              "titleEn": "Military Exercises & Security)",
-              "file": "COMMON/GK/CURRENT_AFFAIRS/04.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_current_affairs_05",
-              "name": "पाठ 05 (विज्ञान एवं प्रौद्योगिकी, अंतरिक्ष / Science, Tech & Space)",
-              "titleHi": "पाठ 05 (विज्ञान एवं प्रौद्योगिकी, अंतरिक्ष",
-              "titleEn": "Science, Tech & Space)",
-              "file": "COMMON/GK/CURRENT_AFFAIRS/05.json",
-              "questions": 75
-            },
-            {
-              "id": "common_gk_current_affairs_06",
-              "name": "पाठ 06 (सरकारी योजनाएँ / Government Schemes)",
-              "titleHi": "पाठ 06 (सरकारी योजनाएँ",
-              "titleEn": "Government Schemes)",
-              "file": "COMMON/GK/CURRENT_AFFAIRS/06.json",
-              "questions": 75
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "common_grammar",
       "shortLabel": "Grammar",
       "badge": "GRAMMAR",
@@ -3939,6 +3116,2417 @@
               "titleHi": "Chapter 16 (Common Errors & Correction)",
               "titleEn": "Chapter 16 (Common Errors & Correction)",
               "file": "COMMON/GRAMMAR/ENGLISH_GRAMMAR/16.json",
+              "questions": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lucent_gk",
+      "title": "LUCENT GK — प्रतियोगी परीक्षा पोर्टल",
+      "shortLabel": "LUCENT GK",
+      "badge": "COMPETITION EXAM",
+      "baseDir": "data/LUCENT/",
+      "subjects": [
+        {
+          "id": "lucent_gk_history",
+          "name": "इतिहास (History)",
+          "titleHi": "इतिहास",
+          "titleEn": "History",
+          "description": "प्राचीन, मध्यकालीन, आधुनिक भारत एवं विश्व इतिहास।",
+          "icon": "📜",
+          "badge": "GK",
+          "accentBg": "rgba(99,102,241,0.12)",
+          "accentBorder": "rgba(99,102,241,0.32)",
+          "sections": [
+            {
+              "id": "lucent_gk_history_ancient",
+              "titleHi": "प्राचीन भारत",
+              "titleEn": "Ancient India",
+              "name": "प्राचीन भारत (Ancient India)",
+              "chapters": [
+                {
+                  "id": "lucent_gk_history_ancient_01",
+                  "name": "पाठ 01 (प्राचीन भारतीय इतिहास के स्रोत)",
+                  "titleHi": "पाठ 01 (प्राचीन भारतीय इतिहास के स्रोत)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/01.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_02",
+                  "name": "पाठ 02 (प्रागैतिहासिक काल)",
+                  "titleHi": "पाठ 02 (प्रागैतिहासिक काल)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/02.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_03",
+                  "name": "पाठ 03 (सिन्धु सभ्यता)",
+                  "titleHi": "पाठ 03 (सिन्धु सभ्यता)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/03.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_04",
+                  "name": "पाठ 04 (वैदिक सभ्यता)",
+                  "titleHi": "पाठ 04 (वैदिक सभ्यता)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/04.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_05",
+                  "name": "पाठ 05 (महाजनपदों का उदय)",
+                  "titleHi": "पाठ 05 (महाजनपदों का उदय)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/05.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_06",
+                  "name": "पाठ 06 (जैन धर्म)",
+                  "titleHi": "पाठ 06 (जैन धर्म)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/06.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_07",
+                  "name": "पाठ 07 (बौद्ध धर्म)",
+                  "titleHi": "पाठ 07 (बौद्ध धर्म)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/07.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_08",
+                  "name": "पाठ 08 (शैव धर्म)",
+                  "titleHi": "पाठ 08 (शैव धर्म)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/08.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_09",
+                  "name": "पाठ 09 (वैष्णव धर्म)",
+                  "titleHi": "पाठ 09 (वैष्णव धर्म)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/09.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_10",
+                  "name": "पाठ 10 (इस्लाम धर्म)",
+                  "titleHi": "पाठ 10 (इस्लाम धर्म)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/10.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_11",
+                  "name": "पाठ 11 (ईसाई धर्म)",
+                  "titleHi": "पाठ 11 (ईसाई धर्म)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/11.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_12",
+                  "name": "पाठ 12 (मगध राज्य का उत्कर्ष)",
+                  "titleHi": "पाठ 12 (मगध राज्य का उत्कर्ष)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/12.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_13",
+                  "name": "पाठ 13 (सिकन्दर)",
+                  "titleHi": "पाठ 13 (सिकन्दर)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/13.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_14",
+                  "name": "पाठ 14 (मौर्य साम्राज्य)",
+                  "titleHi": "पाठ 14 (मौर्य साम्राज्य)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/14.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_15",
+                  "name": "पाठ 15 (ब्राह्मण साम्राज्य)",
+                  "titleHi": "पाठ 15 (ब्राह्मण साम्राज्य)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/15.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_16",
+                  "name": "पाठ 16 (भारत के यवन राज)",
+                  "titleHi": "पाठ 16 (भारत के यवन राज)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/16.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_17",
+                  "name": "पाठ 17 (शक)",
+                  "titleHi": "पाठ 17 (शक)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/17.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_18",
+                  "name": "पाठ 18 (कुषाण)",
+                  "titleHi": "पाठ 18 (कुषाण)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/18.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_19",
+                  "name": "पाठ 19 (गुप्त साम्राज्य)",
+                  "titleHi": "पाठ 19 (गुप्त साम्राज्य)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/19.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_20",
+                  "name": "पाठ 20 (पुष्यभूति वंश)",
+                  "titleHi": "पाठ 20 (पुष्यभूति वंश)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/20.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_21",
+                  "name": "पाठ 21 (दक्षिण भारत के प्रमुख राजवंश)",
+                  "titleHi": "पाठ 21 (दक्षिण भारत के प्रमुख राजवंश)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/21.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_ancient_22",
+                  "name": "पाठ 22 (सीमावर्ती राजवंशों का अभ्युदय)",
+                  "titleHi": "पाठ 22 (सीमावर्ती राजवंशों का अभ्युदय)",
+                  "titleEn": "",
+                  "file": "HISTORY/ANCIENT_INDIA/22.json",
+                  "questions": 50
+                }
+              ]
+            },
+            {
+              "id": "lucent_gk_history_medieval",
+              "titleHi": "मध्यकालीन भारत",
+              "titleEn": "Medieval India",
+              "name": "मध्यकालीन भारत (Medieval India)",
+              "chapters": [
+                {
+                  "id": "lucent_gk_history_medieval_01",
+                  "name": "पाठ 01 (भारत पर अरबों का आक्रमण)",
+                  "titleHi": "पाठ 01 (भारत पर अरबों का आक्रमण)",
+                  "titleEn": "",
+                  "file": "HISTORY/MEDIEVAL_INDIA/01.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_medieval_02",
+                  "name": "पाठ 02 (महमूद गजनवी)",
+                  "titleHi": "पाठ 02 (महमूद गजनवी)",
+                  "titleEn": "",
+                  "file": "HISTORY/MEDIEVAL_INDIA/02.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_medieval_03",
+                  "name": "पाठ 03 (मोहम्मद गोरी)",
+                  "titleHi": "पाठ 03 (मोहम्मद गोरी)",
+                  "titleEn": "",
+                  "file": "HISTORY/MEDIEVAL_INDIA/03.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_medieval_04",
+                  "name": "पाठ 04 (सल्तनत काल)",
+                  "titleHi": "पाठ 04 (सल्तनत काल)",
+                  "titleEn": "",
+                  "file": "HISTORY/MEDIEVAL_INDIA/04.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_medieval_05",
+                  "name": "पाठ 05 (विजयनगर साम्राज्य)",
+                  "titleHi": "पाठ 05 (विजयनगर साम्राज्य)",
+                  "titleEn": "",
+                  "file": "HISTORY/MEDIEVAL_INDIA/05.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_medieval_06",
+                  "name": "पाठ 06 (बहमनी राज्य)",
+                  "titleHi": "पाठ 06 (बहमनी राज्य)",
+                  "titleEn": "",
+                  "file": "HISTORY/MEDIEVAL_INDIA/06.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_medieval_07",
+                  "name": "पाठ 07 (स्वतंत्र प्रांतीय राज्य)",
+                  "titleHi": "पाठ 07 (स्वतंत्र प्रांतीय राज्य)",
+                  "titleEn": "",
+                  "file": "HISTORY/MEDIEVAL_INDIA/07.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_medieval_08",
+                  "name": "पाठ 08 (सूफी आन्दोलन)",
+                  "titleHi": "पाठ 08 (सूफी आन्दोलन)",
+                  "titleEn": "",
+                  "file": "HISTORY/MEDIEVAL_INDIA/08.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_medieval_09",
+                  "name": "पाठ 09 (भक्ति आन्दोलन)",
+                  "titleHi": "पाठ 09 (भक्ति आन्दोलन)",
+                  "titleEn": "",
+                  "file": "HISTORY/MEDIEVAL_INDIA/09.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_medieval_10",
+                  "name": "पाठ 10 (मुगल साम्राज्य)",
+                  "titleHi": "पाठ 10 (मुगल साम्राज्य)",
+                  "titleEn": "",
+                  "file": "HISTORY/MEDIEVAL_INDIA/10.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_medieval_11",
+                  "name": "पाठ 11 (मुगल शासन व्यवस्था)",
+                  "titleHi": "पाठ 11 (मुगल शासन व्यवस्था)",
+                  "titleEn": "",
+                  "file": "HISTORY/MEDIEVAL_INDIA/11.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_medieval_12",
+                  "name": "पाठ 12 (मराठों का उत्कर्ष)",
+                  "titleHi": "पाठ 12 (मराठों का उत्कर्ष)",
+                  "titleEn": "",
+                  "file": "HISTORY/MEDIEVAL_INDIA/12.json",
+                  "questions": 50
+                }
+              ]
+            },
+            {
+              "id": "lucent_gk_history_modern",
+              "titleHi": "आधुनिक भारत",
+              "titleEn": "Modern India",
+              "name": "आधुनिक भारत (Modern India)",
+              "chapters": [
+                {
+                  "id": "lucent_gk_history_modern_01",
+                  "name": "पाठ 01 (उत्तरकालीन मुगल सम्राट)",
+                  "titleHi": "पाठ 01 (उत्तरकालीन मुगल सम्राट)",
+                  "titleEn": "",
+                  "file": "HISTORY/MODERN_HISTORY/01.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_modern_02",
+                  "name": "पाठ 02 (भारत में यूरोपीय व्यापारिक कंपनियों का आगमन)",
+                  "titleHi": "पाठ 02 (भारत में यूरोपीय व्यापारिक कंपनियों का आगमन)",
+                  "titleEn": "",
+                  "file": "HISTORY/MODERN_HISTORY/02.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_modern_03",
+                  "name": "पाठ 03 (बंगाल पर अंग्रेजों का आधिपत्य)",
+                  "titleHi": "पाठ 03 (बंगाल पर अंग्रेजों का आधिपत्य)",
+                  "titleEn": "",
+                  "file": "HISTORY/MODERN_HISTORY/03.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_modern_04",
+                  "name": "पाठ 04 (अंग्रेजों का मैसूर से संबंध)",
+                  "titleHi": "पाठ 04 (अंग्रेजों का मैसूर से संबंध)",
+                  "titleEn": "",
+                  "file": "HISTORY/MODERN_HISTORY/04.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_modern_05",
+                  "name": "पाठ 05 (सिख एवं अंग्रेज)",
+                  "titleHi": "पाठ 05 (सिख एवं अंग्रेज)",
+                  "titleEn": "",
+                  "file": "HISTORY/MODERN_HISTORY/05.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_modern_06",
+                  "name": "पाठ 06 (कंपनी के अधीन गवर्नर जनरल)",
+                  "titleHi": "पाठ 06 (कंपनी के अधीन गवर्नर जनरल)",
+                  "titleEn": "",
+                  "file": "HISTORY/MODERN_HISTORY/06.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_modern_07",
+                  "name": "पाठ 07 (1857 ईस्वी की महान क्रांति)",
+                  "titleHi": "पाठ 07 (1857 ईस्वी की महान क्रांति)",
+                  "titleEn": "",
+                  "file": "HISTORY/MODERN_HISTORY/07.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_modern_08",
+                  "name": "पाठ 08 (अंग्रेजी शासन के दौरान हुए महत्वपूर्ण विद्रोह)",
+                  "titleHi": "पाठ 08 (अंग्रेजी शासन के दौरान हुए महत्वपूर्ण विद्रोह)",
+                  "titleEn": "",
+                  "file": "HISTORY/MODERN_HISTORY/08.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_modern_09",
+                  "name": "पाठ 09 (भारत का स्वतंत्रता संघर्ष: महत्वपूर्ण तथ्य)",
+                  "titleHi": "पाठ 09 (भारत का स्वतंत्रता संघर्ष: महत्वपूर्ण तथ्य)",
+                  "titleEn": "",
+                  "file": "HISTORY/MODERN_HISTORY/09.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_modern_10",
+                  "name": "पाठ 10 (भारतीय राष्ट्रीय आन्दोलन से संबंधित महत्वपूर्ण संगठन एवं संस्थाएँ)",
+                  "titleHi": "पाठ 10 (भारतीय राष्ट्रीय आन्दोलन से संबंधित महत्वपूर्ण संगठन एवं संस्थाएँ)",
+                  "titleEn": "",
+                  "file": "HISTORY/MODERN_HISTORY/10.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_modern_11",
+                  "name": "पाठ 11 (भारतीय राष्ट्रीय आन्दोलन से संबंधित महत्वपूर्ण तथ्य)",
+                  "titleHi": "पाठ 11 (भारतीय राष्ट्रीय आन्दोलन से संबंधित महत्वपूर्ण तथ्य)",
+                  "titleEn": "",
+                  "file": "HISTORY/MODERN_HISTORY/11.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_modern_12",
+                  "name": "पाठ 12 (भारत के महान शहीद)",
+                  "titleHi": "पाठ 12 (भारत के महान शहीद)",
+                  "titleEn": "",
+                  "file": "HISTORY/MODERN_HISTORY/12.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_modern_13",
+                  "name": "पाठ 13 (भारतीय स्वतंत्रता आन्दोलन के दौरान दिए गए प्रमुख वचन एवं नारे)",
+                  "titleHi": "पाठ 13 (भारतीय स्वतंत्रता आन्दोलन के दौरान दिए गए प्रमुख वचन एवं नारे)",
+                  "titleEn": "",
+                  "file": "HISTORY/MODERN_HISTORY/13.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_modern_14",
+                  "name": "पाठ 14 (स्वतंत्रता आन्दोलन से संबंधित प्रकाशित पत्र, पत्रिकाएँ एवं पुस्तकें)",
+                  "titleHi": "पाठ 14 (स्वतंत्रता आन्दोलन से संबंधित प्रकाशित पत्र, पत्रिकाएँ एवं पुस्तकें)",
+                  "titleEn": "",
+                  "file": "HISTORY/MODERN_HISTORY/14.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_modern_15",
+                  "name": "पाठ 15 (कांग्रेस अधिवेशन: कब और कहाँ)",
+                  "titleHi": "पाठ 15 (कांग्रेस अधिवेशन: कब और कहाँ)",
+                  "titleEn": "",
+                  "file": "HISTORY/MODERN_HISTORY/15.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_modern_16",
+                  "name": "पाठ 16 (भारत की ऐतिहासिक लड़ाइयाँ)",
+                  "titleHi": "पाठ 16 (भारत की ऐतिहासिक लड़ाइयाँ)",
+                  "titleEn": "",
+                  "file": "HISTORY/MODERN_HISTORY/16.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_modern_17",
+                  "name": "पाठ 17 (प्रमुख राजवंश, संस्थापक तथा राजधानी)",
+                  "titleHi": "पाठ 17 (प्रमुख राजवंश, संस्थापक तथा राजधानी)",
+                  "titleEn": "",
+                  "file": "HISTORY/MODERN_HISTORY/17.json",
+                  "questions": 50
+                }
+              ]
+            },
+            {
+              "id": "lucent_gk_history_world",
+              "titleHi": "विश्व इतिहास",
+              "titleEn": "World History",
+              "name": "विश्व इतिहास (World History)",
+              "chapters": [
+                {
+                  "id": "lucent_gk_history_world_01",
+                  "name": "पाठ 01 (पुनर्जागरण)",
+                  "titleHi": "पाठ 01 (पुनर्जागरण)",
+                  "titleEn": "",
+                  "file": "HISTORY/WORLD/01.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_world_02",
+                  "name": "पाठ 02 (अमेरिका का स्वतंत्रता संग्राम)",
+                  "titleHi": "पाठ 02 (अमेरिका का स्वतंत्रता संग्राम)",
+                  "titleEn": "",
+                  "file": "HISTORY/WORLD/02.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_world_03",
+                  "name": "पाठ 03 (फ्रांस की राज्यक्रांति)",
+                  "titleHi": "पाठ 03 (फ्रांस की राज्यक्रांति)",
+                  "titleEn": "",
+                  "file": "HISTORY/WORLD/03.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_world_04",
+                  "name": "पाठ 04 (इटली का एकीकरण)",
+                  "titleHi": "पाठ 04 (इटली का एकीकरण)",
+                  "titleEn": "",
+                  "file": "HISTORY/WORLD/04.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_world_05",
+                  "name": "पाठ 05 (जर्मनी का एकीकरण)",
+                  "titleHi": "पाठ 05 (जर्मनी का एकीकरण)",
+                  "titleEn": "",
+                  "file": "HISTORY/WORLD/05.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_world_06",
+                  "name": "पाठ 06 (रूसी क्रांति)",
+                  "titleHi": "पाठ 06 (रूसी क्रांति)",
+                  "titleEn": "",
+                  "file": "HISTORY/WORLD/06.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_world_07",
+                  "name": "पाठ 07 (औद्योगिक क्रांति)",
+                  "titleHi": "पाठ 07 (औद्योगिक क्रांति)",
+                  "titleEn": "",
+                  "file": "HISTORY/WORLD/07.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_world_08",
+                  "name": "पाठ 08 (इंग्लैंड में क्रांति)",
+                  "titleHi": "पाठ 08 (इंग्लैंड में क्रांति)",
+                  "titleEn": "",
+                  "file": "HISTORY/WORLD/08.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_world_09",
+                  "name": "पाठ 09 (प्रथम विश्व युद्ध)",
+                  "titleHi": "पाठ 09 (प्रथम विश्व युद्ध)",
+                  "titleEn": "",
+                  "file": "HISTORY/WORLD/09.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_world_10",
+                  "name": "पाठ 10 (चीनी क्रांति)",
+                  "titleHi": "पाठ 10 (चीनी क्रांति)",
+                  "titleEn": "",
+                  "file": "HISTORY/WORLD/10.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_world_11",
+                  "name": "पाठ 11 (तुर्की-इटली में फासिस्टों का उदय)",
+                  "titleHi": "पाठ 11 (तुर्की-इटली में फासिस्टों का उदय)",
+                  "titleEn": "",
+                  "file": "HISTORY/WORLD/11.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_world_12",
+                  "name": "पाठ 12 (जर्मनी में नाजीवाद का उदय)",
+                  "titleHi": "पाठ 12 (जर्मनी में नाजीवाद का उदय)",
+                  "titleEn": "",
+                  "file": "HISTORY/WORLD/12.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_world_13",
+                  "name": "पाठ 13 (जापानी साम्राज्यवाद)",
+                  "titleHi": "पाठ 13 (जापानी साम्राज्यवाद)",
+                  "titleEn": "",
+                  "file": "HISTORY/WORLD/13.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_history_world_14",
+                  "name": "पाठ 14 (द्वितीय विश्व युद्ध)",
+                  "titleHi": "पाठ 14 (द्वितीय विश्व युद्ध)",
+                  "titleEn": "",
+                  "file": "HISTORY/WORLD/14.json",
+                  "questions": 50
+                }
+              ]
+            }
+          ],
+          "chapters": []
+        },
+        {
+          "id": "lucent_gk_geography",
+          "name": "भूगोल (Geography)",
+          "titleHi": "भूगोल",
+          "titleEn": "Geography",
+          "description": "विश्व का भूगोल एवं भारत का भूगोल।",
+          "icon": "🗺️",
+          "badge": "GK",
+          "accentBg": "rgba(99,102,241,0.12)",
+          "accentBorder": "rgba(99,102,241,0.32)",
+          "sections": [
+            {
+              "id": "lucent_gk_geography_world",
+              "titleHi": "विश्व का भूगोल",
+              "titleEn": "World Geography",
+              "name": "विश्व का भूगोल (World Geography)",
+              "chapters": [
+                {
+                  "id": "lucent_gk_geography_world_01",
+                  "name": "पाठ 01 (ब्रह्माण्ड)",
+                  "titleHi": "पाठ 01 (ब्रह्माण्ड)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/01.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_02",
+                  "name": "पाठ 02 (सौर मंडल)",
+                  "titleHi": "पाठ 02 (सौर मंडल)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/02.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_03",
+                  "name": "पाठ 03 (पृथ्वी और उसका सौरैर्थिक संबंध)",
+                  "titleHi": "पाठ 03 (पृथ्वी और उसका सौरैर्थिक संबंध)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/03.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_04",
+                  "name": "पाठ 04 (पृथ्वी की संरचना)",
+                  "titleHi": "पाठ 04 (पृथ्वी की संरचना)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/04.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_05",
+                  "name": "पाठ 05 (महाद्वीप)",
+                  "titleHi": "पाठ 05 (महाद्वीप)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/05.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_06",
+                  "name": "पाठ 06 (जलमंडल)",
+                  "titleHi": "पाठ 06 (जलमंडल)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/06.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_07",
+                  "name": "पाठ 07 (महासागरीय जलधाराएँ)",
+                  "titleHi": "पाठ 07 (महासागरीय जलधाराएँ)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/07.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_08",
+                  "name": "पाठ 08 (वायुमंडल)",
+                  "titleHi": "पाठ 08 (वायुमंडल)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/08.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_09",
+                  "name": "पाठ 09 (विश्व की प्रमुख फसलें एवं उनके उत्पादक देश)",
+                  "titleHi": "पाठ 09 (विश्व की प्रमुख फसलें एवं उनके उत्पादक देश)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/09.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_10",
+                  "name": "पाठ 10 (विश्व के प्रमुख खनिज उत्पादक देश)",
+                  "titleHi": "पाठ 10 (विश्व के प्रमुख खनिज उत्पादक देश)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/10.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_11",
+                  "name": "पाठ 11 (विश्व की प्रमुख वनस्पतियाँ)",
+                  "titleHi": "पाठ 11 (विश्व की प्रमुख वनस्पतियाँ)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/11.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_12",
+                  "name": "पाठ 12 (विश्व की प्रमुख जनजातियाँ)",
+                  "titleHi": "पाठ 12 (विश्व की प्रमुख जनजातियाँ)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/12.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_13",
+                  "name": "पाठ 13 (विश्व के प्रमुख भौगोलिक उपनाम)",
+                  "titleHi": "पाठ 13 (विश्व के प्रमुख भौगोलिक उपनाम)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/13.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_14",
+                  "name": "पाठ 14 (विश्व के प्रसिद्ध स्थान)",
+                  "titleHi": "पाठ 14 (विश्व के प्रसिद्ध स्थान)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/14.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_15",
+                  "name": "पाठ 15 (विश्व की प्रमुख भौगोलिक खोजें)",
+                  "titleHi": "पाठ 15 (विश्व की प्रमुख भौगोलिक खोजें)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/15.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_16",
+                  "name": "पाठ 16 (विश्व के विनिर्माण उद्योग)",
+                  "titleHi": "पाठ 16 (विश्व के विनिर्माण उद्योग)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/16.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_17",
+                  "name": "पाठ 17 (विश्व के महासागर)",
+                  "titleHi": "पाठ 17 (विश्व के महासागर)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/17.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_18",
+                  "name": "पाठ 18 (विश्व की प्रमुख नहरें)",
+                  "titleHi": "पाठ 18 (विश्व की प्रमुख नहरें)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/18.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_19",
+                  "name": "पाठ 19 (विश्व की प्रमुख जलसंधियाँ)",
+                  "titleHi": "पाठ 19 (विश्व की प्रमुख जलसंधियाँ)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/19.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_20",
+                  "name": "पाठ 20 (विश्व के प्रमुख जलडमरूमध्य)",
+                  "titleHi": "पाठ 20 (विश्व के प्रमुख जलडमरूमध्य)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/20.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_21",
+                  "name": "पाठ 21 (विश्व की प्रमुख नदियाँ)",
+                  "titleHi": "पाठ 21 (विश्व की प्रमुख नदियाँ)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/21.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_22",
+                  "name": "पाठ 22 (नदियों के किनारे बसे विश्व के प्रमुख नगर)",
+                  "titleHi": "पाठ 22 (नदियों के किनारे बसे विश्व के प्रमुख नगर)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/22.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_23",
+                  "name": "पाठ 23 (विश्व के प्रमुख जलप्रपात)",
+                  "titleHi": "पाठ 23 (विश्व के प्रमुख जलप्रपात)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/23.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_24",
+                  "name": "पाठ 24 (विश्व की प्रमुख झीलें)",
+                  "titleHi": "पाठ 24 (विश्व की प्रमुख झीलें)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/24.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_25",
+                  "name": "पाठ 25 (विश्व के प्रमुख पर्वत शिखर)",
+                  "titleHi": "पाठ 25 (विश्व के प्रमुख पर्वत शिखर)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/25.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_26",
+                  "name": "पाठ 26 (विश्व के प्रमुख द्वीप)",
+                  "titleHi": "पाठ 26 (विश्व के प्रमुख द्वीप)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/26.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_27",
+                  "name": "पाठ 27 (विश्व के प्रमुख पठार)",
+                  "titleHi": "पाठ 27 (विश्व के प्रमुख पठार)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/27.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_28",
+                  "name": "पाठ 28 (विश्व के प्रमुख रेगिस्तान)",
+                  "titleHi": "पाठ 28 (विश्व के प्रमुख रेगिस्तान)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/28.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_29",
+                  "name": "पाठ 29 (विश्व के प्रमुख देशों की राजधानी एवं मुद्रा)",
+                  "titleHi": "पाठ 29 (विश्व के प्रमुख देशों की राजधानी एवं मुद्रा)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/29.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_world_30",
+                  "name": "पाठ 30 (भू-आवेष्टित देश)",
+                  "titleHi": "पाठ 30 (भू-आवेष्टित देश)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/WORLD/30.json",
+                  "questions": 50
+                }
+              ]
+            },
+            {
+              "id": "lucent_gk_geography_indian",
+              "titleHi": "भारत का भूगोल",
+              "titleEn": "Indian Geography",
+              "name": "भारत का भूगोल (Indian Geography)",
+              "chapters": [
+                {
+                  "id": "lucent_gk_geography_indian_01",
+                  "name": "पाठ 01 (सामान्य जानकारी (भारत))",
+                  "titleHi": "पाठ 01 (सामान्य जानकारी (भारत))",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/01.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_indian_02",
+                  "name": "पाठ 02 (भारत का भौतिक स्वरूप)",
+                  "titleHi": "पाठ 02 (भारत का भौतिक स्वरूप)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/02.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_indian_03",
+                  "name": "पाठ 03 (भारत की नदियाँ)",
+                  "titleHi": "पाठ 03 (भारत की नदियाँ)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/03.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_indian_04",
+                  "name": "पाठ 04 (भारत की प्रमुख झीलें)",
+                  "titleHi": "पाठ 04 (भारत की प्रमुख झीलें)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/04.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_indian_05",
+                  "name": "पाठ 05 (भारत के प्रमुख जल-प्रपात)",
+                  "titleHi": "पाठ 05 (भारत के प्रमुख जल-प्रपात)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/05.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_indian_06",
+                  "name": "पाठ 06 (भारत की जलवायु)",
+                  "titleHi": "पाठ 06 (भारत की जलवायु)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/06.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_indian_07",
+                  "name": "पाठ 07 (भारत की मिट्टी)",
+                  "titleHi": "पाठ 07 (भारत की मिट्टी)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/07.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_indian_08",
+                  "name": "पाठ 08 (भारत में कृषि)",
+                  "titleHi": "पाठ 08 (भारत में कृषि)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/08.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_indian_09",
+                  "name": "पाठ 09 (भारत में सिंचाई)",
+                  "titleHi": "पाठ 09 (भारत में सिंचाई)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/09.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_indian_10",
+                  "name": "पाठ 10 (भारत के खनिज)",
+                  "titleHi": "पाठ 10 (भारत के खनिज)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/10.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_indian_11",
+                  "name": "पाठ 11 (भारत के उद्योग)",
+                  "titleHi": "पाठ 11 (भारत के उद्योग)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/11.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_indian_12",
+                  "name": "पाठ 12 (भारत में परिवहन)",
+                  "titleHi": "पाठ 12 (भारत में परिवहन)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/12.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_indian_13",
+                  "name": "पाठ 13 (भारत की जनगणना-2001)",
+                  "titleHi": "पाठ 13 (भारत की जनगणना-2001)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/13.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_indian_14",
+                  "name": "पाठ 14 (भारत की प्रमुख बहु-उद्देशीय नदीघाटी परियोजनाएँ)",
+                  "titleHi": "पाठ 14 (भारत की प्रमुख बहु-उद्देशीय नदीघाटी परियोजनाएँ)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/14.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_indian_15",
+                  "name": "पाठ 15 (नदियों के किनारे बसे प्रमुख नगर (भारत))",
+                  "titleHi": "पाठ 15 (नदियों के किनारे बसे प्रमुख नगर (भारत))",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/15.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_indian_16",
+                  "name": "पाठ 16 (भारत के पर्वतीय नगर)",
+                  "titleHi": "पाठ 16 (भारत के पर्वतीय नगर)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/16.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_indian_17",
+                  "name": "पाठ 17 (भारत के प्रमुख वन्यजीव अभयारण्य)",
+                  "titleHi": "पाठ 17 (भारत के प्रमुख वन्यजीव अभयारण्य)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/17.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_indian_18",
+                  "name": "पाठ 18 (प्रमुख भौगोलिक उपनाम (भारत))",
+                  "titleHi": "पाठ 18 (प्रमुख भौगोलिक उपनाम (भारत))",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/18.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_indian_19",
+                  "name": "पाठ 19 (भारतीय राज्यों एवं केन्द्र-शासित प्रदेशों की राजधानी)",
+                  "titleHi": "पाठ 19 (भारतीय राज्यों एवं केन्द्र-शासित प्रदेशों की राजधानी)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/19.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_geography_indian_20",
+                  "name": "पाठ 20 (भारतीय जनजातियाँ)",
+                  "titleHi": "पाठ 20 (भारतीय जनजातियाँ)",
+                  "titleEn": "",
+                  "file": "GEOGRAPHY/INDIAN/20.json",
+                  "questions": 50
+                }
+              ]
+            }
+          ],
+          "chapters": []
+        },
+        {
+          "id": "lucent_gk_constitution",
+          "name": "भारतीय संविधान (Indian Constitution)",
+          "titleHi": "भारतीय संविधान",
+          "titleEn": "Indian Constitution",
+          "description": "संविधान, शासन व्यवस्था, संसद, न्यायपालिका एवं पंचायती राज।",
+          "icon": "⚖️",
+          "badge": "GK",
+          "accentBg": "rgba(99,102,241,0.12)",
+          "accentBorder": "rgba(99,102,241,0.32)",
+          "sections": [],
+          "chapters": [
+            {
+              "id": "lucent_gk_constitution_01",
+              "name": "पाठ 01 (भारतीय संविधान के विकास का संक्षिप्त इतिहास)",
+              "titleHi": "पाठ 01 (भारतीय संविधान के विकास का संक्षिप्त इतिहास)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/01.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_02",
+              "name": "पाठ 02 (भारतीय संविधान सभा)",
+              "titleHi": "पाठ 02 (भारतीय संविधान सभा)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/02.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_03",
+              "name": "पाठ 03 (भारतीय संविधान के विदेशी स्रोत)",
+              "titleHi": "पाठ 03 (भारतीय संविधान के विदेशी स्रोत)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/03.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_04",
+              "name": "पाठ 04 (भारतीय संविधान की अनुसूची)",
+              "titleHi": "पाठ 04 (भारतीय संविधान की अनुसूची)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/04.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_05",
+              "name": "पाठ 05 (संघ और उसका राज्य क्षेत्र)",
+              "titleHi": "पाठ 05 (संघ और उसका राज्य क्षेत्र)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/05.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_06",
+              "name": "पाठ 06 (देशी रियासतों का भारत में विलयन)",
+              "titleHi": "पाठ 06 (देशी रियासतों का भारत में विलयन)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/06.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_07",
+              "name": "पाठ 07 (राज्यों का पुनर्गठन)",
+              "titleHi": "पाठ 07 (राज्यों का पुनर्गठन)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/07.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_08",
+              "name": "पाठ 08 (भारतीय संविधान के प्रमुख भाग)",
+              "titleHi": "पाठ 08 (भारतीय संविधान के प्रमुख भाग)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/08.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_09",
+              "name": "पाठ 09 (भारतीय नागरिकता)",
+              "titleHi": "पाठ 09 (भारतीय नागरिकता)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/09.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_10",
+              "name": "पाठ 10 (मूल अधिकार)",
+              "titleHi": "पाठ 10 (मूल अधिकार)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/10.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_11",
+              "name": "पाठ 11 (राज्य के नीति निर्देशक सिद्धान्त)",
+              "titleHi": "पाठ 11 (राज्य के नीति निर्देशक सिद्धान्त)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/11.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_12",
+              "name": "पाठ 12 (मौलिक कर्तव्य)",
+              "titleHi": "पाठ 12 (मौलिक कर्तव्य)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/12.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_13",
+              "name": "पाठ 13 (राष्ट्रपति)",
+              "titleHi": "पाठ 13 (राष्ट्रपति)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/13.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_14",
+              "name": "पाठ 14 (उपराष्ट्रपति)",
+              "titleHi": "पाठ 14 (उपराष्ट्रपति)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/14.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_15",
+              "name": "पाठ 15 (प्रधानमंत्री एवं मंत्रिपरिषद)",
+              "titleHi": "पाठ 15 (प्रधानमंत्री एवं मंत्रिपरिषद)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/15.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_16",
+              "name": "पाठ 16 (संघीय संसद)",
+              "titleHi": "पाठ 16 (संघीय संसद)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/16.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_17",
+              "name": "पाठ 17 (भारत की संचित निधि)",
+              "titleHi": "पाठ 17 (भारत की संचित निधि)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/17.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_18",
+              "name": "पाठ 18 (महान्यायवादी)",
+              "titleHi": "पाठ 18 (महान्यायवादी)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/18.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_19",
+              "name": "पाठ 19 (नियंत्रक एवं महालेखा परीक्षक)",
+              "titleHi": "पाठ 19 (नियंत्रक एवं महालेखा परीक्षक)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/19.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_20",
+              "name": "पाठ 20 (न्यायपालिका)",
+              "titleHi": "पाठ 20 (न्यायपालिका)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/20.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_21",
+              "name": "पाठ 21 (राज्य की कार्यपालिका)",
+              "titleHi": "पाठ 21 (राज्य की कार्यपालिका)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/21.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_22",
+              "name": "पाठ 22 (भारतीय राजव्यवस्था में वरीयता अनुक्रम)",
+              "titleHi": "पाठ 22 (भारतीय राजव्यवस्था में वरीयता अनुक्रम)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/22.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_23",
+              "name": "पाठ 23 (केन्द्र-राज्य संबंध)",
+              "titleHi": "पाठ 23 (केन्द्र-राज्य संबंध)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/23.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_24",
+              "name": "पाठ 24 (अन्तर्रराज्य परिषद)",
+              "titleHi": "पाठ 24 (अन्तर्रराज्य परिषद)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/24.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_25",
+              "name": "पाठ 25 (वित्त आयोग)",
+              "titleHi": "पाठ 25 (वित्त आयोग)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/25.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_26",
+              "name": "पाठ 26 (योजना आयोग)",
+              "titleHi": "पाठ 26 (योजना आयोग)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/26.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_27",
+              "name": "पाठ 27 (राष्ट्रीय विकास परिषद)",
+              "titleHi": "पाठ 27 (राष्ट्रीय विकास परिषद)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/27.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_28",
+              "name": "पाठ 28 (लोक सेवा आयोग)",
+              "titleHi": "पाठ 28 (लोक सेवा आयोग)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/28.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_29",
+              "name": "पाठ 29 (निर्वाचन आयोग)",
+              "titleHi": "पाठ 29 (निर्वाचन आयोग)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/29.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_30",
+              "name": "पाठ 30 (राजभाषा)",
+              "titleHi": "पाठ 30 (राजभाषा)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/30.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_31",
+              "name": "पाठ 31 (आपात उपबंध)",
+              "titleHi": "पाठ 31 (आपात उपबंध)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/31.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_32",
+              "name": "पाठ 32 (शपथ एवं त्याग पत्र)",
+              "titleHi": "पाठ 32 (शपथ एवं त्याग पत्र)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/32.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_33",
+              "name": "पाठ 33 (भारत के राष्ट्रीय चिह्न)",
+              "titleHi": "पाठ 33 (भारत के राष्ट्रीय चिह्न)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/33.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_34",
+              "name": "पाठ 34 (संसद की वित्तीय समितियाँ)",
+              "titleHi": "पाठ 34 (संसद की वित्तीय समितियाँ)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/34.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_35",
+              "name": "पाठ 35 (पंचायती राज)",
+              "titleHi": "पाठ 35 (पंचायती राज)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/35.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_36",
+              "name": "पाठ 36 (महत्वपूर्ण शब्दावली)",
+              "titleHi": "पाठ 36 (महत्वपूर्ण शब्दावली)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/36.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_37",
+              "name": "पाठ 37 (संविधान के कुछ महत्वपूर्ण अनुच्छेद)",
+              "titleHi": "पाठ 37 (संविधान के कुछ महत्वपूर्ण अनुच्छेद)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/37.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_constitution_38",
+              "name": "पाठ 38 (संविधान में किए गए प्रमुख संशोधन)",
+              "titleHi": "पाठ 38 (संविधान में किए गए प्रमुख संशोधन)",
+              "titleEn": "",
+              "file": "INDIAN_CONSTITUTION/38.json",
+              "questions": 50
+            }
+          ]
+        },
+        {
+          "id": "lucent_gk_economics",
+          "name": "भारतीय अर्थव्यवस्था (Indian Economy)",
+          "titleHi": "भारतीय अर्थव्यवस्था",
+          "titleEn": "Indian Economy",
+          "description": "राष्ट्रीय आय, आर्थिक आयोजन, कृषि, उद्योग एवं व्यापार।",
+          "icon": "💰",
+          "badge": "GK",
+          "accentBg": "rgba(99,102,241,0.12)",
+          "accentBorder": "rgba(99,102,241,0.32)",
+          "sections": [],
+          "chapters": [
+            {
+              "id": "lucent_gk_economics_01",
+              "name": "पाठ 01 (राष्ट्रीय आय)",
+              "titleHi": "पाठ 01 (राष्ट्रीय आय)",
+              "titleEn": "",
+              "file": "INDIAN_ECONOMICS/01.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_economics_02",
+              "name": "पाठ 02 (आर्थिक आयोजन)",
+              "titleHi": "पाठ 02 (आर्थिक आयोजन)",
+              "titleEn": "",
+              "file": "INDIAN_ECONOMICS/02.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_economics_03",
+              "name": "पाठ 03 (नई आर्थिक नीति)",
+              "titleHi": "पाठ 03 (नई आर्थिक नीति)",
+              "titleEn": "",
+              "file": "INDIAN_ECONOMICS/03.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_economics_04",
+              "name": "पाठ 04 (भारतीय वित्त व्यवस्था)",
+              "titleHi": "पाठ 04 (भारतीय वित्त व्यवस्था)",
+              "titleEn": "",
+              "file": "INDIAN_ECONOMICS/04.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_economics_05",
+              "name": "पाठ 05 (कृषि)",
+              "titleHi": "पाठ 05 (कृषि)",
+              "titleEn": "",
+              "file": "INDIAN_ECONOMICS/05.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_economics_06",
+              "name": "पाठ 06 (उद्योग)",
+              "titleHi": "पाठ 06 (उद्योग)",
+              "titleEn": "",
+              "file": "INDIAN_ECONOMICS/06.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_economics_07",
+              "name": "पाठ 07 (व्यापार)",
+              "titleHi": "पाठ 07 (व्यापार)",
+              "titleEn": "",
+              "file": "INDIAN_ECONOMICS/07.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_economics_08",
+              "name": "पाठ 08 (आर्थिक शब्दावली और विविध तथ्य)",
+              "titleHi": "पाठ 08 (आर्थिक शब्दावली और विविध तथ्य)",
+              "titleEn": "",
+              "file": "INDIAN_ECONOMICS/08.json",
+              "questions": 50
+            }
+          ]
+        },
+        {
+          "id": "lucent_gk_science",
+          "name": "विज्ञान (Science)",
+          "titleHi": "विज्ञान",
+          "titleEn": "Science",
+          "description": "भौतिक विज्ञान, रसायन विज्ञान एवं जीव विज्ञान।",
+          "icon": "🔬",
+          "badge": "GK",
+          "accentBg": "rgba(99,102,241,0.12)",
+          "accentBorder": "rgba(99,102,241,0.32)",
+          "sections": [
+            {
+              "id": "lucent_gk_science_physics",
+              "titleHi": "भौतिक विज्ञान",
+              "titleEn": "Physics",
+              "name": "भौतिक विज्ञान (Physics)",
+              "chapters": [
+                {
+                  "id": "lucent_gk_science_physics_01",
+                  "name": "पाठ 01 (मात्रक)",
+                  "titleHi": "पाठ 01 (मात्रक)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/01.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_02",
+                  "name": "पाठ 02 (गति)",
+                  "titleHi": "पाठ 02 (गति)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/02.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_03",
+                  "name": "पाठ 03 (कार्य, ऊर्जा एवं शक्ति)",
+                  "titleHi": "पाठ 03 (कार्य, ऊर्जा एवं शक्ति)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/03.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_04",
+                  "name": "पाठ 04 (गुरुत्वाकर्षण)",
+                  "titleHi": "पाठ 04 (गुरुत्वाकर्षण)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/04.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_05",
+                  "name": "पाठ 05 (दाब)",
+                  "titleHi": "पाठ 05 (दाब)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/05.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_06",
+                  "name": "पाठ 06 (प्लवन)",
+                  "titleHi": "पाठ 06 (प्लवन)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/06.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_07",
+                  "name": "पाठ 07 (पृष्ठ तनाव)",
+                  "titleHi": "पाठ 07 (पृष्ठ तनाव)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/07.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_08",
+                  "name": "पाठ 08 (श्यानता)",
+                  "titleHi": "पाठ 08 (श्यानता)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/08.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_09",
+                  "name": "पाठ 09 (प्रत्यास्थता)",
+                  "titleHi": "पाठ 09 (प्रत्यास्थता)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/09.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_10",
+                  "name": "पाठ 10 (सरल आवर्त गति)",
+                  "titleHi": "पाठ 10 (सरल आवर्त गति)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/10.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_11",
+                  "name": "पाठ 11 (तरंग)",
+                  "titleHi": "पाठ 11 (तरंग)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/11.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_12",
+                  "name": "पाठ 12 (ध्वनि तरंग)",
+                  "titleHi": "पाठ 12 (ध्वनि तरंग)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/12.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_13",
+                  "name": "पाठ 13 (ऊष्मा)",
+                  "titleHi": "पाठ 13 (ऊष्मा)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/13.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_14",
+                  "name": "पाठ 14 (प्रकाश)",
+                  "titleHi": "पाठ 14 (प्रकाश)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/14.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_15",
+                  "name": "पाठ 15 (स्थिर विद्युत)",
+                  "titleHi": "पाठ 15 (स्थिर विद्युत)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/15.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_16",
+                  "name": "पाठ 16 (विद्युत धारा)",
+                  "titleHi": "पाठ 16 (विद्युत धारा)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/16.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_17",
+                  "name": "पाठ 17 (चुम्बकत्व)",
+                  "titleHi": "पाठ 17 (चुम्बकत्व)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/17.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_18",
+                  "name": "पाठ 18 (परमाणु भौतिकी)",
+                  "titleHi": "पाठ 18 (परमाणु भौतिकी)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/18.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_19",
+                  "name": "पाठ 19 (रेडियोसक्रियता)",
+                  "titleHi": "पाठ 19 (रेडियोसक्रियता)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/19.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_20",
+                  "name": "पाठ 20 (नाभिकीय विखंडन तथा संलयन)",
+                  "titleHi": "पाठ 20 (नाभिकीय विखंडन तथा संलयन)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/20.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_21",
+                  "name": "पाठ 21 (ब्रह्मांड)",
+                  "titleHi": "पाठ 21 (ब्रह्मांड)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/21.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_22",
+                  "name": "पाठ 22 (वैज्ञानिक उपकरण)",
+                  "titleHi": "पाठ 22 (वैज्ञानिक उपकरण)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/22.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_23",
+                  "name": "पाठ 23 (भौतिकी संबंधी महत्वपूर्ण खोज)",
+                  "titleHi": "पाठ 23 (भौतिकी संबंधी महत्वपूर्ण खोज)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/23.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_24",
+                  "name": "पाठ 24 (मात्रकों का एक पद्धति से दूसरी पद्धति में परिवर्तन)",
+                  "titleHi": "पाठ 24 (मात्रकों का एक पद्धति से दूसरी पद्धति में परिवर्तन)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/24.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_25",
+                  "name": "पाठ 25 (माप-तौल के विभिन्न मात्रक)",
+                  "titleHi": "पाठ 25 (माप-तौल के विभिन्न मात्रक)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/25.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_physics_26",
+                  "name": "पाठ 26 (विभिन्न यंत्रों एवं उपकरणों के आविष्कारक)",
+                  "titleHi": "पाठ 26 (विभिन्न यंत्रों एवं उपकरणों के आविष्कारक)",
+                  "titleEn": "",
+                  "file": "SCIENCE/PHYSICS/26.json",
+                  "questions": 50
+                }
+              ]
+            },
+            {
+              "id": "lucent_gk_science_chemistry",
+              "titleHi": "रसायन विज्ञान",
+              "titleEn": "Chemistry",
+              "name": "रसायन विज्ञान (Chemistry)",
+              "chapters": [
+                {
+                  "id": "lucent_gk_science_chemistry_01",
+                  "name": "पाठ 01 (पदार्थ एवं उसकी प्रकृति)",
+                  "titleHi": "पाठ 01 (पदार्थ एवं उसकी प्रकृति)",
+                  "titleEn": "",
+                  "file": "SCIENCE/CHEMISTRY/01.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_chemistry_02",
+                  "name": "पाठ 02 (परमाणु संरचना)",
+                  "titleHi": "पाठ 02 (परमाणु संरचना)",
+                  "titleEn": "",
+                  "file": "SCIENCE/CHEMISTRY/02.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_chemistry_03",
+                  "name": "पाठ 03 (गैसों का आचरण)",
+                  "titleHi": "पाठ 03 (गैसों का आचरण)",
+                  "titleEn": "",
+                  "file": "SCIENCE/CHEMISTRY/03.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_chemistry_04",
+                  "name": "पाठ 04 (तत्वों का आवर्ती वर्गीकरण)",
+                  "titleHi": "पाठ 04 (तत्वों का आवर्ती वर्गीकरण)",
+                  "titleEn": "",
+                  "file": "SCIENCE/CHEMISTRY/04.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_chemistry_05",
+                  "name": "पाठ 05 (रासायनिक बंधन)",
+                  "titleHi": "पाठ 05 (रासायनिक बंधन)",
+                  "titleEn": "",
+                  "file": "SCIENCE/CHEMISTRY/05.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_chemistry_06",
+                  "name": "पाठ 06 (ऑक्सीकरण एवं अवकरण)",
+                  "titleHi": "पाठ 06 (ऑक्सीकरण एवं अवकरण)",
+                  "titleEn": "",
+                  "file": "SCIENCE/CHEMISTRY/06.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_chemistry_07",
+                  "name": "पाठ 07 (अम्ल, भस्म एवं लवण)",
+                  "titleHi": "पाठ 07 (अम्ल, भस्म एवं लवण)",
+                  "titleEn": "",
+                  "file": "SCIENCE/CHEMISTRY/07.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_chemistry_08",
+                  "name": "पाठ 08 (विलयन)",
+                  "titleHi": "पाठ 08 (विलयन)",
+                  "titleEn": "",
+                  "file": "SCIENCE/CHEMISTRY/08.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_chemistry_09",
+                  "name": "पाठ 09 (कार्बन एवं उसके यौगिक)",
+                  "titleHi": "पाठ 09 (कार्बन एवं उसके यौगिक)",
+                  "titleEn": "",
+                  "file": "SCIENCE/CHEMISTRY/09.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_chemistry_10",
+                  "name": "पाठ 10 (ईंधन)",
+                  "titleHi": "पाठ 10 (ईंधन)",
+                  "titleEn": "",
+                  "file": "SCIENCE/CHEMISTRY/10.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_chemistry_11",
+                  "name": "पाठ 11 (धातुएँ)",
+                  "titleHi": "पाठ 11 (धातुएँ)",
+                  "titleEn": "",
+                  "file": "SCIENCE/CHEMISTRY/11.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_chemistry_12",
+                  "name": "पाठ 12 (अधातुएँ)",
+                  "titleHi": "पाठ 12 (अधातुएँ)",
+                  "titleEn": "",
+                  "file": "SCIENCE/CHEMISTRY/12.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_chemistry_13",
+                  "name": "पाठ 13 (मिश्रधातु)",
+                  "titleHi": "पाठ 13 (मिश्रधातु)",
+                  "titleEn": "",
+                  "file": "SCIENCE/CHEMISTRY/13.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_chemistry_14",
+                  "name": "पाठ 14 (मानव निर्मित पदार्थ)",
+                  "titleHi": "पाठ 14 (मानव निर्मित पदार्थ)",
+                  "titleEn": "",
+                  "file": "SCIENCE/CHEMISTRY/14.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_chemistry_15",
+                  "name": "पाठ 15 (औषधि एवं रसायन)",
+                  "titleHi": "पाठ 15 (औषधि एवं रसायन)",
+                  "titleEn": "",
+                  "file": "SCIENCE/CHEMISTRY/15.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_chemistry_16",
+                  "name": "पाठ 16 (उत्प्रेरण)",
+                  "titleHi": "पाठ 16 (उत्प्रेरण)",
+                  "titleEn": "",
+                  "file": "SCIENCE/CHEMISTRY/16.json",
+                  "questions": 50
+                }
+              ]
+            },
+            {
+              "id": "lucent_gk_science_biology",
+              "titleHi": "जीव विज्ञान",
+              "titleEn": "Biology",
+              "name": "जीव विज्ञान (Biology)",
+              "chapters": [
+                {
+                  "id": "lucent_gk_science_biology_01",
+                  "name": "पाठ 01 (जीवधारियों का वर्गीकरण)",
+                  "titleHi": "पाठ 01 (जीवधारियों का वर्गीकरण)",
+                  "titleEn": "",
+                  "file": "SCIENCE/BIOLOGY/01.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_biology_02",
+                  "name": "पाठ 02 (कोशिका विज्ञान)",
+                  "titleHi": "पाठ 02 (कोशिका विज्ञान)",
+                  "titleEn": "",
+                  "file": "SCIENCE/BIOLOGY/02.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_biology_03",
+                  "name": "पाठ 03 (जैव-विकास)",
+                  "titleHi": "पाठ 03 (जैव-विकास)",
+                  "titleEn": "",
+                  "file": "SCIENCE/BIOLOGY/03.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_biology_04",
+                  "name": "पाठ 04 (आनुवंशिकी)",
+                  "titleHi": "पाठ 04 (आनुवंशिकी)",
+                  "titleEn": "",
+                  "file": "SCIENCE/BIOLOGY/04.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_biology_05",
+                  "name": "पाठ 05 (वनस्पति विज्ञान)",
+                  "titleHi": "पाठ 05 (वनस्पति विज्ञान)",
+                  "titleEn": "",
+                  "file": "SCIENCE/BIOLOGY/05.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_biology_06",
+                  "name": "पाठ 06 (प्राणी विज्ञान)",
+                  "titleHi": "पाठ 06 (प्राणी विज्ञान)",
+                  "titleEn": "",
+                  "file": "SCIENCE/BIOLOGY/06.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_biology_07",
+                  "name": "पाठ 07 (मानव शरीर के तंत्र)",
+                  "titleHi": "पाठ 07 (मानव शरीर के तंत्र)",
+                  "titleEn": "",
+                  "file": "SCIENCE/BIOLOGY/07.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_biology_08",
+                  "name": "पाठ 08 (पोषक पदार्थ)",
+                  "titleHi": "पाठ 08 (पोषक पदार्थ)",
+                  "titleEn": "",
+                  "file": "SCIENCE/BIOLOGY/08.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_biology_09",
+                  "name": "पाठ 09 (पोषण)",
+                  "titleHi": "पाठ 09 (पोषण)",
+                  "titleEn": "",
+                  "file": "SCIENCE/BIOLOGY/09.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_biology_10",
+                  "name": "पाठ 10 (मानव रोग)",
+                  "titleHi": "पाठ 10 (मानव रोग)",
+                  "titleEn": "",
+                  "file": "SCIENCE/BIOLOGY/10.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_biology_11",
+                  "name": "पाठ 11 (चिकित्सा संबंधी आविष्कार)",
+                  "titleHi": "पाठ 11 (चिकित्सा संबंधी आविष्कार)",
+                  "titleEn": "",
+                  "file": "SCIENCE/BIOLOGY/11.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_biology_12",
+                  "name": "पाठ 12 (प्रमुख चिकित्सा उपकरण)",
+                  "titleHi": "पाठ 12 (प्रमुख चिकित्सा उपकरण)",
+                  "titleEn": "",
+                  "file": "SCIENCE/BIOLOGY/12.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_biology_13",
+                  "name": "पाठ 13 (जन्तु विज्ञान की विभिन्न शाखाओं के जनक)",
+                  "titleHi": "पाठ 13 (जन्तु विज्ञान की विभिन्न शाखाओं के जनक)",
+                  "titleEn": "",
+                  "file": "SCIENCE/BIOLOGY/13.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_biology_14",
+                  "name": "पाठ 14 (अवास्तविक मछलियाँ)",
+                  "titleHi": "पाठ 14 (अवास्तविक मछलियाँ)",
+                  "titleEn": "",
+                  "file": "SCIENCE/BIOLOGY/14.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_biology_15",
+                  "name": "पाठ 15 (वास्तविक मछलियाँ)",
+                  "titleHi": "पाठ 15 (वास्तविक मछलियाँ)",
+                  "titleEn": "",
+                  "file": "SCIENCE/BIOLOGY/15.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_biology_16",
+                  "name": "पाठ 16 (विचित्रताएँ)",
+                  "titleHi": "पाठ 16 (विचित्रताएँ)",
+                  "titleEn": "",
+                  "file": "SCIENCE/BIOLOGY/16.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_biology_17",
+                  "name": "पाठ 17 (मानव शरीर के महत्वपूर्ण तथ्य)",
+                  "titleHi": "पाठ 17 (मानव शरीर के महत्वपूर्ण तथ्य)",
+                  "titleEn": "",
+                  "file": "SCIENCE/BIOLOGY/17.json",
+                  "questions": 50
+                },
+                {
+                  "id": "lucent_gk_science_biology_18",
+                  "name": "पाठ 18 (विज्ञान की कुछ प्रमुख शाखाएँ)",
+                  "titleHi": "पाठ 18 (विज्ञान की कुछ प्रमुख शाखाएँ)",
+                  "titleEn": "",
+                  "file": "SCIENCE/BIOLOGY/18.json",
+                  "questions": 50
+                }
+              ]
+            }
+          ],
+          "chapters": []
+        },
+        {
+          "id": "lucent_gk_sports",
+          "name": "खेल-कूद (Sports)",
+          "titleHi": "खेल-कूद",
+          "titleEn": "Sports",
+          "description": "ओलम्पिक, एशियाई एवं राष्ट्रमंडल खेल, पुरस्कार एवं संस्थाएँ।",
+          "icon": "🏅",
+          "badge": "GK",
+          "accentBg": "rgba(99,102,241,0.12)",
+          "accentBorder": "rgba(99,102,241,0.32)",
+          "sections": [],
+          "chapters": [
+            {
+              "id": "lucent_gk_sports_01",
+              "name": "पाठ 01 (ओलम्पिक खेल)",
+              "titleHi": "पाठ 01 (ओलम्पिक खेल)",
+              "titleEn": "",
+              "file": "SPORTS/01.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_sports_02",
+              "name": "पाठ 02 (राष्ट्रमंडल खेल)",
+              "titleHi": "पाठ 02 (राष्ट्रमंडल खेल)",
+              "titleEn": "",
+              "file": "SPORTS/02.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_sports_03",
+              "name": "पाठ 03 (एशियाई खेल)",
+              "titleHi": "पाठ 03 (एशियाई खेल)",
+              "titleEn": "",
+              "file": "SPORTS/03.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_sports_04",
+              "name": "पाठ 04 (कुछ प्रमुख खेल एवं उससे संबंधित जानकारी)",
+              "titleHi": "पाठ 04 (कुछ प्रमुख खेल एवं उससे संबंधित जानकारी)",
+              "titleEn": "",
+              "file": "SPORTS/04.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_sports_05",
+              "name": "पाठ 05 (विभिन्न खेल तथा उनसे सम्बद्ध प्रमुख कप एवं ट्रॉफियाँ)",
+              "titleHi": "पाठ 05 (विभिन्न खेल तथा उनसे सम्बद्ध प्रमुख कप एवं ट्रॉफियाँ)",
+              "titleEn": "",
+              "file": "SPORTS/05.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_sports_06",
+              "name": "पाठ 06 (प्रमुख खेलों में एक पक्ष के खिलाड़ियों की संख्या)",
+              "titleHi": "पाठ 06 (प्रमुख खेलों में एक पक्ष के खिलाड़ियों की संख्या)",
+              "titleEn": "",
+              "file": "SPORTS/06.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_sports_07",
+              "name": "पाठ 07 (प्रमुख देशों के राष्ट्रीय खेल)",
+              "titleHi": "पाठ 07 (प्रमुख देशों के राष्ट्रीय खेल)",
+              "titleEn": "",
+              "file": "SPORTS/07.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_sports_08",
+              "name": "पाठ 08 (प्रसिद्ध खेल-मैदान तथा उनसे सम्बन्धित खेल)",
+              "titleHi": "पाठ 08 (प्रसिद्ध खेल-मैदान तथा उनसे सम्बन्धित खेल)",
+              "titleEn": "",
+              "file": "SPORTS/08.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_sports_09",
+              "name": "पाठ 09 (विभिन्न खेलों के खेल-परिसर)",
+              "titleHi": "पाठ 09 (विभिन्न खेलों के खेल-परिसर)",
+              "titleEn": "",
+              "file": "SPORTS/09.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_sports_10",
+              "name": "पाठ 10 (खेलों से संबंधित पुरस्कार)",
+              "titleHi": "पाठ 10 (खेलों से संबंधित पुरस्कार)",
+              "titleEn": "",
+              "file": "SPORTS/10.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_sports_11",
+              "name": "पाठ 11 (भारत की प्रमुख खेल संस्थाएँ)",
+              "titleHi": "पाठ 11 (भारत की प्रमुख खेल संस्थाएँ)",
+              "titleEn": "",
+              "file": "SPORTS/11.json",
+              "questions": 50
+            }
+          ]
+        },
+        {
+          "id": "lucent_gk_vividh",
+          "name": "विविध (Miscellaneous)",
+          "titleHi": "विविध",
+          "titleEn": "Miscellaneous",
+          "description": "भारत एवं विश्व में प्रथम, राष्ट्रीय चिह्न, पुरस्कार, विरासत स्थल आदि।",
+          "icon": "📚",
+          "badge": "GK",
+          "accentBg": "rgba(99,102,241,0.12)",
+          "accentBorder": "rgba(99,102,241,0.32)",
+          "sections": [],
+          "chapters": [
+            {
+              "id": "lucent_gk_vividh_01",
+              "name": "पाठ 01 (भारत में प्रथम (महिला))",
+              "titleHi": "पाठ 01 (भारत में प्रथम (महिला))",
+              "titleEn": "",
+              "file": "VIVIDH/01.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_02",
+              "name": "पाठ 02 (भारत में प्रथम (पुरुष))",
+              "titleHi": "पाठ 02 (भारत में प्रथम (पुरुष))",
+              "titleEn": "",
+              "file": "VIVIDH/02.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_03",
+              "name": "पाठ 03 (भारत में प्रथम (अन्य))",
+              "titleHi": "पाठ 03 (भारत में प्रथम (अन्य))",
+              "titleEn": "",
+              "file": "VIVIDH/03.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_04",
+              "name": "पाठ 04 (भारत में सर्वाधिक बड़ा, लम्बा एवं ऊँचा)",
+              "titleHi": "पाठ 04 (भारत में सर्वाधिक बड़ा, लम्बा एवं ऊँचा)",
+              "titleEn": "",
+              "file": "VIVIDH/04.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_05",
+              "name": "पाठ 05 (विश्व में प्रथम)",
+              "titleHi": "पाठ 05 (विश्व में प्रथम)",
+              "titleEn": "",
+              "file": "VIVIDH/05.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_06",
+              "name": "पाठ 06 (विश्व में सर्वाधिक बड़ा, छोटा, लम्बा एवं ऊँचा)",
+              "titleHi": "पाठ 06 (विश्व में सर्वाधिक बड़ा, छोटा, लम्बा एवं ऊँचा)",
+              "titleEn": "",
+              "file": "VIVIDH/06.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_07",
+              "name": "पाठ 07 (प्रमुख देशों के राष्ट्रीय चिह्न)",
+              "titleHi": "पाठ 07 (प्रमुख देशों के राष्ट्रीय चिह्न)",
+              "titleEn": "",
+              "file": "VIVIDH/07.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_08",
+              "name": "पाठ 08 (अन्तर्राष्ट्रीय सीमाएँ)",
+              "titleHi": "पाठ 08 (अन्तर्राष्ट्रीय सीमाएँ)",
+              "titleEn": "",
+              "file": "VIVIDH/08.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_09",
+              "name": "पाठ 09 (प्रमुख देशों के राष्ट्रीय स्मारक)",
+              "titleHi": "पाठ 09 (प्रमुख देशों के राष्ट्रीय स्मारक)",
+              "titleEn": "",
+              "file": "VIVIDH/09.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_10",
+              "name": "पाठ 10 (मानचित्र की रेखाएँ)",
+              "titleHi": "पाठ 10 (मानचित्र की रेखाएँ)",
+              "titleEn": "",
+              "file": "VIVIDH/10.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_11",
+              "name": "पाठ 11 (प्रमुख देशों की समाचार एजेंसियाँ)",
+              "titleHi": "पाठ 11 (प्रमुख देशों की समाचार एजेंसियाँ)",
+              "titleEn": "",
+              "file": "VIVIDH/11.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_12",
+              "name": "पाठ 12 (प्रमुख देशों के सरकारी दस्तावेज)",
+              "titleHi": "पाठ 12 (प्रमुख देशों के सरकारी दस्तावेज)",
+              "titleEn": "",
+              "file": "VIVIDH/12.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_13",
+              "name": "पाठ 13 (विभिन्न देशों के राजनीतिक दल)",
+              "titleHi": "पाठ 13 (विभिन्न देशों के राजनीतिक दल)",
+              "titleEn": "",
+              "file": "VIVIDH/13.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_14",
+              "name": "पाठ 14 (प्रमुख चिह्न तथा प्रतीक)",
+              "titleHi": "पाठ 14 (प्रमुख चिह्न तथा प्रतीक)",
+              "titleEn": "",
+              "file": "VIVIDH/14.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_15",
+              "name": "पाठ 15 (प्रमुख देशों के राष्ट्रीय पशु/पक्षी)",
+              "titleHi": "पाठ 15 (प्रमुख देशों के राष्ट्रीय पशु/पक्षी)",
+              "titleEn": "",
+              "file": "VIVIDH/15.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_16",
+              "name": "पाठ 16 (विश्व की अंतर्राष्ट्रीय विमान सेवाएँ)",
+              "titleHi": "पाठ 16 (विश्व की अंतर्राष्ट्रीय विमान सेवाएँ)",
+              "titleEn": "",
+              "file": "VIVIDH/16.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_17",
+              "name": "पाठ 17 (विश्व के प्रमुख समाचारपत्र एवं प्रकाशन-स्थल)",
+              "titleHi": "पाठ 17 (विश्व के प्रमुख समाचारपत्र एवं प्रकाशन-स्थल)",
+              "titleEn": "",
+              "file": "VIVIDH/17.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_18",
+              "name": "पाठ 18 (विश्व की प्रमुख गुप्तचर संस्थाएँ)",
+              "titleHi": "पाठ 18 (विश्व की प्रमुख गुप्तचर संस्थाएँ)",
+              "titleEn": "",
+              "file": "VIVIDH/18.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_19",
+              "name": "पाठ 19 (विभिन्न देशों की संसद)",
+              "titleHi": "पाठ 19 (विभिन्न देशों की संसद)",
+              "titleEn": "",
+              "file": "VIVIDH/19.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_20",
+              "name": "पाठ 20 (संयुक्त राष्ट्र संघ)",
+              "titleHi": "पाठ 20 (संयुक्त राष्ट्र संघ)",
+              "titleEn": "",
+              "file": "VIVIDH/20.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_21",
+              "name": "पाठ 21 (विश्व के कुछ अन्य प्रमुख संगठन)",
+              "titleHi": "पाठ 21 (विश्व के कुछ अन्य प्रमुख संगठन)",
+              "titleEn": "",
+              "file": "VIVIDH/21.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_22",
+              "name": "पाठ 22 (विश्व के प्रमुख संगठन और उनके मुख्यालय)",
+              "titleHi": "पाठ 22 (विश्व के प्रमुख संगठन और उनके मुख्यालय)",
+              "titleEn": "",
+              "file": "VIVIDH/22.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_23",
+              "name": "पाठ 23 (समकालीन संयुक्त राष्ट्र अन्तर्राष्ट्रीय वर्ष)",
+              "titleHi": "पाठ 23 (समकालीन संयुक्त राष्ट्र अन्तर्राष्ट्रीय वर्ष)",
+              "titleEn": "",
+              "file": "VIVIDH/23.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_24",
+              "name": "पाठ 24 (समकालीन संयुक्त राष्ट्र अन्तर्राष्ट्रीय दशक)",
+              "titleHi": "पाठ 24 (समकालीन संयुक्त राष्ट्र अन्तर्राष्ट्रीय दशक)",
+              "titleEn": "",
+              "file": "VIVIDH/24.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_25",
+              "name": "पाठ 25 (महत्वपूर्ण राष्ट्रीय एवं अन्तर्राष्ट्रीय दिवस)",
+              "titleHi": "पाठ 25 (महत्वपूर्ण राष्ट्रीय एवं अन्तर्राष्ट्रीय दिवस)",
+              "titleEn": "",
+              "file": "VIVIDH/25.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_26",
+              "name": "पाठ 26 (भारत के प्रमुख पर्यटन स्थल)",
+              "titleHi": "पाठ 26 (भारत के प्रमुख पर्यटन स्थल)",
+              "titleEn": "",
+              "file": "VIVIDH/26.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_27",
+              "name": "पाठ 27 (भारत के विश्व विरासत स्थल)",
+              "titleHi": "पाठ 27 (भारत के विश्व विरासत स्थल)",
+              "titleEn": "",
+              "file": "VIVIDH/27.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_28",
+              "name": "पाठ 28 (भारत की प्रतिरक्षा)",
+              "titleHi": "पाठ 28 (भारत की प्रतिरक्षा)",
+              "titleEn": "",
+              "file": "VIVIDH/28.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_29",
+              "name": "पाठ 29 (भारत के सैनिक प्रशिक्षण संस्थान)",
+              "titleHi": "पाठ 29 (भारत के सैनिक प्रशिक्षण संस्थान)",
+              "titleEn": "",
+              "file": "VIVIDH/29.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_30",
+              "name": "पाठ 30 (भारत की आन्तरिक सुरक्षा व्यवस्था)",
+              "titleHi": "पाठ 30 (भारत की आन्तरिक सुरक्षा व्यवस्था)",
+              "titleEn": "",
+              "file": "VIVIDH/30.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_31",
+              "name": "पाठ 31 (प्रमुख राज्यों की स्थापना दिवस)",
+              "titleHi": "पाठ 31 (प्रमुख राज्यों की स्थापना दिवस)",
+              "titleEn": "",
+              "file": "VIVIDH/31.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_32",
+              "name": "पाठ 32 (भारत के प्रमुख शोध-संस्थान)",
+              "titleHi": "पाठ 32 (भारत के प्रमुख शोध-संस्थान)",
+              "titleEn": "",
+              "file": "VIVIDH/32.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_33",
+              "name": "पाठ 33 (भारत के प्रमुख वाद्ययंत्र और उनके वादक)",
+              "titleHi": "पाठ 33 (भारत के प्रमुख वाद्ययंत्र और उनके वादक)",
+              "titleEn": "",
+              "file": "VIVIDH/33.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_34",
+              "name": "पाठ 34 (प्रमुख शास्त्रीय नृत्य एवं उसके कलाकार)",
+              "titleHi": "पाठ 34 (प्रमुख शास्त्रीय नृत्य एवं उसके कलाकार)",
+              "titleEn": "",
+              "file": "VIVIDH/34.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_35",
+              "name": "पाठ 35 (भारत के सांस्कृतिक संस्थान एवं स्थापना वर्ष)",
+              "titleHi": "पाठ 35 (भारत के सांस्कृतिक संस्थान एवं स्थापना वर्ष)",
+              "titleEn": "",
+              "file": "VIVIDH/35.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_36",
+              "name": "पाठ 36 (समाधि-स्थल)",
+              "titleHi": "पाठ 36 (समाधि-स्थल)",
+              "titleEn": "",
+              "file": "VIVIDH/36.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_37",
+              "name": "पाठ 37 (राज्यों से संबंधित लोकनृत्य)",
+              "titleHi": "पाठ 37 (राज्यों से संबंधित लोकनृत्य)",
+              "titleEn": "",
+              "file": "VIVIDH/37.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_38",
+              "name": "पाठ 38 (प्रमुख व्यक्तियों के लोकप्रिय उपनाम)",
+              "titleHi": "पाठ 38 (प्रमुख व्यक्तियों के लोकप्रिय उपनाम)",
+              "titleEn": "",
+              "file": "VIVIDH/38.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_39",
+              "name": "पाठ 39 (प्रमुख व्यक्तियों से सम्बन्धित स्थान)",
+              "titleHi": "पाठ 39 (प्रमुख व्यक्तियों से सम्बन्धित स्थान)",
+              "titleEn": "",
+              "file": "VIVIDH/39.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_40",
+              "name": "पाठ 40 (प्रमुख पुरस्कार एवं सम्मान)",
+              "titleHi": "पाठ 40 (प्रमुख पुरस्कार एवं सम्मान)",
+              "titleEn": "",
+              "file": "VIVIDH/40.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_41",
+              "name": "पाठ 41 (राष्ट्रीय पुरस्कार)",
+              "titleHi": "पाठ 41 (राष्ट्रीय पुरस्कार)",
+              "titleEn": "",
+              "file": "VIVIDH/41.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_42",
+              "name": "पाठ 42 (दादा साहेब फाल्के पुरस्कार पाने वाले व्यक्ति)",
+              "titleHi": "पाठ 42 (दादा साहेब फाल्के पुरस्कार पाने वाले व्यक्ति)",
+              "titleEn": "",
+              "file": "VIVIDH/42.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_43",
+              "name": "पाठ 43 ('भारत रत्न' से सम्मानित व्यक्ति)",
+              "titleHi": "पाठ 43 ('भारत रत्न' से सम्मानित व्यक्ति)",
+              "titleEn": "",
+              "file": "VIVIDH/43.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_44",
+              "name": "पाठ 44 (ज्ञानपीठ पुरस्कार से सम्मानित साहित्यकार)",
+              "titleHi": "पाठ 44 (ज्ञानपीठ पुरस्कार से सम्मानित साहित्यकार)",
+              "titleEn": "",
+              "file": "VIVIDH/44.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_45",
+              "name": "पाठ 45 (महान कार्यों से संबंधित व्यक्ति)",
+              "titleHi": "पाठ 45 (महान कार्यों से संबंधित व्यक्ति)",
+              "titleEn": "",
+              "file": "VIVIDH/45.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_46",
+              "name": "पाठ 46 (प्रमुख लेखक एवं उनकी पुस्तक)",
+              "titleHi": "पाठ 46 (प्रमुख लेखक एवं उनकी पुस्तक)",
+              "titleEn": "",
+              "file": "VIVIDH/46.json",
+              "questions": 50
+            },
+            {
+              "id": "lucent_gk_vividh_47",
+              "name": "पाठ 47 (शब्द संक्षेप)",
+              "titleHi": "पाठ 47 (शब्द संक्षेप)",
+              "titleEn": "",
+              "file": "VIVIDH/47.json",
               "questions": 50
             }
           ]
