@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - रसायन विज्ञान (Chemistry)",
+  "subtitle": "मिश्रधातु",
+  "description": "मिश्रधातु पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "दो या दो से अधिक धातुओं अथवा धातु एवं अधातु के समांगी मिश्रण को क्या कहते हैं?",
+        "en": "A homogeneous metallic solid mixture of two or more metals or metal and non-metal is?"
+      },
+      "o": [
+        {
+          "hi": "मिश्रधातु (Alloy)",
+          "en": "Alloy"
+        },
+        {
+          "hi": "अमलगम",
+          "en": "Amalgam"
+        },
+        {
+          "hi": "यौगिक",
+          "en": "Compound"
+        },
+        {
+          "hi": "खनिज",
+          "en": "Mineral"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पीतल (Brass) निम्नलिखित में से किन दो धातुओं की मिश्रधातु है?",
+        "en": "Brass is an alloy composed predominantly of which two metals?"
+      },
+      "o": [
+        {
+          "hi": "तांबा और टिन",
+          "en": "Copper and Tin"
+        },
+        {
+          "hi": "तांबा (Cu ~70%) और जस्ता (Zn ~30%)",
+          "en": "Copper (~70%) and Zinc (~30%)"
+        },
+        {
+          "hi": "तांबा और निकेल",
+          "en": "Copper and Nickel"
+        },
+        {
+          "hi": "लोहा और जस्ता",
+          "en": "Iron and Zinc"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कांसा (Bronze) किन दो धातुओं का एक महत्वपूर्ण मिश्रधातु है?",
+        "en": "Bronze is historically an alloy composed primarily of which two metals?"
+      },
+      "o": [
+        {
+          "hi": "तांबा और जस्ता",
+          "en": "Copper and Zinc"
+        },
+        {
+          "hi": "लोहा और टिन",
+          "en": "Iron and Tin"
+        },
+        {
+          "hi": "तांबा (Cu ~88%) और टिन (Sn ~12%)",
+          "en": "Copper (~88%) and Tin (~12%)"
+        },
+        {
+          "hi": "सीसा और टिन",
+          "en": "Lead and Tin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जर्मन सिल्वर (German Silver) मिश्रधातु में चांदी (Silver - Ag) की प्रतिशत मात्रा कितनी होती है?",
+        "en": "What is the percentage of silver (Ag) present in German Silver alloy?"
+      },
+      "o": [
+        {
+          "hi": "50%",
+          "en": "50%"
+        },
+        {
+          "hi": "10%",
+          "en": "10%"
+        },
+        {
+          "hi": "2.5%",
+          "en": "2.5%"
+        },
+        {
+          "hi": "0% (शून्य प्रतिशत - इसमें चांदी नहीं होती)",
+          "en": "0% (Zero - contains no silver at all)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जर्मन सिल्वर (German Silver) किन धातुओं का मिश्रण होता है?",
+        "en": "What are the constituent metals present in German Silver alloy?"
+      },
+      "o": [
+        {
+          "hi": "तांबा (50%), जस्ता (30%) और निकेल (20%)",
+          "en": "Copper (50%), Zinc (30%) and Nickel (20%)"
+        },
+        {
+          "hi": "चांदी, तांबा और जस्ता",
+          "en": "Silver, Copper and Zinc"
+        },
+        {
+          "hi": "तांबा और टिन",
+          "en": "Copper and Tin"
+        },
+        {
+          "hi": "एल्युमिनियम और चांदी",
+          "en": "Aluminium and Silver"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गन मेटल (Gun Metal) में कौन-कौन से तत्व शामिल होते हैं?",
+        "en": "Which metals are alloyed together to produce heavy-duty Gun Metal?"
+      },
+      "o": [
+        {
+          "hi": "तांबा, सीसा और लोहा",
+          "en": "Copper, Lead and Iron"
+        },
+        {
+          "hi": "तांबा (~88%), टिन (~10%) और जस्ता (~2%)",
+          "en": "Copper (~88%), Tin (~10%) and Zinc (~2%)"
+        },
+        {
+          "hi": "लोहा, कार्बन और निकेल",
+          "en": "Iron, Carbon and Nickel"
+        },
+        {
+          "hi": "तांबा और एल्युमिनियम",
+          "en": "Copper and Aluminium"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत तारों को जोड़ने के लिए प्रयुक्त 'टांका' या सोल्डर (Solder) किन दो धातुओं की मिश्रधातु है?",
+        "en": "Electrician's wire soldering alloy (Solder) is composed of which two metals?"
+      },
+      "o": [
+        {
+          "hi": "तांबा और जस्ता",
+          "en": "Copper and Zinc"
+        },
+        {
+          "hi": "लोहा और सीसा",
+          "en": "Iron and Lead"
+        },
+        {
+          "hi": "टिन (Sn ~63%) और सीसा (Lead - Pb ~37%)",
+          "en": "Tin (Sn ~63%) and Lead (Pb ~37%)"
+        },
+        {
+          "hi": "एल्युमिनियम और तांबा",
+          "en": "Aluminium and Copper"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "टांका (Solder wire) का गलनांक उसके घटक धातुओं के गलनांक की तुलना में कैसा होता है?",
+        "en": "How is the melting point of solder alloy compared to its constituent elements?"
+      },
+      "o": [
+        {
+          "hi": "बहुत उच्च होता है",
+          "en": "Very high"
+        },
+        {
+          "hi": "समान रहता है",
+          "en": "Remains same"
+        },
+        {
+          "hi": "अनंत होता है",
+          "en": "Infinite"
+        },
+        {
+          "hi": "कम (निम्न) होता है ताकि आसानी से पिघल सके",
+          "en": "Lower, enabling easy melting during joints"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "घंटियां और वाद्ययंत्र बनाने वाली घंटा धातु (Bell Metal) में क्या होता है?",
+        "en": "Bell Metal used for casting resonant temple bells is composed of?"
+      },
+      "o": [
+        {
+          "hi": "तांबा (~80%) और टिन (~20%)",
+          "en": "Copper (~80%) and Tin (~20%)"
+        },
+        {
+          "hi": "तांबा और जस्ता",
+          "en": "Copper and Zinc"
+        },
+        {
+          "hi": "लोहा और क्रोमियम",
+          "en": "Iron and Chromium"
+        },
+        {
+          "hi": "सीसा और टिन",
+          "en": "Lead and Tin"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सस्ते आभूषण बनाने में प्रयुक्त कृत्रिम सोना (रोल्ड गोल्ड - Rolled Gold) किसका मिश्रण है?",
+        "en": "Imitation artificial jewelry alloy Rolled Gold / Dutch Gold is composed of?"
+      },
+      "o": [
+        {
+          "hi": "सोना और तांबा",
+          "en": "Gold and Copper"
+        },
+        {
+          "hi": "तांबा (~90%) और एल्युमिनियम (~10%)",
+          "en": "Copper (~90%) and Aluminium (~10%)"
+        },
+        {
+          "hi": "चांदी और जस्ता",
+          "en": "Silver and Zinc"
+        },
+        {
+          "hi": "सोना और पीतल",
+          "en": "Gold and Brass"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सिक्के बनाने वाली मुद्रा धातु (Coinage Bronze) में मुख्य घटक क्या होते हैं?",
+        "en": "Modern coinage bronze metal typically contains which elements?"
+      },
+      "o": [
+        {
+          "hi": "लोहा और निकेल",
+          "en": "Iron and Nickel"
+        },
+        {
+          "hi": "सोना और चांदी",
+          "en": "Gold and Silver"
+        },
+        {
+          "hi": "तांबा (~95%), टिन (~4%) और फास्फोरस/जस्ता (~1%)",
+          "en": "Copper (~95%), Tin (~4%) and P/Zn (~1%)"
+        },
+        {
+          "hi": "एल्युमिनियम और मैग्नीशियम",
+          "en": "Aluminium and Magnesium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हवाई जहाज और प्रेशर कुकर बनाने में प्रयुक्त मजबूत एवं हल्की मिश्रधातु 'ड्यूराल्यूमिन' (Duralumin) में मुख्य धातु क्या है?",
+        "en": "Which base metal constitutes ~95% of lightweight aircraft alloy Duralumin?"
+      },
+      "o": [
+        {
+          "hi": "तांबा",
+          "en": "Copper"
+        },
+        {
+          "hi": "मैग्नीशियम",
+          "en": "Magnesium"
+        },
+        {
+          "hi": "टाइटेनियम",
+          "en": "Titanium"
+        },
+        {
+          "hi": "एल्युमिनियम (Aluminium - Al)",
+          "en": "Aluminium (Al)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ड्यूराल्यूमिन (Duralumin) मिश्रधातु के सभी घटक तत्व कौन-से हैं?",
+        "en": "Which elements are blended to synthesize aeronautical alloy Duralumin?"
+      },
+      "o": [
+        {
+          "hi": "Al (95%), Cu (4%), Mg (0.5%), Mn (0.5%)",
+          "en": "Al (95%), Cu (4%), Mg (0.5%), Mn (0.5%)"
+        },
+        {
+          "hi": "Al (95%) और Mg (5%)",
+          "en": "Al (95%) and Mg (5%)"
+        },
+        {
+          "hi": "Al (90%) और Fe (10%)",
+          "en": "Al (90%) and Fe (10%)"
+        },
+        {
+          "hi": "Cu (70%) और Zn (30%)",
+          "en": "Cu (70%) and Zn (30%)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हल्के भौतिक तराजू और वैज्ञानिक उपकरण बनाने वाली मिश्रधातु 'मैग्नेलियम' (Magnalium) किसकी बनी होती है?",
+        "en": "Corrosion-resistant light balance beam alloy Magnalium is composed of?"
+      },
+      "o": [
+        {
+          "hi": "मैग्नीशियम और सीसा",
+          "en": "Magnesium and Lead"
+        },
+        {
+          "hi": "एल्युमिनियम (Al ~95%) और मैग्नीशियम (Mg ~5%)",
+          "en": "Aluminium (~95%) and Magnesium (~5%)"
+        },
+        {
+          "hi": "मैग्नीज और लोहा",
+          "en": "Manganese and Iron"
+        },
+        {
+          "hi": "तांबा और मैग्नीशियम",
+          "en": "Copper and Magnesium"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "घरेलू बर्तनों में प्रयुक्त स्टेनलेस स्टील (Stainless Steel) में जंग न लगने का मुख्य कारण किस धातु की उपस्थिति है?",
+        "en": "Corrosion resistance in stainless steel kitchenware is primarily imparted by?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन की",
+          "en": "Carbon"
+        },
+        {
+          "hi": "निकेल की",
+          "en": "Nickel"
+        },
+        {
+          "hi": "क्रोमियम (Chromium - Cr / लगभग 18%) की",
+          "en": "Chromium (Cr / about 18%)"
+        },
+        {
+          "hi": "तांबे की",
+          "en": "Copper"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्टेनलेस स्टील (Stainless Steel) किन धातुओं का मिश्रधातु है?",
+        "en": "Stainless steel is an alloy composed of which metals?"
+      },
+      "o": [
+        {
+          "hi": "लोहा और तांबा",
+          "en": "Iron and Copper"
+        },
+        {
+          "hi": "लोहा और जस्ता",
+          "en": "Iron and Zinc"
+        },
+        {
+          "hi": "लोहा, टिन और सीसा",
+          "en": "Iron, Tin and Lead"
+        },
+        {
+          "hi": "लोहा (Fe), क्रोमियम (Cr), निकेल (Ni) और कार्बन (C)",
+          "en": "Iron (Fe), Chromium (Cr), Nickel (Ni) & Carbon"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इस्पात (Steel) में कठोरता (Hardness) बढ़ाने के लिए किस तत्व की मात्रा नियंत्रित की जाती है?",
+        "en": "Hardness and tensile strength of plain carbon steel is adjusted by controlling?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन (Carbon - लगभग 0.1% से 1.5%) की",
+          "en": "Carbon (about 0.1% to 1.5%)"
+        },
+        {
+          "hi": "लोहे की",
+          "en": "Iron"
+        },
+        {
+          "hi": "सल्फर की",
+          "en": "Sulfur"
+        },
+        {
+          "hi": "फास्फोरस की",
+          "en": "Phosphorus"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पारे (Mercury - Hg) की किसी भी धातु के साथ बनी मिश्रधातु को क्या कहा जाता है?",
+        "en": "An alloy of Mercury with one or more other metals is called what?"
+      },
+      "o": [
+        {
+          "hi": "मिश्रधातु",
+          "en": "Alloy"
+        },
+        {
+          "hi": "अमलगम (Amalgam)",
+          "en": "Amalgam"
+        },
+        {
+          "hi": "पायस",
+          "en": "Emulsion"
+        },
+        {
+          "hi": "सॉल",
+          "en": "Sol"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सी धातु पारे के साथ अमलगम (Amalgam) नहीं बनाती है?",
+        "en": "Which metal does NOT form an amalgam with mercury, hence used to store it?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम",
+          "en": "Sodium"
+        },
+        {
+          "hi": "चांदी",
+          "en": "Silver"
+        },
+        {
+          "hi": "लोहा (Iron - Fe) तथा प्लेटिनम",
+          "en": "Iron (Fe) and Platinum"
+        },
+        {
+          "hi": "जस्ता",
+          "en": "Zinc"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दंत चिकित्सकों द्वारा दांतों के गड्ढों को भरने (Dental Filling) में किस अमलगम का उपयोग किया जाता है?",
+        "en": "Which metal alloy amalgam is utilized by dentists for tooth cavity fillings?"
+      },
+      "o": [
+        {
+          "hi": "लोहे का अमलगम",
+          "en": "Iron amalgam"
+        },
+        {
+          "hi": "तांबे का अमलगम",
+          "en": "Copper amalgam"
+        },
+        {
+          "hi": "सोडियम का अमलगम",
+          "en": "Sodium amalgam"
+        },
+        {
+          "hi": "सिल्वर अमलगम (Silver-Tin-Mercury Amalgam)",
+          "en": "Silver Amalgam (Ag-Sn-Hg)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विद्युत हीटरों और गीजर के तापन तंतु (Heating Elements) बनाने में किस मिश्रधातु का उपयोग होता है?",
+        "en": "Which high-resistance heating alloy is used in toaster and geyser coils?"
+      },
+      "o": [
+        {
+          "hi": "नाइक्रोम (Nichrome - निकेल और क्रोमियम)",
+          "en": "Nichrome (Nickel and Chromium)"
+        },
+        {
+          "hi": "पीतल",
+          "en": "Brass"
+        },
+        {
+          "hi": "कांसा",
+          "en": "Bronze"
+        },
+        {
+          "hi": "सोल्डर",
+          "en": "Solder"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नाइक्रोम (Nichrome) मिश्रधातु में मुख्य रूप से कौन-सी धातुएं होती हैं?",
+        "en": "What are the primary constituents of Nichrome alloy wire?"
+      },
+      "o": [
+        {
+          "hi": "तांबा और क्रोमियम",
+          "en": "Copper and Chromium"
+        },
+        {
+          "hi": "निकेल (~80%) और क्रोमियम (~20%)",
+          "en": "Nickel (~80%) and Chromium (~20%)"
+        },
+        {
+          "hi": "लोहा और टंगस्टन",
+          "en": "Iron and Tungsten"
+        },
+        {
+          "hi": "एल्युमिनियम और जस्ता",
+          "en": "Aluminium and Zinc"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "घड़ियों के पेंडुलम और परिशुद्ध मापक फीते बनाने वाली मिश्रधातु 'इनवार' (Invar) किसकी बनी होती है?",
+        "en": "Surveying tapes and pendulum rods are made of Invar alloy because of its low expansion. It contains?"
+      },
+      "o": [
+        {
+          "hi": "लोहा और तांबा",
+          "en": "Iron and Copper"
+        },
+        {
+          "hi": "तांबा और जस्ता",
+          "en": "Copper and Zinc"
+        },
+        {
+          "hi": "लोहा (Fe ~64%) और निकेल (Ni ~36%)",
+          "en": "Iron (~64%) and Nickel (~36%)"
+        },
+        {
+          "hi": "एल्युमिनियम और निकेल",
+          "en": "Aluminium and Nickel"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शक्तिशाली स्थायी चुंबक (Permanent Magnets) बनाने के लिए किस मिश्रधातु का उपयोग किया जाता है?",
+        "en": "Which ferromagnetic alloy is universally used to fabricate powerful permanent magnets?"
+      },
+      "o": [
+        {
+          "hi": "पीतल",
+          "en": "Brass"
+        },
+        {
+          "hi": "कांसा",
+          "en": "Bronze"
+        },
+        {
+          "hi": "स्टील",
+          "en": "Steel"
+        },
+        {
+          "hi": "एल्निको (Alnico - एल्युमिनियम, निकेल, कोबाल्ट, लोहा)",
+          "en": "Alnico (Al, Ni, Co, Fe)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रकार धातु (टाइप मेटल - Type Metal) जिसका उपयोग छपाई उद्योग (Printing) में होता है, किसकी बनी होती है?",
+        "en": "Printing Type Metal used in printing press movable type consists of?"
+      },
+      "o": [
+        {
+          "hi": "सीसा (Pb), टिन (Sn) और एंटीमनी (Sb)",
+          "en": "Lead (Pb), Tin (Sn) and Antimony (Sb)"
+        },
+        {
+          "hi": "तांबा और जस्ता",
+          "en": "Copper and Zinc"
+        },
+        {
+          "hi": "लोहा और कार्बन",
+          "en": "Iron and Carbon"
+        },
+        {
+          "hi": "एल्युमिनियम और निकेल",
+          "en": "Aluminium and Nickel"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "टाइप मेटल में एंटीमनी (Sb) धातु मिलाने का क्या मुख्य उद्देश्य होता है?",
+        "en": "What is the specific purpose of adding Antimony to printing type metal?"
+      },
+      "o": [
+        {
+          "hi": "रंग काला करने हेतु",
+          "en": "To make it black"
+        },
+        {
+          "hi": "जमने पर आयतन बढ़ाना जिससे अक्षरों के खांचे में तीखा उभार आए",
+          "en": "To expand upon solidification giving sharp edges"
+        },
+        {
+          "hi": "गलनांक अत्यधिक बढ़ाने हेतु",
+          "en": "To raise melting point"
+        },
+        {
+          "hi": "धातु को लचीला बनाने हेतु",
+          "en": "To make metal ductile"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फ्यूज तार (Electric Fuse Wire) किन दो धातुओं की मिश्रधातु होती है?",
+        "en": "Electrical fuse wire used in household cut-outs is an alloy of?"
+      },
+      "o": [
+        {
+          "hi": "तांबा और चांदी",
+          "en": "Copper and Silver"
+        },
+        {
+          "hi": "लोहा और निकेल",
+          "en": "Iron and Nickel"
+        },
+        {
+          "hi": "टिन (Sn ~63%) और सीसा (Pb ~37%)",
+          "en": "Tin (Sn ~63%) and Lead (Pb ~37%)"
+        },
+        {
+          "hi": "एल्युमिनियम और जस्ता",
+          "en": "Aluminium and Zinc"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कृत्रिम आभूषण बनाने में प्रयुक्त डच मेटल (Dutch Metal) किनका मिश्रण है?",
+        "en": "Inexpensive imitation gold leaf alloy Dutch Metal is composed of?"
+      },
+      "o": [
+        {
+          "hi": "तांबा और एल्युमिनियम",
+          "en": "Copper and Aluminium"
+        },
+        {
+          "hi": "सोना और तांबा",
+          "en": "Gold and Copper"
+        },
+        {
+          "hi": "चांदी और जस्ता",
+          "en": "Silver and Zinc"
+        },
+        {
+          "hi": "तांबा (~80%) और जस्ता (~20%)",
+          "en": "Copper (~80%) and Zinc (~20%)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अत्यधिक कठोर बुलेटप्रूफ स्टील और रेलवे ट्रैक के मोड़ बनाने के लिए इस्पात में क्या मिलाया जाता है?",
+        "en": "What element is added to steel to manufacture wear-resistant manganese steel?"
+      },
+      "o": [
+        {
+          "hi": "मैंगनीज (Manganese - लगभग 12-14%)",
+          "en": "Manganese (about 12-14%)"
+        },
+        {
+          "hi": "तांबा",
+          "en": "Copper"
+        },
+        {
+          "hi": "एल्युमिनियम",
+          "en": "Aluminium"
+        },
+        {
+          "hi": "सोना",
+          "en": "Gold"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "काटने वाले औजार और उच्च गति ड्रिल (High Speed Steel - HSS) में मुख्य रूप से कौन-सा तत्व मिलाया जाता है?",
+        "en": "Which refractory metal gives high red-hardness to High Speed Steel cutting tools?"
+      },
+      "o": [
+        {
+          "hi": "सीसा",
+          "en": "Lead"
+        },
+        {
+          "hi": "टंगस्टन (Tungsten ~18%) और क्रोमियम/वैनेडियम",
+          "en": "Tungsten (~18%) and Cr/V"
+        },
+        {
+          "hi": "जिंक",
+          "en": "Zinc"
+        },
+        {
+          "hi": "टिन",
+          "en": "Tin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जंगरोधी बर्तन और शल्य चिकित्सा उपकरण बनाने वाले स्टील को क्या कहते हैं?",
+        "en": "Steel tailored for making rust-proof cutlery and surgical scalpel instruments is?"
+      },
+      "o": [
+        {
+          "hi": "हाई कार्बन स्टील",
+          "en": "High carbon steel"
+        },
+        {
+          "hi": "माइल्ड स्टील",
+          "en": "Mild steel"
+        },
+        {
+          "hi": "स्टेनलेस स्टील (Stainless Steel)",
+          "en": "Stainless Steel"
+        },
+        {
+          "hi": "कास्ट आयरन",
+          "en": "Cast iron"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कास्ट आयरन (ढलवां लोहा) में कार्बन की प्रतिशत मात्रा कितनी होती है?",
+        "en": "What is the typical percentage concentration of Carbon in Cast Iron?"
+      },
+      "o": [
+        {
+          "hi": "0.1% से 0.5%",
+          "en": "0.1% to 0.5%"
+        },
+        {
+          "hi": "0.5% से 1.5%",
+          "en": "0.5% to 1.5%"
+        },
+        {
+          "hi": "1.5% से 2.0%",
+          "en": "1.5% to 2.0%"
+        },
+        {
+          "hi": "2.5% से 4.5% तक",
+          "en": "2.5% to 4.5%"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पिटवां लोहा (Wrought Iron) में कार्बन की मात्रा कितनी होती है?",
+        "en": "What is the carbon content in Wrought Iron (the purest form of commercial iron)?"
+      },
+      "o": [
+        {
+          "hi": "0.12% से 0.25% (अत्यंत कम)",
+          "en": "0.12% to 0.25% (very low)"
+        },
+        {
+          "hi": "1% से 2%",
+          "en": "1% to 2%"
+        },
+        {
+          "hi": "3% से 4%",
+          "en": "3% to 4%"
+        },
+        {
+          "hi": "5%",
+          "en": "5%"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मिश्रधातु बनाते समय धातुओं के किस गुण में परिवर्तन नहीं होता?",
+        "en": "Which atomic property remains unchanged during alloy formation?"
+      },
+      "o": [
+        {
+          "hi": "चालकता",
+          "en": "Conductivity"
+        },
+        {
+          "hi": "परमाणु क्रमांक (Atomic Number)",
+          "en": "Atomic Number"
+        },
+        {
+          "hi": "गलनांक",
+          "en": "Melting point"
+        },
+        {
+          "hi": "कठोरता",
+          "en": "Hardness"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "शुद्ध 24 कैरेट सोना आभूषण बनाने के लिए उपयुक्त क्यों नहीं होता?",
+        "en": "Why is 100% pure 24-karat gold not preferred for making jewelry?"
+      },
+      "o": [
+        {
+          "hi": "यह बहुत महंगा है",
+          "en": "It is too expensive"
+        },
+        {
+          "hi": "यह बहुत भारी है",
+          "en": "It is too heavy"
+        },
+        {
+          "hi": "यह अत्यधिक कोमल व नरम होता है और विकृत हो जाता है",
+          "en": "It is too soft and deforms easily"
+        },
+        {
+          "hi": "यह काला पड़ जाता है",
+          "en": "It turns black"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सोने को कठोर बनाकर आभूषण बनाने के लिए उसमें सामान्यतः क्या मिलाया जाता है?",
+        "en": "What base metals are alloyed with 24K gold to make 22K or 18K jewelry hard?"
+      },
+      "o": [
+        {
+          "hi": "लोहा या एल्युमिनियम",
+          "en": "Iron or Aluminium"
+        },
+        {
+          "hi": "सीसा या टिन",
+          "en": "Lead or Tin"
+        },
+        {
+          "hi": "पारा या सोडियम",
+          "en": "Mercury or Sodium"
+        },
+        {
+          "hi": "तांबा (Copper) अथवा चांदी (Silver)",
+          "en": "Copper or Silver"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "22 कैरेट सोने के आभूषण में तांबे या चांदी का अनुपात कितना होता है?",
+        "en": "In standard 22-karat gold jewelry, what parts of alloy are base metals?"
+      },
+      "o": [
+        {
+          "hi": "2 भाग तांबा/चांदी और 22 भाग शुद्ध स्वर्ण",
+          "en": "2 parts base metal & 22 parts gold"
+        },
+        {
+          "hi": "4 भाग तांबा और 20 भाग सोना",
+          "en": "4 parts copper & 20 parts gold"
+        },
+        {
+          "hi": "6 भाग तांबा और 18 भाग सोना",
+          "en": "6 parts copper & 18 parts gold"
+        },
+        {
+          "hi": "12 भाग तांबा",
+          "en": "12 parts copper"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "18 कैरेट सोने में शुद्ध सोने का प्रतिशत कितना होता है?",
+        "en": "What is the exact percentage of pure gold in 18-karat gold hallmark items?"
+      },
+      "o": [
+        {
+          "hi": "50%",
+          "en": "50%"
+        },
+        {
+          "hi": "75% (18/24 × 100 = 75%)",
+          "en": "75% (18/24 × 100 = 75%)"
+        },
+        {
+          "hi": "85%",
+          "en": "85%"
+        },
+        {
+          "hi": "91.6%",
+          "en": "91.6%"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हॉलमार्क 916 किस शुद्धता के सोने को प्रमाणित करता है?",
+        "en": "The BIS hallmark number '916' designates gold of what purity standard?"
+      },
+      "o": [
+        {
+          "hi": "18 कैरेट",
+          "en": "18 Karat"
+        },
+        {
+          "hi": "20 कैरेट",
+          "en": "20 Karat"
+        },
+        {
+          "hi": "22 कैरेट (91.6% शुद्ध सोना)",
+          "en": "22 Karat (91.6% pure gold)"
+        },
+        {
+          "hi": "24 कैरेट",
+          "en": "24 Karat"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्टेलिंग सिल्वर (Sterling Silver - 925 चांदी) में शुद्ध चांदी का प्रतिशत कितना होता है?",
+        "en": "Standard Sterling Silver marked '925' contains what percentage of pure silver?"
+      },
+      "o": [
+        {
+          "hi": "80%",
+          "en": "80%"
+        },
+        {
+          "hi": "90%",
+          "en": "90%"
+        },
+        {
+          "hi": "99.9%",
+          "en": "99.9%"
+        },
+        {
+          "hi": "92.5% चांदी (और 7.5% तांबा)",
+          "en": "92.5% silver (and 7.5% copper)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कांसे की मूर्तियां और बर्तन हजारों वर्षों तक संक्षारित क्यों नहीं होते?",
+        "en": "Why do ancient bronze statues resist atmospheric corrosion for thousands of years?"
+      },
+      "o": [
+        {
+          "hi": "तांबे और टिन के संयोजन से बनने वाले सुरक्षात्मक संक्षारण प्रतिरोध के कारण",
+          "en": "Due to protective passivation layer of Cu-Sn alloy"
+        },
+        {
+          "hi": "वे सोने से मढ़ी होती हैं",
+          "en": "Coated with gold"
+        },
+        {
+          "hi": "वे लोहे की बनी होती हैं",
+          "en": "Made of iron"
+        },
+        {
+          "hi": "वे धूप में नहीं रखी जातीं",
+          "en": "Kept out of sun"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रेलवे पटरियों के जोड़ों को जोड़ने वाली थर्मिट वेल्डिंग (Thermite Welding) में क्या होता है?",
+        "en": "Thermite welding mixture used on railway track rail joints consists of?"
+      },
+      "o": [
+        {
+          "hi": "कोयला और सल्फर",
+          "en": "Coal and sulfur"
+        },
+        {
+          "hi": "एल्युमिनियम चूर्ण और आयरन ऑक्साइड (Fe2O3)",
+          "en": "Aluminium powder and Iron Oxide (Fe2O3)"
+        },
+        {
+          "hi": "तांबा और जस्ता चूर्ण",
+          "en": "Copper and zinc powder"
+        },
+        {
+          "hi": "सीसा और टिन",
+          "en": "Lead and tin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जर्मेनियम और सिलिकॉन में सूक्ष्म अशुद्धि मिलाने की प्रक्रिया (डोपिंग) से क्या बनता है?",
+        "en": "Controlled addition of impurities (doping) into Silicon and Germanium creates?"
+      },
+      "o": [
+        {
+          "hi": "मिश्रधातु",
+          "en": "Alloys"
+        },
+        {
+          "hi": "अतिचालक",
+          "en": "Superconductors"
+        },
+        {
+          "hi": "p-प्रकार और n-प्रकार के अर्धचालक (Semiconductors)",
+          "en": "p-type and n-type Semiconductors"
+        },
+        {
+          "hi": "विद्युतरोधी",
+          "en": "Insulators"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संक्षारण (जंग) से बचाने के लिए लोहे पर जिंक की कोटिंग करना क्या कहलाता है?",
+        "en": "Process of immersing clean iron or steel into molten zinc to prevent rust is?"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रोप्लेटिंग",
+          "en": "Electroplating"
+        },
+        {
+          "hi": "एनोडाइजिंग",
+          "en": "Anodizing"
+        },
+        {
+          "hi": "टिनिंग",
+          "en": "Tinning"
+        },
+        {
+          "hi": "गैल्वनीकरण या यशदलेपन (Galvanization)",
+          "en": "Galvanization"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "खाद्य पदार्थों के डिब्बों (Tinned Cans) पर जिंक के बजाय टिन की परत क्यों चढ़ाई जाती है?",
+        "en": "Why are food packaging tin cans coated with Tin (Sn) rather than Zinc (Zn)?"
+      },
+      "o": [
+        {
+          "hi": "टिन जिंक की तुलना में कम क्रियाशील व गैर-विषाक्त होता है",
+          "en": "Tin is less reactive and non-toxic than Zinc"
+        },
+        {
+          "hi": "जिंक बहुत महंगा है",
+          "en": "Zinc is too costly"
+        },
+        {
+          "hi": "टिन बहुत कठोर है",
+          "en": "Tin is very hard"
+        },
+        {
+          "hi": "टिन में चमक अधिक होती है",
+          "en": "Tin has more shine"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एल्युमिनियम की सतह पर टिकाऊ सुरक्षात्मक ऑक्साइड परत चढ़ाने की विद्युत रासायनिक विधि क्या कहलाती है?",
+        "en": "Electrochemical process of thickening natural oxide layer on aluminium is?"
+      },
+      "o": [
+        {
+          "hi": "गैल्वनीकरण",
+          "en": "Galvanization"
+        },
+        {
+          "hi": "एनोडाइजिंग (Anodizing)",
+          "en": "Anodizing"
+        },
+        {
+          "hi": "इलेक्ट्रोप्लेटिंग",
+          "en": "Electroplating"
+        },
+        {
+          "hi": "पार्कराइजिंग",
+          "en": "Parkerizing"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्रोम प्लेटिंग (Chrome Plating) का उपयोग साइकिल के हैंडल और बंपरों पर क्यों किया जाता है?",
+        "en": "Why is decorative chromium electroplating applied on bicycle rims & car bumpers?"
+      },
+      "o": [
+        {
+          "hi": "वजन बढ़ाने के लिए",
+          "en": "To add weight"
+        },
+        {
+          "hi": "सस्ता करने के लिए",
+          "en": "To reduce cost"
+        },
+        {
+          "hi": "संक्षारण से बचाने और दर्पण जैसी चमकीली सतह देने के लिए",
+          "en": "To prevent corrosion & give mirror-like shine"
+        },
+        {
+          "hi": "घर्षण बढ़ाने के लिए",
+          "en": "To increase friction"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मिश्रधातु का विद्युत प्रतिरोध उसके मूल शुद्ध धातुओं के प्रतिरोध से कैसा होता है?",
+        "en": "How is electrical resistivity of an alloy compared to its constituent pure metals?"
+      },
+      "o": [
+        {
+          "hi": "समान रहता है",
+          "en": "Remains same"
+        },
+        {
+          "hi": "शून्य होता है",
+          "en": "Is zero"
+        },
+        {
+          "hi": "बहुत कम होता है",
+          "en": "Is much lower"
+        },
+        {
+          "hi": "अधिक होता है (Higher)",
+          "en": "Higher"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बिजली के हीटर में तांबे के तार के स्थान पर नाइक्रोम तार का उपयोग क्यों किया जाता है?",
+        "en": "Why is nichrome wire preferred over copper wire in room heaters and irons?"
+      },
+      "o": [
+        {
+          "hi": "नाइक्रोम का उच्च प्रतिरोध और उच्च गलनांक होता है (लाल तप्त होकर भी नहीं पिघलता)",
+          "en": "High resistivity & high melting point (does not burn when red-hot)"
+        },
+        {
+          "hi": "नाइक्रोम बहुत सस्ता है",
+          "en": "Nichrome is cheap"
+        },
+        {
+          "hi": "नाइक्रोम लचीला होता है",
+          "en": "Nichrome is flexible"
+        },
+        {
+          "hi": "नाइक्रोम विद्युत का कुचालक है",
+          "en": "Nichrome is insulator"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वुड्स मेटल (Wood's Metal) मिश्रधातु का सबसे महत्वपूर्ण गुण क्या है?",
+        "en": "What is the unique property of Wood's Metal (Bi-Pb-Sn-Cd alloy)?"
+      },
+      "o": [
+        {
+          "hi": "यह बहुत भारी होती है",
+          "en": "It is very heavy"
+        },
+        {
+          "hi": "अत्यंत निम्न गलनांक (लगभग 70°C - गर्म पानी में पिघल जाती है)",
+          "en": "Extremely low melting point (~70°C - melts in hot water)"
+        },
+        {
+          "hi": "यह चुंबकीय होती है",
+          "en": "It is magnetic"
+        },
+        {
+          "hi": "यह पारदर्शी होती है",
+          "en": "It is transparent"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

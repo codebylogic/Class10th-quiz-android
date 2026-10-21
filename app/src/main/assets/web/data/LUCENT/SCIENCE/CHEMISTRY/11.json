@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - रसायन विज्ञान (Chemistry)",
+  "subtitle": "धातुएँ",
+  "description": "धातुएँ पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "धातुओं को पीटकर पतली चादर में बदलने के विशिष्ट गुण को क्या कहा जाता है?",
+        "en": "Property of metals to be beaten into thin sheets without breaking is called?"
+      },
+      "o": [
+        {
+          "hi": "आघातवर्ध्यता (Malleability)",
+          "en": "Malleability"
+        },
+        {
+          "hi": "तन्यता (Ductility)",
+          "en": "Ductility"
+        },
+        {
+          "hi": "कठोरता",
+          "en": "Hardness"
+        },
+        {
+          "hi": "चालकता",
+          "en": "Conductivity"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "धातुओं को खींचकर लंबे महीन तार में बदलने के गुण को क्या कहते हैं?",
+        "en": "Property of metals to be drawn into thin long wires is called?"
+      },
+      "o": [
+        {
+          "hi": "आघातवर्ध्यता",
+          "en": "Malleability"
+        },
+        {
+          "hi": "तन्यता (Ductility)",
+          "en": "Ductility"
+        },
+        {
+          "hi": "ध्वन्यात्मकता",
+          "en": "Sonority"
+        },
+        {
+          "hi": "प्रत्यास्थता",
+          "en": "Elasticity"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रकृति में सर्वाधिक आघातवर्ध्य और सबसे तन्य धातु कौन-सी है?",
+        "en": "Which is the most malleable and ductile metal known in nature?"
+      },
+      "o": [
+        {
+          "hi": "चांदी (Silver)",
+          "en": "Silver"
+        },
+        {
+          "hi": "प्लेटिनम",
+          "en": "Platinum"
+        },
+        {
+          "hi": "सोना (Gold - Au)",
+          "en": "Gold (Au)"
+        },
+        {
+          "hi": "तांबा",
+          "en": "Copper"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऊष्मा और विद्युत की सर्वोत्तम चालक धातु (Best Electrical Conductor) कौन-सी है?",
+        "en": "Which metal is the best conductor of heat and electricity?"
+      },
+      "o": [
+        {
+          "hi": "तांबा (Cu)",
+          "en": "Copper"
+        },
+        {
+          "hi": "सोना (Au)",
+          "en": "Gold"
+        },
+        {
+          "hi": "एल्युमिनियम (Al)",
+          "en": "Aluminium"
+        },
+        {
+          "hi": "चांदी (Silver - Ag)",
+          "en": "Silver (Ag)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विद्युत की सुचालकता के घटते क्रम में धातुओं का सही क्रम कौन-सा है?",
+        "en": "What is correct decreasing order of electrical conductivity among common metals?"
+      },
+      "o": [
+        {
+          "hi": "चांदी > तांबा > सोना > एल्युमिनियम",
+          "en": "Silver > Copper > Gold > Aluminium"
+        },
+        {
+          "hi": "तांबा > चांदी > एल्युमिनियम > सोना",
+          "en": "Copper > Silver > Aluminium > Gold"
+        },
+        {
+          "hi": "सोना > चांदी > तांबा > लोहा",
+          "en": "Gold > Silver > Copper > Iron"
+        },
+        {
+          "hi": "एल्युमिनियम > तांबा > चांदी > सीसा",
+          "en": "Aluminium > Copper > Silver > Lead"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ऊष्मा और विद्युत की सबसे दुर्बल चालक धातु (Poorest Conductor) कौन-सी है?",
+        "en": "Which metallic element is the poorest conductor of heat and electricity?"
+      },
+      "o": [
+        {
+          "hi": "पारा",
+          "en": "Mercury"
+        },
+        {
+          "hi": "सीसा या लेड (Lead - Pb)",
+          "en": "Lead (Pb)"
+        },
+        {
+          "hi": "लोहा",
+          "en": "Iron"
+        },
+        {
+          "hi": "टिन",
+          "en": "Tin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कमरे के सामान्य तापमान पर द्रव अवस्था में पाई जाने वाली एकमात्र धातु कौन-सी है?",
+        "en": "Which is the only metal existing in liquid state at normal room temperature?"
+      },
+      "o": [
+        {
+          "hi": "ब्रोमीन",
+          "en": "Bromine"
+        },
+        {
+          "hi": "सीजियम",
+          "en": "Cesium"
+        },
+        {
+          "hi": "पारा या मरकरी (Mercury - Hg / क्विक सिल्वर)",
+          "en": "Mercury (Hg / Quicksilver)"
+        },
+        {
+          "hi": "गैलियम",
+          "en": "Gallium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हथेली पर रखने पर अपने निम्न गलनांक (लगभग 29-30°C) के कारण कौन-सी दो धातुएं पिघल जाती हैं?",
+        "en": "Which two metals melt in the palm of hand due to body warmth (~30°C)?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम और पोटेशियम",
+          "en": "Sodium and Potassium"
+        },
+        {
+          "hi": "पारा और टिन",
+          "en": "Mercury and Tin"
+        },
+        {
+          "hi": "तांबा और जस्ता",
+          "en": "Copper and Zinc"
+        },
+        {
+          "hi": "गैलियम और सीजियम (Gallium and Cesium)",
+          "en": "Gallium and Cesium"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चाकू से आसानी से काटी जा सकने वाली अत्यधिक कोमल धातुएं कौन-सी हैं?",
+        "en": "Which soft alkali metals can be easily sliced with an ordinary kitchen knife?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम (Na) और पोटेशियम (K)",
+          "en": "Sodium (Na) and Potassium (K)"
+        },
+        {
+          "hi": "लोहा और तांबा",
+          "en": "Iron and Copper"
+        },
+        {
+          "hi": "सोना और चांदी",
+          "en": "Gold and Silver"
+        },
+        {
+          "hi": "एल्युमिनियम और सीसा",
+          "en": "Aluminium and Lead"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जल से भी कम घनत्व होने के कारण कौन-सी धातु पानी की सतह पर तैरती है?",
+        "en": "Which metal has density lower than water (0.97 g/cm³) and floats on water?"
+      },
+      "o": [
+        {
+          "hi": "लोहा",
+          "en": "Iron"
+        },
+        {
+          "hi": "सोडियम (Sodium - Na)",
+          "en": "Sodium (Na)"
+        },
+        {
+          "hi": "सीसा",
+          "en": "Lead"
+        },
+        {
+          "hi": "पारा",
+          "en": "Mercury"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पूरी आवर्त सारणी में सर्वाधिक घनत्व वाली सबसे भारी धातु (Densest Metal) कौन-सी है?",
+        "en": "Which is the heaviest and densest metal known (~22.59 g/cm³)?"
+      },
+      "o": [
+        {
+          "hi": "प्लेटिनम",
+          "en": "Platinum"
+        },
+        {
+          "hi": "सोना",
+          "en": "Gold"
+        },
+        {
+          "hi": "ओस्मियम (Osmium - Os)",
+          "en": "Osmium (Os)"
+        },
+        {
+          "hi": "सीसा",
+          "en": "Lead"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आवर्त सारणी की सबसे हल्की धातु (Lightest Metal) कौन-सी है?",
+        "en": "Which is the lightest metallic element in the periodic table (density 0.53 g/cm³)?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम",
+          "en": "Sodium"
+        },
+        {
+          "hi": "पोटेशियम",
+          "en": "Potassium"
+        },
+        {
+          "hi": "मैग्नीशियम",
+          "en": "Magnesium"
+        },
+        {
+          "hi": "लिथियम (Lithium - Li)",
+          "en": "Lithium (Li)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सर्वोच्च गलनांक (Highest Melting Point ~3422°C) वाली धातु कौन-सी है जिससे बल्ब का फिलामेंट बनता है?",
+        "en": "Which metal has the highest melting point and is used in lamp filaments?"
+      },
+      "o": [
+        {
+          "hi": "टंगस्टन (Tungsten - डब्लू W / वोल्फ्राम)",
+          "en": "Tungsten (Symbol W / Wolfram)"
+        },
+        {
+          "hi": "प्लेटिनम",
+          "en": "Platinum"
+        },
+        {
+          "hi": "क्रोमियम",
+          "en": "Chromium"
+        },
+        {
+          "hi": "टाइटेनियम",
+          "en": "Titanium"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अत्यधिक मजबूत, संक्षारण प्रतिरोधी तथा हल्की होने के कारण 'रणनीतिक धातु' (Strategic Metal) किसे कहते हैं?",
+        "en": "Which strong and light metal used in defense and aircraft is called 'Strategic Metal'?"
+      },
+      "o": [
+        {
+          "hi": "लोहा",
+          "en": "Iron"
+        },
+        {
+          "hi": "टाइटेनियम (Titanium - Ti)",
+          "en": "Titanium (Ti)"
+        },
+        {
+          "hi": "तांबा",
+          "en": "Copper"
+        },
+        {
+          "hi": "सोना",
+          "en": "Gold"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अत्यंत दुर्लभ, महंगी और रासायनिक रूप से अक्रिय होने के कारण 'सफेद सोना' (White Gold) किसे कहा जाता है?",
+        "en": "Which noble, dense and expensive metal is commonly known as 'White Gold'?"
+      },
+      "o": [
+        {
+          "hi": "चांदी",
+          "en": "Silver"
+        },
+        {
+          "hi": "सफेद सोना (मिश्रधातु)",
+          "en": "White gold alloy"
+        },
+        {
+          "hi": "प्लेटिनम (Platinum - Pt / आदम रत्न)",
+          "en": "Platinum (Pt)"
+        },
+        {
+          "hi": "टाइटेनियम",
+          "en": "Titanium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "झूठा सोना या मूर्खों का सोना (Fool's Gold) किसे कहा जाता है?",
+        "en": "Which brassy yellow mineral compound is famously known as 'Fool's Gold'?"
+      },
+      "o": [
+        {
+          "hi": "कॉपर सल्फेट",
+          "en": "Copper sulfate"
+        },
+        {
+          "hi": "क्यूप्राइट",
+          "en": "Cuprite"
+        },
+        {
+          "hi": "सिल्वर ब्रोमाइड",
+          "en": "Silver bromide"
+        },
+        {
+          "hi": "आयरन पाइराइट्स (Iron Pyrites - FeS2)",
+          "en": "Iron Pyrites (FeS2)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एल्युमिनियम धातु का मुख्य और सर्वाधिक महत्वपूर्ण अयस्क कौन-सा है?",
+        "en": "Which is the primary and most important commercial ore of Aluminium?"
+      },
+      "o": [
+        {
+          "hi": "बॉक्साइट (Bauxite - Al2O3 · 2H2O)",
+          "en": "Bauxite (Al2O3 · 2H2O)"
+        },
+        {
+          "hi": "क्रायोलाइट",
+          "en": "Cryolite"
+        },
+        {
+          "hi": "कोरंडम",
+          "en": "Corundum"
+        },
+        {
+          "hi": "हेमेटाइट",
+          "en": "Hematite"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एल्युमिनियम के विद्युत-अपघटनी निष्कर्षण (Hall-Heroult Process) में गलनांक घटाने के लिए क्या मिलाया जाता है?",
+        "en": "What is added to alumina to lower melting point and improve conductivity in extraction?"
+      },
+      "o": [
+        {
+          "hi": "जिप्सम",
+          "en": "Gypsum"
+        },
+        {
+          "hi": "क्रायोलाइट (Cryolite - Na3AlF6) और फ्लोरस्पार",
+          "en": "Cryolite (Na3AlF6) and Fluorspar"
+        },
+        {
+          "hi": "बोरेक्स",
+          "en": "Borax"
+        },
+        {
+          "hi": "फिटकरी",
+          "en": "Alum"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लोहे का सबसे प्रमुख और प्रचुर प्राकृतिक अयस्क कौन-सा है?",
+        "en": "Which is the most common and important natural iron ore mined in India?"
+      },
+      "o": [
+        {
+          "hi": "सिडेराइट (FeCO3)",
+          "en": "Siderite (FeCO3)"
+        },
+        {
+          "hi": "लिमोनाइट",
+          "en": "Limonite"
+        },
+        {
+          "hi": "हेमेटाइट (Hematite - Fe2O3)",
+          "en": "Hematite (Fe2O3)"
+        },
+        {
+          "hi": "आयरन पाइराइट",
+          "en": "Iron Pyrites"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्राकृतिक चुंबकीय गुणों वाला लोहे का काला अयस्क कौन-सा है?",
+        "en": "Which black iron ore possesses natural permanent magnetic properties?"
+      },
+      "o": [
+        {
+          "hi": "हेमेटाइट",
+          "en": "Hematite"
+        },
+        {
+          "hi": "सिडेराइट",
+          "en": "Siderite"
+        },
+        {
+          "hi": "लिमोनाइट",
+          "en": "Limonite"
+        },
+        {
+          "hi": "मैग्नेटाइट (Magnetite - Fe3O4)",
+          "en": "Magnetite (Fe3O4)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लोहे का सबसे शुद्धतम व्यावसायिक रूप (Purest Form of Commercial Iron) कौन-सा है?",
+        "en": "Which is the purest commercial form of iron containing lowest carbon (~0.12-0.25%)?"
+      },
+      "o": [
+        {
+          "hi": "पिटवां लोहा (Wrought Iron)",
+          "en": "Wrought Iron"
+        },
+        {
+          "hi": "ढलवां लोहा (Cast Iron)",
+          "en": "Cast Iron"
+        },
+        {
+          "hi": "कच्चा लोहा (Pig Iron)",
+          "en": "Pig Iron"
+        },
+        {
+          "hi": "स्टेनलेस स्टील",
+          "en": "Stainless Steel"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लोहे का सबसे अशुद्ध और भंगुर रूप जिसमें कार्बन 2.5% से 4.5% तक होता है, कौन-सा है?",
+        "en": "Which is the crude, brittle form of iron with highest carbon content from blast furnace?"
+      },
+      "o": [
+        {
+          "hi": "पिटवां लोहा",
+          "en": "Wrought iron"
+        },
+        {
+          "hi": "ढलवां लोहा या कच्चा लोहा (Pig Iron / Cast Iron)",
+          "en": "Pig Iron / Cast Iron"
+        },
+        {
+          "hi": "इस्पात (Steel)",
+          "en": "Steel"
+        },
+        {
+          "hi": "नर्म लोहा",
+          "en": "Soft iron"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पारे (Mercury) का प्रमुख प्राकृतिक अयस्क कौन-सा है?",
+        "en": "Which is the primary red sulfide ore from which elemental Mercury is extracted?"
+      },
+      "o": [
+        {
+          "hi": "गैलेना",
+          "en": "Galena"
+        },
+        {
+          "hi": "बॉक्साइट",
+          "en": "Bauxite"
+        },
+        {
+          "hi": "सिनेबार या हिंगुल (Cinnabar - HgS)",
+          "en": "Cinnabar (HgS)"
+        },
+        {
+          "hi": "कैलामाइन",
+          "en": "Calamine"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सीसे (Lead - Pb) का सबसे महत्वपूर्ण और सामान्य अयस्क कौन-सा है?",
+        "en": "Which is the most common lead sulfide ore used for extracting metallic Lead?"
+      },
+      "o": [
+        {
+          "hi": "सिनेबार",
+          "en": "Cinnabar"
+        },
+        {
+          "hi": "हेमेटाइट",
+          "en": "Hematite"
+        },
+        {
+          "hi": "क्यूप्राइट",
+          "en": "Cuprite"
+        },
+        {
+          "hi": "गैलेना (Galena - PbS)",
+          "en": "Galena (PbS)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जस्ते (Zinc) का प्रमुख कार्बोनेट अयस्क कौन-सा है?",
+        "en": "Which is the common natural zinc carbonate ore?"
+      },
+      "o": [
+        {
+          "hi": "कैलामाइन (Calamine - ZnCO3)",
+          "en": "Calamine (ZnCO3)"
+        },
+        {
+          "hi": "जिंक ब्लेंड (ZnS)",
+          "en": "Zinc Blende (ZnS)"
+        },
+        {
+          "hi": "जिंकाइट (ZnO)",
+          "en": "Zincite (ZnO)"
+        },
+        {
+          "hi": "गैलेना",
+          "en": "Galena"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जस्ते के ऑक्साइड (ZnO) को अन्य किस नाम से जाना जाता है जिसका उपयोग मलहम में होता है?",
+        "en": "Zinc oxide (ZnO) used in skin ointments is commonly known as what?"
+      },
+      "o": [
+        {
+          "hi": "मिल्क ऑफ मैग्नीशिया",
+          "en": "Milk of magnesia"
+        },
+        {
+          "hi": "जिंक का फूल या दार्शनिक की ऊन (Philosopher's Wool)",
+          "en": "Philosopher's Wool"
+        },
+        {
+          "hi": "सफेद कसीस",
+          "en": "White vitriol"
+        },
+        {
+          "hi": "हरा कसीस",
+          "en": "Green vitriol"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तांबे (Copper) का प्रमुख प्राकृतिक अयस्क कौन-सा है?",
+        "en": "Which is the principal copper-iron sulfide ore mined globally?"
+      },
+      "o": [
+        {
+          "hi": "क्यूप्राइट (Cu2O)",
+          "en": "Cuprite (Cu2O)"
+        },
+        {
+          "hi": "मैलेकाइट",
+          "en": "Malachite"
+        },
+        {
+          "hi": "कॉपर पाइराइट (Copper Pyrites - CuFeS2)",
+          "en": "Copper Pyrites (CuFeS2)"
+        },
+        {
+          "hi": "एज़ुराइट",
+          "en": "Azurite"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सल्फाइड अयस्कों (Sulfide Ores) का सांद्रण मुख्यतः किस विधि द्वारा किया जाता है?",
+        "en": "Concentration of sulfide ores (like ZnS, PbS, CuFeS2) is done by which method?"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्वीय पृथक्करण",
+          "en": "Gravity separation"
+        },
+        {
+          "hi": "चुंबकीय पृथक्करण",
+          "en": "Magnetic separation"
+        },
+        {
+          "hi": "निस्तापन",
+          "en": "Calcination"
+        },
+        {
+          "hi": "फेन प्लवन विधि (Froth Floatation Process - चीड़ के तेल द्वारा)",
+          "en": "Froth Floatation Process"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अयस्क को वायु की अनुपस्थिति में उसके गलनांक से नीचे गर्म करने की प्रक्रिया क्या कहलाती है?",
+        "en": "Heating ore below melting point in absence or limited supply of air is?"
+      },
+      "o": [
+        {
+          "hi": "निस्तापन (Calcination)",
+          "en": "Calcination"
+        },
+        {
+          "hi": "भर्जन (Roasting)",
+          "en": "Roasting"
+        },
+        {
+          "hi": "प्रगलन (Smelting)",
+          "en": "Smelting"
+        },
+        {
+          "hi": "शोधन",
+          "en": "Refining"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सल्फाइड अयस्कों को वायु की नियंत्रित उपस्थिति में गर्म कर ऑक्साइड में बदलना क्या कहलाता है?",
+        "en": "Heating sulfide ore in presence of excess air below melting point is called?"
+      },
+      "o": [
+        {
+          "hi": "निस्तापन",
+          "en": "Calcination"
+        },
+        {
+          "hi": "भर्जन (Roasting)",
+          "en": "Roasting"
+        },
+        {
+          "hi": "प्रगलन",
+          "en": "Smelting"
+        },
+        {
+          "hi": "निक्षालन",
+          "en": "Leaching"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हरा कसीस (Green Vitriol) का रासायनिक नाम और सूत्र क्या है?",
+        "en": "What is the chemical name and formula of Green Vitriol?"
+      },
+      "o": [
+        {
+          "hi": "कॉपर सल्फेट",
+          "en": "Copper sulfate"
+        },
+        {
+          "hi": "जिंक सल्फेट",
+          "en": "Zinc sulfate"
+        },
+        {
+          "hi": "फेरस सल्फेट [Ferrous Sulfate - FeSO4 · 7H2O]",
+          "en": "Ferrous Sulfate [FeSO4 · 7H2O]"
+        },
+        {
+          "hi": "मैग्नीशियम सल्फेट",
+          "en": "Magnesium sulfate"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नीला थोथा या नीला कसीस (Blue Vitriol) का रासायनिक नाम क्या है?",
+        "en": "What is the chemical name and formula of Blue Vitriol?"
+      },
+      "o": [
+        {
+          "hi": "फेरस सल्फेट",
+          "en": "Ferrous sulfate"
+        },
+        {
+          "hi": "जिंक सल्फेट",
+          "en": "Zinc sulfate"
+        },
+        {
+          "hi": "सिल्वर नाइट्रेट",
+          "en": "Silver nitrate"
+        },
+        {
+          "hi": "कॉपर सल्फेट [Cupric Sulfate - CuSO4 · 5H2O]",
+          "en": "Cupric Sulfate [CuSO4 · 5H2O]"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उजला थोथा या सफेद कसीस (White Vitriol) का रासायनिक नाम क्या है?",
+        "en": "What is the chemical name and formula of White Vitriol?"
+      },
+      "o": [
+        {
+          "hi": "जिंक सल्फेट [Zinc Sulfate - ZnSO4 · 7H2O]",
+          "en": "Zinc Sulfate [ZnSO4 · 7H2O]"
+        },
+        {
+          "hi": "फेरस सल्फेट",
+          "en": "Ferrous sulfate"
+        },
+        {
+          "hi": "कॉपर सल्फेट",
+          "en": "Copper sulfate"
+        },
+        {
+          "hi": "कैल्शियम सल्फेट",
+          "en": "Calcium sulfate"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फोटोग्राफी में नेगेटिव के स्थायीकरण (Fixing) के लिए किस रासायनिक यौगिक का उपयोग होता है?",
+        "en": "Which chemical fixer compound is used to wash unexposed AgBr in photography?"
+      },
+      "o": [
+        {
+          "hi": "सिल्वर ब्रोमाइड",
+          "en": "Silver bromide"
+        },
+        {
+          "hi": "सोडियम थायोसल्फेट (हाइपो - Na2S2O3 · 5H2O)",
+          "en": "Sodium Thiosulfate (Hypo)"
+        },
+        {
+          "hi": "सिल्वर नाइट्रेट",
+          "en": "Silver nitrate"
+        },
+        {
+          "hi": "सोडियम कार्बोनेट",
+          "en": "Sodium carbonate"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फोटोग्राफी की रील/फिल्म पर प्रकाश-संवेदी इमल्शन के रूप में किसका लेप होता है?",
+        "en": "Which light-sensitive silver halide is used in photographic film emulsions?"
+      },
+      "o": [
+        {
+          "hi": "सिल्वर क्लोराइड",
+          "en": "Silver chloride"
+        },
+        {
+          "hi": "सिल्वर आयोडाइड",
+          "en": "Silver iodide"
+        },
+        {
+          "hi": "सिल्वर ब्रोमाइड (Silver Bromide - AgBr)",
+          "en": "Silver Bromide (AgBr)"
+        },
+        {
+          "hi": "सिल्वर नाइट्रेट",
+          "en": "Silver nitrate"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चुनाव में मतदाताओं की उंगली पर लगाई जाने वाली अमिट स्याही (Voter's Ink) में क्या होता है?",
+        "en": "Which compound is the active ingredient in indelible election voter's ink?"
+      },
+      "o": [
+        {
+          "hi": "सिल्वर क्लोराइड",
+          "en": "Silver chloride"
+        },
+        {
+          "hi": "सिल्वर ब्रोमाइड",
+          "en": "Silver bromide"
+        },
+        {
+          "hi": "पोटेशियम परमैंगनेट",
+          "en": "Potassium permanganate"
+        },
+        {
+          "hi": "सिल्वर नाइट्रेट (Silver Nitrate - AgNO3 / लूनर कास्टिक)",
+          "en": "Silver Nitrate (AgNO3 / Lunar Caustic)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कृत्रिम वर्षा (Artificial Rain / मेघ बीजन - Cloud Seeding) कराने के लिए किसका छिड़काव होता है?",
+        "en": "Which compound is dispersed into clouds to induce artificial precipitation/rain?"
+      },
+      "o": [
+        {
+          "hi": "सिल्वर आयोडाइड (Silver Iodide - AgI) अथवा शुष्क बर्फ (CO2)",
+          "en": "Silver Iodide (AgI) or Dry Ice (CO2)"
+        },
+        {
+          "hi": "सिल्वर नाइट्रेट",
+          "en": "Silver nitrate"
+        },
+        {
+          "hi": "पोटेशियम क्लोराइड",
+          "en": "Potassium chloride"
+        },
+        {
+          "hi": "सोडियम आयोडाइड",
+          "en": "Sodium iodide"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आतिशबाजी (पटाखों) में हरा रंग (Green Flame) किस धातु की उपस्थिति के कारण उत्पन्न होता है?",
+        "en": "Brilliant green color observed in fireworks displays is produced by which metal salt?"
+      },
+      "o": [
+        {
+          "hi": "स्ट्रॉन्शियम (Sr)",
+          "en": "Strontium (Sr)"
+        },
+        {
+          "hi": "बेरियम (Barium - Ba)",
+          "en": "Barium (Ba)"
+        },
+        {
+          "hi": "सोडियम (Na)",
+          "en": "Sodium (Na)"
+        },
+        {
+          "hi": "तांबा (Cu)",
+          "en": "Copper (Cu)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पटाखों के जलने पर गहरा लाल (Crimson Red) रंग किस तत्व के लवणों के कारण दिखता है?",
+        "en": "Intense crimson-red flame in fireworks is caused by salts of which element?"
+      },
+      "o": [
+        {
+          "hi": "बेरियम",
+          "en": "Barium"
+        },
+        {
+          "hi": "कैल्शियम",
+          "en": "Calcium"
+        },
+        {
+          "hi": "स्ट्रॉन्शियम (Strontium - Sr)",
+          "en": "Strontium (Sr)"
+        },
+        {
+          "hi": "पोटेशियम",
+          "en": "Potassium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आतिशबाजी में पीला रंग किस धातु के कारण उत्पन्न होता है?",
+        "en": "Yellow flame in fireworks and street sodium vapor lamps is due to which metal?"
+      },
+      "o": [
+        {
+          "hi": "बेरियम",
+          "en": "Barium"
+        },
+        {
+          "hi": "स्ट्रॉन्शियम",
+          "en": "Strontium"
+        },
+        {
+          "hi": "तांबा",
+          "en": "Copper"
+        },
+        {
+          "hi": "सोडियम (Sodium - Na)",
+          "en": "Sodium (Na)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आतिशबाजी में नीला रंग किस धातु के यौगिकों द्वारा प्रदर्शित होता है?",
+        "en": "Vibrant blue coloration in pyrotechnics is produced by compounds of which metal?"
+      },
+      "o": [
+        {
+          "hi": "तांबा (Copper - Cu)",
+          "en": "Copper (Cu)"
+        },
+        {
+          "hi": "बेरियम",
+          "en": "Barium"
+        },
+        {
+          "hi": "सोडियम",
+          "en": "Sodium"
+        },
+        {
+          "hi": "मैग्नीशियम",
+          "en": "Magnesium"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्लोरोफिल (पर्णहरित) में कौन-सा धातु परमाणु केंद्र में उपस्थित होता है?",
+        "en": "Which central metal ion is bound within the porphyrin ring of green chlorophyll?"
+      },
+      "o": [
+        {
+          "hi": "लोहा (Iron)",
+          "en": "Iron"
+        },
+        {
+          "hi": "मैग्नीशियम (Magnesium - Mg²⁺)",
+          "en": "Magnesium (Mg²⁺)"
+        },
+        {
+          "hi": "कैल्शियम",
+          "en": "Calcium"
+        },
+        {
+          "hi": "जिंक",
+          "en": "Zinc"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव रक्त के हीमोग्लोबिन में कौन-सा धातु तत्व उपस्थित होता है?",
+        "en": "Which transition metal ion is coordinated at the center of heme in hemoglobin?"
+      },
+      "o": [
+        {
+          "hi": "तांबा",
+          "en": "Copper"
+        },
+        {
+          "hi": "मैग्नीशियम",
+          "en": "Magnesium"
+        },
+        {
+          "hi": "लोहा (Iron - Fe²⁺ / फेरस रूप में)",
+          "en": "Iron (Fe²⁺ / Ferrous state)"
+        },
+        {
+          "hi": "कोबाल्ट",
+          "en": "Cobalt"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विटामिन B12 (सायनोकोबालामिन) में कौन-सी धातु उपस्थित होती है?",
+        "en": "Which coordination metal is essential in the molecular structure of Vitamin B12?"
+      },
+      "o": [
+        {
+          "hi": "लोहा",
+          "en": "Iron"
+        },
+        {
+          "hi": "मैग्नीशियम",
+          "en": "Magnesium"
+        },
+        {
+          "hi": "जिंक",
+          "en": "Zinc"
+        },
+        {
+          "hi": "कोबाल्ट (Cobalt - Co)",
+          "en": "Cobalt (Co)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इंसुलिन हार्मोन (Insulin Hormone) में कौन-सी धातु आवश्यक घटक के रूप में उपस्थित होती है?",
+        "en": "Which trace mineral metal is naturally coordinated within pancreatic Insulin?"
+      },
+      "o": [
+        {
+          "hi": "जस्ता या जिंक (Zinc - Zn)",
+          "en": "Zinc (Zn)"
+        },
+        {
+          "hi": "लोहा",
+          "en": "Iron"
+        },
+        {
+          "hi": "तांबा",
+          "en": "Copper"
+        },
+        {
+          "hi": "मैंगनीज",
+          "en": "Manganese"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किस धातु को 'आशा की धातु' (Metal of Hope) कहा जाता है?",
+        "en": "Which radioactive energy metal is popularly referred to as the 'Metal of Hope'?"
+      },
+      "o": [
+        {
+          "hi": "थोरियम",
+          "en": "Thorium"
+        },
+        {
+          "hi": "यूरेनियम (Uranium)",
+          "en": "Uranium"
+        },
+        {
+          "hi": "प्लूटोनियम",
+          "en": "Plutonium"
+        },
+        {
+          "hi": "टाइटेनियम",
+          "en": "Titanium"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किस धातु को 'भय की धातु' (Metal of Fear) कहा जाता है?",
+        "en": "Which fissile nuclear weapon material is termed the 'Metal of Fear'?"
+      },
+      "o": [
+        {
+          "hi": "यूरेनियम",
+          "en": "Uranium"
+        },
+        {
+          "hi": "थोरियम",
+          "en": "Thorium"
+        },
+        {
+          "hi": "प्लूटोनियम (Plutonium - Pu)",
+          "en": "Plutonium (Pu)"
+        },
+        {
+          "hi": "रेडियम",
+          "en": "Radium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मोनाजाइट बालू (Monazite Sand) से कौन-सी रेडियोधर्मी धातु प्राप्त की जाती है?",
+        "en": "Which radioactive nuclear fuel element is extracted from Kerala monazite beach sands?"
+      },
+      "o": [
+        {
+          "hi": "यूरेनियम",
+          "en": "Uranium"
+        },
+        {
+          "hi": "प्लूटोनियम",
+          "en": "Plutonium"
+        },
+        {
+          "hi": "रेडियम",
+          "en": "Radium"
+        },
+        {
+          "hi": "थोरियम (Thorium - Th)",
+          "en": "Thorium (Th)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पारे को किस धातु के पात्र (बर्तन) में सुरक्षित रखा जाता है क्योंकि यह उससे अमलगम नहीं बनाता?",
+        "en": "In containers of which metal is Mercury stored since it forms no amalgam with it?"
+      },
+      "o": [
+        {
+          "hi": "लोहे (Iron - Fe) के पात्र में",
+          "en": "Iron (Fe) containers"
+        },
+        {
+          "hi": "तांबे के पात्र में",
+          "en": "Copper containers"
+        },
+        {
+          "hi": "एल्युमिनियम में",
+          "en": "Aluminium"
+        },
+        {
+          "hi": "चांदी में",
+          "en": "Silver"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कैडमियम प्रदूषण से मानव में कौन-सा गंभीर अस्थि रोग (हड्डियों का रोग) होता है?",
+        "en": "Chronic poisoning by heavy metal Cadmium pollution causes which painful bone disease?"
+      },
+      "o": [
+        {
+          "hi": "मीनामाता रोग",
+          "en": "Minamata disease"
+        },
+        {
+          "hi": "इटाई-इटाई रोग (Itai-Itai Disease)",
+          "en": "Itai-Itai Disease"
+        },
+        {
+          "hi": "ब्लैक फुट रोग",
+          "en": "Black foot disease"
+        },
+        {
+          "hi": "सिलिकोसिस",
+          "en": "Silicosis"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

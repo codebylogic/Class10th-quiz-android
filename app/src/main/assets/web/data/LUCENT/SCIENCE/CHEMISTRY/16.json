@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - रसायन विज्ञान (Chemistry)",
+  "subtitle": "उत्प्रेरण",
+  "description": "उत्प्रेरण पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "उत्प्रेरक (Catalyst) शब्द और उत्प्रेरण परिघटना की खोज 1835 में किस वैज्ञानिक ने की थी?",
+        "en": "Who discovered and coined the term 'Catalysis' in 1835?"
+      },
+      "o": [
+        {
+          "hi": "जॉन डाल्टन ने",
+          "en": "John Dalton"
+        },
+        {
+          "hi": "माइकल फैराडे ने",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "जोंस जैकब बर्जिलियस (J.J. Berzelius) ने",
+          "en": "Jöns Jacob Berzelius"
+        },
+        {
+          "hi": "एंटोनी लेवोजियर ने",
+          "en": "Antoine Lavoisier"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उत्प्रेरक (Catalyst) वह पदार्थ है जो रासायनिक अभिक्रिया में भाग लिए बिना क्या करता है?",
+        "en": "A catalyst is a chemical substance that without being consumed alters what?"
+      },
+      "o": [
+        {
+          "hi": "अभिक्रिया की दर घटाता है",
+          "en": "Decreases reaction rate"
+        },
+        {
+          "hi": "उत्पादों की मात्रा बढ़ाता है",
+          "en": "Increases yield of products"
+        },
+        {
+          "hi": "संतुलन स्थिरांक बदलता है",
+          "en": "Changes equilibrium constant"
+        },
+        {
+          "hi": "अभिक्रिया की गति (दर) को परिवर्तित कर देता है",
+          "en": "Alters the rate / speed of the reaction"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वे उत्प्रेरक जो किसी रासायनिक अभिक्रिया की गति को बढ़ा देते हैं, क्या कहलाते हैं?",
+        "en": "Catalysts that increase the rate of a chemical reaction are called what?"
+      },
+      "o": [
+        {
+          "hi": "धनात्मक उत्प्रेरक (Positive Catalyst)",
+          "en": "Positive Catalyst"
+        },
+        {
+          "hi": "ऋणात्मक उत्प्रेरक",
+          "en": "Negative Catalyst"
+        },
+        {
+          "hi": "स्वतः उत्प्रेरक",
+          "en": "Auto Catalyst"
+        },
+        {
+          "hi": "उत्प्रेरक विष",
+          "en": "Catalytic Poison"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वे उत्प्रेरक जो किसी रासायनिक अभिक्रिया की गति को कम (धीमा) कर देते हैं, क्या कहलाते हैं?",
+        "en": "Catalysts that retard or decrease the speed of a chemical reaction are called?"
+      },
+      "o": [
+        {
+          "hi": "धनात्मक उत्प्रेरक",
+          "en": "Positive catalyst"
+        },
+        {
+          "hi": "ऋणात्मक उत्प्रेरक या मंदक (Negative Catalyst / Inhibitor)",
+          "en": "Negative Catalyst / Inhibitor"
+        },
+        {
+          "hi": "जैव-उत्प्रेरक",
+          "en": "Bio-catalyst"
+        },
+        {
+          "hi": "उत्प्रेरक वर्धक",
+          "en": "Promoter"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन परॉक्साइड (H2O2) के स्वतः अपघटन को धीमा करने के लिए मंदक के रूप में क्या मिलाया जाता है?",
+        "en": "Which inhibitor is added to retard the spontaneous decomposition of H2O2?"
+      },
+      "o": [
+        {
+          "hi": "अल्कोहल",
+          "en": "Alcohol"
+        },
+        {
+          "hi": "नमक",
+          "en": "Salt"
+        },
+        {
+          "hi": "ग्लिसरॉल या एसिटेनिलाइड (Glycerol / Acetanilide)",
+          "en": "Glycerol / Acetanilide"
+        },
+        {
+          "hi": "सल्फ्यूरिक अम्ल",
+          "en": "Sulfuric acid"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "क्लोरोफॉर्म को विषैली फॉस्जीन गैस में ऑक्सीकृत होने से रोकने के लिए ऋणात्मक उत्प्रेरक का कार्य कौन करता है?",
+        "en": "Which negative catalyst is added (1%) to chloroform to prevent phosgene formation?"
+      },
+      "o": [
+        {
+          "hi": "जल",
+          "en": "Water"
+        },
+        {
+          "hi": "ईथर",
+          "en": "Ether"
+        },
+        {
+          "hi": "एसीटोन",
+          "en": "Acetone"
+        },
+        {
+          "hi": "एथिल अल्कोहल (Ethyl Alcohol - 1%)",
+          "en": "Ethyl Alcohol (1%)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जब किसी रासायनिक अभिक्रिया में बना उत्पाद (Product) स्वयं उत्प्रेरक का कार्य करने लगता है, तो उसे क्या कहते हैं?",
+        "en": "When one of the reaction products acts as a catalyst for that same reaction, it is?"
+      },
+      "o": [
+        {
+          "hi": "स्वतः उत्प्रेरण (Auto-catalysis)",
+          "en": "Auto-catalysis"
+        },
+        {
+          "hi": "प्रेरित उत्प्रेरण",
+          "en": "Induced catalysis"
+        },
+        {
+          "hi": "समांगी उत्प्रेरण",
+          "en": "Homogeneous catalysis"
+        },
+        {
+          "hi": "विषमांगी उत्प्रेरण",
+          "en": "Heterogeneous catalysis"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एथिल एसीटेट के जल-अपघटन में बनने वाला कौन-सा उत्पाद स्वतः उत्प्रेरक का कार्य करता है?",
+        "en": "Which product formed during hydrolysis of ethyl acetate acts as an auto-catalyst?"
+      },
+      "o": [
+        {
+          "hi": "एथिल अल्कोहल",
+          "en": "Ethyl alcohol"
+        },
+        {
+          "hi": "एसिटिक अम्ल (CH3COOH / H⁺ आयन)",
+          "en": "Acetic Acid (CH3COOH / H⁺ ions)"
+        },
+        {
+          "hi": "जल",
+          "en": "Water"
+        },
+        {
+          "hi": "एसीटोन",
+          "en": "Acetone"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जब एक रासायनिक अभिक्रिया दूसरी अप्रतिक्रियाशील अभिक्रिया को प्रेरित करती है, तो इसे क्या कहते हैं?",
+        "en": "When one fast reaction accelerates another slow unreactive reaction, it is called?"
+      },
+      "o": [
+        {
+          "hi": "स्वतः उत्प्रेरण",
+          "en": "Auto-catalysis"
+        },
+        {
+          "hi": "विषमांगी उत्प्रेरण",
+          "en": "Heterogeneous catalysis"
+        },
+        {
+          "hi": "प्रेरित उत्प्रेरण (Induced Catalysis)",
+          "en": "Induced Catalysis"
+        },
+        {
+          "hi": "ऋणात्मक उत्प्रेरण",
+          "en": "Negative catalysis"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जब अभिकारक और उत्प्रेरक दोनों एक ही भौतिक अवस्था (जैसे दोनों द्रव या दोनों गैस) में होते हैं, तो यह क्या कहलाता है?",
+        "en": "Catalytic system where reactants and catalyst exist in the very same physical phase is?"
+      },
+      "o": [
+        {
+          "hi": "विषमांगी उत्प्रेरण",
+          "en": "Heterogeneous catalysis"
+        },
+        {
+          "hi": "स्वतः उत्प्रेरण",
+          "en": "Auto-catalysis"
+        },
+        {
+          "hi": "एंजाइम उत्प्रेरण",
+          "en": "Enzyme catalysis"
+        },
+        {
+          "hi": "समांगी उत्प्रेरण (Homogeneous Catalysis)",
+          "en": "Homogeneous Catalysis"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जब अभिकारक और उत्प्रेरक भिन्न-भिन्न भौतिक अवस्थाओं में होते हैं, तो यह क्या कहलाता है?",
+        "en": "Catalytic system where reactants and catalyst exist in different physical phases is?"
+      },
+      "o": [
+        {
+          "hi": "विषमांगी उत्प्रेरण (Heterogeneous Catalysis)",
+          "en": "Heterogeneous Catalysis"
+        },
+        {
+          "hi": "समांगी उत्प्रेरण",
+          "en": "Homogeneous catalysis"
+        },
+        {
+          "hi": "जैव उत्प्रेरण",
+          "en": "Bio-catalysis"
+        },
+        {
+          "hi": "प्रेरित उत्प्रेरण",
+          "en": "Induced catalysis"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वे पदार्थ जो स्वयं उत्प्रेरक नहीं होते परंतु उत्प्रेरक की कार्यक्षमता (सक्रियता) को बढ़ा देते हैं, क्या कहलाते हैं?",
+        "en": "Substances that are not catalysts themselves but enhance activity of catalyst are?"
+      },
+      "o": [
+        {
+          "hi": "उत्प्रेरक विष",
+          "en": "Catalytic poisons"
+        },
+        {
+          "hi": "उत्प्रेरक वर्धक (Catalytic Promoter)",
+          "en": "Catalytic Promoter"
+        },
+        {
+          "hi": "समांगी उत्प्रेरक",
+          "en": "Homogeneous catalyst"
+        },
+        {
+          "hi": "मंदक",
+          "en": "Inhibitors"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हैबर विधि द्वारा अमोनिया (NH3) के उत्पादन में लोहे (Fe) के साथ उत्प्रेरक वर्धक के रूप में क्या मिलाया जाता है?",
+        "en": "In Haber's ammonia process, which metal acts as a promoter for iron catalyst?"
+      },
+      "o": [
+        {
+          "hi": "तांबा (Cu)",
+          "en": "Copper (Cu)"
+        },
+        {
+          "hi": "निकेल (Ni)",
+          "en": "Nickel (Ni)"
+        },
+        {
+          "hi": "मॉलिब्डेनम (Molybdenum - Mo) अथवा Al2O3/K2O",
+          "en": "Molybdenum (Mo) or Al2O3/K2O"
+        },
+        {
+          "hi": "प्लेटिनम (Pt)",
+          "en": "Platinum (Pt)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वे पदार्थ जो उत्प्रेरक की सतह पर जमकर उसकी उत्प्रेरक क्षमता को नष्ट या समाप्त कर देते हैं, क्या कहलाते हैं?",
+        "en": "Substances that poison the active sites of a catalyst destroying its activity are?"
+      },
+      "o": [
+        {
+          "hi": "उत्प्रेरक वर्धक",
+          "en": "Promoters"
+        },
+        {
+          "hi": "जैव उत्प्रेरक",
+          "en": "Bio-catalysts"
+        },
+        {
+          "hi": "ऋणात्मक उत्प्रेरक",
+          "en": "Inhibitors"
+        },
+        {
+          "hi": "उत्प्रेरक विष (Catalytic Poison)",
+          "en": "Catalytic Poison"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सल्फ्यूरिक अम्ल की संपर्क विधि में प्लैटिनम उत्प्रेरक के लिए कौन-सा पदार्थ उत्प्रेरक विष का कार्य करता है?",
+        "en": "In contact process for H2SO4, which impurity acts as a deadly catalytic poison for Pt?"
+      },
+      "o": [
+        {
+          "hi": "आर्सेनिक ऑक्साइड (Arsenic Oxide - As2O3)",
+          "en": "Arsenic Oxide (As2O3)"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड",
+          "en": "Carbon dioxide"
+        },
+        {
+          "hi": "नाइट्रोजन",
+          "en": "Nitrogen"
+        },
+        {
+          "hi": "ऑक्सीजन",
+          "en": "Oxygen"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हैबर विधि में लोहे के उत्प्रेरक के लिए कौन-सी गैस उत्प्रेरक विष (Poison) का कार्य करती है?",
+        "en": "In Haber's ammonia process, which gas acts as a catalytic poison for iron?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोजन",
+          "en": "Hydrogen"
+        },
+        {
+          "hi": "कार्बन मोनोऑक्साइड (CO) एवं H2S",
+          "en": "Carbon Monoxide (CO) and H2S"
+        },
+        {
+          "hi": "नाइट्रोजन",
+          "en": "Nitrogen"
+        },
+        {
+          "hi": "मीथेन",
+          "en": "Methane"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जीवित पादपों एवं जंतुओं में होने वाली जैव-रासायनिक अभिक्रियाओं को उत्प्रेरित करने वाले पदार्थ क्या कहलाते हैं?",
+        "en": "Complex nitrogenous protein molecules catalyzing biochemical reactions in living cells are?"
+      },
+      "o": [
+        {
+          "hi": "विटामिन",
+          "en": "Vitamins"
+        },
+        {
+          "hi": "हार्मोन",
+          "en": "Hormones"
+        },
+        {
+          "hi": "एंजाइम या जैव-उत्प्रेरक (Enzymes / Bio-catalysts)",
+          "en": "Enzymes / Bio-catalysts"
+        },
+        {
+          "hi": "कार्बोहाइड्रेट",
+          "en": "Carbohydrates"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सभी एंजाइम (Enzymes) रासायनिक रूप से अनिवार्यतः क्या होते हैं?",
+        "en": "Chemically, all biological enzymes are fundamentally composed of what biomolecules?"
+      },
+      "o": [
+        {
+          "hi": "वसा (Fats)",
+          "en": "Fats"
+        },
+        {
+          "hi": "कार्बोहाइड्रेट",
+          "en": "Carbohydrates"
+        },
+        {
+          "hi": "विटामिन",
+          "en": "Vitamins"
+        },
+        {
+          "hi": "प्रोटीन (Proteins - जटिल नाइट्रोजनयुक्त यौगिक)",
+          "en": "Proteins (complex nitrogenous polymers)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दूध से दही बनाने की प्रक्रिया में कौन-सा प्राकृतिक एंजाइम/जीवाणु उत्प्रेरक का कार्य करता है?",
+        "en": "Which natural bacterial enzyme catalyzes the fermentation of milk into curd?"
+      },
+      "o": [
+        {
+          "hi": "लैक्टोबैसिलस (Lactobacillus / लैक्टेज)",
+          "en": "Lactobacillus / Lactase"
+        },
+        {
+          "hi": "जाइमेज",
+          "en": "Zymase"
+        },
+        {
+          "hi": "पेप्सिन",
+          "en": "Pepsin"
+        },
+        {
+          "hi": "इनवर्टेज",
+          "en": "Invertase"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गन्ने की शर्करा (सुक्रोज) को ग्लूकोज और फ्रुक्टोज में जल-अपघटित करने वाला एंजाइम कौन-सा है?",
+        "en": "Which yeast enzyme hydrolyzes cane sugar (sucrose) into glucose and fructose?"
+      },
+      "o": [
+        {
+          "hi": "जाइमेज",
+          "en": "Zymase"
+        },
+        {
+          "hi": "इनवर्टेज (Invertase)",
+          "en": "Invertase"
+        },
+        {
+          "hi": "डायस्टेज",
+          "en": "Diastase"
+        },
+        {
+          "hi": "माल्टेज",
+          "en": "Maltase"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ग्लूकोज (C6H12O6) को एथिल अल्कोहल और CO2 में बदलने वाला प्रसिद्ध किण्वन एंजाइम कौन-सा है?",
+        "en": "Which enzyme present in yeast ferments glucose directly into ethyl alcohol and CO2?"
+      },
+      "o": [
+        {
+          "hi": "इनवर्टेज",
+          "en": "Invertase"
+        },
+        {
+          "hi": "पेप्सिन",
+          "en": "Pepsin"
+        },
+        {
+          "hi": "जाइमेज (Zymase)",
+          "en": "Zymase"
+        },
+        {
+          "hi": "टायलिन",
+          "en": "Ptyalin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव लार (Saliva) में स्टार्च को माल्टोज शर्करा में तोड़ने वाला कौन-सा पाचक एंजाइम होता है?",
+        "en": "Which digestive enzyme present in human saliva breaks down starch into maltose?"
+      },
+      "o": [
+        {
+          "hi": "पेप्सिन",
+          "en": "Pepsin"
+        },
+        {
+          "hi": "रेनिन",
+          "en": "Rennet"
+        },
+        {
+          "hi": "ट्रिप्सिन",
+          "en": "Trypsin"
+        },
+        {
+          "hi": "टायलिन या लार एमाइलेज (Ptyalin / Salivary Amylase)",
+          "en": "Ptyalin / Salivary Amylase"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव आमाशय (Stomach) के जठर रस में प्रोटीन को पेप्टोन में तोड़ने वाला पाचक एंजाइम कौन-सा है?",
+        "en": "Which gastric enzyme in human stomach hydrolyzes proteins into peptones in acidic pH?"
+      },
+      "o": [
+        {
+          "hi": "पेप्सिन (Pepsin)",
+          "en": "Pepsin"
+        },
+        {
+          "hi": "ट्रिप्सिन",
+          "en": "Trypsin"
+        },
+        {
+          "hi": "इरेप्सिन",
+          "en": "Erepsin"
+        },
+        {
+          "hi": "लाइपेज",
+          "en": "Lipase"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अग्न्याशय (Pancreas) से निकलने वाला प्रोटीन पाचक एंजाइम कौन-सा है जो क्षारीय माध्यम में कार्य करता है?",
+        "en": "Which pancreatic enzyme continues protein digestion into polypeptides in alkaline medium?"
+      },
+      "o": [
+        {
+          "hi": "पेप्सिन",
+          "en": "Pepsin"
+        },
+        {
+          "hi": "ट्रिप्सिन (Trypsin)",
+          "en": "Trypsin"
+        },
+        {
+          "hi": "टायलिन",
+          "en": "Ptyalin"
+        },
+        {
+          "hi": "माल्टेज",
+          "en": "Maltase"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आंतों में वसा (Fats) को वसीय अम्ल और ग्लिसरॉल में अपघटित करने वाला पाचक एंजाइम कौन-सा है?",
+        "en": "Which digestive enzyme hydrolyzes dietary emulsified fats into fatty acids & glycerol?"
+      },
+      "o": [
+        {
+          "hi": "एमाइलेज",
+          "en": "Amylase"
+        },
+        {
+          "hi": "पेप्सिन",
+          "en": "Pepsin"
+        },
+        {
+          "hi": "लाइपेज (Lipase)",
+          "en": "Lipase"
+        },
+        {
+          "hi": "ट्रिप्सिन",
+          "en": "Trypsin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्टार्च (Starch) को माल्टोज (Maltose) में बदलने वाला एंजाइम कौन-सा है?",
+        "en": "Which enzyme present in germinating barley malt converts starch into maltose?"
+      },
+      "o": [
+        {
+          "hi": "इनवर्टेज",
+          "en": "Invertase"
+        },
+        {
+          "hi": "जाइमेज",
+          "en": "Zymase"
+        },
+        {
+          "hi": "लाइपेज",
+          "en": "Lipase"
+        },
+        {
+          "hi": "डायस्टेज (Diastase)",
+          "en": "Diastase"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "माल्टोज को दो ग्लूकोज अणुओं में जल-अपघटित करने वाला एंजाइम कौन-सा है?",
+        "en": "Which intestinal enzyme hydrolyzes maltose sugar into two glucose units?"
+      },
+      "o": [
+        {
+          "hi": "माल्टेज (Maltase)",
+          "en": "Maltase"
+        },
+        {
+          "hi": "लैक्टेज",
+          "en": "Lactase"
+        },
+        {
+          "hi": "सुकरेज",
+          "en": "Sucrase"
+        },
+        {
+          "hi": "जाइमेज",
+          "en": "Zymase"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दूध में उपस्थित प्रोटीन 'केसीन' (Casein) को पचाकर दही जैसे थक्के में जमाने वाला एंजाइम कौन-सा है?",
+        "en": "Which gastric enzyme in infants curdles milk protein casein into paracasein?"
+      },
+      "o": [
+        {
+          "hi": "पेप्सिन",
+          "en": "Pepsin"
+        },
+        {
+          "hi": "रेनिन (Rennin / Chymosin)",
+          "en": "Rennin / Chymosin"
+        },
+        {
+          "hi": "ट्रिप्सिन",
+          "en": "Trypsin"
+        },
+        {
+          "hi": "इरेप्सिन",
+          "en": "Erepsin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यूरिया को अमोनिया और कार्बन डाइऑक्साइड में अपघटित करने वाला एंजाइम कौन-सा है?",
+        "en": "Which enzyme specifically catalyzes the hydrolysis of urea into ammonia and CO2?"
+      },
+      "o": [
+        {
+          "hi": "जाइमेज",
+          "en": "Zymase"
+        },
+        {
+          "hi": "इनवर्टेज",
+          "en": "Invertase"
+        },
+        {
+          "hi": "यूरीएज (Urease - सोयाबीन में प्रचुर)",
+          "en": "Urease (abundant in soybeans)"
+        },
+        {
+          "hi": "पेप्सिन",
+          "en": "Pepsin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वनस्पति तेलों (जैसे मूंगफली तेल) से वनस्पति घी बनाने में किस उत्प्रेरक का उपयोग किया जाता है?",
+        "en": "Which finely divided metal catalyst is used in hydrogenation of vegetable oils into ghee?"
+      },
+      "o": [
+        {
+          "hi": "प्लेटिनम",
+          "en": "Platinum"
+        },
+        {
+          "hi": "लोहा",
+          "en": "Iron"
+        },
+        {
+          "hi": "तांबा",
+          "en": "Copper"
+        },
+        {
+          "hi": "निकेल (Nickel - Ni)",
+          "en": "Nickel (Ni)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सल्फ्यूरिक अम्ल (H2SO4) बनाने की 'संपर्क विधि' (Contact Process) में किस उत्प्रेरक का उपयोग होता है?",
+        "en": "In modern industrial Contact Process for H2SO4, which catalyst is employed?"
+      },
+      "o": [
+        {
+          "hi": "वैनेडियम पेंटाऑक्साइड (V2O5) अथवा प्लैटिनम चूर्ण",
+          "en": "Vanadium Pentoxide (V2O5) or Platinum powder"
+        },
+        {
+          "hi": "लोहा चूर्ण",
+          "en": "Iron powder"
+        },
+        {
+          "hi": "निकेल चूर्ण",
+          "en": "Nickel powder"
+        },
+        {
+          "hi": "क्यूप्रिक क्लोराइड",
+          "en": "Cupric chloride"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सल्फ्यूरिक अम्ल बनाने की पुरानी 'सीसा कक्ष विधि' (Lead Chamber Process) में कौन-सा उत्प्रेरक प्रयुक्त होता था?",
+        "en": "In historic Lead Chamber Process for sulfuric acid, which gas served as catalyst?"
+      },
+      "o": [
+        {
+          "hi": "क्लोरीन गैस",
+          "en": "Chlorine gas"
+        },
+        {
+          "hi": "नाइट्रोजन के ऑक्साइड (Nitrogen Oxides - NO)",
+          "en": "Nitrogen Oxides (NO)"
+        },
+        {
+          "hi": "सल्फर डाइऑक्साइड",
+          "en": "Sulfur dioxide"
+        },
+        {
+          "hi": "अमोनिया",
+          "en": "Ammonia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्लोरीन गैस बनाने की प्रसिद्ध 'डेकन विधि' (Deacon's Process) में कौन-सा उत्प्रेरक प्रयुक्त होता है?",
+        "en": "In Deacon's industrial process for oxidation of HCl into Chlorine, catalyst used is?"
+      },
+      "o": [
+        {
+          "hi": "लोहा",
+          "en": "Iron"
+        },
+        {
+          "hi": "निकेल",
+          "en": "Nickel"
+        },
+        {
+          "hi": "क्यूप्रिक क्लोराइड (Cupric Chloride - CuCl2)",
+          "en": "Cupric Chloride (CuCl2)"
+        },
+        {
+          "hi": "वैनेडियम पेंटाऑक्साइड",
+          "en": "V2O5"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अमोनिया गैस के ऑक्सीकरण द्वारा नाइट्रिक अम्ल (HNO3) बनाने की ओस्टवाल्ड विधि में प्रयुक्त उत्प्रेरक क्या है?",
+        "en": "In Ostwald's ammonia oxidation process for nitric acid, which catalyst gauze is used?"
+      },
+      "o": [
+        {
+          "hi": "लोहे की जाली",
+          "en": "Iron gauze"
+        },
+        {
+          "hi": "निकेल की जाली",
+          "en": "Nickel gauze"
+        },
+        {
+          "hi": "तांबे की जाली",
+          "en": "Copper gauze"
+        },
+        {
+          "hi": "प्लैटिनम की जाली (Platinum Gauze - Pt)",
+          "en": "Platinum Gauze (Pt)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अल्कोहल से ईथर (Ether) बनाने की निर्जलीकरण विधि में किस उत्प्रेरक का उपयोग किया जाता है?",
+        "en": "In catalytic dehydration of ethanol into diethyl ether at 140°C, catalyst is?"
+      },
+      "o": [
+        {
+          "hi": "गर्म एल्युमिना (Al2O3) अथवा सांद्र H2SO4",
+          "en": "Hot Alumina (Al2O3) or Conc. H2SO4"
+        },
+        {
+          "hi": "निकेल चूर्ण",
+          "en": "Nickel powder"
+        },
+        {
+          "hi": "लोहा चूर्ण",
+          "en": "Iron powder"
+        },
+        {
+          "hi": "क्यूप्रिक क्लोराइड",
+          "en": "Cupric chloride"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ग्लिसरॉल को गर्म करके तीक्ष्ण गंधयुक्त एक्रोलीन (Acrolein) बनाने में कौन-सा निर्जलीकारक उत्प्रेरक प्रयुक्त होता है?",
+        "en": "Catalyst used for dehydrating glycerol into pungent acrolein is?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम हाइड्रोक्साइड",
+          "en": "Sodium hydroxide"
+        },
+        {
+          "hi": "पोटेशियम हाइड्रोजन सल्फेट (KHSO4) अथवा P2O5",
+          "en": "Potassium Hydrogen Sulfate (KHSO4) or P2O5"
+        },
+        {
+          "hi": "अमोनियम क्लोराइड",
+          "en": "Ammonium chloride"
+        },
+        {
+          "hi": "कैल्शियम कार्बोनेट",
+          "en": "Calcium carbonate"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मोटर वाहनों के एग्जॉस्ट में हानिकारक गैसों (CO, NOx) को हानिरहित गैसों में बदलने वाले 'कैटेलिटिक कनवर्टर' में क्या होता है?",
+        "en": "Automobile catalytic converters use ceramic honeycomb coated with which noble metals?"
+      },
+      "o": [
+        {
+          "hi": "लोहा और तांबा",
+          "en": "Iron and copper"
+        },
+        {
+          "hi": "जस्ता और सीसा",
+          "en": "Zinc and lead"
+        },
+        {
+          "hi": "प्लैटिनम (Pt), पैलेडियम (Pd) और रोडियम (Rh)",
+          "en": "Platinum (Pt), Palladium (Pd) & Rhodium (Rh)"
+        },
+        {
+          "hi": "एल्युमिनियम और मैग्नीशियम",
+          "en": "Aluminium and magnesium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कैटेलिटिक कनवर्टर लगी आधुनिक गाड़ियों में 'सीसा रहित पेट्रोल' (Unleaded Petrol) ही क्यों अनिवार्य है?",
+        "en": "Why is unleaded petrol mandatory in vehicles fitted with catalytic converters?"
+      },
+      "o": [
+        {
+          "hi": "सीसा इंजन को ठंडा करता है",
+          "en": "Lead cools engine"
+        },
+        {
+          "hi": "सीसा सस्ता होता है",
+          "en": "Lead is cheap"
+        },
+        {
+          "hi": "सीसा पेट्रोल को जमा देता है",
+          "en": "Lead freezes petrol"
+        },
+        {
+          "hi": "सीसा (Pb) उत्प्रेरक धातुओं (Pt, Pd) के लिए उत्प्रेरक विष का कार्य कर उन्हें निष्क्रिय कर देता है",
+          "en": "Lead acts as a catalytic poison deactivating Pt & Pd"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उत्प्रेरक किसी रासायनिक अभिक्रिया में किसको घटाकर अभिक्रिया की गति को तेज करता है?",
+        "en": "How does a catalyst accelerate a chemical reaction fundamentally?"
+      },
+      "o": [
+        {
+          "hi": "सक्रियण ऊर्जा (Activation Energy - Ea) को कम करके",
+          "en": "By lowering Activation Energy (Ea)"
+        },
+        {
+          "hi": "अभिक्रिया की ऊष्मा (ΔH) को बढ़ाकर",
+          "en": "By increasing heat of reaction (ΔH)"
+        },
+        {
+          "hi": "उत्पाद की ऊर्जा बढ़ाकर",
+          "en": "By increasing product energy"
+        },
+        {
+          "hi": "तापमान बढ़ाकर",
+          "en": "By increasing temperature"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उत्प्रेरक के संबंध में कौन-सा कथन सर्वथा सत्य है?",
+        "en": "Which of the following statements about a chemical catalyst is unconditionally true?"
+      },
+      "o": [
+        {
+          "hi": "यह अभिक्रिया में पूरी तरह खर्च हो जाता है",
+          "en": "It is consumed completely"
+        },
+        {
+          "hi": "यह अभिक्रिया के अंत में रासायनिक रूप से अपरिवर्तित रहता है",
+          "en": "It remains chemically unchanged at end of reaction"
+        },
+        {
+          "hi": "यह साम्यावस्था स्थिरांक (K) को बदल देता है",
+          "en": "It alters equilibrium constant (K)"
+        },
+        {
+          "hi": "यह असंभव अभिक्रिया को संभव बना देता है",
+          "en": "It makes non-spontaneous reaction happen"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एंजाइमों की उत्प्रेरक सक्रियता किस तापमान परास पर सर्वाधिक (इष्टतम) होती है?",
+        "en": "At what optimum temperature range is the catalytic activity of human enzymes peak?"
+      },
+      "o": [
+        {
+          "hi": "0°C से 10°C",
+          "en": "0°C to 10°C"
+        },
+        {
+          "hi": "100°C से ऊपर",
+          "en": "Above 100°C"
+        },
+        {
+          "hi": "25°C से 37°C (मानव शारीरिक तापमान ~37°C)",
+          "en": "25°C to 37°C (human body temp ~37°C)"
+        },
+        {
+          "hi": "70°C से 80°C",
+          "en": "70°C to 80°C"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एंजाइमों को अत्यधिक उच्च तापमान (60°C से ऊपर) पर गर्म करने पर उनकी सक्रियता क्यों समाप्त हो जाती है?",
+        "en": "Why do protein enzymes become permanently inactivated at temperatures above 60°C?"
+      },
+      "o": [
+        {
+          "hi": "वे वाष्पित हो जाते हैं",
+          "en": "They evaporate"
+        },
+        {
+          "hi": "उनका भार कम हो जाता है",
+          "en": "Their weight decreases"
+        },
+        {
+          "hi": "वे जम जाते हैं",
+          "en": "They freeze"
+        },
+        {
+          "hi": "प्रोटीन का विकृतीकरण (Denaturation of Proteins) हो जाने से",
+          "en": "Due to thermal Denaturation of Proteins"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एंजाइम की क्रियाशीलता को समझाने वाला 'ताला-चाबी सिद्धांत' (Lock and Key Model) किसने दिया था?",
+        "en": "Who proposed the 'Lock and Key' model of enzyme-substrate specificity in 1894?"
+      },
+      "o": [
+        {
+          "hi": "एमिल फिशर (Emil Fischer) ने",
+          "en": "Emil Fischer"
+        },
+        {
+          "hi": "माइकलिस और मेंटेन ने",
+          "en": "Michaelis and Menten"
+        },
+        {
+          "hi": "लुई पाश्चर ने",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "बर्जिलियस ने",
+          "en": "Berzelius"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव मुख में कार्बोहाइड्रेट (स्टार्च) का पाचन किस एंजाइम की सहायता से शुरू होता है?",
+        "en": "Digestion of dietary carbohydrates (starch) begins in human mouth catalyzed by?"
+      },
+      "o": [
+        {
+          "hi": "पेप्सिन",
+          "en": "Pepsin"
+        },
+        {
+          "hi": "टायलिन (Ptyalin / सलाइवरी एमाइलेज)",
+          "en": "Ptyalin (Salivary Amylase)"
+        },
+        {
+          "hi": "ट्रिप्सिन",
+          "en": "Trypsin"
+        },
+        {
+          "hi": "रेनिन",
+          "en": "Rennin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अग्न्याशयी रस (Pancreatic Juice) में स्टार्च को पचाने वाला एंजाइम कौन-सा होता है?",
+        "en": "Which enzyme in pancreatic juice completes the digestion of remaining starch?"
+      },
+      "o": [
+        {
+          "hi": "पेप्सिन",
+          "en": "Pepsin"
+        },
+        {
+          "hi": "ट्रिप्सिन",
+          "en": "Trypsin"
+        },
+        {
+          "hi": "एमाइलोप्सिन या अग्न्याशयी एमाइलेज (Amylopsin / Amylase)",
+          "en": "Amylopsin / Pancreatic Amylase"
+        },
+        {
+          "hi": "लाइपेज",
+          "en": "Lipase"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पित्त रस (Bile Juice) में कोई एंजाइम न होने के बावजूद यह पाचन में क्या महत्वपूर्ण कार्य करता है?",
+        "en": "Bile contains no enzymes, yet what vital role does it play in lipid digestion?"
+      },
+      "o": [
+        {
+          "hi": "प्रोटीन को पचाता है",
+          "en": "Digests proteins"
+        },
+        {
+          "hi": "स्टार्च को तोड़ता है",
+          "en": "Breaks down starch"
+        },
+        {
+          "hi": "विटामिन बनाता है",
+          "en": "Synthesizes vitamins"
+        },
+        {
+          "hi": "वसा का पायसीकरण (Emulsification of Fats) करता है",
+          "en": "Emulsification of Fats into tiny droplets"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्राचीन काल से चली आ रही किण्वन (Fermentation) प्रक्रिया वास्तव में किसका उदाहरण है?",
+        "en": "Ancient traditional brewing & bread fermentation is an example of what process?"
+      },
+      "o": [
+        {
+          "hi": "जैव-रासायनिक उत्प्रेरण (Bio-catalysis by Microorganisms/Enzymes)",
+          "en": "Bio-catalysis by Microorganisms/Enzymes"
+        },
+        {
+          "hi": "समांगी रासायनिक उत्प्रेरण",
+          "en": "Homogeneous chemical catalysis"
+        },
+        {
+          "hi": "उदासीनीकरण",
+          "en": "Neutralization"
+        },
+        {
+          "hi": "रेडियोसक्रिय विखंडन",
+          "en": "Radioactive fission"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शराब निर्माण (Brewing) में प्रयुक्त मुख्य सूक्ष्मजीव कौन-सा है जो किण्वन एंजाइम स्रावित करता है?",
+        "en": "Which unicellular fungal microorganism is utilized in brewing for secreting zymase?"
+      },
+      "o": [
+        {
+          "hi": "जीवाणु (Bacteria)",
+          "en": "Bacteria"
+        },
+        {
+          "hi": "यीस्ट या खमीर (Yeast - Saccharomyces cerevisiae)",
+          "en": "Yeast (Saccharomyces cerevisiae)"
+        },
+        {
+          "hi": "अमीबा",
+          "en": "Amoeba"
+        },
+        {
+          "hi": "शैवाल",
+          "en": "Algae"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एंजाइम क्रिया में उत्प्रेरक का कार्य करने वाले गैर-प्रोटीन कार्बनिक सह-कारकों को क्या कहते हैं?",
+        "en": "Non-protein organic cofactors bound to enzymes essential for activity are called?"
+      },
+      "o": [
+        {
+          "hi": "एंटीबॉडी",
+          "en": "Antibodies"
+        },
+        {
+          "hi": "एंटीजन",
+          "en": "Antigens"
+        },
+        {
+          "hi": "सह-एंजाइम (Co-enzymes - जैसे विटामिन्स)",
+          "en": "Co-enzymes (e.g. Vitamins)"
+        },
+        {
+          "hi": "हार्मोन",
+          "en": "Hormones"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अम्ल-क्षार उत्प्रेरण (Acid-Base Catalysis) में उत्प्रेरक का कार्य कौन-से आयन करते हैं?",
+        "en": "In general acid-base catalysis, catalytic role is performed primarily by which ions?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम आयन (Na⁺)",
+          "en": "Sodium ions (Na⁺)"
+        },
+        {
+          "hi": "क्लोराइड आयन (Cl⁻)",
+          "en": "Chloride ions (Cl⁻)"
+        },
+        {
+          "hi": "सल्फेट आयन (SO4²⁻)",
+          "en": "Sulfate ions (SO4²⁻)"
+        },
+        {
+          "hi": "H⁺ (प्रोटॉन) अथवा OH⁻ (हाइड्रॉक्साइड) आयन",
+          "en": "H⁺ (Protons) or OH⁻ (Hydroxide) ions"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}

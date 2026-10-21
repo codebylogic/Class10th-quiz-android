@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - रसायन विज्ञान (Chemistry)",
+  "subtitle": "अधातुएँ",
+  "description": "अधातुएँ पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "संपूर्ण ब्रह्मांड (Universe) में सर्वाधिक प्रचुरता में पाया जाने वाला तत्व कौन-सा है?",
+        "en": "Which element is the most abundant chemical element in the universe (~75%)?"
+      },
+      "o": [
+        {
+          "hi": "हीलियम",
+          "en": "Helium"
+        },
+        {
+          "hi": "ऑक्सीजन",
+          "en": "Oxygen"
+        },
+        {
+          "hi": "हाइड्रोजन (Hydrogen - H)",
+          "en": "Hydrogen (H)"
+        },
+        {
+          "hi": "कार्बन",
+          "en": "Carbon"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आवर्त सारणी का प्रथम तत्व और सबसे हल्का तत्व कौन-सा है?",
+        "en": "Which is the first and lightest element of the periodic table?"
+      },
+      "o": [
+        {
+          "hi": "हीलियम",
+          "en": "Helium"
+        },
+        {
+          "hi": "लिथियम",
+          "en": "Lithium"
+        },
+        {
+          "hi": "बेरिलियम",
+          "en": "Beryllium"
+        },
+        {
+          "hi": "हाइड्रोजन (Hydrogen)",
+          "en": "Hydrogen"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन की खोज 1766 में किस अंग्रेज वैज्ञानिक ने की थी?",
+        "en": "Who discovered and isolated Hydrogen gas ('inflammable air') in 1766?"
+      },
+      "o": [
+        {
+          "hi": "हेनरी कैवेंडिश ने (Henry Cavendish)",
+          "en": "Henry Cavendish"
+        },
+        {
+          "hi": "जोसेफ प्रीस्टले ने",
+          "en": "Joseph Priestley"
+        },
+        {
+          "hi": "एंटोनी लेवोजियर ने",
+          "en": "Antoine Lavoisier"
+        },
+        {
+          "hi": "जॉन डाल्टन ने",
+          "en": "John Dalton"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन को 'हाइड्रोजन' (जल उत्पादक) नाम किस वैज्ञानिक ने दिया था?",
+        "en": "Who gave Hydrogen its modern name (meaning 'water-former')?"
+      },
+      "o": [
+        {
+          "hi": "कैवेंडिश ने",
+          "en": "Cavendish"
+        },
+        {
+          "hi": "एंटोनी लेवोजियर (Antoine Lavoisier) ने",
+          "en": "Antoine Lavoisier"
+        },
+        {
+          "hi": "रॉबर्ट बॉयल ने",
+          "en": "Robert Boyle"
+        },
+        {
+          "hi": "मेंडेलीफ ने",
+          "en": "Mendeleev"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन के उस समस्थानिक का नाम क्या है जिसका उपयोग परमाणु रिएक्टरों में भारी जल (D2O) बनाने में होता है?",
+        "en": "Which stable isotope of hydrogen forms Heavy Water (D2O) for nuclear reactors?"
+      },
+      "o": [
+        {
+          "hi": "प्रोटियम (1H1)",
+          "en": "Protium (1H1)"
+        },
+        {
+          "hi": "ट्राइटियम (1H3)",
+          "en": "Tritium (1H3)"
+        },
+        {
+          "hi": "ड्यूटीरियम या भारी हाइड्रोजन (Deuterium - 1H2)",
+          "en": "Deuterium (1H2)"
+        },
+        {
+          "hi": "हाइड्रोनियम",
+          "en": "Hydronium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वायुमंडल में नाइट्रोजन गैस (N2) की आयतन के अनुसार प्रतिशत मात्रा लगभग कितनी है?",
+        "en": "What is percentage volume concentration of Nitrogen gas in clean Earth atmosphere?"
+      },
+      "o": [
+        {
+          "hi": "21%",
+          "en": "21%"
+        },
+        {
+          "hi": "0.04%",
+          "en": "0.04%"
+        },
+        {
+          "hi": "0.93%",
+          "en": "0.93%"
+        },
+        {
+          "hi": "लगभग 78% (78.08%)",
+          "en": "About 78% (78.08%)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वायुमंडल में ऑक्सीजन गैस (O2) की आयतन के अनुसार मात्रा लगभग कितनी है?",
+        "en": "What is percentage volume fraction of Oxygen gas in dry atmospheric air?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 21% (20.95%)",
+          "en": "About 21% (20.95%)"
+        },
+        {
+          "hi": "78%",
+          "en": "78%"
+        },
+        {
+          "hi": "10%",
+          "en": "10%"
+        },
+        {
+          "hi": "0.03%",
+          "en": "0.03%"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ऑक्सीजन (Oxygen) गैस की खोज 1774 में किसने की थी?",
+        "en": "Who is credited with discovering Oxygen gas in 1774?"
+      },
+      "o": [
+        {
+          "hi": "हेनरी कैवेंडिश",
+          "en": "Henry Cavendish"
+        },
+        {
+          "hi": "जोसेफ प्रीस्टले (Joseph Priestley) और शीले",
+          "en": "Joseph Priestley & Scheele"
+        },
+        {
+          "hi": "लेवोजियर",
+          "en": "Lavoisier"
+        },
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नाइट्रोजन (Nitrogen) गैस की खोज 1772 में किस वैज्ञानिक ने की थी?",
+        "en": "Who discovered and isolated Nitrogen gas in 1772?"
+      },
+      "o": [
+        {
+          "hi": "जोसेफ ब्लैक",
+          "en": "Joseph Black"
+        },
+        {
+          "hi": "कैवेंडिश",
+          "en": "Cavendish"
+        },
+        {
+          "hi": "डेनियल रदरफोर्ड (Daniel Rutherford)",
+          "en": "Daniel Rutherford"
+        },
+        {
+          "hi": "प्रीस्टले",
+          "en": "Priestley"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऑक्सीजन का वह अपररूप जो समतापमंडल में पराबैंगनी किरणों को सोखता है, क्या कहलाता है?",
+        "en": "Triatomic allotrope of oxygen protecting Earth from UV radiation in stratosphere is?"
+      },
+      "o": [
+        {
+          "hi": "डाईऑक्सीजन (O2)",
+          "en": "Dioxygen (O2)"
+        },
+        {
+          "hi": "नेसेंट ऑक्सीजन",
+          "en": "Nascent oxygen"
+        },
+        {
+          "hi": "ऑक्सी-आयन",
+          "en": "Oxy-ion"
+        },
+        {
+          "hi": "ओजोन (Ozone - O3 / सड़ी मछली जैसी गंध)",
+          "en": "Ozone (O3 / rotten-fish odor)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ओजोन (Ozone) गैस में कैसी विशिष्ट गंध आती है?",
+        "en": "What characteristic odor does Ozone gas emit?"
+      },
+      "o": [
+        {
+          "hi": "सड़ी मछली जैसी गंध (Rotten Fish odor)",
+          "en": "Rotten Fish odor"
+        },
+        {
+          "hi": "सड़े अंडे जैसी गंध",
+          "en": "Rotten egg odor"
+        },
+        {
+          "hi": "तीखी मीठी गंध",
+          "en": "Sweet pungent odor"
+        },
+        {
+          "hi": "गंधहीन होती है",
+          "en": "Odorless"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सड़े अंडे जैसी दुर्गंध (Rotten Egg Smell) किस विषैली गैस से आती है?",
+        "en": "Which toxic, foul-smelling gas has characteristic odor of rotten eggs?"
+      },
+      "o": [
+        {
+          "hi": "अमोनिया (NH3)",
+          "en": "Ammonia (NH3)"
+        },
+        {
+          "hi": "हाइड्रोजन सल्फाइड (Hydrogen Sulfide - H2S)",
+          "en": "Hydrogen Sulfide (H2S)"
+        },
+        {
+          "hi": "सल्फर डाइऑक्साइड (SO2)",
+          "en": "Sulfur Dioxide (SO2)"
+        },
+        {
+          "hi": "मीथेन (CH4)",
+          "en": "Methane (CH4)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सड़े हुए मांस जैसी अत्यंत तीक्ष्ण गंध वाली फास्फीन गैस (Phosphine) का रासायनिक सूत्र क्या है?",
+        "en": "Rotten fish/meat smelling toxic gas Phosphine has chemical formula?"
+      },
+      "o": [
+        {
+          "hi": "PCl3",
+          "en": "PCl3"
+        },
+        {
+          "hi": "P2O5",
+          "en": "P2O5"
+        },
+        {
+          "hi": "PH3 (फास्फीन)",
+          "en": "PH3 (Phosphine)"
+        },
+        {
+          "hi": "H3PO4",
+          "en": "H3PO4"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दलदली स्थानों और समुद्र में फास्फीन के स्वतः जलने से उठने वाले रहस्यमयी प्रकाश को क्या कहते हैं?",
+        "en": "Spontaneous eerie atmospheric glow seen over marshy swamps at night is called?"
+      },
+      "o": [
+        {
+          "hi": "सौर ज्वाला",
+          "en": "Solar flare"
+        },
+        {
+          "hi": "ऑरोरा",
+          "en": "Aurora"
+        },
+        {
+          "hi": "तड़ित",
+          "en": "Lightning"
+        },
+        {
+          "hi": "मार्श लाइट या विलो-द-विस्प (Will-o'-the-wisp)",
+          "en": "Will-o'-the-wisp / Jack-o'-lantern"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सफेद फास्फोरस (White Phosphorus - P4) को अंधेरे में रखने पर मंद प्रकाश उत्सर्जित होना क्या कहलाता है?",
+        "en": "Slow oxidation glow of white phosphorus in dark without noticeable heat is?"
+      },
+      "o": [
+        {
+          "hi": "स्फुरदीप्ति या संदीप्ति (Phosphorescence / Chemiluminescence)",
+          "en": "Phosphorescence / Chemiluminescence"
+        },
+        {
+          "hi": "प्रतिदीप्ति (Fluorescence)",
+          "en": "Fluorescence"
+        },
+        {
+          "hi": "ज्वलन",
+          "en": "Ignition"
+        },
+        {
+          "hi": "विकिरण",
+          "en": "Radiation"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "माचिस की तीली और रगड़ने वाली सतह पर किस फास्फोरस का उपयोग होता है?",
+        "en": "Which non-toxic, stable allotrope of phosphorus is used in safety match industry?"
+      },
+      "o": [
+        {
+          "hi": "सफेद फास्फोरस",
+          "en": "White phosphorus"
+        },
+        {
+          "hi": "लाल फास्फोरस (Red Phosphorus)",
+          "en": "Red Phosphorus"
+        },
+        {
+          "hi": "काला फास्फोरस",
+          "en": "Black phosphorus"
+        },
+        {
+          "hi": "पीला फास्फोरस",
+          "en": "Yellow phosphorus"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सल्फर (गंधक) का सामान्य कमरे के तापमान पर सबसे स्थिर अपररूप कौन-सा है?",
+        "en": "Which is the most thermodynamically stable allotrope of sulfur at room temp?"
+      },
+      "o": [
+        {
+          "hi": "मोनोक्लिनिक सल्फर",
+          "en": "Monoclinic sulfur"
+        },
+        {
+          "hi": "प्लास्टिक सल्फर",
+          "en": "Plastic sulfur"
+        },
+        {
+          "hi": "विषमलम्बाक्ष या रोम्बिक सल्फर (Rhombic / α-Sulfur - S8 चक्र)",
+          "en": "Rhombic / α-Sulfur (S8 crown ring)"
+        },
+        {
+          "hi": "कोलाइडल सल्फर",
+          "en": "Colloidal sulfur"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्याज और लहसुन को काटने पर आंखों में आंसू किस रासायनिक तत्व के वाष्पशील यौगिकों के कारण आते हैं?",
+        "en": "Tearing of eyes when cutting onions is caused by volatile compounds containing?"
+      },
+      "o": [
+        {
+          "hi": "फास्फोरस",
+          "en": "Phosphorus"
+        },
+        {
+          "hi": "नाइट्रोजन",
+          "en": "Nitrogen"
+        },
+        {
+          "hi": "क्लोरीन",
+          "en": "Chlorine"
+        },
+        {
+          "hi": "सल्फर (गंधक - सल्फोक्साइड / सिन-प्रोपेनेथिएल-एस-ऑक्साइड)",
+          "en": "Sulfur (Syn-propanethial-S-oxide)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सल्फ्यूरिक अम्ल (H2SO4) का औद्योगिक उत्पादन मुख्य रूप से किस आधुनिक विधि द्वारा किया जाता है?",
+        "en": "Industrial manufacture of sulfuric acid is commercially carried out by which process?"
+      },
+      "o": [
+        {
+          "hi": "संपर्क विधि (Contact Process - V2O5 उत्प्रेरक)",
+          "en": "Contact Process (V2O5 catalyst)"
+        },
+        {
+          "hi": "हैबर विधि",
+          "en": "Haber process"
+        },
+        {
+          "hi": "ओस्टवाल्ड विधि",
+          "en": "Ostwald process"
+        },
+        {
+          "hi": "डेकन विधि",
+          "en": "Deacon process"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अमोनिया गैस (NH3) का बड़े पैमाने पर औद्योगिक उत्पादन किस विधि द्वारा किया जाता है?",
+        "en": "Large-scale industrial synthesis of Ammonia from N2 and H2 is carried out by?"
+      },
+      "o": [
+        {
+          "hi": "ओस्टवाल्ड विधि",
+          "en": "Ostwald process"
+        },
+        {
+          "hi": "हैबर विधि (Haber-Bosch Process - Fe उत्प्रेरक)",
+          "en": "Haber-Bosch Process (Fe catalyst)"
+        },
+        {
+          "hi": "संपर्क विधि",
+          "en": "Contact process"
+        },
+        {
+          "hi": "सॉल्वे विधि",
+          "en": "Solvay process"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नाइट्रिक अम्ल (HNO3) का औद्योगिक उत्पादन अमोनिया के ऑक्सीकरण द्वारा किस विधि से होता है?",
+        "en": "Industrial catalytic oxidation of ammonia to produce nitric acid is called?"
+      },
+      "o": [
+        {
+          "hi": "हैबर विधि",
+          "en": "Haber process"
+        },
+        {
+          "hi": "सॉल्वे विधि",
+          "en": "Solvay process"
+        },
+        {
+          "hi": "ओस्टवाल्ड विधि (Ostwald's Process - Pt उत्प्रेरक)",
+          "en": "Ostwald's Process (Pt catalyst)"
+        },
+        {
+          "hi": "हॉल विधि",
+          "en": "Hall process"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हैलोजन परिवार (वर्ग 17) के तत्वों में सर्वाधिक अभिक्रियाशील तत्व कौन-सा है?",
+        "en": "Which is the most reactive non-metallic element among all halogens?"
+      },
+      "o": [
+        {
+          "hi": "क्लोरीन",
+          "en": "Chlorine"
+        },
+        {
+          "hi": "ब्रोमीन",
+          "en": "Bromine"
+        },
+        {
+          "hi": "आयोडीन",
+          "en": "Iodine"
+        },
+        {
+          "hi": "फ्लोरीन (Fluorine - F2)",
+          "en": "Fluorine (F2)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पीने के पानी को जीवाणुरहित (कीटाणुरहित) करने के लिए किस हैलोजन गैस का उपयोग किया जाता है?",
+        "en": "Which halogen gas is universally added to municipal drinking water supplies as disinfectant?"
+      },
+      "o": [
+        {
+          "hi": "क्लोरीन (Chlorine - Cl2)",
+          "en": "Chlorine (Cl2)"
+        },
+        {
+          "hi": "ब्रोमीन",
+          "en": "Bromine"
+        },
+        {
+          "hi": "आयोडीन",
+          "en": "Iodine"
+        },
+        {
+          "hi": "फ्लोरीन",
+          "en": "Fluorine"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रंगीन कपड़ों और फूलों का रंग स्थायी रूप से उड़ाने (विरंजन - Bleaching) वाली गैस कौन-सी है?",
+        "en": "Which greenish-yellow halogen gas bleaches moisture-laden colored fabrics by oxidation?"
+      },
+      "o": [
+        {
+          "hi": "नाइट्रोजन",
+          "en": "Nitrogen"
+        },
+        {
+          "hi": "क्लोरीन गैस (Chlorine Gas)",
+          "en": "Chlorine Gas"
+        },
+        {
+          "hi": "ऑक्सीजन",
+          "en": "Oxygen"
+        },
+        {
+          "hi": "हाइड्रोजन",
+          "en": "Hydrogen"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "थायरॉयड ग्रंथि द्वारा थायरोक्सिन हार्मोन बनाने और घेंघा (Goitre) रोग से बचाव के लिए क्या आवश्यक है?",
+        "en": "Which trace non-metal halogen is vital for human thyroid synthesis of thyroxine?"
+      },
+      "o": [
+        {
+          "hi": "फ्लोरीन",
+          "en": "Fluorine"
+        },
+        {
+          "hi": "क्लोरीन",
+          "en": "Chlorine"
+        },
+        {
+          "hi": "आयोडीन (Iodine - I)",
+          "en": "Iodine (I)"
+        },
+        {
+          "hi": "ब्रोमीन",
+          "en": "Bromine"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्टार्च (Starch) की उपस्थिति की पुष्टि करने के लिए किस रासायनिक घोल का परीक्षण किया जाता है?",
+        "en": "Presence of starch in food items is identified by adding few drops of which reagent?"
+      },
+      "o": [
+        {
+          "hi": "बेनेडिक्ट घोल",
+          "en": "Benedict's solution"
+        },
+        {
+          "hi": "बायुरेट अभिकर्मक",
+          "en": "Biuret reagent"
+        },
+        {
+          "hi": "फेलिंग विलयन",
+          "en": "Fehling's solution"
+        },
+        {
+          "hi": "आयोडीन घोल (नीला-काला रंग देता है)",
+          "en": "Iodine solution (turns blue-black)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समुद्री खरपतवार (Laminaria Seaweeds) से मुख्य रूप से कौन-सा अधातु तत्व प्राप्त किया जाता है?",
+        "en": "Which essential halogen non-metal is industrially extracted from brown marine kelp/seaweed?"
+      },
+      "o": [
+        {
+          "hi": "आयोडीन (Iodine)",
+          "en": "Iodine"
+        },
+        {
+          "hi": "ब्रोमीन",
+          "en": "Bromine"
+        },
+        {
+          "hi": "क्लोरीन",
+          "en": "Chlorine"
+        },
+        {
+          "hi": "फ्लोरीन",
+          "en": "Fluorine"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समुद्र के खारे पानी (लवण जल) से मुख्य रूप से कौन-सी द्रव अधातु निष्कर्षित की जाती है?",
+        "en": "Liquid halogen non-metal Bromine is commercially extracted from what source?"
+      },
+      "o": [
+        {
+          "hi": "चट्टानों से",
+          "en": "From rocks"
+        },
+        {
+          "hi": "समुद्री जल और ब्राइन (Sea Water & Brine)",
+          "en": "Sea Water and Brine"
+        },
+        {
+          "hi": "वायुमंडल से",
+          "en": "From atmosphere"
+        },
+        {
+          "hi": "कोयले से",
+          "en": "From coal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दांतों के इनेमल को मजबूत बनाने और दंतक्षय रोकने के लिए टूथपेस्ट में क्या मिलाया जाता है?",
+        "en": "Which halogen ion is incorporated into dental toothpastes to prevent cavities?"
+      },
+      "o": [
+        {
+          "hi": "क्लोराइड",
+          "en": "Chloride"
+        },
+        {
+          "hi": "ब्रोमाइड",
+          "en": "Bromide"
+        },
+        {
+          "hi": "फ्लोराइड (Fluoride - F⁻)",
+          "en": "Fluoride (F⁻)"
+        },
+        {
+          "hi": "आयोडाइड",
+          "en": "Iodide"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पीने के पानी में फ्लोराइड की अत्यधिक मात्रा होने से कौन-सा रोग हो जाता है?",
+        "en": "Excessive fluoride concentration (>1.5 ppm) in drinking water causes which disease?"
+      },
+      "o": [
+        {
+          "hi": "घेंघा",
+          "en": "Goitre"
+        },
+        {
+          "hi": "एनीमिया",
+          "en": "Anemia"
+        },
+        {
+          "hi": "रिकेट्स",
+          "en": "Rickets"
+        },
+        {
+          "hi": "फ्लोरोसिस (Fluorosis - दांतों व हड्डियों का टेढ़ापन)",
+          "en": "Fluorosis (dental & skeletal damage)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गुब्बारों में हाइड्रोजन के स्थान पर हीलियम गैस को प्राथमिकता देने का वैज्ञानिक कारण क्या है?",
+        "en": "Why is Helium preferred over Hydrogen for filling weather observation balloons?"
+      },
+      "o": [
+        {
+          "hi": "हीलियम अज्वलनशील और सुरक्षित अक्रिय गैस है",
+          "en": "Helium is non-flammable and safe inert gas"
+        },
+        {
+          "hi": "हीलियम हाइड्रोजन से हल्की है",
+          "en": "Helium is lighter than hydrogen"
+        },
+        {
+          "hi": "हीलियम का रंग सुंदर है",
+          "en": "Helium has attractive color"
+        },
+        {
+          "hi": "हीलियम वायु में तैरती नहीं",
+          "en": "Helium does not float in air"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हवाई जहाज के टायरों में सुरक्षित भराव के लिए नाइट्रोजन गैस का उपयोग क्यों होता है?",
+        "en": "Why is pure dry Nitrogen used for inflating commercial aircraft tires?"
+      },
+      "o": [
+        {
+          "hi": "यह टायर को गर्म रखती है",
+          "en": "Keeps tire warm"
+        },
+        {
+          "hi": "यह अज्वलनशील, सूखी तथा ताप परिवर्तन पर कम फैलती है",
+          "en": "Non-flammable, dry & stable under temp swings"
+        },
+        {
+          "hi": "यह बहुत सस्ती है",
+          "en": "It is very cheap"
+        },
+        {
+          "hi": "यह टायर को भारी बनाती है",
+          "en": "Makes tires heavy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अक्रिय गैसों में सबसे भारी अक्रिय गैस (Heaviest Noble Gas) कौन-सी है?",
+        "en": "Which is the heaviest and densest noble gas in the zero group?"
+      },
+      "o": [
+        {
+          "hi": "ऑर्गन (Ar)",
+          "en": "Argon (Ar)"
+        },
+        {
+          "hi": "जीनॉन (Xe)",
+          "en": "Xenon (Xe)"
+        },
+        {
+          "hi": "रेडॉन (Radon - Rn / रेडियोसक्रिय)",
+          "en": "Radon (Rn / Radioactive)"
+        },
+        {
+          "hi": "क्रिप्टॉन (Kr)",
+          "en": "Krypton (Kr)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भूकंप आने से ठीक पहले वायुमंडल में किस रेडियोधर्मी अक्रिय गैस की सांद्रता में अचानक वृद्धि होती है?",
+        "en": "Sudden surge in concentration of which noble gas in soil/air precedes an earthquake?"
+      },
+      "o": [
+        {
+          "hi": "हीलियम",
+          "en": "Helium"
+        },
+        {
+          "hi": "ऑर्गन",
+          "en": "Argon"
+        },
+        {
+          "hi": "नियॉन",
+          "en": "Neon"
+        },
+        {
+          "hi": "रेडॉन गैस (Radon Gas)",
+          "en": "Radon Gas"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रासायनिक यौगिक (जैसे XeF2, XeF4, XeOF4) बनाने वाली एकमात्र अक्रिय गैस कौन-सी है?",
+        "en": "Which noble gas has sufficient polarizability to form stable chemical fluoride compounds?"
+      },
+      "o": [
+        {
+          "hi": "जीनॉन (Xenon - Xe)",
+          "en": "Xenon (Xe)"
+        },
+        {
+          "hi": "हीलियम",
+          "en": "Helium"
+        },
+        {
+          "hi": "नियॉन",
+          "en": "Neon"
+        },
+        {
+          "hi": "ऑर्गन",
+          "en": "Argon"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विद्युत निर्वहन नलियों (डिस्चार्ज ट्यूब) में चमकीले लाल रंग के विज्ञापन बोर्डों में क्या भरा होता है?",
+        "en": "What gas fills orange-red high-voltage cold-cathode neon advertising signboards?"
+      },
+      "o": [
+        {
+          "hi": "ऑर्गन",
+          "en": "Argon"
+        },
+        {
+          "hi": "नियॉन गैस (Neon Gas)",
+          "en": "Neon Gas"
+        },
+        {
+          "hi": "हीलियम",
+          "en": "Helium"
+        },
+        {
+          "hi": "क्रिप्टॉन",
+          "en": "Krypton"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फ्लोरोसेंट ट्यूबलाइट में सामान्यतः पारे के वाष्प के साथ कौन-सी अक्रिय गैस भरी होती है?",
+        "en": "Commercial fluorescent tubelights are filled with low-pressure mercury vapor and?"
+      },
+      "o": [
+        {
+          "hi": "हीलियम",
+          "en": "Helium"
+        },
+        {
+          "hi": "नियॉन",
+          "en": "Neon"
+        },
+        {
+          "hi": "ऑर्गन गैस (Argon Gas)",
+          "en": "Argon Gas"
+        },
+        {
+          "hi": "रेडॉन",
+          "en": "Radon"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हवाई अड्डों पर धुंध और कोहरे में रनवे देखने वाली विशेष बीकन बत्तियों में कौन-सी गैस होती है?",
+        "en": "Which noble gas is used in airport runway approach beacon lights to penetrate dense fog?"
+      },
+      "o": [
+        {
+          "hi": "ऑर्गन",
+          "en": "Argon"
+        },
+        {
+          "hi": "हीलियम",
+          "en": "Helium"
+        },
+        {
+          "hi": "जीनॉन",
+          "en": "Xenon"
+        },
+        {
+          "hi": "नियॉन (Neon)",
+          "en": "Neon"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कार्बन का वह अक्रिस्टलीय अपररूप जो जहरीली गैसों को सोखने और जल शुद्धिकरण में प्रयुक्त होता है?",
+        "en": "Porous amorphous carbon allotrope with huge surface area used in gas masks & filtration is?"
+      },
+      "o": [
+        {
+          "hi": "सक्रियित चारकोल (Activated Charcoal)",
+          "en": "Activated Charcoal"
+        },
+        {
+          "hi": "ग्रेफाइट",
+          "en": "Graphite"
+        },
+        {
+          "hi": "हीरा",
+          "en": "Diamond"
+        },
+        {
+          "hi": "काजल",
+          "en": "Lampblack"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रबर के टायर और जूतों के तलवे बनाने में मजबूती के लिए किस कार्बन का उपयोग होता है?",
+        "en": "Which finely divided carbon black is mixed into rubber tyres for reinforcement?"
+      },
+      "o": [
+        {
+          "hi": "चारकोल",
+          "en": "Charcoal"
+        },
+        {
+          "hi": "कार्बन ब्लैक या काजल (Carbon Black / Lampblack)",
+          "en": "Carbon Black / Lampblack"
+        },
+        {
+          "hi": "कोक",
+          "en": "Coke"
+        },
+        {
+          "hi": "फुलरीन",
+          "en": "Fullerene"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जल गैस (Water Gas) बनाने के लिए रक्त-तप्त कोक पर क्या प्रवाहित किया जाता है?",
+        "en": "To produce Water Gas (CO + H2), what is passed over red-hot coke?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सीजन",
+          "en": "Oxygen"
+        },
+        {
+          "hi": "हवा",
+          "en": "Air"
+        },
+        {
+          "hi": "जलवाष्प या भाप (Steam - H2O)",
+          "en": "Steam (H2O)"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड",
+          "en": "Carbon dioxide"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उत्पादक गैस (Producer Gas) बनाने के लिए रक्त-तप्त कोयले पर क्या प्रवाहित किया जाता है?",
+        "en": "To manufacture Producer Gas (CO + N2), what is blown over hot carbon bed?"
+      },
+      "o": [
+        {
+          "hi": "शुद्ध हाइड्रोजन",
+          "en": "Pure hydrogen"
+        },
+        {
+          "hi": "शुद्ध भाप",
+          "en": "Pure steam"
+        },
+        {
+          "hi": "मीथेन",
+          "en": "Methane"
+        },
+        {
+          "hi": "वायु (हवा - Air)",
+          "en": "Air (Air)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारी जल (Heavy Water - D2O) का अणुभार कितना होता है?",
+        "en": "What is the molecular weight of Heavy Water (D2O)?"
+      },
+      "o": [
+        {
+          "hi": "20 (ड्यूटीरियम 4 + ऑक्सीजन 16)",
+          "en": "20 (Deuterium 4 + Oxygen 16)"
+        },
+        {
+          "hi": "18",
+          "en": "18"
+        },
+        {
+          "hi": "16",
+          "en": "16"
+        },
+        {
+          "hi": "22",
+          "en": "22"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "साधारण जल (H2O) का अणुभार कितना होता है?",
+        "en": "What is the molecular weight of normal light water (H2O)?"
+      },
+      "o": [
+        {
+          "hi": "20",
+          "en": "20"
+        },
+        {
+          "hi": "18 (हाइड्रोजन 2 + ऑक्सीजन 16)",
+          "en": "18 (Hydrogen 2 + Oxygen 16)"
+        },
+        {
+          "hi": "16",
+          "en": "16"
+        },
+        {
+          "hi": "17",
+          "en": "17"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन परॉक्साइड (H2O2) का उपयोग मुख्यतः किस रूप में किया जाता है?",
+        "en": "Hydrogen peroxide (H2O2) solution is commercially utilized as which agent?"
+      },
+      "o": [
+        {
+          "hi": "केवल ईंधन",
+          "en": "Only fuel"
+        },
+        {
+          "hi": "केवल पेय",
+          "en": "Only beverage"
+        },
+        {
+          "hi": "रोगाणुरोधक (Antiseptic) एवं रेशम-ऊन के विरंजक (Bleach) के रूप में",
+          "en": "Antiseptic and textile bleaching agent"
+        },
+        {
+          "hi": "स्नेहक",
+          "en": "Lubricant"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "द्रव हाइड्रोजन परॉक्साइड (H2O2) का उपयोग रॉकेटों में किस रूप में किया जाता है?",
+        "en": "Concentrated high-test hydrogen peroxide is used in aerospace propulsion as?"
+      },
+      "o": [
+        {
+          "hi": "शीतलक",
+          "en": "Coolant"
+        },
+        {
+          "hi": "मंदक",
+          "en": "Moderator"
+        },
+        {
+          "hi": "स्नेहक",
+          "en": "Lubricant"
+        },
+        {
+          "hi": "रॉकेट प्रणोदक में ऑक्सीकारक (Oxidizer in Propellants)",
+          "en": "Oxidizer in Propellants"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ओजोन परत की क्षति के लिए जिम्मेदार 'ओजोन छिद्र' (Ozone Hole) सर्वप्रथम कहाँ खोजा गया था?",
+        "en": "Ozone layer thinning and hole was first scientifically observed over which region in 1985?"
+      },
+      "o": [
+        {
+          "hi": "अंटार्कटिका के ऊपर (Over Antarctica)",
+          "en": "Over Antarctica"
+        },
+        {
+          "hi": "आर्कटिक के ऊपर",
+          "en": "Over Arctic"
+        },
+        {
+          "hi": "भूमध्य रेखा के ऊपर",
+          "en": "Over Equator"
+        },
+        {
+          "hi": "एशिया के ऊपर",
+          "en": "Over Asia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ओजोन परत के संरक्षण के लिए प्रसिद्ध अंतरराष्ट्रीय 'मॉन्ट्रियल प्रोटोकॉल' किस वर्ष हस्ताक्षरित हुआ?",
+        "en": "In which year was the historic Montreal Protocol on Ozone Depleting Substances adopted?"
+      },
+      "o": [
+        {
+          "hi": "1972",
+          "en": "1972"
+        },
+        {
+          "hi": "1987 में (16 सितंबर 1987)",
+          "en": "In 1987 (September 16, 1987)"
+        },
+        {
+          "hi": "1992",
+          "en": "1992"
+        },
+        {
+          "hi": "1997",
+          "en": "1997"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रतिवर्ष 'विश्व ओजोन दिवस' (World Ozone Day) किस तिथि को मनाया जाता है?",
+        "en": "On which date is World Ozone Day celebrated internationally every year?"
+      },
+      "o": [
+        {
+          "hi": "5 जून",
+          "en": "June 5"
+        },
+        {
+          "hi": "22 अप्रैल",
+          "en": "April 22"
+        },
+        {
+          "hi": "16 सितंबर (16 September)",
+          "en": "September 16"
+        },
+        {
+          "hi": "1 दिसंबर",
+          "en": "December 1"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नाइट्रोजन स्थिरीकरण (Nitrogen Fixation) करने वाले जीवाणु (जैसे राइजोबियम) किन पौधों की जड़ों में पाए जाते हैं?",
+        "en": "Symbiotic nitrogen-fixing bacteria (Rhizobium) live in root nodules of which family?"
+      },
+      "o": [
+        {
+          "hi": "घास कुल",
+          "en": "Gramineae"
+        },
+        {
+          "hi": "कैक्टस",
+          "en": "Cactaceae"
+        },
+        {
+          "hi": "सोलेनेसी",
+          "en": "Solanaceae"
+        },
+        {
+          "hi": "दलहनी पौधों (Leguminous Plants / लेग्यूमिनोसी कुल)",
+          "en": "Leguminous Plants (Fabaceae)"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}

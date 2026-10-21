@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - रसायन विज्ञान (Chemistry)",
+  "subtitle": "अम्ल, भस्म एवं लवण",
+  "description": "अम्ल, भस्म एवं लवण पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "आर्हेनियस सिद्धांत के अनुसार अम्ल वे पदार्थ हैं जो जलीय विलयन में कौन-सा आयन देते हैं?",
+        "en": "According to Arrhenius theory, acids are substances that release which ions in water?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रॉक्साइड आयन (OH⁻)",
+          "en": "Hydroxide ion (OH⁻)"
+        },
+        {
+          "hi": "हाइड्रोजन आयन या हाइड्रोनियम आयन (H⁺ / H3O⁺)",
+          "en": "Hydrogen / Hydronium ion (H⁺ / H3O⁺)"
+        },
+        {
+          "hi": "क्लोराइड आयन",
+          "en": "Chloride ion"
+        },
+        {
+          "hi": "ऑक्साइड आयन",
+          "en": "Oxide ion"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ब्रोंस्टेड-लोरी सिद्धांत (Bronsted-Lowry Theory) के अनुसार अम्ल क्या होते हैं?",
+        "en": "According to Bronsted-Lowry acid-base concept, an acid is defined as a?"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रॉन दाता",
+          "en": "Electron donor"
+        },
+        {
+          "hi": "प्रोटॉन ग्राही",
+          "en": "Proton acceptor"
+        },
+        {
+          "hi": "प्रोटॉन दाता (Proton Donor)",
+          "en": "Proton Donor"
+        },
+        {
+          "hi": "हाइड्रॉक्साइड दाता",
+          "en": "Hydroxide donor"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लुईस इलेक्ट्रॉनिक सिद्धांत (Lewis Theory) के अनुसार अम्ल (Lewis Acid) क्या होता है?",
+        "en": "According to Lewis electronic concept, what is a Lewis Acid?"
+      },
+      "o": [
+        {
+          "hi": "प्रोटॉन दाता",
+          "en": "Proton donor"
+        },
+        {
+          "hi": "इलेक्ट्रॉन युग्म दाता",
+          "en": "Electron pair donor"
+        },
+        {
+          "hi": "OH⁻ आयन दाता",
+          "en": "OH⁻ ion donor"
+        },
+        {
+          "hi": "एक इलेक्ट्रॉन युग्म ग्रहण करने वाला (Electron Pair Acceptor)",
+          "en": "An electron pair acceptor (e.g. BF3, AlCl3)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अम्ल नीले लिटमस पत्र (Blue Litmus Paper) को किस रंग में परिवर्तित कर देते हैं?",
+        "en": "Acids turn moist blue litmus paper into which color?"
+      },
+      "o": [
+        {
+          "hi": "लाल रंग में (Turn Red)",
+          "en": "Turn Red"
+        },
+        {
+          "hi": "पीले रंग में",
+          "en": "Turn Yellow"
+        },
+        {
+          "hi": "हरे रंग में",
+          "en": "Turn Green"
+        },
+        {
+          "hi": "रंगहीन",
+          "en": "Colorless"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सिरके (Vinegar) में मुख्य रूप से कौन-सा अम्ल पाया जाता है?",
+        "en": "Which organic acid is primarily present in commercial vinegar (~4-8%)?"
+      },
+      "o": [
+        {
+          "hi": "साइट्रिक अम्ल",
+          "en": "Citric acid"
+        },
+        {
+          "hi": "एसिटिक अम्ल या एथेनोइक अम्ल (Acetic Acid - CH3COOH)",
+          "en": "Acetic Acid (CH3COOH)"
+        },
+        {
+          "hi": "फॉर्मिक अम्ल",
+          "en": "Formic acid"
+        },
+        {
+          "hi": "टार्टरिक अम्ल",
+          "en": "Tartaric acid"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नींबू, संतरा और मौसमी जैसे खट्टे फलों में कौन-सा अम्ल प्रचुर मात्रा में पाया जाता है?",
+        "en": "Which acid is abundantly found in citrus fruits like lemon and oranges?"
+      },
+      "o": [
+        {
+          "hi": "एसिटिक अम्ल",
+          "en": "Acetic acid"
+        },
+        {
+          "hi": "ऑक्सालिक अम्ल",
+          "en": "Oxalic acid"
+        },
+        {
+          "hi": "साइट्रिक अम्ल (Citric Acid)",
+          "en": "Citric Acid"
+        },
+        {
+          "hi": "मैलिक अम्ल",
+          "en": "Malic acid"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "इमली और कच्चे अंगूर में कौन-सा प्राकृतिक कार्बनिक अम्ल पाया जाता है?",
+        "en": "Which natural organic acid is found in tamarind and raw grapes?"
+      },
+      "o": [
+        {
+          "hi": "साइट्रिक अम्ल",
+          "en": "Citric acid"
+        },
+        {
+          "hi": "लैक्टिक अम्ल",
+          "en": "Lactic acid"
+        },
+        {
+          "hi": "एसिटिक अम्ल",
+          "en": "Acetic acid"
+        },
+        {
+          "hi": "टार्टरिक अम्ल (Tartaric Acid)",
+          "en": "Tartaric Acid"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "टमाटर और पालक में कौन-सा अम्ल मुख्य रूप से उपस्थित होता है?",
+        "en": "Which organic acid is predominantly present in tomatoes and spinach?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सालिक अम्ल (Oxalic Acid)",
+          "en": "Oxalic Acid"
+        },
+        {
+          "hi": "टार्टरिक अम्ल",
+          "en": "Tartaric acid"
+        },
+        {
+          "hi": "मैलिक अम्ल",
+          "en": "Malic acid"
+        },
+        {
+          "hi": "फॉर्मिक अम्ल",
+          "en": "Formic acid"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "खट्टा दूध अथवा दही (Curd) में कौन-सा अम्ल पाया जाता है?",
+        "en": "Which organic acid gives sour milk and curd their acidic taste?"
+      },
+      "o": [
+        {
+          "hi": "एसिटिक अम्ल",
+          "en": "Acetic acid"
+        },
+        {
+          "hi": "लैक्टिक अम्ल (Lactic Acid)",
+          "en": "Lactic Acid"
+        },
+        {
+          "hi": "ब्यूटायरिक अम्ल",
+          "en": "Butyric acid"
+        },
+        {
+          "hi": "साइट्रिक अम्ल",
+          "en": "Citric acid"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कच्चे एवं पके सेब (Apple) में मुख्य रूप से कौन-सा अम्ल पाया जाता है?",
+        "en": "Which natural acid is the primary organic acid found in apples?"
+      },
+      "o": [
+        {
+          "hi": "साइट्रिक अम्ल",
+          "en": "Citric acid"
+        },
+        {
+          "hi": "ऑक्सालिक अम्ल",
+          "en": "Oxalic acid"
+        },
+        {
+          "hi": "मैलिक अम्ल (Malic Acid)",
+          "en": "Malic Acid"
+        },
+        {
+          "hi": "टार्टरिक अम्ल",
+          "en": "Tartaric acid"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लाल चींटी, मधुमक्खी और बिच्छू के डंक में कौन-सा जलन पैदा करने वाला अम्ल होता है?",
+        "en": "Which painful acid is injected by stings of red ants, bees and nettles?"
+      },
+      "o": [
+        {
+          "hi": "एसिटिक अम्ल",
+          "en": "Acetic acid"
+        },
+        {
+          "hi": "लैक्टिक अम्ल",
+          "en": "Lactic acid"
+        },
+        {
+          "hi": "सल्फ्यूरिक अम्ल",
+          "en": "Sulfuric acid"
+        },
+        {
+          "hi": "फॉर्मिक अम्ल या मेथेनोइक अम्ल (Formic / Methanoic Acid - HCOOH)",
+          "en": "Formic / Methanoic Acid (HCOOH)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव आमाशय (Stomach) में भोजन के पाचन और जीवाणुओं को नष्ट करने के लिए कौन-सा अम्ल स्रावित होता है?",
+        "en": "Which mineral acid is naturally secreted by gastric glands in human stomach?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोक्लोरिक अम्ल (Hydrochloric Acid - HCl)",
+          "en": "Hydrochloric Acid (HCl)"
+        },
+        {
+          "hi": "सल्फ्यूरिक अम्ल (H2SO4)",
+          "en": "Sulfuric acid (H2SO4)"
+        },
+        {
+          "hi": "नाइट्रिक अम्ल (HNO3)",
+          "en": "Nitric acid (HNO3)"
+        },
+        {
+          "hi": "फॉस्फोरिक अम्ल",
+          "en": "Phosphoric acid"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कपड़ों से जंग के धब्बे (Rust Stains) और स्याही के दाग हटाने के लिए किस अम्ल का उपयोग किया जाता है?",
+        "en": "Which organic acid solution is used to remove rust and ink stains from fabrics?"
+      },
+      "o": [
+        {
+          "hi": "साइट्रिक अम्ल",
+          "en": "Citric acid"
+        },
+        {
+          "hi": "ऑक्सालिक अम्ल (Oxalic Acid)",
+          "en": "Oxalic Acid"
+        },
+        {
+          "hi": "एसिटिक अम्ल",
+          "en": "Acetic acid"
+        },
+        {
+          "hi": "टार्टरिक अम्ल",
+          "en": "Tartaric acid"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बेकिंग पाउडर (Baking Powder) के निर्माण में बेकिंग सोडा के साथ किस अम्ल का मिश्रण किया जाता है?",
+        "en": "Which edible organic acid is mixed with baking soda to prepare baking powder?"
+      },
+      "o": [
+        {
+          "hi": "सल्फ्यूरिक अम्ल",
+          "en": "Sulfuric acid"
+        },
+        {
+          "hi": "हाइड्रोक्लोरिक अम्ल",
+          "en": "Hydrochloric acid"
+        },
+        {
+          "hi": "टार्टरिक अम्ल (Tartaric Acid)",
+          "en": "Tartaric Acid"
+        },
+        {
+          "hi": "ऑक्सालिक अम्ल",
+          "en": "Oxalic acid"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कार और इन्वर्टर की लेड-एसिड बैटरियों में किस अम्ल का उपयोग विद्युत अपघट्य के रूप में होता है?",
+        "en": "Which strong mineral acid is used as electrolyte in automobile lead-acid batteries?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोक्लोरिक अम्ल (HCl)",
+          "en": "Hydrochloric acid (HCl)"
+        },
+        {
+          "hi": "नाइट्रिक अम्ल (HNO3)",
+          "en": "Nitric acid (HNO3)"
+        },
+        {
+          "hi": "फॉस्फोरिक अम्ल",
+          "en": "Phosphoric acid"
+        },
+        {
+          "hi": "सल्फ्यूरिक अम्ल (Sulfuric Acid - H2SO4 / गंधक का अम्ल)",
+          "en": "Sulfuric Acid (H2SO4)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रसायनों का राजा (King of Chemicals / ऑयल ऑफ विट्रियोल) किस अम्ल को कहा जाता है?",
+        "en": "Which industrial acid is widely designated as the 'King of Chemicals' / Oil of Vitriol?"
+      },
+      "o": [
+        {
+          "hi": "सल्फ्यूरिक अम्ल (Sulfuric Acid - H2SO4)",
+          "en": "Sulfuric Acid (H2SO4)"
+        },
+        {
+          "hi": "नाइट्रिक अम्ल (HNO3)",
+          "en": "Nitric acid (HNO3)"
+        },
+        {
+          "hi": "हाइड्रोक्लोरिक अम्ल (HCl)",
+          "en": "Hydrochloric acid (HCl)"
+        },
+        {
+          "hi": "एसिटिक अम्ल",
+          "en": "Acetic acid"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अम्लराज (एक्वारेजिया - Aqua Regia) किन दो सांद्र अम्लों का 1:3 का मिश्रण होता है?",
+        "en": "Aqua Regia is a corrosive mixture composed of concentrated acids in what ratio?"
+      },
+      "o": [
+        {
+          "hi": "सांद्र HCl और सांद्र H2SO4",
+          "en": "Conc. HCl and Conc. H2SO4"
+        },
+        {
+          "hi": "1 भाग सांद्र HNO3 और 3 भाग सांद्र HCl (1 : 3 HNO3 & HCl)",
+          "en": "1 part Conc. HNO3 & 3 parts Conc. HCl"
+        },
+        {
+          "hi": "3 भाग सांद्र HNO3 और 1 भाग सांद्र HCl",
+          "en": "3 parts Conc. HNO3 & 1 part Conc. HCl"
+        },
+        {
+          "hi": "सांद्र H2SO4 और सांद्र HNO3",
+          "en": "Conc. H2SO4 and Conc. HNO3"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अम्लराज (Aqua Regia) की क्या अद्वितीय विशेषता होती है?",
+        "en": "What is the unique dissolving capability of freshly prepared Aqua Regia?"
+      },
+      "o": [
+        {
+          "hi": "यह केवल लोहे को पिघलाता है",
+          "en": "Only melts iron"
+        },
+        {
+          "hi": "यह बर्फ को तुरंत जमा देता है",
+          "en": "Freezes ice instantly"
+        },
+        {
+          "hi": "यह उत्कृष्ट धातुओं जैसे सोना (Gold) और प्लेटिनम (Pt) को भी घोल लेता है",
+          "en": "Dissolves noble metals like Gold & Platinum"
+        },
+        {
+          "hi": "यह प्लास्टिक को जलाता है",
+          "en": "Burns plastic"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सोना और चांदी के शुद्धिकरण तथा आभूषणों की सफाई में किस अम्ल का प्रयोग किया जाता है?",
+        "en": "Which acid (Aqua Fortis) is extensively used for refining gold and silver?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोक्लोरिक अम्ल",
+          "en": "Hydrochloric acid"
+        },
+        {
+          "hi": "सल्फ्यूरिक अम्ल",
+          "en": "Sulfuric acid"
+        },
+        {
+          "hi": "एसिटिक अम्ल",
+          "en": "Acetic acid"
+        },
+        {
+          "hi": "नाइट्रिक अम्ल (Nitric Acid - HNO3 / शोरे का अम्ल)",
+          "en": "Nitric Acid (HNO3)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आर्हेनियस के अनुसार भस्म (Base / क्षार) वे पदार्थ हैं जो जलीय विलयन में कौन-सा आयन देते हैं?",
+        "en": "According to Arrhenius concept, bases are substances producing which ions in water?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रॉक्साइड आयन (Hydroxide Ion - OH⁻)",
+          "en": "Hydroxide Ion (OH⁻)"
+        },
+        {
+          "hi": "हाइड्रोजन आयन (H⁺)",
+          "en": "Hydrogen ion (H⁺)"
+        },
+        {
+          "hi": "हाइड्रोनियम आयन (H3O⁺)",
+          "en": "Hydronium ion (H3O⁺)"
+        },
+        {
+          "hi": "ऑक्साइड आयन (O²⁻)",
+          "en": "Oxide ion (O²⁻)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भस्म (क्षार) लाल लिटमस पत्र (Red Litmus Paper) को किस रंग में बदल देते हैं?",
+        "en": "Bases turn moist red litmus paper into which color?"
+      },
+      "o": [
+        {
+          "hi": "हरे रंग में",
+          "en": "Turn Green"
+        },
+        {
+          "hi": "नीले रंग में (Turn Blue)",
+          "en": "Turn Blue"
+        },
+        {
+          "hi": "पीले रंग में",
+          "en": "Turn Yellow"
+        },
+        {
+          "hi": "गुलाबी रंग में",
+          "en": "Turn Pink"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जल में घुलनशील भस्मों को क्या कहा जाता है?",
+        "en": "Bases that are completely soluble in water are specifically called what?"
+      },
+      "o": [
+        {
+          "hi": "लवण (Salts)",
+          "en": "Salts"
+        },
+        {
+          "hi": "अम्ल (Acids)",
+          "en": "Acids"
+        },
+        {
+          "hi": "क्षार (Alkalis)",
+          "en": "Alkalis"
+        },
+        {
+          "hi": "तटस्थ यौगिक",
+          "en": "Neutral compounds"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पेट की अत्यधिक अम्लता (एसिडिटी / Heartburn) को दूर करने वाले एंटासिड के रूप में किसका उपयोग होता है?",
+        "en": "Which mild antacid base is commonly used to treat human stomach hyperacidity?"
+      },
+      "o": [
+        {
+          "hi": "कास्टिक सोडा (NaOH)",
+          "en": "Caustic soda (NaOH)"
+        },
+        {
+          "hi": "ब्लीचिंग पाउडर",
+          "en": "Bleaching powder"
+        },
+        {
+          "hi": "बुझा चूना",
+          "en": "Slaked lime"
+        },
+        {
+          "hi": "मिल्क ऑफ मैग्नीशिया [Magnesium Hydroxide - Mg(OH)2]",
+          "en": "Milk of Magnesia [Mg(OH)2]"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "घरों में दीवारों की सफेदी (चुनाई) करने के लिए प्रयुक्त बुझा चूना का रासायनिक नाम क्या है?",
+        "en": "Chemical name and formula of slaked lime used for whitewashing walls is?"
+      },
+      "o": [
+        {
+          "hi": "कैल्शियम हाइड्रॉक्साइड [Calcium Hydroxide - Ca(OH)2]",
+          "en": "Calcium Hydroxide [Ca(OH)2]"
+        },
+        {
+          "hi": "कैल्शियम ऑक्साइड (CaO)",
+          "en": "Calcium Oxide (CaO)"
+        },
+        {
+          "hi": "कैल्शियम कार्बोनेट (CaCO3)",
+          "en": "Calcium Carbonate (CaCO3)"
+        },
+        {
+          "hi": "कैल्शियम क्लोराइड",
+          "en": "Calcium chloride"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अम्लीय मिट्टी (Acidic Soil) की अम्लता दूर कर उसे उपजाऊ बनाने के लिए किसान खेत में क्या मिलाते हैं?",
+        "en": "What do farmers add to acidic agricultural soils to neutralize excessive acidity?"
+      },
+      "o": [
+        {
+          "hi": "अमोनियम सल्फेट",
+          "en": "Ammonium sulfate"
+        },
+        {
+          "hi": "चूना (बिना बुझा चूना CaO अथवा बुझा चूना Ca(OH)2 / चूना पत्थर)",
+          "en": "Lime (CaO / Ca(OH)2 / limestone)"
+        },
+        {
+          "hi": "यूरिया",
+          "en": "Urea"
+        },
+        {
+          "hi": "जिप्सम",
+          "en": "Gypsum"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कास्टिक सोडा (Caustic Soda) का रासायनिक नाम और सूत्र क्या है?",
+        "en": "What is the chemical name and formula of Caustic Soda used in soap making?"
+      },
+      "o": [
+        {
+          "hi": "पोटेशियम हाइड्रॉक्साइड (KOH)",
+          "en": "Potassium Hydroxide (KOH)"
+        },
+        {
+          "hi": "सोडियम कार्बोनेट (Na2CO3)",
+          "en": "Sodium Carbonate (Na2CO3)"
+        },
+        {
+          "hi": "सोडियम हाइड्रॉक्साइड (Sodium Hydroxide - NaOH)",
+          "en": "Sodium Hydroxide (NaOH)"
+        },
+        {
+          "hi": "सोडियम बाइकार्बोनेट (NaHCO3)",
+          "en": "Sodium Bicarbonate (NaHCO3)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मुलायम साबुन (नहाने का साबुन) और शेविंग क्रीम बनाने में किस क्षार का उपयोग होता है?",
+        "en": "Which alkali base is used in manufacturing soft toilet soaps and shaving creams?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम हाइड्रॉक्साइड (NaOH)",
+          "en": "Sodium Hydroxide (NaOH)"
+        },
+        {
+          "hi": "कैल्शियम हाइड्रॉक्साइड",
+          "en": "Calcium Hydroxide"
+        },
+        {
+          "hi": "मैग्नीशियम हाइड्रॉक्साइड",
+          "en": "Magnesium Hydroxide"
+        },
+        {
+          "hi": "पोटेशियम हाइड्रॉक्साइड (Caustic Potash - KOH)",
+          "en": "Potassium Hydroxide (KOH)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किसी विलयन की अम्लता अथवा क्षारीयता को मापने वाला pH पैमाना (pH Scale) 1909 में किसने दिया?",
+        "en": "Who invented the logarithmic pH scale in 1909 to measure hydrogen ion concentration?"
+      },
+      "o": [
+        {
+          "hi": "एस. पी. एल. सॉरेन्सन (S.P.L. Sørensen) ने",
+          "en": "S.P.L. Sørensen"
+        },
+        {
+          "hi": "एंटोनी लेवोजियर ने",
+          "en": "Antoine Lavoisier"
+        },
+        {
+          "hi": "रॉबर्ट बॉयल ने",
+          "en": "Robert Boyle"
+        },
+        {
+          "hi": "माइकल फैराडे ने",
+          "en": "Michael Faraday"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उदासीन विलयन (जैसे 25°C पर शुद्ध आसुत जल) का pH मान कितना होता है?",
+        "en": "What is the pH value of a neutral solution (pure distilled water at 25°C)?"
+      },
+      "o": [
+        {
+          "hi": "0",
+          "en": "0"
+        },
+        {
+          "hi": "7 (सात)",
+          "en": "7 (Seven)"
+        },
+        {
+          "hi": "14",
+          "en": "14"
+        },
+        {
+          "hi": "1",
+          "en": "1"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अम्लीय विलयनों (Acidic Solutions) का pH मान सामान्यतः कितना होता है?",
+        "en": "What is the range of pH values for acidic aqueous solutions?"
+      },
+      "o": [
+        {
+          "hi": "7 से अधिक",
+          "en": "Greater than 7"
+        },
+        {
+          "hi": "14",
+          "en": "14"
+        },
+        {
+          "hi": "7 से कम (Less than 7)",
+          "en": "Less than 7"
+        },
+        {
+          "hi": "सदैव 0",
+          "en": "Always 0"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "क्षारीय विलयनों (Basic / Alkaline Solutions) का pH मान कितना होता है?",
+        "en": "What is the range of pH values for basic / alkaline solutions?"
+      },
+      "o": [
+        {
+          "hi": "7 से कम",
+          "en": "Less than 7"
+        },
+        {
+          "hi": "0 से 7 के बीच",
+          "en": "Between 0 and 7"
+        },
+        {
+          "hi": "सदैव 7",
+          "en": "Always 7"
+        },
+        {
+          "hi": "7 से अधिक और 14 तक (Greater than 7)",
+          "en": "Greater than 7 up to 14"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव रक्त (Human Blood) का सामान्य pH मान कितना होता है?",
+        "en": "What is the physiological normal pH value of human blood?"
+      },
+      "o": [
+        {
+          "hi": "7.35 से 7.45 (हल्का क्षारीय / लगभग 7.4)",
+          "en": "7.35 to 7.45 (slightly alkaline / approx 7.4)"
+        },
+        {
+          "hi": "6.4",
+          "en": "6.4"
+        },
+        {
+          "hi": "8.4",
+          "en": "8.4"
+        },
+        {
+          "hi": "2.4",
+          "en": "2.4"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सामान्य मानव मूत्र (Human Urine) का pH मान लगभग कितना होता है?",
+        "en": "What is the average pH value of normal human urine?"
+      },
+      "o": [
+        {
+          "hi": "8.0",
+          "en": "8.0"
+        },
+        {
+          "hi": "लगभग 6.0 (हल्का अम्लीय)",
+          "en": "About 6.0 (slightly acidic)"
+        },
+        {
+          "hi": "7.4",
+          "en": "7.4"
+        },
+        {
+          "hi": "2.0",
+          "en": "2.0"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ताजे दूध (Fresh Milk) का pH मान सामान्यतः कितना होता है?",
+        "en": "What is the typical pH value of fresh cow milk?"
+      },
+      "o": [
+        {
+          "hi": "7.4",
+          "en": "7.4"
+        },
+        {
+          "hi": "2.4",
+          "en": "2.4"
+        },
+        {
+          "hi": "लगभग 6.5 से 6.6 (हल्का अम्लीय)",
+          "en": "About 6.5 to 6.6 (slightly acidic)"
+        },
+        {
+          "hi": "8.5",
+          "en": "8.5"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नींबू के रस (Lemon Juice) का pH मान लगभग कितना होता है?",
+        "en": "What is approximate pH value of natural lemon juice?"
+      },
+      "o": [
+        {
+          "hi": "7.0",
+          "en": "7.0"
+        },
+        {
+          "hi": "8.4",
+          "en": "8.4"
+        },
+        {
+          "hi": "12.0",
+          "en": "12.0"
+        },
+        {
+          "hi": "लगभग 2.2 से 2.4",
+          "en": "About 2.2 to 2.4"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समुद्री जल (Sea Water) का pH मान सामान्यतः कितना होता है?",
+        "en": "What is the average pH value of open ocean sea water?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 8.4 (क्षारीय)",
+          "en": "About 8.4 (alkaline)"
+        },
+        {
+          "hi": "7.0",
+          "en": "7.0"
+        },
+        {
+          "hi": "5.5",
+          "en": "5.5"
+        },
+        {
+          "hi": "3.0",
+          "en": "3.0"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वर्षा के जल का pH मान कितने से कम होने पर उसे 'अम्लीय वर्षा' (Acid Rain) कहा जाता है?",
+        "en": "Precipitation is defined as 'Acid Rain' when its pH value drops below what threshold?"
+      },
+      "o": [
+        {
+          "hi": "7.0 से कम",
+          "en": "Below 7.0"
+        },
+        {
+          "hi": "5.6 से कम (pH < 5.6)",
+          "en": "Below 5.6 (pH < 5.6)"
+        },
+        {
+          "hi": "6.5 से कम",
+          "en": "Below 6.5"
+        },
+        {
+          "hi": "4.0 से कम",
+          "en": "Below 4.0"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मुंह का pH मान कितने से कम होने पर दांतों के इनेमल का क्षरण (Tooth Decay) शुरू हो जाता है?",
+        "en": "Tooth enamel demineralization and decay starts when mouth pH falls below?"
+      },
+      "o": [
+        {
+          "hi": "7.0 से कम",
+          "en": "Below 7.0"
+        },
+        {
+          "hi": "6.5 से कम",
+          "en": "Below 6.5"
+        },
+        {
+          "hi": "5.5 से कम (pH < 5.5)",
+          "en": "Below 5.5 (pH < 5.5)"
+        },
+        {
+          "hi": "8.0 से कम",
+          "en": "Below 8.0"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर का सबसे कठोरतम भाग 'दंतवल्क' (Tooth Enamel) किसका बना होता है?",
+        "en": "Hardest substance in the human body, tooth enamel, is chemically composed of?"
+      },
+      "o": [
+        {
+          "hi": "कैल्शियम कार्बोनेट",
+          "en": "Calcium carbonate"
+        },
+        {
+          "hi": "कैल्शियम सल्फेट",
+          "en": "Calcium sulfate"
+        },
+        {
+          "hi": "कैल्शियम क्लोराइड",
+          "en": "Calcium chloride"
+        },
+        {
+          "hi": "कैल्शियम हाइड्रॉक्सीएपेटाइट (कैल्शियम फॉस्फेट क्रिस्टल)",
+          "en": "Calcium Hydroxyapatite (Calcium Phosphate)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लिटमस (Litmus) प्राकृतिक सूचक किससे निष्कर्षित (प्राप्त) किया जाता है?",
+        "en": "Natural acid-base indicator Litmus is extracted from which organism?"
+      },
+      "o": [
+        {
+          "hi": "लाइकेन (थैलोफाइटा वर्ग के रोसेला लाइकेन से)",
+          "en": "Lichens (Roccella tinctoria)"
+        },
+        {
+          "hi": "शैवाल से",
+          "en": "Algae"
+        },
+        {
+          "hi": "कवक से",
+          "en": "Fungi"
+        },
+        {
+          "hi": "नीम के पेड़ से",
+          "en": "Neem tree"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उदासीन लिटमस विलयन (Neutral Litmus Solution) का प्राकृतिक रंग कैसा होता है?",
+        "en": "What is the natural color of neutral litmus indicator solution?"
+      },
+      "o": [
+        {
+          "hi": "नीला",
+          "en": "Blue"
+        },
+        {
+          "hi": "बैंगनी (Purple / Mauve)",
+          "en": "Purple / Mauve"
+        },
+        {
+          "hi": "लाल",
+          "en": "Red"
+        },
+        {
+          "hi": "रंगहीन",
+          "en": "Colorless"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फिनॉल्फथलीन (Phenolphthalein) सूचक क्षारीय माध्यम में कौन-सा रंग देता है?",
+        "en": "Synthetic indicator phenolphthalein turns which color in basic / alkaline medium?"
+      },
+      "o": [
+        {
+          "hi": "पीला रंग",
+          "en": "Yellow"
+        },
+        {
+          "hi": "नीला रंग",
+          "en": "Blue"
+        },
+        {
+          "hi": "गुलाबी या मैजेंटा (Pink / Magenta)",
+          "en": "Pink / Magenta"
+        },
+        {
+          "hi": "रंगहीन",
+          "en": "Colorless"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मिथाइल ऑरेंज (Methyl Orange) सूचक अम्लीय माध्यम में कौन-सा रंग देता है?",
+        "en": "Methyl orange indicator displays which distinct color in acidic solutions?"
+      },
+      "o": [
+        {
+          "hi": "पीला",
+          "en": "Yellow"
+        },
+        {
+          "hi": "हरा",
+          "en": "Green"
+        },
+        {
+          "hi": "नीला",
+          "en": "Blue"
+        },
+        {
+          "hi": "लाल या गहरा गुलाबी (Red / Dark Pink)",
+          "en": "Red / Dark Pink"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हल्दी (Turmeric) का पीला प्राकृतिक अर्क क्षारीय माध्यम (जैसे साबुन) में किस रंग में बदल जाता है?",
+        "en": "Natural turmeric stain turns which color upon coming into contact with soap/alkali?"
+      },
+      "o": [
+        {
+          "hi": "लाल-भूरा रंग (Reddish-Brown)",
+          "en": "Reddish-Brown"
+        },
+        {
+          "hi": "नीला रंग",
+          "en": "Blue"
+        },
+        {
+          "hi": "काला रंग",
+          "en": "Black"
+        },
+        {
+          "hi": "रंगहीन",
+          "en": "Colorless"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अम्ल और भस्म की परस्पर क्रिया से लवण और जल बनने की रासायनिक अभिक्रिया क्या कहलाती है?",
+        "en": "Reaction between an acid and a base producing salt and water is called?"
+      },
+      "o": [
+        {
+          "hi": "संयोजन अभिक्रिया",
+          "en": "Combination reaction"
+        },
+        {
+          "hi": "उदासीनीकरण अभिक्रिया (Neutralization Reaction)",
+          "en": "Neutralization Reaction"
+        },
+        {
+          "hi": "अपघटन अभिक्रिया",
+          "en": "Decomposition reaction"
+        },
+        {
+          "hi": "रेडॉक्स अभिक्रिया",
+          "en": "Redox reaction"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "धावन सोडा (Washing Soda / कपड़े धोने का सोडा) का सही रासायनिक सूत्र क्या है?",
+        "en": "What is the chemical formula of Washing Soda (Sodium Carbonate Decahydrate)?"
+      },
+      "o": [
+        {
+          "hi": "NaHCO3",
+          "en": "NaHCO3"
+        },
+        {
+          "hi": "NaOH",
+          "en": "NaOH"
+        },
+        {
+          "hi": "Na2CO3 · 10H2O (सोडियम कार्बोनेट डेकाहाइड्रेट)",
+          "en": "Na2CO3 · 10H2O (Sodium Carbonate Decahydrate)"
+        },
+        {
+          "hi": "CaCO3",
+          "en": "CaCO3"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बेकिंग सोडा (खाने का सोडा / Baking Soda) का सही रासायनिक नाम और सूत्र क्या है?",
+        "en": "What is the chemical name and formula of Baking Soda used in food?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम कार्बोनेट",
+          "en": "Sodium carbonate"
+        },
+        {
+          "hi": "सोडियम हाइड्रॉक्साइड",
+          "en": "Sodium hydroxide"
+        },
+        {
+          "hi": "सोडियम क्लोराइड",
+          "en": "Sodium chloride"
+        },
+        {
+          "hi": "सोडियम बाइकार्बोनेट या हाइड्रोजन कार्बोनेट (NaHCO3)",
+          "en": "Sodium Bicarbonate (NaHCO3)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विरंजक चूर्ण (ब्लीचिंग पाउडर - Bleaching Powder) का सही रासायनिक सूत्र क्या है?",
+        "en": "What is the chemical formula of commercial Bleaching Powder?"
+      },
+      "o": [
+        {
+          "hi": "CaOCl2 (कैल्शियम ऑक्सीक्लोराइड)",
+          "en": "CaOCl2 (Calcium Oxychloride)"
+        },
+        {
+          "hi": "CaCl2",
+          "en": "CaCl2"
+        },
+        {
+          "hi": "CaCO3",
+          "en": "CaCO3"
+        },
+        {
+          "hi": "Ca(OH)2",
+          "en": "Ca(OH)2"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "टूटी हुई हड्डियों को जोड़ने और मूर्तियां बनाने में प्रयुक्त प्लास्टर ऑफ पेरिस (POP) का सही सूत्र क्या है?",
+        "en": "What is chemical formula of Plaster of Paris (POP) used in orthopedic casts?"
+      },
+      "o": [
+        {
+          "hi": "CaSO4 · 2H2O",
+          "en": "CaSO4 · 2H2O"
+        },
+        {
+          "hi": "CaSO4 · ½H2O (कैल्शियम सल्फेट हेमीहाइड्रेट)",
+          "en": "CaSO4 · ½H2O (Calcium Sulfate Hemihydrate)"
+        },
+        {
+          "hi": "CaSO4 · 5H2O",
+          "en": "CaSO4 · 5H2O"
+        },
+        {
+          "hi": "CaCO3",
+          "en": "CaCO3"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्लास्टर ऑफ पेरिस (POP) का निर्माण जिप्सम (Gypsum) को कितने तापमान पर गर्म करके किया जाता है?",
+        "en": "Plaster of Paris is produced by heating Gypsum (CaSO4·2H2O) at what temperature?"
+      },
+      "o": [
+        {
+          "hi": "100°C",
+          "en": "100°C"
+        },
+        {
+          "hi": "373 K (या 100°C से 120°C)",
+          "en": "373 K (or 100°C to 120°C)"
+        },
+        {
+          "hi": "200°C",
+          "en": "200°C"
+        },
+        {
+          "hi": "500°C",
+          "en": "500°C"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

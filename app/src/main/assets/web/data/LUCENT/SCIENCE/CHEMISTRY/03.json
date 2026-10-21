@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - रसायन विज्ञान (Chemistry)",
+  "subtitle": "गैसों का आचरण",
+  "description": "गैसों का आचरण पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "स्थिर तापमान पर किसी गैस के निश्चित द्रव्यमान का दाब उसके आयतन के व्युत्क्रमानुपाती होता है (P ∝ 1/V), यह किसका नियम है?",
+        "en": "At constant temp, pressure of given mass of gas is inversely proportional to volume (P ∝ 1/V). Whose law is this?"
+      },
+      "o": [
+        {
+          "hi": "बॉयल का नियम (Boyle's Law)",
+          "en": "Boyle's Law"
+        },
+        {
+          "hi": "चार्ल्स का नियम",
+          "en": "Charles's Law"
+        },
+        {
+          "hi": "गे-लुसाक का नियम",
+          "en": "Gay-Lussac's Law"
+        },
+        {
+          "hi": "आवोगाद्रो का नियम",
+          "en": "Avogadro's Law"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्थिर दाब पर किसी गैस के निश्चित द्रव्यमान का आयतन उसके परम ताप के समानुपाती होता है (V ∝ T), यह किसका नियम है?",
+        "en": "At constant pressure, volume of gas is directly proportional to absolute temp (V ∝ T). Whose law is this?"
+      },
+      "o": [
+        {
+          "hi": "बॉयल का नियम",
+          "en": "Boyle's law"
+        },
+        {
+          "hi": "चार्ल्स का नियम (Charles's Law)",
+          "en": "Charles's Law"
+        },
+        {
+          "hi": "डाल्टन का नियम",
+          "en": "Dalton's law"
+        },
+        {
+          "hi": "ग्राहम का नियम",
+          "en": "Graham's law"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्थिर आयतन पर किसी गैस के निश्चित द्रव्यमान का दाब उसके परम ताप के समानुपाती होता है (P ∝ T), यह किसका नियम है?",
+        "en": "At constant volume, pressure of gas is directly proportional to absolute temp (P ∝ T). Whose law is this?"
+      },
+      "o": [
+        {
+          "hi": "बॉयल का नियम",
+          "en": "Boyle's law"
+        },
+        {
+          "hi": "चार्ल्स का नियम",
+          "en": "Charles's law"
+        },
+        {
+          "hi": "गे-लुसाक का नियम (Gay-Lussac's Pressure Law)",
+          "en": "Gay-Lussac's Pressure Law"
+        },
+        {
+          "hi": "आवोगाद्रो का नियम",
+          "en": "Avogadro's law"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समान ताप और दाब पर सभी गैसों के समान आयतन में अणुओं की संख्या समान होती है, यह किसका नियम है?",
+        "en": "Equal volumes of all gases under same temperature and pressure contain equal molecules. Whose hypothesis is this?"
+      },
+      "o": [
+        {
+          "hi": "बॉयल का नियम",
+          "en": "Boyle's law"
+        },
+        {
+          "hi": "चार्ल्स का नियम",
+          "en": "Charles's law"
+        },
+        {
+          "hi": "डाल्टन का नियम",
+          "en": "Dalton's law"
+        },
+        {
+          "hi": "आवोगाद्रो का नियम (Avogadro's Law)",
+          "en": "Avogadro's Law"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आदर्श गैस समीकरण (Ideal Gas Equation) का सही गणितीय रूप क्या है?",
+        "en": "What is the correct mathematical formula of Ideal Gas Equation?"
+      },
+      "o": [
+        {
+          "hi": "PV = nRT",
+          "en": "PV = nRT"
+        },
+        {
+          "hi": "P / V = nRT",
+          "en": "P / V = nRT"
+        },
+        {
+          "hi": "PT = nVR",
+          "en": "PT = nVR"
+        },
+        {
+          "hi": "PV = R / nT",
+          "en": "PV = R / nT"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आदर्श गैस समीकरण (PV = nRT) में 'R' क्या कहलाता है?",
+        "en": "In PV = nRT, what is the universal constant 'R'?"
+      },
+      "o": [
+        {
+          "hi": "बॉयल नियतांक",
+          "en": "Boyle's constant"
+        },
+        {
+          "hi": "सार्वत्रिक गैस नियतांक (Universal Gas Constant)",
+          "en": "Universal Gas Constant"
+        },
+        {
+          "hi": "प्लांक नियतांक",
+          "en": "Planck's constant"
+        },
+        {
+          "hi": "बोल्ट्जमान नियतांक",
+          "en": "Boltzmann constant"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सार्वत्रिक गैस नियतांक (R) का SI पद्धति में मान कितना होता है?",
+        "en": "What is the value of Universal Gas Constant (R) in SI units?"
+      },
+      "o": [
+        {
+          "hi": "1.98 cal/mol·K",
+          "en": "1.98 cal/mol·K"
+        },
+        {
+          "hi": "0.0821 L·atm/mol·K",
+          "en": "0.0821 L·atm/mol·K"
+        },
+        {
+          "hi": "8.314 जूल/मोल·केल्विन (J/mol·K)",
+          "en": "8.314 J/mol·K"
+        },
+        {
+          "hi": "6.023 × 10^23",
+          "en": "6.023 × 10^23"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सार्वत्रिक गैस नियतांक (R) का मान लीटर-वायुमंडल में कितना होता है?",
+        "en": "What is the value of R in L·atm/(mol·K)?"
+      },
+      "o": [
+        {
+          "hi": "8.314",
+          "en": "8.314"
+        },
+        {
+          "hi": "1.987",
+          "en": "1.987"
+        },
+        {
+          "hi": "22.4",
+          "en": "22.4"
+        },
+        {
+          "hi": "0.0821 लीटर-वायुमंडल/मोल·K",
+          "en": "0.0821 L·atm/mol·K"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानक ताप एवं दाब (STP / NTP) पर तापमान और दाब का मान क्या होता है?",
+        "en": "What are the standard temperature and pressure values at STP / NTP?"
+      },
+      "o": [
+        {
+          "hi": "0°C (273.15 K) और 1 वायुमंडलीय दाब (760 mm Hg)",
+          "en": "0°C (273.15 K) and 1 atm (760 mm Hg)"
+        },
+        {
+          "hi": "25°C और 1 atm",
+          "en": "25°C and 1 atm"
+        },
+        {
+          "hi": "100°C और 1 atm",
+          "en": "100°C and 1 atm"
+        },
+        {
+          "hi": "0 K और 0 bar",
+          "en": "0 K and 0 bar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानक ताप और दाब (STP) पर किसी भी गैस के 1 मोल का आयतन (Molar Volume) कितना होता है?",
+        "en": "What is the molar volume of any ideal gas at STP?"
+      },
+      "o": [
+        {
+          "hi": "11.2 लीटर",
+          "en": "11.2 liters"
+        },
+        {
+          "hi": "22.4 लीटर (22.4 Liters / 22,400 cm³)",
+          "en": "22.4 Liters / 22,400 cm³"
+        },
+        {
+          "hi": "44.8 लीटर",
+          "en": "44.8 liters"
+        },
+        {
+          "hi": "1.0 लीटर",
+          "en": "1.0 liter"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "परम शून्य ताप (Absolute Zero) पर किसी आदर्श गैस का आयतन सैद्धांतिक रूप से कितना हो जाता है?",
+        "en": "Theoretically, what does the volume of an ideal gas become at absolute zero (0 K)?"
+      },
+      "o": [
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "22.4 लीटर",
+          "en": "22.4 liters"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        },
+        {
+          "hi": "अपरिवर्तित",
+          "en": "Unchanged"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "परम शून्य तापमान पर गैस के अणुओं की गतिज ऊर्जा (Kinetic Energy) क्या हो जाती है?",
+        "en": "What happens to the molecular kinetic energy of a gas at absolute zero (0 K)?"
+      },
+      "o": [
+        {
+          "hi": "अधिकतम हो जाती है",
+          "en": "Becomes maximum"
+        },
+        {
+          "hi": "प्रकाश के वेग के बराबर होती है",
+          "en": "Equals light speed"
+        },
+        {
+          "hi": "दोगुनी हो जाती है",
+          "en": "Doubles"
+        },
+        {
+          "hi": "शून्य हो जाती है (आणविक गति पूर्णतः रुक जाती है)",
+          "en": "Becomes zero (molecular motion stops)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गैसों के विसरण की दर उनके घनत्वों के वर्गमूल के व्युत्क्रमानुपाती होती है (r ∝ 1/√d), यह किसका नियम है?",
+        "en": "Rate of diffusion of gases is inversely proportional to square root of density. Whose law is this?"
+      },
+      "o": [
+        {
+          "hi": "ग्राहम का गैसीय विसरण नियम (Graham's Law)",
+          "en": "Graham's Law of Diffusion"
+        },
+        {
+          "hi": "डाल्टन का नियम",
+          "en": "Dalton's law"
+        },
+        {
+          "hi": "बॉयल का नियम",
+          "en": "Boyle's law"
+        },
+        {
+          "hi": "चार्ल्स का नियम",
+          "en": "Charles's law"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित गैसों में से कौन-सी गैस सबसे तेज गति से विसरित (फैलेगी) होगी?",
+        "en": "Which of the following gases will diffuse most rapidly under identical conditions?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सीजन (O2)",
+          "en": "Oxygen (O2)"
+        },
+        {
+          "hi": "हाइड्रोजन (H2 - सबसे हल्की गैस)",
+          "en": "Hydrogen (H2 - lightest gas)"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड (CO2)",
+          "en": "Carbon dioxide (CO2)"
+        },
+        {
+          "hi": "नाइट्रोजन (N2)",
+          "en": "Nitrogen (N2)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यदि किसी गैस का वाष्प घनत्व (Vapor Density) 14 है, तो उसका अणुभार (Molecular Weight) कितना होगा?",
+        "en": "If vapor density of a gas is 14, what is its molecular weight (M = 2 × VD)?"
+      },
+      "o": [
+        {
+          "hi": "7",
+          "en": "7"
+        },
+        {
+          "hi": "14",
+          "en": "14"
+        },
+        {
+          "hi": "28 (अणुभार = 2 × वाष्प घनत्व)",
+          "en": "28 (Molecular Weight = 2 × VD)"
+        },
+        {
+          "hi": "56",
+          "en": "56"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अवाष्पशील और परस्पर क्रिया न करने वाली गैसों के मिश्रण का कुल दाब प्रत्येक गैस के आंशिक दाबों के योग के बराबर होता है, यह किसका नियम है?",
+        "en": "Total pressure of non-reacting gas mixture equals sum of partial pressures. Whose law is this?"
+      },
+      "o": [
+        {
+          "hi": "बॉयल का नियम",
+          "en": "Boyle's law"
+        },
+        {
+          "hi": "चार्ल्स का नियम",
+          "en": "Charles's law"
+        },
+        {
+          "hi": "ग्राहम का नियम",
+          "en": "Graham's law"
+        },
+        {
+          "hi": "डाल्टन का आंशिक दाब का नियम (Dalton's Law)",
+          "en": "Dalton's Law of Partial Pressures"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गैसों के अणुगति सिद्धांत (Kinetic Theory of Gases) के अनुसार गैस के अणुओं की औसत गतिज ऊर्जा किसके समानुपाती होती है?",
+        "en": "According to kinetic theory of gases, average kinetic energy of gas molecules is proportional to?"
+      },
+      "o": [
+        {
+          "hi": "परम ताप के समानुपाती (KE ∝ T)",
+          "en": "Directly to Absolute Temperature (KE ∝ T)"
+        },
+        {
+          "hi": "दाब के समानुपाती",
+          "en": "Proportional to pressure"
+        },
+        {
+          "hi": "आयतन के समानुपाती",
+          "en": "Proportional to volume"
+        },
+        {
+          "hi": "अणुभार के समानुपाती",
+          "en": "Proportional to molecular mass"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गैस के अणुओं का वर्ग-माध्य-मूल वेग (Root Mean Square Velocity - Vrms) का सही सूत्र क्या है?",
+        "en": "What is the formula for root mean square velocity (Vrms) of gas molecules?"
+      },
+      "o": [
+        {
+          "hi": "Vrms = √(3P / T)",
+          "en": "Vrms = √(3P / T)"
+        },
+        {
+          "hi": "Vrms = √(3RT / M)",
+          "en": "Vrms = √(3RT / M)"
+        },
+        {
+          "hi": "Vrms = √(2RT / M)",
+          "en": "Vrms = √(2RT / M)"
+        },
+        {
+          "hi": "Vrms = 3RT / M",
+          "en": "Vrms = 3RT / M"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वास्तविक गैसें (Real Gases) किस परिस्थिति में आदर्श गैस (Ideal Gas) की भांति व्यवहार करती हैं?",
+        "en": "Under which conditions do real gases behave most like an ideal gas?"
+      },
+      "o": [
+        {
+          "hi": "उच्च दाब और निम्न ताप पर",
+          "en": "High pressure & low temperature"
+        },
+        {
+          "hi": "उच्च दाब और उच्च ताप पर",
+          "en": "High pressure & high temperature"
+        },
+        {
+          "hi": "निम्न दाब और उच्च तापमान पर (Low P & High T)",
+          "en": "Low pressure and High temperature (Low P & High T)"
+        },
+        {
+          "hi": "निम्न दाब और निम्न ताप पर",
+          "en": "Low pressure & low temperature"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वास्तविक गैसों के व्यवहार को समझाने के लिए वांडर वाल्स समीकरण क्या है?",
+        "en": "What is the Van der Waals equation of state for n moles of real gas?"
+      },
+      "o": [
+        {
+          "hi": "(P + a/V²)(V - b) = RT",
+          "en": "(P + a/V²)(V - b) = RT"
+        },
+        {
+          "hi": "PV = nRT",
+          "en": "PV = nRT"
+        },
+        {
+          "hi": "P(V - b) = RT",
+          "en": "P(V - b) = RT"
+        },
+        {
+          "hi": "(P + an²/V²)(V - nb) = nRT",
+          "en": "(P + an²/V²)(V - nb) = nRT"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वांडर वाल्स समीकरण में नियतांक 'a' किसका मापन करता है?",
+        "en": "In Van der Waals equation, constant 'a' accounts for what correction?"
+      },
+      "o": [
+        {
+          "hi": "गैस के अणुओं के बीच अंतर-आणविक आकर्षण बल का",
+          "en": "Intermolecular attractive forces between molecules"
+        },
+        {
+          "hi": "अणुओं के वास्तविक आयतन का",
+          "en": "Finite volume of molecules"
+        },
+        {
+          "hi": "गैस के तापमान का",
+          "en": "Temperature of gas"
+        },
+        {
+          "hi": "गैस के द्रव्यमान का",
+          "en": "Mass of gas"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वांडर वाल्स समीकरण में नियतांक 'b' (सह-आयतन - Co-volume) किसका सुधार करता है?",
+        "en": "In Van der Waals equation, constant 'b' (co-volume) represents what?"
+      },
+      "o": [
+        {
+          "hi": "दाब सुधार",
+          "en": "Pressure correction"
+        },
+        {
+          "hi": "अणुओं द्वारा घेरे गए प्रभावी आयतन का सुधार",
+          "en": "Effective volume occupied by molecules"
+        },
+        {
+          "hi": "ऊर्जा सुधार",
+          "en": "Energy correction"
+        },
+        {
+          "hi": "वेग सुधार",
+          "en": "Velocity correction"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वह तापमान जिसके ऊपर किसी गैस को केवल दाब बढ़ाकर द्रवित नहीं किया जा सकता, क्या कहलाता है?",
+        "en": "Temperature above which a gas cannot be liquefied by pressure alone is?"
+      },
+      "o": [
+        {
+          "hi": "ब्वॉयल ताप",
+          "en": "Boyle temperature"
+        },
+        {
+          "hi": "उत्क्रमण ताप",
+          "en": "Inversion temperature"
+        },
+        {
+          "hi": "क्रांतिक ताप (Critical Temperature - Tc)",
+          "en": "Critical Temperature (Tc)"
+        },
+        {
+          "hi": "क्वथनांक",
+          "en": "Boiling point"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "क्रांतिक ताप पर किसी गैस को द्रवित करने के लिए आवश्यक न्यूनतम दाब क्या कहलाता है?",
+        "en": "Minimum pressure required to liquefy a gas at its critical temperature is?"
+      },
+      "o": [
+        {
+          "hi": "वायुमंडलीय दाब",
+          "en": "Atmospheric pressure"
+        },
+        {
+          "hi": "मानक दाब",
+          "en": "Standard pressure"
+        },
+        {
+          "hi": "वाष्प दाब",
+          "en": "Vapor pressure"
+        },
+        {
+          "hi": "क्रांतिक दाब (Critical Pressure - Pc)",
+          "en": "Critical Pressure (Pc)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जब किसी गैस को उच्च दाब क्षेत्र से सूक्ष्म छिद्र द्वारा निम्न दाब क्षेत्र में प्रसारित किया जाता है, तो गैस का ठंडा होना क्या कहलाता है?",
+        "en": "Cooling of gas when expanding adiabatically from high to low pressure through porous plug is?"
+      },
+      "o": [
+        {
+          "hi": "जूल-थॉमसन प्रभाव (Joule-Thomson Effect)",
+          "en": "Joule-Thomson Effect"
+        },
+        {
+          "hi": "कॉम्पटन प्रभाव",
+          "en": "Compton effect"
+        },
+        {
+          "hi": "रमन प्रभाव",
+          "en": "Raman effect"
+        },
+        {
+          "hi": "टिंडल प्रभाव",
+          "en": "Tyndall effect"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जूल-थॉमसन प्रभाव के तहत सामान्य कमरे के ताप पर प्रसारित करने पर कौन-सी दो गैसें ठंडी होने के बजाय गर्म हो जाती हैं?",
+        "en": "Under Joule-Thomson expansion at room temp, which two gases warm up instead of cooling?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सीजन और नाइट्रोजन",
+          "en": "Oxygen and Nitrogen"
+        },
+        {
+          "hi": "हाइड्रोजन और हीलियम (Hydrogen and Helium)",
+          "en": "Hydrogen and Helium"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड और मीथेन",
+          "en": "CO2 and Methane"
+        },
+        {
+          "hi": "अमोनिया और क्लोरीन",
+          "en": "Ammonia and Chlorine"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एलपीजी (LPG - द्रवित पेट्रोलियम गैस) में रिसाव की दुर्गंध पहचानने के लिए कौन-सा तीक्ष्ण गंधयुक्त यौगिक मिलाया जाता है?",
+        "en": "Which foul-smelling sulfur compound is added to LPG to detect leaks?"
+      },
+      "o": [
+        {
+          "hi": "क्लोरोफॉर्म",
+          "en": "Chloroform"
+        },
+        {
+          "hi": "फ्रेयॉन",
+          "en": "Freon"
+        },
+        {
+          "hi": "एथिल मरकैप्टन (Ethyl Mercaptan - C2H5SH)",
+          "en": "Ethyl Mercaptan (C2H5SH)"
+        },
+        {
+          "hi": "मिथाइल आइसोसाइनेट",
+          "en": "Methyl Isocyanate"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सीएनजी (CNG - संपीडित प्राकृतिक गैस) का मुख्य घटक कौन-सी गैस होती है?",
+        "en": "What is the primary constituent gas of Compressed Natural Gas (CNG)?"
+      },
+      "o": [
+        {
+          "hi": "प्रोपेन",
+          "en": "Propane"
+        },
+        {
+          "hi": "ब्यूटेन",
+          "en": "Butane"
+        },
+        {
+          "hi": "एथेन",
+          "en": "Ethane"
+        },
+        {
+          "hi": "मीथेन (Methane - CH4 / लगभग 80-90%)",
+          "en": "Methane (CH4 / about 80-90%)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "घरेलू एलपीजी (LPG सिलेंडर) का मुख्य घटक कौन-सी गैस होती है?",
+        "en": "What are the primary hydrocarbon constituents of domestic cooking LPG?"
+      },
+      "o": [
+        {
+          "hi": "ब्यूटेन और प्रोपेन (Butane and Propane)",
+          "en": "Butane and Propane"
+        },
+        {
+          "hi": "मीथेन और एथेन",
+          "en": "Methane and Ethane"
+        },
+        {
+          "hi": "हाइड्रोजन और कार्बन मोनोऑक्साइड",
+          "en": "Hydrogen and CO"
+        },
+        {
+          "hi": "एथिलीन और एसिटिलीन",
+          "en": "Ethylene and Acetylene"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गोबर गैस अथवा बायोगैस (Biogas) का मुख्य घटक कौन-सी गैस होती है?",
+        "en": "What is the major combustible component of Biogas / Gobar Gas?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन मोनोऑक्साइड",
+          "en": "Carbon monoxide"
+        },
+        {
+          "hi": "मीथेन (Methane - लगभग 55-65%)",
+          "en": "Methane (approx 55-65%)"
+        },
+        {
+          "hi": "प्रोपेन",
+          "en": "Propane"
+        },
+        {
+          "hi": "हाइड्रोजन सल्फाइड",
+          "en": "Hydrogen sulfide"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कोयले की खदानों में विस्फोट का मुख्य कारण कौन-सी गैस होती है?",
+        "en": "Which gas is primarily responsible for explosions in coal mines when mixed with air?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन डाइऑक्साइड",
+          "en": "Carbon dioxide"
+        },
+        {
+          "hi": "सल्फर डाइऑक्साइड",
+          "en": "Sulfur dioxide"
+        },
+        {
+          "hi": "मीथेन (Methane / फायरडैम्प - Firedamp)",
+          "en": "Methane / Firedamp"
+        },
+        {
+          "hi": "नाइट्रोजन",
+          "en": "Nitrogen"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दलदली भूमि (Marshy lands) और धान के खेतों से कौन-सी गैस उत्सर्जित होती है?",
+        "en": "Which gas is naturally emitted from wetlands, marshes and paddy fields?"
+      },
+      "o": [
+        {
+          "hi": "नाइट्रस ऑक्साइड",
+          "en": "Nitrous oxide"
+        },
+        {
+          "hi": "कार्बन मोनोऑक्साइड",
+          "en": "Carbon monoxide"
+        },
+        {
+          "hi": "क्लोरोफ्लोरोकार्बन",
+          "en": "CFC"
+        },
+        {
+          "hi": "मीथेन (मार्श गैस - Marsh Gas)",
+          "en": "Methane (Marsh Gas)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हवाई जहाज के टायरों में भरने के लिए किस निष्क्रिय और सुरक्षित गैस का उपयोग किया जाता है?",
+        "en": "Which unreactive and safe gas is preferred for inflating aircraft tires?"
+      },
+      "o": [
+        {
+          "hi": "नाइट्रोजन (Nitrogen - N2)",
+          "en": "Nitrogen (N2)"
+        },
+        {
+          "hi": "हाइड्रोजन",
+          "en": "Hydrogen"
+        },
+        {
+          "hi": "ऑक्सीजन",
+          "en": "Oxygen"
+        },
+        {
+          "hi": "हीलियम",
+          "en": "Helium"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मौसम संबंधी गुब्बारों में हीलियम गैस क्यों भरी जाती है जबकि हाइड्रोजन उससे हल्की है?",
+        "en": "Why is Helium preferred over lighter Hydrogen in meteorological balloons?"
+      },
+      "o": [
+        {
+          "hi": "हीलियम सस्ती होती है",
+          "en": "Helium is cheap"
+        },
+        {
+          "hi": "हीलियम अक्रिय और अज्वलनशील (Non-inflammable) होती है",
+          "en": "Helium is inert and non-inflammable"
+        },
+        {
+          "hi": "हीलियम भारी होती है",
+          "en": "Helium is heavy"
+        },
+        {
+          "hi": "हीलियम रंगीन होती है",
+          "en": "Helium is colorful"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गहरे समुद्र में गोताखोर सांस लेने के लिए ऑक्सीजन के साथ किस गैस का मिश्रण ले जाते हैं?",
+        "en": "Deep-sea divers breathe a mixture of Oxygen diluted with which inert gas?"
+      },
+      "o": [
+        {
+          "hi": "नाइट्रोजन",
+          "en": "Nitrogen"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड",
+          "en": "Carbon dioxide"
+        },
+        {
+          "hi": "हीलियम (Helium - रक्त में कम घुलनशील होने से)",
+          "en": "Helium (due to low solubility in blood)"
+        },
+        {
+          "hi": "ऑर्गन",
+          "en": "Argon"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अस्पतालों में कृत्रिम श्वसन के लिए ऑक्सीजन सिलेंडरों में ऑक्सीजन के साथ कौन-सी गैस मिलाई जाती है?",
+        "en": "In hospital oxygen cylinders, oxygen is diluted with which gas for artificial respiration?"
+      },
+      "o": [
+        {
+          "hi": "नाइट्रोजन",
+          "en": "Nitrogen"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड",
+          "en": "Carbon dioxide"
+        },
+        {
+          "hi": "हाइड्रोजन",
+          "en": "Hydrogen"
+        },
+        {
+          "hi": "हीलियम (Helium)",
+          "en": "Helium"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गोताखोरों को पानी से तेजी से ऊपर आने पर रक्त में नाइट्रोजन के बुलबुले बनने से होने वाले जानलेवा दर्द को क्या कहते हैं?",
+        "en": "Painful condition caused by nitrogen bubbles in blood when diver decompresses fast is?"
+      },
+      "o": [
+        {
+          "hi": "बेंड्स (Bends / Decompression Sickness)",
+          "en": "Bends / Decompression Sickness"
+        },
+        {
+          "hi": "हाइपोक्सिया",
+          "en": "Hypoxia"
+        },
+        {
+          "hi": "एनीमिया",
+          "en": "Anemia"
+        },
+        {
+          "hi": "एम्फायसीमा",
+          "en": "Emphysema"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बिजली के बल्बों में नाइट्रोजन अथवा ऑर्गन गैस क्यों भरी जाती है?",
+        "en": "Why is nitrogen or argon gas filled inside incandescent bulbs?"
+      },
+      "o": [
+        {
+          "hi": "बल्ब को हल्का करने हेतु",
+          "en": "To make bulb light"
+        },
+        {
+          "hi": "टंगस्टन फिलामेंट के ऑक्सीकरण और वाष्पीकरण को रोकने हेतु",
+          "en": "To prevent oxidation and evaporation of filament"
+        },
+        {
+          "hi": "प्रकाश की गति बढ़ाने हेतु",
+          "en": "To speed up light"
+        },
+        {
+          "hi": "बल्ब को सुंदर दिखाने हेतु",
+          "en": "To make bulb attractive"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चिप्स के पैकेटों में चिप्स को विकृतगंधिता (Rancidity / ऑक्सीकरण) से बचाने के लिए कौन-सी गैस भरी जाती है?",
+        "en": "Which inert gas is flushed into potato chip packets to prevent rancidity?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सीजन",
+          "en": "Oxygen"
+        },
+        {
+          "hi": "हाइड्रोजन",
+          "en": "Hydrogen"
+        },
+        {
+          "hi": "नाइट्रोजन (Nitrogen गैस)",
+          "en": "Nitrogen gas"
+        },
+        {
+          "hi": "क्लोरीन",
+          "en": "Chlorine"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अश्रु गैस (Tear Gas) के रूप में मुख्य रूप से किस रासायनिक यौगिक का उपयोग किया जाता है?",
+        "en": "Which chemical compound is commonly used in riot control tear gas?"
+      },
+      "o": [
+        {
+          "hi": "सल्फर डाइऑक्साइड",
+          "en": "Sulfur dioxide"
+        },
+        {
+          "hi": "नाइट्रस ऑक्साइड",
+          "en": "Nitrous oxide"
+        },
+        {
+          "hi": "कार्बन मोनोऑक्साइड",
+          "en": "Carbon monoxide"
+        },
+        {
+          "hi": "क्लोरोएसीटोफेनोन / एक्रोलीन (Chloracetophenone)",
+          "en": "Chloracetophenone / Acrolein"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'लाफिंग गैस' (हंसाने वाली गैस - Laughing Gas) का रासायनिक नाम क्या है?",
+        "en": "What is the chemical name and formula of Laughing Gas?"
+      },
+      "o": [
+        {
+          "hi": "नाइट्रस ऑक्साइड (Nitrous Oxide - N2O)",
+          "en": "Nitrous Oxide (N2O)"
+        },
+        {
+          "hi": "नाइट्रिक ऑक्साइड (NO)",
+          "en": "Nitric Oxide (NO)"
+        },
+        {
+          "hi": "नाइट्रोजन डाइऑक्साइड (NO2)",
+          "en": "Nitrogen Dioxide (NO2)"
+        },
+        {
+          "hi": "डाईनाइट्रोजन ट्रायोक्साइड",
+          "en": "Dinitrogen Trioxide"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रथम विश्व युद्ध में रासायनिक हथियार के रूप में किस विषैली गैस का उपयोग किया गया था?",
+        "en": "Which deadly chemical weapon gas was used during World War I?"
+      },
+      "o": [
+        {
+          "hi": "क्लोरीन गैस",
+          "en": "Chlorine gas"
+        },
+        {
+          "hi": "मस्टर्ड गैस (Mustard Gas - डाइक्लोरोएथिल सल्फाइड)",
+          "en": "Mustard Gas"
+        },
+        {
+          "hi": "फॉस्जीन गैस",
+          "en": "Phosgene gas"
+        },
+        {
+          "hi": "कार्बन मोनोऑक्साइड",
+          "en": "Carbon monoxide"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भोपाल गैस त्रासदी (3 दिसंबर 1984) में किस अत्यंत विषैली गैस का रिसाव हुआ था?",
+        "en": "Which highly toxic gas leaked in the Bhopal Gas Tragedy on Dec 3, 1984?"
+      },
+      "o": [
+        {
+          "hi": "मस्टर्ड गैस",
+          "en": "Mustard gas"
+        },
+        {
+          "hi": "फॉस्जीन",
+          "en": "Phosgene"
+        },
+        {
+          "hi": "मिथाइल आइसोसाइनेट (MIC - Methyl Isocyanate)",
+          "en": "Methyl Isocyanate (MIC)"
+        },
+        {
+          "hi": "अमोनिया",
+          "en": "Ammonia"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सोडा वाटर और शीतल पेयों (Cold Drinks) में उच्च दाब पर कौन-सी गैस घुली होती है?",
+        "en": "Which gas is dissolved under high pressure in soda water and soft drinks?"
+      },
+      "o": [
+        {
+          "hi": "नाइट्रोजन",
+          "en": "Nitrogen"
+        },
+        {
+          "hi": "ऑक्सीजन",
+          "en": "Oxygen"
+        },
+        {
+          "hi": "हाइड्रोजन",
+          "en": "Hydrogen"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड (CO2 - कार्बोनिक अम्ल बनाती है)",
+          "en": "Carbon Dioxide (CO2 - forms carbonic acid)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आग बुझाने वाले यंत्रों (Fire Extinguishers) में मुख्य रूप से किस गैस का उपयोग किया जाता है?",
+        "en": "Which gas is primarily discharged by fire extinguishers to smother fires?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन डाइऑक्साइड (CO2)",
+          "en": "Carbon Dioxide (CO2)"
+        },
+        {
+          "hi": "ऑक्सीजन",
+          "en": "Oxygen"
+        },
+        {
+          "hi": "हाइड्रोजन",
+          "en": "Hydrogen"
+        },
+        {
+          "hi": "सल्फर डाइऑक्साइड",
+          "en": "Sulfur dioxide"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वायुमंडल में ग्रीनहाउस प्रभाव (Greenhouse Effect) के लिए सर्वाधिक उत्तरदायी गैस कौन-सी है?",
+        "en": "Which atmospheric gas contributes most to the greenhouse effect on Earth?"
+      },
+      "o": [
+        {
+          "hi": "मीथेन",
+          "en": "Methane"
+        },
+        {
+          "hi": "जलवाष्प एवं कार्बन डाइऑक्साइड (CO2)",
+          "en": "Water vapor and Carbon Dioxide (CO2)"
+        },
+        {
+          "hi": "क्लोरोफ्लोरोकार्बन",
+          "en": "CFC"
+        },
+        {
+          "hi": "ओजोन",
+          "en": "Ozone"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ओजोन परत को नष्ट करने वाली प्रमुख गैस कौन-सी है जो पुराने रेफ्रिजरेटरों और एसी से निकलती थी?",
+        "en": "Which chemical gas responsible for ozone layer depletion was used as refrigerant?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन डाइऑक्साइड",
+          "en": "Carbon dioxide"
+        },
+        {
+          "hi": "मीथेन",
+          "en": "Methane"
+        },
+        {
+          "hi": "क्लोरोफ्लोरोकार्बन (CFC - फ्रेयॉन)",
+          "en": "Chlorofluorocarbon (CFC - Freon)"
+        },
+        {
+          "hi": "सल्फर हेक्साफ्लोराइड",
+          "en": "Sulfur hexafluoride"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मोटर वाहनों के धुएं से निकलने वाली सर्वाधिक विषैली गैस कौन-सी है जो हीमोग्लोबिन से क्रिया कर दम घोंटती है?",
+        "en": "Deadly vehicle exhaust gas binding strongly with hemoglobin causing suffocation is?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन डाइऑक्साइड",
+          "en": "Carbon dioxide"
+        },
+        {
+          "hi": "सल्फर डाइऑक्साइड",
+          "en": "Sulfur dioxide"
+        },
+        {
+          "hi": "नाइट्रोजन डाइऑक्साइड",
+          "en": "Nitrogen dioxide"
+        },
+        {
+          "hi": "कार्बन मोनोऑक्साइड (Carbon Monoxide - CO)",
+          "en": "Carbon Monoxide (CO)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अम्लीय वर्षा (Acid Rain) के लिए वायुमंडल में उपस्थित कौन-सी दो मुख्य गैसें उत्तरदायी हैं?",
+        "en": "Which two primary atmospheric pollutant gases cause Acid Rain?"
+      },
+      "o": [
+        {
+          "hi": "सल्फर डाइऑक्साइड (SO2) और नाइट्रोजन के ऑक्साइड (NOx)",
+          "en": "Sulfur Dioxide (SO2) & Nitrogen Oxides (NOx)"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड और मीथेन",
+          "en": "CO2 and Methane"
+        },
+        {
+          "hi": "क्लोरीन और फ्लोरीन",
+          "en": "Chlorine and Fluorine"
+        },
+        {
+          "hi": "ओजोन और हीलियम",
+          "en": "Ozone and Helium"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गैसों का वह नियम जो यह बताता है कि 'नियत ताप पर विलायक में घुली गैस का द्रव्यमान साम्यावस्था पर लगाए गए दाब के समानुपाती होता है'?",
+        "en": "Law stating mass of dissolved gas in liquid is proportional to its partial pressure?"
+      },
+      "o": [
+        {
+          "hi": "बॉयल का नियम",
+          "en": "Boyle's law"
+        },
+        {
+          "hi": "हेनरी का नियम (Henry's Law)",
+          "en": "Henry's Law"
+        },
+        {
+          "hi": "डाल्टन का नियम",
+          "en": "Dalton's law"
+        },
+        {
+          "hi": "ग्राहम का नियम",
+          "en": "Graham's law"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

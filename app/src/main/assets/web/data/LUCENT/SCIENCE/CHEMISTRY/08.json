@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - रसायन विज्ञान (Chemistry)",
+  "subtitle": "विलयन",
+  "description": "विलयन पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "दो या दो से अधिक पदार्थों का समांगी मिश्रण (Homogeneous Mixture) क्या कहलाता है?",
+        "en": "A homogeneous mixture of two or more chemically non-reacting substances is?"
+      },
+      "o": [
+        {
+          "hi": "विलयन (Solution)",
+          "en": "Solution"
+        },
+        {
+          "hi": "निलंबन (Suspension)",
+          "en": "Suspension"
+        },
+        {
+          "hi": "कोलाइड (Colloid)",
+          "en": "Colloid"
+        },
+        {
+          "hi": "पायस (Emulsion)",
+          "en": "Emulsion"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विलयन में जो घटक अधिक मात्रा में उपस्थित होता है तथा दूसरे घटक को घोलता है, क्या कहलाता है?",
+        "en": "The component of a solution present in larger amount that dissolves the other is?"
+      },
+      "o": [
+        {
+          "hi": "विलेय (Solute)",
+          "en": "Solute"
+        },
+        {
+          "hi": "विलायक (Solvent)",
+          "en": "Solvent"
+        },
+        {
+          "hi": "विलयन",
+          "en": "Solution"
+        },
+        {
+          "hi": "अवक्षेप",
+          "en": "Precipitate"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जल को एक सार्वत्रिक विलायक (Universal Solvent) क्यों कहा जाता है?",
+        "en": "Why is liquid water considered the 'Universal Solvent' in nature?"
+      },
+      "o": [
+        {
+          "hi": "यह रंगहीन और स्वादहीन है",
+          "en": "It is colorless & odorless"
+        },
+        {
+          "hi": "यह सभी जगह उपलब्ध है",
+          "en": "It is universally available"
+        },
+        {
+          "hi": "इसका डाइइलेक्ट्रिक नियतांक (Dielectric Constant ~80) बहुत उच्च होता है",
+          "en": "Its Dielectric Constant (~80) is very high"
+        },
+        {
+          "hi": "यह बहुत सस्ता है",
+          "en": "It is very cheap"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निश्चित ताप पर वह विलयन जिसमें विलेय की और अधिक मात्रा नहीं घोली जा सकती, क्या कहलाता है?",
+        "en": "A solution in which no more solute can be dissolved at a given temperature is?"
+      },
+      "o": [
+        {
+          "hi": "तनु विलयन",
+          "en": "Dilute solution"
+        },
+        {
+          "hi": "असंतृप्त विलयन",
+          "en": "Unsaturated solution"
+        },
+        {
+          "hi": "आदर्श विलयन",
+          "en": "Ideal solution"
+        },
+        {
+          "hi": "संतृप्त विलयन (Saturated Solution)",
+          "en": "Saturated Solution"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वह विलयन जिसमें किसी दिए गए ताप पर विलेय की और अधिक मात्रा घोली जा सकती है, क्या कहलाता है?",
+        "en": "A solution in which more solute can be dissolved at the given temperature is?"
+      },
+      "o": [
+        {
+          "hi": "असंतृप्त विलयन (Unsaturated Solution)",
+          "en": "Unsaturated Solution"
+        },
+        {
+          "hi": "संतृप्त विलयन",
+          "en": "Saturated solution"
+        },
+        {
+          "hi": "अतिसंतृप्त विलयन",
+          "en": "Supersaturated solution"
+        },
+        {
+          "hi": "निलंबन",
+          "en": "Suspension"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वह अस्थिर विलयन जिसमें सामान्य संतृप्त अवस्था से भी अधिक विलेय घुला होता है, क्या कहलाता है?",
+        "en": "Metastable solution holding more dissolved solute than normal saturation is?"
+      },
+      "o": [
+        {
+          "hi": "संतृप्त विलयन",
+          "en": "Saturated solution"
+        },
+        {
+          "hi": "अतिसंतृप्त विलयन (Supersaturated Solution)",
+          "en": "Supersaturated Solution"
+        },
+        {
+          "hi": "तनु विलयन",
+          "en": "Dilute solution"
+        },
+        {
+          "hi": "समांगी विलयन",
+          "en": "Homogeneous solution"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "100 ग्राम विलायक में किसी निश्चित ताप पर घुलने वाली विलेय की अधिकतम ग्राम मात्रा को क्या कहते हैं?",
+        "en": "Maximum mass of solute in grams that dissolves in 100g of solvent at a given temp is?"
+      },
+      "o": [
+        {
+          "hi": "सांद्रता",
+          "en": "Concentration"
+        },
+        {
+          "hi": "मोलरता",
+          "en": "Molarity"
+        },
+        {
+          "hi": "विलेयता (Solubility)",
+          "en": "Solubility"
+        },
+        {
+          "hi": "मोललता",
+          "en": "Molality"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तापमान बढ़ाने पर अधिकांश ठोस पदार्थों की जल में विलेयता (Solubility of Solids) पर क्या प्रभाव पड़ता है?",
+        "en": "With increase in temperature, solubility of most crystalline solids in water usually does what?"
+      },
+      "o": [
+        {
+          "hi": "घट जाती है",
+          "en": "Decreases"
+        },
+        {
+          "hi": "शून्य हो जाती है",
+          "en": "Becomes zero"
+        },
+        {
+          "hi": "अपरिवर्तित रहती है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "बढ़ जाती है (Increases)",
+          "en": "Increases"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से किस ठोस पदार्थ की विलेयता तापमान बढ़ाने पर घटती है?",
+        "en": "Solubility of which of the following substances in water decreases with rising temp?"
+      },
+      "o": [
+        {
+          "hi": "बुझा चूना / सीरियम सल्फेट [Ca(OH)2 & Ce2(SO4)3]",
+          "en": "Slaked lime / Cerium sulfate [Ca(OH)2]"
+        },
+        {
+          "hi": "पोटेशियम नाइट्रेट (KNO3)",
+          "en": "Potassium nitrate (KNO3)"
+        },
+        {
+          "hi": "सोडियम क्लोराइड (NaCl)",
+          "en": "Sodium chloride (NaCl)"
+        },
+        {
+          "hi": "चीनी (सुक्रोज)",
+          "en": "Sugar (Sucrose)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तापमान बढ़ाने पर द्रवों में गैसों की विलेयता (Solubility of Gases in Liquids) पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to the solubility of gases in liquids with an increase in temperature?"
+      },
+      "o": [
+        {
+          "hi": "बढ़ जाती है",
+          "en": "Increases"
+        },
+        {
+          "hi": "घट जाती है (Decreases)",
+          "en": "Decreases"
+        },
+        {
+          "hi": "अपरिवर्तित रहती है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "अनंत हो जाती है",
+          "en": "Becomes infinite"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "उबालने पर पानी से घुली हुई गैसें (जैसे ऑक्सीजन) बाहर क्यों निकल जाती हैं?",
+        "en": "Why do dissolved gases like oxygen escape when water is heated to boiling?"
+      },
+      "o": [
+        {
+          "hi": "ताप बढ़ने से जल का घनत्व बढ़ता है",
+          "en": "Water density rises"
+        },
+        {
+          "hi": "ताप बढ़ने से जल का पृष्ठ तनाव घटता है",
+          "en": "Surface tension drops"
+        },
+        {
+          "hi": "तापमान बढ़ने से गैसों की विलेयता घट जाती है",
+          "en": "Gas solubility decreases with temperature rise"
+        },
+        {
+          "hi": "गैसें ठोस बन जाती हैं",
+          "en": "Gases turn solid"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गर्म जल में जलीय जीवों (मछलियों) को जीवित रहना कठिन क्यों होता है?",
+        "en": "Why is survival of aquatic life difficult in hot/warm industrial wastewater?"
+      },
+      "o": [
+        {
+          "hi": "गर्म पानी में तैर नहीं सकतीं",
+          "en": "Fish cannot swim"
+        },
+        {
+          "hi": "गर्म पानी में भोजन नहीं मिलता",
+          "en": "No food in hot water"
+        },
+        {
+          "hi": "पानी का रंग बदल जाता है",
+          "en": "Water color changes"
+        },
+        {
+          "hi": "ताप बढ़ने से जल में घुली ऑक्सीजन की मात्रा घट जाती है",
+          "en": "Dissolved oxygen decreases at higher temperature"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दाब बढ़ाने पर द्रवों में गैसों की विलेयता पर क्या प्रभाव पड़ता है (हेनरी का नियम)?",
+        "en": "According to Henry's Law, what happens to gas solubility in liquids as pressure rises?"
+      },
+      "o": [
+        {
+          "hi": "विलेयता बढ़ जाती है (Solubility increases)",
+          "en": "Solubility increases"
+        },
+        {
+          "hi": "विलेयता घट जाती है",
+          "en": "Solubility decreases"
+        },
+        {
+          "hi": "विलेयता अपरिवर्तित रहती है",
+          "en": "Solubility remains unchanged"
+        },
+        {
+          "hi": "गैस जम जाती है",
+          "en": "Gas solidifies"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सोडा वाटर अथवा कोल्ड ड्रिंक्स की बोतल उच्च दाब पर क्यों बंद की जाती है?",
+        "en": "Why are carbonated beverage bottles capped under high industrial pressure?"
+      },
+      "o": [
+        {
+          "hi": "बोतल को मजबूत करने हेतु",
+          "en": "To strengthen bottle"
+        },
+        {
+          "hi": "CO2 गैस की विलेयता बढ़ाने के लिए (हेनरी के नियम से)",
+          "en": "To increase solubility of CO2 gas (Henry's law)"
+        },
+        {
+          "hi": "तापमान कम करने हेतु",
+          "en": "To lower temperature"
+        },
+        {
+          "hi": "कीटाणुओं को मारने हेतु",
+          "en": "To kill bacteria"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1 लीटर विलयन में घुले विलेय के मोलों की संख्या को क्या कहा जाता है?",
+        "en": "Number of moles of solute dissolved per liter (1000 mL) of solution is called?"
+      },
+      "o": [
+        {
+          "hi": "मोललता (Molality)",
+          "en": "Molality"
+        },
+        {
+          "hi": "नॉर्मलता (Normality)",
+          "en": "Normality"
+        },
+        {
+          "hi": "मोलरता (Molarity - M = मोल/लीटर)",
+          "en": "Molarity (M = mol/L)"
+        },
+        {
+          "hi": "मोल प्रभाज",
+          "en": "Mole fraction"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1 किलोग्राम (1000 ग्राम) विलायक में घुले विलेय के मोलों की संख्या को क्या कहते हैं?",
+        "en": "Number of moles of solute dissolved in 1 kilogram of solvent is called?"
+      },
+      "o": [
+        {
+          "hi": "मोलरता",
+          "en": "Molarity"
+        },
+        {
+          "hi": "नॉर्मलता",
+          "en": "Normality"
+        },
+        {
+          "hi": "फॉर्मलता",
+          "en": "Formality"
+        },
+        {
+          "hi": "मोललता (Molality - m = मोल/किग्रा)",
+          "en": "Molality (m = mol/kg)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित सांद्रता इकाइयों में से कौन-सी इकाई तापमान परिवर्तन से पूर्णतः अप्रभावित रहती है?",
+        "en": "Which concentration unit is completely independent of temperature changes?"
+      },
+      "o": [
+        {
+          "hi": "मोललता (Molality) एवं द्रव्यमान प्रतिशत",
+          "en": "Molality and Mass percentage"
+        },
+        {
+          "hi": "मोलरता (Molarity)",
+          "en": "Molarity"
+        },
+        {
+          "hi": "नॉर्मलता (Normality)",
+          "en": "Normality"
+        },
+        {
+          "hi": "आयतन प्रतिशत",
+          "en": "Volume percentage"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मोलरता (Molarity) तापमान बदलने पर क्यों बदल जाती है?",
+        "en": "Why does Molarity change with changes in temperature?"
+      },
+      "o": [
+        {
+          "hi": "तापमान बदलने से विलेय के मोल बदल जाते हैं",
+          "en": "Moles of solute change"
+        },
+        {
+          "hi": "तापमान बदलने से विलयन का आयतन (Volume) बदल जाता है",
+          "en": "Volume of solution expands or contracts"
+        },
+        {
+          "hi": "घनत्व शून्य हो जाता है",
+          "en": "Density becomes zero"
+        },
+        {
+          "hi": "रासायनिक क्रिया होती है",
+          "en": "Chemical reaction occurs"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विलयन के वे भौतिक गुण जो केवल विलेय कणों की संख्या पर निर्भर करते हैं, क्या कहलाते हैं?",
+        "en": "Properties of dilute solutions depending solely on number of solute particles are?"
+      },
+      "o": [
+        {
+          "hi": "विशिष्ट गुणधर्म",
+          "en": "Specific properties"
+        },
+        {
+          "hi": "रासायनिक गुणधर्म",
+          "en": "Chemical properties"
+        },
+        {
+          "hi": "अणुसंख्य गुणधर्म (Colligative Properties)",
+          "en": "Colligative Properties"
+        },
+        {
+          "hi": "ऊष्मीय गुणधर्म",
+          "en": "Thermal properties"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा एक अणुसंख्य गुणधर्म (Colligative Property) नहीं है?",
+        "en": "Which of the following physical properties is NOT a colligative property?"
+      },
+      "o": [
+        {
+          "hi": "परासरण दाब (Osmotic pressure)",
+          "en": "Osmotic pressure"
+        },
+        {
+          "hi": "क्वथनांक का उन्नयन",
+          "en": "Elevation of boiling point"
+        },
+        {
+          "hi": "हिमांक का अवनमन",
+          "en": "Depression of freezing point"
+        },
+        {
+          "hi": "पृष्ठ तनाव एवं श्यानता (Surface Tension & Viscosity)",
+          "en": "Surface Tension & Viscosity"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शुद्ध जल में अवाष्पशील विलेय (जैसे नमक या चीनी) मिलाने पर उसके क्वथनांक पर क्या प्रभाव पड़ता है?",
+        "en": "When a non-volatile solute like salt is added to water, what happens to boiling point?"
+      },
+      "o": [
+        {
+          "hi": "क्वथनांक बढ़ जाता है (Elevation of Boiling Point)",
+          "en": "Boiling point increases (Elevation)"
+        },
+        {
+          "hi": "क्वथनांक घट जाता है",
+          "en": "Boiling point decreases"
+        },
+        {
+          "hi": "क्वथनांक अपरिवर्तित रहता है",
+          "en": "Boiling point remains unchanged"
+        },
+        {
+          "hi": "जल जम जाता है",
+          "en": "Water freezes"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शुद्ध जल में नमक मिलाने पर उसके हिमांक (Freezing Point) पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to the freezing point of water when common salt (NaCl) is dissolved in it?"
+      },
+      "o": [
+        {
+          "hi": "बढ़ जाता है",
+          "en": "Increases"
+        },
+        {
+          "hi": "घट जाता है (Depression of Freezing Point)",
+          "en": "Decreases (Depression)"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "100°C हो जाता है",
+          "en": "Becomes 100°C"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सर्दियों में बर्फबारी वाले ठंडे देशों में सड़कों से बर्फ हटाने के लिए किसका छिड़काव किया जाता है?",
+        "en": "What is spread on snowy icy roads in winter to clear ice via depression of freezing point?"
+      },
+      "o": [
+        {
+          "hi": "रेत और पानी",
+          "en": "Sand and water"
+        },
+        {
+          "hi": "सल्फर पाउडर",
+          "en": "Sulfur powder"
+        },
+        {
+          "hi": "साधारण नमक (NaCl) अथवा कैल्शियम क्लोराइड (CaCl2)",
+          "en": "Common Salt (NaCl) or Calcium Chloride (CaCl2)"
+        },
+        {
+          "hi": "यूरिया",
+          "en": "Urea"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अत्यधिक ठंडे प्रदेशों में गाड़ियों के रेडिएटर का पानी जमने से रोकने के लिए उसमें क्या मिलाया जाता है?",
+        "en": "What antifreeze chemical is mixed in car engine cooling radiators in freezing climates?"
+      },
+      "o": [
+        {
+          "hi": "अल्कोहल",
+          "en": "Alcohol"
+        },
+        {
+          "hi": "ग्लूकोज",
+          "en": "Glucose"
+        },
+        {
+          "hi": "सिरका",
+          "en": "Vinegar"
+        },
+        {
+          "hi": "एथिलीन ग्लाइकॉल (Ethylene Glycol - प्रतिहिम / Antifreeze)",
+          "en": "Ethylene Glycol (Antifreeze)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अर्धपारगम्य झिल्ली (SPM) से होकर विलायक के अणुओं का कम सांद्रता से अधिक सांद्रता की ओर स्वतः प्रवाह क्या कहलाता है?",
+        "en": "Spontaneous flow of solvent molecules through semipermeable membrane from low to high conc is?"
+      },
+      "o": [
+        {
+          "hi": "परासरण (Osmosis)",
+          "en": "Osmosis"
+        },
+        {
+          "hi": "विसरण (Diffusion)",
+          "en": "Diffusion"
+        },
+        {
+          "hi": "अपोहन (Dialysis)",
+          "en": "Dialysis"
+        },
+        {
+          "hi": "स्कंदन",
+          "en": "Coagulation"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पानी में रखने पर सूखी किशमिश का फूल जाना किस परिघटना का उदाहरण है?",
+        "en": "Swelling of dry raisins when soaked in plain water is an example of what?"
+      },
+      "o": [
+        {
+          "hi": "विसरण",
+          "en": "Diffusion"
+        },
+        {
+          "hi": "अंतःपरासरण (Endosmosis)",
+          "en": "Endosmosis"
+        },
+        {
+          "hi": "बहिःपरासरण (Exosmosis)",
+          "en": "Exosmosis"
+        },
+        {
+          "hi": "जीवद्रव्यकुंचन",
+          "en": "Plasmolysis"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नमक के गाढ़े घोल में ताजा अंगूर रखने पर उसका सिकुड़ (पिचक) जाना किसका उदाहरण है?",
+        "en": "Shrinking of fresh grapes when placed in concentrated hypertonic salt solution is?"
+      },
+      "o": [
+        {
+          "hi": "अंतःपरासरण",
+          "en": "Endosmosis"
+        },
+        {
+          "hi": "विसरण",
+          "en": "Diffusion"
+        },
+        {
+          "hi": "बहिःपरासरण (Exosmosis / Plasmolysis)",
+          "en": "Exosmosis / Plasmolysis"
+        },
+        {
+          "hi": "केशिकत्व",
+          "en": "Capillarity"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अंडे को नमक के सांद्र घोल में रखने पर क्या होता है?",
+        "en": "What happens to a de-shelled raw egg when placed in a concentrated salt solution?"
+      },
+      "o": [
+        {
+          "hi": "अंडा फूल जाता है",
+          "en": "Egg swells"
+        },
+        {
+          "hi": "अंडा फट जाता है",
+          "en": "Egg bursts"
+        },
+        {
+          "hi": "अंडे पर कोई प्रभाव नहीं पड़ता",
+          "en": "No effect on egg"
+        },
+        {
+          "hi": "बहिःपरासरण के कारण अंडा सिकुड़ जाता है",
+          "en": "Egg shrinks due to exosmosis"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समुद्री खारे पानी से शुद्ध पेयजल प्राप्त करने के लिए किस आधुनिक तकनीक का उपयोग किया जाता है?",
+        "en": "Which membrane separation technology is used for desalination of seawater?"
+      },
+      "o": [
+        {
+          "hi": "उत्क्रम परासरण (Reverse Osmosis - RO)",
+          "en": "Reverse Osmosis (RO)"
+        },
+        {
+          "hi": "साधारण निस्यंदन",
+          "en": "Simple filtration"
+        },
+        {
+          "hi": "अपकेंद्रीकरण",
+          "en": "Centrifugation"
+        },
+        {
+          "hi": "स्कंदन",
+          "en": "Coagulation"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उत्क्रम परासरण (RO) में विलायक का प्रवाह किस दिशा में होता है?",
+        "en": "In Reverse Osmosis (RO), how do solvent molecules move across the membrane?"
+      },
+      "o": [
+        {
+          "hi": "कम सांद्रता से अधिक सांद्रता की ओर",
+          "en": "Low to high concentration"
+        },
+        {
+          "hi": "अधिक सांद्रता वाले घोल से शुद्ध विलायक की ओर (दाब लगाकर)",
+          "en": "From high conc to pure solvent (applying P > π)"
+        },
+        {
+          "hi": "दोनों दिशाओं में समान",
+          "en": "Equally in both directions"
+        },
+        {
+          "hi": "प्रवाह रुक जाता है",
+          "en": "Flow stops"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अचार को लंबे समय तक खराब होने से बचाने के लिए उसमें नमक और तेल क्यों डाला जाता है?",
+        "en": "Why are salt and oil added in pickles to preserve them from bacterial spoilage?"
+      },
+      "o": [
+        {
+          "hi": "अचार का रंग निखारने हेतु",
+          "en": "To improve color"
+        },
+        {
+          "hi": "अचार को नरम रखने हेतु",
+          "en": "To keep pickle soft"
+        },
+        {
+          "hi": "बहिःपरासरण द्वारा जीवाणुओं को सुखाकर नष्ट करने के लिए",
+          "en": "Bacterial cells shrink and die by exosmosis"
+        },
+        {
+          "hi": "अचार को भारी बनाने हेतु",
+          "en": "To make pickle heavy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कोलाइडल कणों (Colloidal Particles) का आकार सामान्यतः किस परास (Range) में होता है?",
+        "en": "What is the typical diameter particle size range of colloidal systems?"
+      },
+      "o": [
+        {
+          "hi": "10^-10 मीटर से कम",
+          "en": "Less than 10^-10 m"
+        },
+        {
+          "hi": "10^-4 मीटर से बड़ा",
+          "en": "Greater than 10^-4 m"
+        },
+        {
+          "hi": "1 मीटर",
+          "en": "1 meter"
+        },
+        {
+          "hi": "1 नैनोमीटर से 100 नैनोमीटर (10^-7 सेमी से 10^-5 सेमी)",
+          "en": "1 nm to 100 nm (10^-7 cm to 10^-5 cm)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वास्तविक विलयन (True Solution) में विलेय कणों का आकार कितना होता है?",
+        "en": "What is the particle diameter in a true homogeneous molecular solution?"
+      },
+      "o": [
+        {
+          "hi": "1 नैनोमीटर से कम (Less than 1 nm / < 10^-7 cm)",
+          "en": "Less than 1 nm (< 10^-7 cm)"
+        },
+        {
+          "hi": "1 nm से 100 nm के बीच",
+          "en": "Between 1 nm and 100 nm"
+        },
+        {
+          "hi": "100 nm से अधिक",
+          "en": "Greater than 100 nm"
+        },
+        {
+          "hi": "1 मिमी",
+          "en": "1 mm"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "निलंबन (Suspension - जैसे गंदा मटमैला जल) में कणों का आकार कितना होता है?",
+        "en": "What is the particle diameter in a heterogeneous coarse suspension?"
+      },
+      "o": [
+        {
+          "hi": "1 nm से कम",
+          "en": "Less than 1 nm"
+        },
+        {
+          "hi": "100 नैनोमीटर से अधिक (Greater than 100 nm / > 10^-5 cm)",
+          "en": "Greater than 100 nm (> 10^-5 cm)"
+        },
+        {
+          "hi": "1 Å",
+          "en": "1 Å"
+        },
+        {
+          "hi": "0.1 nm",
+          "en": "0.1 nm"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कोलाइडल विलयन में प्रकाश की किरण गुजरने पर प्रकाश का प्रकीर्णन और मार्ग का चमकना क्या कहलाता है?",
+        "en": "Scattering of light beam by colloidal particles making its path visible is?"
+      },
+      "o": [
+        {
+          "hi": "रमन प्रभाव",
+          "en": "Raman effect"
+        },
+        {
+          "hi": "कॉम्पटन प्रभाव",
+          "en": "Compton effect"
+        },
+        {
+          "hi": "टिंडल प्रभाव (Tyndall Effect)",
+          "en": "Tyndall Effect"
+        },
+        {
+          "hi": "डॉप्लर प्रभाव",
+          "en": "Doppler effect"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सिनेमा हॉल में प्रोजेक्टर से पर्दे पर जाती प्रकाश की किरण में धूल के कणों का चमकना किसका उदाहरण है?",
+        "en": "Visibility of light beam in a dusty cinema hall or dark room is due to?"
+      },
+      "o": [
+        {
+          "hi": "प्रकाश के परावर्तन का",
+          "en": "Reflection of light"
+        },
+        {
+          "hi": "प्रकाश के अपवर्तन का",
+          "en": "Refraction of light"
+        },
+        {
+          "hi": "प्रकाश के ध्रुवण का",
+          "en": "Polarization of light"
+        },
+        {
+          "hi": "टिंडल प्रभाव (Tyndall Effect) का",
+          "en": "Tyndall Effect"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कोलाइडल कणों की टेढ़ी-मेढ़ी (ज़िग-ज़ैग) अनियमित गति को क्या कहा जाता है?",
+        "en": "Continuous random zigzag motion of colloidal particles suspended in fluid is?"
+      },
+      "o": [
+        {
+          "hi": "ब्राउनी गति (Brownian Motion - रॉबर्ट ब्राउन द्वारा खोजी गई)",
+          "en": "Brownian Motion (discovered by Robert Brown)"
+        },
+        {
+          "hi": "सरल आवर्त गति",
+          "en": "Simple harmonic motion"
+        },
+        {
+          "hi": "रेखीय गति",
+          "en": "Linear motion"
+        },
+        {
+          "hi": "वृत्तीय गति",
+          "en": "Circular motion"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दूध (Milk) निम्नलिखित में से किस प्रकार का कोलाइडल तंत्र है?",
+        "en": "Milk is which classic type of colloidal dispersion?"
+      },
+      "o": [
+        {
+          "hi": "जेल (Gel)",
+          "en": "Gel"
+        },
+        {
+          "hi": "पायस या इमल्शन (Emulsion - द्रव में द्रव का कोलाइड)",
+          "en": "Emulsion (Liquid in Liquid)"
+        },
+        {
+          "hi": "झाग (Foam)",
+          "en": "Foam"
+        },
+        {
+          "hi": "एरोसोल (Aerosol)",
+          "en": "Aerosol"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कोहरा, कुहासा और बादल (Fog, Mist & Clouds) किस प्रकार के कोलाइड हैं?",
+        "en": "Fog, mist and clouds are examples of which colloidal system?"
+      },
+      "o": [
+        {
+          "hi": "द्रव में ठोस",
+          "en": "Solid in liquid"
+        },
+        {
+          "hi": "ठोस में गैस",
+          "en": "Gas in solid"
+        },
+        {
+          "hi": "एरोसोल (Aerosol - गैस में परिक्षिप्त द्रव)",
+          "en": "Aerosol (Liquid dispersed in gas)"
+        },
+        {
+          "hi": "पायस",
+          "en": "Emulsion"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "धुआं (Smoke) और वाहनों का एग्जॉस्ट किस प्रकार का कोलाइडल तंत्र है?",
+        "en": "Smoke and automobile soot exhaust represent which colloidal system?"
+      },
+      "o": [
+        {
+          "hi": "द्रव में द्रव",
+          "en": "Liquid in liquid"
+        },
+        {
+          "hi": "गैस में गैस",
+          "en": "Gas in gas"
+        },
+        {
+          "hi": "ठोस में द्रव",
+          "en": "Liquid in solid"
+        },
+        {
+          "hi": "एरोसोल (Aerosol - गैस में परिक्षिप्त ठोस कण)",
+          "en": "Aerosol (Solid particles dispersed in gas)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मक्खन, पनीर और जेली (Butter, Cheese & Jelly) किस प्रकार के कोलाइडल रूप हैं?",
+        "en": "Butter, cheese and jelly are everyday examples of which colloid?"
+      },
+      "o": [
+        {
+          "hi": "जेल (Gel - ठोस में परिक्षिप्त द्रव)",
+          "en": "Gel (Liquid dispersed in solid)"
+        },
+        {
+          "hi": "सॉल (Sol)",
+          "en": "Sol"
+        },
+        {
+          "hi": "झाग (Foam)",
+          "en": "Foam"
+        },
+        {
+          "hi": "पायस (Emulsion)",
+          "en": "Emulsion"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शेविंग क्रीम और साबुन का झाग किस प्रकार का कोलाइडल तंत्र है?",
+        "en": "Shaving cream and soap lather are examples of which colloid?"
+      },
+      "o": [
+        {
+          "hi": "जेल",
+          "en": "Gel"
+        },
+        {
+          "hi": "झाग या फोम (Foam - द्रव में परिक्षिप्त गैस)",
+          "en": "Foam (Gas dispersed in liquid)"
+        },
+        {
+          "hi": "एरोसोल",
+          "en": "Aerosol"
+        },
+        {
+          "hi": "सॉल",
+          "en": "Sol"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव रक्त (Blood) किस प्रकार का विलयन है?",
+        "en": "Human blood is scientifically categorized as which type of solution?"
+      },
+      "o": [
+        {
+          "hi": "वास्तविक विलयन",
+          "en": "True solution"
+        },
+        {
+          "hi": "निलंबन",
+          "en": "Suspension"
+        },
+        {
+          "hi": "धनावेशित कोलाइडल विलयन (Colloidal Solution)",
+          "en": "Colloidal Solution"
+        },
+        {
+          "hi": "गैसीय विलयन",
+          "en": "Gaseous solution"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नदी और समुद्र के संगम पर डेल्टा (Delta) का निर्माण किस प्रक्रिया द्वारा होता है?",
+        "en": "Formation of delta at mouth of rivers meeting sea is due to which process?"
+      },
+      "o": [
+        {
+          "hi": "वाष्पीकरण द्वारा",
+          "en": "Evaporation"
+        },
+        {
+          "hi": "अवसादन द्वारा",
+          "en": "Sedimentation"
+        },
+        {
+          "hi": "आसवन द्वारा",
+          "en": "Distillation"
+        },
+        {
+          "hi": "समुद्री लवणों द्वारा मिट्टी के कोलाइडल कणों के स्कंदन (Coagulation) से",
+          "en": "Coagulation of clay colloids by seawater salts"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रक्तस्राव (Bleeding) को रोकने के लिए दाढ़ी कटने पर फिटकरी या फेरिक क्लोराइड क्यों लगाया जाता है?",
+        "en": "Why is alum or ferric chloride applied on cuts to stop bleeding?"
+      },
+      "o": [
+        {
+          "hi": "रक्त के कोलाइडल कणों को स्कंदित (Coagulate) कर थक्का जमाने हेतु",
+          "en": "To coagulate blood colloids and form clot"
+        },
+        {
+          "hi": "घाव को सुखाने के लिए",
+          "en": "To dry the cut"
+        },
+        {
+          "hi": "त्वचा का रंग बदलने के लिए",
+          "en": "To change skin color"
+        },
+        {
+          "hi": "ठंडक पहुंचाने के लिए",
+          "en": "To cool the skin"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोलाइडल विलयन से अशुद्धियों को अर्धपारगम्य झिल्ली द्वारा छानकर अलग करना क्या कहलाता है?",
+        "en": "Purification of colloids from dissolved crystalloids using membrane is?"
+      },
+      "o": [
+        {
+          "hi": "निस्यंदन",
+          "en": "Filtration"
+        },
+        {
+          "hi": "अपोहन (डायलिसिस - Dialysis)",
+          "en": "Dialysis"
+        },
+        {
+          "hi": "स्कंदन",
+          "en": "Coagulation"
+        },
+        {
+          "hi": "पेप्टीकरण",
+          "en": "Peptization"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गुर्दा (किडनी) खराब होने पर मरीज के रक्त के शुद्धिकरण के लिए प्रयुक्त कृत्रिम वृक्क (Artificial Kidney) किस पर आधारित है?",
+        "en": "Hemodialysis in artificial kidney machines used for renal failure operates on?"
+      },
+      "o": [
+        {
+          "hi": "उत्क्रम परासरण पर",
+          "en": "Reverse osmosis"
+        },
+        {
+          "hi": "टिंडल प्रभाव पर",
+          "en": "Tyndall effect"
+        },
+        {
+          "hi": "अपोहन के सिद्धांत (Principle of Dialysis) पर",
+          "en": "Principle of Dialysis"
+        },
+        {
+          "hi": "वाष्पीकरण पर",
+          "en": "Evaporation"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "धुएं से कार्बन के कणों को अलग करने के लिए कारखानों की चिमनियों में कौन-सा अवक्षेपक लगाया जाता है?",
+        "en": "Electrostatic precipitator installed in factory chimneys to capture soot is?"
+      },
+      "o": [
+        {
+          "hi": "बॉयलर",
+          "en": "Boiler"
+        },
+        {
+          "hi": "कंडेनसर",
+          "en": "Condenser"
+        },
+        {
+          "hi": "स्क्रबर",
+          "en": "Scrubber"
+        },
+        {
+          "hi": "कॉटरेल अवक्षेपक (Cottrell Precipitator)",
+          "en": "Cottrell Precipitator"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कॉटरेल अवक्षेपक किस सिद्धांत पर कार्य करता है?",
+        "en": "Cottrell Smoke Precipitator functions based on which colloidal property?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत आवेश न्यूट्रलाइजेशन / स्कंदन (Coagulation)",
+          "en": "Neutralization of colloidal charge / Coagulation"
+        },
+        {
+          "hi": "टिंडल प्रभाव",
+          "en": "Tyndall effect"
+        },
+        {
+          "hi": "ब्राउनी गति",
+          "en": "Brownian motion"
+        },
+        {
+          "hi": "अपोहन",
+          "en": "Dialysis"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ताजे बने अवक्षेप को किसी विद्युत अपघट्य की सहायता से पुनः कोलाइडल विलयन में बदलना क्या कहलाता है?",
+        "en": "Conversion of a freshly prepared precipitate into colloid using electrolyte is?"
+      },
+      "o": [
+        {
+          "hi": "स्कंदन (Coagulation)",
+          "en": "Coagulation"
+        },
+        {
+          "hi": "पेप्टीकरण (Peptization)",
+          "en": "Peptization"
+        },
+        {
+          "hi": "अपोहन (Dialysis)",
+          "en": "Dialysis"
+        },
+        {
+          "hi": "पायसीकरण (Emulsification)",
+          "en": "Emulsification"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

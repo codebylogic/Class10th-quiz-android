@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - रसायन विज्ञान (Chemistry)",
+  "subtitle": "पदार्थ एवं उसकी प्रकृति",
+  "description": "पदार्थ एवं उसकी प्रकृति पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "आधुनिक रसायन विज्ञान (Modern Chemistry) का जनक किसे कहा जाता है?",
+        "en": "Who is regarded as the Father of Modern Chemistry?"
+      },
+      "o": [
+        {
+          "hi": "एंटोनी लेवोजियर (Antoine Lavoisier) को",
+          "en": "Antoine Lavoisier"
+        },
+        {
+          "hi": "जॉन डाल्टन को",
+          "en": "John Dalton"
+        },
+        {
+          "hi": "रॉबर्ट बॉयल को",
+          "en": "Robert Boyle"
+        },
+        {
+          "hi": "मेंडेलीफ को",
+          "en": "Dmitri Mendeleev"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पदार्थ की वह अवस्था जिसमें निश्चित आकार और निश्चित आयतन दोनों होते हैं, क्या कहलाती है?",
+        "en": "The state of matter possessing both definite shape and definite volume is?"
+      },
+      "o": [
+        {
+          "hi": "द्रव अवस्था",
+          "en": "Liquid state"
+        },
+        {
+          "hi": "ठोस अवस्था (Solid State)",
+          "en": "Solid State"
+        },
+        {
+          "hi": "गैस अवस्था",
+          "en": "Gaseous state"
+        },
+        {
+          "hi": "प्लाज्मा अवस्था",
+          "en": "Plasma state"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पदार्थ की वह अवस्था जिसका आयतन निश्चित होता है परंतु आकार अनिश्चित होता है, क्या कहलाती है?",
+        "en": "State of matter having fixed volume but no fixed shape is?"
+      },
+      "o": [
+        {
+          "hi": "ठोस",
+          "en": "Solid"
+        },
+        {
+          "hi": "गैस",
+          "en": "Gas"
+        },
+        {
+          "hi": "द्रव (Liquid)",
+          "en": "Liquid"
+        },
+        {
+          "hi": "प्लाज्मा",
+          "en": "Plasma"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पदार्थ की वह अवस्था जिसमें न तो निश्चित आकार होता है और न ही निश्चित आयतन, क्या कहलाती है?",
+        "en": "State of matter having neither definite shape nor definite volume is?"
+      },
+      "o": [
+        {
+          "hi": "ठोस",
+          "en": "Solid"
+        },
+        {
+          "hi": "द्रव",
+          "en": "Liquid"
+        },
+        {
+          "hi": "बोस-आइंस्टीन कंडेनसेट",
+          "en": "Bose-Einstein Condensate"
+        },
+        {
+          "hi": "गैस (Gas)",
+          "en": "Gas"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पदार्थ की चौथी अवस्था (Fourth State of Matter) कौन-सी मानी जाती है?",
+        "en": "What is considered the fourth state of matter?"
+      },
+      "o": [
+        {
+          "hi": "प्लाज्मा (Plasma - अति-ऊर्जावान आयनित गैस)",
+          "en": "Plasma (super-energetic ionized gas)"
+        },
+        {
+          "hi": "बोस-आइंस्टीन कंडेनसेट",
+          "en": "Bose-Einstein Condensate"
+        },
+        {
+          "hi": "सुपर लिक्विड",
+          "en": "Super liquid"
+        },
+        {
+          "hi": "कोलाइड",
+          "en": "Colloid"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सूर्य और तारों में चमक तथा अत्यधिक ऊर्जा पदार्थ की किस अवस्था की उपस्थिति के कारण होती है?",
+        "en": "Luminosity in Sun and stars is caused by presence of which state of matter?"
+      },
+      "o": [
+        {
+          "hi": "ठोस अवस्था",
+          "en": "Solid state"
+        },
+        {
+          "hi": "प्लाज्मा अवस्था (Plasma State)",
+          "en": "Plasma State"
+        },
+        {
+          "hi": "गैस अवस्था",
+          "en": "Gas state"
+        },
+        {
+          "hi": "द्रव अवस्था",
+          "en": "Liquid state"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पदार्थ की पांचवीं अवस्था (Fifth State of Matter) कौन-सी है?",
+        "en": "Which is recognized as the fifth state of matter?"
+      },
+      "o": [
+        {
+          "hi": "प्लाज्मा",
+          "en": "Plasma"
+        },
+        {
+          "hi": "अति-ठोस",
+          "en": "Super solid"
+        },
+        {
+          "hi": "बोस-आइंस्टीन कंडेनसेट (BEC)",
+          "en": "Bose-Einstein Condensate (BEC)"
+        },
+        {
+          "hi": "क्वांटम द्रव",
+          "en": "Quantum liquid"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बोस-आइंस्टीन कंडेनसेट (BEC) की सैद्धांतिक गणना 1920 में किस भारतीय वैज्ञानिक ने की थी?",
+        "en": "Which Indian physicist did foundational calculations for BEC in 1920?"
+      },
+      "o": [
+        {
+          "hi": "सी. वी. रमन",
+          "en": "C.V. Raman"
+        },
+        {
+          "hi": "होमी भाभा",
+          "en": "Homi Bhabha"
+        },
+        {
+          "hi": "मेघनाद साहा",
+          "en": "Meghnad Saha"
+        },
+        {
+          "hi": "सत्येंद्र नाथ बोस (S.N. Bose)",
+          "en": "Satyendra Nath Bose"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वह शुद्ध पदार्थ जिसे किसी भी भौतिक या रासायनिक विधि द्वारा दो या दो से अधिक सरल पदार्थों में विभाजित नहीं किया जा सकता, क्या कहलाता है?",
+        "en": "Pure substance that cannot be split into simpler substances by ordinary methods is?"
+      },
+      "o": [
+        {
+          "hi": "तत्व (Element)",
+          "en": "Element"
+        },
+        {
+          "hi": "यौगिक (Compound)",
+          "en": "Compound"
+        },
+        {
+          "hi": "मिश्रण (Mixture)",
+          "en": "Mixture"
+        },
+        {
+          "hi": "विलयन (Solution)",
+          "en": "Solution"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दो या दो से अधिक तत्वों के एक निश्चित भार अनुपात में रासायनिक संयोग से बनने वाला पदार्थ क्या कहलाता है?",
+        "en": "Substance formed by chemical combination of two or more elements in fixed proportion is?"
+      },
+      "o": [
+        {
+          "hi": "मिश्रण",
+          "en": "Mixture"
+        },
+        {
+          "hi": "यौगिक (Compound - जैसे H2O, CO2)",
+          "en": "Compound (e.g. H2O, CO2)"
+        },
+        {
+          "hi": "समांगी मिश्रण",
+          "en": "Homogeneous mixture"
+        },
+        {
+          "hi": "मिश्रधातु",
+          "en": "Alloy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दो या दो से अधिक पदार्थों को किसी भी अनुपात में बिना किसी रासायनिक क्रिया के मिलाने पर क्या बनता है?",
+        "en": "What is formed when two or more substances mix physically in any ratio without reaction?"
+      },
+      "o": [
+        {
+          "hi": "यौगिक",
+          "en": "Compound"
+        },
+        {
+          "hi": "तत्व",
+          "en": "Element"
+        },
+        {
+          "hi": "मिश्रण (Mixture)",
+          "en": "Mixture"
+        },
+        {
+          "hi": "अणु",
+          "en": "Molecule"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वायु (Air) निम्नलिखित में से किसका एक प्रमुख उदाहरण है?",
+        "en": "Air is a classic everyday example of which of the following?"
+      },
+      "o": [
+        {
+          "hi": "एक शुद्ध तत्व का",
+          "en": "A pure element"
+        },
+        {
+          "hi": "एक रासायनिक यौगिक का",
+          "en": "A chemical compound"
+        },
+        {
+          "hi": "एक विषमांगी पायस का",
+          "en": "A heterogeneous emulsion"
+        },
+        {
+          "hi": "विभिन्न गैसों के समांगी मिश्रण का",
+          "en": "A homogeneous mixture of gases"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भूपर्पटी (Earth's Crust) में द्रव्यमान के अनुसार सर्वाधिक मात्रा में पाया जाने वाला तत्व कौन-सा है?",
+        "en": "Which element is most abundant by mass in the Earth's crust?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सीजन (लगभग 46.6%)",
+          "en": "Oxygen (approx 46.6%)"
+        },
+        {
+          "hi": "सिलिकॉन (लगभग 27.7%)",
+          "en": "Silicon (approx 27.7%)"
+        },
+        {
+          "hi": "एल्युमिनियम",
+          "en": "Aluminium"
+        },
+        {
+          "hi": "लोहा",
+          "en": "Iron"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भूपर्पटी में सर्वाधिक मात्रा में पाई जाने वाली धातु (Metal) कौन-सी है?",
+        "en": "Which metal is the most abundant in the Earth's crust?"
+      },
+      "o": [
+        {
+          "hi": "लोहा (Iron)",
+          "en": "Iron"
+        },
+        {
+          "hi": "एल्युमिनियम (Aluminium - लगभग 8.1%)",
+          "en": "Aluminium (approx 8.1%)"
+        },
+        {
+          "hi": "कैल्शियम",
+          "en": "Calcium"
+        },
+        {
+          "hi": "सोडियम",
+          "en": "Sodium"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में द्रव्यमान के अनुसार सर्वाधिक प्रचुरता में कौन-सा तत्व पाया जाता है?",
+        "en": "Which chemical element is most abundant by mass in the human body?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन",
+          "en": "Carbon"
+        },
+        {
+          "hi": "हाइड्रोजन",
+          "en": "Hydrogen"
+        },
+        {
+          "hi": "ऑक्सीजन (लगभग 65%)",
+          "en": "Oxygen (approx 65%)"
+        },
+        {
+          "hi": "नाइट्रोजन",
+          "en": "Nitrogen"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कमरे के सामान्य तापमान पर द्रव अवस्था में पाई जाने वाली एकमात्र धातु कौन-सी है?",
+        "en": "Which is the only metallic element that exists as a liquid at room temperature?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम",
+          "en": "Sodium"
+        },
+        {
+          "hi": "सीजियम",
+          "en": "Cesium"
+        },
+        {
+          "hi": "गैलियम",
+          "en": "Gallium"
+        },
+        {
+          "hi": "पारा या मरकरी (Mercury - Hg)",
+          "en": "Mercury (Hg)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कमरे के सामान्य तापमान पर द्रव अवस्था में पाई जाने वाली एकमात्र अधातु (Non-metal) कौन-सी है?",
+        "en": "Which is the only non-metallic element that is a liquid at room temperature?"
+      },
+      "o": [
+        {
+          "hi": "ब्रोमीन (Bromine - Br)",
+          "en": "Bromine (Br)"
+        },
+        {
+          "hi": "आयोडीन",
+          "en": "Iodine"
+        },
+        {
+          "hi": "क्लोरीन",
+          "en": "Chlorine"
+        },
+        {
+          "hi": "फास्फोरस",
+          "en": "Phosphorus"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा परिवर्तन एक भौतिक परिवर्तन (Physical Change) का उदाहरण है?",
+        "en": "Which of the following processes is a physical change?"
+      },
+      "o": [
+        {
+          "hi": "दूध से दही बनना",
+          "en": "Curdling of milk"
+        },
+        {
+          "hi": "जल का वाष्प अथवा बर्फ में बदलना",
+          "en": "Conversion of water to steam or ice"
+        },
+        {
+          "hi": "लोहे पर जंग लगना",
+          "en": "Rusting of iron"
+        },
+        {
+          "hi": "मोमबत्ती का जलना",
+          "en": "Burning of candle"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मोमबत्ती का जलना (Burning of Candle) किस प्रकार का परिवर्तन है?",
+        "en": "Burning of a candle involves which type of changes?"
+      },
+      "o": [
+        {
+          "hi": "केवल भौतिक परिवर्तन",
+          "en": "Only physical change"
+        },
+        {
+          "hi": "केवल रासायनिक परिवर्तन",
+          "en": "Only chemical change"
+        },
+        {
+          "hi": "भौतिक और रासायनिक दोनों परिवर्तन",
+          "en": "Both physical and chemical changes"
+        },
+        {
+          "hi": "नाभिकीय परिवर्तन",
+          "en": "Nuclear change"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लोहे में जंग लगना (Rusting of Iron) किस प्रकार के परिवर्तन का उदाहरण है?",
+        "en": "Rusting of iron is an example of which type of change?"
+      },
+      "o": [
+        {
+          "hi": "भौतिक परिवर्तन",
+          "en": "Physical change"
+        },
+        {
+          "hi": "विद्युत परिवर्तन",
+          "en": "Electrical change"
+        },
+        {
+          "hi": "उत्क्रमणीय परिवर्तन",
+          "en": "Reversible change"
+        },
+        {
+          "hi": "रासायनिक परिवर्तन (Chemical Change)",
+          "en": "Chemical Change"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लोहे में जंग लगने पर लोहे के भार पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to the weight of iron when it gets rusted?"
+      },
+      "o": [
+        {
+          "hi": "भार बढ़ जाता है (ऑक्सीजन व जल जुड़ने से)",
+          "en": "Weight increases (due to added O & H2O)"
+        },
+        {
+          "hi": "भार घट जाता है",
+          "en": "Weight decreases"
+        },
+        {
+          "hi": "भार अपरिवर्तित रहता है",
+          "en": "Weight remains unchanged"
+        },
+        {
+          "hi": "पहले घटता है फिर बढ़ता है",
+          "en": "First decreases then increases"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लोहे को जंग से बचाने के लिए उस पर जस्ते (Zinc) की परत चढ़ाने की प्रक्रिया को क्या कहते हैं?",
+        "en": "Process of coating iron with a protective layer of zinc is called?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत अपघटन",
+          "en": "Electrolysis"
+        },
+        {
+          "hi": "गैल्वनीकरण या यशदलेपन (Galvanization)",
+          "en": "Galvanization"
+        },
+        {
+          "hi": "वल्केनीकरण",
+          "en": "Vulcanization"
+        },
+        {
+          "hi": "क्रिस्टलन",
+          "en": "Crystallization"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किसी ठोस पदार्थ का गर्म करने पर बिना द्रव में बदले सीधे गैस में परिवर्तित होना क्या कहलाता है?",
+        "en": "Direct transition of a solid into vapor without melting into liquid is called?"
+      },
+      "o": [
+        {
+          "hi": "वाष्पीकरण",
+          "en": "Evaporation"
+        },
+        {
+          "hi": "संघनन",
+          "en": "Condensation"
+        },
+        {
+          "hi": "ऊर्ध्वपातन (Sublimation)",
+          "en": "Sublimation"
+        },
+        {
+          "hi": "गलनांक",
+          "en": "Melting point"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा पदार्थ ऊर्ध्वपातन (Sublimation) का गुण प्रदर्शित करता है?",
+        "en": "Which of the following substances exhibits sublimation?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम क्लोराइड",
+          "en": "Sodium chloride"
+        },
+        {
+          "hi": "पोटेशियम नाइट्रेट",
+          "en": "Potassium nitrate"
+        },
+        {
+          "hi": "कैल्शियम कार्बोनेट",
+          "en": "Calcium carbonate"
+        },
+        {
+          "hi": "कपूर, नेफ्थलीन, अमोनियम क्लोराइड व आयोडीन",
+          "en": "Camphor, Naphthalene, NH4Cl & Iodine"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कपूर को किस विधि द्वारा शुद्ध किया जाता है?",
+        "en": "By which purification method is impure camphor refined?"
+      },
+      "o": [
+        {
+          "hi": "ऊर्ध्वपातन (Sublimation) द्वारा",
+          "en": "By Sublimation"
+        },
+        {
+          "hi": "आसवन द्वारा",
+          "en": "By distillation"
+        },
+        {
+          "hi": "क्रिस्टलन द्वारा",
+          "en": "By crystallization"
+        },
+        {
+          "hi": "वर्णलेखन द्वारा",
+          "en": "By chromatography"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्वथनांकों में अधिक अंतर वाले दो या दो से अधिक घुलनशील द्रवों के मिश्रण को अलग करने की विधि क्या है?",
+        "en": "Method used to separate miscible liquids with large boiling point difference is?"
+      },
+      "o": [
+        {
+          "hi": "निस्यंदन",
+          "en": "Filtration"
+        },
+        {
+          "hi": "साधारण आसवन (Simple Distillation)",
+          "en": "Simple Distillation"
+        },
+        {
+          "hi": "ऊर्ध्वपातन",
+          "en": "Sublimation"
+        },
+        {
+          "hi": "अपकेंद्रीकरण",
+          "en": "Centrifugation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जिन द्रवों के क्वथनांकों में 25°C (या 25 K) से कम अंतर होता है, उन्हें किस विधि द्वारा पृथक किया जाता है?",
+        "en": "Miscible liquids with boiling point difference less than 25 K are separated by?"
+      },
+      "o": [
+        {
+          "hi": "साधारण आसवन से",
+          "en": "Simple distillation"
+        },
+        {
+          "hi": "भाप आसवन से",
+          "en": "Steam distillation"
+        },
+        {
+          "hi": "प्रभाजी आसवन (Fractional Distillation)",
+          "en": "Fractional Distillation"
+        },
+        {
+          "hi": "क्रिस्टलन से",
+          "en": "Crystallization"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कच्चे पेट्रोलियम (Crude Oil) से पेट्रोल, डीजल, केरोसिन आदि घटकों को किस विधि से अलग किया जाता है?",
+        "en": "Petroleum fractions (petrol, diesel, kerosene) are separated by which process?"
+      },
+      "o": [
+        {
+          "hi": "अवसादन द्वारा",
+          "en": "Sedimentation"
+        },
+        {
+          "hi": "ऊर्ध्वपातन द्वारा",
+          "en": "Sublimation"
+        },
+        {
+          "hi": "छानने द्वारा",
+          "en": "Filtration"
+        },
+        {
+          "hi": "प्रभाजी आसवन (Fractional Distillation) द्वारा",
+          "en": "Fractional Distillation"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्याही अथवा रंजकों (Dyes) में उपस्थित विभिन्न रंगों के घटकों को किस विधि से अलग किया जाता है?",
+        "en": "Components of colors present in dyes and inks are separated using which method?"
+      },
+      "o": [
+        {
+          "hi": "वर्णलेखन या क्रोमैटोग्राफी (Chromatography)",
+          "en": "Chromatography"
+        },
+        {
+          "hi": "आसवन",
+          "en": "Distillation"
+        },
+        {
+          "hi": "ऊर्ध्वपातन",
+          "en": "Sublimation"
+        },
+        {
+          "hi": "निथारना",
+          "en": "Decantation"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दूध से मक्खन (क्रीम) निकालने के लिए किस भौतिक विधि का उपयोग किया जाता है?",
+        "en": "Which physical separation technique is used to separate cream from milk?"
+      },
+      "o": [
+        {
+          "hi": "निस्यंदन (छानना)",
+          "en": "Filtration"
+        },
+        {
+          "hi": "अपकेंद्रीकरण (Centrifugation / अपकेंद्रीय बल)",
+          "en": "Centrifugation"
+        },
+        {
+          "hi": "वाष्पीकरण",
+          "en": "Evaporation"
+        },
+        {
+          "hi": "आसवन",
+          "en": "Distillation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पानी में निलंबित महीन अशुद्धियों को तेजी से नीचे बैठाने के लिए किसका उपयोग किया जाता है?",
+        "en": "Which chemical is added to muddy water to accelerate sedimentation (coagulation)?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम क्लोराइड",
+          "en": "Sodium chloride"
+        },
+        {
+          "hi": "ब्लीचिंग पाउडर",
+          "en": "Bleaching powder"
+        },
+        {
+          "hi": "फिटकरी (पोटाश एलम - Potash Alum)",
+          "en": "Potash Alum"
+        },
+        {
+          "hi": "बेकिंग सोडा",
+          "en": "Baking soda"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "फिटकरी द्वारा गंदे पानी का शुद्धिकरण किस वैज्ञानिक प्रक्रिया पर आधारित है?",
+        "en": "Purification of turbid water by alum is based on which colloid phenomenon?"
+      },
+      "o": [
+        {
+          "hi": "अपोहन (Dialysis)",
+          "en": "Dialysis"
+        },
+        {
+          "hi": "टिंडल प्रभाव",
+          "en": "Tyndall effect"
+        },
+        {
+          "hi": "ब्राउनी गति",
+          "en": "Brownian movement"
+        },
+        {
+          "hi": "स्कंदन (Coagulation / Flocculation)",
+          "en": "Coagulation / Flocculation"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नमक और पानी के घोल से शुद्ध नमक किस प्रक्रिया द्वारा प्राप्त किया जाता है?",
+        "en": "Common salt is obtained from sea water primarily through which process?"
+      },
+      "o": [
+        {
+          "hi": "वाष्पीकरण (Evaporation)",
+          "en": "Evaporation"
+        },
+        {
+          "hi": "आसवन",
+          "en": "Distillation"
+        },
+        {
+          "hi": "ऊर्ध्वपातन",
+          "en": "Sublimation"
+        },
+        {
+          "hi": "निस्यंदन",
+          "en": "Filtration"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समुद्री जल से पीने योग्य शुद्ध मीठा पानी किस प्रक्रिया द्वारा प्राप्त किया जाता है?",
+        "en": "Drinkable fresh water is extracted from seawater through which industrial process?"
+      },
+      "o": [
+        {
+          "hi": "अपकेंद्रीकरण",
+          "en": "Centrifugation"
+        },
+        {
+          "hi": "उत्क्रम परासरण (Reverse Osmosis - RO) या आसवन",
+          "en": "Reverse Osmosis (RO) or distillation"
+        },
+        {
+          "hi": "स्कंदन",
+          "en": "Coagulation"
+        },
+        {
+          "hi": "वर्णलेखन",
+          "en": "Chromatography"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जल का वाष्प में बदलना किस प्रकार का परिवर्तन है?",
+        "en": "Evaporation of water into steam is which type of change?"
+      },
+      "o": [
+        {
+          "hi": "रासायनिक परिवर्तन",
+          "en": "Chemical change"
+        },
+        {
+          "hi": "जैविक परिवर्तन",
+          "en": "Biological change"
+        },
+        {
+          "hi": "भौतिक परिवर्तन (Physical Change)",
+          "en": "Physical Change"
+        },
+        {
+          "hi": "ऊष्माक्षेपी परिवर्तन",
+          "en": "Exothermic change"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दूध से दही का बनना किस प्रकार का परिवर्तन है?",
+        "en": "Curdling of milk into yogurt/curd is which type of change?"
+      },
+      "o": [
+        {
+          "hi": "भौतिक परिवर्तन",
+          "en": "Physical change"
+        },
+        {
+          "hi": "उत्क्रमणीय परिवर्तन",
+          "en": "Reversible change"
+        },
+        {
+          "hi": "अस्थायी परिवर्तन",
+          "en": "Temporary change"
+        },
+        {
+          "hi": "रासायनिक परिवर्तन (Chemical Change)",
+          "en": "Chemical Change"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भोजन का पाचन (Digestion of Food) किस प्रकार का प्रक्रम है?",
+        "en": "Digestion of food in the human body is primarily which process?"
+      },
+      "o": [
+        {
+          "hi": "रासायनिक परिवर्तन (अपघटन एवं ऑक्सीकरण)",
+          "en": "Chemical change (decomposition & oxidation)"
+        },
+        {
+          "hi": "केवल भौतिक परिवर्तन",
+          "en": "Only physical change"
+        },
+        {
+          "hi": "यांत्रिक परिवर्तन",
+          "en": "Mechanical change"
+        },
+        {
+          "hi": "उत्क्रमणीय प्रक्रम",
+          "en": "Reversible process"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फलों का पकना (Ripening of Fruits) किस प्रकार के परिवर्तन का उदाहरण है?",
+        "en": "Ripening of fruits is an example of which type of change?"
+      },
+      "o": [
+        {
+          "hi": "भौतिक परिवर्तन",
+          "en": "Physical change"
+        },
+        {
+          "hi": "रासायनिक परिवर्तन (Chemical Change)",
+          "en": "Chemical Change"
+        },
+        {
+          "hi": "यांत्रिक परिवर्तन",
+          "en": "Mechanical change"
+        },
+        {
+          "hi": "अस्थायी परिवर्तन",
+          "en": "Temporary change"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अगरबत्ती का जलना किस प्रकार का परिवर्तन है?",
+        "en": "Burning of incense sticks (Agarbatti) is which type of change?"
+      },
+      "o": [
+        {
+          "hi": "भौतिक परिवर्तन",
+          "en": "Physical change"
+        },
+        {
+          "hi": "उत्क्रमणीय परिवर्तन",
+          "en": "Reversible change"
+        },
+        {
+          "hi": "रासायनिक परिवर्तन (Chemical Change)",
+          "en": "Chemical Change"
+        },
+        {
+          "hi": "ऊष्माशोषी भौतिक परिवर्तन",
+          "en": "Endothermic physical change"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विद्युत बल्ब का चमकना (Glowing of an Electric Bulb) किस प्रकार का परिवर्तन है?",
+        "en": "Glowing of an incandescent electric bulb is which type of change?"
+      },
+      "o": [
+        {
+          "hi": "रासायनिक परिवर्तन",
+          "en": "Chemical change"
+        },
+        {
+          "hi": "रेडियोधर्मी परिवर्तन",
+          "en": "Radioactive change"
+        },
+        {
+          "hi": "स्थायी परिवर्तन",
+          "en": "Permanent change"
+        },
+        {
+          "hi": "भौतिक परिवर्तन (Physical Change)",
+          "en": "Physical Change"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "द्रव्यमान संरक्षण का नियम (Law of Conservation of Mass) किसने प्रतिपादित किया था?",
+        "en": "Who formulated the fundamental Law of Conservation of Mass in 1789?"
+      },
+      "o": [
+        {
+          "hi": "एंटोनी लेवोजियर ने (Antoine Lavoisier)",
+          "en": "Antoine Lavoisier"
+        },
+        {
+          "hi": "जॉन डाल्टन ने",
+          "en": "John Dalton"
+        },
+        {
+          "hi": "जोसेफ प्राउस्ट ने",
+          "en": "Joseph Proust"
+        },
+        {
+          "hi": "अमेडियो आवोगाद्रो ने",
+          "en": "Amedeo Avogadro"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्थिर अनुपात का नियम (Law of Definite Proportions) किसने दिया था?",
+        "en": "Who proposed the Law of Definite Proportions in chemical compounds?"
+      },
+      "o": [
+        {
+          "hi": "जॉन डाल्टन",
+          "en": "John Dalton"
+        },
+        {
+          "hi": "जोसेफ प्राउस्ट (Joseph Proust) ने",
+          "en": "Joseph Proust"
+        },
+        {
+          "hi": "लेवोजियर",
+          "en": "Lavoisier"
+        },
+        {
+          "hi": "गे-लुसाक",
+          "en": "Gay-Lussac"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गुणित अनुपात का नियम (Law of Multiple Proportions) किसने प्रतिपादित किया था?",
+        "en": "Who formulated the Law of Multiple Proportions in 1803?"
+      },
+      "o": [
+        {
+          "hi": "जोसेफ प्राउस्ट",
+          "en": "Joseph Proust"
+        },
+        {
+          "hi": "अमेडियो आवोगाद्रो",
+          "en": "Amedeo Avogadro"
+        },
+        {
+          "hi": "जॉन डाल्टन (John Dalton) ने",
+          "en": "John Dalton"
+        },
+        {
+          "hi": "रॉबर्ट बॉयल",
+          "en": "Robert Boyle"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तत्वों के प्रतीकों (Chemical Symbols) की आधुनिक प्रणाली सर्वप्रथम किसने प्रस्तावित की थी?",
+        "en": "Who first proposed the modern system of alphabetic chemical symbols?"
+      },
+      "o": [
+        {
+          "hi": "जॉन डाल्टन ने",
+          "en": "John Dalton"
+        },
+        {
+          "hi": "एंटोनी लेवोजियर ने",
+          "en": "Antoine Lavoisier"
+        },
+        {
+          "hi": "मेंडेलीफ ने",
+          "en": "Dmitri Mendeleev"
+        },
+        {
+          "hi": "जे. जे. बर्जिलियस (J.J. Berzelius) ने",
+          "en": "J.J. Berzelius"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा एक उपधातु (Metalloid) का उदाहरण है?",
+        "en": "Which of the following elements is classified as a metalloid?"
+      },
+      "o": [
+        {
+          "hi": "सिलिकॉन, जर्मेनियम और आर्सेनिक",
+          "en": "Silicon, Germanium and Arsenic"
+        },
+        {
+          "hi": "लोहा और तांबा",
+          "en": "Iron and Copper"
+        },
+        {
+          "hi": "सल्फर और कार्बन",
+          "en": "Sulfur and Carbon"
+        },
+        {
+          "hi": "सोडियम और पोटेशियम",
+          "en": "Sodium and Potassium"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बारूद (Gunpowder) किसका मिश्रण होता है?",
+        "en": "Gunpowder is primarily a heterogeneous mixture of which chemicals?"
+      },
+      "o": [
+        {
+          "hi": "कोयला और सल्फर",
+          "en": "Coal and Sulfur"
+        },
+        {
+          "hi": "शोरा (KNO3), गंधक (सल्फर) और चारकोल का",
+          "en": "Saltpeter (KNO3), Sulfur and Charcoal"
+        },
+        {
+          "hi": "रेत और बारूद",
+          "en": "Sand and explosives"
+        },
+        {
+          "hi": "टीएनटी और पोटाश",
+          "en": "TNT and Potash"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पीतल (Brass) निम्नलिखित में से किसका एक समांगी मिश्रण (मिश्रधातु) है?",
+        "en": "Brass is a homogeneous solid solution (alloy) of which metals?"
+      },
+      "o": [
+        {
+          "hi": "तांबा और टिन",
+          "en": "Copper and Tin"
+        },
+        {
+          "hi": "लोहा और निकेल",
+          "en": "Iron and Nickel"
+        },
+        {
+          "hi": "तांबा और जस्ता (Copper ~70% and Zinc ~30%)",
+          "en": "Copper (~70%) and Zinc (~30%)"
+        },
+        {
+          "hi": "एल्युमिनियम और तांबा",
+          "en": "Aluminium and Copper"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जल में हाइड्रोजन और ऑक्सीजन का भार के अनुसार (By Mass) अनुपात कितना होता है?",
+        "en": "What is the ratio of Hydrogen to Oxygen by mass in water (H2O)?"
+      },
+      "o": [
+        {
+          "hi": "2 : 1",
+          "en": "2 : 1"
+        },
+        {
+          "hi": "1 : 2",
+          "en": "1 : 2"
+        },
+        {
+          "hi": "8 : 1",
+          "en": "8 : 1"
+        },
+        {
+          "hi": "1 : 8 (हाइड्रोजन 2u और ऑक्सीजन 16u)",
+          "en": "1 : 8 (Hydrogen 2u and Oxygen 16u)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जल में हाइड्रोजन और ऑक्सीजन का आयतन के अनुसार (By Volume) अनुपात कितना होता है?",
+        "en": "What is the ratio of Hydrogen to Oxygen by volume in water molecule?"
+      },
+      "o": [
+        {
+          "hi": "2 : 1 (2 भाग H और 1 भाग O)",
+          "en": "2 : 1 (2 parts H to 1 part O)"
+        },
+        {
+          "hi": "1 : 8",
+          "en": "1 : 8"
+        },
+        {
+          "hi": "1 : 2",
+          "en": "1 : 2"
+        },
+        {
+          "hi": "1 : 1",
+          "en": "1 : 1"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वायु में ध्वनि की गति और सामान्य पारगम्यता किस बात को सिद्ध करती है?",
+        "en": "Uniform composition of clean air across samples proves that air is what?"
+      },
+      "o": [
+        {
+          "hi": "एक शुद्ध यौगिक है",
+          "en": "A pure compound"
+        },
+        {
+          "hi": "एक समांगी मिश्रण (Homogeneous Mixture) है",
+          "en": "A homogeneous mixture"
+        },
+        {
+          "hi": "एक तत्व है",
+          "en": "An element"
+        },
+        {
+          "hi": "एक विषमांगी पायस है",
+          "en": "A heterogeneous emulsion"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

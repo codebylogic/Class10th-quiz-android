@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - रसायन विज्ञान (Chemistry)",
+  "subtitle": "मानव निर्मित पदार्थ",
+  "description": "मानव निर्मित पदार्थ पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "कांच (Glass) को वैज्ञानिक रूप से किस रूप में परिभाषित किया जाता है?",
+        "en": "How is Glass scientifically classified in terms of state of matter?"
+      },
+      "o": [
+        {
+          "hi": "अतिशीतित द्रव (Supercooled Liquid / अक्रिस्टलीय ठोस)",
+          "en": "Supercooled Liquid (Amorphous Solid)"
+        },
+        {
+          "hi": "क्रिस्टलीय ठोस",
+          "en": "Crystalline solid"
+        },
+        {
+          "hi": "शुद्ध यौगिक",
+          "en": "Pure compound"
+        },
+        {
+          "hi": "गैसीय मिश्रण",
+          "en": "Gaseous mixture"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "साधारण कांच (सोडा कांच - Soft Glass) के मुख्य रासायनिक घटक कौन-से हैं?",
+        "en": "What are the primary chemical raw constituents of soda-lime glass?"
+      },
+      "o": [
+        {
+          "hi": "सिलिका और कार्बन",
+          "en": "Silica and carbon"
+        },
+        {
+          "hi": "सिलिका (SiO2), सोडियम सिलिकेट और कैल्शियम सिलिकेट",
+          "en": "Silica (SiO2), Sodium Silicate & Calcium Silicate"
+        },
+        {
+          "hi": "एल्युमिना और चूना",
+          "en": "Alumina and lime"
+        },
+        {
+          "hi": "बोरेक्स और पोटाश",
+          "en": "Borax and potash"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रयोगशाला के उपकरण (बीकर, परखनली) बनाने में प्रयुक्त उच्च ताप-प्रतिरोधी कांच कौन-सा है?",
+        "en": "Which thermal shock resistant borosilicate glass is used for lab equipment?"
+      },
+      "o": [
+        {
+          "hi": "सोडा कांच",
+          "en": "Soda glass"
+        },
+        {
+          "hi": "फ्लिंट कांच",
+          "en": "Flint glass"
+        },
+        {
+          "hi": "पाइरेक्स कांच / बोरोसिलिकेट कांच (Pyrex Glass)",
+          "en": "Pyrex / Borosilicate Glass"
+        },
+        {
+          "hi": "क्रुक्स कांच",
+          "en": "Crookes glass"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कैमरा, सूक्ष्मदर्शी, दूरबीन के लेंस और प्रिज्म बनाने में किस उच्च अपवर्तनांक वाले कांच का उपयोग होता है?",
+        "en": "Which optical glass with high refractive index is used in camera lenses and prisms?"
+      },
+      "o": [
+        {
+          "hi": "पाइरेक्स कांच",
+          "en": "Pyrex glass"
+        },
+        {
+          "hi": "सोडा कांच",
+          "en": "Soda glass"
+        },
+        {
+          "hi": "पोटाश कांच",
+          "en": "Potash glass"
+        },
+        {
+          "hi": "फ्लिंट कांच (Flint Glass)",
+          "en": "Flint Glass"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "धूप के चश्मों (Sunglasses) के लेंस बनाने में प्रयुक्त 'क्रुक्स कांच' (Crookes Glass) में कौन-सा ऑक्साइड मिलाया जाता है?",
+        "en": "Which rare earth oxide is added to Crookes Glass in sunglasses to absorb UV rays?"
+      },
+      "o": [
+        {
+          "hi": "सीरियम ऑक्साइड (Cerium Oxide - CeO2)",
+          "en": "Cerium Oxide (CeO2)"
+        },
+        {
+          "hi": "कोबाल्ट ऑक्साइड",
+          "en": "Cobalt oxide"
+        },
+        {
+          "hi": "आयरन ऑक्साइड",
+          "en": "Iron oxide"
+        },
+        {
+          "hi": "कॉपर ऑक्साइड",
+          "en": "Copper oxide"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कांच को गहरा नीला (Deep Blue) रंग प्रदान करने के लिए उसमें क्या मिलाया जाता है?",
+        "en": "What metal oxide is added to molten glass to give it a rich deep blue color?"
+      },
+      "o": [
+        {
+          "hi": "क्यूप्रिक ऑक्साइड",
+          "en": "Cupric oxide"
+        },
+        {
+          "hi": "कोबाल्ट ऑक्साइड (Cobalt Oxide - CoO)",
+          "en": "Cobalt Oxide (CoO)"
+        },
+        {
+          "hi": "फेरिक ऑक्साइड",
+          "en": "Ferric oxide"
+        },
+        {
+          "hi": "क्रोमियम ऑक्साइड",
+          "en": "Chromium oxide"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कांच को हरा रंग (Green Color) प्रदान करने के लिए कौन-सा ऑक्साइड प्रयुक्त होता है?",
+        "en": "Which chemical oxide is added to impart a dark green color to glass?"
+      },
+      "o": [
+        {
+          "hi": "कोबाल्ट ऑक्साइड",
+          "en": "Cobalt oxide"
+        },
+        {
+          "hi": "कैडमियम सल्फाइड",
+          "en": "Cadmium sulfide"
+        },
+        {
+          "hi": "क्रोमियम ऑक्साइड (Chromium Oxide - Cr2O3)",
+          "en": "Chromium Oxide (Cr2O3)"
+        },
+        {
+          "hi": "लेड ऑक्साइड",
+          "en": "Lead oxide"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कांच को लाल या रूबी रंग (Ruby Red Color) देने के लिए किसका उपयोग किया जाता है?",
+        "en": "Which compound is mixed in glass melt to impart brilliant ruby red color?"
+      },
+      "o": [
+        {
+          "hi": "कोबाल्ट ऑक्साइड",
+          "en": "Cobalt oxide"
+        },
+        {
+          "hi": "क्रोमियम ऑक्साइड",
+          "en": "Chromium oxide"
+        },
+        {
+          "hi": "मैंगनीज डाइऑक्साइड",
+          "en": "Manganese dioxide"
+        },
+        {
+          "hi": "क्यूप्रस ऑक्साइड (Cu2O) अथवा स्वर्ण क्लोराइड (AuCl3)",
+          "en": "Cuprous Oxide (Cu2O) or Gold Chloride"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कांच को चटकाए बिना धीरे-धीरे ठंडा करने की तापोपचार प्रक्रिया को क्या कहते हैं?",
+        "en": "Process of slowly cooling hot glass to relieve internal stresses is called?"
+      },
+      "o": [
+        {
+          "hi": "कांच का एनीलिंग या तापानुशीतन (Annealing of Glass)",
+          "en": "Annealing of Glass"
+        },
+        {
+          "hi": "क्रिस्टलन",
+          "en": "Crystallization"
+        },
+        {
+          "hi": "वल्केनीकरण",
+          "en": "Vulcanization"
+        },
+        {
+          "hi": "प्रगलन",
+          "en": "Smelting"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कांच पर नक्काशी करने या लिखने के लिए किस अत्यंत तीव्र संक्षारक अम्ल का उपयोग किया जाता है?",
+        "en": "Which corrosive acid is uniquely capable of etching and dissolving glass?"
+      },
+      "o": [
+        {
+          "hi": "सल्फ्यूरिक अम्ल (H2SO4)",
+          "en": "Sulfuric acid"
+        },
+        {
+          "hi": "हाइड्रोफ्लोरिक अम्ल (Hydrofluoric Acid - HF)",
+          "en": "Hydrofluoric Acid (HF)"
+        },
+        {
+          "hi": "नाइट्रिक अम्ल (HNO3)",
+          "en": "Nitric acid"
+        },
+        {
+          "hi": "हाइड्रोक्लोरिक अम्ल (HCl)",
+          "en": "Hydrochloric acid"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पोर्टलैंड सीमेंट (Portland Cement) का आविष्कार 1824 में किस ब्रिटिश राजमिस्त्री ने किया था?",
+        "en": "Who invented and patented Portland Cement in 1824 in England?"
+      },
+      "o": [
+        {
+          "hi": "एंटोनी लेवोजियर",
+          "en": "Antoine Lavoisier"
+        },
+        {
+          "hi": "जेम्स वाट",
+          "en": "James Watt"
+        },
+        {
+          "hi": "जोसेफ एस्पडिन (Joseph Aspdin)",
+          "en": "Joseph Aspdin"
+        },
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पोर्टलैंड सीमेंट का प्रमुख और सर्वाधिक मात्रा में उपस्थित रासायनिक संघटक कौन-सा है?",
+        "en": "Which is the main chemical constituent present in highest proportion (60-67%) in cement?"
+      },
+      "o": [
+        {
+          "hi": "सिलिका (SiO2)",
+          "en": "Silica (SiO2)"
+        },
+        {
+          "hi": "एल्युमिना (Al2O3)",
+          "en": "Alumina (Al2O3)"
+        },
+        {
+          "hi": "आयरन ऑक्साइड",
+          "en": "Iron oxide"
+        },
+        {
+          "hi": "चूना या कैल्शियम ऑक्साइड (Lime - CaO / 60-65%)",
+          "en": "Lime - CaO (60-65%)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सीमेंट में जिप्सम (Gypsum - CaSO4 · 2H2O / लगभग 2-3%) क्यों मिलाया जाता है?",
+        "en": "Why is ~2-3% Gypsum interground into clinker during cement manufacturing?"
+      },
+      "o": [
+        {
+          "hi": "सीमेंट के जमने की दर को धीमा करने (Retarder) हेतु",
+          "en": "To retard initial setting time & prevent flash set"
+        },
+        {
+          "hi": "सीमेंट को जल्दी जमाने के लिए",
+          "en": "To accelerate setting time"
+        },
+        {
+          "hi": "सीमेंट का रंग सफेद करने के लिए",
+          "en": "To whiten cement color"
+        },
+        {
+          "hi": "सीमेंट का वजन बढ़ाने के लिए",
+          "en": "To increase cement bulk"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सीमेंट में जल मिलाने पर जमने की प्रक्रिया किस प्रकार की रासायनिक अभिक्रिया है?",
+        "en": "Setting and hardening of cement upon hydration with water is which type of reaction?"
+      },
+      "o": [
+        {
+          "hi": "ऊष्माशोषी अभिक्रिया",
+          "en": "Endothermic reaction"
+        },
+        {
+          "hi": "जलयोजन की ऊष्माक्षेपी अभिक्रिया (Exothermic Hydration)",
+          "en": "Exothermic Hydration Reaction"
+        },
+        {
+          "hi": "अपचयन अभिक्रिया",
+          "en": "Reduction reaction"
+        },
+        {
+          "hi": "उदासीनीकरण",
+          "en": "Neutralization"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सीमेंट, बालू (रेत), गिट्टी (कंकड़) और जल के मिश्रित गारे को क्या कहते हैं?",
+        "en": "Structural composite mixture of cement, sand, gravel aggregate and water is called?"
+      },
+      "o": [
+        {
+          "hi": "मोर्टार (गारा)",
+          "en": "Mortar"
+        },
+        {
+          "hi": "प्लास्टर",
+          "en": "Plaster"
+        },
+        {
+          "hi": "कंक्रीट (Concrete)",
+          "en": "Concrete"
+        },
+        {
+          "hi": "सीमेंट पेस्ट",
+          "en": "Cement paste"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कंक्रीट में लोहे या स्टील की छड़ें (सरिया) डालकर बनाई गई संरचना को क्या कहते हैं?",
+        "en": "Concrete reinforced with embedded high-tensile steel bars/mesh is known as?"
+      },
+      "o": [
+        {
+          "hi": "साधारण कंक्रीट",
+          "en": "Plain concrete"
+        },
+        {
+          "hi": "ड्राईवॉल",
+          "en": "Drywall"
+        },
+        {
+          "hi": "मोर्टार",
+          "en": "Mortar"
+        },
+        {
+          "hi": "प्रबलित कंक्रीट (RCC - Reinforced Cement Concrete)",
+          "en": "Reinforced Cement Concrete (RCC)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गर्म करने पर बार-बार मुलायम होने और ठंडा करने पर कठोर होने वाले प्लास्टिक को क्या कहते हैं?",
+        "en": "Plastics that repeatedly soften on heating and harden upon cooling are called?"
+      },
+      "o": [
+        {
+          "hi": "थर्मोप्लास्टिक (Thermoplastic - जैसे पॉलीथीन, PVC)",
+          "en": "Thermoplastic (e.g. Polythene, PVC)"
+        },
+        {
+          "hi": "थर्मोसेटिंग प्लास्टिक",
+          "en": "Thermosetting plastic"
+        },
+        {
+          "hi": "इलास्टोमर",
+          "en": "Elastomer"
+        },
+        {
+          "hi": "रेजिन्स",
+          "en": "Resins"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एक बार सांचे में ढलने के बाद गर्म करने पर पुनः न पिघलने वाले कठोर प्लास्टिक को क्या कहते हैं?",
+        "en": "Cross-linked plastics that permanently harden on curing and cannot be remolded are?"
+      },
+      "o": [
+        {
+          "hi": "थर्मोप्लास्टिक",
+          "en": "Thermoplastic"
+        },
+        {
+          "hi": "थर्मोसेटिंग प्लास्टिक (Thermosetting Plastic - जैसे बैकेलाइट)",
+          "en": "Thermosetting Plastic (e.g. Bakelite)"
+        },
+        {
+          "hi": "बायोप्लास्टिक",
+          "en": "Bioplastic"
+        },
+        {
+          "hi": "इलास्टोमर",
+          "en": "Elastomer"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बिजली के प्लग, स्विच और बर्तनों के हैंडल बनाने में प्रयुक्त प्रसिद्ध थर्मोसेटिंग प्लास्टिक कौन-सा है?",
+        "en": "Which famous cross-linked thermosetting resin is used for electrical switches?"
+      },
+      "o": [
+        {
+          "hi": "पॉलीथीन",
+          "en": "Polythene"
+        },
+        {
+          "hi": "पीवीसी",
+          "en": "PVC"
+        },
+        {
+          "hi": "बैकेलाइट (Bakelite - फिनोल व फॉर्मेल्डिहाइड से)",
+          "en": "Bakelite (Phenol-Formaldehyde resin)"
+        },
+        {
+          "hi": "टेफ्लॉन",
+          "en": "Teflon"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मेलामाइन (Melamine) प्लास्टिक का मुख्य उपयोग किसमें किया जाता है?",
+        "en": "Melamine-formaldehyde resin is extensively utilized to manufacture what?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत केबल",
+          "en": "Electric cables"
+        },
+        {
+          "hi": "पानी के पाइप",
+          "en": "Water pipes"
+        },
+        {
+          "hi": "पैकिंग थैलियां",
+          "en": "Packing bags"
+        },
+        {
+          "hi": "न टूटने वाली क्रॉकरी और डिनर सेट (Unbreakable Crockery)",
+          "en": "Unbreakable Crockery Dinner Sets"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पॉलीथीन (Polythene) किसके बहुलकीकरण (Polymerization) द्वारा तैयार की जाती है?",
+        "en": "Commercial Polythene polymer is produced by addition polymerization of which monomer?"
+      },
+      "o": [
+        {
+          "hi": "एथिलीन गैस (Ethylene - C2H4) के",
+          "en": "Ethylene gas (C2H4)"
+        },
+        {
+          "hi": "प्रोपिलीन के",
+          "en": "Propylene"
+        },
+        {
+          "hi": "विनाइल क्लोराइड के",
+          "en": "Vinyl chloride"
+        },
+        {
+          "hi": "एसिटिलीन के",
+          "en": "Acetylene"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पानी के पाइप, रेनकोट और बिजली के तारों का इन्सुलेशन बनाने में प्रयुक्त बहुलक कौन-सा है?",
+        "en": "Which versatile thermoplastic polymer is used for drainage pipes and wire insulation?"
+      },
+      "o": [
+        {
+          "hi": "पॉलीथीन",
+          "en": "Polythene"
+        },
+        {
+          "hi": "पॉलीविनाइल क्लोराइड (PVC - Polyvinyl Chloride)",
+          "en": "Polyvinyl Chloride (PVC)"
+        },
+        {
+          "hi": "नायलॉन",
+          "en": "Nylon"
+        },
+        {
+          "hi": "टेफ्लॉन",
+          "en": "Teflon"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नॉन-स्टिक बर्तनों (Non-stick Cookware) पर किसकी चिकनी व ऊष्मारोधी परत चढ़ाई जाती है?",
+        "en": "Cookware is coated with non-stick and chemically inert layer of which fluoropolymer?"
+      },
+      "o": [
+        {
+          "hi": "बैकेलाइट",
+          "en": "Bakelite"
+        },
+        {
+          "hi": "पीवीसी",
+          "en": "PVC"
+        },
+        {
+          "hi": "टेफ्लॉन (Teflon - पॉलीटेट्राफ्लोरोएथिलीन / PTFE)",
+          "en": "Teflon (PTFE)"
+        },
+        {
+          "hi": "मेलामाइन",
+          "en": "Melamine"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "थर्माकोल (Thermocol) वास्तव में किस प्लास्टिक का फूला हुआ रूप होता है?",
+        "en": "Commercial Thermocol packaging material is expanded foamed form of which polymer?"
+      },
+      "o": [
+        {
+          "hi": "पॉलीथीन",
+          "en": "Polythene"
+        },
+        {
+          "hi": "पॉलीविनाइल क्लोराइड",
+          "en": "PVC"
+        },
+        {
+          "hi": "टेफ्लॉन",
+          "en": "Teflon"
+        },
+        {
+          "hi": "पॉलीस्टाइरीन (Polystyrene)",
+          "en": "Polystyrene"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव द्वारा निर्मित प्रथम पूर्णतः संश्लेषित रेशा (First Fully Synthetic Fiber) कौन-सा था?",
+        "en": "Which was the very first fully synthetic man-made polymer textile fiber in 1935?"
+      },
+      "o": [
+        {
+          "hi": "नायलॉन-6,6 (Nylon-6,6 - एडिपिक अम्ल व हेक्सामेथिलीन डायमीन से)",
+          "en": "Nylon-6,6"
+        },
+        {
+          "hi": "रेयान",
+          "en": "Rayon"
+        },
+        {
+          "hi": "पॉलिएस्टर",
+          "en": "Polyester"
+        },
+        {
+          "hi": "एक्रिलिक",
+          "en": "Acrylic"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "काष्ठ की लुगदी (लकड़ी के सेल्यूलोस) के रासायनिक उपचार से निर्मित 'कृत्रिम रेशम' किसे कहते हैं?",
+        "en": "Regenerated semi-synthetic cellulose fiber known as 'Artificial Silk' is called?"
+      },
+      "o": [
+        {
+          "hi": "नायलॉन",
+          "en": "Nylon"
+        },
+        {
+          "hi": "रेयान (Rayon)",
+          "en": "Rayon"
+        },
+        {
+          "hi": "टेरीलीन",
+          "en": "Terylene"
+        },
+        {
+          "hi": "डेक्रॉन",
+          "en": "Dacron"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कपड़े बनाने में प्रयुक्त सबसे लोकप्रिय पॉलिएस्टर रेशा (Polyester Fiber) कौन-सा है?",
+        "en": "Most widely used synthetic polyester crease-resistant fabric fiber is?"
+      },
+      "o": [
+        {
+          "hi": "नायलॉन",
+          "en": "Nylon"
+        },
+        {
+          "hi": "रेयान",
+          "en": "Rayon"
+        },
+        {
+          "hi": "टेरीलीन या डेक्रॉन (Terylene / Dacron)",
+          "en": "Terylene / Dacron"
+        },
+        {
+          "hi": "केवलर",
+          "en": "Kevlar"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बुलेटप्रूफ वस्त्र (Bulletproof Jackets) और हेलमेट बनाने में किस सिंथेटिक फाइबर का उपयोग होता है?",
+        "en": "High-tensile aromatic polyamide (aramid) synthetic fiber used in body armor is?"
+      },
+      "o": [
+        {
+          "hi": "नायलॉन",
+          "en": "Nylon"
+        },
+        {
+          "hi": "रेयान",
+          "en": "Rayon"
+        },
+        {
+          "hi": "टेफ्लॉन",
+          "en": "Teflon"
+        },
+        {
+          "hi": "केवलर (Kevlar)",
+          "en": "Kevlar"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "साबुन (Soap) रासायनिक रूप से क्या होते हैं?",
+        "en": "Chemically, what are traditional domestic washing soaps?"
+      },
+      "o": [
+        {
+          "hi": "उच्च वसा अम्लों के सोडियम अथवा पोटेशियम लवण",
+          "en": "Sodium or Potassium salts of higher fatty acids"
+        },
+        {
+          "hi": "अकार्बनिक लवण",
+          "en": "Inorganic mineral salts"
+        },
+        {
+          "hi": "सल्फ्यूरिक अम्ल के एस्टर",
+          "en": "Esters of sulfuric acid"
+        },
+        {
+          "hi": "पॉलिएस्टर",
+          "en": "Polyesters"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "साबुन बनाने की रासायनिक प्रक्रिया को क्या कहा जाता है?",
+        "en": "Chemical reaction of fat/oil with alkali producing soap and glycerol is called?"
+      },
+      "o": [
+        {
+          "hi": "किण्वन",
+          "en": "Fermentation"
+        },
+        {
+          "hi": "साबुनीकरण (Saponification)",
+          "en": "Saponification"
+        },
+        {
+          "hi": "वल्केनीकरण",
+          "en": "Vulcanization"
+        },
+        {
+          "hi": "पाश्चुरीकरण",
+          "en": "Pasteurization"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "साबुन निर्माण प्रक्रिया में उप-उत्पाद (By-product) के रूप में कौन-सा उपयोगी रसायन प्राप्त होता है?",
+        "en": "Which valuable trihydric alcohol is recovered as a by-product in saponification?"
+      },
+      "o": [
+        {
+          "hi": "मेथिल अल्कोहल",
+          "en": "Methyl alcohol"
+        },
+        {
+          "hi": "एथिल अल्कोहल",
+          "en": "Ethyl alcohol"
+        },
+        {
+          "hi": "ग्लिसरॉल या ग्लिसरीन [Glycerol - C3H5(OH)3]",
+          "en": "Glycerol / Glycerin [C3H5(OH)3]"
+        },
+        {
+          "hi": "एसिटोन",
+          "en": "Acetone"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "साबुन कठोर जल (Hard Water) में झाग क्यों नहीं देता?",
+        "en": "Why do normal soaps fail to produce rich lather in hard water containing Ca & Mg?"
+      },
+      "o": [
+        {
+          "hi": "कठोर जल में साबुन घुलता नहीं",
+          "en": "Soap does not dissolve"
+        },
+        {
+          "hi": "साबुन का रंग उड़ जाता है",
+          "en": "Soap loses color"
+        },
+        {
+          "hi": "पानी बहुत ठंडा होता है",
+          "en": "Water is too cold"
+        },
+        {
+          "hi": "Ca²⁺ और Mg²⁺ आयन साबुन से क्रिया कर अघुलनशील अवक्षेप (Scum) बनाते हैं",
+          "en": "Forms insoluble scum precipitate with Ca²⁺ and Mg²⁺"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कठोर जल (Hard Water) और मृदु जल दोनों में समान रूप से झाग देने वाले सफाई अभिकर्ता क्या कहलाते हैं?",
+        "en": "Cleansing agents effectively producing rich lather in both hard and soft water are?"
+      },
+      "o": [
+        {
+          "hi": "अपमार्जक या डिटर्जेंट (Detergents / साबुन-रहित साबुन)",
+          "en": "Detergents / Soapless soaps"
+        },
+        {
+          "hi": "साधारण साबुन",
+          "en": "Ordinary soaps"
+        },
+        {
+          "hi": "पोटाश साबुन",
+          "en": "Potash soap"
+        },
+        {
+          "hi": "सोडा ऐश",
+          "en": "Soda ash"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अपमार्जक (Detergent) रासायनिक रूप से मुख्यतः क्या होते हैं?",
+        "en": "Chemically, modern commercial synthetic laundry detergents are primarily?"
+      },
+      "o": [
+        {
+          "hi": "उच्च वसा अम्लों के लवण",
+          "en": "Higher fatty acid salts"
+        },
+        {
+          "hi": "लंबी श्रृंखला वाले हाइड्रोकार्बन के सल्फोनेट अथवा सल्फेट लवण",
+          "en": "Sodium salts of alkyl benzene sulfonates"
+        },
+        {
+          "hi": "ग्लिसरॉल के एस्टर",
+          "en": "Glycerol esters"
+        },
+        {
+          "hi": "कैल्शियम क्लोराइड",
+          "en": "Calcium chloride"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "डायनामाइट (Dynamite) का आविष्कार 1867 में अल्फ्रेड नोबेल ने किस विस्फोटक को सोखकर किया था?",
+        "en": "Dynamite was invented by absorbing which liquid high-explosive into kieselguhr?"
+      },
+      "o": [
+        {
+          "hi": "टीएनटी (TNT)",
+          "en": "TNT"
+        },
+        {
+          "hi": "आरडीएक्स (RDX)",
+          "en": "RDX"
+        },
+        {
+          "hi": "नाइट्रोग्लिसरीन (Nitroglycerine / नोबेल का तेल)",
+          "en": "Nitroglycerine (Nobel's Oil)"
+        },
+        {
+          "hi": "पिक्रिक अम्ल",
+          "en": "Picric acid"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विस्फोटक 'RDX' का पूर्ण रूप (Full Form) क्या होता है?",
+        "en": "What is the standard full form of the military high explosive RDX?"
+      },
+      "o": [
+        {
+          "hi": "रेडियोएक्टिव डेंस एक्सप्लोसिव",
+          "en": "Radioactive Dense Explosive"
+        },
+        {
+          "hi": "रैपिड डेटोनेशन एक्सप्लोसिव",
+          "en": "Rapid Detonation Explosive"
+        },
+        {
+          "hi": "रिएक्टिव डाइनाइट्रो जेन्थेट",
+          "en": "Reactive Dinitro Xanthate"
+        },
+        {
+          "hi": "रिसर्च डेवलप्ड एक्सप्लोसिव (Research Developed Explosive / हेक्सोजन)",
+          "en": "Research Developed Explosive (Hexogen)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विस्फोटक RDX को जर्मनी में किस नाम से जाना जाता है?",
+        "en": "Military explosive RDX is designated by which trade name in Germany?"
+      },
+      "o": [
+        {
+          "hi": "हेक्सोजन (Hexogen)",
+          "en": "Hexogen"
+        },
+        {
+          "hi": "टी-4 (T-4)",
+          "en": "T-4"
+        },
+        {
+          "hi": "साइक्लोनाइट",
+          "en": "Cyclonite"
+        },
+        {
+          "hi": "पायरीन",
+          "en": "Pyrene"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विस्फोटक RDX को इटली में किस कोड नाम से जाना जाता है?",
+        "en": "By what codename is RDX traditionally referred to in Italy?"
+      },
+      "o": [
+        {
+          "hi": "हेक्सोजन",
+          "en": "Hexogen"
+        },
+        {
+          "hi": "टी-4 (T-4)",
+          "en": "T-4"
+        },
+        {
+          "hi": "साइक्लोनाइट (Cyclonite)",
+          "en": "Cyclonite"
+        },
+        {
+          "hi": "नोबेल आयल",
+          "en": "Nobel Oil"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विस्फोटक RDX में तापमान और प्रस्फोटन वेग बढ़ाने के लिए क्या मिलाया जाता है?",
+        "en": "What metallic powder is mixed with plasticized RDX to raise combustion temperature?"
+      },
+      "o": [
+        {
+          "hi": "लोहा चूर्ण",
+          "en": "Iron powder"
+        },
+        {
+          "hi": "तांबा चूर्ण",
+          "en": "Copper powder"
+        },
+        {
+          "hi": "एल्युमिनियम चूर्ण (Aluminium Powder)",
+          "en": "Aluminium powder"
+        },
+        {
+          "hi": "सीसा चूर्ण",
+          "en": "Lead powder"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "टी.एन.टी. (T.N.T.) का सही रासायनिक नाम क्या है?",
+        "en": "What is the full chemical name of the military explosive compound T.N.T.?"
+      },
+      "o": [
+        {
+          "hi": "ट्राईनाइट्रोथैलेट",
+          "en": "Trinitrophthalate"
+        },
+        {
+          "hi": "ट्राईनाइट्रोबेंजीन",
+          "en": "Trinitrobenzene"
+        },
+        {
+          "hi": "ट्राईनाइट्रोफिनोल",
+          "en": "Trinitrophenol"
+        },
+        {
+          "hi": "ट्राईनाइट्रोटॉलुइन (Trinitrotoluene - C7H5N3O6)",
+          "en": "Trinitrotoluene (C7H5N3O6)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पिक्रिक अम्ल (Picric Acid) रासायनिक रूप से कौन-सा विस्फोटक यौगिक है?",
+        "en": "Chemically, yellow explosive compound Picric Acid is which substituted phenol?"
+      },
+      "o": [
+        {
+          "hi": "2, 4, 6 - ट्राईनाइट्रोफिनोल (TNP - Trinitrophenol)",
+          "en": "2, 4, 6 - Trinitrophenol (TNP)"
+        },
+        {
+          "hi": "ट्राईनाइट्रोटॉलुइन (TNT)",
+          "en": "Trinitrotoluene (TNT)"
+        },
+        {
+          "hi": "ट्राईनाइट्रोग्लिसरीन",
+          "en": "Trinitroglycerin"
+        },
+        {
+          "hi": "नाइट्रोबेंजीन",
+          "en": "Nitrobenzene"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गन कॉटन (Gun Cotton) रासायनिक रूप से क्या होता है?",
+        "en": "What is explosive Gun Cotton chemically produced from cotton fibers?"
+      },
+      "o": [
+        {
+          "hi": "सेल्युलोस एसीटेट",
+          "en": "Cellulose acetate"
+        },
+        {
+          "hi": "सेल्युलोस नाइट्रेट या नाइट्रोसेल्युलोस (Nitrocellulose)",
+          "en": "Cellulose Nitrate / Nitrocellulose"
+        },
+        {
+          "hi": "सेल्युलोस सल्फेट",
+          "en": "Cellulose sulfate"
+        },
+        {
+          "hi": "स्टार्च नाइट्रेट",
+          "en": "Starch nitrate"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "साबुन में झाग को देर तक बनाए रखने और सूखने से बचाने के लिए क्या मिलाया जाता है?",
+        "en": "What is added to shaving soaps to sustain rich lather and retard rapid drying?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम क्लोराइड",
+          "en": "Sodium chloride"
+        },
+        {
+          "hi": "अल्कोहल",
+          "en": "Alcohol"
+        },
+        {
+          "hi": "ग्लिसरॉल (Glycerol) तथा रोजिन (Rosin) गोंद",
+          "en": "Glycerol and Rosin gum"
+        },
+        {
+          "hi": "स्टार्च",
+          "en": "Starch"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पारदर्शी साबुन (Transparent Soaps - जैसे पियर्स) बनाने के लिए साबुन को किसमें घोला जाता है?",
+        "en": "In manufacturing clear transparent soaps, soap curd is dissolved in which solvent?"
+      },
+      "o": [
+        {
+          "hi": "जल में",
+          "en": "In water"
+        },
+        {
+          "hi": "केरोसिन में",
+          "en": "In kerosene"
+        },
+        {
+          "hi": "एसीटोन में",
+          "en": "In acetone"
+        },
+        {
+          "hi": "एथेनॉल / एथिल अल्कोहल (Ethanol) में",
+          "en": "In Ethanol / Ethyl Alcohol"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यूरिया (Urea - रासायनिक उर्वरक) में नाइट्रोजन की प्रतिशत मात्रा कितनी होती है?",
+        "en": "What is the nitrogen percentage content in commercial solid Urea fertilizer?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 46% (46.6%)",
+          "en": "About 46% (46.6%)"
+        },
+        {
+          "hi": "20%",
+          "en": "20%"
+        },
+        {
+          "hi": "33%",
+          "en": "33%"
+        },
+        {
+          "hi": "60%",
+          "en": "60%"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रयोगशाला में सर्वप्रथम कृत्रिम रूप से संश्लेषित किया जाने वाला पहला कार्बनिक यौगिक कौन-सा था?",
+        "en": "Which was the very first organic compound synthesized in a lab by Wöhler (1828)?"
+      },
+      "o": [
+        {
+          "hi": "एसिटिक अम्ल",
+          "en": "Acetic acid"
+        },
+        {
+          "hi": "यूरिया [Urea - NH2CONH2]",
+          "en": "Urea [NH2CONH2]"
+        },
+        {
+          "hi": "मीथेन",
+          "en": "Methane"
+        },
+        {
+          "hi": "फॉर्मिक अम्ल",
+          "en": "Formic acid"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फास्फेटिक उर्वरक 'सुपर फॉस्फेट ऑफ लाइम' (Superphosphate of Lime) में मुख्य घटक क्या है?",
+        "en": "What is the primary water-soluble bioavailable salt in Superphosphate of Lime?"
+      },
+      "o": [
+        {
+          "hi": "कैल्शियम कार्बोनेट",
+          "en": "Calcium carbonate"
+        },
+        {
+          "hi": "कैल्शियम सल्फेट",
+          "en": "Calcium sulfate"
+        },
+        {
+          "hi": "कैल्शियम डाईहाइड्रोजन फॉस्फेट [Ca(H2PO4)2]",
+          "en": "Calcium Dihydrogen Phosphate [Ca(H2PO4)2]"
+        },
+        {
+          "hi": "कैल्शियम क्लोराइड",
+          "en": "Calcium chloride"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पौधों में क्लोरोफिल और प्रोटीन निर्माण तथा पत्तियों के हरे रंग हेतु कौन-सा पोषक तत्व अनिवार्य है?",
+        "en": "Which macronutrient is essential for vegetative growth and green chlorophyll synthesis?"
+      },
+      "o": [
+        {
+          "hi": "पोटेशियम",
+          "en": "Potassium"
+        },
+        {
+          "hi": "फास्फोरस",
+          "en": "Phosphorus"
+        },
+        {
+          "hi": "कैल्शियम",
+          "en": "Calcium"
+        },
+        {
+          "hi": "नाइट्रोजन (Nitrogen - N)",
+          "en": "Nitrogen (N)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पौधों की जड़ों के विकास और फसलों के पकने में कौन-सा उर्वरक तत्व सबसे सहायक होता है?",
+        "en": "Which fertilizer nutrient promotes healthy root development and seed ripening?"
+      },
+      "o": [
+        {
+          "hi": "फास्फोरस (Phosphorus - P)",
+          "en": "Phosphorus (P)"
+        },
+        {
+          "hi": "नाइट्रोजन",
+          "en": "Nitrogen"
+        },
+        {
+          "hi": "पोटेशियम",
+          "en": "Potassium"
+        },
+        {
+          "hi": "सल्फर",
+          "en": "Sulfur"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फसलों में रोगों और सूखे से लड़ने की प्रतिरोधक क्षमता बढ़ाने वाला उर्वरक तत्व कौन-सा है?",
+        "en": "Which fertilizer element increases disease resistance and drought tolerance in crops?"
+      },
+      "o": [
+        {
+          "hi": "नाइट्रोजन",
+          "en": "Nitrogen"
+        },
+        {
+          "hi": "पोटेशियम (Potassium - K)",
+          "en": "Potassium (K)"
+        },
+        {
+          "hi": "फास्फोरस",
+          "en": "Phosphorus"
+        },
+        {
+          "hi": "मैग्नीशियम",
+          "en": "Magnesium"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

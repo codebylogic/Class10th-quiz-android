@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - रसायन विज्ञान (Chemistry)",
+  "subtitle": "ऑक्सीकरण एवं अवकरण",
+  "description": "ऑक्सीकरण एवं अवकरण पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "इलेक्ट्रॉनिक संकल्पना के अनुसार, वह रासायनिक प्रक्रिया जिसमें कोई परमाणु या आयन इलेक्ट्रॉन त्यागता है, क्या कहलाती है?",
+        "en": "According to electronic concept, chemical process involving loss of electrons is?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सीकरण या उपचयन (Oxidation)",
+          "en": "Oxidation"
+        },
+        {
+          "hi": "अवकरण या अपचयन (Reduction)",
+          "en": "Reduction"
+        },
+        {
+          "hi": "उदासीनीकरण",
+          "en": "Neutralization"
+        },
+        {
+          "hi": "जल-अपघटन",
+          "en": "Hydrolysis"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इलेक्ट्रॉनिक संकल्पना के अनुसार, वह रासायनिक प्रक्रिया जिसमें कोई परमाणु या आयन इलेक्ट्रॉन ग्रहण करता है, क्या कहलाती है?",
+        "en": "According to electronic concept, chemical process involving gain of electrons is?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सीकरण",
+          "en": "Oxidation"
+        },
+        {
+          "hi": "अवकरण या अपचयन (Reduction)",
+          "en": "Reduction"
+        },
+        {
+          "hi": "संकरण",
+          "en": "Hybridization"
+        },
+        {
+          "hi": "उभय-अपघटन",
+          "en": "Double decomposition"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ऑक्सीकरण (उपचयन) प्रक्रिया में किसी तत्व की संयोजकता अथवा ऑक्सीकरण संख्या पर क्या प्रभाव पड़ता है?",
+        "en": "During oxidation, what happens to the oxidation number / valency of an element?"
+      },
+      "o": [
+        {
+          "hi": "घट जाती है",
+          "en": "Decreases"
+        },
+        {
+          "hi": "शून्य हो जाती है",
+          "en": "Becomes zero"
+        },
+        {
+          "hi": "बढ़ जाती है (Increases)",
+          "en": "Increases"
+        },
+        {
+          "hi": "अपरिवर्तित रहती है",
+          "en": "Remains unchanged"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अवकरण (अपचयन) प्रक्रिया में किसी तत्व की ऑक्सीकरण संख्या पर क्या प्रभाव पड़ता है?",
+        "en": "During reduction, what happens to the oxidation number of an element?"
+      },
+      "o": [
+        {
+          "hi": "बढ़ जाती है",
+          "en": "Increases"
+        },
+        {
+          "hi": "शून्य हो जाती है",
+          "en": "Becomes zero"
+        },
+        {
+          "hi": "अनंत हो जाती है",
+          "en": "Becomes infinite"
+        },
+        {
+          "hi": "घट जाती है (Decreases)",
+          "en": "Decreases"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वह रासायनिक अभिक्रिया जिसमें ऑक्सीकरण और अपचयन दोनों प्रक्रम एक साथ संपन्न होते हैं, क्या कहलाती है?",
+        "en": "Chemical reaction in which both oxidation and reduction occur simultaneously is?"
+      },
+      "o": [
+        {
+          "hi": "रेडॉक्स अभिक्रिया (Redox Reaction)",
+          "en": "Redox Reaction"
+        },
+        {
+          "hi": "उदासीनीकरण अभिक्रिया",
+          "en": "Neutralization reaction"
+        },
+        {
+          "hi": "अपघटन अभिक्रिया",
+          "en": "Decomposition reaction"
+        },
+        {
+          "hi": "विस्थापन अभिक्रिया",
+          "en": "Displacement reaction"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वह पदार्थ जो दूसरे पदार्थों का ऑक्सीकरण करता है और स्वयं अपचयित (Reduce) हो जाता है, क्या कहलाता है?",
+        "en": "Substance that oxidizes another reactant and undergoes reduction itself is called?"
+      },
+      "o": [
+        {
+          "hi": "अपचायक (Reducing agent)",
+          "en": "Reducing agent"
+        },
+        {
+          "hi": "ऑक्सीकारक (Oxidizing Agent)",
+          "en": "Oxidizing Agent"
+        },
+        {
+          "hi": "उत्प्रेरक",
+          "en": "Catalyst"
+        },
+        {
+          "hi": "विलायक",
+          "en": "Solvent"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वह पदार्थ जो दूसरे पदार्थों का अपचयन करता है और स्वयं ऑक्सीकृत (Oxidize) हो जाता है, क्या कहलाता है?",
+        "en": "Substance that reduces another reactant and undergoes oxidation itself is called?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सीकारक",
+          "en": "Oxidizing agent"
+        },
+        {
+          "hi": "अम्ल",
+          "en": "Acid"
+        },
+        {
+          "hi": "अपचायक (Reducing Agent)",
+          "en": "Reducing Agent"
+        },
+        {
+          "hi": "संकेतक",
+          "en": "Indicator"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा सबसे प्रबल ऑक्सीकारक तत्व (Strongest Oxidizing Agent) है?",
+        "en": "Which of the following elements is the strongest oxidizing agent in periodic table?"
+      },
+      "o": [
+        {
+          "hi": "क्लोरीन (Cl2)",
+          "en": "Chlorine (Cl2)"
+        },
+        {
+          "hi": "ऑक्सीजन (O2)",
+          "en": "Oxygen (O2)"
+        },
+        {
+          "hi": "ओजोन (O3)",
+          "en": "Ozone (O3)"
+        },
+        {
+          "hi": "फ्लोरीन (Fluorine - F2)",
+          "en": "Fluorine (F2)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जलीय विलयन में निम्नलिखित में से कौन-सा सबसे प्रबल अपचायक (Strongest Reducing Agent) है?",
+        "en": "Which of the following alkali metals is the strongest reducing agent in aqueous solution?"
+      },
+      "o": [
+        {
+          "hi": "लिथियम (Lithium - Li)",
+          "en": "Lithium (Li)"
+        },
+        {
+          "hi": "सोडियम (Na)",
+          "en": "Sodium (Na)"
+        },
+        {
+          "hi": "पोटेशियम (K)",
+          "en": "Potassium (K)"
+        },
+        {
+          "hi": "सीजियम (Cs)",
+          "en": "Cesium (Cs)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा पदार्थ ऑक्सीकारक और अपचायक दोनों की भांति कार्य कर सकता है?",
+        "en": "Which of the following compounds can act as both an oxidizing and reducing agent?"
+      },
+      "o": [
+        {
+          "hi": "पोटेशियम परमैंगनेट (KMnO4)",
+          "en": "Potassium permanganate (KMnO4)"
+        },
+        {
+          "hi": "हाइड्रोजन परॉक्साइड (H2O2) एवं सल्फर डाइऑक्साइड (SO2)",
+          "en": "Hydrogen peroxide (H2O2) and SO2"
+        },
+        {
+          "hi": "नाइट्रिक अम्ल (HNO3)",
+          "en": "Nitric acid (HNO3)"
+        },
+        {
+          "hi": "पोटेशियम डाइक्रोमेट (K2Cr2O7)",
+          "en": "Potassium dichromate (K2Cr2O7)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मुक्त अवस्था में उपस्थित किसी शुद्ध तत्व (जैसे H2, O2, N2, Na, Fe) की ऑक्सीकरण संख्या कितनी होती है?",
+        "en": "What is the oxidation number of an uncombined pure element in free state?"
+      },
+      "o": [
+        {
+          "hi": "+1",
+          "en": "+1"
+        },
+        {
+          "hi": "-1",
+          "en": "-1"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        },
+        {
+          "hi": "परमाणु संख्या के बराबर",
+          "en": "Equal to atomic number"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सभी यौगिकों में फ्लोरीन (Fluorine) की ऑक्सीकरण संख्या सदैव कितनी होती है?",
+        "en": "What is the invariable oxidation state of Fluorine in all of its compounds?"
+      },
+      "o": [
+        {
+          "hi": "+1",
+          "en": "+1"
+        },
+        {
+          "hi": "-2",
+          "en": "-2"
+        },
+        {
+          "hi": "0",
+          "en": "0"
+        },
+        {
+          "hi": "-1 (सदैव ऋण एक)",
+          "en": "-1 (always negative one)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सामान्य ऑक्साइडों में ऑक्सीजन की सामान्य ऑक्सीकरण संख्या कितनी होती है?",
+        "en": "What is the normal oxidation number of oxygen in typical metallic & non-metallic oxides?"
+      },
+      "o": [
+        {
+          "hi": "-2",
+          "en": "-2"
+        },
+        {
+          "hi": "-1",
+          "en": "-1"
+        },
+        {
+          "hi": "+2",
+          "en": "+2"
+        },
+        {
+          "hi": "-1/2",
+          "en": "-1/2"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन परॉक्साइड (H2O2) में ऑक्सीजन परमाणु की ऑक्सीकरण संख्या कितनी होती है?",
+        "en": "What is the oxidation state of oxygen in Hydrogen Peroxide (H2O2)?"
+      },
+      "o": [
+        {
+          "hi": "-2",
+          "en": "-2"
+        },
+        {
+          "hi": "-1 (परॉक्साइडों में -1)",
+          "en": "-1 (in peroxides)"
+        },
+        {
+          "hi": "+1",
+          "en": "+1"
+        },
+        {
+          "hi": "0",
+          "en": "0"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ऑक्सीजन डाइफ्लोराइड (OF2) यौगिक में ऑक्सीजन की ऑक्सीकरण संख्या क्या होती है?",
+        "en": "What is the unique oxidation number of oxygen in Oxygen Difluoride (OF2)?"
+      },
+      "o": [
+        {
+          "hi": "-2",
+          "en": "-2"
+        },
+        {
+          "hi": "-1",
+          "en": "-1"
+        },
+        {
+          "hi": "+2 (धनात्मक दो)",
+          "en": "+2 (positive two)"
+        },
+        {
+          "hi": "+1",
+          "en": "+1"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पोटेशियम सुपरऑक्साइड (KO2) में ऑक्सीजन की ऑक्सीकरण संख्या कितनी होती है?",
+        "en": "What is the fractional oxidation state of oxygen in Potassium Superoxide (KO2)?"
+      },
+      "o": [
+        {
+          "hi": "-2",
+          "en": "-2"
+        },
+        {
+          "hi": "-1",
+          "en": "-1"
+        },
+        {
+          "hi": "+1",
+          "en": "+1"
+        },
+        {
+          "hi": "-1/2 (सुपरऑक्साइडों में -½)",
+          "en": "-1/2 (in superoxides)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अधिकांश यौगिकों में हाइड्रोजन की ऑक्सीकरण संख्या +1 होती है, परंतु धातु हाइड्राइडों (जैसे NaH, CaH2) में क्या होती है?",
+        "en": "Hydrogen has +1 oxidation state in most compounds, but in metal hydrides (NaH, CaH2) it is?"
+      },
+      "o": [
+        {
+          "hi": "-1 (ऋण एक)",
+          "en": "-1 (negative one)"
+        },
+        {
+          "hi": "+1",
+          "en": "+1"
+        },
+        {
+          "hi": "0",
+          "en": "0"
+        },
+        {
+          "hi": "+2",
+          "en": "+2"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पोटेशियम परमैंगनेट (KMnO4) में मैंगनीज (Mn) की ऑक्सीकरण संख्या कितनी होती है?",
+        "en": "What is the oxidation number of Manganese (Mn) in Potassium Permanganate (KMnO4)?"
+      },
+      "o": [
+        {
+          "hi": "+2",
+          "en": "+2"
+        },
+        {
+          "hi": "+7 (+1 + x - 8 = 0 -> x = +7)",
+          "en": "+7 (+1 + x - 8 = 0 -> x = +7)"
+        },
+        {
+          "hi": "+4",
+          "en": "+4"
+        },
+        {
+          "hi": "+6",
+          "en": "+6"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पोटेशियम डाइक्रोमेट (K2Cr2O7) में क्रोमियम (Cr) की ऑक्सीकरण संख्या कितनी होती है?",
+        "en": "What is the oxidation number of Chromium (Cr) in Potassium Dichromate (K2Cr2O7)?"
+      },
+      "o": [
+        {
+          "hi": "+3",
+          "en": "+3"
+        },
+        {
+          "hi": "+7",
+          "en": "+7"
+        },
+        {
+          "hi": "+6 (+2 + 2x - 14 = 0 -> x = +6)",
+          "en": "+6 (+2 + 2x - 14 = 0 -> x = +6)"
+        },
+        {
+          "hi": "+4",
+          "en": "+4"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सल्फ्यूरिक अम्ल (H2SO4) में गंधक (सल्फर - S) की ऑक्सीकरण संख्या क्या है?",
+        "en": "What is the oxidation state of Sulfur (S) in Sulfuric Acid (H2SO4)?"
+      },
+      "o": [
+        {
+          "hi": "+2",
+          "en": "+2"
+        },
+        {
+          "hi": "+4",
+          "en": "+4"
+        },
+        {
+          "hi": "-2",
+          "en": "-2"
+        },
+        {
+          "hi": "+6 (+2 + x - 8 = 0 -> x = +6)",
+          "en": "+6 (+2 + x - 8 = 0 -> x = +6)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नाइट्रिक अम्ल (HNO3) में नाइट्रोजन (N) की ऑक्सीकरण संख्या कितनी होती है?",
+        "en": "What is the oxidation number of Nitrogen (N) in Nitric Acid (HNO3)?"
+      },
+      "o": [
+        {
+          "hi": "+5 (+1 + x - 6 = 0 -> x = +5)",
+          "en": "+5 (+1 + x - 6 = 0 -> x = +5)"
+        },
+        {
+          "hi": "+3",
+          "en": "+3"
+        },
+        {
+          "hi": "-3",
+          "en": "-3"
+        },
+        {
+          "hi": "+4",
+          "en": "+4"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मीथेन (CH4) में कार्बन की ऑक्सीकरण संख्या कितनी होती है?",
+        "en": "What is the oxidation state of Carbon (C) in Methane (CH4)?"
+      },
+      "o": [
+        {
+          "hi": "+4",
+          "en": "+4"
+        },
+        {
+          "hi": "-4 (x + 4 = 0 -> x = -4)",
+          "en": "-4 (x + 4 = 0 -> x = -4)"
+        },
+        {
+          "hi": "0",
+          "en": "0"
+        },
+        {
+          "hi": "+2",
+          "en": "+2"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कार्बन डाइऑक्साइड (CO2) में कार्बन की ऑक्सीकरण संख्या क्या होती है?",
+        "en": "What is the oxidation state of Carbon in Carbon Dioxide (CO2)?"
+      },
+      "o": [
+        {
+          "hi": "-4",
+          "en": "-4"
+        },
+        {
+          "hi": "+2",
+          "en": "+2"
+        },
+        {
+          "hi": "+4 (x - 4 = 0 -> x = +4)",
+          "en": "+4 (x - 4 = 0 -> x = +4)"
+        },
+        {
+          "hi": "0",
+          "en": "0"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ग्लूकोज (C6H12O6) में कार्बन की औसत ऑक्सीकरण संख्या कितनी होती है?",
+        "en": "What is the average oxidation number of Carbon in Glucose (C6H12O6)?"
+      },
+      "o": [
+        {
+          "hi": "+2",
+          "en": "+2"
+        },
+        {
+          "hi": "-2",
+          "en": "-2"
+        },
+        {
+          "hi": "+4",
+          "en": "+4"
+        },
+        {
+          "hi": "0 (शून्य)",
+          "en": "0 (Zero)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अमोनिया (NH3) में नाइट्रोजन की ऑक्सीकरण संख्या क्या होती है?",
+        "en": "What is the oxidation number of Nitrogen in Ammonia (NH3)?"
+      },
+      "o": [
+        {
+          "hi": "-3 (x + 3 = 0 -> x = -3)",
+          "en": "-3 (x + 3 = 0 -> x = -3)"
+        },
+        {
+          "hi": "+3",
+          "en": "+3"
+        },
+        {
+          "hi": "+5",
+          "en": "+5"
+        },
+        {
+          "hi": "-1",
+          "en": "-1"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लोहे पर जंग लगने की प्रक्रिया रासायनिक रूप से क्या है?",
+        "en": "Chemical process of rusting of iron in presence of moist air is primarily?"
+      },
+      "o": [
+        {
+          "hi": "केवल अपचयन",
+          "en": "Only reduction"
+        },
+        {
+          "hi": "धीमा ऑक्सीकरण (Slow Oxidation / रेडॉक्स प्रक्रम)",
+          "en": "Slow Oxidation / Redox process"
+        },
+        {
+          "hi": "केवल उदासीनीकरण",
+          "en": "Only neutralization"
+        },
+        {
+          "hi": "वाष्पीकरण",
+          "en": "Evaporation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जंग लगे लोहे का रासायनिक सूत्र सामान्यतः क्या होता है?",
+        "en": "What is the general chemical formula of rust formed on iron?"
+      },
+      "o": [
+        {
+          "hi": "FeO",
+          "en": "FeO"
+        },
+        {
+          "hi": "Fe3O4",
+          "en": "Fe3O4"
+        },
+        {
+          "hi": "Fe2O3 · xH2O (जलयोजित फेरिक ऑक्साइड)",
+          "en": "Fe2O3 · xH2O (Hydrated Ferric Oxide)"
+        },
+        {
+          "hi": "Fe(OH)2",
+          "en": "Fe(OH)2"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "खाद्य पदार्थों में उपस्थित वसा और तेलों का वायु की ऑक्सीजन द्वारा खराब व दुर्गंधयुक्त होना क्या कहलाता है?",
+        "en": "Spoilage of fats and oils by aerial oxidation resulting in bad smell and taste is?"
+      },
+      "o": [
+        {
+          "hi": "किण्वन",
+          "en": "Fermentation"
+        },
+        {
+          "hi": "संक्षारण",
+          "en": "Corrosion"
+        },
+        {
+          "hi": "पाश्चुरीकरण",
+          "en": "Pasteurization"
+        },
+        {
+          "hi": "विकृतगंधिता (Rancidity)",
+          "en": "Rancidity"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "खाद्य तेलों और चिप्स को विकृतगंधिता से बचाने के लिए किन प्रति-ऑक्सीकारक (Antioxidants) का उपयोग होता है?",
+        "en": "Which antioxidants are commonly added to fatty foods to prevent rancidity?"
+      },
+      "o": [
+        {
+          "hi": "BHA (ब्यूटाइलेटेड हाइड्रॉक्सीएनिसोल) और BHT",
+          "en": "BHA and BHT"
+        },
+        {
+          "hi": "सोडियम क्लोराइड",
+          "en": "Sodium chloride"
+        },
+        {
+          "hi": "ब्लीचिंग पाउडर",
+          "en": "Bleaching powder"
+        },
+        {
+          "hi": "यूरिया",
+          "en": "Urea"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "श्वसन (Respiration) की जैव-रासायनिक प्रक्रिया किस प्रकार की अभिक्रिया है?",
+        "en": "Biochemical process of cellular respiration in living cells is primarily what?"
+      },
+      "o": [
+        {
+          "hi": "ऊष्माशोषी अपचयन",
+          "en": "Endothermic reduction"
+        },
+        {
+          "hi": "धीमी दहन एवं ऊष्माक्षेपी ऑक्सीकरण अभिक्रिया",
+          "en": "Slow combustion and exothermic oxidation"
+        },
+        {
+          "hi": "केवल भौतिक परिवर्तन",
+          "en": "Only physical change"
+        },
+        {
+          "hi": "उदासीनीकरण",
+          "en": "Neutralization"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दूध का फटना या खट्टा होना किस अम्ल के निर्माण के कारण होता है?",
+        "en": "Souring of milk is caused by formation of which acid due to microbial action?"
+      },
+      "o": [
+        {
+          "hi": "एसिटिक अम्ल",
+          "en": "Acetic acid"
+        },
+        {
+          "hi": "टार्टरिक अम्ल",
+          "en": "Tartaric acid"
+        },
+        {
+          "hi": "लैक्टिक अम्ल (Lactic Acid)",
+          "en": "Lactic Acid"
+        },
+        {
+          "hi": "साइट्रिक अम्ल",
+          "en": "Citric acid"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किसी पदार्थ से हाइड्रोजन का अलग होना या निष्कासन क्या कहलाता है?",
+        "en": "The removal of hydrogen from a chemical substance is classically termed as?"
+      },
+      "o": [
+        {
+          "hi": "अवकरण",
+          "en": "Reduction"
+        },
+        {
+          "hi": "हाइड्रोजनीकरण",
+          "en": "Hydrogenation"
+        },
+        {
+          "hi": "जल-योजन",
+          "en": "Hydration"
+        },
+        {
+          "hi": "ऑक्सीकरण (Oxidation)",
+          "en": "Oxidation"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किसी पदार्थ में हाइड्रोजन का जुड़ना या योग होना क्या कहलाता है?",
+        "en": "The addition of hydrogen to an unsaturated chemical compound is known as?"
+      },
+      "o": [
+        {
+          "hi": "अवकरण या अपचयन (Reduction)",
+          "en": "Reduction"
+        },
+        {
+          "hi": "ऑक्सीकरण",
+          "en": "Oxidation"
+        },
+        {
+          "hi": "दहन",
+          "en": "Combustion"
+        },
+        {
+          "hi": "जंग लगना",
+          "en": "Rusting"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "असंतृप्त वनस्पति तेलों से वनस्पति घी (डालडा) बनाने की प्रक्रिया क्या कहलाती है?",
+        "en": "Industrial process of converting vegetable oils into vanaspati ghee using Ni catalyst is?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सीकरण",
+          "en": "Oxidation"
+        },
+        {
+          "hi": "हाइड्रोजनीकरण / अपचयन (Hydrogenation)",
+          "en": "Hydrogenation / Reduction"
+        },
+        {
+          "hi": "साबुनीकरण",
+          "en": "Saponification"
+        },
+        {
+          "hi": "किण्वन",
+          "en": "Fermentation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वनस्पति तेलों के हाइड्रोजनीकरण में किस उत्प्रेरक का उपयोग किया जाता है?",
+        "en": "Which finely divided metal catalyst is used in hydrogenation of vegetable oils?"
+      },
+      "o": [
+        {
+          "hi": "प्लैटिनम",
+          "en": "Platinum"
+        },
+        {
+          "hi": "आयरन",
+          "en": "Iron"
+        },
+        {
+          "hi": "निकेल (Nickel - Ni)",
+          "en": "Nickel (Ni)"
+        },
+        {
+          "hi": "कॉपर",
+          "en": "Copper"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रकाश संश्लेषण (Photosynthesis) की प्रक्रिया में क्या होता है?",
+        "en": "In the biochemical process of green plant photosynthesis, what takes place?"
+      },
+      "o": [
+        {
+          "hi": "केवल ऑक्सीकरण",
+          "en": "Only oxidation"
+        },
+        {
+          "hi": "केवल अपचयन",
+          "en": "Only reduction"
+        },
+        {
+          "hi": "कोई रेडॉक्स नहीं होता",
+          "en": "No redox occurs"
+        },
+        {
+          "hi": "जल का ऑक्सीकरण तथा CO2 का अपचयन (रेडॉक्स प्रक्रम)",
+          "en": "Oxidation of water & reduction of CO2 (Redox)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लेड स्टोरेज बैटरी (सीसा संचायक सेल) के डिस्चार्ज होने पर दोनों प्लेटों पर क्या बनता है?",
+        "en": "When a lead storage battery discharges, what chemical is formed on both plates?"
+      },
+      "o": [
+        {
+          "hi": "लेड सल्फेट (PbSO4)",
+          "en": "Lead Sulfate (PbSO4)"
+        },
+        {
+          "hi": "लेड ऑक्साइड (PbO2)",
+          "en": "Lead Oxide (PbO2)"
+        },
+        {
+          "hi": "शुद्ध लेड (Pb)",
+          "en": "Pure Lead (Pb)"
+        },
+        {
+          "hi": "लेड नाइट्रेट",
+          "en": "Lead Nitrate"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फेरस आयन (Fe²⁺) का फेरिक आयन (Fe³⁺) में बदलना किसका उदाहरण है?",
+        "en": "Conversion of ferrous ion (Fe²⁺) to ferric ion (Fe³⁺) via loss of 1 electron is?"
+      },
+      "o": [
+        {
+          "hi": "अवकरण का",
+          "en": "Reduction"
+        },
+        {
+          "hi": "ऑक्सीकरण (Oxidation) का",
+          "en": "Oxidation"
+        },
+        {
+          "hi": "उदासीनीकरण का",
+          "en": "Neutralization"
+        },
+        {
+          "hi": "अवक्षेपण का",
+          "en": "Precipitation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्यूप्रिक आयन (Cu²⁺) का 2 इलेक्ट्रॉन ग्रहण कर Cu धातु में बदलना क्या कहलाता है?",
+        "en": "Conversion of Cu²⁺ ion into Cu metal by gaining 2 electrons represents what?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सीकरण",
+          "en": "Oxidation"
+        },
+        {
+          "hi": "संक्षारण",
+          "en": "Corrosion"
+        },
+        {
+          "hi": "अवकरण या अपचयन (Reduction)",
+          "en": "Reduction"
+        },
+        {
+          "hi": "किण्वन",
+          "en": "Fermentation"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सोडियम थायोसल्फेट (हाइपो - Na2S2O3) में सल्फर की ऑक्सीकरण संख्या कितनी होती है?",
+        "en": "What is the average oxidation state of Sulfur in Sodium Thiosulfate (Na2S2O3)?"
+      },
+      "o": [
+        {
+          "hi": "+4",
+          "en": "+4"
+        },
+        {
+          "hi": "+6",
+          "en": "+6"
+        },
+        {
+          "hi": "0",
+          "en": "0"
+        },
+        {
+          "hi": "+2 (+2 + 2x - 6 = 0 -> x = +2)",
+          "en": "+2 (+2 + 2x - 6 = 0 -> x = +2)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सल्फ्यूरस अम्ल (H2SO3) में सल्फर की ऑक्सीकरण संख्या क्या होती है?",
+        "en": "What is the oxidation number of Sulfur in Sulfurous Acid (H2SO3)?"
+      },
+      "o": [
+        {
+          "hi": "+4 (+2 + x - 6 = 0 -> x = +4)",
+          "en": "+4 (+2 + x - 6 = 0 -> x = +4)"
+        },
+        {
+          "hi": "+6",
+          "en": "+6"
+        },
+        {
+          "hi": "+2",
+          "en": "+2"
+        },
+        {
+          "hi": "-2",
+          "en": "-2"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नाइट्रस अम्ल (HNO2) में नाइट्रोजन की ऑक्सीकरण संख्या कितनी होती है?",
+        "en": "What is the oxidation state of Nitrogen in Nitrous Acid (HNO2)?"
+      },
+      "o": [
+        {
+          "hi": "+5",
+          "en": "+5"
+        },
+        {
+          "hi": "+3 (+1 + x - 4 = 0 -> x = +3)",
+          "en": "+3 (+1 + x - 4 = 0 -> x = +3)"
+        },
+        {
+          "hi": "-3",
+          "en": "-3"
+        },
+        {
+          "hi": "+2",
+          "en": "+2"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हाइपोक्लोरस अम्ल (HClO) में क्लोरीन की ऑक्सीकरण संख्या क्या होती है?",
+        "en": "What is the oxidation state of Chlorine in Hypochlorous Acid (HClO)?"
+      },
+      "o": [
+        {
+          "hi": "-1",
+          "en": "-1"
+        },
+        {
+          "hi": "+3",
+          "en": "+3"
+        },
+        {
+          "hi": "+1 (+1 + x - 2 = 0 -> x = +1)",
+          "en": "+1 (+1 + x - 2 = 0 -> x = +1)"
+        },
+        {
+          "hi": "+5",
+          "en": "+5"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "परक्लोरिक अम्ल (HClO4) में क्लोरीन की ऑक्सीकरण संख्या कितनी होती है?",
+        "en": "What is the maximum oxidation state of Chlorine in Perchloric Acid (HClO4)?"
+      },
+      "o": [
+        {
+          "hi": "-1",
+          "en": "-1"
+        },
+        {
+          "hi": "+5",
+          "en": "+5"
+        },
+        {
+          "hi": "+3",
+          "en": "+3"
+        },
+        {
+          "hi": "+7 (+1 + x - 8 = 0 -> x = +7)",
+          "en": "+7 (+1 + x - 8 = 0 -> x = +7)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अमोनियम नाइट्रेट (NH4NO3) में दोनों नाइट्रोजन परमाणुओं की ऑक्सीकरण संख्याएं क्रमशः क्या हैं?",
+        "en": "What are oxidation states of two nitrogen atoms in Ammonium Nitrate (NH4NO3)?"
+      },
+      "o": [
+        {
+          "hi": "-3 और +5 (NH4⁺ में -3, NO3⁻ में +5)",
+          "en": "-3 and +5 (in NH4⁺ is -3, in NO3⁻ is +5)"
+        },
+        {
+          "hi": "+3 और -3",
+          "en": "+3 and -3"
+        },
+        {
+          "hi": "+1 और +1",
+          "en": "+1 and +1"
+        },
+        {
+          "hi": "0 और +5",
+          "en": "0 and +5"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दहन (Combustion) की रासायनिक प्रक्रिया अनिवार्यतः किस प्रकार की अभिक्रिया है?",
+        "en": "Combustion of any fuel in presence of air/oxygen is chemically which reaction?"
+      },
+      "o": [
+        {
+          "hi": "ऊष्माशोषी अपचयन",
+          "en": "Endothermic reduction"
+        },
+        {
+          "hi": "तीव्र ऊष्माक्षेपी ऑक्सीकरण अभिक्रिया (Exothermic Oxidation)",
+          "en": "Rapid Exothermic Oxidation"
+        },
+        {
+          "hi": "उदासीनीकरण अभिक्रिया",
+          "en": "Neutralization reaction"
+        },
+        {
+          "hi": "धीमी अवकरण अभिक्रिया",
+          "en": "Slow reduction reaction"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चांदी के बर्तनों और आभूषणों का हवा में खुला रहने पर काला पड़ना किसके बनने से होता है?",
+        "en": "Tarnishing/blackening of silver items in air is due to formation of what?"
+      },
+      "o": [
+        {
+          "hi": "सिल्वर ऑक्साइड",
+          "en": "Silver oxide"
+        },
+        {
+          "hi": "सिल्वर नाइट्रेट",
+          "en": "Silver nitrate"
+        },
+        {
+          "hi": "सिल्वर सल्फाइड (Ag2S - H2S से क्रिया द्वारा)",
+          "en": "Silver Sulfide (Ag2S)"
+        },
+        {
+          "hi": "सिल्वर क्लोराइड",
+          "en": "Silver chloride"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तांबे के बर्तनों पर नम वायु के संपर्क से हरी परत (Green Patina) किसके बनने से चढ़ती है?",
+        "en": "Green coating formed on copper utensils exposed to moist air is chemically?"
+      },
+      "o": [
+        {
+          "hi": "क्यूप्रिक ऑक्साइड",
+          "en": "Cupric oxide"
+        },
+        {
+          "hi": "कॉपर सल्फेट",
+          "en": "Copper sulfate"
+        },
+        {
+          "hi": "क्यूप्रस क्लोराइड",
+          "en": "Cuprous chloride"
+        },
+        {
+          "hi": "बेसिक कॉपर कार्बोनेट [CuCO3 · Cu(OH)2]",
+          "en": "Basic Copper Carbonate [CuCO3 · Cu(OH)2]"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सोडियम को मिट्टी के तेल (केरोसिन) में डुबोकर क्यों रखा जाता है?",
+        "en": "Why is highly reactive metallic Sodium always stored immersed in kerosene oil?"
+      },
+      "o": [
+        {
+          "hi": "वायु के ऑक्सीजन व नमी से तीव्र ऑक्सीकरण रोकने हेतु",
+          "en": "To prevent rapid oxidation with air & moisture"
+        },
+        {
+          "hi": "सोडियम को ठंडा रखने के लिए",
+          "en": "To keep sodium cold"
+        },
+        {
+          "hi": "सोडियम का वजन बढ़ाने के लिए",
+          "en": "To increase sodium weight"
+        },
+        {
+          "hi": "सोडियम को चमकाने के लिए",
+          "en": "To polish sodium"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फास्फोरस (सफेद फास्फोरस) को सुरक्षित रखने के लिए किसमें डुबोकर रखा जाता है?",
+        "en": "White phosphorus spontaneously catches fire in air, so it is stored in what?"
+      },
+      "o": [
+        {
+          "hi": "केरोसिन में",
+          "en": "In kerosene"
+        },
+        {
+          "hi": "शीतल जल में (Cold Water)",
+          "en": "In Cold Water"
+        },
+        {
+          "hi": "अल्कोहल में",
+          "en": "In alcohol"
+        },
+        {
+          "hi": "ईथर में",
+          "en": "In ether"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

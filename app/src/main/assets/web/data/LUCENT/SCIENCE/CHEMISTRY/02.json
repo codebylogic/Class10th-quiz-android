@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - रसायन विज्ञान (Chemistry)",
+  "subtitle": "परमाणु संरचना",
+  "description": "परमाणु संरचना पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "सर्वप्रथम किस भारतीय दार्शनिक ने बताया था कि 'सभी पदार्थ अत्यंत सूक्ष्म कणों से मिलकर बने हैं जिन्हें परमाणु कहते हैं'?",
+        "en": "Which ancient Indian sage first proposed that all matter is composed of anu/paramanu?"
+      },
+      "o": [
+        {
+          "hi": "महर्षि कणाद (Maharishi Kanad) ने",
+          "en": "Maharishi Kanad"
+        },
+        {
+          "hi": "आर्यभट्ट ने",
+          "en": "Aryabhata"
+        },
+        {
+          "hi": "वराहमिहिर ने",
+          "en": "Varahamihira"
+        },
+        {
+          "hi": "चरक ने",
+          "en": "Charaka"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1803 में वैज्ञानिक आधार पर परमाणु सिद्धांत (Atomic Theory) प्रस्तुत करने वाले वैज्ञानिक कौन थे?",
+        "en": "Who presented the first modern scientific Atomic Theory in 1803?"
+      },
+      "o": [
+        {
+          "hi": "जे. जे. थॉमसन",
+          "en": "J.J. Thomson"
+        },
+        {
+          "hi": "जॉन डाल्टन (John Dalton)",
+          "en": "John Dalton"
+        },
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "नील्स बोर",
+          "en": "Niels Bohr"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "इलेक्ट्रॉन (Electron) की खोज 1897 में किस वैज्ञानिक ने की थी?",
+        "en": "Who discovered the electron in 1897 using cathode ray discharge tubes?"
+      },
+      "o": [
+        {
+          "hi": "गोल्डस्टीन",
+          "en": "Goldstein"
+        },
+        {
+          "hi": "जेम्स चैडविक",
+          "en": "James Chadwick"
+        },
+        {
+          "hi": "सर जे. जे. थॉमसन (J.J. Thomson)",
+          "en": "Sir J.J. Thomson"
+        },
+        {
+          "hi": "अर्नेस्ट रदरफोर्ड",
+          "en": "Ernest Rutherford"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "इलेक्ट्रॉन पर आवेश के यथार्थ मान की गणना प्रसिद्ध 'तैल-बूंद प्रयोग' (Oil Drop Experiment) द्वारा किसने की?",
+        "en": "Who determined charge of an electron via famous Oil Drop Experiment in 1909?"
+      },
+      "o": [
+        {
+          "hi": "जे. जे. थॉमसन",
+          "en": "J.J. Thomson"
+        },
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "मैक्स प्लांक",
+          "en": "Max Planck"
+        },
+        {
+          "hi": "आर. ए. मिलिकन (R.A. Millikan)",
+          "en": "R.A. Millikan"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इलेक्ट्रॉन के विशिष्ट आवेश (e/m अनुपात) का मान कितना होता है?",
+        "en": "What is specific charge (charge-to-mass ratio e/m) of an electron?"
+      },
+      "o": [
+        {
+          "hi": "1.76 × 10^11 कूलॉम/किग्रा",
+          "en": "1.76 × 10^11 C/kg"
+        },
+        {
+          "hi": "1.60 × 10^-19 C/kg",
+          "en": "1.60 × 10^-19 C/kg"
+        },
+        {
+          "hi": "9.10 × 10^-31 C/kg",
+          "en": "9.10 × 10^-31 C/kg"
+        },
+        {
+          "hi": "9.58 × 10^7 C/kg",
+          "en": "9.58 × 10^7 C/kg"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एनोड किरणों (Anode Rays / Canal Rays) की खोज 1886 में किसने की थी?",
+        "en": "Who discovered canal rays / anode rays in a discharge tube in 1886?"
+      },
+      "o": [
+        {
+          "hi": "जे. जे. थॉमसन",
+          "en": "J.J. Thomson"
+        },
+        {
+          "hi": "ई. गोल्डस्टीन (Eugen Goldstein)",
+          "en": "Eugen Goldstein"
+        },
+        {
+          "hi": "जेम्स चैडविक",
+          "en": "James Chadwick"
+        },
+        {
+          "hi": "रॉन्टजन",
+          "en": "Roentgen"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "परमाणु के धनावेशित मूलकण 'प्रोटॉन' (Proton) का नामकरण किसने किया था?",
+        "en": "Who characterized and named the proton in 1920?"
+      },
+      "o": [
+        {
+          "hi": "गोल्डस्टीन",
+          "en": "Goldstein"
+        },
+        {
+          "hi": "डाल्टन",
+          "en": "Dalton"
+        },
+        {
+          "hi": "अर्नेस्ट रदरफोर्ड (Ernest Rutherford)",
+          "en": "Ernest Rutherford"
+        },
+        {
+          "hi": "चैडविक",
+          "en": "Chadwick"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उदासीन मूलकण 'न्यूट्रॉन' (Neutron) की खोज 1932 में किसने की थी?",
+        "en": "Who discovered the neutral fundamental particle, neutron, in 1932?"
+      },
+      "o": [
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "थॉमसन",
+          "en": "Thomson"
+        },
+        {
+          "hi": "नील्स बोर",
+          "en": "Niels Bohr"
+        },
+        {
+          "hi": "सर जेम्स चैडविक (James Chadwick)",
+          "en": "Sir James Chadwick"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किस तत्व के परमाणु में कोई न्यूट्रॉन नहीं पाया जाता है?",
+        "en": "An atom of which chemical element contains no neutrons in its nucleus?"
+      },
+      "o": [
+        {
+          "hi": "साधारण हाइड्रोजन (प्रोटियम - 1H1)",
+          "en": "Ordinary Hydrogen (Protium - 1H1)"
+        },
+        {
+          "hi": "हीलियम",
+          "en": "Helium"
+        },
+        {
+          "hi": "कार्बन",
+          "en": "Carbon"
+        },
+        {
+          "hi": "ऑक्सीजन",
+          "en": "Oxygen"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "परमाणु का प्रथम मॉडल (तरबूज मॉडल / प्लम पुडिंग मॉडल) किसने प्रस्तुत किया था?",
+        "en": "Who proposed the 'Plum Pudding' or watermelon model of the atom in 1898?"
+      },
+      "o": [
+        {
+          "hi": "जॉन डाल्टन",
+          "en": "John Dalton"
+        },
+        {
+          "hi": "जे. जे. थॉमसन (J.J. Thomson)",
+          "en": "J.J. Thomson"
+        },
+        {
+          "hi": "अर्नेस्ट रदरफोर्ड",
+          "en": "Ernest Rutherford"
+        },
+        {
+          "hi": "नील्स बोर",
+          "en": "Niels Bohr"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "परमाणु के नाभिक (Nucleus) की खोज किस प्रयोग के द्वारा हुई थी?",
+        "en": "Discovery of atomic nucleus was made through which famous experiment in 1911?"
+      },
+      "o": [
+        {
+          "hi": "तैल-बूंद प्रयोग",
+          "en": "Oil drop experiment"
+        },
+        {
+          "hi": "कैथोड किरण प्रयोग",
+          "en": "Cathode ray experiment"
+        },
+        {
+          "hi": "रदरफोर्ड का अल्फा कण प्रकीर्णन प्रयोग",
+          "en": "Rutherford's Alpha Particle Scattering Experiment"
+        },
+        {
+          "hi": "प्रकाश-विद्युत प्रयोग",
+          "en": "Photoelectric experiment"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रदरफोर्ड के प्रकीर्णन प्रयोग में किस धातु की अत्यंत पतली पन्नी पर अल्फा कणों की बौछार की गई थी?",
+        "en": "In Rutherford's scattering experiment, a thin foil of which metal was bombarded?"
+      },
+      "o": [
+        {
+          "hi": "चांदी की",
+          "en": "Silver"
+        },
+        {
+          "hi": "एल्युमिनियम की",
+          "en": "Aluminium"
+        },
+        {
+          "hi": "तांबे की",
+          "en": "Copper"
+        },
+        {
+          "hi": "सोने की (Gold Foil)",
+          "en": "Gold Foil"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "परमाणु के नाभिक का आकार (त्रिज्या) किस कोटि का होता है?",
+        "en": "What is the order of magnitude of the radius of an atomic nucleus?"
+      },
+      "o": [
+        {
+          "hi": "10^-15 मीटर (1 फर्मी)",
+          "en": "10^-15 m (1 Fermi)"
+        },
+        {
+          "hi": "10^-10 मीटर (1 Å)",
+          "en": "10^-10 m (1 Å)"
+        },
+        {
+          "hi": "10^-6 मीटर",
+          "en": "10^-6 m"
+        },
+        {
+          "hi": "10^-8 मीटर",
+          "en": "10^-8 m"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संपूर्ण परमाणु का आकार (त्रिज्या) किस कोटि का होता है?",
+        "en": "What is the approximate order of magnitude of atomic radius?"
+      },
+      "o": [
+        {
+          "hi": "10^-15 मीटर",
+          "en": "10^-15 m"
+        },
+        {
+          "hi": "10^-10 मीटर (1 एंग्स्ट्रॉम)",
+          "en": "10^-10 m (1 Angstrom)"
+        },
+        {
+          "hi": "10^-12 मीटर",
+          "en": "10^-12 m"
+        },
+        {
+          "hi": "10^-6 मीटर",
+          "en": "10^-6 m"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नाभिक में उपस्थित प्रोटॉनों और न्यूट्रॉनों को संयुक्त रूप से क्या कहा जाता है?",
+        "en": "What are protons and neutrons together called inside an atomic nucleus?"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रॉन",
+          "en": "Electrons"
+        },
+        {
+          "hi": "पॉजिट्रॉन",
+          "en": "Positrons"
+        },
+        {
+          "hi": "न्यूक्लियॉन (Nucleons)",
+          "en": "Nucleons"
+        },
+        {
+          "hi": "मेसॉन",
+          "en": "Mesons"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किसी तत्व के परमाणु नाभिक में उपस्थित प्रोटॉनों की संख्या को क्या कहते हैं?",
+        "en": "What is the total number of protons in an atomic nucleus called?"
+      },
+      "o": [
+        {
+          "hi": "द्रव्यमान संख्या",
+          "en": "Mass number"
+        },
+        {
+          "hi": "परमाणु भार",
+          "en": "Atomic weight"
+        },
+        {
+          "hi": "तुल्यांकी भार",
+          "en": "Equivalent weight"
+        },
+        {
+          "hi": "परमाणु संख्या या परमाणु क्रमांक (Atomic Number - Z)",
+          "en": "Atomic Number (Z)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "परमाणु की द्रव्यमान संख्या (Mass Number - A) किसके बराबर होती है?",
+        "en": "Mass number (A) of an atom is equal to the sum of what?"
+      },
+      "o": [
+        {
+          "hi": "प्रोटॉन + न्यूट्रॉनों की कुल संख्या (A = Z + N)",
+          "en": "Total number of Protons + Neutrons (A = Z + N)"
+        },
+        {
+          "hi": "प्रोटॉन + इलेक्ट्रॉनों की संख्या",
+          "en": "Protons + Electrons"
+        },
+        {
+          "hi": "केवल प्रोटॉनों की संख्या",
+          "en": "Only Protons"
+        },
+        {
+          "hi": "केवल न्यूट्रॉनों की संख्या",
+          "en": "Only Neutrons"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यदि किसी तत्व का परमाणु क्रमांक 11 और द्रव्यमान संख्या 23 है, तो उसमें न्यूट्रॉनों की संख्या कितनी होगी?",
+        "en": "If an atom has atomic number 11 and mass number 23, how many neutrons does it have?"
+      },
+      "o": [
+        {
+          "hi": "11",
+          "en": "11"
+        },
+        {
+          "hi": "12 (23 - 11 = 12)",
+          "en": "12 (23 - 11 = 12)"
+        },
+        {
+          "hi": "23",
+          "en": "23"
+        },
+        {
+          "hi": "34",
+          "en": "34"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नील्स बोर ने अपना प्रसिद्ध परमाणु मॉडल किस वर्ष प्रस्तुत किया था?",
+        "en": "In which year did Niels Bohr propose his quantum atomic model?"
+      },
+      "o": [
+        {
+          "hi": "1905",
+          "en": "1905"
+        },
+        {
+          "hi": "1911",
+          "en": "1911"
+        },
+        {
+          "hi": "1913 में (1922 नोबेल पुरस्कार)",
+          "en": "In 1913 (1922 Nobel Prize)"
+        },
+        {
+          "hi": "1932",
+          "en": "1932"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बोर के मॉडल के अनुसार किसी मुख्य कक्षा (n) में अधिकतम इलेक्ट्रॉनों की संख्या क्या हो सकती है?",
+        "en": "According to Bohr-Bury scheme, maximum electrons in orbit n is given by?"
+      },
+      "o": [
+        {
+          "hi": "n²",
+          "en": "n²"
+        },
+        {
+          "hi": "2n",
+          "en": "2n"
+        },
+        {
+          "hi": "4n²",
+          "en": "4n²"
+        },
+        {
+          "hi": "2n² (बोर-बरी योजना)",
+          "en": "2n² (Bohr-Bury scheme)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "परमाणु की M-कक्षा (तीसरी कक्षा, n = 3) में अधिकतम कितने इलेक्ट्रॉन रह सकते हैं?",
+        "en": "What is maximum capacity of electrons in the M shell (n = 3)?"
+      },
+      "o": [
+        {
+          "hi": "18 इलेक्ट्रॉन (2 × 3² = 18)",
+          "en": "18 electrons (2 × 3² = 18)"
+        },
+        {
+          "hi": "8 इलेक्ट्रॉन",
+          "en": "8 electrons"
+        },
+        {
+          "hi": "32 इलेक्ट्रॉन",
+          "en": "32 electrons"
+        },
+        {
+          "hi": "2 इलेक्ट्रॉन",
+          "en": "2 electrons"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "परमाणु की सबसे बाहरी कक्षा (Valence Shell) में अधिकतम कितने इलेक्ट्रॉन हो सकते हैं?",
+        "en": "What is maximum number of electrons accommodated in outermost valence shell?"
+      },
+      "o": [
+        {
+          "hi": "2",
+          "en": "2"
+        },
+        {
+          "hi": "8 इलेक्ट्रॉन (अष्टक नियम)",
+          "en": "8 electrons (Octet rule)"
+        },
+        {
+          "hi": "18",
+          "en": "18"
+        },
+        {
+          "hi": "32",
+          "en": "32"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "इलेक्ट्रॉन की स्थिति और ऊर्जा का पूर्ण विवरण देने वाली संख्याओं को क्या कहते हैं?",
+        "en": "Set of numbers giving complete address and state of an electron in an atom is?"
+      },
+      "o": [
+        {
+          "hi": "रोमन संख्याएं",
+          "en": "Roman numbers"
+        },
+        {
+          "hi": "अवागाद्रो संख्याएं",
+          "en": "Avogadro numbers"
+        },
+        {
+          "hi": "क्वांटम संख्याएं (Quantum Numbers)",
+          "en": "Quantum Numbers"
+        },
+        {
+          "hi": "समस्थानिक संख्याएं",
+          "en": "Isotopic numbers"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "क्वांटम संख्याओं की कुल संख्या कितनी होती है?",
+        "en": "What is the total number of quantum numbers used to describe an electron?"
+      },
+      "o": [
+        {
+          "hi": "1",
+          "en": "1"
+        },
+        {
+          "hi": "2",
+          "en": "2"
+        },
+        {
+          "hi": "3",
+          "en": "3"
+        },
+        {
+          "hi": "4 (मुख्य, दिगंशी, चुंबकीय, चक्रण)",
+          "en": "4 (Principal, Azimuthal, Magnetic, Spin)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मुख्य क्वांटम संख्या (Principal Quantum Number - n) क्या प्रदर्शित करती है?",
+        "en": "What does Principal Quantum Number (n) primarily indicate?"
+      },
+      "o": [
+        {
+          "hi": "कोष का आकार और मुख्य ऊर्जा स्तर",
+          "en": "Size and main energy level of shell"
+        },
+        {
+          "hi": "कक्षक की उप-आकृति",
+          "en": "Sub-shape of orbital"
+        },
+        {
+          "hi": "कक्षक का अभिविन्यास",
+          "en": "Orientation of orbital"
+        },
+        {
+          "hi": "इलेक्ट्रॉन का चक्रण",
+          "en": "Spin of electron"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दिगंशी क्वांटम संख्या (Azimuthal Quantum Number - l) क्या निर्धारित करती है?",
+        "en": "What does Azimuthal Quantum Number (l) determine?"
+      },
+      "o": [
+        {
+          "hi": "कक्षा का आकार",
+          "en": "Size of orbit"
+        },
+        {
+          "hi": "उपकोष का प्रकार और कक्षक की आकृति (Shape of Orbital)",
+          "en": "Subshell type and shape of orbital"
+        },
+        {
+          "hi": "कक्षक का अभिविन्यास",
+          "en": "Spatial orientation"
+        },
+        {
+          "hi": "इलेक्ट्रॉन का चक्रण",
+          "en": "Electron spin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "s, p, d, f उपकोषों के लिए दिगंशी क्वांटम संख्या (l) के मान क्रमशः क्या होते हैं?",
+        "en": "What are values of l for s, p, d, f subshells respectively?"
+      },
+      "o": [
+        {
+          "hi": "1, 2, 3, 4",
+          "en": "1, 2, 3, 4"
+        },
+        {
+          "hi": "0, 1, 2, 0",
+          "en": "0, 1, 2, 0"
+        },
+        {
+          "hi": "0, 1, 2, 3",
+          "en": "0, 1, 2, 3"
+        },
+        {
+          "hi": "-1, 0, +1, +2",
+          "en": "-1, 0, +1, +2"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "p-कक्षक (p-orbital) का ज्यामितीय आकार कैसा होता है?",
+        "en": "What is the spatial geometrical shape of a p-orbital?"
+      },
+      "o": [
+        {
+          "hi": "गोलाकार (Spherical)",
+          "en": "Spherical"
+        },
+        {
+          "hi": "द्वि-डंबलाकार",
+          "en": "Double dumbbell"
+        },
+        {
+          "hi": "जटिल",
+          "en": "Complex"
+        },
+        {
+          "hi": "डंबलाकार (Dumbbell shape)",
+          "en": "Dumbbell shape"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "s-कक्षक (s-orbital) का ज्यामितीय आकार कैसा होता है?",
+        "en": "What is the geometrical shape of an s-orbital?"
+      },
+      "o": [
+        {
+          "hi": "गोलाकार (Spherical & symmetrical)",
+          "en": "Spherical & symmetrical"
+        },
+        {
+          "hi": "डंबलाकार",
+          "en": "Dumbbell"
+        },
+        {
+          "hi": "द्वि-डंबलाकार",
+          "en": "Double dumbbell"
+        },
+        {
+          "hi": "तश्तरीनुमा",
+          "en": "Disc shaped"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "d-कक्षक (d-orbital) का आकार कैसा होता है?",
+        "en": "What is the geometrical shape of a d-orbital?"
+      },
+      "o": [
+        {
+          "hi": "गोलाकार",
+          "en": "Spherical"
+        },
+        {
+          "hi": "द्वि-डंबलाकार (Double Dumbbell)",
+          "en": "Double Dumbbell"
+        },
+        {
+          "hi": "डंबलाकार",
+          "en": "Dumbbell"
+        },
+        {
+          "hi": "अंडाकार",
+          "en": "Oval"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चुंबकीय क्वांटम संख्या (Magnetic Quantum Number - m) क्या निर्धारित करती है?",
+        "en": "What does Magnetic Quantum Number (m) describe?"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रॉन की ऊर्जा",
+          "en": "Electron energy"
+        },
+        {
+          "hi": "उपकोष की आकृति",
+          "en": "Shape of subshell"
+        },
+        {
+          "hi": "त्रिविम में कक्षकों का अभिविन्यास (Spatial Orientation)",
+          "en": "Spatial Orientation of orbitals"
+        },
+        {
+          "hi": "इलेक्ट्रॉन का चक्रण",
+          "en": "Spin direction"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चक्रण क्वांटम संख्या (Spin Quantum Number - s) के दो संभावित मान क्या होते हैं?",
+        "en": "What are the two possible values of Spin Quantum Number (s)?"
+      },
+      "o": [
+        {
+          "hi": "0 और 1",
+          "en": "0 and 1"
+        },
+        {
+          "hi": "-1 और +1",
+          "en": "-1 and +1"
+        },
+        {
+          "hi": "1/4 और -1/4",
+          "en": "1/4 and -1/4"
+        },
+        {
+          "hi": "+1/2 और -1/2 (घड़ी की दिशा व विपरीत)",
+          "en": "+1/2 and -1/2 (clockwise & counterclockwise)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'किसी भी परमाणु में किन्हीं दो इलेक्ट्रॉनों के लिए चारों क्वांटम संख्याओं का मान समान नहीं हो सकता', यह किसका नियम है?",
+        "en": "No two electrons in an atom can have the same set of four quantum numbers. Whose principle is this?"
+      },
+      "o": [
+        {
+          "hi": "पॉली का अपवर्जन सिद्धांत (Pauli's Exclusion Principle)",
+          "en": "Pauli's Exclusion Principle"
+        },
+        {
+          "hi": "हुंड का नियम",
+          "en": "Hund's Rule"
+        },
+        {
+          "hi": "ऑफबाऊ का नियम",
+          "en": "Aufbau Principle"
+        },
+        {
+          "hi": "हाइजेनबर्ग का सिद्धांत",
+          "en": "Heisenberg's Principle"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'समान ऊर्जा वाले कक्षकों में इलेक्ट्रॉन पहले एक-एक करके भरते हैं तथा उनके चक्रण समानांतर होते हैं', यह किसका नियम है?",
+        "en": "Electrons fill degenerate orbitals singly first with parallel spins. Whose rule is this?"
+      },
+      "o": [
+        {
+          "hi": "पॉली का नियम",
+          "en": "Pauli's rule"
+        },
+        {
+          "hi": "हुंड का अधिकतम बहुलता का नियम (Hund's Rule)",
+          "en": "Hund's Rule of Maximum Multiplicity"
+        },
+        {
+          "hi": "ऑफबाऊ का नियम",
+          "en": "Aufbau Principle"
+        },
+        {
+          "hi": "डाल्टन का नियम",
+          "en": "Dalton's rule"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'परमाणु में कक्षक अपनी ऊर्जा के बढ़ते क्रम में भरे जाते हैं', यह किस सिद्धांत पर आधारित है?",
+        "en": "Orbitals are filled in order of increasing energy levels. This is known as?"
+      },
+      "o": [
+        {
+          "hi": "पॉली का सिद्धांत",
+          "en": "Pauli's principle"
+        },
+        {
+          "hi": "हुंड का नियम",
+          "en": "Hund's rule"
+        },
+        {
+          "hi": "ऑफबाऊ सिद्धांत (Aufbau Principle - (n+l) नियम)",
+          "en": "Aufbau Principle ((n+l) rule)"
+        },
+        {
+          "hi": "बोर का नियम",
+          "en": "Bohr's rule"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "क्रोमियम (Cr, परमाणु क्रमांक 24) का सही इलेक्ट्रॉनिक विन्यास क्या है?",
+        "en": "What is anomalous electronic configuration of Chromium (Z = 24)?"
+      },
+      "o": [
+        {
+          "hi": "[Ar] 4s² 3d⁴",
+          "en": "[Ar] 4s² 3d⁴"
+        },
+        {
+          "hi": "[Ar] 4s² 3d⁵",
+          "en": "[Ar] 4s² 3d⁵"
+        },
+        {
+          "hi": "[Ar] 4s⁰ 3d⁶",
+          "en": "[Ar] 4s⁰ 3d⁶"
+        },
+        {
+          "hi": "[Ar] 3d⁵ 4s¹ (अर्ध-पूरित d कक्षक अधिक स्थायी)",
+          "en": "[Ar] 3d⁵ 4s¹ (half-filled d is stable)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कॉपर (Cu, परमाणु क्रमांक 29) का सही इलेक्ट्रॉनिक विन्यास क्या है?",
+        "en": "What is exceptional ground state electronic configuration of Copper (Z = 29)?"
+      },
+      "o": [
+        {
+          "hi": "[Ar] 3d¹⁰ 4s¹ (पूर्ण-पूरित d कक्षक अधिक स्थायी)",
+          "en": "[Ar] 3d¹⁰ 4s¹ (fully-filled d is stable)"
+        },
+        {
+          "hi": "[Ar] 4s² 3d⁹",
+          "en": "[Ar] 4s² 3d⁹"
+        },
+        {
+          "hi": "[Ar] 4s⁰ 3d¹⁰",
+          "en": "[Ar] 4s⁰ 3d¹⁰"
+        },
+        {
+          "hi": "[Ar] 3d⁸ 4s² 4p¹",
+          "en": "[Ar] 3d⁸ 4s² 4p¹"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सोडियम परमाणु (Na, Z = 11) का सामान्य इलेक्ट्रॉनिक विन्यास क्या है?",
+        "en": "What is the shell electronic configuration of Sodium (Na, Z = 11)?"
+      },
+      "o": [
+        {
+          "hi": "2, 8, 2",
+          "en": "2, 8, 2"
+        },
+        {
+          "hi": "2, 8, 1",
+          "en": "2, 8, 1"
+        },
+        {
+          "hi": "2, 9",
+          "en": "2, 9"
+        },
+        {
+          "hi": "2, 7, 2",
+          "en": "2, 7, 2"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्लोरीन (Cl, Z = 17) के सबसे बाहरी कोश में संयोजी इलेक्ट्रॉनों (Valence Electrons) की संख्या कितनी है?",
+        "en": "How many valence electrons are present in outermost shell of Chlorine (Z = 17)?"
+      },
+      "o": [
+        {
+          "hi": "5",
+          "en": "5"
+        },
+        {
+          "hi": "8",
+          "en": "8"
+        },
+        {
+          "hi": "7 (विन्यास: 2, 8, 7)",
+          "en": "7 (configuration: 2, 8, 7)"
+        },
+        {
+          "hi": "1",
+          "en": "1"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "परमाणु के सबसे बाहरी कोश के इलेक्ट्रॉनों को क्या कहा जाता है?",
+        "en": "What are the electrons present in outermost shell of an atom called?"
+      },
+      "o": [
+        {
+          "hi": "कोर इलेक्ट्रॉन",
+          "en": "Core electrons"
+        },
+        {
+          "hi": "मुक्त इलेक्ट्रॉन",
+          "en": "Free electrons"
+        },
+        {
+          "hi": "नाभिकीय इलेक्ट्रॉन",
+          "en": "Nuclear electrons"
+        },
+        {
+          "hi": "संयोजी इलेक्ट्रॉन (Valence Electrons)",
+          "en": "Valence Electrons"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संयोजी कोश के अतिरिक्त अंदर के सभी कोशों में उपस्थित इलेक्ट्रॉनों को क्या कहते हैं?",
+        "en": "What are electrons present in inner completely filled shells called?"
+      },
+      "o": [
+        {
+          "hi": "कोर इलेक्ट्रॉन (Core Electrons)",
+          "en": "Core Electrons"
+        },
+        {
+          "hi": "संयोजी इलेक्ट्रॉन",
+          "en": "Valence electrons"
+        },
+        {
+          "hi": "स्थिर इलेक्ट्रॉन",
+          "en": "Static electrons"
+        },
+        {
+          "hi": "बंधन इलेक्ट्रॉन",
+          "en": "Bonding electrons"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "परमाणु द्रव्यमान इकाई (amu) का मानक आधार किसे माना गया है?",
+        "en": "What is current international standard reference for atomic mass unit (amu)?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोजन-1",
+          "en": "Hydrogen-1"
+        },
+        {
+          "hi": "कार्बन-12 समस्थानिक (C-12)",
+          "en": "Carbon-12 isotope (C-12)"
+        },
+        {
+          "hi": "ऑक्सीजन-16",
+          "en": "Oxygen-16"
+        },
+        {
+          "hi": "नाइट्रोजन-14",
+          "en": "Nitrogen-14"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1 amu का द्रव्यमान कार्बन-12 परमाणु के द्रव्यमान के कितने भाग के बराबर होता है?",
+        "en": "1 amu is defined as what fraction of the mass of a single Carbon-12 atom?"
+      },
+      "o": [
+        {
+          "hi": "1/2 भाग",
+          "en": "1/2 part"
+        },
+        {
+          "hi": "1/6 भाग",
+          "en": "1/6 part"
+        },
+        {
+          "hi": "1/12 भाग (1/12th of mass of C-12)",
+          "en": "1/12th of mass of C-12"
+        },
+        {
+          "hi": "1/16 भाग",
+          "en": "1/16 part"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समान परमाणु क्रमांक (Z) परंतु भिन्न द्रव्यमान संख्या (A) वाले तत्व क्या कहलाते हैं?",
+        "en": "Atoms of same element with same atomic number but different mass numbers are?"
+      },
+      "o": [
+        {
+          "hi": "समभारिक",
+          "en": "Isobars"
+        },
+        {
+          "hi": "समन्यूट्रॉनिक",
+          "en": "Isotones"
+        },
+        {
+          "hi": "समावयवी",
+          "en": "Isomers"
+        },
+        {
+          "hi": "समस्थानिक (Isotopes)",
+          "en": "Isotopes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन के समस्थानिक 'ड्यूटीरियम' (Deuterium - 1H2) के नाभिक में क्या होता है?",
+        "en": "What particles are inside the nucleus of Deuterium (1H2)?"
+      },
+      "o": [
+        {
+          "hi": "1 प्रोटॉन और 1 न्यूट्रॉन",
+          "en": "1 proton and 1 neutron"
+        },
+        {
+          "hi": "2 प्रोटॉन और 1 न्यूट्रॉन",
+          "en": "2 protons and 1 neutron"
+        },
+        {
+          "hi": "1 प्रोटॉन और 2 न्यूट्रॉन",
+          "en": "1 proton and 2 neutrons"
+        },
+        {
+          "hi": "केवल 1 प्रोटॉन",
+          "en": "Only 1 proton"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन के रेडियोसक्रिय समस्थानिक 'ट्राइटियम' (Tritium - 1H3) में न्यूट्रॉनों की संख्या कितनी होती है?",
+        "en": "How many neutrons are present in radioactive Tritium (1H3)?"
+      },
+      "o": [
+        {
+          "hi": "1",
+          "en": "1"
+        },
+        {
+          "hi": "2 (3 - 1 = 2 न्यूट्रॉन)",
+          "en": "2 (3 - 1 = 2 neutrons)"
+        },
+        {
+          "hi": "3",
+          "en": "3"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समभारिक (Isobars) में किसकी संख्या समान होती है?",
+        "en": "What quantity remains identical in isobars (e.g. 18Ar40 and 20Ca40)?"
+      },
+      "o": [
+        {
+          "hi": "प्रोटॉनों की संख्या",
+          "en": "Number of protons"
+        },
+        {
+          "hi": "परमाणु क्रमांक",
+          "en": "Atomic number"
+        },
+        {
+          "hi": "द्रव्यमान संख्या (Mass Number - A)",
+          "en": "Mass Number (A)"
+        },
+        {
+          "hi": "न्यूट्रॉनों की संख्या",
+          "en": "Number of neutrons"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समन्यूट्रॉनिक (Isotones) में किसकी संख्या समान होती है?",
+        "en": "What quantity is identical in isotones (e.g. 1H3 and 2He4)?"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रॉनों की संख्या",
+          "en": "Number of electrons"
+        },
+        {
+          "hi": "प्रोटॉनों की संख्या",
+          "en": "Number of protons"
+        },
+        {
+          "hi": "द्रव्यमान संख्या",
+          "en": "Mass number"
+        },
+        {
+          "hi": "न्यूट्रॉनों की संख्या (Number of Neutrons)",
+          "en": "Number of Neutrons"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समइलेक्ट्रॉनिक (Isoelectronic) स्पीशीज का एक उदाहरण निम्नलिखित में से कौन-सा है?",
+        "en": "Which of the following sets represents an isoelectronic pair (10 electrons)?"
+      },
+      "o": [
+        {
+          "hi": "Na⁺ और Ne (दोनों में 10 इलेक्ट्रॉन)",
+          "en": "Na⁺ and Ne (both have 10 electrons)"
+        },
+        {
+          "hi": "Na और K",
+          "en": "Na and K"
+        },
+        {
+          "hi": "H⁺ और He",
+          "en": "H⁺ and He"
+        },
+        {
+          "hi": "O और N",
+          "en": "O and N"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कैथोड किरणों (Cathode Rays) की प्रकृति कैसी होती है?",
+        "en": "What is the physical nature of cathode rays in discharge tubes?"
+      },
+      "o": [
+        {
+          "hi": "धनावेशित कणों की धारा",
+          "en": "Stream of positive particles"
+        },
+        {
+          "hi": "ऋणावेशित इलेक्ट्रॉनों की तीव्रगामी धारा",
+          "en": "Stream of fast-moving negative electrons"
+        },
+        {
+          "hi": "विद्युत-चुंबकीय तरंगें",
+          "en": "Electromagnetic waves"
+        },
+        {
+          "hi": "अनावेशित न्यूट्रॉन धारा",
+          "en": "Uncharged neutron beam"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

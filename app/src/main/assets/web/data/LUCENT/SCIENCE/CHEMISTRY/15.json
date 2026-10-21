@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - रसायन विज्ञान (Chemistry)",
+  "subtitle": "औषधि एवं रसायन",
+  "description": "औषधि एवं रसायन पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "शरीर के बढ़े हुए तापमान (बुखार) को कम करने के लिए प्रयुक्त औषधियों को क्या कहते हैं?",
+        "en": "Drugs used to lower elevated body temperature in fever are called what?"
+      },
+      "o": [
+        {
+          "hi": "ज्वरनाशी (Antipyretics - जैसे पैरासिटामोल)",
+          "en": "Antipyretics (e.g. Paracetamol)"
+        },
+        {
+          "hi": "दर्दनाशक (Analgesics)",
+          "en": "Analgesics"
+        },
+        {
+          "hi": "एंटीबायोटिक्स",
+          "en": "Antibiotics"
+        },
+        {
+          "hi": "एंटीसेप्टिक्स",
+          "en": "Antiseptics"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शारीरिक दर्द और वेदना को कम करने या दूर करने वाली दवाओं को क्या कहा जाता है?",
+        "en": "Medicinal drugs that alleviate body aches and severe pain are classified as?"
+      },
+      "o": [
+        {
+          "hi": "ज्वरनाशी",
+          "en": "Antipyretics"
+        },
+        {
+          "hi": "पीड़ाहारी या दर्दनाशक (Analgesics)",
+          "en": "Analgesics"
+        },
+        {
+          "hi": "प्रशांतक",
+          "en": "Tranquilizers"
+        },
+        {
+          "hi": "रोगाणुरोधक",
+          "en": "Antiseptics"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एस्पिरिन (Aspirin) का रासायनिक नाम क्या होता है?",
+        "en": "What is the official chemical name of the analgesic-antipyretic drug Aspirin?"
+      },
+      "o": [
+        {
+          "hi": "मेथिल सैलिसिलेट",
+          "en": "Methyl salicylate"
+        },
+        {
+          "hi": "सोडियम सैलिसिलेट",
+          "en": "Sodium salicylate"
+        },
+        {
+          "hi": "एसिटिल सैलिसिलिक अम्ल (Acetylsalicylic Acid)",
+          "en": "Acetylsalicylic Acid"
+        },
+        {
+          "hi": "फिनाइल सैलिसिलेट",
+          "en": "Phenyl salicylate"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हार्ट अटैक (दिल के दौरे) के मरीजों को रक्त के थक्के रोकने हेतु खून पतला करने वाली कौन-सी गोली दी जाती है?",
+        "en": "Which over-the-counter antiplatelet drug is given to thin blood in cardiac arrest?"
+      },
+      "o": [
+        {
+          "hi": "पैरासिटामोल",
+          "en": "Paracetamol"
+        },
+        {
+          "hi": "पेनिसिलिन",
+          "en": "Penicillin"
+        },
+        {
+          "hi": "इन्सुलिन",
+          "en": "Insulin"
+        },
+        {
+          "hi": "एस्पिरिन (Aspirin)",
+          "en": "Aspirin"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व की प्रथम एंटीबायोटिक (प्रतिजैविक) 'पेनिसिलिन' की खोज 1928 में किसने की थी?",
+        "en": "Who discovered the world's first life-saving antibiotic Penicillin in 1928?"
+      },
+      "o": [
+        {
+          "hi": "सर अलेक्जेंडर फ्लेमिंग ने (Alexander Fleming)",
+          "en": "Sir Alexander Fleming"
+        },
+        {
+          "hi": "रॉबर्ट कोच ने",
+          "en": "Robert Koch"
+        },
+        {
+          "hi": "लुई पाश्चर ने",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "एडवर्ड जेनर ने",
+          "en": "Edward Jenner"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पेनिसिलिन (Penicillin) नामक चमत्कारी औषधि किससे प्राप्त की जाती है?",
+        "en": "Penicillin antibiotic was originally isolated from which living mold organism?"
+      },
+      "o": [
+        {
+          "hi": "जीवाणु (Bacteria) से",
+          "en": "From Bacteria"
+        },
+        {
+          "hi": "पेनिसिलियम नोटैटम कवक/फफूंद (Fungus/Mold) से",
+          "en": "Penicillium notatum (Fungus/Mold)"
+        },
+        {
+          "hi": "शैवाल (Algae) से",
+          "en": "From Algae"
+        },
+        {
+          "hi": "विषाणु (Virus) से",
+          "en": "From Virus"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "टीबी (तपेदिक / Tuberculosis) के उपचार में प्रयुक्त एंटीबायोटिक 'स्ट्रेप्टोमाइसिन' की खोज किसने की?",
+        "en": "Who discovered Streptomycin antibiotic effective against tuberculosis?"
+      },
+      "o": [
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग",
+          "en": "Alexander Fleming"
+        },
+        {
+          "hi": "एडवर्ड जेनर",
+          "en": "Edward Jenner"
+        },
+        {
+          "hi": "सेलमैन वाक्समैन (Selman Waksman - 1952 नोबेल)",
+          "en": "Selman Waksman (1952 Nobel)"
+        },
+        {
+          "hi": "रोनाल्ड रॉस",
+          "en": "Ronald Ross"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "टाइफाइड (मियादी बुखार) के सफल उपचार में प्रयुक्त होने वाली प्रमुख एंटीबायोटिक दवा कौन-सी है?",
+        "en": "Which antibiotic drug is traditionally prescribed for the treatment of typhoid fever?"
+      },
+      "o": [
+        {
+          "hi": "पेनिसिलिन",
+          "en": "Penicillin"
+        },
+        {
+          "hi": "सल्फानिलामाइड",
+          "en": "Sulfanilamide"
+        },
+        {
+          "hi": "एस्पिरिन",
+          "en": "Aspirin"
+        },
+        {
+          "hi": "क्लोरोमाइसेटिन या क्लोरैम्फेनिकॉल (Chloramphenicol)",
+          "en": "Chloramphenicol / Chloromycetin"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जीवित ऊतकों (घावों, कटी त्वचा) पर सूक्ष्मजीवों की वृद्धि को रोकने वाली दवाएं क्या कहलाती हैं?",
+        "en": "Chemical agents applied to living tissues to inhibit microbial growth are called?"
+      },
+      "o": [
+        {
+          "hi": "पूतिरोधी या रोगाणुरोधक (Antiseptics)",
+          "en": "Antiseptics"
+        },
+        {
+          "hi": "विसंक्रामक (Disinfectants)",
+          "en": "Disinfectants"
+        },
+        {
+          "hi": "एंटीबायोटिक्स",
+          "en": "Antibiotics"
+        },
+        {
+          "hi": "ज्वरनाशी",
+          "en": "Antipyretics"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अस्पतालों में प्रयुक्त प्रसिद्ध एंटीसेप्टिक 'डेटॉल' (Dettol) के मुख्य सक्रिय घटक क्या हैं?",
+        "en": "What are the primary active antimicrobial ingredients in commercial Dettol antiseptic?"
+      },
+      "o": [
+        {
+          "hi": "फिनोल और आयोडीन",
+          "en": "Phenol and iodine"
+        },
+        {
+          "hi": "क्लोरोजाइलिनॉल (Chloroxylenol) और टेरपिनियॉल",
+          "en": "Chloroxylenol and Terpineol"
+        },
+        {
+          "hi": "अल्कोहल और क्लोरोफॉर्म",
+          "en": "Alcohol and chloroform"
+        },
+        {
+          "hi": "फॉर्मेलिन और ईथर",
+          "en": "Formalin and ether"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "घावों पर लगाया जाने वाला 'टिंचर आयोडीन' (Tincture of Iodine) किसका मिश्रण होता है?",
+        "en": "Tincture of Iodine applied on cuts is an alcoholic solution containing what?"
+      },
+      "o": [
+        {
+          "hi": "आयोडीन का जल में 10% घोल",
+          "en": "10% aqueous iodine solution"
+        },
+        {
+          "hi": "आयोडीन और सल्फ्यूरिक अम्ल",
+          "en": "Iodine and sulfuric acid"
+        },
+        {
+          "hi": "आयोडीन का एथिल अल्कोहल और जल में 2-3% घोल",
+          "en": "2-3% Iodine in Ethanol-Water mixture"
+        },
+        {
+          "hi": "पोटेशियम आयोडाइड का तेल में घोल",
+          "en": "KI dissolved in oil"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आंखों को धोने और बच्चों के एंटीसेप्टिक पाउडर में कौन-सा मृदु अम्ल प्रयुक्त होता है?",
+        "en": "Which mild non-irritating antiseptic acid is used in soothing eye lotions and dusting powders?"
+      },
+      "o": [
+        {
+          "hi": "एसिटिक अम्ल",
+          "en": "Acetic acid"
+        },
+        {
+          "hi": "नाइट्रिक अम्ल",
+          "en": "Nitric acid"
+        },
+        {
+          "hi": "सल्फ्यूरिक अम्ल",
+          "en": "Sulfuric acid"
+        },
+        {
+          "hi": "बोरिक अम्ल (Boric Acid - H3BO3)",
+          "en": "Boric Acid (H3BO3)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "निर्जीव वस्तुओं (फर्श, ड्रेन, नालियों, औजारों) के रोगाणुओं को मारने वाले रसायन क्या कहलाते हैं?",
+        "en": "Chemical agents used to destroy pathogens on inanimate surfaces (floors, toilets) are?"
+      },
+      "o": [
+        {
+          "hi": "विसंक्रामक या कीटाणुनाशक (Disinfectants)",
+          "en": "Disinfectants"
+        },
+        {
+          "hi": "एंटीसेप्टिक्स",
+          "en": "Antiseptics"
+        },
+        {
+          "hi": "एंटीबायोटिक्स",
+          "en": "Antibiotics"
+        },
+        {
+          "hi": "एंटासिड्स",
+          "en": "Antacids"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फिनोल (Carbolic Acid) का 0.2% घोल एंटीसेप्टिक है, परंतु इसका 1% घोल किस रूप में कार्य करता है?",
+        "en": "0.2% phenol solution acts as an antiseptic, while a 1% phenol solution acts as what?"
+      },
+      "o": [
+        {
+          "hi": "ज्वरनाशी",
+          "en": "Antipyretic"
+        },
+        {
+          "hi": "विसंक्रामक या कीटाणुनाशक (Disinfectant)",
+          "en": "Disinfectant"
+        },
+        {
+          "hi": "दर्दनाशक",
+          "en": "Analgesic"
+        },
+        {
+          "hi": "एंटीबायोटिक",
+          "en": "Antibiotic"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "शल्य चिकित्सा (ऑपरेशन) के दौरान रोगी को दर्द महसूस न होने देने वाली दवाएं क्या कहलाती हैं?",
+        "en": "Drugs producing temporary loss of sensation or unconsciousness during surgery are?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांतक",
+          "en": "Tranquilizers"
+        },
+        {
+          "hi": "पूतिरोधी",
+          "en": "Antiseptics"
+        },
+        {
+          "hi": "निश्चेतक या एनेस्थेटिक (Anesthetics)",
+          "en": "Anesthetics"
+        },
+        {
+          "hi": "ज्वरनाशी",
+          "en": "Antipyretics"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शल्य चिकित्सा में सर्वप्रथम ईथर (Ether) को निश्चेतक के रूप में किसने प्रयोग किया था?",
+        "en": "Who first demonstrated the use of surgical diethyl ether as an inhalation anesthetic in 1846?"
+      },
+      "o": [
+        {
+          "hi": "जेम्स सिम्पसन",
+          "en": "James Simpson"
+        },
+        {
+          "hi": "जोसेफ लिस्टर",
+          "en": "Joseph Lister"
+        },
+        {
+          "hi": "लुई पाश्चर",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "विलियम मॉर्टन (William T.G. Morton)",
+          "en": "William T.G. Morton"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानसिक तनाव, चिंता और अवसाद को कम कर मन को शांत करने वाली औषधियां क्या कहलाती हैं?",
+        "en": "Therapeutic drugs that reduce anxiety, tension and mental distress are called?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांतक (Tranquilizers - जैसे वैलियम, इक्वानिल)",
+          "en": "Tranquilizers (e.g. Valium, Equanil)"
+        },
+        {
+          "hi": "ज्वरनाशी",
+          "en": "Antipyretics"
+        },
+        {
+          "hi": "एंटीबायोटिक्स",
+          "en": "Antibiotics"
+        },
+        {
+          "hi": "एंटासिड्स",
+          "en": "Antacids"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रथम कृत्रिम सल्फा ड्रग 'प्रोंटोसिल' (Prontosil) की खोज 1935 में किस वैज्ञानिक ने की थी?",
+        "en": "Who discovered the antibacterial properties of first synthetic sulfa drug Prontosil?"
+      },
+      "o": [
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग",
+          "en": "Alexander Fleming"
+        },
+        {
+          "hi": "गेरहार्ड डोमैक (Gerhard Domagk - Nobel 1939)",
+          "en": "Gerhard Domagk (Nobel 1939)"
+        },
+        {
+          "hi": "पॉल एहरलिच",
+          "en": "Paul Ehrlich"
+        },
+        {
+          "hi": "रॉबर्ट कोच",
+          "en": "Robert Koch"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आधुनिक कीमोथेरेपी (Chemotherapy - रासायन चिकित्सा) का जनक किसे कहा जाता है?",
+        "en": "Who is considered the Father of Chemotherapy for targeted antimicrobial synthesis?"
+      },
+      "o": [
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग",
+          "en": "Alexander Fleming"
+        },
+        {
+          "hi": "लुई पाश्चर",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "पॉल एहरलिच (Paul Ehrlich - नोबेल पुरस्कार 1908)",
+          "en": "Paul Ehrlich (Nobel 1908)"
+        },
+        {
+          "hi": "एडवर्ड जेनर",
+          "en": "Edward Jenner"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सॉस, चटनी, फलों के रस और पैकेज्ड खाद्य पदार्थों के परिरक्षण में सर्वाधिक प्रयुक्त रसायन कौन-सा है?",
+        "en": "Which food preservative salt is universally used to preserve fruit juices, ketchups and jams?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम क्लोराइड",
+          "en": "Sodium chloride"
+        },
+        {
+          "hi": "सोडियम कार्बोनेट",
+          "en": "Sodium carbonate"
+        },
+        {
+          "hi": "कैल्शियम सल्फेट",
+          "en": "Calcium sulfate"
+        },
+        {
+          "hi": "सोडियम बेंजोएट (Sodium Benzoate - C6H5COONa)",
+          "en": "Sodium Benzoate (C6H5COONa)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चीनी (सुक्रोज) से लगभग 550 गुना अधिक मीठा शून्य-कैलोरी कृत्रिम मधुरक कौन-सा है?",
+        "en": "Artificial zero-calorie non-nutritive sweetener ~550 times sweeter than cane sugar is?"
+      },
+      "o": [
+        {
+          "hi": "सैकरीन (Saccharin)",
+          "en": "Saccharin"
+        },
+        {
+          "hi": "एस्पार्टेम",
+          "en": "Aspartame"
+        },
+        {
+          "hi": "सुक्रालोज",
+          "en": "Sucralose"
+        },
+        {
+          "hi": "एलिटेम",
+          "en": "Alitame"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सैकरीन (Saccharin) का रासायनिक नाम क्या होता है?",
+        "en": "What is the systematic chemical designation of the artificial sweetener Saccharin?"
+      },
+      "o": [
+        {
+          "hi": "सैलिसिलिक अम्ल",
+          "en": "Salicylic acid"
+        },
+        {
+          "hi": "ऑर्थो-सल्फोबेन्जामाइड (o-Sulfobenzimide)",
+          "en": "o-Sulfobenzimide"
+        },
+        {
+          "hi": "मेथिल बेंजोएट",
+          "en": "Methyl benzoate"
+        },
+        {
+          "hi": "सोडियम बेंजोएट",
+          "en": "Sodium benzoate"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ठंडे पेयों और शीतल मिठाइयों में प्रयुक्त लोकप्रिय कृत्रिम मधुरक जो पकाने पर नष्ट हो जाता है, कौन-सा है?",
+        "en": "Artificial sweetener unstable at cooking temperatures, thus limited to cold soft drinks, is?"
+      },
+      "o": [
+        {
+          "hi": "सैकरीन",
+          "en": "Saccharin"
+        },
+        {
+          "hi": "सुक्रालोज",
+          "en": "Sucralose"
+        },
+        {
+          "hi": "एस्पार्टेम (Aspartame - चीनी से 100 गुना मीठा)",
+          "en": "Aspartame (~100 times sweeter than sugar)"
+        },
+        {
+          "hi": "एलिटेम",
+          "en": "Alitame"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मधुमेह (डायबिटीज) के रोगियों के लिए चीनी के स्थान पर प्रयुक्त हानिरहित मधुरक क्या कहलाते हैं?",
+        "en": "Non-sugar sugar substitutes recommended for diabetic patients are classified as?"
+      },
+      "o": [
+        {
+          "hi": "विटामिन",
+          "en": "Vitamins"
+        },
+        {
+          "hi": "एंजाइम",
+          "en": "Enzymes"
+        },
+        {
+          "hi": "हार्मोन",
+          "en": "Hormones"
+        },
+        {
+          "hi": "कृत्रिम मधुरक (Artificial Sweeteners)",
+          "en": "Artificial Sweeteners"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मलेरिया रोग के उपचार की प्रसिद्ध औषधि 'कुनैन' (Quinine) किससे प्राप्त की जाती है?",
+        "en": "Antimalarial natural drug Quinine is historically extracted from the bark of which tree?"
+      },
+      "o": [
+        {
+          "hi": "सिनकोना के पेड़ की छाल (Cinchona Bark) से",
+          "en": "Bark of Cinchona tree"
+        },
+        {
+          "hi": "नीम की छाल से",
+          "en": "Neem bark"
+        },
+        {
+          "hi": "यूकेलिप्टस से",
+          "en": "Eucalyptus"
+        },
+        {
+          "hi": "तुलसी से",
+          "en": "Tulsi"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मलेरिया के उपचार में प्रयुक्त आधुनिक कृत्रिम औषधि कौन-सी है?",
+        "en": "Which synthetic pharmaceutical drug is widely used to treat and prevent malaria?"
+      },
+      "o": [
+        {
+          "hi": "पेनिसिलिन",
+          "en": "Penicillin"
+        },
+        {
+          "hi": "क्लोरोक्वीन (Chloroquine) अथवा प्राइमाक्वीन",
+          "en": "Chloroquine or Primaquine"
+        },
+        {
+          "hi": "एस्पिरिन",
+          "en": "Aspirin"
+        },
+        {
+          "hi": "पैरासिटामोल",
+          "en": "Paracetamol"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हृदय के रोगियों को सीने के दर्द (एंजाइना) के समय जीभ के नीचे रखी जाने वाली गोली कौन-सी होती है?",
+        "en": "Sublingual tablet prescribed to relieve acute angina pectoris chest pain by vasodilation is?"
+      },
+      "o": [
+        {
+          "hi": "एस्पिरिन",
+          "en": "Aspirin"
+        },
+        {
+          "hi": "पैरासिटामोल",
+          "en": "Paracetamol"
+        },
+        {
+          "hi": "नाइट्रोग्लिसरीन या सॉर्बिट्रेट (Nitroglycerin / Sorbitrate)",
+          "en": "Nitroglycerin / Sorbitrate"
+        },
+        {
+          "hi": "पेनिसिलिन",
+          "en": "Penicillin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "घाव धोने और कान की सफाई में प्रयुक्त रोगाणुरोधक द्रव कौन-सा है जो झाग देता है?",
+        "en": "Mild antiseptic foaming liquid used for cleaning wounds and earwax dissolution is?"
+      },
+      "o": [
+        {
+          "hi": "अल्कोहल",
+          "en": "Alcohol"
+        },
+        {
+          "hi": "सिरका",
+          "en": "Vinegar"
+        },
+        {
+          "hi": "आयोडीन",
+          "en": "Iodine"
+        },
+        {
+          "hi": "हाइड्रोजन परॉक्साइड (Hydrogen Peroxide - H2O2)",
+          "en": "Hydrogen Peroxide (H2O2)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एड्स (AIDS) के उपचार में प्रयुक्त प्रमुख एंटी-रेट्रोवायरल औषधि कौन-सी है?",
+        "en": "Which primary antiretroviral drug (reverse transcriptase inhibitor) is used in AIDS therapy?"
+      },
+      "o": [
+        {
+          "hi": "जिडोवुडिन / एजेडटी (AZT - Zidovudine)",
+          "en": "AZT (Zidovudine)"
+        },
+        {
+          "hi": "पेनिसिलिन",
+          "en": "Penicillin"
+        },
+        {
+          "hi": "क्लोरोक्वीन",
+          "en": "Chloroquine"
+        },
+        {
+          "hi": "स्ट्रेप्टोमाइसिन",
+          "en": "Streptomycin"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कीमोथेरेपी में कैंसर के उपचार के लिए प्रयुक्त सबसे प्रसिद्ध प्लैटिनम-युक्त दवा कौन-सी है?",
+        "en": "Which platinum-containing cytotoxic coordination drug is widely used in cancer chemotherapy?"
+      },
+      "o": [
+        {
+          "hi": "एस्पिरिन",
+          "en": "Aspirin"
+        },
+        {
+          "hi": "सिसप्लाटिन (Cisplatin)",
+          "en": "Cisplatin"
+        },
+        {
+          "hi": "क्लोरोमाइसेटिन",
+          "en": "Chloromycetin"
+        },
+        {
+          "hi": "इन्सुलिन",
+          "en": "Insulin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मधुमेह (डायबिटीज मेलिटस) के रोगियों में रक्त शर्करा नियंत्रित करने के लिए कौन-सा इंजेक्शन दिया जाता है?",
+        "en": "Which peptide hormone injection is administered to diabetic patients to regulate blood glucose?"
+      },
+      "o": [
+        {
+          "hi": "थायरोक्सिन",
+          "en": "Thyroxine"
+        },
+        {
+          "hi": "एड्रेनालिन",
+          "en": "Adrenaline"
+        },
+        {
+          "hi": "इंसुलिन (Insulin Hormone)",
+          "en": "Insulin Hormone"
+        },
+        {
+          "hi": "एस्ट्रोजन",
+          "en": "Estrogen"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "इंसुलिन (Insulin) का आविष्कार 1921 में किन वैज्ञानिकों ने किया था?",
+        "en": "Who isolated and discovered therapeutic Insulin in 1921 at University of Toronto?"
+      },
+      "o": [
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग",
+          "en": "Alexander Fleming"
+        },
+        {
+          "hi": "एडवर्ड जेनर",
+          "en": "Edward Jenner"
+        },
+        {
+          "hi": "लुई पाश्चर",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "फ्रेडरिक बैंटिंग और चार्ल्स बेस्ट (Banting & Best)",
+          "en": "Frederick Banting and Charles Best"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चेचक (Smallpox) के टीके का आविष्कार सर्वप्रथम 1796 में किसने किया था?",
+        "en": "Who pioneered the world's very first vaccine, the Smallpox vaccine, in 1796?"
+      },
+      "o": [
+        {
+          "hi": "एडवर्ड जेनर (Edward Jenner - इम्यूनोलॉजी के जनक)",
+          "en": "Edward Jenner (Father of Immunology)"
+        },
+        {
+          "hi": "लुई पाश्चर",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "रॉबर्ट कोच",
+          "en": "Robert Koch"
+        },
+        {
+          "hi": "जोनास साल्क",
+          "en": "Jonas Salk"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रेबीज (अलर्क रोग / हाइड्रोफोबिया) के टीके का आविष्कार किसने किया था?",
+        "en": "Who developed the first successful vaccine against rabies and pioneered pasteurization?"
+      },
+      "o": [
+        {
+          "hi": "एडवर्ड जेनर",
+          "en": "Edward Jenner"
+        },
+        {
+          "hi": "लुई पाश्चर (Louis Pasteur)",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग",
+          "en": "Alexander Fleming"
+        },
+        {
+          "hi": "रॉबर्ट कोच",
+          "en": "Robert Koch"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पोलियो के प्रथम इंजेक्शन वाले टीके (IPV) की खोज 1952 में किसने की थी?",
+        "en": "Who developed the first inactivated injectable polio vaccine in 1952?"
+      },
+      "o": [
+        {
+          "hi": "अल्बर्ट सेबिन",
+          "en": "Albert Sabin"
+        },
+        {
+          "hi": "लुई पाश्चर",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "जोनास साल्क (Jonas Salk)",
+          "en": "Jonas Salk"
+        },
+        {
+          "hi": "एडवर्ड जेनर",
+          "en": "Edward Jenner"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पोलियो की ओरल (मुंह से पीने वाली) खुराक (OPV) का आविष्कार किसने किया था?",
+        "en": "Who invented the live attenuated Oral Polio Vaccine (OPV) drops introduced in 1961?"
+      },
+      "o": [
+        {
+          "hi": "जोनास साल्क",
+          "en": "Jonas Salk"
+        },
+        {
+          "hi": "एडवर्ड जेनर",
+          "en": "Edward Jenner"
+        },
+        {
+          "hi": "रॉबर्ट कोच",
+          "en": "Robert Koch"
+        },
+        {
+          "hi": "अल्बर्ट सेबिन (Albert Sabin)",
+          "en": "Albert Sabin"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "टीबी (तपेदिक) से बचाव के लिए नवजात शिशुओं को कौन-सा टीका लगाया जाता है?",
+        "en": "Which vaccine is universally administered to newborns to protect against Tuberculosis?"
+      },
+      "o": [
+        {
+          "hi": "बीसीजी का टीका (BCG - बैसिलस कैलमेट ग्यूरिन)",
+          "en": "BCG Vaccine (Bacillus Calmette-Guérin)"
+        },
+        {
+          "hi": "डीपीटी का टीका",
+          "en": "DPT Vaccine"
+        },
+        {
+          "hi": "एमएमआर का टीका",
+          "en": "MMR Vaccine"
+        },
+        {
+          "hi": "ओपीवी टीका",
+          "en": "OPV Vaccine"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "डीपीटी (DPT) का टीका किन तीन घातक रोगों से सुरक्षा प्रदान करता है?",
+        "en": "The triple antigen DPT vaccine provides immunization against which three diseases?"
+      },
+      "o": [
+        {
+          "hi": "हैजा, टाइफाइड, पीलिया",
+          "en": "Cholera, Typhoid, Jaundice"
+        },
+        {
+          "hi": "डिप्थीरिया, काली खांसी (पर्टुसिस) और टिटनेस",
+          "en": "Diphtheria, Pertussis (Whooping Cough), Tetanus"
+        },
+        {
+          "hi": "पोलियो, खसरा, गलसुआ",
+          "en": "Polio, Measles, Mumps"
+        },
+        {
+          "hi": "टीबी, टिटनेस, मलेरिया",
+          "en": "TB, Tetanus, Malaria"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अफीम के पौधे (Papaver somniferum) के लेटेक्स से प्राप्त शक्तिशाली नशीला दर्दनाशक कौन-सा है?",
+        "en": "Potent narcotic opioid analgesic alkaloid extracted from opium poppy pods is?"
+      },
+      "o": [
+        {
+          "hi": "कैफीन",
+          "en": "Caffeine"
+        },
+        {
+          "hi": "निकोटीन",
+          "en": "Nicotine"
+        },
+        {
+          "hi": "मॉर्फिन (Morphine) एवं कोडीन",
+          "en": "Morphine and Codeine"
+        },
+        {
+          "hi": "क्विनीन",
+          "en": "Quinine"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तम्बाकू की पत्तियों में पाया जाने वाला प्रमुख विषैला एवं उत्तेजक एल्कलॉइड कौन-सा है?",
+        "en": "Which toxic, highly addictive stimulant alkaloid is naturally found in tobacco leaves?"
+      },
+      "o": [
+        {
+          "hi": "कैफीन",
+          "en": "Caffeine"
+        },
+        {
+          "hi": "मॉर्फिन",
+          "en": "Morphine"
+        },
+        {
+          "hi": "थिएन",
+          "en": "Theine"
+        },
+        {
+          "hi": "निकोटीन (Nicotine)",
+          "en": "Nicotine"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चाय की पत्तियों और कॉफी के बीजों में पाया जाने वाला प्रमुख तंत्रिका उत्तेजक कौन-सा है?",
+        "en": "Which common mild central nervous system stimulant is present in coffee and tea?"
+      },
+      "o": [
+        {
+          "hi": "कैफीन (Caffeine)",
+          "en": "Caffeine"
+        },
+        {
+          "hi": "निकोटीन",
+          "en": "Nicotine"
+        },
+        {
+          "hi": "मॉर्फिन",
+          "en": "Morphine"
+        },
+        {
+          "hi": "कोकीन",
+          "en": "Cocaine"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चाय की पत्तियों में कैफीन के अलावा कौन-सा यौगिक पाया जाता है जो कड़वाहट देता है?",
+        "en": "Which polyphenol astringent compound giving briskness is present in tea leaves?"
+      },
+      "o": [
+        {
+          "hi": "निकोटीन",
+          "en": "Nicotine"
+        },
+        {
+          "hi": "टैनिन या टैनिक अम्ल (Tannic Acid)",
+          "en": "Tannic Acid / Tannins"
+        },
+        {
+          "hi": "एसिटिक अम्ल",
+          "en": "Acetic acid"
+        },
+        {
+          "hi": "सैलिसिलिक अम्ल",
+          "en": "Salicylic acid"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हड्डी या दांत में तेज दर्द होने पर किस तेल का प्रयोग दर्द निवारक के रूप में किया जाता है?",
+        "en": "Essential oil containing eugenol traditionally applied to relieve toothache is?"
+      },
+      "o": [
+        {
+          "hi": "सरसों का तेल",
+          "en": "Mustard oil"
+        },
+        {
+          "hi": "नारियल का तेल",
+          "en": "Coconut oil"
+        },
+        {
+          "hi": "लौंग का तेल (Clove Oil / यूजेनॉल)",
+          "en": "Clove Oil (Eugenol)"
+        },
+        {
+          "hi": "तिल का तेल",
+          "en": "Sesame oil"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पेट की गैस, उल्टी और एसिडिटी में प्रयुक्त 'इनो' (Eno) में मुख्य रासायनिक घटक क्या होते हैं?",
+        "en": "Active chemical ingredients in commercial effervescent antacid Eno are?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम कार्बोनेट और नमक",
+          "en": "Sodium carbonate & salt"
+        },
+        {
+          "hi": "कैल्शियम कार्बोनेट और जल",
+          "en": "Calcium carbonate & water"
+        },
+        {
+          "hi": "मैग्नीशियम हाइड्रोक्साइड",
+          "en": "Magnesium hydroxide"
+        },
+        {
+          "hi": "सोडियम बाइकार्बोनेट और साइट्रिक अम्ल (NaHCO3 + Citric acid)",
+          "en": "Sodium Bicarbonate & Citric Acid"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मधुमक्खी या ततैया के डंक मारने पर बेकिंग सोडा (NaHCO3) लगाने से आराम क्यों मिलता है?",
+        "en": "Why does applying baking soda paste give relief from acidic bee stings?"
+      },
+      "o": [
+        {
+          "hi": "बेकिंग सोडा क्षारीय होने से अम्ल को उदासीन (Neutralize) कर देता है",
+          "en": "Baking soda is basic, neutralizing venom acid"
+        },
+        {
+          "hi": "यह ठंडक देता है",
+          "en": "It provides cooling"
+        },
+        {
+          "hi": "यह जहर खींच लेता है",
+          "en": "It absorbs venom"
+        },
+        {
+          "hi": "यह त्वचा को सुखा देता है",
+          "en": "It dries the skin"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बर्र या ततैया (Wasp) के क्षारीय डंक पर सिरका (एसिटिक अम्ल) लगाने की सलाह क्यों दी जाती है?",
+        "en": "Why is vinegar applied to wasp stings whose venom is alkaline?"
+      },
+      "o": [
+        {
+          "hi": "घाव धोने के लिए",
+          "en": "To wash wound"
+        },
+        {
+          "hi": "सिरके का अम्ल क्षारीय विष को उदासीन कर जलन शांत करता है",
+          "en": "Vinegar acid neutralizes alkaline wasp venom"
+        },
+        {
+          "hi": "रक्तस्राव रोकने के लिए",
+          "en": "To stop bleeding"
+        },
+        {
+          "hi": "खुजली बढ़ाने के लिए",
+          "en": "To increase itching"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फलों के रस और सिरके के लंबे समय तक सुरक्षित रहने का प्राकृतिक कारण क्या है?",
+        "en": "Natural preservative action in fruit juices and vinegar is due to what?"
+      },
+      "o": [
+        {
+          "hi": "उनका रंग",
+          "en": "Their color"
+        },
+        {
+          "hi": "उनका घनत्व",
+          "en": "Their density"
+        },
+        {
+          "hi": "उनकी उच्च अम्लीयता (निम्न pH) जो जीवाणु वृद्धि रोकती है",
+          "en": "High acidity (low pH) inhibiting microbial growth"
+        },
+        {
+          "hi": "उनमें उपस्थित प्रोटीन",
+          "en": "Proteins present"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऑपरेशन थिएटर में बेहोश करने के लिए ऑक्सीजन के साथ प्रयुक्त सुरक्षित गैस कौन-सी है?",
+        "en": "Inhalation anesthetic gas mixed with oxygen widely used in painless surgery is?"
+      },
+      "o": [
+        {
+          "hi": "क्लोरीन",
+          "en": "Chlorine"
+        },
+        {
+          "hi": "कार्बन मोनोऑक्साइड",
+          "en": "Carbon monoxide"
+        },
+        {
+          "hi": "सल्फर डाइऑक्साइड",
+          "en": "Sulfur dioxide"
+        },
+        {
+          "hi": "नाइट्रस ऑक्साइड (N2O - लाफिंग गैस / Entonox)",
+          "en": "Nitrous Oxide (N2O / Entonox)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हवा में उपस्थित नमी को सोखकर शुष्क रखने के लिए दवाइयों और जूतों के डिब्बे में क्या रखा जाता है?",
+        "en": "Porous desiccant packet placed in medicine bottles and shoes to absorb moisture is?"
+      },
+      "o": [
+        {
+          "hi": "सिलिका जेल (Silica Gel की थैलियां)",
+          "en": "Silica Gel pouches"
+        },
+        {
+          "hi": "सोडियम क्लोराइड",
+          "en": "Sodium chloride"
+        },
+        {
+          "hi": "चारकोल",
+          "en": "Charcoal"
+        },
+        {
+          "hi": "फिटकरी",
+          "en": "Alum"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "घाव पर लगाने वाला लाल रंग का प्रसिद्ध कीटाणुनाशक 'लाल दवा' (Red Medicine) क्या होता है?",
+        "en": "Purple-red crystalline antiseptic chemical disinfectant 'Lal Dawa' is chemically?"
+      },
+      "o": [
+        {
+          "hi": "कॉपर सल्फेट",
+          "en": "Copper sulfate"
+        },
+        {
+          "hi": "पोटेशियम परमैंगनेट (Potassium Permanganate - KMnO4)",
+          "en": "Potassium Permanganate (KMnO4)"
+        },
+        {
+          "hi": "फेरिक ऑक्साइड",
+          "en": "Ferric oxide"
+        },
+        {
+          "hi": "सिल्वर नाइट्रेट",
+          "en": "Silver nitrate"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

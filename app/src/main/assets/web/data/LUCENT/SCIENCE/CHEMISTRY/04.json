@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - रसायन विज्ञान (Chemistry)",
+  "subtitle": "तत्वों का आवर्ती वर्गीकरण",
+  "description": "तत्वों का आवर्ती वर्गीकरण पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "तत्वों के वर्गीकरण हेतु 'त्रिक नियम' (Law of Triads) 1817 में किस जर्मन वैज्ञानिक ने दिया था?",
+        "en": "Who proposed the Law of Triads for classifying chemical elements in 1817?"
+      },
+      "o": [
+        {
+          "hi": "जोहान वोल्फगैंग डोबेराइनर (J.W. Döbereiner)",
+          "en": "J.W. Döbereiner"
+        },
+        {
+          "hi": "जॉन न्यूलैंड्स",
+          "en": "John Newlands"
+        },
+        {
+          "hi": "दिमित्री मेंडेलीफ",
+          "en": "Dmitri Mendeleev"
+        },
+        {
+          "hi": "हेनरी मोसले",
+          "en": "Henry Moseley"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "डोबेराइनर के त्रिक (Triad) का प्रसिद्ध उदाहरण निम्नलिखित में से कौन-सा है?",
+        "en": "Which of the following is a classic example of Döbereiner's Triads?"
+      },
+      "o": [
+        {
+          "hi": "लोहा, तांबा, जस्ता",
+          "en": "Iron, Copper, Zinc"
+        },
+        {
+          "hi": "लिथियम (Li), सोडियम (Na) और पोटेशियम (K)",
+          "en": "Lithium (Li), Sodium (Na) and Potassium (K)"
+        },
+        {
+          "hi": "ऑक्सीजन, सल्फर, सेलेनियम",
+          "en": "Oxygen, Sulfur, Selenium"
+        },
+        {
+          "hi": "कार्बन, नाइट्रोजन, ऑक्सीजन",
+          "en": "Carbon, Nitrogen, Oxygen"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तत्वों के वर्गीकरण का 'अष्टक नियम' (Law of Octaves) 1865 में किसने दिया था?",
+        "en": "Who formulated the Law of Octaves comparing elements to musical notes in 1865?"
+      },
+      "o": [
+        {
+          "hi": "डोबेराइनर",
+          "en": "Döbereiner"
+        },
+        {
+          "hi": "लोथर मेयर",
+          "en": "Lothar Meyer"
+        },
+        {
+          "hi": "जॉन न्यूलैंड्स (John Newlands)",
+          "en": "John Newlands"
+        },
+        {
+          "hi": "मेंडेलीफ",
+          "en": "Mendeleev"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "न्यूलैंड्स का अष्टक नियम (Law of Octaves) किस तत्व तक ही ठीक प्रकार से लागू होता है?",
+        "en": "Up to which chemical element was Newlands' Law of Octaves found to be applicable?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम तक",
+          "en": "Up to Sodium"
+        },
+        {
+          "hi": "पोटेशियम तक",
+          "en": "Up to Potassium"
+        },
+        {
+          "hi": "लोहे तक",
+          "en": "Up to Iron"
+        },
+        {
+          "hi": "कैल्शियम तक (Calcium - Ca)",
+          "en": "Up to Calcium (Ca)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तत्वों की प्रथम सफल आवर्त सारणी (Periodic Table) 1869 में किस रूसी वैज्ञानिक ने बनाई?",
+        "en": "Who published the first comprehensive Periodic Table of elements in 1869?"
+      },
+      "o": [
+        {
+          "hi": "दिमित्री मेंडेलीफ (Dmitri Mendeleev)",
+          "en": "Dmitri Mendeleev"
+        },
+        {
+          "hi": "हेनरी मोसले",
+          "en": "Henry Moseley"
+        },
+        {
+          "hi": "जॉन न्यूलैंड्स",
+          "en": "John Newlands"
+        },
+        {
+          "hi": "रॉबर्ट बॉयल",
+          "en": "Robert Boyle"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मेंडेलीफ का आवर्त नियम (Mendeleev's Periodic Law) क्या बताता है?",
+        "en": "What does Mendeleev's original periodic law state regarding elemental properties?"
+      },
+      "o": [
+        {
+          "hi": "गुण परमाणु क्रमांक के आवर्ती फलन हैं",
+          "en": "Properties are periodic functions of atomic number"
+        },
+        {
+          "hi": "तत्वों के भौतिक व रासायनिक गुण उनके परमाणु भारों (Atomic Weights) के आवर्ती फलन होते हैं",
+          "en": "Properties are periodic functions of Atomic Weights"
+        },
+        {
+          "hi": "गुण घनत्व के समानुपाती हैं",
+          "en": "Properties are proportional to density"
+        },
+        {
+          "hi": "गुण संयोजकता पर निर्भर करते हैं",
+          "en": "Properties depend on valency"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मेंडेलीफ की मूल आवर्त सारणी में कुल कितने आवर्त (Periods) और वर्ग (Groups) थे?",
+        "en": "How many periods and groups were there in Mendeleev's original periodic table?"
+      },
+      "o": [
+        {
+          "hi": "7 आवर्त और 18 वर्ग",
+          "en": "7 periods and 18 groups"
+        },
+        {
+          "hi": "6 आवर्त और 10 वर्ग",
+          "en": "6 periods and 10 groups"
+        },
+        {
+          "hi": "7 आवर्त (Periods) और 8 वर्ग (Groups)",
+          "en": "7 periods and 8 groups"
+        },
+        {
+          "hi": "8 आवर्त और 7 वर्ग",
+          "en": "8 periods and 7 groups"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मेंडेलीफ ने अपनी आवर्त सारणी में अज्ञात तत्वों के लिए रिक्त स्थान छोड़े थे। 'एका-एल्युमिनियम' बाद में कौन-सा तत्व बना?",
+        "en": "Mendeleev predicted 'Eka-Aluminium'. Which element later discovered took its place?"
+      },
+      "o": [
+        {
+          "hi": "स्कैंडियम (Sc)",
+          "en": "Scandium (Sc)"
+        },
+        {
+          "hi": "जर्मेनियम (Ge)",
+          "en": "Germanium (Ge)"
+        },
+        {
+          "hi": "टाइटेनियम (Ti)",
+          "en": "Titanium (Ti)"
+        },
+        {
+          "hi": "गैलियम (Gallium - Ga)",
+          "en": "Gallium (Ga)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मेंडेलीफ द्वारा भविष्यवाणी किया गया 'एका-सिलिकॉन' (Eka-Silicon) बाद में कौन-सा तत्व सिद्ध हुआ?",
+        "en": "Element predicted as 'Eka-Silicon' by Mendeleev was later discovered as?"
+      },
+      "o": [
+        {
+          "hi": "जर्मेनियम (Germanium - Ge)",
+          "en": "Germanium (Ge)"
+        },
+        {
+          "hi": "गैलियम (Ga)",
+          "en": "Gallium (Ga)"
+        },
+        {
+          "hi": "स्कैंडियम (Sc)",
+          "en": "Scandium (Sc)"
+        },
+        {
+          "hi": "टिन (Sn)",
+          "en": "Tin (Sn)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आधुनिक आवर्त सारणी (Modern Periodic Table) का प्रतिपादन 1913 में किस अंग्रेज वैज्ञानिक ने किया?",
+        "en": "Who developed the Modern Periodic Table based on atomic number in 1913?"
+      },
+      "o": [
+        {
+          "hi": "नील्स बोर",
+          "en": "Niels Bohr"
+        },
+        {
+          "hi": "हेनरी मोसले (Henry Moseley)",
+          "en": "Henry Moseley"
+        },
+        {
+          "hi": "दिमित्री मेंडेलीफ",
+          "en": "Dmitri Mendeleev"
+        },
+        {
+          "hi": "अर्नेस्ट रदरफोर्ड",
+          "en": "Ernest Rutherford"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आधुनिक आवर्त नियम (Modern Periodic Law) के अनुसार तत्वों के गुण किसके आवर्ती फलन होते हैं?",
+        "en": "According to Modern Periodic Law, properties of elements are periodic functions of?"
+      },
+      "o": [
+        {
+          "hi": "परमाणु भार (Atomic Weight)",
+          "en": "Atomic Weight"
+        },
+        {
+          "hi": "द्रव्यमान संख्या (Mass Number)",
+          "en": "Mass Number"
+        },
+        {
+          "hi": "परमाणु क्रमांक या परमाणु संख्या (Atomic Number - Z)",
+          "en": "Atomic Number (Z)"
+        },
+        {
+          "hi": "संयोजकता (Valency)",
+          "en": "Valency"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आधुनिक दीर्घ रूप आवर्त सारणी (Long Form of Periodic Table) में कुल कितने आवर्त और वर्ग हैं?",
+        "en": "How many periods and groups are there in Modern Long Form Periodic Table?"
+      },
+      "o": [
+        {
+          "hi": "7 आवर्त और 8 वर्ग",
+          "en": "7 periods and 8 groups"
+        },
+        {
+          "hi": "9 आवर्त और 18 वर्ग",
+          "en": "9 periods and 18 groups"
+        },
+        {
+          "hi": "8 आवर्त और 16 वर्ग",
+          "en": "8 periods and 16 groups"
+        },
+        {
+          "hi": "7 आवर्त (Periods) और 18 वर्ग (Groups)",
+          "en": "7 Periods and 18 Groups"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आधुनिक आवर्त सारणी को कुल कितने ब्लॉकों (Blocks) में विभाजित किया गया है?",
+        "en": "The modern periodic table is categorized into how many subshell blocks?"
+      },
+      "o": [
+        {
+          "hi": "4 ब्लॉक (s, p, d, f ब्लॉक)",
+          "en": "4 blocks (s, p, d, f blocks)"
+        },
+        {
+          "hi": "2 ब्लॉक",
+          "en": "2 blocks"
+        },
+        {
+          "hi": "3 ब्लॉक",
+          "en": "3 blocks"
+        },
+        {
+          "hi": "5 ब्लॉक",
+          "en": "5 blocks"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आवर्त सारणी के वर्ग 1 (Group 1) के तत्वों को क्या कहा जाता है?",
+        "en": "What are the metallic elements of Group 1 (Li, Na, K, Rb, Cs, Fr) called?"
+      },
+      "o": [
+        {
+          "hi": "क्षारीय मृदा धातुएं",
+          "en": "Alkaline Earth Metals"
+        },
+        {
+          "hi": "क्षार धातुएं (Alkali Metals)",
+          "en": "Alkali Metals"
+        },
+        {
+          "hi": "संक्रमण धातुएं",
+          "en": "Transition Metals"
+        },
+        {
+          "hi": "हैलोजन",
+          "en": "Halogens"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आवर्त सारणी के वर्ग 2 (Group 2) के तत्वों को क्या कहा जाता है?",
+        "en": "What are the elements of Group 2 (Be, Mg, Ca, Sr, Ba, Ra) known as?"
+      },
+      "o": [
+        {
+          "hi": "क्षार धातुएं",
+          "en": "Alkali metals"
+        },
+        {
+          "hi": "संक्रमण धातुएं",
+          "en": "Transition metals"
+        },
+        {
+          "hi": "क्षारीय मृदा धातुएं (Alkaline Earth Metals)",
+          "en": "Alkaline Earth Metals"
+        },
+        {
+          "hi": "सिक्का धातुएं",
+          "en": "Coinage metals"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आवर्त सारणी के वर्ग 17 (Group 17) के तत्वों को किस नाम से जाना जाता है?",
+        "en": "Elements belonging to Group 17 (F, Cl, Br, I, At) are termed as?"
+      },
+      "o": [
+        {
+          "hi": "अक्रिय गैसें",
+          "en": "Noble gases"
+        },
+        {
+          "hi": "क्षार धातुएं",
+          "en": "Alkali metals"
+        },
+        {
+          "hi": "चाल्कोजन",
+          "en": "Chalcogens"
+        },
+        {
+          "hi": "हैलोजन (Halogens / लवण उत्पादक)",
+          "en": "Halogens (salt formers)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आवर्त सारणी के वर्ग 18 (Group 18 / शून्य वर्ग) के तत्वों को क्या कहा जाता है?",
+        "en": "Group 18 elements with complete outer electron shells are known as?"
+      },
+      "o": [
+        {
+          "hi": "अक्रिय गैसें या उत्कृष्ट गैसें (Inert / Noble Gases)",
+          "en": "Inert / Noble Gases"
+        },
+        {
+          "hi": "हैलोजन",
+          "en": "Halogens"
+        },
+        {
+          "hi": "क्षार धातुएं",
+          "en": "Alkali metals"
+        },
+        {
+          "hi": "संक्रमण तत्व",
+          "en": "Transition elements"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "d-ब्लॉक के तत्वों (वर्ग 3 से 12) को सामान्यतः क्या कहा जाता है?",
+        "en": "Elements of the d-block (Groups 3 to 12) are generally designated as?"
+      },
+      "o": [
+        {
+          "hi": "प्रतिनिधि तत्व",
+          "en": "Representative elements"
+        },
+        {
+          "hi": "संक्रमण तत्व (Transition Elements)",
+          "en": "Transition Elements"
+        },
+        {
+          "hi": "आंतरिक संक्रमण तत्व",
+          "en": "Inner transition elements"
+        },
+        {
+          "hi": "हैलोजन",
+          "en": "Halogens"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "f-ब्लॉक के तत्वों (लैंथेनाइड और एक्टिनाइड) को क्या कहा जाता है?",
+        "en": "Elements of the f-block placed separately at the bottom are known as?"
+      },
+      "o": [
+        {
+          "hi": "क्षार धातुएं",
+          "en": "Alkali metals"
+        },
+        {
+          "hi": "संक्रमण तत्व",
+          "en": "Transition elements"
+        },
+        {
+          "hi": "आंतरिक संक्रमण तत्व (Inner Transition Elements)",
+          "en": "Inner Transition Elements"
+        },
+        {
+          "hi": "उत्कृष्ट धातुएं",
+          "en": "Noble metals"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आवर्त सारणी का प्रथम आवर्त (First Period) में कुल कितने तत्व उपस्थित हैं?",
+        "en": "How many chemical elements exist in the very first period of the periodic table?"
+      },
+      "o": [
+        {
+          "hi": "8 तत्व",
+          "en": "8 elements"
+        },
+        {
+          "hi": "18 तत्व",
+          "en": "18 elements"
+        },
+        {
+          "hi": "32 तत्व",
+          "en": "32 elements"
+        },
+        {
+          "hi": "केवल 2 तत्व (हाइड्रोजन और हीलियम - अति लघु आवर्त)",
+          "en": "Only 2 elements (H and He - shortest period)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आवर्त सारणी के द्वितीय और तृतीय आवर्त में कितने-कितने तत्व होते हैं?",
+        "en": "How many elements each are present in the 2nd and 3rd periods (short periods)?"
+      },
+      "o": [
+        {
+          "hi": "8-8 तत्व (लघु आवर्त)",
+          "en": "8 elements each (Short Periods)"
+        },
+        {
+          "hi": "2-2 तत्व",
+          "en": "2 elements each"
+        },
+        {
+          "hi": "18-18 तत्व",
+          "en": "18 elements each"
+        },
+        {
+          "hi": "32-32 तत्व",
+          "en": "32 elements each"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आवर्त सारणी के चतुर्थ और पंचम आवर्त में कितने तत्व होते हैं?",
+        "en": "How many elements each are present in the 4th and 5th periods (long periods)?"
+      },
+      "o": [
+        {
+          "hi": "8 तत्व",
+          "en": "8 elements"
+        },
+        {
+          "hi": "18-18 तत्व (दीर्घ आवर्त)",
+          "en": "18 elements each (Long Periods)"
+        },
+        {
+          "hi": "32 तत्व",
+          "en": "32 elements"
+        },
+        {
+          "hi": "2 तत्व",
+          "en": "2 elements"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आवर्त सारणी के छठे आवर्त (Sixth Period) में कुल कितने तत्व शामिल हैं?",
+        "en": "How many elements in total are accommodated in the 6th period (longest period)?"
+      },
+      "o": [
+        {
+          "hi": "8 तत्व",
+          "en": "8 elements"
+        },
+        {
+          "hi": "18 तत्व",
+          "en": "18 elements"
+        },
+        {
+          "hi": "32 तत्व (लैंथेनाइड्स सहित - अति दीर्घ आवर्त)",
+          "en": "32 elements (including Lanthanides - longest)"
+        },
+        {
+          "hi": "24 तत्व",
+          "en": "24 elements"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किसी आवर्त में बाएं से दाएं (Left to Right) जाने पर परमाणु आकार (Atomic Radius) पर क्या प्रभाव पड़ता है?",
+        "en": "Across a period from left to right, what trend does atomic radius show?"
+      },
+      "o": [
+        {
+          "hi": "बढ़ता है",
+          "en": "Increases"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "पहले घटता फिर बढ़ता है",
+          "en": "Decreases then increases"
+        },
+        {
+          "hi": "घटता है (प्रभावी नाभिकीय आवेश बढ़ने से)",
+          "en": "Decreases (due to higher nuclear charge)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किसी वर्ग में ऊपर से नीचे (Top to Bottom) जाने पर परमाणु आकार पर क्या प्रभाव पड़ता है?",
+        "en": "Down a group from top to bottom, what happens to atomic radius?"
+      },
+      "o": [
+        {
+          "hi": "बढ़ता है (कोषों की संख्या बढ़ने के कारण)",
+          "en": "Increases (due to addition of extra shells)"
+        },
+        {
+          "hi": "घटता है",
+          "en": "Decreases"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "शून्य हो जाता है",
+          "en": "Becomes zero"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किसी विलगित गैसीय परमाणु से एक इलेक्ट्रॉन बाहर निकालने के लिए आवश्यक न्यूनतम ऊर्जा को क्या कहते हैं?",
+        "en": "Minimum energy required to remove the most loosely bound valence electron is?"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रॉन बंधुता",
+          "en": "Electron affinity"
+        },
+        {
+          "hi": "आयनन ऊर्जा या आयनन विभव (Ionization Energy)",
+          "en": "Ionization Energy / Potential"
+        },
+        {
+          "hi": "विद्युत ऋणात्मकता",
+          "en": "Electronegativity"
+        },
+        {
+          "hi": "जलयोजन ऊर्जा",
+          "en": "Hydration energy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आवर्त सारणी में बाएं से दाएं जाने पर आयनन विभव (Ionization Potential) सामान्यतः क्या होता है?",
+        "en": "Across a period from left to right, how does ionization potential generally vary?"
+      },
+      "o": [
+        {
+          "hi": "घटता है",
+          "en": "Decreases"
+        },
+        {
+          "hi": "शून्य हो जाता है",
+          "en": "Becomes zero"
+        },
+        {
+          "hi": "बढ़ता है (Increases)",
+          "en": "Increases"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पूरी आवर्त सारणी में सर्वाधिक आयनन विभव (Highest Ionization Energy) किस तत्व का होता है?",
+        "en": "Which element in the entire periodic table has the highest first ionization energy?"
+      },
+      "o": [
+        {
+          "hi": "फ्लोरीन (F)",
+          "en": "Fluorine (F)"
+        },
+        {
+          "hi": "सीजियम (Cs)",
+          "en": "Cesium (Cs)"
+        },
+        {
+          "hi": "हाइड्रोजन (H)",
+          "en": "Hydrogen (H)"
+        },
+        {
+          "hi": "हीलियम (Helium - He / 24.6 eV)",
+          "en": "Helium (He / 24.6 eV)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पूरी आवर्त सारणी में सबसे कम आयनन विभव (Lowest Ionization Energy) किस तत्व का होता है?",
+        "en": "Which stable alkali metal has the lowest ionization potential in periodic table?"
+      },
+      "o": [
+        {
+          "hi": "सीजियम (Cesium - Cs)",
+          "en": "Cesium (Cs)"
+        },
+        {
+          "hi": "सोडियम",
+          "en": "Sodium"
+        },
+        {
+          "hi": "पोटेशियम",
+          "en": "Potassium"
+        },
+        {
+          "hi": "लिथियम",
+          "en": "Lithium"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जब किसी उदासीन गैसीय परमाणु में एक इलेक्ट्रॉन जोड़ा जाता है, तो मुक्त ऊर्जा क्या कहलाती है?",
+        "en": "Energy released when an electron is added to a neutral isolated gaseous atom is?"
+      },
+      "o": [
+        {
+          "hi": "आयनन विभव",
+          "en": "Ionization potential"
+        },
+        {
+          "hi": "इलेक्ट्रॉन बंधुता (Electron Affinity)",
+          "en": "Electron Affinity"
+        },
+        {
+          "hi": "विद्युत ऋणात्मकता",
+          "en": "Electronegativity"
+        },
+        {
+          "hi": "बंधन ऊर्जा",
+          "en": "Bond energy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पूरी आवर्त सारणी में सर्वाधिक इलेक्ट्रॉन बंधुता (Highest Electron Affinity) किस तत्व की होती है?",
+        "en": "Which chemical element possesses the highest electron affinity?"
+      },
+      "o": [
+        {
+          "hi": "फ्लोरीन (F)",
+          "en": "Fluorine (F)"
+        },
+        {
+          "hi": "ब्रोमीन (Br)",
+          "en": "Bromine (Br)"
+        },
+        {
+          "hi": "क्लोरीन (Chlorine - Cl / -349 kJ/mol)",
+          "en": "Chlorine (Cl / -349 kJ/mol)"
+        },
+        {
+          "hi": "आयोडीन (I)",
+          "en": "Iodine (I)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सहसंयोजी बंध में साझे के इलेक्ट्रॉन युग्म को अपनी ओर आकर्षित करने की परमाणु की प्रवृत्ति क्या कहलाती है?",
+        "en": "Relative tendency of a bonded atom to attract shared electron pair to itself is?"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रॉन बंधुता",
+          "en": "Electron affinity"
+        },
+        {
+          "hi": "आयनन विभव",
+          "en": "Ionization energy"
+        },
+        {
+          "hi": "ध्रुवणता",
+          "en": "Polarizability"
+        },
+        {
+          "hi": "विद्युत ऋणात्मकता (Electronegativity)",
+          "en": "Electronegativity"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पूरी आवर्त सारणी में सर्वाधिक विद्युत ऋणात्मक तत्व (Most Electronegative Element) कौन-सा है?",
+        "en": "Which is the most electronegative element in the entire periodic table (Pauling scale: 4.0)?"
+      },
+      "o": [
+        {
+          "hi": "फ्लोरीन (Fluorine - F)",
+          "en": "Fluorine (F)"
+        },
+        {
+          "hi": "क्लोरीन (Cl)",
+          "en": "Chlorine (Cl)"
+        },
+        {
+          "hi": "ऑक्सीजन (O)",
+          "en": "Oxygen (O)"
+        },
+        {
+          "hi": "नाइट्रोजन (N)",
+          "en": "Nitrogen (N)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आवर्त सारणी में दूसरा सर्वाधिक विद्युत ऋणात्मक तत्व कौन-सा है?",
+        "en": "Which is the second most electronegative element in the periodic table (Pauling scale: 3.5)?"
+      },
+      "o": [
+        {
+          "hi": "नाइट्रोजन",
+          "en": "Nitrogen"
+        },
+        {
+          "hi": "ऑक्सीजन (Oxygen - O)",
+          "en": "Oxygen (O)"
+        },
+        {
+          "hi": "क्लोरीन",
+          "en": "Chlorine"
+        },
+        {
+          "hi": "ब्रोमीन",
+          "en": "Bromine"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आवर्त सारणी का सबसे हल्का तत्व (Lightest Element) कौन-सा है?",
+        "en": "Which is the lightest known element in the periodic table?"
+      },
+      "o": [
+        {
+          "hi": "हीलियम",
+          "en": "Helium"
+        },
+        {
+          "hi": "लिथियम",
+          "en": "Lithium"
+        },
+        {
+          "hi": "हाइड्रोजन (Hydrogen - H)",
+          "en": "Hydrogen (H)"
+        },
+        {
+          "hi": "बेरिलियम",
+          "en": "Beryllium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आवर्त सारणी की सबसे हल्की धातु (Lightest Metal) कौन-सी है?",
+        "en": "Which is the lightest metallic element in the periodic table?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम",
+          "en": "Sodium"
+        },
+        {
+          "hi": "पोटेशियम",
+          "en": "Potassium"
+        },
+        {
+          "hi": "एल्युमिनियम",
+          "en": "Aluminium"
+        },
+        {
+          "hi": "लिथियम (Lithium - Li / घनत्व 0.53 g/cm³)",
+          "en": "Lithium (Li / density 0.53 g/cm³)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पूरी आवर्त सारणी में सर्वाधिक घनत्व वाली सबसे भारी धातु (Heaviest/Densest Metal) कौन-सी है?",
+        "en": "Which is the densest naturally occurring heavy metal in periodic table?"
+      },
+      "o": [
+        {
+          "hi": "ओस्मियम (Osmium - Os / घनत्व ~22.59 g/cm³)",
+          "en": "Osmium (Os / density ~22.59 g/cm³)"
+        },
+        {
+          "hi": "प्लेटिनम",
+          "en": "Platinum"
+        },
+        {
+          "hi": "सोना",
+          "en": "Gold"
+        },
+        {
+          "hi": "सीसा",
+          "en": "Lead"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सर्वाधिक तन्य (Most Ductile) और आघातवर्ध्य (Malleable) धातु कौन-सी है?",
+        "en": "Which metal is the most malleable and ductile of all elements?"
+      },
+      "o": [
+        {
+          "hi": "चांदी",
+          "en": "Silver"
+        },
+        {
+          "hi": "सोना (Gold - Au)",
+          "en": "Gold (Au)"
+        },
+        {
+          "hi": "तांबा",
+          "en": "Copper"
+        },
+        {
+          "hi": "प्लेटिनम",
+          "en": "Platinum"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत और ऊष्मा की सर्वोत्तम चालक धातु (Best Electrical & Thermal Conductor) कौन-सी है?",
+        "en": "Which metal is the best conductor of electricity and heat?"
+      },
+      "o": [
+        {
+          "hi": "तांबा (Copper)",
+          "en": "Copper"
+        },
+        {
+          "hi": "सोना (Gold)",
+          "en": "Gold"
+        },
+        {
+          "hi": "चांदी (Silver - Ag)",
+          "en": "Silver (Ag)"
+        },
+        {
+          "hi": "एल्युमिनियम",
+          "en": "Aluminium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अक्रिय गैसों में वायुमंडल में सर्वाधिक मात्रा में पाई जाने वाली गैस कौन-सी है?",
+        "en": "Which noble gas is the most abundant in the Earth's atmosphere (~0.93%)?"
+      },
+      "o": [
+        {
+          "hi": "हीलियम",
+          "en": "Helium"
+        },
+        {
+          "hi": "नियॉन",
+          "en": "Neon"
+        },
+        {
+          "hi": "क्रिप्टॉन",
+          "en": "Krypton"
+        },
+        {
+          "hi": "ऑर्गन (Argon - Ar)",
+          "en": "Argon (Ar)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वायुमंडल में बिल्कुल न पाई जाने वाली एकमात्र रेडियोधर्मी अक्रिय गैस कौन-सी है?",
+        "en": "Which heavy radioactive noble gas is completely absent from normal atmosphere?"
+      },
+      "o": [
+        {
+          "hi": "रेडॉन (Radon - Rn)",
+          "en": "Radon (Rn)"
+        },
+        {
+          "hi": "जीनॉन (Xe)",
+          "en": "Xenon (Xe)"
+        },
+        {
+          "hi": "क्रिप्टॉन",
+          "en": "Krypton"
+        },
+        {
+          "hi": "ऑर्गन",
+          "en": "Argon"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अक्रिय गैसों में 'अजनबी गैस' (स्ट्रेंजर गैस - Stranger Gas) किसे कहा जाता है?",
+        "en": "Which noble gas is commonly termed the 'Stranger Gas' due to forming compounds?"
+      },
+      "o": [
+        {
+          "hi": "ऑर्गन",
+          "en": "Argon"
+        },
+        {
+          "hi": "जीनॉन (Xenon - Xe)",
+          "en": "Xenon (Xe)"
+        },
+        {
+          "hi": "नियॉन",
+          "en": "Neon"
+        },
+        {
+          "hi": "हीलियम",
+          "en": "Helium"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विज्ञापन पट्टों (साइनबोर्ड) में चमकीले लाल-नारंगी प्रकाश के लिए किस अक्रिय गैस का उपयोग होता है?",
+        "en": "Which noble gas gives the distinctive brilliant orange-red glow in advertising signs?"
+      },
+      "o": [
+        {
+          "hi": "ऑर्गन",
+          "en": "Argon"
+        },
+        {
+          "hi": "हीलियम",
+          "en": "Helium"
+        },
+        {
+          "hi": "नियॉन (Neon - Ne)",
+          "en": "Neon (Ne)"
+        },
+        {
+          "hi": "क्रिप्टॉन",
+          "en": "Krypton"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हवाई अड्डों पर कोहरे में रनवे बत्तियों (Beacon lights) में किस गैस का प्रयोग किया जाता है?",
+        "en": "Which inert gas is used in airport beacon runway lights for fog penetration?"
+      },
+      "o": [
+        {
+          "hi": "ऑर्गन",
+          "en": "Argon"
+        },
+        {
+          "hi": "जीनॉन",
+          "en": "Xenon"
+        },
+        {
+          "hi": "क्रिप्टॉन",
+          "en": "Krypton"
+        },
+        {
+          "hi": "नियॉन (Neon)",
+          "en": "Neon"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बिजली के चमकने पर कौन-सी अक्रिय गैस नीले रंग का प्रकाश उत्पन्न करती है?",
+        "en": "Which noble gas produces blue-green illumination in high-intensity discharge lamps?"
+      },
+      "o": [
+        {
+          "hi": "ऑर्गन (Argon)",
+          "en": "Argon"
+        },
+        {
+          "hi": "हीलियम",
+          "en": "Helium"
+        },
+        {
+          "hi": "नियॉन",
+          "en": "Neon"
+        },
+        {
+          "hi": "रेडॉन",
+          "en": "Radon"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आवर्त सारणी में किस तत्व को 'आवारा तत्व' (Rogue Element) भी कहा जाता है?",
+        "en": "Which element is nicknamed the 'Rogue/Wandering Element' due to dual position?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन",
+          "en": "Carbon"
+        },
+        {
+          "hi": "हाइड्रोजन (Hydrogen - H)",
+          "en": "Hydrogen (H)"
+        },
+        {
+          "hi": "हीलियम",
+          "en": "Helium"
+        },
+        {
+          "hi": "बोरॉन",
+          "en": "Boron"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यूरेनियम (परमाणु क्रमांक 92) के बाद आने वाले सभी कृत्रिम तत्वों को क्या कहा जाता है?",
+        "en": "Synthetic man-made transuranic elements following Uranium (Z > 92) are called?"
+      },
+      "o": [
+        {
+          "hi": "लैंथेनाइड्स",
+          "en": "Lanthanides"
+        },
+        {
+          "hi": "क्षार धातुएं",
+          "en": "Alkali metals"
+        },
+        {
+          "hi": "पराध्वनिक तत्व (Transuranic Elements)",
+          "en": "Transuranic Elements"
+        },
+        {
+          "hi": "संक्रमण तत्व",
+          "en": "Transition elements"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सिक्का धातुएं (Coinage Metals) आवर्त सारणी के किस वर्ग में आती हैं?",
+        "en": "Historical coinage metals (Copper, Silver and Gold) belong to which group?"
+      },
+      "o": [
+        {
+          "hi": "वर्ग 1",
+          "en": "Group 1"
+        },
+        {
+          "hi": "वर्ग 2",
+          "en": "Group 2"
+        },
+        {
+          "hi": "वर्ग 12",
+          "en": "Group 12"
+        },
+        {
+          "hi": "वर्ग 11 (Group 11 - Cu, Ag, Au)",
+          "en": "Group 11 (Cu, Ag, Au)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आवर्त सारणी में सबसे पहला संश्लेषित (कृत्रिम रूप से निर्मित) तत्व कौन-सा था?",
+        "en": "Which was the very first artificially synthesized chemical element (Z = 43)?"
+      },
+      "o": [
+        {
+          "hi": "टेक्नीशियम (Technetium - Tc, Z = 43)",
+          "en": "Technetium (Tc, Z = 43)"
+        },
+        {
+          "hi": "प्रोमेथियम",
+          "en": "Promethium"
+        },
+        {
+          "hi": "प्लूटोनियम",
+          "en": "Plutonium"
+        },
+        {
+          "hi": "नेप्च्यूनियम",
+          "en": "Neptunium"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वर्तमान में आवर्त सारणी में कुल कितने ज्ञात एवं सत्यापित तत्व उपस्थित हैं?",
+        "en": "How many total verified chemical elements currently exist in modern periodic table?"
+      },
+      "o": [
+        {
+          "hi": "108 तत्व",
+          "en": "108 elements"
+        },
+        {
+          "hi": "118 तत्व (118 Elements - अंतिम ओगनेसन Og)",
+          "en": "118 Elements (last is Oganesson Og)"
+        },
+        {
+          "hi": "120 तत्व",
+          "en": "120 elements"
+        },
+        {
+          "hi": "114 तत्व",
+          "en": "114 elements"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

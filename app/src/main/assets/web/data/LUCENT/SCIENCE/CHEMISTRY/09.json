@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - रसायन विज्ञान (Chemistry)",
+  "subtitle": "कार्बन एवं उसके यौगिक",
+  "description": "कार्बन एवं उसके यौगिक पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "कार्बन (Carbon) परमाणु की संयोजकता (Valency) कितनी होती है?",
+        "en": "What is the characteristic valency of a Carbon atom?"
+      },
+      "o": [
+        {
+          "hi": "4 (चतुःसंयोजी - Tetravalent)",
+          "en": "4 (Tetravalent)"
+        },
+        {
+          "hi": "2",
+          "en": "2"
+        },
+        {
+          "hi": "3",
+          "en": "3"
+        },
+        {
+          "hi": "6",
+          "en": "6"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कार्बन परमाणुओं में आपस में जुड़कर लंबी खुली या बंद श्रृंखला बनाने के अद्वितीय गुण को क्या कहते हैं?",
+        "en": "Unique property of carbon atoms to form long open or cyclic chains is?"
+      },
+      "o": [
+        {
+          "hi": "समावयवता",
+          "en": "Isomerism"
+        },
+        {
+          "hi": "श्रृंखलन (Catenation)",
+          "en": "Catenation"
+        },
+        {
+          "hi": "अपररूपता",
+          "en": "Allotropy"
+        },
+        {
+          "hi": "संकरण",
+          "en": "Hybridization"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रकृति में ज्ञात सभी तत्वों में सर्वाधिक यौगिक (Compounds) बनाने वाला तत्व कौन-सा है?",
+        "en": "Which chemical element forms the largest number of known chemical compounds?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोजन",
+          "en": "Hydrogen"
+        },
+        {
+          "hi": "ऑक्सीजन",
+          "en": "Oxygen"
+        },
+        {
+          "hi": "कार्बन (Carbon - लाखों कार्बनिक यौगिक)",
+          "en": "Carbon (millions of organic compounds)"
+        },
+        {
+          "hi": "सिलिकॉन",
+          "en": "Silicon"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एक ही तत्व के विभिन्न रूप जिनके भौतिक गुण भिन्न परंतु रासायनिक गुण समान होते हैं, क्या कहलाते हैं?",
+        "en": "Different forms of same element having different physical but identical chemical properties are?"
+      },
+      "o": [
+        {
+          "hi": "समस्थानिक",
+          "en": "Isotopes"
+        },
+        {
+          "hi": "समभारिक",
+          "en": "Isobars"
+        },
+        {
+          "hi": "समावयवी",
+          "en": "Isomers"
+        },
+        {
+          "hi": "अपररूप (Allotropes)",
+          "en": "Allotropes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रकृति में पाया जाने वाला सबसे कठोरतम प्राकृतिक पदार्थ (Hardest Natural Substance) कौन-सा है?",
+        "en": "Which is the hardest known naturally occurring mineral substance in nature?"
+      },
+      "o": [
+        {
+          "hi": "हीरा (Diamond - कार्बन का अपररूप)",
+          "en": "Diamond (Allotrope of carbon)"
+        },
+        {
+          "hi": "कोरंडम",
+          "en": "Corundum"
+        },
+        {
+          "hi": "टोपाज",
+          "en": "Topaz"
+        },
+        {
+          "hi": "क्वार्ट्ज़",
+          "en": "Quartz"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हीरे (Diamond) में कार्बन परमाणु किस संकरण अवस्था (Hybridization) में होते हैं?",
+        "en": "In what hybridization state are carbon atoms in a diamond crystal network?"
+      },
+      "o": [
+        {
+          "hi": "sp संकरण",
+          "en": "sp hybridization"
+        },
+        {
+          "hi": "sp³ संकरण (चतुष्फलकीय त्रिविम जालक)",
+          "en": "sp³ hybridization (tetrahedral 3D network)"
+        },
+        {
+          "hi": "sp² संकरण",
+          "en": "sp² hybridization"
+        },
+        {
+          "hi": "dsp² संकरण",
+          "en": "dsp² hybridization"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हीरा विद्युत का पूर्णतः कुचालक (Insulator) क्यों होता है?",
+        "en": "Why is diamond a complete non-conductor (insulator) of electricity?"
+      },
+      "o": [
+        {
+          "hi": "यह बहुत कठोर होता है",
+          "en": "It is very hard"
+        },
+        {
+          "hi": "यह पारदर्शी होता है",
+          "en": "It is transparent"
+        },
+        {
+          "hi": "इसमें कोई भी मुक्त इलेक्ट्रॉन उपस्थित नहीं होता",
+          "en": "There are no free mobile electrons present"
+        },
+        {
+          "hi": "इसका गलनांक कम होता है",
+          "en": "It has low melting point"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हीरे की अत्यधिक चमक (Brilliance of Diamond) का मुख्य भौतिक कारण क्या है?",
+        "en": "Brilliance and sparkling of a cut diamond is primarily due to which phenomenon?"
+      },
+      "o": [
+        {
+          "hi": "प्रकाश का अपवर्तन",
+          "en": "Refraction of light"
+        },
+        {
+          "hi": "प्रकाश का विवर्तन",
+          "en": "Diffraction of light"
+        },
+        {
+          "hi": "प्रकाश का ध्रुवण",
+          "en": "Polarization of light"
+        },
+        {
+          "hi": "उच्च अपवर्तनांक (2.42) व पूर्ण आंतरिक परावर्तन",
+          "en": "High refractive index (2.42) & TIR"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "काले रंग के हीरे (Black Diamond / Carbonado) का उपयोग किस कार्य में किया जाता है?",
+        "en": "What is black diamond (Carbonado / Bort) commercially used for?"
+      },
+      "o": [
+        {
+          "hi": "कांच काटने और चट्टानों में छेद (ड्रिलिंग) करने हेतु",
+          "en": "Glass cutting and rock drilling"
+        },
+        {
+          "hi": "आभूषण बनाने के लिए",
+          "en": "Jewelry making"
+        },
+        {
+          "hi": "पेंसिल लेड बनाने में",
+          "en": "Pencil lead making"
+        },
+        {
+          "hi": "विद्युत हीटर में",
+          "en": "Electric heaters"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ग्रेफाइट (Graphite) में कार्बन परमाणुओं का संकरण क्या होता है?",
+        "en": "What is the hybridization state of carbon atoms in Graphite?"
+      },
+      "o": [
+        {
+          "hi": "sp संकरण",
+          "en": "sp hybridization"
+        },
+        {
+          "hi": "sp² संकरण (षट्कोणीय परतदार जालक)",
+          "en": "sp² hybridization (hexagonal planar lattice)"
+        },
+        {
+          "hi": "sp³ संकरण",
+          "en": "sp³ hybridization"
+        },
+        {
+          "hi": "sp³d संकरण",
+          "en": "sp³d hybridization"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ग्रेफाइट एक अधातु होने के बावजूद विद्युत और ऊष्मा का सुचालक क्यों होता है?",
+        "en": "Why is graphite an excellent conductor of electricity despite being a non-metal?"
+      },
+      "o": [
+        {
+          "hi": "इसकी परतदार संरचना के कारण",
+          "en": "Due to layer structure"
+        },
+        {
+          "hi": "यह नरम होता है",
+          "en": "It is soft"
+        },
+        {
+          "hi": "परतों के बीच विस्थानीकृत मुक्त इलेक्ट्रॉनों की उपस्थिति के कारण",
+          "en": "Presence of delocalized free electrons between layers"
+        },
+        {
+          "hi": "यह कार्बन का बना है",
+          "en": "It is made of carbon"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ग्रेफाइट का उपयोग उच्च तापमान पर चलने वाली भारी मशीनों में किस रूप में किया जाता है?",
+        "en": "Graphite powder is utilized in heavy high-temperature machinery as what?"
+      },
+      "o": [
+        {
+          "hi": "शीतलक के रूप में",
+          "en": "As coolant"
+        },
+        {
+          "hi": "अग्निशामक के रूप में",
+          "en": "As fire extinguisher"
+        },
+        {
+          "hi": "ईंधन के रूप में",
+          "en": "As fuel"
+        },
+        {
+          "hi": "शुष्क स्नेहक (Dry Lubricant) के रूप में",
+          "en": "As a Dry Lubricant"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लिखने वाली साधारण पेंसिलों की लेड (Pencil Lead) किसकी बनी होती है?",
+        "en": "The core 'lead' inside regular writing pencils is manufactured from?"
+      },
+      "o": [
+        {
+          "hi": "ग्रेफाइट और मिट्टी (क्ले) का मिश्रण",
+          "en": "Graphite and Clay mixture"
+        },
+        {
+          "hi": "शुद्ध सीसा (लेड - Pb)",
+          "en": "Pure Lead (Pb)"
+        },
+        {
+          "hi": "चारकोल",
+          "en": "Charcoal"
+        },
+        {
+          "hi": "कोक",
+          "en": "Coke"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "परमाणु रिएक्टरों (Nuclear Reactors) में न्यूट्रॉनों की गति मंद करने हेतु मंदक के रूप में किसका उपयोग होता है?",
+        "en": "Which carbon allotrope is widely used as a neutron moderator in nuclear reactors?"
+      },
+      "o": [
+        {
+          "hi": "हीरे का",
+          "en": "Diamond"
+        },
+        {
+          "hi": "ग्रेफाइट (Graphite) की छड़ों का",
+          "en": "Graphite rods"
+        },
+        {
+          "hi": "काजल का",
+          "en": "Lampblack"
+        },
+        {
+          "hi": "सक्रिय चारकोल का",
+          "en": "Activated charcoal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कार्बन के 60 परमाणुओं से बनी फुटबॉल जैसी संरचना वाले अपररूप को क्या कहते हैं?",
+        "en": "Soccer-ball cage allotrope composed of 60 carbon atoms (C60) is called?"
+      },
+      "o": [
+        {
+          "hi": "ग्राफीन",
+          "en": "Graphene"
+        },
+        {
+          "hi": "कार्बन नैनोट्यूब",
+          "en": "Carbon nanotube"
+        },
+        {
+          "hi": "बकमिंस्टर फुलरीन (Buckminsterfullerene - C60)",
+          "en": "Buckminsterfullerene (C60)"
+        },
+        {
+          "hi": "कार्बोनेडो",
+          "en": "Carbonado"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बकमिंस्टर फुलरीन (C60) में कितने षट्कोणीय और पंचकोणीय फलक होते हैं?",
+        "en": "How many hexagonal and pentagonal faces constitute a C60 fullerene molecule?"
+      },
+      "o": [
+        {
+          "hi": "12 षट्कोणीय और 20 पंचकोणीय",
+          "en": "12 hexagonal & 20 pentagonal"
+        },
+        {
+          "hi": "10 षट्कोणीय और 10 पंचकोणीय",
+          "en": "10 hexagonal & 10 pentagonal"
+        },
+        {
+          "hi": "30 षट्कोणीय और 2 पंचकोणीय",
+          "en": "30 hexagonal & 2 pentagonal"
+        },
+        {
+          "hi": "20 षट्कोणीय और 12 पंचकोणीय (कुल 32 फलक)",
+          "en": "20 hexagonal & 12 pentagonal (32 faces)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कार्बन की एकल-परमाणु मोटी जालीदार परत को क्या कहा जाता है जो अत्यधिक मजबूत और सुचालक है?",
+        "en": "Single 2D atom-thick honeycomb sheet of carbon with extraordinary strength is?"
+      },
+      "o": [
+        {
+          "hi": "ग्राफीन (Graphene - आंद्रे गीम व नोवोसेलोव, Nobel 2010)",
+          "en": "Graphene (Geim & Novoselov, Nobel 2010)"
+        },
+        {
+          "hi": "फुलरीन",
+          "en": "Fullerene"
+        },
+        {
+          "hi": "ग्रेफाइट",
+          "en": "Graphite"
+        },
+        {
+          "hi": "हीरा",
+          "en": "Diamond"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "केवल कार्बन और हाइड्रोजन तत्वों से मिलकर बने रासायनिक यौगिकों को क्या कहा जाता है?",
+        "en": "Chemical compounds composed solely of hydrogen and carbon atoms are known as?"
+      },
+      "o": [
+        {
+          "hi": "कार्बोहाइड्रेट",
+          "en": "Carbohydrates"
+        },
+        {
+          "hi": "हाइड्रोकार्बन (Hydrocarbons)",
+          "en": "Hydrocarbons"
+        },
+        {
+          "hi": "प्रोटीन",
+          "en": "Proteins"
+        },
+        {
+          "hi": "पॉलिमर",
+          "en": "Polymers"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संतृप्त हाइड्रोकार्बनों (ऐल्केन / Paraffins) का सामान्य रासायनिक सूत्र क्या होता है?",
+        "en": "What is the general chemical formula of saturated hydrocarbons (Alkanes)?"
+      },
+      "o": [
+        {
+          "hi": "Cn H2n",
+          "en": "Cn H2n"
+        },
+        {
+          "hi": "Cn H2n-2",
+          "en": "Cn H2n-2"
+        },
+        {
+          "hi": "Cn H2n+2 (जैसे CH4, C2H6)",
+          "en": "Cn H2n+2 (e.g. CH4, C2H6)"
+        },
+        {
+          "hi": "Cn Hn",
+          "en": "Cn Hn"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऐल्कीन (Alkenes / Olefins - द्विबंध युक्त असंतृप्त हाइड्रोकार्बन) का सामान्य सूत्र क्या है?",
+        "en": "What is the general chemical formula of unsaturated Alkenes (double bond)?"
+      },
+      "o": [
+        {
+          "hi": "Cn H2n+2",
+          "en": "Cn H2n+2"
+        },
+        {
+          "hi": "Cn H2n-2",
+          "en": "Cn H2n-2"
+        },
+        {
+          "hi": "Cn H2n+1",
+          "en": "Cn H2n+1"
+        },
+        {
+          "hi": "Cn H2n (जैसे C2H4 - एथिलीन)",
+          "en": "Cn H2n (e.g. C2H4 - Ethylene)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऐल्काइन (Alkynes - त्रिबंध युक्त असंतृप्त हाइड्रोकार्बन) का सामान्य रासायनिक सूत्र क्या है?",
+        "en": "What is the general formula of unsaturated Alkynes containing a triple bond?"
+      },
+      "o": [
+        {
+          "hi": "Cn H2n-2 (जैसे C2H2 - एसिटिलीन)",
+          "en": "Cn H2n-2 (e.g. C2H2 - Acetylene)"
+        },
+        {
+          "hi": "Cn H2n",
+          "en": "Cn H2n"
+        },
+        {
+          "hi": "Cn H2n+2",
+          "en": "Cn H2n+2"
+        },
+        {
+          "hi": "Cn H2n-4",
+          "en": "Cn H2n-4"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सरलतम हाइड्रोकार्बन और प्राकृतिक गैस का मुख्य घटक कौन-सा है?",
+        "en": "Which is the simplest hydrocarbon and main constituent of natural gas?"
+      },
+      "o": [
+        {
+          "hi": "एथेन (C2H6)",
+          "en": "Ethane (C2H6)"
+        },
+        {
+          "hi": "मीथेन (Methane - CH4 / मार्श गैस)",
+          "en": "Methane (CH4 / Marsh gas)"
+        },
+        {
+          "hi": "प्रोपेन (C3H8)",
+          "en": "Propane (C3H8)"
+        },
+        {
+          "hi": "ब्यूटेन (C4H10)",
+          "en": "Butane (C4H10)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कच्चे फलों को प्राकृतिक रूप से पकाने वाला एकमात्र गैसीय पादप हार्मोन कौन-सा है?",
+        "en": "Which gaseous plant hormone naturally induces ripening in raw fruits?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सिन",
+          "en": "Auxin"
+        },
+        {
+          "hi": "जिबरेलिन",
+          "en": "Gibberellin"
+        },
+        {
+          "hi": "एथिलीन (Ethylene - C2H4)",
+          "en": "Ethylene (C2H4)"
+        },
+        {
+          "hi": "साइटोकाइनिन",
+          "en": "Cytokinin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कच्चे फलों को कृत्रिम रूप से पकाने के लिए कैल्शियम कार्बाइड (CaC2) पर जल की क्रिया से कौन-सी गैस बनती है?",
+        "en": "Reaction of water with calcium carbide (CaC2) generates which ripening gas?"
+      },
+      "o": [
+        {
+          "hi": "मीथेन",
+          "en": "Methane"
+        },
+        {
+          "hi": "एथेन",
+          "en": "Ethane"
+        },
+        {
+          "hi": "एथिलीन",
+          "en": "Ethylene"
+        },
+        {
+          "hi": "एसिटिलीन या एथाइन (Acetylene - C2H2)",
+          "en": "Acetylene / Ethyne (C2H2)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "धातुओं को जोड़ने एवं काटने वाली 'ऑक्सी-एसिटिलीन वेल्डिंग' में किन दो गैसों का मिश्रण जलता है?",
+        "en": "Oxy-acetylene welding flame uses a combustible mixture of which two gases?"
+      },
+      "o": [
+        {
+          "hi": "एसिटिलीन (C2H2) और ऑक्सीजन (O2)",
+          "en": "Acetylene (C2H2) and Oxygen (O2)"
+        },
+        {
+          "hi": "मीथेन और हाइड्रोजन",
+          "en": "Methane and Hydrogen"
+        },
+        {
+          "hi": "एलपीजी और नाइट्रोजन",
+          "en": "LPG and Nitrogen"
+        },
+        {
+          "hi": "कार्बन मोनोऑक्साइड और वायु",
+          "en": "CO and Air"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बेंजीन (Benzene - C6H6) की चक्रीय वलय संरचना की खोज 1865 में किसने की थी?",
+        "en": "Who proposed the cyclic ring structure of Benzene (C6H6) in 1865?"
+      },
+      "o": [
+        {
+          "hi": "जॉन डाल्टन",
+          "en": "John Dalton"
+        },
+        {
+          "hi": "फ्रेडरिक ऑगस्ट केकुले (August Kekulé)",
+          "en": "August Kekulé"
+        },
+        {
+          "hi": "दिमित्री मेंडेलीफ",
+          "en": "Dmitri Mendeleev"
+        },
+        {
+          "hi": "लुई पाश्चर",
+          "en": "Louis Pasteur"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बेंजीन अणु (C6H6) में कुल कितने सिग्मा (σ) और पाई (π) बंध उपस्थित होते हैं?",
+        "en": "How many sigma (σ) and pi (π) bonds exist in a Benzene ring molecule?"
+      },
+      "o": [
+        {
+          "hi": "6 सिग्मा और 6 पाई",
+          "en": "6 sigma and 6 pi"
+        },
+        {
+          "hi": "9 सिग्मा और 3 पाई",
+          "en": "9 sigma and 3 pi"
+        },
+        {
+          "hi": "12 सिग्मा और 3 पाई बंध (12 σ and 3 π)",
+          "en": "12 sigma and 3 pi bonds (12 σ and 3 π)"
+        },
+        {
+          "hi": "15 सिग्मा और 1 पाई",
+          "en": "15 sigma and 1 pi"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शल्य चिकित्सा (सर्जरी) में बेहोश करने वाले निश्चेतक (Anesthetic) के रूप में किसका उपयोग शुरू हुआ था?",
+        "en": "Which organic liquid was introduced by James Simpson as an anesthetic in surgery?"
+      },
+      "o": [
+        {
+          "hi": "ईथर",
+          "en": "Ether"
+        },
+        {
+          "hi": "नाइट्रस ऑक्साइड",
+          "en": "Nitrous oxide"
+        },
+        {
+          "hi": "एथिल अल्कोहल",
+          "en": "Ethyl alcohol"
+        },
+        {
+          "hi": "क्लोरोफॉर्म (Chloroform - CHCl3)",
+          "en": "Chloroform (CHCl3)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "क्लोरोफॉर्म को हवा और सूर्य के प्रकाश में खुला रखने पर कौन-सी अत्यंत विषैली गैस बन जाती है?",
+        "en": "When chloroform is exposed to air and sunlight, which toxic poisonous gas forms?"
+      },
+      "o": [
+        {
+          "hi": "फॉस्जीन गैस (Phosgene - COCl2)",
+          "en": "Phosgene gas (COCl2)"
+        },
+        {
+          "hi": "मस्टर्ड गैस",
+          "en": "Mustard gas"
+        },
+        {
+          "hi": "कार्बन मोनोऑक्साइड",
+          "en": "Carbon monoxide"
+        },
+        {
+          "hi": "अश्रु गैस",
+          "en": "Tear gas"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्लोरोफॉर्म को फॉस्जीन गैस में बदलने से रोकने के लिए इसमें 1% क्या मिलाया जाता है?",
+        "en": "What is added (~1%) to stored chloroform in brown bottles to prevent oxidation into phosgene?"
+      },
+      "o": [
+        {
+          "hi": "जल",
+          "en": "Water"
+        },
+        {
+          "hi": "एथिल अल्कोहल (Ethyl Alcohol - C2H5OH)",
+          "en": "Ethyl Alcohol (C2H5OH)"
+        },
+        {
+          "hi": "एसिटिक अम्ल",
+          "en": "Acetic acid"
+        },
+        {
+          "hi": "ईथर",
+          "en": "Ether"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "घावों पर एंटीसेप्टिक (रोगाणुरोधक) के रूप में प्रयुक्त होने वाला पीले रंग का क्रिस्टलीय पदार्थ कौन-सा है?",
+        "en": "Yellow crystalline organic compound used as an antiseptic for dressing wounds is?"
+      },
+      "o": [
+        {
+          "hi": "क्लोरोफॉर्म",
+          "en": "Chloroform"
+        },
+        {
+          "hi": "फिनोल",
+          "en": "Phenol"
+        },
+        {
+          "hi": "आयोडोफॉर्म (Iodoform - CHI3)",
+          "en": "Iodoform (CHI3)"
+        },
+        {
+          "hi": "डीडीटी",
+          "en": "DDT"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बिजली के उपकरणों में लगी आग बुझाने के लिए किस अग्निशामक द्रव (पायरीन - Pyrene) का प्रयोग होता है?",
+        "en": "Which non-flammable organic liquid is marketed as 'Pyrene' for extinguishing electrical fires?"
+      },
+      "o": [
+        {
+          "hi": "क्लोरोफॉर्म",
+          "en": "Chloroform"
+        },
+        {
+          "hi": "डाइक्लोरोमीथेन",
+          "en": "Dichloromethane"
+        },
+        {
+          "hi": "एसीटोन",
+          "en": "Acetone"
+        },
+        {
+          "hi": "कार्बन टेट्राक्लोराइड (Carbon Tetrachloride - CCl4)",
+          "en": "Carbon Tetrachloride (CCl4)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रेफ्रिजरेटरों और एसी में प्रशीतक (Coolant) के रूप में प्रयुक्त क्लोरोफ्लोरोकार्बन को क्या कहते हैं?",
+        "en": "Chlorofluorocarbon refrigerant used in cooling appliances is commonly called?"
+      },
+      "o": [
+        {
+          "hi": "फ्रेयॉन (Freon / Freon-12 - CF2Cl2)",
+          "en": "Freon (Freon-12 - CF2Cl2)"
+        },
+        {
+          "hi": "टेफ्लॉन",
+          "en": "Teflon"
+        },
+        {
+          "hi": "नायलॉन",
+          "en": "Nylon"
+        },
+        {
+          "hi": "बैकेलाइट",
+          "en": "Bakelite"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जहरीली शराब, जिसके पीने से व्यक्ति अंधा हो जाता है या मृत्यु हो जाती है, कौन-सी होती है?",
+        "en": "Toxic alcohol whose consumption leads to blindness and fatal poisoning is?"
+      },
+      "o": [
+        {
+          "hi": "एथिल अल्कोहल",
+          "en": "Ethyl alcohol"
+        },
+        {
+          "hi": "मेथिल अल्कोहल (Methyl Alcohol / Wood Spirit - CH3OH)",
+          "en": "Methyl Alcohol (Wood Spirit - CH3OH)"
+        },
+        {
+          "hi": "आइसोप्रोपिल अल्कोहल",
+          "en": "Isopropyl alcohol"
+        },
+        {
+          "hi": "ग्लिसरॉल",
+          "en": "Glycerol"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सामान्य मदिरा (शराब) और पेय पदार्थों में कौन-सा अल्कोहल उपस्थित होता है?",
+        "en": "Which potable alcohol is present in commercial alcoholic beverages and wines?"
+      },
+      "o": [
+        {
+          "hi": "मेथिल अल्कोहल",
+          "en": "Methyl alcohol"
+        },
+        {
+          "hi": "बेंजिल अल्कोहल",
+          "en": "Benzyl alcohol"
+        },
+        {
+          "hi": "एथिल अल्कोहल या एथेनॉल (Ethyl Alcohol - C2H5OH)",
+          "en": "Ethyl Alcohol / Ethanol (C2H5OH)"
+        },
+        {
+          "hi": "एथिलीन ग्लाइकॉल",
+          "en": "Ethylene glycol"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "औद्योगिक अल्कोहल को पीने योग्य न रखने के लिए उसमें मेथिल अल्कोहल व पिरिडीन मिलाना क्या कहलाता है?",
+        "en": "Denaturing ethanol by adding toxic methanol and pyridine to make it unfit for drinking is?"
+      },
+      "o": [
+        {
+          "hi": "आसवन",
+          "en": "Distillation"
+        },
+        {
+          "hi": "किण्वन",
+          "en": "Fermentation"
+        },
+        {
+          "hi": "पाश्चुरीकरण",
+          "en": "Pasteurization"
+        },
+        {
+          "hi": "अल्कोहल का विकृतीकरण (Denatured Alcohol / स्पिरिट)",
+          "en": "Denaturation of Alcohol"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जीव-जंतुओं और मृत शरीर के नमूनों को सड़ने से बचाने के लिए प्रयुक्त 'फॉर्मेलिन' क्या होता है?",
+        "en": "What is 'Formalin' used for preserving biological specimens in laboratories?"
+      },
+      "o": [
+        {
+          "hi": "फॉर्मेल्डिहाइड (HCHO) का 40% जलीय घोल",
+          "en": "40% aqueous solution of Formaldehyde (HCHO)"
+        },
+        {
+          "hi": "एसिटिक अम्ल का 10% घोल",
+          "en": "10% solution of Acetic acid"
+        },
+        {
+          "hi": "शुद्ध एसीटोन",
+          "en": "Pure Acetone"
+        },
+        {
+          "hi": "फॉर्मिक अम्ल का घोल",
+          "en": "Formic acid solution"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नाखूनों की पॉलिश छुड़ाने वाले 'नेल पॉलिश रिमूवर' (Nail Polish Remover) में क्या होता है?",
+        "en": "What organic solvent is the primary active ingredient in nail polish remover?"
+      },
+      "o": [
+        {
+          "hi": "क्लोरोफॉर्म",
+          "en": "Chloroform"
+        },
+        {
+          "hi": "एसीटोन या प्रोपेनोन (Acetone - CH3COCH3)",
+          "en": "Acetone / Propanone (CH3COCH3)"
+        },
+        {
+          "hi": "सिरका",
+          "en": "Vinegar"
+        },
+        {
+          "hi": "फॉर्मेलिन",
+          "en": "Formalin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लकड़ी के फर्नीचर पर चमक लाने वाली वार्निश और स्पिरिट पॉलिश में विलायक क्या होता है?",
+        "en": "Which organic liquid is commonly used as a solvent in shellac spirit polish?"
+      },
+      "o": [
+        {
+          "hi": "पानी",
+          "en": "Water"
+        },
+        {
+          "hi": "क्लोरोफॉर्म",
+          "en": "Chloroform"
+        },
+        {
+          "hi": "मेथिल अल्कोहल अथवा विकृत एथेनॉल",
+          "en": "Methyl alcohol or methylated spirit"
+        },
+        {
+          "hi": "केरोसिन",
+          "en": "Kerosene"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कीटनाशक डीडीटी (D.D.T.) का पूरा नाम क्या है?",
+        "en": "What is the full chemical name of the banned synthetic insecticide D.D.T.?"
+      },
+      "o": [
+        {
+          "hi": "डाइक्लोरो डाइफिनाइल ट्राईफ्लोरोएथेन",
+          "en": "Dichloro Diphenyl Trichloroethane"
+        },
+        {
+          "hi": "डाइक्लोरो डाइमिथाइल ट्राईक्लोरोएथेन",
+          "en": "Dichloro Dimethyl Trichloroethane"
+        },
+        {
+          "hi": "डाईएथिल डाइफिनाइल टॉलुइन",
+          "en": "Diethyl Diphenyl Toluene"
+        },
+        {
+          "hi": "डाइक्लोरो डाइफिनाइल ट्राईक्लोरोएथेन",
+          "en": "Dichloro Diphenyl Trichloroethane"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कीटनाशक गेमिक्सीन या लिंडेन (Gammaxene / Lindane) का सही रासायनिक नाम क्या है?",
+        "en": "What is the chemical name and formula of pesticide Gammaxene (Lindane)?"
+      },
+      "o": [
+        {
+          "hi": "बेंजीन हेक्साक्लोराइड (BHC - C6H6Cl6)",
+          "en": "Benzene Hexachloride (BHC - C6H6Cl6)"
+        },
+        {
+          "hi": "क्लोरोबेंजीन",
+          "en": "Chlorobenzene"
+        },
+        {
+          "hi": "हेक्साक्लोरोएथेन",
+          "en": "Hexachloroethane"
+        },
+        {
+          "hi": "ट्राइक्लोरोबेंजीन",
+          "en": "Trichlorobenzene"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रथम विश्व युद्ध में इस्तेमाल की गई विषैली मस्टर्ड गैस का रासायनिक नाम क्या है?",
+        "en": "What is the chemical name of the blistering chemical agent Mustard Gas?"
+      },
+      "o": [
+        {
+          "hi": "क्लोरोपिक्रिन",
+          "en": "Chloropicrin"
+        },
+        {
+          "hi": "डाइक्लोरोडाइएथिल सल्फाइड [(ClCH2CH2)2S]",
+          "en": "Dichloroethyl Sulfide [(ClCH2CH2)2S]"
+        },
+        {
+          "hi": "फॉस्जीन",
+          "en": "Phosgene"
+        },
+        {
+          "hi": "मिथाइल आइसोसाइनेट",
+          "en": "Methyl Isocyanate"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अश्रु गैस (Tear Gas) का एक प्रमुख रासायनिक संघटक कौन-सा है?",
+        "en": "Which organic nitro-chloro compound is commonly used in Tear Gas shells?"
+      },
+      "o": [
+        {
+          "hi": "क्लोरोफॉर्म",
+          "en": "Chloroform"
+        },
+        {
+          "hi": "एसीटोन",
+          "en": "Acetone"
+        },
+        {
+          "hi": "क्लोरोपिक्रिन (Chloropicrin - CCl3NO2)",
+          "en": "Chloropicrin (CCl3NO2)"
+        },
+        {
+          "hi": "बेंजीन",
+          "en": "Benzene"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रबर के पेड़ के दूधिया रस (Latex) से प्राकृतिक रबर का स्कंदन करने के लिए किस अम्ल का उपयोग होता है?",
+        "en": "Which acid is added to natural rubber latex to coagulate it into crude rubber?"
+      },
+      "o": [
+        {
+          "hi": "सल्फ्यूरिक अम्ल",
+          "en": "Sulfuric acid"
+        },
+        {
+          "hi": "हाइड्रोक्लोरिक अम्ल",
+          "en": "Hydrochloric acid"
+        },
+        {
+          "hi": "नाइट्रिक अम्ल",
+          "en": "Nitric acid"
+        },
+        {
+          "hi": "फॉर्मिक अम्ल या एसिटिक अम्ल (Formic Acid)",
+          "en": "Formic Acid or Acetic Acid"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्राकृतिक रबर (Natural Rubber) किसका एक बहुलक (Polymer) होता है?",
+        "en": "Natural rubber is an addition polymer of which hydrocarbon monomer?"
+      },
+      "o": [
+        {
+          "hi": "आइसोप्रीन का (Isoprene - 2-मिथाइल ब्यूटाडाईन)",
+          "en": "Isoprene (2-methyl-1,3-butadiene)"
+        },
+        {
+          "hi": "क्लोरोप्रीन का",
+          "en": "Chloroprene"
+        },
+        {
+          "hi": "नियोप्रीन का",
+          "en": "Neoprene"
+        },
+        {
+          "hi": "एथिलीन का",
+          "en": "Ethylene"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्राकृतिक रबर को कठोर, टिकाऊ और प्रत्यास्थ बनाने के लिए गंधक (सल्फर) के साथ गर्म करना क्या कहलाता है?",
+        "en": "Process of heating raw natural rubber with sulfur to improve elasticity is?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोजनीकरण",
+          "en": "Hydrogenation"
+        },
+        {
+          "hi": "वल्केनीकरण (Vulcanization - चार्ल्स गुडइयर)",
+          "en": "Vulcanization (Charles Goodyear)"
+        },
+        {
+          "hi": "साबुनीकरण",
+          "en": "Saponification"
+        },
+        {
+          "hi": "किण्वन",
+          "en": "Fermentation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बुलेटप्रूफ जैकेट और हेलमेट बनाने के लिए किस अत्यंत मजबूत सिंथेटिक बहुलक फाइबर का उपयोग होता है?",
+        "en": "Which high-strength synthetic aramid polymer fiber is used in bulletproof vests?"
+      },
+      "o": [
+        {
+          "hi": "नायलॉन-6,6",
+          "en": "Nylon-6,6"
+        },
+        {
+          "hi": "टेफ्लॉन",
+          "en": "Teflon"
+        },
+        {
+          "hi": "केवलर (Kevlar)",
+          "en": "Kevlar"
+        },
+        {
+          "hi": "डेक्रॉन",
+          "en": "Dacron"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नॉन-स्टिक बर्तनों (खाना न चिपकने वाले फ्राइंग पैन) पर किसकी परत चढ़ाई जाती है?",
+        "en": "Non-stick cooking utensils and frying pans are coated with which fluoropolymer?"
+      },
+      "o": [
+        {
+          "hi": "बैकेलाइट",
+          "en": "Bakelite"
+        },
+        {
+          "hi": "पीवीसी (PVC)",
+          "en": "PVC"
+        },
+        {
+          "hi": "पॉलीथीन",
+          "en": "Polythene"
+        },
+        {
+          "hi": "टेफ्लॉन (Teflon - पॉलीटेट्राफ्लोरोएथिलीन / PTFE)",
+          "en": "Teflon (PTFE)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बिजली के स्विच, प्लग और बर्तनों के हत्थे (हैंडल) बनाने में किस थर्मोसेटिंग प्लास्टिक का उपयोग होता है?",
+        "en": "Which heat-resistant thermosetting plastic is used for electrical switches & pan handles?"
+      },
+      "o": [
+        {
+          "hi": "बैकेलाइट (Bakelite - फिनोल व फॉर्मेल्डिहाइड से)",
+          "en": "Bakelite (Phenol and Formaldehyde)"
+        },
+        {
+          "hi": "टेफ्लॉन",
+          "en": "Teflon"
+        },
+        {
+          "hi": "पॉलीथीन",
+          "en": "Polythene"
+        },
+        {
+          "hi": "पीवीसी",
+          "en": "PVC"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बरसाती (Raincoat), खिलौने और पाइप बनाने में प्रयुक्त प्लास्टिक 'PVC' का पूरा नाम क्या है?",
+        "en": "What is the full chemical name of the widely used plastic polymer 'PVC'?"
+      },
+      "o": [
+        {
+          "hi": "पॉलीविनाइल कार्बोनेट",
+          "en": "Polyvinyl Carbonate"
+        },
+        {
+          "hi": "पॉलीविनाइल क्लोराइड (Polyvinyl Chloride)",
+          "en": "Polyvinyl Chloride"
+        },
+        {
+          "hi": "पॉलीविनाइल कार्बाइड",
+          "en": "Polyvinyl Carbide"
+        },
+        {
+          "hi": "पॉलीवांडर क्लोराइड",
+          "en": "Polyvander Chloride"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

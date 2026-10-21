@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - रसायन विज्ञान (Chemistry)",
+  "subtitle": "रासायनिक बंधन",
+  "description": "रासायनिक बंधन पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "परमाणुओं के मध्य इलेक्ट्रॉनों के स्थानांतरण या साझेदारी से बने रासायनिक आकर्षण को क्या कहते हैं?",
+        "en": "Force of attraction holding atoms together in a chemical molecule is called?"
+      },
+      "o": [
+        {
+          "hi": "वांडर वाल्स बल",
+          "en": "Van der Waals force"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण बल",
+          "en": "Gravitational force"
+        },
+        {
+          "hi": "रासायनिक बंध (Chemical Bond)",
+          "en": "Chemical Bond"
+        },
+        {
+          "hi": "नाभिकीय बल",
+          "en": "Nuclear force"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "परमाणु रासायनिक बंध क्यों बनाते हैं?",
+        "en": "Why do atoms combine chemically to form chemical bonds?"
+      },
+      "o": [
+        {
+          "hi": "ऊर्जा बढ़ाने के लिए",
+          "en": "To increase energy"
+        },
+        {
+          "hi": "परमाणु क्रमांक बदलने के लिए",
+          "en": "To change atomic number"
+        },
+        {
+          "hi": "इलेक्ट्रॉन खोने के लिए",
+          "en": "To lose electrons"
+        },
+        {
+          "hi": "अष्टक पूर्ण कर स्थायी विन्यास (न्यूनतम ऊर्जा) प्राप्त करने हेतु",
+          "en": "To attain stable inert gas octet (minimum energy)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रासायनिक संयोग का इलेक्ट्रॉनिक सिद्धांत और 'अष्टक नियम' (Octet Rule) किसने दिया था?",
+        "en": "Who proposed the electronic theory of valence and Octet Rule in 1916?"
+      },
+      "o": [
+        {
+          "hi": "डब्ल्यू. कोसेल और जी. एन. लुईस (Kossel & Lewis)",
+          "en": "W. Kossel & G.N. Lewis"
+        },
+        {
+          "hi": "जॉन डाल्टन ने",
+          "en": "John Dalton"
+        },
+        {
+          "hi": "नील्स बोर ने",
+          "en": "Niels Bohr"
+        },
+        {
+          "hi": "रदरफोर्ड ने",
+          "en": "Rutherford"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "परमाणुओं के बीच इलेक्ट्रॉनों के पूर्ण स्थानांतरण (Transfer) से बनने वाले बंध को क्या कहते हैं?",
+        "en": "Bond formed by complete transfer of electrons from one atom to another is?"
+      },
+      "o": [
+        {
+          "hi": "सहसंयोजी बंध",
+          "en": "Covalent bond"
+        },
+        {
+          "hi": "वैद्युत संयोजी या आयनिक बंध (Electrovalent / Ionic Bond)",
+          "en": "Electrovalent / Ionic Bond"
+        },
+        {
+          "hi": "उप-सहसंयोजी बंध",
+          "en": "Coordinate covalent bond"
+        },
+        {
+          "hi": "हाइड्रोजन बंध",
+          "en": "Hydrogen bond"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आयनिक बंध (विद्युत संयोजी बंध) किनके मध्य बनता है?",
+        "en": "Electrovalent / ionic bonds typically form between which atoms?"
+      },
+      "o": [
+        {
+          "hi": "दो अधातुओं के मध्य",
+          "en": "Between two non-metals"
+        },
+        {
+          "hi": "दो गैसों के मध्य",
+          "en": "Between two gases"
+        },
+        {
+          "hi": "एक धातु और एक अधातु के मध्य (विद्युत ऋणात्मकता में अधिक अंतर)",
+          "en": "Between a metal and a non-metal"
+        },
+        {
+          "hi": "दो समान परमाणुओं के मध्य",
+          "en": "Between identical atoms"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से किस यौगिक में आयनिक बंध (Ionic Bond) उपस्थित है?",
+        "en": "Which of the following compounds contains an electrovalent / ionic bond?"
+      },
+      "o": [
+        {
+          "hi": "मीथेन (CH4)",
+          "en": "Methane (CH4)"
+        },
+        {
+          "hi": "जल (H2O)",
+          "en": "Water (H2O)"
+        },
+        {
+          "hi": "अमोनिया (NH3)",
+          "en": "Ammonia (NH3)"
+        },
+        {
+          "hi": "सोडियम क्लोराइड (साधारण नमक - NaCl)",
+          "en": "Sodium Chloride (NaCl)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आयनिक यौगिकों (जैसे NaCl) के संबंध में कौन-सा कथन सत्य है?",
+        "en": "Which statement is characteristic of ionic crystalline compounds?"
+      },
+      "o": [
+        {
+          "hi": "इनके गलनांक और क्वथनांक उच्च होते हैं",
+          "en": "They have high melting & boiling points"
+        },
+        {
+          "hi": "ये कार्बनिक विलायकों में घुलनशील होते हैं",
+          "en": "Soluble in organic solvents"
+        },
+        {
+          "hi": "ये ठोस अवस्था में विद्युत के सुचालक होते हैं",
+          "en": "Conduct electricity in solid state"
+        },
+        {
+          "hi": "ये गैस रूप में पाए जाते हैं",
+          "en": "Exist as gases"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सोडियम क्लोराइड (NaCl) ठोस अवस्था में विद्युत का कुचालक होता है, परंतु गलित या जलीय अवस्था में सुचालक क्यों होता है?",
+        "en": "Why does solid NaCl not conduct electricity, while molten or aqueous NaCl does?"
+      },
+      "o": [
+        {
+          "hi": "ठोस में इलेक्ट्रॉन अधिक होते हैं",
+          "en": "Solid has more electrons"
+        },
+        {
+          "hi": "गलित या जलीय अवस्था में मुक्त आयन (Free Ions) उपस्थित होते हैं",
+          "en": "Free ions are present in molten/aqueous state"
+        },
+        {
+          "hi": "पानी विद्युत का सुचालक है",
+          "en": "Water conducts electricity"
+        },
+        {
+          "hi": "तापमान बढ़ जाता है",
+          "en": "Temperature rises"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दो परमाणुओं के बीच इलेक्ट्रॉनों की बराबर साझेदारी (Mutual Sharing) से बनने वाले बंध को क्या कहते हैं?",
+        "en": "Bond formed by mutual sharing of electrons between two bonding atoms is?"
+      },
+      "o": [
+        {
+          "hi": "आयनिक बंध",
+          "en": "Ionic bond"
+        },
+        {
+          "hi": "धात्विक बंध",
+          "en": "Metallic bond"
+        },
+        {
+          "hi": "सहसंयोजी बंध (Covalent Bond)",
+          "en": "Covalent Bond"
+        },
+        {
+          "hi": "हाइड्रोजन बंध",
+          "en": "Hydrogen bond"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सहसंयोजी बंध (Covalent Bond) का विचार सर्वप्रथम 1916 में किसने प्रस्तुत किया था?",
+        "en": "Who first introduced the concept of the covalent bond in 1916?"
+      },
+      "o": [
+        {
+          "hi": "फैराडे ने",
+          "en": "Faraday"
+        },
+        {
+          "hi": "डाल्टन ने",
+          "en": "Dalton"
+        },
+        {
+          "hi": "कोसेल ने",
+          "en": "Kossel"
+        },
+        {
+          "hi": "जी. एन. लुईस (G.N. Lewis) ने",
+          "en": "G.N. Lewis"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से किस अणु में एकल सहसंयोजी बंध (Single Covalent Bond) होता है?",
+        "en": "Which of the following molecules is held by a single covalent bond?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोजन अणु (H2 -> H - H)",
+          "en": "Hydrogen molecule (H2 -> H - H)"
+        },
+        {
+          "hi": "ऑक्सीजन अणु (O2)",
+          "en": "Oxygen molecule (O2)"
+        },
+        {
+          "hi": "नाइट्रोजन अणु (N2)",
+          "en": "Nitrogen molecule (N2)"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड (CO2)",
+          "en": "Carbon dioxide (CO2)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ऑक्सीजन के अणु (O2) में दोनों ऑक्सीजन परमाणुओं के बीच कितने सहसंयोजी बंध होते हैं?",
+        "en": "How many covalent bonds exist between two oxygen atoms in an O2 molecule?"
+      },
+      "o": [
+        {
+          "hi": "एकल बंध",
+          "en": "Single bond"
+        },
+        {
+          "hi": "द्वि-बंध (Double Bond -> O = O / 2 जोड़े इलेक्ट्रॉन)",
+          "en": "Double Bond (O = O / 2 electron pairs)"
+        },
+        {
+          "hi": "त्रि-बंध",
+          "en": "Triple bond"
+        },
+        {
+          "hi": "चार बंध",
+          "en": "Four bonds"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नाइट्रोजन के अणु (N2) में दोनों नाइट्रोजन परमाणुओं के मध्य कैसा बंध होता है?",
+        "en": "What type of covalent bond exists between nitrogen atoms in an N2 molecule?"
+      },
+      "o": [
+        {
+          "hi": "एकल बंध",
+          "en": "Single bond"
+        },
+        {
+          "hi": "द्वि-बंध",
+          "en": "Double bond"
+        },
+        {
+          "hi": "त्रि-बंध (Triple Bond -> N ≡ N / 3 जोड़े इलेक्ट्रॉन)",
+          "en": "Triple Bond (N ≡ N / 3 electron pairs)"
+        },
+        {
+          "hi": "आयनिक बंध",
+          "en": "Ionic bond"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मीथेन अणु (CH4) में कार्बन और हाइड्रोजन के मध्य कुल कितने एकल सहसंयोजी बंध होते हैं?",
+        "en": "How many single covalent C-H bonds are in a methane molecule (CH4)?"
+      },
+      "o": [
+        {
+          "hi": "1",
+          "en": "1"
+        },
+        {
+          "hi": "2",
+          "en": "2"
+        },
+        {
+          "hi": "3",
+          "en": "3"
+        },
+        {
+          "hi": "4 एकल सहसंयोजी बंध (4 C-H Single Bonds)",
+          "en": "4 C-H Single Bonds"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दो परमाणुओं के कक्षकों के सम्मुख (Head-on / अक्षीय) अतिव्यापन से बनने वाले मजबूत बंध को क्या कहते हैं?",
+        "en": "Strong covalent bond formed by end-to-end / head-on axial overlap of orbitals is?"
+      },
+      "o": [
+        {
+          "hi": "सिग्मा बंध (Sigma Bond - σ)",
+          "en": "Sigma Bond (σ)"
+        },
+        {
+          "hi": "पाई बंध (Pi Bond - π)",
+          "en": "Pi Bond (π)"
+        },
+        {
+          "hi": "हाइड्रोजन बंध",
+          "en": "Hydrogen bond"
+        },
+        {
+          "hi": "आयनिक बंध",
+          "en": "Ionic bond"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कक्षकों के पाश्विक (Lateral / Side-by-side) अतिव्यापन से बनने वाले अपेक्षाकृत दुर्बल बंध को क्या कहते हैं?",
+        "en": "Weaker covalent bond formed by lateral or sideways overlap of atomic orbitals is?"
+      },
+      "o": [
+        {
+          "hi": "सिग्मा बंध",
+          "en": "Sigma bond"
+        },
+        {
+          "hi": "पाई बंध (Pi Bond - π)",
+          "en": "Pi Bond (π)"
+        },
+        {
+          "hi": "धात्विक बंध",
+          "en": "Metallic bond"
+        },
+        {
+          "hi": "विद्युत संयोजी बंध",
+          "en": "Electrovalent bond"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सिग्मा (σ) और पाई (π) बंधों में से कौन-सा बंध अधिक मजबूत और स्थायी होता है?",
+        "en": "Between Sigma (σ) and Pi (π) bonds, which one is stronger and more stable?"
+      },
+      "o": [
+        {
+          "hi": "पाई बंध",
+          "en": "Pi bond"
+        },
+        {
+          "hi": "दोनों समान रूप से मजबूत हैं",
+          "en": "Both equally strong"
+        },
+        {
+          "hi": "सिग्मा बंध (अधिक अतिव्यापन के कारण)",
+          "en": "Sigma bond (due to greater extent of overlap)"
+        },
+        {
+          "hi": "तापमान पर निर्भर करता है",
+          "en": "Depends on temperature"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एक द्वि-बंध (Double Bond जैसे C = C) में कितने सिग्मा और कितने पाई बंध होते हैं?",
+        "en": "A double bond (e.g. C = C) consists of how many sigma and pi bonds?"
+      },
+      "o": [
+        {
+          "hi": "2 सिग्मा बंध",
+          "en": "2 sigma bonds"
+        },
+        {
+          "hi": "2 पाई बंध",
+          "en": "2 pi bonds"
+        },
+        {
+          "hi": "आधा सिग्मा और आधा पाई",
+          "en": "Half sigma & half pi"
+        },
+        {
+          "hi": "1 सिग्मा और 1 पाई बंध (1 σ and 1 π)",
+          "en": "1 sigma and 1 pi bond (1 σ and 1 π)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एक त्रि-बंध (Triple Bond जैसे N ≡ N या C ≡ C) में कितने सिग्मा और पाई बंध होते हैं?",
+        "en": "A triple bond (e.g. N ≡ N or acetylene) consists of what bonds?"
+      },
+      "o": [
+        {
+          "hi": "1 सिग्मा और 2 पाई बंध (1 σ and 2 π)",
+          "en": "1 sigma and 2 pi bonds (1 σ and 2 π)"
+        },
+        {
+          "hi": "2 सिग्मा और 1 पाई बंध",
+          "en": "2 sigma and 1 pi bond"
+        },
+        {
+          "hi": "3 सिग्मा बंध",
+          "en": "3 sigma bonds"
+        },
+        {
+          "hi": "3 पाई बंध",
+          "en": "3 pi bonds"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सहसंयोजी बंध जिसमें साझे का इलेक्ट्रॉन युग्म केवल एक ही परमाणु (दाता) द्वारा दिया जाता है, क्या कहलाता है?",
+        "en": "Dative bond where shared pair of electrons is contributed by only one partner is?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत संयोजी बंध",
+          "en": "Electrovalent bond"
+        },
+        {
+          "hi": "उप-सहसंयोजी बंध (Coordinate Covalent / Dative Bond)",
+          "en": "Coordinate Covalent / Dative Bond"
+        },
+        {
+          "hi": "हाइड्रोजन बंध",
+          "en": "Hydrogen bond"
+        },
+        {
+          "hi": "धात्विक बंध",
+          "en": "Metallic bond"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से किस आयन या अणु में उप-सहसंयोजी बंध (Coordinate Bond) उपस्थित होता है?",
+        "en": "In which of the following ions/molecules is a coordinate covalent bond present?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम क्लोराइड (NaCl)",
+          "en": "Sodium chloride (NaCl)"
+        },
+        {
+          "hi": "मीथेन (CH4)",
+          "en": "Methane (CH4)"
+        },
+        {
+          "hi": "अमोनियम आयन (NH4⁺) एवं ओजोन (O3)",
+          "en": "Ammonium ion (NH4⁺) and Ozone (O3)"
+        },
+        {
+          "hi": "हाइड्रोजन गैस (H2)",
+          "en": "Hydrogen gas (H2)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अमोनियम क्लोराइड (नौसादर - NH4Cl) में कौन-कौन से बंध उपस्थित होते हैं?",
+        "en": "Which types of chemical bonds are simultaneously present in Ammonium Chloride (NH4Cl)?"
+      },
+      "o": [
+        {
+          "hi": "केवल सहसंयोजी बंध",
+          "en": "Only covalent bond"
+        },
+        {
+          "hi": "केवल आयनिक बंध",
+          "en": "Only ionic bond"
+        },
+        {
+          "hi": "केवल उप-सहसंयोजी बंध",
+          "en": "Only coordinate bond"
+        },
+        {
+          "hi": "आयनिक, सहसंयोजी और उप-सहसंयोजी तीनों बंध",
+          "en": "All three: Ionic, Covalent and Coordinate"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समान ऊर्जा वाले विभिन्न परमाण्विक कक्षकों के मिलकर समान ऊर्जा व आकार के नए कक्षक बनाना क्या कहलाता है?",
+        "en": "Intermixing of atomic orbitals of comparable energy to form new hybrid orbitals is?"
+      },
+      "o": [
+        {
+          "hi": "संकरण (Hybridization)",
+          "en": "Hybridization"
+        },
+        {
+          "hi": "ध्रुवण",
+          "en": "Polarization"
+        },
+        {
+          "hi": "आयनीकरण",
+          "en": "Ionization"
+        },
+        {
+          "hi": "अनुनाद",
+          "en": "Resonance"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मीथेन अणु (CH4) में कार्बन परमाणु का संकरण (Hybridization) क्या होता है?",
+        "en": "What is the hybridization state of the central carbon atom in Methane (CH4)?"
+      },
+      "o": [
+        {
+          "hi": "sp",
+          "en": "sp"
+        },
+        {
+          "hi": "sp³ (चतुष्फलकीय - Tetrahedral)",
+          "en": "sp³ (Tetrahedral)"
+        },
+        {
+          "hi": "sp² (त्रिकोणीय समतल)",
+          "en": "sp² (Trigonal planar)"
+        },
+        {
+          "hi": "dsp² (वर्ग समतल)",
+          "en": "dsp² (Square planar)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मीथेन अणु (CH4) की ज्यामितीय आकृति कैसी होती है और बंध कोण कितना होता है?",
+        "en": "What is the geometry and bond angle in a methane molecule (CH4)?"
+      },
+      "o": [
+        {
+          "hi": "समतल, 120°",
+          "en": "Planar, 120°"
+        },
+        {
+          "hi": "रेखीय, 180°",
+          "en": "Linear, 180°"
+        },
+        {
+          "hi": "चतुष्फलकीय (Tetrahedral) तथा 109°28' (109.5°)",
+          "en": "Tetrahedral and 109°28' (109.5°)"
+        },
+        {
+          "hi": "पिरामिडीय, 90°",
+          "en": "Pyramidal, 90°"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एथिलीन अणु (C2H4 / Ethene) में कार्बन परमाणुओं का संकरण क्या होता है?",
+        "en": "What is hybridization state of carbon atoms in Ethylene (C2H4)?"
+      },
+      "o": [
+        {
+          "hi": "sp",
+          "en": "sp"
+        },
+        {
+          "hi": "sp³",
+          "en": "sp³"
+        },
+        {
+          "hi": "sp³d",
+          "en": "sp³d"
+        },
+        {
+          "hi": "sp² (त्रिकोणीय समतल / 120°)",
+          "en": "sp² (Trigonal planar / 120°)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एसिटिलीन अणु (C2H2 / Ethyne) में कार्बन का संकरण और अणु की आकृति कैसी होती है?",
+        "en": "What is hybridization and geometry of carbon in Acetylene (C2H2)?"
+      },
+      "o": [
+        {
+          "hi": "sp संकरण और रेखीय आकृति (Linear / 180°)",
+          "en": "sp hybridization and linear geometry (180°)"
+        },
+        {
+          "hi": "sp² संकरण और त्रिकोणीय",
+          "en": "sp² and trigonal"
+        },
+        {
+          "hi": "sp³ संकरण और चतुष्फलकीय",
+          "en": "sp³ and tetrahedral"
+        },
+        {
+          "hi": "dsp² संकरण और वर्ग समतल",
+          "en": "dsp² and square planar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जल के अणु (H2O) में ऑक्सीजन परमाणु पर कितने एकाकी इलेक्ट्रॉन युग्म (Lone Pairs) होते हैं?",
+        "en": "How many lone pairs of electrons are present on oxygen in a water molecule (H2O)?"
+      },
+      "o": [
+        {
+          "hi": "1",
+          "en": "1"
+        },
+        {
+          "hi": "2 एकाकी युग्म (2 Lone Pairs)",
+          "en": "2 Lone Pairs"
+        },
+        {
+          "hi": "3",
+          "en": "3"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जल के अणु (H2O) की वास्तविक आकृति कैसी होती है?",
+        "en": "What is the actual molecular shape of a water molecule (H2O)?"
+      },
+      "o": [
+        {
+          "hi": "रेखीय (Linear)",
+          "en": "Linear"
+        },
+        {
+          "hi": "चतुष्फलकीय (Tetrahedral)",
+          "en": "Tetrahedral"
+        },
+        {
+          "hi": "मुड़ी हुई या V-आकार (V-shaped / Bent / 104.5°)",
+          "en": "V-shaped / Bent (104.5°)"
+        },
+        {
+          "hi": "त्रिकोणीय समतल",
+          "en": "Trigonal planar"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अमोनिया अणु (NH3) की वास्तविक आणविक आकृति कैसी होती है?",
+        "en": "What is the actual molecular geometry of an Ammonia molecule (NH3)?"
+      },
+      "o": [
+        {
+          "hi": "चतुष्फलकीय",
+          "en": "Tetrahedral"
+        },
+        {
+          "hi": "रेखीय",
+          "en": "Linear"
+        },
+        {
+          "hi": "समतल त्रिकोणीय",
+          "en": "Trigonal planar"
+        },
+        {
+          "hi": "त्रिकोणीय पिरामिडीय (Trigonal Pyramidal / 107°)",
+          "en": "Trigonal Pyramidal (107°)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अत्यधिक विद्युत ऋणात्मक तत्व (F, O, N) से जुड़े हाइड्रोजन परमाणु का अन्य ऋणात्मक परमाणु से आकर्षण क्या कहलाता है?",
+        "en": "Attractive interaction of hydrogen bound to F, O or N with another electronegative atom is?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोजन बंध (Hydrogen Bond)",
+          "en": "Hydrogen Bond"
+        },
+        {
+          "hi": "आयनिक बंध",
+          "en": "Ionic bond"
+        },
+        {
+          "hi": "सहसंयोजी बंध",
+          "en": "Covalent bond"
+        },
+        {
+          "hi": "धात्विक बंध",
+          "en": "Metallic bond"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन बंध (H-bond) किन तीन सर्वाधिक विद्युत ऋणात्मक तत्वों के साथ बनता है?",
+        "en": "Hydrogen bonding occurs predominantly with which three highly electronegative elements?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन, सल्फर और क्लोरीन",
+          "en": "Carbon, Sulfur and Chlorine"
+        },
+        {
+          "hi": "फ्लोरीन (F), ऑक्सीजन (O) और नाइट्रोजन (N) - [FON]",
+          "en": "Fluorine (F), Oxygen (O) & Nitrogen (N) [FON]"
+        },
+        {
+          "hi": "सोडियम, पोटेशियम और मैग्नीशियम",
+          "en": "Sodium, Potassium and Magnesium"
+        },
+        {
+          "hi": "हीलियम, नियॉन और ऑर्गन",
+          "en": "Helium, Neon and Argon"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सामान्य तापमान पर जल (H2O) द्रव है, जबकि हाइड्रोजन सल्फाइड (H2S) एक गैस है, इसका मुख्य कारण क्या है?",
+        "en": "Water (H2O) is liquid at room temp while H2S is gas. What is primary reason?"
+      },
+      "o": [
+        {
+          "hi": "सल्फर भारी होता है",
+          "en": "Sulfur is heavier"
+        },
+        {
+          "hi": "जल का घनत्व अधिक है",
+          "en": "Water has higher density"
+        },
+        {
+          "hi": "जल के अणुओं के मध्य अंतरा-आणविक हाइड्रोजन बंध का होना",
+          "en": "Presence of intermolecular hydrogen bonds in water"
+        },
+        {
+          "hi": "H2S में सहसंयोजी बंध कमजोर है",
+          "en": "H2S has weaker covalent bond"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बर्फ का घनत्व जल के घनत्व से कम क्यों होता है जिससे बर्फ पानी पर तैरती है?",
+        "en": "Why is ice less dense than liquid water allowing it to float?"
+      },
+      "o": [
+        {
+          "hi": "बर्फ में वायु भरी होती है",
+          "en": "Air trapped in ice"
+        },
+        {
+          "hi": "बर्फ भारी होती है",
+          "en": "Ice is heavier"
+        },
+        {
+          "hi": "बर्फ का तापमान शून्य होता है",
+          "en": "Ice is at 0°C"
+        },
+        {
+          "hi": "हाइड्रोजन बंधों के कारण बर्फ में खुली पिंजरे जैसी त्रिविम संरचना बनती है",
+          "en": "Hydrogen bonding forms open cage-like lattice in ice"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से सबसे मजबूत हाइड्रोजन बंध (Strongest H-bond) किसमें पाया जाता है?",
+        "en": "In which of the following compounds is the strongest hydrogen bonding formed?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोजन फ्लोराइड में (H - F में)",
+          "en": "In Hydrogen Fluoride (H - F)"
+        },
+        {
+          "hi": "जल में (H2O)",
+          "en": "In Water (H2O)"
+        },
+        {
+          "hi": "अमोनिया में (NH3)",
+          "en": "In Ammonia (NH3)"
+        },
+        {
+          "hi": "अल्कोहल में",
+          "en": "In Alcohol"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जब हाइड्रोजन बंध एक ही अणु के दो अलग-अलग परमाणुओं के बीच बनता है, तो उसे क्या कहते हैं?",
+        "en": "Hydrogen bonding occurring within the very same molecule is called?"
+      },
+      "o": [
+        {
+          "hi": "अंतरा-आणविक हाइड्रोजन बंध",
+          "en": "Intermolecular H-bond"
+        },
+        {
+          "hi": "अंतः-आणविक हाइड्रोजन बंध (Intramolecular H-bond)",
+          "en": "Intramolecular H-bond"
+        },
+        {
+          "hi": "आयनिक हाइड्रोजन बंध",
+          "en": "Ionic H-bond"
+        },
+        {
+          "hi": "वांडर वाल्स बंध",
+          "en": "Van der Waals bond"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अंतः-आणविक हाइड्रोजन बंध (Intramolecular H-bond) का प्रसिद्ध उदाहरण कौन-सा है?",
+        "en": "Which compound exhibits intramolecular hydrogen bonding?"
+      },
+      "o": [
+        {
+          "hi": "जल (H2O)",
+          "en": "Water (H2O)"
+        },
+        {
+          "hi": "एथिल अल्कोहल",
+          "en": "Ethyl alcohol"
+        },
+        {
+          "hi": "ऑर्थो-नाइट्रोफिनोल (o-Nitrophenol)",
+          "en": "o-Nitrophenol"
+        },
+        {
+          "hi": "अमोनिया",
+          "en": "Ammonia"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अणुओं के मध्य लगने वाले दुर्बल आकर्षण बलों को क्या कहा जाता है?",
+        "en": "Weak non-covalent attractive intermolecular forces between neutral molecules are?"
+      },
+      "o": [
+        {
+          "hi": "आयनिक बल",
+          "en": "Ionic forces"
+        },
+        {
+          "hi": "प्रबल नाभिकीय बल",
+          "en": "Strong nuclear forces"
+        },
+        {
+          "hi": "स्थिर विद्युत बल",
+          "en": "Electrostatic forces"
+        },
+        {
+          "hi": "वांडर वाल्स बल (Van der Waals Forces)",
+          "en": "Van der Waals Forces"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अक्रिय गैसों (जैसे He, Ne, Ar) के परमाणुओं के बीच कौन-सा दुर्बल बल कार्य करता है?",
+        "en": "Which weak attractive force operates between non-polar noble gas atoms?"
+      },
+      "o": [
+        {
+          "hi": "परिक्षेपण बल / लंदन बल (London Dispersion Forces)",
+          "en": "London Dispersion Forces"
+        },
+        {
+          "hi": "आयनिक बंध",
+          "en": "Ionic bond"
+        },
+        {
+          "hi": "सहसंयोजी बंध",
+          "en": "Covalent bond"
+        },
+        {
+          "hi": "हाइड्रोजन बंध",
+          "en": "Hydrogen bond"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "धात्विक क्रिस्टलों में धातुओं के धनायनों को मुक्त गतिशील इलेक्ट्रॉनों के समुद्र में बांधने वाला बंध क्या कहलाता है?",
+        "en": "Bond holding metal cations together within a sea of delocalized valence electrons is?"
+      },
+      "o": [
+        {
+          "hi": "आयनिक बंध",
+          "en": "Ionic bond"
+        },
+        {
+          "hi": "धात्विक बंध (Metallic Bond)",
+          "en": "Metallic Bond"
+        },
+        {
+          "hi": "सहसंयोजी बंध",
+          "en": "Covalent bond"
+        },
+        {
+          "hi": "वांडर वाल्स बंध",
+          "en": "Van der Waals bond"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "धातुओं में विद्युत और ऊष्मा की उच्च चालकता तथा धात्विक चमक का मुख्य कारण क्या है?",
+        "en": "High electrical and thermal conductivity of metals is primarily due to what?"
+      },
+      "o": [
+        {
+          "hi": "नाभिकीय बल",
+          "en": "Nuclear forces"
+        },
+        {
+          "hi": "उच्च घनत्व",
+          "en": "High density"
+        },
+        {
+          "hi": "मुक्त एवं गतिशील इलेक्ट्रॉनों की उपस्थिति (Free Mobile Electrons)",
+          "en": "Presence of free mobile electrons"
+        },
+        {
+          "hi": "कठोर क्रिस्टल जालक",
+          "en": "Rigid crystal lattice"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कार्बन डाइऑक्साइड (CO2) का अणु कैसा होता है?",
+        "en": "What is the molecular polarity and geometry of carbon dioxide (CO2)?"
+      },
+      "o": [
+        {
+          "hi": "ध्रुवीय और मुड़ा हुआ",
+          "en": "Polar and bent"
+        },
+        {
+          "hi": "आयनिक और समतल",
+          "en": "Ionic and planar"
+        },
+        {
+          "hi": "अध्रुवीय और त्रिकोणीय",
+          "en": "Non-polar and trigonal"
+        },
+        {
+          "hi": "अध्रुवीय और रेखीय (Non-polar & Linear - 180°)",
+          "en": "Non-polar and Linear (180°)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किसी अणु के द्विध्रुव आघूर्ण (Dipole Moment - μ) का मात्रक क्या होता है?",
+        "en": "What is the common non-SI unit of molecular dipole moment?"
+      },
+      "o": [
+        {
+          "hi": "डिबाई (Debye - D)",
+          "en": "Debye (D)"
+        },
+        {
+          "hi": "फैराड",
+          "en": "Farad"
+        },
+        {
+          "hi": "कूलॉम",
+          "en": "Coulomb"
+        },
+        {
+          "hi": "टेस्ला",
+          "en": "Tesla"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हीरे (Diamond) में प्रत्येक कार्बन परमाणु अन्य कितने कार्बन परमाणुओं से सहसंयोजी रूप से जुड़ा होता है?",
+        "en": "In diamond, each carbon atom is covalently bonded to how many other carbon atoms?"
+      },
+      "o": [
+        {
+          "hi": "3",
+          "en": "3"
+        },
+        {
+          "hi": "4 कार्बन परमाणुओं से (sp³ चतुष्फलकीय जालक)",
+          "en": "4 carbon atoms (sp³ tetrahedral network)"
+        },
+        {
+          "hi": "6",
+          "en": "6"
+        },
+        {
+          "hi": "2",
+          "en": "2"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ग्रेफाइट (Graphite) में कार्बन का संकरण क्या होता है और इसकी परतदार संरचना कैसी होती है?",
+        "en": "What is hybridization and layer structure of carbon in graphite?"
+      },
+      "o": [
+        {
+          "hi": "sp और रेखीय",
+          "en": "sp and linear"
+        },
+        {
+          "hi": "sp³ और चतुष्फलकीय",
+          "en": "sp³ and tetrahedral"
+        },
+        {
+          "hi": "sp² और षट्कोणीय परतदार (Hexagonal Planar Layers)",
+          "en": "sp² and Hexagonal Planar Layers"
+        },
+        {
+          "hi": "dsp² और वर्गाकार",
+          "en": "dsp² and square"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ग्रेफाइट विद्युत का अच्छा सुचालक क्यों होता है जबकि हीरा कुचालक होता है?",
+        "en": "Why does graphite conduct electricity whereas diamond is an insulator?"
+      },
+      "o": [
+        {
+          "hi": "ग्रेफाइट मुलायम होता है",
+          "en": "Graphite is soft"
+        },
+        {
+          "hi": "ग्रेफाइट काला होता है",
+          "en": "Graphite is black"
+        },
+        {
+          "hi": "ग्रेफाइट में घनत्व कम है",
+          "en": "Graphite has lower density"
+        },
+        {
+          "hi": "ग्रेफाइट की परतों में प्रति कार्बन एक मुक्त (विस्थानीकृत) इलेक्ट्रॉन उपस्थित होता है",
+          "en": "Presence of one delocalized free electron per carbon"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दो समान अधातु परमाणुओं (जैसे Cl2, O2) के बीच बनने वाला सहसंयोजी बंध कैसा होता है?",
+        "en": "Covalent bond between two identical non-metal atoms (e.g. Cl2) is of which type?"
+      },
+      "o": [
+        {
+          "hi": "अध्रुवीय सहसंयोजी बंध (Non-polar Covalent Bond)",
+          "en": "Non-polar Covalent Bond"
+        },
+        {
+          "hi": "ध्रुवीय सहसंयोजी बंध",
+          "en": "Polar covalent bond"
+        },
+        {
+          "hi": "आयनिक बंध",
+          "en": "Ionic bond"
+        },
+        {
+          "hi": "उप-सहसंयोजी बंध",
+          "en": "Coordinate bond"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दो भिन्न विद्युत ऋणात्मकता वाले परमाणुओं (जैसे HCl) के बीच बनने वाला सहसंयोजी बंध कैसा होता है?",
+        "en": "Covalent bond between two atoms of different electronegativities (e.g. HCl) is?"
+      },
+      "o": [
+        {
+          "hi": "अध्रुवीय सहसंयोजी",
+          "en": "Non-polar covalent"
+        },
+        {
+          "hi": "ध्रुवीय सहसंयोजी बंध (Polar Covalent Bond)",
+          "en": "Polar Covalent Bond"
+        },
+        {
+          "hi": "शुद्ध आयनिक बंध",
+          "en": "Pure ionic bond"
+        },
+        {
+          "hi": "धात्विक बंध",
+          "en": "Metallic bond"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से किस अणु का शुद्ध द्विध्रुव आघूर्ण शून्य (Zero Dipole Moment) होता है?",
+        "en": "Which of the following symmetrical molecules has a net dipole moment of zero?"
+      },
+      "o": [
+        {
+          "hi": "जल (H2O)",
+          "en": "Water (H2O)"
+        },
+        {
+          "hi": "अमोनिया (NH3)",
+          "en": "Ammonia (NH3)"
+        },
+        {
+          "hi": "कार्बन टेट्राक्लोराइड (CCl4) एवं मीथेन (CH4)",
+          "en": "Carbon Tetrachloride (CCl4) and Methane (CH4)"
+        },
+        {
+          "hi": "सल्फर डाइऑक्साइड (SO2)",
+          "en": "Sulfur dioxide (SO2)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संकरण की अवधारणा सर्वप्रथम किस वैज्ञानिक ने प्रस्तुत की थी?",
+        "en": "Who first introduced the concept of atomic orbital hybridization in 1931?"
+      },
+      "o": [
+        {
+          "hi": "नील्स बोर",
+          "en": "Niels Bohr"
+        },
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "जे. जे. थॉमसन",
+          "en": "J.J. Thomson"
+        },
+        {
+          "hi": "लाइनस पॉलिंग (Linus Pauling - 1954 नोबेल पुरस्कार)",
+          "en": "Linus Pauling (1954 Nobel)"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}
