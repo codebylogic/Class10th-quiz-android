@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विविध (Miscellaneous)",
+  "subtitle": "भारत के सैनिक प्रशिक्षण संस्थान",
+  "description": "भारत के सैनिक प्रशिक्षण संस्थान पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "राष्ट्रीय रक्षा अकादमी (NDA - National Defence Academy) कहाँ स्थित है?",
+        "en": "Where is the National Defence Academy (NDA) located in India?"
+      },
+      "o": [
+        {
+          "hi": "खड़कवासला (पुणे, महाराष्ट्र)",
+          "en": "Khadakwasla (Pune, Maharashtra)"
+        },
+        {
+          "hi": "देहरादून (उत्तराखंड)",
+          "en": "Dehradun (Uttarakhand)"
+        },
+        {
+          "hi": "महू (मध्य प्रदेश)",
+          "en": "Mhow (Madhya Pradesh)"
+        },
+        {
+          "hi": "वेलिंगटन (तमिलनाडु)",
+          "en": "Wellington (Tamil Nadu)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय सैन्य अकादमी (IMA - Indian Military Academy) कहाँ स्थित है?",
+        "en": "Where is the Indian Military Academy (IMA) situated?"
+      },
+      "o": [
+        {
+          "hi": "खड़कवासला (महाराष्ट्र)",
+          "en": "Khadakwasla (Maharashtra)"
+        },
+        {
+          "hi": "देहरादून (उत्तराखंड)",
+          "en": "Dehradun (Uttarakhand)"
+        },
+        {
+          "hi": "गया (बिहार)",
+          "en": "Gaya (Bihar)"
+        },
+        {
+          "hi": "शिमला (हिमाचल प्रदेश)",
+          "en": "Shimla (Himachal Pradesh)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय सैन्य अकादमी (IMA) की स्थापना किस वर्ष हुई थी?",
+        "en": "In which year was the Indian Military Academy (IMA) established?"
+      },
+      "o": [
+        {
+          "hi": "1948",
+          "en": "1948"
+        },
+        {
+          "hi": "1954",
+          "en": "1954"
+        },
+        {
+          "hi": "1932 (1 अक्टूबर)",
+          "en": "1932 (1 October)"
+        },
+        {
+          "hi": "1922",
+          "en": "1922"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अधिकारी प्रशिक्षण अकादमी (OTA - Officers Training Academy) कहाँ स्थित है?",
+        "en": "Where is the primary Officers Training Academy (OTA) located?"
+      },
+      "o": [
+        {
+          "hi": "देहरादून (उत्तराखंड)",
+          "en": "Dehradun (Uttarakhand)"
+        },
+        {
+          "hi": "पुणे (महाराष्ट्र)",
+          "en": "Pune (Maharashtra)"
+        },
+        {
+          "hi": "बेंगलुरु (कर्नाटक)",
+          "en": "Bengaluru (Karnataka)"
+        },
+        {
+          "hi": "चेन्नई (तमिलनाडु)",
+          "en": "Chennai (Tamil Nadu)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रीय रक्षा कॉलेज (NDC - National Defence College) कहाँ स्थित है?",
+        "en": "Where is the National Defence College (NDC) located?"
+      },
+      "o": [
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "देहरादून",
+          "en": "Dehradun"
+        },
+        {
+          "hi": "पुणे",
+          "en": "Pune"
+        },
+        {
+          "hi": "हैदराबाद",
+          "en": "Hyderabad"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "डिफेंस सर्विसेज स्टाफ कॉलेज (DSSC) कहाँ स्थित है?",
+        "en": "Where is the Defence Services Staff College (DSSC) located?"
+      },
+      "o": [
+        {
+          "hi": "खड़कवासला (महाराष्ट्र)",
+          "en": "Khadakwasla (Maharashtra)"
+        },
+        {
+          "hi": "वेलिंगटन (नीलगिरि, तमिलनाडु)",
+          "en": "Wellington (Nilgiris, Tamil Nadu)"
+        },
+        {
+          "hi": "महू (मध्य प्रदेश)",
+          "en": "Mhow (Madhya Pradesh)"
+        },
+        {
+          "hi": "सिकंदराबाद (तेलंगाना)",
+          "en": "Secunderabad (Telangana)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कॉलेज ऑफ डिफेंस मैनेजमेंट (CDM) कहाँ स्थित है?",
+        "en": "Where is the College of Defence Management (CDM) located?"
+      },
+      "o": [
+        {
+          "hi": "हैदराबाद (तेलंगाना)",
+          "en": "Hyderabad (Telangana)"
+        },
+        {
+          "hi": "बेंगलुरु (कर्नाटक)",
+          "en": "Bengaluru (Karnataka)"
+        },
+        {
+          "hi": "सिकंदराबाद (तेलंगाना)",
+          "en": "Secunderabad (Telangana)"
+        },
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रीय भारतीय सैन्य कॉलेज (RIMC) कहाँ स्थित है?",
+        "en": "Where is Rashtriya Indian Military College (RIMC) located?"
+      },
+      "o": [
+        {
+          "hi": "अजमेर (राजस्थान)",
+          "en": "Ajmer (Rajasthan)"
+        },
+        {
+          "hi": "धौलपुर (राजस्थान)",
+          "en": "Dholpur (Rajasthan)"
+        },
+        {
+          "hi": "शिमला",
+          "en": "Shimla"
+        },
+        {
+          "hi": "देहरादून (उत्तराखंड, 1922)",
+          "en": "Dehradun (Uttarakhand, 1922)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इन्फैंट्री स्कूल (The Infantry School) कहाँ स्थित है?",
+        "en": "Where is the premier Infantry School of Indian Army situated?"
+      },
+      "o": [
+        {
+          "hi": "महू (इंदौर, मध्य प्रदेश)",
+          "en": "Mhow (Indore, Madhya Pradesh)"
+        },
+        {
+          "hi": "बेलगाम (कर्नाटक)",
+          "en": "Belgaum (Karnataka)"
+        },
+        {
+          "hi": "देहरादून",
+          "en": "Dehradun"
+        },
+        {
+          "hi": "जबलपुर",
+          "en": "Jabalpur"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आर्मी वॉर कॉलेज (Army War College) कहाँ स्थित है?",
+        "en": "Where is the Army War College located?"
+      },
+      "o": [
+        {
+          "hi": "पुणे (महाराष्ट्र)",
+          "en": "Pune (Maharashtra)"
+        },
+        {
+          "hi": "महू (इंदौर, मध्य प्रदेश)",
+          "en": "Mhow (Indore, Madhya Pradesh)"
+        },
+        {
+          "hi": "शिमला (हिमाचल प्रदेश)",
+          "en": "Shimla (Himachal Pradesh)"
+        },
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बख्तरबंद कोर केंद्र एवं स्कूल (ACC&S) कहाँ स्थित है?",
+        "en": "Where is the Armoured Corps Centre and School located?"
+      },
+      "o": [
+        {
+          "hi": "महू (मध्य प्रदेश)",
+          "en": "Mhow (Madhya Pradesh)"
+        },
+        {
+          "hi": "झांसी (उत्तर प्रदेश)",
+          "en": "Jhansi (Uttar Pradesh)"
+        },
+        {
+          "hi": "अहमदनगर (महाराष्ट्र)",
+          "en": "Ahmednagar (Maharashtra)"
+        },
+        {
+          "hi": "बबीना (उत्तर प्रदेश)",
+          "en": "Babina (Uttar Pradesh)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तोपखाना स्कूल (School of Artillery) कहाँ स्थित है?",
+        "en": "Where is the School of Artillery of Indian Army located?"
+      },
+      "o": [
+        {
+          "hi": "अहमदनगर (महाराष्ट्र)",
+          "en": "Ahmednagar (Maharashtra)"
+        },
+        {
+          "hi": "खड़की (पुणे)",
+          "en": "Khadki (Pune)"
+        },
+        {
+          "hi": "गोपालपुर (ओडिशा)",
+          "en": "Gopalpur (Odisha)"
+        },
+        {
+          "hi": "देवलाली (नासिक, महाराष्ट्र)",
+          "en": "Devlali (Nashik, Maharashtra)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कॉलेज ऑफ मिलिट्री इंजीनियरिंग (CME) कहाँ स्थित है?",
+        "en": "Where is the College of Military Engineering (CME) situated?"
+      },
+      "o": [
+        {
+          "hi": "पुणे / दापोड़ी (महाराष्ट्र)",
+          "en": "Pune / Dapodi (Maharashtra)"
+        },
+        {
+          "hi": "रुड़की (उत्तराखंड)",
+          "en": "Roorkee (Uttarakhand)"
+        },
+        {
+          "hi": "सिकंदराबाद",
+          "en": "Secunderabad"
+        },
+        {
+          "hi": "जबलपुर",
+          "en": "Jabalpur"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मिलिट्री कॉलेज ऑफ टेलीकम्युनिकेशन इंजीनियरिंग (MCTE) कहाँ है?",
+        "en": "Where is Military College of Telecommunication Engineering located?"
+      },
+      "o": [
+        {
+          "hi": "पुणे (महाराष्ट्र)",
+          "en": "Pune (Maharashtra)"
+        },
+        {
+          "hi": "महू (मध्य प्रदेश)",
+          "en": "Mhow (Madhya Pradesh)"
+        },
+        {
+          "hi": "जबलपुर (मध्य प्रदेश)",
+          "en": "Jabalpur (Madhya Pradesh)"
+        },
+        {
+          "hi": "सिकंदराबाद",
+          "en": "Secunderabad"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मिलिट्री कॉलेज ऑफ इलेक्ट्रॉनिक्स एंड मैकेनिकल इंजीनियरिंग (MCEME)?",
+        "en": "Where is the Military College of EME located?"
+      },
+      "o": [
+        {
+          "hi": "बेंगलुरु (कर्नाटक)",
+          "en": "Bengaluru (Karnataka)"
+        },
+        {
+          "hi": "पुणे (महाराष्ट्र)",
+          "en": "Pune (Maharashtra)"
+        },
+        {
+          "hi": "सिकंदराबाद (तेलंगाना)",
+          "en": "Secunderabad (Telangana)"
+        },
+        {
+          "hi": "वड़ोदरा (गुजरात)",
+          "en": "Vadodara (Gujarat)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आर्मी एयर डिफेंस कॉलेज (AADC) कहाँ स्थित है?",
+        "en": "Where is the Army Air Defence College located?"
+      },
+      "o": [
+        {
+          "hi": "देवलाली (महाराष्ट्र)",
+          "en": "Devlali (Maharashtra)"
+        },
+        {
+          "hi": "महू (मध्य प्रदेश)",
+          "en": "Mhow (Madhya Pradesh)"
+        },
+        {
+          "hi": "नासिक",
+          "en": "Nashik"
+        },
+        {
+          "hi": "गोपालपुर (गंजाम, ओडिशा)",
+          "en": "Gopalpur (Ganjam, Odisha)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हाई एल्टीट्यूड वॉरफेयर स्कूल (HAWS) कहाँ स्थित है?",
+        "en": "Where is the High Altitude Warfare School (HAWS) situated?"
+      },
+      "o": [
+        {
+          "hi": "गुलमर्ग (जम्मू-कश्मीर)",
+          "en": "Gulmarg (Jammu & Kashmir)"
+        },
+        {
+          "hi": "लेह (लद्दाख)",
+          "en": "Leh (Ladakh)"
+        },
+        {
+          "hi": "सियाचिन (लद्दाख)",
+          "en": "Siachen (Ladakh)"
+        },
+        {
+          "hi": "मनाली (हिमाचल प्रदेश)",
+          "en": "Manali (Himachal Pradesh)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "काउंटर इंसर्जेंसी एंड जंगल वॉरफेयर स्कूल (CIJWS) कहाँ स्थित है?",
+        "en": "Where is Counter Insurgency and Jungle Warfare School located?"
+      },
+      "o": [
+        {
+          "hi": "शिलांग (मेघालय)",
+          "en": "Shillong (Meghalaya)"
+        },
+        {
+          "hi": "वैरेंगटे (मिजोरम)",
+          "en": "Vairengte (Mizoram)"
+        },
+        {
+          "hi": "दीमापुर (नागालैंड)",
+          "en": "Dimapur (Nagaland)"
+        },
+        {
+          "hi": "तेजपुर (असम)",
+          "en": "Tezpur (Assam)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आर्मी एविएशन कॉर्प्स ट्रेनिंग स्कूल कहाँ स्थित है?",
+        "en": "Where is the Combat Army Aviation Training School (CATS) located?"
+      },
+      "o": [
+        {
+          "hi": "जोधपुर (राजस्थान)",
+          "en": "Jodhpur (Rajasthan)"
+        },
+        {
+          "hi": "अंबाला (हरियाणा)",
+          "en": "Ambala (Haryana)"
+        },
+        {
+          "hi": "नासिक (महाराष्ट्र)",
+          "en": "Nashik (Maharashtra)"
+        },
+        {
+          "hi": "बेंगलुरु",
+          "en": "Bengaluru"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय नौसेना अकादमी (INA - Indian Naval Academy) कहाँ है?",
+        "en": "Where is the Indian Naval Academy (INA) located?"
+      },
+      "o": [
+        {
+          "hi": "कोच्चि (केरल)",
+          "en": "Kochi (Kerala)"
+        },
+        {
+          "hi": "विशाखापत्तनम (आंध्र प्रदेश)",
+          "en": "Visakhapatnam (AP)"
+        },
+        {
+          "hi": "गोवा",
+          "en": "Goa"
+        },
+        {
+          "hi": "एझिमाला (कन्नूर, केरल)",
+          "en": "Ezhimala (Kannur, Kerala)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आई.एन.एस. चिल्का (नाविकों का बुनियादी प्रशिक्षण संस्थान) कहाँ है?",
+        "en": "Where is INS Chilka, basic training establishment for naval sailors, located?"
+      },
+      "o": [
+        {
+          "hi": "चिल्का (ओडिशा)",
+          "en": "Chilka (Odisha)"
+        },
+        {
+          "hi": "विशाखापत्तनम",
+          "en": "Visakhapatnam"
+        },
+        {
+          "hi": "कोच्चि",
+          "en": "Kochi"
+        },
+        {
+          "hi": "कोलकाता",
+          "en": "Kolkata"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आई.एन.एस. द्रोणाचार्य (नौसेना का तोपखाना स्कूल) कहाँ स्थित है?",
+        "en": "Where is INS Dronacharya, the naval gunnery school, located?"
+      },
+      "o": [
+        {
+          "hi": "मुंबई (महाराष्ट्र)",
+          "en": "Mumbai (Maharashtra)"
+        },
+        {
+          "hi": "कोच्चि (केरल)",
+          "en": "Kochi (Kerala)"
+        },
+        {
+          "hi": "विशाखापत्तनम",
+          "en": "Visakhapatnam"
+        },
+        {
+          "hi": "गोवा",
+          "en": "Goa"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आई.एन.एस. शिवाजी (नौसेना का इंजीनियरिंग कॉलेज) कहाँ स्थित है?",
+        "en": "Where is INS Shivaji, naval engineering premier training base, located?"
+      },
+      "o": [
+        {
+          "hi": "मुंबई (महाराष्ट्र)",
+          "en": "Mumbai (Maharashtra)"
+        },
+        {
+          "hi": "गोवा",
+          "en": "Goa"
+        },
+        {
+          "hi": "लोनावाला (पुणे, महाराष्ट्र)",
+          "en": "Lonavala (Pune, Maharashtra)"
+        },
+        {
+          "hi": "कोच्चि (केरल)",
+          "en": "Kochi (Kerala)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आई.एन.एस. वलसुरा (नौसेना का इलेक्ट्रिकल इंजीनियरिंग स्कूल) कहाँ है?",
+        "en": "Where is INS Valsura, premier electrical training establishment, situated?"
+      },
+      "o": [
+        {
+          "hi": "सूरत (गुजरात)",
+          "en": "Surat (Gujarat)"
+        },
+        {
+          "hi": "मुंबई",
+          "en": "Mumbai"
+        },
+        {
+          "hi": "कारवार",
+          "en": "Karwar"
+        },
+        {
+          "hi": "जामनगर (गुजरात)",
+          "en": "Jamnagar (Gujarat)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आई.एन.एस. सातवाहन (पनडुब्बी प्रशिक्षण संस्थान) कहाँ स्थित है?",
+        "en": "Where is INS Satavahana, the submarine training school, located?"
+      },
+      "o": [
+        {
+          "hi": "विशाखापत्तनम (आंध्र प्रदेश)",
+          "en": "Visakhapatnam (Andhra Pradesh)"
+        },
+        {
+          "hi": "कोच्चि (केरल)",
+          "en": "Kochi (Kerala)"
+        },
+        {
+          "hi": "मुंबई (महाराष्ट्र)",
+          "en": "Mumbai (Maharashtra)"
+        },
+        {
+          "hi": "पोर्ट ब्लेयर",
+          "en": "Port Blair"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आई.एन.एस. हंसा (नौसैनिक वायु स्टेशन) कहाँ स्थित है?",
+        "en": "Where is INS Hansa, premier naval air station and training base, located?"
+      },
+      "o": [
+        {
+          "hi": "कोच्चि (केरल)",
+          "en": "Kochi (Kerala)"
+        },
+        {
+          "hi": "डाबोलिम (गोवा)",
+          "en": "Dabolim (Goa)"
+        },
+        {
+          "hi": "विशाखापत्तनम",
+          "en": "Visakhapatnam"
+        },
+        {
+          "hi": "अरक्कोणम (तमिलनाडु)",
+          "en": "Arakkonam (Tamil Nadu)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वायु सेना अकादमी (AFA - Air Force Academy) कहाँ स्थित है?",
+        "en": "Where is the Air Force Academy (AFA) located?"
+      },
+      "o": [
+        {
+          "hi": "बेंगलुरु (कर्नाटक)",
+          "en": "Bengaluru (Karnataka)"
+        },
+        {
+          "hi": "तांबरम (चेन्नई)",
+          "en": "Tambaram (Chennai)"
+        },
+        {
+          "hi": "डुंडीगल (हैदराबाद, तेलंगाना)",
+          "en": "Dundigal (Hyderabad, Telangana)"
+        },
+        {
+          "hi": "बिदर (कर्नाटक)",
+          "en": "Bidar (Karnataka)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वायु सेना तकनीकी कॉलेज (AFTC - Air Force Technical College) कहाँ है?",
+        "en": "Where is the Air Force Technical College (AFTC) located?"
+      },
+      "o": [
+        {
+          "hi": "डुंडीगल (हैदराबाद)",
+          "en": "Dundigal (Hyderabad)"
+        },
+        {
+          "hi": "तांबरम (चेन्नई)",
+          "en": "Tambaram (Chennai)"
+        },
+        {
+          "hi": "पुणे",
+          "en": "Pune"
+        },
+        {
+          "hi": "जलाहल्ली (बेंगलुरु, कर्नाटक)",
+          "en": "Jalahalli (Bengaluru, Karnataka)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वायु सेना प्रशासनिक कॉलेज (AFAC) कहाँ स्थित है?",
+        "en": "Where is the Air Force Administrative College (AFAC) located?"
+      },
+      "o": [
+        {
+          "hi": "कोयम्बटूर (तमिलनाडु)",
+          "en": "Coimbatore (Tamil Nadu)"
+        },
+        {
+          "hi": "चेन्नई (तमिलनाडु)",
+          "en": "Chennai (Tamil Nadu)"
+        },
+        {
+          "hi": "बेंगलुरु (कर्नाटक)",
+          "en": "Bengaluru (Karnataka)"
+        },
+        {
+          "hi": "मैसूर (कर्नाटक)",
+          "en": "Mysuru (Karnataka)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पैराट्रूपर्स ट्रेनिंग स्कूल (PTS) वायु सेना का कहाँ स्थित है?",
+        "en": "Where is the Paratroopers Training School (PTS) of Indian Air Force located?"
+      },
+      "o": [
+        {
+          "hi": "ग्वालियर (मध्य प्रदेश)",
+          "en": "Gwalior (Madhya Pradesh)"
+        },
+        {
+          "hi": "आगरा (उत्तर प्रदेश)",
+          "en": "Agra (Uttar Pradesh)"
+        },
+        {
+          "hi": "हिंडन (गाजियाबाद)",
+          "en": "Hindon (Ghaziabad)"
+        },
+        {
+          "hi": "सरसावा (सहारनपुर)",
+          "en": "Sarsawa (Saharanpur)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फ्लाइंग इंस्ट्रक्टर्स स्कूल (FIS) कहाँ स्थित है?",
+        "en": "Where is the Flying Instructors School (FIS) of IAF situated?"
+      },
+      "o": [
+        {
+          "hi": "डुंडीगल (हैदराबाद)",
+          "en": "Dundigal (Hyderabad)"
+        },
+        {
+          "hi": "हाकिमपेट (हैदराबाद)",
+          "en": "Hakimpet (Hyderabad)"
+        },
+        {
+          "hi": "तांबरम (चेन्नई, तमिलनाडु)",
+          "en": "Tambaram (Chennai, Tamil Nadu)"
+        },
+        {
+          "hi": "बिदर (कर्नाटक)",
+          "en": "Bidar (Karnataka)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कॉलेज ऑफ एयर वॉरफेयर (CAW) कहाँ स्थित है?",
+        "en": "Where is the College of Air Warfare (CAW) located?"
+      },
+      "o": [
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "बेंगलुरु",
+          "en": "Bengaluru"
+        },
+        {
+          "hi": "गांधीनगर",
+          "en": "Gandhinagar"
+        },
+        {
+          "hi": "सिकंदराबाद (तेलंगाना)",
+          "en": "Secunderabad (Telangana)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आर्मी मेडिकल कॉर्प्स सेंटर एंड कॉलेज (AMC) कहाँ स्थित है?",
+        "en": "Where is the Army Medical Corps (AMC) Centre and College located?"
+      },
+      "o": [
+        {
+          "hi": "लखनऊ (उत्तर प्रदेश)",
+          "en": "Lucknow (Uttar Pradesh)"
+        },
+        {
+          "hi": "पुणे (महाराष्ट्र)",
+          "en": "Pune (Maharashtra)"
+        },
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "जबलपुर",
+          "en": "Jabalpur"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सशस्त्र बल मेडिकल कॉलेज (AFMC - Armed Forces Medical College) कहाँ है?",
+        "en": "Where is Armed Forces Medical College (AFMC) located?"
+      },
+      "o": [
+        {
+          "hi": "लखनऊ (उत्तर प्रदेश)",
+          "en": "Lucknow (Uttar Pradesh)"
+        },
+        {
+          "hi": "पुणे (महाराष्ट्र)",
+          "en": "Pune (Maharashtra)"
+        },
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "चंडीगढ़",
+          "en": "Chandigarh"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आर्मी डेंटल कॉर्प्स ट्रेनिंग कॉलेज कहाँ स्थित है?",
+        "en": "Where is the Army Dental Corps training institution located?"
+      },
+      "o": [
+        {
+          "hi": "पुणे (महाराष्ट्र)",
+          "en": "Pune (Maharashtra)"
+        },
+        {
+          "hi": "देहरादून",
+          "en": "Dehradun"
+        },
+        {
+          "hi": "लखनऊ (उत्तर प्रदेश)",
+          "en": "Lucknow (Uttar Pradesh)"
+        },
+        {
+          "hi": "मेरठ",
+          "en": "Meerut"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आर्मी सर्विस कॉर्प्स सेंटर एंड कॉलेज (ASC) कहाँ स्थित है?",
+        "en": "Where is Army Service Corps (ASC) Centre and College located?"
+      },
+      "o": [
+        {
+          "hi": "गया (बिहार)",
+          "en": "Gaya (Bihar)"
+        },
+        {
+          "hi": "मेरठ (उत्तर प्रदेश)",
+          "en": "Meerut (Uttar Pradesh)"
+        },
+        {
+          "hi": "सिकंदराबाद",
+          "en": "Secunderabad"
+        },
+        {
+          "hi": "बेंगलुरु (कर्नाटक)",
+          "en": "Bengaluru (Karnataka)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कॉर्प्स ऑफ मिलिट्री पुलिस सेंटर एंड स्कूल (CMP) कहाँ स्थित है?",
+        "en": "Where is the Corps of Military Police (CMP) Centre & School situated?"
+      },
+      "o": [
+        {
+          "hi": "बेंगलुरु (कर्नाटक)",
+          "en": "Bengaluru (Karnataka)"
+        },
+        {
+          "hi": "फैजाबाद (अयोध्या, UP)",
+          "en": "Faizabad (Ayodhya, UP)"
+        },
+        {
+          "hi": "जबलपुर (मध्य प्रदेश)",
+          "en": "Jabalpur (Madhya Pradesh)"
+        },
+        {
+          "hi": "पुणे",
+          "en": "Pune"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आर्मी ऑर्डनेंस कॉर्प्स सेंटर (AOC) कहाँ स्थित है?",
+        "en": "Where is the Army Ordnance Corps (AOC) Centre located?"
+      },
+      "o": [
+        {
+          "hi": "जबलपुर (मध्य प्रदेश)",
+          "en": "Jabalpur (Madhya Pradesh)"
+        },
+        {
+          "hi": "सिकंदराबाद (तेलंगाना)",
+          "en": "Secunderabad (Telangana)"
+        },
+        {
+          "hi": "आगरा (उत्तर प्रदेश)",
+          "en": "Agra (Uttar Pradesh)"
+        },
+        {
+          "hi": "पुणे",
+          "en": "Pune"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रिमाउंट वेटनरी कॉर्प्स सेंटर एंड स्कूल (RVC) कहाँ स्थित है?",
+        "en": "Where is Remount and Veterinary Corps (RVC) Centre & School located?"
+      },
+      "o": [
+        {
+          "hi": "सहारनपुर (उत्तर प्रदेश)",
+          "en": "Saharanpur (UP)"
+        },
+        {
+          "hi": "हिसार (हरियाणा)",
+          "en": "Hisar (Haryana)"
+        },
+        {
+          "hi": "मेरठ कैंट (उत्तर प्रदेश)",
+          "en": "Meerut Cantt (Uttar Pradesh)"
+        },
+        {
+          "hi": "अंबाला",
+          "en": "Ambala"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आर्मी क्लर्क ट्रेनिंग स्कूल (ACTS) कहाँ स्थित है?",
+        "en": "Where is Army Clerks Training School located?"
+      },
+      "o": [
+        {
+          "hi": "जबलपुर (मध्य प्रदेश)",
+          "en": "Jabalpur (Madhya Pradesh)"
+        },
+        {
+          "hi": "महू (मध्य प्रदेश)",
+          "en": "Mhow (Madhya Pradesh)"
+        },
+        {
+          "hi": "बेलगाम",
+          "en": "Belgaum"
+        },
+        {
+          "hi": "औरंगाबाद (महाराष्ट्र)",
+          "en": "Aurangabad (Maharashtra)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मिलिट्री म्यूजिक विंग (Military Music Wing) कहाँ स्थित है?",
+        "en": "Where is the Military Music Wing of Indian Army located?"
+      },
+      "o": [
+        {
+          "hi": "पचमढ़ी (नर्मदापुरम, मध्य प्रदेश)",
+          "en": "Pachmarhi (Narmadapuram, MP)"
+        },
+        {
+          "hi": "महू (मध्य प्रदेश)",
+          "en": "Mhow (Madhya Pradesh)"
+        },
+        {
+          "hi": "देहरादून (उत्तराखंड)",
+          "en": "Dehradun (Uttarakhand)"
+        },
+        {
+          "hi": "पुणे",
+          "en": "Pune"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आर्मी एजुकेशन कॉर्प्स ट्रेनिंग कॉलेज एंड सेंटर (AEC) कहाँ है?",
+        "en": "Where is Army Educational Corps Training College and Centre located?"
+      },
+      "o": [
+        {
+          "hi": "जबलपुर (मध्य प्रदेश)",
+          "en": "Jabalpur (Madhya Pradesh)"
+        },
+        {
+          "hi": "पचमढ़ी (मध्य प्रदेश)",
+          "en": "Pachmarhi (Madhya Pradesh)"
+        },
+        {
+          "hi": "लखनऊ",
+          "en": "Lucknow"
+        },
+        {
+          "hi": "देहरादून",
+          "en": "Dehradun"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आर्मी फिजिकल ट्रेनिंग कॉर्प्स (APTC) कहाँ स्थित है?",
+        "en": "Where is Army Institute of Physical Training (AIPT) located?"
+      },
+      "o": [
+        {
+          "hi": "महू (मध्य प्रदेश)",
+          "en": "Mhow (Madhya Pradesh)"
+        },
+        {
+          "hi": "बेंगलुरु (कर्नाटक)",
+          "en": "Bengaluru (Karnataka)"
+        },
+        {
+          "hi": "पुणे (महाराष्ट्र)",
+          "en": "Pune (Maharashtra)"
+        },
+        {
+          "hi": "मेरठ",
+          "en": "Meerut"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आर्मी स्पोर्ट्स इंस्टीट्यूट (ASI) कहाँ स्थित है?",
+        "en": "Where is the Army Sports Institute (ASI) located?"
+      },
+      "o": [
+        {
+          "hi": "बेंगलुरु (कर्नाटक)",
+          "en": "Bengaluru (Karnataka)"
+        },
+        {
+          "hi": "पटियाला (पंजाब)",
+          "en": "Patiala (Punjab)"
+        },
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "पुणे (महाराष्ट्र)",
+          "en": "Pune (Maharashtra)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पैराशूट रेजिमेंट ट्रेनिंग सेंटर (PRTC) कहाँ स्थित है?",
+        "en": "Where is the Parachute Regiment Training Centre (PRTC) located?"
+      },
+      "o": [
+        {
+          "hi": "बेंगलुरु (कर्नाटक)",
+          "en": "Bengaluru (Karnataka)"
+        },
+        {
+          "hi": "आगरा (उत्तर प्रदेश)",
+          "en": "Agra (Uttar Pradesh)"
+        },
+        {
+          "hi": "ग्वालियर (मध्य प्रदेश)",
+          "en": "Gwalior (Madhya Pradesh)"
+        },
+        {
+          "hi": "पुणे",
+          "en": "Pune"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्पेशल फोर्सेस ट्रेनिंग स्कूल (SFTS - पैरा एसएफ) कहाँ स्थित है?",
+        "en": "Where is the Special Forces Training School (SFTS) located?"
+      },
+      "o": [
+        {
+          "hi": "आगरा (उत्तर प्रदेश)",
+          "en": "Agra (Uttar Pradesh)"
+        },
+        {
+          "hi": "बकलोह (चंबा, हिमाचल प्रदेश)",
+          "en": "Bakloh (Chamba, Himachal Pradesh)"
+        },
+        {
+          "hi": "वैरेंगटे (मिजोरम)",
+          "en": "Vairengte (Mizoram)"
+        },
+        {
+          "hi": "गुलमर्ग",
+          "en": "Gulmargh"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "डिफेंस इंस्टीट्यूट ऑफ साइकोलॉजिकल रिसर्च (DIPR) कहाँ है?",
+        "en": "Where is the Defence Institute of Psychological Research located?"
+      },
+      "o": [
+        {
+          "hi": "पुणे",
+          "en": "Pune"
+        },
+        {
+          "hi": "देहरादून",
+          "en": "Dehradun"
+        },
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "बेंगलुरु",
+          "en": "Bengaluru"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "डिफेंस इंस्टीट्यूट ऑफ एडवांस्ड टेक्नोलॉजी (DIAT - डीम्ड वि.वि.) कहाँ है?",
+        "en": "Where is Defence Institute of Advanced Technology (DIAT) situated?"
+      },
+      "o": [
+        {
+          "hi": "हैदराबाद (तेलंगाना)",
+          "en": "Hyderabad (Telangana)"
+        },
+        {
+          "hi": "बेंगलुरु (कर्नाटक)",
+          "en": "Bengaluru (Karnataka)"
+        },
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "गिरिनगर (पुणे, महाराष्ट्र)",
+          "en": "Girinagar (Pune, Maharashtra)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में कितने राष्ट्रीय मिलिट्री स्कूल (Rashtriya Military Schools) हैं?",
+        "en": "How many Rashtriya Military Schools (RMS) are there in India?"
+      },
+      "o": [
+        {
+          "hi": "5 (चैल, अजमेर, बेलगाम, बेंगलुरु, धौलपुर)",
+          "en": "Five (Chail, Ajmer, Belgaum, Bengaluru, Dholpur)"
+        },
+        {
+          "hi": "4",
+          "en": "Four"
+        },
+        {
+          "hi": "6",
+          "en": "Six"
+        },
+        {
+          "hi": "8",
+          "en": "Eight"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे ऊँचा क्रिकेट मैदान किस मिलिट्री स्कूल परिसर में है?",
+        "en": "In which military school campus is the world's highest cricket ground situated?"
+      },
+      "o": [
+        {
+          "hi": "अजमेर मिलिट्री स्कूल",
+          "en": "Ajmer Military School"
+        },
+        {
+          "hi": "चैल मिलिट्री स्कूल (हिमाचल प्रदेश)",
+          "en": "Chail Military School (HP)"
+        },
+        {
+          "hi": "देहरादून RIMC",
+          "en": "RIMC Dehradun"
+        },
+        {
+          "hi": "गुलमर्ग HAWS",
+          "en": "HAWS Gulmarg"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

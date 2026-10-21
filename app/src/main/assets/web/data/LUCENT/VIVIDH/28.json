@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विविध (Miscellaneous)",
+  "subtitle": "भारत की प्रतिरक्षा",
+  "description": "भारत की प्रतिरक्षा पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारत की तीनों सेनाओं (जल, थल, नभ) का सर्वोच्च सेनापति कौन होता है?",
+        "en": "Who is the Supreme Commander of the Indian Armed Forces?"
+      },
+      "o": [
+        {
+          "hi": "भारत के राष्ट्रपति",
+          "en": "President of India"
+        },
+        {
+          "hi": "प्रधानमंत्री",
+          "en": "Prime Minister"
+        },
+        {
+          "hi": "चीफ ऑफ डिफेंस स्टाफ (CDS)",
+          "en": "Chief of Defence Staff"
+        },
+        {
+          "hi": "रक्षा मंत्री",
+          "en": "Defence Minister"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत के प्रथम चीफ ऑफ डिफेंस स्टाफ (CDS) कौन थे?",
+        "en": "Who was the first Chief of Defence Staff (CDS) of India?"
+      },
+      "o": [
+        {
+          "hi": "जनरल एम. एम. नरवणे",
+          "en": "General M. M. Naravane"
+        },
+        {
+          "hi": "जनरल बिपिन रावत",
+          "en": "General Bipin Rawat"
+        },
+        {
+          "hi": "जनरल अनिल चौहान",
+          "en": "General Anil Chauhan"
+        },
+        {
+          "hi": "जनरल दलबीर सिंह सुहाग",
+          "en": "General Dalbir Singh Suhag"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत के वर्तमान (दूसरे) चीफ ऑफ डिफेंस स्टाफ (CDS) कौन हैं?",
+        "en": "Who is the current (2nd) Chief of Defence Staff (CDS) of India?"
+      },
+      "o": [
+        {
+          "hi": "जनरल मनोज पांडे",
+          "en": "General Manoj Pande"
+        },
+        {
+          "hi": "जनरल बिपिन रावत",
+          "en": "General Bipin Rawat"
+        },
+        {
+          "hi": "जनरल अनिल चौहान",
+          "en": "General Anil Chauhan"
+        },
+        {
+          "hi": "एयर चीफ मार्शल वी. आर. चौधरी",
+          "en": "Air Chief Marshal V. R. Chaudhari"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय थल सेना (Indian Army) को कुल कितनी कमानों में बांटा गया है?",
+        "en": "Into how many operational and training commands is the Indian Army divided?"
+      },
+      "o": [
+        {
+          "hi": "5 कमान",
+          "en": "5 Commands"
+        },
+        {
+          "hi": "6 कमान",
+          "en": "6 Commands"
+        },
+        {
+          "hi": "8 कमान",
+          "en": "8 Commands"
+        },
+        {
+          "hi": "7 कमान (6 ऑपरेशनल + 1 ट्रेनिंग)",
+          "en": "7 Commands (6 Operational + 1 Training)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय थल सेना की 'पूर्वी कमान' (Eastern Command) का मुख्यालय कहाँ है?",
+        "en": "Where is the headquarters of Eastern Command of Indian Army located?"
+      },
+      "o": [
+        {
+          "hi": "कोलकाता (पश्चिम बंगाल)",
+          "en": "Kolkata (West Bengal)"
+        },
+        {
+          "hi": "शिलांग (मेघालय)",
+          "en": "Shillong (Meghalaya)"
+        },
+        {
+          "hi": "गुवाहाटी (असम)",
+          "en": "Guwahati (Assam)"
+        },
+        {
+          "hi": "सिलीगुड़ी (पश्चिम बंगाल)",
+          "en": "Siliguri (West Bengal)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय थल सेना की 'पश्चिमी कमान' (Western Command) का मुख्यालय कहाँ है?",
+        "en": "Where is the headquarters of Western Command of Indian Army located?"
+      },
+      "o": [
+        {
+          "hi": "शिमला (हिमाचल प्रदेश)",
+          "en": "Shimla (Himachal Pradesh)"
+        },
+        {
+          "hi": "चंडीमंदिर (पंचकूला, हरियाणा)",
+          "en": "Chandimandir (Haryana)"
+        },
+        {
+          "hi": "जम्मू",
+          "en": "Jammu"
+        },
+        {
+          "hi": "जयपुर (राजस्थान)",
+          "en": "Jaipur (Rajasthan)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय थल सेना की 'उत्तरी कमान' (Northern Command) का मुख्यालय कहाँ है?",
+        "en": "Where is the headquarters of Northern Command of Indian Army located?"
+      },
+      "o": [
+        {
+          "hi": "श्रीनगर",
+          "en": "Srinagar"
+        },
+        {
+          "hi": "लेह",
+          "en": "Leh"
+        },
+        {
+          "hi": "उधमपुर (जम्मू-कश्मीर)",
+          "en": "Udhampur (Jammu & Kashmir)"
+        },
+        {
+          "hi": "चंडीमंदिर",
+          "en": "Chandimandir"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय थल सेना की 'दक्षिणी कमान' (Southern Command) का मुख्यालय कहाँ है?",
+        "en": "Where is the headquarters of Southern Command of Indian Army located?"
+      },
+      "o": [
+        {
+          "hi": "चेन्नई (तमिलनाडु)",
+          "en": "Chennai (Tamil Nadu)"
+        },
+        {
+          "hi": "बेंगलुरु (कर्नाटक)",
+          "en": "Bengaluru (Karnataka)"
+        },
+        {
+          "hi": "सिकंदराबाद (तेलंगाना)",
+          "en": "Secunderabad (Telangana)"
+        },
+        {
+          "hi": "पुणे (महाराष्ट्र)",
+          "en": "Pune (Maharashtra)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय थल सेना की 'मध्य कमान' (Central Command) का मुख्यालय कहाँ है?",
+        "en": "Where is the headquarters of Central Command of Indian Army located?"
+      },
+      "o": [
+        {
+          "hi": "लखनऊ (उत्तर प्रदेश)",
+          "en": "Lucknow (Uttar Pradesh)"
+        },
+        {
+          "hi": "प्रयागराज (उत्तर प्रदेश)",
+          "en": "Prayagraj (Uttar Pradesh)"
+        },
+        {
+          "hi": "महू (मध्य प्रदेश)",
+          "en": "Mhow (Madhya Pradesh)"
+        },
+        {
+          "hi": "जबलपुर (मध्य प्रदेश)",
+          "en": "Jabalpur (Madhya Pradesh)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय थल सेना की 'दक्षिण-पश्चिमी कमान' का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of South-Western Command of Indian Army located?"
+      },
+      "o": [
+        {
+          "hi": "जोधपुर (राजस्थान)",
+          "en": "Jodhpur (Rajasthan)"
+        },
+        {
+          "hi": "जयपुर (राजस्थान)",
+          "en": "Jaipur (Rajasthan)"
+        },
+        {
+          "hi": "अहमदाबाद (गुजरात)",
+          "en": "Ahmedabad (Gujarat)"
+        },
+        {
+          "hi": "पुणे (महाराष्ट्र)",
+          "en": "Pune (Maharashtra)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय थल सेना की 'प्रशिक्षण कमान' (ARTRAC) का मुख्यालय कहाँ है?",
+        "en": "Where is the headquarters of Army Training Command (ARTRAC) located?"
+      },
+      "o": [
+        {
+          "hi": "देहरादून (उत्तराखंड)",
+          "en": "Dehradun (Uttarakhand)"
+        },
+        {
+          "hi": "महू (मध्य प्रदेश)",
+          "en": "Mhow (Madhya Pradesh)"
+        },
+        {
+          "hi": "शिमला (हिमाचल प्रदेश)",
+          "en": "Shimla (Himachal Pradesh)"
+        },
+        {
+          "hi": "पुणे (महाराष्ट्र)",
+          "en": "Pune (Maharashtra)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय नौसेना (Indian Navy) की कुल कितनी कमान हैं?",
+        "en": "How many commands does the Indian Navy have?"
+      },
+      "o": [
+        {
+          "hi": "चार (4 कमान)",
+          "en": "Four Commands"
+        },
+        {
+          "hi": "पांच (5 कमान)",
+          "en": "Five Commands"
+        },
+        {
+          "hi": "दो (2 कमान)",
+          "en": "Two Commands"
+        },
+        {
+          "hi": "तीन (3 कमान)",
+          "en": "Three (3 Commands)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय नौसेना की 'पश्चिमी नौसेना कमान' का मुख्यालय कहाँ है?",
+        "en": "Where is the headquarters of Western Naval Command located?"
+      },
+      "o": [
+        {
+          "hi": "मुंबई (महाराष्ट्र)",
+          "en": "Mumbai (Maharashtra)"
+        },
+        {
+          "hi": "कोच्चि (केरल)",
+          "en": "Kochi (Kerala)"
+        },
+        {
+          "hi": "गोवा",
+          "en": "Goa"
+        },
+        {
+          "hi": "कारवार (कर्नाटक)",
+          "en": "Karwar (Karnataka)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय नौसेना की 'पूर्वी नौसेना कमान' का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of Eastern Naval Command located?"
+      },
+      "o": [
+        {
+          "hi": "कोलकाता (पश्चिम बंगाल)",
+          "en": "Kolkata (West Bengal)"
+        },
+        {
+          "hi": "विशाखापत्तनम (आंध्र प्रदेश)",
+          "en": "Visakhapatnam (Andhra Pradesh)"
+        },
+        {
+          "hi": "चेन्नई (तमिलनाडु)",
+          "en": "Chennai (Tamil Nadu)"
+        },
+        {
+          "hi": "पोर्ट ब्लेयर",
+          "en": "Port Blair"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय नौसेना की 'दक्षिणी नौसेना कमान' (प्रशिक्षण कमान) कहाँ है?",
+        "en": "Where is the headquarters of Southern Naval Command (Training) located?"
+      },
+      "o": [
+        {
+          "hi": "विशाखापत्तनम",
+          "en": "Visakhapatnam"
+        },
+        {
+          "hi": "चेन्नई",
+          "en": "Chennai"
+        },
+        {
+          "hi": "कोच्चि (केरल)",
+          "en": "Kochi (Kerala)"
+        },
+        {
+          "hi": "मुंबई",
+          "en": "Mumbai"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत की एकमात्र संयुक्त त्रि-सेवा कमान (Tri-Service Command) कहाँ है?",
+        "en": "Where is India's only integrated Tri-Service Command located?"
+      },
+      "o": [
+        {
+          "hi": "लक्षद्वीप",
+          "en": "Lakshadweep"
+        },
+        {
+          "hi": "गोवा",
+          "en": "Goa"
+        },
+        {
+          "hi": "कारवार",
+          "en": "Karwar"
+        },
+        {
+          "hi": "अंडमान एवं निकोबार कमान (पोर्ट ब्लेयर)",
+          "en": "Andaman & Nicobar Command (Port Blair)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय वायु सेना (IAF) की कुल कितनी कमानें हैं?",
+        "en": "How many operational and functional commands does the Indian Air Force have?"
+      },
+      "o": [
+        {
+          "hi": "7 कमान (5 ऑपरेशनल + 2 फंक्शनल)",
+          "en": "7 Commands (5 Operational + 2 Functional)"
+        },
+        {
+          "hi": "6 कमान",
+          "en": "6 Commands"
+        },
+        {
+          "hi": "5 कमान",
+          "en": "5 Commands"
+        },
+        {
+          "hi": "8 कमान",
+          "en": "8 Commands"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय वायु सेना की 'पश्चिमी वायु कमान' का मुख्यालय कहाँ है?",
+        "en": "Where is the headquarters of Western Air Command located?"
+      },
+      "o": [
+        {
+          "hi": "अंबाला",
+          "en": "Ambala"
+        },
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "चंडीगढ़",
+          "en": "Chandigarh"
+        },
+        {
+          "hi": "जोधपुर",
+          "en": "Jodhpur"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय वायु सेना की 'पूर्वी वायु कमान' का मुख्यालय कहाँ है?",
+        "en": "Where is the headquarters of Eastern Air Command located?"
+      },
+      "o": [
+        {
+          "hi": "गुवाहाटी (असम)",
+          "en": "Guwahati (Assam)"
+        },
+        {
+          "hi": "तेजपुर (असम)",
+          "en": "Tezpur (Assam)"
+        },
+        {
+          "hi": "शिलांग (मेघालय)",
+          "en": "Shillong (Meghalaya)"
+        },
+        {
+          "hi": "कोलकाता",
+          "en": "Kolkata"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय वायु सेना की 'मध्य वायु कमान' का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of Central Air Command located?"
+      },
+      "o": [
+        {
+          "hi": "लखनऊ (उत्तर प्रदेश)",
+          "en": "Lucknow (UP)"
+        },
+        {
+          "hi": "ग्वालियर (मध्य प्रदेश)",
+          "en": "Gwalior (MP)"
+        },
+        {
+          "hi": "वाराणसी",
+          "en": "Varanasi"
+        },
+        {
+          "hi": "प्रयागराज / बमरौली (उत्तर प्रदेश)",
+          "en": "Prayagraj / Bamrauli (UP)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय वायु सेना की 'दक्षिणी वायु कमान' का मुख्यालय कहाँ है?",
+        "en": "Where is the headquarters of Southern Air Command located?"
+      },
+      "o": [
+        {
+          "hi": "तिरुवनंतपुरम (केरल)",
+          "en": "Thiruvananthapuram (Kerala)"
+        },
+        {
+          "hi": "बेंगलुरु (कर्नाटक)",
+          "en": "Bengaluru (Karnataka)"
+        },
+        {
+          "hi": "चेन्नई (तमिलनाडु)",
+          "en": "Chennai (Tamil Nadu)"
+        },
+        {
+          "hi": "हैदराबाद",
+          "en": "Hyderabad"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय वायु सेना की 'दक्षिण-पश्चिमी वायु कमान' का मुख्यालय कहाँ है?",
+        "en": "Where is the headquarters of South-Western Air Command located?"
+      },
+      "o": [
+        {
+          "hi": "जोधपुर (राजस्थान)",
+          "en": "Jodhpur (Rajasthan)"
+        },
+        {
+          "hi": "गांधीनगर (गुजरात)",
+          "en": "Gandhinagar (Gujarat)"
+        },
+        {
+          "hi": "पुणे (महाराष्ट्र)",
+          "en": "Pune (Maharashtra)"
+        },
+        {
+          "hi": "वडोदरा (गुजरात)",
+          "en": "Vadodara (Gujarat)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय वायु सेना की 'प्रशिक्षण कमान' (Training Command) कहाँ स्थित है?",
+        "en": "Where is the headquarters of IAF Training Command located?"
+      },
+      "o": [
+        {
+          "hi": "हैदराबाद (तेलंगाना)",
+          "en": "Hyderabad (Telangana)"
+        },
+        {
+          "hi": "तांबरम (चेन्नई)",
+          "en": "Tambaram (Chennai)"
+        },
+        {
+          "hi": "बेंगलुरु (कर्नाटक)",
+          "en": "Bengaluru (Karnataka)"
+        },
+        {
+          "hi": "पुणे",
+          "en": "Pune"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय वायु सेना की 'रखरखाव कमान' (Maintenance Command) कहाँ है?",
+        "en": "Where is the headquarters of IAF Maintenance Command located?"
+      },
+      "o": [
+        {
+          "hi": "कानपुर (उत्तर प्रदेश)",
+          "en": "Kanpur (Uttar Pradesh)"
+        },
+        {
+          "hi": "नासिक (महाराष्ट्र)",
+          "en": "Nashik (Maharashtra)"
+        },
+        {
+          "hi": "बेंगलुरु",
+          "en": "Bengaluru"
+        },
+        {
+          "hi": "नागपुर (महाराष्ट्र)",
+          "en": "Nagpur (Maharashtra)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रक्षा अनुसंधान एवं विकास संगठन (DRDO) की स्थापना किस वर्ष हुई थी?",
+        "en": "In which year was Defence Research and Development Organisation (DRDO) founded?"
+      },
+      "o": [
+        {
+          "hi": "1958",
+          "en": "1958"
+        },
+        {
+          "hi": "1969",
+          "en": "1969"
+        },
+        {
+          "hi": "1948",
+          "en": "1948"
+        },
+        {
+          "hi": "1972",
+          "en": "1972"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "डीआरडीओ (DRDO) का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of DRDO located?"
+      },
+      "o": [
+        {
+          "hi": "बेंगलुरु (कर्नाटक)",
+          "en": "Bengaluru (Karnataka)"
+        },
+        {
+          "hi": "नई दिल्ली (डीआरडीओ भवन)",
+          "en": "New Delhi (DRDO Bhawan)"
+        },
+        {
+          "hi": "हैदराबाद (तेलंगाना)",
+          "en": "Hyderabad (Telangana)"
+        },
+        {
+          "hi": "पुणे (महाराष्ट्र)",
+          "en": "Pune (Maharashtra)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "डीआरडीओ (DRDO) का आदर्श वाक्य (Motto) क्या है?",
+        "en": "What is the official motto of DRDO?"
+      },
+      "o": [
+        {
+          "hi": "'सेवा परमो धर्मः'",
+          "en": "'Seva Paramo Dharma'"
+        },
+        {
+          "hi": "'शं नो वरुणः'",
+          "en": "'Sham No Varunah'"
+        },
+        {
+          "hi": "'बलस्य मूलं विज्ञानम्' (Strength's Origin is Science)",
+          "en": "'Balasya Mulam Vigyanam'"
+        },
+        {
+          "hi": "'नभः स्पृशं दीप्तम्'",
+          "en": "'Nabha Sprisham Deeptam'"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय थल सेना का आदर्श वाक्य क्या है?",
+        "en": "What is the official motto of the Indian Army?"
+      },
+      "o": [
+        {
+          "hi": "'शं नो वरुणः'",
+          "en": "'Sham No Varunah'"
+        },
+        {
+          "hi": "'नभः स्पृशं दीप्तम्'",
+          "en": "'Touch the Sky with Glory'"
+        },
+        {
+          "hi": "'सत्यमेव जयते'",
+          "en": "'Satyameva Jayate'"
+        },
+        {
+          "hi": "'सेवा परमो धर्मः' (Service Before Self)",
+          "en": "'Service Before Self'"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय नौसेना का आदर्श वाक्य क्या है?",
+        "en": "What is the official Sanskrit motto of the Indian Navy?"
+      },
+      "o": [
+        {
+          "hi": "'शं नो वरुणः' (May Lord Varuna be auspicious unto us)",
+          "en": "'Sham No Varunah'"
+        },
+        {
+          "hi": "'सेवा अस्माकं धर्मः'",
+          "en": "'Seva Asmakam Dharmah'"
+        },
+        {
+          "hi": "'नभः स्पृशं दीप्तम्'",
+          "en": "'Nabha Sprisham Deeptam'"
+        },
+        {
+          "hi": "'बलस्य मूलं विज्ञानम्'",
+          "en": "'Balasya Mulam Vigyanam'"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय वायु सेना का आदर्श वाक्य क्या है (भगवद्गीता से लिया गया)?",
+        "en": "What is the motto of Indian Air Force taken from the Gita?"
+      },
+      "o": [
+        {
+          "hi": "'शं नो वरुणः'",
+          "en": "'Sham No Varunah'"
+        },
+        {
+          "hi": "'नभः स्पृशं दीप्तम्' (Touch the Sky with Glory)",
+          "en": "'Nabha Sprisham Deeptam'"
+        },
+        {
+          "hi": "'सेवा परमो धर्मः'",
+          "en": "'Service Before Self'"
+        },
+        {
+          "hi": "'वीर भोग्या वसुंधरा'",
+          "en": "'Veer Bhogya Vasundhara'"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत के 'मिसाइल मैन' के नाम से किन्हें जाना जाता है?",
+        "en": "Who is reverently known as the 'Missile Man of India'?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. होमी जहांगीर भाभा",
+          "en": "Dr. Homi J. Bhabha"
+        },
+        {
+          "hi": "डॉ. विक्रम साराभाई",
+          "en": "Dr. Vikram Sarabhai"
+        },
+        {
+          "hi": "डॉ. ए. पी. जे. अब्दुल कलाम",
+          "en": "Dr. A. P. J. Abdul Kalam"
+        },
+        {
+          "hi": "डॉ. राजा रमन्ना",
+          "en": "Dr. Raja Ramanna"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "डॉ. कलाम के नेतृत्व में 1983 में कौन-सा मिसाइल कार्यक्रम शुरू हुआ था?",
+        "en": "Which comprehensive missile development program was launched in 1983?"
+      },
+      "o": [
+        {
+          "hi": "ब्रह्मोस कार्यक्रम",
+          "en": "BrahMos Program"
+        },
+        {
+          "hi": "मिशन शक्ति",
+          "en": "Mission Shakti"
+        },
+        {
+          "hi": "ऑपरेशन विजय",
+          "en": "Operation Vijay"
+        },
+        {
+          "hi": "आई.जी.एम.डी.पी. (IGMDP)",
+          "en": "IGMDP"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आईजीएमडीपी (IGMDP) के अंतर्गत किन पांच मिसाइलों का विकास किया गया?",
+        "en": "Which five missiles were developed under IGMDP (acronym PATNA)?"
+      },
+      "o": [
+        {
+          "hi": "पृथ्वी, अग्नि, त्रिशूल, नाग एवं आकाश",
+          "en": "Prithvi, Agni, Trishul, Nag and Akash"
+        },
+        {
+          "hi": "पृथ्वी, धनुष, पिनाका, अस्त्र व शौर्य",
+          "en": "Prithvi, Dhanush, Pinaka, Astra, Shaurya"
+        },
+        {
+          "hi": "अग्नि, ब्रह्मोस, रुद्रम, प्रहार व नाग",
+          "en": "Agni, BrahMos, Rudram, Prahaar, Nag"
+        },
+        {
+          "hi": "अग्नि, निर्भय, शौर्य, आकाश व अस्त्र",
+          "en": "Agni, Nirbhay, Shaurya, Akash, Astra"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत की सतह-से-सतह पर मार करने वाली पहली बैलिस्टिक मिसाइल कौन-सी थी?",
+        "en": "Which was India's first surface-to-surface ballistic missile (1988)?"
+      },
+      "o": [
+        {
+          "hi": "अग्नि (Agni)",
+          "en": "Agni"
+        },
+        {
+          "hi": "पृथ्वी (Prithvi)",
+          "en": "Prithvi"
+        },
+        {
+          "hi": "त्रिशूल (Trishul)",
+          "en": "Trishul"
+        },
+        {
+          "hi": "आकाश (Akash)",
+          "en": "Akash"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत की सतह-से-हवा (Surface-to-Air) में मध्यम दूरी की मिसाइल कौन-सी है?",
+        "en": "Which is India's medium-range Surface-to-Air Missile (SAM)?"
+      },
+      "o": [
+        {
+          "hi": "नाग (Nag)",
+          "en": "Nag"
+        },
+        {
+          "hi": "पृथ्वी (Prithvi)",
+          "en": "Prithvi"
+        },
+        {
+          "hi": "आकाश (Akash)",
+          "en": "Akash"
+        },
+        {
+          "hi": "पिनाका (Pinaka)",
+          "en": "Pinaka"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत की 'दागो और भूल जाओ' (Fire and Forget) टैंक-रोधी मिसाइल कौन-सी है?",
+        "en": "Which is India's third-generation 'Fire and Forget' anti-tank missile?"
+      },
+      "o": [
+        {
+          "hi": "त्रिशूल",
+          "en": "Trishul"
+        },
+        {
+          "hi": "आकाश",
+          "en": "Akash"
+        },
+        {
+          "hi": "पृथ्वी",
+          "en": "Prithvi"
+        },
+        {
+          "hi": "नाग (Nag / हेलिना / ध्रुवास्त्र)",
+          "en": "Nag (Helina / Dhruvastra)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ब्रह्मोस (BrahMos) सुपरसोनिक क्रूज मिसाइल किन दो देशों का संयुक्त उद्यम है?",
+        "en": "BrahMos supersonic cruise missile is a joint venture between India and?"
+      },
+      "o": [
+        {
+          "hi": "भारत और रूस (India and Russia)",
+          "en": "India and Russia"
+        },
+        {
+          "hi": "भारत और फ्रांस",
+          "en": "India and France"
+        },
+        {
+          "hi": "भारत और इज़राइल",
+          "en": "India and Israel"
+        },
+        {
+          "hi": "भारत और USA",
+          "en": "India and USA"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'ब्रह्मोस' मिसाइल का नाम किन दो नदियों के नाम पर रखा गया है?",
+        "en": "The name 'BrahMos' is derived from which two historic rivers?"
+      },
+      "o": [
+        {
+          "hi": "गंगा और वोल्गा",
+          "en": "Ganga and Volga"
+        },
+        {
+          "hi": "ब्रह्मपुत्र (भारत) और मोस्कवा (रूस)",
+          "en": "Brahmaputra (India) and Moskva (Russia)"
+        },
+        {
+          "hi": "सिंधु और डॉन",
+          "en": "Indus and Don"
+        },
+        {
+          "hi": "यमुना और नेवा",
+          "en": "Yamuna and Neva"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत की प्रथम अंतरमहाद्वीपीय बैलिस्टिक मिसाइल (ICBM) कौन-सी है?",
+        "en": "Which is India's intercontinental ballistic missile with 5000+ km range?"
+      },
+      "o": [
+        {
+          "hi": "अग्नि-2",
+          "en": "Agni-II"
+        },
+        {
+          "hi": "अग्नि-3",
+          "en": "Agni-III"
+        },
+        {
+          "hi": "अग्नि-5 (Agni-V)",
+          "en": "Agni-V"
+        },
+        {
+          "hi": "पृथ्वी-3",
+          "en": "Prithvi-III"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का स्वदेशी स्व-निर्मित हल्का लड़ाकू विमान (LCA) कौन-सा है?",
+        "en": "Which is India's indigenous Light Combat Aircraft (LCA)?"
+      },
+      "o": [
+        {
+          "hi": "राफेल",
+          "en": "Rafale"
+        },
+        {
+          "hi": "मिग-21",
+          "en": "MiG-21"
+        },
+        {
+          "hi": "सुखोई-30",
+          "en": "Sukhoi-30 MKI"
+        },
+        {
+          "hi": "तेजस (Tejas)",
+          "en": "Tejas"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत का स्वदेशी बहु-बैरल रॉकेट लॉन्चर सिस्टम कौन-सा है?",
+        "en": "Which is India's indigenous multi-barrel rocket launcher (MBRL) system?"
+      },
+      "o": [
+        {
+          "hi": "पिनाका (Pinaka)",
+          "en": "Pinaka"
+        },
+        {
+          "hi": "धनुष (Dhanush)",
+          "en": "Dhanush"
+        },
+        {
+          "hi": "वज्र (Vajra)",
+          "en": "Vajra"
+        },
+        {
+          "hi": "सारंग (Sarang)",
+          "en": "Sarang"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का प्रथम स्वदेशी मुख्य युद्धक टैंक (MBT) कौन-सा है?",
+        "en": "Which is India's indigenous third-generation Main Battle Tank (MBT)?"
+      },
+      "o": [
+        {
+          "hi": "भीष्म (T-90)",
+          "en": "Bhishma (T-90)"
+        },
+        {
+          "hi": "अर्जुन (Arjun MBT)",
+          "en": "Arjun MBT"
+        },
+        {
+          "hi": "अजेय (T-72)",
+          "en": "Ajeya (T-72)"
+        },
+        {
+          "hi": "विजयंत",
+          "en": "Vijayanta"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत की पहली परमाणु संचालित पनडुब्बी (SSBN) कौन-सी है?",
+        "en": "Which is India's first indigenously designed nuclear-powered ballistic submarine?"
+      },
+      "o": [
+        {
+          "hi": "आई.एन.एस. चक्र",
+          "en": "INS Chakra"
+        },
+        {
+          "hi": "आई.एन.एस. अरिघात",
+          "en": "INS Arighat"
+        },
+        {
+          "hi": "आई.एन.एस. अरिहंत (INS Arihant)",
+          "en": "INS Arihant"
+        },
+        {
+          "hi": "आई.एन.एस. कलवरी",
+          "en": "INS Kalvari"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय वायु सेना के पश्चिमी बेड़े में शामिल राफेल लड़ाकू विमान किस देश से लिए गए?",
+        "en": "From which country did India procure Rafale multi-role fighter aircraft?"
+      },
+      "o": [
+        {
+          "hi": "रूस (सुखोई)",
+          "en": "Russia (Sukhoi)"
+        },
+        {
+          "hi": "USA (लॉकहीड)",
+          "en": "USA (Lockheed)"
+        },
+        {
+          "hi": "ब्रिटेन (BAE)",
+          "en": "UK (BAE Systems)"
+        },
+        {
+          "hi": "फ्रांस (दसॉ एविएशन)",
+          "en": "France (Dassault Aviation)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत ने रूस से कौन-सी विश्व प्रसिद्ध लंबी दूरी की वायु रक्षा प्रणाली खरीदी?",
+        "en": "Which advanced air defence missile system did India acquire from Russia?"
+      },
+      "o": [
+        {
+          "hi": "एस-400 ट्रायम्फ (S-400 Triumf)",
+          "en": "S-400 Triumf"
+        },
+        {
+          "hi": "पैट्रियट सिस्टम",
+          "en": "Patriot System"
+        },
+        {
+          "hi": "आयरन डोम",
+          "en": "Iron Dome"
+        },
+        {
+          "hi": "थाड (THAAD)",
+          "en": "THAAD"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का परमाणु सिद्धांत (Nuclear Doctrine) किस मूल सिद्धांत पर आधारित है?",
+        "en": "On which core principle is India's Nuclear Doctrine formally based?"
+      },
+      "o": [
+        {
+          "hi": "पहले हमला",
+          "en": "Preemptive First Strike"
+        },
+        {
+          "hi": "'पहले उपयोग नहीं' (No First Use - NFU)",
+          "en": "No First Use (NFU)"
+        },
+        {
+          "hi": "सीमित उपयोग",
+          "en": "Limited Nuclear War"
+        },
+        {
+          "hi": "कोई प्रतिबद्धता नहीं",
+          "en": "Ambiguous Posture"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कारगिल युद्ध (1999) में भारतीय सेना द्वारा चलाए गए अभियान का क्या नाम था?",
+        "en": "What was the code name of the Indian Army operation during 1999 Kargil War?"
+      },
+      "o": [
+        {
+          "hi": "ऑपरेशन मेघदूत",
+          "en": "Operation Meghdoot"
+        },
+        {
+          "hi": "ऑपरेशन सफेद सागर",
+          "en": "Operation Safed Sagar"
+        },
+        {
+          "hi": "ऑपरेशन विजय (Operation Vijay)",
+          "en": "Operation Vijay"
+        },
+        {
+          "hi": "ऑपरेशन पराक्रम",
+          "en": "Operation Parakram"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कारगिल युद्ध (1999) में भारतीय वायु सेना के अभियान का क्या नाम था?",
+        "en": "What was the code name of the Indian Air Force operation during Kargil War?"
+      },
+      "o": [
+        {
+          "hi": "ऑपरेशन विजय",
+          "en": "Operation Vijay"
+        },
+        {
+          "hi": "ऑपरेशन मेघदूत",
+          "en": "Operation Meghdoot"
+        },
+        {
+          "hi": "ऑपरेशन बंदर",
+          "en": "Operation Bandar"
+        },
+        {
+          "hi": "ऑपरेशन सफेद सागर (Operation Safed Sagar)",
+          "en": "Operation Safed Sagar"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सियाचिन ग्लेशियर पर नियंत्रण स्थापित करने हेतु 1984 में कौन-सा सैन्य ऑपरेशन चला?",
+        "en": "Which 1984 operation established Indian control over Siachen Glacier?"
+      },
+      "o": [
+        {
+          "hi": "ऑपरेशन मेघदूत (Operation Meghdoot)",
+          "en": "Operation Meghdoot"
+        },
+        {
+          "hi": "ऑपरेशन विजय",
+          "en": "Operation Vijay"
+        },
+        {
+          "hi": "ऑपरेशन कैक्टस",
+          "en": "Operation Cactus"
+        },
+        {
+          "hi": "ऑपरेशन पवन",
+          "en": "Operation Pawan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत की नौसेना का सबसे बड़ा नौसैनिक अड्डा 'आईएनएस कदंब' कहाँ स्थित है?",
+        "en": "Where is INS Kadamba (Project Seabird), India's premier naval base, situated?"
+      },
+      "o": [
+        {
+          "hi": "कोच्चि (केरल)",
+          "en": "Kochi (Kerala)"
+        },
+        {
+          "hi": "कारवार (कर्नाटक)",
+          "en": "Karwar (Karnataka)"
+        },
+        {
+          "hi": "विशाखापत्तनम (आंध्र प्रदेश)",
+          "en": "Visakhapatnam (AP)"
+        },
+        {
+          "hi": "गोवा",
+          "en": "Goa"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

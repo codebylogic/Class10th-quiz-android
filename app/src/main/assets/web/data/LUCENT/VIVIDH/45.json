@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विविध (Miscellaneous)",
+  "subtitle": "महान कार्यों से संबंधित व्यक्ति",
+  "description": "महान कार्यों से संबंधित व्यक्ति पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "रेड क्रॉस (Red Cross) की स्थापना किसने की थी?",
+        "en": "Who founded the Red Cross?"
+      },
+      "o": [
+        {
+          "hi": "हेनरी ड्यूनेंट",
+          "en": "Henry Dunant"
+        },
+        {
+          "hi": "फ्लोरेंस नाइटिंगेल",
+          "en": "Florence Nightingale"
+        },
+        {
+          "hi": "मदर टेरेसा",
+          "en": "Mother Teresa"
+        },
+        {
+          "hi": "नेल्सन मंडेला",
+          "en": "Nelson Mandela"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्काउटिंग (Scouting) की स्थापना का श्रेय किसे दिया जाता है?",
+        "en": "Who is credited with founding the Scouting movement?"
+      },
+      "o": [
+        {
+          "hi": "लॉर्ड कर्जन",
+          "en": "Lord Curzon"
+        },
+        {
+          "hi": "बेडेन पावेल",
+          "en": "Baden Powell"
+        },
+        {
+          "hi": "विलियम बेंटिंक",
+          "en": "William Bentinck"
+        },
+        {
+          "hi": "रॉबर्ट क्लाइव",
+          "en": "Robert Clive"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गर्ल्स गाइड (Girl Guides) की स्थापना किसने की थी?",
+        "en": "Who established the Girl Guides movement?"
+      },
+      "o": [
+        {
+          "hi": "फ्लोरेंस नाइटिंगेल",
+          "en": "Florence Nightingale"
+        },
+        {
+          "hi": "एनी बेसेंट",
+          "en": "Annie Besant"
+        },
+        {
+          "hi": "एग्नेस बेडेन पावेल",
+          "en": "Agnes Baden-Powell"
+        },
+        {
+          "hi": "मैडम भीकाजी कामा",
+          "en": "Madam Bhikaji Cama"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रेड गार्ड्स (Red Guards) की स्थापना किसने की थी?",
+        "en": "Who founded the Red Guards?"
+      },
+      "o": [
+        {
+          "hi": "लेनिन",
+          "en": "Lenin"
+        },
+        {
+          "hi": "कार्ल मार्क्स",
+          "en": "Karl Marx"
+        },
+        {
+          "hi": "जोसेफ स्टालिन",
+          "en": "Joseph Stalin"
+        },
+        {
+          "hi": "गैरीबाल्डी",
+          "en": "Garibaldi"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समाजवाद (Socialism) के प्रवर्तक कौन माने जाते हैं?",
+        "en": "Who is considered the proponent of scientific Socialism?"
+      },
+      "o": [
+        {
+          "hi": "कार्ल मार्क्स",
+          "en": "Karl Marx"
+        },
+        {
+          "hi": "मैकियावेली",
+          "en": "Machiavelli"
+        },
+        {
+          "hi": "रूसो",
+          "en": "Rousseau"
+        },
+        {
+          "hi": "प्लेटो",
+          "en": "Plato"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फासीवाद (Fascism) का जनक किसे माना जाता है?",
+        "en": "Who is considered the founder of Fascism?"
+      },
+      "o": [
+        {
+          "hi": "एडॉल्फ हिटलर",
+          "en": "Adolf Hitler"
+        },
+        {
+          "hi": "बेनिटो मुसोलिनी",
+          "en": "Benito Mussolini"
+        },
+        {
+          "hi": "गैरीबाल्डी",
+          "en": "Garibaldi"
+        },
+        {
+          "hi": "बिस्मार्क",
+          "en": "Bismarck"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नाजीवाद (Nazism) की स्थापना किसने की थी?",
+        "en": "Who founded Nazism?"
+      },
+      "o": [
+        {
+          "hi": "मुसोलिनी",
+          "en": "Mussolini"
+        },
+        {
+          "hi": "बिस्मार्क",
+          "en": "Bismarck"
+        },
+        {
+          "hi": "एडॉल्फ हिटलर",
+          "en": "Adolf Hitler"
+        },
+        {
+          "hi": "लेनिन",
+          "en": "Lenin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संस्कृत व्याकरण के जनक किसे माना जाता है?",
+        "en": "Who is considered the father of Sanskrit grammar?"
+      },
+      "o": [
+        {
+          "hi": "पतंजलि",
+          "en": "Patanjali"
+        },
+        {
+          "hi": "कालिदास",
+          "en": "Kalidasa"
+        },
+        {
+          "hi": "वेदव्यास",
+          "en": "Ved Vyas"
+        },
+        {
+          "hi": "महर्षि पाणिनि",
+          "en": "Maharshi Panini"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भूदान आंदोलन (Bhoodan Movement) के जनक कौन थे?",
+        "en": "Who was the founder of the Bhoodan Movement?"
+      },
+      "o": [
+        {
+          "hi": "आचार्य विनोबा भावे",
+          "en": "Acharya Vinoba Bhave"
+        },
+        {
+          "hi": "जयप्रकाश नारायण",
+          "en": "Jayaprakash Narayan"
+        },
+        {
+          "hi": "महात्मा गांधी",
+          "en": "Mahatma Gandhi"
+        },
+        {
+          "hi": "बाबा आमटे",
+          "en": "Baba Amte"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पवनार आश्रम की स्थापना किसने की थी?",
+        "en": "Who established the Pavnar Ashram?"
+      },
+      "o": [
+        {
+          "hi": "महात्मा गांधी",
+          "en": "Mahatma Gandhi"
+        },
+        {
+          "hi": "आचार्य विनोबा भावे",
+          "en": "Acharya Vinoba Bhave"
+        },
+        {
+          "hi": "रवींद्रनाथ टैगोर",
+          "en": "Rabindranath Tagore"
+        },
+        {
+          "hi": "अरविंद घोष",
+          "en": "Aurobindo Ghosh"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लीग ऑफ नेशंस (League of Nations) के संस्थापक कौन थे?",
+        "en": "Who was the founder of the League of Nations?"
+      },
+      "o": [
+        {
+          "hi": "फ्रैंकलिन रूजवेल्ट",
+          "en": "Franklin Roosevelt"
+        },
+        {
+          "hi": "विंस्टन चर्चिल",
+          "en": "Winston Churchill"
+        },
+        {
+          "hi": "वुडरो विल्सन",
+          "en": "Woodrow Wilson"
+        },
+        {
+          "hi": "जॉर्ज वाशिंगटन",
+          "en": "George Washington"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गोल्डन टेम्पल (स्वर्ण मंदिर) का निर्माण किसने करवाया था?",
+        "en": "Who built the Golden Temple (Harmandir Sahib)?"
+      },
+      "o": [
+        {
+          "hi": "गुरु नानक देव",
+          "en": "Guru Nanak Dev"
+        },
+        {
+          "hi": "गुरु तेग बहादुर",
+          "en": "Guru Tegh Bahadur"
+        },
+        {
+          "hi": "गुरु गोबिंद सिंह",
+          "en": "Guru Gobind Singh"
+        },
+        {
+          "hi": "गुरु अर्जुन देव",
+          "en": "Guru Arjan Dev"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "खालसा पंथ की स्थापना किस सिख गुरु ने की थी?",
+        "en": "Which Sikh Guru established the Khalsa Panth?"
+      },
+      "o": [
+        {
+          "hi": "गुरु गोबिंद सिंह",
+          "en": "Guru Gobind Singh"
+        },
+        {
+          "hi": "गुरु अर्जुन देव",
+          "en": "Guru Arjan Dev"
+        },
+        {
+          "hi": "गुरु नानक देव",
+          "en": "Guru Nanak Dev"
+        },
+        {
+          "hi": "गुरु अमरदास",
+          "en": "Guru Amar Das"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आर्य समाज की स्थापना 1875 में किसने की थी?",
+        "en": "Who founded Arya Samaj in 1875?"
+      },
+      "o": [
+        {
+          "hi": "राजा राममोहन राय",
+          "en": "Raja Ram Mohan Roy"
+        },
+        {
+          "hi": "स्वामी दयानंद सरस्वती",
+          "en": "Swami Dayananda Saraswati"
+        },
+        {
+          "hi": "स्वामी विवेकानंद",
+          "en": "Swami Vivekananda"
+        },
+        {
+          "hi": "ईश्वरचंद्र विद्यासागर",
+          "en": "Ishwar Chandra Vidyasagar"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ब्रह्म समाज की स्थापना किसने की थी?",
+        "en": "Who founded Brahma Samaj?"
+      },
+      "o": [
+        {
+          "hi": "स्वामी विवेकानंद",
+          "en": "Swami Vivekananda"
+        },
+        {
+          "hi": "दयानंद सरस्वती",
+          "en": "Dayananda Saraswati"
+        },
+        {
+          "hi": "राजा राममोहन राय",
+          "en": "Raja Ram Mohan Roy"
+        },
+        {
+          "hi": "केशवचंद्र सेन",
+          "en": "Keshub Chunder Sen"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रामकृष्ण मिशन की स्थापना 1897 में किसने की थी?",
+        "en": "Who founded Ramakrishna Mission in 1897?"
+      },
+      "o": [
+        {
+          "hi": "रामकृष्ण परमहंस",
+          "en": "Ramakrishna Paramahamsa"
+        },
+        {
+          "hi": "स्वामी विरजानंद",
+          "en": "Swami Virjanand"
+        },
+        {
+          "hi": "स्वामी दयानंद",
+          "en": "Swami Dayanand"
+        },
+        {
+          "hi": "स्वामी विवेकानंद",
+          "en": "Swami Vivekananda"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शांतिनिकेतन की स्थापना किसने की थी?",
+        "en": "Who founded Shantiniketan?"
+      },
+      "o": [
+        {
+          "hi": "रवींद्रनाथ टैगोर",
+          "en": "Rabindranath Tagore"
+        },
+        {
+          "hi": "देवेंद्रनाथ टैगोर",
+          "en": "Debendranath Tagore"
+        },
+        {
+          "hi": "सत्येंद्रनाथ टैगोर",
+          "en": "Satyendranath Tagore"
+        },
+        {
+          "hi": "बंकिमचंद्र चटर्जी",
+          "en": "Bankim Chandra Chatterjee"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व भारती विश्वविद्यालय की स्थापना किसने की थी?",
+        "en": "Who established Visva-Bharati University?"
+      },
+      "o": [
+        {
+          "hi": "ईश्वरचंद्र विद्यासागर",
+          "en": "Ishwar Chandra Vidyasagar"
+        },
+        {
+          "hi": "रवींद्रनाथ टैगोर",
+          "en": "Rabindranath Tagore"
+        },
+        {
+          "hi": "मदन मोहन मालवीय",
+          "en": "Madan Mohan Malaviya"
+        },
+        {
+          "hi": "आशुतोष मुखर्जी",
+          "en": "Asutosh Mukherjee"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बनारस हिंदू विश्वविद्यालय (BHU) के मुख्य संस्थापक कौन थे?",
+        "en": "Who was the main founder of Banaras Hindu University (BHU)?"
+      },
+      "o": [
+        {
+          "hi": "बाल गंगाधर तिलक",
+          "en": "Bal Gangadhar Tilak"
+        },
+        {
+          "hi": "गोपाल कृष्ण गोखले",
+          "en": "Gopal Krishna Gokhale"
+        },
+        {
+          "hi": "पंडित मदन मोहन मालवीय",
+          "en": "Pandit Madan Mohan Malaviya"
+        },
+        {
+          "hi": "लाला लाजपत राय",
+          "en": "Lala Lajpat Rai"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऑरोविले आश्रम (पुदुचेरी) की स्थापना किसने की थी?",
+        "en": "Who established Auroville Ashram (Puducherry)?"
+      },
+      "o": [
+        {
+          "hi": "रमण महर्षि",
+          "en": "Ramana Maharshi"
+        },
+        {
+          "hi": "स्वामी विवेकानंद",
+          "en": "Swami Vivekananda"
+        },
+        {
+          "hi": "परमहंस योगानंद",
+          "en": "Paramahansa Yogananda"
+        },
+        {
+          "hi": "श्री अरविंद घोष",
+          "en": "Sri Aurobindo Ghose"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आनंद वन की स्थापना किस कुष्ठ रोग निवारक समाज सेवी ने की थी?",
+        "en": "Who founded Anandwan for leprosy patients rehabilitation?"
+      },
+      "o": [
+        {
+          "hi": "बाबा आमटे",
+          "en": "Baba Amte"
+        },
+        {
+          "hi": "मेधा पाटकर",
+          "en": "Medha Patkar"
+        },
+        {
+          "hi": "सुंदरलाल बहुगुणा",
+          "en": "Sunderlal Bahuguna"
+        },
+        {
+          "hi": "अन्ना हजारे",
+          "en": "Anna Hazare"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नर्मदा बचाओ आंदोलन का मुख्य नेतृत्व किसने किया?",
+        "en": "Who led the Narmada Bachao Andolan?"
+      },
+      "o": [
+        {
+          "hi": "अरुंधति रॉय",
+          "en": "Arundhati Roy"
+        },
+        {
+          "hi": "मेधा पाटकर",
+          "en": "Medha Patkar"
+        },
+        {
+          "hi": "वंदना शिवा",
+          "en": "Vandana Shiva"
+        },
+        {
+          "hi": "इला भट्ट",
+          "en": "Ela Bhatt"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चिपको आंदोलन (Chipko Movement) के प्रमुख प्रणेता कौन थे?",
+        "en": "Who was the prominent leader of the Chipko Movement?"
+      },
+      "o": [
+        {
+          "hi": "बाबा आमटे",
+          "en": "Baba Amte"
+        },
+        {
+          "hi": "चंडी प्रसाद भट्ट",
+          "en": "Chandi Prasad Bhatt"
+        },
+        {
+          "hi": "सुंदरलाल बहुगुणा",
+          "en": "Sunderlal Bahuguna"
+        },
+        {
+          "hi": "राजेंद्र सिंह",
+          "en": "Rajendra Singh"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत के 'जल पुरुष' (Waterman of India) के रूप में किसे जाना जाता है?",
+        "en": "Who is known as the 'Waterman of India'?"
+      },
+      "o": [
+        {
+          "hi": "सुंदरलाल बहुगुणा",
+          "en": "Sunderlal Bahuguna"
+        },
+        {
+          "hi": "मेधा पाटकर",
+          "en": "Medha Patkar"
+        },
+        {
+          "hi": "अनिल अग्रवाल",
+          "en": "Anil Agarwal"
+        },
+        {
+          "hi": "राजेंद्र सिंह",
+          "en": "Rajendra Singh"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आजाद हिंद फौज (INA) का सर्वप्रथम विचार किसके मन में आया था?",
+        "en": "In whose mind did the initial concept of Azad Hind Fauj first arise?"
+      },
+      "o": [
+        {
+          "hi": "कैप्टन मोहन सिंह",
+          "en": "Captain Mohan Singh"
+        },
+        {
+          "hi": "सुभाष चंद्र बोस",
+          "en": "Subhas Chandra Bose"
+        },
+        {
+          "hi": "रास बिहारी बोस",
+          "en": "Rash Behari Bose"
+        },
+        {
+          "hi": "निरंजन सिंह गिल",
+          "en": "Niranjan Singh Gill"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आजाद हिंद फौज की विधिवत स्थापना व पुनर्गठन का श्रेय किसे दिया जाता है?",
+        "en": "Who is credited with reorganization and formal supreme leadership of Azad Hind Fauj?"
+      },
+      "o": [
+        {
+          "hi": "कैप्टन मोहन सिंह",
+          "en": "Captain Mohan Singh"
+        },
+        {
+          "hi": "नेताजी सुभाष चंद्र बोस",
+          "en": "Netaji Subhas Chandra Bose"
+        },
+        {
+          "hi": "रास बिहारी बोस",
+          "en": "Rash Behari Bose"
+        },
+        {
+          "hi": "शाहनवाज खान",
+          "en": "Shahnawaz Khan"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फॉरवर्ड ब्लॉक (Forward Bloc) की स्थापना किसने की थी?",
+        "en": "Who founded the Forward Bloc in 1939?"
+      },
+      "o": [
+        {
+          "hi": "भगत सिंह",
+          "en": "Bhagat Singh"
+        },
+        {
+          "hi": "चंद्रशेखर आजाद",
+          "en": "Chandra Shekhar Azad"
+        },
+        {
+          "hi": "सुभाष चंद्र बोस",
+          "en": "Subhas Chandra Bose"
+        },
+        {
+          "hi": "चित्तरंजन दास",
+          "en": "Chittaranjan Das"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्वराज पार्टी की स्थापना 1923 में मोतीलाल नेहरू और किसने की थी?",
+        "en": "Who founded the Swaraj Party in 1923 along with Motilal Nehru?"
+      },
+      "o": [
+        {
+          "hi": "महात्मा गांधी",
+          "en": "Mahatma Gandhi"
+        },
+        {
+          "hi": "जवाहरलाल नेहरू",
+          "en": "Jawaharlal Nehru"
+        },
+        {
+          "hi": "वल्लभभाई पटेल",
+          "en": "Vallabhbhai Patel"
+        },
+        {
+          "hi": "चित्तरंजन दास (सी.आर. दास)",
+          "en": "Chittaranjan Das (C.R. Das)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गदर पार्टी की स्थापना 1913 में सैन फ्रांसिस्को में किसने की थी?",
+        "en": "Who founded Ghadar Party in 1913 in San Francisco?"
+      },
+      "o": [
+        {
+          "hi": "लाला हरदयाल और सोहन सिंह भकना",
+          "en": "Lala Har Dayal & Sohan Singh Bhakna"
+        },
+        {
+          "hi": "श्यामजी कृष्ण वर्मा",
+          "en": "Shyamji Krishna Varma"
+        },
+        {
+          "hi": "विनायक दामोदर सावरकर",
+          "en": "V.D. Savarkar"
+        },
+        {
+          "hi": "मैडम भीकाजी कामा",
+          "en": "Madam Bhikaji Cama"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लंदन में 'इंडिया हाउस' की स्थापना किसने की थी?",
+        "en": "Who founded 'India House' in London?"
+      },
+      "o": [
+        {
+          "hi": "लाला हरदयाल",
+          "en": "Lala Har Dayal"
+        },
+        {
+          "hi": "श्यामजी कृष्ण वर्मा",
+          "en": "Shyamji Krishna Varma"
+        },
+        {
+          "hi": "मदन लाल ढींगरा",
+          "en": "Madan Lal Dhingra"
+        },
+        {
+          "hi": "रास बिहारी बोस",
+          "en": "Rash Behari Bose"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अभिनव भारत नामक गुप्त क्रांतिकारी संस्था किसने गठित की थी?",
+        "en": "Who formed secret revolutionary society 'Abhinav Bharat'?"
+      },
+      "o": [
+        {
+          "hi": "भगत सिंह",
+          "en": "Bhagat Singh"
+        },
+        {
+          "hi": "बरिंद्र घोष",
+          "en": "Barindra Ghosh"
+        },
+        {
+          "hi": "विनायक दामोदर सावरकर (वी.डी. सावरकर)",
+          "en": "Vinayak Damodar Savarkar"
+        },
+        {
+          "hi": "जतींद्रनाथ मुखर्जी",
+          "en": "Jatindranath Mukherjee"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सर्वेंट्स ऑफ इंडिया सोसायटी (भारत सेवक समाज) की स्थापना 1905 में किसने की?",
+        "en": "Who founded Servants of India Society in 1905?"
+      },
+      "o": [
+        {
+          "hi": "बाल गंगाधर तिलक",
+          "en": "Bal Gangadhar Tilak"
+        },
+        {
+          "hi": "लाला लाजपत राय",
+          "en": "Lala Lajpat Rai"
+        },
+        {
+          "hi": "बिपिन चंद्र पाल",
+          "en": "Bipin Chandra Pal"
+        },
+        {
+          "hi": "गोपाल कृष्ण गोखले",
+          "en": "Gopal Krishna Gokhale"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सत्यशोधक समाज की स्थापना 1873 में किसने की थी?",
+        "en": "Who founded Satya Shodhak Samaj in 1873?"
+      },
+      "o": [
+        {
+          "hi": "महात्मा ज्योतिराव फुले",
+          "en": "Mahatma Jyotirao Phule"
+        },
+        {
+          "hi": "डॉ. बी.आर. अंबेडकर",
+          "en": "Dr. B.R. Ambedkar"
+        },
+        {
+          "hi": "सावित्रीबाई फुले",
+          "en": "Savitribai Phule"
+        },
+        {
+          "hi": "पेरियार ई.वी. रामास्वामी",
+          "en": "Periyar E.V. Ramasamy"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बहिष्कृत हितकारिणी सभा (1924) की स्थापना किसने की थी?",
+        "en": "Who founded Bahishkrit Hitakarini Sabha in 1924?"
+      },
+      "o": [
+        {
+          "hi": "ज्योतिराव फुले",
+          "en": "Jyotirao Phule"
+        },
+        {
+          "hi": "डॉ. भीमराव अंबेडकर",
+          "en": "Dr. Bhimrao Ambedkar"
+        },
+        {
+          "hi": "जगजीवन राम",
+          "en": "Jagjivan Ram"
+        },
+        {
+          "hi": "कांशीराम",
+          "en": "Kanshi Ram"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आत्मसम्मान आंदोलन (Self-Respect Movement) की शुरुआत किसने की?",
+        "en": "Who started the Self-Respect Movement?"
+      },
+      "o": [
+        {
+          "hi": "सी. राजगोपालाचारी",
+          "en": "C. Rajagopalachari"
+        },
+        {
+          "hi": "के. कामराज",
+          "en": "K. Kamaraj"
+        },
+        {
+          "hi": "पेरियार ई.वी. रामास्वामी",
+          "en": "Periyar E.V. Ramasamy"
+        },
+        {
+          "hi": "सी.एन. अन्नादुरई",
+          "en": "C.N. Annadurai"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आधुनिक तुर्की का निर्माता किसे माना जाता है?",
+        "en": "Who is considered the maker/founder of modern Turkey?"
+      },
+      "o": [
+        {
+          "hi": "ओसमान प्रथम",
+          "en": "Osman I"
+        },
+        {
+          "hi": "सुलतान सुलेमान",
+          "en": "Sultan Suleiman"
+        },
+        {
+          "hi": "अनवर पाशा",
+          "en": "Enver Pasha"
+        },
+        {
+          "hi": "मुस्तफा कमाल अतातुर्क",
+          "en": "Mustafa Kemal Ataturk"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इटली के एकीकरण का जनक किसे माना जाता है?",
+        "en": "Who is considered the pioneer/father of Italian unification?"
+      },
+      "o": [
+        {
+          "hi": "जोसेफ मैजिनी",
+          "en": "Giuseppe Mazzini"
+        },
+        {
+          "hi": "काउंट कावूर",
+          "en": "Count Cavour"
+        },
+        {
+          "hi": "गैरीबाल्डी",
+          "en": "Garibaldi"
+        },
+        {
+          "hi": "विक्टर इमैनुएल",
+          "en": "Victor Emmanuel"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जर्मनी के एकीकरण का श्रेय किसे दिया जाता है?",
+        "en": "Who is credited with the unification of Germany?"
+      },
+      "o": [
+        {
+          "hi": "कैसर विलियम प्रथम",
+          "en": "Kaiser Wilhelm I"
+        },
+        {
+          "hi": "ओटो वॉन बिस्मार्क",
+          "en": "Otto von Bismarck"
+        },
+        {
+          "hi": "हिटलर",
+          "en": "Hitler"
+        },
+        {
+          "hi": "फ्रेडरिक महान",
+          "en": "Frederick the Great"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रूसी क्रांति (1917) का मुख्य जनक किसे माना जाता है?",
+        "en": "Who is considered the architect of Russian Revolution (1917)?"
+      },
+      "o": [
+        {
+          "hi": "लियो टॉल्स्टॉय",
+          "en": "Leo Tolstoy"
+        },
+        {
+          "hi": "जोसेफ स्टालिन",
+          "en": "Joseph Stalin"
+        },
+        {
+          "hi": "व्लादिमीर लेनिन",
+          "en": "Vladimir Lenin"
+        },
+        {
+          "hi": "लियोन ट्रॉट्स्की",
+          "en": "Leon Trotsky"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चीन में 1911 की क्रांति के नेता और चीनी गणराज्य के संस्थापक कौन थे?",
+        "en": "Who led the 1911 Revolution in China and founded the Republic of China?"
+      },
+      "o": [
+        {
+          "hi": "माओ त्से तुंग",
+          "en": "Mao Zedong"
+        },
+        {
+          "hi": "च्यांग काई शेक",
+          "en": "Chiang Kai-shek"
+        },
+        {
+          "hi": "चाउ एन लाई",
+          "en": "Zhou Enlai"
+        },
+        {
+          "hi": "डॉ. सन यात सेन",
+          "en": "Dr. Sun Yat-sen"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अमेरिका में नागरिक अधिकार आंदोलन (Civil Rights Movement) के प्रमुख नेता कौन थे?",
+        "en": "Who was the prominent leader of Civil Rights Movement in the US?"
+      },
+      "o": [
+        {
+          "hi": "मार्टिन लूथर किंग जूनियर",
+          "en": "Martin Luther King Jr."
+        },
+        {
+          "hi": "अब्राहम लिंकन",
+          "en": "Abraham Lincoln"
+        },
+        {
+          "hi": "माल्कम एक्स",
+          "en": "Malcolm X"
+        },
+        {
+          "hi": "जॉर्ज वाशिंगटन",
+          "en": "George Washington"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अमेरिका में दास प्रथा का अंत किस राष्ट्रपति ने किया था?",
+        "en": "Which US President abolished slavery in the United States?"
+      },
+      "o": [
+        {
+          "hi": "जॉर्ज वाशिंगटन",
+          "en": "George Washington"
+        },
+        {
+          "hi": "अब्राहम लिंकन",
+          "en": "Abraham Lincoln"
+        },
+        {
+          "hi": "थॉमस जेफरसन",
+          "en": "Thomas Jefferson"
+        },
+        {
+          "hi": "थियोडोर रूजवेल्ट",
+          "en": "Theodore Roosevelt"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दक्षिण अफ्रीका में रंगभेद नीति (Apartheid) के विरुद्ध लंबा संघर्ष किसने लड़ा?",
+        "en": "Who led the long struggle against Apartheid in South Africa?"
+      },
+      "o": [
+        {
+          "hi": "डेसमंड टूटू",
+          "en": "Desmond Tutu"
+        },
+        {
+          "hi": "रॉबर्ट मुगाबे",
+          "en": "Robert Mugabe"
+        },
+        {
+          "hi": "नेल्सन मंडेला",
+          "en": "Nelson Mandela"
+        },
+        {
+          "hi": "क्वामे नक्रूमा",
+          "en": "Kwame Nkrumah"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आधुनिक नर्सिंग आंदोलन की जन्मदाता किसे माना जाता है (लेडी विद द लैम्प)?",
+        "en": "Who is considered the founder of modern nursing (Lady with the Lamp)?"
+      },
+      "o": [
+        {
+          "hi": "मदर टेरेसा",
+          "en": "Mother Teresa"
+        },
+        {
+          "hi": "सरोजिनी नायडू",
+          "en": "Sarojini Naidu"
+        },
+        {
+          "hi": "क्लारा बार्टन",
+          "en": "Clara Barton"
+        },
+        {
+          "hi": "फ्लोरेंस नाइटिंगेल",
+          "en": "Florence Nightingale"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मिशनरीज ऑफ चैरिटी की स्थापना किसने की थी?",
+        "en": "Who founded the Missionaries of Charity in Kolkata?"
+      },
+      "o": [
+        {
+          "hi": "मदर टेरेसा",
+          "en": "Mother Teresa"
+        },
+        {
+          "hi": "सिस्टर निवेदिता",
+          "en": "Sister Nivedita"
+        },
+        {
+          "hi": "एनी बेसेंट",
+          "en": "Annie Besant"
+        },
+        {
+          "hi": "फ्लोरेंस नाइटिंगेल",
+          "en": "Florence Nightingale"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "थियोसोफिकल सोसायटी की स्थापना 1875 में न्यूयॉर्क में किसने की थी?",
+        "en": "Who founded Theosophical Society in 1875 in New York?"
+      },
+      "o": [
+        {
+          "hi": "एनी बेसेंट",
+          "en": "Annie Besant"
+        },
+        {
+          "hi": "मैडम ब्लावत्स्की और कर्नल अल्काट",
+          "en": "Madam Blavatsky & Col Olcott"
+        },
+        {
+          "hi": "स्वामी विवेकानंद",
+          "en": "Swami Vivekananda"
+        },
+        {
+          "hi": "राजा राममोहन राय",
+          "en": "Raja Ram Mohan Roy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "साबरमती आश्रम की स्थापना 1916 में अहमदाबाद में किसने की थी?",
+        "en": "Who established Sabarmati Ashram in 1916 in Ahmedabad?"
+      },
+      "o": [
+        {
+          "hi": "सरदार वल्लभभाई पटेल",
+          "en": "Sardar Vallabhbhai Patel"
+        },
+        {
+          "hi": "गोपाल कृष्ण गोखले",
+          "en": "Gopal Krishna Gokhale"
+        },
+        {
+          "hi": "महात्मा गांधी",
+          "en": "Mahatma Gandhi"
+        },
+        {
+          "hi": "आचार्य विनोबा भावे",
+          "en": "Acharya Vinoba Bhave"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रार्थना समाज की स्थापना 1867 में बंबई में किसने की थी?",
+        "en": "Who founded Prarthana Samaj in Bombay in 1867?"
+      },
+      "o": [
+        {
+          "hi": "केशवचंद्र सेन",
+          "en": "Keshub Chunder Sen"
+        },
+        {
+          "hi": "दयानंद सरस्वती",
+          "en": "Dayananda Saraswati"
+        },
+        {
+          "hi": "महात्मा फुले",
+          "en": "Mahatma Phule"
+        },
+        {
+          "hi": "आत्माराम पांडुरंग",
+          "en": "Atmaram Pandurang"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यंग बंगाल आंदोलन (Young Bengal Movement) के प्रवर्तक कौन थे?",
+        "en": "Who was the pioneer of the Young Bengal Movement?"
+      },
+      "o": [
+        {
+          "hi": "हेनरी विवियन डेरोजियो",
+          "en": "Henry Vivian Derozio"
+        },
+        {
+          "hi": "डेविड हेयर",
+          "en": "David Hare"
+        },
+        {
+          "hi": "ईश्वरचंद्र विद्यासागर",
+          "en": "Ishwar Chandra Vidyasagar"
+        },
+        {
+          "hi": "द्वारकानाथ टैगोर",
+          "en": "Dwarkanath Tagore"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अखिल भारतीय हरिजन संघ की स्थापना 1932 में किसने की थी?",
+        "en": "Who founded the All India Harijan Sevak Sangh in 1932?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. बी.आर. अंबेडकर",
+          "en": "Dr. B.R. Ambedkar"
+        },
+        {
+          "hi": "महात्मा गांधी",
+          "en": "Mahatma Gandhi"
+        },
+        {
+          "hi": "जगजीवन राम",
+          "en": "Jagjivan Ram"
+        },
+        {
+          "hi": "ठक्कर बापा",
+          "en": "Thakkar Bapa"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

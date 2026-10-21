@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विविध (Miscellaneous)",
+  "subtitle": "भारत के प्रमुख पर्यटन स्थल",
+  "description": "भारत के प्रमुख पर्यटन स्थल पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "अजंता की गुफाएं महाराष्ट्र के किस जिले में स्थित हैं?",
+        "en": "In which district of Maharashtra are the Ajanta Caves located?"
+      },
+      "o": [
+        {
+          "hi": "औरंगाबाद (छत्रपति संभाजीनगर)",
+          "en": "Aurangabad (Chhatrapati Sambhajinagar)"
+        },
+        {
+          "hi": "पुणे",
+          "en": "Pune"
+        },
+        {
+          "hi": "नासिक",
+          "en": "Nashik"
+        },
+        {
+          "hi": "नागपुर",
+          "en": "Nagpur"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एलोरा का प्रसिद्ध कैलाश गुफा मंदिर किस राजवंश के शासकों ने बनवाया था?",
+        "en": "Which dynasty rulers constructed the monolithic Kailash Temple at Ellora?"
+      },
+      "o": [
+        {
+          "hi": "चालुक्य राजवंश",
+          "en": "Chalukya Dynasty"
+        },
+        {
+          "hi": "राष्ट्रकूट राजवंश (कृष्ण प्रथम)",
+          "en": "Rashtrakuta Dynasty (Krishna I)"
+        },
+        {
+          "hi": "पल्लव राजवंश",
+          "en": "Pallava Dynasty"
+        },
+        {
+          "hi": "गुप्त राजवंश",
+          "en": "Gupta Dynasty"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एलीफेंटा की ऐतिहासिक गुफाएं कहाँ स्थित हैं?",
+        "en": "Where are the historic rock-cut Elephanta Caves located?"
+      },
+      "o": [
+        {
+          "hi": "औरंगाबाद (महाराष्ट्र)",
+          "en": "Aurangabad (Maharashtra)"
+        },
+        {
+          "hi": "हैदराबाद (तेलंगाना)",
+          "en": "Hyderabad (Telangana)"
+        },
+        {
+          "hi": "मुंबई (महाराष्ट्र)",
+          "en": "Mumbai (Maharashtra)"
+        },
+        {
+          "hi": "गोवा",
+          "en": "Goa"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कंदरिया महादेव मंदिर मध्य प्रदेश में कहाँ स्थित है?",
+        "en": "Where is the Kandariya Mahadeva Temple located in Madhya Pradesh?"
+      },
+      "o": [
+        {
+          "hi": "ग्वालियर",
+          "en": "Gwalior"
+        },
+        {
+          "hi": "उज्जैन",
+          "en": "Ujjain"
+        },
+        {
+          "hi": "ओरछा",
+          "en": "Orchha"
+        },
+        {
+          "hi": "खजुराहो (छतरपुर)",
+          "en": "Khajuraho (Chhatarpur)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "खजुराहो के भव्य मंदिरों का निर्माण किन मध्यकालीन शासकों ने करवाया था?",
+        "en": "Which medieval Rajput rulers constructed the Khajuraho temples?"
+      },
+      "o": [
+        {
+          "hi": "चंदेल राजाओं ने",
+          "en": "Chandela Rulers"
+        },
+        {
+          "hi": "परमार राजाओं ने",
+          "en": "Paramara Rulers"
+        },
+        {
+          "hi": "प्रतिहार राजाओं ने",
+          "en": "Pratihara Rulers"
+        },
+        {
+          "hi": "तोमर राजाओं ने",
+          "en": "Tomar Rulers"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ग्वालियर का प्रसिद्ध मृगनयनी महल किसने बनवाया था?",
+        "en": "Who built the famous Mrignayani Palace in Gwalior Fort?"
+      },
+      "o": [
+        {
+          "hi": "राजा विक्रमादित्य",
+          "en": "Raja Vikramaditya"
+        },
+        {
+          "hi": "राजा मानसिंह तोमर",
+          "en": "Raja Man Singh Tomar"
+        },
+        {
+          "hi": "सूरज सेन",
+          "en": "Suraj Sen"
+        },
+        {
+          "hi": "माधवराव सिंधिया",
+          "en": "Madhavrao Scindia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मध्य प्रदेश का ऐतिहासिक 'धार का किला' किसने बनवाया था?",
+        "en": "Who constructed the historic Dhar Fort in Madhya Pradesh?"
+      },
+      "o": [
+        {
+          "hi": "अलाउद्दीन खिलजी",
+          "en": "Alauddin Khalji"
+        },
+        {
+          "hi": "राजा भोज",
+          "en": "Raja Bhoj"
+        },
+        {
+          "hi": "मोहम्मद बिन तुगलक",
+          "en": "Muhammad bin Tughluq"
+        },
+        {
+          "hi": "फिरोज शाह तुगलक",
+          "en": "Firoz Shah Tughlaq"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गोलकुंडा का प्रसिद्ध ऐतिहासिक किला कहाँ स्थित है?",
+        "en": "Where is the famous historic Golconda Fort located?"
+      },
+      "o": [
+        {
+          "hi": "बीजापुर (कर्नाटक)",
+          "en": "Bijapur (Karnataka)"
+        },
+        {
+          "hi": "गुलबर्गा (कर्नाटक)",
+          "en": "Gulbarga (Karnataka)"
+        },
+        {
+          "hi": "वारंगल (तेलंगाना)",
+          "en": "Warangal (Telangana)"
+        },
+        {
+          "hi": "हैदराबाद (तेलंगाना)",
+          "en": "Hyderabad (Telangana)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गोलकुंडा किले का निर्माण किस सल्तनत के शासकों ने करवाया था?",
+        "en": "Which sultanate dynasty rulers established and fortified Golconda Fort?"
+      },
+      "o": [
+        {
+          "hi": "कुतुबशाही वंश",
+          "en": "Qutb Shahi Dynasty"
+        },
+        {
+          "hi": "आदिलशाही वंश",
+          "en": "Adil Shahi Dynasty"
+        },
+        {
+          "hi": "निजामशाही वंश",
+          "en": "Nizam Shahi Dynasty"
+        },
+        {
+          "hi": "बरीदशाही वंश",
+          "en": "Barid Shahi Dynasty"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोचीन का किला (भारत में प्रथम पुर्तगाली किला) कहाँ स्थित है?",
+        "en": "Where is Fort Kochi (first European/Portuguese fort in India) located?"
+      },
+      "o": [
+        {
+          "hi": "तिरुवनंतपुरम (केरल)",
+          "en": "Thiruvananthapuram"
+        },
+        {
+          "hi": "कोच्चि (केरल)",
+          "en": "Kochi (Kerala)"
+        },
+        {
+          "hi": "कालीकट (केरल)",
+          "en": "Kozhikode"
+        },
+        {
+          "hi": "गोवा",
+          "en": "Goa"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चित्तौड़गढ़ में स्थित प्रसिद्ध 'विजय स्तंभ' (Victory Tower) किसने बनवाया था?",
+        "en": "Who constructed the historic Vijay Stambha at Chittorgarh?"
+      },
+      "o": [
+        {
+          "hi": "महाराणा प्रताप",
+          "en": "Maharana Pratap"
+        },
+        {
+          "hi": "राणा सांगा",
+          "en": "Rana Sanga"
+        },
+        {
+          "hi": "महाराणा कुंभा",
+          "en": "Maharana Kumbha"
+        },
+        {
+          "hi": "रावल रतन सिंह",
+          "en": "Rawal Ratan Singh"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महाराणा कुंभा ने विजय स्तंभ किस ऐतिहासिक विजय के उपलक्ष्य में बनवाया था?",
+        "en": "Commemorating victory over whom did Maharana Kumbha erect Vijay Stambha?"
+      },
+      "o": [
+        {
+          "hi": "मुगलों पर विजय",
+          "en": "Victory over Mughals"
+        },
+        {
+          "hi": "दिल्ली सल्तनत पर",
+          "en": "Delhi Sultanate"
+        },
+        {
+          "hi": "मारवाड़ पर",
+          "en": "Marwar"
+        },
+        {
+          "hi": "मालवा और गुजरात के सुल्तानों पर विजय (सारंगपुर युद्ध)",
+          "en": "Victory over Malwa & Gujarat (Sarangpur)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व की दूसरी सबसे लम्बी दीवार वाला 'कुंभलगढ़ का किला' कहाँ है?",
+        "en": "Where is Kumbhalgarh Fort, possessing world's 2nd longest wall, located?"
+      },
+      "o": [
+        {
+          "hi": "राजसमंद (राजस्थान)",
+          "en": "Rajsamand (Rajasthan)"
+        },
+        {
+          "hi": "चित्तौड़गढ़ (राजस्थान)",
+          "en": "Chittorgarh (Rajasthan)"
+        },
+        {
+          "hi": "उदयपुर (राजस्थान)",
+          "en": "Udaipur (Rajasthan)"
+        },
+        {
+          "hi": "जोधपुर (राजस्थान)",
+          "en": "Jodhpur (Rajasthan)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जयपुर का विश्व प्रसिद्ध 'आमेर का किला' मूलतः किसने बनवाया था?",
+        "en": "Who constructed the grand Amber Fort near Jaipur?"
+      },
+      "o": [
+        {
+          "hi": "सवाई जयसिंह द्वितीय",
+          "en": "Sawai Jai Singh II"
+        },
+        {
+          "hi": "राजा मानसिंह प्रथम",
+          "en": "Raja Man Singh I"
+        },
+        {
+          "hi": "सवाई प्रताप सिंह",
+          "en": "Sawai Pratap Singh"
+        },
+        {
+          "hi": "राजा भारमल",
+          "en": "Raja Bharmal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जयपुर का 'हवा महल' (1799 ई.) किस राजपूत राजा द्वारा बनवाया गया था?",
+        "en": "Who built the iconic Hawa Mahal in Jaipur in 1799?"
+      },
+      "o": [
+        {
+          "hi": "सवाई जयसिंह द्वितीय",
+          "en": "Sawai Jai Singh II"
+        },
+        {
+          "hi": "सवाई मानसिंह",
+          "en": "Sawai Man Singh"
+        },
+        {
+          "hi": "सवाई प्रताप सिंह",
+          "en": "Sawai Pratap Singh"
+        },
+        {
+          "hi": "राजा जयसिंह प्रथम",
+          "en": "Raja Jai Singh I"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सवाई जयसिंह द्वितीय ने भारत में कितनी खगोलीय वेधशालाएं (जंतर-मंतर) बनवाईं?",
+        "en": "How many Jantar Mantar observatories were built by Sawai Jai Singh II?"
+      },
+      "o": [
+        {
+          "hi": "चार",
+          "en": "Four"
+        },
+        {
+          "hi": "तीन",
+          "en": "Three"
+        },
+        {
+          "hi": "छह",
+          "en": "Six"
+        },
+        {
+          "hi": "पाँच (जयपुर, दिल्ली, उज्जैन, वाराणसी, मथुरा)",
+          "en": "Five (Jaipur, Delhi, Ujjain, Varanasi, Mathura)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जूनागढ़ का किला (जमीन का जेवर) राजस्थान के किस शहर में स्थित है?",
+        "en": "Where is the famous Junagarh Fort located in Rajasthan?"
+      },
+      "o": [
+        {
+          "hi": "बीकानेर (राजा रायसिंह द्वारा)",
+          "en": "Bikaner (Raja Rai Singh)"
+        },
+        {
+          "hi": "जैसलमेर",
+          "en": "Jaisalmer"
+        },
+        {
+          "hi": "जोधपुर",
+          "en": "Jodhpur"
+        },
+        {
+          "hi": "अलवर",
+          "en": "Alwar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जोधपुर का अभेद्य 'मेहरानगढ़ का किला' 1459 ई. में किसने बनवाया था?",
+        "en": "Who founded and built Mehrangarh Fort in Jodhpur in 1459?"
+      },
+      "o": [
+        {
+          "hi": "राव मालदेव",
+          "en": "Rao Maldeo"
+        },
+        {
+          "hi": "राव जोधा",
+          "en": "Rao Jodha"
+        },
+        {
+          "hi": "महाराजा जसवंत सिंह",
+          "en": "Jaswant Singh"
+        },
+        {
+          "hi": "राणा कुंभा",
+          "en": "Rana Kumbha"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फतेहपुर सीकरी का निर्माण मुगल काल में किस सम्राट ने करवाया था?",
+        "en": "Which Mughal Emperor founded and built the city of Fatehpur Sikri?"
+      },
+      "o": [
+        {
+          "hi": "शाहजहाँ",
+          "en": "Shah Jahan"
+        },
+        {
+          "hi": "जहाँगीर",
+          "en": "Jahangir"
+        },
+        {
+          "hi": "अकबर",
+          "en": "Akbar"
+        },
+        {
+          "hi": "बाबर",
+          "en": "Babur"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आगरा का लाल किला किस मुगल शासक द्वारा बनवाया गया था?",
+        "en": "Who commissioned and built the red sandstone Agra Fort?"
+      },
+      "o": [
+        {
+          "hi": "शाहजहाँ",
+          "en": "Shah Jahan"
+        },
+        {
+          "hi": "हुमायूँ",
+          "en": "Humayun"
+        },
+        {
+          "hi": "शेरशाह सूरी",
+          "en": "Sher Shah Suri"
+        },
+        {
+          "hi": "अकबर",
+          "en": "Akbar"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दिल्ली का ऐतिहासिक 'लाल किला' (Red Fort) किसने बनवाया था?",
+        "en": "Who built the historic Red Fort in Delhi (1638-1648)?"
+      },
+      "o": [
+        {
+          "hi": "शाहजहाँ",
+          "en": "Shah Jahan"
+        },
+        {
+          "hi": "अकबर",
+          "en": "Akbar"
+        },
+        {
+          "hi": "जहाँगीर",
+          "en": "Jahangir"
+        },
+        {
+          "hi": "औरंगजेब",
+          "en": "Aurangzeb"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दिल्ली की प्रसिद्ध 'जामा मस्जिद' का निर्माण किसने करवाया था?",
+        "en": "Who built the monumental Jama Masjid in Delhi?"
+      },
+      "o": [
+        {
+          "hi": "अकबर",
+          "en": "Akbar"
+        },
+        {
+          "hi": "शाहजहाँ",
+          "en": "Shah Jahan"
+        },
+        {
+          "hi": "कुतुबुद्दीन ऐबक",
+          "en": "Qutb-ud-din Aibak"
+        },
+        {
+          "hi": "इल्तुतमिश",
+          "en": "Iltutmish"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दिल्ली में स्थित हुमायूँ का मकबरा किसने बनवाया था?",
+        "en": "Who commissioned Humayun's Tomb in Delhi?"
+      },
+      "o": [
+        {
+          "hi": "अकबर",
+          "en": "Akbar"
+        },
+        {
+          "hi": "नूरजहाँ",
+          "en": "Noor Jahan"
+        },
+        {
+          "hi": "हाजी बेगम (हमीदा बानो बेगम)",
+          "en": "Haji Begum (Bega Begum)"
+        },
+        {
+          "hi": "गुलबदन बेगम",
+          "en": "Gulbadan Begum"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हुमायूँ के मकबरे के मुख्य वास्तुकार (Architect) कौन थे?",
+        "en": "Who was the chief Persian architect of Humayun's Tomb?"
+      },
+      "o": [
+        {
+          "hi": "उस्ताद अहमद लाहौरी",
+          "en": "Ustad Ahmad Lahori"
+        },
+        {
+          "hi": "ईसा खान",
+          "en": "Isa Khan"
+        },
+        {
+          "hi": "जॉर्ज विटेट",
+          "en": "George Wittet"
+        },
+        {
+          "hi": "मीरक मिर्जा गियाथ",
+          "en": "Mirak Mirza Ghiyas"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सफदरजंग का प्रसिद्ध मकबरा कहाँ स्थित है?",
+        "en": "Where is the historic Safdarjung Tomb located?"
+      },
+      "o": [
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "आगरा",
+          "en": "Agra"
+        },
+        {
+          "hi": "लखनऊ",
+          "en": "Lucknow"
+        },
+        {
+          "hi": "हैदराबाद",
+          "en": "Hyderabad"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अमृतसर के स्वर्ण मंदिर (हरमंदिर साहिब) की आधारशिला किसने रखी थी?",
+        "en": "Who laid the foundation stone of Golden Temple (Harmandir Sahib)?"
+      },
+      "o": [
+        {
+          "hi": "गुरु नानक देव जी",
+          "en": "Guru Nanak Dev"
+        },
+        {
+          "hi": "सूफी संत मियां मीर",
+          "en": "Sufi Saint Mian Mir"
+        },
+        {
+          "hi": "गुरु अर्जुन देव जी",
+          "en": "Guru Arjan Dev"
+        },
+        {
+          "hi": "गुरु गोविंद सिंह जी",
+          "en": "Guru Gobind Singh"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्वर्ण मंदिर के लिए भूमि किस मुगल बादशाह ने दान में दी थी?",
+        "en": "Which Mughal Emperor donated the land for the Golden Temple?"
+      },
+      "o": [
+        {
+          "hi": "शाहजहाँ",
+          "en": "Shah Jahan"
+        },
+        {
+          "hi": "जहाँगीर",
+          "en": "Jahangir"
+        },
+        {
+          "hi": "अकबर",
+          "en": "Akbar"
+        },
+        {
+          "hi": "बाबर",
+          "en": "Babur"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्वर्ण मंदिर पर स्वर्ण (सोने) की परत किस सिख शासक ने चढ़वाई थी?",
+        "en": "Which Sikh ruler gold-plated the upper sanctum of Harmandir Sahib?"
+      },
+      "o": [
+        {
+          "hi": "महाराजा दलीप सिंह",
+          "en": "Maharaja Duleep Singh"
+        },
+        {
+          "hi": "खड़क सिंह",
+          "en": "Kharak Singh"
+        },
+        {
+          "hi": "बंदा सिंह बहादुर",
+          "en": "Banda Singh Bahadur"
+        },
+        {
+          "hi": "महाराजा रणजीत सिंह",
+          "en": "Maharaja Ranjit Singh"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "माउंट आबू (राजस्थान) का प्रसिद्ध दिलवाड़ा जैन मंदिर किसने बनवाया था?",
+        "en": "Who built the famous Dilwara Jain marble temples at Mount Abu?"
+      },
+      "o": [
+        {
+          "hi": "विमल शाह (चालुक्य सोलंकी मंत्री)",
+          "en": "Vimal Shah (Solanki Minister)"
+        },
+        {
+          "hi": "तेजपाल और वास्तुपाल",
+          "en": "Tejpal and Vastupal"
+        },
+        {
+          "hi": "राणा कुंभा",
+          "en": "Rana Kumbha"
+        },
+        {
+          "hi": "राजा मानसिंह",
+          "en": "Raja Man Singh"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोणार्क (ओडिशा) का प्रसिद्ध सूर्य मंदिर किस गंग शासक ने बनवाया था?",
+        "en": "Which Eastern Ganga King built the Konark Sun Temple in 13th century?"
+      },
+      "o": [
+        {
+          "hi": "अनंतवर्मन चोडगंग",
+          "en": "Anantavarman Chodaganga"
+        },
+        {
+          "hi": "नरसिंह देव प्रथम",
+          "en": "Narasimhadeva I"
+        },
+        {
+          "hi": "इंद्रवर्मन",
+          "en": "Indravarman"
+        },
+        {
+          "hi": "कपिलेंद्र देव",
+          "en": "Kapilendra Deva"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कोणार्क के सूर्य मंदिर को यूरोपीय नाविक क्या कहते थे?",
+        "en": "What did European sailors historically call the Konark Sun Temple?"
+      },
+      "o": [
+        {
+          "hi": "व्हाइट पैगोडा (White Pagoda)",
+          "en": "White Pagoda"
+        },
+        {
+          "hi": "गोल्डन पैगोडा",
+          "en": "Golden Pagoda"
+        },
+        {
+          "hi": "ब्लैक पैगोडा (Black Pagoda)",
+          "en": "Black Pagoda"
+        },
+        {
+          "hi": "सन स्टोन",
+          "en": "Sun Stone"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पुरी (ओडिशा) का प्रसिद्ध 'जगन्नाथ मंदिर' किसने बनवाया था?",
+        "en": "Who constructed the famous Jagannath Temple at Puri?"
+      },
+      "o": [
+        {
+          "hi": "नरसिंह देव प्रथम",
+          "en": "Narasimhadeva I"
+        },
+        {
+          "hi": "ययाति केसरी",
+          "en": "Yayati Keshari"
+        },
+        {
+          "hi": "प्रतापरुद्र देव",
+          "en": "Prataprudra Deva"
+        },
+        {
+          "hi": "अनंतवर्मन चोडगंग देव",
+          "en": "Anantavarman Chodaganga Deva"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तंजावुर (तमिलनाडु) का भव्य 'बृहदेश्वर मंदिर' किसने बनवाया था?",
+        "en": "Who constructed the magnificent Brihadeeswarar Temple at Thanjavur?"
+      },
+      "o": [
+        {
+          "hi": "राजराज प्रथम (चोल वंश)",
+          "en": "Rajaraja I (Chola Dynasty)"
+        },
+        {
+          "hi": "राजेंद्र प्रथम",
+          "en": "Rajendra I"
+        },
+        {
+          "hi": "कुलोत्तुंग प्रथम",
+          "en": "Kulottunga I"
+        },
+        {
+          "hi": "प्रांतक प्रथम",
+          "en": "Parantaka I"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मदुरै (तमिलनाडु) का प्रसिद्ध मीनाक्षी-सुंदरेश्वर मंदिर किस शैली में है?",
+        "en": "In which Dravidian architectural style is the Meenakshi Temple built?"
+      },
+      "o": [
+        {
+          "hi": "नागर शैली",
+          "en": "Nagara Style"
+        },
+        {
+          "hi": "द्रविड़ स्थापत्य शैली (पांड्य/नायक शासक)",
+          "en": "Dravidian Style (Pandya/Nayak)"
+        },
+        {
+          "hi": "वेसर शैली",
+          "en": "Vesara Style"
+        },
+        {
+          "hi": "कलिंग शैली",
+          "en": "Kalinga Style"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "महाबलीपुरम के एकाश्मक 'रथ मंदिर' (Rock-cut Rathas) किसने बनवाए थे?",
+        "en": "Who built the monolithic Rock-cut Rathas at Mahabalipuram?"
+      },
+      "o": [
+        {
+          "hi": "महेंद्रवर्मन प्रथम",
+          "en": "Mahendravarman I"
+        },
+        {
+          "hi": "नंदीवर्मन",
+          "en": "Nandivarman"
+        },
+        {
+          "hi": "नरसिंहवर्मन प्रथम (पल्लव वंश)",
+          "en": "Narasimhavarman I (Pallava Dynasty)"
+        },
+        {
+          "hi": "राजराज चोल",
+          "en": "Rajaraja Chola"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कांशीपुरम का प्रसिद्ध 'कैलाशनाथ मंदिर' किस पल्लव शासक ने बनवाया था?",
+        "en": "Who built the Kailasanatha Temple at Kanchipuram?"
+      },
+      "o": [
+        {
+          "hi": "महेंद्रवर्मन प्रथम",
+          "en": "Mahendravarman I"
+        },
+        {
+          "hi": "नरसिंहवर्मन प्रथम",
+          "en": "Narasimhavarman I"
+        },
+        {
+          "hi": "दंतिवर्मन",
+          "en": "Dantivarman"
+        },
+        {
+          "hi": "नरसिंहवर्मन द्वितीय (राजसिंह)",
+          "en": "Narasimhavarman II (Rajasimha)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कर्नाटक का प्रसिद्ध 'गोल गुम्बज' (मुहम्मद आदिल शाह का मकबरा) कहाँ है?",
+        "en": "Where is the monumental Gol Gumbaz located in Karnataka?"
+      },
+      "o": [
+        {
+          "hi": "बीजापुर (विजयपुरा)",
+          "en": "Bijapur (Vijayapura)"
+        },
+        {
+          "hi": "गुलबर्गा (कलबुर्गी)",
+          "en": "Kalaburagi"
+        },
+        {
+          "hi": "हम्पी",
+          "en": "Hampi"
+        },
+        {
+          "hi": "मैसूर",
+          "en": "Mysuru"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गोल गुम्बज अपनी किस अनूठी स्थापत्य विशेषता के लिए विश्व प्रसिद्ध है?",
+        "en": "For which acoustic acoustic architectural wonder is Gol Gumbaz famous?"
+      },
+      "o": [
+        {
+          "hi": "झूलती मीनार",
+          "en": "Shaking Minaret"
+        },
+        {
+          "hi": "फुसफुसाने वाला गलियारा (Whispering Gallery)",
+          "en": "Whispering Gallery"
+        },
+        {
+          "hi": "शीश महल",
+          "en": "Mirror Palace"
+        },
+        {
+          "hi": "अंधेरी गुफा",
+          "en": "Dark Cavern"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पश्चिम बंगाल में 'शांतिनिकेतन' की स्थापना किसने की थी?",
+        "en": "Who established the Visva-Bharati / Santiniketan in West Bengal?"
+      },
+      "o": [
+        {
+          "hi": "देवेंद्रनाथ टैगोर",
+          "en": "Debendranath Tagore"
+        },
+        {
+          "hi": "ईश्वर चंद्र विद्यासागर",
+          "en": "Ishwar Chandra Vidyasagar"
+        },
+        {
+          "hi": "रवीन्द्रनाथ ठाकुर",
+          "en": "Rabindranath Tagore"
+        },
+        {
+          "hi": "स्वामी विवेकानंद",
+          "en": "Swami Vivekananda"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कोलकाता का प्रसिद्ध 'विक्टोरिया मेमोरियल' किस ब्रिटिश वायसराय की देन है?",
+        "en": "Victoria Memorial in Kolkata was conceived during the tenure of?"
+      },
+      "o": [
+        {
+          "hi": "लॉर्ड रिपन",
+          "en": "Lord Ripon"
+        },
+        {
+          "hi": "लॉर्ड मिंटो",
+          "en": "Lord Minto"
+        },
+        {
+          "hi": "लॉर्ड हार्डिंग",
+          "en": "Lord Hardinge"
+        },
+        {
+          "hi": "लॉर्ड कर्जन",
+          "en": "Lord Curzon"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कोलकाता में स्थित प्रसिद्ध 'हावड़ा ब्रिज' (रवीन्द्र सेतु) किस नदी पर है?",
+        "en": "Over which river is the iconic cantilever Howrah Bridge built?"
+      },
+      "o": [
+        {
+          "hi": "हुगली नदी",
+          "en": "Hooghly River"
+        },
+        {
+          "hi": "भागीरथी नदी",
+          "en": "Bhagirathi River"
+        },
+        {
+          "hi": "दामोदर नदी",
+          "en": "Damodar River"
+        },
+        {
+          "hi": "रूपनारायण नदी",
+          "en": "Rupnarayan River"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "असम का प्रसिद्ध 'कामाख्या देवी मंदिर' किस पहाड़ी पर स्थित है?",
+        "en": "On which sacred hill in Guwahati is Kamakhya Temple located?"
+      },
+      "o": [
+        {
+          "hi": "चित्रकूट पहाड़ी",
+          "en": "Chitrakoot Hill"
+        },
+        {
+          "hi": "नीलांचल पहाड़ी (Nilachal Hill)",
+          "en": "Nilachal Hill"
+        },
+        {
+          "hi": "गारो पहाड़ी",
+          "en": "Garo Hill"
+        },
+        {
+          "hi": "खासी पहाड़ी",
+          "en": "Khasi Hill"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बिहार में स्थित विश्व प्रसिद्ध प्राचीन बौद्ध स्मारक कौन-सा है?",
+        "en": "Which is the premier ancient Buddhist World Heritage site in Bihar?"
+      },
+      "o": [
+        {
+          "hi": "विष्णुपद मंदिर",
+          "en": "Vishnupad Temple"
+        },
+        {
+          "hi": "महावीर मंदिर",
+          "en": "Mahavir Temple"
+        },
+        {
+          "hi": "महाबोधि मंदिर (बोधगया)",
+          "en": "Mahabodhi Temple (Bodh Gaya)"
+        },
+        {
+          "hi": "पावापुरी जल मंदिर",
+          "en": "Jal Mandir Pawapuri"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बोधगया के महाबोधि वृक्ष को किस गौड़ शासक ने कटवा दिया था?",
+        "en": "Which Gauda king historically cut down the Bodhi Tree at Bodh Gaya?"
+      },
+      "o": [
+        {
+          "hi": "हर्षवर्धन",
+          "en": "Harshavardhana"
+        },
+        {
+          "hi": "धर्मपाल",
+          "en": "Dharmapala"
+        },
+        {
+          "hi": "गोपाल",
+          "en": "Gopala"
+        },
+        {
+          "hi": "राजा शशांक",
+          "en": "King Shashanka"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बिहार के गया में फल्गु नदी तट पर स्थित 'विष्णुपद मंदिर' किसने बनवाया था?",
+        "en": "Who built the present stone Vishnupad Temple in Gaya in 1787?"
+      },
+      "o": [
+        {
+          "hi": "रानी अहिल्याबाई होल्कर",
+          "en": "Rani Ahilyabai Holkar"
+        },
+        {
+          "hi": "रानी भवानी",
+          "en": "Rani Bhavani"
+        },
+        {
+          "hi": "रानी लक्ष्मीबाई",
+          "en": "Rani Lakshmibai"
+        },
+        {
+          "hi": "रानी पद्मावती",
+          "en": "Rani Padmavati"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उत्तर प्रदेश के वाराणसी में प्रसिद्ध 'काशी विश्वनाथ मंदिर' का जीर्णोद्धार किसने किया?",
+        "en": "Who reconstructed the historic Kashi Vishwanath Temple in Varanasi in 1780?"
+      },
+      "o": [
+        {
+          "hi": "महाराजा रणजीत सिंह",
+          "en": "Maharaja Ranjit Singh"
+        },
+        {
+          "hi": "रानी अहिल्याबाई होल्कर",
+          "en": "Rani Ahilyabai Holkar"
+        },
+        {
+          "hi": "सवाई जयसिंह",
+          "en": "Sawai Jai Singh"
+        },
+        {
+          "hi": "छत्रपति शिवाजी",
+          "en": "Chhatrapati Shivaji"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "काशी विश्वनाथ मंदिर के शिखरों पर स्वर्ण छत्र किसने दान किया था?",
+        "en": "Who donated gold to plate the spires of Kashi Vishwanath Temple?"
+      },
+      "o": [
+        {
+          "hi": "अहिल्याबाई होल्कर",
+          "en": "Ahilyabai Holkar"
+        },
+        {
+          "hi": "माधवराव सिंधिया",
+          "en": "Madhavrao Scindia"
+        },
+        {
+          "hi": "महाराजा रणजीत सिंह",
+          "en": "Maharaja Ranjit Singh"
+        },
+        {
+          "hi": "राजा मानसिंह",
+          "en": "Raja Man Singh"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हैदराबाद की प्रसिद्ध ऐतिहासिक इमारत 'चारमीनार' किस नदी के निकट है?",
+        "en": "Near which river is the historic Charminar located in Hyderabad?"
+      },
+      "o": [
+        {
+          "hi": "कृष्णा नदी",
+          "en": "Krishna River"
+        },
+        {
+          "hi": "गोदावरी नदी",
+          "en": "Godavari River"
+        },
+        {
+          "hi": "तुंगभद्रा नदी",
+          "en": "Tungabhadra River"
+        },
+        {
+          "hi": "मूसी नदी (Musi River)",
+          "en": "Musi River"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गुजरात के पाटन में स्थित प्रसिद्ध ऐतिहासिक बावड़ी कौन-सी है?",
+        "en": "Which stepwell in Patan, Gujarat, is featured on the 100 rupee note?"
+      },
+      "o": [
+        {
+          "hi": "रानी की वाव (Rani ki Vav)",
+          "en": "Rani ki Vav"
+        },
+        {
+          "hi": "अडालज की वाव",
+          "en": "Adalaj Stepwell"
+        },
+        {
+          "hi": "चांद बावड़ी",
+          "en": "Chand Baori"
+        },
+        {
+          "hi": "अग्रसेन की बावली",
+          "en": "Agrasen ki Baoli"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राजस्थान के आभानेरी में स्थित विश्व प्रसिद्ध विशाल बावड़ी कौन-सी है?",
+        "en": "Which is the world-renowned geometric stepwell located in Abhaneri?"
+      },
+      "o": [
+        {
+          "hi": "रानी की वाव",
+          "en": "Rani ki Vav"
+        },
+        {
+          "hi": "चांद बावड़ी (Chand Baori)",
+          "en": "Chand Baori"
+        },
+        {
+          "hi": "सूर्य बावड़ी",
+          "en": "Surya Baori"
+        },
+        {
+          "hi": "हवा बावड़ी",
+          "en": "Hawa Baori"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

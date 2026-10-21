@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विविध (Miscellaneous)",
+  "subtitle": "प्रमुख व्यक्तियों से सम्बन्धित स्थान",
+  "description": "प्रमुख व्यक्तियों से सम्बन्धित स्थान पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "गौतम बुद्ध का जन्म 563 ई.पू. में किस स्थान पर हुआ था?",
+        "en": "Where was Gautama Buddha born in 563 BC?"
+      },
+      "o": [
+        {
+          "hi": "लुंबिनी (कपिलवस्तु, नेपाल)",
+          "en": "Lumbini (Kapilavastu, Nepal)"
+        },
+        {
+          "hi": "बोधगया (बिहार)",
+          "en": "Bodh Gaya (Bihar)"
+        },
+        {
+          "hi": "सारनाथ (उत्तर प्रदेश)",
+          "en": "Sarnath (UP)"
+        },
+        {
+          "hi": "कुशीनगर (उत्तर प्रदेश)",
+          "en": "Kushinagar (UP)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गौतम बुद्ध को ज्ञान की प्राप्ति (बोधि) किस स्थान पर हुई थी?",
+        "en": "Where did Gautama Buddha attain Enlightenment under the Bodhi Tree?"
+      },
+      "o": [
+        {
+          "hi": "लुंबिनी (नेपाल)",
+          "en": "Lumbini (Nepal)"
+        },
+        {
+          "hi": "बोधगया (बिहार)",
+          "en": "Bodh Gaya (Bihar)"
+        },
+        {
+          "hi": "सारनाथ (उत्तर प्रदेश)",
+          "en": "Sarnath (UP)"
+        },
+        {
+          "hi": "वैशाली (बिहार)",
+          "en": "Vaishali (Bihar)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गौतम बुद्ध ने अपना प्रथम धर्मोपदेश (धर्मचक्रप्रवर्तन) कहाँ दिया था?",
+        "en": "Where did Buddha preach his First Sermon (Dhammacakkappavattana)?"
+      },
+      "o": [
+        {
+          "hi": "बोधगया",
+          "en": "Bodh Gaya"
+        },
+        {
+          "hi": "श्रावस्ती",
+          "en": "Shravasti"
+        },
+        {
+          "hi": "सारनाथ / ऋषिपत्तन (वाराणसी)",
+          "en": "Sarnath / Rishipatana (Varanasi)"
+        },
+        {
+          "hi": "कुशीनगर",
+          "en": "Kushinagar"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गौतम बुद्ध का महापरिनिर्वाण (देहावसान) किस स्थान पर हुआ था?",
+        "en": "Where did Gautama Buddha attain Mahaparinirvana?"
+      },
+      "o": [
+        {
+          "hi": "लुंबिनी (नेपाल)",
+          "en": "Lumbini (Nepal)"
+        },
+        {
+          "hi": "पावापुरी (बिहार)",
+          "en": "Pawapuri (Bihar)"
+        },
+        {
+          "hi": "सारनाथ",
+          "en": "Sarnath"
+        },
+        {
+          "hi": "कुशीनगर (उत्तर प्रदेश)",
+          "en": "Kushinagar (Uttar Pradesh)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भगवान महावीर स्वामी का जन्म किस ऐतिहासिक स्थान पर हुआ था?",
+        "en": "Where was the 24th Jain Tirthankara Lord Mahavira born?"
+      },
+      "o": [
+        {
+          "hi": "कुंडग्राम (वैशाली, बिहार)",
+          "en": "Kundagrama (Vaishali, Bihar)"
+        },
+        {
+          "hi": "पावापुरी (बिहार)",
+          "en": "Pawapuri (Bihar)"
+        },
+        {
+          "hi": "चंपा (बिहार)",
+          "en": "Champa (Bihar)"
+        },
+        {
+          "hi": "राजगृह (बिहार)",
+          "en": "Rajgir (Bihar)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भगवान महावीर स्वामी का निर्वाण (मोक्ष) स्थल कौन-सा है?",
+        "en": "Where did Lord Mahavira attain Nirvana (Jal Mandir)?"
+      },
+      "o": [
+        {
+          "hi": "कुंडग्राम (वैशाली)",
+          "en": "Kundagrama (Vaishali)"
+        },
+        {
+          "hi": "पावापुरी (नालंदा, बिहार)",
+          "en": "Pawapuri (Nalanda, Bihar)"
+        },
+        {
+          "hi": "सम्मेद शिखर (झारखंड)",
+          "en": "Sammed Shikhar"
+        },
+        {
+          "hi": "श्रवणबेलगोला",
+          "en": "Shravanabelagola"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ईसा मसीह (Jesus Christ) का जन्म किस पवित्र स्थान पर हुआ था?",
+        "en": "Where was Jesus Christ born?"
+      },
+      "o": [
+        {
+          "hi": "यरूशलम (Jerusalem)",
+          "en": "Jerusalem"
+        },
+        {
+          "hi": "नासरत (Nazareth)",
+          "en": "Nazareth"
+        },
+        {
+          "hi": "बेथलहम (Bethlehem / फिलिस्तीन)",
+          "en": "Bethlehem"
+        },
+        {
+          "hi": "दमिश्क (Damascus)",
+          "en": "Damascus"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ईसा मसीह का बचपन और जीवन का बड़ा भाग कहाँ बीता?",
+        "en": "Where did Jesus Christ spend his early youth and family life?"
+      },
+      "o": [
+        {
+          "hi": "बेथलहम",
+          "en": "Bethlehem"
+        },
+        {
+          "hi": "यरूशलम",
+          "en": "Jerusalem"
+        },
+        {
+          "hi": "काहिरा",
+          "en": "Cairo"
+        },
+        {
+          "hi": "नासरत (Nazareth)",
+          "en": "Nazareth"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ईसा मसीह को सूली (Crucifixion) कहाँ दी गई थी?",
+        "en": "Where was Jesus Christ crucified at Golgotha?"
+      },
+      "o": [
+        {
+          "hi": "यरूशलम (Jerusalem)",
+          "en": "Jerusalem"
+        },
+        {
+          "hi": "बेथलहम",
+          "en": "Bethlehem"
+        },
+        {
+          "hi": "नासरत",
+          "en": "Nazareth"
+        },
+        {
+          "hi": "अम्मान",
+          "en": "Amman"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इस्लाम धर्म के संस्थापक पैगंबर हजरत मोहम्मद का जन्म कहाँ हुआ था?",
+        "en": "Where was the Prophet Muhammad born in 570 AD?"
+      },
+      "o": [
+        {
+          "hi": "मदीना (सऊदी अरब)",
+          "en": "Medina (Saudi Arabia)"
+        },
+        {
+          "hi": "मक्का (सऊदी अरब)",
+          "en": "Mecca (Saudi Arabia)"
+        },
+        {
+          "hi": "यरूशलम",
+          "en": "Jerusalem"
+        },
+        {
+          "hi": "दमिश्क",
+          "en": "Damascus"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पैगंबर मोहम्मद की हिजरत (622 ई.) और मजार कहाँ स्थित है?",
+        "en": "To which holy city did Prophet Muhammad migrate and where is he buried?"
+      },
+      "o": [
+        {
+          "hi": "मक्का",
+          "en": "Mecca"
+        },
+        {
+          "hi": "रियाद",
+          "en": "Riyadh"
+        },
+        {
+          "hi": "मदीना (सऊदी अरब / मस्जिद-ए-नबवी)",
+          "en": "Medina (Masjid an-Nabawi)"
+        },
+        {
+          "hi": "जेद्दा",
+          "en": "Jeddah"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सिकंदर महान (Alexander the Great) का जन्म कहाँ हुआ था?",
+        "en": "Where was Alexander the Great born in 356 BC?"
+      },
+      "o": [
+        {
+          "hi": "एथेंस (ग्रीस)",
+          "en": "Athens"
+        },
+        {
+          "hi": "स्पार्टा",
+          "en": "Sparta"
+        },
+        {
+          "hi": "रोम (इटली)",
+          "en": "Rome"
+        },
+        {
+          "hi": "मेसीडोनिया / मकदूनिया (Macedonia / ग्रीस)",
+          "en": "Macedonia (Pella, Greece)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सिकंदर महान की मृत्यु 323 ई.पू. में किस स्थान पर हुई थी?",
+        "en": "Where did Alexander the Great die in 323 BC on his return journey?"
+      },
+      "o": [
+        {
+          "hi": "बेबीलोन (इराक)",
+          "en": "Babylon (Iraq)"
+        },
+        {
+          "hi": "अलेक्जेंड्रिया (मिस्र)",
+          "en": "Alexandria (Egypt)"
+        },
+        {
+          "hi": "मेसीडोनिया",
+          "en": "Macedonia"
+        },
+        {
+          "hi": "तक्षशिला",
+          "en": "Taxila"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नेपोलियन बोनापार्ट का जन्म किस द्वीप पर हुआ था?",
+        "en": "On which Mediterranean island was Napoleon Bonaparte born (1769)?"
+      },
+      "o": [
+        {
+          "hi": "एल्बा द्वीप",
+          "en": "Elba"
+        },
+        {
+          "hi": "कोर्सिका द्वीप (Corsica / फ्रांस)",
+          "en": "Corsica (Ajaccio)"
+        },
+        {
+          "hi": "सेंट हेलेना",
+          "en": "Saint Helena"
+        },
+        {
+          "hi": "सिसिली द्वीप",
+          "en": "Sicily"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नेपोलियन बोनापार्ट का अंतिम निर्वासन और मृत्यु (1821) किस द्वीप पर हुई?",
+        "en": "Where was Napoleon permanently exiled and died in 1821?"
+      },
+      "o": [
+        {
+          "hi": "एल्बा द्वीप",
+          "en": "Elba Island"
+        },
+        {
+          "hi": "कोर्सिका",
+          "en": "Corsica"
+        },
+        {
+          "hi": "सेंट हेलेना द्वीप (अटलांटिक महासागर)",
+          "en": "Saint Helena Island"
+        },
+        {
+          "hi": "साइप्रस",
+          "en": "Cyprus"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नेपोलियन बोनापार्ट की ऐतिहासिक पराजय किस युद्ध स्थल पर हुई (1815)?",
+        "en": "At which famous battlefield was Napoleon decisively defeated in 1815?"
+      },
+      "o": [
+        {
+          "hi": "ऑस्टरलिट्ज",
+          "en": "Austerlitz"
+        },
+        {
+          "hi": "ट्राफलगर",
+          "en": "Trafalgar"
+        },
+        {
+          "hi": "लीपजिग",
+          "en": "Leipzig"
+        },
+        {
+          "hi": "वाटरलू (बेल्जियम)",
+          "en": "Waterloo (Belgium)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ब्रिटिश नौसेना एडमिरल लॉर्ड नेल्सन किस समुद्री युद्ध स्थल से जुड़े हैं?",
+        "en": "British naval hero Lord Nelson is immortalized by which 1805 battle site?"
+      },
+      "o": [
+        {
+          "hi": "ट्राफलगर (Trafalgar / स्पेन तट)",
+          "en": "Trafalgar (Spain coast)"
+        },
+        {
+          "hi": "वाटरलू",
+          "en": "Waterloo"
+        },
+        {
+          "hi": "डनकर्क",
+          "en": "Dunkirk"
+        },
+        {
+          "hi": "जिब्राल्टर",
+          "en": "Gibraltar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "महात्मा गांधी का जन्म 2 अक्टूबर 1869 को किस स्थान पर हुआ था?",
+        "en": "Where was Mahatma Gandhi born on 2 October 1869?"
+      },
+      "o": [
+        {
+          "hi": "राजकोट (गुजरात)",
+          "en": "Rajkot (Gujarat)"
+        },
+        {
+          "hi": "पोरबंदर (गुजरात)",
+          "en": "Porbandar (Gujarat)"
+        },
+        {
+          "hi": "अहमदाबाद (गुजरात)",
+          "en": "Ahmedabad (Gujarat)"
+        },
+        {
+          "hi": "सूरत (गुजरात)",
+          "en": "Surat (Gujarat)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "महात्मा गांधी द्वारा स्थापित 'साबरमती आश्रम' किस शहर में है?",
+        "en": "Where is Sabarmati Ashram, founded by Mahatma Gandhi in 1917, located?"
+      },
+      "o": [
+        {
+          "hi": "सूरत (गुजरात)",
+          "en": "Surat (Gujarat)"
+        },
+        {
+          "hi": "वडोदरा (गुजरात)",
+          "en": "Vadodara (Gujarat)"
+        },
+        {
+          "hi": "अहमदाबाद (गुजरात)",
+          "en": "Ahmedabad (Gujarat)"
+        },
+        {
+          "hi": "गांधीनगर (गुजरात)",
+          "en": "Gandhinagar (Gujarat)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गांधीजी का ऐतिहासिक 'सेवाग्राम आश्रम' महाराष्ट्र के किस जिले में स्थित है?",
+        "en": "In which district of Maharashtra is Gandhi's Sevagram Ashram situated?"
+      },
+      "o": [
+        {
+          "hi": "नागपुर (Nagpur)",
+          "en": "Nagpur"
+        },
+        {
+          "hi": "पुणे (Pune)",
+          "en": "Pune"
+        },
+        {
+          "hi": "अमरावती (Amravati)",
+          "en": "Amravati"
+        },
+        {
+          "hi": "वर्धा (Wardha)",
+          "en": "Wardha"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पंडित जवाहरलाल नेहरू का पैतृक आवास 'आनंद भवन' कहाँ स्थित है?",
+        "en": "Where is Anand Bhavan, the historic ancestral home of the Nehru family?"
+      },
+      "o": [
+        {
+          "hi": "प्रयागराज / इलाहाबाद (उत्तर प्रदेश)",
+          "en": "Prayagraj / Allahabad (UP)"
+        },
+        {
+          "hi": "लखनऊ (उत्तर प्रदेश)",
+          "en": "Lucknow (UP)"
+        },
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "वाराणसी (उत्तर प्रदेश)",
+          "en": "Varanasi (UP)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पंडित नेहरू का आधिकारिक प्रधानमंत्री निवास जो अब संग्रहालय है?",
+        "en": "Where is Teen Murti Bhavan, Nehru's official residence and memorial?"
+      },
+      "o": [
+        {
+          "hi": "आनंद भवन",
+          "en": "Anand Bhavan"
+        },
+        {
+          "hi": "तीन मूर्ति भवन (नई दिल्ली)",
+          "en": "Teen Murti Bhavan (New Delhi)"
+        },
+        {
+          "hi": "शांति निकेतन",
+          "en": "Santiniketan"
+        },
+        {
+          "hi": "स्वराज भवन",
+          "en": "Swaraj Bhavan"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सरदार वल्लभभाई पटेल का ऐतिहासिक कर्मस्थल 'बारदोली' कहाँ है?",
+        "en": "Where is Bardoli, where Sardar Patel led the 1928 historic Satyagraha?"
+      },
+      "o": [
+        {
+          "hi": "अहमदाबाद (गुजरात)",
+          "en": "Ahmedabad (Gujarat)"
+        },
+        {
+          "hi": "खेड़ा (गुजरात)",
+          "en": "Kheda (Gujarat)"
+        },
+        {
+          "hi": "सूरत (गुजरात)",
+          "en": "Surat (Gujarat)"
+        },
+        {
+          "hi": "आनंद (गुजरात)",
+          "en": "Anand (Gujarat)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सरदार पटेल का जन्म 31 अक्टूबर 1875 को कहाँ हुआ था?",
+        "en": "Where was Sardar Vallabhbhai Patel born in Gujarat?"
+      },
+      "o": [
+        {
+          "hi": "करमसद (गुजरात)",
+          "en": "Karamsad (Gujarat)"
+        },
+        {
+          "hi": "बारदोली",
+          "en": "Bardoli"
+        },
+        {
+          "hi": "सूरत",
+          "en": "Surat"
+        },
+        {
+          "hi": "नडियाद (गुजरात)",
+          "en": "Nadiad (Gujarat)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गुरु नानक देव जी का जन्म 1469 में किस पावन स्थान पर हुआ था?",
+        "en": "Where was Guru Nanak Dev Ji born in 1469?"
+      },
+      "o": [
+        {
+          "hi": "ननकाना साहिब / तलवंडी (पाकिस्तान)",
+          "en": "Nankana Sahib / Talwandi (Pakistan)"
+        },
+        {
+          "hi": "करतारपुर साहिब",
+          "en": "Kartarpur Sahib"
+        },
+        {
+          "hi": "अमृतसर (भारत)",
+          "en": "Amritsar (India)"
+        },
+        {
+          "hi": "आनंदपुर साहिब",
+          "en": "Anandpur Sahib"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गुरु गोविंद सिंह जी का जन्म 1666 ई. में किस ऐतिहासिक नगर में हुआ था?",
+        "en": "Where was the tenth Sikh Guru, Guru Gobind Singh Ji, born in 1666?"
+      },
+      "o": [
+        {
+          "hi": "आनंदपुर साहिब (पंजाब)",
+          "en": "Anandpur Sahib (Punjab)"
+        },
+        {
+          "hi": "पटना साहिब (बिहार)",
+          "en": "Patna Sahib (Bihar)"
+        },
+        {
+          "hi": "अमृतसर (पंजाब)",
+          "en": "Amritsar (Punjab)"
+        },
+        {
+          "hi": "नांदेड़ (महाराष्ट्र)",
+          "en": "Nanded (Maharashtra)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सिखों के पवित्र तख्त 'आनंदपुर साहिब' में खालसा पंथ की स्थापना कब हुई?",
+        "en": "Where and when did Guru Gobind Singh Ji establish the Khalsa Panth in 1699?"
+      },
+      "o": [
+        {
+          "hi": "पटना साहिब",
+          "en": "Patna Sahib"
+        },
+        {
+          "hi": "दमदमा साहिब",
+          "en": "Damdama Sahib"
+        },
+        {
+          "hi": "आनंदपुर साहिब (पंजाब, 1699)",
+          "en": "Anandpur Sahib (Punjab, 1699)"
+        },
+        {
+          "hi": "अमृतसर",
+          "en": "Amritsar"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्वामी दयानंद सरस्वती का जन्म गुजरात के किस स्थान पर हुआ था?",
+        "en": "Where was Arya Samaj founder Swami Dayananda Saraswati born (1824)?"
+      },
+      "o": [
+        {
+          "hi": "पोरबंदर",
+          "en": "Porbandar"
+        },
+        {
+          "hi": "वडोदरा",
+          "en": "Vadodara"
+        },
+        {
+          "hi": "सूरत",
+          "en": "Surat"
+        },
+        {
+          "hi": "टंकारा (मोरबी, गुजरात)",
+          "en": "Tankara (Morbi, Gujarat)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्वामी दयानंद सरस्वती ने 1875 में आर्य समाज की स्थापना कहाँ की थी?",
+        "en": "Where did Swami Dayananda Saraswati establish the Arya Samaj in 1875?"
+      },
+      "o": [
+        {
+          "hi": "बॉम्बे / मुंबई (महाराष्ट्र)",
+          "en": "Bombay / Mumbai (Maharashtra)"
+        },
+        {
+          "hi": "लाहौर (पाकिस्तान)",
+          "en": "Lahore (Pakistan)"
+        },
+        {
+          "hi": "अजमेर (राजस्थान)",
+          "en": "Ajmer (Rajasthan)"
+        },
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्वामी विवेकानंद का जन्म 12 जनवरी 1863 को कहाँ हुआ था?",
+        "en": "Where was Swami Vivekananda born on 12 January 1863?"
+      },
+      "o": [
+        {
+          "hi": "हावड़ा",
+          "en": "Howrah"
+        },
+        {
+          "hi": "कोलकाता (पश्चिम बंगाल)",
+          "en": "Kolkata (West Bengal)"
+        },
+        {
+          "hi": "बेलूर",
+          "en": "Belur"
+        },
+        {
+          "hi": "ढाका",
+          "en": "Dhaka"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्वामी विवेकानंद ने रामकृष्ण मिशन (1897) का मुख्यालय कहाँ स्थापित किया?",
+        "en": "Where did Swami Vivekananda establish the Belur Math headquarters?"
+      },
+      "o": [
+        {
+          "hi": "दक्षिणेश्वर (कोलकाता)",
+          "en": "Dakshineswar (Kolkata)"
+        },
+        {
+          "hi": "काशी (वाराणसी)",
+          "en": "Kashi (Varanasi)"
+        },
+        {
+          "hi": "बेलूर मठ (हावड़ा, पश्चिम बंगाल)",
+          "en": "Belur Math (Howrah, West Bengal)"
+        },
+        {
+          "hi": "कन्याकुमारी",
+          "en": "Kanyakumari"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रामकृष्ण परमहंस किस प्रसिद्ध काली मंदिर के मुख्य पुजारी रहे थे?",
+        "en": "Sri Ramakrishna Paramahamsa was the temple priest of which holy shrine?"
+      },
+      "o": [
+        {
+          "hi": "कालीघाट काली मंदिर",
+          "en": "Kalighat Temple"
+        },
+        {
+          "hi": "तारापीठ",
+          "en": "Tarapith"
+        },
+        {
+          "hi": "कामाख्या मंदिर",
+          "en": "Kamakhya Temple"
+        },
+        {
+          "hi": "दक्षिणेश्वर काली मंदिर (कोलकाता)",
+          "en": "Dakshineswar Kali Temple (Kolkata)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आचार्य विनोबा भावे का प्रसिद्ध आश्रम कहाँ स्थित है?",
+        "en": "Where is Pavnar Ashram, the headquarters of Acharya Vinoba Bhave?"
+      },
+      "o": [
+        {
+          "hi": "पवनार (वर्धा, महाराष्ट्र)",
+          "en": "Pavnar (Wardha, Maharashtra)"
+        },
+        {
+          "hi": "साबरमती (गुजरात)",
+          "en": "Sabarmati (Gujarat)"
+        },
+        {
+          "hi": "सेवाग्राम (महाराष्ट्र)",
+          "en": "Sevagram (Maharashtra)"
+        },
+        {
+          "hi": "नागपुर",
+          "en": "Nagpur"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भूदान आंदोलन की शुरुआत विनोबा भावे ने 1951 में किस गांव से की थी?",
+        "en": "From which historic village did Vinoba Bhave launch the Bhoodan Movement?"
+      },
+      "o": [
+        {
+          "hi": "पवनार (महाराष्ट्र)",
+          "en": "Pavnar (Maharashtra)"
+        },
+        {
+          "hi": "पोचमपल्ली (तेलंगाना / तत्कालीन आंध्र)",
+          "en": "Pochampally (Telangana)"
+        },
+        {
+          "hi": "बारदोली (गुजरात)",
+          "en": "Bardoli (Gujarat)"
+        },
+        {
+          "hi": "चंपारण (बिहार)",
+          "en": "Champaran (Bihar)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत के प्रथम राष्ट्रपति डॉ. राजेन्द्र प्रसाद का जन्म किस गांव में हुआ था?",
+        "en": "Where was India's first President Dr. Rajendra Prasad born in 1884?"
+      },
+      "o": [
+        {
+          "hi": "सदाकत आश्रम (पटना)",
+          "en": "Sadaqat Ashram (Patna)"
+        },
+        {
+          "hi": "छपरा (बिहार)",
+          "en": "Chhapra (Bihar)"
+        },
+        {
+          "hi": "जीरादेई (सीवान जिला, बिहार)",
+          "en": "Ziradei (Siwan, Bihar)"
+        },
+        {
+          "hi": "मुजफ्फरपुर",
+          "en": "Muzaffarpur"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "डॉ. राजेन्द्र प्रसाद ने राष्ट्रपति पद से अवकाश के बाद कहाँ निवास किया?",
+        "en": "Where did Dr. Rajendra Prasad spend his retirement days until 1963?"
+      },
+      "o": [
+        {
+          "hi": "जीरादेई (सीवान)",
+          "en": "Ziradei (Siwan)"
+        },
+        {
+          "hi": "आनंद भवन (प्रयागराज)",
+          "en": "Anand Bhavan"
+        },
+        {
+          "hi": "सेवाग्राम (वर्धा)",
+          "en": "Sevagram (Wardha)"
+        },
+        {
+          "hi": "सदाकत आश्रम (पटना, बिहार)",
+          "en": "Sadaqat Ashram (Patna, Bihar)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नेताजी सुभाष चंद्र बोस का जन्म 23 जनवरी 1897 को कहाँ हुआ था?",
+        "en": "Where was Netaji Subhas Chandra Bose born on 23 January 1897?"
+      },
+      "o": [
+        {
+          "hi": "कटक (ओडिशा)",
+          "en": "Cuttack (Odisha)"
+        },
+        {
+          "hi": "कोलकाता (पश्चिम बंगाल)",
+          "en": "Kolkata (West Bengal)"
+        },
+        {
+          "hi": "मेदिनीपुर (पश्चिम बंगाल)",
+          "en": "Medinipur"
+        },
+        {
+          "hi": "ढाका",
+          "en": "Dhaka"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "महर्षि अरविन्द घोष (Sri Aurobindo) का आश्रम कहाँ स्थित है?",
+        "en": "Where is the Sri Aurobindo Ashram and experimental township Auroville located?"
+      },
+      "o": [
+        {
+          "hi": "कोलकाता (पश्चिम बंगाल)",
+          "en": "Kolkata (West Bengal)"
+        },
+        {
+          "hi": "पुडुचेरी (Puducherry)",
+          "en": "Puducherry"
+        },
+        {
+          "hi": "बड़ौदा (गुजरात)",
+          "en": "Vadodara (Gujarat)"
+        },
+        {
+          "hi": "चेन्नई (तमिलनाडु)",
+          "en": "Chennai (Tamil Nadu)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रमण महर्षि का पवित्र आश्रम किस पर्वत की तलहटी में स्थित है?",
+        "en": "Where is Sri Ramana Maharshi's Ashram located at the foot of Arunachala?"
+      },
+      "o": [
+        {
+          "hi": "मदुरै (तमिलनाडु)",
+          "en": "Madurai (Tamil Nadu)"
+        },
+        {
+          "hi": "कांचीपुरम (तमिलनाडु)",
+          "en": "Kanchipuram"
+        },
+        {
+          "hi": "तिरुवन्नामलाई (तमिलनाडु)",
+          "en": "Tiruvannamalai (Tamil Nadu)"
+        },
+        {
+          "hi": "कन्याकुमारी",
+          "en": "Kanyakumari"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "माता सीता की जन्मस्थली (प्रकट्य स्थल) के रूप में प्रसिद्ध स्थान कौन-सा है?",
+        "en": "Which place in Bihar is traditionally revered as birthplace of Sita (Punaura)?"
+      },
+      "o": [
+        {
+          "hi": "जनकपुर (नेपाल)",
+          "en": "Janakpur (Nepal)"
+        },
+        {
+          "hi": "अयोध्या (उत्तर प्रदेश)",
+          "en": "Ayodhya (UP)"
+        },
+        {
+          "hi": "मिथिला",
+          "en": "Mithila"
+        },
+        {
+          "hi": "सीतामढ़ी (पुनौरा धाम, बिहार)",
+          "en": "Sitamarhi (Punaura Dham, Bihar)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भगवान श्रीराम की जन्मस्थली 'अयोध्या' किस पावन नदी के तट पर है?",
+        "en": "On the holy banks of which river is Lord Rama's birthplace Ayodhya situated?"
+      },
+      "o": [
+        {
+          "hi": "सरयू नदी (Sarayu River)",
+          "en": "Sarayu River"
+        },
+        {
+          "hi": "गंगा नदी",
+          "en": "Ganga River"
+        },
+        {
+          "hi": "यमुना नदी",
+          "en": "Yamuna River"
+        },
+        {
+          "hi": "गोमती नदी",
+          "en": "Gomti River"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भगवान श्रीकृष्ण का जन्म किस पवित्र नगरी में हुआ था?",
+        "en": "In which historic sacred city was Lord Krishna born?"
+      },
+      "o": [
+        {
+          "hi": "वृंदावन (उत्तर प्रदेश)",
+          "en": "Vrindavan (UP)"
+        },
+        {
+          "hi": "मथुरा (उत्तर प्रदेश)",
+          "en": "Mathura (Uttar Pradesh)"
+        },
+        {
+          "hi": "द्वारका (गुजरात)",
+          "en": "Dwarka (Gujarat)"
+        },
+        {
+          "hi": "गोकुल (उत्तर प्रदेश)",
+          "en": "Gokul (UP)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भगवान श्रीकृष्ण की कर्मस्थली एवं राजधानी कहाँ स्थित थी?",
+        "en": "Where was the golden island capital and kingdom of Lord Krishna located?"
+      },
+      "o": [
+        {
+          "hi": "मथुरा (उत्तर प्रदेश)",
+          "en": "Mathura (UP)"
+        },
+        {
+          "hi": "उज्जैन (मध्य प्रदेश)",
+          "en": "Ujjain (MP)"
+        },
+        {
+          "hi": "द्वारका (गुजरात)",
+          "en": "Dwarka (Gujarat)"
+        },
+        {
+          "hi": "कुरुक्षेत्र (हरियाणा)",
+          "en": "Kurukshetra (Haryana)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महाभारत का 18 दिवसीय महायुद्ध किस ऐतिहासिक भूमि पर लड़ा गया था?",
+        "en": "On which historic battlefield was the 18-day Mahabharata war fought?"
+      },
+      "o": [
+        {
+          "hi": "पानीपत (हरियाणा)",
+          "en": "Panipat (Haryana)"
+        },
+        {
+          "hi": "तराइन (हरियाणा)",
+          "en": "Tarain (Haryana)"
+        },
+        {
+          "hi": "करनाल (हरियाणा)",
+          "en": "Karnal (Haryana)"
+        },
+        {
+          "hi": "कुरुक्षेत्र (हरियाणा)",
+          "en": "Kurukshetra (Haryana)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "महाराणा प्रताप की जन्मस्थली 'कुंभलगढ़' किस जिले में है?",
+        "en": "In which fort/district was Maharana Pratap born (Badal Mahal, 1540)?"
+      },
+      "o": [
+        {
+          "hi": "कुंभलगढ़ दुर्ग (राजसमंद, राजस्थान)",
+          "en": "Kumbhalgarh Fort (Rajsamand, Rajasthan)"
+        },
+        {
+          "hi": "चित्तौड़गढ़ दुर्ग",
+          "en": "Chittorgarh Fort"
+        },
+        {
+          "hi": "उदयपुर",
+          "en": "Udaipur"
+        },
+        {
+          "hi": "चावंड",
+          "en": "Chawand"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "महाराणा प्रताप और अकबर की सेना के बीच 1576 का युद्ध कहाँ हुआ था?",
+        "en": "Where was the historic 1576 battle between Maharana Pratap and Man Singh fought?"
+      },
+      "o": [
+        {
+          "hi": "चित्तौड़गढ़",
+          "en": "Chittorgarh"
+        },
+        {
+          "hi": "हल्दीघाटी (राजसमंद, राजस्थान)",
+          "en": "Haldighati (Rajsamand, Rajasthan)"
+        },
+        {
+          "hi": "खानवा",
+          "en": "Khanwa"
+        },
+        {
+          "hi": "तराइन",
+          "en": "Tarain"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "महाराणा प्रताप के स्वामीभक्त अश्व 'चेतक' की समाधि कहाँ स्थित है?",
+        "en": "Where is the memorial / Samadhi of Maharana Pratap's faithful horse Chetak?"
+      },
+      "o": [
+        {
+          "hi": "कुंभलगढ़",
+          "en": "Kumbhalgarh"
+        },
+        {
+          "hi": "चावंड",
+          "en": "Chawand"
+        },
+        {
+          "hi": "बलिचा गांव (हल्दीघाटी, राजस्थान)",
+          "en": "Balicha Village (Haldighati, Rajasthan)"
+        },
+        {
+          "hi": "उदयपुर",
+          "en": "Udaipur"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महारानी लक्ष्मीबाई का जन्म किस पवित्र नगरी में हुआ था?",
+        "en": "Where was Rani Lakshmibai (Manikarnika Tambe) born in 1828?"
+      },
+      "o": [
+        {
+          "hi": "झाँसी (उत्तर प्रदेश)",
+          "en": "Jhansi (Uttar Pradesh)"
+        },
+        {
+          "hi": "ग्वालियर (मध्य प्रदेश)",
+          "en": "Gwalior (MP)"
+        },
+        {
+          "hi": "बिठूर (कानपुर)",
+          "en": "Bithoor (Kanpur)"
+        },
+        {
+          "hi": "वाराणसी / काशी (उत्तर प्रदेश)",
+          "en": "Varanasi / Kashi (Uttar Pradesh)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नाना साहब और तात्या टोपे का 1857 की क्रांति का प्रमुख केंद्र कौन-सा था?",
+        "en": "Which sacred town on the Ganga was the base of Nana Saheb and Tatya Tope?"
+      },
+      "o": [
+        {
+          "hi": "बिठूर (कानपुर, उत्तर प्रदेश)",
+          "en": "Bithoor (Kanpur, Uttar Pradesh)"
+        },
+        {
+          "hi": "झाँसी (उत्तर प्रदेश)",
+          "en": "Jhansi (UP)"
+        },
+        {
+          "hi": "मेरठ (उत्तर प्रदेश)",
+          "en": "Meerut (UP)"
+        },
+        {
+          "hi": "कालपी (उत्तर प्रदेश)",
+          "en": "Kalpi (UP)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चंद्रशेखर आजाद किस पार्क में लड़ते हुए वीरगति को प्राप्त हुए थे?",
+        "en": "In which park in Allahabad did Chandra Shekhar Azad attain martyrdom?"
+      },
+      "o": [
+        {
+          "hi": "कंपनी बाग (कानपुर)",
+          "en": "Company Bagh (Kanpur)"
+        },
+        {
+          "hi": "अल्फ्रेड पार्क / आजाद पार्क (प्रयागराज)",
+          "en": "Alfred Park / Azad Park (Prayagraj)"
+        },
+        {
+          "hi": "लोहिया पार्क (लखनऊ)",
+          "en": "Lohia Park (Lucknow)"
+        },
+        {
+          "hi": "गांधी मैदान (पटना)",
+          "en": "Gandhi Maidan (Patna)"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विविध (Miscellaneous)",
+  "subtitle": "प्रमुख लेखक एवं उनकी पुस्तक",
+  "description": "प्रमुख लेखक एवं उनकी पुस्तक पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "पंचतंत्र' (Panchatantra) के रचयिता कौन हैं?",
+        "en": "Who is the author of 'Panchatantra'?"
+      },
+      "o": [
+        {
+          "hi": "विष्णु शर्मा",
+          "en": "Vishnu Sharma"
+        },
+        {
+          "hi": "कालिदास",
+          "en": "Kalidasa"
+        },
+        {
+          "hi": "बाणभट्ट",
+          "en": "Banabhatta"
+        },
+        {
+          "hi": "भवभूति",
+          "en": "Bhavabhuti"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'अर्थशास्त्र' (Arthashastra) नामक ग्रंथ के रचयिता कौन हैं?",
+        "en": "Who is the author of the treatise 'Arthashastra'?"
+      },
+      "o": [
+        {
+          "hi": "मेगस्थनीज",
+          "en": "Megasthenes"
+        },
+        {
+          "hi": "चाणक्य (कौटिल्य)",
+          "en": "Chanakya (Kautilya)"
+        },
+        {
+          "hi": "विशाखदत्त",
+          "en": "Vishakhadatta"
+        },
+        {
+          "hi": "पतंजलि",
+          "en": "Patanjali"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'अष्टाध्यायी' (Ashtadhyayi) संस्कृत व्याकरण ग्रंथ के रचनाकार कौन हैं?",
+        "en": "Who composed the Sanskrit grammar treatise 'Ashtadhyayi'?"
+      },
+      "o": [
+        {
+          "hi": "कात्यायन",
+          "en": "Katyayana"
+        },
+        {
+          "hi": "पतंजलि",
+          "en": "Patanjali"
+        },
+        {
+          "hi": "पाणिनि",
+          "en": "Panini"
+        },
+        {
+          "hi": "भर्तृहरि",
+          "en": "Bhartrhari"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'इंडिका' (Indica) पुस्तक के लेखक कौन हैं?",
+        "en": "Who is the author of the book 'Indica'?"
+      },
+      "o": [
+        {
+          "hi": "डायमेकस",
+          "en": "Deimachus"
+        },
+        {
+          "hi": "प्लिनी",
+          "en": "Pliny"
+        },
+        {
+          "hi": "टॉलेमी",
+          "en": "Ptolemy"
+        },
+        {
+          "hi": "मेगस्थनीज",
+          "en": "Megasthenes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'कामसूत्र' (Kamasutra) के रचयिता कौन हैं?",
+        "en": "Who is the author of 'Kamasutra'?"
+      },
+      "o": [
+        {
+          "hi": "वात्स्यायन",
+          "en": "Vatsyayana"
+        },
+        {
+          "hi": "कल्हण",
+          "en": "Kalhana"
+        },
+        {
+          "hi": "भारवि",
+          "en": "Bharavi"
+        },
+        {
+          "hi": "दण्डी",
+          "en": "Dandi"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'राजतरंगिणी' (Rajatarangini) के लेखक कौन हैं, जिसमें कश्मीर का इतिहास वर्णित है?",
+        "en": "Who authored 'Rajatarangini', detailing the history of Kashmir?"
+      },
+      "o": [
+        {
+          "hi": "बिल्हण",
+          "en": "Bilhana"
+        },
+        {
+          "hi": "कल्हण",
+          "en": "Kalhana"
+        },
+        {
+          "hi": "हेमचंद्र",
+          "en": "Hemachandra"
+        },
+        {
+          "hi": "सोमदेव",
+          "en": "Somadeva"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'मुद्राराक्षस' (Mudrarakshasa) के रचयिता कौन हैं?",
+        "en": "Who is the author of 'Mudrarakshasa'?"
+      },
+      "o": [
+        {
+          "hi": "शूद्रक",
+          "en": "Shudraka"
+        },
+        {
+          "hi": "भवभूति",
+          "en": "Bhavabhuti"
+        },
+        {
+          "hi": "विशाखदत्त",
+          "en": "Vishakhadatta"
+        },
+        {
+          "hi": "कालिदास",
+          "en": "Kalidasa"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'मृच्छकटिकम्' (Mrichhakatikam - मिट्टी का खिलौना) नाटक के लेखक कौन हैं?",
+        "en": "Who is the author of the play 'Mrichhakatikam'?"
+      },
+      "o": [
+        {
+          "hi": "भास",
+          "en": "Bhasa"
+        },
+        {
+          "hi": "कालिदास",
+          "en": "Kalidasa"
+        },
+        {
+          "hi": "विशाखदत्त",
+          "en": "Vishakhadatta"
+        },
+        {
+          "hi": "शूद्रक",
+          "en": "Shudraka"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'कादम्बरी' और 'हर्षचरित' के रचनाकार कौन हैं?",
+        "en": "Who is the author of 'Kadambari' and 'Harshacharita'?"
+      },
+      "o": [
+        {
+          "hi": "बाणभट्ट",
+          "en": "Banabhatta"
+        },
+        {
+          "hi": "हर्षवर्धन",
+          "en": "Harshavardhana"
+        },
+        {
+          "hi": "दण्डी",
+          "en": "Dandi"
+        },
+        {
+          "hi": "सुबंधु",
+          "en": "Subandhu"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'गीत गोविंद' (Gita Govinda) के रचयिता कौन हैं?",
+        "en": "Who is the author of 'Gita Govinda'?"
+      },
+      "o": [
+        {
+          "hi": "विद्यापति",
+          "en": "Vidyapati"
+        },
+        {
+          "hi": "जयदेव",
+          "en": "Jayadeva"
+        },
+        {
+          "hi": "चंडीदास",
+          "en": "Chandidas"
+        },
+        {
+          "hi": "सूरदास",
+          "en": "Surdas"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'अभिज्ञानशाकुंतलम्' और 'मेघदूतम्' किसकी अमर रचनाएँ हैं?",
+        "en": "Whose immortal creations are 'Abhijnanashakuntalam' and 'Meghadutam'?"
+      },
+      "o": [
+        {
+          "hi": "भवभूति",
+          "en": "Bhavabhuti"
+        },
+        {
+          "hi": "भारवि",
+          "en": "Bharavi"
+        },
+        {
+          "hi": "महाकवि कालिदास",
+          "en": "Mahakavi Kalidasa"
+        },
+        {
+          "hi": "माघ",
+          "en": "Magha"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'किरातार्जुनीयम्' के रचयिता कौन हैं?",
+        "en": "Who is the author of 'Kiratarjuniyam'?"
+      },
+      "o": [
+        {
+          "hi": "दण्डी",
+          "en": "Dandi"
+        },
+        {
+          "hi": "कालिदास",
+          "en": "Kalidasa"
+        },
+        {
+          "hi": "श्रीहर्ष",
+          "en": "Sriharsha"
+        },
+        {
+          "hi": "भारवि",
+          "en": "Bharavi"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'दशकुमारचरितम्' के लेखक कौन हैं?",
+        "en": "Who is the author of 'Dashakumaracharita'?"
+      },
+      "o": [
+        {
+          "hi": "दण्डी",
+          "en": "Dandi"
+        },
+        {
+          "hi": "बाणभट्ट",
+          "en": "Banabhatta"
+        },
+        {
+          "hi": "सुबंधु",
+          "en": "Subandhu"
+        },
+        {
+          "hi": "माघ",
+          "en": "Magha"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'मालती माधव' और 'उत्तररामचरितम्' के रचयिता कौन हैं?",
+        "en": "Who authored 'Malati Madhava' and 'Uttararamacharita'?"
+      },
+      "o": [
+        {
+          "hi": "कालिदास",
+          "en": "Kalidasa"
+        },
+        {
+          "hi": "भवभूति",
+          "en": "Bhavabhuti"
+        },
+        {
+          "hi": "शूद्रक",
+          "en": "Shudraka"
+        },
+        {
+          "hi": "भास",
+          "en": "Bhasa"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'रत्नावली', 'प्रियदर्शिका' और 'नागानन्द' नाटकों की रचना किसने की थी?",
+        "en": "Who wrote plays 'Ratnavali', 'Priyadarsika' and 'Nagananda'?"
+      },
+      "o": [
+        {
+          "hi": "बाणभट्ट",
+          "en": "Banabhatta"
+        },
+        {
+          "hi": "समुद्रगुप्त",
+          "en": "Samudragupta"
+        },
+        {
+          "hi": "हर्षवर्धन",
+          "en": "Harshavardhana"
+        },
+        {
+          "hi": "चंद्रगुप्त द्वितीय",
+          "en": "Chandragupta II"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'शाहनामा' (Shahnama) के रचयिता कौन हैं?",
+        "en": "Who is the author of 'Shahnama'?"
+      },
+      "o": [
+        {
+          "hi": "अल-बरूनी",
+          "en": "Al-Biruni"
+        },
+        {
+          "hi": "अमीर खुसरो",
+          "en": "Amir Khusrau"
+        },
+        {
+          "hi": "इब्न बतूता",
+          "en": "Ibn Battuta"
+        },
+        {
+          "hi": "फिरदौसी",
+          "en": "Firdausi"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'किताब-उल-हिंद' (तारीख-ए-हिंद) के लेखक कौन हैं?",
+        "en": "Who is the author of 'Kitab-ul-Hind'?"
+      },
+      "o": [
+        {
+          "hi": "अल-बरूनी",
+          "en": "Al-Biruni"
+        },
+        {
+          "hi": "फिरदौसी",
+          "en": "Firdausi"
+        },
+        {
+          "hi": "मिनहाज-उस-सिराज",
+          "en": "Minhaj-us-Siraj"
+        },
+        {
+          "hi": "जियाउद्दीन बरनी",
+          "en": "Ziauddin Barani"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'आईन-ए-अकबरी' और 'अकबरनामा' की रचना किसने की थी?",
+        "en": "Who authored 'Ain-i-Akbari' and 'Akbarnama'?"
+      },
+      "o": [
+        {
+          "hi": "फैजी",
+          "en": "Faizi"
+        },
+        {
+          "hi": "अबुल फजल",
+          "en": "Abul Fazl"
+        },
+        {
+          "hi": "बदायूँनी",
+          "en": "Badauni"
+        },
+        {
+          "hi": "गुलबदन बेगम",
+          "en": "Gulbadan Begum"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'हुमायूँनामा' की रचना किसने की थी?",
+        "en": "Who authored 'Humayun-nama'?"
+      },
+      "o": [
+        {
+          "hi": "नूरजहाँ",
+          "en": "Nur Jahan"
+        },
+        {
+          "hi": "जहांआरा",
+          "en": "Jahanara"
+        },
+        {
+          "hi": "गुलबदन बेगम",
+          "en": "Gulbadan Begum"
+        },
+        {
+          "hi": "मुमताज महल",
+          "en": "Mumtaz Mahal"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'बाबरनामा' (तुजुक-ए-बाबरी) मूल रूप से किस भाषा में बाबर द्वारा लिखी गई?",
+        "en": "In which language did Babur originally write 'Baburnama'?"
+      },
+      "o": [
+        {
+          "hi": "फारसी",
+          "en": "Persian"
+        },
+        {
+          "hi": "अरबी",
+          "en": "Arabic"
+        },
+        {
+          "hi": "उर्दू",
+          "en": "Urdu"
+        },
+        {
+          "hi": "तुर्की (चागताई)",
+          "en": "Chagatai Turkic"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "महाकाव्य 'पद्मावत' के रचयिता कौन हैं?",
+        "en": "Who is the author of epic 'Padmavat'?"
+      },
+      "o": [
+        {
+          "hi": "मलिक मोहम्मद जायसी",
+          "en": "Malik Muhammad Jayasi"
+        },
+        {
+          "hi": "अमीर खुसरो",
+          "en": "Amir Khusrau"
+        },
+        {
+          "hi": "रसखान",
+          "en": "Raskhan"
+        },
+        {
+          "hi": "कुतुबन",
+          "en": "Kutuban"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'बीजक', 'साखी', और 'सबद' किसकी रचनाओं का संकलन है?",
+        "en": "Whose poetic compositions are collected in 'Bijak', 'Sakhi' & 'Sabad'?"
+      },
+      "o": [
+        {
+          "hi": "गुरु नानक",
+          "en": "Guru Nanak"
+        },
+        {
+          "hi": "कबीरदास",
+          "en": "Kabirdas"
+        },
+        {
+          "hi": "रैदास",
+          "en": "Raidas"
+        },
+        {
+          "hi": "तुलसीदास",
+          "en": "Tulsidas"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'रामचरितमानस' और 'विनय पत्रिका' के रचयिता कौन हैं?",
+        "en": "Who is the composer of 'Ramcharitmanas' and 'Vinaya Patrika'?"
+      },
+      "o": [
+        {
+          "hi": "वाल्मीकि",
+          "en": "Valmiki"
+        },
+        {
+          "hi": "वेदव्यास",
+          "en": "Ved Vyas"
+        },
+        {
+          "hi": "गोस्वामी तुलसीदास",
+          "en": "Goswami Tulsidas"
+        },
+        {
+          "hi": "सूरदास",
+          "en": "Surdas"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'सूरसागर' और 'साहित्य लहरी' के रचयिता कौन हैं?",
+        "en": "Who is the creator of 'Sur Sagar' and 'Sahitya Lahari'?"
+      },
+      "o": [
+        {
+          "hi": "मीराबाई",
+          "en": "Mirabai"
+        },
+        {
+          "hi": "रसखान",
+          "en": "Raskhan"
+        },
+        {
+          "hi": "केशवदास",
+          "en": "Keshavdas"
+        },
+        {
+          "hi": "सूरदास",
+          "en": "Surdas"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'गीतांजलि' (Gitanjali) के लिए रवींद्रनाथ टैगोर को 1913 में किस पुरस्कार से सम्मानित किया गया?",
+        "en": "For 'Gitanjali', with which award was Rabindranath Tagore honored in 1913?"
+      },
+      "o": [
+        {
+          "hi": "नोबेल पुरस्कार",
+          "en": "Nobel Prize"
+        },
+        {
+          "hi": "बुकर पुरस्कार",
+          "en": "Booker Prize"
+        },
+        {
+          "hi": "पुलित्जर पुरस्कार",
+          "en": "Pulitzer Prize"
+        },
+        {
+          "hi": "भारत रत्न",
+          "en": "Bharat Ratna"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'आनंदमठ' (Anandamath) उपन्यास के लेखक कौन हैं, जिससे 'वंदे मातरम्' लिया गया?",
+        "en": "Who is the author of 'Anandamath' from which 'Vande Mataram' was taken?"
+      },
+      "o": [
+        {
+          "hi": "शरतचंद्र चट्टोपाध्याय",
+          "en": "Sarat Chandra Chattopadhyay"
+        },
+        {
+          "hi": "बंकिमचंद्र चटर्जी",
+          "en": "Bankim Chandra Chatterjee"
+        },
+        {
+          "hi": "रवींद्रनाथ टैगोर",
+          "en": "Rabindranath Tagore"
+        },
+        {
+          "hi": "ताराशंकर बंद्योपाध्याय",
+          "en": "Tarashankar Bandyopadhyay"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'गोदान', 'गबन', 'कर्मभूमि' और 'रंगभूमि' के महान उपन्यासकार कौन हैं?",
+        "en": "Who is the great novelist of 'Godan', 'Gaban', 'Karmabhoomi' and 'Rangbhoomi'?"
+      },
+      "o": [
+        {
+          "hi": "फणीश्वर नाथ रेणु",
+          "en": "Phanishwar Nath Renu"
+        },
+        {
+          "hi": "जयशंकर प्रसाद",
+          "en": "Jaishankar Prasad"
+        },
+        {
+          "hi": "मुंशी प्रेमचंद",
+          "en": "Munshi Premchand"
+        },
+        {
+          "hi": "यशपाल",
+          "en": "Yashpal"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'कामायनी' (Kamayani) छायावादी महाकाव्य के रचयिता कौन हैं?",
+        "en": "Who is the author of the epic 'Kamayani'?"
+      },
+      "o": [
+        {
+          "hi": "सूर्यकांत त्रिपाठी 'निराला'",
+          "en": "Suryakant Tripathi Nirala"
+        },
+        {
+          "hi": "सुमित्रानंदन पंत",
+          "en": "Sumitranandan Pant"
+        },
+        {
+          "hi": "महादेवी वर्मा",
+          "en": "Mahadevi Varma"
+        },
+        {
+          "hi": "जयशंकर प्रसाद",
+          "en": "Jaishankar Prasad"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'मधुशाला' (Madhushala) के प्रसिद्ध रचयिता कौन हैं?",
+        "en": "Who is the famous author of 'Madhushala'?"
+      },
+      "o": [
+        {
+          "hi": "हरिवंश राय बच्चन",
+          "en": "Harivansh Rai Bachchan"
+        },
+        {
+          "hi": "रामधारी सिंह दिनकर",
+          "en": "Ramdhari Singh Dinkar"
+        },
+        {
+          "hi": "मैथिलीशरण गुप्त",
+          "en": "Maithili Sharan Gupt"
+        },
+        {
+          "hi": "दुष्यंत कुमार",
+          "en": "Dushyant Kumar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'भारत-भारती' और 'साकेत' के रचयिता राष्ट्रकवि कौन हैं?",
+        "en": "Who is the Rashtrakavi composer of 'Bharat-Bharati' and 'Saket'?"
+      },
+      "o": [
+        {
+          "hi": "माखनलाल चतुर्वेदी",
+          "en": "Makhanlal Chaturvedi"
+        },
+        {
+          "hi": "मैथिलीशरण गुप्त",
+          "en": "Maithili Sharan Gupt"
+        },
+        {
+          "hi": "रामधारी सिंह दिनकर",
+          "en": "Ramdhari Singh Dinkar"
+        },
+        {
+          "hi": "सुभद्रा कुमारी चौहान",
+          "en": "Subhadra Kumari Chauhan"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'सत्यार्थ प्रकाश' (Satyarth Prakash) ग्रंथ के लेखक कौन हैं?",
+        "en": "Who is the author of 'Satyarth Prakash'?"
+      },
+      "o": [
+        {
+          "hi": "स्वामी विवेकानंद",
+          "en": "Swami Vivekananda"
+        },
+        {
+          "hi": "राजा राममोहन राय",
+          "en": "Raja Ram Mohan Roy"
+        },
+        {
+          "hi": "स्वामी दयानंद सरस्वती",
+          "en": "Swami Dayananda Saraswati"
+        },
+        {
+          "hi": "आचार्य चाणक्य",
+          "en": "Acharya Chanakya"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'डिस्कवरी ऑफ इंडिया' (The Discovery of India) पुस्तक किसने लिखी है?",
+        "en": "Who wrote the book 'The Discovery of India'?"
+      },
+      "o": [
+        {
+          "hi": "महात्मा गांधी",
+          "en": "Mahatma Gandhi"
+        },
+        {
+          "hi": "सरदार पटेल",
+          "en": "Sardar Patel"
+        },
+        {
+          "hi": "डॉ. राजेंद्र प्रसाद",
+          "en": "Dr. Rajendra Prasad"
+        },
+        {
+          "hi": "जवाहरलाल नेहरू",
+          "en": "Jawaharlal Nehru"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'माई एक्सपेरीमेंट्स विद ट्रुथ' (My Experiments with Truth) किसकी आत्मकथा है?",
+        "en": "Whose autobiography is 'My Experiments with Truth'?"
+      },
+      "o": [
+        {
+          "hi": "महात्मा गांधी",
+          "en": "Mahatma Gandhi"
+        },
+        {
+          "hi": "जवाहरलाल नेहरू",
+          "en": "Jawaharlal Nehru"
+        },
+        {
+          "hi": "सुभाष चंद्र बोस",
+          "en": "Subhas Chandra Bose"
+        },
+        {
+          "hi": "डॉ. बी.आर. अंबेडकर",
+          "en": "Dr. B.R. Ambedkar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'इंडिया डिवाइडेड' (India Divided) पुस्तक के लेखक कौन हैं?",
+        "en": "Who is the author of 'India Divided'?"
+      },
+      "o": [
+        {
+          "hi": "मौलाना अबुल कलाम आजाद",
+          "en": "Maulana Abul Kalam Azad"
+        },
+        {
+          "hi": "डॉ. राजेंद्र प्रसाद",
+          "en": "Dr. Rajendra Prasad"
+        },
+        {
+          "hi": "लाला लाजपत राय",
+          "en": "Lala Lajpat Rai"
+        },
+        {
+          "hi": "वल्लभभाई पटेल",
+          "en": "Vallabhbhai Patel"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'इंडिया विन्स फ्रीडम' (India Wins Freedom) पुस्तक के लेखक कौन हैं?",
+        "en": "Who wrote 'India Wins Freedom'?"
+      },
+      "o": [
+        {
+          "hi": "जवाहरलाल नेहरू",
+          "en": "Jawaharlal Nehru"
+        },
+        {
+          "hi": "रफी अहमद किदवई",
+          "en": "Rafi Ahmed Kidwai"
+        },
+        {
+          "hi": "मौलाना अबुल कलाम आजाद",
+          "en": "Maulana Abul Kalam Azad"
+        },
+        {
+          "hi": "सैयद अहमद खान",
+          "en": "Syed Ahmed Khan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'अनहैप्पी इंडिया' (Unhappy India) पुस्तक के लेखक कौन थे?",
+        "en": "Who was the author of the book 'Unhappy India'?"
+      },
+      "o": [
+        {
+          "hi": "बाल गंगाधर तिलक",
+          "en": "Bal Gangadhar Tilak"
+        },
+        {
+          "hi": "बिपिन चंद्र पाल",
+          "en": "Bipin Chandra Pal"
+        },
+        {
+          "hi": "अरविंद घोष",
+          "en": "Aurobindo Ghose"
+        },
+        {
+          "hi": "लाला लाजपत राय",
+          "en": "Lala Lajpat Rai"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'गीता रहस्य' (Gita Rahasya) पुस्तक मांडले जेल में किसने लिखी थी?",
+        "en": "Who wrote 'Gita Rahasya' while imprisoned in Mandalay Jail?"
+      },
+      "o": [
+        {
+          "hi": "बाल गंगाधर तिलक",
+          "en": "Bal Gangadhar Tilak"
+        },
+        {
+          "hi": "लाला लाजपत राय",
+          "en": "Lala Lajpat Rai"
+        },
+        {
+          "hi": "महात्मा गांधी",
+          "en": "Mahatma Gandhi"
+        },
+        {
+          "hi": "विनायक दामोदर सावरकर",
+          "en": "V.D. Savarkar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'लाइफ डिवाइन' (The Life Divine) और 'सावित्री' के रचयिता कौन हैं?",
+        "en": "Who is the author of 'The Life Divine' and 'Savitri'?"
+      },
+      "o": [
+        {
+          "hi": "स्वामी विवेकानंद",
+          "en": "Swami Vivekananda"
+        },
+        {
+          "hi": "श्री अरविंद घोष",
+          "en": "Sri Aurobindo Ghose"
+        },
+        {
+          "hi": "रवींद्रनाथ टैगोर",
+          "en": "Rabindranath Tagore"
+        },
+        {
+          "hi": "सर्वपल्ली राधाकृष्णन",
+          "en": "S. Radhakrishnan"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'द इंडियन स्ट्रगल' (The Indian Struggle) पुस्तक के लेखक कौन हैं?",
+        "en": "Who is the author of 'The Indian Struggle'?"
+      },
+      "o": [
+        {
+          "hi": "चित्तरंजन दास",
+          "en": "Chittaranjan Das"
+        },
+        {
+          "hi": "जवाहरलाल नेहरू",
+          "en": "Jawaharlal Nehru"
+        },
+        {
+          "hi": "नेताजी सुभाष चंद्र बोस",
+          "en": "Netaji Subhas Chandra Bose"
+        },
+        {
+          "hi": "रास बिहारी बोस",
+          "en": "Rash Behari Bose"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'पॉवर्टी एंड अन-ब्रिटिश रूल इन इंडिया' पुस्तक किसने लिखी?",
+        "en": "Who wrote 'Poverty and Un-British Rule in India'?"
+      },
+      "o": [
+        {
+          "hi": "आर.सी. दत्त",
+          "en": "R.C. Dutt"
+        },
+        {
+          "hi": "एम.जी. रानाडे",
+          "en": "M.G. Ranade"
+        },
+        {
+          "hi": "गोपाल कृष्ण गोखले",
+          "en": "Gopal Krishna Gokhale"
+        },
+        {
+          "hi": "दादाभाई नौरोजी",
+          "en": "Dadabhai Naoroji"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'विंग्स ऑफ फायर' (Wings of Fire) किसकी प्रसिद्ध आत्मकथा है?",
+        "en": "Whose famous autobiography is 'Wings of Fire'?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. ए.पी.जे. अब्दुल कलाम",
+          "en": "Dr. A.P.J. Abdul Kalam"
+        },
+        {
+          "hi": "डॉ. होमी भाभा",
+          "en": "Dr. Homi Bhabha"
+        },
+        {
+          "hi": "डॉ. विक्रम साराभाई",
+          "en": "Dr. Vikram Sarabhai"
+        },
+        {
+          "hi": "प्रो. सतीश धवन",
+          "en": "Prof. Satish Dhawan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'ए ब्रीफ हिस्ट्री ऑफ टाइम' (A Brief History of Time) के लेखक कौन हैं?",
+        "en": "Who authored 'A Brief History of Time'?"
+      },
+      "o": [
+        {
+          "hi": "अल्बर्ट आइंस्टीन",
+          "en": "Albert Einstein"
+        },
+        {
+          "hi": "स्टीफन हॉकिंग",
+          "en": "Stephen Hawking"
+        },
+        {
+          "hi": "कार्ल सागन",
+          "en": "Carl Sagan"
+        },
+        {
+          "hi": "आइजैक न्यूटन",
+          "en": "Isaac Newton"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'वार एंड पीस' (War and Peace) और 'अन्ना कारेनिना' के लेखक कौन हैं?",
+        "en": "Who is the author of 'War and Peace' and 'Anna Karenina'?"
+      },
+      "o": [
+        {
+          "hi": "मैक्सिम गोर्की",
+          "en": "Maxim Gorky"
+        },
+        {
+          "hi": "फ्योदोर दोस्तोयेवस्की",
+          "en": "Fyodor Dostoevsky"
+        },
+        {
+          "hi": "लियो टॉल्स्टॉय",
+          "en": "Leo Tolstoy"
+        },
+        {
+          "hi": "एंटोन चेखव",
+          "en": "Anton Chekhov"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'मदर' (Mother) उपन्यास के लेखक कौन हैं?",
+        "en": "Who is the author of the novel 'Mother'?"
+      },
+      "o": [
+        {
+          "hi": "लियो टॉल्स्टॉय",
+          "en": "Leo Tolstoy"
+        },
+        {
+          "hi": "इवान तुर्गनेव",
+          "en": "Ivan Turgenev"
+        },
+        {
+          "hi": "अलेक्जेंडर पुश्किन",
+          "en": "Alexander Pushkin"
+        },
+        {
+          "hi": "मैक्सिम गोर्की",
+          "en": "Maxim Gorky"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'दास कैपिटल' (Das Kapital) और 'कम्युनिस्ट मेनिफेस्टो' के लेखक कौन हैं?",
+        "en": "Who wrote 'Das Kapital' and 'The Communist Manifesto'?"
+      },
+      "o": [
+        {
+          "hi": "कार्ल मार्क्स",
+          "en": "Karl Marx"
+        },
+        {
+          "hi": "फ्रेडरिक एंगेल्स",
+          "en": "Friedrich Engels"
+        },
+        {
+          "hi": "लेनिन",
+          "en": "Lenin"
+        },
+        {
+          "hi": "एडम स्मिथ",
+          "en": "Adam Smith"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'वेल्थ ऑफ नेशंस' (The Wealth of Nations) पुस्तक के लेखक कौन हैं?",
+        "en": "Who is the author of 'The Wealth of Nations'?"
+      },
+      "o": [
+        {
+          "hi": "अमर्त्य सेन",
+          "en": "Amartya Sen"
+        },
+        {
+          "hi": "एडम स्मिथ",
+          "en": "Adam Smith"
+        },
+        {
+          "hi": "जॉन मेनार्ड कीन्स",
+          "en": "John Maynard Keynes"
+        },
+        {
+          "hi": "डेविड रिकार्डो",
+          "en": "David Ricardo"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'द रिपब्लिक' (The Republic) के रचयिता कौन दार्शनिक हैं?",
+        "en": "Which philosopher authored 'The Republic'?"
+      },
+      "o": [
+        {
+          "hi": "सुकरात",
+          "en": "Socrates"
+        },
+        {
+          "hi": "अरस्तू",
+          "en": "Aristotle"
+        },
+        {
+          "hi": "प्लेटो",
+          "en": "Plato"
+        },
+        {
+          "hi": "रूसो",
+          "en": "Rousseau"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'पॉलिटिक्स' (Politics) ग्रंथ के रचयिता कौन हैं?",
+        "en": "Who is the author of the work 'Politics'?"
+      },
+      "o": [
+        {
+          "hi": "प्लेटो",
+          "en": "Plato"
+        },
+        {
+          "hi": "सुकरात",
+          "en": "Socrates"
+        },
+        {
+          "hi": "हेरोडोटस",
+          "en": "Herodotus"
+        },
+        {
+          "hi": "अरस्तू (Aristotle)",
+          "en": "Aristotle"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'द प्रिंस' (The Prince) के लेखक कौन हैं, जिन्हें आधुनिक राजनीति विज्ञान का जनक माना जाता है?",
+        "en": "Who authored 'The Prince', considered pioneer of modern political thought?"
+      },
+      "o": [
+        {
+          "hi": "निकोलस मैकियावेली",
+          "en": "Niccolo Machiavelli"
+        },
+        {
+          "hi": "थॉमस हॉब्स",
+          "en": "Thomas Hobbes"
+        },
+        {
+          "hi": "जॉन लॉक",
+          "en": "John Locke"
+        },
+        {
+          "hi": "मॉन्टेस्क्यू",
+          "en": "Montesquieu"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'द सोशल कॉन्ट्रैक्ट' (The Social Contract) पुस्तक के लेखक कौन हैं?",
+        "en": "Who is the author of 'The Social Contract'?"
+      },
+      "o": [
+        {
+          "hi": "वॉल्टेयर",
+          "en": "Voltaire"
+        },
+        {
+          "hi": "जीन-जैक्स रूसो",
+          "en": "Jean-Jacques Rousseau"
+        },
+        {
+          "hi": "डेसकार्टेस",
+          "en": "Descartes"
+        },
+        {
+          "hi": "डिडरोट",
+          "en": "Diderot"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}
