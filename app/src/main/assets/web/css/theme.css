@@ -511,7 +511,7 @@ html, body {
 /* 2-Column Subject Grid (FR-02) */
 .subject-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 11px;
   margin-bottom: 16px;
 }
@@ -521,6 +521,7 @@ html, body {
   border: 1px solid var(--border-subtle);
   border-radius: 18px;
   padding: 14px;
+  min-width: 0;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -577,6 +578,7 @@ html, body {
 .subject-desc {
   font-size: 0.72rem;
   color: var(--text-muted);
+  max-width: 100%;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -1487,7 +1489,7 @@ html, body {
 /* 4-Column Stats Grid (Total / Correct / Wrong / Skipped — FR-07) */
 .stats-four-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 8px;
   background: var(--bg-card);
   border: 1px solid var(--border-subtle);
@@ -1750,7 +1752,7 @@ html, body {
 
 .navigator-grid {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(6, minmax(0, 1fr));
   gap: 8px;
   max-height: 42vh;
   overflow-y: auto;
@@ -1809,7 +1811,7 @@ html, body {
 /* Language Preference Pills (FR-04 & Appendix C.3) */
 .lang-pills-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 8px;
   margin: 10px 0 16px;
 }
