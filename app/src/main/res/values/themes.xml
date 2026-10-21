@@ -12,7 +12,7 @@
     <!-- Native Splash Theme (PRD Section 9 & 10: Cold start splash visible immediately) -->
     <style name="Theme.SmartQuizPortal.Splash" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">@color/bg_obsidian</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_logo</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
         <item name="postSplashScreenTheme">@style/Theme.SmartQuizPortal</item>
     </style>
 

@@ -6,8 +6,41 @@
   <meta name="theme-color" content="#0B0D14" />
   <title>Smart Quiz Portal — डिजिटल लर्निंग प्लेटफॉर्म</title>
   <link rel="stylesheet" href="./css/theme.css" />
+  <link rel="stylesheet" href="./css/intro.css" />
 </head>
 <body>
+  <!-- Launch intro: a book page turns, a QUIZ question appears, a hand taps the
+       correct answer, then the app opens. Tap anywhere to skip. -->
+  <div id="app-intro">
+    <div class="intro-book">
+      <div class="intro-page intro-page-left"></div>
+      <div class="intro-page intro-page-right"></div>
+      <div class="intro-spine"></div>
+
+      <div class="intro-flip">
+        <div class="intro-flip-face intro-flip-front"></div>
+        <div class="intro-flip-face intro-flip-back"></div>
+      </div>
+
+      <div class="intro-quiz">
+        <div class="intro-quiz-title">QUIZ</div>
+        <div class="intro-quiz-rule"></div>
+        <div class="intro-quiz-q">भारत की राजधानी कौन-सी है?</div>
+        <div class="intro-opts">
+          <div class="intro-opt"><span>A</span>मुंबई</div>
+          <div class="intro-opt"><span>B</span>नई दिल्ली</div>
+          <div class="intro-opt"><span>C</span>कोलकाता</div>
+          <div class="intro-opt"><span>D</span>चेन्नई</div>
+        </div>
+      </div>
+
+      <div class="intro-ripple"></div>
+      <div class="intro-hand">👆</div>
+    </div>
+    <div class="intro-brand">SMART QUIZ PORTAL</div>
+    <div class="intro-skip">छोड़ने के लिए कहीं भी टैप करें</div>
+  </div>
+
   <div id="app-shell" class="app-shell">
 
     <!-- Top App Bar (Shared across Dashboard, Subject, Quiz & Result views) -->
@@ -145,6 +178,7 @@
   <script src="./js/quiz.js"></script>
   <script src="./js/settings.js"></script>
   <script src="./js/sfx.js"></script>
+  <script src="./js/intro.js"></script>
   <script src="./js/updater.js"></script>
   <script src="./js/app.js"></script>
 </body>

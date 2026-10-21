@@ -1,0 +1,204 @@
+/* ==========================================================================
+   Smart Quiz Portal — Launch Intro Animation
+   A book page turns, the next page shows a QUIZ question, a hand taps the
+   correct option, then the app opens. Tap anywhere to skip.
+   ========================================================================== */
+
+#app-intro {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 26px;
+  background: radial-gradient(circle at 50% 36%, #1A1F33 0%, #0B0D14 64%);
+  overflow: hidden;
+  transition: opacity .42s ease, transform .42s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+#app-intro.intro-out { opacity: 0; transform: scale(1.05); pointer-events: none; }
+#app-intro.intro-gone { display: none; }
+
+/* ---------- the book ---------- */
+.intro-book {
+  position: relative;
+  width: 300px;
+  height: 200px;
+  perspective: 1100px;
+  opacity: 0;
+  animation: introBookIn .42s cubic-bezier(.2,.8,.3,1) forwards;
+}
+@keyframes introBookIn {
+  from { opacity: 0; transform: translateY(16px) scale(.93); }
+  to   { opacity: 1; transform: none; }
+}
+.intro-page {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 50%;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, .5);
+}
+.intro-page-left  { left: 0;  border-radius: 10px 2px 2px 10px; background: linear-gradient(160deg, #FFFFFF, #E0E7FF); }
+.intro-page-right { right: 0; border-radius: 2px 10px 10px 2px; background: linear-gradient(200deg, #F8FAFC, #C7D2FE); }
+.intro-spine {
+  position: absolute; left: 50%; top: 6%; height: 88%; width: 2px; margin-left: -1px;
+  background: linear-gradient(180deg, rgba(99,102,241,0), rgba(99,102,241,.45), rgba(99,102,241,0));
+  border-radius: 2px;
+  animation: introSpineOut .35s ease 1.20s forwards;
+}
+@keyframes introSpineOut { to { opacity: 0; } }
+
+/* ---------- the turning page (front + back faces) ---------- */
+.intro-flip {
+  position: absolute;
+  top: 0; right: 0;
+  width: 50%; height: 100%;
+  transform-style: preserve-3d;
+  transform-origin: left center;
+  animation: introFlip .95s cubic-bezier(.55,.06,.32,1) .35s forwards,
+             introFlipFade .3s ease 1.24s forwards;
+}
+@keyframes introFlip {
+  0%   { transform: rotateY(0deg)     translateY(0)    translateZ(0); }
+  50%  { transform: rotateY(-88deg)   translateY(-8px) translateZ(26px); }
+  100% { transform: rotateY(-176deg)  translateY(0)    translateZ(0); }
+}
+@keyframes introFlipFade { to { opacity: 0; } }
+.intro-flip-face {
+  position: absolute;
+  inset: 0;
+  border-radius: 2px 10px 10px 2px;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+.intro-flip-front { background: linear-gradient(200deg, #FFFFFF, #E0E7FF); box-shadow: -10px 8px 22px rgba(0, 0, 0, .42); }
+.intro-flip-back  { background: linear-gradient(160deg, #EEF2FF, #C7D2FE); transform: rotateY(180deg); border-radius: 10px 2px 2px 10px; box-shadow: 10px 8px 22px rgba(0, 0, 0, .35); }
+
+/* ---------- the QUIZ page ---------- */
+.intro-quiz {
+  position: absolute;
+  inset: 0;
+  padding: 14px 16px 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  opacity: 0;
+  animation: introQuizIn .4s ease 1.12s forwards;
+}
+@keyframes introQuizIn { to { opacity: 1; } }
+.intro-quiz-title {
+  font-size: 15px;
+  font-weight: 800;
+  letter-spacing: .26em;
+  color: #4F46E5;
+  text-indent: .26em;
+}
+.intro-quiz-rule {
+  width: 34px; height: 2px; margin: 6px 0 8px; border-radius: 2px;
+  background: linear-gradient(90deg, #8B5CF6, #22D3EE);
+}
+.intro-quiz-q {
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 1.35;
+  color: #1E293B;
+  text-align: center;
+  margin-bottom: 9px;
+}
+.intro-opts { width: 100%; display: flex; flex-direction: column; gap: 4px; }
+.intro-opt {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 7px;
+  font-size: 9.5px;
+  font-weight: 600;
+  color: #334155;
+  background: rgba(99, 102, 241, .09);
+  border: 1px solid rgba(99, 102, 241, .24);
+  border-radius: 7px;
+  transition: background .2s ease, border-color .2s ease, color .2s ease;
+}
+.intro-opt span {
+  flex: 0 0 auto;
+  width: 14px; height: 14px;
+  display: flex; align-items: center; justify-content: center;
+  border-radius: 4px;
+  background: #6366F1;
+  color: #FFFFFF;
+  font-size: 8px;
+  font-weight: 700;
+}
+.intro-opt.is-correct {
+  background: rgba(16, 185, 129, .2);
+  border-color: #10B981;
+  color: #065F46;
+}
+.intro-opt.is-correct span { background: #10B981; }
+.intro-opt.is-correct::after {
+  content: "✓";
+  margin-left: auto;
+  font-weight: 800;
+  font-size: 12px;
+  color: #059669;
+}
+
+/* ---------- the tapping hand ---------- */
+.intro-hand {
+  position: absolute;
+  top: 0; left: 0;
+  font-size: 27px;
+  line-height: 1;
+  opacity: 0;
+  pointer-events: none;
+  filter: drop-shadow(0 5px 10px rgba(0, 0, 0, .5));
+  animation: introHand 1.5s cubic-bezier(.3,.7,.3,1) 1.55s forwards;
+}
+@keyframes introHand {
+  0%   { opacity: 0; transform: translate(216px, 172px) scale(.85); }
+  14%  { opacity: 1; transform: translate(216px, 172px) scale(1); }
+  52%  { opacity: 1; transform: translate(147px, 109px) scale(1); }
+  64%  { opacity: 1; transform: translate(147px, 109px) scale(.82); }
+  76%  { opacity: 1; transform: translate(147px, 109px) scale(1); }
+  100% { opacity: 1; transform: translate(147px, 109px) scale(1); }
+}
+
+/* ---------- tap-ripple + skip hint ---------- */
+.intro-ripple {
+  position: absolute;
+  left: 150px; top: 112px;
+  width: 46px; height: 46px;
+  margin: -23px 0 0 -23px;
+  border: 2px solid rgba(16, 185, 129, .85);
+  border-radius: 50%;
+  opacity: 0;
+  pointer-events: none;
+  animation: introRipple .7s ease-out 2.45s forwards;
+}
+@keyframes introRipple {
+  0%   { opacity: .95; transform: scale(.35); }
+  100% { opacity: 0;   transform: scale(1.5); }
+}
+.intro-skip {
+  font-size: 11px;
+  letter-spacing: .04em;
+  color: #64748B;
+  opacity: 0;
+  animation: introSkipIn .5s ease 1.2s forwards;
+}
+@keyframes introSkipIn { to { opacity: 1; } }
+.intro-brand {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: .16em;
+  color: #94A3B8;
+  opacity: 0;
+  animation: introSkipIn .5s ease .15s forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #app-intro { display: none !important; }
+}
