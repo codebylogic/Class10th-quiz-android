@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - खेल-कूद (Sports)",
+  "subtitle": "प्रमुख खेलों में एक पक्ष के खिलाड़ियों की संख्या",
+  "description": "प्रमुख खेलों में एक पक्ष के खिलाड़ियों की संख्या पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "रग्बी फुटबॉल (Rugby Football) के प्रत्येक पक्ष में कितने खिलाड़ी होते हैं?",
+        "en": "How many players are there on each side in Rugby Football (highest in team sports)?"
+      },
+      "o": [
+        {
+          "hi": "15 खिलाड़ी",
+          "en": "15 Players"
+        },
+        {
+          "hi": "11 खिलाड़ी",
+          "en": "11 Players"
+        },
+        {
+          "hi": "13 खिलाड़ी",
+          "en": "13 Players"
+        },
+        {
+          "hi": "16 खिलाड़ी",
+          "en": "16 Players"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्रिकेट, फुटबॉल और फील्ड हॉकी—इन तीनों खेलों के प्रत्येक पक्ष में कितने खिलाड़ी खेलते हैं?",
+        "en": "How many players are on the field for each team in Cricket, Football, and Field Hockey?"
+      },
+      "o": [
+        {
+          "hi": "9 खिलाड़ी",
+          "en": "9 Players"
+        },
+        {
+          "hi": "11 खिलाड़ी",
+          "en": "11 Players"
+        },
+        {
+          "hi": "12 खिलाड़ी",
+          "en": "12 Players"
+        },
+        {
+          "hi": "10 खिलाड़ी",
+          "en": "10 Players"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "खो-खो (Kho-Kho) के खेल में मैदान पर एक टीम के कितने सक्रिय खिलाड़ी उतरते हैं?",
+        "en": "In Kho-Kho, how many active players from a team take the field at a time?"
+      },
+      "o": [
+        {
+          "hi": "7 खिलाड़ी",
+          "en": "7 Players"
+        },
+        {
+          "hi": "11 खिलाड़ी",
+          "en": "11 Players"
+        },
+        {
+          "hi": "9 खिलाड़ी (कुल टीम में 12 होते हैं)",
+          "en": "9 Players (Squad of 12)"
+        },
+        {
+          "hi": "8 खिलाड़ी",
+          "en": "8 Players"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बेसबॉल (Baseball) के प्रत्येक पक्ष में मैदान पर कितने खिलाड़ी होते हैं?",
+        "en": "How many players are on the field for each side in a Baseball game?"
+      },
+      "o": [
+        {
+          "hi": "11 खिलाड़ी",
+          "en": "11 Players"
+        },
+        {
+          "hi": "7 खिलाड़ी",
+          "en": "7 Players"
+        },
+        {
+          "hi": "8 खिलाड़ी",
+          "en": "8 Players"
+        },
+        {
+          "hi": "9 खिलाड़ी",
+          "en": "9 Players"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कबड्डी (Kabaddi) के खेल में एक समय में मैदान पर एक पक्ष के कितने खिलाड़ी खेलते हैं?",
+        "en": "In Kabaddi, how many players from each team are on the court during play?"
+      },
+      "o": [
+        {
+          "hi": "7 खिलाड़ी (कुल टीम 12)",
+          "en": "7 Players (Squad of 12)"
+        },
+        {
+          "hi": "6 खिलाड़ी",
+          "en": "6 Players"
+        },
+        {
+          "hi": "8 खिलाड़ी",
+          "en": "8 Players"
+        },
+        {
+          "hi": "9 खिलाड़ी",
+          "en": "9 Players"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वाटर पोलो (Water Polo) की प्रत्येक टीम में पानी में कितने खिलाड़ी खेलते हैं?",
+        "en": "How many players from each team are in the water at a time in Water Polo?"
+      },
+      "o": [
+        {
+          "hi": "5 खिलाड़ी",
+          "en": "5 Players"
+        },
+        {
+          "hi": "7 खिलाड़ी (6 फील्ड + 1 गोलकीपर)",
+          "en": "7 Players (6 Field + 1 Goalkeeper)"
+        },
+        {
+          "hi": "6 खिलाड़ी",
+          "en": "6 Players"
+        },
+        {
+          "hi": "8 खिलाड़ी",
+          "en": "8 Players"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नेटबॉल (Netball) के खेल में प्रत्येक पक्ष में कितने खिलाड़ी होते हैं?",
+        "en": "How many players are there on each side on the court in Netball?"
+      },
+      "o": [
+        {
+          "hi": "5 खिलाड़ी",
+          "en": "5 Players"
+        },
+        {
+          "hi": "6 खिलाड़ी",
+          "en": "6 Players"
+        },
+        {
+          "hi": "7 खिलाड़ी",
+          "en": "7 Players"
+        },
+        {
+          "hi": "9 खिलाड़ी",
+          "en": "9 Players"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हैंडबॉल (Handball) के खेल में मैदान पर एक टीम के कितने खिलाड़ी खेलते हैं?",
+        "en": "In team Handball, how many players per side are on the court at a time?"
+      },
+      "o": [
+        {
+          "hi": "5 खिलाड़ी",
+          "en": "5 Players"
+        },
+        {
+          "hi": "6 खिलाड़ी",
+          "en": "6 Players"
+        },
+        {
+          "hi": "8 खिलाड़ी",
+          "en": "8 Players"
+        },
+        {
+          "hi": "7 खिलाड़ी (6 कोर्ट खिलाड़ी + 1 गोलकीपर)",
+          "en": "7 Players (6 Court + 1 Goalkeeper)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वॉलीबॉल (Volleyball) के खेल में प्रत्येक पक्ष में कोर्ट पर कितने खिलाड़ी होते हैं?",
+        "en": "How many players are on the court for each team in standard Volleyball?"
+      },
+      "o": [
+        {
+          "hi": "6 खिलाड़ी",
+          "en": "6 Players"
+        },
+        {
+          "hi": "5 खिलाड़ी",
+          "en": "5 Players"
+        },
+        {
+          "hi": "7 खिलाड़ी",
+          "en": "7 Players"
+        },
+        {
+          "hi": "8 खिलाड़ी",
+          "en": "8 Players"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आइस हॉकी (Ice Hockey) में बर्फ पर एक समय में एक टीम के कितने खिलाड़ी खेलते हैं?",
+        "en": "In Ice Hockey, how many players per team are on the ice during play?"
+      },
+      "o": [
+        {
+          "hi": "5 खिलाड़ी",
+          "en": "5 Players"
+        },
+        {
+          "hi": "6 खिलाड़ी (5 स्केटर + 1 गोलटेंडर)",
+          "en": "6 Players (5 Skaters + 1 Goaltender)"
+        },
+        {
+          "hi": "7 खिलाड़ी",
+          "en": "7 Players"
+        },
+        {
+          "hi": "11 खिलाड़ी",
+          "en": "11 Players"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बास्केटबॉल (Basketball) के खेल में कोर्ट पर प्रत्येक टीम के कितने खिलाड़ी खेलते हैं?",
+        "en": "In standard Basketball, how many players per team are on the court at a time?"
+      },
+      "o": [
+        {
+          "hi": "6 खिलाड़ी",
+          "en": "6 Players"
+        },
+        {
+          "hi": "7 खिलाड़ी",
+          "en": "7 Players"
+        },
+        {
+          "hi": "5 खिलाड़ी (कुल टीम में 12)",
+          "en": "5 Players (Squad of 12)"
+        },
+        {
+          "hi": "4 खिलाड़ी",
+          "en": "4 Players"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "फुटसाल (Futsal - इनडोर फुटबॉल) में प्रत्येक टीम के कितने खिलाड़ी कोर्ट पर होते हैं?",
+        "en": "In Futsal (indoor football), how many players per team are on the pitch?"
+      },
+      "o": [
+        {
+          "hi": "6 खिलाड़ी",
+          "en": "6 Players"
+        },
+        {
+          "hi": "7 खिलाड़ी",
+          "en": "7 Players"
+        },
+        {
+          "hi": "4 खिलाड़ी",
+          "en": "4 Players"
+        },
+        {
+          "hi": "5 खिलाड़ी (4 आउटफील्ड + 1 गोलकीपर)",
+          "en": "5 Players (4 Outfield + 1 Goalkeeper)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पोलो (Polo - घुड़सवारी पोलो) के प्रत्येक पक्ष में कितने खिलाड़ी होते हैं?",
+        "en": "How many players are on each team in standard Horse Polo?"
+      },
+      "o": [
+        {
+          "hi": "4 खिलाड़ी",
+          "en": "4 Players"
+        },
+        {
+          "hi": "5 खिलाड़ी",
+          "en": "5 Players"
+        },
+        {
+          "hi": "6 खिलाड़ी",
+          "en": "6 Players"
+        },
+        {
+          "hi": "3 खिलाड़ी",
+          "en": "3 Players"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सेपक टकरा (Sepak Takraw) की मानक 'रेगू' (Regu) स्पर्धा में प्रत्येक पक्ष में कितने खिलाड़ी होते हैं?",
+        "en": "In Sepak Takraw, how many players are on each side in a standard 'Regu' match?"
+      },
+      "o": [
+        {
+          "hi": "2 खिलाड़ी",
+          "en": "2 Players"
+        },
+        {
+          "hi": "3 खिलाड़ी",
+          "en": "3 Players"
+        },
+        {
+          "hi": "4 खिलाड़ी",
+          "en": "4 Players"
+        },
+        {
+          "hi": "5 खिलाड़ी",
+          "en": "5 Players"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बीच वॉलीबॉल (Beach Volleyball) में प्रत्येक टीम में कितने खिलाड़ी होते हैं?",
+        "en": "In Olympic Beach Volleyball, how many players are there on each team?"
+      },
+      "o": [
+        {
+          "hi": "4 खिलाड़ी",
+          "en": "4 Players"
+        },
+        {
+          "hi": "3 खिलाड़ी",
+          "en": "3 Players"
+        },
+        {
+          "hi": "2 खिलाड़ी (कोई स्थानापन्न नहीं)",
+          "en": "2 Players (No substitutes)"
+        },
+        {
+          "hi": "6 खिलाड़ी",
+          "en": "6 Players"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "टेनिस, बैडमिंटन और टेबल टेनिस के एकल (Singles) और युगल (Doubles) में क्रमशः कितने खिलाड़ी होते हैं?",
+        "en": "In Tennis, Badminton, and Table Tennis, how many players play in Singles and Doubles respectively?"
+      },
+      "o": [
+        {
+          "hi": "एकल में 2 तथा युगल में 4 खिलाड़ी",
+          "en": "2 in Singles and 4 in Doubles"
+        },
+        {
+          "hi": "एकल में 1 तथा युगल में 3 खिलाड़ी",
+          "en": "1 in Singles and 3 in Doubles"
+        },
+        {
+          "hi": "दोनों में 2 खिलाड़ी",
+          "en": "2 Players in both"
+        },
+        {
+          "hi": "एकल में 1 तथा युगल में 2 खिलाड़ी (प्रति पक्ष)",
+          "en": "1 in Singles and 2 in Doubles (per side)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ताश के खेल 'ब्रिज' (Bridge) में प्रत्येक साझेदारी (Pair) में कितने खिलाड़ी होते हैं?",
+        "en": "In the card game Bridge, how many players form a partnership (pair)?"
+      },
+      "o": [
+        {
+          "hi": "2 खिलाड़ी (एक मेज पर कुल 4 खिलाड़ी)",
+          "en": "2 Players (4 players per table)"
+        },
+        {
+          "hi": "3 खिलाड़ी",
+          "en": "3 Players"
+        },
+        {
+          "hi": "4 खिलाड़ी प्रति पक्ष",
+          "en": "4 Players per side"
+        },
+        {
+          "hi": "1 खिलाड़ी",
+          "en": "1 Player"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लैक्रोस (Lacrosse) के पुरुष मैदानी खेल में प्रत्येक पक्ष में कितने खिलाड़ी खेलते हैं?",
+        "en": "How many players are on the field for each team in men's field Lacrosse?"
+      },
+      "o": [
+        {
+          "hi": "9 खिलाड़ी",
+          "en": "9 Players"
+        },
+        {
+          "hi": "10 खिलाड़ी",
+          "en": "10 Players"
+        },
+        {
+          "hi": "11 खिलाड़ी",
+          "en": "11 Players"
+        },
+        {
+          "hi": "12 खिलाड़ी",
+          "en": "12 Players"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कर्लिंग (Curling) के शीतकालीन खेल में प्रत्येक टीम में कितने खिलाड़ी होते हैं?",
+        "en": "In the Winter Olympic sport of Curling, how many players comprise a team?"
+      },
+      "o": [
+        {
+          "hi": "3 खिलाड़ी",
+          "en": "3 Players"
+        },
+        {
+          "hi": "5 खिलाड़ी",
+          "en": "5 Players"
+        },
+        {
+          "hi": "4 खिलाड़ी",
+          "en": "4 Players"
+        },
+        {
+          "hi": "2 खिलाड़ी",
+          "en": "2 Players"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अमेरिकी फुटबॉल (American Football / NFL) में मैदान पर प्रत्येक पक्ष के कितने खिलाड़ी होते हैं?",
+        "en": "In American Football (Gridiron), how many players per side are on the field?"
+      },
+      "o": [
+        {
+          "hi": "15 खिलाड़ी",
+          "en": "15 Players"
+        },
+        {
+          "hi": "12 खिलाड़ी",
+          "en": "12 Players"
+        },
+        {
+          "hi": "9 खिलाड़ी",
+          "en": "9 Players"
+        },
+        {
+          "hi": "11 खिलाड़ी",
+          "en": "11 Players"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऑस्ट्रेलियन रूल्स फुटबॉल (AFL) में मैदान पर प्रत्येक टीम के कितने खिलाड़ी खेलते हैं?",
+        "en": "In Australian Rules Football (AFL), how many players per team are on the field?"
+      },
+      "o": [
+        {
+          "hi": "18 खिलाड़ी",
+          "en": "18 Players"
+        },
+        {
+          "hi": "15 खिलाड़ी",
+          "en": "15 Players"
+        },
+        {
+          "hi": "16 खिलाड़ी",
+          "en": "16 Players"
+        },
+        {
+          "hi": "20 खिलाड़ी",
+          "en": "20 Players"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "3x3 बास्केटबॉल (हाफ-कोर्ट) में कोर्ट पर प्रत्येक टीम के कितने खिलाड़ी होते हैं?",
+        "en": "In 3x3 Basketball, how many players per team are active on the half-court?"
+      },
+      "o": [
+        {
+          "hi": "4 खिलाड़ी",
+          "en": "4 Players"
+        },
+        {
+          "hi": "3 खिलाड़ी",
+          "en": "3 Players"
+        },
+        {
+          "hi": "5 खिलाड़ी",
+          "en": "5 Players"
+        },
+        {
+          "hi": "2 खिलाड़ी",
+          "en": "2 Players"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कैनो पोलो (Canoe Polo) में पानी में प्रत्येक टीम के कितने खिलाड़ी होते हैं?",
+        "en": "In Canoe Polo, how many players per team are on the water at a time?"
+      },
+      "o": [
+        {
+          "hi": "4 खिलाड़ी",
+          "en": "4 Players"
+        },
+        {
+          "hi": "6 खिलाड़ी",
+          "en": "6 Players"
+        },
+        {
+          "hi": "5 खिलाड़ी",
+          "en": "5 Players"
+        },
+        {
+          "hi": "7 खिलाड़ी",
+          "en": "7 Players"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "टग ऑफ वॉर (रस्साकशी - Tug of War) की एक टीम में कुल कितने खिलाड़ी होते हैं?",
+        "en": "In competitive Tug of War, how many pullers comprise a standard team?"
+      },
+      "o": [
+        {
+          "hi": "10 खिलाड़ी",
+          "en": "10 Players"
+        },
+        {
+          "hi": "6 खिलाड़ी",
+          "en": "6 Players"
+        },
+        {
+          "hi": "7 खिलाड़ी",
+          "en": "7 Players"
+        },
+        {
+          "hi": "8 खिलाड़ी",
+          "en": "8 Players"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रोलर डर्बी (Roller Derby) में ट्रैक पर प्रत्येक टीम के कितने स्केटर होते हैं?",
+        "en": "In Roller Derby, how many skaters per team are on the track at any time?"
+      },
+      "o": [
+        {
+          "hi": "5 खिलाड़ी (1 जैमर + 4 ब्लॉकर)",
+          "en": "5 Players (1 Jammer + 4 Blockers)"
+        },
+        {
+          "hi": "4 खिलाड़ी",
+          "en": "4 Players"
+        },
+        {
+          "hi": "6 खिलाड़ी",
+          "en": "6 Players"
+        },
+        {
+          "hi": "7 खिलाड़ी",
+          "en": "7 Players"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अल्टीमेट फ्रिसबी (Ultimate Frisbee) के मैदानी खेल में प्रत्येक पक्ष में कितने खिलाड़ी होते हैं?",
+        "en": "In outdoor Ultimate Frisbee, how many players per team are on the field?"
+      },
+      "o": [
+        {
+          "hi": "5 खिलाड़ी",
+          "en": "5 Players"
+        },
+        {
+          "hi": "7 खिलाड़ी",
+          "en": "7 Players"
+        },
+        {
+          "hi": "6 खिलाड़ी",
+          "en": "6 Players"
+        },
+        {
+          "hi": "8 खिलाड़ी",
+          "en": "8 Players"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गैलिक फुटबॉल (Gaelic Football) और हर्लिंग (Hurling) में प्रत्येक पक्ष में कितने खिलाड़ी खेलते हैं?",
+        "en": "In Gaelic Football and Hurling (Irish sports), how many players are on each team?"
+      },
+      "o": [
+        {
+          "hi": "11 खिलाड़ी",
+          "en": "11 Players"
+        },
+        {
+          "hi": "13 खिलाड़ी",
+          "en": "13 Players"
+        },
+        {
+          "hi": "15 खिलाड़ी",
+          "en": "15 Players"
+        },
+        {
+          "hi": "18 खिलाड़ी",
+          "en": "18 Players"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रग्बी लीग (Rugby League) में मैदान पर प्रत्येक टीम के कितने खिलाड़ी होते हैं?",
+        "en": "In Rugby League (as opposed to Rugby Union), how many players are on each side?"
+      },
+      "o": [
+        {
+          "hi": "15 खिलाड़ी",
+          "en": "15 Players"
+        },
+        {
+          "hi": "11 खिलाड़ी",
+          "en": "11 Players"
+        },
+        {
+          "hi": "12 खिलाड़ी",
+          "en": "12 Players"
+        },
+        {
+          "hi": "13 खिलाड़ी",
+          "en": "13 Players"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रग्बी सेवन्स (Rugby Sevens - ओलम्पिक प्रारूप) में प्रत्येक पक्ष में कितने खिलाड़ी होते हैं?",
+        "en": "In Rugby Sevens (the Olympic format), how many players play on each side?"
+      },
+      "o": [
+        {
+          "hi": "7 खिलाड़ी",
+          "en": "7 Players"
+        },
+        {
+          "hi": "11 खिलाड़ी",
+          "en": "11 Players"
+        },
+        {
+          "hi": "9 खिलाड़ी",
+          "en": "9 Players"
+        },
+        {
+          "hi": "5 खिलाड़ी",
+          "en": "5 Players"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सॉफ्टबॉल (Softball) के प्रत्येक पक्ष में मैदान पर कितने खिलाड़ी होते हैं?",
+        "en": "In standard fastpitch Softball, how many players per side are on the field?"
+      },
+      "o": [
+        {
+          "hi": "7 खिलाड़ी",
+          "en": "7 Players"
+        },
+        {
+          "hi": "9 खिलाड़ी",
+          "en": "9 Players"
+        },
+        {
+          "hi": "11 खिलाड़ी",
+          "en": "11 Players"
+        },
+        {
+          "hi": "10 खिलाड़ी",
+          "en": "10 Players"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्रिकेट में 'अंतिम एकादश' (Playing XI) के अतिरिक्त मैच में कितने स्थानापन्न (12th Man) नामित होते हैं?",
+        "en": "In Test/ODI cricket, how many playing members take the field for each team?"
+      },
+      "o": [
+        {
+          "hi": "12 खिलाड़ी",
+          "en": "12 Players"
+        },
+        {
+          "hi": "10 खिलाड़ी",
+          "en": "10 Players"
+        },
+        {
+          "hi": "11 खिलाड़ी",
+          "en": "11 Players"
+        },
+        {
+          "hi": "15 खिलाड़ी",
+          "en": "15 Players"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से किस खेल युग्म में खिलाड़ियों की संख्या 11-11 होती है?",
+        "en": "Which of the following pairs of sports has 11 players on each side?"
+      },
+      "o": [
+        {
+          "hi": "खो-खो और कबड्डी",
+          "en": "Kho-Kho and Kabaddi"
+        },
+        {
+          "hi": "बेसबॉल और वॉलीबॉल",
+          "en": "Baseball and Volleyball"
+        },
+        {
+          "hi": "पोलो और बास्केटबॉल",
+          "en": "Polo and Basketball"
+        },
+        {
+          "hi": "हॉकी और फुटबॉल",
+          "en": "Hockey and Football"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से किस खेल युग्म में खिलाड़ियों की संख्या 7-7 होती है?",
+        "en": "Which pair of sports features 7 players on each team?"
+      },
+      "o": [
+        {
+          "hi": "कबड्डी और वाटर पोलो",
+          "en": "Kabaddi and Water Polo"
+        },
+        {
+          "hi": "खो-खो और बेसबॉल",
+          "en": "Kho-Kho and Baseball"
+        },
+        {
+          "hi": "वॉलीबॉल और बास्केटबॉल",
+          "en": "Volleyball and Basketball"
+        },
+        {
+          "hi": "पोलो और रग्बी",
+          "en": "Polo and Rugby"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से किस खेल युग्म में खिलाड़ियों की संख्या 9-9 होती है?",
+        "en": "Which pair of sports features 9 players on each team on the field?"
+      },
+      "o": [
+        {
+          "hi": "कबड्डी और नेटबॉल",
+          "en": "Kabaddi and Netball"
+        },
+        {
+          "hi": "खो-खो और बेसबॉल",
+          "en": "Kho-Kho and Baseball"
+        },
+        {
+          "hi": "वॉलीबॉल और पोलो",
+          "en": "Volleyball and Polo"
+        },
+        {
+          "hi": "हॉकी और बास्केटबॉल",
+          "en": "Hockey and Basketball"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पोलो और वाटर पोलो में खिलाड़ियों की संख्या क्रमशः कितनी होती है?",
+        "en": "What is the number of players in Polo and Water Polo respectively?"
+      },
+      "o": [
+        {
+          "hi": "7 और 4 खिलाड़ी",
+          "en": "7 and 4 Players"
+        },
+        {
+          "hi": "5 और 6 खिलाड़ी",
+          "en": "5 and 6 Players"
+        },
+        {
+          "hi": "4 और 7 खिलाड़ी",
+          "en": "4 and 7 Players"
+        },
+        {
+          "hi": "4 और 9 खिलाड़ी",
+          "en": "4 and 9 Players"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बास्केटबॉल और वॉलीबॉल में कोर्ट पर खिलाड़ियों की संख्या क्रमशः कितनी होती है?",
+        "en": "What is the number of players on the court in Basketball and Volleyball respectively?"
+      },
+      "o": [
+        {
+          "hi": "6 और 5 खिलाड़ी",
+          "en": "6 and 5 Players"
+        },
+        {
+          "hi": "7 और 6 खिलाड़ी",
+          "en": "7 and 6 Players"
+        },
+        {
+          "hi": "5 और 7 खिलाड़ी",
+          "en": "5 and 7 Players"
+        },
+        {
+          "hi": "5 और 6 खिलाड़ी",
+          "en": "5 and 6 Players"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नेटबॉल, कबड्डी और वॉटर पोलो—इन तीनों खेलों में प्रत्येक पक्ष में कितने खिलाड़ी होते हैं?",
+        "en": "In Netball, Kabaddi, and Water Polo, how many players are on each team?"
+      },
+      "o": [
+        {
+          "hi": "7 खिलाड़ी प्रत्येक में",
+          "en": "7 Players in each"
+        },
+        {
+          "hi": "6 खिलाड़ी प्रत्येक में",
+          "en": "6 Players in each"
+        },
+        {
+          "hi": "9 खिलाड़ी प्रत्येक में",
+          "en": "9 Players in each"
+        },
+        {
+          "hi": "5 खिलाड़ी प्रत्येक में",
+          "en": "5 Players in each"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रग्बी फुटबॉल में खिलाड़ियों की संख्या पोलो के खिलाड़ियों की संख्या से कितनी अधिक होती है?",
+        "en": "How many more players are there in Rugby Football (15) compared to Polo (4)?"
+      },
+      "o": [
+        {
+          "hi": "10 खिलाड़ी अधिक",
+          "en": "10 Players more"
+        },
+        {
+          "hi": "11 खिलाड़ी अधिक (15 - 4 = 11)",
+          "en": "11 Players more (15 - 4 = 11)"
+        },
+        {
+          "hi": "8 खिलाड़ी अधिक",
+          "en": "8 Players more"
+        },
+        {
+          "hi": "9 खिलाड़ी अधिक",
+          "en": "9 Players more"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्रिकेट में दोनों टीमों को मिलाकर मैदान पर कुल कितने खिलाड़ी एक समय उपस्थित रहते हैं?",
+        "en": "In cricket, how many total players (fielders + batsmen) are on the field at one time?"
+      },
+      "o": [
+        {
+          "hi": "22 खिलाड़ी",
+          "en": "22 Players"
+        },
+        {
+          "hi": "15 खिलाड़ी",
+          "en": "15 Players"
+        },
+        {
+          "hi": "13 खिलाड़ी (11 क्षेत्ररक्षक + 2 बल्लेबाज)",
+          "en": "13 Players (11 Fielders + 2 Batsmen)"
+        },
+        {
+          "hi": "11 खिलाड़ी",
+          "en": "11 Players"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "फुटबॉल मैच में दोनों टीमों के कुल कितने खिलाड़ी एक साथ मैदान पर खेलते हैं?",
+        "en": "In a football match, how many total players from both teams play on the pitch simultaneously?"
+      },
+      "o": [
+        {
+          "hi": "20 खिलाड़ी",
+          "en": "20 Players"
+        },
+        {
+          "hi": "24 खिलाड़ी",
+          "en": "24 Players"
+        },
+        {
+          "hi": "18 खिलाड़ी",
+          "en": "18 Players"
+        },
+        {
+          "hi": "22 खिलाड़ी (11 + 11)",
+          "en": "22 Players (11 + 11)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बास्केटबॉल मैच में कोर्ट पर दोनों टीमों के कुल कितने खिलाड़ी सक्रिय रहते हैं?",
+        "en": "During a basketball match, how many total players from both teams are on the court?"
+      },
+      "o": [
+        {
+          "hi": "10 खिलाड़ी (5 + 5)",
+          "en": "10 Players (5 + 5)"
+        },
+        {
+          "hi": "12 खिलाड़ी",
+          "en": "12 Players"
+        },
+        {
+          "hi": "8 खिलाड़ी",
+          "en": "8 Players"
+        },
+        {
+          "hi": "14 खिलाड़ी",
+          "en": "14 Players"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वॉलीबॉल मैच में दोनों टीमों के कुल कितने खिलाड़ी कोर्ट पर होते हैं?",
+        "en": "In a volleyball match, how many total players from both teams are active on the court?"
+      },
+      "o": [
+        {
+          "hi": "10 खिलाड़ी",
+          "en": "10 Players"
+        },
+        {
+          "hi": "12 खिलाड़ी (6 + 6)",
+          "en": "12 Players (6 + 6)"
+        },
+        {
+          "hi": "14 खिलाड़ी",
+          "en": "14 Players"
+        },
+        {
+          "hi": "16 खिलाड़ी",
+          "en": "16 Players"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कबड्डी मैच की शुरुआत में कोर्ट पर दोनों टीमों के कुल कितने खिलाड़ी होते हैं?",
+        "en": "At the start of a Kabaddi match, how many total players from both teams are on the mat?"
+      },
+      "o": [
+        {
+          "hi": "12 खिलाड़ी",
+          "en": "12 Players"
+        },
+        {
+          "hi": "16 खिलाड़ी",
+          "en": "16 Players"
+        },
+        {
+          "hi": "14 खिलाड़ी (7 + 7)",
+          "en": "14 Players (7 + 7)"
+        },
+        {
+          "hi": "18 खिलाड़ी",
+          "en": "18 Players"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पोलो के मैच में मैदान पर दोनों टीमों के कुल कितने घुड़सवार खिलाड़ी होते हैं?",
+        "en": "In a Polo match, how many total mounted players from both teams are on the field?"
+      },
+      "o": [
+        {
+          "hi": "10 खिलाड़ी",
+          "en": "10 Players"
+        },
+        {
+          "hi": "6 खिलाड़ी",
+          "en": "6 Players"
+        },
+        {
+          "hi": "12 खिलाड़ी",
+          "en": "12 Players"
+        },
+        {
+          "hi": "8 खिलाड़ी (4 + 4)",
+          "en": "8 Players (4 + 4)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "टेनिस के मिश्रित युगल (Mixed Doubles) मैच में कोर्ट पर कुल कितने खिलाड़ी होते हैं?",
+        "en": "In a tennis Mixed Doubles match, how many total players are on the court?"
+      },
+      "o": [
+        {
+          "hi": "4 खिलाड़ी (2 पुरुष और 2 महिलाएं)",
+          "en": "4 Players (2 Men and 2 Women)"
+        },
+        {
+          "hi": "2 खिलाड़ी",
+          "en": "2 Players"
+        },
+        {
+          "hi": "6 खिलाड़ी",
+          "en": "6 Players"
+        },
+        {
+          "hi": "8 खिलाड़ी",
+          "en": "8 Players"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शतरंज (Chess) का खेल आमने-सामने कितने खिलाड़ियों द्वारा खेला जाता है?",
+        "en": "How many players compete against each other in a standard game of Chess?"
+      },
+      "o": [
+        {
+          "hi": "4 खिलाड़ी",
+          "en": "4 Players"
+        },
+        {
+          "hi": "2 खिलाड़ी (प्रत्येक पक्ष 1)",
+          "en": "2 Players (1 on each side)"
+        },
+        {
+          "hi": "1 खिलाड़ी",
+          "en": "1 Player"
+        },
+        {
+          "hi": "6 खिलाड़ी",
+          "en": "6 Players"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कैनैडियन फुटबॉल (Canadian Football) में मैदान पर प्रत्येक टीम के कितने खिलाड़ी होते हैं?",
+        "en": "In Canadian Football, how many players are on the field for each team?"
+      },
+      "o": [
+        {
+          "hi": "11 खिलाड़ी",
+          "en": "11 Players"
+        },
+        {
+          "hi": "10 खिलाड़ी",
+          "en": "10 Players"
+        },
+        {
+          "hi": "12 खिलाड़ी",
+          "en": "12 Players"
+        },
+        {
+          "hi": "15 खिलाड़ी",
+          "en": "15 Players"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "डॉजकॉल (Dodgeball) के अंतरराष्ट्रीय मैच में कोर्ट पर प्रत्येक टीम के कितने खिलाड़ी शुरू करते हैं?",
+        "en": "In standard competitive Dodgeball, how many players per team start on the court?"
+      },
+      "o": [
+        {
+          "hi": "5 खिलाड़ी",
+          "en": "5 Players"
+        },
+        {
+          "hi": "7 खिलाड़ी",
+          "en": "7 Players"
+        },
+        {
+          "hi": "8 खिलाड़ी",
+          "en": "8 Players"
+        },
+        {
+          "hi": "6 खिलाड़ी",
+          "en": "6 Players"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "फ्लोरबॉल (Floorball) में कोर्ट पर प्रत्येक टीम के कितने खिलाड़ी खेलते हैं?",
+        "en": "In Floorball, how many players per team are active on the rink?"
+      },
+      "o": [
+        {
+          "hi": "6 खिलाड़ी (5 फील्ड + 1 गोलकीपर)",
+          "en": "6 Players (5 Field + 1 Goalkeeper)"
+        },
+        {
+          "hi": "5 खिलाड़ी",
+          "en": "5 Players"
+        },
+        {
+          "hi": "7 खिलाड़ी",
+          "en": "7 Players"
+        },
+        {
+          "hi": "8 खिलाड़ी",
+          "en": "8 Players"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बैंडी (Bandy - रूसी शीतकालीन खेल) में बर्फ पर प्रत्येक टीम के कितने खिलाड़ी खेलते हैं?",
+        "en": "In Bandy (Russian winter sport on ice), how many players are on each team?"
+      },
+      "o": [
+        {
+          "hi": "6 खिलाड़ी",
+          "en": "6 Players"
+        },
+        {
+          "hi": "11 खिलाड़ी",
+          "en": "11 Players"
+        },
+        {
+          "hi": "9 खिलाड़ी",
+          "en": "9 Players"
+        },
+        {
+          "hi": "7 खिलाड़ी",
+          "en": "7 Players"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - खेल-कूद (Sports)",
+  "subtitle": "प्रमुख देशों के राष्ट्रीय खेल",
+  "description": "प्रमुख देशों के राष्ट्रीय खेल पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारत का पारंपरिक एवं सर्वमान्य राष्ट्रीय खेल किसे माना जाता है?",
+        "en": "Which sport is traditionally regarded as the national sport of India?"
+      },
+      "o": [
+        {
+          "hi": "फील्ड हॉकी (Field Hockey)",
+          "en": "Field Hockey"
+        },
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        },
+        {
+          "hi": "कबड्डी (Kabaddi)",
+          "en": "Kabaddi"
+        },
+        {
+          "hi": "कुश्ती (Wrestling)",
+          "en": "Wrestling"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पाकिस्तान का आधिकारिक राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the official national sport of Pakistan?"
+      },
+      "o": [
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        },
+        {
+          "hi": "फील्ड हॉकी (Field Hockey)",
+          "en": "Field Hockey"
+        },
+        {
+          "hi": "स्क्वैश (Squash)",
+          "en": "Squash"
+        },
+        {
+          "hi": "पोलो (Polo)",
+          "en": "Polo"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संयुक्त राज्य अमेरिका (USA) का राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the national pastime / sport of the United States of America (USA)?"
+      },
+      "o": [
+        {
+          "hi": "बास्केटबॉल (Basketball)",
+          "en": "Basketball"
+        },
+        {
+          "hi": "अमेरिकी फुटबॉल (American Football)",
+          "en": "American Football"
+        },
+        {
+          "hi": "बेसबॉल (Baseball)",
+          "en": "Baseball"
+        },
+        {
+          "hi": "आइस हॉकी (Ice Hockey)",
+          "en": "Ice Hockey"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "इंग्लैंड का राष्ट्रीय खेल कौन-सा माना जाता है?",
+        "en": "Which sport is considered the national sport of England?"
+      },
+      "o": [
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "रग्बी (Rugby)",
+          "en": "Rugby"
+        },
+        {
+          "hi": "टेनिस (Tennis)",
+          "en": "Tennis"
+        },
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऑस्ट्रेलिया का राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is recognized as the national sport of Australia?"
+      },
+      "o": [
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        },
+        {
+          "hi": "तैराकी (Swimming)",
+          "en": "Swimming"
+        },
+        {
+          "hi": "रग्बी यूनियन (Rugby Union)",
+          "en": "Rugby Union"
+        },
+        {
+          "hi": "टेनिस (Tennis)",
+          "en": "Tennis"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कनाडा का आधिकारिक शीतकालीन (Winter) राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the official winter national sport of Canada?"
+      },
+      "o": [
+        {
+          "hi": "कर्लिंग (Curling)",
+          "en": "Curling"
+        },
+        {
+          "hi": "आइस हॉकी (Ice Hockey)",
+          "en": "Ice Hockey"
+        },
+        {
+          "hi": "लैक्रोस (Lacrosse)",
+          "en": "Lacrosse"
+        },
+        {
+          "hi": "स्कीइंग (Skiing)",
+          "en": "Skiing"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कनाडा का आधिकारिक ग्रीष्मकालीन (Summer) राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the official summer national sport of Canada?"
+      },
+      "o": [
+        {
+          "hi": "बेसबॉल (Baseball)",
+          "en": "Baseball"
+        },
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        },
+        {
+          "hi": "लैक्रोस (Lacrosse)",
+          "en": "Lacrosse"
+        },
+        {
+          "hi": "सॉकर (Soccer)",
+          "en": "Soccer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्पेन का पारंपरिक और प्रसिद्ध राष्ट्रीय खेल कौन-सा माना जाता है?",
+        "en": "What is traditionally considered the national sport of Spain?"
+      },
+      "o": [
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "टेनिस (Tennis)",
+          "en": "Tennis"
+        },
+        {
+          "hi": "बास्केटबॉल (Basketball)",
+          "en": "Basketball"
+        },
+        {
+          "hi": "सांड युद्ध / बुल फाइटिंग (Bullfighting)",
+          "en": "Bullfighting"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चीन का अघोषित परंतु सर्वमान्य राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is universally considered the national sport of China?"
+      },
+      "o": [
+        {
+          "hi": "टेबल टेनिस (Table Tennis)",
+          "en": "Table Tennis"
+        },
+        {
+          "hi": "बैडमिंटन (Badminton)",
+          "en": "Badminton"
+        },
+        {
+          "hi": "जिमनास्टिक्स (Gymnastics)",
+          "en": "Gymnastics"
+        },
+        {
+          "hi": "मार्शल आर्ट्स / वुशु",
+          "en": "Martial Arts / Wushu"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जापान का पारंपरिक राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the traditional national sport of Japan?"
+      },
+      "o": [
+        {
+          "hi": "जूडो (Judo)",
+          "en": "Judo"
+        },
+        {
+          "hi": "सुमो कुश्ती (Sumo Wrestling)",
+          "en": "Sumo Wrestling"
+        },
+        {
+          "hi": "कराटे (Karate)",
+          "en": "Karate"
+        },
+        {
+          "hi": "बेसबॉल (Baseball)",
+          "en": "Baseball"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मलेशिया का आधिकारिक राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the official national sport of Malaysia?"
+      },
+      "o": [
+        {
+          "hi": "बैडमिंटन (Badminton)",
+          "en": "Badminton"
+        },
+        {
+          "hi": "फील्ड हॉकी (Field Hockey)",
+          "en": "Field Hockey"
+        },
+        {
+          "hi": "सेपक टकरा (Sepak Takraw)",
+          "en": "Sepak Takraw"
+        },
+        {
+          "hi": "स्क्वैश (Squash)",
+          "en": "Squash"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "इंडोनेशिया का सबसे लोकप्रिय और राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is considered the national and most popular sport of Indonesia?"
+      },
+      "o": [
+        {
+          "hi": "सेपक टकरा (Sepak Takraw)",
+          "en": "Sepak Takraw"
+        },
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "पेंचक सिलाट (Pencak Silat)",
+          "en": "Pencak Silat"
+        },
+        {
+          "hi": "बैडमिंटन (Badminton)",
+          "en": "Badminton"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "श्रीलंका का आधिकारिक राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the official national sport of Sri Lanka?"
+      },
+      "o": [
+        {
+          "hi": "वॉलीबॉल (Volleyball)",
+          "en": "Volleyball"
+        },
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        },
+        {
+          "hi": "रग्बी (Rugby)",
+          "en": "Rugby"
+        },
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बांग्लादेश का राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the national sport of Bangladesh?"
+      },
+      "o": [
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        },
+        {
+          "hi": "कबड्डी / हा-डु-डू (Kabaddi / Ha-du-du)",
+          "en": "Kabaddi / Ha-du-du"
+        },
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "शतरंज (Chess)",
+          "en": "Chess"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नेपाल का आधिकारिक राष्ट्रीय खेल 2017 से कौन-सा घोषित है?",
+        "en": "Which sport was officially declared the national sport of Nepal in 2017?"
+      },
+      "o": [
+        {
+          "hi": "दांडी बियो (Dandi Biyo)",
+          "en": "Dandi Biyo"
+        },
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "वॉलीबॉल (Volleyball)",
+          "en": "Volleyball"
+        },
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भूटान का आधिकारिक राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the official national sport of Bhutan?"
+      },
+      "o": [
+        {
+          "hi": "निशानेबाजी (Shooting)",
+          "en": "Shooting"
+        },
+        {
+          "hi": "डार्ट्स (Darts)",
+          "en": "Darts"
+        },
+        {
+          "hi": "कुश्ती (Wrestling)",
+          "en": "Wrestling"
+        },
+        {
+          "hi": "तीरंदाजी (Archery)",
+          "en": "Archery"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ब्राजील का राष्ट्रीय खेल कौन-सा माना जाता है?",
+        "en": "What is the national sport of Brazil?"
+      },
+      "o": [
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "वॉलीबॉल (Volleyball)",
+          "en": "Volleyball"
+        },
+        {
+          "hi": "कैपोइरा (Capoeira)",
+          "en": "Capoeira"
+        },
+        {
+          "hi": "बास्केटबॉल (Basketball)",
+          "en": "Basketball"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फ्रांस का राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the national sport of France?"
+      },
+      "o": [
+        {
+          "hi": "रग्बी (Rugby)",
+          "en": "Rugby"
+        },
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "साइकिलिंग (Cycling)",
+          "en": "Cycling"
+        },
+        {
+          "hi": "टेनिस (Tennis)",
+          "en": "Tennis"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रूस का पारंपरिक और कानूनी राष्ट्रीय खेल किसे माना जाता है?",
+        "en": "Which winter team sport is legally recognized as a national sport of Russia?"
+      },
+      "o": [
+        {
+          "hi": "शतरंज (Chess)",
+          "en": "Chess"
+        },
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "बैंडी (Bandy - आइस हॉकी जैसा)",
+          "en": "Bandy"
+        },
+        {
+          "hi": "जिमनास्टिक्स (Gymnastics)",
+          "en": "Gymnastics"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्कॉटलैंड का राष्ट्रीय खेल कौन-सा माना जाता है?",
+        "en": "Which sport is considered the national sport of Scotland (where it originated)?"
+      },
+      "o": [
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        },
+        {
+          "hi": "पोलो (Polo)",
+          "en": "Polo"
+        },
+        {
+          "hi": "तीरंदाजी (Archery)",
+          "en": "Archery"
+        },
+        {
+          "hi": "गोल्फ (Golf) और रग्बी फुटबॉल",
+          "en": "Golf and Rugby Football"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "न्यूजीलैंड का राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the national sport of New Zealand (famed for All Blacks)?"
+      },
+      "o": [
+        {
+          "hi": "रग्बी यूनियन (Rugby Union)",
+          "en": "Rugby Union"
+        },
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        },
+        {
+          "hi": "नेटबॉल (Netball)",
+          "en": "Netball"
+        },
+        {
+          "hi": "नौकायन (Sailing)",
+          "en": "Sailing"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अर्जेंटीना का आधिकारिक कानूनी राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the official legal national sport of Argentina (declared in 1953)?"
+      },
+      "o": [
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "पातो (Pato - घुड़सवारी खेल)",
+          "en": "Pato (Horseball game)"
+        },
+        {
+          "hi": "पोलो (Polo)",
+          "en": "Polo"
+        },
+        {
+          "hi": "बास्केटबॉल (Basketball)",
+          "en": "Basketball"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्यूबा (Cuba) का राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the national sport of Cuba?"
+      },
+      "o": [
+        {
+          "hi": "मुक्केबाजी (Boxing)",
+          "en": "Boxing"
+        },
+        {
+          "hi": "वॉलीबॉल (Volleyball)",
+          "en": "Volleyball"
+        },
+        {
+          "hi": "बेसबॉल (Baseball)",
+          "en": "Baseball"
+        },
+        {
+          "hi": "एथलेटिक्स (Athletics)",
+          "en": "Athletics"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दक्षिण कोरिया (South Korea) का आधिकारिक राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the official national martial art / sport of South Korea?"
+      },
+      "o": [
+        {
+          "hi": "जूडो (Judo)",
+          "en": "Judo"
+        },
+        {
+          "hi": "बेसबॉल (Baseball)",
+          "en": "Baseball"
+        },
+        {
+          "hi": "तीरंदाजी (Archery)",
+          "en": "Archery"
+        },
+        {
+          "hi": "तायक्वांडो (Taekwondo)",
+          "en": "Taekwondo"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ईरान का पारंपरिक और राष्ट्रीय खेल कौन-सा माना जाता है?",
+        "en": "What is considered the national sport of Iran?"
+      },
+      "o": [
+        {
+          "hi": "कुश्ती / वरजिश-ए-बास्तानी (Wrestling)",
+          "en": "Wrestling (Varzesh-e Bastani)"
+        },
+        {
+          "hi": "भारोत्तोलन (Weightlifting)",
+          "en": "Weightlifting"
+        },
+        {
+          "hi": "पोलो (Polo)",
+          "en": "Polo"
+        },
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तुर्की का राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the traditional national sport of Turkey?"
+      },
+      "o": [
+        {
+          "hi": "तीरंदाजी (Archery)",
+          "en": "Archery"
+        },
+        {
+          "hi": "ऑयल रेसलिंग / तेल कुश्ती (याग्लू गुरेश)",
+          "en": "Oil Wrestling (Yagli Gures)"
+        },
+        {
+          "hi": "घुड़दौड़ (Horse Racing)",
+          "en": "Horse Racing"
+        },
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अफगानिस्तान का राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the traditional national sport of Afghanistan?"
+      },
+      "o": [
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        },
+        {
+          "hi": "कुश्ती (Wrestling)",
+          "en": "Wrestling"
+        },
+        {
+          "hi": "बुजकाशी (Buzkashi - घोड़े पर खेला जाने वाला)",
+          "en": "Buzkashi"
+        },
+        {
+          "hi": "तीरंदाजी (Archery)",
+          "en": "Archery"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्विट्जरलैंड का पारंपरिक राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the traditional national sport of Switzerland?"
+      },
+      "o": [
+        {
+          "hi": "आइस हॉकी (Ice Hockey)",
+          "en": "Ice Hockey"
+        },
+        {
+          "hi": "स्कीइंग (Skiing)",
+          "en": "Skiing"
+        },
+        {
+          "hi": "टेनिस (Tennis)",
+          "en": "Tennis"
+        },
+        {
+          "hi": "श्विंगेन / स्विस कुश्ती (Schwingen)",
+          "en": "Schwingen (Swiss Wrestling)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जमैका का राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the national sport of Jamaica?"
+      },
+      "o": [
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        },
+        {
+          "hi": "एथलेटिक्स (Athletics / Sprinting)",
+          "en": "Athletics"
+        },
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "बॉबस्लेड (Bobsleigh)",
+          "en": "Bobsleigh"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फिलीपींस का आधिकारिक राष्ट्रीय मार्शल आर्ट खेल कौन-सा है?",
+        "en": "What is the official national martial art and sport of the Philippines?"
+      },
+      "o": [
+        {
+          "hi": "बास्केटबॉल (Basketball)",
+          "en": "Basketball"
+        },
+        {
+          "hi": "आर्निस / एस्क्राइमा (Arnis)",
+          "en": "Arnis"
+        },
+        {
+          "hi": "मुक्केबाजी (Boxing)",
+          "en": "Boxing"
+        },
+        {
+          "hi": "कराटे (Karate)",
+          "en": "Karate"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मेक्सिको का राष्ट्रीय खेल कौन-सा माना जाता है?",
+        "en": "What is recognized as the official national sport of Mexico?"
+      },
+      "o": [
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "मुक्केबाजी (Boxing)",
+          "en": "Boxing"
+        },
+        {
+          "hi": "चाररेरिया (Charreria - घुड़सवारी खेल)",
+          "en": "Charreria (Equestrian sport)"
+        },
+        {
+          "hi": "बेसबॉल (Baseball)",
+          "en": "Baseball"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वेनेजुएला (Venezuela) का सबसे लोकप्रिय और राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the most popular and de facto national sport of Venezuela?"
+      },
+      "o": [
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "बास्केटबॉल (Basketball)",
+          "en": "Basketball"
+        },
+        {
+          "hi": "वॉलीबॉल (Volleyball)",
+          "en": "Volleyball"
+        },
+        {
+          "hi": "बेसबॉल (Baseball)",
+          "en": "Baseball"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दक्षिण अफ्रीका का सर्वाधिक लोकप्रिय और प्रमुख राष्ट्रीय खेल कौन-सा है?",
+        "en": "Which sport is considered a defining national sport of South Africa (Springboks)?"
+      },
+      "o": [
+        {
+          "hi": "रग्बी यूनियन (Rugby Union)",
+          "en": "Rugby Union"
+        },
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        },
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "गोल्फ (Golf)",
+          "en": "Golf"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मंगोलिया का राष्ट्रीय खेल कौन-सा है (थ्री मैन्ली गेम्स में शामिल)?",
+        "en": "Which of these is one of the Three Manly Games / national sports of Mongolia?"
+      },
+      "o": [
+        {
+          "hi": "सुमो कुश्ती और कराटे",
+          "en": "Sumo and Karate"
+        },
+        {
+          "hi": "मंगोलियाई कुश्ती, तीरंदाजी और घुड़दौड़",
+          "en": "Mongolian Wrestling, Archery & Horse Racing"
+        },
+        {
+          "hi": "आइस हॉकी और स्कीइंग",
+          "en": "Ice Hockey and Skiing"
+        },
+        {
+          "hi": "पोलो और बुजकाशी",
+          "en": "Polo and Buzkashi"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "थाईलैंड का राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the national martial art and sport of Thailand?"
+      },
+      "o": [
+        {
+          "hi": "सेपक टकरा (Sepak Takraw)",
+          "en": "Sepak Takraw"
+        },
+        {
+          "hi": "किकबॉक्सिंग (Kickboxing)",
+          "en": "Kickboxing"
+        },
+        {
+          "hi": "मुए थाई / थाई बॉक्सिंग (Muay Thai)",
+          "en": "Muay Thai (Thai Boxing)"
+        },
+        {
+          "hi": "बैडमिंटन (Badminton)",
+          "en": "Badminton"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नॉर्वे का राष्ट्रीय खेल कौन-सा माना जाता है?",
+        "en": "Which winter sport is considered the national sport of Norway?"
+      },
+      "o": [
+        {
+          "hi": "आइस हॉकी (Ice Hockey)",
+          "en": "Ice Hockey"
+        },
+        {
+          "hi": "कर्लिंग (Curling)",
+          "en": "Curling"
+        },
+        {
+          "hi": "स्पीड स्केटिंग (Speed Skating)",
+          "en": "Speed Skating"
+        },
+        {
+          "hi": "क्रॉस-कंट्री स्कीइंग (Cross-Country Skiing)",
+          "en": "Cross-Country Skiing"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आयरलैंड का पारंपरिक राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the traditional indigenous national sport of Ireland?"
+      },
+      "o": [
+        {
+          "hi": "हर्लिंग और गैलिक फुटबॉल",
+          "en": "Hurling and Gaelic Football"
+        },
+        {
+          "hi": "रग्बी यूनियन (Rugby)",
+          "en": "Rugby Union"
+        },
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        },
+        {
+          "hi": "पोलो (Polo)",
+          "en": "Polo"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वेल्स (Wales) का राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the national sport of Wales?"
+      },
+      "o": [
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "रग्बी यूनियन (Rugby Union)",
+          "en": "Rugby Union"
+        },
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        },
+        {
+          "hi": "गोल्फ (Golf)",
+          "en": "Golf"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फिनलैंड का राष्ट्रीय खेल 'पेसापल्लो' (Pesäpallo) किस खेल का फिनिश संस्करण है?",
+        "en": "Finland's national sport 'Pesapallo' is the Finnish variant of which sport?"
+      },
+      "o": [
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        },
+        {
+          "hi": "आइस हॉकी (Ice Hockey)",
+          "en": "Ice Hockey"
+        },
+        {
+          "hi": "बेसबॉल (Baseball)",
+          "en": "Baseball"
+        },
+        {
+          "hi": "हैंडबॉल (Handball)",
+          "en": "Handball"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गयाना और बारबाडोस जैसे कैरेबियाई देशों का राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the national sport of Caribbean nations like Guyana and Barbados?"
+      },
+      "o": [
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "बेसबॉल (Baseball)",
+          "en": "Baseball"
+        },
+        {
+          "hi": "बास्केटबॉल (Basketball)",
+          "en": "Basketball"
+        },
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चिली का आधिकारिक राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the official national sport of Chile (declared in 1962)?"
+      },
+      "o": [
+        {
+          "hi": "चिलियन रोडियो (Chilean Rodeo)",
+          "en": "Chilean Rodeo"
+        },
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "टेनिस (Tennis)",
+          "en": "Tennis"
+        },
+        {
+          "hi": "पोलो (Polo)",
+          "en": "Polo"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोलंबिया का आधिकारिक राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the official national sport of Colombia (enacted by Law in 2000)?"
+      },
+      "o": [
+        {
+          "hi": "साइकिलिंग (Cycling)",
+          "en": "Cycling"
+        },
+        {
+          "hi": "तेजो (Tejo - बारूद लक्ष्य खेल)",
+          "en": "Tejo"
+        },
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "बेसबॉल (Baseball)",
+          "en": "Baseball"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लिथुआनिया का राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is universally considered the national sport and religion of Lithuania?"
+      },
+      "o": [
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "आइस हॉकी (Ice Hockey)",
+          "en": "Ice Hockey"
+        },
+        {
+          "hi": "बास्केटबॉल (Basketball)",
+          "en": "Basketball"
+        },
+        {
+          "hi": "एथलेटिक्स (Athletics)",
+          "en": "Athletics"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एस्टोनिया और लातविया का प्रमुख शीतकालीन राष्ट्रीय खेल कौन-सा है?",
+        "en": "Which sport is considered the most popular national winter sport of Latvia?"
+      },
+      "o": [
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        },
+        {
+          "hi": "रग्बी (Rugby)",
+          "en": "Rugby"
+        },
+        {
+          "hi": "आइस हॉकी (Ice Hockey)",
+          "en": "Ice Hockey"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जर्मनी का सबसे लोकप्रिय और राष्ट्रीय खेल कौन-सा माना जाता है?",
+        "en": "Which sport is considered the de facto national sport of Germany?"
+      },
+      "o": [
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "हैंडबॉल (Handball)",
+          "en": "Handball"
+        },
+        {
+          "hi": "टेनिस (Tennis)",
+          "en": "Tennis"
+        },
+        {
+          "hi": "आइस हॉकी (Ice Hockey)",
+          "en": "Ice Hockey"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इटली का राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the most popular national sport of Italy?"
+      },
+      "o": [
+        {
+          "hi": "साइकिलिंग (Cycling)",
+          "en": "Cycling"
+        },
+        {
+          "hi": "फुटबॉल / काल्सियो (Football / Calcio)",
+          "en": "Football (Calcio)"
+        },
+        {
+          "hi": "वॉलीबॉल (Volleyball)",
+          "en": "Volleyball"
+        },
+        {
+          "hi": "मोटरस्पोर्ट्स (Motorsports)",
+          "en": "Motorsports"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पुर्तगाल का राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the national sport of Portugal?"
+      },
+      "o": [
+        {
+          "hi": "रोलर हॉकी (Roller Hockey)",
+          "en": "Roller Hockey"
+        },
+        {
+          "hi": "साइकिलिंग (Cycling)",
+          "en": "Cycling"
+        },
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "सेल बोटिंग (Sailing)",
+          "en": "Sailing"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उरुग्वे का राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the national sport of Uruguay (first World Cup host and winner)?"
+      },
+      "o": [
+        {
+          "hi": "रग्बी (Rugby)",
+          "en": "Rugby"
+        },
+        {
+          "hi": "बास्केटबॉल (Basketball)",
+          "en": "Basketball"
+        },
+        {
+          "hi": "पोलो (Polo)",
+          "en": "Polo"
+        },
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मेडागास्कर का राष्ट्रीय खेल कौन-सा माना जाता है?",
+        "en": "Which sport is considered the national sport of Madagascar?"
+      },
+      "o": [
+        {
+          "hi": "रग्बी यूनियन (Rugby Union)",
+          "en": "Rugby Union"
+        },
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        },
+        {
+          "hi": "बास्केटबॉल (Basketball)",
+          "en": "Basketball"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पापुआ न्यू गिनी का एकमात्र राष्ट्रीय खेल कौन-सा है?",
+        "en": "What is the undisputed national sport of Papua New Guinea?"
+      },
+      "o": [
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        },
+        {
+          "hi": "रग्बी लीग (Rugby League)",
+          "en": "Rugby League"
+        },
+        {
+          "hi": "ऑस्ट्रेलियाई फुटबॉल (AFL)",
+          "en": "AFL"
+        },
+        {
+          "hi": "सॉकर (Soccer)",
+          "en": "Soccer"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

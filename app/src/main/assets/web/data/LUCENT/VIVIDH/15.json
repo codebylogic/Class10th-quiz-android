@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विविध (Miscellaneous)",
+  "subtitle": "प्रमुख देशों के राष्ट्रीय पशु/पक्षी",
+  "description": "प्रमुख देशों के राष्ट्रीय पशु/पक्षी पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारत का राष्ट्रीय पशु कौन-सा है?",
+        "en": "Which is the national animal of India?"
+      },
+      "o": [
+        {
+          "hi": "बाघ (रॉयल बंगाल टाइगर / पैंथेरा टाइग्रिस)",
+          "en": "Royal Bengal Tiger (Panthera tigris)"
+        },
+        {
+          "hi": "सिंह (एशियाई शेर)",
+          "en": "Asiatic Lion"
+        },
+        {
+          "hi": "हाथी",
+          "en": "Indian Elephant"
+        },
+        {
+          "hi": "एक सींग वाला गैंडा",
+          "en": "One-horned Rhinoceros"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का राष्ट्रीय पक्षी कौन-सा है?",
+        "en": "Which is the national bird of India?"
+      },
+      "o": [
+        {
+          "hi": "हंस",
+          "en": "Swan"
+        },
+        {
+          "hi": "मोर (मयूर / पावो क्रिस्टेटस)",
+          "en": "Peacock (Pavo cristatus)"
+        },
+        {
+          "hi": "तोता",
+          "en": "Parrot"
+        },
+        {
+          "hi": "गरुड़",
+          "en": "Eagle"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ऑस्ट्रेलिया का प्रसिद्ध राष्ट्रीय पशु कौन-सा है?",
+        "en": "Which is the iconic national animal of Australia?"
+      },
+      "o": [
+        {
+          "hi": "कोआला (Koala)",
+          "en": "Koala"
+        },
+        {
+          "hi": "प्लैटिपस (Platypus)",
+          "en": "Platypus"
+        },
+        {
+          "hi": "कंगारू (Kangaroo)",
+          "en": "Kangaroo"
+        },
+        {
+          "hi": "डिङ्गो (Dingo)",
+          "en": "Dingo"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऑस्ट्रेलिया का राष्ट्रीय पक्षी कौन-सा माना जाता है?",
+        "en": "Which is the national bird of Australia depicted on its coat of arms?"
+      },
+      "o": [
+        {
+          "hi": "कुकुबर्रा",
+          "en": "Kookaburra"
+        },
+        {
+          "hi": "कीवी",
+          "en": "Kiwi"
+        },
+        {
+          "hi": "कैसोवरी",
+          "en": "Cassowary"
+        },
+        {
+          "hi": "एमू (Emu)",
+          "en": "Emu"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कनाडा का आधिकारिक राष्ट्रीय पशु कौन-सा है?",
+        "en": "Which is the official national animal of Canada?"
+      },
+      "o": [
+        {
+          "hi": "उत्तरी अमेरिकी बीवर (Beaver)",
+          "en": "North American Beaver"
+        },
+        {
+          "hi": "ध्रुवीय भालू",
+          "en": "Polar Bear"
+        },
+        {
+          "hi": "मूस (Moose)",
+          "en": "Moose"
+        },
+        {
+          "hi": "गिrizzly भालू",
+          "en": "Grizzly Bear"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संयुक्त राज्य अमेरिका (USA) का राष्ट्रीय पक्षी कौन-सा है?",
+        "en": "Which is the national bird of the United States of America?"
+      },
+      "o": [
+        {
+          "hi": "गोल्डन ईगल",
+          "en": "Golden Eagle"
+        },
+        {
+          "hi": "बाल्ड ईगल (गंजा ईगल)",
+          "en": "Bald Eagle"
+        },
+        {
+          "hi": "टर्की पक्षी",
+          "en": "Wild Turkey"
+        },
+        {
+          "hi": "पेरेग्रीन बाज़",
+          "en": "Peregrine Falcon"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संयुक्त राज्य अमेरिका (USA) का आधिकारिक राष्ट्रीय स्तनपायी पशु कौन-सा है?",
+        "en": "Which is the national mammal of the United States of America?"
+      },
+      "o": [
+        {
+          "hi": "गिजली भालू",
+          "en": "Grizzly Bear"
+        },
+        {
+          "hi": "कौगर (Cougar)",
+          "en": "Cougar"
+        },
+        {
+          "hi": "अमेरिकी बाइसन (American Bison)",
+          "en": "American Bison"
+        },
+        {
+          "hi": "सफेद पूंछ वाला हिरण",
+          "en": "White-tailed Deer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जापान का राष्ट्रीय पक्षी कौन-सा है?",
+        "en": "Which is the traditional national bird of Japan?"
+      },
+      "o": [
+        {
+          "hi": "क्रेन (सारस)",
+          "en": "Red-crowned Crane"
+        },
+        {
+          "hi": "मोर",
+          "en": "Peacock"
+        },
+        {
+          "hi": "बाज",
+          "en": "Falcon"
+        },
+        {
+          "hi": "ग्रीन तीतर (Green Pheasant / आइबिस)",
+          "en": "Green Pheasant (Kiji)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "न्यूजीलैंड का राष्ट्रीय पक्षी कौन-सा है?",
+        "en": "Which is the iconic flightless national bird of New Zealand?"
+      },
+      "o": [
+        {
+          "hi": "कीवी (Kiwi)",
+          "en": "Kiwi"
+        },
+        {
+          "hi": "काकापो",
+          "en": "Kakapo"
+        },
+        {
+          "hi": "ताकाहे",
+          "en": "Takahe"
+        },
+        {
+          "hi": "पेंगुइन",
+          "en": "Penguin"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यूनाइटेड किंगडम (UK) का राष्ट्रीय पक्षी कौन-सा माना जाता है?",
+        "en": "Which is the popular national bird of the United Kingdom?"
+      },
+      "o": [
+        {
+          "hi": "म्यूटे स्वान (हंस)",
+          "en": "Mute Swan"
+        },
+        {
+          "hi": "रॉबिन रेडब्रेस्ट (Robin Redbreast)",
+          "en": "Robin Redbreast"
+        },
+        {
+          "hi": "हाउस स्पैरो",
+          "en": "House Sparrow"
+        },
+        {
+          "hi": "गोल्डन ईगल",
+          "en": "Golden Eagle"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यूनाइटेड किंगडम (UK) का राष्ट्रीय पशु प्रतीक कौन-सा है?",
+        "en": "Which heraldic animal is the national symbol of the United Kingdom?"
+      },
+      "o": [
+        {
+          "hi": "यूनिकॉर्न (Unicorn)",
+          "en": "Unicorn"
+        },
+        {
+          "hi": "बुलडॉग",
+          "en": "Bulldog"
+        },
+        {
+          "hi": "शेर (Barbary Lion / शेर)",
+          "en": "Lion"
+        },
+        {
+          "hi": "लाल हिरण",
+          "en": "Red Deer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्कॉटलैंड का राष्ट्रीय पशु (काल्पनिक) कौन-सा है?",
+        "en": "Which legendary creature is the official national animal of Scotland?"
+      },
+      "o": [
+        {
+          "hi": "ड्रैगन",
+          "en": "Dragon"
+        },
+        {
+          "hi": "ग्रिफिन",
+          "en": "Griffin"
+        },
+        {
+          "hi": "फिनिक्स",
+          "en": "Phoenix"
+        },
+        {
+          "hi": "यूनिकॉर्न (एक सींग वाला अश्व)",
+          "en": "Unicorn"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रूस का राष्ट्रीय पशु प्रतीक कौन-सा है?",
+        "en": "Which animal is the traditional national symbol of Russia?"
+      },
+      "o": [
+        {
+          "hi": "यूरेशियाई भूरा भालू (Brown Bear)",
+          "en": "Eurasian Brown Bear"
+        },
+        {
+          "hi": "साइबेरियाई बाघ",
+          "en": "Siberian Tiger"
+        },
+        {
+          "hi": "ध्रुवीय भालू",
+          "en": "Polar Bear"
+        },
+        {
+          "hi": "हिम तेंदुआ",
+          "en": "Snow Leopard"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चीन का आधिकारिक राष्ट्रीय पशु कौन-सा माना जाता है?",
+        "en": "Which animal is regarded as the national treasure/animal of China?"
+      },
+      "o": [
+        {
+          "hi": "साइबेरियाई बाघ",
+          "en": "Siberian Tiger"
+        },
+        {
+          "hi": "विशाल पांडा (Giant Panda)",
+          "en": "Giant Panda"
+        },
+        {
+          "hi": "गोल्डन लंगूर",
+          "en": "Golden Snub-nosed Monkey"
+        },
+        {
+          "hi": "लाल पांडा",
+          "en": "Red Panda"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्पेन का प्रसिद्ध राष्ट्रीय पशु कौन-सा है?",
+        "en": "Which animal is the iconic national animal of Spain?"
+      },
+      "o": [
+        {
+          "hi": "इबेरियन भेड़िया",
+          "en": "Iberian Wolf"
+        },
+        {
+          "hi": "इबेरियन लिंक्स",
+          "en": "Iberian Lynx"
+        },
+        {
+          "hi": "स्पेनिश सांड़ / बैल (Bull)",
+          "en": "Spanish Bull (Toro de Osborne)"
+        },
+        {
+          "hi": "ईगल",
+          "en": "Eagle"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दक्षिण अफ्रीका का राष्ट्रीय पशु कौन-सा है?",
+        "en": "Which is the national animal of South Africa?"
+      },
+      "o": [
+        {
+          "hi": "अफ्रीकी शेर",
+          "en": "African Lion"
+        },
+        {
+          "hi": "अफ्रीकी हाथी",
+          "en": "African Elephant"
+        },
+        {
+          "hi": "चीता",
+          "en": "Cheetah"
+        },
+        {
+          "hi": "स्प्रिंगबोक मृग (Springbok)",
+          "en": "Springbok"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पाकिस्तान का राष्ट्रीय पशु कौन-सा है?",
+        "en": "Which is the national animal of Pakistan?"
+      },
+      "o": [
+        {
+          "hi": "मारखोर (जंगली बकरा / Markhor)",
+          "en": "Markhor"
+        },
+        {
+          "hi": "उड़ियाल",
+          "en": "Urial"
+        },
+        {
+          "hi": "सिंध आइबेक्स",
+          "en": "Sindh Ibex"
+        },
+        {
+          "hi": "हिम तेंदुआ",
+          "en": "Snow Leopard"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पाकिस्तान का राष्ट्रीय पक्षी कौन-सा है?",
+        "en": "Which is the national bird of Pakistan?"
+      },
+      "o": [
+        {
+          "hi": "शाहीन बाज",
+          "en": "Shaheen Falcon"
+        },
+        {
+          "hi": "चकोर (Chukar Partridge)",
+          "en": "Chukar Partridge"
+        },
+        {
+          "hi": "मोर",
+          "en": "Peacock"
+        },
+        {
+          "hi": "कबूतर",
+          "en": "Pigeon"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नेपाल का आधिकारिक राष्ट्रीय पशु कौन-सा है?",
+        "en": "Which is the constitutional national animal of Nepal?"
+      },
+      "o": [
+        {
+          "hi": "एक सींग वाला गैंडा",
+          "en": "Rhinoceros"
+        },
+        {
+          "hi": "याक",
+          "en": "Yak"
+        },
+        {
+          "hi": "गाय (Cow)",
+          "en": "Cow"
+        },
+        {
+          "hi": "हिम तेंदुआ",
+          "en": "Snow Leopard"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नेपाल का राष्ट्रीय पक्षी कौन-सा है?",
+        "en": "Which is the colorful national bird of Nepal?"
+      },
+      "o": [
+        {
+          "hi": "मोर",
+          "en": "Peacock"
+        },
+        {
+          "hi": "तीतर",
+          "en": "Partridge"
+        },
+        {
+          "hi": "कौआ",
+          "en": "Crow"
+        },
+        {
+          "hi": "डांफे (हिमालयन मोनल / Danphe)",
+          "en": "Himalayan Monal (Danphe)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भूटान का राष्ट्रीय पशु कौन-सा है?",
+        "en": "Which unique mammal is the national animal of Bhutan?"
+      },
+      "o": [
+        {
+          "hi": "ताकिन (Takin)",
+          "en": "Takin"
+        },
+        {
+          "hi": "हिम तेंदुआ",
+          "en": "Snow Leopard"
+        },
+        {
+          "hi": "लाल पांडा",
+          "en": "Red Panda"
+        },
+        {
+          "hi": "याक",
+          "en": "Yak"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भूटान का राष्ट्रीय पक्षी कौन-सा है?",
+        "en": "Which is the national bird of Bhutan?"
+      },
+      "o": [
+        {
+          "hi": "डांफे",
+          "en": "Himalayan Monal"
+        },
+        {
+          "hi": "रेवेन (काला कौआ / Raven)",
+          "en": "Raven"
+        },
+        {
+          "hi": "मोर",
+          "en": "Peacock"
+        },
+        {
+          "hi": "हॉर्नबिल",
+          "en": "Hornbill"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बांग्लादेश का राष्ट्रीय पशु कौन-सा है?",
+        "en": "Which is the national animal of Bangladesh?"
+      },
+      "o": [
+        {
+          "hi": "एशियाई हाथी",
+          "en": "Asian Elephant"
+        },
+        {
+          "hi": "तेंदुआ",
+          "en": "Leopard"
+        },
+        {
+          "hi": "रॉयल बंगाल टाइगर (Royal Bengal Tiger)",
+          "en": "Royal Bengal Tiger"
+        },
+        {
+          "hi": "हिरण",
+          "en": "Spotted Deer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बांग्लादेश का राष्ट्रीय पक्षी कौन-सा है?",
+        "en": "Which is the national bird of Bangladesh?"
+      },
+      "o": [
+        {
+          "hi": "किंगफिशर",
+          "en": "Kingfisher"
+        },
+        {
+          "hi": "मैना",
+          "en": "Myna"
+        },
+        {
+          "hi": "बुलबुल",
+          "en": "Bulbul"
+        },
+        {
+          "hi": "दोएल (ओरिएंटल मैगपाई रॉबिन)",
+          "en": "Doel (Oriental Magpie Robin)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "श्रीलंका का राष्ट्रीय पक्षी कौन-सा है?",
+        "en": "Which is the endemic national bird of Sri Lanka?"
+      },
+      "o": [
+        {
+          "hi": "सीलोन जंगलफाउल (श्रीलंकाई जंगली मुर्गा)",
+          "en": "Sri Lankan Junglefowl"
+        },
+        {
+          "hi": "मोर",
+          "en": "Peacock"
+        },
+        {
+          "hi": "हंस",
+          "en": "Swan"
+        },
+        {
+          "hi": "कबूतर",
+          "en": "Pigeon"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "थाईलैंड का राष्ट्रीय पशु कौन-सा है?",
+        "en": "Which is the revered national animal of Thailand?"
+      },
+      "o": [
+        {
+          "hi": "बाघ",
+          "en": "Tiger"
+        },
+        {
+          "hi": "हाथी (सफेद हाथी / Chang Thai)",
+          "en": "Elephant (Chang Thai)"
+        },
+        {
+          "hi": "तेंदुआ",
+          "en": "Leopard"
+        },
+        {
+          "hi": "जल भैंस",
+          "en": "Water Buffalo"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फ्रांस का राष्ट्रीय पक्षी प्रतीक कौन-सा है?",
+        "en": "Which bird is the traditional national emblem of France?"
+      },
+      "o": [
+        {
+          "hi": "सफेद हंस",
+          "en": "White Swan"
+        },
+        {
+          "hi": "ईगल",
+          "en": "Eagle"
+        },
+        {
+          "hi": "गैलिक रूस्टर (मुर्गा / Gallic Rooster)",
+          "en": "Gallic Rooster"
+        },
+        {
+          "hi": "कबूतर",
+          "en": "Dove"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जर्मनी का आधिकारिक राष्ट्रीय पक्षी प्रतीक कौन-सा है?",
+        "en": "Which is the national bird symbol of Germany?"
+      },
+      "o": [
+        {
+          "hi": "सफेद सारस",
+          "en": "White Stork"
+        },
+        {
+          "hi": "ब्लैकबर्ड",
+          "en": "Blackbird"
+        },
+        {
+          "hi": "गोल्डफिंच",
+          "en": "Goldfinch"
+        },
+        {
+          "hi": "संघीय ईगल (Federal Eagle / Bundesadler)",
+          "en": "Federal Eagle (Bundesadler)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इंडोनेशिया का राष्ट्रीय पशु कौन-सा है?",
+        "en": "Which is the largest living lizard as Indonesia's national animal?"
+      },
+      "o": [
+        {
+          "hi": "कोमोडो ड्रैगन (Komodo Dragon)",
+          "en": "Komodo Dragon"
+        },
+        {
+          "hi": "जावा बाघ",
+          "en": "Javan Tiger"
+        },
+        {
+          "hi": "सुमात्रा गैंडा",
+          "en": "Sumatran Rhino"
+        },
+        {
+          "hi": "ओरंगुटान",
+          "en": "Orangutan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मलेशिया का राष्ट्रीय पशु कौन-सा है?",
+        "en": "Which is the national animal of Malaysia?"
+      },
+      "o": [
+        {
+          "hi": "मलय तापिर",
+          "en": "Malayan Tapir"
+        },
+        {
+          "hi": "मलय बाघ (Malayan Tiger)",
+          "en": "Malayan Tiger"
+        },
+        {
+          "hi": "ओरंगुटान",
+          "en": "Orangutan"
+        },
+        {
+          "hi": "सन बेयर",
+          "en": "Sun Bear"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मॉरीशस का ऐतिहासिक राष्ट्रीय पक्षी कौन-सा है जो अब विलुप्त हो चुका है?",
+        "en": "Which iconic extinct bird is the national symbol of Mauritius?"
+      },
+      "o": [
+        {
+          "hi": "कीवी",
+          "en": "Kiwi"
+        },
+        {
+          "hi": "मोआ",
+          "en": "Moa"
+        },
+        {
+          "hi": "डोडो (Dodo)",
+          "en": "Dodo"
+        },
+        {
+          "hi": "ग्रेट औक",
+          "en": "Great Auk"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अफगानिस्तान का राष्ट्रीय पशु कौन-सा है?",
+        "en": "Which magnificent big cat is the national animal of Afghanistan?"
+      },
+      "o": [
+        {
+          "hi": "फारसी तेंदुआ",
+          "en": "Persian Leopard"
+        },
+        {
+          "hi": "मार्खोर",
+          "en": "Markhor"
+        },
+        {
+          "hi": "भेड़िया",
+          "en": "Grey Wolf"
+        },
+        {
+          "hi": "हिम तेंदुआ (Snow Leopard)",
+          "en": "Snow Leopard"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत सरकार ने बाघ को राष्ट्रीय पशु के रूप में किस वर्ष घोषित किया?",
+        "en": "In which year was the Tiger officially declared the national animal of India?"
+      },
+      "o": [
+        {
+          "hi": "1973 (प्रोजेक्ट टाइगर के समय)",
+          "en": "1973 (Project Tiger)"
+        },
+        {
+          "hi": "1950",
+          "en": "1950"
+        },
+        {
+          "hi": "1963",
+          "en": "1963"
+        },
+        {
+          "hi": "1980",
+          "en": "1980"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1973 से पहले भारत का राष्ट्रीय पशु कौन-सा था?",
+        "en": "Which animal was the national animal of India prior to 1973?"
+      },
+      "o": [
+        {
+          "hi": "हाथी",
+          "en": "Elephant"
+        },
+        {
+          "hi": "सिंह (शेर / Lion)",
+          "en": "Lion"
+        },
+        {
+          "hi": "चीता",
+          "en": "Cheetah"
+        },
+        {
+          "hi": "गैंडा",
+          "en": "Rhinoceros"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत सरकार ने मोर को राष्ट्रीय पक्षी के रूप में कब मान्यता दी थी?",
+        "en": "In which year was the Peacock declared the national bird of India?"
+      },
+      "o": [
+        {
+          "hi": "1950",
+          "en": "1950"
+        },
+        {
+          "hi": "1972",
+          "en": "1972"
+        },
+        {
+          "hi": "1963",
+          "en": "1963"
+        },
+        {
+          "hi": "1985",
+          "en": "1985"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का राष्ट्रीय जलीय जीव (National Aquatic Animal) कौन-सा है?",
+        "en": "Which is the official National Aquatic Animal of India?"
+      },
+      "o": [
+        {
+          "hi": "घड़ियाल",
+          "en": "Gharial"
+        },
+        {
+          "hi": "ऑलिव रिडले कछुआ",
+          "en": "Olive Ridley Turtle"
+        },
+        {
+          "hi": "ब्लू व्हेल",
+          "en": "Blue Whale"
+        },
+        {
+          "hi": "गंगा डॉल्फिन (प्लैटानिस्ता गैंगेटिका)",
+          "en": "Ganges River Dolphin"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत सरकार ने गंगा नदी डॉल्फिन को राष्ट्रीय जलीय जीव कब घोषित किया?",
+        "en": "When did the Government of India declare the Ganges Dolphin as aquatic animal?"
+      },
+      "o": [
+        {
+          "hi": "5 अक्टूबर 2009",
+          "en": "5 October 2009"
+        },
+        {
+          "hi": "15 अगस्त 2005",
+          "en": "15 August 2005"
+        },
+        {
+          "hi": "26 जनवरी 2010",
+          "en": "26 January 2010"
+        },
+        {
+          "hi": "1 अप्रैल 2014",
+          "en": "1 April 2014"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का राष्ट्रीय विरासत पशु (National Heritage Animal) कौन-सा है?",
+        "en": "Which is the official National Heritage Animal of India?"
+      },
+      "o": [
+        {
+          "hi": "बाघ",
+          "en": "Tiger"
+        },
+        {
+          "hi": "एशियाई हाथी (Asian Elephant)",
+          "en": "Asian Elephant"
+        },
+        {
+          "hi": "गैंडा",
+          "en": "Rhinoceros"
+        },
+        {
+          "hi": "ऊंट",
+          "en": "Camel"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हाथी को भारत का राष्ट्रीय विरासत पशु किस वर्ष घोषित किया गया?",
+        "en": "In which year was Elephant declared the National Heritage Animal of India?"
+      },
+      "o": [
+        {
+          "hi": "2005",
+          "en": "2005"
+        },
+        {
+          "hi": "2012",
+          "en": "2012"
+        },
+        {
+          "hi": "2010",
+          "en": "2010"
+        },
+        {
+          "hi": "2015",
+          "en": "2015"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का राष्ट्रीय सरीसृप (National Reptile) कौन-सा है?",
+        "en": "Which is considered the National Reptile of India?"
+      },
+      "o": [
+        {
+          "hi": "घड़ियाल",
+          "en": "Gharial"
+        },
+        {
+          "hi": "मगरमच्छ",
+          "en": "Marsh Crocodile"
+        },
+        {
+          "hi": "भारतीय अजगर",
+          "en": "Indian Rock Python"
+        },
+        {
+          "hi": "किंग कोबरा (King Cobra)",
+          "en": "King Cobra"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत की राष्ट्रीय तितली (National Butterfly) कौन-सी चुनी गई है?",
+        "en": "Which butterfly was selected as a prominent national butterfly of India?"
+      },
+      "o": [
+        {
+          "hi": "ऑरेंज ओकलीफ (Orange Oakleaf)",
+          "en": "Orange Oakleaf"
+        },
+        {
+          "hi": "ब्लू मॉर्मन",
+          "en": "Blue Mormon"
+        },
+        {
+          "hi": "कॉमन पीकॉक",
+          "en": "Common Peacock"
+        },
+        {
+          "hi": "गोल्डन बर्डविंग",
+          "en": "Golden Birdwing"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रूस का राष्ट्रीय पक्षी प्रतीक कौन-सा है?",
+        "en": "What heraldic bird is featured on Russia's coat of arms?"
+      },
+      "o": [
+        {
+          "hi": "बाल्ड ईगल",
+          "en": "Bald Eagle"
+        },
+        {
+          "hi": "डबल हेडेड ईगल (दोमुंहा चील)",
+          "en": "Double-headed Eagle"
+        },
+        {
+          "hi": "साइबेरियन क्रेन",
+          "en": "Siberian Crane"
+        },
+        {
+          "hi": "म्यूट स्वान",
+          "en": "Mute Swan"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ग्रीस (यूनान) का पौराणिक राष्ट्रीय पशु कौन-सा माना जाता है?",
+        "en": "Which mythical creature is associated with the emblem of Greece?"
+      },
+      "o": [
+        {
+          "hi": "शेर",
+          "en": "Lion"
+        },
+        {
+          "hi": "यूनिकॉर्न",
+          "en": "Unicorn"
+        },
+        {
+          "hi": "डॉल्फिन एवं फीनिक्स",
+          "en": "Dolphin and Phoenix"
+        },
+        {
+          "hi": "ड्रैगन",
+          "en": "Dragon"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मेक्सिको का राष्ट्रीय पक्षी कौन-सा है?",
+        "en": "Which is the national bird of Mexico depicted on its flag?"
+      },
+      "o": [
+        {
+          "hi": "बाल्ड ईगल",
+          "en": "Bald Eagle"
+        },
+        {
+          "hi": "टूकेन",
+          "en": "Toucan"
+        },
+        {
+          "hi": "क्वेत्जल",
+          "en": "Quetzal"
+        },
+        {
+          "hi": "गोल्डन ईगल (सुनहरा गरुड़)",
+          "en": "Golden Eagle"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ग्वाटेमाला का प्रसिद्ध राष्ट्रीय पक्षी कौन-सा है जिसकी मुद्रा भी उसी नाम पर है?",
+        "en": "Which sacred bird is the national bird and currency of Guatemala?"
+      },
+      "o": [
+        {
+          "hi": "रेस्प्लेंडेंट क्वेत्जल (Quetzal)",
+          "en": "Resplendent Quetzal"
+        },
+        {
+          "hi": "टुकेन",
+          "en": "Toucan"
+        },
+        {
+          "hi": "मकाउ",
+          "en": "Macaw"
+        },
+        {
+          "hi": "हमिंग बर्ड",
+          "en": "Hummingbird"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संयुक्त अरब अमीरात (UAE) का राष्ट्रीय पक्षी कौन-सा है?",
+        "en": "Which is the national bird of the United Arab Emirates (UAE)?"
+      },
+      "o": [
+        {
+          "hi": "हॉपी",
+          "en": "Hoopoe"
+        },
+        {
+          "hi": "फाल्कन (बाज / Peregrine Falcon)",
+          "en": "Peregrine Falcon"
+        },
+        {
+          "hi": "कबूतर",
+          "en": "Pigeon"
+        },
+        {
+          "hi": "फ्लेमिंगो",
+          "en": "Flamingo"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ओमान और कतर का राष्ट्रीय पशु कौन-सा माना जाता है?",
+        "en": "Which graceful desert antelope is the national animal of Oman and Qatar?"
+      },
+      "o": [
+        {
+          "hi": "ऊंट",
+          "en": "Dromedary Camel"
+        },
+        {
+          "hi": "चीता",
+          "en": "Cheetah"
+        },
+        {
+          "hi": "अरेबियन ओरिक्स (Arabian Oryx)",
+          "en": "Arabian Oryx"
+        },
+        {
+          "hi": "गजल",
+          "en": "Gazelle"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सिंगापुर का राष्ट्रीय पशु प्रतीक कौन-सा है?",
+        "en": "Which mythical hybrid creature is the national symbol of Singapore?"
+      },
+      "o": [
+        {
+          "hi": "बाघ",
+          "en": "Tiger"
+        },
+        {
+          "hi": "कौआ",
+          "en": "Crow"
+        },
+        {
+          "hi": "हाथी",
+          "en": "Elephant"
+        },
+        {
+          "hi": "मर्लायन (सिंह-मत्स्य / Merlion)",
+          "en": "Merlion"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "फिलीपींस का राष्ट्रीय पक्षी कौन-सा है?",
+        "en": "Which is the critically endangered national bird of the Philippines?"
+      },
+      "o": [
+        {
+          "hi": "फिलीपीन ईगल (बंदर-भक्षी गरुड़)",
+          "en": "Philippine Eagle (Monkey-eating Eagle)"
+        },
+        {
+          "hi": "तोता",
+          "en": "Parrot"
+        },
+        {
+          "hi": "किंगफिशर",
+          "en": "Kingfisher"
+        },
+        {
+          "hi": "हॉर्नबिल",
+          "en": "Hornbill"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रॉयल बंगाल टाइगर का वैज्ञानिक नाम क्या है?",
+        "en": "What is the correct scientific binominal name of the Royal Bengal Tiger?"
+      },
+      "o": [
+        {
+          "hi": "पैंथेरा लियो",
+          "en": "Panthera leo"
+        },
+        {
+          "hi": "पैंथेरा टाइग्रिस (Panthera tigris)",
+          "en": "Panthera tigris"
+        },
+        {
+          "hi": "पैंथेरा पार्डस",
+          "en": "Panthera pardus"
+        },
+        {
+          "hi": "एसिनोनिक्स जुबेटस",
+          "en": "Acinonyx jubatus"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - खेल-कूद (Sports)",
+  "subtitle": "भारत की प्रमुख खेल संस्थाएँ",
+  "description": "भारत की प्रमुख खेल संस्थाएँ पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारतीय खेल प्राधिकरण (Sports Authority of India - SAI) की स्थापना किस वर्ष हुई थी?",
+        "en": "In which year was the Sports Authority of India (SAI) established?"
+      },
+      "o": [
+        {
+          "hi": "25 जनवरी 1984",
+          "en": "25 January 1984"
+        },
+        {
+          "hi": "15 अगस्त 1982",
+          "en": "15 August 1982"
+        },
+        {
+          "hi": "1 अप्रैल 1986",
+          "en": "1 April 1986"
+        },
+        {
+          "hi": "26 जनवरी 1990",
+          "en": "26 January 1990"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय खेल प्राधिकरण (SAI) का राष्ट्रीय मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the head office of the Sports Authority of India (SAI) located?"
+      },
+      "o": [
+        {
+          "hi": "इंदिरा गांधी स्टेडियम, नई दिल्ली",
+          "en": "Indira Gandhi Stadium, New Delhi"
+        },
+        {
+          "hi": "जवाहरलाल नेहरू स्टेडियम परिसर, नई दिल्ली",
+          "en": "Jawaharlal Nehru Stadium Complex, New Delhi"
+        },
+        {
+          "hi": "वानखेड़े स्टेडियम, मुंबई",
+          "en": "Wankhede Stadium, Mumbai"
+        },
+        {
+          "hi": "नेताजी सुभाष राष्ट्रीय खेल संस्थान, पटियाला",
+          "en": "NIS Patiala"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एशिया का सबसे बड़ा खेल संस्थान 'नेताजी सुभाष राष्ट्रीय खेल संस्थान' (NIS) कहाँ स्थित है?",
+        "en": "Where is Asia's largest sports institute, Netaji Subhas National Institute of Sports (NIS), located?"
+      },
+      "o": [
+        {
+          "hi": "ग्वालियर (मध्य प्रदेश)",
+          "en": "Gwalior (Madhya Pradesh)"
+        },
+        {
+          "hi": "जालंधर (पंजाब)",
+          "en": "Jalandhar (Punjab)"
+        },
+        {
+          "hi": "पटियाला (पंजाब - मोती बाग पैलेस)",
+          "en": "Patiala (Punjab - Moti Bagh Palace)"
+        },
+        {
+          "hi": "देहरादून (उत्तराखंड)",
+          "en": "Dehradun (Uttarakhand)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नेताजी सुभाष राष्ट्रीय खेल संस्थान (NIS Patiala) की स्थापना किस वर्ष की गई थी?",
+        "en": "In which year was the National Institute of Sports (NIS Patiala) established?"
+      },
+      "o": [
+        {
+          "hi": "15 अगस्त 1957",
+          "en": "15 August 1957"
+        },
+        {
+          "hi": "1 अप्रैल 1965",
+          "en": "1 April 1965"
+        },
+        {
+          "hi": "23 जनवरी 1970",
+          "en": "23 January 1970"
+        },
+        {
+          "hi": "7 मई 1961",
+          "en": "7 May 1961"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शारीरिक शिक्षा का शीर्ष संस्थान 'लक्ष्मीबाई राष्ट्रीय शारीरिक शिक्षा संस्थान' (LNIPE) कहाँ स्थित है?",
+        "en": "Where is the premier Lakshmibai National Institute of Physical Education (LNIPE) located?"
+      },
+      "o": [
+        {
+          "hi": "ग्वालियर (मध्य प्रदेश - स्थापना 1957)",
+          "en": "Gwalior (Madhya Pradesh - Estd 1957)"
+        },
+        {
+          "hi": "भोपाल (मध्य प्रदेश)",
+          "en": "Bhopal (Madhya Pradesh)"
+        },
+        {
+          "hi": "इंदौर (मध्य प्रदेश)",
+          "en": "Indore (Madhya Pradesh)"
+        },
+        {
+          "hi": "झांसी (उत्तर प्रदेश)",
+          "en": "Jhansi (Uttar Pradesh)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय ओलम्पिक संघ (Indian Olympic Association - IOA) की स्थापना किस वर्ष हुई थी?",
+        "en": "In which year was the Indian Olympic Association (IOA) established?"
+      },
+      "o": [
+        {
+          "hi": "1920 में",
+          "en": "In 1920"
+        },
+        {
+          "hi": "1927 में",
+          "en": "In 1927"
+        },
+        {
+          "hi": "1924 में",
+          "en": "In 1924"
+        },
+        {
+          "hi": "1930 में",
+          "en": "In 1930"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय ओलम्पिक संघ (IOA) के प्रथम अध्यक्ष कौन थे?",
+        "en": "Who was the first President of the Indian Olympic Association (IOA)?"
+      },
+      "o": [
+        {
+          "hi": "महाराजा भूपिंदर सिंह",
+          "en": "Maharaja Bhupinder Singh"
+        },
+        {
+          "hi": "प्रो. जी.डी. सोंधी",
+          "en": "Prof. G.D. Sondhi"
+        },
+        {
+          "hi": "सर दोराबजी टाटा (Sir Dorabji Tata)",
+          "en": "Sir Dorabji Tata"
+        },
+        {
+          "hi": "राजा भालिंदर सिंह",
+          "en": "Raja Bhalindra Singh"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय ओलम्पिक संघ (IOA) की पहली महिला अध्यक्ष 2022 में कौन चुनी गईं?",
+        "en": "Who was elected as the first woman President of the Indian Olympic Association in December 2022?"
+      },
+      "o": [
+        {
+          "hi": "कर्णम मल्लेश्वरी",
+          "en": "Karnam Malleswari"
+        },
+        {
+          "hi": "अंजू बॉबी जॉर्ज",
+          "en": "Anju Bobby George"
+        },
+        {
+          "hi": "मैरी कॉम",
+          "en": "Mary Kom"
+        },
+        {
+          "hi": "पी.टी. उषा (P.T. Usha)",
+          "en": "P.T. Usha"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय क्रिकेट नियंत्रण बोर्ड (BCCI) की स्थापना किस वर्ष हुई थी?",
+        "en": "In which year was the Board of Control for Cricket in India (BCCI) established?"
+      },
+      "o": [
+        {
+          "hi": "दिसंबर 1928 में",
+          "en": "In December 1928"
+        },
+        {
+          "hi": "1926 में",
+          "en": "In 1926"
+        },
+        {
+          "hi": "1932 में",
+          "en": "In 1932"
+        },
+        {
+          "hi": "1934 में",
+          "en": "In 1934"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय क्रिकेट नियंत्रण बोर्ड (BCCI) का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of the Board of Control for Cricket in India (BCCI) located?"
+      },
+      "o": [
+        {
+          "hi": "ईडन गार्डन्स, कोलकाता",
+          "en": "Eden Gardens, Kolkata"
+        },
+        {
+          "hi": "क्रिकेट सेंटर, वानखेड़े स्टेडियम, मुंबई",
+          "en": "Cricket Centre, Wankhede Stadium, Mumbai"
+        },
+        {
+          "hi": "एम.ए. चिदंबरम स्टेडियम, चेन्नई",
+          "en": "Chepauk, Chennai"
+        },
+        {
+          "hi": "फिरोजशाह कोटला, नई दिल्ली",
+          "en": "Feroz Shah Kotla, New Delhi"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बीसीसीआई (BCCI) के प्रथम अध्यक्ष (First President) कौन थे?",
+        "en": "Who was the first President of the BCCI in 1928?"
+      },
+      "o": [
+        {
+          "hi": "एंथनी डी मेलो (Anthony De Mello)",
+          "en": "Anthony De Mello"
+        },
+        {
+          "hi": "सी.के. नायडू (C.K. Nayudu)",
+          "en": "C.K. Nayudu"
+        },
+        {
+          "hi": "आर.ई. ग्रांट गोवन (R.E. Grant Govan)",
+          "en": "R.E. Grant Govan"
+        },
+        {
+          "hi": "महाराजा कुमार ऑफ विजियानगरम",
+          "en": "Vizzy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बीसीसीआई (BCCI) के प्रथम सचिव (First Secretary) कौन थे?",
+        "en": "Who was the first Secretary of the BCCI in 1928?"
+      },
+      "o": [
+        {
+          "hi": "आर.ई. ग्रांट गोवन",
+          "en": "R.E. Grant Govan"
+        },
+        {
+          "hi": "जगमोहन डालमिया",
+          "en": "Jagmohan Dalmiya"
+        },
+        {
+          "hi": "एम.ए. चिदंबरम",
+          "en": "M.A. Chidambaram"
+        },
+        {
+          "hi": "एंथनी डी मेलो (Anthony De Mello)",
+          "en": "Anthony De Mello"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अखिल भारतीय फुटबॉल महासंघ (AIFF) की स्थापना 23 जून 1937 को कहाँ हुई थी?",
+        "en": "Where was the All India Football Federation (AIFF) founded on 23 June 1937?"
+      },
+      "o": [
+        {
+          "hi": "आर्मी हेडक्वार्टर, शिमला (हिमाचल प्रदेश)",
+          "en": "Army Headquarters, Shimla (HP)"
+        },
+        {
+          "hi": "कोलकाता (पश्चिम बंगाल)",
+          "en": "Kolkata (West Bengal)"
+        },
+        {
+          "hi": "मुंबई (महाराष्ट्र)",
+          "en": "Mumbai (Maharashtra)"
+        },
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अखिल भारतीय फुटबॉल महासंघ (AIFF) का वर्तमान मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the current headquarters of the All India Football Federation (AIFF)?"
+      },
+      "o": [
+        {
+          "hi": "कोलकाता (पश्चिम बंगाल)",
+          "en": "Kolkata (West Bengal)"
+        },
+        {
+          "hi": "फुटबॉल हाउस, द्वारका, नई दिल्ली",
+          "en": "Football House, Dwarka, New Delhi"
+        },
+        {
+          "hi": "गोवा",
+          "en": "Goa"
+        },
+        {
+          "hi": "कोच्चि (केरल)",
+          "en": "Kochi (Kerala)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में फील्ड हॉकी की वर्तमान मान्यता प्राप्त राष्ट्रीय शासी संस्था कौन-सी है?",
+        "en": "Which is the current recognized national governing body for Field Hockey in India?"
+      },
+      "o": [
+        {
+          "hi": "भारतीय हॉकी महासंघ (IHF - 1925)",
+          "en": "Indian Hockey Federation (IHF)"
+        },
+        {
+          "hi": "हॉकी एसोसिएशन ऑफ इंडिया",
+          "en": "Hockey Association of India"
+        },
+        {
+          "hi": "हॉकी इंडिया (Hockey India - स्थापना 2009)",
+          "en": "Hockey India (Formed 2009)"
+        },
+        {
+          "hi": "अखिल भारतीय हॉकी परिषद",
+          "en": "All India Hockey Council"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मूल 'भारतीय हॉकी महासंघ' (IHF) की स्थापना 1925 में कहाँ की गई थी?",
+        "en": "Where was the original Indian Hockey Federation (IHF) established in 1925?"
+      },
+      "o": [
+        {
+          "hi": "कोलकाता (पश्चिम बंगाल)",
+          "en": "Kolkata (West Bengal)"
+        },
+        {
+          "hi": "पटियाला (पंजाब)",
+          "en": "Patiala (Punjab)"
+        },
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "ग्वालियर (मध्य प्रदेश)",
+          "en": "Gwalior (Madhya Pradesh)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय बैडमिंटन संघ (Badminton Association of India - BAI) की स्थापना किस वर्ष हुई थी?",
+        "en": "In which year was the Badminton Association of India (BAI) formed?"
+      },
+      "o": [
+        {
+          "hi": "1934 में",
+          "en": "In 1934"
+        },
+        {
+          "hi": "1940 में",
+          "en": "In 1940"
+        },
+        {
+          "hi": "1948 में",
+          "en": "In 1948"
+        },
+        {
+          "hi": "1952 में",
+          "en": "In 1952"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय टेबल टेनिस महासंघ (TTFI) की स्थापना किस वर्ष की गई थी?",
+        "en": "In which year was the Table Tennis Federation of India (TTFI) founded?"
+      },
+      "o": [
+        {
+          "hi": "1930 में",
+          "en": "In 1930"
+        },
+        {
+          "hi": "1926 में",
+          "en": "In 1926"
+        },
+        {
+          "hi": "1935 में",
+          "en": "In 1935"
+        },
+        {
+          "hi": "1942 में",
+          "en": "In 1942"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अखिल भारतीय टेनिस संघ (All India Tennis Association - AITA) की स्थापना कब हुई थी?",
+        "en": "When was the All India Tennis Association (AITA) formed?"
+      },
+      "o": [
+        {
+          "hi": "1928 में",
+          "en": "In 1928"
+        },
+        {
+          "hi": "1910 में",
+          "en": "In 1910"
+        },
+        {
+          "hi": "मार्च 1920 में (लाहौर में)",
+          "en": "March 1920 (at Lahore)"
+        },
+        {
+          "hi": "1936 में",
+          "en": "In 1936"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय राष्ट्रीय राइफल संघ (NRAI) की स्थापना 1951 में किसके द्वारा की गई थी?",
+        "en": "By whom was the National Rifle Association of India (NRAI) founded in 1951?"
+      },
+      "o": [
+        {
+          "hi": "करणी सिंह",
+          "en": "Karni Singh"
+        },
+        {
+          "hi": "रणधीर सिंह",
+          "en": "Randhir Singh"
+        },
+        {
+          "hi": "सरदार पटेल",
+          "en": "Sardar Patel"
+        },
+        {
+          "hi": "जी.वी. मावलंकर (प्रथम लोकसभा अध्यक्ष)",
+          "en": "G.V. Mavalankar (First Lok Sabha Speaker)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रीय डोपिंग रोधी एजेंसी (NADA) की स्थापना भारत में किस वर्ष की गई थी?",
+        "en": "In which year was the National Anti-Doping Agency (NADA) established in India?"
+      },
+      "o": [
+        {
+          "hi": "24 नवंबर 2005",
+          "en": "24 November 2005"
+        },
+        {
+          "hi": "1 जनवरी 2000",
+          "en": "1 January 2000"
+        },
+        {
+          "hi": "15 अगस्त 2008",
+          "en": "15 August 2008"
+        },
+        {
+          "hi": "10 दिसंबर 2010",
+          "en": "10 December 2010"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रीय डोपिंग रोधी प्रयोगशाला (NDTL) कहाँ स्थित है?",
+        "en": "Where is the National Dope Testing Laboratory (NDTL) situated in India?"
+      },
+      "o": [
+        {
+          "hi": "पटियाला (पंजाब)",
+          "en": "Patiala (Punjab)"
+        },
+        {
+          "hi": "नई दिल्ली (जवाहरलाल नेहरू स्टेडियम परिसर)",
+          "en": "New Delhi (JLN Stadium Complex)"
+        },
+        {
+          "hi": "कोलकाता (पश्चिम बंगाल)",
+          "en": "Kolkata (West Bengal)"
+        },
+        {
+          "hi": "बेंगलुरु (कर्नाटक)",
+          "en": "Bengaluru (Karnataka)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व डोपिंग रोधी एजेंसी (WADA) का वैश्विक मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the global headquarters of the World Anti-Doping Agency (WADA) located?"
+      },
+      "o": [
+        {
+          "hi": "लुसाने (स्विट्जरलैंड)",
+          "en": "Lausanne (Switzerland)"
+        },
+        {
+          "hi": "जिनेवा (स्विट्जरलैंड)",
+          "en": "Geneva (Switzerland)"
+        },
+        {
+          "hi": "मॉन्ट्रियल (कनाडा)",
+          "en": "Montreal (Canada)"
+        },
+        {
+          "hi": "पेरिस (फ्रांस)",
+          "en": "Paris (France)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का प्रथम केंद्रीय खेल विश्वविद्यालय (National Sports University) कहाँ स्थापित किया गया है?",
+        "en": "Where is India's first Central National Sports University (NSU) established (2018)?"
+      },
+      "o": [
+        {
+          "hi": "पटियाला (पंजाब)",
+          "en": "Patiala (Punjab)"
+        },
+        {
+          "hi": "ग्वालियर (मध्य प्रदेश)",
+          "en": "Gwalior (Madhya Pradesh)"
+        },
+        {
+          "hi": "गुवाहाटी (असम)",
+          "en": "Guwahati (Assam)"
+        },
+        {
+          "hi": "इम्फाल (मणिपुर)",
+          "en": "Imphal (Manipur)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत सरकार द्वारा ओलम्पिक में पदक जीतने की संभावना वाले एथलीटों हेतु 'TOPS' योजना कब शुरू की गई?",
+        "en": "When was the Target Olympic Podium Scheme (TOPS) launched by the Government of India?"
+      },
+      "o": [
+        {
+          "hi": "सितंबर 2014 में",
+          "en": "In September 2014"
+        },
+        {
+          "hi": "जनवरी 2016 में",
+          "en": "In January 2016"
+        },
+        {
+          "hi": "अप्रैल 2012 में",
+          "en": "In April 2012"
+        },
+        {
+          "hi": "अक्टूबर 2018 में",
+          "en": "In October 2018"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'खेलो इंडिया' (Khelo India) राष्ट्रीय कार्यक्रम को किस वित्तीय वर्ष में पुनर्गठित कर शुरू किया गया?",
+        "en": "In which financial year was the revamped 'Khelo India' National Programme launched?"
+      },
+      "o": [
+        {
+          "hi": "2014-15 में",
+          "en": "In 2014-15"
+        },
+        {
+          "hi": "2017-18 में",
+          "en": "In 2017-18"
+        },
+        {
+          "hi": "2019-20 में",
+          "en": "In 2019-20"
+        },
+        {
+          "hi": "2015-16 में",
+          "en": "In 2015-16"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रथम 'खेलो इंडिया स्कूल गेम्स' (अब यूथ गेम्स) 2018 में कहाँ आयोजित किए गए थे?",
+        "en": "Where were the inaugural Khelo India School Games held in January 2018?"
+      },
+      "o": [
+        {
+          "hi": "पुणे (महाराष्ट्र)",
+          "en": "Pune (Maharashtra)"
+        },
+        {
+          "hi": "गुवाहाटी (असम)",
+          "en": "Guwahati (Assam)"
+        },
+        {
+          "hi": "नई दिल्ली (New Delhi)",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "पंचकुला (हरियाणा)",
+          "en": "Panchkula (Haryana)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रथम 'खेलो इंडिया यूनिवर्सिटी गेम्स' 2020 का आयोजन कहाँ किया गया था?",
+        "en": "Where were the first Khelo India University Games (KIUG) held in 2020?"
+      },
+      "o": [
+        {
+          "hi": "बेंगलुरु (कर्नाटक)",
+          "en": "Bengaluru (Karnataka)"
+        },
+        {
+          "hi": "वाराणसी (उत्तर प्रदेश)",
+          "en": "Varanasi (Uttar Pradesh)"
+        },
+        {
+          "hi": "गुवाहाटी (असम)",
+          "en": "Guwahati (Assam)"
+        },
+        {
+          "hi": "भुवनेश्वर (ओडिशा - केआईआईटी परिसर)",
+          "en": "Bhubaneswar (Odisha - KIIT Campus)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रथम 'खेलो इंडिया विंटर गेम्स' (शीतकालीन खेल) 2020 में कहाँ आयोजित किए गए थे?",
+        "en": "Where were the inaugural Khelo India Winter Games held in 2020?"
+      },
+      "o": [
+        {
+          "hi": "गुलमर्ग (जम्मू और कश्मीर)",
+          "en": "Gulmarg (Jammu & Kashmir)"
+        },
+        {
+          "hi": "मनाली (हिमाचल प्रदेश)",
+          "en": "Manali (Himachal Pradesh)"
+        },
+        {
+          "hi": "लेह (लद्दाख)",
+          "en": "Leh (Ladakh)"
+        },
+        {
+          "hi": "औली (उत्तराखंड)",
+          "en": "Auli (Uttarakhand)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अखिल भारतीय शतरंज महासंघ (All India Chess Federation - AICF) की स्थापना किस वर्ष हुई थी?",
+        "en": "In which year was the All India Chess Federation (AICF) founded?"
+      },
+      "o": [
+        {
+          "hi": "1947 में",
+          "en": "In 1947"
+        },
+        {
+          "hi": "1951 में (मुख्यालय: चेन्नई)",
+          "en": "In 1951 (Headquarters: Chennai)"
+        },
+        {
+          "hi": "1960 में",
+          "en": "In 1960"
+        },
+        {
+          "hi": "1972 में",
+          "en": "In 1972"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय मुक्केबाजी महासंघ (Boxing Federation of India - BFI) का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of the Boxing Federation of India (BFI) situated?"
+      },
+      "o": [
+        {
+          "hi": "नई दिल्ली (New Delhi)",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "पटियाला (पंजाब)",
+          "en": "Patiala (Punjab)"
+        },
+        {
+          "hi": "गुरुग्राम (हरियाणा)",
+          "en": "Gurugram (Haryana)"
+        },
+        {
+          "hi": "कोलकाता (पश्चिम बंगाल)",
+          "en": "Kolkata (West Bengal)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय कुश्ती महासंघ (Wrestling Federation of India - WFI) का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of the Wrestling Federation of India (WFI) located?"
+      },
+      "o": [
+        {
+          "hi": "रोहतक (हरियाणा)",
+          "en": "Rohtak (Haryana)"
+        },
+        {
+          "hi": "वाराणसी (उत्तर प्रदेश)",
+          "en": "Varanasi (Uttar Pradesh)"
+        },
+        {
+          "hi": "कोल्हापुर (महाराष्ट्र)",
+          "en": "Kolhapur (Maharashtra)"
+        },
+        {
+          "hi": "नई दिल्ली (New Delhi)",
+          "en": "New Delhi"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय तीरंदाजी संघ (Archery Association of India - AAI) की स्थापना किस वर्ष हुई थी?",
+        "en": "In which year was the Archery Association of India (AAI) established?"
+      },
+      "o": [
+        {
+          "hi": "1973 में",
+          "en": "In 1973"
+        },
+        {
+          "hi": "1968 में",
+          "en": "In 1968"
+        },
+        {
+          "hi": "1980 में",
+          "en": "In 1980"
+        },
+        {
+          "hi": "1985 in",
+          "en": "In 1985"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय तैराकी महासंघ (Swimming Federation of India - SFI) की स्थापना किस वर्ष हुई थी?",
+        "en": "In which year was the Swimming Federation of India (SFI) founded?"
+      },
+      "o": [
+        {
+          "hi": "1952 में",
+          "en": "In 1952"
+        },
+        {
+          "hi": "1948 में (मुख्यालय: अहमदाबाद)",
+          "en": "In 1948 (Headquarters: Ahmedabad)"
+        },
+        {
+          "hi": "1940 में",
+          "en": "In 1940"
+        },
+        {
+          "hi": "1960 में",
+          "en": "In 1960"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय पैरालम्पिक समिति (Paralympic Committee of India - PCI) की स्थापना किस वर्ष हुई थी?",
+        "en": "In which year was the Paralympic Committee of India (PCI) established?"
+      },
+      "o": [
+        {
+          "hi": "1988 में",
+          "en": "In 1988"
+        },
+        {
+          "hi": "2000 में",
+          "en": "In 2000"
+        },
+        {
+          "hi": "1994 में (प्रथम अध्यक्ष: एम. महादेवा)",
+          "en": "In 1994 (First President: M. Mahadeva)"
+        },
+        {
+          "hi": "2004 में",
+          "en": "In 2004"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अंतरराष्ट्रीय क्रिकेट परिषद (ICC) का मुख्यालय वर्तमान में कहाँ स्थित है?",
+        "en": "Where is the global headquarters of the International Cricket Council (ICC) located?"
+      },
+      "o": [
+        {
+          "hi": "लंदन (लॉर्ड्स, ब्रिटेन - 2005 तक)",
+          "en": "London (Lord's, UK - until 2005)"
+        },
+        {
+          "hi": "मेलबर्न (ऑस्ट्रेलिया)",
+          "en": "Melbourne (Australia)"
+        },
+        {
+          "hi": "सिंगापुर (Singapore)",
+          "en": "Singapore"
+        },
+        {
+          "hi": "दुबई (संयुक्त अरब अमीरात - 2005 से)",
+          "en": "Dubai (UAE - since 2005)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अंतरराष्ट्रीय क्रिकेट परिषद (ICC) की स्थापना 1909 में किस नाम से हुई थी?",
+        "en": "Under what name was the ICC originally founded at Lord's in 1909?"
+      },
+      "o": [
+        {
+          "hi": "इम्पीरियल क्रिकेट कॉन्फ्रेंस (Imperial Cricket Conference)",
+          "en": "Imperial Cricket Conference"
+        },
+        {
+          "hi": "इंटरनेशनल क्रिकेट कॉन्फ्रेंस",
+          "en": "International Cricket Conference"
+        },
+        {
+          "hi": "ब्रिटिश कॉमनवेल्थ क्रिकेट बोर्ड",
+          "en": "British Commonwealth Cricket Board"
+        },
+        {
+          "hi": "वर्ल्ड क्रिकेट काउंसिल",
+          "en": "World Cricket Council"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अंतरराष्ट्रीय फुटबॉल महासंघ (FIFA) का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the global headquarters of FIFA situated?"
+      },
+      "o": [
+        {
+          "hi": "पेरिस (फ्रांस)",
+          "en": "Paris (France)"
+        },
+        {
+          "hi": "ज्यूरिख (स्विट्जरलैंड)",
+          "en": "Zurich (Switzerland)"
+        },
+        {
+          "hi": "जिनेवा (स्विट्जरलैंड)",
+          "en": "Geneva (Switzerland)"
+        },
+        {
+          "hi": "लंदन (ब्रिटेन)",
+          "en": "London (UK)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अंतरराष्ट्रीय हॉकी महासंघ (FIH) का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of the International Hockey Federation (FIH) located?"
+      },
+      "o": [
+        {
+          "hi": "एम्सटर्डम (नीदरलैंड)",
+          "en": "Amsterdam (Netherlands)"
+        },
+        {
+          "hi": "ब्रुसेल्स (बेल्जियम)",
+          "en": "Brussels (Belgium)"
+        },
+        {
+          "hi": "लुसाने (स्विट्जरलैंड)",
+          "en": "Lausanne (Switzerland)"
+        },
+        {
+          "hi": "कुआलालंपुर (मलेशिया)",
+          "en": "Kuala Lumpur (Malaysia)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व बैडमिंटन महासंघ (BWF) का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of the Badminton World Federation (BWF) situated?"
+      },
+      "o": [
+        {
+          "hi": "जकार्ता (इंडोनेशिया)",
+          "en": "Jakarta (Indonesia)"
+        },
+        {
+          "hi": "सिंगापुर (Singapore)",
+          "en": "Singapore"
+        },
+        {
+          "hi": "बैंकॉक (थाईलैंड)",
+          "en": "Bangkok (Thailand)"
+        },
+        {
+          "hi": "कुआलालंपुर (मलेशिया)",
+          "en": "Kuala Lumpur (Malaysia)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अंतरराष्ट्रीय टेनिस महासंघ (ITF) का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of the International Tennis Federation (ITF) located?"
+      },
+      "o": [
+        {
+          "hi": "लंदन (ब्रिटेन)",
+          "en": "London (UK)"
+        },
+        {
+          "hi": "पेरिस (फ्रांस)",
+          "en": "Paris (France)"
+        },
+        {
+          "hi": "न्यूयॉर्क (USA)",
+          "en": "New York (USA)"
+        },
+        {
+          "hi": "मेलबर्न (ऑस्ट्रेलिया)",
+          "en": "Melbourne (Australia)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अंतरराष्ट्रीय टेबल टेनिस महासंघ (ITTF) का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of the International Table Tennis Federation (ITTF) situated?"
+      },
+      "o": [
+        {
+          "hi": "बीजिंग (चीन)",
+          "en": "Beijing (China)"
+        },
+        {
+          "hi": "लुसाने (स्विट्जरलैंड)",
+          "en": "Lausanne (Switzerland)"
+        },
+        {
+          "hi": "टोक्यो (जापान)",
+          "en": "Tokyo (Japan)"
+        },
+        {
+          "hi": "लंदन (ब्रिटेन)",
+          "en": "London (UK)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अंतरराष्ट्रीय शतरंज महासंघ (FIDE) का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of the International Chess Federation (FIDE) located?"
+      },
+      "o": [
+        {
+          "hi": "एथेंस (ग्रीस)",
+          "en": "Athens (Greece)"
+        },
+        {
+          "hi": "मॉस्को (रूस)",
+          "en": "Moscow (Russia)"
+        },
+        {
+          "hi": "लुसाने (स्विट्जरलैंड)",
+          "en": "Lausanne (Switzerland)"
+        },
+        {
+          "hi": "पेरिस (फ्रांस)",
+          "en": "Paris (France)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अंतरराष्ट्रीय तैराकी महासंघ (World Aquatics / FINA) का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of World Aquatics (formerly FINA) situated?"
+      },
+      "o": [
+        {
+          "hi": "बुडापेस्ट (हंगरी)",
+          "en": "Budapest (Hungary)"
+        },
+        {
+          "hi": "बार्सिलोना (स्पेन)",
+          "en": "Barcelona (Spain)"
+        },
+        {
+          "hi": "मोनाको",
+          "en": "Monaco"
+        },
+        {
+          "hi": "लुसाने (स्विट्जरलैंड)",
+          "en": "Lausanne (Switzerland)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व एथलेटिक्स (World Athletics / पूर्व नाम IAAF) का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of World Athletics located?"
+      },
+      "o": [
+        {
+          "hi": "मोनाको (Monaco)",
+          "en": "Monaco"
+        },
+        {
+          "hi": "पेरिस (फ्रांस)",
+          "en": "Paris (France)"
+        },
+        {
+          "hi": "लंदन (ब्रिटेन)",
+          "en": "London (UK)"
+        },
+        {
+          "hi": "लुसाने (स्विट्जरलैंड)",
+          "en": "Lausanne (Switzerland)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रीय खेल प्रतिभा खोज योजना (NSTSS) किस भारतीय संस्था द्वारा संचालित होती है?",
+        "en": "National Sports Talent Search Scheme (NSTSS) is administered primarily by which Indian body?"
+      },
+      "o": [
+        {
+          "hi": "भारतीय ओलम्पिक संघ (IOA)",
+          "en": "Indian Olympic Association (IOA)"
+        },
+        {
+          "hi": "भारतीय खेल प्राधिकरण (SAI)",
+          "en": "Sports Authority of India (SAI)"
+        },
+        {
+          "hi": "विश्वविद्यालय अनुदान आयोग (UGC)",
+          "en": "University Grants Commission (UGC)"
+        },
+        {
+          "hi": "युवा कार्यक्रम विभाग",
+          "en": "Department of Youth Affairs"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत सरकार के केंद्रीय युवा कार्यक्रम एवं खेल मंत्रालय की स्थापना स्वतंत्र मंत्रालय के रूप में कब हुई?",
+        "en": "When was the Ministry of Youth Affairs and Sports established as an independent ministry?"
+      },
+      "o": [
+        {
+          "hi": "1982 में",
+          "en": "In 1982"
+        },
+        {
+          "hi": "1991 में",
+          "en": "In 1991"
+        },
+        {
+          "hi": "27 मई 2000 को",
+          "en": "27 May 2000"
+        },
+        {
+          "hi": "2010 में",
+          "en": "In 2010"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रीय डोपिंग रोधी एजेंसी (NADA) का ध्येय वाक्य (Motto) क्या है?",
+        "en": "What is the official slogan / motto of the National Anti-Doping Agency (NADA)?"
+      },
+      "o": [
+        {
+          "hi": "क्लीन स्पोर्ट्स (Clean Sports)",
+          "en": "Clean Sports"
+        },
+        {
+          "hi": "नो टू ड्रग्स (No to Drugs)",
+          "en": "No to Drugs"
+        },
+        {
+          "hi": "फेयर प्ले फॉर इंडिया",
+          "en": "Fair Play for India"
+        },
+        {
+          "hi": "प्ले फेयर (Play Fair)",
+          "en": "Play Fair"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय खेल प्राधिकरण (SAI) के क्षेत्रीय केंद्रों में दक्षिण का मुख्य केंद्र कहाँ स्थित है?",
+        "en": "Where is the Southern Regional Centre of the Sports Authority of India (SAI) situated?"
+      },
+      "o": [
+        {
+          "hi": "बेंगलुरु (कर्नाटक)",
+          "en": "Bengaluru (Karnataka)"
+        },
+        {
+          "hi": "चेन्नई (तमिलनाडु)",
+          "en": "Chennai (Tamil Nadu)"
+        },
+        {
+          "hi": "हैदराबाद (तेलंगाना)",
+          "en": "Hyderabad (Telangana)"
+        },
+        {
+          "hi": "तिरुवनंतपुरम (केरल)",
+          "en": "Thiruvananthapuram (Kerala)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय खेल प्राधिकरण (SAI) के क्षेत्रीय केंद्रों में पूर्वोत्तर (North-East) का प्रमुख केंद्र कहाँ स्थित है?",
+        "en": "Where is the prominent North-East Regional Centre of SAI located?"
+      },
+      "o": [
+        {
+          "hi": "शिलांग (मेघालय)",
+          "en": "Shillong (Meghalaya)"
+        },
+        {
+          "hi": "इम्फाल (मणिपुर) और गुवाहाटी (असम)",
+          "en": "Imphal (Manipur) and Guwahati (Assam)"
+        },
+        {
+          "hi": "अगरतला (त्रिपुरा)",
+          "en": "Agartala (Tripura)"
+        },
+        {
+          "hi": "कोहिमा (नागालैंड)",
+          "en": "Kohima (Nagaland)"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

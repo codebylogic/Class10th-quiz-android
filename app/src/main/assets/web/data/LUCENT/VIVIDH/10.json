@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विविध (Miscellaneous)",
+  "subtitle": "मानचित्र की रेखाएँ",
+  "description": "मानचित्र की रेखाएँ पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "समान वायुमंडलीय दबाव वाले स्थानों को मिलाने वाली रेखा क्या कहलाती है?",
+        "en": "What is the line connecting places of equal atmospheric pressure called?"
+      },
+      "o": [
+        {
+          "hi": "समदाब रेखा (Isobar)",
+          "en": "Isobar"
+        },
+        {
+          "hi": "समताप रेखा (Isotherm)",
+          "en": "Isotherm"
+        },
+        {
+          "hi": "समवर्षा रेखा (Isohyet)",
+          "en": "Isohyet"
+        },
+        {
+          "hi": "समलवण रेखा (Isohaline)",
+          "en": "Isohaline"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समान तापमान वाले स्थानों को मिलाने वाली काल्पनिक रेखा क्या कहलाती है?",
+        "en": "What is the line connecting places having equal temperature called?"
+      },
+      "o": [
+        {
+          "hi": "समदाब रेखा (Isobar)",
+          "en": "Isobar"
+        },
+        {
+          "hi": "समताप रेखा (Isotherm)",
+          "en": "Isotherm"
+        },
+        {
+          "hi": "समधूप रेखा (Isohel)",
+          "en": "Isohel"
+        },
+        {
+          "hi": "समुच्च रेखा (Contour)",
+          "en": "Contour"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समान वर्षा वाले स्थानों को मिलाने वाली मानचित्र रेखा क्या कहलाती है?",
+        "en": "What is the line joining points of equal precipitation/rainfall called?"
+      },
+      "o": [
+        {
+          "hi": "सममेघ रेखा (Isoneph)",
+          "en": "Isoneph"
+        },
+        {
+          "hi": "समदाब रेखा (Isobar)",
+          "en": "Isobar"
+        },
+        {
+          "hi": "समवर्षा रेखा (Isohyet)",
+          "en": "Isohyet"
+        },
+        {
+          "hi": "समलवण रेखा (Isohaline)",
+          "en": "Isohaline"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समुद्री जल में समान लवणता वाले बिंदुओं को मिलाने वाली रेखा क्या कहलाती है?",
+        "en": "What is the line connecting places of equal ocean salinity called?"
+      },
+      "o": [
+        {
+          "hi": "समगहरी रेखा (Isobath)",
+          "en": "Isobath"
+        },
+        {
+          "hi": "समदाब रेखा (Isobar)",
+          "en": "Isobar"
+        },
+        {
+          "hi": "समताप रेखा (Isotherm)",
+          "en": "Isotherm"
+        },
+        {
+          "hi": "समलवण रेखा (Isohaline)",
+          "en": "Isohaline"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समुद्र तल से समान ऊँचाई वाले स्थानों को मिलाने वाली रेखा क्या कहलाती है?",
+        "en": "What is the line connecting points of equal height above sea level called?"
+      },
+      "o": [
+        {
+          "hi": "समुच्च रेखा (Contour line / Isohypse)",
+          "en": "Contour line / Isohypse"
+        },
+        {
+          "hi": "समगहरी रेखा (Isobath)",
+          "en": "Isobath"
+        },
+        {
+          "hi": "समदाब रेखा (Isobar)",
+          "en": "Isobar"
+        },
+        {
+          "hi": "आइसोप्लैथ (Isopleth)",
+          "en": "Isopleth"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समुद्र के भीतर समान गहराई वाले बिंदुओं को मिलाने वाली रेखा क्या कहलाती है?",
+        "en": "What is the line connecting points of equal depth in oceans called?"
+      },
+      "o": [
+        {
+          "hi": "समुच्च रेखा (Contour)",
+          "en": "Contour"
+        },
+        {
+          "hi": "समगहरी रेखा (Isobath)",
+          "en": "Isobath"
+        },
+        {
+          "hi": "समलवण रेखा (Isohaline)",
+          "en": "Isohaline"
+        },
+        {
+          "hi": "समदाब रेखा (Isobar)",
+          "en": "Isobar"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समान सूर्य के प्रकाश (धूप की अवधि) वाले स्थानों को मिलाने वाली रेखा?",
+        "en": "What is the line connecting places receiving equal duration of sunshine called?"
+      },
+      "o": [
+        {
+          "hi": "समताप रेखा (Isotherm)",
+          "en": "Isotherm"
+        },
+        {
+          "hi": "सममेघ रेखा (Isoneph)",
+          "en": "Isoneph"
+        },
+        {
+          "hi": "समधूप रेखा (Isohel)",
+          "en": "Isohel"
+        },
+        {
+          "hi": "समदाब रेखा (Isobar)",
+          "en": "Isobar"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समान औसत मेघाच्छन्नता (बादलों की मात्रा) वाले स्थानों को मिलाने वाली रेखा?",
+        "en": "What is the line connecting places of equal average cloud cover called?"
+      },
+      "o": [
+        {
+          "hi": "समवर्षा रेखा (Isohyet)",
+          "en": "Isohyet"
+        },
+        {
+          "hi": "समधूप रेखा (Isohel)",
+          "en": "Isohel"
+        },
+        {
+          "hi": "आइसोटैक (Isotach)",
+          "en": "Isotach"
+        },
+        {
+          "hi": "सममेघ रेखा (Isoneph)",
+          "en": "Isoneph"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समान भूकंपीय तीव्रता (समान क्षति) वाले स्थानों को मिलाने वाली रेखा?",
+        "en": "What is the line connecting places experiencing equal earthquake intensity called?"
+      },
+      "o": [
+        {
+          "hi": "समभूकंप रेखा (Isoseismal line)",
+          "en": "Isoseismal line"
+        },
+        {
+          "hi": "सह-भूकंप रेखा (Homoseismal)",
+          "en": "Homoseismal line"
+        },
+        {
+          "hi": "समदाब रेखा",
+          "en": "Isobar"
+        },
+        {
+          "hi": "समुच्च रेखा",
+          "en": "Contour line"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एक ही समय पर आए भूकंप वाले स्थानों को मिलाने वाली रेखा क्या कहलाती है?",
+        "en": "What is the line connecting places experiencing an earthquake at the same time called?"
+      },
+      "o": [
+        {
+          "hi": "समभूकंप रेखा (Isoseismal)",
+          "en": "Isoseismal line"
+        },
+        {
+          "hi": "सह-भूकंप रेखा (Homoseismal line)",
+          "en": "Homoseismal line"
+        },
+        {
+          "hi": "समताप रेखा",
+          "en": "Isotherm"
+        },
+        {
+          "hi": "समदाब रेखा",
+          "en": "Isobar"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी पर समान चुंबकीय झुकाव (Declination) वाले स्थानों को मिलाने वाली रेखा?",
+        "en": "What is the line connecting places of equal magnetic declination called?"
+      },
+      "o": [
+        {
+          "hi": "अगोनिक रेखा (Agonic line)",
+          "en": "Agonic line"
+        },
+        {
+          "hi": "समनमन रेखा (Isoclinic)",
+          "en": "Isoclinic line"
+        },
+        {
+          "hi": "समचुंबकीय रेखा (Isogonic line)",
+          "en": "Isogonic line"
+        },
+        {
+          "hi": "एक्लिनिक रेखा (Aclinic)",
+          "en": "Aclinic line"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शून्य चुंबकीय झुकाव (Zero magnetic declination) वाले स्थानों को मिलाने वाली रेखा?",
+        "en": "What is the line connecting places of zero magnetic declination called?"
+      },
+      "o": [
+        {
+          "hi": "समचुंबकीय रेखा (Isogonic)",
+          "en": "Isogonic line"
+        },
+        {
+          "hi": "एक्लिनिक रेखा (Aclinic)",
+          "en": "Aclinic line"
+        },
+        {
+          "hi": "समनमन रेखा (Isoclinic)",
+          "en": "Isoclinic line"
+        },
+        {
+          "hi": "अगोनिक रेखा (Agonic line)",
+          "en": "Agonic line"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समान चुंबकीय नमन (Magnetic Dip) वाले स्थानों को मिलाने वाली रेखा?",
+        "en": "What is the line connecting places of equal magnetic inclination (dip) called?"
+      },
+      "o": [
+        {
+          "hi": "समनमन रेखा (Isoclinic line)",
+          "en": "Isoclinic line"
+        },
+        {
+          "hi": "एक्लिनिक रेखा (Aclinic line)",
+          "en": "Aclinic line"
+        },
+        {
+          "hi": "समचुंबकीय रेखा (Isogonic)",
+          "en": "Isogonic line"
+        },
+        {
+          "hi": "अगोनिक रेखा (Agonic)",
+          "en": "Agonic line"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शून्य चुंबकीय नमन कोण (चुंबकीय भूमध्य रेखा) को मिलाने वाली रेखा?",
+        "en": "What is the line connecting places of zero magnetic dip called?"
+      },
+      "o": [
+        {
+          "hi": "समनमन रेखा (Isoclinic)",
+          "en": "Isoclinic line"
+        },
+        {
+          "hi": "एक्लिनिक रेखा (Aclinic line / Magnetic Equator)",
+          "en": "Aclinic line / Magnetic Equator"
+        },
+        {
+          "hi": "अगोनिक रेखा (Agonic)",
+          "en": "Agonic line"
+        },
+        {
+          "hi": "समचुंबकीय रेखा (Isogonic)",
+          "en": "Isogonic line"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समान पवन गति (Wind Speed) वाले बिंदुओं को मिलाने वाली रेखा?",
+        "en": "What is the line connecting points of equal wind speed on weather maps called?"
+      },
+      "o": [
+        {
+          "hi": "समदाब रेखा (Isobar)",
+          "en": "Isobar"
+        },
+        {
+          "hi": "आइसोपाइकनिक (Isopycnic)",
+          "en": "Isopycnic"
+        },
+        {
+          "hi": "आइसोटैक (Isotach)",
+          "en": "Isotach"
+        },
+        {
+          "hi": "सममेघ रेखा (Isoneph)",
+          "en": "Isoneph"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समान घनत्व (Equal Density) वाले स्थानों को मिलाने वाली रेखा?",
+        "en": "What is the line connecting points of equal density in fluids/atmosphere called?"
+      },
+      "o": [
+        {
+          "hi": "आइसोटैक (Isotach)",
+          "en": "Isotach"
+        },
+        {
+          "hi": "आइसोबार (Isobar)",
+          "en": "Isobar"
+        },
+        {
+          "hi": "आइसोकोरिक (Isochoric)",
+          "en": "Isochoric line"
+        },
+        {
+          "hi": "आइसोपाइकनिक रेखा (Isopycnic line)",
+          "en": "Isopycnic line"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानचित्र पर किसी भी समान मान वाले बिंदुओं को मिलाने वाली सामान्य रेखा?",
+        "en": "What is the general term for any line connecting points of equal value?"
+      },
+      "o": [
+        {
+          "hi": "आइसोप्लैथ (Isopleth / Isolines)",
+          "en": "Isopleth / Isolines"
+        },
+        {
+          "hi": "कंटूर रेखा",
+          "en": "Contour line"
+        },
+        {
+          "hi": "अक्षांश रेखा",
+          "en": "Latitude line"
+        },
+        {
+          "hi": "देशांतर रेखा",
+          "en": "Longitude line"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समान तुषारपात (बर्फबारी/पाला) वाले स्थानों को मिलाने वाली रेखा?",
+        "en": "What is the line connecting places receiving equal snowfall or frost called?"
+      },
+      "o": [
+        {
+          "hi": "समवर्षा रेखा (Isohyet)",
+          "en": "Isohyet"
+        },
+        {
+          "hi": "आइसोचायोन / समतुषार रेखा (Isochion)",
+          "en": "Isochion"
+        },
+        {
+          "hi": "समताप रेखा (Isotherm)",
+          "en": "Isotherm"
+        },
+        {
+          "hi": "सममेघ रेखा (Isoneph)",
+          "en": "Isoneph"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समान आर्द्रता (Equal Humidity) वाले स्थानों को मिलाने वाली रेखा?",
+        "en": "What is the line connecting places of equal atmospheric moisture/humidity called?"
+      },
+      "o": [
+        {
+          "hi": "समवर्षा रेखा (Isohyet)",
+          "en": "Isohyet"
+        },
+        {
+          "hi": "समताप रेखा (Isotherm)",
+          "en": "Isotherm"
+        },
+        {
+          "hi": "आइसोहाइग्रो (Isohygric line)",
+          "en": "Isohygric line"
+        },
+        {
+          "hi": "समदाब रेखा (Isobar)",
+          "en": "Isobar"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समान वाष्पीकरण (Equal Evaporation) वाले स्थानों को मिलाने वाली रेखा?",
+        "en": "What is the line connecting places of equal evaporation rates called?"
+      },
+      "o": [
+        {
+          "hi": "आइसोहाइग्रो",
+          "en": "Isohygric line"
+        },
+        {
+          "hi": "समवर्षा रेखा",
+          "en": "Isohyet"
+        },
+        {
+          "hi": "समताप रेखा",
+          "en": "Isotherm"
+        },
+        {
+          "hi": "आइसोएटमॉस (Isoatmic line)",
+          "en": "Isoatmic line"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समान गड़गड़ाहट / तड़ित झंझा (Thunderstorm) वाले दिनों को मिलाने वाली रेखा?",
+        "en": "What is the line connecting places having equal number of thunderstorm days called?"
+      },
+      "o": [
+        {
+          "hi": "आइसोब्रोन्ट (Isobront)",
+          "en": "Isobront"
+        },
+        {
+          "hi": "समवर्षा रेखा (Isohyet)",
+          "en": "Isohyet"
+        },
+        {
+          "hi": "आइसोटैक (Isotach)",
+          "en": "Isotach"
+        },
+        {
+          "hi": "समदाब रेखा (Isobar)",
+          "en": "Isobar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समान वनस्पति या फसलों के खिलने/पकने के समय को मिलाने वाली रेखा?",
+        "en": "What is the line connecting places of equal biological seasonal timing called?"
+      },
+      "o": [
+        {
+          "hi": "आइसोप्लैथ",
+          "en": "Isopleth"
+        },
+        {
+          "hi": "आइसोफीन रेखा (Isophene line)",
+          "en": "Isophene line"
+        },
+        {
+          "hi": "समताप रेखा",
+          "en": "Isotherm"
+        },
+        {
+          "hi": "समुच्च रेखा",
+          "en": "Contour"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समान परिवहन लागत (Equal Transport Cost) वाले बिंदुओं को मिलाने वाली रेखा?",
+        "en": "What is the line connecting points of equal freight/transportation cost called?"
+      },
+      "o": [
+        {
+          "hi": "आइसोटिम (Isotim)",
+          "en": "Isotim"
+        },
+        {
+          "hi": "आइसोक्रोन (Isochrone)",
+          "en": "Isochrone"
+        },
+        {
+          "hi": "आइसोडापेन (Isodapane)",
+          "en": "Isodapane"
+        },
+        {
+          "hi": "आइसोप्लैथ",
+          "en": "Isopleth"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कच्चे माल या उत्पाद के समान मालभाड़ा दर को मिलाने वाली रेखा?",
+        "en": "What is the line joining points of equal individual transport freight called?"
+      },
+      "o": [
+        {
+          "hi": "आइसोडापेन (Isodapane)",
+          "en": "Isodapane"
+        },
+        {
+          "hi": "आइसोक्रोन (Isochrone)",
+          "en": "Isochrone"
+        },
+        {
+          "hi": "आइसोबार",
+          "en": "Isobar"
+        },
+        {
+          "hi": "आइसोटिम (Isotim)",
+          "en": "Isotim"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किसी केंद्रीय बिंदु से समान यात्रा समय (Equal Travel Time) वाले स्थानों को मिलाने वाली रेखा?",
+        "en": "What is the line connecting places accessible in equal travel time called?"
+      },
+      "o": [
+        {
+          "hi": "आइसोक्रोन (Isochrone)",
+          "en": "Isochrone"
+        },
+        {
+          "hi": "आइसोडापेन (Isodapane)",
+          "en": "Isodapane"
+        },
+        {
+          "hi": "आइसोटिम (Isotim)",
+          "en": "Isotim"
+        },
+        {
+          "hi": "आइसोहाइप्स",
+          "en": "Isohypse"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समुच्च रेखाओं (Contours) के पास-पास होने से क्या प्रदर्शित होता है?",
+        "en": "What does close spacing between contour lines indicate?"
+      },
+      "o": [
+        {
+          "hi": "मंद ढाल (Gentle Slope)",
+          "en": "Gentle Slope"
+        },
+        {
+          "hi": "तीव्र ढाल (Steep Slope)",
+          "en": "Steep Slope"
+        },
+        {
+          "hi": "समतल मैदान (Flat Plain)",
+          "en": "Flat Plain"
+        },
+        {
+          "hi": "गहरी घाटी (Deep Canyon)",
+          "en": "Deep Canyon"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समुच्च रेखाओं (Contours) के दूर-दूर होने से क्या प्रदर्शित होता है?",
+        "en": "What does wide spacing between contour lines indicate?"
+      },
+      "o": [
+        {
+          "hi": "तीव्र ढाल (Steep Slope)",
+          "en": "Steep Slope"
+        },
+        {
+          "hi": "ऊँची पहाड़ी (High Peak)",
+          "en": "High Peak"
+        },
+        {
+          "hi": "मंद ढाल (Gentle Slope)",
+          "en": "Gentle Slope"
+        },
+        {
+          "hi": "खड़ी ढलान (Cliff)",
+          "en": "Cliff"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जब समुच्च रेखाएँ एक बिंदु पर आपस में मिल जाती हैं, तो वह क्या दर्शाती हैं?",
+        "en": "When contour lines merge at a single point, what physical feature is shown?"
+      },
+      "o": [
+        {
+          "hi": "सपाट पठार",
+          "en": "Flat Plateau"
+        },
+        {
+          "hi": "नदी घाटी",
+          "en": "River Valley"
+        },
+        {
+          "hi": "रेगिस्तान",
+          "en": "Desert"
+        },
+        {
+          "hi": "खड़ी चट्टान / प्रपात (Cliff / Vertical Fall)",
+          "en": "Cliff / Vertical Fall"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समान वायुदाब ढाल (Pressure Gradient) प्रदर्शित करने के लिए कौन-सी रेखाएँ प्रयुक्त होती हैं?",
+        "en": "Which lines are used to show atmospheric pressure gradient?"
+      },
+      "o": [
+        {
+          "hi": "समदाब रेखाएँ (Isobars)",
+          "en": "Isobars"
+        },
+        {
+          "hi": "समताप रेखाएँ",
+          "en": "Isotherms"
+        },
+        {
+          "hi": "समुच्च रेखाएँ",
+          "en": "Contours"
+        },
+        {
+          "hi": "समवर्षा रेखाएँ",
+          "en": "Isohyets"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मौसम मानचित्र पर चक्रवात के केंद्र में वायुदाब कैसा होता है?",
+        "en": "What is the pressure at the center of a cyclone shown by isobars?"
+      },
+      "o": [
+        {
+          "hi": "उच्चतम वायुदाब (High Pressure)",
+          "en": "High Pressure"
+        },
+        {
+          "hi": "न्यूनतम वायुदाब (Low Pressure)",
+          "en": "Low Pressure"
+        },
+        {
+          "hi": "शून्य वायुदाब",
+          "en": "Zero Pressure"
+        },
+        {
+          "hi": "स्थिर वायुदाब",
+          "en": "Constant Pressure"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रतिचक्रवात (Anticyclone) के केंद्र में वायुदाब की क्या स्थिति होती है?",
+        "en": "What is the pressure at the center of an anticyclone on a weather map?"
+      },
+      "o": [
+        {
+          "hi": "निम्नतम वायुदाब (Low Pressure)",
+          "en": "Low Pressure"
+        },
+        {
+          "hi": "मध्यम वायुदाब",
+          "en": "Moderate Pressure"
+        },
+        {
+          "hi": "उच्चतम वायुदाब (High Pressure)",
+          "en": "High Pressure"
+        },
+        {
+          "hi": "अनियमित वायुदाब",
+          "en": "Irregular Pressure"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी के ग्लोब पर अक्षांश रेखाएँ (Latitudes) क्या प्रदर्शित करती हैं?",
+        "en": "What do lines of latitude represent on a globe?"
+      },
+      "o": [
+        {
+          "hi": "पूर्व या पश्चिम कोणीय दूरी",
+          "en": "Angular distance east or west"
+        },
+        {
+          "hi": "समुद्र तल से ऊँचाई",
+          "en": "Height above sea level"
+        },
+        {
+          "hi": "स्थानीय समय",
+          "en": "Local time"
+        },
+        {
+          "hi": "भूमध्य रेखा के उत्तर या दक्षिण कोणीय दूरी",
+          "en": "Angular distance north or south of Equator"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "0° अक्षांश रेखा को क्या कहा जाता है?",
+        "en": "What is the 0° latitude line called?"
+      },
+      "o": [
+        {
+          "hi": "भूमध्य रेखा / विषुवत रेखा (Equator)",
+          "en": "Equator"
+        },
+        {
+          "hi": "कर्क रेखा (Tropic of Cancer)",
+          "en": "Tropic of Cancer"
+        },
+        {
+          "hi": "मकर रेखा (Tropic of Capricorn)",
+          "en": "Tropic of Capricorn"
+        },
+        {
+          "hi": "प्रधान मध्याह्न रेखा (Prime Meridian)",
+          "en": "Prime Meridian"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "23½° उत्तरी अक्षांश रेखा को क्या कहा जाता है?",
+        "en": "What is the 23½° North latitude line called?"
+      },
+      "o": [
+        {
+          "hi": "मकर रेखा (Tropic of Capricorn)",
+          "en": "Tropic of Capricorn"
+        },
+        {
+          "hi": "कर्क रेखा (Tropic of Cancer)",
+          "en": "Tropic of Cancer"
+        },
+        {
+          "hi": "आर्कटिक वृत्त",
+          "en": "Arctic Circle"
+        },
+        {
+          "hi": "विषुवत रेखा",
+          "en": "Equator"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "23½° दक्षिणी अक्षांश रेखा को क्या कहा जाता है?",
+        "en": "What is the 23½° South latitude line called?"
+      },
+      "o": [
+        {
+          "hi": "कर्क रेखा (Tropic of Cancer)",
+          "en": "Tropic of Cancer"
+        },
+        {
+          "hi": "अंटार्कटिक वृत्त",
+          "en": "Antarctic Circle"
+        },
+        {
+          "hi": "मकर रेखा (Tropic of Capricorn)",
+          "en": "Tropic of Capricorn"
+        },
+        {
+          "hi": "भूमध्य रेखा",
+          "en": "Equator"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "66½° उत्तरी अक्षांश रेखा को क्या कहा जाता है?",
+        "en": "What is the 66½° North latitude line called?"
+      },
+      "o": [
+        {
+          "hi": "अंटार्कटिक वृत्त (Antarctic Circle)",
+          "en": "Antarctic Circle"
+        },
+        {
+          "hi": "कर्क रेखा",
+          "en": "Tropic of Cancer"
+        },
+        {
+          "hi": "मकर रेखा",
+          "en": "Tropic of Capricorn"
+        },
+        {
+          "hi": "आर्कटिक वृत्त (Arctic Circle)",
+          "en": "Arctic Circle"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "66½° दक्षिणी अक्षांश रेखा को क्या कहा जाता है?",
+        "en": "What is the 66½° South latitude line called?"
+      },
+      "o": [
+        {
+          "hi": "अंटार्कटिक वृत्त (Antarctic Circle)",
+          "en": "Antarctic Circle"
+        },
+        {
+          "hi": "आर्कटिक वृत्त (Arctic Circle)",
+          "en": "Arctic Circle"
+        },
+        {
+          "hi": "कर्क रेखा",
+          "en": "Tropic of Cancer"
+        },
+        {
+          "hi": "मकर रेखा",
+          "en": "Tropic of Capricorn"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दो क्रमिक अक्षांश रेखाओं के मध्य की धरातलीय दूरी लगभग कितनी होती है?",
+        "en": "What is the approximate distance between two consecutive parallels of latitude?"
+      },
+      "o": [
+        {
+          "hi": "121 किलोमीटर",
+          "en": "121 km"
+        },
+        {
+          "hi": "111 किलोमीटर",
+          "en": "111 km"
+        },
+        {
+          "hi": "101 किलोमीटर",
+          "en": "101 km"
+        },
+        {
+          "hi": "91 किलोमीटर",
+          "en": "91 km"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "0° देशांतर रेखा (Prime Meridian) कहाँ से होकर गुजरती है?",
+        "en": "Through which place does the Prime Meridian (0° Longitude) pass?"
+      },
+      "o": [
+        {
+          "hi": "पेरिस (फ्रांस)",
+          "en": "Paris (France)"
+        },
+        {
+          "hi": "न्यूयॉर्क (USA)",
+          "en": "New York (USA)"
+        },
+        {
+          "hi": "ग्रीनविच वेधशाला (लंदन, UK)",
+          "en": "Greenwich (London, UK)"
+        },
+        {
+          "hi": "बर्लिन (जर्मनी)",
+          "en": "Berlin (Germany)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "180° देशांतर रेखा को अंतर्राष्ट्रीय रूप से क्या कहा जाता है?",
+        "en": "What is the 180° meridian of longitude internationally designated as?"
+      },
+      "o": [
+        {
+          "hi": "प्रधान मध्याह्न रेखा",
+          "en": "Prime Meridian"
+        },
+        {
+          "hi": "कर्क रेखा",
+          "en": "Tropic of Cancer"
+        },
+        {
+          "hi": "विषुवत रेखा",
+          "en": "Equator"
+        },
+        {
+          "hi": "अंतर्राष्ट्रीय तिथि रेखा (International Date Line)",
+          "en": "International Date Line"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अंतर्राष्ट्रीय तिथि रेखा (IDL) को किस महासागर से होकर मोड़ा गया है?",
+        "en": "Through which ocean is the International Date Line zigzagged?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर (बेरिंग जलडमरूमध्य)",
+          "en": "Pacific Ocean (Bering Strait)"
+        },
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "हिन्द महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अंतर्राष्ट्रीय तिथि रेखा को कितनी बार अपने मूल पथ से मोड़ा गया है?",
+        "en": "How many times is the International Date Line deviated to avoid landmasses?"
+      },
+      "o": [
+        {
+          "hi": "4 बार",
+          "en": "4 times"
+        },
+        {
+          "hi": "8 बार",
+          "en": "8 times"
+        },
+        {
+          "hi": "6 बार",
+          "en": "6 times"
+        },
+        {
+          "hi": "10 बार",
+          "en": "10 times"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1° देशांतर की दूरी तय करने में सूर्य को कितना समय लगता है?",
+        "en": "How much time does the Sun take to cover 1° of longitude?"
+      },
+      "o": [
+        {
+          "hi": "15 मिनट",
+          "en": "15 minutes"
+        },
+        {
+          "hi": "1 घंटा",
+          "en": "1 hour"
+        },
+        {
+          "hi": "4 मिनट",
+          "en": "4 minutes"
+        },
+        {
+          "hi": "1 मिनट",
+          "en": "1 minute"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी 1 घंटे में कितने देशांतर घूम जाती है?",
+        "en": "How many degrees of longitude does Earth rotate in 1 hour?"
+      },
+      "o": [
+        {
+          "hi": "30°",
+          "en": "30°"
+        },
+        {
+          "hi": "10°",
+          "en": "10°"
+        },
+        {
+          "hi": "45°",
+          "en": "45°"
+        },
+        {
+          "hi": "15°",
+          "en": "15°"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत का मानक समय (IST) किस देशांतर रेखा से निर्धारित होता है?",
+        "en": "Which meridian of longitude determines the Indian Standard Time (IST)?"
+      },
+      "o": [
+        {
+          "hi": "82½° पूर्वी देशांतर (प्रयागराज मिर्जापुर)",
+          "en": "82½° East Longitude (Prayagraj)"
+        },
+        {
+          "hi": "80° पूर्वी देशांतर",
+          "en": "80° East Longitude"
+        },
+        {
+          "hi": "85° पूर्वी देशांतर",
+          "en": "85° East Longitude"
+        },
+        {
+          "hi": "75° पूर्वी देशांतर",
+          "en": "75° East Longitude"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय मानक समय (IST) ग्रीनविच समय (GMT) से कितना आगे है?",
+        "en": "How much ahead is Indian Standard Time (IST) of Greenwich Mean Time (GMT)?"
+      },
+      "o": [
+        {
+          "hi": "5 घंटे पीछे (-5:00)",
+          "en": "-5 hours"
+        },
+        {
+          "hi": "5 घंटे 30 मिनट आगे (+5:30)",
+          "en": "+5 hours 30 minutes"
+        },
+        {
+          "hi": "6 घंटे आगे (+6:00)",
+          "en": "+6 hours"
+        },
+        {
+          "hi": "4 घंटे 30 मिनट आगे (+4:30)",
+          "en": "+4 hours 30 minutes"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत की मानक देशांतर रेखा (82½° E) कितने भारतीय राज्यों से गुजरती है?",
+        "en": "Through how many Indian states does the 82½° E longitude pass?"
+      },
+      "o": [
+        {
+          "hi": "6 राज्य",
+          "en": "6 states"
+        },
+        {
+          "hi": "7 राज्य",
+          "en": "7 states"
+        },
+        {
+          "hi": "5 राज्य (UP, MP, छत्तीसगढ़, ओडिशा, AP)",
+          "en": "5 states"
+        },
+        {
+          "hi": "8 राज्य",
+          "en": "8 states"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कर्क रेखा भारत के कितने राज्यों से होकर गुजरती है?",
+        "en": "Through how many Indian states does the Tropic of Cancer pass?"
+      },
+      "o": [
+        {
+          "hi": "7 राज्य",
+          "en": "7 States"
+        },
+        {
+          "hi": "9 राज्य",
+          "en": "9 States"
+        },
+        {
+          "hi": "6 राज्य",
+          "en": "6 States"
+        },
+        {
+          "hi": "8 राज्य",
+          "en": "8 States"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कर्क रेखा और भारतीय मानक समय रेखा एक दूसरे को किस राज्य में काटती हैं?",
+        "en": "In which state do Tropic of Cancer and IST longitude intersect?"
+      },
+      "o": [
+        {
+          "hi": "छत्तीसगढ़ (कोरिया/सूरजपुर जिला)",
+          "en": "Chhattisgarh (Koriya/Surajpur)"
+        },
+        {
+          "hi": "मध्य प्रदेश",
+          "en": "Madhya Pradesh"
+        },
+        {
+          "hi": "झारखंड",
+          "en": "Jharkhand"
+        },
+        {
+          "hi": "ओडिशा",
+          "en": "Odisha"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानचित्र पर जल निकायों (समुद्र, झील, नदी) को किस रंग से दर्शाया जाता है?",
+        "en": "Which color is traditionally used on maps to represent water bodies?"
+      },
+      "o": [
+        {
+          "hi": "हरा रंग (Green)",
+          "en": "Green"
+        },
+        {
+          "hi": "नीला रंग (Blue)",
+          "en": "Blue"
+        },
+        {
+          "hi": "भूरा रंग (Brown)",
+          "en": "Brown"
+        },
+        {
+          "hi": "पीला रंग (Yellow)",
+          "en": "Yellow"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

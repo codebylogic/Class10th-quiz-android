@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - खेल-कूद (Sports)",
+  "subtitle": "कुछ प्रमुख खेल एवं उससे संबंधित जानकारी",
+  "description": "कुछ प्रमुख खेल एवं उससे संबंधित जानकारी पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "क्रिकेट की पिच (Pitch) की कुल लंबाई कितनी होती है?",
+        "en": "What is the standard length of a cricket pitch?"
+      },
+      "o": [
+        {
+          "hi": "22 गज (20.12 मीटर)",
+          "en": "22 Yards (20.12 meters)"
+        },
+        {
+          "hi": "20 गज (18.28 मीटर)",
+          "en": "20 Yards (18.28 meters)"
+        },
+        {
+          "hi": "24 गज (21.94 मीटर)",
+          "en": "24 Yards (21.94 meters)"
+        },
+        {
+          "hi": "21 गज (19.20 मीटर)",
+          "en": "21 Yards (19.20 meters)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्रिकेट की गेंद का मानक भार (Weight) कितना होना चाहिए?",
+        "en": "What is the standard weight of a cricket ball?"
+      },
+      "o": [
+        {
+          "hi": "140 से 150 ग्राम",
+          "en": "140 to 150 grams"
+        },
+        {
+          "hi": "155.9 से 163 ग्राम (5.5 से 5.75 औंस)",
+          "en": "155.9 to 163 grams (5.5 to 5.75 oz)"
+        },
+        {
+          "hi": "165 से 175 ग्राम",
+          "en": "165 to 175 grams"
+        },
+        {
+          "hi": "180 से 190 ग्राम",
+          "en": "180 to 190 grams"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्रिकेट के बल्ले (Bat) की अधिकतम अनुमेय लंबाई कितनी होती है?",
+        "en": "What is the maximum permissible length of a cricket bat?"
+      },
+      "o": [
+        {
+          "hi": "36 इंच (91.4 सेमी)",
+          "en": "36 inches (91.4 cm)"
+        },
+        {
+          "hi": "40 इंच (101.6 सेमी)",
+          "en": "40 inches (101.6 cm)"
+        },
+        {
+          "hi": "38 इंच (96.5 सेमी)",
+          "en": "38 inches (96.5 cm)"
+        },
+        {
+          "hi": "34 इंच (86.3 सेमी)",
+          "en": "34 inches (86.3 cm)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "क्रिकेट के स्टंप्स (Stumps) की जमीन से कुल ऊंचाई कितनी होती है?",
+        "en": "What is the height of cricket stumps above the ground?"
+      },
+      "o": [
+        {
+          "hi": "26 इंच (66.0 सेमी)",
+          "en": "26 inches (66.0 cm)"
+        },
+        {
+          "hi": "30 इंच (76.2 सेमी)",
+          "en": "30 inches (76.2 cm)"
+        },
+        {
+          "hi": "32 इंच (81.3 सेमी)",
+          "en": "32 inches (81.3 cm)"
+        },
+        {
+          "hi": "28 इंच (71.1 सेमी)",
+          "en": "28 inches (71.1 cm)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अंतरराष्ट्रीय टेस्ट क्रिकेट का पहला मैच 1877 में किन दो देशों के बीच खेला गया था?",
+        "en": "Between which two countries was the first official Test match played in 1877?"
+      },
+      "o": [
+        {
+          "hi": "ऑस्ट्रेलिया और इंग्लैंड (मेलबर्न में)",
+          "en": "Australia and England (at Melbourne)"
+        },
+        {
+          "hi": "इंग्लैंड और दक्षिण अफ्रीका",
+          "en": "England and South Africa"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया और वेस्टइंडीज",
+          "en": "Australia and West Indies"
+        },
+        {
+          "hi": "इंग्लैंड और भारत",
+          "en": "England and India"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पहला एकदिवसीय अंतरराष्ट्रीय (ODI) क्रिकेट मैच 1971 में कहाँ खेला गया था?",
+        "en": "Where was the first One Day International (ODI) cricket match played in 1971?"
+      },
+      "o": [
+        {
+          "hi": "लॉर्ड्स (लंदन)",
+          "en": "Lord's (London)"
+        },
+        {
+          "hi": "मेलबर्न (ऑस्ट्रेलिया बनाम इंग्लैंड)",
+          "en": "Melbourne (Australia vs England)"
+        },
+        {
+          "hi": "सिडनी (ऑस्ट्रेलिया)",
+          "en": "Sydney (Australia)"
+        },
+        {
+          "hi": "ईडन गार्डन्स (कोलकाता)",
+          "en": "Eden Gardens (Kolkata)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पहला क्रिकेट विश्व कप 1975 (प्रूडेंशियल कप) किस देश ने जीता था?",
+        "en": "Which country won the first Cricket World Cup in 1975 (Prudential Cup)?"
+      },
+      "o": [
+        {
+          "hi": "ऑस्ट्रेलिया",
+          "en": "Australia"
+        },
+        {
+          "hi": "इंग्लैंड",
+          "en": "England"
+        },
+        {
+          "hi": "वेस्टइंडीज (ऑस्ट्रेलिया को हराकर)",
+          "en": "West Indies (defeated Australia)"
+        },
+        {
+          "hi": "भारत",
+          "en": "India"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'गुगली', 'चाइनामैन' और 'यॉर्कर' शब्द किस खेल से संबंधित हैं?",
+        "en": "The terms 'Googly', 'Chinaman', and 'Yorker' are related to which sport?"
+      },
+      "o": [
+        {
+          "hi": "हॉकी (Hockey)",
+          "en": "Hockey"
+        },
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "लॉन टेनिस (Lawn Tennis)",
+          "en": "Lawn Tennis"
+        },
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "फुटबॉल मैच की सामान्य समयावधि कितनी होती है?",
+        "en": "What is the standard regulation duration of a football match?"
+      },
+      "o": [
+        {
+          "hi": "90 मिनट (45-45 मिनट के दो हाफ)",
+          "en": "90 minutes (Two halves of 45 minutes)"
+        },
+        {
+          "hi": "80 मिनट (40-40 मिनट के दो हाफ)",
+          "en": "80 minutes"
+        },
+        {
+          "hi": "100 मिनट (50-50 मिनट के दो हाफ)",
+          "en": "100 minutes"
+        },
+        {
+          "hi": "60 मिनट (15-15 मिनट के चार क्वार्टर)",
+          "en": "60 minutes"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फुटबॉल में गोल पोस्ट की चौड़ाई और ऊंचाई क्रमशः कितनी होती है?",
+        "en": "What are the width and height of a football goalpost respectively?"
+      },
+      "o": [
+        {
+          "hi": "चौड़ाई 20 फीट और ऊंचाई 6 फीट",
+          "en": "Width 20 ft and Height 6 ft"
+        },
+        {
+          "hi": "चौड़ाई 24 फीट (7.32 मी) और ऊंचाई 8 फीट (2.44 मी)",
+          "en": "Width 24 ft (7.32 m) and Height 8 ft (2.44 m)"
+        },
+        {
+          "hi": "चौड़ाई 28 फीट और ऊंचाई 10 फीट",
+          "en": "Width 28 ft and Height 10 ft"
+        },
+        {
+          "hi": "चौड़ाई 22 फीट और ऊंचाई 7 फीट",
+          "en": "Width 22 ft and Height 7 ft"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अंतरराष्ट्रीय फुटबॉल महासंघ (FIFA) की स्थापना 1904 में कहाँ हुई थी?",
+        "en": "Where was FIFA founded in 1904?"
+      },
+      "o": [
+        {
+          "hi": "लंदन (ब्रिटेन)",
+          "en": "London (UK)"
+        },
+        {
+          "hi": "बर्लिन (जर्मनी)",
+          "en": "Berlin (Germany)"
+        },
+        {
+          "hi": "पेरिस (फ्रांस) में (वर्तमान HQ: ज्यूरिख)",
+          "en": "Paris (France) (Current HQ: Zurich)"
+        },
+        {
+          "hi": "रोम (इटली)",
+          "en": "Rome (Italy)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पहला फुटबॉल विश्व कप 1930 में किस देश में आयोजित हुआ और किसने जीता?",
+        "en": "In which country was the first FIFA World Cup held in 1930 and who won it?"
+      },
+      "o": [
+        {
+          "hi": "ब्राजील में आयोजित (ब्राजील ने जीता)",
+          "en": "Held in Brazil (Won by Brazil)"
+        },
+        {
+          "hi": "अर्जेंटीना में आयोजित (अर्जेंटीना ने जीता)",
+          "en": "Held in Argentina (Won by Argentina)"
+        },
+        {
+          "hi": "इटली में आयोजित (इटली ने जीता)",
+          "en": "Held in Italy (Won by Italy)"
+        },
+        {
+          "hi": "उरुग्वे में आयोजित (उरुग्वे ने जीता)",
+          "en": "Held in Uruguay (Won by Uruguay)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "फुटबॉल विश्व कप का सर्वाधिक बार (5 बार) खिताब जीतने का रिकॉर्ड किस देश के नाम है?",
+        "en": "Which country holds the record for winning the FIFA World Cup most times (5 times)?"
+      },
+      "o": [
+        {
+          "hi": "ब्राजील (Brazil)",
+          "en": "Brazil"
+        },
+        {
+          "hi": "जर्मनी (Germany)",
+          "en": "Germany"
+        },
+        {
+          "hi": "इटली (Italy)",
+          "en": "Italy"
+        },
+        {
+          "hi": "अर्जेंटीना (Argentina)",
+          "en": "Argentina"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'पेनल्टी किक', 'कॉर्नर किक', 'ऑफसाइड' और 'ड्रिबल' शब्द किस खेल से संबंधित हैं?",
+        "en": "The terms 'Penalty Kick', 'Corner Kick', 'Offside', and 'Dribble' belong to:"
+      },
+      "o": [
+        {
+          "hi": "बास्केटबॉल (Basketball)",
+          "en": "Basketball"
+        },
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "वॉलीबॉल (Volleyball)",
+          "en": "Volleyball"
+        },
+        {
+          "hi": "हैंडबॉल (Handball)",
+          "en": "Handball"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अंतरराष्ट्रीय हॉकी महासंघ (FIH) के नए नियमों के अनुसार फील्ड हॉकी मैच की अवधि कितनी होती है?",
+        "en": "According to current FIH rules, what is the regulation duration of a field hockey match?"
+      },
+      "o": [
+        {
+          "hi": "70 मिनट (35-35 मिनट के दो हाफ)",
+          "en": "70 minutes (Two halves of 35 mins)"
+        },
+        {
+          "hi": "80 मिनट (20-20 मिनट के 4 क्वार्टर)",
+          "en": "80 minutes"
+        },
+        {
+          "hi": "60 मिनट (15-15 मिनट के 4 क्वार्टर)",
+          "en": "60 minutes (4 quarters of 15 minutes)"
+        },
+        {
+          "hi": "50 मिनट (25-25 मिनट के दो हाफ)",
+          "en": "50 minutes"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "फील्ड हॉकी के मैदान (Field) की लंबाई और चौड़ाई क्रमशः कितनी होती है?",
+        "en": "What are the standard length and width of a field hockey ground?"
+      },
+      "o": [
+        {
+          "hi": "110 गज x 70 गज",
+          "en": "110 Yards x 70 Yards"
+        },
+        {
+          "hi": "90 गज x 50 गज",
+          "en": "90 Yards x 50 Yards"
+        },
+        {
+          "hi": "120 गज x 80 गज",
+          "en": "120 Yards x 80 Yards"
+        },
+        {
+          "hi": "100 गज (91.4 मी) x 60 गज (55 मी)",
+          "en": "100 Yards (91.4 m) x 60 Yards (55 m)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हॉकी में 'बुली' (Bully), 'स्कूप' (Scoop) और 'पेनल्टी कॉर्नर' (Penalty Corner) शब्द किससे जुड़े हैं?",
+        "en": "The terms 'Bully', 'Scoop', and 'Penalty Corner' are associated with which game?"
+      },
+      "o": [
+        {
+          "hi": "फील्ड हॉकी (Field Hockey)",
+          "en": "Field Hockey"
+        },
+        {
+          "hi": "आइस हॉकी (Ice Hockey)",
+          "en": "Ice Hockey"
+        },
+        {
+          "hi": "पोलो (Polo)",
+          "en": "Polo"
+        },
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हॉकी में 'हरा कार्ड' (Green Card) दिखाए जाने पर खिलाड़ी को कितने समय के लिए निलंबित किया जाता है?",
+        "en": "In field hockey, for how long is a player suspended upon being shown a Green Card?"
+      },
+      "o": [
+        {
+          "hi": "5 मिनट के लिए",
+          "en": "For 5 Minutes"
+        },
+        {
+          "hi": "2 मिनट के लिए (2 Minutes)",
+          "en": "For 2 Minutes"
+        },
+        {
+          "hi": "10 मिनट के लिए",
+          "en": "For 10 Minutes"
+        },
+        {
+          "hi": "पूरे मैच के लिए",
+          "en": "For the entire match"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हॉकी में 'पीला कार्ड' (Yellow Card) दिखाए जाने पर खिलाड़ी को कम से कम कितने समय का निलंबन होता है?",
+        "en": "In hockey, a Yellow Card results in a temporary suspension of at least:"
+      },
+      "o": [
+        {
+          "hi": "2 मिनट",
+          "en": "2 minutes"
+        },
+        {
+          "hi": "15 मिनट",
+          "en": "15 minutes"
+        },
+        {
+          "hi": "कम से कम 5 मिनट (5 से 10 मिनट)",
+          "en": "At least 5 minutes (5 to 10 mins)"
+        },
+        {
+          "hi": "पूरे मैच से बाहर",
+          "en": "Expulsion from match"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वर्ष का पहला ग्रैंड स्लैम टेनिस टूर्नामेंट कौन-सा होता है जो जनवरी में हार्ड कोर्ट पर खेला जाता है?",
+        "en": "Which is the first Grand Slam tennis tournament of the year, played in January on hard courts?"
+      },
+      "o": [
+        {
+          "hi": "फ्रेंच ओपन (French Open)",
+          "en": "French Open"
+        },
+        {
+          "hi": "विंबलडन (Wimbledon)",
+          "en": "Wimbledon"
+        },
+        {
+          "hi": "यूएस ओपन (US Open)",
+          "en": "US Open"
+        },
+        {
+          "hi": "ऑस्ट्रेलियन ओपन (Australian Open)",
+          "en": "Australian Open"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "क्ले कोर्ट (लाल बजरी) पर खेला जाने वाला एकमात्र ग्रैंड स्लैम टूर्नामेंट कौन-सा है?",
+        "en": "Which is the only Grand Slam tennis tournament played on clay courts (Roland Garros)?"
+      },
+      "o": [
+        {
+          "hi": "फ्रेंच ओपन (French Open)",
+          "en": "French Open"
+        },
+        {
+          "hi": "विंबलडन (Wimbledon)",
+          "en": "Wimbledon"
+        },
+        {
+          "hi": "ऑस्ट्रेलियन ओपन (Australian Open)",
+          "en": "Australian Open"
+        },
+        {
+          "hi": "यूएस ओपन (US Open)",
+          "en": "US Open"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे पुराना (1877 में प्रारंभ) तथा घास के कोर्ट (Grass Court) पर खेला जाने वाला ग्रैंड स्लैम कौन-सा है?",
+        "en": "Which is the oldest Grand Slam tournament (established 1877), played on grass courts?"
+      },
+      "o": [
+        {
+          "hi": "यूएस ओपन",
+          "en": "US Open"
+        },
+        {
+          "hi": "विंबलडन चैंपियनशिप (Wimbledon)",
+          "en": "Wimbledon Championship"
+        },
+        {
+          "hi": "फ्रेंच ओपन",
+          "en": "French Open"
+        },
+        {
+          "hi": "ऑस्ट्रेलियन ओपन",
+          "en": "Australian Open"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "टेनिस में 'ड्यूस' (Deuce) स्कोर का क्या अर्थ होता है?",
+        "en": "In tennis scoring, what does the score 'Deuce' mean?"
+      },
+      "o": [
+        {
+          "hi": "दोनों खिलाड़ियों का 30-30 पर होना",
+          "en": "Both tied at 30-30"
+        },
+        {
+          "hi": "मैच का समाप्त हो जाना",
+          "en": "End of the match"
+        },
+        {
+          "hi": "दोनों खिलाड़ियों का 40-40 की बराबरी पर होना",
+          "en": "Both players tied at 40-40"
+        },
+        {
+          "hi": "सर्विस का रद्द होना",
+          "en": "Cancellation of serve"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "टेनिस में शून्य (0) अंक को किस शब्द से पुकारा जाता है?",
+        "en": "In tennis scoring terminology, what is a score of zero (0) called?"
+      },
+      "o": [
+        {
+          "hi": "निल (Nil)",
+          "en": "Nil"
+        },
+        {
+          "hi": "डिफ़ॉल्ट (Default)",
+          "en": "Default"
+        },
+        {
+          "hi": "जीरो (Zero)",
+          "en": "Zero"
+        },
+        {
+          "hi": "लव (Love)",
+          "en": "Love"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एक ही कैलेंडर वर्ष में चारों ग्रैंड स्लैम और ओलम्पिक स्वर्ण पदक जीतने को क्या कहा जाता है?",
+        "en": "Winning all four Grand Slams and Olympic Gold in the same calendar year is termed as:"
+      },
+      "o": [
+        {
+          "hi": "गोल्डन स्लैम (Golden Slam)",
+          "en": "Golden Slam"
+        },
+        {
+          "hi": "करियर स्लैम (Career Slam)",
+          "en": "Career Slam"
+        },
+        {
+          "hi": "सुपर स्लैम (Super Slam)",
+          "en": "Super Slam"
+        },
+        {
+          "hi": "मास्टर स्लैम (Master Slam)",
+          "en": "Master Slam"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "टेनिस इतिहास में एक ही वर्ष में 'गोल्डन स्लैम' (1988) जीतने वाली एकमात्र खिलाड़ी कौन हैं?",
+        "en": "Who is the only tennis player in history to achieve the Golden Slam in a single year (1988)?"
+      },
+      "o": [
+        {
+          "hi": "सेरेना विलियम्स (USA)",
+          "en": "Serena Williams (USA)"
+        },
+        {
+          "hi": "स्टेफी ग्राफ (Steffi Graf - जर्मनी)",
+          "en": "Steffi Graf (Germany)"
+        },
+        {
+          "hi": "मार्टिना नवरातिलोवा",
+          "en": "Martina Navratilova"
+        },
+        {
+          "hi": "क्रिस एवर्ट (USA)",
+          "en": "Chris Evert (USA)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बैडमिंटन कोर्ट के मध्य में नेट (Net) की जमीन से ऊंचाई कितनी होती है?",
+        "en": "What is the standard height of the badminton net at the center of the court?"
+      },
+      "o": [
+        {
+          "hi": "4.5 फीट (1.37 मीटर)",
+          "en": "4.5 feet (1.37 meters)"
+        },
+        {
+          "hi": "5.5 फीट (1.67 मीटर)",
+          "en": "5.5 feet (1.67 meters)"
+        },
+        {
+          "hi": "5 फीट (1.524 मीटर)",
+          "en": "5 feet (1.524 meters)"
+        },
+        {
+          "hi": "6 फीट (1.82 मीटर)",
+          "en": "6 feet (1.82 meters)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बैडमिंटन की शटलकॉक (Shuttlecock) में कुल कितने पंख (Feathers) होते हैं?",
+        "en": "How many feathers are traditionally fixed in a standard badminton shuttlecock?"
+      },
+      "o": [
+        {
+          "hi": "14 पंख",
+          "en": "14 Feathers"
+        },
+        {
+          "hi": "18 पंख",
+          "en": "18 Feathers"
+        },
+        {
+          "hi": "12 पंख",
+          "en": "12 Feathers"
+        },
+        {
+          "hi": "16 पंख (16 Feathers)",
+          "en": "16 Feathers"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बैडमिंटन शटलकॉक का मानक वजन कितना होना चाहिए?",
+        "en": "What is the standard weight of a tournament badminton shuttlecock?"
+      },
+      "o": [
+        {
+          "hi": "4.74 से 5.50 ग्राम",
+          "en": "4.74 to 5.50 grams"
+        },
+        {
+          "hi": "3.50 से 4.20 ग्राम",
+          "en": "3.50 to 4.20 grams"
+        },
+        {
+          "hi": "5.80 से 6.50 ग्राम",
+          "en": "5.80 to 6.50 grams"
+        },
+        {
+          "hi": "2.50 से 3.20 ग्राम",
+          "en": "2.50 to 3.20 grams"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "टेबल टेनिस (Table Tennis) को अन्य किस लोकप्रिय नाम से भी जाना जाता है?",
+        "en": "By what other popular name is Table Tennis also known?"
+      },
+      "o": [
+        {
+          "hi": "शफलबोर्ड (Shuffleboard)",
+          "en": "Shuffleboard"
+        },
+        {
+          "hi": "पिंग-पोंग (Ping-Pong)",
+          "en": "Ping-Pong"
+        },
+        {
+          "hi": "पैडल टेनिस (Paddle Tennis)",
+          "en": "Paddle Tennis"
+        },
+        {
+          "hi": "रिंग टेनिस (Ring Tennis)",
+          "en": "Ring Tennis"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "टेबल टेनिस की गेंद का व्यास (Diameter) और वजन क्रमशः कितना होता है?",
+        "en": "What are the diameter and weight of a standard table tennis ball?"
+      },
+      "o": [
+        {
+          "hi": "38 मिमी और 2.5 ग्राम",
+          "en": "38 mm and 2.5 grams"
+        },
+        {
+          "hi": "42 मिमी और 3.0 ग्राम",
+          "en": "42 mm and 3.0 grams"
+        },
+        {
+          "hi": "40 मिमी और 2.7 ग्राम",
+          "en": "40 mm and 2.7 grams"
+        },
+        {
+          "hi": "45 मिमी और 3.2 ग्राम",
+          "en": "45 mm and 3.2 grams"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बास्केटबॉल में रिंग (Basket) की जमीन से ऊंचाई कितनी होती है?",
+        "en": "What is the official height of the basket rim above the floor in basketball?"
+      },
+      "o": [
+        {
+          "hi": "9 फीट (2.74 मीटर)",
+          "en": "9 feet (2.74 meters)"
+        },
+        {
+          "hi": "11 फीट (3.35 मीटर)",
+          "en": "11 feet (3.35 meters)"
+        },
+        {
+          "hi": "8.5 फीट (2.59 मीटर)",
+          "en": "8.5 feet (2.59 meters)"
+        },
+        {
+          "hi": "10 फीट (3.05 मीटर)",
+          "en": "10 feet (3.05 meters)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'फ्री थ्रो' (Free Throw), 'डंक' (Dunk) और 'ले-अप' (Layup) शब्द किस खेल से संबंधित हैं?",
+        "en": "The terms 'Free Throw', 'Dunk', and 'Layup' are related to:"
+      },
+      "o": [
+        {
+          "hi": "बास्केटबॉल (Basketball)",
+          "en": "Basketball"
+        },
+        {
+          "hi": "वॉलीबॉल (Volleyball)",
+          "en": "Volleyball"
+        },
+        {
+          "hi": "हैंडबॉल (Handball)",
+          "en": "Handball"
+        },
+        {
+          "hi": "वाटर पोलो (Water Polo)",
+          "en": "Water Polo"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वॉलीबॉल में पुरुषों के लिए नेट की ऊंचाई जमीन से कितनी होती है?",
+        "en": "What is the official net height for men in volleyball?"
+      },
+      "o": [
+        {
+          "hi": "2.24 मीटर",
+          "en": "2.24 meters"
+        },
+        {
+          "hi": "2.43 मीटर (7 फीट 11.6 इंच)",
+          "en": "2.43 meters (7 ft 11.6 in)"
+        },
+        {
+          "hi": "2.50 मीटर",
+          "en": "2.50 meters"
+        },
+        {
+          "hi": "2.35 मीटर",
+          "en": "2.35 meters"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वॉलीबॉल में रक्षात्मक विशेषज्ञ खिलाड़ी जो केवल पिछली पंक्ति में खेलता है, क्या कहलाता है?",
+        "en": "In volleyball, what is the specialized defensive player who wears a different colored jersey called?"
+      },
+      "o": [
+        {
+          "hi": "सेटर (Setter)",
+          "en": "Setter"
+        },
+        {
+          "hi": "स्पाइकर (Spiker)",
+          "en": "Spiker"
+        },
+        {
+          "hi": "लिबेरो (Libero)",
+          "en": "Libero"
+        },
+        {
+          "hi": "ब्लॉकर (Blocker)",
+          "en": "Blocker"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मुक्केबाजी (Boxing) में प्रतिद्वंद्वी को जमीन पर गिराने और 10 तक गिनती पूरी होने को क्या कहते हैं?",
+        "en": "In boxing, knocking down an opponent where they cannot rise before a count of 10 is called:"
+      },
+      "o": [
+        {
+          "hi": "क्लिंच (Clinch)",
+          "en": "Clinch"
+        },
+        {
+          "hi": "जैब (Jab)",
+          "en": "Jab"
+        },
+        {
+          "hi": "हुक (Hook)",
+          "en": "Hook"
+        },
+        {
+          "hi": "नॉक-आउट (Knock-out / KO)",
+          "en": "Knock-out (KO)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गोल्फ में पार (Par) से एक स्ट्रोक कम में गेंद को होल में डालने को क्या कहा जाता है?",
+        "en": "In golf, what is completing a hole in one stroke under par called?"
+      },
+      "o": [
+        {
+          "hi": "बर्डी (Birdie)",
+          "en": "Birdie"
+        },
+        {
+          "hi": "ईगल (Eagle)",
+          "en": "Eagle"
+        },
+        {
+          "hi": "बोगी (Bogey)",
+          "en": "Bogey"
+        },
+        {
+          "hi": "अल्बाट्रॉस (Albatross)",
+          "en": "Albatross"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गोल्फ में पार (Par) से दो स्ट्रोक कम में होल पूरा करने को क्या कहा जाता है?",
+        "en": "In golf, what is completing a hole in two strokes under par called?"
+      },
+      "o": [
+        {
+          "hi": "बर्डी (Birdie)",
+          "en": "Birdie"
+        },
+        {
+          "hi": "ईगल (Eagle)",
+          "en": "Eagle"
+        },
+        {
+          "hi": "बोगी (Bogey)",
+          "en": "Bogey"
+        },
+        {
+          "hi": "ऐस (Ace)",
+          "en": "Ace"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गोल्फ में खिलाड़ी के क्लब और बैग ले जाने वाले सहायक को क्या कहा जाता है?",
+        "en": "In golf, what is the assistant who carries a player's bag and clubs called?"
+      },
+      "o": [
+        {
+          "hi": "टी (Tee)",
+          "en": "Tee"
+        },
+        {
+          "hi": "बंकर (Bunker)",
+          "en": "Bunker"
+        },
+        {
+          "hi": "कैडी (Caddie)",
+          "en": "Caddie"
+        },
+        {
+          "hi": "पुटर (Putter)",
+          "en": "Putter"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शतरंज (Chess) के बोर्ड पर कुल कितने वर्ग (Squares / खाने) होते हैं?",
+        "en": "How many total squares are there on a standard chessboard?"
+      },
+      "o": [
+        {
+          "hi": "100 वर्ग",
+          "en": "100 Squares"
+        },
+        {
+          "hi": "81 वर्ग",
+          "en": "81 Squares"
+        },
+        {
+          "hi": "49 वर्ग",
+          "en": "49 Squares"
+        },
+        {
+          "hi": "64 वर्ग (32 सफेद और 32 काले)",
+          "en": "64 Squares (32 White and 32 Black)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शतरंज के खेल में 'गैम्बिट' (Gambit), 'कैसलिंग' (Castling) और 'चेकमेट' (Checkmate) शब्द किससे जुड़े हैं?",
+        "en": "The terms 'Gambit', 'Castling', and 'Checkmate' are associated with:"
+      },
+      "o": [
+        {
+          "hi": "शतरंज (Chess)",
+          "en": "Chess"
+        },
+        {
+          "hi": "बिलियर्ड्स (Billiards)",
+          "en": "Billiards"
+        },
+        {
+          "hi": "ब्रिज (Bridge)",
+          "en": "Bridge"
+        },
+        {
+          "hi": "कैरेम (Carrom)",
+          "en": "Carrom"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बिलियर्ड्स और स्नूकर में टेबल पर कुल कितनी गेंदें (Balls) प्रयोग की जाती हैं (स्नूकर में)?",
+        "en": "How many total balls are used on the table in a game of Snooker?"
+      },
+      "o": [
+        {
+          "hi": "16 गेंदें",
+          "en": "16 Balls"
+        },
+        {
+          "hi": "22 गेंदें (15 लाल, 6 रंगीन, 1 सफेद क्यू बॉल)",
+          "en": "22 Balls (15 Red, 6 Coloured, 1 White Cue Ball)"
+        },
+        {
+          "hi": "20 गेंदें",
+          "en": "20 Balls"
+        },
+        {
+          "hi": "24 गेंदें",
+          "en": "24 Balls"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्नूकर में अधिकतम संभव ब्रेक (Maximum Break) कितने अंकों का होता है?",
+        "en": "What is the maximum standard break score possible in Snooker without fouls?"
+      },
+      "o": [
+        {
+          "hi": "155 अंक",
+          "en": "155 Points"
+        },
+        {
+          "hi": "140 अंक",
+          "en": "140 Points"
+        },
+        {
+          "hi": "147 अंक",
+          "en": "147 Points"
+        },
+        {
+          "hi": "150 अंक",
+          "en": "150 Points"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मैराथन दौड़ (Marathon Race) की आधिकारिक मानक दूरी कितनी होती है?",
+        "en": "What is the official standard distance of a Marathon Race?"
+      },
+      "o": [
+        {
+          "hi": "25 मील (40.23 किमी)",
+          "en": "25 Miles (40.23 km)"
+        },
+        {
+          "hi": "28 मील (45.06 किमी)",
+          "en": "28 Miles (45.06 km)"
+        },
+        {
+          "hi": "26 मील (41.84 किमी)",
+          "en": "26 Miles (41.84 km)"
+        },
+        {
+          "hi": "26 मील 385 गज (42.195 किमी)",
+          "en": "26 Miles 385 Yards (42.195 km)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हाफ मैराथन (Half Marathon) की मानक दूरी कितनी होती है?",
+        "en": "What is the standard distance of a Half Marathon?"
+      },
+      "o": [
+        {
+          "hi": "21.0975 किमी (13 मील 192 गज)",
+          "en": "21.0975 km (13 miles 192 yards)"
+        },
+        {
+          "hi": "20.00 किमी",
+          "en": "20.00 km"
+        },
+        {
+          "hi": "22.50 किमी",
+          "en": "22.50 km"
+        },
+        {
+          "hi": "25.00 किमी",
+          "en": "25.00 km"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तैराकी (Swimming) में 50 मीटर लंबे तरणताल को क्या कहा जाता है?",
+        "en": "What is a standard 50-meter swimming pool called in competitive swimming?"
+      },
+      "o": [
+        {
+          "hi": "शॉर्ट कोर्स पूल (Short Course)",
+          "en": "Short Course Pool"
+        },
+        {
+          "hi": "ओलम्पिक साइज पूल (Olympic Size Pool)",
+          "en": "Olympic Size Pool"
+        },
+        {
+          "hi": "क्लब पूल (Club Pool)",
+          "en": "Club Pool"
+        },
+        {
+          "hi": "मास्टर्स पूल (Masters Pool)",
+          "en": "Masters Pool"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'बटरफ्लाई स्ट्रोक' (Butterfly Stroke) और 'ब्रेस्ट स्ट्रोक' किस खेल से संबंधित हैं?",
+        "en": "The terms 'Butterfly Stroke' and 'Breaststroke' belong to which sport?"
+      },
+      "o": [
+        {
+          "hi": "नौकायन (Rowing)",
+          "en": "Rowing"
+        },
+        {
+          "hi": "डाइविंग (Diving)",
+          "en": "Diving"
+        },
+        {
+          "hi": "तैराकी (Swimming)",
+          "en": "Swimming"
+        },
+        {
+          "hi": "वाटर पोलो (Water Polo)",
+          "en": "Water Polo"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जूडो और कराटे की प्रतियोगिता जिस चटाई/मैट पर होती है, उसे क्या कहते हैं?",
+        "en": "What is the traditional mat on which Judo and Karate competitions take place called?"
+      },
+      "o": [
+        {
+          "hi": "दोजो (Dojo)",
+          "en": "Dojo"
+        },
+        {
+          "hi": "रिंग (Ring)",
+          "en": "Ring"
+        },
+        {
+          "hi": "एरेना (Arena)",
+          "en": "Arena"
+        },
+        {
+          "hi": "तातामी (Tatami)",
+          "en": "Tatami"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पोलो (Polo) के खेल में मैदान (Field) का आकार कितना होता है (सबसे बड़ा खेल मैदान)?",
+        "en": "What is the size of a standard Polo field (the largest playing field in sports)?"
+      },
+      "o": [
+        {
+          "hi": "300 गज x 160 गज (274 मी x 146 मी)",
+          "en": "300 Yards x 160 Yards"
+        },
+        {
+          "hi": "200 गज x 100 गज",
+          "en": "200 Yards x 100 Yards"
+        },
+        {
+          "hi": "250 गज x 120 गज",
+          "en": "250 Yards x 120 Yards"
+        },
+        {
+          "hi": "350 गज x 200 गज",
+          "en": "350 Yards x 200 Yards"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पोलो खेल में 7.5 मिनट की समय अवधि को क्या कहा जाता है?",
+        "en": "In Polo, what is each 7.5-minute period of play called?"
+      },
+      "o": [
+        {
+          "hi": "क्वार्टर (Quarter)",
+          "en": "Quarter"
+        },
+        {
+          "hi": "चुक्कर (Chukker / Chukka)",
+          "en": "Chukker / Chukka"
+        },
+        {
+          "hi": "हाफ (Half)",
+          "en": "Half"
+        },
+        {
+          "hi": "राउंड (Round)",
+          "en": "Round"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

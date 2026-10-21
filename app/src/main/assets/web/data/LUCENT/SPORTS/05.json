@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - खेल-कूद (Sports)",
+  "subtitle": "विभिन्न खेल तथा उनसे सम्बद्ध प्रमुख कप एवं ट्रॉफियाँ",
+  "description": "विभिन्न खेल तथा उनसे सम्बद्ध प्रमुख कप एवं ट्रॉफियाँ पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारत की सबसे पुरानी और प्रमुख प्रथम श्रेणी घरेलू क्रिकेट प्रतियोगिता कौन-सी है?",
+        "en": "Which is India's premier and oldest first-class domestic cricket championship?"
+      },
+      "o": [
+        {
+          "hi": "रणजी ट्रॉफी (Ranji Trophy - प्रारंभ 1934)",
+          "en": "Ranji Trophy (Started 1934)"
+        },
+        {
+          "hi": "दलीप ट्रॉफी (Duleep Trophy)",
+          "en": "Duleep Trophy"
+        },
+        {
+          "hi": "विजय हजारे ट्रॉफी",
+          "en": "Vijay Hazare Trophy"
+        },
+        {
+          "hi": "ईरानी ट्रॉफी (Irani Cup)",
+          "en": "Irani Cup"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रणजी ट्रॉफी चैंपियन और शेष भारत (Rest of India) के बीच कौन-सा कप खेला जाता है?",
+        "en": "Which cup is contested between the Ranji Trophy champion and Rest of India?"
+      },
+      "o": [
+        {
+          "hi": "दलीप ट्रॉफी (Duleep Trophy)",
+          "en": "Duleep Trophy"
+        },
+        {
+          "hi": "ईरानी ट्रॉफी (Irani Cup)",
+          "en": "Irani Cup"
+        },
+        {
+          "hi": "देवधर ट्रॉफी (Deodhar Trophy)",
+          "en": "Deodhar Trophy"
+        },
+        {
+          "hi": "सी.के. नायडू ट्रॉफी",
+          "en": "CK Nayudu Trophy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में अंतर-क्षेत्रीय (Inter-zonal) प्रथम श्रेणी क्रिकेट प्रतियोगिता का क्या नाम है?",
+        "en": "What is the name of India's inter-zonal first-class cricket tournament?"
+      },
+      "o": [
+        {
+          "hi": "विजय हजारे ट्रॉफी",
+          "en": "Vijay Hazare Trophy"
+        },
+        {
+          "hi": "सैयद मुश्ताक अली ट्रॉफी",
+          "en": "Syed Mushtaq Ali Trophy"
+        },
+        {
+          "hi": "दलीप ट्रॉफी (Duleep Trophy)",
+          "en": "Duleep Trophy"
+        },
+        {
+          "hi": "कूच बिहार ट्रॉफी",
+          "en": "Cooch Behar Trophy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत की प्रमुख घरेलू 50-ओवर एकदिवसीय क्रिकेट प्रतियोगिता कौन-सी है?",
+        "en": "Which is India's premier domestic 50-over One Day cricket tournament?"
+      },
+      "o": [
+        {
+          "hi": "सैयद मुश्ताक अली ट्रॉफी",
+          "en": "Syed Mushtaq Ali Trophy"
+        },
+        {
+          "hi": "रणजी ट्रॉफी",
+          "en": "Ranji Trophy"
+        },
+        {
+          "hi": "दलीप ट्रॉफी",
+          "en": "Duleep Trophy"
+        },
+        {
+          "hi": "विजय हजारे ट्रॉफी (Vijay Hazare Trophy)",
+          "en": "Vijay Hazare Trophy"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत की प्रमुख घरेलू टी-20 (T20) क्रिकेट प्रतियोगिता किस नाम से जानी जाती है?",
+        "en": "What is India's premier domestic T20 cricket tournament called?"
+      },
+      "o": [
+        {
+          "hi": "सैयद मुश्ताक अली ट्रॉफी (Syed Mushtaq Ali)",
+          "en": "Syed Mushtaq Ali Trophy"
+        },
+        {
+          "hi": "देवधर ट्रॉफी",
+          "en": "Deodhar Trophy"
+        },
+        {
+          "hi": "विजय हजारे ट्रॉफी",
+          "en": "Vijay Hazare Trophy"
+        },
+        {
+          "hi": "सी.के. नायडू ट्रॉफी",
+          "en": "CK Nayudu Trophy"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इंग्लैंड और ऑस्ट्रेलिया के बीच खेली जाने वाली द्विपक्षीय टेस्ट श्रृंखला को क्या कहते हैं?",
+        "en": "What is the historic bilateral Test cricket series between England and Australia called?"
+      },
+      "o": [
+        {
+          "hi": "बॉर्डर-गावस्कर ट्रॉफी",
+          "en": "Border-Gavaskar Trophy"
+        },
+        {
+          "hi": "एशेज श्रृंखला (The Ashes)",
+          "en": "The Ashes"
+        },
+        {
+          "hi": "विजडन ट्रॉफी",
+          "en": "Wisden Trophy"
+        },
+        {
+          "hi": "ट्रांस-तस्मान ट्रॉफी",
+          "en": "Trans-Tasman Trophy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत और ऑस्ट्रेलिया के बीच खेली जाने वाली प्रतिष्ठित टेस्ट श्रृंखला का क्या नाम है?",
+        "en": "What is the prestigious Test series played between India and Australia named?"
+      },
+      "o": [
+        {
+          "hi": "एशेज ट्रॉफी",
+          "en": "The Ashes"
+        },
+        {
+          "hi": "वारिस कप",
+          "en": "Waris Cup"
+        },
+        {
+          "hi": "बॉर्डर-गावस्कर ट्रॉफी (Border-Gavaskar Trophy)",
+          "en": "Border-Gavaskar Trophy"
+        },
+        {
+          "hi": "गांधी-मंडेला ट्रॉफी",
+          "en": "Gandhi-Mandela Trophy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत और एशिया का सबसे पुराना फुटबॉल टूर्नामेंट कौन-सा है (1888 में शिमला में शुरू)?",
+        "en": "Which is the oldest football tournament in India and Asia (started 1888 in Shimla)?"
+      },
+      "o": [
+        {
+          "hi": "रोवर्स कप (Rovers Cup)",
+          "en": "Rovers Cup"
+        },
+        {
+          "hi": "आईएफए शील्ड (IFA Shield)",
+          "en": "IFA Shield"
+        },
+        {
+          "hi": "संतोष ट्रॉफी (Santosh Trophy)",
+          "en": "Santosh Trophy"
+        },
+        {
+          "hi": "डूरंड कप (Durand Cup)",
+          "en": "Durand Cup"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत की राष्ट्रीय सीनियर पुरुष फुटबॉल चैंपियनशिप का क्या नाम है (1941 में प्रारंभ)?",
+        "en": "What is the name of India's Senior Men's National Football Championship (started 1941)?"
+      },
+      "o": [
+        {
+          "hi": "संतोष ट्रॉफी (Santosh Trophy)",
+          "en": "Santosh Trophy"
+        },
+        {
+          "hi": "डूरंड कप (Durand Cup)",
+          "en": "Durand Cup"
+        },
+        {
+          "hi": "सुब्रतो कप (Subroto Cup)",
+          "en": "Subroto Cup"
+        },
+        {
+          "hi": "फेडरेशन कप (Federation Cup)",
+          "en": "Federation Cup"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में स्कूली स्तर का सबसे प्रतिष्ठित अंतरराष्ट्रीय फुटबॉल टूर्नामेंट कौन-सा है?",
+        "en": "Which is the most prestigious school-level international football tournament in India?"
+      },
+      "o": [
+        {
+          "hi": "डूरंड कप",
+          "en": "Durand Cup"
+        },
+        {
+          "hi": "सुब्रतो कप (Subroto Cup)",
+          "en": "Subroto Cup"
+        },
+        {
+          "hi": "रोवर्स कप",
+          "en": "Rovers Cup"
+        },
+        {
+          "hi": "बी.सी. रॉय ट्रॉफी",
+          "en": "B.C. Roy Trophy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में जूनियर राष्ट्रीय फुटबॉल चैंपियनशिप (Under-19) किस ट्रॉफी के लिए खेली जाती है?",
+        "en": "Under which trophy is India's Junior National Football Championship (U-19) played?"
+      },
+      "o": [
+        {
+          "hi": "संतोष ट्रॉफी",
+          "en": "Santosh Trophy"
+        },
+        {
+          "hi": "सुब्रतो कप",
+          "en": "Subroto Cup"
+        },
+        {
+          "hi": "डॉ. बी.सी. रॉय ट्रॉफी (Dr. B.C. Roy Trophy)",
+          "en": "Dr. B.C. Roy Trophy"
+        },
+        {
+          "hi": "मर्डेका कप",
+          "en": "Merdeka Cup"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कोलकाता में 1893 में शुरू हुआ ऐतिहासिक फुटबॉल टूर्नामेंट कौन-सा है?",
+        "en": "Which historic football tournament was established in Kolkata in 1893?"
+      },
+      "o": [
+        {
+          "hi": "रोवर्स कप (Rovers Cup)",
+          "en": "Rovers Cup"
+        },
+        {
+          "hi": "नेहरू गोल्ड कप",
+          "en": "Nehru Gold Cup"
+        },
+        {
+          "hi": "डूरंड कप",
+          "en": "Durand Cup"
+        },
+        {
+          "hi": "आईएफए शील्ड (IFA Shield)",
+          "en": "IFA Shield"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मलेशिया में प्रतिवर्ष आयोजित होने वाला प्रसिद्ध अंतरराष्ट्रीय फुटबॉल टूर्नामेंट कौन-सा है?",
+        "en": "Which famous international football tournament is held annually in Malaysia?"
+      },
+      "o": [
+        {
+          "hi": "मर्डेका कप (Merdeka Cup)",
+          "en": "Merdeka Cup"
+        },
+        {
+          "hi": "सुल्तान अजलान शाह कप",
+          "en": "Sultan Azlan Shah Cup"
+        },
+        {
+          "hi": "थॉमस कप",
+          "en": "Thomas Cup"
+        },
+        {
+          "hi": "किंग्स कप (थाईलैंड)",
+          "en": "King's Cup"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फीफा विश्व कप की मूल ट्रॉफी का नाम क्या था (1970 तक प्रयुक्त)?",
+        "en": "What was the name of the original FIFA World Cup trophy used until 1970?"
+      },
+      "o": [
+        {
+          "hi": "हेनरी डेलौने ट्रॉफी",
+          "en": "Henri Delaunay Trophy"
+        },
+        {
+          "hi": "जूल्स रिमेट ट्रॉफी (Jules Rimet Trophy)",
+          "en": "Jules Rimet Trophy"
+        },
+        {
+          "hi": "कोपा अमेरिका ट्रॉफी",
+          "en": "Copa America Trophy"
+        },
+        {
+          "hi": "आर्थर ऐश ट्रॉफी",
+          "en": "Arthur Ashe Trophy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दक्षिण अमेरिकी देशों की सर्वोच्च अंतरराष्ट्रीय फुटबॉल चैंपियनशिप कौन-सी है?",
+        "en": "Which is the premier international football championship of South American nations?"
+      },
+      "o": [
+        {
+          "hi": "यूरो कप (Euro Cup)",
+          "en": "Euro Cup"
+        },
+        {
+          "hi": "गोल्ड कप (Gold Cup)",
+          "en": "Gold Cup"
+        },
+        {
+          "hi": "कोपा अमेरिका (Copa America)",
+          "en": "Copa America"
+        },
+        {
+          "hi": "एएफसी एशियन कप",
+          "en": "AFC Asian Cup"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे पुराना हॉकी टूर्नामेंट कौन-सा है (1895 में कोलकाता में प्रारंभ)?",
+        "en": "Which is the oldest hockey tournament in India (started 1895 in Kolkata)?"
+      },
+      "o": [
+        {
+          "hi": "रंगास्वामी कप (Rangaswami Cup)",
+          "en": "Rangaswami Cup"
+        },
+        {
+          "hi": "आगा खां कप (Agha Khan Cup)",
+          "en": "Agha Khan Cup"
+        },
+        {
+          "hi": "ध्यानचंद ट्रॉफी (Dhyan Chand Trophy)",
+          "en": "Dhyan Chand Trophy"
+        },
+        {
+          "hi": "बेटन कप (Beighton Cup)",
+          "en": "Beighton Cup"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत की राष्ट्रीय सीनियर पुरुष हॉकी चैंपियनशिप किस कप के लिए आयोजित होती है?",
+        "en": "Under which cup is India's Senior Men's National Hockey Championship held?"
+      },
+      "o": [
+        {
+          "hi": "रंगास्वामी कप (Rangaswami Cup)",
+          "en": "Rangaswami Cup"
+        },
+        {
+          "hi": "बेटन कप",
+          "en": "Beighton Cup"
+        },
+        {
+          "hi": "सिंधिया गोल्ड कप",
+          "en": "Scindia Gold Cup"
+        },
+        {
+          "hi": "नेहरू ट्रॉफी",
+          "en": "Nehru Trophy"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में राष्ट्रीय महिला हॉकी चैंपियनशिप के लिए कौन-सी ट्रॉफी प्रदान की जाती है?",
+        "en": "Which trophy is awarded for the National Women's Hockey Championship in India?"
+      },
+      "o": [
+        {
+          "hi": "अमृत कौर ट्रॉफी",
+          "en": "Amrit Kaur Trophy"
+        },
+        {
+          "hi": "लेडी रतन टाटा ट्रॉफी (Lady Ratan Tata Trophy)",
+          "en": "Lady Ratan Tata Trophy"
+        },
+        {
+          "hi": "इंदिरा गांधी कप",
+          "en": "Indira Gandhi Cup"
+        },
+        {
+          "hi": "राजरत्न ट्रॉफी",
+          "en": "Rajaratna Trophy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मलेशिया में प्रतिवर्ष आयोजित होने वाला प्रसिद्ध अंतरराष्ट्रीय हॉकी आमंत्रण कप कौन-सा है?",
+        "en": "Which famous international invitational hockey tournament is held annually in Malaysia?"
+      },
+      "o": [
+        {
+          "hi": "मर्डेका कप (Merdeka Cup)",
+          "en": "Merdeka Cup"
+        },
+        {
+          "hi": "आगा खां गोल्ड कप",
+          "en": "Agha Khan Gold Cup"
+        },
+        {
+          "hi": "सुल्तान अजलान शाह कप (Sultan Azlan Shah Cup)",
+          "en": "Sultan Azlan Shah Cup"
+        },
+        {
+          "hi": "एशिया कप हॉकी",
+          "en": "Asia Cup Hockey"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'आगा खां कप' और 'सिंधिया गोल्ड कप' का संबंध किस खेल से है?",
+        "en": "With which sport are the 'Agha Khan Cup' and 'Scindia Gold Cup' associated?"
+      },
+      "o": [
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        },
+        {
+          "hi": "पोलो (Polo)",
+          "en": "Polo"
+        },
+        {
+          "hi": "हॉकी (Hockey)",
+          "en": "Hockey"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पुरुषों की विश्व टीम बैडमिंटन चैंपियनशिप को किस नाम से जाना जाता है?",
+        "en": "What is the Men's World Team Badminton Championship officially called?"
+      },
+      "o": [
+        {
+          "hi": "थॉमस कप (Thomas Cup)",
+          "en": "Thomas Cup"
+        },
+        {
+          "hi": "उबेर कप (Uber Cup)",
+          "en": "Uber Cup"
+        },
+        {
+          "hi": "सुदीरमन कप (Sudirman Cup)",
+          "en": "Sudirman Cup"
+        },
+        {
+          "hi": "योनेक्स कप (Yonex Cup)",
+          "en": "Yonex Cup"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय पुरुष बैडमिंटन टीम ने 2022 में पहली बार इतिहास रचते हुए कौन-सा कप जीता था?",
+        "en": "Which championship did the Indian men's badminton team win for the first time in history in 2022?"
+      },
+      "o": [
+        {
+          "hi": "सुदीरमन कप",
+          "en": "Sudirman Cup"
+        },
+        {
+          "hi": "थॉमस कप (इंडोनेशिया को 3-0 से हराया)",
+          "en": "Thomas Cup (Defeated Indonesia 3-0)"
+        },
+        {
+          "hi": "उबेर कप",
+          "en": "Uber Cup"
+        },
+        {
+          "hi": "डेविस कप",
+          "en": "Davis Cup"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "महिलाओं की विश्व टीम बैडमिंटन चैंपियनशिप को किस नाम से जाना जाता है?",
+        "en": "What is the Women's World Team Badminton Championship known as?"
+      },
+      "o": [
+        {
+          "hi": "थॉमस कप (Thomas Cup)",
+          "en": "Thomas Cup"
+        },
+        {
+          "hi": "सुदीरमन कप (Sudirman Cup)",
+          "en": "Sudirman Cup"
+        },
+        {
+          "hi": "उबेर कप (Uber Cup)",
+          "en": "Uber Cup"
+        },
+        {
+          "hi": "चड्ढा कप (Chadha Cup)",
+          "en": "Chadha Cup"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व मिश्रित टीम बैडमिंटन चैंपियनशिप (World Mixed Team) को क्या कहते हैं?",
+        "en": "What is the World Mixed Team Badminton Championship named?"
+      },
+      "o": [
+        {
+          "hi": "थॉमस कप",
+          "en": "Thomas Cup"
+        },
+        {
+          "hi": "उबेर कप",
+          "en": "Uber Cup"
+        },
+        {
+          "hi": "अमृत दीवान कप",
+          "en": "Amrit Diwan Cup"
+        },
+        {
+          "hi": "सुदीरमन कप (Sudirman Cup)",
+          "en": "Sudirman Cup"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व में पुरुषों की अंतरराष्ट्रीय टेनिस टीम प्रतियोगिता 'टेनिस का विश्व कप' किसे कहा जाता है?",
+        "en": "Which international men's team tennis tournament is known as the 'World Cup of Tennis'?"
+      },
+      "o": [
+        {
+          "hi": "डेविस कप (Davis Cup)",
+          "en": "Davis Cup"
+        },
+        {
+          "hi": "बिली जीन किंग कप",
+          "en": "Billie Jean King Cup"
+        },
+        {
+          "hi": "हॉपमैन कप (Hopman Cup)",
+          "en": "Hopman Cup"
+        },
+        {
+          "hi": "राइडर कप (Ryder Cup)",
+          "en": "Ryder Cup"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "महिलाओं की अंतरराष्ट्रीय टीम टेनिस चैंपियनशिप (पूर्व नाम फेड कप) को अब क्या कहते हैं?",
+        "en": "What is the women's international team tennis championship (formerly Fed Cup) now called?"
+      },
+      "o": [
+        {
+          "hi": "डेविस कप (Davis Cup)",
+          "en": "Davis Cup"
+        },
+        {
+          "hi": "बिली जीन किंग कप (Billie Jean King Cup)",
+          "en": "Billie Jean King Cup"
+        },
+        {
+          "hi": "वाइटमैन कप (Wightman Cup)",
+          "en": "Wightman Cup"
+        },
+        {
+          "hi": "होल्कर कप (Holkar Cup)",
+          "en": "Holkar Cup"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "टेनिस में मिश्रित टीम (पुरुष व महिला) की वार्षिक अंतरराष्ट्रीय प्रतियोगिता कौन-सी है?",
+        "en": "Which is the annual international mixed-team (men and women) tennis tournament?"
+      },
+      "o": [
+        {
+          "hi": "डेविस कप",
+          "en": "Davis Cup"
+        },
+        {
+          "hi": "वाकर कप",
+          "en": "Walker Cup"
+        },
+        {
+          "hi": "हॉपमैन कप (Hopman Cup)",
+          "en": "Hopman Cup"
+        },
+        {
+          "hi": "सुदीरमन कप",
+          "en": "Sudirman Cup"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अमेरिका और यूरोप के पुरुष पेशेवर गोल्फरों के बीच खेली जाने वाली द्विवार्षिक ट्रॉफी कौन-सी है?",
+        "en": "Which biennial golf trophy is contested between teams from Europe and the United States?"
+      },
+      "o": [
+        {
+          "hi": "वाकर कप (Walker Cup)",
+          "en": "Walker Cup"
+        },
+        {
+          "hi": "कनाडा कप (Canada Cup)",
+          "en": "Canada Cup"
+        },
+        {
+          "hi": "आइजनहावर ट्रॉफी",
+          "en": "Eisenhower Trophy"
+        },
+        {
+          "hi": "राइडर कप (Ryder Cup)",
+          "en": "Ryder Cup"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे पुराना पोलो कप (1880 में कोलकाता में शुरू) कौन-सा है?",
+        "en": "Which is the oldest polo cup in the world (started 1880 in Kolkata)?"
+      },
+      "o": [
+        {
+          "hi": "एजरा कप (Ezra Cup)",
+          "en": "Ezra Cup"
+        },
+        {
+          "hi": "राधा मोहन कप (Radha Mohan Cup)",
+          "en": "Radha Mohan Cup"
+        },
+        {
+          "hi": "विंचेस्टर कप (Winchester Cup)",
+          "en": "Winchester Cup"
+        },
+        {
+          "hi": "पृथ्वी सिंह कप",
+          "en": "Prithi Singh Cup"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नौकायन (Rowing) के खेल में भारत में प्रदान की जाने वाली प्रसिद्ध ट्रॉफी कौन-सी है?",
+        "en": "Which famous trophy is awarded in the sport of Rowing in India?"
+      },
+      "o": [
+        {
+          "hi": "नेहरू बोट ट्रॉफी",
+          "en": "Nehru Boat Trophy"
+        },
+        {
+          "hi": "वेलिंगटन ट्रॉफी (Wellington Trophy)",
+          "en": "Wellington Trophy"
+        },
+        {
+          "hi": "वर्धमान कप",
+          "en": "Vardhman Cup"
+        },
+        {
+          "hi": "मर्डेका ट्रॉफी",
+          "en": "Merdeka Trophy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "टेबल टेनिस की विश्व पुरुष टीम चैंपियनशिप में कौन-सा कप दिया जाता है?",
+        "en": "Which cup is awarded in the Men's World Team Table Tennis Championship?"
+      },
+      "o": [
+        {
+          "hi": "कॉर्बिलियन कप (Corbillon Cup)",
+          "en": "Corbillon Cup"
+        },
+        {
+          "hi": "थॉमस कप (Thomas Cup)",
+          "en": "Thomas Cup"
+        },
+        {
+          "hi": "स्वेथलिंग कप (Swaythling Cup)",
+          "en": "Swaythling Cup"
+        },
+        {
+          "hi": "बर्ना बेलेक कप",
+          "en": "Barna Bellack Cup"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "टेबल टेनिस की विश्व महिला टीम चैंपियनशिप में कौन-सा कप प्रदान किया जाता है?",
+        "en": "Which cup is awarded in the Women's World Team Table Tennis Championship?"
+      },
+      "o": [
+        {
+          "hi": "स्वेथलिंग कप",
+          "en": "Swaythling Cup"
+        },
+        {
+          "hi": "उबेर कप",
+          "en": "Uber Cup"
+        },
+        {
+          "hi": "राजकुमारी चैलेंज कप",
+          "en": "Princess Challenge Cup"
+        },
+        {
+          "hi": "कॉर्बिलियन कप (Corbillon Cup)",
+          "en": "Corbillon Cup"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ताश के खेल 'ब्रिज' (Bridge) से संबंधित प्रमुख भारतीय ट्रॉफी कौन-सी है?",
+        "en": "Which prominent Indian trophy is associated with the card game 'Bridge'?"
+      },
+      "o": [
+        {
+          "hi": "होल्कर ट्रॉफी (Holkar Trophy) और रुइया ट्रॉफी",
+          "en": "Holkar Trophy and Ruia Trophy"
+        },
+        {
+          "hi": "एजरा कप",
+          "en": "Ezra Cup"
+        },
+        {
+          "hi": "वर्धमान ट्रॉफी",
+          "en": "Vardhman Trophy"
+        },
+        {
+          "hi": "टॉड मेमोरियल कप",
+          "en": "Todd Memorial Cup"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारोत्तोलन (Weightlifting) में भारत की प्रमुख राष्ट्रीय ट्रॉफी कौन-सी है?",
+        "en": "Which is a prominent national trophy associated with Weightlifting in India?"
+      },
+      "o": [
+        {
+          "hi": "वेलिंगटन ट्रॉफी",
+          "en": "Wellington Trophy"
+        },
+        {
+          "hi": "वर्धमान ट्रॉफी (Vardhman Trophy)",
+          "en": "Vardhman Trophy"
+        },
+        {
+          "hi": "होल्कर ट्रॉफी",
+          "en": "Holkar Trophy"
+        },
+        {
+          "hi": "एजरा कप",
+          "en": "Ezra Cup"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्रिकेट में 'कूच बिहार ट्रॉफी' किस आयु वर्ग के लिए आयोजित की जाती है?",
+        "en": "In cricket, the 'Cooch Behar Trophy' is contested in which age group?"
+      },
+      "o": [
+        {
+          "hi": "अंडर-16 (Under-16)",
+          "en": "Under-16"
+        },
+        {
+          "hi": "अंडर-23 (Under-23)",
+          "en": "Under-23"
+        },
+        {
+          "hi": "अंडर-19 (Under-19)",
+          "en": "Under-19"
+        },
+        {
+          "hi": "सीनियर पुरुष वर्ग",
+          "en": "Senior Men"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "क्रिकेट में 'सी.के. नायडू ट्रॉफी' किस आयु वर्ग की प्रमुख घरेलू प्रतियोगिता है?",
+        "en": "In domestic cricket, the 'CK Nayudu Trophy' is held for which age category?"
+      },
+      "o": [
+        {
+          "hi": "अंडर-19",
+          "en": "Under-19"
+        },
+        {
+          "hi": "अंडर-16",
+          "en": "Under-16"
+        },
+        {
+          "hi": "सीनियर वर्ग",
+          "en": "Senior Group"
+        },
+        {
+          "hi": "अंडर-23 (Under-23)",
+          "en": "Under-23"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "केरल में ओणम पर्व पर आयोजित होने वाली प्रसिद्ध नौका दौड़ (Snake Boat Race) में कौन-सी ट्रॉफी दी जाती है?",
+        "en": "Which trophy is awarded in the famous Snake Boat Race (Vallam Kali) during Onam in Kerala?"
+      },
+      "o": [
+        {
+          "hi": "नेहरू ट्रॉफी (Nehru Trophy Boat Race - पुन्नमदा झील)",
+          "en": "Nehru Trophy (Punnamada Lake)"
+        },
+        {
+          "hi": "इंदिरा गांधी कप",
+          "en": "Indira Gandhi Cup"
+        },
+        {
+          "hi": "राजीव गांधी नौका कप",
+          "en": "Rajiv Gandhi Boat Cup"
+        },
+        {
+          "hi": "वेलिंगटन कप",
+          "en": "Wellington Cup"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'स्टैनली कप' (Stanley Cup) उत्तरी अमेरिका में किस खेल की सबसे पुरानी और प्रतिष्ठित ट्रॉफी है?",
+        "en": "The 'Stanley Cup' is the oldest and most prized trophy in North America for which sport?"
+      },
+      "o": [
+        {
+          "hi": "बेसबॉल (Baseball)",
+          "en": "Baseball"
+        },
+        {
+          "hi": "आइस हॉकी (Ice Hockey - NHL)",
+          "en": "Ice Hockey (NHL)"
+        },
+        {
+          "hi": "अमेरिकी फुटबॉल (NFL)",
+          "en": "American Football"
+        },
+        {
+          "hi": "बास्केटबॉल (NBA)",
+          "en": "Basketball"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बेसबॉल में मेजर लीग बेसबॉल (MLB) के वार्षिक विजेता को कौन-सी ट्रॉफी मिलती है?",
+        "en": "In Major League Baseball (MLB), what is the championship trophy called?"
+      },
+      "o": [
+        {
+          "hi": "विंस लोम्बार्डी ट्रॉफी",
+          "en": "Vince Lombardi Trophy"
+        },
+        {
+          "hi": "लैरी ओ'ब्रायन ट्रॉफी",
+          "en": "Larry O'Brien Trophy"
+        },
+        {
+          "hi": "कमिश्नर्स ट्रॉफी (Commissioner's Trophy / World Series)",
+          "en": "Commissioner's Trophy (World Series)"
+        },
+        {
+          "hi": "स्टैनली कप",
+          "en": "Stanley Cup"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अमेरिकी नेशनल फुटबॉल लीग (NFL / सुपर बाउल) की विजेता ट्रॉफी का क्या नाम है?",
+        "en": "What is the name of the championship trophy awarded to the Super Bowl winner in the NFL?"
+      },
+      "o": [
+        {
+          "hi": "स्टैनली कप",
+          "en": "Stanley Cup"
+        },
+        {
+          "hi": "कमिश्नर्स ट्रॉफी",
+          "en": "Commissioner's Trophy"
+        },
+        {
+          "hi": "लैरी ओ'ब्रायन ट्रॉफी",
+          "en": "Larry O'Brien Trophy"
+        },
+        {
+          "hi": "विंस लोम्बार्डी ट्रॉफी (Vince Lombardi Trophy)",
+          "en": "Vince Lombardi Trophy"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एनबीए (NBA) बास्केटबॉल चैंपियनशिप की विजेता ट्रॉफी किसके नाम पर है?",
+        "en": "The NBA Championship Trophy is named after which former commissioner?"
+      },
+      "o": [
+        {
+          "hi": "लैरी ओ'ब्रायन ट्रॉफी (Larry O'Brien Trophy)",
+          "en": "Larry O'Brien Trophy"
+        },
+        {
+          "hi": "माइकल जॉर्डन ट्रॉफी",
+          "en": "Michael Jordan Trophy"
+        },
+        {
+          "hi": "जेम्स नाइस्मिथ कप",
+          "en": "James Naismith Cup"
+        },
+        {
+          "hi": "डेविड स्टर्न कप",
+          "en": "David Stern Cup"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'रोवर्स कप' (Rovers Cup) भारत में 1891 में किस शहर में शुरू हुआ दूसरा सबसे पुराना फुटबॉल कप था?",
+        "en": "In which city was the Rovers Cup (established 1891) football tournament held?"
+      },
+      "o": [
+        {
+          "hi": "कोलकाता (Kolkata)",
+          "en": "Kolkata"
+        },
+        {
+          "hi": "मुंबई (बॉम्बे)",
+          "en": "Mumbai (Bombay)"
+        },
+        {
+          "hi": "मद्रास (चेन्नई)",
+          "en": "Madras (Chennai)"
+        },
+        {
+          "hi": "दिल्ली (Delhi)",
+          "en": "Delhi"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'नेहरू कप' (अंतरराष्ट्रीय आमंत्रण) भारत में मुख्य रूप से किस खेल से संबंधित रहा है?",
+        "en": "In India, the international invitational 'Nehru Cup' was primarily organized for which sport?"
+      },
+      "o": [
+        {
+          "hi": "क्रिकेट (Cricket)",
+          "en": "Cricket"
+        },
+        {
+          "hi": "हॉकी (Hockey)",
+          "en": "Hockey"
+        },
+        {
+          "hi": "फुटबॉल (Football)",
+          "en": "Football"
+        },
+        {
+          "hi": "बैडमिंटन (Badminton)",
+          "en": "Badminton"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हॉकी में 'जवाहरलाल नेहरू हॉकी टूर्नामेंट' कहाँ आयोजित किया जाता है?",
+        "en": "Where is the prestigious Jawaharlal Nehru Hockey Tournament organized annually in India?"
+      },
+      "o": [
+        {
+          "hi": "चंडीगढ़",
+          "en": "Chandigarh"
+        },
+        {
+          "hi": "भोपाल",
+          "en": "Bhopal"
+        },
+        {
+          "hi": "जालंधर",
+          "en": "Jalandhar"
+        },
+        {
+          "hi": "नई दिल्ली (शिवाजी स्टेडियम)",
+          "en": "New Delhi (Shivaji Stadium)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "क्रिकेट में 'चैंपियंस ट्रॉफी' (Champions Trophy) का आयोजन कौन-सी संस्था करती है?",
+        "en": "Which body organizes the Champions Trophy in international cricket?"
+      },
+      "o": [
+        {
+          "hi": "आईसीसी (International Cricket Council)",
+          "en": "International Cricket Council (ICC)"
+        },
+        {
+          "hi": "बीसीसीआई (BCCI)",
+          "en": "BCCI"
+        },
+        {
+          "hi": "एमसीसी (MCC)",
+          "en": "MCC"
+        },
+        {
+          "hi": "क्रिकेट ऑस्ट्रेलिया",
+          "en": "Cricket Australia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत ने आईसीसी चैंपियंस ट्रॉफी का एकल खिताब किस वर्ष जीता था?",
+        "en": "In which year did India win the ICC Champions Trophy outright under MS Dhoni?"
+      },
+      "o": [
+        {
+          "hi": "2002 में (श्रीलंका के साथ संयुक्त)",
+          "en": "In 2002 (Shared with Sri Lanka)"
+        },
+        {
+          "hi": "2013 में (इंग्लैंड को फाइनल में हराया)",
+          "en": "In 2013 (Defeated England in final)"
+        },
+        {
+          "hi": "2017 में",
+          "en": "In 2017"
+        },
+        {
+          "hi": "2006 में",
+          "en": "In 2006"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "महिला क्रिकेट का पहला विश्व कप किस वर्ष आयोजित किया गया था (पुरुषों से 2 वर्ष पहले)?",
+        "en": "In which year was the first Women's Cricket World Cup held (2 years before men's)?"
+      },
+      "o": [
+        {
+          "hi": "1975 में",
+          "en": "In 1975"
+        },
+        {
+          "hi": "1978 में",
+          "en": "In 1978"
+        },
+        {
+          "hi": "1973 में (इंग्लैंड में)",
+          "en": "In 1973 (in England)"
+        },
+        {
+          "hi": "1982 में",
+          "en": "In 1982"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एशियाई क्रिकेट परिषद द्वारा आयोजित 'एशिया कप' का पहला संस्करण 1984 में किस देश ने जीता था?",
+        "en": "Which country won the inaugural edition of the Asia Cup cricket tournament in 1984 (Sharjah)?"
+      },
+      "o": [
+        {
+          "hi": "पाकिस्तान",
+          "en": "Pakistan"
+        },
+        {
+          "hi": "श्रीलंका",
+          "en": "Sri Lanka"
+        },
+        {
+          "hi": "बांग्लादेश",
+          "en": "Bangladesh"
+        },
+        {
+          "hi": "भारत (सुनील गावस्कर की कप्तानी में)",
+          "en": "India (Captained by Sunil Gavaskar)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "टेनिस में सबसे प्रतिष्ठित पुरुष टूर फाइनल को क्या कहा जाता है?",
+        "en": "What is the season-ending championship of the ATP Tour in men's tennis called?"
+      },
+      "o": [
+        {
+          "hi": "एटीपी फाइनल्स (ATP Finals)",
+          "en": "ATP Finals"
+        },
+        {
+          "hi": "डेविस कप फाइनल",
+          "en": "Davis Cup Final"
+        },
+        {
+          "hi": "वर्ल्ड टूर मास्टर्स",
+          "en": "World Tour Masters"
+        },
+        {
+          "hi": "ग्रैंड स्लैम कप",
+          "en": "Grand Slam Cup"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गोल्फ में महिलाओं की सर्वोच्च टीम प्रतियोगिता कौन-सी है (राइडर कप के समकक्ष)?",
+        "en": "Which is the premier team competition in women's golf (equivalent to Ryder Cup)?"
+      },
+      "o": [
+        {
+          "hi": "वाकर कप",
+          "en": "Walker Cup"
+        },
+        {
+          "hi": "सोलहाइम कप (Solheim Cup)",
+          "en": "Solheim Cup"
+        },
+        {
+          "hi": "राइडर कप",
+          "en": "Ryder Cup"
+        },
+        {
+          "hi": "कर्टिस कप",
+          "en": "Curtis Cup"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

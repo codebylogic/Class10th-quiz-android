@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विविध (Miscellaneous)",
+  "subtitle": "भारत में सर्वाधिक बड़ा, लम्बा एवं ऊँचा",
+  "description": "भारत में सर्वाधिक बड़ा, लम्बा एवं ऊँचा पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारत का सबसे लम्बा सड़क पुल कौन-सा है?",
+        "en": "Which is the longest road bridge in India?"
+      },
+      "o": [
+        {
+          "hi": "भूपेन हजारिका सेतु (ढोला-सादिया)",
+          "en": "Bhupen Hazarika Setu (Dhola-Sadiya)"
+        },
+        {
+          "hi": "महात्मा गांधी सेतु",
+          "en": "Mahatma Gandhi Setu"
+        },
+        {
+          "hi": "बांद्रा-वर्ली सी लिंक",
+          "en": "Bandra-Worli Sea Link"
+        },
+        {
+          "hi": "बोगीबील ब्रिज",
+          "en": "Bogibeel Bridge"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में पशुओं का सबसे बड़ा मेला कहाँ लगता है?",
+        "en": "Where is the largest cattle fair held in India?"
+      },
+      "o": [
+        {
+          "hi": "पुष्कर (राजस्थान)",
+          "en": "Pushkar (Rajasthan)"
+        },
+        {
+          "hi": "सोनपुर (बिहार)",
+          "en": "Sonpur (Bihar)"
+        },
+        {
+          "hi": "बटेश्वर (उत्तर प्रदेश)",
+          "en": "Bateshwar (Uttar Pradesh)"
+        },
+        {
+          "hi": "नागौर (राजस्थान)",
+          "en": "Nagaur (Rajasthan)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत की सबसे ऊँची मीनार कौन-सी है?",
+        "en": "Which is the tallest minaret in India?"
+      },
+      "o": [
+        {
+          "hi": "चारमीनार (हैदराबाद)",
+          "en": "Charminar (Hyderabad)"
+        },
+        {
+          "hi": "झूलती मीनारें (अहमदाबाद)",
+          "en": "Jhulta Minar (Ahmedabad)"
+        },
+        {
+          "hi": "कुतुब मीनार (दिल्ली)",
+          "en": "Qutub Minar (Delhi)"
+        },
+        {
+          "hi": "चांद मीनार (दौलताबाद)",
+          "en": "Chand Minar (Daulatabad)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत की मीठे पानी की सबसे बड़ी झील कौन-सी है?",
+        "en": "Which is the largest freshwater lake in India?"
+      },
+      "o": [
+        {
+          "hi": "चिल्का झील (ओडिशा)",
+          "en": "Chilika Lake (Odisha)"
+        },
+        {
+          "hi": "सांभर झील (राजस्थान)",
+          "en": "Sambhar Lake (Rajasthan)"
+        },
+        {
+          "hi": "लोकटक झील (मणिपुर)",
+          "en": "Loktak Lake (Manipur)"
+        },
+        {
+          "hi": "वूलर झील (जम्मू-कश्मीर)",
+          "en": "Wular Lake (Jammu & Kashmir)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे ऊँचा बाँध कौन-सा है?",
+        "en": "Which is the highest dam in India?"
+      },
+      "o": [
+        {
+          "hi": "टिहरी बाँध (उत्तराखंड)",
+          "en": "Tehri Dam (Uttarakhand)"
+        },
+        {
+          "hi": "भाखड़ा बाँध (हिमाचल/पंजाब)",
+          "en": "Bhakra Dam"
+        },
+        {
+          "hi": "हीराकुण्ड बाँध (ओडिशा)",
+          "en": "Hirakud Dam"
+        },
+        {
+          "hi": "सरदार सरोवर बाँध (गुजरात)",
+          "en": "Sardar Sarovar Dam"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे बड़ा रेगिस्तान कौन-सा है?",
+        "en": "Which is the largest desert in India?"
+      },
+      "o": [
+        {
+          "hi": "कच्छ का रण (गुजरात)",
+          "en": "Rann of Kutch (Gujarat)"
+        },
+        {
+          "hi": "थार रेगिस्तान (राजस्थान)",
+          "en": "Thar Desert (Rajasthan)"
+        },
+        {
+          "hi": "लद्दाख का शीत मरुस्थल",
+          "en": "Cold Desert Ladakh"
+        },
+        {
+          "hi": "दक्कन का पठार",
+          "en": "Deccan Plateau"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे बड़ा गुफा मन्दिर कौन-सा है?",
+        "en": "Which is the largest cave temple in India?"
+      },
+      "o": [
+        {
+          "hi": "अजंता की गुफाएँ",
+          "en": "Ajanta Caves"
+        },
+        {
+          "hi": "एलीफेंटा गुफा मन्दिर",
+          "en": "Elephanta Cave Temple"
+        },
+        {
+          "hi": "कैलाश मन्दिर (एलोरा)",
+          "en": "Kailash Temple (Ellora)"
+        },
+        {
+          "hi": "बादामी गुफा मन्दिर",
+          "en": "Badami Cave Temple"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे बड़ा चिड़ियाघर कौन-सा है?",
+        "en": "Which is the largest zoo in India?"
+      },
+      "o": [
+        {
+          "hi": "अरिंग्नर अन्ना जूलॉजिकल पार्क",
+          "en": "Arignar Anna Zoological Park"
+        },
+        {
+          "hi": "राष्ट्रीय प्राणी उद्यान (दिल्ली)",
+          "en": "National Zoological Park (Delhi)"
+        },
+        {
+          "hi": "मैसूर चिड़ियाघर",
+          "en": "Mysore Zoo"
+        },
+        {
+          "hi": "जूलॉजिकल गार्डन (कोलकाता)",
+          "en": "Zoological Garden (Kolkata)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत की सबसे बड़ी मस्जिद कौन-सी है?",
+        "en": "Which is the largest mosque in India?"
+      },
+      "o": [
+        {
+          "hi": "जामा मस्जिद (दिल्ली)",
+          "en": "Jama Masjid (Delhi)"
+        },
+        {
+          "hi": "ताज-उल-मसाजिद (भोपाल)",
+          "en": "Taj-ul-Masajid (Bhopal)"
+        },
+        {
+          "hi": "मक्का मस्जिद (हैदराबाद)",
+          "en": "Mecca Masjid (Hyderabad)"
+        },
+        {
+          "hi": "टीपू सुल्तान मस्जिद",
+          "en": "Tipu Sultan Mosque"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत की सबसे ऊँची चोटी कौन-सी है?",
+        "en": "Which is the highest peak in India?"
+      },
+      "o": [
+        {
+          "hi": "कंचनजंगा",
+          "en": "Kanchenjunga"
+        },
+        {
+          "hi": "गॉडविन ऑस्टिन (K-2)",
+          "en": "Godwin Austen (K-2)"
+        },
+        {
+          "hi": "नंदा देवी",
+          "en": "Nanda Devi"
+        },
+        {
+          "hi": "कामेत",
+          "en": "Kamet"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत की सबसे लम्बी सड़क सुरंग कौन-सी है?",
+        "en": "Which is the longest road tunnel in India?"
+      },
+      "o": [
+        {
+          "hi": "अटल सुरंग (रोहतांग)",
+          "en": "Atal Tunnel (Rohtang)"
+        },
+        {
+          "hi": "जवाहर सुरंग",
+          "en": "Jawahar Tunnel"
+        },
+        {
+          "hi": "डॉ. श्यामा प्रसाद मुखर्जी सुरंग",
+          "en": "Dr. Syama Prasad Mookerjee Tunnel"
+        },
+        {
+          "hi": "जोजीला सुरंग",
+          "en": "Zojila Tunnel"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत की सबसे लम्बी रेलवे सुरंग कौन-सी है?",
+        "en": "Which is the longest railway tunnel in India?"
+      },
+      "o": [
+        {
+          "hi": "कराम्बुडे सुरंग",
+          "en": "Karbude Tunnel"
+        },
+        {
+          "hi": "टी-49 सुरंग",
+          "en": "T-49 Tunnel"
+        },
+        {
+          "hi": "नाटुवाडी सुरंग",
+          "en": "Natuwadi Tunnel"
+        },
+        {
+          "hi": "पीर पंजाल रेलवे सुरंग",
+          "en": "Pir Panjal Railway Tunnel"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत एवं विश्व का सबसे बड़ा डेल्टा कौन-सा है?",
+        "en": "Which is the largest delta in India and the world?"
+      },
+      "o": [
+        {
+          "hi": "सुंदरवन डेल्टा",
+          "en": "Sundarbans Delta"
+        },
+        {
+          "hi": "महानदी डेल्टा",
+          "en": "Mahanadi Delta"
+        },
+        {
+          "hi": "गोदावरी डेल्टा",
+          "en": "Godavari Delta"
+        },
+        {
+          "hi": "कावेरी डेल्टा",
+          "en": "Kaveri Delta"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में सबसे अधिक वन क्षेत्र वाला राज्य कौन-सा है?",
+        "en": "Which state has the largest forest cover in India?"
+      },
+      "o": [
+        {
+          "hi": "अरुणाचल प्रदेश",
+          "en": "Arunachal Pradesh"
+        },
+        {
+          "hi": "मध्य प्रदेश",
+          "en": "Madhya Pradesh"
+        },
+        {
+          "hi": "छत्तीसगढ़",
+          "en": "Chhattisgarh"
+        },
+        {
+          "hi": "ओडिशा",
+          "en": "Odisha"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे बड़ा कॉरिडोर (गलियारा) कहाँ स्थित है?",
+        "en": "Where is the largest temple corridor in India located?"
+      },
+      "o": [
+        {
+          "hi": "मीनाक्षी मन्दिर (मदुरै)",
+          "en": "Meenakshi Temple (Madurai)"
+        },
+        {
+          "hi": "बृहदेश्वर मन्दिर (तंजावुर)",
+          "en": "Brihadeeswarar Temple"
+        },
+        {
+          "hi": "रामेश्वरम मन्दिर (तमिलनाडु)",
+          "en": "Rameshwaram Temple (Tamil Nadu)"
+        },
+        {
+          "hi": "जगन्नाथ मन्दिर (पुरी)",
+          "en": "Jagannath Temple (Puri)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे ऊँचा जलप्रपात कौन-सा है?",
+        "en": "Which is the highest waterfall in India?"
+      },
+      "o": [
+        {
+          "hi": "जोग जलप्रपात (कर्नाटक)",
+          "en": "Jog Falls (Karnataka)"
+        },
+        {
+          "hi": "धुआंधार जलप्रपात (म.प्र.)",
+          "en": "Dhuandhar Falls (MP)"
+        },
+        {
+          "hi": "हुंडरू जलप्रपात (झारखंड)",
+          "en": "Hundru Falls (Jharkhand)"
+        },
+        {
+          "hi": "कुंचिकल जलप्रपात (कर्नाटक)",
+          "en": "Kunchikal Falls (Karnataka)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे लम्बा राष्ट्रीय राजमार्ग कौन-सा है?",
+        "en": "Which is the longest National Highway in India?"
+      },
+      "o": [
+        {
+          "hi": "राष्ट्रीय राजमार्ग-44 (NH-44)",
+          "en": "National Highway-44 (NH-44)"
+        },
+        {
+          "hi": "राष्ट्रीय राजमार्ग-27 (NH-27)",
+          "en": "National Highway-27 (NH-27)"
+        },
+        {
+          "hi": "राष्ट्रीय राजमार्ग-48 (NH-48)",
+          "en": "National Highway-48 (NH-48)"
+        },
+        {
+          "hi": "राष्ट्रीय राजमार्ग-53 (NH-53)",
+          "en": "National Highway-53 (NH-53)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे ऊँचा दरवाजा कौन-सा है?",
+        "en": "Which is the highest gateway in India?"
+      },
+      "o": [
+        {
+          "hi": "रूमी दरवाजा (लखनऊ)",
+          "en": "Rumi Darwaza (Lucknow)"
+        },
+        {
+          "hi": "बुलन्द दरवाजा (फतेहपुर सीकरी)",
+          "en": "Buland Darwaza (Fatehpur Sikri)"
+        },
+        {
+          "hi": "इण्डिया गेट (नई दिल्ली)",
+          "en": "India Gate (New Delhi)"
+        },
+        {
+          "hi": "गेटवे ऑफ इण्डिया (मुंबई)",
+          "en": "Gateway of India (Mumbai)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत की सबसे लम्बी नदी कौन-सी है?",
+        "en": "Which is the longest river in India?"
+      },
+      "o": [
+        {
+          "hi": "गोदावरी नदी",
+          "en": "Godavari River"
+        },
+        {
+          "hi": "कृष्णा नदी",
+          "en": "Krishna River"
+        },
+        {
+          "hi": "गंगा नदी (2525 किमी)",
+          "en": "Ganga River (2525 km)"
+        },
+        {
+          "hi": "यमुना नदी",
+          "en": "Yamuna River"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे बड़ा अजायबघर (Museum) कौन-सा है?",
+        "en": "Which is the largest museum in India?"
+      },
+      "o": [
+        {
+          "hi": "राष्ट्रीय संग्रहालय (नई दिल्ली)",
+          "en": "National Museum (New Delhi)"
+        },
+        {
+          "hi": "सालारजंग संग्रहालय (हैदराबाद)",
+          "en": "Salar Jung Museum (Hyderabad)"
+        },
+        {
+          "hi": "प्रिंस ऑफ वेल्स संग्रहालय (मुंबई)",
+          "en": "Prince of Wales Museum (Mumbai)"
+        },
+        {
+          "hi": "भारतीय संग्रहालय (कोलकाता)",
+          "en": "Indian Museum (Kolkata)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे बड़ा गुम्बज कौन-सा है?",
+        "en": "Which is the largest dome in India?"
+      },
+      "o": [
+        {
+          "hi": "गोल गुम्बज (बीजापुर)",
+          "en": "Gol Gumbaz (Bijapur)"
+        },
+        {
+          "hi": "ताजमहल का गुम्बज",
+          "en": "Taj Mahal Dome"
+        },
+        {
+          "hi": "राष्ट्रपति भवन का गुम्बज",
+          "en": "Rashtrapati Bhavan Dome"
+        },
+        {
+          "hi": "सांची का स्तूप",
+          "en": "Sanchi Stupa"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत एवं विश्व में सर्वाधिक वर्षा वाला स्थान कौन-सा है?",
+        "en": "Which is the wettest place with highest rainfall in India & world?"
+      },
+      "o": [
+        {
+          "hi": "चेरापूंजी (मेघालय)",
+          "en": "Cherrapunji (Meghalaya)"
+        },
+        {
+          "hi": "मासिनराम (मेघालय)",
+          "en": "Mawsynram (Meghalaya)"
+        },
+        {
+          "hi": "अगुम्बे (कर्नाटक)",
+          "en": "Agumbe (Karnataka)"
+        },
+        {
+          "hi": "महाबलेश्वर (महाराष्ट्र)",
+          "en": "Mahabaleshwar (Maharashtra)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे बड़ा लिवरपूल (कैंटिलीवर ब्रिज) कौन-सा है?",
+        "en": "Which is the largest cantilever bridge in India?"
+      },
+      "o": [
+        {
+          "hi": "विद्यासागर सेतु",
+          "en": "Vidyasagar Setu"
+        },
+        {
+          "hi": "पम्बन ब्रिज",
+          "en": "Pamban Bridge"
+        },
+        {
+          "hi": "हावड़ा ब्रिज (रवीन्द्र सेतु)",
+          "en": "Howrah Bridge (Rabindra Setu)"
+        },
+        {
+          "hi": "बोगीबील ब्रिज",
+          "en": "Bogibeel Bridge"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत की सबसे लम्बी नहर कौन-सी है?",
+        "en": "Which is the longest canal in India?"
+      },
+      "o": [
+        {
+          "hi": "शारदा नहर (उत्तर प्रदेश)",
+          "en": "Sharda Canal (Uttar Pradesh)"
+        },
+        {
+          "hi": "ऊपरी गंगा नहर",
+          "en": "Upper Ganga Canal"
+        },
+        {
+          "hi": "सरहिंद नहर (पंजाब)",
+          "en": "Sirhind Canal (Punjab)"
+        },
+        {
+          "hi": "इन्दिरा गांधी नहर (राजस्थान)",
+          "en": "Indira Gandhi Canal (Rajasthan)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे लम्बा रेलवे प्लेटफॉर्म कहाँ स्थित है?",
+        "en": "Where is the longest railway platform in India located?"
+      },
+      "o": [
+        {
+          "hi": "हुबली जंक्शन (कर्नाटक)",
+          "en": "Hubballi Junction (Karnataka)"
+        },
+        {
+          "hi": "गोरखपुर (उत्तर प्रदेश)",
+          "en": "Gorakhpur (Uttar Pradesh)"
+        },
+        {
+          "hi": "कोल्लम जंक्शन (केरल)",
+          "en": "Kollam Junction (Kerala)"
+        },
+        {
+          "hi": "खड़गपुर (पश्चिम बंगाल)",
+          "en": "Kharagpur (West Bengal)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे विशाल क्रिकेट स्टेडियम कौन-सा है?",
+        "en": "Which is the largest cricket stadium in India?"
+      },
+      "o": [
+        {
+          "hi": "ईडन गार्डन्स (कोलकाता)",
+          "en": "Eden Gardens (Kolkata)"
+        },
+        {
+          "hi": "नरेन्द्र मोदी स्टेडियम (अहमदाबाद)",
+          "en": "Narendra Modi Stadium (Ahmedabad)"
+        },
+        {
+          "hi": "वानखेड़े स्टेडियम (मुंबई)",
+          "en": "Wankhede Stadium (Mumbai)"
+        },
+        {
+          "hi": "एम. चिन्नास्वामी स्टेडियम (बेंगलुरु)",
+          "en": "M. Chinnaswamy Stadium"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे अधिक आबादी वाला नगर कौन-सा है?",
+        "en": "Which is the most populous city in India?"
+      },
+      "o": [
+        {
+          "hi": "दिल्ली",
+          "en": "Delhi"
+        },
+        {
+          "hi": "कोलकाता",
+          "en": "Kolkata"
+        },
+        {
+          "hi": "मुंबई (महाराष्ट्र)",
+          "en": "Mumbai (Maharashtra)"
+        },
+        {
+          "hi": "बेंगलुरु",
+          "en": "Bengaluru"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सर्वाधिक शहरी क्षेत्र वाला राज्य कौन-सा है?",
+        "en": "Which state has the largest urbanized area in India?"
+      },
+      "o": [
+        {
+          "hi": "तमिलनाडु",
+          "en": "Tamil Nadu"
+        },
+        {
+          "hi": "उत्तर प्रदेश",
+          "en": "Uttar Pradesh"
+        },
+        {
+          "hi": "गुजरात",
+          "en": "Gujarat"
+        },
+        {
+          "hi": "महाराष्ट्र",
+          "en": "Maharashtra"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे लम्बा समुद्र तट कौन-सा है?",
+        "en": "Which is the longest natural sea beach in India?"
+      },
+      "o": [
+        {
+          "hi": "मरीना बीच (चेन्नई)",
+          "en": "Marina Beach (Chennai)"
+        },
+        {
+          "hi": "कोवलम बीच (केरल)",
+          "en": "Kovalam Beach (Kerala)"
+        },
+        {
+          "hi": "कलंगूट बीच (गोवा)",
+          "en": "Calangute Beach (Goa)"
+        },
+        {
+          "hi": "जुहू बीच (मुंबई)",
+          "en": "Juhu Beach (Mumbai)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत की सबसे लम्बी तटरेखा वाला राज्य कौन-सा है?",
+        "en": "Which state has the longest coastline in India?"
+      },
+      "o": [
+        {
+          "hi": "आंध्र प्रदेश",
+          "en": "Andhra Pradesh"
+        },
+        {
+          "hi": "गुजरात",
+          "en": "Gujarat"
+        },
+        {
+          "hi": "तमिलनाडु",
+          "en": "Tamil Nadu"
+        },
+        {
+          "hi": "महाराष्ट्र",
+          "en": "Maharashtra"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दक्षिण भारत की सबसे लम्बी तटरेखा वाला राज्य कौन-सा है?",
+        "en": "Which South Indian state has the longest coastline?"
+      },
+      "o": [
+        {
+          "hi": "तमिलनाडु",
+          "en": "Tamil Nadu"
+        },
+        {
+          "hi": "केरल",
+          "en": "Kerala"
+        },
+        {
+          "hi": "आंध्र प्रदेश",
+          "en": "Andhra Pradesh"
+        },
+        {
+          "hi": "कर्नाटक",
+          "en": "Karnataka"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत एवं विश्व की सबसे ऊँची मूर्ति (प्रतिमा) कौन-सी है?",
+        "en": "Which is the tallest statue in India and the world?"
+      },
+      "o": [
+        {
+          "hi": "स्टैच्यू ऑफ बिलीफ",
+          "en": "Statue of Belief"
+        },
+        {
+          "hi": "स्टैच्यू ऑफ इक्वलिटी",
+          "en": "Statue of Equality"
+        },
+        {
+          "hi": "गोमटेश्वर प्रतिमा",
+          "en": "Gommateshwara Statue"
+        },
+        {
+          "hi": "स्टैच्यू ऑफ यूनिटी (182 मी.)",
+          "en": "Statue of Unity (182 m)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत की सबसे लम्बी सहायक नदी कौन-सी है?",
+        "en": "Which is the longest tributary river in India?"
+      },
+      "o": [
+        {
+          "hi": "यमुना नदी",
+          "en": "Yamuna River"
+        },
+        {
+          "hi": "सोन नदी",
+          "en": "Son River"
+        },
+        {
+          "hi": "चम्बल नदी",
+          "en": "Chambal River"
+        },
+        {
+          "hi": "घाघरा नदी",
+          "en": "Ghaghara River"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दक्षिण भारत की सबसे लम्बी नदी कौन-सी है?",
+        "en": "Which is the longest river in South India?"
+      },
+      "o": [
+        {
+          "hi": "कृष्णा नदी",
+          "en": "Krishna River"
+        },
+        {
+          "hi": "गोदावरी (वृद्ध गंगा)",
+          "en": "Godavari (Vridha Ganga)"
+        },
+        {
+          "hi": "कावेरी नदी",
+          "en": "Kaveri River"
+        },
+        {
+          "hi": "महानदी",
+          "en": "Mahanadi"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे लम्बा बाँध कौन-सा है?",
+        "en": "Which is the longest dam in India?"
+      },
+      "o": [
+        {
+          "hi": "टिहरी बाँध (उत्तराखंड)",
+          "en": "Tehri Dam (Uttarakhand)"
+        },
+        {
+          "hi": "भाखड़ा नांगल बाँध",
+          "en": "Bhakra Nangal Dam"
+        },
+        {
+          "hi": "हीराकुण्ड बाँध (ओडिशा)",
+          "en": "Hirakud Dam (Odisha)"
+        },
+        {
+          "hi": "नागार्जुन सागर बाँध",
+          "en": "Nagarjuna Sagar Dam"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का सर्वोच्च शौर्य सम्मान कौन-सा है?",
+        "en": "Which is India's highest gallantry / bravery award?"
+      },
+      "o": [
+        {
+          "hi": "महावीर चक्र",
+          "en": "Maha Vir Chakra"
+        },
+        {
+          "hi": "वीर चक्र",
+          "en": "Vir Chakra"
+        },
+        {
+          "hi": "अशोक चक्र",
+          "en": "Ashoka Chakra"
+        },
+        {
+          "hi": "परमवीर चक्र",
+          "en": "Param Vir Chakra"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत का सर्वोच्च नागरिक सम्मान कौन-सा है?",
+        "en": "Which is India's highest civilian award?"
+      },
+      "o": [
+        {
+          "hi": "भारत रत्न",
+          "en": "Bharat Ratna"
+        },
+        {
+          "hi": "पद्म विभूषण",
+          "en": "Padma Vibhushan"
+        },
+        {
+          "hi": "पद्म भूषण",
+          "en": "Padma Bhushan"
+        },
+        {
+          "hi": "पद्म श्री",
+          "en": "Padma Shri"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे बड़ा गुरुद्वारा कौन-सा है?",
+        "en": "Which is the largest Gurdwara in India?"
+      },
+      "o": [
+        {
+          "hi": "बंगला साहिब (दिल्ली)",
+          "en": "Bangla Sahib (Delhi)"
+        },
+        {
+          "hi": "स्वर्ण मन्दिर (अमृतसर)",
+          "en": "Golden Temple (Amritsar)"
+        },
+        {
+          "hi": "शीश गंज साहिब (दिल्ली)",
+          "en": "Sis Ganj Sahib (Delhi)"
+        },
+        {
+          "hi": "पटना साहिब (बिहार)",
+          "en": "Patna Sahib (Bihar)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे बड़ा गिरजाघर (Church) कौन-सा है?",
+        "en": "Which is the largest cathedral/church in India?"
+      },
+      "o": [
+        {
+          "hi": "बेसिलिका ऑफ बॉम जीसस",
+          "en": "Basilica of Bom Jesus"
+        },
+        {
+          "hi": "सेंट पॉल कैथेड्रल (कोलकाता)",
+          "en": "St. Paul's Cathedral"
+        },
+        {
+          "hi": "सेंट कैथेड्रल (गोवा)",
+          "en": "Se Cathedral (Goa)"
+        },
+        {
+          "hi": "सेंट थॉमस कैथेड्रल (मुंबई)",
+          "en": "St. Thomas Cathedral"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे ऊँचा हवाई पत्तन (हवाई अड्डा) कौन-सा है?",
+        "en": "Which is the highest airport in India?"
+      },
+      "o": [
+        {
+          "hi": "शिमला हवाई अड्डा",
+          "en": "Shimla Airport"
+        },
+        {
+          "hi": "धर्मशाला हवाई अड्डा",
+          "en": "Dharamshala Airport"
+        },
+        {
+          "hi": "श्रीनगर हवाई अड्डा",
+          "en": "Srinagar Airport"
+        },
+        {
+          "hi": "कुशोक बकुला रिम्पोछे (लेह, लद्दाख)",
+          "en": "Kushok Bakula Rimpochee (Leh)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व एवं भारत का सबसे बड़ा नदी द्वीप कौन-सा है?",
+        "en": "Which is the largest river island in India and the world?"
+      },
+      "o": [
+        {
+          "hi": "माजुली (ब्रह्मपुत्र नदी, असम)",
+          "en": "Majuli (Brahmaputra River, Assam)"
+        },
+        {
+          "hi": "उमानंदा (असम)",
+          "en": "Umananda (Assam)"
+        },
+        {
+          "hi": "भवानी द्वीप (आंध्र प्रदेश)",
+          "en": "Bhavani Island (AP)"
+        },
+        {
+          "hi": "मुनरो द्वीप (केरल)",
+          "en": "Munroe Island (Kerala)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे छोटा नदी द्वीप कौन-सा है?",
+        "en": "Which is the smallest river island in India?"
+      },
+      "o": [
+        {
+          "hi": "माजुली (असम)",
+          "en": "Majuli (Assam)"
+        },
+        {
+          "hi": "उमानंदा (ब्रह्मपुत्र नदी, असम)",
+          "en": "Umananda (Brahmaputra River, Assam)"
+        },
+        {
+          "hi": "दीव द्वीप",
+          "en": "Diu Island"
+        },
+        {
+          "hi": "श्रीरंगम",
+          "en": "Srirangam"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे बड़ा तारामंडल कौन-सा है?",
+        "en": "Which is the largest planetarium in India?"
+      },
+      "o": [
+        {
+          "hi": "नेहरू प्लेनेटोरियम (मुंबई)",
+          "en": "Nehru Planetarium (Mumbai)"
+        },
+        {
+          "hi": "नेहरू प्लेनेटोरियम (दिल्ली)",
+          "en": "Nehru Planetarium (Delhi)"
+        },
+        {
+          "hi": "बिड़ला प्लेनेटोरियम (कोलकाता)",
+          "en": "Birla Planetarium (Kolkata)"
+        },
+        {
+          "hi": "इन्दिरा गांधी प्लेनेटोरियम (पटना)",
+          "en": "Indira Gandhi Planetarium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे ऊँचा गुरुत्वीय बाँध कौन-सा है?",
+        "en": "Which is the highest gravity dam in India?"
+      },
+      "o": [
+        {
+          "hi": "टिहरी बाँध",
+          "en": "Tehri Dam"
+        },
+        {
+          "hi": "सरदार सरोवर बाँध",
+          "en": "Sardar Sarovar Dam"
+        },
+        {
+          "hi": "नागार्जुन सागर बाँध",
+          "en": "Nagarjuna Sagar Dam"
+        },
+        {
+          "hi": "भाखड़ा बाँध",
+          "en": "Bhakra Dam"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे बड़ा प्राकृतिक बन्दरगाह कौन-सा है?",
+        "en": "Which is the largest natural seaport in India?"
+      },
+      "o": [
+        {
+          "hi": "मुंबई बन्दरगाह",
+          "en": "Mumbai Port"
+        },
+        {
+          "hi": "चेन्नई बन्दरगाह",
+          "en": "Chennai Port"
+        },
+        {
+          "hi": "कोचीन बन्दरगाह",
+          "en": "Cochin Port"
+        },
+        {
+          "hi": "विशाखापत्तनम बन्दरगाह",
+          "en": "Visakhapatnam Port"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे गहरा बन्दरगाह कौन-सा है?",
+        "en": "Which is the deepest landlocked seaport in India?"
+      },
+      "o": [
+        {
+          "hi": "पारादीप बन्दरगाह",
+          "en": "Paradip Port"
+        },
+        {
+          "hi": "विशाखापत्तनम बन्दरगाह",
+          "en": "Visakhapatnam Port"
+        },
+        {
+          "hi": "कांडला बन्दरगाह",
+          "en": "Kandla Port"
+        },
+        {
+          "hi": "कोलकाता बन्दरगाह",
+          "en": "Kolkata Port"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में खारे पानी की सबसे बड़ी तटीय (लैगून) झील कौन-सी है?",
+        "en": "Which is the largest brackish water coastal lagoon lake in India?"
+      },
+      "o": [
+        {
+          "hi": "सांभर झील (राजस्थान)",
+          "en": "Sambhar Lake (Rajasthan)"
+        },
+        {
+          "hi": "पुलिकट झील (आंध्र प्रदेश)",
+          "en": "Pulicat Lake (AP)"
+        },
+        {
+          "hi": "चिल्का झील (ओडिशा)",
+          "en": "Chilika Lake (Odisha)"
+        },
+        {
+          "hi": "वेम्बनाड झील (केरल)",
+          "en": "Vembanad Lake (Kerala)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में सबसे अधिक खारे पानी की अंतःस्थलीय झील कौन-सी है?",
+        "en": "Which is the largest inland saline water lake in India?"
+      },
+      "o": [
+        {
+          "hi": "चिल्का झील (ओडिशा)",
+          "en": "Chilika Lake (Odisha)"
+        },
+        {
+          "hi": "वूलर झील (जम्मू-कश्मीर)",
+          "en": "Wular Lake (J&K)"
+        },
+        {
+          "hi": "डीडवाना झील (राजस्थान)",
+          "en": "Didwana Lake (Rajasthan)"
+        },
+        {
+          "hi": "सांभर झील (राजस्थान)",
+          "en": "Sambhar Lake (Rajasthan)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में सबसे लम्बी दूरी तय करने वाली रेलगाड़ी कौन-सी है?",
+        "en": "Which train covers the longest distance in India?"
+      },
+      "o": [
+        {
+          "hi": "विवेक एक्सप्रेस (डिब्रूगढ़ से कन्याकुमारी)",
+          "en": "Vivek Express (Dibrugarh to Kanyakumari)"
+        },
+        {
+          "hi": "हिमसागर एक्सप्रेस",
+          "en": "Himsagar Express"
+        },
+        {
+          "hi": "नवयुग एक्सप्रेस",
+          "en": "Navyug Express"
+        },
+        {
+          "hi": "गतिमान एक्सप्रेस",
+          "en": "Gatimaan Express"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राज्य कौन-सा है?",
+        "en": "Which is the largest state in India by geographical area?"
+      },
+      "o": [
+        {
+          "hi": "मध्य प्रदेश",
+          "en": "Madhya Pradesh"
+        },
+        {
+          "hi": "राजस्थान",
+          "en": "Rajasthan"
+        },
+        {
+          "hi": "महाराष्ट्र",
+          "en": "Maharashtra"
+        },
+        {
+          "hi": "उत्तर प्रदेश",
+          "en": "Uttar Pradesh"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

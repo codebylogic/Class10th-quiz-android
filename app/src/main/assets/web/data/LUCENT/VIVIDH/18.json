@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विविध (Miscellaneous)",
+  "subtitle": "विश्व की प्रमुख गुप्तचर संस्थाएँ",
+  "description": "विश्व की प्रमुख गुप्तचर संस्थाएँ पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "सीआईए (CIA - Central Intelligence Agency) किस देश की गुप्तचर संस्था है?",
+        "en": "CIA (Central Intelligence Agency) is the foreign intelligence of which nation?"
+      },
+      "o": [
+        {
+          "hi": "संयुक्त राज्य अमेरिका (USA)",
+          "en": "United States of America (USA)"
+        },
+        {
+          "hi": "ब्रिटेन (UK)",
+          "en": "United Kingdom (UK)"
+        },
+        {
+          "hi": "रूस (Russia)",
+          "en": "Russia"
+        },
+        {
+          "hi": "इजराइल (Israel)",
+          "en": "Israel"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एफबीआई (FBI - Federal Bureau of Investigation) किस देश की एजेंसी है?",
+        "en": "FBI is the domestic intelligence and security service of which country?"
+      },
+      "o": [
+        {
+          "hi": "कनाडा (Canada)",
+          "en": "Canada"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका (USA)",
+          "en": "United States of America (USA)"
+        },
+        {
+          "hi": "ब्रिटेन (UK)",
+          "en": "UK"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मोसाद (Mossad) किस देश की विश्वविख्यात विदेशी गुप्तचर संस्था है?",
+        "en": "Mossad is the renowned foreign intelligence agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "ईरान (Iran)",
+          "en": "Iran"
+        },
+        {
+          "hi": "तुर्की (Turkey)",
+          "en": "Turkey"
+        },
+        {
+          "hi": "इजराइल (Israel)",
+          "en": "Israel"
+        },
+        {
+          "hi": "रूस (Russia)",
+          "en": "Russia"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शिन बेत (Shin Bet / Shabak) किस देश की आंतरिक सुरक्षा गुप्तचर एजेंसी है?",
+        "en": "Shin Bet (Shabak) is the internal security intelligence service of which country?"
+      },
+      "o": [
+        {
+          "hi": "जॉर्डन (Jordan)",
+          "en": "Jordan"
+        },
+        {
+          "hi": "मिस्र (Egypt)",
+          "en": "Egypt"
+        },
+        {
+          "hi": "लेबनान (Lebanon)",
+          "en": "Lebanon"
+        },
+        {
+          "hi": "इजराइल (Israel)",
+          "en": "Israel"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एमआई-6 (MI6 / SIS) किस देश की विदेशी गुप्तचर सेवा है?",
+        "en": "MI6 (Secret Intelligence Service) is the foreign intelligence agency of?"
+      },
+      "o": [
+        {
+          "hi": "ब्रिटेन (यूनाइटेड किंगडम)",
+          "en": "United Kingdom (Britain)"
+        },
+        {
+          "hi": "USA",
+          "en": "USA"
+        },
+        {
+          "hi": "फ्रांस (France)",
+          "en": "France"
+        },
+        {
+          "hi": "जर्मनी (Germany)",
+          "en": "Germany"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एमआई-5 (MI5 / Security Service) किस देश की आंतरिक गुप्तचर संस्था है?",
+        "en": "MI5 (Security Service) is the domestic counter-intelligence agency of?"
+      },
+      "o": [
+        {
+          "hi": "USA",
+          "en": "USA"
+        },
+        {
+          "hi": "ब्रिटेन (यूनाइटेड किंगडम)",
+          "en": "United Kingdom (Britain)"
+        },
+        {
+          "hi": "कनाडा (Canada)",
+          "en": "Canada"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रॉ (R&AW - Research and Analysis Wing) किस देश की विदेशी गुप्तचर एजेंसी है?",
+        "en": "Research and Analysis Wing (R&AW) is the external intelligence agency of?"
+      },
+      "o": [
+        {
+          "hi": "पाकिस्तान (Pakistan)",
+          "en": "Pakistan"
+        },
+        {
+          "hi": "बांग्लादेश (Bangladesh)",
+          "en": "Bangladesh"
+        },
+        {
+          "hi": "भारत (India)",
+          "en": "India"
+        },
+        {
+          "hi": "नेपाल (Nepal)",
+          "en": "Nepal"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आईबी (IB - Intelligence Bureau) किस देश की आंतरिक गुप्तचर संस्था है?",
+        "en": "Intelligence Bureau (IB) is the oldest domestic intelligence agency of?"
+      },
+      "o": [
+        {
+          "hi": "पाकिस्तान (Pakistan)",
+          "en": "Pakistan"
+        },
+        {
+          "hi": "श्रीलंका (Sri Lanka)",
+          "en": "Sri Lanka"
+        },
+        {
+          "hi": "म्यांमार (Myanmar)",
+          "en": "Myanmar"
+        },
+        {
+          "hi": "भारत (India)",
+          "en": "India"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सीबीआई (CBI - Central Bureau of Investigation) किस देश की जांच एजेंसी है?",
+        "en": "CBI is the premier central investigation police agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "भारत (India)",
+          "en": "India"
+        },
+        {
+          "hi": "नेपाल (Nepal)",
+          "en": "Nepal"
+        },
+        {
+          "hi": "भूटान (Bhutan)",
+          "en": "Bhutan"
+        },
+        {
+          "hi": "मॉरीशस (Mauritius)",
+          "en": "Mauritius"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आईएसआई (ISI - Inter-Services Intelligence) किस देश की प्रमुख एजेंसी है?",
+        "en": "Inter-Services Intelligence (ISI) is the premier intelligence agency of?"
+      },
+      "o": [
+        {
+          "hi": "अफगानिस्तान (Afghanistan)",
+          "en": "Afghanistan"
+        },
+        {
+          "hi": "पाकिस्तान (Pakistan)",
+          "en": "Pakistan"
+        },
+        {
+          "hi": "बांग्लादेश (Bangladesh)",
+          "en": "Bangladesh"
+        },
+        {
+          "hi": "तुर्की (Turkey)",
+          "en": "Turkey"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "केजीबी (KGB) किस देश की ऐतिहासिक एवं शक्तिशाली गुप्तचर संस्था थी?",
+        "en": "KGB was the notorious premier security and intelligence agency of?"
+      },
+      "o": [
+        {
+          "hi": "पूर्वी जर्मनी",
+          "en": "East Germany"
+        },
+        {
+          "hi": "पोलैंड",
+          "en": "Poland"
+        },
+        {
+          "hi": "सोवियत संघ (रूस / USSR)",
+          "en": "Soviet Union (USSR / Russia)"
+        },
+        {
+          "hi": "चीन",
+          "en": "China"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एफएसबी (FSB) वर्तमान में किस देश की प्रमुख आंतरिक सुरक्षा एजेंसी है?",
+        "en": "Federal Security Service (FSB) is the main domestic security agency of?"
+      },
+      "o": [
+        {
+          "hi": "यूक्रेन (Ukraine)",
+          "en": "Ukraine"
+        },
+        {
+          "hi": "बेलारूस (Belarus)",
+          "en": "Belarus"
+        },
+        {
+          "hi": "कजाकिस्तान (Kazakhstan)",
+          "en": "Kazakhstan"
+        },
+        {
+          "hi": "रूस (Russia)",
+          "en": "Russia"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एसवीआर (SVR) किस देश की विदेशी गुप्तचर सेवा है?",
+        "en": "Foreign Intelligence Service (SVR) is the external intelligence agency of?"
+      },
+      "o": [
+        {
+          "hi": "रूस (Russia)",
+          "en": "Russia"
+        },
+        {
+          "hi": "चीन (China)",
+          "en": "China"
+        },
+        {
+          "hi": "जर्मनी (Germany)",
+          "en": "Germany"
+        },
+        {
+          "hi": "फ्रांस (France)",
+          "en": "France"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जीआरयू (GRU) किस देश की सैन्य गुप्तचर एजेंसी (Military Intelligence) है?",
+        "en": "GRU is the foreign military intelligence agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "USA",
+          "en": "USA"
+        },
+        {
+          "hi": "रूस (Russia)",
+          "en": "Russia"
+        },
+        {
+          "hi": "ब्रिटेन (UK)",
+          "en": "UK"
+        },
+        {
+          "hi": "उत्तर कोरिया (North Korea)",
+          "en": "North Korea"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एमएसएस (MSS - Ministry of State Security) किस देश की गुप्तचर सेवा है?",
+        "en": "Ministry of State Security (MSS) is the premier intelligence agency of?"
+      },
+      "o": [
+        {
+          "hi": "जापान (Japan)",
+          "en": "Japan"
+        },
+        {
+          "hi": "उत्तर कोरिया (North Korea)",
+          "en": "North Korea"
+        },
+        {
+          "hi": "चीन (China)",
+          "en": "China"
+        },
+        {
+          "hi": "दक्षिण कोरिया (South Korea)",
+          "en": "South Korea"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बीएनडी (BND - Bundesnachrichtendienst) किस देश की विदेशी गुप्तचर एजेंसी है?",
+        "en": "BND (Federal Intelligence Service) is the foreign intelligence agency of?"
+      },
+      "o": [
+        {
+          "hi": "ऑस्ट्रिया (Austria)",
+          "en": "Austria"
+        },
+        {
+          "hi": "स्विट्जरलैंड (Switzerland)",
+          "en": "Switzerland"
+        },
+        {
+          "hi": "डेनमार्क (Denmark)",
+          "en": "Denmark"
+        },
+        {
+          "hi": "जर्मनी (Germany)",
+          "en": "Germany"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "डीजीएसई (DGSE) किस देश की विदेशी गुप्तचर एजेंसी है?",
+        "en": "DGSE is the external intelligence agency of which European nation?"
+      },
+      "o": [
+        {
+          "hi": "फ्रांस (France)",
+          "en": "France"
+        },
+        {
+          "hi": "इटली (Italy)",
+          "en": "Italy"
+        },
+        {
+          "hi": "स्पेन (Spain)",
+          "en": "Spain"
+        },
+        {
+          "hi": "बेल्जियम (Belgium)",
+          "en": "Belgium"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "डीजीएसआई (DGSI) किस देश की आंतरिक सुरक्षा और आतंकवाद रोधी एजेंसी है?",
+        "en": "DGSI is the domestic security and counter-terrorism agency of?"
+      },
+      "o": [
+        {
+          "hi": "कनाडा (Canada)",
+          "en": "Canada"
+        },
+        {
+          "hi": "फ्रांस (France)",
+          "en": "France"
+        },
+        {
+          "hi": "ग्रीस (Greece)",
+          "en": "Greece"
+        },
+        {
+          "hi": "नीदरलैंड्स (Netherlands)",
+          "en": "Netherlands"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एएसआईएस (ASIS) किस देश की विदेशी गुप्तचर एजेंसी है?",
+        "en": "ASIS (Australian Secret Intelligence Service) belongs to which nation?"
+      },
+      "o": [
+        {
+          "hi": "न्यूजीलैंड (New Zealand)",
+          "en": "New Zealand"
+        },
+        {
+          "hi": "कनाडा (Canada)",
+          "en": "Canada"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        },
+        {
+          "hi": "दक्षिण अफ्रीका (South Africa)",
+          "en": "South Africa"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एएसआईओ (ASIO) किस देश की राष्ट्रीय सुरक्षा एवं आंतरिक खुफिया एजेंसी है?",
+        "en": "ASIO is the domestic national security service of which country?"
+      },
+      "o": [
+        {
+          "hi": "ऑस्ट्रिया (Austria)",
+          "en": "Austria"
+        },
+        {
+          "hi": "कनाडा (Canada)",
+          "en": "Canada"
+        },
+        {
+          "hi": "आयरलैंड (Ireland)",
+          "en": "Ireland"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सीएसआईएस (CSIS) किस देश की सुरक्षा और गुप्तचर सेवा है?",
+        "en": "CSIS (Canadian Security Intelligence Service) is the agency of which nation?"
+      },
+      "o": [
+        {
+          "hi": "कनाडा (Canada)",
+          "en": "Canada"
+        },
+        {
+          "hi": "USA",
+          "en": "USA"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        },
+        {
+          "hi": "ब्रिटेन (UK)",
+          "en": "UK"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नाइचो (Naicho - Cabinet Intelligence and Research Office) कहाँ की एजेंसी है?",
+        "en": "Naicho is the national cabinet intelligence agency of which Asian country?"
+      },
+      "o": [
+        {
+          "hi": "दक्षिण कोरिया (South Korea)",
+          "en": "South Korea"
+        },
+        {
+          "hi": "जापान (Japan)",
+          "en": "Japan"
+        },
+        {
+          "hi": "ताइवान (Taiwan)",
+          "en": "Taiwan"
+        },
+        {
+          "hi": "सिंगापुर (Singapore)",
+          "en": "Singapore"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एनआईएस (NIS - National Intelligence Service) किस देश की प्रमुख एजेंसी है?",
+        "en": "National Intelligence Service (NIS) is the intelligence agency of?"
+      },
+      "o": [
+        {
+          "hi": "उत्तर कोरिया (North Korea)",
+          "en": "North Korea"
+        },
+        {
+          "hi": "जापान (Japan)",
+          "en": "Japan"
+        },
+        {
+          "hi": "दक्षिण कोरिया (South Korea)",
+          "en": "South Korea"
+        },
+        {
+          "hi": "वियतनाम (Vietnam)",
+          "en": "Vietnam"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आरजीबी (Reconnaissance General Bureau) किस देश की गुप्तचर सेवा है?",
+        "en": "RGB is the clandestine military intelligence agency of which state?"
+      },
+      "o": [
+        {
+          "hi": "चीन (China)",
+          "en": "China"
+        },
+        {
+          "hi": "रूस (Russia)",
+          "en": "Russia"
+        },
+        {
+          "hi": "म्यांमार (Myanmar)",
+          "en": "Myanmar"
+        },
+        {
+          "hi": "उत्तर कोरिया (North Korea)",
+          "en": "North Korea"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सावाक (SAVAK) किस देश की 1979 की क्रांति से पूर्व की कुख्यात गुप्तचर संस्था थी?",
+        "en": "SAVAK was the historic secret police and intelligence agency of which state?"
+      },
+      "o": [
+        {
+          "hi": "ईरान (शाह का शासन)",
+          "en": "Iran (Pahlavi Dynasty)"
+        },
+        {
+          "hi": "इराक",
+          "en": "Iraq"
+        },
+        {
+          "hi": "अफगानिस्तान",
+          "en": "Afghanistan"
+        },
+        {
+          "hi": "तुर्की",
+          "en": "Turkey"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मुखाबरात (Mukhabarat) शब्द सामान्यतः किन देशों की गुप्तचर सेवाओं के लिए प्रयुक्त होता है?",
+        "en": "The term 'Mukhabarat' denotes the intelligence apparatus of which nations?"
+      },
+      "o": [
+        {
+          "hi": "यूरोपीय देश",
+          "en": "European nations"
+        },
+        {
+          "hi": "अरब देश (मिस्र, इराक, सीरिया आदि)",
+          "en": "Arab nations (Egypt, Iraq, Syria etc)"
+        },
+        {
+          "hi": "लैटिन देश",
+          "en": "Latin American nations"
+        },
+        {
+          "hi": "नॉर्डिक देश",
+          "en": "Nordic nations"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जीआईडी (GID - General Intelligence Directorate) किस देश की प्रमुख सेवा है?",
+        "en": "General Intelligence Directorate (GID) is the agency of which Arab state?"
+      },
+      "o": [
+        {
+          "hi": "लेबनान (Lebanon)",
+          "en": "Lebanon"
+        },
+        {
+          "hi": "कुवैत (Kuwait)",
+          "en": "Kuwait"
+        },
+        {
+          "hi": "जॉर्डन (Jordan)",
+          "en": "Jordan"
+        },
+        {
+          "hi": "कतर (Qatar)",
+          "en": "Qatar"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एमआईटी (MIT - Milli Istihbarat Teskilati) किस देश की राष्ट्रीय गुप्तचर सेवा है?",
+        "en": "MIT is the national intelligence organization of which nation?"
+      },
+      "o": [
+        {
+          "hi": "ईरान (Iran)",
+          "en": "Iran"
+        },
+        {
+          "hi": "अजरबैजान (Azerbaijan)",
+          "en": "Azerbaijan"
+        },
+        {
+          "hi": "ग्रीस (Greece)",
+          "en": "Greece"
+        },
+        {
+          "hi": "तुर्की (Turkey)",
+          "en": "Turkey"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्टासी (Stasi) किस पूर्ववर्ती देश की कुख्यात राज्य सुरक्षा गुप्तचर सेवा थी?",
+        "en": "The Stasi (Ministry for State Security) was the secret police of which nation?"
+      },
+      "o": [
+        {
+          "hi": "पूर्वी जर्मनी (GDR)",
+          "en": "East Germany (GDR)"
+        },
+        {
+          "hi": "पश्चिमी जर्मनी",
+          "en": "West Germany"
+        },
+        {
+          "hi": "ऑस्ट्रिया",
+          "en": "Austria"
+        },
+        {
+          "hi": "हंगरी",
+          "en": "Hungary"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सीएनआई (CNI) किस यूरोपीय देश की राष्ट्रीय गुप्तचर सेवा है?",
+        "en": "National Intelligence Centre (CNI) is the agency of which European state?"
+      },
+      "o": [
+        {
+          "hi": "इटली (Italy)",
+          "en": "Italy"
+        },
+        {
+          "hi": "स्पेन (Spain)",
+          "en": "Spain"
+        },
+        {
+          "hi": "पुर्तगाल (Portugal)",
+          "en": "Portugal"
+        },
+        {
+          "hi": "ग्रीस (Greece)",
+          "en": "Greece"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एआईएसआई (AISI) एवं 'एआईएसई' किस देश की आंतरिक व विदेशी सुरक्षा एजेंसियाँ हैं?",
+        "en": "AISI and AISE are the domestic and foreign intelligence services of?"
+      },
+      "o": [
+        {
+          "hi": "फ्रांस (France)",
+          "en": "France"
+        },
+        {
+          "hi": "स्पेन (Spain)",
+          "en": "Spain"
+        },
+        {
+          "hi": "इटली (Italy)",
+          "en": "Italy"
+        },
+        {
+          "hi": "स्विट्जरलैंड (Switzerland)",
+          "en": "Switzerland"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "डीजीएफआई (DGFI) किस देश की प्रमुख सैन्य गुप्तचर एजेंसी है?",
+        "en": "DGFI (Directorate General of Forces Intelligence) belongs to which nation?"
+      },
+      "o": [
+        {
+          "hi": "पाकिस्तान (Pakistan)",
+          "en": "Pakistan"
+        },
+        {
+          "hi": "नेपाल (Nepal)",
+          "en": "Nepal"
+        },
+        {
+          "hi": "म्यांमार (Myanmar)",
+          "en": "Myanmar"
+        },
+        {
+          "hi": "बांग्लादेश (Bangladesh)",
+          "en": "Bangladesh"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एनडीएस (NDS) किस देश की पूर्ववर्ती राष्ट्रीय सुरक्षा गुप्तचर एजेंसी थी?",
+        "en": "National Directorate of Security (NDS) was the intelligence agency of?"
+      },
+      "o": [
+        {
+          "hi": "अफगानिस्तान (Afghanistan)",
+          "en": "Afghanistan"
+        },
+        {
+          "hi": "पाकिस्तान (Pakistan)",
+          "en": "Pakistan"
+        },
+        {
+          "hi": "ईरान (Iran)",
+          "en": "Iran"
+        },
+        {
+          "hi": "ताजिकिस्तान (Tajikistan)",
+          "en": "Tajikistan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत की अनुसंधान एवं विश्लेषण विंग (R&AW) की स्थापना किस वर्ष हुई थी?",
+        "en": "In which year was India's Research and Analysis Wing (R&AW) established?"
+      },
+      "o": [
+        {
+          "hi": "1962",
+          "en": "1962"
+        },
+        {
+          "hi": "1968 (21 सितंबर)",
+          "en": "1968 (21 September)"
+        },
+        {
+          "hi": "1965",
+          "en": "1965"
+        },
+        {
+          "hi": "1971",
+          "en": "1971"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत की 'रॉ' (R&AW) के प्रथम प्रमुख (Director) कौन थे?",
+        "en": "Who was the founding chief of India's Research and Analysis Wing (R&AW)?"
+      },
+      "o": [
+        {
+          "hi": "के. संकरन नायर",
+          "en": "K. Sankaran Nair"
+        },
+        {
+          "hi": "बी. एन. मलिक",
+          "en": "B. N. Mullik"
+        },
+        {
+          "hi": "आर. एन. काव (Rameshwar Nath Kao)",
+          "en": "R. N. Kao"
+        },
+        {
+          "hi": "अजीत डोभाल",
+          "en": "Ajit Doval"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत की इंटेलिजेंस ब्यूरो (IB) की स्थापना मूलतः किस वर्ष हुई थी?",
+        "en": "In which year was India's Intelligence Bureau (IB) originally founded?"
+      },
+      "o": [
+        {
+          "hi": "1947",
+          "en": "1947"
+        },
+        {
+          "hi": "1905",
+          "en": "1905"
+        },
+        {
+          "hi": "1920",
+          "en": "1920"
+        },
+        {
+          "hi": "1887 (केंद्रीय विशेष शाखा)",
+          "en": "1887 (Central Special Branch)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत की राष्ट्रीय सुरक्षा परिषद (NSC) के अध्यक्ष कौन होते हैं?",
+        "en": "Who is the chairman of the National Security Council (NSC) of India?"
+      },
+      "o": [
+        {
+          "hi": "भारत के प्रधानमंत्री",
+          "en": "Prime Minister of India"
+        },
+        {
+          "hi": "राष्ट्रीय सुरक्षा सलाहकार (NSA)",
+          "en": "National Security Advisor"
+        },
+        {
+          "hi": "रक्षा मंत्री",
+          "en": "Defence Minister"
+        },
+        {
+          "hi": "गृह मंत्री",
+          "en": "Home Minister"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत के प्रथम राष्ट्रीय सुरक्षा सलाहकार (NSA) कौन थे?",
+        "en": "Who was the first National Security Advisor (NSA) of India (1998)?"
+      },
+      "o": [
+        {
+          "hi": "जे. एन. दीक्षित",
+          "en": "J. N. Dixit"
+        },
+        {
+          "hi": "ब्रजेश मिश्र (Brajesh Mishra)",
+          "en": "Brajesh Mishra"
+        },
+        {
+          "hi": "एम. के. नारायणन",
+          "en": "M. K. Narayanan"
+        },
+        {
+          "hi": "शिवशंकर मेनन",
+          "en": "Shivshankar Menon"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में राष्ट्रीय तकनीकी अनुसंधान संगठन (NTRO) किस वर्ष स्थापित हुआ?",
+        "en": "In which year was National Technical Research Organisation (NTRO) created?"
+      },
+      "o": [
+        {
+          "hi": "1999",
+          "en": "1999"
+        },
+        {
+          "hi": "2008",
+          "en": "2008"
+        },
+        {
+          "hi": "2004",
+          "en": "2004"
+        },
+        {
+          "hi": "2014",
+          "en": "2014"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में 26/11 आतंकी हमलों के बाद किस केंद्रीय जांच एजेंसी का गठन हुआ?",
+        "en": "Which specialized agency was formed in India after 26/11 Mumbai attacks?"
+      },
+      "o": [
+        {
+          "hi": "सीबीआई (CBI)",
+          "en": "CBI"
+        },
+        {
+          "hi": "ईडी (ED)",
+          "en": "Enforcement Directorate"
+        },
+        {
+          "hi": "आईबी (IB)",
+          "en": "IB"
+        },
+        {
+          "hi": "राष्ट्रीय जांच एजेंसी (NIA)",
+          "en": "National Investigation Agency (NIA)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में वित्तीय अपराधों की जांच करने वाली प्रमुख एजेंसी कौन-सी है?",
+        "en": "Which central agency investigates financial crimes and money laundering in India?"
+      },
+      "o": [
+        {
+          "hi": "प्रवर्तन निदेशालय (ED - Enforcement Directorate)",
+          "en": "Enforcement Directorate (ED)"
+        },
+        {
+          "hi": "सीबीआई (CBI)",
+          "en": "CBI"
+        },
+        {
+          "hi": "एनआईए (NIA)",
+          "en": "NIA"
+        },
+        {
+          "hi": "रॉ (R&AW)",
+          "en": "R&AW"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फाइव आइज (Five Eyes / FVEY) में कौन-से पांच देश शामिल हैं?",
+        "en": "Which five English-speaking nations constitute the 'Five Eyes' alliance?"
+      },
+      "o": [
+        {
+          "hi": "USA, ब्रिटेन, फ्रांस, जर्मनी व जापान",
+          "en": "USA, UK, France, Germany & Japan"
+        },
+        {
+          "hi": "USA, ब्रिटेन, कनाडा, ऑस्ट्रेलिया एवं न्यूजीलैंड",
+          "en": "USA, UK, Canada, Australia and NZ"
+        },
+        {
+          "hi": "USA, रूस, चीन, ब्रिटेन व फ्रांस",
+          "en": "USA, Russia, China, UK & France"
+        },
+        {
+          "hi": "भारत, USA, जापान, ऑस्ट्रेलिया व UK",
+          "en": "India, USA, Japan, Australia & UK"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एनएसए (NSA - National Security Agency) किस देश की सिग्नल खुफिया एजेंसी है?",
+        "en": "NSA is the premier cryptologic signals intelligence agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "रूस (Russia)",
+          "en": "Russia"
+        },
+        {
+          "hi": "ब्रिटेन (UK)",
+          "en": "UK"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका (USA)",
+          "en": "United States of America (USA)"
+        },
+        {
+          "hi": "जर्मनी (Germany)",
+          "en": "Germany"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जीसीएचक्यू (GCHQ) किस देश की प्रमुख सिग्नल और साइबर खुफिया एजेंसी है?",
+        "en": "GCHQ is the intelligence and security agency of which European nation?"
+      },
+      "o": [
+        {
+          "hi": "फ्रांस (France)",
+          "en": "France"
+        },
+        {
+          "hi": "नीदरलैंड्स (Netherlands)",
+          "en": "Netherlands"
+        },
+        {
+          "hi": "जर्मनी (Germany)",
+          "en": "Germany"
+        },
+        {
+          "hi": "ब्रिटेन (यूनाइटेड किंगडम)",
+          "en": "United Kingdom (Britain)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मोसाद (Mossad) का आधिकारिक आदर्श वाक्य (Motto) किस धार्मिक ग्रंथ से है?",
+        "en": "The historic motto of Mossad is inspired by which scripture?"
+      },
+      "o": [
+        {
+          "hi": "बाइबिल (नीतिवचन / तनाख)",
+          "en": "Proverbs / Tanakh"
+        },
+        {
+          "hi": "कुरान",
+          "en": "Quran"
+        },
+        {
+          "hi": "तालमूद केवल",
+          "en": "Talmud only"
+        },
+        {
+          "hi": "टोरा व्यवस्था",
+          "en": "Torah laws"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नाटो (NATO) की संयुक्त खुफिया और सुरक्षा शाखा का मुख्यालय कहाँ है?",
+        "en": "Where is the headquarters of NATO Joint Intelligence and Security Division?"
+      },
+      "o": [
+        {
+          "hi": "पेरिस (फ्रांस)",
+          "en": "Paris (France)"
+        },
+        {
+          "hi": "ब्रुसेल्स (बेल्जियम)",
+          "en": "Brussels (Belgium)"
+        },
+        {
+          "hi": "लंदन (UK)",
+          "en": "London (UK)"
+        },
+        {
+          "hi": "वॉशिंगटन D.C.",
+          "en": "Washington D.C."
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अंतरराष्ट्रीय आपराधिक पुलिस संगठन (इंटरपोल / INTERPOL) का मुख्यालय कहाँ है?",
+        "en": "Where is the global headquarters of INTERPOL located?"
+      },
+      "o": [
+        {
+          "hi": "पेरिस (फ्रांस)",
+          "en": "Paris (France)"
+        },
+        {
+          "hi": "जिनेवा (स्विट्जरलैंड)",
+          "en": "Geneva (Switzerland)"
+        },
+        {
+          "hi": "ल्योन (फ्रांस)",
+          "en": "Lyon (France)"
+        },
+        {
+          "hi": "द हेग (नीदरलैंड्स)",
+          "en": "The Hague (Netherlands)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "इंटरपोल की स्थापना किस वर्ष वियना (ऑस्ट्रिया) में की गई थी?",
+        "en": "In which year was INTERPOL originally established in Vienna?"
+      },
+      "o": [
+        {
+          "hi": "1945",
+          "en": "1945"
+        },
+        {
+          "hi": "1914",
+          "en": "1914"
+        },
+        {
+          "hi": "1956",
+          "en": "1956"
+        },
+        {
+          "hi": "1923",
+          "en": "1923"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में इंटरपोल का राष्ट्रीय केंद्रीय ब्यूरो (NCB) कौन-सी संस्था है?",
+        "en": "Which organization acts as the National Central Bureau (NCB) of INTERPOL in India?"
+      },
+      "o": [
+        {
+          "hi": "केंद्रीय जांच ब्यूरो (CBI)",
+          "en": "Central Bureau of Investigation (CBI)"
+        },
+        {
+          "hi": "रॉ (R&AW)",
+          "en": "R&AW"
+        },
+        {
+          "hi": "आईबी (IB)",
+          "en": "IB"
+        },
+        {
+          "hi": "दिल्ली पुलिस",
+          "en": "Delhi Police"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गुप्तचर उपग्रहों और हवाई निगरानी का उपयोग क्या कहलाता है?",
+        "en": "What is intelligence gathered by reconnaissance satellites and aerial sensors called?"
+      },
+      "o": [
+        {
+          "hi": "ह्यूमिंट (HUMINT)",
+          "en": "Human Intelligence"
+        },
+        {
+          "hi": "इमेज इंटेलिजेंस (IMINT / GEOINT)",
+          "en": "Imagery Intelligence (IMINT)"
+        },
+        {
+          "hi": "सिगिंट (SIGINT)",
+          "en": "Signals Intelligence"
+        },
+        {
+          "hi": "ओसिंट (OSINT)",
+          "en": "Open Source Intelligence"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

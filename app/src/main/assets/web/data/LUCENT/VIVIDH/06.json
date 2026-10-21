@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विविध (Miscellaneous)",
+  "subtitle": "विश्व में सर्वाधिक बड़ा, छोटा, लम्बा एवं ऊँचा",
+  "description": "विश्व में सर्वाधिक बड़ा, छोटा, लम्बा एवं ऊँचा पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा महाद्वीप कौन-सा है?",
+        "en": "Which is the largest continent in the world?"
+      },
+      "o": [
+        {
+          "hi": "एशिया",
+          "en": "Asia"
+        },
+        {
+          "hi": "अफ्रीका",
+          "en": "Africa"
+        },
+        {
+          "hi": "उत्तरी अमेरिका",
+          "en": "North America"
+        },
+        {
+          "hi": "यूरोप",
+          "en": "Europe"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे छोटा महाद्वीप कौन-सा है?",
+        "en": "Which is the smallest continent in the world?"
+      },
+      "o": [
+        {
+          "hi": "अंटार्कटिका",
+          "en": "Antarctica"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया",
+          "en": "Australia"
+        },
+        {
+          "hi": "यूरोप",
+          "en": "Europe"
+        },
+        {
+          "hi": "दक्षिण अमेरिका",
+          "en": "South America"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा एवं सबसे गहरा महासागर कौन-सा है?",
+        "en": "Which is the largest and deepest ocean in the world?"
+      },
+      "o": [
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "हिन्द महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "प्रशांत महासागर",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "क्षेत्रफल की दृष्टि से विश्व का सबसे बड़ा देश कौन-सा है?",
+        "en": "Which is the largest country in the world by area?"
+      },
+      "o": [
+        {
+          "hi": "कनाडा",
+          "en": "Canada"
+        },
+        {
+          "hi": "चीन",
+          "en": "China"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका",
+          "en": "USA"
+        },
+        {
+          "hi": "रूस",
+          "en": "Russia"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "क्षेत्रफल एवं जनसंख्या दोनों में विश्व का सबसे छोटा देश कौन-सा है?",
+        "en": "Which is the smallest country in the world by area and population?"
+      },
+      "o": [
+        {
+          "hi": "वेटिकन सिटी",
+          "en": "Vatican City"
+        },
+        {
+          "hi": "मोनाको",
+          "en": "Monaco"
+        },
+        {
+          "hi": "नाउरू",
+          "en": "Nauru"
+        },
+        {
+          "hi": "सैन मैरिनो",
+          "en": "San Marino"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में सर्वाधिक जनसंख्या घनत्व वाला देश कौन-सा है?",
+        "en": "Which country has the highest population density in the world?"
+      },
+      "o": [
+        {
+          "hi": "मोनाको",
+          "en": "Monaco"
+        },
+        {
+          "hi": "सिंगापुर",
+          "en": "Singapore"
+        },
+        {
+          "hi": "माल्टा",
+          "en": "Malta"
+        },
+        {
+          "hi": "बांग्लादेश",
+          "en": "Bangladesh"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे कम जनसंख्या घनत्व वाला भूभाग कौन-सा है?",
+        "en": "Which region has the lowest population density in the world?"
+      },
+      "o": [
+        {
+          "hi": "ग्रीनलैंड",
+          "en": "Greenland"
+        },
+        {
+          "hi": "मंगोलिया",
+          "en": "Mongolia"
+        },
+        {
+          "hi": "अंटार्कटिका",
+          "en": "Antarctica"
+        },
+        {
+          "hi": "नामीबिया",
+          "en": "Namibia"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे अधिक आबादी वाला नगर कौन-सा है?",
+        "en": "Which is the most populous metropolitan city in the world?"
+      },
+      "o": [
+        {
+          "hi": "दिल्ली (भारत)",
+          "en": "Delhi (India)"
+        },
+        {
+          "hi": "शंघाई (चीन)",
+          "en": "Shanghai (China)"
+        },
+        {
+          "hi": "साओ पाउलो (ब्राजील)",
+          "en": "Sao Paulo (Brazil)"
+        },
+        {
+          "hi": "टोक्यो (जापान)",
+          "en": "Tokyo (Japan)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे लम्बी सीमा रेखा वाला देश कौन-सा है?",
+        "en": "Which country has the longest international border?"
+      },
+      "o": [
+        {
+          "hi": "कनाडा",
+          "en": "Canada"
+        },
+        {
+          "hi": "रूस",
+          "en": "Russia"
+        },
+        {
+          "hi": "चीन",
+          "en": "China"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका",
+          "en": "USA"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे छोटी सीमा रेखा वाला देश कौन-सा है?",
+        "en": "Which country has the shortest land border in the world?"
+      },
+      "o": [
+        {
+          "hi": "मोनाको",
+          "en": "Monaco"
+        },
+        {
+          "hi": "जिब्राल्टर",
+          "en": "Gibraltar"
+        },
+        {
+          "hi": "वेटिकन सिटी",
+          "en": "Vatican City"
+        },
+        {
+          "hi": "नाउरू",
+          "en": "Nauru"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सर्वाधिक देशों की सीमाओं को स्पर्श करने वाला देश कौन-सा है?",
+        "en": "Which country borders the largest number of neighboring countries?"
+      },
+      "o": [
+        {
+          "hi": "रूस (14 देश)",
+          "en": "Russia (14 countries)"
+        },
+        {
+          "hi": "ब्राजील",
+          "en": "Brazil"
+        },
+        {
+          "hi": "चीन (14 देश)",
+          "en": "China (14 countries)"
+        },
+        {
+          "hi": "जर्मनी",
+          "en": "Germany"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा द्वीप कौन-सा है?",
+        "en": "Which is the largest island in the world?"
+      },
+      "o": [
+        {
+          "hi": "न्यू गिनी",
+          "en": "New Guinea"
+        },
+        {
+          "hi": "बोर्नियो",
+          "en": "Borneo"
+        },
+        {
+          "hi": "मेडागास्कर",
+          "en": "Madagascar"
+        },
+        {
+          "hi": "ग्रीनलैंड",
+          "en": "Greenland"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा प्रायद्वीप कौन-सा है?",
+        "en": "Which is the largest peninsula in the world?"
+      },
+      "o": [
+        {
+          "hi": "अरब प्रायद्वीप",
+          "en": "Arabian Peninsula"
+        },
+        {
+          "hi": "भारतीय प्रायद्वीप",
+          "en": "Indian Peninsula"
+        },
+        {
+          "hi": "इंडोचीन प्रायद्वीप",
+          "en": "Indochina Peninsula"
+        },
+        {
+          "hi": "स्कैंडिनेवियाई प्रायद्वीप",
+          "en": "Scandinavian Peninsula"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा द्वीप समूह कौन-सा है?",
+        "en": "Which is the largest archipelago (island group) in the world?"
+      },
+      "o": [
+        {
+          "hi": "फिलीपींस",
+          "en": "Philippines"
+        },
+        {
+          "hi": "इंडोनेशिया",
+          "en": "Indonesia"
+        },
+        {
+          "hi": "जापान",
+          "en": "Japan"
+        },
+        {
+          "hi": "वेस्टइंडीज",
+          "en": "West Indies"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे लम्बी नदी कौन-सी है?",
+        "en": "Which is the longest river in the world?"
+      },
+      "o": [
+        {
+          "hi": "आमेजन नदी",
+          "en": "Amazon River"
+        },
+        {
+          "hi": "यांग्त्सीक्यांग नदी",
+          "en": "Yangtze River"
+        },
+        {
+          "hi": "नील नदी (मिस्र, 6650 किमी)",
+          "en": "Nile River (Egypt, 6650 km)"
+        },
+        {
+          "hi": "मिसिसिपी-मिसौरी",
+          "en": "Mississippi-Missouri"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अपवाह क्षेत्र एवं जल आयतन की दृष्टि से विश्व की सबसे बड़ी नदी कौन-सी है?",
+        "en": "Which is the largest river in the world by discharge volume and basin area?"
+      },
+      "o": [
+        {
+          "hi": "नील नदी",
+          "en": "Nile River"
+        },
+        {
+          "hi": "कांगो नदी",
+          "en": "Congo River"
+        },
+        {
+          "hi": "ब्रह्मपुत्र नदी",
+          "en": "Brahmaputra River"
+        },
+        {
+          "hi": "आमेजन नदी (ब्राजील)",
+          "en": "Amazon River (Brazil)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे छोटी नदी कौन-सी मानी जाती है?",
+        "en": "Which is considered the shortest river in the world?"
+      },
+      "o": [
+        {
+          "hi": "डी नदी (USA)",
+          "en": "D River (USA)"
+        },
+        {
+          "hi": "रो नदी (USA)",
+          "en": "Roe River (USA)"
+        },
+        {
+          "hi": "टेम्स नदी",
+          "en": "Thames River"
+        },
+        {
+          "hi": "सीन नदी",
+          "en": "Seine River"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा सागर कौन-सा है?",
+        "en": "Which is the largest sea in the world?"
+      },
+      "o": [
+        {
+          "hi": "भूमध्य सागर",
+          "en": "Mediterranean Sea"
+        },
+        {
+          "hi": "दक्षिण चीन सागर",
+          "en": "South China Sea"
+        },
+        {
+          "hi": "बेरिंग सागर",
+          "en": "Bering Sea"
+        },
+        {
+          "hi": "कैरेबियन सागर",
+          "en": "Caribbean Sea"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे विशाल उपसागर कौन-सा है?",
+        "en": "Which is the largest gulf/bay (inland sea) in the world?"
+      },
+      "o": [
+        {
+          "hi": "बंगाल की खाड़ी",
+          "en": "Bay of Bengal"
+        },
+        {
+          "hi": "मैक्सिको की खाड़ी",
+          "en": "Gulf of Mexico"
+        },
+        {
+          "hi": "हडसन उपसागर",
+          "en": "Hudson Bay"
+        },
+        {
+          "hi": "फारस की खाड़ी",
+          "en": "Persian Gulf"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे व्यस्त व्यापारिक नदी कौन-सी है?",
+        "en": "Which is the busiest commercial inland waterway river in the world?"
+      },
+      "o": [
+        {
+          "hi": "डेन्यूब नदी",
+          "en": "Danube River"
+        },
+        {
+          "hi": "सेंट लॉरेंस नदी",
+          "en": "St. Lawrence River"
+        },
+        {
+          "hi": "मिसिसिपी नदी",
+          "en": "Mississippi River"
+        },
+        {
+          "hi": "राइन नदी (जर्मनी)",
+          "en": "Rhine River (Germany)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे बड़ी ताजे पानी की झील कौन-सी है?",
+        "en": "Which is the largest freshwater lake in the world by surface area?"
+      },
+      "o": [
+        {
+          "hi": "सुपीरियर झील (USA/कनाडा)",
+          "en": "Lake Superior (USA/Canada)"
+        },
+        {
+          "hi": "विक्टोरिया झील",
+          "en": "Lake Victoria"
+        },
+        {
+          "hi": "ह्यूरन झील",
+          "en": "Lake Huron"
+        },
+        {
+          "hi": "मिशिगन झील",
+          "en": "Lake Michigan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे गहरी एवं प्राचीनतम मीठे पानी की झील कौन-सी है?",
+        "en": "Which is the deepest and oldest freshwater lake in the world?"
+      },
+      "o": [
+        {
+          "hi": "टंगानिका झील",
+          "en": "Lake Tanganyika"
+        },
+        {
+          "hi": "बैकाल झील (रूस)",
+          "en": "Lake Baikal (Russia)"
+        },
+        {
+          "hi": "कैस्पियन सागर",
+          "en": "Caspian Sea"
+        },
+        {
+          "hi": "मलावी झील",
+          "en": "Lake Malawi"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे बड़ी खारे पानी की अंतःस्थलीय झील कौन-सी है?",
+        "en": "Which is the world's largest inland body of water / saline lake?"
+      },
+      "o": [
+        {
+          "hi": "अरल सागर",
+          "en": "Aral Sea"
+        },
+        {
+          "hi": "मृत सागर",
+          "en": "Dead Sea"
+        },
+        {
+          "hi": "कैस्पियन सागर",
+          "en": "Caspian Sea"
+        },
+        {
+          "hi": "वॉन झील",
+          "en": "Lake Van"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व में सर्वाधिक ऊँचाई पर स्थित नौकागम्य झील कौन-सी है?",
+        "en": "Which is the highest commercially navigable lake in the world?"
+      },
+      "o": [
+        {
+          "hi": "बैकाल झील",
+          "en": "Lake Baikal"
+        },
+        {
+          "hi": "सुपीरियर झील",
+          "en": "Lake Superior"
+        },
+        {
+          "hi": "वुलर झील",
+          "en": "Wular Lake"
+        },
+        {
+          "hi": "टिटिकाका झील (पेरू-बोलिविया)",
+          "en": "Lake Titicaca (Peru-Bolivia)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "झील के अंदर स्थित विश्व की सबसे बड़ी झील/द्वीप संरचना कौन-सी है?",
+        "en": "Which is the largest freshwater lake within an island (or island in a lake)?"
+      },
+      "o": [
+        {
+          "hi": "मेनीटू झील (कनाडा)",
+          "en": "Manitou Lake (Canada)"
+        },
+        {
+          "hi": "ताउपो झील",
+          "en": "Lake Taupo"
+        },
+        {
+          "hi": "नेचर झील",
+          "en": "Lake Neuchatel"
+        },
+        {
+          "hi": "लाडोगा झील",
+          "en": "Lake Ladoga"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे ऊँचा जलप्रपात (झरना) कौन-सा है?",
+        "en": "Which is the highest uninterrupted waterfall in the world?"
+      },
+      "o": [
+        {
+          "hi": "तुगेला प्रपात",
+          "en": "Tugela Falls"
+        },
+        {
+          "hi": "एंजेल जलप्रपात (वेनेजुएला)",
+          "en": "Angel Falls (Venezuela)"
+        },
+        {
+          "hi": "नियाग्रा प्रपात",
+          "en": "Niagara Falls"
+        },
+        {
+          "hi": "विक्टोरिया प्रपात",
+          "en": "Victoria Falls"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे चौड़ा जलप्रपात कौन-सा है?",
+        "en": "Which is the widest waterfall in the world by width?"
+      },
+      "o": [
+        {
+          "hi": "गुएरा प्रपात",
+          "en": "Guaira Falls"
+        },
+        {
+          "hi": "नियाग्रा प्रपात",
+          "en": "Niagara Falls"
+        },
+        {
+          "hi": "खोन जलप्रपात (लाओस)",
+          "en": "Khone Phapheng Falls (Laos)"
+        },
+        {
+          "hi": "इगुआजू प्रपात",
+          "en": "Iguazu Falls"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा जलडमरूमध्य कौन-सा है?",
+        "en": "Which is the broadest strait in the world?"
+      },
+      "o": [
+        {
+          "hi": "मलक्का जलडमरूमध्य",
+          "en": "Strait of Malacca"
+        },
+        {
+          "hi": "जिब्राल्टर जलडमरूमध्य",
+          "en": "Strait of Gibraltar"
+        },
+        {
+          "hi": "बेरिंग जलडमरूमध्य",
+          "en": "Bering Strait"
+        },
+        {
+          "hi": "डेविस जलडमरूमध्य",
+          "en": "Davis Strait"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे विशाल गल्फ (खाड़ी) कौन-सा है?",
+        "en": "Which is the largest gulf in the world?"
+      },
+      "o": [
+        {
+          "hi": "मैक्सिको की खाड़ी",
+          "en": "Gulf of Mexico"
+        },
+        {
+          "hi": "हडसन की खाड़ी",
+          "en": "Hudson Bay"
+        },
+        {
+          "hi": "अदन की खाड़ी",
+          "en": "Gulf of Aden"
+        },
+        {
+          "hi": "ओमान की खाड़ी",
+          "en": "Gulf of Oman"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे ऊँचा पर्वत शिखर कौन-सा है?",
+        "en": "Which is the highest mountain peak in the world?"
+      },
+      "o": [
+        {
+          "hi": "K-2 (गॉडविन ऑस्टिन)",
+          "en": "K-2 (Godwin Austen)"
+        },
+        {
+          "hi": "माउंट एवरेस्ट (8848.86 मी.)",
+          "en": "Mount Everest (8848.86 m)"
+        },
+        {
+          "hi": "कंचनजंगा",
+          "en": "Kanchenjunga"
+        },
+        {
+          "hi": "ल्हाोत्से",
+          "en": "Lhotse"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे लम्बी पर्वतमाला कौन-सी है?",
+        "en": "Which is the longest continental mountain range in the world?"
+      },
+      "o": [
+        {
+          "hi": "रॉकी पर्वतमाला",
+          "en": "Rockies"
+        },
+        {
+          "hi": "हिमालय पर्वतमाला",
+          "en": "Himalayas"
+        },
+        {
+          "hi": "एंडीज पर्वतमाला (दक्षिण अमेरिका)",
+          "en": "Andes (South America)"
+        },
+        {
+          "hi": "ग्रेट डिवाइडिंग रेंज",
+          "en": "Great Dividing Range"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे ऊँचा पठार जिसे 'संसार की छत' कहा जाता है?",
+        "en": "Which highest plateau is known as the 'Roof of the World'?"
+      },
+      "o": [
+        {
+          "hi": "दक्कन का पठार",
+          "en": "Deccan Plateau"
+        },
+        {
+          "hi": "कोलोराडो का पठार",
+          "en": "Colorado Plateau"
+        },
+        {
+          "hi": "अनातोलिया का पठार",
+          "en": "Anatolian Plateau"
+        },
+        {
+          "hi": "पामीर का पठार (तिब्बत)",
+          "en": "Pamir Plateau (Tibet)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे गर्म स्थान कौन-सा रिकॉर्ड किया गया है?",
+        "en": "Which place recorded the highest temperature in world history?"
+      },
+      "o": [
+        {
+          "hi": "डेथ वैली (कैलिफोर्निया, USA)",
+          "en": "Death Valley (California, USA)"
+        },
+        {
+          "hi": "अल अजीजिया (लीबिया)",
+          "en": "El Azizia (Libya)"
+        },
+        {
+          "hi": "जैकोबाबाद (पाकिस्तान)",
+          "en": "Jacobabad (Pakistan)"
+        },
+        {
+          "hi": "दलोल (इथियोपिया)",
+          "en": "Dallol (Ethiopia)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे ठंडा स्थान कौन-सा है?",
+        "en": "Which is the coldest permanently inhabited/measured place in the world?"
+      },
+      "o": [
+        {
+          "hi": "ओइम्याकॉन (रूस)",
+          "en": "Oymyakon (Russia)"
+        },
+        {
+          "hi": "वोस्तॉक स्टेशन (अंटार्कटिका)",
+          "en": "Vostok Station (Antarctica)"
+        },
+        {
+          "hi": "वेरखोयान्स्क (रूस)",
+          "en": "Verkhoyansk (Russia)"
+        },
+        {
+          "hi": "ग्रीनलैंड शिखर",
+          "en": "Summit Greenland"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा मरुस्थल (रेगिस्तान) कौन-सा है?",
+        "en": "Which is the largest hot desert in the world?"
+      },
+      "o": [
+        {
+          "hi": "गोबी मरुस्थल",
+          "en": "Gobi Desert"
+        },
+        {
+          "hi": "कालाहारी मरुस्थल",
+          "en": "Kalahari Desert"
+        },
+        {
+          "hi": "सहारा मरुस्थल (अफ्रीका)",
+          "en": "Sahara Desert (Africa)"
+        },
+        {
+          "hi": "थार मरुस्थल",
+          "en": "Thar Desert"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एशिया का सबसे बड़ा मरुस्थल कौन-सा है?",
+        "en": "Which is the largest desert in Asia?"
+      },
+      "o": [
+        {
+          "hi": "थार मरुस्थल",
+          "en": "Thar Desert"
+        },
+        {
+          "hi": "तकला मकान मरुस्थल",
+          "en": "Taklamakan Desert"
+        },
+        {
+          "hi": "काराकुम मरुस्थल",
+          "en": "Karakum Desert"
+        },
+        {
+          "hi": "गोबी मरुस्थल (मंगोलिया/चीन)",
+          "en": "Gobi Desert (Mongolia/China)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा महाकाव्य कौन-सा है?",
+        "en": "Which is the largest epic in world literature?"
+      },
+      "o": [
+        {
+          "hi": "महाभारत",
+          "en": "Mahabharata"
+        },
+        {
+          "hi": "रामायण",
+          "en": "Ramayana"
+        },
+        {
+          "hi": "इलियड",
+          "en": "Iliad"
+        },
+        {
+          "hi": "ओडिसी",
+          "en": "Odyssey"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा अजायबघर (म्यूजियम) कौन-सा है?",
+        "en": "Which is the largest natural history museum in the world?"
+      },
+      "o": [
+        {
+          "hi": "ब्रिटिश म्यूजियम",
+          "en": "British Museum"
+        },
+        {
+          "hi": "अमेरिकन म्यूजियम ऑफ नेचुरल हिस्ट्री",
+          "en": "American Museum of Natural History"
+        },
+        {
+          "hi": "लूवर म्यूजियम",
+          "en": "Louvre Museum"
+        },
+        {
+          "hi": "हर्मिटेज म्यूजियम",
+          "en": "Hermitage Museum"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा चिड़ियाघर कौन-सा है?",
+        "en": "Which is the largest game reserve / zoo in the world?"
+      },
+      "o": [
+        {
+          "hi": "सैन डिएगो जू",
+          "en": "San Diego Zoo"
+        },
+        {
+          "hi": "बर्लिन जूलॉजिकल गार्डन",
+          "en": "Berlin Zoological Garden"
+        },
+        {
+          "hi": "क्रूगर नेशनल पार्क (दक्षिण अफ्रीका)",
+          "en": "Kruger National Park (South Africa)"
+        },
+        {
+          "hi": "सिंगापुर जू",
+          "en": "Singapore Zoo"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा पक्षी कौन-सा है?",
+        "en": "Which is the largest living bird in the world?"
+      },
+      "o": [
+        {
+          "hi": "एमु",
+          "en": "Emu"
+        },
+        {
+          "hi": "कैसोवरी",
+          "en": "Cassowary"
+        },
+        {
+          "hi": "अल्बाट्रॉस",
+          "en": "Albatross"
+        },
+        {
+          "hi": "ऑस्ट्रिच (शुतुरमुर्ग)",
+          "en": "Ostrich"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे छोटा पक्षी कौन-सा है?",
+        "en": "Which is the smallest bird in the world?"
+      },
+      "o": [
+        {
+          "hi": "हमिंग बर्ड (Bee Hummingbird)",
+          "en": "Bee Hummingbird"
+        },
+        {
+          "hi": "गौरैया",
+          "en": "House Sparrow"
+        },
+        {
+          "hi": "दर्जिन चिड़िया",
+          "en": "Tailorbird"
+        },
+        {
+          "hi": "कठफोड़वा",
+          "en": "Woodpecker"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा स्तनधारी जीव कौन-सा है?",
+        "en": "Which is the largest living mammal/animal on Earth?"
+      },
+      "o": [
+        {
+          "hi": "अफ्रीकी हाथी",
+          "en": "African Elephant"
+        },
+        {
+          "hi": "ब्लू व्हेल (नीली व्हेल)",
+          "en": "Blue Whale"
+        },
+        {
+          "hi": "स्पर्म व्हेल",
+          "en": "Sperm Whale"
+        },
+        {
+          "hi": "जिराफ",
+          "en": "Giraffe"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे ऊँचा पशु कौन-सा है?",
+        "en": "Which is the tallest land animal in the world?"
+      },
+      "o": [
+        {
+          "hi": "अफ्रीकी हाथी",
+          "en": "African Elephant"
+        },
+        {
+          "hi": "ऊंट",
+          "en": "Camel"
+        },
+        {
+          "hi": "जिराफ",
+          "en": "Giraffe"
+        },
+        {
+          "hi": "शुतुरमुर्ग",
+          "en": "Ostrich"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे विशाल मंदिर कौन-सा है?",
+        "en": "Which is the largest religious temple monument in the world?"
+      },
+      "o": [
+        {
+          "hi": "अक्षरधाम मंदिर (दिल्ली)",
+          "en": "Akshardham Temple"
+        },
+        {
+          "hi": "श्री रंगनाथस्वामी मंदिर",
+          "en": "Sri Ranganathaswamy Temple"
+        },
+        {
+          "hi": "प्रमबानन मंदिर",
+          "en": "Prambanan Temple"
+        },
+        {
+          "hi": "अंगकोर वाट मंदिर (कंबोडिया)",
+          "en": "Angkor Wat (Cambodia)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे बड़ी मूर्ति (प्रतिमा) कौन-सी है?",
+        "en": "Which is the tallest statue in the world?"
+      },
+      "o": [
+        {
+          "hi": "स्टैच्यू ऑफ यूनिटी (182 मी., भारत)",
+          "en": "Statue of Unity (182 m, India)"
+        },
+        {
+          "hi": "स्प्रिंग टेम्पल बुद्ध (चीन)",
+          "en": "Spring Temple Buddha (China)"
+        },
+        {
+          "hi": "लेक्युन सेक्या (म्यांमार)",
+          "en": "Laykyun Sekkya (Myanmar)"
+        },
+        {
+          "hi": "स्टैच्यू ऑफ लिबर्टी (USA)",
+          "en": "Statue of Liberty (USA)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे ऊँची इमारत कौन-सी है?",
+        "en": "Which is the tallest building/tower in the world?"
+      },
+      "o": [
+        {
+          "hi": "शंघाई टॉवर (चीन)",
+          "en": "Shanghai Tower (China)"
+        },
+        {
+          "hi": "बुर्ज खलीफा (दुबई, 828 मी.)",
+          "en": "Burj Khalifa (Dubai, 828 m)"
+        },
+        {
+          "hi": "मक्का रॉयल क्लॉक टॉवर",
+          "en": "Makkah Royal Clock Tower"
+        },
+        {
+          "hi": "वन वर्ल्ड ट्रेड सेंटर",
+          "en": "One World Trade Center"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे लम्बी दीवार कौन-सी है?",
+        "en": "Which is the longest defensive wall in the world?"
+      },
+      "o": [
+        {
+          "hi": "कुंभलगढ़ की दीवार",
+          "en": "Kumbhalgarh Wall"
+        },
+        {
+          "hi": "हैड्रियन की दीवार",
+          "en": "Hadrian's Wall"
+        },
+        {
+          "hi": "चीन की महान दीवार (Great Wall)",
+          "en": "Great Wall of China"
+        },
+        {
+          "hi": "बर्लिन की दीवार",
+          "en": "Berlin Wall"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा पुस्तकालय कौन-सा है?",
+        "en": "Which is the largest library in the world by catalogued items?"
+      },
+      "o": [
+        {
+          "hi": "ब्रिटिश लाइब्रेरी (लंदन)",
+          "en": "British Library (London)"
+        },
+        {
+          "hi": "नेशनल लाइब्रेरी ऑफ रशिया",
+          "en": "National Library of Russia"
+        },
+        {
+          "hi": "बिब्लियोथेक नेशनल (फ्रांस)",
+          "en": "Bibliotheque Nationale"
+        },
+        {
+          "hi": "लाइब्रेरी ऑफ कांग्रेस (वॉशिंगटन D.C.)",
+          "en": "Library of Congress (Washington D.C.)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे बड़ी कार्यालय इमारत (Office Building) कौन-सी है?",
+        "en": "Which is the largest office building in the world by floor space?"
+      },
+      "o": [
+        {
+          "hi": "सूरत डायमंड बोर्स (भारत)",
+          "en": "Surat Diamond Bourse (India)"
+        },
+        {
+          "hi": "पेंटागन (USA)",
+          "en": "The Pentagon (USA)"
+        },
+        {
+          "hi": "बुर्ज खलीफा",
+          "en": "Burj Khalifa"
+        },
+        {
+          "hi": "एप्पल पार्क",
+          "en": "Apple Park"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे लम्बा रेलवे प्लेटफॉर्म कहाँ स्थित है?",
+        "en": "Where is the world's longest railway platform located?"
+      },
+      "o": [
+        {
+          "hi": "गोरखपुर (भारत)",
+          "en": "Gorakhpur (India)"
+        },
+        {
+          "hi": "श्री सिद्धारूढ़ा स्वामीजी हुबली (भारत)",
+          "en": "Hubballi Junction (India)"
+        },
+        {
+          "hi": "खड़गपुर (भारत)",
+          "en": "Kharagpur (India)"
+        },
+        {
+          "hi": "स्टेट स्ट्रीट शिकागो (USA)",
+          "en": "State Street Chicago (USA)"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विविध (Miscellaneous)",
+  "subtitle": "प्रमुख देशों की समाचार एजेंसियाँ",
+  "description": "प्रमुख देशों की समाचार एजेंसियाँ पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "एसोसिएटेड प्रेस (AP) किस देश की प्रमुख समाचार एजेंसी है?",
+        "en": "Associated Press (AP) is the major news agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "संयुक्त राज्य अमेरिका (USA)",
+          "en": "United States of America (USA)"
+        },
+        {
+          "hi": "ब्रिटेन (UK)",
+          "en": "United Kingdom (UK)"
+        },
+        {
+          "hi": "रूस (Russia)",
+          "en": "Russia"
+        },
+        {
+          "hi": "फ्रांस (France)",
+          "en": "France"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रॉयटर्स (Reuters) किस देश की विश्व प्रसिद्ध समाचार एजेंसी है?",
+        "en": "Reuters is the world-renowned news agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "संयुक्त राज्य अमेरिका",
+          "en": "USA"
+        },
+        {
+          "hi": "ब्रिटेन (यूनाइटेड किंगडम)",
+          "en": "United Kingdom (Britain)"
+        },
+        {
+          "hi": "जर्मनी",
+          "en": "Germany"
+        },
+        {
+          "hi": "कनाडा",
+          "en": "Canada"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तास (TASS) किस देश की आधिकारिक प्रमुख समाचार एजेंसी है?",
+        "en": "TASS is the official leading state news agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "चीन (China)",
+          "en": "China"
+        },
+        {
+          "hi": "जर्मनी (Germany)",
+          "en": "Germany"
+        },
+        {
+          "hi": "रूस (Russia)",
+          "en": "Russia"
+        },
+        {
+          "hi": "जापान (Japan)",
+          "en": "Japan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बर्नामा (Bernama) किस देश की राष्ट्रीय समाचार एजेंसी है?",
+        "en": "Bernama is the national news agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "इंडोनेशिया (Indonesia)",
+          "en": "Indonesia"
+        },
+        {
+          "hi": "सिंगापुर (Singapore)",
+          "en": "Singapore"
+        },
+        {
+          "hi": "थाईलैंड (Thailand)",
+          "en": "Thailand"
+        },
+        {
+          "hi": "मलेशिया (Malaysia)",
+          "en": "Malaysia"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अंसा (ANSA) किस देश की प्रमुख राष्ट्रीय समाचार एजेंसी है?",
+        "en": "ANSA is the premier national news agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "इटली (Italy)",
+          "en": "Italy"
+        },
+        {
+          "hi": "स्पेन (Spain)",
+          "en": "Spain"
+        },
+        {
+          "hi": "फ्रांस (France)",
+          "en": "France"
+        },
+        {
+          "hi": "ग्रीस (Greece)",
+          "en": "Greece"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इतिम (ITIM) किस देश की समाचार एजेंसी है?",
+        "en": "ITIM is a news agency associated with which country?"
+      },
+      "o": [
+        {
+          "hi": "ईरान (Iran)",
+          "en": "Iran"
+        },
+        {
+          "hi": "इजराइल (Israel)",
+          "en": "Israel"
+        },
+        {
+          "hi": "तुर्की (Turkey)",
+          "en": "Turkey"
+        },
+        {
+          "hi": "मिस्र (Egypt)",
+          "en": "Egypt"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एजेंस फ्रांस-प्रेस (AFP) किस देश की विश्व की सबसे पुरानी समाचार एजेंसी है?",
+        "en": "Agence France-Presse (AFP) is the oldest news agency in which country?"
+      },
+      "o": [
+        {
+          "hi": "ब्रिटेन (UK)",
+          "en": "UK"
+        },
+        {
+          "hi": "जर्मनी (Germany)",
+          "en": "Germany"
+        },
+        {
+          "hi": "फ्रांस (France)",
+          "en": "France"
+        },
+        {
+          "hi": "इटली (Italy)",
+          "en": "Italy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रेस ट्रस्ट ऑफ इंडिया (PTI) किस देश की सबसे बड़ी समाचार एजेंसी है?",
+        "en": "Press Trust of India (PTI) is the largest news agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "पाकिस्तान (Pakistan)",
+          "en": "Pakistan"
+        },
+        {
+          "hi": "बांग्लादेश (Bangladesh)",
+          "en": "Bangladesh"
+        },
+        {
+          "hi": "नेपाल (Nepal)",
+          "en": "Nepal"
+        },
+        {
+          "hi": "भारत (India)",
+          "en": "India"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समाचार भारती और हिन्दुस्थान समाचार किस देश की बहुभाषी एजेंसियाँ हैं?",
+        "en": "Samachar Bharati & Hindusthan Samachar belong to which country?"
+      },
+      "o": [
+        {
+          "hi": "भारत (India)",
+          "en": "India"
+        },
+        {
+          "hi": "नेपाल (Nepal)",
+          "en": "Nepal"
+        },
+        {
+          "hi": "मॉरीशस (Mauritius)",
+          "en": "Mauritius"
+        },
+        {
+          "hi": "श्रीलंका (Sri Lanka)",
+          "en": "Sri Lanka"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शिन्हुआ (Xinhua) किस देश की आधिकारिक राज्य समाचार एजेंसी है?",
+        "en": "Xinhua is the official official state news agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "जापान (Japan)",
+          "en": "Japan"
+        },
+        {
+          "hi": "चीन (China)",
+          "en": "China"
+        },
+        {
+          "hi": "उत्तर कोरिया (North Korea)",
+          "en": "North Korea"
+        },
+        {
+          "hi": "दक्षिण कोरिया (South Korea)",
+          "en": "South Korea"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्योडो (Kyodo) और जिजी (Jiji) किस देश की प्रमुख समाचार एजेंसियाँ हैं?",
+        "en": "Kyodo and Jiji are major news agencies of which country?"
+      },
+      "o": [
+        {
+          "hi": "चीन (China)",
+          "en": "China"
+        },
+        {
+          "hi": "दक्षिण कोरिया (South Korea)",
+          "en": "South Korea"
+        },
+        {
+          "hi": "जापान (Japan)",
+          "en": "Japan"
+        },
+        {
+          "hi": "ताइवान (Taiwan)",
+          "en": "Taiwan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यूनहाप (Yonhap) किस देश की प्रमुख राष्ट्रीय समाचार एजेंसी है?",
+        "en": "Yonhap is the prominent national news agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "उत्तर कोरिया (North Korea)",
+          "en": "North Korea"
+        },
+        {
+          "hi": "जापान (Japan)",
+          "en": "Japan"
+        },
+        {
+          "hi": "वियतनाम (Vietnam)",
+          "en": "Vietnam"
+        },
+        {
+          "hi": "दक्षिण कोरिया (South Korea)",
+          "en": "South Korea"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "केसीएनए (KCNA) किस देश की आधिकारिक सरकारी समाचार एजेंसी है?",
+        "en": "KCNA is the state-run news agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "उत्तर कोरिया (North Korea)",
+          "en": "North Korea"
+        },
+        {
+          "hi": "चीन (China)",
+          "en": "China"
+        },
+        {
+          "hi": "रूस (Russia)",
+          "en": "Russia"
+        },
+        {
+          "hi": "मंगोलिया (Mongolia)",
+          "en": "Mongolia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अंतारा (Antara) किस देश की राष्ट्रीय समाचार एजेंसी है?",
+        "en": "Antara is the official national news agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "मलेशिया (Malaysia)",
+          "en": "Malaysia"
+        },
+        {
+          "hi": "इंडोनेशिया (Indonesia)",
+          "en": "Indonesia"
+        },
+        {
+          "hi": "फिलीपींस (Philippines)",
+          "en": "Philippines"
+        },
+        {
+          "hi": "ब्रुनेई (Brunei)",
+          "en": "Brunei"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "इरना (IRNA) किस देश की आधिकारिक समाचार एजेंसी है?",
+        "en": "IRNA is the official Islamic Republic news agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "इराक (Iraq)",
+          "en": "Iraq"
+        },
+        {
+          "hi": "सऊदी अरब (Saudi Arabia)",
+          "en": "Saudi Arabia"
+        },
+        {
+          "hi": "ईरान (Iran)",
+          "en": "Iran"
+        },
+        {
+          "hi": "सीरिया (Syria)",
+          "en": "Syria"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "डीपीए (DPA) किस देश की प्रमुख राष्ट्रीय समाचार एजेंसी है?",
+        "en": "DPA (Deutsche Presse-Agentur) is the news agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "डेनमार्क (Denmark)",
+          "en": "Denmark"
+        },
+        {
+          "hi": "ऑस्ट्रिया (Austria)",
+          "en": "Austria"
+        },
+        {
+          "hi": "नीदरलैंड्स (Netherlands)",
+          "en": "Netherlands"
+        },
+        {
+          "hi": "जर्मनी (Germany)",
+          "en": "Germany"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वाफा (WAFA) किस राष्ट्र/क्षेत्र की आधिकारिक समाचार एजेंसी है?",
+        "en": "WAFA is the official news agency of which territory/state?"
+      },
+      "o": [
+        {
+          "hi": "फिलिस्तीन (Palestine)",
+          "en": "Palestine"
+        },
+        {
+          "hi": "लेबनान (Lebanon)",
+          "en": "Lebanon"
+        },
+        {
+          "hi": "जॉर्डन (Jordan)",
+          "en": "Jordan"
+        },
+        {
+          "hi": "यमन (Yemen)",
+          "en": "Yemen"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एएपी (AAP - Australian Associated Press) किस देश की एजेंसी है?",
+        "en": "AAP (Australian Associated Press) is the news agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "न्यूजीलैंड (New Zealand)",
+          "en": "New Zealand"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        },
+        {
+          "hi": "कनाडा (Canada)",
+          "en": "Canada"
+        },
+        {
+          "hi": "दक्षिण अफ्रीका (South Africa)",
+          "en": "South Africa"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यूनाइटेड प्रेस इंटरनेशनल (UPI) किस देश की प्रमुख एजेंसी है?",
+        "en": "United Press International (UPI) is a news agency based in which country?"
+      },
+      "o": [
+        {
+          "hi": "ब्रिटेन (UK)",
+          "en": "UK"
+        },
+        {
+          "hi": "कनाडा (Canada)",
+          "en": "Canada"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका (USA)",
+          "en": "United States of America (USA)"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नोवोस्ती (RIA Novosti / Sputnik) किस देश से संबंधित समाचार सेवा है?",
+        "en": "RIA Novosti / Sputnik news service originates from which country?"
+      },
+      "o": [
+        {
+          "hi": "यूक्रेन (Ukraine)",
+          "en": "Ukraine"
+        },
+        {
+          "hi": "बेलारूस (Belarus)",
+          "en": "Belarus"
+        },
+        {
+          "hi": "कजाकिस्तान (Kazakhstan)",
+          "en": "Kazakhstan"
+        },
+        {
+          "hi": "रूस (Russia)",
+          "en": "Russia"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अनादोलु (Anadolu Agency) किस देश की आधिकारिक राज्य समाचार एजेंसी है?",
+        "en": "Anadolu Agency is the state-run news agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "तुर्की (Turkey)",
+          "en": "Turkey"
+        },
+        {
+          "hi": "मिस्र (Egypt)",
+          "en": "Egypt"
+        },
+        {
+          "hi": "ग्रीस (Greece)",
+          "en": "Greece"
+        },
+        {
+          "hi": "अजरबैजान (Azerbaijan)",
+          "en": "Azerbaijan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मेना (MENA - Middle East News Agency) किस देश में स्थित है?",
+        "en": "MENA (Middle East News Agency) is headquartered in which country?"
+      },
+      "o": [
+        {
+          "hi": "दुबई (UAE)",
+          "en": "Dubai (UAE)"
+        },
+        {
+          "hi": "काहिरा (मिस्र)",
+          "en": "Cairo (Egypt)"
+        },
+        {
+          "hi": "रियाद (सऊदी अरब)",
+          "en": "Riyadh (Saudi Arabia)"
+        },
+        {
+          "hi": "बगदाद (इराक)",
+          "en": "Baghdad (Iraq)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एसपीए (SPA - Saudi Press Agency) किस देश की आधिकारिक एजेंसी है?",
+        "en": "SPA (Saudi Press Agency) is the official agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "संयुक्त अरब अमीरात",
+          "en": "UAE"
+        },
+        {
+          "hi": "कतर",
+          "en": "Qatar"
+        },
+        {
+          "hi": "सऊदी अरब",
+          "en": "Saudi Arabia"
+        },
+        {
+          "hi": "कुवैत",
+          "en": "Kuwait"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वाम (WAM - Emirates News Agency) किस देश की समाचार एजेंसी है?",
+        "en": "WAM is the official state news agency of which nation?"
+      },
+      "o": [
+        {
+          "hi": "कतर (Qatar)",
+          "en": "Qatar"
+        },
+        {
+          "hi": "बहरीन (Bahrain)",
+          "en": "Bahrain"
+        },
+        {
+          "hi": "ओमान (Oman)",
+          "en": "Oman"
+        },
+        {
+          "hi": "संयुक्त अरब अमीरात (UAE)",
+          "en": "United Arab Emirates (UAE)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "क्यूएनए (QNA) किस देश की आधिकारिक समाचार एजेंसी है?",
+        "en": "QNA is the state-run news agency of which Gulf country?"
+      },
+      "o": [
+        {
+          "hi": "कतर (Qatar)",
+          "en": "Qatar"
+        },
+        {
+          "hi": "कुवैत (Kuwait)",
+          "en": "Kuwait"
+        },
+        {
+          "hi": "सऊदी अरब (Saudi Arabia)",
+          "en": "Saudi Arabia"
+        },
+        {
+          "hi": "ओमान (Oman)",
+          "en": "Oman"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एफे (EFE) किस देश की प्रमुख एवं विश्व की सबसे बड़ी स्पैनिश समाचार एजेंसी है?",
+        "en": "EFE is the major news agency of which country (largest in Spanish)?"
+      },
+      "o": [
+        {
+          "hi": "मेक्सिको (Mexico)",
+          "en": "Mexico"
+        },
+        {
+          "hi": "स्पेन (Spain)",
+          "en": "Spain"
+        },
+        {
+          "hi": "अर्जेंटीना (Argentina)",
+          "en": "Argentina"
+        },
+        {
+          "hi": "कोलंबिया (Colombia)",
+          "en": "Colombia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तेलाम (Telam) किस लैटिन अमेरिकी देश की राष्ट्रीय समाचार एजेंसी है?",
+        "en": "Telam is the national news agency of which Latin American country?"
+      },
+      "o": [
+        {
+          "hi": "ब्राजील (Brazil)",
+          "en": "Brazil"
+        },
+        {
+          "hi": "चिली (Chile)",
+          "en": "Chile"
+        },
+        {
+          "hi": "अर्जेंटीना (Argentina)",
+          "en": "Argentina"
+        },
+        {
+          "hi": "पेरू (Peru)",
+          "en": "Peru"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एजेंसिया ब्राजील (Agencia Brasil) किस देश की आधिकारिक समाचार सेवा है?",
+        "en": "Agencia Brasil is the public national news agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "पुर्तगाल (Portugal)",
+          "en": "Portugal"
+        },
+        {
+          "hi": "कोलंबिया (Colombia)",
+          "en": "Colombia"
+        },
+        {
+          "hi": "वेनेजुएला (Venezuela)",
+          "en": "Venezuela"
+        },
+        {
+          "hi": "ब्राजील (Brazil)",
+          "en": "Brazil"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लूसा (Lusa) किस देश की प्रमुख राष्ट्रीय समाचार एजेंसी है?",
+        "en": "Lusa is the primary national news agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "पुर्तगाल (Portugal)",
+          "en": "Portugal"
+        },
+        {
+          "hi": "स्पेन (Spain)",
+          "en": "Spain"
+        },
+        {
+          "hi": "ब्राजील (Brazil)",
+          "en": "Brazil"
+        },
+        {
+          "hi": "इटली (Italy)",
+          "en": "Italy"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एपीपी (APP - Associated Press of Pakistan) किस देश की एजेंसी है?",
+        "en": "APP (Associated Press of Pakistan) belongs to which country?"
+      },
+      "o": [
+        {
+          "hi": "बांग्लादेश (Bangladesh)",
+          "en": "Bangladesh"
+        },
+        {
+          "hi": "पाकिस्तान (Pakistan)",
+          "en": "Pakistan"
+        },
+        {
+          "hi": "अफगानिस्तान (Afghanistan)",
+          "en": "Afghanistan"
+        },
+        {
+          "hi": "भारत (India)",
+          "en": "India"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बीएसएस (BSS - Bangladesh Sangbad Sangstha) किस देश की एजेंसी है?",
+        "en": "BSS is the national news agency of which neighboring country?"
+      },
+      "o": [
+        {
+          "hi": "पश्चिम बंगाल (भारत)",
+          "en": "West Bengal (India)"
+        },
+        {
+          "hi": "नेपाल (Nepal)",
+          "en": "Nepal"
+        },
+        {
+          "hi": "बांग्लादेश (Bangladesh)",
+          "en": "Bangladesh"
+        },
+        {
+          "hi": "म्यांमार (Myanmar)",
+          "en": "Myanmar"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आरएसएस (RSS - Rastriya Samachar Samiti) किस देश की राष्ट्रीय एजेंसी है?",
+        "en": "Rastriya Samachar Samiti (RSS) is the state news agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "भूटान (Bhutan)",
+          "en": "Bhutan"
+        },
+        {
+          "hi": "भारत (India)",
+          "en": "India"
+        },
+        {
+          "hi": "श्रीलंका (Sri Lanka)",
+          "en": "Sri Lanka"
+        },
+        {
+          "hi": "नेपाल (Nepal)",
+          "en": "Nepal"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बाख्तर न्यूज एजेंसी (Bakhtar) किस देश की आधिकारिक समाचार सेवा है?",
+        "en": "Bakhtar News Agency is the official agency of which country?"
+      },
+      "o": [
+        {
+          "hi": "अफगानिस्तान (Afghanistan)",
+          "en": "Afghanistan"
+        },
+        {
+          "hi": "ईरान (Iran)",
+          "en": "Iran"
+        },
+        {
+          "hi": "ताजिकिस्तान (Tajikistan)",
+          "en": "Tajikistan"
+        },
+        {
+          "hi": "उज्बेकिस्तान (Uzbekistan)",
+          "en": "Uzbekistan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यूनाइटेड न्यूज ऑफ इंडिया (UNI) की स्थापना भारत में किस वर्ष हुई थी?",
+        "en": "In which year was United News of India (UNI) established in India?"
+      },
+      "o": [
+        {
+          "hi": "1947",
+          "en": "1947"
+        },
+        {
+          "hi": "1961",
+          "en": "1961"
+        },
+        {
+          "hi": "1950",
+          "en": "1950"
+        },
+        {
+          "hi": "1975",
+          "en": "1975"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रेस ट्रस्ट ऑफ इंडिया (PTI) ने अपना कार्य किस वर्ष से प्रारंभ किया?",
+        "en": "In which year did Press Trust of India (PTI) commence operations?"
+      },
+      "o": [
+        {
+          "hi": "1947",
+          "en": "1947"
+        },
+        {
+          "hi": "1952",
+          "en": "1952"
+        },
+        {
+          "hi": "1949",
+          "en": "1949"
+        },
+        {
+          "hi": "1960",
+          "en": "1960"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रॉयटर्स समाचार एजेंसी की स्थापना पॉल जूलियस रॉयटर ने कब की थी?",
+        "en": "When was Reuters founded by Paul Julius Reuter in London?"
+      },
+      "o": [
+        {
+          "hi": "1835",
+          "en": "1835"
+        },
+        {
+          "hi": "1900",
+          "en": "1900"
+        },
+        {
+          "hi": "1920",
+          "en": "1920"
+        },
+        {
+          "hi": "1851",
+          "en": "1851"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एसोसिएटेड प्रेस (AP) की स्थापना न्यूयॉर्क में किस वर्ष की गई थी?",
+        "en": "In which year was the Associated Press (AP) formed in New York?"
+      },
+      "o": [
+        {
+          "hi": "1846",
+          "en": "1846"
+        },
+        {
+          "hi": "1851",
+          "en": "1851"
+        },
+        {
+          "hi": "1888",
+          "en": "1888"
+        },
+        {
+          "hi": "1910",
+          "en": "1910"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व की प्रथम समाचार एजेंसी 'हावास' (Havas) की स्थापना कहाँ हुई थी?",
+        "en": "Where was the world's very first news agency (Havas) founded (1835)?"
+      },
+      "o": [
+        {
+          "hi": "लंदन (ब्रिटेन)",
+          "en": "London (UK)"
+        },
+        {
+          "hi": "पेरिस (फ्रांस)",
+          "en": "Paris (France)"
+        },
+        {
+          "hi": "बर्लिन (जर्मनी)",
+          "en": "Berlin (Germany)"
+        },
+        {
+          "hi": "रोम (इटली)",
+          "en": "Rome (Italy)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "शिन्हुआ (Xinhua) समाचार एजेंसी का मुख्यालय किस शहर में स्थित है?",
+        "en": "Where is the headquarters of Xinhua News Agency located?"
+      },
+      "o": [
+        {
+          "hi": "शंघाई (चीन)",
+          "en": "Shanghai (China)"
+        },
+        {
+          "hi": "हांगकांग (चीन)",
+          "en": "Hong Kong (China)"
+        },
+        {
+          "hi": "बीजिंग (चीन)",
+          "en": "Beijing (China)"
+        },
+        {
+          "hi": "ग्वांगझू (चीन)",
+          "en": "Guangzhou (China)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तास (TASS) समाचार एजेंसी का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of TASS news agency located?"
+      },
+      "o": [
+        {
+          "hi": "सेंट पीटर्सबर्ग (रूस)",
+          "en": "Saint Petersburg (Russia)"
+        },
+        {
+          "hi": "व्लादिवोस्तोक (रूस)",
+          "en": "Vladivostok (Russia)"
+        },
+        {
+          "hi": "कजान (रूस)",
+          "en": "Kazan (Russia)"
+        },
+        {
+          "hi": "मॉस्को (रूस)",
+          "en": "Moscow (Russia)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एजेंस फ्रांस-प्रेस (AFP) का वैश्विक मुख्यालय किस शहर में है?",
+        "en": "Where is the global headquarters of Agence France-Presse (AFP) located?"
+      },
+      "o": [
+        {
+          "hi": "पेरिस (फ्रांस)",
+          "en": "Paris (France)"
+        },
+        {
+          "hi": "ल्योन (फ्रांस)",
+          "en": "Lyon (France)"
+        },
+        {
+          "hi": "मार्सेल (फ्रांस)",
+          "en": "Marseille (France)"
+        },
+        {
+          "hi": "जिनेवा (स्विट्जरलैंड)",
+          "en": "Geneva (Switzerland)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्योडो न्यूज (Kyodo News) एजेंसी का मुख्यालय कहाँ है?",
+        "en": "Where is the headquarters of Kyodo News located?"
+      },
+      "o": [
+        {
+          "hi": "ओसाका (जापान)",
+          "en": "Osaka (Japan)"
+        },
+        {
+          "hi": "टोक्यो (जापान)",
+          "en": "Tokyo (Japan)"
+        },
+        {
+          "hi": "क्योटो (जापान)",
+          "en": "Kyoto (Japan)"
+        },
+        {
+          "hi": "योकोहामा (जापान)",
+          "en": "Yokohama (Japan)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ब्लूमबर्ग (Bloomberg News) वित्तीय समाचार एजेंसी का मुख्यालय कहाँ है?",
+        "en": "Where is the headquarters of financial news agency Bloomberg located?"
+      },
+      "o": [
+        {
+          "hi": "लंदन (UK)",
+          "en": "London (UK)"
+        },
+        {
+          "hi": "शिकागो (USA)",
+          "en": "Chicago (USA)"
+        },
+        {
+          "hi": "न्यूयॉर्क (USA)",
+          "en": "New York (USA)"
+        },
+        {
+          "hi": "सैन फ्रांसिस्को (USA)",
+          "en": "San Francisco (USA)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अल जजीरा (Al Jazeera) मीडिया नेटवर्क किस देश से संचालित होता है?",
+        "en": "Al Jazeera media network is based and operated from which country?"
+      },
+      "o": [
+        {
+          "hi": "दुबई (UAE)",
+          "en": "Dubai (UAE)"
+        },
+        {
+          "hi": "रियाद (सऊदी अरब)",
+          "en": "Riyadh (Saudi Arabia)"
+        },
+        {
+          "hi": "बेरूत (लेबनान)",
+          "en": "Beirut (Lebanon)"
+        },
+        {
+          "hi": "दोहा (कतर)",
+          "en": "Doha (Qatar)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रेस इंफॉर्मेशन ब्यूरो (PIB) किस देश की नोडल सरकारी सूचना एजेंसी है?",
+        "en": "Press Information Bureau (PIB) is the nodal government agency of which nation?"
+      },
+      "o": [
+        {
+          "hi": "भारत (India)",
+          "en": "India"
+        },
+        {
+          "hi": "पाकिस्तान (Pakistan)",
+          "en": "Pakistan"
+        },
+        {
+          "hi": "बांग्लादेश (Bangladesh)",
+          "en": "Bangladesh"
+        },
+        {
+          "hi": "नेपाल (Nepal)",
+          "en": "Nepal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समाचार पत्रों को समाचार देने वाली तार सेवाओं (Wire Services) का क्या कार्य है?",
+        "en": "What is the primary role of wire news agencies?"
+      },
+      "o": [
+        {
+          "hi": "केवल सरकारी विज्ञापन देना",
+          "en": "Publishing government ads only"
+        },
+        {
+          "hi": "वस्तुनिष्ठ समाचार संकलन एवं वितरण",
+          "en": "Objective news gathering and syndication"
+        },
+        {
+          "hi": "मुद्रण मशीन बेचना",
+          "en": "Selling printing presses"
+        },
+        {
+          "hi": "पुस्तकालय चलाना",
+          "en": "Running libraries"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में पहली गैर-अंग्रेजी समाचार एजेंसी 'हिन्दुस्थान समाचार' कब बनी?",
+        "en": "When was India's first multilingual news agency Hindusthan Samachar founded?"
+      },
+      "o": [
+        {
+          "hi": "1955",
+          "en": "1955"
+        },
+        {
+          "hi": "1962",
+          "en": "1962"
+        },
+        {
+          "hi": "1948",
+          "en": "1948"
+        },
+        {
+          "hi": "1971",
+          "en": "1971"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आपातकाल (1975-77) के दौरान भारत की चार एजेंसियों को मिलाकर क्या बनाया गया था?",
+        "en": "During Emergency (1975-77), which unified news agency was created in India?"
+      },
+      "o": [
+        {
+          "hi": "वार्ता (Varta)",
+          "en": "Varta"
+        },
+        {
+          "hi": "संदेश (Sandesh)",
+          "en": "Sandesh"
+        },
+        {
+          "hi": "न्यूज इंडिया (News India)",
+          "en": "News India"
+        },
+        {
+          "hi": "समाचार (Samachar)",
+          "en": "Samachar"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत की 'समाचार' एजेंसी को पुनः विघटित कर पुरानी व्यवस्था कब बहाल की गई?",
+        "en": "In which year was 'Samachar' dissolved to restore PTI and UNI?"
+      },
+      "o": [
+        {
+          "hi": "1978 (जनता पार्टी सरकार)",
+          "en": "1978 (Janata Party govt)"
+        },
+        {
+          "hi": "1980",
+          "en": "1980"
+        },
+        {
+          "hi": "1984",
+          "en": "1984"
+        },
+        {
+          "hi": "1977",
+          "en": "1977"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समाचार एजेंसियों के पत्रकारों को किस नाम से भी जाना जाता है?",
+        "en": "Journalists reporting for global news wire agencies are often called?"
+      },
+      "o": [
+        {
+          "hi": "स्तंभकार (Columnists)",
+          "en": "Columnists"
+        },
+        {
+          "hi": "वायर संवाददाता (Wire Correspondents)",
+          "en": "Wire Correspondents"
+        },
+        {
+          "hi": "संपादक (Editors)",
+          "en": "Chief Editors"
+        },
+        {
+          "hi": "प्रूफ रीडर (Proofreaders)",
+          "en": "Proofreaders"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

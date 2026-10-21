@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - खेल-कूद (Sports)",
+  "subtitle": "विभिन्न खेलों के खेल-परिसर",
+  "description": "विभिन्न खेलों के खेल-परिसर पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "बेसबॉल (Baseball) का खेल-परिसर क्या कहलाता है?",
+        "en": "What is the playing area / field of Baseball called?"
+      },
+      "o": [
+        {
+          "hi": "डायमंड (Diamond)",
+          "en": "Diamond"
+        },
+        {
+          "hi": "कोर्ट (Court)",
+          "en": "Court"
+        },
+        {
+          "hi": "रिंग (Ring)",
+          "en": "Ring"
+        },
+        {
+          "hi": "पिच (Pitch)",
+          "en": "Pitch"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गोल्फ (Golf) का विस्तृत खेल-परिसर क्या कहलाता है?",
+        "en": "What is the dedicated playing ground/area for Golf called?"
+      },
+      "o": [
+        {
+          "hi": "फील्ड (Field)",
+          "en": "Field"
+        },
+        {
+          "hi": "कोर्स (Course)",
+          "en": "Course"
+        },
+        {
+          "hi": "एरेना (Arena)",
+          "en": "Arena"
+        },
+        {
+          "hi": "रेंज (Range)",
+          "en": "Range"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "साइकिलिंग (Cycling / ट्रैक साइकिल दौड़) का खेल-परिसर क्या कहलाता है?",
+        "en": "What is the specialized banked track or arena for Track Cycling called?"
+      },
+      "o": [
+        {
+          "hi": "रिंग (Ring)",
+          "en": "Ring"
+        },
+        {
+          "hi": "ट्रैक (Track)",
+          "en": "Track"
+        },
+        {
+          "hi": "वेलोड्रोम (Velodrome)",
+          "en": "Velodrome"
+        },
+        {
+          "hi": "कोर्स (Course)",
+          "en": "Course"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मुक्केबाजी (Boxing) और स्केटिंग (Skating) की प्रतियोगिता कहाँ होती है?",
+        "en": "Where do Boxing matches take place?"
+      },
+      "o": [
+        {
+          "hi": "रिंक (Rink)",
+          "en": "Rink"
+        },
+        {
+          "hi": "कोर्ट (Court)",
+          "en": "Court"
+        },
+        {
+          "hi": "डायमंड (Diamond)",
+          "en": "Diamond"
+        },
+        {
+          "hi": "रिंग (Ring)",
+          "en": "Ring"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आइस हॉकी (Ice Hockey) और कर्लिंग (Curling) का बर्फ वाला खेल-परिसर क्या कहलाता है?",
+        "en": "What is the ice surface / playing area of Ice Hockey and Curling called?"
+      },
+      "o": [
+        {
+          "hi": "रिंक (Rink)",
+          "en": "Rink"
+        },
+        {
+          "hi": "रिंग (Ring)",
+          "en": "Ring"
+        },
+        {
+          "hi": "एरेना (Arena)",
+          "en": "Arena"
+        },
+        {
+          "hi": "मैट (Mat)",
+          "en": "Mat"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "टेनिस, बैडमिंटन, वॉलीबॉल, स्क्वैश और खो-खो का खेल-परिसर क्या कहलाता है?",
+        "en": "What is the playing area for Tennis, Badminton, Volleyball, Squash, and Kho-Kho called?"
+      },
+      "o": [
+        {
+          "hi": "पिच (Pitch)",
+          "en": "Pitch"
+        },
+        {
+          "hi": "कोर्ट (Court)",
+          "en": "Court"
+        },
+        {
+          "hi": "फील्ड (Field)",
+          "en": "Field"
+        },
+        {
+          "hi": "डायमंड (Diamond)",
+          "en": "Diamond"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्रिकेट और रग्बी (Rugby) का मुख्य केंद्रीय खेल क्षेत्र क्या कहलाता है?",
+        "en": "What is the central playing strip/area of Cricket and Rugby called?"
+      },
+      "o": [
+        {
+          "hi": "कोर्ट (Court)",
+          "en": "Court"
+        },
+        {
+          "hi": "ट्रैक (Track)",
+          "en": "Track"
+        },
+        {
+          "hi": "पिच (Pitch)",
+          "en": "Pitch"
+        },
+        {
+          "hi": "कोर्स (Course)",
+          "en": "Course"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "फुटबॉल, फील्ड हॉकी और पोलो का विस्तृत मैदानी खेल-परिसर क्या कहलाता है?",
+        "en": "What is the outdoor grassy playing area for Football, Field Hockey, and Polo called?"
+      },
+      "o": [
+        {
+          "hi": "कोर्ट (Court)",
+          "en": "Court"
+        },
+        {
+          "hi": "पिच (Pitch)",
+          "en": "Pitch"
+        },
+        {
+          "hi": "एरेना (Arena)",
+          "en": "Arena"
+        },
+        {
+          "hi": "फील्ड (Field)",
+          "en": "Field"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "निशानेबाजी (Shooting) और तीरंदाजी (Archery) का अभ्यास परिसर क्या कहलाता है?",
+        "en": "What is the practice or competition ground for Shooting and Archery called?"
+      },
+      "o": [
+        {
+          "hi": "रेंज (Range)",
+          "en": "Range"
+        },
+        {
+          "hi": "कोर्स (Course)",
+          "en": "Course"
+        },
+        {
+          "hi": "वेलोड्रोम (Velodrome)",
+          "en": "Velodrome"
+        },
+        {
+          "hi": "ट्रैक (Track)",
+          "en": "Track"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जूडो, कराटे और तायक्वांडो का मुकाबला जिस विशेष गद्देदार फर्श पर होता है, उसे क्या कहते हैं?",
+        "en": "What is the padded contest floor for Judo, Karate, and Taekwondo called?"
+      },
+      "o": [
+        {
+          "hi": "रिंग (Ring)",
+          "en": "Ring"
+        },
+        {
+          "hi": "मैट (Mat / तातामी)",
+          "en": "Mat (Tatami)"
+        },
+        {
+          "hi": "कोर्ट (Court)",
+          "en": "Court"
+        },
+        {
+          "hi": "एरेना (Arena)",
+          "en": "Arena"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "घुड़सवारी (Equestrian) और सांड युद्ध (Bullfighting) का खेल-परिसर क्या कहलाता है?",
+        "en": "What is the enclosed playing ground for Equestrian events and Bullfighting called?"
+      },
+      "o": [
+        {
+          "hi": "कोर्स (Course)",
+          "en": "Course"
+        },
+        {
+          "hi": "वेलोड्रोम (Velodrome)",
+          "en": "Velodrome"
+        },
+        {
+          "hi": "एरेना (Arena)",
+          "en": "Arena"
+        },
+        {
+          "hi": "रिंक (Rink)",
+          "en": "Rink"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बाउल्स / लॉन बॉल्स (Lawn Bowls) का खेल-परिसर क्या कहलाता है?",
+        "en": "What is the closely mown grass playing surface for Lawn Bowls called?"
+      },
+      "o": [
+        {
+          "hi": "कोर्ट (Court)",
+          "en": "Court"
+        },
+        {
+          "hi": "फील्ड (Field)",
+          "en": "Field"
+        },
+        {
+          "hi": "एली (Alley)",
+          "en": "Alley"
+        },
+        {
+          "hi": "ग्रीन (Green)",
+          "en": "Green"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "टेनपिन बॉलिंग (Tenpin Bowling) का संकरा लेन वाला खेल-परिसर क्या कहलाता है?",
+        "en": "What is the lane/indoor facility for Tenpin Bowling called?"
+      },
+      "o": [
+        {
+          "hi": "एली (Alley)",
+          "en": "Alley"
+        },
+        {
+          "hi": "कोर्ट (Court)",
+          "en": "Court"
+        },
+        {
+          "hi": "रिंक (Rink)",
+          "en": "Rink"
+        },
+        {
+          "hi": "ग्रीन (Green)",
+          "en": "Green"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तैराकी (Swimming) और वाटर पोलो की प्रतियोगिताएं कहाँ आयोजित की जाती हैं?",
+        "en": "Where are competitive Swimming and Water Polo events held?"
+      },
+      "o": [
+        {
+          "hi": "रिंक (Rink)",
+          "en": "Rink"
+        },
+        {
+          "hi": "पूल / तरणताल (Pool / Natatorium)",
+          "en": "Pool / Natatorium"
+        },
+        {
+          "hi": "कोर्स (Course)",
+          "en": "Course"
+        },
+        {
+          "hi": "कोर्ट (Court)",
+          "en": "Court"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एथलेटिक्स (दौड़, रिले आदि) की स्पर्धाएं कहाँ आयोजित होती हैं?",
+        "en": "Where do standard running and relay events in Athletics take place?"
+      },
+      "o": [
+        {
+          "hi": "कोर्स (Course)",
+          "en": "Course"
+        },
+        {
+          "hi": "पिच (Pitch)",
+          "en": "Pitch"
+        },
+        {
+          "hi": "ट्रैक (Track - 400 मीटर मानक धावन पथ)",
+          "en": "Track (400m standard running track)"
+        },
+        {
+          "hi": "फील्ड (Field)",
+          "en": "Field"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शतरंज (Chess) और कैरम (Carrom) का खेल किस पर खेला जाता है?",
+        "en": "On what surface are Chess and Carrom played?"
+      },
+      "o": [
+        {
+          "hi": "टेबल (Table)",
+          "en": "Table"
+        },
+        {
+          "hi": "मैट (Mat)",
+          "en": "Mat"
+        },
+        {
+          "hi": "कोर्ट (Court)",
+          "en": "Court"
+        },
+        {
+          "hi": "बोर्ड (Board)",
+          "en": "Board"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "टेबल टेनिस (Table Tennis) का मुकाबला किस पर खेला जाता है?",
+        "en": "On what specific apparatus is Table Tennis contested?"
+      },
+      "o": [
+        {
+          "hi": "टेबल / बोर्ड (Table)",
+          "en": "Table"
+        },
+        {
+          "hi": "कोर्ट (Court)",
+          "en": "Court"
+        },
+        {
+          "hi": "मैट (Mat)",
+          "en": "Mat"
+        },
+        {
+          "hi": "पिच (Pitch)",
+          "en": "Pitch"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बिलियर्ड्स और स्नूकर का खेल किस पर आयोजित होता है?",
+        "en": "On what specialized playing surface are Billiards and Snooker played?"
+      },
+      "o": [
+        {
+          "hi": "बोर्ड (Board)",
+          "en": "Board"
+        },
+        {
+          "hi": "टेबल (Table - स्लेट व फलालैन युक्त मेज)",
+          "en": "Table (Slate and Baize Table)"
+        },
+        {
+          "hi": "मैट (Mat)",
+          "en": "Mat"
+        },
+        {
+          "hi": "रिंक (Rink)",
+          "en": "Rink"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हैंडबॉल (Handball) और बास्केटबॉल के इनडोर खेल-परिसर को क्या कहते हैं?",
+        "en": "What is the standard playing area for team Handball and Basketball called?"
+      },
+      "o": [
+        {
+          "hi": "पिच (Pitch)",
+          "en": "Pitch"
+        },
+        {
+          "hi": "फील्ड (Field)",
+          "en": "Field"
+        },
+        {
+          "hi": "कोर्ट (Court)",
+          "en": "Court"
+        },
+        {
+          "hi": "रिंक (Rink)",
+          "en": "Rink"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कबड्डी (Kabaddi) की प्रतियोगिता किस सतह पर आयोजित होती है?",
+        "en": "On which playing surface are competitive Kabaddi matches held?"
+      },
+      "o": [
+        {
+          "hi": "रिंग (Ring)",
+          "en": "Ring"
+        },
+        {
+          "hi": "पिच (Pitch)",
+          "en": "Pitch"
+        },
+        {
+          "hi": "एरेना (Arena)",
+          "en": "Arena"
+        },
+        {
+          "hi": "कोर्ट / मैट (Mat / Court - 13मी x 10मी)",
+          "en": "Court / Mat (13m x 10m)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नेटबॉल (Netball) का खेल-परिसर क्या कहलाता है?",
+        "en": "What is the playing area of Netball called?"
+      },
+      "o": [
+        {
+          "hi": "कोर्ट (Court)",
+          "en": "Court"
+        },
+        {
+          "hi": "फील्ड (Field)",
+          "en": "Field"
+        },
+        {
+          "hi": "पिच (Pitch)",
+          "en": "Pitch"
+        },
+        {
+          "hi": "रिंग (Ring)",
+          "en": "Ring"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पोलो (Polo) के लिए प्रयुक्त घास का खुला मैदान क्या कहलाता है?",
+        "en": "What is the outdoor turf playing area of Polo called?"
+      },
+      "o": [
+        {
+          "hi": "कोर्स (Course)",
+          "en": "Course"
+        },
+        {
+          "hi": "फील्ड (Field)",
+          "en": "Field"
+        },
+        {
+          "hi": "ट्रैक (Track)",
+          "en": "Track"
+        },
+        {
+          "hi": "पिच (Pitch)",
+          "en": "Pitch"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वॉटर स्कीइंग (Water Skiing) और नौकायन (Rowing) की प्रतियोगिता कहाँ होती है?",
+        "en": "Where are competitive Rowing and Water Skiing events held?"
+      },
+      "o": [
+        {
+          "hi": "पूल (Pool)",
+          "en": "Pool"
+        },
+        {
+          "hi": "एरेना (Arena)",
+          "en": "Arena"
+        },
+        {
+          "hi": "जल मार्ग / रेगाटा कोर्स (Water Course / Regatta)",
+          "en": "Water Course / Regatta Course"
+        },
+        {
+          "hi": "ट्रैक (Track)",
+          "en": "Track"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "घुड़दौड़ (Horse Racing) जिस अंडाकार मार्ग पर होती है, उसे क्या कहते हैं?",
+        "en": "What is the dedicated equestrian track for Thoroughbred Horse Racing called?"
+      },
+      "o": [
+        {
+          "hi": "वेलोड्रोम (Velodrome)",
+          "en": "Velodrome"
+        },
+        {
+          "hi": "एरेना (Arena)",
+          "en": "Arena"
+        },
+        {
+          "hi": "फील्ड (Field)",
+          "en": "Field"
+        },
+        {
+          "hi": "रेसकोर्स (Racecourse / Track)",
+          "en": "Racecourse / Track"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "डार्ट्स (Darts) का खेल किस लक्ष्य पर खेला जाता है?",
+        "en": "At what circular target is the game of Darts played?"
+      },
+      "o": [
+        {
+          "hi": "डार्टबोर्ड (Dartboard)",
+          "en": "Dartboard"
+        },
+        {
+          "hi": "मैट (Mat)",
+          "en": "Mat"
+        },
+        {
+          "hi": "रेंज (Range)",
+          "en": "Range"
+        },
+        {
+          "hi": "टेबल (Table)",
+          "en": "Table"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्क्वैश (Squash) का बंद चार-दीवारी वाला खेल क्षेत्र क्या कहलाता है?",
+        "en": "What is the four-walled enclosed room for playing Squash called?"
+      },
+      "o": [
+        {
+          "hi": "रिंग (Ring)",
+          "en": "Ring"
+        },
+        {
+          "hi": "स्क्वैश कोर्ट (Squash Court)",
+          "en": "Squash Court"
+        },
+        {
+          "hi": "रिंक (Rink)",
+          "en": "Rink"
+        },
+        {
+          "hi": "एरेना (Arena)",
+          "en": "Arena"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक कुश्ती (Wrestling) की प्रतियोगिता किस पर आयोजित होती है?",
+        "en": "On what designated circular surface are Olympic Wrestling bouts held?"
+      },
+      "o": [
+        {
+          "hi": "रिंग (Ring)",
+          "en": "Ring"
+        },
+        {
+          "hi": "कोर्ट (Court)",
+          "en": "Court"
+        },
+        {
+          "hi": "मैट (Wrestling Mat - 12मी x 12मी)",
+          "en": "Wrestling Mat (12m x 12m)"
+        },
+        {
+          "hi": "पिच (Pitch)",
+          "en": "Pitch"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय पारंपरिक कुश्ती किस खेल-परिसर में लड़ी जाती है?",
+        "en": "In which traditional clay/dirt pit is Indian traditional wrestling practiced?"
+      },
+      "o": [
+        {
+          "hi": "रिंग (Ring)",
+          "en": "Ring"
+        },
+        {
+          "hi": "मैट (Mat)",
+          "en": "Mat"
+        },
+        {
+          "hi": "कोर्ट (Court)",
+          "en": "Court"
+        },
+        {
+          "hi": "अखाड़ा (Akhada / मिट्टी का मैदान)",
+          "en": "Akhada (Clay Pit)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रोलर स्केटिंग (Roller Skating) का चिकना अंडाकार ट्रैक क्या कहलाता है?",
+        "en": "What is the smooth, banked oval track for Speed Roller Skating called?"
+      },
+      "o": [
+        {
+          "hi": "रिंक / ट्रैक (Rink / Track)",
+          "en": "Rink / Track"
+        },
+        {
+          "hi": "वेलोड्रोम (Velodrome)",
+          "en": "Velodrome"
+        },
+        {
+          "hi": "कोर्ट (Court)",
+          "en": "Court"
+        },
+        {
+          "hi": "डायमंड (Diamond)",
+          "en": "Diamond"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कैनो पोलो (Canoe Polo) का मुकाबला कहाँ आयोजित होता है?",
+        "en": "Where do competitive Canoe Polo matches take place?"
+      },
+      "o": [
+        {
+          "hi": "रिंक (Rink)",
+          "en": "Rink"
+        },
+        {
+          "hi": "पूल या शांत खुला जलक्षेत्र (Water Pitch)",
+          "en": "Swimming Pool or Still Water Pitch"
+        },
+        {
+          "hi": "कोर्स (Course)",
+          "en": "Course"
+        },
+        {
+          "hi": "ट्रैक (Track)",
+          "en": "Track"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सुमो कुश्ती (Sumo Wrestling) का मुकाबला जिस मिट्टी के गोल घेरे में होता है, उसे क्या कहते हैं?",
+        "en": "What is the circular clay ring in which professional Sumo wrestling bouts occur called?"
+      },
+      "o": [
+        {
+          "hi": "तातामी (Tatami)",
+          "en": "Tatami"
+        },
+        {
+          "hi": "दोजो (Dojo)",
+          "en": "Dojo"
+        },
+        {
+          "hi": "दोह्यो (Dohyo)",
+          "en": "Dohyo"
+        },
+        {
+          "hi": "अखाड़ा (Akhada)",
+          "en": "Akhada"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कराटे और जूडो का प्रशिक्षण स्थल (मार्शल आर्ट स्कूल/हॉल) क्या कहलाता है?",
+        "en": "What is a traditional martial arts training hall for Karate and Judo called?"
+      },
+      "o": [
+        {
+          "hi": "दोह्यो (Dohyo)",
+          "en": "Dohyo"
+        },
+        {
+          "hi": "तातामी (Tatami)",
+          "en": "Tatami"
+        },
+        {
+          "hi": "एरेना (Arena)",
+          "en": "Arena"
+        },
+        {
+          "hi": "दोजो (Dojo)",
+          "en": "Dojo"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "क्रिकेट में बल्लेबाजों और गेंदबाजों के दौड़ने का केंद्रीय गलियारा क्या कहलाता है?",
+        "en": "In Cricket, what is the central strip between the bowling creases called?"
+      },
+      "o": [
+        {
+          "hi": "पिच (Pitch)",
+          "en": "Pitch"
+        },
+        {
+          "hi": "ट्रैक (Track)",
+          "en": "Track"
+        },
+        {
+          "hi": "कोर्ट (Court)",
+          "en": "Court"
+        },
+        {
+          "hi": "फील्ड (Field)",
+          "en": "Field"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गोल्फ कोर्स में 18 होल में से गेंद को हिट करने का पहला टी-बॉक्स क्या कहलाता है?",
+        "en": "In Golf, what is the starting area from which the first stroke for a hole is played?"
+      },
+      "o": [
+        {
+          "hi": "फेयरवे (Fairway)",
+          "en": "Fairway"
+        },
+        {
+          "hi": "टी ग्राउंड (Teeing Ground / Tee Box)",
+          "en": "Teeing Ground / Tee Box"
+        },
+        {
+          "hi": "पुटिंग ग्रीन (Putting Green)",
+          "en": "Putting Green"
+        },
+        {
+          "hi": "बंकर (Bunker)",
+          "en": "Bunker"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गोल्फ कोर्स में होल के चारों ओर का चिकनी कटी घास वाला क्षेत्र क्या कहलाता है?",
+        "en": "In Golf, what is the smooth, closely cropped area surrounding the hole called?"
+      },
+      "o": [
+        {
+          "hi": "रफ (Rough)",
+          "en": "Rough"
+        },
+        {
+          "hi": "बंकर (Bunker)",
+          "en": "Bunker"
+        },
+        {
+          "hi": "पुटिंग ग्रीन (Putting Green)",
+          "en": "Putting Green"
+        },
+        {
+          "hi": "फेयरवे (Fairway)",
+          "en": "Fairway"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गोल्फ कोर्स में रेत से भरे गड्ढे (Hazards) को क्या कहा जाता है?",
+        "en": "In Golf, what are the sand-filled depression hazards on the course called?"
+      },
+      "o": [
+        {
+          "hi": "ग्रीन (Green)",
+          "en": "Green"
+        },
+        {
+          "hi": "टी (Tee)",
+          "en": "Tee"
+        },
+        {
+          "hi": "डाइव (Dive)",
+          "en": "Dive"
+        },
+        {
+          "hi": "बंकर (Bunker / Sand Trap)",
+          "en": "Bunker / Sand Trap"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बेसबॉल में इनफील्ड के चारों आधारों (Bases) से घिरे वर्ग को क्या कहते हैं?",
+        "en": "In Baseball, what is the square formed by the four bases in the infield called?"
+      },
+      "o": [
+        {
+          "hi": "डायमंड (Diamond)",
+          "en": "Diamond"
+        },
+        {
+          "hi": "रिंग (Ring)",
+          "en": "Ring"
+        },
+        {
+          "hi": "पिच (Pitch)",
+          "en": "Pitch"
+        },
+        {
+          "hi": "कोर्ट (Court)",
+          "en": "Court"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आइस स्केटिंग (Figure Skating / Speed Skating) की प्रतियोगिता कहाँ होती है?",
+        "en": "Where do competitive Figure Skating and Short Track Speed Skating take place?"
+      },
+      "o": [
+        {
+          "hi": "रिंग (Ring)",
+          "en": "Ring"
+        },
+        {
+          "hi": "आइस रिंक (Ice Rink)",
+          "en": "Ice Rink"
+        },
+        {
+          "hi": "मैट (Mat)",
+          "en": "Mat"
+        },
+        {
+          "hi": "वेलोड्रोम (Velodrome)",
+          "en": "Velodrome"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वॉलीबॉल कोर्ट की कुल लंबाई और चौड़ाई क्रमशः कितनी होती है?",
+        "en": "What are the standard dimensions (length and width) of a Volleyball court?"
+      },
+      "o": [
+        {
+          "hi": "20 मीटर x 10 मीटर",
+          "en": "20m x 10m"
+        },
+        {
+          "hi": "16 मीटर x 8 मीटर",
+          "en": "16m x 8m"
+        },
+        {
+          "hi": "18 मीटर x 9 मीटर (18m x 9m)",
+          "en": "18 meters x 9 meters"
+        },
+        {
+          "hi": "22 मीटर x 11 मीटर",
+          "en": "22m x 11m"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बास्केटबॉल कोर्ट की मानक लंबाई और चौड़ाई क्रमशः कितनी होती है?",
+        "en": "What are the standard dimensions of a FIBA Basketball court?"
+      },
+      "o": [
+        {
+          "hi": "30 मीटर x 16 मीटर",
+          "en": "30m x 16m"
+        },
+        {
+          "hi": "25 मीटर x 12 मीटर",
+          "en": "25m x 12m"
+        },
+        {
+          "hi": "26 मीटर x 14 मीटर",
+          "en": "26m x 14m"
+        },
+        {
+          "hi": "28 मीटर x 15 मीटर (28m x 15m)",
+          "en": "28 meters x 15 meters"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हैंडबॉल कोर्ट की मानक लंबाई और चौड़ाई कितनी होती है?",
+        "en": "What are the official dimensions of a team Handball court?"
+      },
+      "o": [
+        {
+          "hi": "40 मीटर x 20 मीटर (40m x 20m)",
+          "en": "40 meters x 20 meters"
+        },
+        {
+          "hi": "35 मीटर x 18 मीटर",
+          "en": "35m x 18m"
+        },
+        {
+          "hi": "45 मीटर x 25 मीटर",
+          "en": "45m x 25m"
+        },
+        {
+          "hi": "30 मीटर x 15 मीटर",
+          "en": "30m x 15m"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "खो-खो कोर्ट की मानक लंबाई और चौड़ाई कितनी होती है?",
+        "en": "What are the standard dimensions of a Kho-Kho playing court?"
+      },
+      "o": [
+        {
+          "hi": "25 मीटर x 14 मीटर",
+          "en": "25m x 14m"
+        },
+        {
+          "hi": "27 मीटर x 16 मीटर (27m x 16m)",
+          "en": "27 meters x 16 meters"
+        },
+        {
+          "hi": "29 मीटर x 16 मीटर",
+          "en": "29m x 16m"
+        },
+        {
+          "hi": "24 मीटर x 12 मीटर",
+          "en": "24m x 12m"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कबड्डी में पुरुषों के लिए कोर्ट का आकार कितना होता है?",
+        "en": "What are the court dimensions for men's Kabaddi matches?"
+      },
+      "o": [
+        {
+          "hi": "12 मीटर x 8 मीटर (महिलाओं का)",
+          "en": "12m x 8m (Women)"
+        },
+        {
+          "hi": "14 मीटर x 11 मीटर",
+          "en": "14m x 11m"
+        },
+        {
+          "hi": "13 मीटर x 10 मीटर (13m x 10m)",
+          "en": "13 meters x 10 meters"
+        },
+        {
+          "hi": "15 मीटर x 10 मीटर",
+          "en": "15m x 10m"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कबड्डी में महिलाओं के लिए कोर्ट का मानक आकार कितना होता है?",
+        "en": "What are the court dimensions for women's Kabaddi matches?"
+      },
+      "o": [
+        {
+          "hi": "13 मीटर x 10 मीटर",
+          "en": "13m x 10m"
+        },
+        {
+          "hi": "11 मीटर x 7 मीटर",
+          "en": "11m x 7m"
+        },
+        {
+          "hi": "10 मीटर x 6 मीटर",
+          "en": "10m x 6m"
+        },
+        {
+          "hi": "12 मीटर x 8 मीटर (12m x 8m)",
+          "en": "12 meters x 8 meters"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बैडमिंटन के युगल (Doubles) कोर्ट की लंबाई और चौड़ाई कितनी होती है?",
+        "en": "What are the dimensions of a standard Doubles Badminton court?"
+      },
+      "o": [
+        {
+          "hi": "44 फीट x 20 फीट (13.4 मी x 6.1 मी)",
+          "en": "44 ft x 20 ft (13.4m x 6.1m)"
+        },
+        {
+          "hi": "44 फीट x 17 फीट (एकल का)",
+          "en": "44 ft x 17 ft (Singles)"
+        },
+        {
+          "hi": "40 फीट x 18 फीट",
+          "en": "40 ft x 18 ft"
+        },
+        {
+          "hi": "48 फीट x 22 फीट",
+          "en": "48 ft x 22 ft"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लॉन टेनिस के एकल कोर्ट (Singles Court) की चौड़ाई कितनी होती है?",
+        "en": "What is the width of a standard Singles Lawn Tennis court?"
+      },
+      "o": [
+        {
+          "hi": "36 फीट (10.97 मी - युगल)",
+          "en": "36 feet (Doubles)"
+        },
+        {
+          "hi": "27 फीट (8.23 मीटर)",
+          "en": "27 feet (8.23 meters)"
+        },
+        {
+          "hi": "30 फीट (9.14 मीटर)",
+          "en": "30 feet (9.14 meters)"
+        },
+        {
+          "hi": "25 फीट (7.62 मीटर)",
+          "en": "25 feet (7.62 meters)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लॉन टेनिस के युगल कोर्ट (Doubles Court) की चौड़ाई कितनी होती है?",
+        "en": "What is the width of a standard Doubles Lawn Tennis court?"
+      },
+      "o": [
+        {
+          "hi": "27 फीट (8.23 मीटर)",
+          "en": "27 feet (8.23 meters)"
+        },
+        {
+          "hi": "40 फीट (12.19 मीटर)",
+          "en": "40 feet (12.19 meters)"
+        },
+        {
+          "hi": "36 फीट (10.97 मीटर)",
+          "en": "36 feet (10.97 meters)"
+        },
+        {
+          "hi": "32 फीट (9.75 मीटर)",
+          "en": "32 feet (9.75 meters)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक 50 मीटर तरणताल (Swimming Pool) में कुल कितनी लेन (Lanes) होती हैं?",
+        "en": "How many swimming lanes are there in a standard Olympic competition pool?"
+      },
+      "o": [
+        {
+          "hi": "6 लेन",
+          "en": "6 Lanes"
+        },
+        {
+          "hi": "12 लेन",
+          "en": "12 Lanes"
+        },
+        {
+          "hi": "5 लेन",
+          "en": "5 Lanes"
+        },
+        {
+          "hi": "8 से 10 लेन (8 to 10 Lanes)",
+          "en": "8 to 10 Lanes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्नूकर और बिलियर्ड्स टेबल की मानक लंबाई और चौड़ाई कितनी होती है?",
+        "en": "What are the standard dimensions of a full-size tournament Snooker table?"
+      },
+      "o": [
+        {
+          "hi": "12 फीट x 6 फीट (3.6 मी x 1.8 मी)",
+          "en": "12 feet x 6 feet (3.6m x 1.8m)"
+        },
+        {
+          "hi": "10 फीट x 5 फीट",
+          "en": "10 ft x 5 ft"
+        },
+        {
+          "hi": "9 फीट x 4.5 फीट",
+          "en": "9 ft x 4.5 ft"
+        },
+        {
+          "hi": "14 फीट x 7 फीट",
+          "en": "14 ft x 7 ft"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फुटसाल (Futsal) की पिच का फर्श सामान्यतः किस पदार्थ का बना होता है?",
+        "en": "What is the surface of an official indoor Futsal pitch typically made of?"
+      },
+      "o": [
+        {
+          "hi": "प्राकृतिक हरी घास",
+          "en": "Natural Green Grass"
+        },
+        {
+          "hi": "लकड़ी या सिंथेटिक सख्त फर्श (Wood or Synthetic Hardcourt)",
+          "en": "Wood or Synthetic Hardcourt"
+        },
+        {
+          "hi": "लाल मिट्टी",
+          "en": "Clay Surface"
+        },
+        {
+          "hi": "रेत और बजरी",
+          "en": "Sand and Gravel"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}
