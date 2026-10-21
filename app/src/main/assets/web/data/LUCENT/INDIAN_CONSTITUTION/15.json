@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भारतीय संविधान (Indian Constitution)",
+  "subtitle": "प्रधानमंत्री एवं मंत्रिपरिषद",
+  "description": "प्रधानमंत्री एवं मंत्रिपरिषद पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "संविधान के किस अनुच्छेद के तहत राष्ट्रपति को सहायता और सलाह देने के लिए प्रधानमंत्री की अध्यक्षता वाली मंत्रिपरिषद का प्रावधान है?",
+        "en": "Under which Article is there a Council of Ministers with the Prime Minister at the head to aid and advise the President?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 74 (Article 74)",
+          "en": "Article 74"
+        },
+        {
+          "hi": "अनुच्छेद 75",
+          "en": "Article 75"
+        },
+        {
+          "hi": "अनुच्छेद 76",
+          "en": "Article 76"
+        },
+        {
+          "hi": "अनुच्छेद 78",
+          "en": "Article 78"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मंत्रिपरिषद द्वारा राष्ट्रपति को दी गई सलाह की जांच क्या किसी न्यायालय द्वारा की जा सकती है?",
+        "en": "Can the advice tendered by Ministers to the President be inquired into in any court?"
+      },
+      "o": [
+        {
+          "hi": "हाँ, सर्वोच्च न्यायालय जांच कर सकता है",
+          "en": "Yes, Supreme Court can inquire"
+        },
+        {
+          "hi": "नहीं, किसी भी न्यायालय में इसकी जांच नहीं की जा सकती (Article 74(2))",
+          "en": "No, it shall not be inquired into in any court (Article 74(2))"
+        },
+        {
+          "hi": "हाँ, केवल मुख्य न्यायाधीश द्वारा",
+          "en": "Yes, only by CJI"
+        },
+        {
+          "hi": "संसदीय समिति की अनुमति से जांच हो सकती है",
+          "en": "Inquired with committee permission"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रधानमंत्री की नियुक्ति राष्ट्रपति करेंगे और अन्य मंत्रियों की नियुक्ति प्रधानमंत्री की सलाह पर राष्ट्रपति करेंगे, किस अनुच्छेद में है?",
+        "en": "The PM shall be appointed by the President and other Ministers on advice of PM under which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 74(1)",
+          "en": "Article 74(1)"
+        },
+        {
+          "hi": "अनुच्छेद 76(1)",
+          "en": "Article 76(1)"
+        },
+        {
+          "hi": "अनुच्छेद 75(1) / Article 75(1)",
+          "en": "Article 75(1)"
+        },
+        {
+          "hi": "अनुच्छेद 78",
+          "en": "Article 78"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "91वें संविधान संशोधन 2003 द्वारा केंद्रीय मंत्रिपरिषद में मंत्रियों की कुल संख्या पर क्या अधिकतम सीमा लगाई गई?",
+        "en": "What ceiling on the size of the Union Council of Ministers was imposed by the 91st Amendment in 2003?"
+      },
+      "o": [
+        {
+          "hi": "संसद के दोनों सदनों का 10%",
+          "en": "10% of both Houses"
+        },
+        {
+          "hi": "राज्यसभा का 20%",
+          "en": "20% of Rajya Sabha"
+        },
+        {
+          "hi": "अधिकतम 50 मंत्री",
+          "en": "Maximum 50 ministers"
+        },
+        {
+          "hi": "लोकसभा की कुल सदस्य संख्या के 15% से अधिक नहीं (Art 75(1A))",
+          "en": "Not exceed 15% of the total number of members of Lok Sabha (Art 75(1A))"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "केंद्रीय मंत्रिपरिषद सामूहिक रूप से (Collectively Responsible) किसके प्रति उत्तरदायी होती है?",
+        "en": "To whom is the Union Council of Ministers collectively responsible under Article 75(3)?"
+      },
+      "o": [
+        {
+          "hi": "लोकसभा के प्रति (To the House of the People / Lok Sabha)",
+          "en": "To the House of the People (Lok Sabha)"
+        },
+        {
+          "hi": "संसद के दोनों सदनों के प्रति",
+          "en": "To both Houses of Parliament"
+        },
+        {
+          "hi": "भारत के राष्ट्रपति के प्रति",
+          "en": "To the President of India"
+        },
+        {
+          "hi": "भारत के प्रधानमंत्री के प्रति",
+          "en": "To the Prime Minister of India"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मंत्री व्यक्तिगत रूप से (Individually Responsible) किसके प्रति उत्तरदायी होते हैं और किसके प्रसादपर्यंत पद धारण करते हैं?",
+        "en": "Ministers hold office during the pleasure of whom under Article 75(2)?"
+      },
+      "o": [
+        {
+          "hi": "प्रधानमंत्री के प्रसादपर्यंत",
+          "en": "Pleasure of the Prime Minister"
+        },
+        {
+          "hi": "राष्ट्रपति के प्रसादपर्यंत (Pleasure of the President)",
+          "en": "During the pleasure of the President"
+        },
+        {
+          "hi": "लोकसभा अध्यक्ष के प्रसादपर्यंत",
+          "en": "Pleasure of Speaker"
+        },
+        {
+          "hi": "संसद के प्रसादपर्यंत",
+          "en": "Pleasure of Parliament"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कोई व्यक्ति बिना संसद सदस्य (MP) बने अधिकतम कितने समय तक मंत्री पद पर रह सकता है?",
+        "en": "For what maximum period can a non-member of Parliament remain a Minister?"
+      },
+      "o": [
+        {
+          "hi": "3 माह तक",
+          "en": "3 Months"
+        },
+        {
+          "hi": "1 वर्ष तक",
+          "en": "1 Year"
+        },
+        {
+          "hi": "लगातार 6 माह तक (Article 75(5))",
+          "en": "6 Consecutive Months (Article 75(5))"
+        },
+        {
+          "hi": "अनिश्चितकाल तक",
+          "en": "Indefinitely"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रपति को जानकारी देने और मंत्रिपरिषद के निर्णयों से अवगत कराने के संबंध में प्रधानमंत्री के कर्तव्य किस अनुच्छेद में हैं?",
+        "en": "Duties of Prime Minister regarding furnishing of information to President are laid down in which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 74",
+          "en": "Article 74"
+        },
+        {
+          "hi": "अनुच्छेद 75",
+          "en": "Article 75"
+        },
+        {
+          "hi": "अनुच्छेद 77",
+          "en": "Article 77"
+        },
+        {
+          "hi": "अनुच्छेद 78 (Article 78)",
+          "en": "Article 78"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत सरकार की समस्त कार्यपालिका कार्रवाइयां किसके नाम से की जाती हैं?",
+        "en": "All executive actions of the Government of India are formally taken in the name of whom under Art 77?"
+      },
+      "o": [
+        {
+          "hi": "राष्ट्रपति के नाम से (President of India)",
+          "en": "President of India"
+        },
+        {
+          "hi": "प्रधानमंत्री के नाम से",
+          "en": "Prime Minister of India"
+        },
+        {
+          "hi": "कैबिनेट सचिव के नाम से",
+          "en": "Cabinet Secretary"
+        },
+        {
+          "hi": "संसद के नाम से",
+          "en": "Parliament"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत की राजनीतिक-प्रशासनिक व्यवस्था में वास्तविक कार्यपालिका प्रमुख (De Facto Executive Head) कौन होता है?",
+        "en": "Who is the real/de facto executive head in India's parliamentary system?"
+      },
+      "o": [
+        {
+          "hi": "भारत का राष्ट्रपति (नाममात्र / De Jure)",
+          "en": "President of India (De Jure)"
+        },
+        {
+          "hi": "भारत का प्रधानमंत्री (Prime Minister of India)",
+          "en": "Prime Minister of India"
+        },
+        {
+          "hi": "लोकसभा अध्यक्ष",
+          "en": "Speaker of Lok Sabha"
+        },
+        {
+          "hi": "कैबिनेट सचिव",
+          "en": "Cabinet Secretary"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नीति आयोग (NITI Aayog) और राष्ट्रीय एकता परिषद (NIC) का पदेन अध्यक्ष कौन होता है?",
+        "en": "Who is the ex-officio Chairman of NITI Aayog and the National Integration Council?"
+      },
+      "o": [
+        {
+          "hi": "भारत का राष्ट्रपति",
+          "en": "President of India"
+        },
+        {
+          "hi": "केंद्रीय वित्त मंत्री",
+          "en": "Union Finance Minister"
+        },
+        {
+          "hi": "भारत का प्रधानमंत्री (Prime Minister of India)",
+          "en": "Prime Minister of India"
+        },
+        {
+          "hi": "गृह मंत्री",
+          "en": "Home Minister"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मंत्रिपरिषद (Council of Ministers) और मंत्रिमंडल (Cabinet) में क्या मुख्य अंतर है?",
+        "en": "What is the primary difference between Council of Ministers and Cabinet?"
+      },
+      "o": [
+        {
+          "hi": "मंत्रिमंडल बड़ा होता है और मंत्रिपरिषद छोटा",
+          "en": "Cabinet is larger than Council"
+        },
+        {
+          "hi": "दोनों बिल्कुल एक ही संस्था हैं",
+          "en": "Both are exact same body"
+        },
+        {
+          "hi": "मंत्रिपरिषद में केवल राज्य मंत्री होते हैं",
+          "en": "Council has only Ministers of State"
+        },
+        {
+          "hi": "मंत्रिपरिषद एक व्यापक निकाय है (तीनों स्तर के मंत्री), जबकि मंत्रिमंडल केवल वरिष्ठ कैबिनेट मंत्रियों का छोटा समूह है",
+          "en": "Council of Ministers is wider (all 3 ranks), Cabinet is small core of senior ministers"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संविधान के मूल पाठ में 'मंत्रिमंडल' (Cabinet) शब्द का प्रयोग नहीं था; इसे 44वें संशोधन 1978 द्वारा किस एकमात्र अनुच्छेद में जोड़ा गया?",
+        "en": "The word 'Cabinet' was inserted into the Constitution by 44th Amendment 1978 in which solitary Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 352(3) / Article 352(3)",
+          "en": "Article 352(3)"
+        },
+        {
+          "hi": "अनुच्छेद 74",
+          "en": "Article 74"
+        },
+        {
+          "hi": "अनुच्छेद 75",
+          "en": "Article 75"
+        },
+        {
+          "hi": "अनुच्छेद 78",
+          "en": "Article 78"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मंत्रिपरिषद में मंत्रियों की सामान्यतः कितनी श्रेणियां (Ranks) होती हैं?",
+        "en": "How many ranks/categories of ministers are there in the Council of Ministers?"
+      },
+      "o": [
+        {
+          "hi": "2 श्रेणियां",
+          "en": "2 Categories"
+        },
+        {
+          "hi": "3 श्रेणियां (कैबिनेट मंत्री, राज्य मंत्री - स्वतंत्र व संबद्ध, उप-मंत्री)",
+          "en": "3 Categories (Cabinet Ministers, Ministers of State, Deputy Ministers)"
+        },
+        {
+          "hi": "4 श्रेणियां",
+          "en": "4 Categories"
+        },
+        {
+          "hi": "5 श्रेणियां",
+          "en": "5 Categories"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत के सबसे लंबे समय तक पद पर रहने वाले प्रधानमंत्री कौन थे?",
+        "en": "Who was the longest-serving Prime Minister of India?"
+      },
+      "o": [
+        {
+          "hi": "श्रीमती इंदिरा गांधी",
+          "en": "Smt. Indira Gandhi"
+        },
+        {
+          "hi": "मनमोहन सिंह",
+          "en": "Manmohan Singh"
+        },
+        {
+          "hi": "पंडित जवाहरलाल नेहरू (16 वर्ष 286 दिन / 1947 से 1964 तक)",
+          "en": "Pt. Jawaharlal Nehru (16 years 286 days)"
+        },
+        {
+          "hi": "नरेंद्र मोदी",
+          "en": "Narendra Modi"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत के प्रथम गैर-कांग्रेसी प्रधानमंत्री कौन थे?",
+        "en": "Who was the first non-Congress Prime Minister of India?"
+      },
+      "o": [
+        {
+          "hi": "चौधरी चरण सिंह",
+          "en": "Chaudhary Charan Singh"
+        },
+        {
+          "hi": "अटल बिहारी वाजपेयी",
+          "en": "Atal Bihari Vajpayee"
+        },
+        {
+          "hi": "वी. पी. सिंह",
+          "en": "V. P. Singh"
+        },
+        {
+          "hi": "मोरारजी देसाई (Morarji Desai - 1977, जनता पार्टी)",
+          "en": "Morarji Desai (1977, Janata Party)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पद से त्यागपत्र देने वाले भारत के प्रथम प्रधानमंत्री कौन थे?",
+        "en": "Who was the first Prime Minister of India to resign from office?"
+      },
+      "o": [
+        {
+          "hi": "मोरारजी देसाई (Morarji Desai - 1979 में)",
+          "en": "Morarji Desai (in 1979)"
+        },
+        {
+          "hi": "चौधरी चरण सिंह",
+          "en": "Chaudhary Charan Singh"
+        },
+        {
+          "hi": "वी. पी. सिंह",
+          "en": "V. P. Singh"
+        },
+        {
+          "hi": "अटल बिहारी वाजपेयी",
+          "en": "Atal Bihari Vajpayee"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत के एकमात्र प्रधानमंत्री कौन थे जिन्होंने अपने कार्यकाल में कभी संसद (सत्र) का सामना नहीं किया?",
+        "en": "Who was the only Prime Minister of India who never faced Parliament in session during his tenure?"
+      },
+      "o": [
+        {
+          "hi": "चंद्रशेखर",
+          "en": "Chandra Shekhar"
+        },
+        {
+          "hi": "चौधरी चरण सिंह (Chaudhary Charan Singh)",
+          "en": "Chaudhary Charan Singh"
+        },
+        {
+          "hi": "एच. डी. देवेगौड़ा",
+          "en": "H. D. Deve Gowda"
+        },
+        {
+          "hi": "आई. के. गुजराल",
+          "en": "I. K. Gujral"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अविश्वास प्रस्ताव (No-Confidence Motion) द्वारा हटाए जाने वाले भारत के प्रथम प्रधानमंत्री कौन थे?",
+        "en": "Who was the first Prime Minister of India to be ousted by a Vote of No-Confidence?"
+      },
+      "o": [
+        {
+          "hi": "एच. डी. देवेगौड़ा",
+          "en": "H. D. Deve Gowda"
+        },
+        {
+          "hi": "अटल बिहारी वाजपेयी",
+          "en": "Atal Bihari Vajpayee"
+        },
+        {
+          "hi": "विश्वनाथ प्रताप सिंह (V. P. Singh - 1990)",
+          "en": "Vishwanath Pratap Singh (V. P. Singh - 1990)"
+        },
+        {
+          "hi": "मोरारजी देसाई",
+          "en": "Morarji Desai"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सबसे कम अवधि (मात्र 13 दिन) तक एक कार्यकाल में प्रधानमंत्री रहने वाले नेता कौन थे?",
+        "en": "Who held the office of Prime Minister for the shortest single stint (just 13 days in 1996)?"
+      },
+      "o": [
+        {
+          "hi": "चौधरी चरण सिंह",
+          "en": "Chaudhary Charan Singh"
+        },
+        {
+          "hi": "चंद्रशेखर",
+          "en": "Chandra Shekhar"
+        },
+        {
+          "hi": "गुलजारीलाल नंदा",
+          "en": "Gulzarilal Nanda"
+        },
+        {
+          "hi": "अटल बिहारी वाजपेयी (Atal Bihari Vajpayee)",
+          "en": "Atal Bihari Vajpayee"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत के ऐसे प्रधानमंत्री जो नियुक्ति के समय राज्यसभा के सदस्य थे?",
+        "en": "Who among the following Prime Ministers were members of Rajya Sabha at the time of appointment?"
+      },
+      "o": [
+        {
+          "hi": "इंदिरा गांधी (1966), एच. डी. देवेगौड़ा (1996), आई. के. गुजराल (1997) और डॉ. मनमोहन सिंह (2004)",
+          "en": "Indira Gandhi, H. D. Deve Gowda, I. K. Gujral, and Dr. Manmohan Singh"
+        },
+        {
+          "hi": "केवल डॉ. मनमोहन सिंह",
+          "en": "Only Dr. Manmohan Singh"
+        },
+        {
+          "hi": "जवाहरलाल नेहरू और लाल बहादुर शास्त्री",
+          "en": "Nehru and Shastri"
+        },
+        {
+          "hi": "मोरारजी देसाई और राजीव गांधी",
+          "en": "Morarji Desai and Rajiv Gandhi"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत के ऐसे प्रधानमंत्री जो पद ग्रहण करते समय संसद के किसी भी सदन के सदस्य नहीं थे?",
+        "en": "Who was not a member of either House of Parliament at the time of appointment as PM?"
+      },
+      "o": [
+        {
+          "hi": "अटल बिहारी वाजपेयी और नरेंद्र मोदी",
+          "en": "Vajpayee and Modi"
+        },
+        {
+          "hi": "पी. वी. नरसिम्हा राव (1991) एवं एच. डी. देवेगौड़ा (1996)",
+          "en": "P. V. Narasimha Rao (1991) and H. D. Deve Gowda (1996)"
+        },
+        {
+          "hi": "इंदिरा गांधी और राजीव गांधी",
+          "en": "Indira Gandhi and Rajiv Gandhi"
+        },
+        {
+          "hi": "चौधरी चरण सिंह और वी. पी. सिंह",
+          "en": "Charan Singh and V. P. Singh"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत के प्रथम कार्यवाहक प्रधानमंत्री (Acting Prime Minister) कौन बने थे?",
+        "en": "Who served as Acting Prime Minister of India twice (after death of Nehru and Shastri)?"
+      },
+      "o": [
+        {
+          "hi": "सरदार वल्लभभाई पटेल",
+          "en": "Sardar Patel"
+        },
+        {
+          "hi": "मोरारजी देसाई",
+          "en": "Morarji Desai"
+        },
+        {
+          "hi": "गुलजारीलाल नंदा (Gulzarilal Nanda - 1964 एवं 1966)",
+          "en": "Gulzarilal Nanda (1964 and 1966)"
+        },
+        {
+          "hi": "जगजीवन राम",
+          "en": "Jagjivan Ram"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत के बाहर (ताशकंद में) किस भारतीय प्रधानमंत्री का आकस्मिक निधन हुआ था?",
+        "en": "Which Prime Minister of India died outside the country in Tashkent in January 1966?"
+      },
+      "o": [
+        {
+          "hi": "जवाहरलाल नेहरू",
+          "en": "Jawaharlal Nehru"
+        },
+        {
+          "hi": "राजीव गांधी",
+          "en": "Rajiv Gandhi"
+        },
+        {
+          "hi": "इंदिरा गांधी",
+          "en": "Indira Gandhi"
+        },
+        {
+          "hi": "लाल बहादुर शास्त्री (Lal Bahadur Shastri)",
+          "en": "Lal Bahadur Shastri"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत के सबसे युवा प्रधानमंत्री (मात्र 40 वर्ष की आयु में) कौन बने थे?",
+        "en": "Who was the youngest person to become Prime Minister of India (at age 40)?"
+      },
+      "o": [
+        {
+          "hi": "राजीव गांधी (Rajiv Gandhi - 1984)",
+          "en": "Rajiv Gandhi (1984)"
+        },
+        {
+          "hi": "इंदिरा गांधी",
+          "en": "Indira Gandhi"
+        },
+        {
+          "hi": "नरेंद्र मोदी",
+          "en": "Narendra Modi"
+        },
+        {
+          "hi": "चंद्रशेखर",
+          "en": "Chandra Shekhar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सबसे वयोवृद्ध (81 वर्ष की आयु में) प्रधानमंत्री बनने वाले व्यक्ति कौन थे?",
+        "en": "Who was the oldest person to assume the office of Prime Minister of India (at age 81)?"
+      },
+      "o": [
+        {
+          "hi": "अटल बिहारी वाजपेयी",
+          "en": "Atal Bihari Vajpayee"
+        },
+        {
+          "hi": "मोरारजी देसाई (Morarji Desai)",
+          "en": "Morarji Desai"
+        },
+        {
+          "hi": "डॉ. मनमोहन सिंह",
+          "en": "Dr. Manmohan Singh"
+        },
+        {
+          "hi": "पी. वी. नरसिम्हा राव",
+          "en": "P. V. Narasimha Rao"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यदि प्रधानमंत्री त्यागपत्र दे देता है या उसकी मृत्यु हो जाती है, तो मंत्रिपरिषद पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to the Council of Ministers if the Prime Minister resigns or dies in office?"
+      },
+      "o": [
+        {
+          "hi": "उपप्रधानमंत्री स्वतः प्रधानमंत्री बन जाता है",
+          "en": "Deputy PM becomes PM"
+        },
+        {
+          "hi": "मंत्रिपरिषद सामान्य रूप से कार्य करती रहती है",
+          "en": "Council continues normally"
+        },
+        {
+          "hi": "संपूर्ण मंत्रिपरिषद स्वतः विघटित / समाप्त हो जाती है",
+          "en": "Entire Council of Ministers automatically dissolves"
+        },
+        {
+          "hi": "राष्ट्रपति मंत्रियों का चुनाव करते हैं",
+          "en": "President chooses ministers"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत के प्रथम उप-प्रधानमंत्री (Deputy Prime Minister) कौन थे?",
+        "en": "Who was the first Deputy Prime Minister of India?"
+      },
+      "o": [
+        {
+          "hi": "मोरारजी देसाई",
+          "en": "Morarji Desai"
+        },
+        {
+          "hi": "चौधरी चरण सिंह",
+          "en": "Chaudhary Charan Singh"
+        },
+        {
+          "hi": "लालकृष्ण आडवाणी",
+          "en": "L. K. Advani"
+        },
+        {
+          "hi": "सरदार वल्लभभाई पटेल (Sardar Vallabhbhai Patel)",
+          "en": "Sardar Vallabhbhai Patel"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "क्या संविधान में 'उप-प्रधानमंत्री' (Deputy Prime Minister) पद का कोई औपचारिक उल्लेख है?",
+        "en": "Is the post of 'Deputy Prime Minister' mentioned in the Constitution of India?"
+      },
+      "o": [
+        {
+          "hi": "नहीं, यह एक गैर-संवैधानिक राजनीतिक पद है (संवैधानिक रूप से वह एक कैबिनेट मंत्री ही होता है)",
+          "en": "No, it is an extra-constitutional political post (status of Cabinet Minister)"
+        },
+        {
+          "hi": "हाँ, अनुच्छेद 75 में वर्णित है",
+          "en": "Yes, in Article 75"
+        },
+        {
+          "hi": "हाँ, अनुच्छेद 74 में उल्लिखित है",
+          "en": "Yes, in Article 74"
+        },
+        {
+          "hi": "हाँ, 44वें संशोधन द्वारा जोड़ा गया",
+          "en": "Yes, by 44th Amendment"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का सर्वोच्च प्रशासनिक अधिकारी और सिविल सेवाओं का प्रमुख कौन होता है?",
+        "en": "Who is the highest civil servant and administrative head of civil services in India?"
+      },
+      "o": [
+        {
+          "hi": "प्रधानमंत्री के प्रधान सचिव",
+          "en": "Principal Secretary to PM"
+        },
+        {
+          "hi": "कैबिनेट सचिव (Cabinet Secretary)",
+          "en": "Cabinet Secretary"
+        },
+        {
+          "hi": "गृह सचिव",
+          "en": "Home Secretary"
+        },
+        {
+          "hi": "वित्त सचिव",
+          "en": "Finance Secretary"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मंत्रियों को विभागों (Portfolios) का आवंटन किसके द्वारा किया जाता है?",
+        "en": "Allocation of portfolios among ministers is done by whom?"
+      },
+      "o": [
+        {
+          "hi": "लोकसभा अध्यक्ष द्वारा",
+          "en": "By Speaker of Lok Sabha"
+        },
+        {
+          "hi": "कैबिनेट सचिव द्वारा",
+          "en": "By Cabinet Secretary"
+        },
+        {
+          "hi": "प्रधानमंत्री की सलाह पर राष्ट्रपति द्वारा (वास्तविक निर्णय PM का)",
+          "en": "By President on advice of Prime Minister (effective choice of PM)"
+        },
+        {
+          "hi": "संसदीय समिति द्वारा",
+          "en": "By Parliamentary Committee"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "केंद्रीय कैबिनेट की बैठकों की अध्यक्षता कौन करता है?",
+        "en": "Who presides over the meetings of the Union Cabinet?"
+      },
+      "o": [
+        {
+          "hi": "भारत का राष्ट्रपति",
+          "en": "President of India"
+        },
+        {
+          "hi": "उपराष्ट्रपति",
+          "en": "Vice-President"
+        },
+        {
+          "hi": "कैबिनेट सचिव",
+          "en": "Cabinet Secretary"
+        },
+        {
+          "hi": "भारत का प्रधानमंत्री (Prime Minister of India)",
+          "en": "Prime Minister of India"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रधानमंत्री के त्यागपत्र या पद रिक्ति की स्थिति में अंतरिम व्यवस्था कौन करता है?",
+        "en": "Who makes interim executive arrangements in case of death or resignation of Prime Minister?"
+      },
+      "o": [
+        {
+          "hi": "राष्ट्रपति (President of India)",
+          "en": "President of India"
+        },
+        {
+          "hi": "लोकसभा अध्यक्ष",
+          "en": "Speaker of Lok Sabha"
+        },
+        {
+          "hi": "भारत का मुख्य न्यायाधीश",
+          "en": "Chief Justice of India"
+        },
+        {
+          "hi": "चुनाव आयोग",
+          "en": "Election Commission"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अंतर्रराज्य परिषद (Inter-State Council - Art 263) का अध्यक्ष कौन होता है?",
+        "en": "Who is the Chairman of the Inter-State Council established under Article 263?"
+      },
+      "o": [
+        {
+          "hi": "केंद्रीय गृह मंत्री",
+          "en": "Union Home Minister"
+        },
+        {
+          "hi": "भारत का प्रधानमंत्री (Prime Minister of India)",
+          "en": "Prime Minister of India"
+        },
+        {
+          "hi": "भारत का राष्ट्रपति",
+          "en": "President of India"
+        },
+        {
+          "hi": "भारत का मुख्य न्यायाधीश",
+          "en": "Chief Justice of India"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रीय आपदा प्रबंधन प्राधिकरण (NDMA) का पदेन अध्यक्ष कौन होता है?",
+        "en": "Who is the ex-officio Chairperson of the National Disaster Management Authority (NDMA)?"
+      },
+      "o": [
+        {
+          "hi": "केंद्रीय गृह मंत्री",
+          "en": "Union Home Minister"
+        },
+        {
+          "hi": "थल सेना प्रमुख",
+          "en": "Army Chief"
+        },
+        {
+          "hi": "भारत का प्रधानमंत्री (Prime Minister of India)",
+          "en": "Prime Minister of India"
+        },
+        {
+          "hi": "पर्यावरण मंत्री",
+          "en": "Environment Minister"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रधानमंत्री राष्ट्रीय राहत कोष (PMNRF) का प्रबंधन किसके द्वारा किया जाता है?",
+        "en": "The Prime Minister's National Relief Fund (PMNRF) is managed by whom?"
+      },
+      "o": [
+        {
+          "hi": "केंद्रीय वित्त मंत्रालय",
+          "en": "Ministry of Finance"
+        },
+        {
+          "hi": "भारतीय रिजर्व बैंक",
+          "en": "Reserve Bank of India"
+        },
+        {
+          "hi": "नीति आयोग",
+          "en": "NITI Aayog"
+        },
+        {
+          "hi": "प्रधानमंत्री कार्यालय (PMO / प्रधानमंत्री की अध्यक्षता में)",
+          "en": "Prime Minister's Office (chaired by PM)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कैबिनेट समितियों (Cabinet Committees - जैसे नियुक्ति समिति ACC) का गठन किसके द्वारा किया जाता है?",
+        "en": "Cabinet Committees (like Appointments Committee of Cabinet - ACC) are set up by whom?"
+      },
+      "o": [
+        {
+          "hi": "प्रधानमंत्री द्वारा (कार्य आवंटन नियमों के तहत)",
+          "en": "By the Prime Minister (under Rules of Business)"
+        },
+        {
+          "hi": "राष्ट्रपति द्वारा संसद के अनुमोदन से",
+          "en": "By President with Parliament approval"
+        },
+        {
+          "hi": "लोकसभा अध्यक्ष द्वारा",
+          "en": "By Speaker of Lok Sabha"
+        },
+        {
+          "hi": "कैबिनेट सचिव द्वारा",
+          "en": "By Cabinet Secretary"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसदीय मामलों की कैबिनेट समिति (CCPA) को छोड़कर अधिकांश महत्वपूर्ण कैबिनेट समितियों की अध्यक्षता कौन करता है?",
+        "en": "Who chairs most major Cabinet Committees (like CCES, CCA, ACC) except Parliamentary Affairs?"
+      },
+      "o": [
+        {
+          "hi": "केंद्रीय वित्त मंत्री",
+          "en": "Finance Minister"
+        },
+        {
+          "hi": "भारत का प्रधानमंत्री (Prime Minister)",
+          "en": "Prime Minister"
+        },
+        {
+          "hi": "केंद्रीय गृह मंत्री",
+          "en": "Home Minister"
+        },
+        {
+          "hi": "रक्षा मंत्री",
+          "en": "Defence Minister"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संसदीय मामलों की कैबिनेट समिति (Cabinet Committee on Parliamentary Affairs) की अध्यक्षता कौन करता है?",
+        "en": "Who traditionally chairs the Cabinet Committee on Parliamentary Affairs?"
+      },
+      "o": [
+        {
+          "hi": "प्रधानमंत्री स्वयं",
+          "en": "Prime Minister himself"
+        },
+        {
+          "hi": "लोकसभा अध्यक्ष",
+          "en": "Speaker of Lok Sabha"
+        },
+        {
+          "hi": "रक्षा मंत्री या गृह मंत्री (वरिष्ठ कैबिनेट मंत्री)",
+          "en": "Defence Minister or Home Minister (Senior Cabinet Minister)"
+        },
+        {
+          "hi": "उपराष्ट्रपति",
+          "en": "Vice-President"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किचन कैबिनेट (Kitchen Cabinet) या आंतरिक मंत्रिमंडल का क्या अर्थ होता है?",
+        "en": "What is meant by the term 'Kitchen Cabinet' or 'Inner Cabinet'?"
+      },
+      "o": [
+        {
+          "hi": "खाद्य एवं आपूर्ति मंत्रालय की समिति",
+          "en": "Food Ministry committee"
+        },
+        {
+          "hi": "संसद की कैंटीन समिति",
+          "en": "Parliament canteen committee"
+        },
+        {
+          "hi": "मंत्रियों के रसोइयों का संघ",
+          "en": "Union of cooks"
+        },
+        {
+          "hi": "प्रधानमंत्री और उनके 2-4 अत्यंत विश्वासपात्र सहयोगियों व सलाहकारों का अनौपचारिक प्रभावकारी समूह",
+          "en": "Informal influential inner circle of PM and 2-4 trusted colleagues/advisors"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मंत्रियों द्वारा ली जाने वाली पद एवं गोपनीयता की शपथ का प्रारूप संविधान की किस अनुसूची में है?",
+        "en": "The forms of Oaths of Office and Secrecy for Ministers are in which Schedule?"
+      },
+      "o": [
+        {
+          "hi": "तीसरी अनुसूची (Third Schedule)",
+          "en": "Third Schedule"
+        },
+        {
+          "hi": "दूसरी अनुसूची",
+          "en": "Second Schedule"
+        },
+        {
+          "hi": "चौथी अनुसूची",
+          "en": "Fourth Schedule"
+        },
+        {
+          "hi": "पाँचवीं अनुसूची",
+          "en": "Fifth Schedule"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्या कोई मंत्री संसद के उस सदन की कार्यवाही में भाग ले सकता है और बोल सकता है जिसका वह सदस्य नहीं है?",
+        "en": "Can a Minister speak and take part in proceedings of a House of which he is not a member under Art 88?"
+      },
+      "o": [
+        {
+          "hi": "नहीं, वह दूसरे सदन में प्रवेश भी नहीं कर सकता",
+          "en": "No, cannot even enter other House"
+        },
+        {
+          "hi": "हाँ, बोल सकता है और भाग ले सकता है किंतु मतदान केवल अपने सदन में ही कर सकता है",
+          "en": "Yes, can speak and participate, but can vote only in his own House (Art 88)"
+        },
+        {
+          "hi": "हाँ, वह दोनों सदनों में मतदान भी कर सकता है",
+          "en": "Yes, can vote in both Houses"
+        },
+        {
+          "hi": "केवल शून्यकाल में बोल सकता है",
+          "en": "Only in Zero Hour"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सामूहिक उत्तरदायित्व (Collective Responsibility) के सिद्धांत का क्या मूल अर्थ है?",
+        "en": "What is the core essence of the principle of Collective Responsibility in cabinet government?"
+      },
+      "o": [
+        {
+          "hi": "प्रत्येक मंत्री अपने विभाग के लिए अकेले जिम्मेदार है",
+          "en": "Each minister solely responsible"
+        },
+        {
+          "hi": "मंत्रियों को कभी हटाया नहीं जा सकता",
+          "en": "Ministers can never be removed"
+        },
+        {
+          "hi": "'मंत्रिपरिषद एक साथ तैरती है और एक साथ डूबती है' (Swim and sink together)",
+          "en": "'They swim together and sink together'"
+        },
+        {
+          "hi": "मंत्रिमंडल के फैसले गोपनीय नहीं होते",
+          "en": "Decisions not confidential"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यदि किसी मंत्री का मंत्रिमंडल के निर्णय से मतभेद हो, तो संवैधानिक परंपरा के अनुसार उसे क्या करना पड़ता है?",
+        "en": "If a minister disagrees with a Cabinet decision, what must he do according to convention?"
+      },
+      "o": [
+        {
+          "hi": "वह संसद में खुलकर विरोध कर सकता है",
+          "en": "Can openly oppose in Parliament"
+        },
+        {
+          "hi": "राष्ट्रपति के पास शिकायत दर्ज करा सकता है",
+          "en": "Complain to President"
+        },
+        {
+          "hi": "सर्वोच्च न्यायालय में याचिका लगा सकता है",
+          "en": "File petition in SC"
+        },
+        {
+          "hi": "उस निर्णय को सार्वजनिक रूप से स्वीकार करना या पद से त्यागपत्र देना पड़ता है",
+          "en": "Publicly defend the decision or tender resignation"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हिंदू कोड बिल पर मतभेद के कारण 1951 में केंद्रीय मंत्रिमंडल से त्यागपत्र देने वाले प्रथम कानून मंत्री कौन थे?",
+        "en": "Who resigned from the Union Cabinet in 1951 due to differences over the Hindu Code Bill?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. भीमराव आंबेडकर (Dr. B. R. Ambedkar)",
+          "en": "Dr. B. R. Ambedkar"
+        },
+        {
+          "hi": "डॉ. श्यामा प्रसाद मुखर्जी",
+          "en": "Dr. Syama Prasad Mookerjee"
+        },
+        {
+          "hi": "सी. डी. देशमुख",
+          "en": "C. D. Deshmukh"
+        },
+        {
+          "hi": "जॉन मथाई",
+          "en": "John Mathai"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नेहरू-लियाकत समझौते के विरोध में 1950 में केंद्रीय मंत्रिमंडल से त्यागपत्र देने वाले प्रथम उद्योग मंत्री कौन थे?",
+        "en": "Who resigned from Nehru's cabinet in 1950 in protest against the Delhi Pact (Nehru-Liaquat Pact)?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. बी. आर. आंबेडकर",
+          "en": "Dr. B. R. Ambedkar"
+        },
+        {
+          "hi": "डॉ. श्यामा प्रसाद मुखर्जी (Dr. Syama Prasad Mookerjee)",
+          "en": "Dr. Syama Prasad Mookerjee"
+        },
+        {
+          "hi": "के. सी. नियोगी",
+          "en": "K. C. Neogy"
+        },
+        {
+          "hi": "बलदेव सिंह",
+          "en": "Baldev Singh"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भाषा के आधार पर राज्यों के पुनर्गठन (संयुक्त महाराष्ट्र) के मुद्दे पर 1956 में त्यागपत्र देने वाले वित्त मंत्री कौन थे?",
+        "en": "Which Finance Minister resigned in 1956 over the issue of linguistic reorganization regarding Bombay?"
+      },
+      "o": [
+        {
+          "hi": "जॉन मथाई",
+          "en": "John Mathai"
+        },
+        {
+          "hi": "टी. टी. कृष्णामचारी",
+          "en": "T. T. Krishnamachari"
+        },
+        {
+          "hi": "सी. डी. देशमुख (C. D. Deshmukh)",
+          "en": "C. D. Deshmukh"
+        },
+        {
+          "hi": "आर. के. षण्मुखम चेट्टी",
+          "en": "R. K. Shanmukham Chetty"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रधानमंत्री की मृत्यु या त्यागपत्र की स्थिति में नए प्रधानमंत्री के चयन तक किसे अंतरिम रूप से नियुक्त किया जा सकता है?",
+        "en": "In case of sudden death of PM, whom does the President conventionally appoint as interim PM?"
+      },
+      "o": [
+        {
+          "hi": "लोकसभा के विपक्ष के नेता को",
+          "en": "Leader of Opposition"
+        },
+        {
+          "hi": "लोकसभा अध्यक्ष को",
+          "en": "Speaker of Lok Sabha"
+        },
+        {
+          "hi": "राष्ट्रपति स्वयं कार्यभार संभालते हैं",
+          "en": "President takes over himself"
+        },
+        {
+          "hi": "मंत्रिमंडल के वरिष्ठतम मंत्री को (जैसे गुलजारीलाल नंदा)",
+          "en": "Senior-most minister of Cabinet (e.g., Gulzarilal Nanda)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रधानमंत्री को 'समानों में प्रथम' (Primus Inter Pares) और 'तारों के बीच चंद्रमा' किस राजनीतिक विचारक ने कहा था?",
+        "en": "Which political thinker famously described the Prime Minister as 'Primus Inter Pares' (First among equals)?"
+      },
+      "o": [
+        {
+          "hi": "लॉर्ड मार्ले (Lord Morley)",
+          "en": "Lord Morley"
+        },
+        {
+          "hi": "हैरोल्ड लास्की",
+          "en": "Harold Laski"
+        },
+        {
+          "hi": "आइवर जेनिंग्स",
+          "en": "Ivor Jennings"
+        },
+        {
+          "hi": "मुनरो",
+          "en": "Munro"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रधानमंत्री को 'मंत्रिमंडलीय चाप की आधारशिला' (Keystone of the Cabinet Arch) किसने कहा था?",
+        "en": "Who described the Prime Minister as the 'Keystone of the Cabinet Arch'?"
+      },
+      "o": [
+        {
+          "hi": "लॉर्ड मार्ले",
+          "en": "Lord Morley"
+        },
+        {
+          "hi": "सर विलियम हरकोर्ट (Sir William Harcourt)",
+          "en": "Sir William Harcourt"
+        },
+        {
+          "hi": "रैमजे म्योर",
+          "en": "Ramsay Muir"
+        },
+        {
+          "hi": "हैरोल्ड लास्की",
+          "en": "Harold Laski"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

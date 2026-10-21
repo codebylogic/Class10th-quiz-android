@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भारतीय संविधान (Indian Constitution)",
+  "subtitle": "भारतीय नागरिकता",
+  "description": "भारतीय नागरिकता पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारतीय संविधान के किस भाग और किन अनुच्छेदों में नागरिकता का प्रावधान किया गया है?",
+        "en": "In which Part and Articles of the Constitution is citizenship provided?"
+      },
+      "o": [
+        {
+          "hi": "भाग 2, अनुच्छेद 5 से 11 (Part II, Articles 5 to 11)",
+          "en": "Part II, Articles 5 to 11"
+        },
+        {
+          "hi": "भाग 1, अनुच्छेद 1 से 4",
+          "en": "Part I, Articles 1 to 4"
+        },
+        {
+          "hi": "भाग 3, अनुच्छेद 12 से 35",
+          "en": "Part III, Articles 12 to 35"
+        },
+        {
+          "hi": "भाग 4, अनुच्छेद 36 से 51",
+          "en": "Part IV, Articles 36 to 51"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय संविधान किस प्रकार की नागरिकता प्रदान करता है?",
+        "en": "What type of citizenship does the Indian Constitution provide?"
+      },
+      "o": [
+        {
+          "hi": "दोहरी नागरिकता (Dual Citizenship)",
+          "en": "Dual Citizenship"
+        },
+        {
+          "hi": "एकल नागरिकता (Single Citizenship - केवल भारत की नागरिकता)",
+          "en": "Single Citizenship (Only Indian citizenship)"
+        },
+        {
+          "hi": "बहु-नागरिकता",
+          "en": "Multiple Citizenship"
+        },
+        {
+          "hi": "राज्यस्तरीय नागरिकता",
+          "en": "State-level Citizenship"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में एकल नागरिकता की अवधारणा किस देश के संविधान से अपनाई गई है?",
+        "en": "From which country's constitution is the concept of single citizenship adopted in India?"
+      },
+      "o": [
+        {
+          "hi": "संयुक्त राज्य अमेरिका",
+          "en": "USA"
+        },
+        {
+          "hi": "स्विट्जरलैंड",
+          "en": "Switzerland"
+        },
+        {
+          "hi": "ब्रिटेन (Britain)",
+          "en": "Britain"
+        },
+        {
+          "hi": "कनाडा",
+          "en": "Canada"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अमेरिका और स्विट्जरलैंड जैसे संघीय देशों में किस प्रकार की नागरिकता की व्यवस्था है?",
+        "en": "What type of citizenship exists in federal countries like the USA and Switzerland?"
+      },
+      "o": [
+        {
+          "hi": "एकल नागरिकता",
+          "en": "Single Citizenship"
+        },
+        {
+          "hi": "स्थानीय नागरिकता",
+          "en": "Local Citizenship"
+        },
+        {
+          "hi": "अप्रत्यक्ष नागरिकता",
+          "en": "Indirect Citizenship"
+        },
+        {
+          "hi": "दोहरी नागरिकता (Dual Citizenship - संघ और राज्य की अलग-अलग)",
+          "en": "Dual Citizenship (National and State)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संविधान के प्रारंभ (26 जनवरी 1950) पर नागरिकता का प्रावधान किस अनुच्छेद में है?",
+        "en": "Citizenship at the commencement of the Constitution is laid down in which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 5 (Article 5 - अधिवास द्वारा नागरिकता)",
+          "en": "Article 5 (Citizenship by domicile)"
+        },
+        {
+          "hi": "अनुच्छेद 6",
+          "en": "Article 6"
+        },
+        {
+          "hi": "अनुच्छेद 7",
+          "en": "Article 7"
+        },
+        {
+          "hi": "अनुच्छेद 8",
+          "en": "Article 8"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पाकिस्तान से भारत को प्रव्रजन (Migration) करने वाले व्यक्तियों की नागरिकता का उल्लेख किस अनुच्छेद में है?",
+        "en": "Rights of citizenship of persons who migrated from Pakistan to India are in which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 5",
+          "en": "Article 5"
+        },
+        {
+          "hi": "अनुच्छेद 6 (Article 6)",
+          "en": "Article 6"
+        },
+        {
+          "hi": "अनुच्छेद 7",
+          "en": "Article 7"
+        },
+        {
+          "hi": "अनुच्छेद 8",
+          "en": "Article 8"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पाकिस्तान को प्रव्रजन करने वाले (किंतु बाद में लौटने वाले) कुछ व्यक्तियों के नागरिकता अधिकार किस अनुच्छेद में हैं?",
+        "en": "Citizenship rights of certain migrants to Pakistan who returned are specified in which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 6",
+          "en": "Article 6"
+        },
+        {
+          "hi": "अनुच्छेद 8",
+          "en": "Article 8"
+        },
+        {
+          "hi": "अनुच्छेद 7 (Article 7)",
+          "en": "Article 7"
+        },
+        {
+          "hi": "अनुच्छेद 9",
+          "en": "Article 9"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत के बाहर रहने वाले भारतीय उद्भव के व्यक्तियों (PIOs) के नागरिकता अधिकार किस अनुच्छेद में हैं?",
+        "en": "Rights of citizenship of certain persons of Indian origin residing outside India are under which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 5",
+          "en": "Article 5"
+        },
+        {
+          "hi": "अनुच्छेद 7",
+          "en": "Article 7"
+        },
+        {
+          "hi": "अनुच्छेद 10",
+          "en": "Article 10"
+        },
+        {
+          "hi": "अनुच्छेद 8 (Article 8)",
+          "en": "Article 8"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्वेच्छा से किसी विदेशी राज्य की नागरिकता अर्जित करने पर भारतीय नागरिकता का समाप्त होना किस अनुच्छेद में है?",
+        "en": "Termination of Indian citizenship upon voluntarily acquiring foreign citizenship is in which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 9 (Article 9)",
+          "en": "Article 9"
+        },
+        {
+          "hi": "अनुच्छेद 8",
+          "en": "Article 8"
+        },
+        {
+          "hi": "अनुच्छेद 10",
+          "en": "Article 10"
+        },
+        {
+          "hi": "अनुच्छेद 11",
+          "en": "Article 11"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसद द्वारा बनाई गई विधि के अधीन प्रत्येक नागरिक के नागरिकता अधिकारों का बना रहना किस अनुच्छेद में है?",
+        "en": "Continuance of the rights of citizenship subject to laws made by Parliament is under which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 9",
+          "en": "Article 9"
+        },
+        {
+          "hi": "अनुच्छेद 10 (Article 10)",
+          "en": "Article 10"
+        },
+        {
+          "hi": "अनुच्छेद 11",
+          "en": "Article 11"
+        },
+        {
+          "hi": "अनुच्छेद 12",
+          "en": "Article 12"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संसद को नागरिकता के संबंध में कानून बनाने का पूर्ण अधिकार संविधान का कौन-सा अनुच्छेद प्रदान करता है?",
+        "en": "Which Article empowers Parliament to regulate the right of citizenship by law?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 10",
+          "en": "Article 10"
+        },
+        {
+          "hi": "अनुच्छेद 9",
+          "en": "Article 9"
+        },
+        {
+          "hi": "अनुच्छेद 11 (Article 11)",
+          "en": "Article 11"
+        },
+        {
+          "hi": "अनुच्छेद 5",
+          "en": "Article 5"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संसद द्वारा सर्वप्रथम व्यापक 'भारतीय नागरिकता अधिनियम' किस वर्ष पारित किया गया था?",
+        "en": "In which year was the first comprehensive Citizenship Act enacted by Parliament?"
+      },
+      "o": [
+        {
+          "hi": "1950 ई. में",
+          "en": "In 1950 AD"
+        },
+        {
+          "hi": "1952 ई. में",
+          "en": "In 1952 AD"
+        },
+        {
+          "hi": "1956 ई. में",
+          "en": "In 1956 AD"
+        },
+        {
+          "hi": "1955 ई. में (Citizenship Act 1955)",
+          "en": "In 1955 (Citizenship Act 1955)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नागरिकता अधिनियम 1955 के अनुसार भारतीय नागरिकता कितने तरीकों से प्राप्त की जा सकती है?",
+        "en": "According to the Citizenship Act 1955, in how many ways can Indian citizenship be acquired?"
+      },
+      "o": [
+        {
+          "hi": "5 तरीकों से (जन्म, वंश, पंजीकरण, प्राकृतिककरण, भूमि विस्तार)",
+          "en": "5 Ways (Birth, Descent, Registration, Naturalization, Incorporation)"
+        },
+        {
+          "hi": "3 तरीकों से",
+          "en": "3 Ways"
+        },
+        {
+          "hi": "4 तरीकों से",
+          "en": "4 Ways"
+        },
+        {
+          "hi": "6 तरीकों से",
+          "en": "6 Ways"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नागरिकता अधिनियम 1955 के तहत भारतीय नागरिकता कितने प्रकार से समाप्त या छीनी जा सकती है?",
+        "en": "In how many ways can Indian citizenship be lost or terminated under the 1955 Act?"
+      },
+      "o": [
+        {
+          "hi": "2 तरीकों से",
+          "en": "2 Ways"
+        },
+        {
+          "hi": "3 तरीकों से (त्याग, पर्यावसान, वंचित किया जाना)",
+          "en": "3 Ways (Renunciation, Termination, Deprivation)"
+        },
+        {
+          "hi": "4 तरीकों से",
+          "en": "4 Ways"
+        },
+        {
+          "hi": "5 तरीकों से",
+          "en": "5 Ways"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यदि भारत सरकार किसी नए विदेशी भूभाग का अधिग्रहण करती है, तो वहां के लोग किस आधार पर नागरिक बनते हैं?",
+        "en": "If India acquires foreign territory, on what basis do the inhabitants become Indian citizens?"
+      },
+      "o": [
+        {
+          "hi": "केवल जन्म द्वारा",
+          "en": "Only by Birth"
+        },
+        {
+          "hi": "केवल पंजीकरण द्वारा",
+          "en": "Only by Registration"
+        },
+        {
+          "hi": "भूमि विस्तार / क्षेत्र समाविष्टि द्वारा (By Incorporation of Territory)",
+          "en": "By Incorporation of Territory"
+        },
+        {
+          "hi": "स्वयंसेवी आवेदन द्वारा",
+          "en": "Voluntary Application"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पंजीकरण द्वारा (By Registration) नागरिकता प्राप्त करने हेतु किसी व्यक्ति को आवेदन से पूर्व कितने समय तक भारत में रहना अनिवार्य है?",
+        "en": "To acquire citizenship by registration, how long must an applicant reside in India prior to application?"
+      },
+      "o": [
+        {
+          "hi": "5 वर्ष",
+          "en": "5 years"
+        },
+        {
+          "hi": "1 वर्ष",
+          "en": "1 year"
+        },
+        {
+          "hi": "10 वर्ष",
+          "en": "10 years"
+        },
+        {
+          "hi": "कम से कम 7 वर्ष (At least 7 years)",
+          "en": "At least 7 years"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "देशीकरण (Naturalization) द्वारा नागरिकता प्राप्त करने के लिए सामान्यतः कितने वर्ष भारत में निवास आवश्यक है?",
+        "en": "Normally, how many years of residence in India is required for citizenship by Naturalization?"
+      },
+      "o": [
+        {
+          "hi": "14 वर्षों में से कम से कम 11 वर्ष (आवेदन से पूर्व लगातार 12 माह सहित)",
+          "en": "At least 11 years out of 14 (plus 12 months immediately preceding)"
+        },
+        {
+          "hi": "5 वर्ष",
+          "en": "5 years"
+        },
+        {
+          "hi": "7 वर्ष",
+          "en": "7 years"
+        },
+        {
+          "hi": "20 वर्ष",
+          "en": "20 years"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यदि कोई भारतीय नागरिक लगातार कितने वर्षों तक बिना सूचना के विदेश में रहता है, तो उसकी नागरिकता समाप्त हो सकती है?",
+        "en": "If an Indian citizen resides abroad continuously for how many years without intimation, citizenship may be terminated?"
+      },
+      "o": [
+        {
+          "hi": "5 वर्ष",
+          "en": "5 Years"
+        },
+        {
+          "hi": "7 वर्ष (7 Years)",
+          "en": "7 Years"
+        },
+        {
+          "hi": "10 वर्ष",
+          "en": "10 Years"
+        },
+        {
+          "hi": "3 वर्ष",
+          "en": "3 Years"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नागरिकता संशोधन अधिनियम 1986 द्वारा जन्म से नागरिकता (Jus Soli) के संबंध में क्या शर्त जोड़ी गई?",
+        "en": "What condition was added for citizenship by birth by the Citizenship Amendment Act 1986?"
+      },
+      "o": [
+        {
+          "hi": "दोनों का भारतीय नागरिक होना अनिवार्य किया",
+          "en": "Both parents must be citizens"
+        },
+        {
+          "hi": "केवल दादा-दादी का भारतीय होना",
+          "en": "Grandparents must be Indian"
+        },
+        {
+          "hi": "माता या पिता में से किसी एक का भारत का नागरिक होना अनिवार्य किया गया",
+          "en": "Either parent must be an Indian citizen at the time of birth"
+        },
+        {
+          "hi": "जन्म केवल सरकारी अस्पताल में होना",
+          "en": "Birth only in govt hospital"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नागरिकता संशोधन अधिनियम 1992 द्वारा वंश के आधार पर नागरिकता (Jus Sanguinis) में क्या लैंगिक समानता दी गई?",
+        "en": "What gender equality was introduced by the Citizenship Amendment Act 1992?"
+      },
+      "o": [
+        {
+          "hi": "केवल पिता की नागरिकता मान्य की गई",
+          "en": "Only father's citizenship recognized"
+        },
+        {
+          "hi": "माता-पिता दोनों का विदेशी होना अनिवार्य",
+          "en": "Both parents must be foreign"
+        },
+        {
+          "hi": "विदेश में जन्म पर नागरिकता समाप्त होना",
+          "en": "Loss of citizenship on birth abroad"
+        },
+        {
+          "hi": "भारत के बाहर जन्मे बच्चे को माता के भारतीय होने के आधार पर भी नागरिकता मिलने का अधिकार",
+          "en": "Child born abroad can acquire citizenship through mother also"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नागरिकता संशोधन अधिनियम 2003 द्वारा 'अवैध प्रवासी' (Illegal Migrant) की क्या परिभाषा तय की गई?",
+        "en": "How was an 'Illegal Migrant' defined under the Citizenship Amendment Act 2003?"
+      },
+      "o": [
+        {
+          "hi": "वैध पासपोर्ट/वीजा के बिना प्रवेश करने वाला या अनुमत अवधि समाप्त होने के बाद भी रुकने वाला",
+          "en": "Entered without valid passport/visa or staying beyond permitted duration"
+        },
+        {
+          "hi": "केवल वे जो टैक्स नहीं देते",
+          "en": "Only those who don't pay tax"
+        },
+        {
+          "hi": "किसी भी विदेशी देश का पर्यटक",
+          "en": "Any foreign tourist"
+        },
+        {
+          "hi": "केवल शरणार्थी शिविरों में रहने वाले",
+          "en": "Only refugee camp dwellers"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रवासी भारतीय दिवस (Pravasi Bharatiya Divas) किस समिति की सिफारिश पर और कब से मनाया जाता है?",
+        "en": "On which committee's recommendation and from when is Pravasi Bharatiya Divas celebrated?"
+      },
+      "o": [
+        {
+          "hi": "सरकारिया आयोग की सिफारिश पर 1990 से",
+          "en": "Sarkaria Commission from 1990"
+        },
+        {
+          "hi": "एल. एम. सिंघवी समिति की सिफारिश पर 9 जनवरी 2003 से",
+          "en": "L. M. Singhvi Committee recommendation, from 9 Jan 2003"
+        },
+        {
+          "hi": "केलकर समिति की सिफारिश पर 2005 से",
+          "en": "Kelkar Committee from 2005"
+        },
+        {
+          "hi": "रंगनाथ मिश्र आयोग पर 2010 से",
+          "en": "Ranganath Misra Commission from 2010"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "9 जनवरी को ही प्रवासी भारतीय दिवस क्यों मनाया जाता है?",
+        "en": "Why is Pravasi Bharatiya Divas celebrated specifically on 9 January?"
+      },
+      "o": [
+        {
+          "hi": "गांधीजी का जन्म इसी दिन हुआ था",
+          "en": "Gandhi's birthday"
+        },
+        {
+          "hi": "चंपारण सत्याग्रह इसी दिन शुरू हुआ",
+          "en": "Champaran satyagraha started"
+        },
+        {
+          "hi": "9 जनवरी 1915 को महात्मा गांधी दक्षिण अफ्रीका से भारत लौटे थे",
+          "en": "Mahatma Gandhi returned to India from South Africa on 9 Jan 1915"
+        },
+        {
+          "hi": "भारत का संविधान इसी दिन लागू हुआ",
+          "en": "Constitution came into force"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "PIO (भारतीय मूल के व्यक्ति) कार्ड और OCI (भारत के विदेशी नागरिक) कार्ड का विलय किस वर्ष किया गया?",
+        "en": "In which year were PIO and OCI schemes merged into a single OCI cardholder scheme?"
+      },
+      "o": [
+        {
+          "hi": "2005 ई. में",
+          "en": "In 2005 AD"
+        },
+        {
+          "hi": "2010 ई. में",
+          "en": "In 2010 AD"
+        },
+        {
+          "hi": "2019 ई. में",
+          "en": "In 2019 AD"
+        },
+        {
+          "hi": "2015 ई. में (नागरिकता संशोधन अधिनियम 2015)",
+          "en": "In 2015 (Citizenship Amendment Act 2015)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत के विदेशी नागरिक (OCI) कार्डधारकों को कौन-सा अधिकार प्राप्त नहीं होता है?",
+        "en": "Which right is NOT granted to Overseas Citizens of India (OCI) cardholders?"
+      },
+      "o": [
+        {
+          "hi": "मताधिकार, चुनाव लड़ने का अधिकार एवं सार्वजनिक पद (संवैधानिक पद) धारण करने का अधिकार",
+          "en": "Right to vote, contest elections, and hold public/constitutional offices"
+        },
+        {
+          "hi": "भारत में आजीवन बहुप्रवेश वीजा",
+          "en": "Lifelong multiple-entry visa to India"
+        },
+        {
+          "hi": "वित्तीय एवं आर्थिक मामलों में अनिवासी भारतीयों जैसी सुविधाएं",
+          "en": "Parity with NRIs in financial matters"
+        },
+        {
+          "hi": "भारत आने पर पुलिस पंजीकरण से छूट",
+          "en": "Exemption from police reporting"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नागरिकता संशोधन अधिनियम 2019 (CAA) किन तीन देशों के प्रताड़ित अल्पसंख्यकों से संबंधित है?",
+        "en": "The Citizenship Amendment Act 2019 (CAA) applies to persecuted minorities from which 3 countries?"
+      },
+      "o": [
+        {
+          "hi": "नेपाल, भूटान और म्यांमार",
+          "en": "Nepal, Bhutan, and Myanmar"
+        },
+        {
+          "hi": "पाकिस्तान, बांग्लादेश और अफगानिस्तान",
+          "en": "Pakistan, Bangladesh, and Afghanistan"
+        },
+        {
+          "hi": "श्रीलंका, मालदीव और चीन",
+          "en": "Sri Lanka, Maldives, and China"
+        },
+        {
+          "hi": "तिब्बत, पाकिस्तान और श्रीलंका",
+          "en": "Tibet, Pakistan, and Sri Lanka"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "CAA 2019 के अंतर्गत किन 6 धार्मिक समुदायों के शरणार्थियों को नागरिकता हेतु पात्र माना गया है?",
+        "en": "Which 6 religious communities are eligible for fast-track citizenship under CAA 2019?"
+      },
+      "o": [
+        {
+          "hi": "केवल हिंदू और सिख",
+          "en": "Only Hindu and Sikh"
+        },
+        {
+          "hi": "केवल बौद्ध और जैन",
+          "en": "Only Buddhist and Jain"
+        },
+        {
+          "hi": "हिंदू, सिख, बौद्ध, जैन, पारसी और ईसाई",
+          "en": "Hindu, Sikh, Buddhist, Jain, Parsi, and Christian"
+        },
+        {
+          "hi": "मुस्लिम, हिंदू, सिख, ईसाई, यहूदी, पारसी",
+          "en": "Muslim, Hindu, Sikh, Christian, Jewish, Parsi"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "CAA 2019 के तहत भारत में प्रवेश की कट-ऑफ तिथि (Cut-off date) क्या निर्धारित की गई है?",
+        "en": "What is the cut-off date of entry into India under the CAA 2019?"
+      },
+      "o": [
+        {
+          "hi": "24 मार्च 1971",
+          "en": "24 March 1971"
+        },
+        {
+          "hi": "1 जनवरी 2019",
+          "en": "1 January 2019"
+        },
+        {
+          "hi": "15 अगस्त 1947",
+          "en": "15 August 1947"
+        },
+        {
+          "hi": "31 दिसंबर 2014 या उससे पहले",
+          "en": "On or before 31 December 2014"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "असम समझौते (Assam Accord 1985) के तहत विदेशियों की पहचान और नागरिकता हेतु कट-ऑफ तिथि क्या थी?",
+        "en": "What was the cut-off date for identification of foreigners under Assam Accord 1985 (Section 6A)?"
+      },
+      "o": [
+        {
+          "hi": "24 मार्च 1971 की मध्यरात्रि (बांग्लादेश मुक्ति संग्राम)",
+          "en": "Midnight of 24 March 1971 (Bangladesh Liberation War)"
+        },
+        {
+          "hi": "15 अगस्त 1947",
+          "en": "15 August 1947"
+        },
+        {
+          "hi": "26 जनवरी 1950",
+          "en": "26 January 1950"
+        },
+        {
+          "hi": "31 दिसंबर 2014",
+          "en": "31 December 2014"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रीय नागरिक रजिस्टर (NRC) सर्वप्रथम किस वर्ष तैयार किया गया था?",
+        "en": "In which year was the National Register of Citizens (NRC) first prepared?"
+      },
+      "o": [
+        {
+          "hi": "1947 ई. में",
+          "en": "In 1947 AD"
+        },
+        {
+          "hi": "1951 ई. की जनगणना के बाद (असम में)",
+          "en": "After 1951 Census (in Assam)"
+        },
+        {
+          "hi": "1971 ई. में",
+          "en": "In 1971 AD"
+        },
+        {
+          "hi": "1985 ई. में",
+          "en": "In 1985 AD"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "केवल भारतीय नागरिकों को प्राप्त मूल अधिकार कौन-से हैं (विदेशियों को नहीं)?",
+        "en": "Which Fundamental Rights are available exclusively to Indian citizens and not foreigners?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 14, 20, 21, 25",
+          "en": "Articles 14, 20, 21, 25"
+        },
+        {
+          "hi": "अनुच्छेद 21, 22, 23, 24",
+          "en": "Articles 21, 22, 23, 24"
+        },
+        {
+          "hi": "अनुच्छेद 15, 16, 19, 29 और 30",
+          "en": "Articles 15, 16, 19, 29, and 30"
+        },
+        {
+          "hi": "अनुच्छेद 14, 19, 21, 32",
+          "en": "Articles 14, 19, 21, 32"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नागरिक और विदेशी (Aliens) दोनों को प्राप्त मूल अधिकार कौन-से हैं?",
+        "en": "Which Fundamental Rights are available to both citizens and foreigners (except enemy aliens)?"
+      },
+      "o": [
+        {
+          "hi": "केवल अनुच्छेद 15 और 16",
+          "en": "Only Articles 15 and 16"
+        },
+        {
+          "hi": "केवल अनुच्छेद 19 और 29",
+          "en": "Only Articles 19 and 29"
+        },
+        {
+          "hi": "केवल अनुच्छेद 30 और 32",
+          "en": "Only Articles 30 and 32"
+        },
+        {
+          "hi": "अनुच्छेद 14, 20, 21, 21क, 22, 23, 24, 25, 26, 27 और 28",
+          "en": "Articles 14, 20, 21, 21A, 22, 23, 24, 25, 26, 27, and 28"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत का नागरिक बनने के लिए क्या किसी व्यक्ति का जन्म अनिवार्य रूप से भारत में होना आवश्यक है?",
+        "en": "Is it mandatory for a person to be born in India to become an Indian citizen?"
+      },
+      "o": [
+        {
+          "hi": "नहीं, वंश, पंजीकरण, देशीकरण या भूमि अर्जन द्वारा भी नागरिकता मिल सकती है",
+          "en": "No, can be acquired by descent, registration, naturalization, or incorporation"
+        },
+        {
+          "hi": "हाँ, जन्म अनिवार्य शर्त है",
+          "en": "Yes, birth is mandatory"
+        },
+        {
+          "hi": "केवल सरकारी कर्मचारियों के बच्चों को छूट है",
+          "en": "Only govt servant kids exempted"
+        },
+        {
+          "hi": "केवल संसद के विशेष प्रस्ताव से छूट है",
+          "en": "Only Parliament resolution exempts"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्या भारत का राष्ट्रपति बनने के लिए केवल 'जन्मजात नागरिक' होना अनिवार्य है (अमेरिका की तरह)?",
+        "en": "To become President of India, is being a 'natural-born citizen' mandatory (like in the US)?"
+      },
+      "o": [
+        {
+          "hi": "हाँ, केवल भारत में जन्मे नागरिक ही बन सकते हैं",
+          "en": "Yes, only born citizens eligible"
+        },
+        {
+          "hi": "नहीं, भारत में जन्मजात या देशीकरण से नागरिक बना कोई भी व्यक्ति राष्ट्रपति बन सकता है",
+          "en": "No, any citizen by birth or naturalization is eligible in India"
+        },
+        {
+          "hi": "केवल वे जिनके माता-पिता दोनों भारत में जन्मे हों",
+          "en": "Only whose both parents born in India"
+        },
+        {
+          "hi": "संविधान में इसका कोई उल्लेख नहीं है",
+          "en": "No mention in Constitution"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नागरिकता से संबंधित नियम और शर्तें निर्धारित करने का अंतिम अधिकार किस मंत्रालय के पास है?",
+        "en": "Which Union Ministry has primary administrative authority over citizenship matters?"
+      },
+      "o": [
+        {
+          "hi": "विदेश मंत्रालय (MEA)",
+          "en": "Ministry of External Affairs (MEA)"
+        },
+        {
+          "hi": "विधि एवं न्याय मंत्रालय",
+          "en": "Ministry of Law and Justice"
+        },
+        {
+          "hi": "गृह मंत्रालय (Ministry of Home Affairs - MHA)",
+          "en": "Ministry of Home Affairs (MHA)"
+        },
+        {
+          "hi": "कार्मिक एवं प्रशिक्षण विभाग",
+          "en": "Department of Personnel & Training"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "युद्धकाल में शत्रु देश की सहायता करने या देशद्रोह करने पर नागरिकता समाप्त करने का अधिकार किसे है?",
+        "en": "Who has the power to deprive a person of citizenship for assisting an enemy country in war?"
+      },
+      "o": [
+        {
+          "hi": "केवल सर्वोच्च न्यायालय को",
+          "en": "Only Supreme Court"
+        },
+        {
+          "hi": "संबंधित राज्य के राज्यपाल को",
+          "en": "Governor of the state"
+        },
+        {
+          "hi": "संयुक्त राष्ट्र सुरक्षा परिषद को",
+          "en": "UN Security Council"
+        },
+        {
+          "hi": "केंद्र सरकार को (Central Government)",
+          "en": "Central Government"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यदि कोई व्यक्ति धोखाधड़ी या असत्य कथन द्वारा नागरिकता प्राप्त करता है, तो क्या होता है?",
+        "en": "What happens if a person acquires Indian citizenship by fraud or false representation?"
+      },
+      "o": [
+        {
+          "hi": "केंद्र सरकार उसे नागरिकता से वंचित कर सकती है (Deprivation)",
+          "en": "Central Government may deprive him of citizenship"
+        },
+        {
+          "hi": "केवल ₹500 का जुर्माना लगता है",
+          "en": "Only ₹500 fine"
+        },
+        {
+          "hi": "उसे आजीवन कारावास होता है",
+          "en": "Life imprisonment"
+        },
+        {
+          "hi": "नागरिकता कभी छीनी नहीं जा सकती",
+          "en": "Citizenship can never be revoked"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संविधान के लागू होने के समय (26 जनवरी 1950) नागरिकता संबंधी प्रावधान कब प्रभावी हो गए थे?",
+        "en": "When did the citizenship articles (Articles 5-9) come into force?"
+      },
+      "o": [
+        {
+          "hi": "26 जनवरी 1950 को",
+          "en": "On 26 January 1950"
+        },
+        {
+          "hi": "26 नवंबर 1949 को ही (संविधान अंगीकार के दिन)",
+          "en": "On 26 November 1949 itself"
+        },
+        {
+          "hi": "15 अगस्त 1947 को",
+          "en": "On 15 August 1947"
+        },
+        {
+          "hi": "1 जनवरी 1950 को",
+          "en": "On 1 January 1950"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय नागरिकता अधिनियम 1955 में अब तक कुल कितनी बार प्रमुख संशोधन किए जा चुके हैं?",
+        "en": "How many major amendments have been made to the Citizenship Act 1955 up to 2019?"
+      },
+      "o": [
+        {
+          "hi": "3 बार",
+          "en": "3 Times"
+        },
+        {
+          "hi": "4 बार",
+          "en": "4 Times"
+        },
+        {
+          "hi": "6 बार (1986, 1992, 2003, 2005, 2015, 2019)",
+          "en": "6 Times (1986, 1992, 2003, 2005, 2015, 2019)"
+        },
+        {
+          "hi": "8 बार",
+          "en": "8 Times"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नागरिकता के संदर्भ में 'अधिवास' (Domicile) का क्या विधिक अर्थ होता है?",
+        "en": "In constitutional law, what is the legal meaning of 'Domicile'?"
+      },
+      "o": [
+        {
+          "hi": "केवल जन्म का स्थान",
+          "en": "Only place of birth"
+        },
+        {
+          "hi": "कामकाज का अस्थाई कार्यालय",
+          "en": "Temporary work office"
+        },
+        {
+          "hi": "माता-पिता का पैतृक गांव",
+          "en": "Ancestral village of parents"
+        },
+        {
+          "hi": "किसी व्यक्ति का स्थायी निवास स्थान जहाँ उसका अनिश्चितकाल तक रहने का इरादा हो",
+          "en": "Permanent residence where a person intends to reside indefinitely"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रदीप जैन बनाम भारत संघ (1984) वाद में सर्वोच्च न्यायालय ने क्या व्यवस्था दी थी?",
+        "en": "What did the Supreme Court rule in Pradeep Jain v. Union of India (1984)?"
+      },
+      "o": [
+        {
+          "hi": "पूरे भारत के लिए केवल एक अधिवास (One Domicile) और एक नागरिकता है",
+          "en": "There is only one domicile for entire India and one citizenship"
+        },
+        {
+          "hi": "प्रत्येक राज्य का अलग अधिवास होता है",
+          "en": "Each state has separate domicile"
+        },
+        {
+          "hi": "दोहरी नागरिकता अनिवार्य है",
+          "en": "Dual citizenship is mandatory"
+        },
+        {
+          "hi": "केंद्र का कोई अधिवास नहीं होता",
+          "en": "Centre has no domicile"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्या कोई विदेशी कंपनी या निगम (Corporation) भारतीय संविधान के तहत 'नागरिक' माना जा सकता है?",
+        "en": "Can a company or corporation be considered a 'citizen' under the Indian Constitution?"
+      },
+      "o": [
+        {
+          "hi": "हाँ, यदि वह भारत में पंजीकृत हो",
+          "en": "Yes, if registered in India"
+        },
+        {
+          "hi": "नहीं, कंपनी विधि द्वारा निर्मित विधिक व्यक्ति है, नागरिक केवल प्राकृतिक व्यक्ति होते हैं",
+          "en": "No, a corporation is a legal person, only natural persons are citizens"
+        },
+        {
+          "hi": "हाँ, यदि शेयरधारक भारतीय हों",
+          "en": "Yes, if shareholders are Indian"
+        },
+        {
+          "hi": "सर्वोच्च न्यायालय के विवेकानुसार",
+          "en": "At Supreme Court's discretion"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्टेट ट्रेडिंग कॉरपोरेशन ऑफ इंडिया (STC) बनाम कमर्शियल टैक्स ऑफिसर (1963) में क्या निर्णय दिया गया?",
+        "en": "What was held in State Trading Corporation of India v. Commercial Tax Officer (1963)?"
+      },
+      "o": [
+        {
+          "hi": "कंपनियों को नागरिक माना गया",
+          "en": "Corporations recognized as citizens"
+        },
+        {
+          "hi": "कंपनियों को मतदान का अधिकार दिया गया",
+          "en": "Right to vote given to companies"
+        },
+        {
+          "hi": "कंपनी या निगम संविधान के भाग 3 के तहत नागरिक नहीं हैं और उन्हें Art 19 के अधिकार नहीं मिलते",
+          "en": "Corporations are not citizens under Part III and cannot claim Art 19 rights"
+        },
+        {
+          "hi": "नागरिकता कानून निरस्त कर दिया गया",
+          "en": "Citizenship Act declared void"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नागरिकता संशोधन अधिनियम 2019 को राष्ट्रपति की स्वीकृति कब मिली थी?",
+        "en": "When did the Citizenship Amendment Act 2019 receive Presidential assent?"
+      },
+      "o": [
+        {
+          "hi": "15 अगस्त 2019 को",
+          "en": "15 August 2019"
+        },
+        {
+          "hi": "31 अक्टूबर 2019 को",
+          "en": "31 October 2019"
+        },
+        {
+          "hi": "26 जनवरी 2020 को",
+          "en": "26 January 2020"
+        },
+        {
+          "hi": "12 दिसंबर 2019 को (अधिसूचित 10 जनवरी 2020)",
+          "en": "12 December 2019 (Notified 10 January 2020)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "CAA 2019 के प्रावधान किन क्षेत्रों पर लागू नहीं होते हैं?",
+        "en": "To which areas do the provisions of the CAA 2019 NOT apply?"
+      },
+      "o": [
+        {
+          "hi": "संविधान की छठी अनुसूची के आदिवासी क्षेत्रों एवं इनर लाइन परमिट (ILP) वाले राज्यों पर",
+          "en": "Tribal areas under 6th Schedule and Inner Line Permit (ILP) states"
+        },
+        {
+          "hi": "पूरे उत्तर भारत पर",
+          "en": "Entire North India"
+        },
+        {
+          "hi": "केवल केंद्रशासित प्रदेशों पर",
+          "en": "Only Union Territories"
+        },
+        {
+          "hi": "दक्षिण भारत के सभी राज्यों पर",
+          "en": "All South Indian States"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वर्तमान में किन पूर्वोत्तर राज्यों में इनर लाइन परमिट (ILP) व्यवस्था लागू है?",
+        "en": "In which northeastern states is the Inner Line Permit (ILP) currently operational?"
+      },
+      "o": [
+        {
+          "hi": "असम, त्रिपुरा और मेघालय",
+          "en": "Assam, Tripura, and Meghalaya"
+        },
+        {
+          "hi": "अरुणाचल प्रदेश, नगालैंड, मिजोरम और मणिपुर",
+          "en": "Arunachal Pradesh, Nagaland, Mizoram, and Manipur"
+        },
+        {
+          "hi": "सिक्किम, असम और मणिपुर",
+          "en": "Sikkim, Assam, and Manipur"
+        },
+        {
+          "hi": "मेघालय, त्रिपुरा और मिजोरम",
+          "en": "Meghalaya, Tripura, and Mizoram"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नागरिकता संशोधन अधिनियम 2019 के तहत देशीकरण के लिए निवास की न्यूनतम अवधि 11 वर्ष से घटाकर कितनी की गई?",
+        "en": "Under CAA 2019, the residence requirement for naturalization was reduced from 11 years to what?"
+      },
+      "o": [
+        {
+          "hi": "3 वर्ष",
+          "en": "3 Years"
+        },
+        {
+          "hi": "1 वर्ष",
+          "en": "1 Year"
+        },
+        {
+          "hi": "5 वर्ष (5 Years - निर्दिष्ट 6 समुदायों के लिए)",
+          "en": "5 Years (for specified 6 minority communities)"
+        },
+        {
+          "hi": "7 वर्ष",
+          "en": "7 Years"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रीय जनसंख्या रजिस्टर (NPR) नागरिकता अधिनियम 1955 के किस नियम के तहत तैयार किया जाता है?",
+        "en": "Under which rules of Citizenship Act 1955 is the National Population Register (NPR) prepared?"
+      },
+      "o": [
+        {
+          "hi": "जनगणना अधिनियम 1948",
+          "en": "Census Act 1948"
+        },
+        {
+          "hi": "पासपोर्ट अधिनियम 1967",
+          "en": "Passports Act 1967"
+        },
+        {
+          "hi": "विदेशी अधिनियम 1946",
+          "en": "Foreigners Act 1946"
+        },
+        {
+          "hi": "नागरिकता नियम 2003 (नागरिकों का पंजीकरण और राष्ट्रीय पहचान पत्र)",
+          "en": "Citizenship Rules 2003 (Registration of Citizens and Issue of ID)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय नागरिकता प्राप्त करने के लिए किसी व्यक्ति को संविधान की 8वीं अनुसूची की भाषाओं में से कितनी भाषाओं का ज्ञान होना चाहिए?",
+        "en": "For naturalization, a person must have adequate knowledge of how many languages in 8th Schedule?"
+      },
+      "o": [
+        {
+          "hi": "कम से कम 1 भाषा (At least 1 language)",
+          "en": "At least 1 language"
+        },
+        {
+          "hi": "सभी 22 भाषाएं",
+          "en": "All 22 languages"
+        },
+        {
+          "hi": "कम से कम 3 भाषाएं",
+          "en": "At least 3 languages"
+        },
+        {
+          "hi": "अंग्रेजी और हिंदी दोनों",
+          "en": "Both English and Hindi"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में नागरिकता के संबंध में कानून बनाने की शक्ति किसके पास सुरक्षित है?",
+        "en": "The exclusive power to make laws regarding citizenship rests with whom?"
+      },
+      "o": [
+        {
+          "hi": "राज्य विधानमंडलों के पास",
+          "en": "State Legislatures"
+        },
+        {
+          "hi": "संसद के पास (Parliament of India)",
+          "en": "Parliament of India"
+        },
+        {
+          "hi": "सर्वोच्च न्यायालय के पास",
+          "en": "Supreme Court"
+        },
+        {
+          "hi": "विधि आयोग के पास",
+          "en": "Law Commission"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

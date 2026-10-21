@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भारतीय संविधान (Indian Constitution)",
+  "subtitle": "वित्त आयोग",
+  "description": "वित्त आयोग पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारतीय संविधान के किस अनुच्छेद में 'वित्त आयोग' (Finance Commission) के गठन का प्रावधान है?",
+        "en": "Under which Article of the Constitution is the Finance Commission constituted?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 280 (Article 280)",
+          "en": "Article 280"
+        },
+        {
+          "hi": "अनुच्छेद 281",
+          "en": "Article 281"
+        },
+        {
+          "hi": "अनुच्छेद 275",
+          "en": "Article 275"
+        },
+        {
+          "hi": "अनुच्छेद 265",
+          "en": "Article 265"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वित्त आयोग का गठन किसके द्वारा और कितने समय के अंतराल पर किया जाता है?",
+        "en": "By whom and at what interval is the Finance Commission constituted under Article 280(1)?"
+      },
+      "o": [
+        {
+          "hi": "प्रधानमंत्री द्वारा प्रत्येक 3 वर्ष पर",
+          "en": "By PM every 3 years"
+        },
+        {
+          "hi": "राष्ट्रपति द्वारा प्रत्येक 5 वर्ष की समाप्ति पर या उससे पहले",
+          "en": "By the President of India every five years or earlier"
+        },
+        {
+          "hi": "संसद द्वारा प्रत्येक 10 वर्ष पर",
+          "en": "By Parliament every 10 years"
+        },
+        {
+          "hi": "नीति आयोग द्वारा आवश्यकतानुसार",
+          "en": "By NITI Aayog as required"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संविधान के अनुसार वित्त आयोग में अध्यक्ष के अतिरिक्त कुल कितने अन्य सदस्य होते हैं?",
+        "en": "How many members other than the Chairman are there in the Finance Commission?"
+      },
+      "o": [
+        {
+          "hi": "3 अन्य सदस्य",
+          "en": "3 other members"
+        },
+        {
+          "hi": "5 अन्य सदस्य",
+          "en": "5 other members"
+        },
+        {
+          "hi": "4 अन्य सदस्य (कुल 5 सदस्य - 1 अध्यक्ष + 4 सदस्य)",
+          "en": "4 other members (Total 5: 1 Chairman + 4 members)"
+        },
+        {
+          "hi": "6 अन्य सदस्य",
+          "en": "6 other members"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वित्त आयोग के अध्यक्ष और सदस्यों की योग्यताएं तय करने का अधिकार संविधान ने किसे दिया है?",
+        "en": "Who is empowered by the Constitution to determine qualifications of Finance Commission members?"
+      },
+      "o": [
+        {
+          "hi": "भारत के राष्ट्रपति को",
+          "en": "President of India"
+        },
+        {
+          "hi": "केंद्रीय वित्त मंत्री को",
+          "en": "Union Finance Minister"
+        },
+        {
+          "hi": "सर्वोच्च न्यायालय को",
+          "en": "Supreme Court of India"
+        },
+        {
+          "hi": "संसद को (विधि बनाकर / संसद ने वित्त आयोग अधिनियम 1951 पारित किया)",
+          "en": "Parliament of India (by law / passed Finance Commission Act 1951)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वित्त आयोग (विविध उपबंध) अधिनियम 1951 के अनुसार आयोग का अध्यक्ष कैसा व्यक्ति होना चाहिए?",
+        "en": "According to the Finance Commission Act 1951, what qualification must the Chairman possess?"
+      },
+      "o": [
+        {
+          "hi": "सार्वजनिक मामलों का पर्याप्त अनुभव रखने वाला व्यक्ति (Experience in public affairs)",
+          "en": "A person having experience in public affairs"
+        },
+        {
+          "hi": "अनिवार्यतः सर्वोच्च न्यायालय का सेवानिवृत्त न्यायाधीश",
+          "en": "Retired SC judge mandatorily"
+        },
+        {
+          "hi": "अनिवार्यतः किसी विश्वविद्यालय का अर्थशास्त्र प्रोफेसर",
+          "en": "Economics professor mandatorily"
+        },
+        {
+          "hi": "पूर्व केंद्रीय वित्त सचिव",
+          "en": "Former Finance Secretary"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वित्त आयोग के 4 अन्य सदस्यों के चयन हेतु कौन-सी योग्यताएं कानून में निर्धारित हैं?",
+        "en": "Which qualifications are prescribed for the 4 members of the Finance Commission?"
+      },
+      "o": [
+        {
+          "hi": "सभी सदस्य संसद से होने चाहिए",
+          "en": "All members from Parliament"
+        },
+        {
+          "hi": "हाईकोर्ट जज या योग्य, सरकारी वित्त/लेखा ज्ञाता, वित्तीय प्रशासन अनुभवी, तथा अर्थशास्त्र का विशेष ज्ञाता",
+          "en": "HC judge/qualified, Govt finance/accounts expert, financial admin experience, economist"
+        },
+        {
+          "hi": "सभी राज्यों के मुख्य सचिव होने चाहिए",
+          "en": "Chief Secretaries of States"
+        },
+        {
+          "hi": "केवल चार्टर्ड अकाउंटेंट होने चाहिए",
+          "en": "Only Chartered Accountants"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वित्त आयोग किस प्रकार का निकाय (Body) है?",
+        "en": "What type of constitutional body is the Finance Commission of India?"
+      },
+      "o": [
+        {
+          "hi": "गैर-संवैधानिक कार्यकारी निकाय",
+          "en": "Extra-constitutional body"
+        },
+        {
+          "hi": "पूर्णतः विधायी निकाय",
+          "en": "Purely legislative body"
+        },
+        {
+          "hi": "अर्द्ध-न्यायिक एवं परामर्शकारी संवैधानिक निकाय (Quasi-judicial & Consultative Body)",
+          "en": "Quasi-judicial and Consultative Constitutional Body"
+        },
+        {
+          "hi": "स्वायत्त निजी अधिकरण",
+          "en": "Autonomous private tribunal"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वित्त आयोग का मुख्य कार्य क्या होता है?",
+        "en": "What is the primary function of the Finance Commission under Article 280(3)?"
+      },
+      "o": [
+        {
+          "hi": "देश का वार्षिक आम बजट बनाना",
+          "en": "Drafting annual Union Budget"
+        },
+        {
+          "hi": "विदेशी ऋणों का प्रबंधन करना",
+          "en": "Managing foreign debt"
+        },
+        {
+          "hi": "मुद्रा छापने की अनुमति देना",
+          "en": "Authorizing currency printing"
+        },
+        {
+          "hi": "संघ और राज्यों के बीच करों की शुद्ध प्राप्तियों का वितरण (विभाजन) और राज्यों के बीच आवंटन की सिफारिश करना",
+          "en": "Distribution of net proceeds of taxes between Union and States and allocation among States"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संविधान के अनुच्छेद 275 के तहत राज्यों को सहायता अनुदान (Grants-in-Aid) देने के सिद्धांतों की सिफारिश कौन करता है?",
+        "en": "Who recommends the principles governing grants-in-aid to States out of Consolidated Fund under Art 275?"
+      },
+      "o": [
+        {
+          "hi": "वित्त आयोग (Finance Commission)",
+          "en": "Finance Commission"
+        },
+        {
+          "hi": "नीति आयोग",
+          "en": "NITI Aayog"
+        },
+        {
+          "hi": "अंतर्रराज्य परिषद",
+          "en": "Inter-State Council"
+        },
+        {
+          "hi": "लोक लेखा समिति",
+          "en": "Public Accounts Committee"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "73वें और 74वें संविधान संशोधन द्वारा वित्त आयोग को कौन-सा नया कार्य सौंपा गया?",
+        "en": "What new duty was added to Finance Commission by 73rd and 74th Amendments (Art 280(3)(bb) & (c))?"
+      },
+      "o": [
+        {
+          "hi": "पंचायतों के चुनाव करवाना",
+          "en": "Conducting Panchayat elections"
+        },
+        {
+          "hi": "राज्य वित्त आयोग की सिफारिश पर पंचायतों और नगरपालिकाओं के संसाधनों की पूर्ति हेतु राज्य संचित निधि बढ़ाने के उपाय",
+          "en": "Measures to augment State Consolidated Fund for Panchayats & Municipalities based on SFC reports"
+        },
+        {
+          "hi": "नगरपालिकाओं के महापौर नियुक्त करना",
+          "en": "Appointing Mayors"
+        },
+        {
+          "hi": "जिला योजना समितियां बनाना",
+          "en": "Forming District Planning Committees"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वित्त आयोग अपनी सिफारिशें (Report) किसे प्रस्तुत करता है?",
+        "en": "To whom does the Finance Commission submit its recommendations report under Article 281?"
+      },
+      "o": [
+        {
+          "hi": "केंद्रीय वित्त मंत्री को सीधे",
+          "en": "Directly to Finance Minister"
+        },
+        {
+          "hi": "संसद की प्राक्कलन समिति को",
+          "en": "To Estimates Committee"
+        },
+        {
+          "hi": "भारत के राष्ट्रपति को (जो उसे संसद के दोनों सदनों में रखवाते हैं)",
+          "en": "President of India (who causes it to be laid before each House of Parliament)"
+        },
+        {
+          "hi": "भारत के मुख्य न्यायाधीश को",
+          "en": "To Chief Justice of India"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रपति वित्त आयोग की सिफारिशों के साथ संसद में क्या प्रस्तुत करवाते हैं?",
+        "en": "What explanatory memorandum does the President cause to be laid before Parliament under Article 281?"
+      },
+      "o": [
+        {
+          "hi": "अगले 10 वर्षों का बजट",
+          "en": "Next 10 years' budget"
+        },
+        {
+          "hi": "आयोग के सदस्यों का वेतन बिल",
+          "en": "Salary bill of members"
+        },
+        {
+          "hi": "विपक्षी दलों की असहमति टिप्पणी",
+          "en": "Dissent notes of opposition"
+        },
+        {
+          "hi": "सिफारिशों पर की गई कार्रवाई का स्पष्टीकारक ज्ञापन (Action Taken Report - ATR)",
+          "en": "Explanatory memorandum as to action taken on each recommendation (ATR)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "क्या वित्त आयोग की सिफारिशें सरकार के लिए कानूनी रूप से बाध्यकारी होती हैं?",
+        "en": "Are the recommendations of the Finance Commission legally binding on the Government of India?"
+      },
+      "o": [
+        {
+          "hi": "नहीं, ये केवल सलाहकारी (Advisory) होती हैं, किंतु सरकार सामान्यतः इन्हें स्वीकार कर लेती है",
+          "en": "No, they are purely advisory in nature, though conventionally accepted"
+        },
+        {
+          "hi": "हाँ, वे सर्वोच्च न्यायालय के आदेश की तरह बाध्यकारी हैं",
+          "en": "Yes, legally binding like SC order"
+        },
+        {
+          "hi": "केवल कर विभाजन बाध्यकारी है, अनुदान नहीं",
+          "en": "Only tax devolution binding"
+        },
+        {
+          "hi": "केवल यदि संसद दो-तिहाई बहुमत से पारित करे",
+          "en": "Only if passed by 2/3rd majority"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रथम वित्त आयोग (First Finance Commission - 1951) के अध्यक्ष कौन थे?",
+        "en": "Who was the Chairman of the First Finance Commission constituted in 1951?"
+      },
+      "o": [
+        {
+          "hi": "के. संथानम",
+          "en": "K. Santhanam"
+        },
+        {
+          "hi": "के. सी. नियोगी (K. C. Neogy - 1952 से 1957)",
+          "en": "K. C. Neogy (1952 to 1957)"
+        },
+        {
+          "hi": "ए. के. चंदा",
+          "en": "A. K. Chanda"
+        },
+        {
+          "hi": "पी. वी. राजमन्नार",
+          "en": "P. V. Rajamannar"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "द्वितीय वित्त आयोग (1956) के अध्यक्ष कौन थे?",
+        "en": "Who was the Chairman of the Second Finance Commission (1956)?"
+      },
+      "o": [
+        {
+          "hi": "के. सी. नियोगी",
+          "en": "K. C. Neogy"
+        },
+        {
+          "hi": "ए. के. चंदा",
+          "en": "A. K. Chanda"
+        },
+        {
+          "hi": "के. संथानम (K. Santhanam)",
+          "en": "K. Santhanam"
+        },
+        {
+          "hi": "महावीर त्यागी",
+          "en": "Mahavir Tyagi"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "12वें वित्त आयोग (2002 में गठित) के अध्यक्ष कौन थे?",
+        "en": "Who was the Chairman of the 12th Finance Commission (for 2005-2010)?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. विजय केलकर",
+          "en": "Dr. Vijay Kelkar"
+        },
+        {
+          "hi": "डॉ. वाई. वी. रेड्डी",
+          "en": "Dr. Y. V. Reddy"
+        },
+        {
+          "hi": "एन. के. सिंह",
+          "en": "N. K. Singh"
+        },
+        {
+          "hi": "डॉ. सी. रंगराजन (Dr. C. Rangarajan)",
+          "en": "Dr. C. Rangarajan"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "13वें वित्त आयोग (2007 में गठित) के अध्यक्ष कौन थे?",
+        "en": "Who was the Chairman of the 13th Finance Commission (for 2010-2015)?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. विजय केलकर (Dr. Vijay Kelkar)",
+          "en": "Dr. Vijay Kelkar"
+        },
+        {
+          "hi": "डॉ. सी. रंगराजन",
+          "en": "Dr. C. Rangarajan"
+        },
+        {
+          "hi": "डॉ. वाई. वी. रेड्डी",
+          "en": "Dr. Y. V. Reddy"
+        },
+        {
+          "hi": "ए. एम. खुसरो",
+          "en": "A. M. Khusro"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "14वें वित्त आयोग ने केंद्रीय विभाज्य कर पूल में राज्यों की हिस्सेदारी 32% से बढ़ाकर कितने प्रतिशत करने की ऐतिहासिक सिफारिश की?",
+        "en": "The 14th Finance Commission raised states' share in divisible central taxes from 32% to what percent?"
+      },
+      "o": [
+        {
+          "hi": "40%",
+          "en": "40%"
+        },
+        {
+          "hi": "42% (अध्यक्ष: डॉ. वाई. वी. रेड्डी / 2015-2020)",
+          "en": "42% (Chairman: Dr. Y. V. Reddy / 2015-2020)"
+        },
+        {
+          "hi": "45%",
+          "en": "45%"
+        },
+        {
+          "hi": "50%",
+          "en": "50%"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "15वें वित्त आयोग (Fifteenth Finance Commission - 2017) के अध्यक्ष कौन थे?",
+        "en": "Who was the Chairman of the 15th Finance Commission (covering period 2021-2026)?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. वाई. वी. रेड्डी",
+          "en": "Dr. Y. V. Reddy"
+        },
+        {
+          "hi": "अरविंद पनगढ़िया",
+          "en": "Arvind Panagariya"
+        },
+        {
+          "hi": "एन. के. सिंह (Nand Kishore Singh)",
+          "en": "N. K. Singh (Nand Kishore Singh)"
+        },
+        {
+          "hi": "शक्तिकांत दास",
+          "en": "Shaktikanta Das"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "15वें वित्त आयोग ने 2021-26 की अवधि के लिए राज्यों की हिस्सेदारी कितने प्रतिशत निर्धारित की?",
+        "en": "What percentage devolution to states did the 15th Finance Commission recommend for 2021-2026?"
+      },
+      "o": [
+        {
+          "hi": "42%",
+          "en": "42%"
+        },
+        {
+          "hi": "40%",
+          "en": "40%"
+        },
+        {
+          "hi": "45%",
+          "en": "45%"
+        },
+        {
+          "hi": "41% (1% जम्मू-कश्मीर व लद्दाख के पुनर्गठन के कारण घटाकर केंद्र के पास रखा)",
+          "en": "41% (1% adjusted for newly formed UTs of J&K and Ladakh)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "15वें वित्त आयोग ने क्षैतिज कर वितरण (Horizontal Devolution) में 1971 की जनगणना के स्थान पर किस जनगणना का उपयोग किया?",
+        "en": "Which Census data was utilized by the 15th Finance Commission for population criteria?"
+      },
+      "o": [
+        {
+          "hi": "2011 की जनगणना (साथ ही जनसांख्यिकीय प्रदर्शन को 12.5% भार दिया)",
+          "en": "2011 Census (with 12.5% weightage to demographic performance)"
+        },
+        {
+          "hi": "1971 की जनगणना",
+          "en": "1971 Census"
+        },
+        {
+          "hi": "2001 की जनगणना",
+          "en": "2001 Census"
+        },
+        {
+          "hi": "1991 की जनगणना",
+          "en": "1991 Census"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दिसंबर 2023 में गठित '16वें वित्त आयोग' (Sixteenth Finance Commission) के अध्यक्ष कौन बनाए गए हैं?",
+        "en": "Who was appointed as the Chairman of the 16th Finance Commission in December 2023?"
+      },
+      "o": [
+        {
+          "hi": "एन. के. सिंह",
+          "en": "N. K. Singh"
+        },
+        {
+          "hi": "डॉ. अरविंद पनगढ़िया (Dr. Arvind Panagariya - नीति आयोग के पूर्व उपाध्यक्ष)",
+          "en": "Dr. Arvind Panagariya (former Vice Chairman of NITI Aayog)"
+        },
+        {
+          "hi": "डॉ. उर्जित पटेल",
+          "en": "Dr. Urjit Patel"
+        },
+        {
+          "hi": "सुमन बेरी",
+          "en": "Suman Bery"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "16वें वित्त आयोग की सिफारिशें किस 5-वर्षीय अवधि (Five-Year Period) के लिए लागू होंगी?",
+        "en": "The recommendations of the 16th Finance Commission will cover which 5-year period?"
+      },
+      "o": [
+        {
+          "hi": "2024 से 2029 तक",
+          "en": "2024 to 2029"
+        },
+        {
+          "hi": "2025 से 2030 तक",
+          "en": "2025 to 2030"
+        },
+        {
+          "hi": "1 अप्रैल 2026 से 31 मार्च 2031 तक",
+          "en": "1 April 2026 to 31 March 2031"
+        },
+        {
+          "hi": "2027 से 2032 तक",
+          "en": "2027 to 2032"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "16वें वित्त आयोग के सचिव (Secretary) पद पर किसे नियुक्त किया गया है?",
+        "en": "Who has been appointed as the Secretary of the 16th Finance Commission?"
+      },
+      "o": [
+        {
+          "hi": "अरविंद शर्मा",
+          "en": "Arvind Sharma"
+        },
+        {
+          "hi": "टीवी सोमनाथन",
+          "en": "T. V. Somanathan"
+        },
+        {
+          "hi": "अजय नारायण झा",
+          "en": "Ajay Narayan Jha"
+        },
+        {
+          "hi": "ऋत्विक रंजनम पांडे (Ritwik Ranjanam Pandey)",
+          "en": "Ritwik Ranjanam Pandey"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वित्त आयोग को भारतीय राजव्यवस्था में क्या संतुलनकारी चक्र (Balancing Wheel) माना जाता है?",
+        "en": "In Indian federal polity, the Finance Commission is regarded as the balancing wheel of what?"
+      },
+      "o": [
+        {
+          "hi": "राजकोषीय संघवाद का संतुलनकारी चक्र (Balancing Wheel of Fiscal Federalism)",
+          "en": "Balancing Wheel of Fiscal Federalism"
+        },
+        {
+          "hi": "राजनीतिक दलों का संतुलन",
+          "en": "Balancing wheel of political parties"
+        },
+        {
+          "hi": "न्यायिक सक्रियता का चक्र",
+          "en": "Wheel of judicial activism"
+        },
+        {
+          "hi": "संसदीय बहुमत का पहिया",
+          "en": "Wheel of parliamentary majority"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वित्त आयोग को अपने कार्य संचालन हेतु सिविल प्रक्रिया संहिता 1908 के तहत किस न्यायालय की शक्तियां प्राप्त हैं?",
+        "en": "Under CPC 1908, the Finance Commission is vested with powers of which court to summon witnesses?"
+      },
+      "o": [
+        {
+          "hi": "आपराधिक न्यायालय (Criminal Court)",
+          "en": "Criminal Court"
+        },
+        {
+          "hi": "दीवानी न्यायालय (Civil Court)",
+          "en": "Civil Court"
+        },
+        {
+          "hi": "सत्र न्यायालय (Sessions Court)",
+          "en": "Sessions Court"
+        },
+        {
+          "hi": "राजस्व बोर्ड",
+          "en": "Board of Revenue"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वित्त आयोग (विविध उपबंध) अधिनियम 1951 के तहत आयोग के सदस्य की अयोग्यता का कौन-सा आधार नहीं है?",
+        "en": "Which of the following is NOT a ground for disqualification of a member of the Finance Commission?"
+      },
+      "o": [
+        {
+          "hi": "विकृतचित्त (अस्वस्थ मस्तिष्क) घोषित होना",
+          "en": "Being of unsound mind"
+        },
+        {
+          "hi": "दिवालिया (Insolvent) होना",
+          "en": "Being an undischarged insolvent"
+        },
+        {
+          "hi": "किसी राजनीतिक दल का प्राथमिक सदस्य होना",
+          "en": "Being a primary member of a political party"
+        },
+        {
+          "hi": "नैतिक अधमता के अपराध में दोषी सिद्ध होना",
+          "en": "Convicted of offence involving moral turpitude"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "केंद्र और राज्यों के बीच करों का विभाजन क्या कहलाता है?",
+        "en": "What is the division of tax proceeds between the Union and States termed?"
+      },
+      "o": [
+        {
+          "hi": "क्षैतिज कर विभाजन (Horizontal Devolution)",
+          "en": "Horizontal Devolution"
+        },
+        {
+          "hi": "तिर्यक कर विभाजन",
+          "en": "Diagonal Devolution"
+        },
+        {
+          "hi": "समानांतर विभाजन",
+          "en": "Parallel Devolution"
+        },
+        {
+          "hi": "ऊर्ध्वाधर कर विभाजन (Vertical Devolution)",
+          "en": "Vertical Devolution"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विभिन्न राज्यों के बीच केंद्रीय कर पूल के हिस्से का परस्पर बंटवारा क्या कहलाता है?",
+        "en": "What is the allocation of divisible tax pool among different States termed?"
+      },
+      "o": [
+        {
+          "hi": "क्षैतिज कर विभाजन (Horizontal Devolution)",
+          "en": "Horizontal Devolution"
+        },
+        {
+          "hi": "ऊर्ध्वाधर कर विभाजन",
+          "en": "Vertical Devolution"
+        },
+        {
+          "hi": "केंद्रीय अधिमूल्यन",
+          "en": "Central Appreciation"
+        },
+        {
+          "hi": "राजकोषीय अधिशेष",
+          "en": "Fiscal Surplus"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "15वें वित्त आयोग ने क्षैतिज कर आवंटन में 'आय दूरी' (Income Distance) को कितना सर्वाधिक भार (Weightage) दिया?",
+        "en": "What maximum weightage was assigned to 'Income Distance' criteria by the 15th Finance Commission?"
+      },
+      "o": [
+        {
+          "hi": "50%",
+          "en": "50%"
+        },
+        {
+          "hi": "45% (पैंतालीस प्रतिशत)",
+          "en": "45%"
+        },
+        {
+          "hi": "30%",
+          "en": "30%"
+        },
+        {
+          "hi": "15%",
+          "en": "15%"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "15वें वित्त आयोग द्वारा राज्यों के बीच कर वितरण में 'क्षेत्रफल' (Area) को कितना भार दिया गया?",
+        "en": "What weightage was allocated to 'Area' by the 15th Finance Commission in horizontal devolution?"
+      },
+      "o": [
+        {
+          "hi": "10%",
+          "en": "10%"
+        },
+        {
+          "hi": "20%",
+          "en": "20%"
+        },
+        {
+          "hi": "15% (पंद्रह प्रतिशत)",
+          "en": "15%"
+        },
+        {
+          "hi": "25%",
+          "en": "25%"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "15वें वित्त आयोग ने वन एवं पारिस्थितिकी (Forest and Ecology) मानदंड को कितना भारांक दिया?",
+        "en": "What weightage was given to 'Forest and Ecology' by the 15th Finance Commission?"
+      },
+      "o": [
+        {
+          "hi": "7.5%",
+          "en": "7.5%"
+        },
+        {
+          "hi": "15%",
+          "en": "15%"
+        },
+        {
+          "hi": "5%",
+          "en": "5%"
+        },
+        {
+          "hi": "10% (दस प्रतिशत)",
+          "en": "10%"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "15वें वित्त आयोग ने कर संग्रह में दक्षता हेतु 'कर एवं राजकोषीय प्रयास' (Tax Effort) को कितना भार दिया?",
+        "en": "What weightage was awarded to 'Tax and Fiscal Efforts' by the 15th Finance Commission?"
+      },
+      "o": [
+        {
+          "hi": "2.5% (ढाई प्रतिशत)",
+          "en": "2.5%"
+        },
+        {
+          "hi": "5%",
+          "en": "5%"
+        },
+        {
+          "hi": "10%",
+          "en": "10%"
+        },
+        {
+          "hi": "1%",
+          "en": "1%"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उपकर और अधिभार (Cess and Surcharges) के संबंध में संविधान के अनुसार क्या व्यवस्था है?",
+        "en": "Under Articles 270 & 271, what is the rule regarding Cess and Surcharges levied by Centre?"
+      },
+      "o": [
+        {
+          "hi": "ये अनिवार्य रूप से 50% राज्यों को दिए जाते हैं",
+          "en": "Compulsorily 50% given to states"
+        },
+        {
+          "hi": "ये केंद्र के विशेष प्रयोजन हेतु होते हैं और राज्यों के साथ विभाज्य पूल में साझा नहीं किए जाते",
+          "en": "Retained exclusively by Centre and not shared in divisible tax pool with states"
+        },
+        {
+          "hi": "ये केवल पंचायतों में बांटे जाते हैं",
+          "en": "Distributed only to Panchayats"
+        },
+        {
+          "hi": "वित्त आयोग इनका 100% राज्यों को देता है",
+          "en": "100% given to states by FC"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "राज्यों में पंचायतों की वित्तीय स्थिति की समीक्षा हेतु 'राज्य वित्त आयोग' का गठन किस अनुच्छेद में है?",
+        "en": "Under which Article is the State Finance Commission constituted to review Panchayat finances?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 243(क)",
+          "en": "Article 243A"
+        },
+        {
+          "hi": "अनुच्छेद 243(म) / Article 243Y",
+          "en": "Article 243Y"
+        },
+        {
+          "hi": "अनुच्छेद 243(झ) / Article 243-I",
+          "en": "Article 243-I"
+        },
+        {
+          "hi": "अनुच्छेद 280",
+          "en": "Article 280"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नगरपालिकाओं की वित्तीय स्थिति के पुनर्विलोकन हेतु राज्य वित्त आयोग का गठन किस अनुच्छेद में है?",
+        "en": "State Finance Commission for reviewing Municipal finances is provided under which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 243(झ) / Article 243-I",
+          "en": "Article 243-I"
+        },
+        {
+          "hi": "अनुच्छेद 243(ट)",
+          "en": "Article 243K"
+        },
+        {
+          "hi": "अनुच्छेद 281",
+          "en": "Article 281"
+        },
+        {
+          "hi": "अनुच्छेद 243(म) / Article 243-Y",
+          "en": "Article 243-Y"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "राज्य वित्त आयोग (SFC) का गठन राज्य में किसके द्वारा किया जाता है?",
+        "en": "By whom is the State Finance Commission constituted in a State?"
+      },
+      "o": [
+        {
+          "hi": "राज्य के राज्यपाल द्वारा (प्रत्येक 5 वर्ष पर)",
+          "en": "By the Governor of the State (every 5 years)"
+        },
+        {
+          "hi": "राज्य के मुख्यमंत्री द्वारा",
+          "en": "By the Chief Minister"
+        },
+        {
+          "hi": "केंद्रीय वित्त मंत्री द्वारा",
+          "en": "By Union Finance Minister"
+        },
+        {
+          "hi": "केंद्रीय वित्त आयोग द्वारा",
+          "en": "By Central Finance Commission"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "15वें वित्त आयोग ने स्थानीय निकायों (पंचायतों और नगरपालिकाओं) के लिए कुल कितना अनुदान अनुशंसित किया?",
+        "en": "What total grant was recommended by 15th FC for local bodies (Panchayats and Municipalities) for 2021-26?"
+      },
+      "o": [
+        {
+          "hi": "₹2 लाख करोड़",
+          "en": "₹2 Lakh Crore"
+        },
+        {
+          "hi": "₹4.36 लाख करोड़ (₹4,36,361 करोड़)",
+          "en": "₹4.36 Lakh Crore (₹4,36,361 Crore)"
+        },
+        {
+          "hi": "₹1 लाख करोड़",
+          "en": "₹1 Lakh Crore"
+        },
+        {
+          "hi": "₹50,000 करोड़",
+          "en": "₹50,000 Crore"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्थानीय निकायों को दिए जाने वाले 'संबद्ध अनुदान' (Tied Grants) का प्राथमिक उपयोग किन कार्यों में करना होता है?",
+        "en": "For what primary basic services are 'Tied Grants' to local bodies mandated by 15th FC?"
+      },
+      "o": [
+        {
+          "hi": "कर्मचारियों के वेतन भुगतान",
+          "en": "Salaries of staff"
+        },
+        {
+          "hi": "नए प्रशासनिक भवनों का निर्माण",
+          "en": "Building administrative offices"
+        },
+        {
+          "hi": "स्वच्छता (ODF स्थिति), पेयजल आपूर्ति और वर्षा जल संचयन",
+          "en": "Sanitation (ODF status), drinking water supply and rainwater harvesting"
+        },
+        {
+          "hi": "वाहनों की खरीद",
+          "en": "Purchase of vehicles"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राजस्व घाटा अनुदान (Post-Devolution Revenue Deficit Grants) किस अनुच्छेद के तहत राज्यों को दिया जाता है?",
+        "en": "Post-devolution Revenue Deficit Grants are provided to eligible States under which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 280",
+          "en": "Article 280"
+        },
+        {
+          "hi": "अनुच्छेद 282",
+          "en": "Article 282"
+        },
+        {
+          "hi": "अनुच्छेद 269",
+          "en": "Article 269"
+        },
+        {
+          "hi": "अनुच्छेद 275 (Article 275)",
+          "en": "Article 275"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "15वें वित्त आयोग ने राष्ट्रीय आपदा जोखिम प्रबंधन कोष (NDRMF) और राज्य आपदा जोखिम प्रबंधन कोष (SDRMF) हेतु क्या सिफारिश की?",
+        "en": "What disaster management allocation structure was recommended by the 15th Finance Commission?"
+      },
+      "o": [
+        {
+          "hi": "आपदा न्यूनीकरण (Mitigation) और आपदा मोचन (Response) दोनों के लिए अलग-अलग कोष",
+          "en": "Separate windows for Mitigation and Response under NDRMF/SDRMF"
+        },
+        {
+          "hi": "केवल सेना को आपदा कोष देना",
+          "en": "Disaster fund only to Army"
+        },
+        {
+          "hi": "आपदा कोष को पूरी तरह समाप्त करना",
+          "en": "Abolish disaster fund"
+        },
+        {
+          "hi": "केवल विदेशी बीमा कंपनियों पर निर्भर रहना",
+          "en": "Rely on foreign insurance"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तृतीय वित्त आयोग (1960) के अध्यक्ष कौन थे?",
+        "en": "Who was the Chairman of the Third Finance Commission (1960)?"
+      },
+      "o": [
+        {
+          "hi": "के. संथानम",
+          "en": "K. Santhanam"
+        },
+        {
+          "hi": "ए. के. चंदा (A. K. Chanda)",
+          "en": "A. K. Chanda"
+        },
+        {
+          "hi": "पी. वी. राजमन्नार",
+          "en": "P. V. Rajamannar"
+        },
+        {
+          "hi": "महावीर त्यागी",
+          "en": "Mahavir Tyagi"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चतुर्थ वित्त आयोग (1964) के अध्यक्ष कौन थे?",
+        "en": "Who was the Chairman of the Fourth Finance Commission (1964)?"
+      },
+      "o": [
+        {
+          "hi": "ए. के. चंदा",
+          "en": "A. K. Chanda"
+        },
+        {
+          "hi": "के. ब्रह्मानंद रेड्डी",
+          "en": "K. Brahmananda Reddy"
+        },
+        {
+          "hi": "डॉ. पी. वी. राजमन्नार (Dr. P. V. Rajamannar)",
+          "en": "Dr. P. V. Rajamannar"
+        },
+        {
+          "hi": "जे. एम. शेलत",
+          "en": "J. M. Shelat"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "छठे वित्त आयोग (1972) के अध्यक्ष कौन थे?",
+        "en": "Who was the Chairman of the Sixth Finance Commission (1972)?"
+      },
+      "o": [
+        {
+          "hi": "महावीर त्यागी",
+          "en": "Mahavir Tyagi"
+        },
+        {
+          "hi": "जे. एम. शेलत",
+          "en": "J. M. Shelat"
+        },
+        {
+          "hi": "वाई. बी. चव्हाण",
+          "en": "Y. B. Chavan"
+        },
+        {
+          "hi": "के. ब्रह्मानंद रेड्डी (K. Brahmananda Reddy)",
+          "en": "K. Brahmananda Reddy"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आठवें वित्त आयोग (1982) के अध्यक्ष कौन थे?",
+        "en": "Who was the Chairman of the Eighth Finance Commission (1982)?"
+      },
+      "o": [
+        {
+          "hi": "वाई. बी. चव्हाण (Y. B. Chavan)",
+          "en": "Y. B. Chavan"
+        },
+        {
+          "hi": "एन. के. पी. साल्वे",
+          "en": "N. K. P. Salve"
+        },
+        {
+          "hi": "के. सी. पंत",
+          "en": "K. C. Pant"
+        },
+        {
+          "hi": "ए. एम. खुसरो",
+          "en": "A. M. Khusro"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दसवें वित्त आयोग (1992) के अध्यक्ष कौन थे?",
+        "en": "Who was the Chairman of the Tenth Finance Commission (1992)?"
+      },
+      "o": [
+        {
+          "hi": "एन. के. पी. साल्वे",
+          "en": "N. K. P. Salve"
+        },
+        {
+          "hi": "के. सी. पंत (K. C. Pant)",
+          "en": "K. C. Pant"
+        },
+        {
+          "hi": "ए. एम. खुसरो",
+          "en": "A. M. Khusro"
+        },
+        {
+          "hi": "सी. रंगराजन",
+          "en": "C. Rangarajan"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "11वें वित्त आयोग (1998) के अध्यक्ष कौन थे?",
+        "en": "Who was the Chairman of the Eleventh Finance Commission (1998)?"
+      },
+      "o": [
+        {
+          "hi": "के. सी. पंत",
+          "en": "K. C. Pant"
+        },
+        {
+          "hi": "सी. रंगराजन",
+          "en": "C. Rangarajan"
+        },
+        {
+          "hi": "प्रो. ए. एम. खुसरो (Prof. A. M. Khusro)",
+          "en": "Prof. A. M. Khusro"
+        },
+        {
+          "hi": "विजय केलकर",
+          "en": "Vijay Kelkar"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "80वें संविधान संशोधन अधिनियम 2000 द्वारा केंद्र-राज्य कर विभाजन में क्या ऐतिहासिक सुधार हुआ?",
+        "en": "What major tax sharing reform was introduced by the 80th Constitutional Amendment Act 2000?"
+      },
+      "o": [
+        {
+          "hi": "केवल आयकर का विभाजन तय किया",
+          "en": "Only income tax shared"
+        },
+        {
+          "hi": "निगम कर को राज्यों से बाहर रखा",
+          "en": "Corporation tax excluded"
+        },
+        {
+          "hi": "राज्यों के कर केंद्र ने ले लिए",
+          "en": "Centre took state taxes"
+        },
+        {
+          "hi": "सभी केंद्रीय करों का एक समग्र विभाज्य पूल (Divisible Pool) बनाया गया (10वें FC की सिफारिश)",
+          "en": "Unified single divisible pool of all central taxes created (Alternative Devolution Scheme)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "15वें वित्त आयोग की रिपोर्ट का शीर्षक (Title of the Report) क्या था?",
+        "en": "What was the official title of the Report of the 15th Finance Commission?"
+      },
+      "o": [
+        {
+          "hi": "फाइनेंस कमीशन इन कोविड टाइम्स (Finance Commission in COVID Times)",
+          "en": "Finance Commission in COVID Times"
+        },
+        {
+          "hi": "फेडरलिज्म एट 75",
+          "en": "Federalism at 75"
+        },
+        {
+          "hi": "इंडियाज फिस्कल फ्यूचर",
+          "en": "India's Fiscal Future"
+        },
+        {
+          "hi": "रिसॉल्विंग फिस्कल गैप",
+          "en": "Resolving Fiscal Gap"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "16वें वित्त आयोग के अध्यक्ष डॉ. अरविंद पनगढ़िया किस प्रतिष्ठित वैश्विक विश्वविद्यालय में प्रोफेसर रहे हैं?",
+        "en": "Dr. Arvind Panagariya, Chairman of 16th Finance Commission, is a professor at which university?"
+      },
+      "o": [
+        {
+          "hi": "हार्वर्ड विश्वविद्यालय",
+          "en": "Harvard University"
+        },
+        {
+          "hi": "कोलंबिया विश्वविद्यालय, अमेरिका (Columbia University, USA)",
+          "en": "Columbia University, USA"
+        },
+        {
+          "hi": "ऑक्सफोर्ड विश्वविद्यालय",
+          "en": "Oxford University"
+        },
+        {
+          "hi": "कैम्ब्रिज विश्वविद्यालय",
+          "en": "Cambridge University"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

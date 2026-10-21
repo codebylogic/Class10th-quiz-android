@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भारतीय संविधान (Indian Constitution)",
+  "subtitle": "निर्वाचन आयोग",
+  "description": "निर्वाचन आयोग पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारतीय संविधान के किस भाग और किन अनुच्छेदों में 'निर्वाचन' (Elections) से संबंधित उपबंध किए गए हैं?",
+        "en": "In which Part and Articles of the Constitution are provisions relating to Elections contained?"
+      },
+      "o": [
+        {
+          "hi": "भाग 15, अनुच्छेद 324 से 329 (Part XV, Articles 324 to 329)",
+          "en": "Part XV, Articles 324 to 329"
+        },
+        {
+          "hi": "भाग 14, अनुच्छेद 308 से 323",
+          "en": "Part XIV, Articles 308 to 323"
+        },
+        {
+          "hi": "भाग 16, अनुच्छेद 330 से 342",
+          "en": "Part XVI, Articles 330 to 342"
+        },
+        {
+          "hi": "भाग 17, अनुच्छेद 343 से 351",
+          "en": "Part XVII, Articles 343 to 351"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसद, राज्य विधानमंडलों, राष्ट्रपति और उपराष्ट्रपति के चुनावों का अधीक्षण, निर्देशन और नियंत्रण किसमें निहित है?",
+        "en": "Superintendence, direction, and control of elections to Parliament, State Legislatures, President & VP is vested in?"
+      },
+      "o": [
+        {
+          "hi": "संसदीय कार्य मंत्रालय",
+          "en": "Ministry of Parliamentary Affairs"
+        },
+        {
+          "hi": "भारत का निर्वाचन आयोग (Election Commission of India - Article 324)",
+          "en": "Election Commission of India (Article 324)"
+        },
+        {
+          "hi": "भारत का सर्वोच्च न्यायालय",
+          "en": "Supreme Court of India"
+        },
+        {
+          "hi": "राज्य निर्वाचन आयोग",
+          "en": "State Election Commission"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत के निर्वाचन आयोग (ECI) की स्थापना किस तिथि को की गई थी?",
+        "en": "On which date was the Election Commission of India established?"
+      },
+      "o": [
+        {
+          "hi": "26 जनवरी 1950 को",
+          "en": "26 January 1950"
+        },
+        {
+          "hi": "15 अगस्त 1947 को",
+          "en": "15 August 1947"
+        },
+        {
+          "hi": "25 जनवरी 1950 को (प्रतिवर्ष 'राष्ट्रीय मतदाता दिवस' के रूप में मनाया जाता है)",
+          "en": "25 January 1950 (Celebrated annually as National Voters' Day)"
+        },
+        {
+          "hi": "26 नवंबर 1949 को",
+          "en": "26 November 1949"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वर्तमान में भारत का निर्वाचन आयोग कितने सदस्यीय निकाय (Multi-member Body) है?",
+        "en": "Presently, the Election Commission of India consists of how many members?"
+      },
+      "o": [
+        {
+          "hi": "एकल-सदस्यीय निकाय",
+          "en": "Single-member body"
+        },
+        {
+          "hi": "पाँच-सदस्यीय निकाय",
+          "en": "Five-member body"
+        },
+        {
+          "hi": "चार-सदस्यीय निकाय",
+          "en": "Four-member body"
+        },
+        {
+          "hi": "तीन-सदस्यीय (1 मुख्य चुनाव आयुक्त + 2 चुनाव आयुक्त / 1993 से निरंतर)",
+          "en": "Three-member (1 Chief Election Commissioner + 2 Election Commissioners)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "निर्वाचन आयोग को सर्वप्रथम तीन-सदस्यीय आयोग किस वर्ष बनाया गया था?",
+        "en": "In which year was the Election Commission first made a multi-member (3-member) body?"
+      },
+      "o": [
+        {
+          "hi": "अक्टूबर 1989 में (तारकुंडे समिति की सिफारिश के बाद)",
+          "en": "In October 1989 (following Tarkunde committee advice)"
+        },
+        {
+          "hi": "1993 में",
+          "en": "In 1993"
+        },
+        {
+          "hi": "1977 में",
+          "en": "In 1977"
+        },
+        {
+          "hi": "2000 में",
+          "en": "In 2000"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मुख्य चुनाव आयुक्त (CEC) और अन्य चुनाव आयुक्तों की नियुक्ति किसके द्वारा की जाती है?",
+        "en": "By whom are the Chief Election Commissioner and other Election Commissioners appointed under Art 324(2)?"
+      },
+      "o": [
+        {
+          "hi": "भारत के मुख्य न्यायाधीश द्वारा",
+          "en": "Chief Justice of India"
+        },
+        {
+          "hi": "भारत के राष्ट्रपति द्वारा (चयन समिति की सिफारिश पर)",
+          "en": "President of India (on recommendation of Selection Committee)"
+        },
+        {
+          "hi": "लोकसभा के अध्यक्ष द्वारा",
+          "en": "Speaker of Lok Sabha"
+        },
+        {
+          "hi": "संसद की संयुक्त समिति द्वारा",
+          "en": "Joint Parliamentary Committee"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मुख्य चुनाव आयुक्त और अन्य चुनाव आयुक्त (नियुक्ति, सेवा शर्तें एवं पदावधि) अधिनियम 2023 के अनुसार चयन समिति में कौन शामिल हैं?",
+        "en": "Under the 2023 Act, who are members of the Selection Committee for appointing CEC and ECs?"
+      },
+      "o": [
+        {
+          "hi": "प्रधानमंत्री, भारत के मुख्य न्यायाधीश और विपक्ष के नेता",
+          "en": "PM, CJI, and Leader of Opposition"
+        },
+        {
+          "hi": "राष्ट्रपति, मुख्य न्यायाधीश और कानून मंत्री",
+          "en": "President, CJI, and Law Minister"
+        },
+        {
+          "hi": "प्रधानमंत्री (अध्यक्ष), लोकसभा में विपक्ष के नेता, और PM द्वारा नामित एक केंद्रीय कैबिनेट मंत्री",
+          "en": "Prime Minister (Chair), Leader of Opposition in Lok Sabha, and a Union Cabinet Minister"
+        },
+        {
+          "hi": "लोकसभा अध्यक्ष, राज्यसभा उपसभापति और गृह मंत्री",
+          "en": "Speaker, Deputy Chairman, Home Minister"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मुख्य चुनाव आयुक्त (CEC) और चुनाव आयुक्तों का कार्यकाल कितना होता है?",
+        "en": "What is the tenure of the Chief Election Commissioner and Election Commissioners?"
+      },
+      "o": [
+        {
+          "hi": "5 वर्ष या 65 वर्ष की आयु",
+          "en": "5 Years or age 65"
+        },
+        {
+          "hi": "6 वर्ष या 62 वर्ष की आयु",
+          "en": "6 Years or age 62"
+        },
+        {
+          "hi": "राष्ट्रपति के प्रसादपर्यंत",
+          "en": "During pleasure of President"
+        },
+        {
+          "hi": "6 वर्ष या 65 वर्ष की आयु (जो भी पहले पूरा हो)",
+          "en": "6 Years or age of 65 years (whichever is earlier)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मुख्य चुनाव आयुक्त (CEC) और अन्य चुनाव आयुक्तों को किसके समकक्ष वेतन और सुविधाएं मिलती हैं?",
+        "en": "The CEC and Election Commissioners draw salary and status equivalent to whom?"
+      },
+      "o": [
+        {
+          "hi": "सर्वोच्च न्यायालय के न्यायाधीश के समकक्ष (₹2,50,000 प्रति माह)",
+          "en": "Equivalent to a Judge of the Supreme Court (₹2,50,000/month)"
+        },
+        {
+          "hi": "भारत के मुख्य न्यायाधीश के समकक्ष",
+          "en": "Equivalent to CJI"
+        },
+        {
+          "hi": "कैबिनेट सचिव के समकक्ष",
+          "en": "Equivalent to Cabinet Secretary"
+        },
+        {
+          "hi": "उच्च न्यायालय के न्यायाधीश के समकक्ष",
+          "en": "Equivalent to HC Judge"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यदि मुख्य चुनाव आयुक्त और अन्य दो चुनाव आयुक्तों के बीच किसी विषय पर मतभेद हो, तो निर्णय कैसे होता है?",
+        "en": "In case of difference of opinion between the CEC and other Election Commissioners, how is it decided?"
+      },
+      "o": [
+        {
+          "hi": "मुख्य चुनाव आयुक्त का निर्णय अंतिम होता है",
+          "en": "CEC's decision is final"
+        },
+        {
+          "hi": "बहुमत के आधार पर (Majority Decision - तीनों के पास एक समान शक्ति और मत है)",
+          "en": "By majority decision (All three possess equal power and one vote each)"
+        },
+        {
+          "hi": "राष्ट्रपति के पास भेजा जाता है",
+          "en": "Referred to President"
+        },
+        {
+          "hi": "सर्वोच्च न्यायालय फैसला करता है",
+          "en": "Decided by Supreme Court"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मुख्य चुनाव आयुक्त (CEC) को पद से हटाने की क्या प्रक्रिया संविधान के अनुच्छेद 324(5) में दी गई है?",
+        "en": "What procedure for removing the Chief Election Commissioner is prescribed under Art 324(5)?"
+      },
+      "o": [
+        {
+          "hi": "राष्ट्रपति द्वारा साधारण आदेश से",
+          "en": "By President by ordinary order"
+        },
+        {
+          "hi": "प्रधानमंत्री की लिखित सिफारिश पर",
+          "en": "On written advice of PM"
+        },
+        {
+          "hi": "उसी रीति से और उन्हीं आधारों पर जैसे उच्चतम न्यायालय के न्यायाधीश को हटाया जाता है (संसद में महाभियोग)",
+          "en": "In like manner and on like grounds as a Judge of the Supreme Court (by Parliament)"
+        },
+        {
+          "hi": "केंद्रीय कानून मंत्री द्वारा",
+          "en": "By Union Law Minister"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अन्य चुनाव आयुक्तों या प्रादेशिक आयुक्तों को पद से किसकी सिफारिश पर हटाया जा सकता है?",
+        "en": "Other Election Commissioners can be removed from office by President ONLY on the recommendation of whom?"
+      },
+      "o": [
+        {
+          "hi": "संसद के दोनों सदनों की सिफारिश पर",
+          "en": "On recommendation of Parliament"
+        },
+        {
+          "hi": "भारत के मुख्य न्यायाधीश की सिफारिश पर",
+          "en": "On recommendation of CJI"
+        },
+        {
+          "hi": "गृह मंत्रालय की रिपोर्ट पर",
+          "en": "On Home Ministry report"
+        },
+        {
+          "hi": "मुख्य चुनाव आयुक्त (CEC) की सिफारिश पर",
+          "en": "On the recommendation of the Chief Election Commissioner (CEC)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "धर्म, मूलवंश, जाति या लिंग के आधार पर किसी व्यक्ति को मतदाता सूची में शामिल होने से वंचित न किया जाना किस अनुच्छेद में है?",
+        "en": "No person to be ineligible for inclusion in electoral roll on grounds of religion, race, caste or sex under which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 325 (Article 325 - एक ही सामान्य मतदाता सूची)",
+          "en": "Article 325 (Single general electoral roll)"
+        },
+        {
+          "hi": "अनुच्छेद 324",
+          "en": "Article 324"
+        },
+        {
+          "hi": "अनुच्छेद 326",
+          "en": "Article 326"
+        },
+        {
+          "hi": "अनुच्छेद 327",
+          "en": "Article 327"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लोकसभा और राज्य विधानसभाओं के लिए 'वयस्क मताधिकार' (Universal Adult Suffrage) का प्रावधान किस अनुच्छेद में है?",
+        "en": "Elections to the House of the People and State Legislative Assemblies on the basis of Adult Suffrage is in which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 325",
+          "en": "Article 325"
+        },
+        {
+          "hi": "अनुच्छेद 326 (Article 326)",
+          "en": "Article 326"
+        },
+        {
+          "hi": "अनुच्छेद 324",
+          "en": "Article 324"
+        },
+        {
+          "hi": "अनुच्छेद 328",
+          "en": "Article 328"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मतदान की न्यूनतम आयु 21 वर्ष से घटाकर 18 वर्ष किस संविधान संशोधन अधिनियम द्वारा की गई?",
+        "en": "Voting age was reduced from 21 years to 18 years by which Constitutional Amendment Act?"
+      },
+      "o": [
+        {
+          "hi": "42वां संविधान संशोधन 1976",
+          "en": "42nd Amendment 1976"
+        },
+        {
+          "hi": "44वां संविधान संशोधन 1978",
+          "en": "44th Amendment 1978"
+        },
+        {
+          "hi": "61वां संविधान संशोधन अधिनियम 1988 (लागू 28 मार्च 1989 से, राजीव गांधी सरकार)",
+          "en": "61st Constitutional Amendment Act 1988 (Effective 28 March 1989)"
+        },
+        {
+          "hi": "52वां संविधान संशोधन 1985",
+          "en": "52nd Amendment 1985"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संसद द्वारा विधानमंडलों के चुनावों के संबंध में कानून बनाने की शक्ति किस अनुच्छेद में है?",
+        "en": "Power of Parliament to make provision with respect to elections to Legislatures is under which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 328",
+          "en": "Article 328"
+        },
+        {
+          "hi": "अनुच्छेद 329",
+          "en": "Article 329"
+        },
+        {
+          "hi": "अनुच्छेद 324",
+          "en": "Article 324"
+        },
+        {
+          "hi": "अनुच्छेद 327 (Article 327 - जन प्रतिनिधित्व अधिनियम 1950 और 1951 का आधार)",
+          "en": "Article 327 (Basis of RPA 1950 and 1951)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "निर्वाचन संबंधी मामलों में न्यायालयों के हस्तक्षेप का वर्जन (Bar to interference by courts in electoral matters) किसमें है?",
+        "en": "Bar to interference by courts in electoral matters (delimitation, etc.) is contained in which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 329 (Article 329)",
+          "en": "Article 329"
+        },
+        {
+          "hi": "अनुच्छेद 328",
+          "en": "Article 328"
+        },
+        {
+          "hi": "अनुच्छेद 326",
+          "en": "Article 326"
+        },
+        {
+          "hi": "अनुच्छेद 327",
+          "en": "Article 327"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चुनाव संपन्न होने के बाद किसी सांसद या विधायक के निर्वाचन को केवल किस माध्यम से चुनौती दी जा सकती है?",
+        "en": "An election to Parliament or State Legislature can be questioned after results ONLY through what?"
+      },
+      "o": [
+        {
+          "hi": "जनहित याचिका (PIL) द्वारा सीधे सुप्रीम कोर्ट में",
+          "en": "PIL in Supreme Court"
+        },
+        {
+          "hi": "चुनाव याचिका (Election Petition - उच्च न्यायालय में प्रस्तुत)",
+          "en": "Election Petition (presented before the High Court)"
+        },
+        {
+          "hi": "पुलिस में प्राथमिकी दर्ज कराकर",
+          "en": "FIR in Police Station"
+        },
+        {
+          "hi": "संसदीय समिति को शिकायत देकर",
+          "en": "Complaint to Parliament committee"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत के प्रथम मुख्य चुनाव आयुक्त (First Chief Election Commissioner of India) कौन थे?",
+        "en": "Who was the first Chief Election Commissioner of India (1950 to 1958)?"
+      },
+      "o": [
+        {
+          "hi": "के. वी. के. सुंदरम",
+          "en": "K. V. K. Sundaram"
+        },
+        {
+          "hi": "एस. पी. सेन वर्मा",
+          "en": "S. P. Sen Verma"
+        },
+        {
+          "hi": "सुकुमार सेन (Sukumar Sen)",
+          "en": "Sukumar Sen"
+        },
+        {
+          "hi": "डॉ. नागेंद्र सिंह",
+          "en": "Dr. Nagendra Singh"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत की एकमात्र महिला मुख्य चुनाव आयुक्त (First and only Woman CEC of India) कौन बनी थीं?",
+        "en": "Who was the first and only woman Chief Election Commissioner of India?"
+      },
+      "o": [
+        {
+          "hi": "किरण बेदी",
+          "en": "Kiran Bedi"
+        },
+        {
+          "hi": "रोज मिलियन बैथ्यू",
+          "en": "Rose Millian Bethew"
+        },
+        {
+          "hi": "फातिमा बीवी",
+          "en": "Fathima Beevi"
+        },
+        {
+          "hi": "वी. एस. रमादेवी (V. S. Ramadevi - नवंबर-दिसंबर 1990)",
+          "en": "V. S. Ramadevi (Nov-Dec 1990)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में चुनाव सुधारों और आचार संहिता को कड़ाई से लागू करने वाले चर्चित 10वें मुख्य चुनाव आयुक्त कौन थे?",
+        "en": "Who was the legendary 10th CEC of India (1990-1996) renowned for aggressive election reforms?"
+      },
+      "o": [
+        {
+          "hi": "टी. एन. शेषन (T. N. Seshan)",
+          "en": "T. N. Seshan"
+        },
+        {
+          "hi": "जे. एम. लिंगदोह",
+          "en": "J. M. Lyngdoh"
+        },
+        {
+          "hi": "एम. एस. गिल",
+          "en": "M. S. Gill"
+        },
+        {
+          "hi": "एस. वाई. कुरैशी",
+          "en": "S. Y. Quraishi"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वर्तमान (2026) में भारत के मुख्य चुनाव आयुक्त (Chief Election Commissioner) कौन हैं?",
+        "en": "Who is currently serving as the Chief Election Commissioner of India?"
+      },
+      "o": [
+        {
+          "hi": "सुशील चंद्रा",
+          "en": "Sushil Chandra"
+        },
+        {
+          "hi": "राजीव कुमार (Rajiv Kumar - 25वें मुख्य चुनाव आयुक्त)",
+          "en": "Rajiv Kumar (25th CEC of India)"
+        },
+        {
+          "hi": "सुनील अरोड़ा",
+          "en": "Sunil Arora"
+        },
+        {
+          "hi": "ओम प्रकाश रावत",
+          "en": "O. P. Rawat"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में सर्वप्रथम इलेक्ट्रॉनिक वोटिंग मशीन (EVM) का प्रायोगिक प्रयोग किस वर्ष और कहाँ हुआ था?",
+        "en": "In which year and constituency was the Electronic Voting Machine (EVM) first used experimentally in India?"
+      },
+      "o": [
+        {
+          "hi": "1998 में दिल्ली और राजस्थान में",
+          "en": "In 1998 in Delhi & Rajasthan"
+        },
+        {
+          "hi": "2004 के लोकसभा चुनावों में",
+          "en": "In 2004 Lok Sabha elections"
+        },
+        {
+          "hi": "1982 ई. में केरल के पारूर (Paravur) विधानसभा क्षेत्र के 50 बूथों पर",
+          "en": "In 1982 in Paravur Assembly constituency of Kerala (50 booths)"
+        },
+        {
+          "hi": "1990 में गोवा में",
+          "en": "In 1990 in Goa"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पूरे राज्य के विधानसभा चुनाव में सभी मतदान केंद्रों पर पहली बार EVM का प्रयोग किस राज्य में हुआ था?",
+        "en": "Which was the first state in India to conduct an entire state assembly election using only EVMs?"
+      },
+      "o": [
+        {
+          "hi": "केरल (Kerala)",
+          "en": "Kerala"
+        },
+        {
+          "hi": "दिल्ली (Delhi)",
+          "en": "Delhi"
+        },
+        {
+          "hi": "गुजरात (Gujarat)",
+          "en": "Gujarat"
+        },
+        {
+          "hi": "गोवा (Goa - जून 1999 विधानसभा चुनाव में)",
+          "en": "Goa (June 1999 Assembly elections)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संपूर्ण भारत में आम चुनावों (लोकसभा चुनाव) में शत-प्रतिशत EVM का प्रयोग सर्वप्रथम किस वर्ष किया गया?",
+        "en": "In which general election was EVM used nationwide across all parliamentary constituencies for the first time?"
+      },
+      "o": [
+        {
+          "hi": "2004 के 14वें लोकसभा चुनाव में (2004 General Elections)",
+          "en": "2004 14th Lok Sabha General Elections"
+        },
+        {
+          "hi": "1999 के 13वें लोकसभा चुनाव में",
+          "en": "1999 General Elections"
+        },
+        {
+          "hi": "2009 के 15वें लोकसभा चुनाव में",
+          "en": "2009 General Elections"
+        },
+        {
+          "hi": "2014 के 16वें लोकसभा चुनाव में",
+          "en": "2014 General Elections"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "VVPAT (वोटर वेरिफिएबल पेपर ऑडिट ट्रेल) का प्रयोग सर्वप्रथम किस राज्य के उपचुनाव में 2013 में हुआ था?",
+        "en": "In which state's by-election was the VVPAT machine first deployed in September 2013?"
+      },
+      "o": [
+        {
+          "hi": "मिजोरम में",
+          "en": "Mizoram"
+        },
+        {
+          "hi": "नागालैंड के नोकसेन (Noksen) विधानसभा क्षेत्र में",
+          "en": "Noksen Assembly constituency in Nagaland"
+        },
+        {
+          "hi": "गुजरात में",
+          "en": "Gujarat"
+        },
+        {
+          "hi": "केरल में",
+          "en": "Kerala"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "VVPAT में पर्ची मतदाता को कितने सेकंड तक दिखाई देती है जिसके बाद वह सीलबंद डिब्बे में कटकर गिर जाती है?",
+        "en": "For how many seconds does the printed slip remain visible behind transparent window in VVPAT?"
+      },
+      "o": [
+        {
+          "hi": "5 सेकंड तक",
+          "en": "5 Seconds"
+        },
+        {
+          "hi": "10 सेकंड तक",
+          "en": "10 Seconds"
+        },
+        {
+          "hi": "7 सेकंड तक (7 Seconds)",
+          "en": "7 Seconds"
+        },
+        {
+          "hi": "3 सेकंड तक",
+          "en": "3 Seconds"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सर्वोच्च न्यायालय के किस ऐतिहासिक फैसले के बाद मतपत्रों और EVM पर 'NOTA' (उपरोक्त में से कोई नहीं) का विकल्प शुरू हुआ?",
+        "en": "Following which Supreme Court judgment was 'NOTA' (None of the Above) introduced in EVMs in 2013?"
+      },
+      "o": [
+        {
+          "hi": "लिली थॉमस बनाम भारत संघ",
+          "en": "Lily Thomas case"
+        },
+        {
+          "hi": "एस. आर. बोम्मई वाद",
+          "en": "S. R. Bommai case"
+        },
+        {
+          "hi": "इंद्रा साहनी वाद",
+          "en": "Indra Sawhney case"
+        },
+        {
+          "hi": "पीपुल्स यूनियन फॉर सिविल लिबर्टीज (PUCL) बनाम भारत संघ (27 सितंबर 2013)",
+          "en": "PUCL v. Union of India (27 September 2013)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में 'आदर्श आचार संहिता' (Model Code of Conduct - MCC) का सर्वप्रथम प्रयोग किस राज्य के 1960 के चुनाव में हुआ?",
+        "en": "In which State elections was the Model Code of Conduct (MCC) first introduced in 1960?"
+      },
+      "o": [
+        {
+          "hi": "केरल विधानसभा चुनाव 1960 में",
+          "en": "Kerala Assembly elections in 1960"
+        },
+        {
+          "hi": "पश्चिम बंगाल चुनाव 1962",
+          "en": "West Bengal elections 1962"
+        },
+        {
+          "hi": "तमिलनाडु चुनाव 1967",
+          "en": "Tamil Nadu elections 1967"
+        },
+        {
+          "hi": "उत्तर प्रदेश चुनाव 1971",
+          "en": "Uttar Pradesh elections 1971"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आदर्श आचार संहिता (Model Code of Conduct) किस तिथि से प्रभावी होती है?",
+        "en": "From what moment does the Model Code of Conduct (MCC) come into operational effect?"
+      },
+      "o": [
+        {
+          "hi": "अधिसूचना जारी होने की तारीख से",
+          "en": "From notification date"
+        },
+        {
+          "hi": "निर्वाचन आयोग द्वारा चुनाव कार्यक्रम की औपचारिक घोषणा की तारीख से",
+          "en": "From the date of formal announcement of election schedule by ECI"
+        },
+        {
+          "hi": "नामांकन दाखिल होने की अंतिम तिथि से",
+          "en": "From last date of nomination"
+        },
+        {
+          "hi": "मतदान के 48 घंटे पूर्व से",
+          "en": "48 hours before poll"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्या आदर्श आचार संहिता (Model Code of Conduct) कोई संसदीय सांविधिक कानून है?",
+        "en": "Is the Model Code of Conduct (MCC) backed by statutory parliamentary legislation?"
+      },
+      "o": [
+        {
+          "hi": "हाँ, यह जनप्रतिनिधित्व अधिनियम 1951 की धारा है",
+          "en": "Yes, part of RPA 1951"
+        },
+        {
+          "hi": "हाँ, यह भारतीय दंड संहिता का भाग है",
+          "en": "Yes, part of IPC"
+        },
+        {
+          "hi": "नहीं, यह राजनीतिक दलों की आपसी सहमति से विकसित आचार संहिता है (सांविधिक नहीं, किंतु ECI द्वारा लागू)",
+          "en": "No, it is a consensus-based code (non-statutory, enforced via ECI powers)"
+        },
+        {
+          "hi": "यह राष्ट्रपति का अध्यादेश है",
+          "en": "Presidential ordinance"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किसी राजनीतिक दल को 'राष्ट्रीय दल' (National Party) का दर्जा प्राप्त करने के लिए क्या शर्तें पूरी करनी होती हैं?",
+        "en": "What is one of the conditions for recognition as a National Party by ECI?"
+      },
+      "o": [
+        {
+          "hi": "कम से कम 10 राज्यों में चुनाव लड़ना",
+          "en": "Contest in 10 states"
+        },
+        {
+          "hi": "लोकसभा में कम से कम 50 सीटें जीतना",
+          "en": "Win 50 seats in Lok Sabha"
+        },
+        {
+          "hi": "कम से कम 1 करोड़ सदस्य होना",
+          "en": "Have 1 crore members"
+        },
+        {
+          "hi": "कम से कम 4 राज्यों में राज्यस्तरीय दल का दर्जा प्राप्त हो (या 4 राज्यों में 6% मत + 4 लोकसभा सीटें)",
+          "en": "Recognized as State party in at least 4 states (or 6% votes in 4 states + 4 LS seats)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अप्रैल 2023 में निर्वाचन आयोग द्वारा किस पार्टी को नवीनतम 'राष्ट्रीय दल' (National Party) का दर्जा दिया गया?",
+        "en": "Which political party was granted National Party status by the ECI in April 2023?"
+      },
+      "o": [
+        {
+          "hi": "आम आदमी पार्टी (Aam Aadmi Party - AAP)",
+          "en": "Aam Aadmi Party (AAP)"
+        },
+        {
+          "hi": "तृणमूल कांग्रेस (TMC)",
+          "en": "Trinamool Congress (TMC)"
+        },
+        {
+          "hi": "राष्ट्रवादी कांग्रेस पार्टी (NCP)",
+          "en": "Nationalist Congress Party (NCP)"
+        },
+        {
+          "hi": "भारतीय कम्युनिस्ट पार्टी (CPI)",
+          "en": "Communist Party of India (CPI)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अप्रैल 2023 में किन तीन दलों से राष्ट्रीय दल (National Party) का दर्जा वापस ले लिया गया?",
+        "en": "From which three parties was National Party status revoked by ECI in April 2023?"
+      },
+      "o": [
+        {
+          "hi": "बसपा, आप और माकपा",
+          "en": "BSP, AAP, and CPM"
+        },
+        {
+          "hi": "तृणमूल कांग्रेस (TMC), राष्ट्रवादी कांग्रेस पार्टी (NCP), और भारतीय कम्युनिस्ट पार्टी (CPI)",
+          "en": "Trinamool Congress (TMC), NCP, and Communist Party of India (CPI)"
+        },
+        {
+          "hi": "कांग्रेस, भाजपा और राजद",
+          "en": "INC, BJP, and RJD"
+        },
+        {
+          "hi": "सपा, जदयू और द्रमुक",
+          "en": "SP, JDU, and DMK"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वर्तमान में भारत में मान्यता प्राप्त कुल कितने 'राष्ट्रीय राजनीतिक दल' (National Parties) हैं?",
+        "en": "How many recognized National Political Parties are there currently in India?"
+      },
+      "o": [
+        {
+          "hi": "8 राष्ट्रीय दल",
+          "en": "8 National Parties"
+        },
+        {
+          "hi": "7 राष्ट्रीय दल",
+          "en": "7 National Parties"
+        },
+        {
+          "hi": "6 राष्ट्रीय दल (BJP, INC, BSP, CPI(M), AAP, NPP)",
+          "en": "6 National Parties (BJP, INC, BSP, CPI(M), AAP, NPP)"
+        },
+        {
+          "hi": "9 राष्ट्रीय दल",
+          "en": "9 National Parties"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पूर्वोत्तर भारत की प्रथम राजनीतिक पार्टी कौन-सी है जिसे राष्ट्रीय दल का दर्जा प्राप्त हुआ?",
+        "en": "Which was the first political party from Northeast India to gain National Party status?"
+      },
+      "o": [
+        {
+          "hi": "असम गण परिषद (AGP)",
+          "en": "Asom Gana Parishad"
+        },
+        {
+          "hi": "मिजो नेशनल फ्रंट (MNF)",
+          "en": "Mizo National Front"
+        },
+        {
+          "hi": "नागा पीपुल्स फ्रंट (NPF)",
+          "en": "Naga People's Front"
+        },
+        {
+          "hi": "नेशनल पीपुल्स पार्टी (National People's Party - NPP / कॉनराड संगमा)",
+          "en": "National People's Party (NPP / Conrad Sangma)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चुनाव चिह्नों के आरक्षण और आवंटन से संबंधित आदेश किस वर्ष जारी किया गया था?",
+        "en": "In which year was the Election Symbols (Reservation and Allotment) Order promulgated by ECI?"
+      },
+      "o": [
+        {
+          "hi": "1968 ई. में (Election Symbols Order 1968)",
+          "en": "In 1968 (Election Symbols Order 1968)"
+        },
+        {
+          "hi": "1952 ई. में",
+          "en": "In 1952"
+        },
+        {
+          "hi": "1975 ई. में",
+          "en": "In 1975"
+        },
+        {
+          "hi": "1989 ई. में",
+          "en": "In 1989"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राजनीतिक दलों में विभाजन की स्थिति में असली पार्टी और चुनाव चिह्न तय करने का अधिकार किसके पास है?",
+        "en": "Under Election Symbols Order 1968 (Paragraph 15), who decides party split and symbol disputes?"
+      },
+      "o": [
+        {
+          "hi": "सर्वोच्च न्यायालय सीधे",
+          "en": "Supreme Court directly"
+        },
+        {
+          "hi": "भारत का निर्वाचन आयोग (Election Commission of India - अर्द्ध-न्यायिक शक्ति)",
+          "en": "Election Commission of India (Quasi-judicial power)"
+        },
+        {
+          "hi": "लोकसभा का अध्यक्ष",
+          "en": "Speaker of Lok Sabha"
+        },
+        {
+          "hi": "केंद्रीय कानून मंत्रालय",
+          "en": "Union Law Ministry"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सांसदों की अयोग्यता (अनुच्छेद 102) के मामले में राष्ट्रपति किससे परामर्श करके निर्णय लेते हैं?",
+        "en": "On questions of disqualification of MPs under Article 103, President acts according to advice of whom?"
+      },
+      "o": [
+        {
+          "hi": "भारत का मुख्य न्यायाधीश",
+          "en": "Chief Justice of India"
+        },
+        {
+          "hi": "लोकसभा अध्यक्ष",
+          "en": "Speaker of Lok Sabha"
+        },
+        {
+          "hi": "निर्वाचन आयोग (Election Commission of India - आयोग की राय बाध्यकारी है)",
+          "en": "Election Commission of India (ECI advice is binding on President)"
+        },
+        {
+          "hi": "अटॉर्नी जनरल",
+          "en": "Attorney General"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विधायकों (MLAs) की अयोग्यता (अनुच्छेद 191) के मामले में राज्यपाल किसकी सलाह पर निर्णय लेते हैं?",
+        "en": "On questions of disqualification of MLAs under Article 192, Governor acts according to advice of whom?"
+      },
+      "o": [
+        {
+          "hi": "राज्य निर्वाचन आयोग",
+          "en": "State Election Commission"
+        },
+        {
+          "hi": "विधानसभा अध्यक्ष",
+          "en": "Speaker of Assembly"
+        },
+        {
+          "hi": "उच्च न्यायालय",
+          "en": "High Court"
+        },
+        {
+          "hi": "भारत का निर्वाचन आयोग (Election Commission of India)",
+          "en": "Election Commission of India"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पंचायतों और नगरपालिकाओं के चुनावों का संचालन कौन करता है?",
+        "en": "Who conducts the elections to Panchayats and Municipalities under Art 243K & 243ZA?"
+      },
+      "o": [
+        {
+          "hi": "संबंधित राज्य निर्वाचन आयोग (State Election Commission - SEC)",
+          "en": "State Election Commission (SEC)"
+        },
+        {
+          "hi": "भारत का निर्वाचन आयोग (ECI)",
+          "en": "Election Commission of India (ECI)"
+        },
+        {
+          "hi": "जिला मजिस्ट्रेट (DM) सीधे",
+          "en": "District Magistrate directly"
+        },
+        {
+          "hi": "राज्य का गृह विभाग",
+          "en": "State Home Department"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मतदान के दिन चुनाव प्रचार मतदान समाप्त होने के निर्धारित समय से कितने घंटे पहले बंद हो जाता है?",
+        "en": "Campaigning must cease how many hours before the conclusion of poll under RPA 1951 (Sec 126)?"
+      },
+      "o": [
+        {
+          "hi": "24 घंटे पहले",
+          "en": "24 Hours"
+        },
+        {
+          "hi": "48 घंटे पहले (48 Hours before conclusion of poll)",
+          "en": "48 Hours before conclusion of poll"
+        },
+        {
+          "hi": "36 घंटे पहले",
+          "en": "36 Hours"
+        },
+        {
+          "hi": "72 घंटे पहले",
+          "en": "72 Hours"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मतदान के समय उंगली पर लगाई जाने वाली अमिट स्याही (Indelible Ink) में कौन-सा रसायन प्रयुक्त होता है?",
+        "en": "Which chemical compound is used in the Indelible Ink applied to voters' fingers?"
+      },
+      "o": [
+        {
+          "hi": "सिल्वर ब्रोमाइड",
+          "en": "Silver Bromide"
+        },
+        {
+          "hi": "कॉपर सल्फेट",
+          "en": "Copper Sulphate"
+        },
+        {
+          "hi": "सिल्वर नाइट्रेट (Silver Nitrate - AgNO3)",
+          "en": "Silver Nitrate (AgNO3)"
+        },
+        {
+          "hi": "पोटेशियम परमैंगनेट",
+          "en": "Potassium Permanganate"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में अमिट स्याही का निर्माण एकमात्र किस अधिकृत कंपनी द्वारा 1962 से किया जाता है?",
+        "en": "Which sole authorized PSU has manufactured election indelible ink in India since 1962?"
+      },
+      "o": [
+        {
+          "hi": "हिंदुस्तान एंटीबायोटिक्स",
+          "en": "Hindustan Antibiotics"
+        },
+        {
+          "hi": "इंडियन ऑयल कॉर्पोरेशन",
+          "en": "Indian Oil Corporation"
+        },
+        {
+          "hi": "भारत केमिकल्स लिमिटेड",
+          "en": "Bharat Chemicals Ltd"
+        },
+        {
+          "hi": "मैसूर पेंट्स एंड वार्निश लिमिटेड (Mysore Paints and Varnish Ltd, कर्नाटक)",
+          "en": "Mysore Paints and Varnish Ltd (Karnataka)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चुनाव में धांधली और बूथ कैप्चरिंग की शिकायत पर किसी मतदान केंद्र का चुनाव रद्द करने का अधिकार किसे है?",
+        "en": "Who has the power to countermand or adjourn polls and order repoll in case of booth capturing?"
+      },
+      "o": [
+        {
+          "hi": "भारत का निर्वाचन आयोग (Election Commission of India)",
+          "en": "Election Commission of India"
+        },
+        {
+          "hi": "केवल संबंधित राज्य के राज्यपाल को",
+          "en": "Only State Governor"
+        },
+        {
+          "hi": "केवल केंद्रीय गृह मंत्री को",
+          "en": "Only Union Home Minister"
+        },
+        {
+          "hi": "जिला पुलिस अधीक्षक को",
+          "en": "Superintendent of Police"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चुनावी प्रक्रिया में आदर्श आचार संहिता के उल्लंघन की रिपोर्ट आम नागरिकों द्वारा करने हेतु ECI का कौन-सा ऐप है?",
+        "en": "Which mobile app launched by ECI allows citizens to report MCC violations with geotagged proof?"
+      },
+      "o": [
+        {
+          "hi": "गरुड़ ऐप (GARUDA)",
+          "en": "GARUDA App"
+        },
+        {
+          "hi": "सी-विजिल ऐप (cVIGIL App)",
+          "en": "cVIGIL App"
+        },
+        {
+          "hi": "वोटर हेल्पलाइन ऐप",
+          "en": "Voter Helpline App"
+        },
+        {
+          "hi": "सुविधा पोर्टल",
+          "en": "Suvidha Portal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बीएलओ (BLO - बूथ लेवल ऑफिसर) के कार्यों के डिजिटलीकरण हेतु चुनाव आयोग का कौन-सा ऐप है?",
+        "en": "Which mobile app was introduced for Booth Level Officers (BLOs) for digital voter roll verification?"
+      },
+      "o": [
+        {
+          "hi": "सी-विजिल",
+          "en": "cVIGIL"
+        },
+        {
+          "hi": "समाधान",
+          "en": "Samadhan"
+        },
+        {
+          "hi": "गरुड़ ऐप / BLO ऐप (GARUDA / BLO App)",
+          "en": "GARUDA / BLO App"
+        },
+        {
+          "hi": "उमंग",
+          "en": "UMANG"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत निर्वाचन आयोग के प्रशासनिक खर्च किस पर निर्भर होते हैं?",
+        "en": "How are the administrative expenses of the Election Commission of India funded?"
+      },
+      "o": [
+        {
+          "hi": "भारत की संचित निधि पर भारित",
+          "en": "Charged on Consolidated Fund"
+        },
+        {
+          "hi": "राजनीतिक दलों के चंदे से",
+          "en": "Political party donations"
+        },
+        {
+          "hi": "राज्य सरकारों के अंशदान से",
+          "en": "State contributions"
+        },
+        {
+          "hi": "संसद द्वारा प्रतिवर्ष बजट में मतदान द्वारा स्वीकृत अनुदान से (संचित निधि पर भारित नहीं हैं)",
+          "en": "Voted expenditure by Parliament in annual budget (NOT charged on Consolidated Fund)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दिनेश गोस्वामी समिति (1990) और इंद्रजीत गुप्त समिति (1998) का संबंध किस विषय से था?",
+        "en": "Dinesh Goswami Committee (1990) and Indrajit Gupta Committee (1998) were constituted on which subject?"
+      },
+      "o": [
+        {
+          "hi": "चुनाव सुधार एवं चुनावों का राज्य वित्तपोषण (Electoral Reforms & State Funding)",
+          "en": "Electoral Reforms and State Funding of Elections"
+        },
+        {
+          "hi": "पंचायती राज सुधार",
+          "en": "Panchayati Raj reforms"
+        },
+        {
+          "hi": "केंद्र-राज्य संबंध",
+          "en": "Centre-State relations"
+        },
+        {
+          "hi": "बैंक राष्ट्रीयकरण",
+          "en": "Bank Nationalization"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "निर्वाचन आयोग भारतीय लोकतंत्र में किस मूल्य का सर्वोच्च संवैधानिक प्रहरी है?",
+        "en": "The Election Commission of India is the supreme constitutional guardian of which democratic value?"
+      },
+      "o": [
+        {
+          "hi": "संसदीय निरंकुशता",
+          "en": "Parliamentary absolutism"
+        },
+        {
+          "hi": "स्वतंत्र, निष्पक्ष, पारदर्शी और समयबद्ध चुनाव प्रणाली (Free and Fair Elections)",
+          "en": "Free, fair, transparent and periodic elections"
+        },
+        {
+          "hi": "न्यायिक सर्वोच्चता",
+          "en": "Judicial supremacy"
+        },
+        {
+          "hi": "कार्यपालिका नियंत्रण",
+          "en": "Executive control"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

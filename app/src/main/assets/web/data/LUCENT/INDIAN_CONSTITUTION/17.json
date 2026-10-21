@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भारतीय संविधान (Indian Constitution)",
+  "subtitle": "भारत की संचित निधि",
+  "description": "भारत की संचित निधि पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारत की संचित निधि (Consolidated Fund of India) का प्रावधान संविधान के किस अनुच्छेद में है?",
+        "en": "Under which Article of the Indian Constitution is the Consolidated Fund of India established?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 266(1) / Article 266(1)",
+          "en": "Article 266(1)"
+        },
+        {
+          "hi": "अनुच्छेद 267(1)",
+          "en": "Article 267(1)"
+        },
+        {
+          "hi": "अनुच्छेद 265",
+          "en": "Article 265"
+        },
+        {
+          "hi": "अनुच्छेद 280",
+          "en": "Article 280"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत सरकार को प्राप्त समस्त राजस्व, लिए गए ऋण तथा ऋणों की अदायगी से प्राप्त धन किस निधि में जमा होता है?",
+        "en": "All revenues received by GOI, loans raised and money received in repayment of loans are credited to?"
+      },
+      "o": [
+        {
+          "hi": "भारत का लोक लेखा (Public Account of India)",
+          "en": "Public Account of India"
+        },
+        {
+          "hi": "भारत की संचित निधि (Consolidated Fund of India)",
+          "en": "Consolidated Fund of India"
+        },
+        {
+          "hi": "भारत की आकस्मिकता निधि (Contingency Fund)",
+          "en": "Contingency Fund of India"
+        },
+        {
+          "hi": "प्रधानमंत्री राष्ट्रीय राहत कोष",
+          "en": "PM National Relief Fund"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत की संचित निधि से कोई भी धन निकालने के लिए किसकी पूर्व विधायी स्वीकृति अनिवार्य है?",
+        "en": "Whose legislative authorization is mandatory to withdraw any money from the Consolidated Fund of India?"
+      },
+      "o": [
+        {
+          "hi": "केवल भारत के राष्ट्रपति की",
+          "en": "Only President of India"
+        },
+        {
+          "hi": "केवल केंद्रीय वित्त मंत्री की",
+          "en": "Only Union Finance Minister"
+        },
+        {
+          "hi": "भारतीय संसद की (Parliament of India - विनियोग अधिनियम द्वारा)",
+          "en": "Parliament of India (through Appropriation Act)"
+        },
+        {
+          "hi": "भारत के नियंत्रक एवं महालेखा परीक्षक (CAG) की",
+          "en": "Comptroller & Auditor General"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का लोक लेखा (Public Account of India) संविधान के किस अनुच्छेद के तहत स्थापित है?",
+        "en": "The Public Account of India is established under which Article of the Constitution?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 266(1)",
+          "en": "Article 266(1)"
+        },
+        {
+          "hi": "अनुच्छेद 267",
+          "en": "Article 267"
+        },
+        {
+          "hi": "अनुच्छेद 268",
+          "en": "Article 268"
+        },
+        {
+          "hi": "अनुच्छेद 266(2) / Article 266(2)",
+          "en": "Article 266(2)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भविष्य निधि (PF), न्यायिक जमा, डाकघर बचत, विभागीय जमा आदि का धन किस निधि में जमा किया जाता है?",
+        "en": "Provident fund deposits, judicial deposits, small savings, and departmental deposits are credited to?"
+      },
+      "o": [
+        {
+          "hi": "भारत का लोक लेखा (Public Account of India)",
+          "en": "Public Account of India"
+        },
+        {
+          "hi": "भारत की संचित निधि",
+          "en": "Consolidated Fund of India"
+        },
+        {
+          "hi": "भारत की आकस्मिकता निधि",
+          "en": "Contingency Fund of India"
+        },
+        {
+          "hi": "भारतीय रिजर्व बैंक का संचित कोष",
+          "en": "RBI Reserve Fund"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लोक लेखा (Public Account) से धन निकालने के लिए क्या संसद की पूर्व स्वीकृति आवश्यक होती है?",
+        "en": "Is prior parliamentary approval necessary for payments out of the Public Account of India?"
+      },
+      "o": [
+        {
+          "hi": "हाँ, विनियोग विधेयक पारित होना अनिवार्य है",
+          "en": "Yes, Appropriation Act needed"
+        },
+        {
+          "hi": "नहीं, यह कार्यपालिका की कार्यकारी कार्रवाई द्वारा संचालित होता है (बैंक लेनदेन की तरह)",
+          "en": "No, operated by executive action (banker-customer nature)"
+        },
+        {
+          "hi": "हाँ, विशेष बहुमत से स्वीकृति चाहिए",
+          "en": "Yes, special majority needed"
+        },
+        {
+          "hi": "केवल राष्ट्रपति के अध्यादेश द्वारा",
+          "en": "Only by Presidential ordinance"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत की आकस्मिकता निधि (Contingency Fund of India) का प्रावधान किस अनुच्छेद में है?",
+        "en": "The Contingency Fund of India is established under which Article of the Constitution?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 266(1)",
+          "en": "Article 266(1)"
+        },
+        {
+          "hi": "अनुच्छेद 268",
+          "en": "Article 268"
+        },
+        {
+          "hi": "अनुच्छेद 267(1) / Article 267(1)",
+          "en": "Article 267(1)"
+        },
+        {
+          "hi": "अनुच्छेद 275",
+          "en": "Article 275"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत की आकस्मिकता निधि किसके अधिकार में रखी जाती है?",
+        "en": "In whose custody and disposal is the Contingency Fund of India placed?"
+      },
+      "o": [
+        {
+          "hi": "भारत के प्रधानमंत्री",
+          "en": "Prime Minister of India"
+        },
+        {
+          "hi": "लोकसभा अध्यक्ष",
+          "en": "Speaker of Lok Sabha"
+        },
+        {
+          "hi": "भारत के मुख्य न्यायाधीश",
+          "en": "Chief Justice of India"
+        },
+        {
+          "hi": "भारत के राष्ट्रपति (वित्त सचिव द्वारा राष्ट्रपति की ओर से संचालित)",
+          "en": "President of India (operated by Finance Secretary on behalf of President)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आकस्मिकता निधि का मुख्य प्रयोजन क्या होता है?",
+        "en": "What is the primary purpose of the Contingency Fund of India?"
+      },
+      "o": [
+        {
+          "hi": "अप्रत्याशित या आपातकालीन व्ययों को पूरा करना, जब तक संसद से अनुमोदन न मिल जाए",
+          "en": "Meet unforeseen/emergency expenditure pending parliamentary authorization"
+        },
+        {
+          "hi": "सालाना बजट घाटा पूरा करना",
+          "en": "Cover annual budget deficit"
+        },
+        {
+          "hi": "सरकारी कर्मचारियों के वेतन देना",
+          "en": "Pay salaries of civil servants"
+        },
+        {
+          "hi": "विदेशी ऋणों का भुगतान करना",
+          "en": "Repay foreign debt"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वित्त अधिनियम 2021 द्वारा भारत की आकस्मिकता निधि की कुल धनराशि ₹500 करोड़ से बढ़ाकर कितनी कर दी गई?",
+        "en": "By Finance Act 2021, the corpus of the Contingency Fund of India was increased from ₹500 crore to what?"
+      },
+      "o": [
+        {
+          "hi": "₹10,000 करोड़",
+          "en": "₹10,000 Crore"
+        },
+        {
+          "hi": "₹30,000 करोड़ (Thirty Thousand Crore)",
+          "en": "₹30,000 Crore"
+        },
+        {
+          "hi": "₹50,000 करोड़",
+          "en": "₹50,000 Crore"
+        },
+        {
+          "hi": "₹5,000 करोड़",
+          "en": "₹5,000 Crore"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संचित निधि पर 'भारित व्यय' (Expenditure Charged upon Consolidated Fund) की मुख्य विशेषता क्या है?",
+        "en": "What is the distinctive feature of 'Expenditure Charged' on the Consolidated Fund under Art 113(1)?"
+      },
+      "o": [
+        {
+          "hi": "इस पर संसद में न बहस हो सकती है और न मतदान",
+          "en": "Neither discussed nor voted upon"
+        },
+        {
+          "hi": "इस पर केवल लोकसभा में मतदान होता है",
+          "en": "Voted only in Lok Sabha"
+        },
+        {
+          "hi": "इस पर संसद में केवल बहस हो सकती है, मतदान (Voting) नहीं कराया जा सकता",
+          "en": "Can be discussed in Parliament, but is non-votable"
+        },
+        {
+          "hi": "इसे संसद कभी भी अस्वीकार कर सकती है",
+          "en": "Parliament can reject it anytime"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से किसका वेतन और भत्ता भारत की संचित निधि पर भारित होता है?",
+        "en": "Whose salary and emoluments are charged on the Consolidated Fund of India?"
+      },
+      "o": [
+        {
+          "hi": "प्रधानमंत्री और केंद्रीय कैबिनेट मंत्री",
+          "en": "Prime Minister and Cabinet Ministers"
+        },
+        {
+          "hi": "उच्च न्यायालयों के न्यायाधीशों के वेतन",
+          "en": "Salaries of High Court Judges"
+        },
+        {
+          "hi": "राज्यों के राज्यपालों के वेतन",
+          "en": "Salaries of State Governors"
+        },
+        {
+          "hi": "राष्ट्रपति, राज्यसभा के सभापति/उपसभापति, लोकसभा अध्यक्ष/उपाध्यक्ष और सुप्रीम कोर्ट के न्यायाधीश",
+          "en": "President, RS Chairman/Deputy Chairman, LS Speaker/Deputy Speaker, SC Judges"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उच्च न्यायालयों (High Courts) के न्यायाधीशों के वेतन और पेंशन के संबंध में क्या संवैधानिक व्यवस्था है?",
+        "en": "What is the constitutional rule regarding salaries and pensions of High Court judges?"
+      },
+      "o": [
+        {
+          "hi": "वेतन राज्य की संचित निधि पर भारित होता है, किंतु पेंशन भारत की संचित निधि पर भारित होती है",
+          "en": "Salary charged on State Consolidated Fund; Pension charged on Consolidated Fund of India"
+        },
+        {
+          "hi": "वेतन और पेंशन दोनों भारत की संचित निधि पर भारित हैं",
+          "en": "Both charged on Consolidated Fund of India"
+        },
+        {
+          "hi": "वेतन और पेंशन दोनों राज्य की संचित निधि पर भारित हैं",
+          "en": "Both charged on State Consolidated Fund"
+        },
+        {
+          "hi": "वेतन केंद्र से, पेंशन राज्य से मिलती है",
+          "en": "Salary from Centre, pension from State"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत के नियंत्रक एवं महालेखा परीक्षक (CAG) का वेतन, भत्ते और पेंशन किस निधि पर भारित होते हैं?",
+        "en": "On which fund are the salary, allowances, and pension of the CAG charged?"
+      },
+      "o": [
+        {
+          "hi": "भारत के लोक लेखा पर",
+          "en": "Public Account of India"
+        },
+        {
+          "hi": "भारत की संचित निधि पर (Consolidated Fund of India)",
+          "en": "Consolidated Fund of India"
+        },
+        {
+          "hi": "आकस्मिकता निधि पर",
+          "en": "Contingency Fund"
+        },
+        {
+          "hi": "संसदीय विशेष निधि पर",
+          "en": "Parliamentary Special Fund"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किसी न्यायालय या मध्यस्थता अधिकरण (Arbitration Tribunal) द्वारा भारत सरकार के विरुद्ध दिया गया निर्णय/डिक्री किस पर भारित व्यय होता है?",
+        "en": "Any judgment, decree, or award of any court or arbitral tribunal against GOI is charged on what?"
+      },
+      "o": [
+        {
+          "hi": "आकस्मिकता निधि पर",
+          "en": "Contingency Fund"
+        },
+        {
+          "hi": "विधि मंत्रालय के बजट पर",
+          "en": "Law Ministry Budget"
+        },
+        {
+          "hi": "भारत की संचित निधि पर (Charged upon Consolidated Fund)",
+          "en": "Charged upon Consolidated Fund of India"
+        },
+        {
+          "hi": "लोक लेखा पर",
+          "en": "Public Account"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संविधान के किस अनुच्छेद के तहत 'विधि के प्राधिकार के बिना कोई कर न तो लगाया जाएगा और न ही एकत्र किया जाएगा'?",
+        "en": "Under which Article 'No tax shall be levied or collected except by authority of law'?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 266",
+          "en": "Article 266"
+        },
+        {
+          "hi": "अनुच्छेद 267",
+          "en": "Article 267"
+        },
+        {
+          "hi": "अनुच्छेद 110",
+          "en": "Article 110"
+        },
+        {
+          "hi": "अनुच्छेद 265 (Article 265)",
+          "en": "Article 265"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "राज्य की संचित निधि (Consolidated Fund of State) का प्रावधान किस अनुच्छेद में है?",
+        "en": "The Consolidated Fund of the State is established under which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 266(1) / Article 266(1)",
+          "en": "Article 266(1)"
+        },
+        {
+          "hi": "अनुच्छेद 267(2)",
+          "en": "Article 267(2)"
+        },
+        {
+          "hi": "अनुच्छेद 202",
+          "en": "Article 202"
+        },
+        {
+          "hi": "अनुच्छेद 204",
+          "en": "Article 204"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राज्य की आकस्मिकता निधि (Contingency Fund of State) किसके अधिकार में रखी जाती है?",
+        "en": "Under whose disposal is the Contingency Fund of the State placed under Art 267(2)?"
+      },
+      "o": [
+        {
+          "hi": "राज्य के मुख्यमंत्री के",
+          "en": "Chief Minister of the State"
+        },
+        {
+          "hi": "राज्य के राज्यपाल के (Governor of the State)",
+          "en": "Governor of the State"
+        },
+        {
+          "hi": "विधानसभा अध्यक्ष के",
+          "en": "Speaker of Legislative Assembly"
+        },
+        {
+          "hi": "उच्च न्यायालय के मुख्य न्यायाधीश के",
+          "en": "Chief Justice of High Court"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संसद द्वारा अनुदानों की मांगों (Demands for Grants) पर मतदान करने का अनन्य अधिकार किसे प्राप्त है?",
+        "en": "Who has the exclusive constitutional power to vote on Demands for Grants under Art 113(2)?"
+      },
+      "o": [
+        {
+          "hi": "संसद के दोनों सदनों को समान रूप से",
+          "en": "Both Houses equally"
+        },
+        {
+          "hi": "केवल राज्यसभा को",
+          "en": "Only Rajya Sabha"
+        },
+        {
+          "hi": "केवल लोकसभा को (Only Lok Sabha - राज्यसभा को मतदान का अधिकार नहीं)",
+          "en": "Only Lok Sabha (Rajya Sabha has no voting power)"
+        },
+        {
+          "hi": "संसद की संयुक्त बैठक को",
+          "en": "Joint Sitting of Parliament"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अनुदान की किसी भी मांग (Demand for Grant) को किसकी सिफारिश के बिना प्रस्तुत नहीं किया जा सकता?",
+        "en": "No demand for a grant shall be made except on the recommendation of whom under Art 113(3)?"
+      },
+      "o": [
+        {
+          "hi": "प्रधानमंत्री की सिफारिश पर",
+          "en": "Prime Minister"
+        },
+        {
+          "hi": "लोकसभा अध्यक्ष की सिफारिश पर",
+          "en": "Speaker of Lok Sabha"
+        },
+        {
+          "hi": "कैग (CAG) की सिफारिश पर",
+          "en": "CAG of India"
+        },
+        {
+          "hi": "भारत के राष्ट्रपति की सिफारिश पर (President of India)",
+          "en": "Recommendation of the President of India"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लोकसभा द्वारा अनुदानों की मांगें पारित होने के बाद संचित निधि से धन की विधिक निकासी हेतु कौन-सा विधेयक पेश होता है?",
+        "en": "Which bill is introduced to authorize withdrawal of funds from Consolidated Fund after grants are voted?"
+      },
+      "o": [
+        {
+          "hi": "विनियोग विधेयक (Appropriation Bill - Article 114)",
+          "en": "Appropriation Bill (Article 114)"
+        },
+        {
+          "hi": "वित्त विधेयक (Finance Bill)",
+          "en": "Finance Bill"
+        },
+        {
+          "hi": "धन विधेयक",
+          "en": "Money Bill"
+        },
+        {
+          "hi": "ऋण शोधन विधेयक",
+          "en": "Debt Redemption Bill"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सरकार के वित्तीय वर्ष के कराधान संबंधी प्रस्तावों (नए कर लगाने या संशोधन) को प्रभावी बनाने वाला विधेयक क्या है?",
+        "en": "Which bill gives legislative effect to the taxation proposals of the Government for the fiscal year?"
+      },
+      "o": [
+        {
+          "hi": "विनियोग विधेयक (Appropriation Bill)",
+          "en": "Appropriation Bill"
+        },
+        {
+          "hi": "वित्त विधेयक (Finance Bill)",
+          "en": "Finance Bill"
+        },
+        {
+          "hi": "साधारण विधेयक",
+          "en": "Ordinary Bill"
+        },
+        {
+          "hi": "लेखा अनुदान",
+          "en": "Vote on Account"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यदि किसी सेवा के लिए चालू वित्तीय वर्ष में स्वीकृत राशि अपर्याप्त सिद्ध हो, तो राष्ट्रपति संसद में क्या पेश करवाते हैं?",
+        "en": "If amount authorized for a service is found insufficient, what is presented to Parliament under Art 115?"
+      },
+      "o": [
+        {
+          "hi": "अतिरिक्त बजट",
+          "en": "Additional Budget"
+        },
+        {
+          "hi": "प्रत्यानुदान",
+          "en": "Vote of Credit"
+        },
+        {
+          "hi": "अनुपूरक अनुदान की मांग (Supplementary Demands for Grants)",
+          "en": "Supplementary Demands for Grants"
+        },
+        {
+          "hi": "सावधिक ऋण मांग",
+          "en": "Term Loan Request"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जब किसी सेवा पर वित्तीय वर्ष में स्वीकृत राशि से अधिक धन व्यय हो जाता है, तो कौन-सा अनुदान लाया जाता है?",
+        "en": "When money has been spent on any service in excess of the grant, what grant is demanded?"
+      },
+      "o": [
+        {
+          "hi": "अनुपूरक अनुदान",
+          "en": "Supplementary Grant"
+        },
+        {
+          "hi": "लेखानुदान",
+          "en": "Vote on Account"
+        },
+        {
+          "hi": "सांकेतिक अनुदान",
+          "en": "Token Grant"
+        },
+        {
+          "hi": "अतिरिक्त / आधिक्य अनुदान (Excess Grant - लोक लेखा समिति की संस्तुति आवश्यक)",
+          "en": "Excess Grant (Requires PAC scrutiny and recommendation)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किसी राष्ट्रीय आपात या अप्रत्याशित मांग को पूरा करने के लिए बिना विस्तृत विवरण के दिया गया अनुदान क्या कहलाता है?",
+        "en": "What is a grant made for meeting unexpected demand without detailed estimates called (blank cheque)?"
+      },
+      "o": [
+        {
+          "hi": "प्रत्यानुदान (Vote of Credit - 'संसद द्वारा कार्यपालिका को कोरा चेक')",
+          "en": "Vote of Credit ('Blank cheque to executive')"
+        },
+        {
+          "hi": "अपवादानुदान (Exceptional Grant)",
+          "en": "Exceptional Grant"
+        },
+        {
+          "hi": "सांकेतिक अनुदान (Token Grant)",
+          "en": "Token Grant"
+        },
+        {
+          "hi": "अनुपूरक अनुदान",
+          "en": "Supplementary Grant"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किसी नई सेवा के लिए केवल ₹1 की प्रतीकात्मक मांग के साथ संसद की मंजूरी प्राप्त करना क्या कहलाता है?",
+        "en": "A symbolic demand of Re 1 to obtain parliamentary sanction for a new service is called?"
+      },
+      "o": [
+        {
+          "hi": "प्रत्यानुदान",
+          "en": "Vote of Credit"
+        },
+        {
+          "hi": "सांकेतिक अनुदान (Token Grant)",
+          "en": "Token Grant"
+        },
+        {
+          "hi": "अपवादानुदान",
+          "en": "Exceptional Grant"
+        },
+        {
+          "hi": "अतिरिक्त अनुदान",
+          "en": "Additional Grant"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बजट प्रक्रिया के दौरान विपक्ष द्वारा अनुदान की मांगों में कटौती हेतु लाए जाने वाले प्रस्तावों को क्या कहते हैं?",
+        "en": "Motions moved by Opposition to reduce amounts in Demands for Grants are called?"
+      },
+      "o": [
+        {
+          "hi": "अविश्वास प्रस्ताव",
+          "en": "No-Confidence Motion"
+        },
+        {
+          "hi": "विशेषाधिकार प्रस्ताव",
+          "en": "Privilege Motion"
+        },
+        {
+          "hi": "कटौती प्रस्ताव (Cut Motions)",
+          "en": "Cut Motions"
+        },
+        {
+          "hi": "स्थगन प्रस्ताव",
+          "en": "Adjournment Motion"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कटौती प्रस्ताव (Cut Motions) कुल कितने प्रकार के होते हैं?",
+        "en": "How many types of Cut Motions are recognized in parliamentary practice?"
+      },
+      "o": [
+        {
+          "hi": "2 प्रकार के",
+          "en": "2 Types"
+        },
+        {
+          "hi": "4 प्रकार के",
+          "en": "4 Types"
+        },
+        {
+          "hi": "5 प्रकार के",
+          "en": "5 Types"
+        },
+        {
+          "hi": "3 प्रकार के (नीतिगत कटौती, मितव्ययिता कटौती, सांकेतिक कटौती)",
+          "en": "3 Types (Policy Disapproval Cut, Economy Cut, Token Cut)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'मांग की राशि घटाकर ₹1 कर दी जाए' यह किस प्रकार का कटौती प्रस्ताव होता है?",
+        "en": "'That the amount of the demand be reduced to Re 1' represents which Cut Motion?"
+      },
+      "o": [
+        {
+          "hi": "नीतिगत कटौती प्रस्ताव (Policy Disapproval Cut Motion)",
+          "en": "Policy Disapproval Cut Motion"
+        },
+        {
+          "hi": "मितव्ययिता कटौती प्रस्ताव (Economy Cut)",
+          "en": "Economy Cut Motion"
+        },
+        {
+          "hi": "सांकेतिक कटौती प्रस्ताव (Token Cut)",
+          "en": "Token Cut Motion"
+        },
+        {
+          "hi": "संसदीय कटौती प्रस्ताव",
+          "en": "Parliamentary Cut"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'मांग की राशि में ₹100 की कमी की जाए' (विशिष्ट शिकायत व्यक्त करने हेतु) यह कौन-सा प्रस्ताव है?",
+        "en": "'That the amount of the demand be reduced by Rs 100' represents which Cut Motion?"
+      },
+      "o": [
+        {
+          "hi": "नीतिगत कटौती प्रस्ताव",
+          "en": "Policy Disapproval Cut"
+        },
+        {
+          "hi": "सांकेतिक कटौती प्रस्ताव (Token Cut Motion)",
+          "en": "Token Cut Motion"
+        },
+        {
+          "hi": "मितव्ययिता कटौती प्रस्ताव",
+          "en": "Economy Cut"
+        },
+        {
+          "hi": "प्रत्यानुदान प्रस्ताव",
+          "en": "Vote of Credit Motion"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यदि लोकसभा में कटौती प्रस्ताव (विशेषकर नीतिगत कटौती) पारित हो जाता है, तो सरकार पर क्या प्रभाव पड़ता है?",
+        "en": "What is the constitutional implication if a Cut Motion is passed in the Lok Sabha?"
+      },
+      "o": [
+        {
+          "hi": "केवल संबंधित मंत्री को हटाया जाता है",
+          "en": "Only concerned minister removed"
+        },
+        {
+          "hi": "बजट को अगले वर्ष के लिए टाल दिया जाता है",
+          "en": "Budget postponed to next year"
+        },
+        {
+          "hi": "यह सरकार में अविश्वास का प्रतीक माना जाता है और सरकार/मंत्रिपरिषद को त्यागपत्र देना पड़ता है",
+          "en": "It is deemed a vote of no-confidence and the Government must resign"
+        },
+        {
+          "hi": "सरकार पर कोई प्रभाव नहीं पड़ता",
+          "en": "No effect on Government"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बजट पर चर्चा के अंतिम दिन समय समाप्त होने पर सभी शेष अनुदान मांगों को बिना चर्चा के सीधे मतदान में रखना क्या कहलाता है?",
+        "en": "Putting all remaining demands for grants to vote without discussion on the last day is called?"
+      },
+      "o": [
+        {
+          "hi": "लेखानुदान",
+          "en": "Vote on Account"
+        },
+        {
+          "hi": "कटौती प्रस्ताव",
+          "en": "Cut Motion"
+        },
+        {
+          "hi": "ध्यानाकर्षण",
+          "en": "Calling Attention"
+        },
+        {
+          "hi": "गिलोटिन (Guillotine)",
+          "en": "Guillotine"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत की संचित निधि से किए जाने वाले व्ययों का लेखा-परीक्षण (Audit) करने का दायित्व किसका है?",
+        "en": "Who has the constitutional duty to audit all expenditure from the Consolidated Fund of India?"
+      },
+      "o": [
+        {
+          "hi": "भारत के नियंत्रक एवं महालेखा परीक्षक (CAG - Art 149)",
+          "en": "Comptroller and Auditor General of India (CAG)"
+        },
+        {
+          "hi": "केंद्रीय वित्त मंत्रालय का",
+          "en": "Ministry of Finance"
+        },
+        {
+          "hi": "भारतीय रिजर्व बैंक का",
+          "en": "Reserve Bank of India"
+        },
+        {
+          "hi": "संसदीय प्राक्कलन समिति का",
+          "en": "Estimates Committee"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्या भारत का प्रधानमंत्री या कोई केंद्रीय मंत्री संचित निधि से सीधे अपने विवेकाधिकार से धन निकाल सकता है?",
+        "en": "Can the Prime Minister or any Minister withdraw money directly from Consolidated Fund at discretion?"
+      },
+      "o": [
+        {
+          "hi": "हाँ, कैबिनेट के प्रस्ताव से निकाल सकते हैं",
+          "en": "Yes, by Cabinet resolution"
+        },
+        {
+          "hi": "नहीं, संसद द्वारा पारित विनियोग कानून के बिना एक भी रुपया नहीं निकाला जा सकता",
+          "en": "No, not a single rupee can be withdrawn without parliamentary appropriation act"
+        },
+        {
+          "hi": "हाँ, राष्ट्रपति की मौखिक अनुमति से",
+          "en": "Yes, on President oral consent"
+        },
+        {
+          "hi": "केवल ₹100 करोड़ तक निकाल सकते हैं",
+          "en": "Only up to ₹100 crore"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आकस्मिकता निधि से किए गए अग्रिम व्यय (Advances) की बाद में किस माध्यम से भरपाई की जाती है?",
+        "en": "How are advances drawn from the Contingency Fund recouped later under Article 267?"
+      },
+      "o": [
+        {
+          "hi": "आरबीआई से नया ऋण लेकर",
+          "en": "Taking fresh loan from RBI"
+        },
+        {
+          "hi": "लोक लेखा से धन स्थानांतरित करके",
+          "en": "Transferring from Public Account"
+        },
+        {
+          "hi": "संसद द्वारा संचित निधि से अनुपूरक विनियोग विधेयक पारित कराकर",
+          "en": "By Parliamentary authorization through supplementary appropriation from Consolidated Fund"
+        },
+        {
+          "hi": "नए टैक्स लगाकर",
+          "en": "Levying new taxes"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत के प्रथम रेल बजट को सामान्य बजट से किस समिति की सिफारिश पर 1924 में अलग किया गया था?",
+        "en": "On whose recommendation was the Railway Budget separated from General Budget in 1924?"
+      },
+      "o": [
+        {
+          "hi": "हिल्टन यंग आयोग",
+          "en": "Hilton Young Commission"
+        },
+        {
+          "hi": "मैकाले समिति",
+          "en": "Macaulay Committee"
+        },
+        {
+          "hi": "हंटर समिति",
+          "en": "Hunter Committee"
+        },
+        {
+          "hi": "विलियम एकवर्थ समिति (William Acworth Committee - 1921)",
+          "en": "William Acworth Committee (1921)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रेल बजट का सामान्य बजट में पुनः विलय (Unification of Budgets) किस वर्ष से लागू हुआ?",
+        "en": "From which financial year was the Railway Budget merged back into the Union Budget?"
+      },
+      "o": [
+        {
+          "hi": "2017-18 से (विवेक देबरॉय समिति की सिफारिश पर)",
+          "en": "From 2017-18 (on Bibek Debroy Committee recommendation)"
+        },
+        {
+          "hi": "2014-15 से",
+          "en": "From 2014-15"
+        },
+        {
+          "hi": "2019-20 से",
+          "en": "From 2019-20"
+        },
+        {
+          "hi": "2015-16 से",
+          "en": "From 2015-16"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आम बजट को फरवरी के अंतिम कार्यदिवस के स्थान पर 1 फरवरी को पेश करने की परंपरा किस वर्ष से शुरू हुई?",
+        "en": "From which year was the presentation of Union Budget shifted to 1 February?"
+      },
+      "o": [
+        {
+          "hi": "वर्ष 2014 से",
+          "en": "From 2014"
+        },
+        {
+          "hi": "वर्ष 2017 से (अरुण जेटली द्वारा)",
+          "en": "From 2017 (by Arun Jaitley)"
+        },
+        {
+          "hi": "वर्ष 2019 से",
+          "en": "From 2019"
+        },
+        {
+          "hi": "वर्ष 2000 से",
+          "en": "From 2000"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्वतंत्र भारत का पहला केंद्रीय बजट 26 नवंबर 1947 को किसने पेश किया था?",
+        "en": "Who presented the first Union Budget of independent India on 26 November 1947?"
+      },
+      "o": [
+        {
+          "hi": "जॉन मथाई",
+          "en": "John Mathai"
+        },
+        {
+          "hi": "सी. डी. देशमुख",
+          "en": "C. D. Deshmukh"
+        },
+        {
+          "hi": "आर. के. षण्मुखम चेट्टी (R. K. Shanmukham Chetty)",
+          "en": "R. K. Shanmukham Chetty"
+        },
+        {
+          "hi": "लियाकत अली खान",
+          "en": "Liaquat Ali Khan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गणतंत्र भारत (26 जनवरी 1950 के बाद) का प्रथम बजट 28 फरवरी 1950 को किसने प्रस्तुत किया था?",
+        "en": "Who presented the first Budget of the Republic of India on 28 February 1950?"
+      },
+      "o": [
+        {
+          "hi": "आर. के. षण्मुखम चेट्टी",
+          "en": "R. K. Shanmukham Chetty"
+        },
+        {
+          "hi": "सी. डी. देशमुख",
+          "en": "C. D. Deshmukh"
+        },
+        {
+          "hi": "जवाहरलाल नेहरू",
+          "en": "Jawaharlal Nehru"
+        },
+        {
+          "hi": "जॉन मथाई (John Mathai)",
+          "en": "John Mathai"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में सर्वाधिक बार (10 बार) बजट पेश करने का रिकॉर्ड किस वित्त मंत्री के नाम है?",
+        "en": "Which Finance Minister holds the record for presenting the Union Budget the highest number of times (10 times)?"
+      },
+      "o": [
+        {
+          "hi": "मोरारजी देसाई (Morarji Desai)",
+          "en": "Morarji Desai"
+        },
+        {
+          "hi": "पी. चिदंबरम (9 बार)",
+          "en": "P. Chidambaram (9 times)"
+        },
+        {
+          "hi": "प्रणब मुखर्जी",
+          "en": "Pranab Mukherjee"
+        },
+        {
+          "hi": "यशवंत सिन्हा",
+          "en": "Yashwant Sinha"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बजट निर्माण प्रक्रिया में 'हलवा समारोह' (Halwa Ceremony) का क्या महत्व होता है?",
+        "en": "What is the significance of the traditional 'Halwa Ceremony' in the budget-making process?"
+      },
+      "o": [
+        {
+          "hi": "बजट भाषण समाप्त होने की खुशी",
+          "en": "Celebration of speech conclusion"
+        },
+        {
+          "hi": "बजट दस्तावेजों की छपाई शुरू होने तथा अधिकारियों के 'लॉक-इन' (गोपनीयता अवधि) की शुरुआत",
+          "en": "Beginning of printing budget documents and official 'lock-in' period for secrecy"
+        },
+        {
+          "hi": "विपक्षी सांसदों को मिठाई बांटना",
+          "en": "Distributing sweets to Opposition"
+        },
+        {
+          "hi": "राष्ट्रपति को धन्यवाद ज्ञापन",
+          "en": "Thanking the President"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत सरकार के किस खाते पर संसद का सबसे कड़ा विधायी नियंत्रण होता है?",
+        "en": "On which Government of India fund does Parliament exercise its strictest control?"
+      },
+      "o": [
+        {
+          "hi": "भारत का लोक लेखा",
+          "en": "Public Account of India"
+        },
+        {
+          "hi": "आकस्मिकता निधि",
+          "en": "Contingency Fund"
+        },
+        {
+          "hi": "भारत की संचित निधि (Consolidated Fund of India)",
+          "en": "Consolidated Fund of India"
+        },
+        {
+          "hi": "आरबीआई सामान्य कोष",
+          "en": "RBI General Fund"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत की संचित निधि में कौन-सा प्रत्यक्ष कर (Direct Tax) सीधे जमा होता है?",
+        "en": "Which direct tax revenue is directly credited into the Consolidated Fund of India?"
+      },
+      "o": [
+        {
+          "hi": "केवल कृषि भूमि कर",
+          "en": "Only agricultural tax"
+        },
+        {
+          "hi": "केवल मनोरंजन कर",
+          "en": "Only entertainment tax"
+        },
+        {
+          "hi": "केवल टोल टैक्स",
+          "en": "Only toll tax"
+        },
+        {
+          "hi": "आयकर (Income Tax) एवं निगम कर (Corporation Tax)",
+          "en": "Income Tax and Corporation Tax"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत सरकार द्वारा विदेशों या अंतर्राष्ट्रीय संस्थाओं (जैसे विश्व बैंक) से लिए गए सभी ऋण किस निधि में जमा होते हैं?",
+        "en": "All loans raised by the Government of India from foreign states or international bodies are credited to?"
+      },
+      "o": [
+        {
+          "hi": "भारत की संचित निधि (Consolidated Fund of India)",
+          "en": "Consolidated Fund of India"
+        },
+        {
+          "hi": "लोक लेखा में",
+          "en": "Public Account"
+        },
+        {
+          "hi": "आकस्मिकता निधि में",
+          "en": "Contingency Fund"
+        },
+        {
+          "hi": "विदेशी मुद्रा भंडार में",
+          "en": "Foreign Exchange Reserves"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ऋण शोधन निधि (Sinking Fund) का संबंध किससे होता है?",
+        "en": "What is the purpose of a Sinking Fund created by governments?"
+      },
+      "o": [
+        {
+          "hi": "डूबते हुए उद्योगों को कर्ज देना",
+          "en": "Lending to sinking industries"
+        },
+        {
+          "hi": "सरकारी ऋणों के पुनर्भुगतान हेतु संचित की जाने वाली विशेष निधि",
+          "en": "Fund created for repayment/redemption of public debt"
+        },
+        {
+          "hi": "प्राकृतिक आपदाओं के लिए कोष",
+          "en": "Fund for natural disasters"
+        },
+        {
+          "hi": "बैंकों के एनपीए चुकाना",
+          "en": "Covering bank NPAs"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्या संसद संचित निधि पर भारित व्यय में कटौती करने के लिए मतदान कर सकती है?",
+        "en": "Can Parliament vote to reduce or reject an expenditure charged upon the Consolidated Fund?"
+      },
+      "o": [
+        {
+          "hi": "हाँ, दो-तिहाई बहुमत से कर सकती है",
+          "en": "Yes, by 2/3rd majority"
+        },
+        {
+          "hi": "हाँ, केवल राज्यसभा कर सकती है",
+          "en": "Yes, only Rajya Sabha can"
+        },
+        {
+          "hi": "नहीं, संसद को भारित व्यय पर मतदान करने का कोई संवैधानिक अधिकार नहीं है",
+          "en": "No, Parliament has no constitutional power to vote on charged expenditure"
+        },
+        {
+          "hi": "राष्ट्रपति की अनुमति से कर सकती है",
+          "en": "With President assent"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उच्चतम न्यायालय के प्रशासनिक व्यय, अधिकारियों और सेवकों के वेतन तथा पेंशन किस पर भारित होते हैं?",
+        "en": "Administrative expenses of Supreme Court, salaries and pensions of staff are charged upon what under Art 146(3)?"
+      },
+      "o": [
+        {
+          "hi": "न्यायालय की अपनी फीस संग्रह पर",
+          "en": "Court fee collections"
+        },
+        {
+          "hi": "लोक लेखा पर",
+          "en": "Public Account"
+        },
+        {
+          "hi": "विधि मंत्रालय के विवेकाधीन कोष पर",
+          "en": "Law Ministry discretionary fund"
+        },
+        {
+          "hi": "भारत की संचित निधि पर (Consolidated Fund of India)",
+          "en": "Consolidated Fund of India"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संघ लोक सेवा आयोग (UPSC) के अध्यक्ष और सदस्यों के वेतन, पेंशन तथा कार्यालयीन व्यय किस पर भारित होते हैं?",
+        "en": "Salaries, allowances, and pensions of Chairman and members of UPSC are charged on what under Art 322?"
+      },
+      "o": [
+        {
+          "hi": "भारत की संचित निधि पर (Consolidated Fund of India)",
+          "en": "Consolidated Fund of India"
+        },
+        {
+          "hi": "कार्मिक मंत्रालय के बजट पर",
+          "en": "DoPT Budget"
+        },
+        {
+          "hi": "आकस्मिकता निधि पर",
+          "en": "Contingency Fund"
+        },
+        {
+          "hi": "लोक लेखा पर",
+          "en": "Public Account"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत की संचित निधि की अवधारणा ब्रिटिश संसदीय परंपरा के किस कोष पर आधारित है?",
+        "en": "The Consolidated Fund of India is based on which fund of the British Parliamentary system?"
+      },
+      "o": [
+        {
+          "hi": "अमेरिकी फेडरल रिजर्व कोष",
+          "en": "US Federal Reserve Fund"
+        },
+        {
+          "hi": "ब्रिटेन का 'कंसॉलिडेटेड फंड' (Consolidated Fund of the United Kingdom)",
+          "en": "Consolidated Fund of the United Kingdom"
+        },
+        {
+          "hi": "फ्रांसीसी राजकोष",
+          "en": "French Treasury"
+        },
+        {
+          "hi": "कनाडा का सामान्य राजस्व कोष",
+          "en": "Canadian General Revenue Fund"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

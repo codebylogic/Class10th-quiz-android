@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भारतीय संविधान (Indian Constitution)",
+  "subtitle": "न्यायपालिका",
+  "description": "न्यायपालिका पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारतीय संविधान में किस प्रकार की न्यायपालिका की व्यवस्था की गई है?",
+        "en": "What type of judicial system is established by the Constitution of India?"
+      },
+      "o": [
+        {
+          "hi": "एकीकृत एवं स्वतंत्र न्यायपालिका (Integrated and Independent Judiciary)",
+          "en": "Integrated and Independent Judiciary"
+        },
+        {
+          "hi": "दोहरी न्यायपालिका (अमेरिका की तरह)",
+          "en": "Dual Judiciary (like US)"
+        },
+        {
+          "hi": "संसद के अधीन न्यायपालिका",
+          "en": "Judiciary subordinate to Parliament"
+        },
+        {
+          "hi": "कार्यपालिका नियंत्रित न्यायपालिका",
+          "en": "Executive-controlled judiciary"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत के उच्चतम न्यायालय (Supreme Court of India) का उद्घाटन किस तिथि को हुआ था?",
+        "en": "On which date was the Supreme Court of India formally inaugurated?"
+      },
+      "o": [
+        {
+          "hi": "26 जनवरी 1950 को",
+          "en": "26 January 1950"
+        },
+        {
+          "hi": "28 जनवरी 1950 को",
+          "en": "28 January 1950"
+        },
+        {
+          "hi": "15 अगस्त 1947 को",
+          "en": "15 August 1947"
+        },
+        {
+          "hi": "1 अक्टूबर 1937 को",
+          "en": "1 October 1937"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मूल संविधान (1950) में उच्चतम न्यायालय के लिए मुख्य न्यायाधीश सहित कुल कितने न्यायाधीशों की व्यवस्था थी?",
+        "en": "In the original Constitution (1950), how many judges (including CJI) were provided for the Supreme Court?"
+      },
+      "o": [
+        {
+          "hi": "10 न्यायाधीश",
+          "en": "10 Judges"
+        },
+        {
+          "hi": "15 न्यायाधीश",
+          "en": "15 Judges"
+        },
+        {
+          "hi": "8 न्यायाधीश (1 मुख्य न्यायाधीश + 7 अन्य न्यायाधीश)",
+          "en": "8 Judges (1 Chief Justice + 7 other judges)"
+        },
+        {
+          "hi": "31 न्यायाधीश",
+          "en": "31 Judges"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वर्तमान (2026) में उच्चतम न्यायालय में मुख्य न्यायाधीश सहित कुल न्यायाधीशों की स्वीकृत संख्या कितनी है?",
+        "en": "What is the currently sanctioned strength of Supreme Court judges (including CJI)?"
+      },
+      "o": [
+        {
+          "hi": "31 न्यायाधीश",
+          "en": "31 Judges"
+        },
+        {
+          "hi": "30 न्यायाधीश",
+          "en": "30 Judges"
+        },
+        {
+          "hi": "26 न्यायाधीश",
+          "en": "26 Judges"
+        },
+        {
+          "hi": "34 न्यायाधीश (1 मुख्य न्यायाधीश + 33 अन्य न्यायाधीश / 2019 संशोधन अधिनियम)",
+          "en": "34 Judges (1 CJI + 33 Judges / 2019 Amendment)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उच्चतम न्यायालय के न्यायाधीशों की संख्या में वृद्धि करने की शक्ति संविधान के तहत किसे प्राप्त है?",
+        "en": "Who has the power under the Constitution to increase the number of judges in the Supreme Court?"
+      },
+      "o": [
+        {
+          "hi": "भारतीय संसद को (Parliament of India - कानून बनाकर)",
+          "en": "Parliament of India (by law)"
+        },
+        {
+          "hi": "भारत के राष्ट्रपति को",
+          "en": "President of India"
+        },
+        {
+          "hi": "भारत के मुख्य न्यायाधीश को",
+          "en": "Chief Justice of India"
+        },
+        {
+          "hi": "विधि आयोग को",
+          "en": "Law Commission"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उच्चतम न्यायालय के न्यायाधीशों की नियुक्ति संविधान के अनुच्छेद 124(2) के तहत किसके द्वारा की जाती है?",
+        "en": "By whom are the judges of the Supreme Court appointed under Article 124(2)?"
+      },
+      "o": [
+        {
+          "hi": "प्रधानमंत्री द्वारा सीधे",
+          "en": "Prime Minister directly"
+        },
+        {
+          "hi": "राष्ट्रपति द्वारा (कॉलेजियम प्रणाली की सिफारिश पर)",
+          "en": "President of India (on recommendation of Collegium)"
+        },
+        {
+          "hi": "संसद के दोनों सदनों द्वारा चुनाव से",
+          "en": "Election by Parliament"
+        },
+        {
+          "hi": "केंद्रीय कानून मंत्री द्वारा",
+          "en": "Union Law Minister"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सर्वोच्च न्यायालय के न्यायाधीशों की नियुक्ति हेतु वर्तमान में प्रचलित 'कॉलेजियम प्रणाली' में कौन-कौन शामिल होते हैं?",
+        "en": "Who comprises the Supreme Court Collegium for recommending appointments of SC judges?"
+      },
+      "o": [
+        {
+          "hi": "CJI और 2 वरिष्ठतम न्यायाधीश",
+          "en": "CJI and 2 senior-most judges"
+        },
+        {
+          "hi": "CJI, कानून मंत्री और प्रधानमंत्री",
+          "en": "CJI, Law Minister, and PM"
+        },
+        {
+          "hi": "भारत के मुख्य न्यायाधीश (CJI) और सर्वोच्च न्यायालय के 4 वरिष्ठतम न्यायाधीश",
+          "en": "Chief Justice of India (CJI) and 4 senior-most judges of Supreme Court"
+        },
+        {
+          "hi": "CJI और सभी उच्च न्यायालयों के मुख्य न्यायाधीश",
+          "en": "CJI and all HC Chief Justices"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रीय न्यायिक नियुक्ति आयोग (NJAC - 99वां संविधान संशोधन 2014) को सर्वोच्च न्यायालय ने किस वर्ष असंवैधानिक घोषित किया?",
+        "en": "In which year did Supreme Court strike down the NJAC (99th Amendment) as unconstitutional?"
+      },
+      "o": [
+        {
+          "hi": "2014 ई. में",
+          "en": "In 2014"
+        },
+        {
+          "hi": "2016 ई. में",
+          "en": "In 2016"
+        },
+        {
+          "hi": "2018 ई. में",
+          "en": "In 2018"
+        },
+        {
+          "hi": "2015 ई. में (न्यायपालिका की स्वतंत्रता को मूल ढांचा मानते हुए कॉलेजियम बहाल किया)",
+          "en": "In 2015 (Fourth Judges Case - restored collegium)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उच्चतम न्यायालय का न्यायाधीश बनने के लिए न्यूनतम आयु सीमा संविधान में क्या निर्धारित की गई है?",
+        "en": "What is the minimum age prescribed in the Constitution for appointment as an SC judge?"
+      },
+      "o": [
+        {
+          "hi": "संविधान में कोई न्यूनतम आयु सीमा निर्धारित नहीं है (No minimum age specified)",
+          "en": "No minimum age is prescribed in the Constitution"
+        },
+        {
+          "hi": "35 वर्ष",
+          "en": "35 Years"
+        },
+        {
+          "hi": "45 वर्ष",
+          "en": "45 Years"
+        },
+        {
+          "hi": "50 वर्ष",
+          "en": "50 Years"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उच्चतम न्यायालय के न्यायाधीश किस आयु तक अपने पद पर बने रहते हैं?",
+        "en": "Until what age does a Judge of the Supreme Court hold office under Article 124(2)?"
+      },
+      "o": [
+        {
+          "hi": "62 वर्ष की आयु तक",
+          "en": "Up to 62 years"
+        },
+        {
+          "hi": "65 वर्ष की आयु तक (Up to 65 years of age)",
+          "en": "Up to 65 years of age"
+        },
+        {
+          "hi": "60 वर्ष की आयु तक",
+          "en": "Up to 60 years"
+        },
+        {
+          "hi": "70 वर्ष की आयु तक",
+          "en": "Up to 70 years"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "उच्च न्यायालय (High Court) के न्यायाधीश किस आयु तक पद धारण करते हैं?",
+        "en": "Until what age does a Judge of a High Court hold office under Article 217(1)?"
+      },
+      "o": [
+        {
+          "hi": "65 वर्ष की आयु तक",
+          "en": "Up to 65 years"
+        },
+        {
+          "hi": "60 वर्ष की आयु तक",
+          "en": "Up to 60 years"
+        },
+        {
+          "hi": "62 वर्ष की आयु तक (15वें संशोधन 1963 द्वारा 60 से बढ़ाकर 62 किया गया)",
+          "en": "Up to 62 years of age (raised from 60 by 15th Amendment 1963)"
+        },
+        {
+          "hi": "58 वर्ष की आयु तक",
+          "en": "Up to 58 years"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सर्वोच्च न्यायालय के किसी न्यायाधीश को पद से हटाने के लिए संविधान में किन दो आधारों का उल्लेख है?",
+        "en": "What are the two constitutional grounds for removal of an SC/HC judge under Art 124(4)?"
+      },
+      "o": [
+        {
+          "hi": "संविधान का उल्लंघन",
+          "en": "Violation of Constitution"
+        },
+        {
+          "hi": "देशद्रोह या भ्रष्टाचार",
+          "en": "Treason or Corruption"
+        },
+        {
+          "hi": "न्यायिक गलतियां",
+          "en": "Judicial errors"
+        },
+        {
+          "hi": "सिद्ध कदाचार या असमर्थता (Proved Misbehaviour or Incapacity)",
+          "en": "Proved Misbehaviour or Incapacity"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "न्यायाधीश जांच अधिनियम (Judges Inquiry Act) किस वर्ष पारित हुआ था?",
+        "en": "In which year was the Judges (Inquiry) Act enacted to regulate the procedure for removal of judges?"
+      },
+      "o": [
+        {
+          "hi": "1968 ई. में (Judges Inquiry Act 1968)",
+          "en": "In 1968 (Judges Inquiry Act 1968)"
+        },
+        {
+          "hi": "1950 ई. में",
+          "en": "In 1950"
+        },
+        {
+          "hi": "1975 ई. में",
+          "en": "In 1975"
+        },
+        {
+          "hi": "1985 ई. में",
+          "en": "In 1985"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्वतंत्र भारत में संसद में महाभियोग जैसी निष्कासन प्रक्रिया का सामना करने वाले प्रथम सर्वोच्च न्यायालय न्यायाधीश कौन थे?",
+        "en": "Who was the first Supreme Court judge to face removal proceedings in Parliament (1991-1993)?"
+      },
+      "o": [
+        {
+          "hi": "न्यायमूर्ति सौमित्र सेन",
+          "en": "Justice Soumitra Sen"
+        },
+        {
+          "hi": "न्यायमूर्ति वी. रामास्वामी (Justice V. Ramaswami - कांग्रेस के वॉकआउट से प्रस्ताव गिरा)",
+          "en": "Justice V. Ramaswami (motion fell due to Congress abstention)"
+        },
+        {
+          "hi": "न्यायमूर्ति पी. डी. दिनाकरण",
+          "en": "Justice P. D. Dinakaran"
+        },
+        {
+          "hi": "न्यायमूर्ति दीपक मिश्रा",
+          "en": "Justice Dipak Misra"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "राज्यसभा में निष्कासन प्रस्ताव पारित होने के बाद लोकसभा में बहस से पहले इस्तीफा देने वाले कलकत्ता HC के जज कौन थे?",
+        "en": "Which Calcutta HC judge resigned in 2011 after Rajya Sabha passed removal motion before Lok Sabha voted?"
+      },
+      "o": [
+        {
+          "hi": "न्यायमूर्ति वी. रामास्वामी",
+          "en": "Justice V. Ramaswami"
+        },
+        {
+          "hi": "न्यायमूर्ति जे. बी. पारदीवाला",
+          "en": "Justice J. B. Pardiwala"
+        },
+        {
+          "hi": "न्यायमूर्ति सौमित्र सेन (Justice Soumitra Sen)",
+          "en": "Justice Soumitra Sen"
+        },
+        {
+          "hi": "न्यायमूर्ति सी. वी. नागार्जुन रेड्डी",
+          "en": "Justice C. V. Nagarjuna Reddy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत के मुख्य न्यायाधीश (CJI) का वर्तमान मासिक वेतन कितना है?",
+        "en": "What is the current monthly salary of the Chief Justice of India?"
+      },
+      "o": [
+        {
+          "hi": "₹2,50,000 प्रति माह",
+          "en": "₹2,50,000 per month"
+        },
+        {
+          "hi": "₹3,00,000 प्रति माह",
+          "en": "₹3,00,000 per month"
+        },
+        {
+          "hi": "₹3,50,000 प्रति माह",
+          "en": "₹3,50,000 per month"
+        },
+        {
+          "hi": "₹2,80,000 प्रति माह (₹2.80 Lakh/month)",
+          "en": "₹2,80,000 per month"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उच्चतम न्यायालय के अन्य न्यायाधीशों का मासिक वेतन कितना है?",
+        "en": "What is the current monthly salary of other judges of the Supreme Court?"
+      },
+      "o": [
+        {
+          "hi": "₹2,50,000 प्रति माह (₹2.50 Lakh/month)",
+          "en": "₹2,50,000 per month"
+        },
+        {
+          "hi": "₹2,80,000 प्रति माह",
+          "en": "₹2,80,000 per month"
+        },
+        {
+          "hi": "₹2,25,000 प्रति माह",
+          "en": "₹2,25,000 per month"
+        },
+        {
+          "hi": "₹2,00,000 प्रति माह",
+          "en": "₹2,00,000 per month"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उच्चतम न्यायालय के न्यायाधीशों को पद की शपथ कौन दिलाता है?",
+        "en": "Who administers the oath of office to Supreme Court judges under Article 124(6)?"
+      },
+      "o": [
+        {
+          "hi": "उपराष्ट्रपति",
+          "en": "Vice-President"
+        },
+        {
+          "hi": "भारत का राष्ट्रपति (या उसके द्वारा इस निमित्त नियुक्त व्यक्ति)",
+          "en": "President of India (or person appointed by him)"
+        },
+        {
+          "hi": "प्रधानमंत्री",
+          "en": "Prime Minister"
+        },
+        {
+          "hi": "लोकसभा अध्यक्ष",
+          "en": "Speaker of Lok Sabha"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सेवानिवृत्ति के पश्चात उच्चतम न्यायालय का कोई भी सेवानिवृत्त न्यायाधीश कहाँ वकालत कर सकता है?",
+        "en": "After retirement, where can a retired Supreme Court judge practice law under Art 124(7)?"
+      },
+      "o": [
+        {
+          "hi": "केवल उच्च न्यायालयों में कर सकता है",
+          "en": "Only in High Courts"
+        },
+        {
+          "hi": "केवल ट्रिब्यूनल में कर सकता है",
+          "en": "Only in Tribunals"
+        },
+        {
+          "hi": "भारत के किसी भी न्यायालय या अधिकरण में वकालत नहीं कर सकता (पूर्ण प्रतिबंध)",
+          "en": "Cannot plead or act in any court or authority in India (Complete bar)"
+        },
+        {
+          "hi": "राष्ट्रपति की अनुमति से सुप्रीम कोर्ट में",
+          "en": "In SC with President consent"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उच्चतम न्यायालय का स्थान सामान्यतः दिल्ली में होना संविधान के किस अनुच्छेद में है?",
+        "en": "The seat of the Supreme Court in Delhi (or other places appointed by CJI) is under which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 124",
+          "en": "Article 124"
+        },
+        {
+          "hi": "अनुच्छेद 129",
+          "en": "Article 129"
+        },
+        {
+          "hi": "अनुच्छेद 131",
+          "en": "Article 131"
+        },
+        {
+          "hi": "अनुच्छेद 130 (Article 130)",
+          "en": "Article 130"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उच्चतम न्यायालय को 'अभिलेख न्यायालय' (Court of Record) किस अनुच्छेद के तहत घोषित किया गया है?",
+        "en": "Under which Article is the Supreme Court declared to be a 'Court of Record' with power to punish for contempt?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 129 (Article 129)",
+          "en": "Article 129"
+        },
+        {
+          "hi": "अनुच्छेद 215",
+          "en": "Article 215"
+        },
+        {
+          "hi": "अनुच्छेद 131",
+          "en": "Article 131"
+        },
+        {
+          "hi": "अनुच्छेद 136",
+          "en": "Article 136"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उच्च न्यायालयों को 'अभिलेख न्यायालय' किस अनुच्छेद के तहत माना गया है?",
+        "en": "High Courts are declared Courts of Record with power to punish for contempt under which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 129",
+          "en": "Article 129"
+        },
+        {
+          "hi": "अनुच्छेद 215 (Article 215)",
+          "en": "Article 215"
+        },
+        {
+          "hi": "अनुच्छेद 226",
+          "en": "Article 226"
+        },
+        {
+          "hi": "अनुच्छेद 227",
+          "en": "Article 227"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "केंद्र और राज्यों के बीच या दो या अधिक राज्यों के बीच विवादों की सुनवाई सुप्रीम कोर्ट के किस क्षेत्राधिकार में आती है?",
+        "en": "Disputes between Centre and States or between States fall under which jurisdiction of the SC under Art 131?"
+      },
+      "o": [
+        {
+          "hi": "अपीलीय क्षेत्राधिकार (Appellate)",
+          "en": "Appellate Jurisdiction"
+        },
+        {
+          "hi": "परामर्शदायी क्षेत्राधिकार (Advisory)",
+          "en": "Advisory Jurisdiction"
+        },
+        {
+          "hi": "आरंभिक / मूल क्षेत्राधिकार (Original Jurisdiction - Article 131)",
+          "en": "Original Jurisdiction (Article 131)"
+        },
+        {
+          "hi": "विशेषाधिकार क्षेत्राधिकार",
+          "en": "Special Jurisdiction"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विशेष अनुमति याचिका (Special Leave Petition - SLP) के तहत अपील सुनने की सुप्रीम कोर्ट की असाधारण शक्ति किसमें है?",
+        "en": "Under which Article is the Supreme Court empowered to grant Special Leave to Appeal (SLP)?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 132",
+          "en": "Article 132"
+        },
+        {
+          "hi": "अनुच्छेद 133",
+          "en": "Article 133"
+        },
+        {
+          "hi": "अनुच्छेद 134",
+          "en": "Article 134"
+        },
+        {
+          "hi": "अनुच्छेद 136 (Article 136)",
+          "en": "Article 136"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उच्चतम न्यायालय को अपने ही निर्णयों या आदेशों का पुनर्विलोकन (Review of Judgments) करने की शक्ति किसमें है?",
+        "en": "Power of the Supreme Court to review its own judgments and orders is given under which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 137 (Article 137)",
+          "en": "Article 137"
+        },
+        {
+          "hi": "अनुच्छेद 136",
+          "en": "Article 136"
+        },
+        {
+          "hi": "अनुच्छेद 138",
+          "en": "Article 138"
+        },
+        {
+          "hi": "अनुच्छेद 142",
+          "en": "Article 142"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किसी मामले में 'पूर्ण न्याय' (Complete Justice) करने के लिए सर्वोच्च न्यायालय को असाधारण डिक्री/आदेश देने की शक्ति किसमें है?",
+        "en": "Under which Article can the Supreme Court pass any decree/order necessary for doing 'Complete Justice'?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 141",
+          "en": "Article 141"
+        },
+        {
+          "hi": "अनुच्छेद 142 (Article 142)",
+          "en": "Article 142"
+        },
+        {
+          "hi": "अनुच्छेद 143",
+          "en": "Article 143"
+        },
+        {
+          "hi": "अनुच्छेद 32",
+          "en": "Article 32"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "उच्चतम न्यायालय द्वारा घोषित विधि भारत के राज्यक्षेत्र के सभी न्यायालयों पर आबद्धकर (Binding) होगी, यह किस अनुच्छेद में है?",
+        "en": "Law declared by the Supreme Court shall be binding on all courts in India under which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 142",
+          "en": "Article 142"
+        },
+        {
+          "hi": "अनुच्छेद 144",
+          "en": "Article 144"
+        },
+        {
+          "hi": "अनुच्छेद 141 (Article 141)",
+          "en": "Article 141"
+        },
+        {
+          "hi": "अनुच्छेद 139",
+          "en": "Article 139"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संविधान की व्याख्या से संबंधित मामलों की सुनवाई हेतु उच्चतम न्यायालय की संविधान पीठ में कम से कम कितने जज होने चाहिए?",
+        "en": "What is the minimum number of judges required to sit on a Constitution Bench under Art 145(3)?"
+      },
+      "o": [
+        {
+          "hi": "कम से कम 3 न्यायाधीश",
+          "en": "At least 3 Judges"
+        },
+        {
+          "hi": "कम से कम 7 न्यायाधीश",
+          "en": "At least 7 Judges"
+        },
+        {
+          "hi": "कम से कम 9 न्यायाधीश",
+          "en": "At least 9 Judges"
+        },
+        {
+          "hi": "कम से कम 5 न्यायाधीश (At least 5 Judges)",
+          "en": "At least 5 Judges"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय न्यायिक इतिहास में अब तक की सबसे बड़ी संविधान पीठ किस वाद में बैठी थी?",
+        "en": "Which landmark case saw the largest Constitution Bench ever constituted (13 judges) in Indian history?"
+      },
+      "o": [
+        {
+          "hi": "केशवानंद भारती बनाम केरल राज्य (1973 - 13 जजों की पीठ, 7:6 का फैसला)",
+          "en": "Kesavananda Bharati v. State of Kerala (1973 - 13 judges)"
+        },
+        {
+          "hi": "गोलकनाथ वाद (1967 - 11 जज)",
+          "en": "Golaknath case (1967 - 11 judges)"
+        },
+        {
+          "hi": "बैंक राष्ट्रीयकरण वाद (11 जज)",
+          "en": "Bank Nationalization case"
+        },
+        {
+          "hi": "इंदिरा साहनी वाद (1992 - 9 जज)",
+          "en": "Indra Sawhney case (9 judges)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "केशवानंद भारती वाद (24 अप्रैल 1973) में सर्वोच्च न्यायालय ने कौन-सा ऐतिहासिक सिद्धांत प्रतिपादित किया?",
+        "en": "What historic doctrine was propounded by the Supreme Court in the Kesavananda Bharati case?"
+      },
+      "o": [
+        {
+          "hi": "संसदीय संप्रभुता का सिद्धांत",
+          "en": "Parliamentary Sovereignty"
+        },
+        {
+          "hi": "संविधान के मूल ढांचे का सिद्धांत (Basic Structure Doctrine)",
+          "en": "Basic Structure Doctrine"
+        },
+        {
+          "hi": "निरपेक्ष न्यायिक सर्वोच्चता",
+          "en": "Absolute Judicial Supremacy"
+        },
+        {
+          "hi": "कार्यपालिका विशेषाधिकार",
+          "en": "Executive Prerogative"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तदर्थ न्यायाधीशों (Ad-hoc Judges) की नियुक्ति केवल किस न्यायालय में और किस अनुच्छेद के तहत की जा सकती है?",
+        "en": "Ad-hoc judges can be appointed ONLY in which Court under Article 127 when quorum is lacking?"
+      },
+      "o": [
+        {
+          "hi": "केवल उच्च न्यायालयों में (अनुच्छेद 224)",
+          "en": "Only in High Courts"
+        },
+        {
+          "hi": "संसद के किसी भी सदन में",
+          "en": "Either House of Parliament"
+        },
+        {
+          "hi": "केवल उच्चतम न्यायालय में (अनुच्छेद 127 - CJI द्वारा राष्ट्रपति की सहमति से)",
+          "en": "Only in the Supreme Court (Article 127 by CJI with President consent)"
+        },
+        {
+          "hi": "केवल जिला न्यायालयों में",
+          "en": "Only District Courts"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत के प्रथम मुख्य न्यायाधीश (First Chief Justice of India) कौन थे?",
+        "en": "Who was the first Chief Justice of India?"
+      },
+      "o": [
+        {
+          "hi": "न्यायमूर्ति एम. पतंजलि शास्त्री",
+          "en": "Justice M. Patanjali Sastri"
+        },
+        {
+          "hi": "न्यायमूर्ति मेहर चंद महाजन",
+          "en": "Justice Mehr Chand Mahajan"
+        },
+        {
+          "hi": "न्यायमूर्ति सुधीरंजन दास",
+          "en": "Justice S. R. Das"
+        },
+        {
+          "hi": "न्यायमूर्ति हीरालाल जे. कनिया (H. J. Kania - 1950 से 1951)",
+          "en": "Justice Hiralal J. Kania (H. J. Kania)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत के सबसे लंबे कार्यकाल (7 वर्ष 4 माह) तक मुख्य न्यायाधीश रहने वाले व्यक्ति कौन हैं?",
+        "en": "Who was the longest-serving Chief Justice of India (7 years 4 months)?"
+      },
+      "o": [
+        {
+          "hi": "न्यायमूर्ति वाई. वी. चंद्रचूड़ (Y. V. Chandrachud - 1978 से 1985)",
+          "en": "Justice Y. V. Chandrachud (1978 to 1985)"
+        },
+        {
+          "hi": "न्यायमूर्ति डी. वाई. चंद्रचूड़",
+          "en": "Justice D. Y. Chandrachud"
+        },
+        {
+          "hi": "न्यायमूर्ति पी. एन. भगवती",
+          "en": "Justice P. N. Bhagwati"
+        },
+        {
+          "hi": "न्यायमूर्ति ए. एन. रे",
+          "en": "Justice A. N. Ray"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सबसे कम समय (मात्र 18 दिन) तक भारत के मुख्य न्यायाधीश पद पर रहने वाले न्यायमूर्ति कौन थे?",
+        "en": "Who served as Chief Justice of India for the shortest duration (just 18 days in 1991)?"
+      },
+      "o": [
+        {
+          "hi": "न्यायमूर्ति एस. राजेंद्र बाबू",
+          "en": "Justice S. Rajendra Babu"
+        },
+        {
+          "hi": "न्यायमूर्ति कमल नारायण सिंह (K. N. Singh)",
+          "en": "Justice Kamal Narain Singh (K. N. Singh)"
+        },
+        {
+          "hi": "न्यायमूर्ति जे. सी. शाह",
+          "en": "Justice J. C. Shah"
+        },
+        {
+          "hi": "न्यायमूर्ति जी. बी. पटनायक",
+          "en": "Justice G. B. Patnaik"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "उच्चतम न्यायालय में नियुक्त होने वाली प्रथम महिला न्यायाधीश कौन थीं?",
+        "en": "Who was the first female Judge of the Supreme Court of India?"
+      },
+      "o": [
+        {
+          "hi": "न्यायमूर्ति लीला सेठ",
+          "en": "Justice Leila Seth"
+        },
+        {
+          "hi": "न्यायमूर्ति ज्ञान सुधा मिश्रा",
+          "en": "Justice Gyan Sudha Misra"
+        },
+        {
+          "hi": "न्यायमूर्ति फातिमा बीवी (M. Fathima Beevi - 1989)",
+          "en": "Justice M. Fathima Beevi (1989)"
+        },
+        {
+          "hi": "न्यायमूर्ति बी. वी. नागरत्ना",
+          "en": "Justice B. V. Nagarathna"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वर्तमान में भारत में कुल कितने उच्च न्यायालय (High Courts) कार्यरत हैं?",
+        "en": "How many High Courts are currently functioning in India?"
+      },
+      "o": [
+        {
+          "hi": "24 उच्च न्यायालय",
+          "en": "24 High Courts"
+        },
+        {
+          "hi": "28 उच्च न्यायालय",
+          "en": "28 High Courts"
+        },
+        {
+          "hi": "21 उच्च न्यायालय",
+          "en": "21 High Courts"
+        },
+        {
+          "hi": "25 उच्च न्यायालय (25 High Courts)",
+          "en": "25 High Courts"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत का 25वां नवीनतम उच्च न्यायालय कौन-सा है, जिसने 1 जनवरी 2019 से कार्य प्रारंभ किया?",
+        "en": "Which is the 25th newest High Court in India, functional since 1 January 2019?"
+      },
+      "o": [
+        {
+          "hi": "आंध्र प्रदेश उच्च न्यायालय (अमरावती में)",
+          "en": "Andhra Pradesh High Court (at Amaravati)"
+        },
+        {
+          "hi": "तेलंगाना उच्च न्यायालय (हैदराबाद)",
+          "en": "Telangana High Court"
+        },
+        {
+          "hi": "त्रिपुरा उच्च न्यायालय",
+          "en": "Tripura High Court"
+        },
+        {
+          "hi": "मेघालय उच्च न्यायालय",
+          "en": "Meghalaya High Court"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1862 में भारतीय उच्च न्यायालय अधिनियम 1861 के तहत स्थापित भारत के प्रथम तीन उच्च न्यायालय कौन-से थे?",
+        "en": "Which were the first three High Courts established in India in 1862 under Indian High Courts Act 1861?"
+      },
+      "o": [
+        {
+          "hi": "इलाहाबाद, पटना और दिल्ली उच्च न्यायालय",
+          "en": "Allahabad, Patna, Delhi"
+        },
+        {
+          "hi": "कलकत्ता, बॉम्बे और मद्रास उच्च न्यायालय (कलकत्ता देश का सबसे पुराना HC)",
+          "en": "Calcutta, Bombay, and Madras High Courts (Calcutta is oldest)"
+        },
+        {
+          "hi": "लाहौर, नागपुर और पटना",
+          "en": "Lahore, Nagpur, Patna"
+        },
+        {
+          "hi": "गुवाहाटी, केरल और कर्नाटक",
+          "en": "Gauhati, Kerala, Karnataka"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "देश का चौथा उच्च न्यायालय 1866 में आगरा में स्थापित हुआ था, जिसे 1869 में कहाँ स्थानांतरित किया गया?",
+        "en": "The fourth High Court founded in 1866 at Agra was shifted in 1869 to where?"
+      },
+      "o": [
+        {
+          "hi": "लखनऊ",
+          "en": "Lucknow"
+        },
+        {
+          "hi": "वाराणसी",
+          "en": "Varanasi"
+        },
+        {
+          "hi": "इलाहाबाद (वर्तमान प्रयागराज - इलाहाबाद उच्च न्यायालय)",
+          "en": "Allahabad (Allahabad High Court)"
+        },
+        {
+          "hi": "कानपुर",
+          "en": "Kanpur"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पटना उच्च न्यायालय (Patna High Court) की स्थापना किस वर्ष हुई थी?",
+        "en": "In which year was the Patna High Court established?"
+      },
+      "o": [
+        {
+          "hi": "1912 ई. में",
+          "en": "In 1912"
+        },
+        {
+          "hi": "1919 ई. में",
+          "en": "In 1919"
+        },
+        {
+          "hi": "1925 ई. में",
+          "en": "In 1925"
+        },
+        {
+          "hi": "1916 ई. में (उद्घाटन 3 फरवरी 1916 को)",
+          "en": "In 1916 (Inaugurated 3 February 1916)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किसी उच्च न्यायालय की प्रथम महिला मुख्य न्यायाधीश बनने वाली महिला कौन थीं?",
+        "en": "Who was the first woman to be appointed as Chief Justice of a High Court?"
+      },
+      "o": [
+        {
+          "hi": "न्यायमूर्ति लीला सेठ (हिमाचल प्रदेश उच्च न्यायालय - 1991)",
+          "en": "Justice Leila Seth (Himachal Pradesh High Court - 1991)"
+        },
+        {
+          "hi": "न्यायमूर्ति अन्ना चांडी (प्रथम महिला जज)",
+          "en": "Justice Anna Chandy"
+        },
+        {
+          "hi": "न्यायमूर्ति फातिमा बीवी",
+          "en": "Justice Fathima Beevi"
+        },
+        {
+          "hi": "न्यायमूर्ति सुजाता मनोहर",
+          "en": "Justice Sujata Manohar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "देश के किसी न्यायालय (केरल जिला अदालत/उच्च न्यायालय 1959) में भारत की प्रथम महिला न्यायाधीश कौन बनी थीं?",
+        "en": "Who was the first female judge in India (appointed to Kerala High Court in 1959)?"
+      },
+      "o": [
+        {
+          "hi": "लीला सेठ",
+          "en": "Leila Seth"
+        },
+        {
+          "hi": "अन्ना चांडी (Anna Chandy)",
+          "en": "Anna Chandy"
+        },
+        {
+          "hi": "फातिमा बीवी",
+          "en": "Fathima Beevi"
+        },
+        {
+          "hi": " Cornelia Sorabji",
+          "en": "Cornelia Sorabji"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "उच्च न्यायालय के न्यायाधीशों का एक उच्च न्यायालय से दूसरे उच्च न्यायालय में स्थानांतरण (Transfer) किस अनुच्छेद में है?",
+        "en": "Transfer of a Judge from one High Court to another is made under which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 217",
+          "en": "Article 217"
+        },
+        {
+          "hi": "अनुच्छेद 224",
+          "en": "Article 224"
+        },
+        {
+          "hi": "अनुच्छेद 222 (Article 222 - राष्ट्रपति द्वारा CJI से परामर्श के बाद)",
+          "en": "Article 222 (By President after consultation with CJI)"
+        },
+        {
+          "hi": "अनुच्छेद 226",
+          "en": "Article 226"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उच्च न्यायालय को मौलिक अधिकारों तथा अन्य विधिक अधिकारों के प्रवर्तन हेतु रिट जारी करने की शक्ति किस अनुच्छेद में है?",
+        "en": "High Court's power to issue writs for enforcement of Fundamental Rights and other legal rights is under which Article?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 32",
+          "en": "Article 32"
+        },
+        {
+          "hi": "अनुच्छेद 227",
+          "en": "Article 227"
+        },
+        {
+          "hi": "अनुच्छेद 228",
+          "en": "Article 228"
+        },
+        {
+          "hi": "अनुच्छेद 226 (Article 226)",
+          "en": "Article 226"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रिट जारी करने के मामले में किसका क्षेत्राधिकार अधिक विस्तृत (व्यापक) है?",
+        "en": "Whose writ jurisdiction is wider in scope: Supreme Court (Art 32) or High Court (Art 226)?"
+      },
+      "o": [
+        {
+          "hi": "उच्च न्यायालय का (क्योंकि यह मौलिक अधिकारों के साथ-साथ सामान्य कानूनी अधिकारों हेतु भी रिट जारी कर सकता है)",
+          "en": "High Court (Art 226 covers FRs and ordinary legal rights; Art 32 only FRs)"
+        },
+        {
+          "hi": "उच्चतम न्यायालय का",
+          "en": "Supreme Court"
+        },
+        {
+          "hi": "दोनों का बिल्कुल एक समान है",
+          "en": "Both exactly identical"
+        },
+        {
+          "hi": "जिला न्यायालय का",
+          "en": "District Court"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संविधान के किस अनुच्छेद के तहत उच्च न्यायालय को अपने अधीनस्थ सभी न्यायालयों के अधीक्षण (Superintendence) की शक्ति है?",
+        "en": "Under which Article does the High Court have power of superintendence over all subordinate courts?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 226",
+          "en": "Article 226"
+        },
+        {
+          "hi": "अनुच्छेद 227 (Article 227)",
+          "en": "Article 227"
+        },
+        {
+          "hi": "अनुच्छेद 228",
+          "en": "Article 228"
+        },
+        {
+          "hi": "अनुच्छेद 233",
+          "en": "Article 233"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जिला न्यायाधीशों (District Judges) की नियुक्ति किसके द्वारा और किसके परामर्श से की जाती है?",
+        "en": "By whom and in consultation with whom are District Judges appointed under Article 233?"
+      },
+      "o": [
+        {
+          "hi": "भारत के राष्ट्रपति द्वारा सीधे",
+          "en": "By President directly"
+        },
+        {
+          "hi": "राज्य लोक सेवा आयोग द्वारा",
+          "en": "By State PSC"
+        },
+        {
+          "hi": "राज्य के राज्यपाल द्वारा संबंधित उच्च न्यायालय के परामर्श से",
+          "en": "By the Governor of the State in consultation with the High Court"
+        },
+        {
+          "hi": "मुख्यमंत्री द्वारा",
+          "en": "By Chief Minister"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लोक अदालतें (Lok Adalats) किस अधिनियम के तहत वैधानिक दर्जा प्राप्त वैकल्पिक विवाद समाधान निकाय हैं?",
+        "en": "Under which Act do Lok Adalats function with statutory status as alternative dispute resolution forums?"
+      },
+      "o": [
+        {
+          "hi": "नागरिक प्रक्रिया संहिता 1908",
+          "en": "Civil Procedure Code 1908"
+        },
+        {
+          "hi": "न्यायाधीश जांच अधिनियम 1968",
+          "en": "Judges Inquiry Act 1968"
+        },
+        {
+          "hi": "उपभोक्ता संरक्षण अधिनियम 1986",
+          "en": "Consumer Protection Act"
+        },
+        {
+          "hi": "विधिक सेवा प्राधिकरण अधिनियम 1987 (NALSA Act 1987)",
+          "en": "Legal Services Authorities Act 1987"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लोक अदालत द्वारा दिए गए फैसले (Award) के संबंध में क्या कानूनी स्थिति है?",
+        "en": "What is the legal status of an award passed by a Lok Adalat?"
+      },
+      "o": [
+        {
+          "hi": "यह दीवानी अदालत की डिक्री के समान अंतिम और बाध्यकारी होता है तथा इसके विरुद्ध कोई अपील नहीं होती",
+          "en": "Deemed civil court decree, final and binding, no appeal lies against it"
+        },
+        {
+          "hi": "इसके खिलाफ सुप्रीम कोर्ट में अपील हो सकती है",
+          "en": "Appealed to Supreme Court"
+        },
+        {
+          "hi": "यह केवल एक अनौपचारिक सलाह होती है",
+          "en": "Only informal advice"
+        },
+        {
+          "hi": "पक्षकार इसे मानने से मना कर सकते हैं",
+          "en": "Parties can reject it"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ग्राम न्यायालय अधिनियम किस वर्ष पारित किया गया था, जिसके तहत ग्रामीण क्षेत्रों में त्वरित न्याय हेतु ग्राम न्यायालय गठित होते हैं?",
+        "en": "In which year was the Gram Nyayalayas Act enacted for speedy and affordable justice in rural areas?"
+      },
+      "o": [
+        {
+          "hi": "2005 ई. में",
+          "en": "In 2005"
+        },
+        {
+          "hi": "2008 ई. में (लागू 2 अक्टूबर 2009 से)",
+          "en": "In 2008 (Effective 2 October 2009)"
+        },
+        {
+          "hi": "2010 ई. में",
+          "en": "In 2010"
+        },
+        {
+          "hi": "2000 ई. में",
+          "en": "In 2000"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

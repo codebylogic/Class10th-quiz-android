@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भारतीय संविधान (Indian Constitution)",
+  "subtitle": "संसद की वित्तीय समितियाँ",
+  "description": "संसद की वित्तीय समितियाँ पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारतीय संसद की तीन प्रमुख वित्तीय स्थायी समितियाँ (Financial Standing Committees) कौन-सी हैं?",
+        "en": "Which are the three primary financial standing committees of the Indian Parliament?"
+      },
+      "o": [
+        {
+          "hi": "लोक लेखा समिति, प्राक्कलन समिति, और सार्वजनिक उपक्रम समिति",
+          "en": "Public Accounts Committee, Estimates Committee, and Committee on Public Undertakings"
+        },
+        {
+          "hi": "नियम समिति, विशेषाधिकार समिति, याचिका समिति",
+          "en": "Rules, Privileges, Petitions committees"
+        },
+        {
+          "hi": "कार्य मंत्रणा समिति, आवास समिति, पुस्तकालय समिति",
+          "en": "BAC, Housing, Library committees"
+        },
+        {
+          "hi": "सरकारी आश्वासन समिति, अधीनस्थ विधान समिति, आचार समिति",
+          "en": "Assurances, Subordinate legislation, Ethics"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय संसद की सबसे पुरानी वित्तीय समिति कौन-सी है, जिसकी स्थापना सर्वप्रथम 1921 में हुई थी?",
+        "en": "Which is the oldest financial committee of the Indian Parliament, first set up in 1921 under GOI Act 1919?"
+      },
+      "o": [
+        {
+          "hi": "प्राक्कलन समिति",
+          "en": "Estimates Committee"
+        },
+        {
+          "hi": "लोक लेखा समिति (Public Accounts Committee - PAC)",
+          "en": "Public Accounts Committee (PAC)"
+        },
+        {
+          "hi": "सार्वजनिक उपक्रम समिति",
+          "en": "Committee on Public Undertakings"
+        },
+        {
+          "hi": "विशेषाधिकार समिति",
+          "en": "Privileges Committee"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लोक लेखा समिति (PAC) में कुल कितने सदस्य होते हैं?",
+        "en": "What is the total membership of the Public Accounts Committee (PAC)?"
+      },
+      "o": [
+        {
+          "hi": "30 सदस्य (सभी लोकसभा से)",
+          "en": "30 Members (all Lok Sabha)"
+        },
+        {
+          "hi": "15 सदस्य (10 लोकसभा + 5 राज्यसभा)",
+          "en": "15 Members (10 LS + 5 RS)"
+        },
+        {
+          "hi": "22 सदस्य (15 लोकसभा से + 7 राज्यसभा से)",
+          "en": "22 Members (15 from Lok Sabha + 7 from Rajya Sabha)"
+        },
+        {
+          "hi": "31 सदस्य (21 लोकसभा + 10 राज्यसभा)",
+          "en": "31 Members (21 LS + 10 RS)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लोक लेखा समिति के सदस्यों का चुनाव संसद के दोनों सदनों द्वारा किस प्रणाली से होता है?",
+        "en": "By which electoral system are PAC members elected annually from both Houses?"
+      },
+      "o": [
+        {
+          "hi": "लोकसभा अध्यक्ष द्वारा सीधे मनोनयन",
+          "en": "Direct nomination by Speaker"
+        },
+        {
+          "hi": "प्रधानमंत्री की सिफारिश से चुनाव",
+          "en": "Election on PM recommendation"
+        },
+        {
+          "hi": "सदन में ध्वनि मत द्वारा",
+          "en": "Voice vote in House"
+        },
+        {
+          "hi": "आनुपातिक प्रतिनिधित्व प्रणाली के अनुसार एकल संक्रमणीय मत द्वारा (PR by STV)",
+          "en": "Proportional Representation by means of Single Transferable Vote (PR by STV)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लोक लेखा समिति (PAC) के सदस्यों का कार्यकाल कितना होता है?",
+        "en": "What is the tenure of members of the Public Accounts Committee?"
+      },
+      "o": [
+        {
+          "hi": "1 वर्ष (One Year - प्रत्येक वर्ष पुनर्गठन)",
+          "en": "1 Year (Reconstituted every year)"
+        },
+        {
+          "hi": "2 वर्ष",
+          "en": "2 Years"
+        },
+        {
+          "hi": "5 वर्ष (लोकसभा के कार्यकाल तक)",
+          "en": "5 Years"
+        },
+        {
+          "hi": "3 वर्ष",
+          "en": "3 Years"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्या कोई केंद्रीय मंत्री (Minister) लोक लेखा समिति या किसी अन्य वित्तीय समिति का सदस्य निर्वाचित हो सकता है?",
+        "en": "Can a Minister be elected as a member of the Public Accounts Committee or any financial committee?"
+      },
+      "o": [
+        {
+          "hi": "हाँ, वित्त मंत्री पदेन सदस्य होते हैं",
+          "en": "Yes, Finance Minister is ex-officio"
+        },
+        {
+          "hi": "नहीं, मंत्री इसका सदस्य नहीं बन सकता (यदि कोई सदस्य मंत्री बनता है तो उसकी सदस्यता समाप्त हो जाती है)",
+          "en": "No, a Minister cannot be a member (ceases to be member if appointed minister)"
+        },
+        {
+          "hi": "हाँ, प्रधानमंत्री की अनुमति से",
+          "en": "Yes, with PM permission"
+        },
+        {
+          "hi": "केवल राज्य मंत्री बन सकते हैं",
+          "en": "Only Ministers of State can"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लोक लेखा समिति (PAC) के अध्यक्ष की नियुक्ति किसके द्वारा की जाती है?",
+        "en": "Who appoints the Chairman of the Public Accounts Committee under parliamentary rules?"
+      },
+      "o": [
+        {
+          "hi": "राज्यसभा के सभापति द्वारा",
+          "en": "By Chairman of Rajya Sabha"
+        },
+        {
+          "hi": "भारत के राष्ट्रपति द्वारा",
+          "en": "By President of India"
+        },
+        {
+          "hi": "लोकसभा के अध्यक्ष द्वारा (लोकसभा सदस्यों में से ही)",
+          "en": "By the Speaker of the Lok Sabha (from among Lok Sabha members)"
+        },
+        {
+          "hi": "समिति के सदस्यों द्वारा आपसी चुनाव से",
+          "en": "By election within committee"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1967 से चली आ रही सर्वसम्मत संसदीय परंपरा के अनुसार PAC का अध्यक्ष किसे बनाया जाता है?",
+        "en": "According to the established parliamentary convention since 1967, who is appointed as Chairman of PAC?"
+      },
+      "o": [
+        {
+          "hi": "सत्तारूढ़ दल के वरिष्ठ सांसद को",
+          "en": "Senior ruling party MP"
+        },
+        {
+          "hi": "संसदीय कार्य मंत्री को",
+          "en": "Parliamentary Affairs Minister"
+        },
+        {
+          "hi": "लोकसभा के उपाध्यक्ष को",
+          "en": "Deputy Speaker of Lok Sabha"
+        },
+        {
+          "hi": "लोकसभा में विपक्षी दल के किसी प्रमुख सदस्य/नेता को",
+          "en": "A leading member/leader from the Opposition in Lok Sabha"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1967 में इस परंपरा की शुरुआत के समय PAC के अध्यक्ष बनने वाले प्रथम विपक्षी नेता कौन थे?",
+        "en": "Who was the first Opposition leader appointed as PAC Chairman in 1967 establishing this convention?"
+      },
+      "o": [
+        {
+          "hi": "मीनू मसानी (M. R. Masani - स्वतंत्र पार्टी)",
+          "en": "M. R. Masani (Swatantra Party)"
+        },
+        {
+          "hi": "अटल बिहारी वाजपेयी",
+          "en": "Atal Bihari Vajpayee"
+        },
+        {
+          "hi": "ज्योति बसु",
+          "en": "Jyoti Basu"
+        },
+        {
+          "hi": "मुरली मनोहर जोशी",
+          "en": "Murli Manohar Joshi"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लोक लेखा समिति (PAC) का प्राथमिक कार्य क्या होता है?",
+        "en": "What is the primary function of the Public Accounts Committee (PAC)?"
+      },
+      "o": [
+        {
+          "hi": "भविष्य के बजट का अनुमान तैयार करना",
+          "en": "Draft future budget estimates"
+        },
+        {
+          "hi": "CAG द्वारा प्रस्तुत विनियोग लेखा, वित्त लेखा और अन्य ऑडिट रिपोर्टों की गहन जांच करना",
+          "en": "Scrutinize Appropriation accounts, Finance accounts and audit reports of CAG"
+        },
+        {
+          "hi": "मंत्रियों के विदेशी दौरों की मंजूरी देना",
+          "en": "Approve ministers' foreign trips"
+        },
+        {
+          "hi": "टैक्स के नए कानून बनाना",
+          "en": "Draft new tax laws"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लोक लेखा समिति की जांच का मुख्य उद्देश्य क्या सुनिश्चित करना है?",
+        "en": "What is the core objective of the PAC's examination of public expenditure?"
+      },
+      "o": [
+        {
+          "hi": "विपक्षी सांसदों को वेतन दिलाना",
+          "en": "Pay salaries to opposition"
+        },
+        {
+          "hi": "सरकारी योजनाओं का प्रचार करना",
+          "en": "Advertise govt schemes"
+        },
+        {
+          "hi": "सार्वजनिक धन संसद की मंजूरी के अनुसार, उसी मद में और बिना किसी अपव्यय/भ्रष्टाचार के खर्च हुआ है",
+          "en": "Ensure public funds were disbursed legally, within grant, and without waste or graft"
+        },
+        {
+          "hi": "न्यायाधीशों के फैसलों को पलटना",
+          "en": "Overturn court verdicts"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संसद की सबसे बड़ी स्थायी वित्तीय समिति कौन-सी है?",
+        "en": "Which is the largest financial standing committee of the Indian Parliament in terms of members?"
+      },
+      "o": [
+        {
+          "hi": "लोक लेखा समिति (22 सदस्य)",
+          "en": "Public Accounts Committee (22 members)"
+        },
+        {
+          "hi": "सार्वजनिक उपक्रम समिति (22 सदस्य)",
+          "en": "Committee on Public Undertakings (22 members)"
+        },
+        {
+          "hi": "विशेषाधिकार समिति",
+          "en": "Privileges Committee"
+        },
+        {
+          "hi": "प्राक्कलन समिति (Estimates Committee - कुल 30 सदस्य)",
+          "en": "Estimates Committee (Total 30 members)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्राक्कलन समिति (Estimates Committee) में कुल कितने सदस्य होते हैं और वे किस सदन से आते हैं?",
+        "en": "How many members are there in the Estimates Committee and from which House are they drawn?"
+      },
+      "o": [
+        {
+          "hi": "30 सदस्य, सभी केवल लोकसभा से (राज्यसभा का कोई प्रतिनिधित्व नहीं होता)",
+          "en": "30 Members, ALL from Lok Sabha only (No Rajya Sabha member)"
+        },
+        {
+          "hi": "22 सदस्य (15 लोकसभा + 7 राज्यसभा)",
+          "en": "22 Members (15 LS + 7 RS)"
+        },
+        {
+          "hi": "30 सदस्य (20 लोकसभा + 10 राज्यसभा)",
+          "en": "30 Members (20 LS + 10 RS)"
+        },
+        {
+          "hi": "15 सदस्य (सभी लोकसभा से)",
+          "en": "15 Members (all LS)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्वतंत्रता के पश्चात 1950 में प्राक्कलन समिति की स्थापना किसकी सिफारिश पर की गई थी?",
+        "en": "In 1950, on the recommendation of which Finance Minister was the Estimates Committee set up?"
+      },
+      "o": [
+        {
+          "hi": "सी. डी. देशमुख",
+          "en": "C. D. Deshmukh"
+        },
+        {
+          "hi": "जॉन मथाई (John Mathai - तत्कालीन केंद्रीय वित्त मंत्री)",
+          "en": "John Mathai (then Union Finance Minister)"
+        },
+        {
+          "hi": "आर. के. षण्मुखम चेट्टी",
+          "en": "R. K. Shanmukham Chetty"
+        },
+        {
+          "hi": "जवाहरलाल नेहरू",
+          "en": "Jawaharlal Nehru"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्राक्कलन समिति के अध्यक्ष की नियुक्ति किसके द्वारा की जाती है?",
+        "en": "Who appoints the Chairman of the Estimates Committee?"
+      },
+      "o": [
+        {
+          "hi": "प्रधानमंत्री द्वारा",
+          "en": "By Prime Minister"
+        },
+        {
+          "hi": "विपक्ष के नेता द्वारा",
+          "en": "By Leader of Opposition"
+        },
+        {
+          "hi": "लोकसभा के अध्यक्ष द्वारा (परंपरागत रूप से हमेशा सत्तारूढ़ दल से)",
+          "en": "By Speaker of Lok Sabha (conventionally always from ruling party)"
+        },
+        {
+          "hi": "राष्ट्रपति द्वारा",
+          "en": "By President"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्राक्कलन समिति को किस उपनाम से भी जाना जाता है?",
+        "en": "By which nickname is the Estimates Committee famously known?"
+      },
+      "o": [
+        {
+          "hi": "'सुपर संसद'",
+          "en": "'Super Parliament'"
+        },
+        {
+          "hi": "'वॉचडॉग ऑफ ट्रेजरी'",
+          "en": "'Watchdog of Treasury'"
+        },
+        {
+          "hi": "'मिनी कैबिनेट'",
+          "en": "'Mini Cabinet'"
+        },
+        {
+          "hi": "'सतत मितव्ययिता समिति' (Continuous Economy Committee)",
+          "en": "'Continuous Economy Committee'"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्राक्कलन समिति का मुख्य कार्य क्या होता है?",
+        "en": "What is the primary function of the Estimates Committee?"
+      },
+      "o": [
+        {
+          "hi": "बजट प्राक्कलनों की जांच करना और प्रशासनिक दक्षता व मितव्ययिता लाने हेतु वैकल्पिक नीतियों का सुझाव देना",
+          "en": "Examine budget estimates and suggest alternative policies to bring economy and efficiency"
+        },
+        {
+          "hi": "खर्च हो चुके धन का ऑडिट करना",
+          "en": "Audit already spent funds"
+        },
+        {
+          "hi": "सरकारी बैंकों को ऋण बांटना",
+          "en": "Disburse loans to banks"
+        },
+        {
+          "hi": "मंत्रियों के आचरण की जांच करना",
+          "en": "Inquire into ministers' conduct"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्राक्कलन समिति बजट के किस चरण के बाद अपनी जांच का कार्य प्रारंभ करती है?",
+        "en": "At what stage does the Estimates Committee undertake its examination of estimates?"
+      },
+      "o": [
+        {
+          "hi": "वित्तीय वर्ष समाप्त होने के बाद",
+          "en": "After financial year ends"
+        },
+        {
+          "hi": "बजट संसद में प्रस्तुत होने के बाद (इसका कार्य मरणोपरांत / पोस्ट-मॉर्टम नहीं बल्कि नीतिगत सुधार है)",
+          "en": "After Budget is presented in Parliament throughout the financial year"
+        },
+        {
+          "hi": "CAG की रिपोर्ट आने के बाद",
+          "en": "After CAG report arrives"
+        },
+        {
+          "hi": "केवल चुनाव के बाद",
+          "en": "Only after elections"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सार्वजनिक उपक्रम समिति (Committee on Public Undertakings - CoPU) की स्थापना किस वर्ष हुई थी?",
+        "en": "In which year was the Committee on Public Undertakings (CoPU) established?"
+      },
+      "o": [
+        {
+          "hi": "1950 ई. में",
+          "en": "In 1950"
+        },
+        {
+          "hi": "1974 ई. में",
+          "en": "In 1974"
+        },
+        {
+          "hi": "1964 ई. में (कृष्ण मेनन समिति की सिफारिश पर)",
+          "en": "In 1964 (on recommendation of Krishna Menon Committee)"
+        },
+        {
+          "hi": "1985 ई. में",
+          "en": "In 1985"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सार्वजनिक उपक्रम समिति (CoPU) में कुल कितने सदस्य होते हैं?",
+        "en": "What is the total membership of the Committee on Public Undertakings (CoPU)?"
+      },
+      "o": [
+        {
+          "hi": "30 सदस्य (सभी लोकसभा से)",
+          "en": "30 Members (all LS)"
+        },
+        {
+          "hi": "15 सदस्य",
+          "en": "15 Members"
+        },
+        {
+          "hi": "31 सदस्य",
+          "en": "31 Members"
+        },
+        {
+          "hi": "22 सदस्य (15 लोकसभा से + 7 राज्यसभा से / 1974 में 15 से बढ़ाकर 22 किया गया)",
+          "en": "22 Members (15 from Lok Sabha + 7 from Rajya Sabha)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सार्वजनिक उपक्रम समिति (CoPU) के अध्यक्ष की नियुक्ति किसके द्वारा की जाती है?",
+        "en": "Who appoints the Chairman of the Committee on Public Undertakings?"
+      },
+      "o": [
+        {
+          "hi": "लोकसभा के अध्यक्ष द्वारा (अनिवार्य रूप से लोकसभा सदस्यों में से ही)",
+          "en": "By Speaker of Lok Sabha (invariably from among Lok Sabha members only)"
+        },
+        {
+          "hi": "राज्यसभा के सभापति द्वारा",
+          "en": "By Chairman of Rajya Sabha"
+        },
+        {
+          "hi": "केंद्रीय भारी उद्योग मंत्री द्वारा",
+          "en": "By Heavy Industries Minister"
+        },
+        {
+          "hi": "राष्ट्रपति द्वारा",
+          "en": "By President"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सार्वजनिक उपक्रम समिति का मुख्य कार्य क्या होता है?",
+        "en": "What is the primary function of the Committee on Public Undertakings (CoPU)?"
+      },
+      "o": [
+        {
+          "hi": "निजी कंपनियों का ऑडिट करना",
+          "en": "Audit private firms"
+        },
+        {
+          "hi": "सार्वजनिक उपक्रमों (PSUs) के प्रतिवेदनों, खातों और उन पर CAG की वाणिज्यिक ऑडिट रिपोर्टों की जांच करना",
+          "en": "Examine reports, accounts and CAG commercial audit reports of Public Undertakings"
+        },
+        {
+          "hi": "नए सार्वजनिक उपक्रमों की स्थापना करना",
+          "en": "Establish new PSUs"
+        },
+        {
+          "hi": "पीएसयू के उत्पादों की कीमतें तय करना",
+          "en": "Fix PSU product prices"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्या लोक लेखा समिति (PAC) और प्राक्कलन समिति (Estimates) को 'जुड़वां बहनें' (Twin Sisters) कहा जाता है?",
+        "en": "Are the Public Accounts Committee and Estimates Committee described as 'Twin Sisters'?"
+      },
+      "o": [
+        {
+          "hi": "नहीं, दोनों एक दूसरे की विरोधी हैं",
+          "en": "No, they are rivals"
+        },
+        {
+          "hi": "केवल CoPU और PAC जुड़वां बहनें हैं",
+          "en": "Only CoPU and PAC are twins"
+        },
+        {
+          "hi": "हाँ, क्योंकि दोनों एक-दूसरे के कार्यों की पूरक हैं (प्राक्कलन नीतिगत मितव्ययिता देखती है, PAC खर्च की जांच)",
+          "en": "Yes, because their works are complementary to ensure financial accountability"
+        },
+        {
+          "hi": "संविधान में ऐसा कोई उल्लेख नहीं है",
+          "en": "No mention in rules"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संसद की कौन-सी वित्तीय समिति सरकारी नीतियों के औचित्य पर सीधे प्रश्न नहीं उठा सकती?",
+        "en": "Which limitation applies to the Public Accounts Committee (PAC)?"
+      },
+      "o": [
+        {
+          "hi": "यह किसी भी अधिकारी को समन नहीं कर सकती",
+          "en": "Cannot summon officers"
+        },
+        {
+          "hi": "यह संसद को रिपोर्ट नहीं सौंप सकती",
+          "en": "Cannot submit report to Parliament"
+        },
+        {
+          "hi": "यह किसी दस्तावेज की मांग नहीं कर सकती",
+          "en": "Cannot demand documents"
+        },
+        {
+          "hi": "यह संसद द्वारा स्वीकृत मूल नीति पर प्रश्न नहीं उठा सकती, केवल उसके वित्तीय क्रियान्वयन की जांच करती है",
+          "en": "Cannot question broad policy approved by Parliament; evaluates only financial implementation"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वित्तीय समितियों के पास साक्षियों को बुलाने और दस्तावेज मंगाने की कौन-सी शक्ति होती है?",
+        "en": "What investigative power is exercised by parliamentary financial committees?"
+      },
+      "o": [
+        {
+          "hi": "दीवानी अदालत (Civil Court) के समान व्यक्तियों को समन करने और रिकॉर्ड मांगने की शक्ति",
+          "en": "Power like a Civil Court to summon persons and require production of records"
+        },
+        {
+          "hi": "पुलिस की तरह सीधे जेल भेजने की शक्ति",
+          "en": "Power to jail directly like police"
+        },
+        {
+          "hi": "बैंक खातों को सीधे सील करने की शक्ति",
+          "en": "Power to freeze bank accounts"
+        },
+        {
+          "hi": "मंत्रियों को सीधे बर्खास्त करने की शक्ति",
+          "en": "Power to dismiss ministers"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसदीय समितियों की सिफारिशें सरकार के लिए किस प्रकार की होती हैं?",
+        "en": "What is the legal nature of recommendations made by parliamentary financial committees?"
+      },
+      "o": [
+        {
+          "hi": "कानूनी रूप से पूर्णतः बाध्यकारी",
+          "en": "Legally binding"
+        },
+        {
+          "hi": "सलाहकारी (Advisory - बाध्यकारी नहीं, किंतु सरकार को कार्रवाई रिपोर्ट ATR देनी होती है)",
+          "en": "Advisory in nature (not legally binding, but Govt must submit Action Taken Report)"
+        },
+        {
+          "hi": "सर्वोच्च न्यायालय के आदेश समान",
+          "en": "Like SC decree"
+        },
+        {
+          "hi": "सरकार के लिए पूर्णतः उपेक्षणीय",
+          "en": "Can be ignored completely"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संसद की विभिन्न मंत्रालयों से जुड़ी 'विभागीय स्थायी समितियों' (DRSCs) की कुल संख्या वर्तमान में कितनी है?",
+        "en": "How many Departmentally Related Standing Committees (DRSCs) are functional in Parliament currently?"
+      },
+      "o": [
+        {
+          "hi": "17 समितियाँ",
+          "en": "17 Committees"
+        },
+        {
+          "hi": "20 समितियाँ",
+          "en": "20 Committees"
+        },
+        {
+          "hi": "24 समितियाँ (16 लोकसभा के अधीन + 8 राज्यसभा के अधीन / 1993 में शुरू)",
+          "en": "24 Committees (16 under Lok Sabha + 8 under Rajya Sabha / Started 1993)"
+        },
+        {
+          "hi": "30 समितियाँ",
+          "en": "30 Committees"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रत्येक विभागीय स्थायी समिति (DRSC) में कुल कितने सदस्य होते हैं?",
+        "en": "What is the total membership of each Departmentally Related Standing Committee (DRSC)?"
+      },
+      "o": [
+        {
+          "hi": "22 सदस्य (15 लोकसभा + 7 राज्यसभा)",
+          "en": "22 Members (15 LS + 7 RS)"
+        },
+        {
+          "hi": "30 सदस्य (सभी लोकसभा)",
+          "en": "30 Members (all LS)"
+        },
+        {
+          "hi": "45 सदस्य (30 लोकसभा + 15 राज्यसभा)",
+          "en": "45 Members (30 LS + 15 RS)"
+        },
+        {
+          "hi": "31 सदस्य (21 लोकसभा से + 10 राज्यसभा से)",
+          "en": "31 Members (21 from Lok Sabha + 10 from Rajya Sabha)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विभागीय स्थायी समितियों (DRSCs) का सबसे महत्वपूर्ण वित्तीय कार्य क्या होता है?",
+        "en": "What is the most significant financial function performed by the 24 DRSCs during budget recess?"
+      },
+      "o": [
+        {
+          "hi": "संबद्ध मंत्रालयों की अनुदान की मांगों (Demands for Grants) की विस्तृत संवीक्षा करना",
+          "en": "Detailed scrutiny of Demands for Grants of concerned ministries during recess"
+        },
+        {
+          "hi": "बजट को अंतिम रूप से पारित करना",
+          "en": "Finally passing budget"
+        },
+        {
+          "hi": "टैक्स के नए स्लैब तय करना",
+          "en": "Fixing new tax slabs"
+        },
+        {
+          "hi": "संसदीय वेतन बिल बनाना",
+          "en": "Drafting MP salary bill"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लोक लेखा समिति (PAC) की बैठकों में CAG किस रूप में उपस्थित होकर सहायता करता है?",
+        "en": "In what capacity does the CAG attend PAC meetings to assist in examining audit reports?"
+      },
+      "o": [
+        {
+          "hi": "समिति के पूर्ण मतदान सदस्य के रूप में",
+          "en": "Full voting member"
+        },
+        {
+          "hi": "विशेषज्ञ सलाहकार और मार्गदर्शक (Friend, Philosopher and Guide) के रूप में",
+          "en": "As an expert advisor and guide (Friend, Philosopher and Guide)"
+        },
+        {
+          "hi": "समिति के अध्यक्ष के रूप में",
+          "en": "Committee Chairman"
+        },
+        {
+          "hi": "सरकारी गवाह के रूप में",
+          "en": "Prosecution witness"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सार्वजनिक उपक्रम समिति (CoPU) किन उपक्रमों की जांच नहीं कर सकती?",
+        "en": "Which matters are outside the purview of the Committee on Public Undertakings (CoPU)?"
+      },
+      "o": [
+        {
+          "hi": "पीएसयू के वित्तीय खातों की जांच",
+          "en": "Financial audit of PSUs"
+        },
+        {
+          "hi": "पीएसयू की दक्षता रिपोर्ट",
+          "en": "Efficiency reports"
+        },
+        {
+          "hi": "सरकार की वृहद राष्ट्रीय नीतियां और उपक्रमों के दिन-प्रतिदिन के वाणिज्यिक प्रशासन के मामले",
+          "en": "Matters of major government policy and day-to-day commercial administration"
+        },
+        {
+          "hi": "सीएजी की वाणिज्यिक रिपोर्ट",
+          "en": "CAG commercial reports"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संसद की कौन-सी समिति सरकार के 'आधिक्य अनुदान' (Excess Grants) की जांच करती है?",
+        "en": "Which parliamentary committee scrutinizes Excess Grants before they are regularized by Parliament?"
+      },
+      "o": [
+        {
+          "hi": "प्राक्कलन समिति",
+          "en": "Estimates Committee"
+        },
+        {
+          "hi": "सार्वजनिक उपक्रम समिति",
+          "en": "CoPU"
+        },
+        {
+          "hi": "नियम समिति",
+          "en": "Rules Committee"
+        },
+        {
+          "hi": "लोक लेखा समिति (Public Accounts Committee - PAC)",
+          "en": "Public Accounts Committee (PAC)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यदि संसद की किसी वित्तीय समिति में कोई विवाद उत्पन्न हो, तो अंतिम निर्णय किसका होता है?",
+        "en": "In case of any dispute or doubt regarding committee procedure, whose decision is final?"
+      },
+      "o": [
+        {
+          "hi": "लोकसभा के अध्यक्ष का (Speaker of Lok Sabha)",
+          "en": "Speaker of the Lok Sabha"
+        },
+        {
+          "hi": "समिति के अध्यक्ष का",
+          "en": "Committee Chairman"
+        },
+        {
+          "hi": "संसदीय कार्य मंत्री का",
+          "en": "Parliamentary Affairs Minister"
+        },
+        {
+          "hi": "भारत के मुख्य न्यायाधीश का",
+          "en": "Chief Justice of India"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसदीय वित्तीय समितियों की रिपोर्टें कहाँ प्रस्तुत की जाती हैं?",
+        "en": "Where are the reports of the parliamentary financial committees formally presented?"
+      },
+      "o": [
+        {
+          "hi": "केवल राष्ट्रपति भवन में",
+          "en": "Only in Rashtrapati Bhavan"
+        },
+        {
+          "hi": "संसद के दोनों सदनों के पटल पर (प्राक्कलन समिति केवल लोकसभा में)",
+          "en": "Laid on the Table of both Houses (Estimates Committee only in Lok Sabha)"
+        },
+        {
+          "hi": "सर्वोच्च न्यायालय की रजिस्ट्री में",
+          "en": "In SC Registry"
+        },
+        {
+          "hi": "प्रेस कॉन्फ्रेंस में सीधे",
+          "en": "Directly in press conference"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वित्तीय समितियों के समक्ष साक्ष्य देने के लिए उपस्थित होने वाले प्रमुख अधिकारी कौन होते हैं?",
+        "en": "Who are the chief officials summoned to depose and answer queries before financial committees?"
+      },
+      "o": [
+        {
+          "hi": "संबंधित विभाग के कैबिनेट मंत्री स्वयं",
+          "en": "Cabinet Ministers personally"
+        },
+        {
+          "hi": "सर्वोच्च न्यायालय के न्यायाधीश",
+          "en": "Supreme Court judges"
+        },
+        {
+          "hi": "संबंधित मंत्रालयों के सचिव और विभागों के प्रशासनिक प्रमुख",
+          "en": "Secretaries of line ministries and administrative heads of departments"
+        },
+        {
+          "hi": "जिला कलेक्टर",
+          "en": "District Collectors"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "क्या किसी मंत्री को वित्तीय समिति के समक्ष साक्ष्य देने हेतु बुलाया जा सकता है?",
+        "en": "Under parliamentary rules, can a Minister be called to depose before a financial committee?"
+      },
+      "o": [
+        {
+          "hi": "हाँ, प्रत्येक मंत्री का उपस्थित होना अनिवार्य है",
+          "en": "Yes, mandatory for every minister"
+        },
+        {
+          "hi": "केवल वित्त मंत्री को बुलाया जा सकता है",
+          "en": "Only Finance Minister summoned"
+        },
+        {
+          "hi": "विपक्ष के नेता की अनुमति से बुलाया जा सकता है",
+          "en": "Summoned on LoP consent"
+        },
+        {
+          "hi": "नहीं, मंत्रियों को साक्ष्य देने या दस्तावेज प्रस्तुत करने हेतु समिति द्वारा नहीं बुलाया जाता",
+          "en": "No, Ministers are not summoned to give evidence or produce documents"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्राक्कलन समिति में पहली बार 30 सदस्य किस वर्ष किए गए थे?",
+        "en": "In which year was the membership of the Estimates Committee increased from 25 to 30?"
+      },
+      "o": [
+        {
+          "hi": "1956 ई. में (1950 में मूलतः 25 सदस्य थे)",
+          "en": "In 1956 (originally 25 members in 1950)"
+        },
+        {
+          "hi": "1964 ई. में",
+          "en": "In 1964"
+        },
+        {
+          "hi": "1974 ई. में",
+          "en": "In 1974"
+        },
+        {
+          "hi": "1980 ई. में",
+          "en": "In 1980"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लोक लेखा समिति (PAC) और सार्वजनिक उपक्रम समिति (CoPU) में राज्यसभा के सदस्यों को क्या मतदान का अधिकार होता है?",
+        "en": "Do Rajya Sabha members have equal voting rights inside PAC and CoPU meetings?"
+      },
+      "o": [
+        {
+          "hi": "नहीं, राज्यसभा सदस्य केवल दर्शक होते हैं",
+          "en": "No, RS members only spectators"
+        },
+        {
+          "hi": "हाँ, समिति की आंतरिक बैठकों में राज्यसभा और लोकसभा दोनों के सदस्यों को समान अधिकार प्राप्त हैं",
+          "en": "Yes, within the committee all members have equal rights and voting powers"
+        },
+        {
+          "hi": "केवल रिपोर्ट तैयार करते समय अधिकार होता है",
+          "en": "Only while drafting report"
+        },
+        {
+          "hi": "केवल अध्यक्ष की अनुमति से वोट कर सकते हैं",
+          "en": "Vote on Chairman permission"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्राक्कलन समिति में राज्यसभा का कोई सदस्य शामिल न होने का मुख्य संवैधानिक कारण क्या है?",
+        "en": "Why are Rajya Sabha members excluded from the Estimates Committee?"
+      },
+      "o": [
+        {
+          "hi": "राज्यसभा के पास समय नहीं होता",
+          "en": "Rajya Sabha has no time"
+        },
+        {
+          "hi": "संविधान सभा ने भूलवश छोड़ दिया",
+          "en": "Omitted by mistake"
+        },
+        {
+          "hi": "क्योंकि बजट और अनुदान मांगों पर मतदान का अनन्य संवैधानिक अधिकार केवल लोकसभा के पास है",
+          "en": "Because voting on Budget and Demands for Grants is the exclusive privilege of Lok Sabha"
+        },
+        {
+          "hi": "राज्यसभा के सदस्य अर्थशास्त्र नहीं जानते",
+          "en": "RS members don't know economics"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संसदीय वित्तीय समितियों की बैठकें सामान्यतः किस रूप में आयोजित होती हैं?",
+        "en": "In what environment are meetings of parliamentary financial committees conducted?"
+      },
+      "o": [
+        {
+          "hi": "प्रेस और मीडिया के सामने खुली बहस",
+          "en": "Open debate before press"
+        },
+        {
+          "hi": "जनसभाओं के रूप में मैदान में",
+          "en": "Public rallies in grounds"
+        },
+        {
+          "hi": "टेलीविजन पर लाइव प्रसारण",
+          "en": "Live broadcast on TV"
+        },
+        {
+          "hi": "गैर-पक्षपाती और शांत वातावरण में गोपनीय रूप से (In-Camera)",
+          "en": "Confidentially in-camera in a non-partisan and calm atmosphere"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संसदीय समितियों में दलगत राजनीति (Party Politics) से ऊपर उठकर कार्य करने का क्या कारण है?",
+        "en": "Why do parliamentary committees function across party lines in a non-partisan manner?"
+      },
+      "o": [
+        {
+          "hi": "सदन के सूक्ष्म रूप में कार्यपालिका की जवाबदेही तय करने का सामूहिक विधायी दायित्व",
+          "en": "Collective legislative responsibility to ensure executive accountability in miniature"
+        },
+        {
+          "hi": "सांसदों को अतिरिक्त भत्ता मिलना",
+          "en": "Extra allowances to MPs"
+        },
+        {
+          "hi": "सदन में भाषण देने से बचना",
+          "en": "Avoiding speech in House"
+        },
+        {
+          "hi": "पार्टी व्हिप लागू न होना",
+          "en": "Absence of party whip"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सार्वजनिक उपक्रम समिति की प्रथम अध्यक्ष कौन बनी थीं?",
+        "en": "Who was the first Chairman of the Committee on Public Undertakings in 1964?"
+      },
+      "o": [
+        {
+          "hi": "कृष्ण मेनन",
+          "en": "Krishna Menon"
+        },
+        {
+          "hi": "पं. गोविंद वल्लभ पंत के सहयोगी / पी. गोविंद मेनन (P. Govinda Menon)",
+          "en": "P. Govinda Menon (1964-1965)"
+        },
+        {
+          "hi": "जी. वी. मावलंकर",
+          "en": "G. V. Mavalankar"
+        },
+        {
+          "hi": "मीनू मसानी",
+          "en": "M. R. Masani"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लोक लेखा समिति (PAC) की जांच को किस प्रकार का कार्य माना जाता है?",
+        "en": "The scrutiny conducted by PAC is characterized by political scientists as what type of work?"
+      },
+      "o": [
+        {
+          "hi": "अग्रिम स्वीकृति कार्य",
+          "en": "Prior sanction work"
+        },
+        {
+          "hi": "न्यायिक सजा सुनाने का कार्य",
+          "en": "Judicial sentencing"
+        },
+        {
+          "hi": "मरणोपरांत जांच / पूर्वव्यापी कार्य (Post-mortem Work - खर्च हो जाने के बाद की जांच)",
+          "en": "Post-mortem work (evaluating expenditure after it has occurred)"
+        },
+        {
+          "hi": "विधेयक का मसौदा तैयार करना",
+          "en": "Drafting legislation"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्राक्कलन समिति की सीमाओं में कौन-सी सीमा शामिल है?",
+        "en": "Which of the following is a recognized limitation of the Estimates Committee?"
+      },
+      "o": [
+        {
+          "hi": "यह किसी भी अधिकारी से सवाल नहीं पूछ सकती",
+          "en": "Cannot question any officer"
+        },
+        {
+          "hi": "इसके पास कोई कर्मचारी नहीं होता",
+          "en": "Has no staff"
+        },
+        {
+          "hi": "इसकी रिपोर्ट संसद में नहीं रखी जाती",
+          "en": "Report not tabled in Parliament"
+        },
+        {
+          "hi": "यह केवल चुनिंदा मंत्रालयों के प्राक्कलनों की ही जांच कर पाती है (सभी की एक वर्ष में नहीं)",
+          "en": "Examines estimates of only selected ministries each year (not all at once)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "क्या वित्तीय समितियों के पास किसी अधिकारी को भ्रष्टाचार में सीधे दंडित करने का अधिकार है?",
+        "en": "Do parliamentary financial committees have the power to punish corrupt officials directly?"
+      },
+      "o": [
+        {
+          "hi": "नहीं, ये केवल संसद को सिफारिश कर सकती हैं, दंडात्मक कार्रवाई सरकार या अदालत करती है",
+          "en": "No, they can only recommend; punitive action is taken by Govt or courts"
+        },
+        {
+          "hi": "हाँ, वे सीधे 5 साल की जेल भेज सकती हैं",
+          "en": "Yes, can jail for 5 years directly"
+        },
+        {
+          "hi": "हाँ, सीधे संपत्ति कुर्क कर सकती हैं",
+          "en": "Can attach property directly"
+        },
+        {
+          "hi": "केवल बर्खास्त करने का आदेश दे सकती हैं",
+          "en": "Can order dismissal directly"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसदीय समितियों द्वारा दी गई सिफारिशों पर मंत्रालय को कितने समय के भीतर अपनी 'कार्रवाई रिपोर्ट' (ATR) देनी होती है?",
+        "en": "Within what time is a Ministry required to send Action Taken Notes on committee recommendations?"
+      },
+      "o": [
+        {
+          "hi": "1 माह के भीतर",
+          "en": "Within 1 Month"
+        },
+        {
+          "hi": "सामान्यतः 6 माह के भीतर (Within 6 Months)",
+          "en": "Conventionally within 6 Months"
+        },
+        {
+          "hi": "14 दिन के भीतर",
+          "en": "Within 14 Days"
+        },
+        {
+          "hi": "2 वर्ष के भीतर",
+          "en": "Within 2 Years"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विभागीय स्थायी समितियों (DRSCs) द्वारा बजट अनुदान मांगों की जांच के दौरान संसद की कार्यवाही किस स्थिति में रहती है?",
+        "en": "What happens to Parliament sittings while DRSCs examine Demands for Grants in budget session?"
+      },
+      "o": [
+        {
+          "hi": "संसद सामान्य रूप से चलती रहती है",
+          "en": "Parliament runs normally"
+        },
+        {
+          "hi": "संसद का सत्रावसान कर दिया जाता है",
+          "en": "Parliament prorogued"
+        },
+        {
+          "hi": "संसद 3 से 4 सप्ताह के लिए स्थगित (Recess) रहती है ताकि समितियां गहन जांच कर सकें",
+          "en": "Parliament adjourns for a 3-4 week recess to enable deep committee scrutiny"
+        },
+        {
+          "hi": "लोकसभा भंग हो जाती है",
+          "en": "Lok Sabha dissolves"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संसद की वित्तीय समितियाँ कार्यपालिका पर विधायी नियंत्रण का कौन-सा सबसे सशक्त उपकरण मानी जाती हैं?",
+        "en": "Financial committees are regarded as the most powerful instrument of what in parliamentary democracy?"
+      },
+      "o": [
+        {
+          "hi": "न्यायपालिका पर अंकुश लगाने का",
+          "en": "Checking the judiciary"
+        },
+        {
+          "hi": "राष्ट्रपति की शक्तियों को सीमित करने का",
+          "en": "Limiting presidential powers"
+        },
+        {
+          "hi": "सैनिक खर्च बढ़ाने का",
+          "en": "Increasing military spending"
+        },
+        {
+          "hi": "वित्तीय जवाबदेही और सार्वजनिक धन के सदुपयोग का सतत विधायी नियंत्रण",
+          "en": "Continuous legislative control of financial accountability and probity"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संसद की वित्तीय समितियों का सचिवालयी कार्य किसके द्वारा संभाला जाता है?",
+        "en": "Secretariat support to all three financial committees (PAC, Estimates, CoPU) is provided by?"
+      },
+      "o": [
+        {
+          "hi": "लोकसभा सचिवालय (Lok Sabha Secretariat)",
+          "en": "Lok Sabha Secretariat"
+        },
+        {
+          "hi": "राज्यसभा सचिवालय",
+          "en": "Rajya Sabha Secretariat"
+        },
+        {
+          "hi": "संसदीय कार्य मंत्रालय",
+          "en": "Ministry of Parliamentary Affairs"
+        },
+        {
+          "hi": "केंद्रीय वित्त मंत्रालय",
+          "en": "Ministry of Finance"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसदीय वित्तीय समितियों की कुल प्रभावशीलता किस बात पर निर्भर करती है?",
+        "en": "What underpins the democratic efficacy of parliamentary financial committees in India?"
+      },
+      "o": [
+        {
+          "hi": "समितियों के पास हथियार होना",
+          "en": "Committees having arms"
+        },
+        {
+          "hi": "संसद में उनकी रिपोर्टों पर सार्थक बहस, सरकार द्वारा ATR का त्वरित अनुपालन और नैतिक प्रभाव",
+          "en": "Meaningful debate on reports, prompt ATR compliance by Govt, and moral moral authority"
+        },
+        {
+          "hi": "न्यायालयों में सीधे केस लड़ना",
+          "en": "Fighting cases in court"
+        },
+        {
+          "hi": "विदेशी ऑडिटरों पर निर्भरता",
+          "en": "Relying on foreign auditors"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}
