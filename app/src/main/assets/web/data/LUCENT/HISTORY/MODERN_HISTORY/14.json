@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - आधुनिक भारत (Modern India)",
+  "subtitle": "स्वतंत्रता आन्दोलन से संबंधित प्रकाशित पत्र, पत्रिकाएँ एवं पुस्तकें",
+  "description": "स्वतंत्रता आन्दोलन से संबंधित प्रकाशित पत्र, पत्रिकाएँ एवं पुस्तकें (बंगाल गजट, केसरी, अल-हिलाल, यंग इंडिया, आनंदमठ, डिस्कवरी ऑफ इंडिया) पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारत में प्रकाशित होने वाला प्रथम समाचार पत्र कौन-सा था जिसे 1780 ई. में कलकत्ता से निकाला गया?",
+        "en": "Which was the very first newspaper published in India, launched from Calcutta in 1780 AD?"
+      },
+      "o": [
+        {
+          "hi": "द बंगाल गजट (The Bengal Gazette / जेम्स ऑगस्टस हिक्की)",
+          "en": "The Bengal Gazette (James Augustus Hicky)"
+        },
+        {
+          "hi": "इंडिया गजट",
+          "en": "India Gazette"
+        },
+        {
+          "hi": "कलकत्ता गजट",
+          "en": "Calcutta Gazette"
+        },
+        {
+          "hi": "द हिंदू",
+          "en": "The Hindu"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय पत्रकारिता का अग्रदूत (Father of Indian Journalism) किसे माना जाता है?",
+        "en": "Who is celebrated as the 'Pioneer / Father of Indian National Journalism'?"
+      },
+      "o": [
+        {
+          "hi": "राजा राममोहन राय (Raja Ram Mohan Roy)",
+          "en": "Raja Ram Mohan Roy"
+        },
+        {
+          "hi": "दादाभाई नौरोजी",
+          "en": "Dadabhai Naoroji"
+        },
+        {
+          "hi": "बाल गंगाधर तिलक",
+          "en": "Bal Gangadhar Tilak"
+        },
+        {
+          "hi": "शिशिर कुमार घोष",
+          "en": "Shishir Kumar Ghosh"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राजा राममोहन राय द्वारा 1821 ई. में बांग्ला भाषा में प्रकाशित प्रसिद्ध साप्ताहिक पत्र कौन-सा था?",
+        "en": "Which famous Bengali weekly was founded by Raja Ram Mohan Roy in 1821?"
+      },
+      "o": [
+        {
+          "hi": "संवाद कौमुदी (Sambad Kaumudi - सती प्रथा विरोधी)",
+          "en": "Sambad Kaumudi (Anti-Sati crusade)"
+        },
+        {
+          "hi": "मिरात-उल-अखबार",
+          "en": "Mirat-ul-Akhbar"
+        },
+        {
+          "hi": "बंगदूत",
+          "en": "Bangaduta"
+        },
+        {
+          "hi": "सोम प्रकाश",
+          "en": "Soma Prakasha"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राजा राममोहन राय द्वारा 1822 ई. में प्रकाशित भारत का प्रथम फारसी साप्ताहिक पत्र कौन-सा था?",
+        "en": "Which was the first Persian weekly newspaper in India published by Ram Mohan Roy in 1822?"
+      },
+      "o": [
+        {
+          "hi": "मिरात-उल-अखबार (Mirat-ul-Akhbar - बुद्धि का दर्पण)",
+          "en": "Mirat-ul-Akhbar (Mirror of Intellect)"
+        },
+        {
+          "hi": "जामे जमशेद",
+          "en": "Jame Jamshed"
+        },
+        {
+          "hi": "तहजीब-उल-अखलाक",
+          "en": "Tahzib-ul-Akhlaq"
+        },
+        {
+          "hi": "अल-हिलाल",
+          "en": "Al-Hilal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दादाभाई नौरोजी द्वारा 1851 ई. में बंबई से निकाला गया प्रसिद्ध गुजराती समाचार पत्र कौन-सा था?",
+        "en": "Which famous reformist Anglo-Gujarati paper was founded by Dadabhai Naoroji in 1851?"
+      },
+      "o": [
+        {
+          "hi": "रास्त गोफ्तार (Rast Goftar - सच कहने वाला)",
+          "en": "Rast Goftar (The Truth Teller)"
+        },
+        {
+          "hi": "बॉम्बे समाचार",
+          "en": "Bombay Samachar"
+        },
+        {
+          "hi": "ज्ञान प्रसारक",
+          "en": "Gyan Prasarak"
+        },
+        {
+          "hi": "हिंदुस्तान",
+          "en": "Hindustan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ईश्वरचंद्र विद्यासागर द्वारा 1859 ई. में शुरू किया गया प्रसिद्ध बांग्ला समाचार पत्र कौन-सा था?",
+        "en": "Which famous Bengali newspaper advocating widow remarriage was started by Vidyasagar in 1859?"
+      },
+      "o": [
+        {
+          "hi": "सोम प्रकाश (Soma Prakasha)",
+          "en": "Soma Prakasha"
+        },
+        {
+          "hi": "संवाद प्रभाकर",
+          "en": "Sambad Prabhakar"
+        },
+        {
+          "hi": "तत्वबोधिनी पत्रिका",
+          "en": "Tattvabodhini Patrika"
+        },
+        {
+          "hi": "बंगदर्शन",
+          "en": "Bangadarshan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लॉर्ड लिटन का 1878 का कुख्यात 'वर्नाक्युलर प्रेस एक्ट' विशेष रूप से किस समाचार पत्र को रोकने हेतु लाया गया था?",
+        "en": "Against which defiant Bengali paper was Lytton's Vernacular Press Act 1878 specifically aimed?"
+      },
+      "o": [
+        {
+          "hi": "सोम प्रकाश (Soma Prakasha)",
+          "en": "Soma Prakasha"
+        },
+        {
+          "hi": "अमृत बाजार पत्रिका",
+          "en": "Amrita Bazar Patrika"
+        },
+        {
+          "hi": "द हिंदू",
+          "en": "The Hindu"
+        },
+        {
+          "hi": "केसरी",
+          "en": "Kesari"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वर्नाक्युलर प्रेस एक्ट (1878) से बचने के लिए रातोंरात बांग्ला से अंग्रेजी में बदलने वाला पत्र कौन-सा था?",
+        "en": "Which newspaper miraculously switched overnight from Bengali to English to escape Lytton's Act?"
+      },
+      "o": [
+        {
+          "hi": "अमृत बाजार पत्रिका (Amrita Bazar Patrika - शिशिर कुमार घोष)",
+          "en": "Amrita Bazar Patrika (Shishir Kumar Ghosh)"
+        },
+        {
+          "hi": "सोम प्रकाश",
+          "en": "Soma Prakasha"
+        },
+        {
+          "hi": "संवाद कौमुदी",
+          "en": "Sambad Kaumudi"
+        },
+        {
+          "hi": "हिंदू पेट्रियट",
+          "en": "Hindu Patriot"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लोकमान्य बाल गंगाधर तिलक ने 1881 ई. में बंबई से किन दो ऐतिहासिक समाचार पत्रों का संपादन किया?",
+        "en": "Which two historic revolutionary newspapers were founded by Lokmanya Tilak in 1881?"
+      },
+      "o": [
+        {
+          "hi": "केसरी (मराठी में) और मराठा (अंग्रेजी में)",
+          "en": "Kesari (in Marathi) and The Mahratta (in English)"
+        },
+        {
+          "hi": "युगांतर और संध्या",
+          "en": "Yugantar and Sandhya"
+        },
+        {
+          "hi": "नवजीवन और यंग इंडिया",
+          "en": "Navjivan and Young India"
+        },
+        {
+          "hi": "अल-हिलाल और कामरेड",
+          "en": "Al-Hilal and Comrade"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1912 ई. में कलकत्ता से क्रांतिकारी उर्दू साप्ताहिक 'अल-हिलाल' (Al-Hilal) किसने निकाला था?",
+        "en": "Who launched the revolutionary Urdu weekly 'Al-Hilal' from Calcutta in 1912?"
+      },
+      "o": [
+        {
+          "hi": "मौलाना अबुल कलाम आजाद (Maulana Abul Kalam Azad)",
+          "en": "Maulana Abul Kalam Azad"
+        },
+        {
+          "hi": "मोहम्मद अली जिन्ना",
+          "en": "Muhammad Ali Jinnah"
+        },
+        {
+          "hi": "मौलाना मुहम्मद अली",
+          "en": "Maulana Muhammad Ali"
+        },
+        {
+          "hi": "सर सैयद अहमद खां",
+          "en": "Sir Syed Ahmad Khan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "श्रीमती एनी बेसेंट द्वारा 1914-1915 ई. में मद्रास से प्रकाशित दो प्रसिद्ध पत्र कौन-से थे?",
+        "en": "Which two influential newspapers were published by Annie Besant to propagate Home Rule?"
+      },
+      "o": [
+        {
+          "hi": "कॉमनवील और न्यू इंडिया (Commonweal and New India)",
+          "en": "Commonweal and New India"
+        },
+        {
+          "hi": "यंग इंडिया और नवजीवन",
+          "en": "Young India and Navjivan"
+        },
+        {
+          "hi": "केसरी और मराठा",
+          "en": "Kesari and Mahratta"
+        },
+        {
+          "hi": "हरिजन और इंडियन ओपिनियन",
+          "en": "Harijan and Indian Opinion"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "महात्मा गांधी ने 1903 ई. में दक्षिण अफ्रीका में किस प्रसिद्ध समाचार पत्र की स्थापना की थी?",
+        "en": "Which iconic multilingual newspaper did Mahatma Gandhi found in South Africa in 1903?"
+      },
+      "o": [
+        {
+          "hi": "इंडियन ओपिनियन (Indian Opinion)",
+          "en": "Indian Opinion"
+        },
+        {
+          "hi": "यंग इंडिया",
+          "en": "Young India"
+        },
+        {
+          "hi": "नवजीवन",
+          "en": "Navjivan"
+        },
+        {
+          "hi": "हरिजन",
+          "en": "Harijan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गांधीजी ने भारत लौटने के बाद किन प्रसिद्ध समाचार पत्रों का संपादन किया?",
+        "en": "Which prominent journals did Mahatma Gandhi edit in India guiding the freedom movement?"
+      },
+      "o": [
+        {
+          "hi": "यंग इंडिया, नवजीवन और हरिजन (Young India, Navjivan, Harijan)",
+          "en": "Young India, Navjivan and Harijan"
+        },
+        {
+          "hi": "केसरी और मराठा",
+          "en": "Kesari and Mahratta"
+        },
+        {
+          "hi": "अल-हिलाल और अल-बलाग",
+          "en": "Al-Hilal and Al-Balagh"
+        },
+        {
+          "hi": "द पायनियर और स्टेट्समैन",
+          "en": "The Pioneer and The Statesman"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "डॉ. भीमराव आंबेडकर ने 1920 ई. में दलित चेतना जगाने हेतु किस प्रसिद्ध मराठी पाक्षिक पत्र को शुरू किया?",
+        "en": "Which landmark Marathi journal was launched by Dr. B.R. Ambedkar in 1920 for Dalit rights?"
+      },
+      "o": [
+        {
+          "hi": "बहिष्कृत भारत",
+          "en": "Bahishkrit Bharat"
+        },
+        {
+          "hi": "मूकनायक (Mooknayak - गूंगों का नेता)",
+          "en": "Mooknayak (Leader of the Voiceless)"
+        },
+        {
+          "hi": "जनता",
+          "en": "Janata"
+        },
+        {
+          "hi": "प्रबुद्ध भारत",
+          "en": "Prabuddha Bharat"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "डॉ. बी.आर. आंबेडकर द्वारा 1927 ई. में शुरू किया गया प्रसिद्ध पाक्षिक पत्र कौन-सा था?",
+        "en": "Which influential fortnightly journal was started by Dr. B.R. Ambedkar in April 1927?"
+      },
+      "o": [
+        {
+          "hi": "मूकनायक",
+          "en": "Mooknayak"
+        },
+        {
+          "hi": "बहिष्कृत भारत (Bahishkrit Bharat)",
+          "en": "Bahishkrit Bharat"
+        },
+        {
+          "hi": "समता",
+          "en": "Samata"
+        },
+        {
+          "hi": "हरिजन",
+          "en": "Harijan"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पंडित जवाहरलाल नेहरू ने 1938 ई. में लखनऊ से किस प्रसिद्ध अंग्रेजी दैनिक पत्र की स्थापना की?",
+        "en": "Which famous English daily newspaper was founded by Pt. Jawaharlal Nehru in Lucknow in 1938?"
+      },
+      "o": [
+        {
+          "hi": "द ट्रिब्यून",
+          "en": "The Tribune"
+        },
+        {
+          "hi": "नेशनल हेराल्ड (National Herald)",
+          "en": "National Herald"
+        },
+        {
+          "hi": "द हिंदू",
+          "en": "The Hindu"
+        },
+        {
+          "hi": "द स्टेट्समैन",
+          "en": "The Statesman"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1919 ई. में इलाहाबाद से 'इंडिपेंडेंट' (Independent) नामक अंग्रेजी दैनिक पत्र किसने निकाला था?",
+        "en": "Who founded and published the nationalist daily 'Independent' from Allahabad in 1919?"
+      },
+      "o": [
+        {
+          "hi": "जवाहरलाल नेहरू",
+          "en": "Jawaharlal Nehru"
+        },
+        {
+          "hi": "पंडित मोतीलाल नेहरू (Pt. Motilal Nehru)",
+          "en": "Pt. Motilal Nehru"
+        },
+        {
+          "hi": "सी.आर. दास",
+          "en": "C.R. Das"
+        },
+        {
+          "hi": "मदन मोहन मालवीय",
+          "en": "Madan Mohan Malaviya"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लाहौर से 'द पीपल' (The People) और 'अनहैप्पी इंडिया' पुस्तक के रचयिता कौन थे?",
+        "en": "Who was the author of the scathing exposure 'Unhappy India' and editor of 'The People'?"
+      },
+      "o": [
+        {
+          "hi": "भगत सिंह",
+          "en": "Bhagat Singh"
+        },
+        {
+          "hi": "लाला लाजपत राय (Lala Lajpat Rai)",
+          "en": "Lala Lajpat Rai"
+        },
+        {
+          "hi": "बिपिन चंद्र पाल",
+          "en": "Bipin Chandra Pal"
+        },
+        {
+          "hi": "बाल गंगाधर तिलक",
+          "en": "Bal Gangadhar Tilak"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मंडालय जेल (बर्मा) में 6 वर्ष के कारावास के दौरान तिलक ने किस अमर दार्शनिक ग्रंथ की रचना की?",
+        "en": "During 6 years of rigorous imprisonment at Mandalay Jail, which epic did Tilak compose?"
+      },
+      "o": [
+        {
+          "hi": "अनहैप्पी इंडिया",
+          "en": "Unhappy India"
+        },
+        {
+          "hi": "श्रीमद्भगवद्गीता रहस्य (Gita Rahasya - कर्मयोग शास्त्र)",
+          "en": "Gita Rahasya (Karma Yoga Shastra)"
+        },
+        {
+          "hi": "द आर्कटिक होम इन द वेदाज",
+          "en": "The Arctic Home in the Vedas"
+        },
+        {
+          "hi": "सत्यार्थ प्रकाश",
+          "en": "Satyarth Prakash"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पंडित जवाहरलाल नेहरू ने अहमदनगर दुर्ग जेल में 1944 ई. में किस विश्वप्रसिद्ध पुस्तक की रचना की?",
+        "en": "Which world-famous classic book was authored by Nehru while imprisoned in Ahmednagar Fort (1944)?"
+      },
+      "o": [
+        {
+          "hi": "ग्लिम्प्सस ऑफ वर्ल्ड हिस्ट्री",
+          "en": "Glimpses of World History"
+        },
+        {
+          "hi": "द डिस्कवरी ऑफ इंडिया (भारत की खोज / Discovery of India)",
+          "en": "The Discovery of India"
+        },
+        {
+          "hi": "मेरी कहानी",
+          "en": "An Autobiography"
+        },
+        {
+          "hi": "सोवियत रूस",
+          "en": "Soviet Russia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत के प्रथम राष्ट्रपति डॉ. राजेंद्र प्रसाद द्वारा रचित सुप्रसिद्ध ऐतिहासिक पुस्तक कौन-सी है?",
+        "en": "Which masterly historical work was written by Dr. Rajendra Prasad analyzing communal politics?"
+      },
+      "o": [
+        {
+          "hi": "डिस्कवरी ऑफ इंडिया",
+          "en": "Discovery of India"
+        },
+        {
+          "hi": "इंडिया डिवाइडेड (India Divided - 1946 ई.)",
+          "en": "India Divided (1946 AD)"
+        },
+        {
+          "hi": "इंडिया विन्स फ्रीडम",
+          "en": "India Wins Freedom"
+        },
+        {
+          "hi": "अनहैप्पी इंडिया",
+          "en": "Unhappy India"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मौलाना अबुल कलाम आजाद की प्रसिद्ध आत्मकथात्मक पुस्तक कौन-सी है?",
+        "en": "Which celebrated political autobiographical treatise was authored by Maulana Abul Kalam Azad?"
+      },
+      "o": [
+        {
+          "hi": "इंडिया डिवाइडेड",
+          "en": "India Divided"
+        },
+        {
+          "hi": "इंडिया विन्स फ्रीडम (India Wins Freedom)",
+          "en": "India Wins Freedom"
+        },
+        {
+          "hi": "गुबार-ए-खातिर",
+          "en": "Ghubar-i-Khatir"
+        },
+        {
+          "hi": "अल-हिलाल",
+          "en": "Al-Hilal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "महात्मा गांधी ने 1909 ई. में लंदन से दक्षिण अफ्रीका लौटते समय जहाज पर कौन-सी पुस्तक गुजराती में लिखी?",
+        "en": "Which seminal philosophical book did Gandhi write in Gujarati aboard ship in 1909?"
+      },
+      "o": [
+        {
+          "hi": "सत्य के मेरे प्रयोग",
+          "en": "The Story of My Experiments with Truth"
+        },
+        {
+          "hi": "हिंद स्वराज (Hind Swaraj / Indian Home Rule)",
+          "en": "Hind Swaraj (Indian Home Rule)"
+        },
+        {
+          "hi": "सर्वोदय",
+          "en": "Sarvodaya"
+        },
+        {
+          "hi": "गीता माता",
+          "en": "Gita Mata"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नेताजी सुभाष चंद्र बोस द्वारा 1920 से 1942 के राष्ट्रीय आंदोलन पर लिखी गई प्रसिद्ध पुस्तक कौन-सी है?",
+        "en": "Which authoritative analytical book on India's struggle was authored by Netaji Subhas Bose?"
+      },
+      "o": [
+        {
+          "hi": "आनंदमठ",
+          "en": "Anandamath"
+        },
+        {
+          "hi": "द इंडियन स्ट्रगल (The Indian Struggle - 1935/1942)",
+          "en": "The Indian Struggle"
+        },
+        {
+          "hi": "भारत दुर्दशा",
+          "en": "Bharat Durdasha"
+        },
+        {
+          "hi": "इंकलाब",
+          "en": "Inquilab"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्वामी दयानंद सरस्वती द्वारा 1875 ई. में हिंदी भाषा में रचित आर्य समाज का आधारभूत ग्रंथ कौन-सा है?",
+        "en": "Which foundational scripture of Arya Samaj was written in Hindi by Swami Dayananda in 1875?"
+      },
+      "o": [
+        {
+          "hi": "वेद भाष्य",
+          "en": "Veda Bhashya"
+        },
+        {
+          "hi": "सत्यार्थ प्रकाश (Satyarth Prakash - सत्य का प्रकाश)",
+          "en": "Satyarth Prakash (Light of Truth)"
+        },
+        {
+          "hi": "ऋग्वेदादिभाष्यभूमिका",
+          "en": "Rigvedadibhashyabhumika"
+        },
+        {
+          "hi": "संस्कार विधि",
+          "en": "Sanskar Vidhi"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्रांतिकारियों की 'बाइबल' कही जाने वाली पुस्तक 'बंदी जीवन' (Bandi Jiwan) के लेखक कौन थे?",
+        "en": "Who was the author of the revolutionary handbook 'Bandi Jiwan' (A Life of Captivity)?"
+      },
+      "o": [
+        {
+          "hi": "भगत सिंह",
+          "en": "Bhagat Singh"
+        },
+        {
+          "hi": "शचींद्रनाथ सान्याल (Sachindra Nath Sanyal)",
+          "en": "Sachindra Nath Sanyal"
+        },
+        {
+          "hi": "रामप्रसाद बिस्मिल",
+          "en": "Ramprasad Bismil"
+        },
+        {
+          "hi": "वी.डी. सावरकर",
+          "en": "V.D. Savarkar"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मैथिलीशरण गुप्त द्वारा रचित वह प्रसिद्ध काव्य-ग्रंथ कौन-सा है जिसने स्वतंत्रता सेनानियों को प्रेरित किया?",
+        "en": "Which renowned patriotic poetic work of Maithili Sharan Gupt electrified the freedom movement?"
+      },
+      "o": [
+        {
+          "hi": "साकेत",
+          "en": "Saket"
+        },
+        {
+          "hi": "यशोधरा",
+          "en": "Yashodhara"
+        },
+        {
+          "hi": "भारत भारती (Bharat Bharati - 1912 ई.)",
+          "en": "Bharat Bharati (1912 AD)"
+        },
+        {
+          "hi": "पंचवटी",
+          "en": "Panchavati"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मुंशी प्रेमचंद का वह प्रसिद्ध कहानी संग्रह कौन-सा था जिसे अंग्रेजों ने देशद्रोही घोषित कर जब्त कर लिया?",
+        "en": "Which story anthology of Munshi Premchand was banned & burned by the British for sedition?"
+      },
+      "o": [
+        {
+          "hi": "गोदान",
+          "en": "Godan"
+        },
+        {
+          "hi": "गबन",
+          "en": "Gaban"
+        },
+        {
+          "hi": "सोझे वतन (Soz-e-Watan - 1908 ई.)",
+          "en": "Soz-e-Watan (1908 AD)"
+        },
+        {
+          "hi": "कर्मभूमि",
+          "en": "Karmabhumi"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कवि प्रदीप द्वारा रचित प्रसिद्ध अमर गीत 'ऐ मेरे वतन के लोगों' को किसने अमर स्वर दिया?",
+        "en": "Who lent her immortal, tearful voice to Kavi Pradeep's song 'Aye Mere Watan Ke Logo' (1963)?"
+      },
+      "o": [
+        {
+          "hi": "आशा भोंसले",
+          "en": "Asha Bhosle"
+        },
+        {
+          "hi": "गीता दत्त",
+          "en": "Geeta Dutt"
+        },
+        {
+          "hi": "स्वर कोकिला लता मंगेशकर (Lata Mangeshkar)",
+          "en": "Lata Mangeshkar"
+        },
+        {
+          "hi": "एम.एस. सुब्बुलक्ष्मी",
+          "en": "M.S. Subbulakshmi"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महान वैज्ञानिक सर प्रफुल्ल चंद्र राय ने भारतीय विज्ञान के इतिहास पर कौन-सी पुस्तक लिखी?",
+        "en": "Which classic work on the history of Indian science was written by Acharya P.C. Ray in 1902?"
+      },
+      "o": [
+        {
+          "hi": "माय लाइफ",
+          "en": "My Life"
+        },
+        {
+          "hi": "भारत का विज्ञान",
+          "en": "Science of India"
+        },
+        {
+          "hi": "हिस्ट्री ऑफ हिंदू केमिस्ट्री (History of Hindu Chemistry)",
+          "en": "History of Hindu Chemistry"
+        },
+        {
+          "hi": "रसायन शास्त्र",
+          "en": "Rasayana Shastra"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रवींद्रनाथ टैगोर के किस प्रसिद्ध उपन्यास पर भारत के राष्ट्रीय आंदोलन की पृष्ठभूमि चित्रित है?",
+        "en": "Which celebrated novel of Rabindranath Tagore reflects the nationalist conflict in Bengal?"
+      },
+      "o": [
+        {
+          "hi": "काबुलीवाला",
+          "en": "Kabuliwala"
+        },
+        {
+          "hi": "नौकाडूबी",
+          "en": "Noukadubi"
+        },
+        {
+          "hi": "गोरा एवं घरे-बाईरे (Gora & Ghare Baire)",
+          "en": "Gora and Ghare Baire"
+        },
+        {
+          "hi": "चोखेर बाली",
+          "en": "Chokher Bali"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शरतचंद्र चट्टोपाध्याय का वह प्रसिद्ध क्रांतिकारी उपन्यास कौन-सा था जिसे अंग्रेजों ने प्रतिबंधित किया?",
+        "en": "Which revolutionary novel by Sarat Chandra Chattopadhyay was banned by the British in 1926?"
+      },
+      "o": [
+        {
+          "hi": "देवदास",
+          "en": "Devdas"
+        },
+        {
+          "hi": "चरित्रहीन",
+          "en": "Charitraheen"
+        },
+        {
+          "hi": "पाथेर दाबी (Pather Dabi - पथ के दावेदार)",
+          "en": "Pather Dabi (The Right of the Road)"
+        },
+        {
+          "hi": "श्रीकांत",
+          "en": "Srikanta"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1882 ई. में मद्रास से अंग्रेजी दैनिक समाचार पत्र 'द हिंदू' (The Hindu) की स्थापना किसने की थी?",
+        "en": "Who founded the premier nationalist daily 'The Hindu' at Madras as a weekly in 1878?"
+      },
+      "o": [
+        {
+          "hi": "सी. राजगोपालाचारी",
+          "en": "C. Rajagopalachari"
+        },
+        {
+          "hi": "टी.एम. नायर",
+          "en": "T.M. Nair"
+        },
+        {
+          "hi": "जी. सुब्रमण्यम अय्यर एवं एम. वीरराघवाचारी",
+          "en": "G. Subramania Iyer and M. Veeraraghavachariar"
+        },
+        {
+          "hi": "चिदंबरम पिल्लई",
+          "en": "Chidambaram Pillai"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मदरसा शिक्षा और मुस्लिम समाज में आधुनिक ज्ञान के प्रचार हेतु 'तहजीब-उल-अखलाक' किसने निकाली?",
+        "en": "Who published the influential reformist journal 'Tahzib-ul-Akhlaq' (Social Reformer)?"
+      },
+      "o": [
+        {
+          "hi": "मौलाना आजाद",
+          "en": "Maulana Azad"
+        },
+        {
+          "hi": "अल्ताफ हुसैन हाली",
+          "en": "Altaf Hussain Hali"
+        },
+        {
+          "hi": "सर सैयद अहमद खां (Sir Syed Ahmad Khan - 1870 ई.)",
+          "en": "Sir Syed Ahmad Khan (1870 AD)"
+        },
+        {
+          "hi": "मुहम्मद अली",
+          "en": "Muhammad Ali"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1910 ई. में 'प्रताप' (Pratap) नामक निर्भीक क्रांतिकारी हिंदी समाचार पत्र कानपुर से किसने शुरू किया?",
+        "en": "Who launched the fearless revolutionary Hindi newspaper 'Pratap' from Kanpur in 1913?"
+      },
+      "o": [
+        {
+          "hi": "माखनलाल चतुर्वेदी",
+          "en": "Makhanlal Chaturvedi"
+        },
+        {
+          "hi": "बालकृष्ण शर्मा नवीन",
+          "en": "Balkrishna Sharma Naveen"
+        },
+        {
+          "hi": "गणेश शंकर विद्यार्थी (Ganesh Shankar Vidyarthi)",
+          "en": "Ganesh Shankar Vidyarthi"
+        },
+        {
+          "hi": "शिवप्रसाद गुप्त",
+          "en": "Shiv Prasad Gupta"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रसिद्ध देशभक्ति कविता 'पुष्प की अभिलाषा' (मुझे तोड़ लेना वनमाली...) के रचयिता कौन थे?",
+        "en": "Who composed the immortal patriotic poem 'Pushp Ki Abhilasha' (एक भारतीय आत्मा)?"
+      },
+      "o": [
+        {
+          "hi": "रामधारी सिंह दिनकर",
+          "en": "Ramdhari Singh Dinkar"
+        },
+        {
+          "hi": "मैथिलीशरण गुप्त",
+          "en": "Maithili Sharan Gupt"
+        },
+        {
+          "hi": "पंडित माखनलाल चतुर्वेदी (Makhanlal Chaturvedi)",
+          "en": "Pt. Makhanlal Chaturvedi"
+        },
+        {
+          "hi": "सुभद्रा कुमारी चौहान",
+          "en": "Subhadra Kumari Chauhan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रसिद्ध वीर रस कविता 'खूब लड़ी मर्दानी वह तो झांसी वाली रानी थी' की रचयिता कौन थीं?",
+        "en": "Who composed the electrifying ballad 'Jhansi Ki Rani' celebrating Lakshmibai's valour?"
+      },
+      "o": [
+        {
+          "hi": "महादेवी वर्मा",
+          "en": "Mahadevi Varma"
+        },
+        {
+          "hi": "सरोजिनी नायडू",
+          "en": "Sarojini Naidu"
+        },
+        {
+          "hi": "सुभद्रा कुमारी चौहान (Subhadra Kumari Chauhan)",
+          "en": "Subhadra Kumari Chauhan"
+        },
+        {
+          "hi": "ताराबाई शिंदे",
+          "en": "Tarabai Shinde"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रकवि रामधारी सिंह 'दिनकर' की वह कौन-सी प्रसिद्ध ओजस्वी काव्य-कृति है जो क्रांति की हुंकार है?",
+        "en": "Which fiery patriotic poetic work of Rashtrakavi Ramdhari Singh 'Dinkar' inspired the masses?"
+      },
+      "o": [
+        {
+          "hi": "उर्वशी",
+          "en": "Urvashi"
+        },
+        {
+          "hi": "रश्मिरथी",
+          "en": "Rashmirathi"
+        },
+        {
+          "hi": "हुंकार एवं कुरुक्षेत्र (Hunkar & Kurukshetra)",
+          "en": "Hunkar and Kurukshetra"
+        },
+        {
+          "hi": "रेणुका",
+          "en": "Renuka"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महात्मा गांधी की प्रसिद्ध आत्मकथा 'सत्य के मेरे प्रयोग' मूल रूप से किस भाषा में लिखी गई थी?",
+        "en": "In which original language was Mahatma Gandhi's autobiography 'My Experiments with Truth' written?"
+      },
+      "o": [
+        {
+          "hi": "हिंदी भाषा में",
+          "en": "In Hindi"
+        },
+        {
+          "hi": "अंग्रेजी भाषा में",
+          "en": "In English"
+        },
+        {
+          "hi": "मराठी भाषा में",
+          "en": "In Marathi"
+        },
+        {
+          "hi": "गुजराती भाषा में (Gujarati Language - अनुवाद महादेव देसाई)",
+          "en": "Gujarati Language (translated by Mahadev Desai)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गांधीजी की आत्मकथा 'सत्य के प्रयोग' का गुजराती से अंग्रेजी में उत्कृष्ट अनुवाद किसने किया था?",
+        "en": "Who translated Gandhi's autobiography from Gujarati into English?"
+      },
+      "o": [
+        {
+          "hi": "प्यारेलाल",
+          "en": "Pyarelal"
+        },
+        {
+          "hi": "सी.एफ. एंड्रयूज",
+          "en": "C.F. Andrews"
+        },
+        {
+          "hi": "काका कालेलकर",
+          "en": "Kaka Kalelkar"
+        },
+        {
+          "hi": "महादेव देसाई (Mahadev Desai)",
+          "en": "Mahadev Desai"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1906 में अरविंद घोष ने किस प्रसिद्ध अंग्रेजी दैनिक पत्र का संपादन कर क्रांतिकारियों को प्रेरित किया?",
+        "en": "Which fiery English daily did Sri Aurobindo edit from Calcutta starting in 1906?"
+      },
+      "o": [
+        {
+          "hi": "द स्टेट्समैन",
+          "en": "The Statesman"
+        },
+        {
+          "hi": "अमृत बाजार पत्रिका",
+          "en": "Amrita Bazar Patrika"
+        },
+        {
+          "hi": "द हिंदू",
+          "en": "The Hindu"
+        },
+        {
+          "hi": "वंदे मातरम् (Vande Mataram Daily)",
+          "en": "Vande Mataram Daily"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विनायक दामोदर सावरकर ने 1857 की क्रांति पर अपनी महान पुस्तक किस मूल भाषा में लिखी थी?",
+        "en": "In which original language did Veer Savarkar write 'The First War of Indian Independence 1857'?"
+      },
+      "o": [
+        {
+          "hi": "हिंदी में",
+          "en": "In Hindi"
+        },
+        {
+          "hi": "अंग्रेजी में",
+          "en": "In English"
+        },
+        {
+          "hi": "गुजराती में",
+          "en": "In Gujarati"
+        },
+        {
+          "hi": "मराठी भाषा में (Marathi Language - अंग्रेजी अनुवाद 1909)",
+          "en": "Marathi Language (English translation in 1909)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सरोजिनी नायडू (भारत कोकिला) द्वारा अंग्रेजी में रचित प्रसिद्ध कविता संग्रह कौन-सा है?",
+        "en": "Which famous collection of English poetry was composed by Sarojini Naidu ('Nightingale of India')?"
+      },
+      "o": [
+        {
+          "hi": "गीतांजलि",
+          "en": "Gitanjali"
+        },
+        {
+          "hi": "द गोल्डन थ्रेशोल्ड",
+          "en": "The Golden Threshold"
+        },
+        {
+          "hi": "द बर्ड ऑफ टाइम",
+          "en": "The Bird of Time"
+        },
+        {
+          "hi": "द ब्रोकन विंग एवं द गोल्डन थ्रेशोल्ड (The Broken Wing)",
+          "en": "The Broken Wing & The Golden Threshold"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रवींद्रनाथ टैगोर को 1913 में किस विश्वविख्यात काव्य संग्रह हेतु साहित्य का नोबेल पुरस्कार मिला?",
+        "en": "For which world-renowned poetic masterpiece did Rabindranath Tagore win the 1913 Nobel Prize?"
+      },
+      "o": [
+        {
+          "hi": "गोरा",
+          "en": "Gora"
+        },
+        {
+          "hi": "घरे-बाईरे",
+          "en": "Ghare Baire"
+        },
+        {
+          "hi": "चोखेर बाली",
+          "en": "Chokher Bali"
+        },
+        {
+          "hi": "गीतांजलि (Gitanjali - Song Offerings)",
+          "en": "Gitanjali (Song Offerings)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रवींद्रनाथ टैगोर एशिया के प्रथम नोबेल पुरस्कार विजेता थे, गीतांजलि की भूमिका किसने लिखी थी?",
+        "en": "Tagore was the first Asian Nobel laureate; who wrote the celebrated introduction to Gitanjali?"
+      },
+      "o": [
+        {
+          "hi": "मैक्स मूलर",
+          "en": "Max Muller"
+        },
+        {
+          "hi": "टी.एस. एलियट",
+          "en": "T.S. Eliot"
+        },
+        {
+          "hi": "जॉर्ज बर्नार्ड शॉ",
+          "en": "George Bernard Shaw"
+        },
+        {
+          "hi": "डब्ल्यू. बी. यीट्स (W.B. Yeats - आयरिश कवि)",
+          "en": "W.B. Yeats (Irish poet)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1906 ई. में बरिंद्र कुमार घोष और भूपेंद्रनाथ दत्त ने बंगाल से कौन-सा क्रांतिकारी पत्र निकाला?",
+        "en": "Which fiery Bengali revolutionary weekly was founded in 1906 advocating direct armed revolt?"
+      },
+      "o": [
+        {
+          "hi": "संध्या",
+          "en": "Sandhya"
+        },
+        {
+          "hi": "संवाद कौमुदी",
+          "en": "Sambad Kaumudi"
+        },
+        {
+          "hi": "तत्त्वबोधिनी",
+          "en": "Tattvabodhini"
+        },
+        {
+          "hi": "युगांतर (Yugantar Patrika)",
+          "en": "Yugantar (Yugantar Patrika)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लाहौर से उर्दू दैनिक 'प्रताप' और 'मिलाप' किस ऐतिहासिक आंदोलन के दौरान मुखपत्र बने?",
+        "en": "Which community reform and freedom movement did Lahore's 'Pratap' and 'Milap' champion?"
+      },
+      "o": [
+        {
+          "hi": "खिलाफत आंदोलन",
+          "en": "Khilafat movement"
+        },
+        {
+          "hi": "थियोसोफिकल आंदोलन",
+          "en": "Theosophical movement"
+        },
+        {
+          "hi": "ब्रह्म समाज",
+          "en": "Brahmo Samaj"
+        },
+        {
+          "hi": "आर्य समाज एवं राष्ट्रीय स्वतंत्रता आंदोलन (Arya Samaj)",
+          "en": "Arya Samaj and Freedom Movement"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मदन मोहन मालवीय द्वारा 1909 ई. में इलाहाबाद से शुरू किया गया प्रसिद्ध दैनिक पत्र कौन-सा था?",
+        "en": "Which influential Hindi/English nationalist daily was started by Pt. Madan Mohan Malaviya in 1909?"
+      },
+      "o": [
+        {
+          "hi": "प्रताप",
+          "en": "Pratap"
+        },
+        {
+          "hi": "आज",
+          "en": "Aaj"
+        },
+        {
+          "hi": "दैनिक जागरण",
+          "en": "Dainik Jagran"
+        },
+        {
+          "hi": "द लीडर एवं अभ्युदय (The Leader & Abhyudaya)",
+          "en": "The Leader and Abhyudaya"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शिवप्रसाद गुप्त द्वारा 1920 में वाराणसी से प्रारंभ किया गया प्रसिद्ध हिंदी दैनिक पत्र कौन-सा था?",
+        "en": "Which historic Hindi daily newspaper was established in Varanasi by Shiv Prasad Gupta in 1920?"
+      },
+      "o": [
+        {
+          "hi": "हिंदुस्तान",
+          "en": "Hindustan"
+        },
+        {
+          "hi": "नवभारत",
+          "en": "Navbharat"
+        },
+        {
+          "hi": "अमर उजाला",
+          "en": "Amar Ujala"
+        },
+        {
+          "hi": "दैनिक 'आज' (Dainik Aaj)",
+          "en": "Dainik 'Aaj'"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्वतंत्रता आंदोलन में समाचार पत्रों और साहित्य का सबसे अमूल्य योगदान क्या था?",
+        "en": "What was the most invaluable historical role played by press and literature in the freedom struggle?"
+      },
+      "o": [
+        {
+          "hi": "केवल विज्ञापन देना",
+          "en": "Only advertising"
+        },
+        {
+          "hi": "अंग्रेजी सरकार का समर्थन करना",
+          "en": "Supporting British rule"
+        },
+        {
+          "hi": "विदेशी संस्कृति का प्रचार करना",
+          "en": "Promoting foreign culture"
+        },
+        {
+          "hi": "जन-जागरण, राष्ट्रवाद का प्रसार, ब्रिटिश शोषण का पर्दाफाश और जन-आंदोलनों को संगठित करना",
+          "en": "Awakening national consciousness, exposing colonial drain & mobilizing masses"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}

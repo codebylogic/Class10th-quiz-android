@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विश्व इतिहास (World History)",
+  "subtitle": "औद्योगिक क्रांति",
+  "description": "औद्योगिक क्रांति (इंग्लैंड से शुरुआत, प्रमुख आविष्कार- फ्लाइंग शटल, स्पिनिंग जेनी, भाप इंजन, रेलवे, सामाजिक व आर्थिक प्रभाव) पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "विश्व में 'औद्योगिक क्रांति' (Industrial Revolution) का सर्वप्रथम सूत्रपात किस देश में हुआ था?",
+        "en": "In which country did the Industrial Revolution originally begin in the mid-18th century?"
+      },
+      "o": [
+        {
+          "hi": "इंग्लैंड / ब्रिटेन में (England / Britain - 1760 ई.)",
+          "en": "England / Britain (c. 1760 AD)"
+        },
+        {
+          "hi": "फ्रांस में",
+          "en": "France"
+        },
+        {
+          "hi": "जर्मनी में",
+          "en": "Germany"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका में",
+          "en": "United States"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "औद्योगिक क्रांति की शुरुआत सर्वप्रथम किस उद्योग के मशीनीकरण से हुई थी?",
+        "en": "With the mechanization of which industry did the Industrial Revolution initially commence?"
+      },
+      "o": [
+        {
+          "hi": "सूती वस्त्र उद्योग (Cotton Textile Industry)",
+          "en": "Cotton Textile Industry"
+        },
+        {
+          "hi": "लौह एवं इस्पात उद्योग",
+          "en": "Iron and Steel Industry"
+        },
+        {
+          "hi": "कोयला खनन उद्योग",
+          "en": "Coal Mining Industry"
+        },
+        {
+          "hi": "रेलवे उद्योग",
+          "en": "Railway Industry"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1733 ई. में बुनाई की गति को कई गुना बढ़ाने वाले 'फ्लाइंग शटल' (Flying Shuttle) का आविष्कार किसने किया?",
+        "en": "Who invented the 'Flying Shuttle' in 1733 which drastically accelerated weaving?"
+      },
+      "o": [
+        {
+          "hi": "जॉन के (John Kay)",
+          "en": "John Kay"
+        },
+        {
+          "hi": "जेम्स हारग्रीव्स",
+          "en": "James Hargreaves"
+        },
+        {
+          "hi": "रिचर्ड आर्कराइट",
+          "en": "Richard Arkwright"
+        },
+        {
+          "hi": "सैमुअल क्रॉम्पटन",
+          "en": "Samuel Crompton"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एक साथ आठ धागे कातने वाली प्रसिद्ध 'स्पिनिंग जेनी' (Spinning Jenny) का आविष्कार 1764 में किसने किया?",
+        "en": "Who invented the multi-spindle spinning frame 'Spinning Jenny' in 1764?"
+      },
+      "o": [
+        {
+          "hi": "जेम्स हारग्रीव्स (James Hargreaves)",
+          "en": "James Hargreaves"
+        },
+        {
+          "hi": "जॉन के",
+          "en": "John Kay"
+        },
+        {
+          "hi": "एडमंड कार्टराइट",
+          "en": "Edmund Cartwright"
+        },
+        {
+          "hi": "एली व्हिटनी",
+          "en": "Eli Whitney"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जलशक्ति से चलने वाले पहले सूत कातने के यंत्र 'वाटर फ्रेम' (Water Frame) का पेटेंट 1769 में किसने कराया?",
+        "en": "Who patented the water-powered spinning machine 'Water Frame' in 1769 AD?"
+      },
+      "o": [
+        {
+          "hi": "सर रिचर्ड आर्कराइट (Sir Richard Arkwright)",
+          "en": "Sir Richard Arkwright"
+        },
+        {
+          "hi": "जेम्स वाट",
+          "en": "James Watt"
+        },
+        {
+          "hi": "सैमुअल क्रॉम्पटन",
+          "en": "Samuel Crompton"
+        },
+        {
+          "hi": "जॉन के",
+          "en": "John Kay"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्पिनिंग जेनी और वाटर फ्रेम को मिलाकर अत्यंत महीन सूत कातने वाले 'म्यूल' (Mule) का आविष्कार 1779 में किसने किया?",
+        "en": "Who invented the hybrid 'Spinning Mule' in 1779 combining Jenny & Water Frame?"
+      },
+      "o": [
+        {
+          "hi": "सैमुअल क्रॉम्पटन (Samuel Crompton)",
+          "en": "Samuel Crompton"
+        },
+        {
+          "hi": "रिचर्ड आर्कराइट",
+          "en": "Richard Arkwright"
+        },
+        {
+          "hi": "एडमंड कार्टराइट",
+          "en": "Edmund Cartwright"
+        },
+        {
+          "hi": "जेम्स हारग्रीव्स",
+          "en": "James Hargreaves"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वाष्प और जलशक्ति से चलने वाले पहले यांत्रिक करघे 'पावरलूम' (Power Loom) का आविष्कार 1785 में किसने किया?",
+        "en": "Who invented the revolutionary steam/water-driven 'Power Loom' in 1785 AD?"
+      },
+      "o": [
+        {
+          "hi": "एडमंड कार्टराइट (Edmund Cartwright)",
+          "en": "Edmund Cartwright"
+        },
+        {
+          "hi": "जॉन के",
+          "en": "John Kay"
+        },
+        {
+          "hi": "एली व्हिटनी",
+          "en": "Eli Whitney"
+        },
+        {
+          "hi": "थॉमस न्यूकोमेन",
+          "en": "Thomas Newcomen"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कपास से बिनौले (बीज) अलग करने की तीव्र मशीन 'कॉटन जिन' (Cotton Gin) का आविष्कार 1793 में किसने किया?",
+        "en": "Who invented the mechanical 'Cotton Gin' separating seeds from cotton fiber in 1793?"
+      },
+      "o": [
+        {
+          "hi": "एली व्हिटनी (Eli Whitney, अमेरिका)",
+          "en": "Eli Whitney (USA)"
+        },
+        {
+          "hi": "एडमंड कार्टराइट",
+          "en": "Edmund Cartwright"
+        },
+        {
+          "hi": "जेम्स वाट",
+          "en": "James Watt"
+        },
+        {
+          "hi": "सैमुअल मोर्स",
+          "en": "Samuel Morse"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "व्यावहारिक आधुनिक 'रोटरी भाप इंजन' (Steam Engine) का पेटेंट 1769 ई. में किस स्कॉटिश वैज्ञानिक ने कराया?",
+        "en": "Which Scottish inventor patented the efficient condensing Rotary Steam Engine in 1769?"
+      },
+      "o": [
+        {
+          "hi": "जेम्स वाट (James Watt)",
+          "en": "James Watt"
+        },
+        {
+          "hi": "थॉमस न्यूकोमेन",
+          "en": "Thomas Newcomen"
+        },
+        {
+          "hi": "जॉर्ज स्टीफेंसन",
+          "en": "George Stephenson"
+        },
+        {
+          "hi": "रॉबर्ट फुल्टन",
+          "en": "Robert Fulton"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोयला खदानों में जहरीली गैसों से सुरक्षा हेतु 1815 ई. में 'सेफ्टी लैंप' (Safety Lamp) का आविष्कार किसने किया?",
+        "en": "Who invented the miner's 'Safety Lamp' in 1815 preventing firedamp explosions in coal mines?"
+      },
+      "o": [
+        {
+          "hi": "सर हम्फ्री डेवी (Sir Humphry Davy)",
+          "en": "Sir Humphry Davy"
+        },
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "जेम्स वाट",
+          "en": "James Watt"
+        },
+        {
+          "hi": "एडिसन",
+          "en": "Thomas Edison"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कंक्रीट और डामर से आधुनिक मजबूत पक्की सड़कें बनाने की तकनीक (Macadamized Roads) किसने खोजी?",
+        "en": "Who invented the modern road-surfacing engineering technique with crushed stone layers?"
+      },
+      "o": [
+        {
+          "hi": "जॉन मैकाडम (John McAdam, स्कॉटलैंड)",
+          "en": "John McAdam (Scotland)"
+        },
+        {
+          "hi": "जॉर्ज स्टीफेंसन",
+          "en": "George Stephenson"
+        },
+        {
+          "hi": "थॉमस टेलफोर्ड",
+          "en": "Thomas Telford"
+        },
+        {
+          "hi": "जेम्स वाट",
+          "en": "James Watt"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व की प्रथम व्यावसायिक भाप-चालित नाव 'क्लारमोंट' (Clermont) 1807 में हडसन नदी पर किसने चलाई?",
+        "en": "Who designed the first commercially successful paddle steamboat 'Clermont' in 1807?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट फुल्टन (Robert Fulton, अमेरिका)",
+          "en": "Robert Fulton (USA)"
+        },
+        {
+          "hi": "जॉर्ज स्टीफेंसन",
+          "en": "George Stephenson"
+        },
+        {
+          "hi": "जेम्स वाट",
+          "en": "James Watt"
+        },
+        {
+          "hi": "जॉन मैकाडम",
+          "en": "John McAdam"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में प्रथम रेलगाड़ी 27 सितंबर 1825 को इंग्लैंड में किन दो स्थानों के बीच चली?",
+        "en": "Between which two towns did the world's first public steam passenger train run on 27 Sep 1825?"
+      },
+      "o": [
+        {
+          "hi": "स्टॉकटन से डार्लिंगटन के बीच (Stockton to Darlington)",
+          "en": "Stockton to Darlington (England)"
+        },
+        {
+          "hi": "लिवरपूल से मैनचेस्टर",
+          "en": "Liverpool to Manchester"
+        },
+        {
+          "hi": "लंदन से बर्मिंघम",
+          "en": "London to Birmingham"
+        },
+        {
+          "hi": "पेरिस से लियोन",
+          "en": "Paris to Lyon"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रथम सफल भाप-चालित रेलवे इंजन 'रॉकेट' (The Rocket) का निर्माण 1814-1825 में किसने किया?",
+        "en": "Who engineered the historic steam locomotive 'Rocket' celebrated as father of railways?"
+      },
+      "o": [
+        {
+          "hi": "जेम्स वाट",
+          "en": "James Watt"
+        },
+        {
+          "hi": "जॉर्ज स्टीफेंसन (George Stephenson)",
+          "en": "George Stephenson"
+        },
+        {
+          "hi": "रॉबर्ट फुल्टन",
+          "en": "Robert Fulton"
+        },
+        {
+          "hi": "रिचर्ड ट्रेविथिक",
+          "en": "Richard Trevithick"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लोहे से सस्ता और मजबूत इस्पात बनाने की पहली औद्योगिक विधि (Bessemer Process) 1856 में किसने खोजी?",
+        "en": "Who patented the first mass-production industrial process for making steel in 1856?"
+      },
+      "o": [
+        {
+          "hi": "अल्फ्रेड नोबेल",
+          "en": "Alfred Nobel"
+        },
+        {
+          "hi": "सर हेनरी बेसेमर (Sir Henry Bessemer)",
+          "en": "Sir Henry Bessemer"
+        },
+        {
+          "hi": "हमफ्री डेवी",
+          "en": "Humphry Davy"
+        },
+        {
+          "hi": "अब्राहम डर्बी",
+          "en": "Abraham Darby"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कोयला कोक द्वारा लौह अयस्क को पिघलाने वाली प्रथम ब्लास्ट फर्नेस का आविष्कार 1709 में किसने किया?",
+        "en": "Who first successfully smelted iron ore with coke fuel in a blast furnace in 1709?"
+      },
+      "o": [
+        {
+          "hi": "हेनरी बेसेमर",
+          "en": "Henry Bessemer"
+        },
+        {
+          "hi": "अब्राहम डर्बी प्रथम (Abraham Darby I)",
+          "en": "Abraham Darby I"
+        },
+        {
+          "hi": "जेम्स वाट",
+          "en": "James Watt"
+        },
+        {
+          "hi": "जॉन विल्किंसन",
+          "en": "John Wilkinson"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "औद्योगिक क्रांति सर्वप्रथम इंग्लैंड में ही शुरू होने का सबसे बड़ा भौगोलिक व प्राकृतिक कारण क्या था?",
+        "en": "What was the foremost natural geographic advantage triggering the Industrial Revolution in England?"
+      },
+      "o": [
+        {
+          "hi": "विशाल रेगिस्तान",
+          "en": "Vast desert"
+        },
+        {
+          "hi": "लोहे और कोयले की समृद्ध खदानों का पास-पास स्थित होना तथा उत्तम समुद्री तट",
+          "en": "Proximity of rich coal and iron deposits alongside navigable waterways"
+        },
+        {
+          "hi": "अत्यधिक ठंड",
+          "en": "Extreme cold"
+        },
+        {
+          "hi": "पहाड़ी नदियां",
+          "en": "Mountain rivers"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "औद्योगिक क्रांति से पूर्व प्रचलित घरेलू उत्पादन प्रणाली (घरेलू उद्योग) को किस व्यवस्था ने समाप्त किया?",
+        "en": "Which productive system replaced the traditional domestic putting-out system?"
+      },
+      "o": [
+        {
+          "hi": "कुटीर उद्योग",
+          "en": "Cottage industry"
+        },
+        {
+          "hi": "कारखाना प्रणाली (Factory System - बड़े यंत्र व मजदूर)",
+          "en": "Factory System (Centralized power machinery)"
+        },
+        {
+          "hi": "दास प्रथा",
+          "en": "Slavery"
+        },
+        {
+          "hi": "जमींदारी प्रथा",
+          "en": "Zamindari"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "औद्योगिक क्रांति के दौरान इंग्लैंड के सूती वस्त्र उद्योग का विश्वविख्यात राजधानी केंद्र कौन-सा नगर बना?",
+        "en": "Which English manufacturing city became world-renowned as 'Cottonopolis' of the world?"
+      },
+      "o": [
+        {
+          "hi": "लंदन",
+          "en": "London"
+        },
+        {
+          "hi": "मैनचेस्टर (Manchester)",
+          "en": "Manchester"
+        },
+        {
+          "hi": "लिवरपूल",
+          "en": "Liverpool"
+        },
+        {
+          "hi": "बर्मिंघम",
+          "en": "Birmingham"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ब्रिटेन का कौन-सा प्रसिद्ध औद्योगिक नगर अपने भारी लौह और हार्डवेयर उद्योग हेतु प्रसिद्ध हुआ?",
+        "en": "Which British city was the industrial powerhouse of iron manufacturing ('The Black Country')?"
+      },
+      "o": [
+        {
+          "hi": "मैनचेस्टर",
+          "en": "Manchester"
+        },
+        {
+          "hi": "बर्मिंघम (Birmingham)",
+          "en": "Birmingham"
+        },
+        {
+          "hi": "ग्लासगो",
+          "en": "Glasgow"
+        },
+        {
+          "hi": "ब्रिस्टल",
+          "en": "Bristol"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "औद्योगिक क्रांति के समय इंग्लैंड में मशीनों को तोड़ने और नष्ट करने वाले श्रमिकों का आंदोलन क्या कहलाया?",
+        "en": "What was the 1811-1816 textile workers' protest movement destroying industrial machines called?"
+      },
+      "o": [
+        {
+          "hi": "चार्टिस्ट आंदोलन",
+          "en": "Chartist Movement"
+        },
+        {
+          "hi": "लुडाइट आंदोलन (Luddite Movement / Ned Ludd)",
+          "en": "Luddite Movement (Ned Ludd)"
+        },
+        {
+          "hi": "फेबियन आंदोलन",
+          "en": "Fabian Movement"
+        },
+        {
+          "hi": "सत्याग्रह",
+          "en": "Satyagraha"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ब्रिटेन में मताधिकार और श्रमिक अधिकारों के लिए 1838 से 1848 तक कौन-सा संगठित आंदोलन चला?",
+        "en": "Which working-class movement campaigned for universal male suffrage in Britain from 1838 to 1848?"
+      },
+      "o": [
+        {
+          "hi": "लुडाइट आंदोलन",
+          "en": "Luddite Movement"
+        },
+        {
+          "hi": "चार्टिस्ट आंदोलन (Chartist Movement / People's Charter)",
+          "en": "Chartist Movement (People's Charter)"
+        },
+        {
+          "hi": "सफ्रेगेट आंदोलन",
+          "en": "Suffragette Movement"
+        },
+        {
+          "hi": "असहयोग आंदोलन",
+          "en": "Non-Cooperation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "औद्योगिक क्रांति के कारण समाज मुख्य रूप से किन दो नए विरोधी वर्गों में विभाजित हो गया?",
+        "en": "Into which two major polarized socio-economic classes was society divided by Industrial Capitalism?"
+      },
+      "o": [
+        {
+          "hi": "पादरी और किसान",
+          "en": "Clergy and Peasantry"
+        },
+        {
+          "hi": "पूंजीपति वर्ग (बुर्जुआ) और मजदूर वर्ग (सर्वहारा / Proletariat)",
+          "en": "Capitalist Bourgeoisie and Working-Class Proletariat"
+        },
+        {
+          "hi": "राजा और दरबारी",
+          "en": "Monarch and Courtiers"
+        },
+        {
+          "hi": "ब्राह्मण और शूद्र",
+          "en": "Brahmin and Shudra"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कारखानों में मजदूरों के अमानवीय शोषण, बाल श्रम और 16-18 घंटे काम के विरुद्ध पहला फैक्टरी एक्ट कब बना?",
+        "en": "When was Britain's first major enforceable Factory Act passed regulating child labour in textiles?"
+      },
+      "o": [
+        {
+          "hi": "1815 ई.",
+          "en": "1815 AD"
+        },
+        {
+          "hi": "1833 ईस्वी (Factory Act of 1833)",
+          "en": "1833 AD (Factory Act of 1833)"
+        },
+        {
+          "hi": "1850 ई.",
+          "en": "1850 AD"
+        },
+        {
+          "hi": "1885 ई.",
+          "en": "1885 AD"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "औद्योगिक क्रांति शब्द (Industrial Revolution) को सर्वप्रथम अंग्रेजी में लोकप्रिय बनाने वाले इतिहासकार कौन थे?",
+        "en": "Who was the English economic historian who famously popularized the term 'Industrial Revolution'?"
+      },
+      "o": [
+        {
+          "hi": "कार्ल मार्क्स",
+          "en": "Karl Marx"
+        },
+        {
+          "hi": "अर्नोल्ड टॉयनबी (Arnold Toynbee - 1884 व्याख्यान)",
+          "en": "Arnold Toynbee (1884 Lectures)"
+        },
+        {
+          "hi": "एडम स्मिथ",
+          "en": "Adam Smith"
+        },
+        {
+          "hi": "डेविड रिकार्डो",
+          "en": "David Ricardo"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पूंजीवादी मुक्त बाजार व्यवस्था (Laissez-Faire) के महान प्रतिपादक और 'वेल्थ ऑफ नेशंस' (1776) के लेखक कौन थे?",
+        "en": "Who authored 'The Wealth of Nations' (1776) founding classical free-market economics?"
+      },
+      "o": [
+        {
+          "hi": "कार्ल मार्क्स",
+          "en": "Karl Marx"
+        },
+        {
+          "hi": "एडम स्मिथ (Adam Smith - अर्थशास्त्र के जनक)",
+          "en": "Adam Smith (Father of Modern Economics)"
+        },
+        {
+          "hi": "माल्थस",
+          "en": "Thomas Malthus"
+        },
+        {
+          "hi": "जॉन स्टुअर्ट मिल",
+          "en": "John Stuart Mill"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "औद्योगिक क्रांति ने किस प्रकार के आर्थिक उत्पादन को बढ़ावा दिया?",
+        "en": "What form of production did the Industrial Revolution establish globally?"
+      },
+      "o": [
+        {
+          "hi": "केवल हस्तशिल्प",
+          "en": "Only handicrafts"
+        },
+        {
+          "hi": "सीमित निर्वाह उत्पादन",
+          "en": "Subsistence farming"
+        },
+        {
+          "hi": "विशाल स्तर पर स्वचालित मशीनों द्वारा सामूहिक उत्पादन (Mass Production)",
+          "en": "Large-scale mechanized mass production"
+        },
+        {
+          "hi": "पारंपरिक कुटीर उत्पादन",
+          "en": "Traditional cottage craft"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1837 ई. में विद्युत टेलीग्राफ (Electric Telegraph) और मोर्स कोड का आविष्कार किसने किया था?",
+        "en": "Who invented the single-wire electric telegraph and Morse Code in 1837?"
+      },
+      "o": [
+        {
+          "hi": "अलेक्जेंडर ग्राहम बेल",
+          "en": "Alexander Graham Bell"
+        },
+        {
+          "hi": "थॉमस एडिसन",
+          "en": "Thomas Edison"
+        },
+        {
+          "hi": "सैमुअल मोर्स (Samuel Morse, अमेरिका)",
+          "en": "Samuel Morse (USA)"
+        },
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1876 ई. में टेलीफोन (Telephone) का पेटेंट कराने वाले महान आविष्कारक कौन थे?",
+        "en": "Who was granted the historic first official patent for the telephone in 1876?"
+      },
+      "o": [
+        {
+          "hi": "सैमुअल मोर्स",
+          "en": "Samuel Morse"
+        },
+        {
+          "hi": "थॉमस एडिसन",
+          "en": "Thomas Edison"
+        },
+        {
+          "hi": "अलेक्जेंडर ग्राहम बेल (Alexander Graham Bell)",
+          "en": "Alexander Graham Bell"
+        },
+        {
+          "hi": "गुग्लिल्मो मार्कोनी",
+          "en": "Guglielmo Marconi"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1879 ई. में पहला व्यावसायिक कार्बन फिलामेंट तापदीप्त विद्युत बल्ब (Electric Bulb) किसने बनाया?",
+        "en": "Who perfected the first practical commercially viable incandescent electric light bulb in 1879?"
+      },
+      "o": [
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "ग्राहम बेल",
+          "en": "Graham Bell"
+        },
+        {
+          "hi": "थॉमस अल्वा एडिसन (Thomas Alva Edison)",
+          "en": "Thomas Alva Edison"
+        },
+        {
+          "hi": "निकोला टेस्ला",
+          "en": "Nikola Tesla"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विद्युत चुम्बकीय प्रेरण (Electromagnetic Induction) और विद्युत जनरेटर (Dynamo) की खोज किसने की?",
+        "en": "Who discovered electromagnetic induction in 1831, inventing the electric generator/dynamo?"
+      },
+      "o": [
+        {
+          "hi": "जेम्स वाट",
+          "en": "James Watt"
+        },
+        {
+          "hi": "आइजैक न्यूटन",
+          "en": "Isaac Newton"
+        },
+        {
+          "hi": "माइकल फैराडे (Michael Faraday)",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "अल्बर्ट आइंस्टीन",
+          "en": "Albert Einstein"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1895 ई. में बिना तार के संदेश भेजने वाले 'रेडियो' (Wireless Telegraphy) का आविष्कार किसने किया?",
+        "en": "Who developed the first successful long-distance wireless radio telegraph system in 1895?"
+      },
+      "o": [
+        {
+          "hi": "ग्राहम बेल",
+          "en": "Graham Bell"
+        },
+        {
+          "hi": "थॉमस एडिसन",
+          "en": "Thomas Edison"
+        },
+        {
+          "hi": "गुग्लिल्मो मार्कोनी (Guglielmo Marconi, इटली)",
+          "en": "Guglielmo Marconi (Italy)"
+        },
+        {
+          "hi": "निकोला टेस्ला",
+          "en": "Nikola Tesla"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आंतरिक दहन इंजन (Internal Combustion Engine) से चलने वाली पहली आधुनिक पेट्रोल कार 1886 में किसने बनाई?",
+        "en": "Who built and patented the world's first modern petrol-powered automobile in 1886?"
+      },
+      "o": [
+        {
+          "hi": "हेनरी फोर्ड",
+          "en": "Henry Ford"
+        },
+        {
+          "hi": "रुडोल्फ डीजल",
+          "en": "Rudolf Diesel"
+        },
+        {
+          "hi": "कार्ल बेंज (Karl Benz, जर्मनी)",
+          "en": "Karl Benz (Germany)"
+        },
+        {
+          "hi": "गोटलिब डेमलर",
+          "en": "Gottlieb Daimler"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारी ईंधन से चलने वाले संपीडन प्रज्वलन इंजन 'डीजल इंजन' का आविष्कार 1892 में किसने किया?",
+        "en": "Who patented the efficient heavy-fuel compression-ignition 'Diesel Engine' in 1892?"
+      },
+      "o": [
+        {
+          "hi": "कार्ल बेंज",
+          "en": "Karl Benz"
+        },
+        {
+          "hi": "हेनरी फोर्ड",
+          "en": "Henry Ford"
+        },
+        {
+          "hi": "रुडोल्फ डीजल (Rudolf Diesel, जर्मनी)",
+          "en": "Rudolf Diesel (Germany)"
+        },
+        {
+          "hi": "जेम्स वाट",
+          "en": "James Watt"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1903 ई. में उत्तरी कैरोलिना (अमेरिका) में पहली सफल नियंत्रित मानव चालित हवाई उड़ान किसने भरी?",
+        "en": "Who achieved the first controlled, sustained powered heavier-than-air airplane flight in 1903?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट फुल्टन",
+          "en": "Robert Fulton"
+        },
+        {
+          "hi": "ग्राहम बेल",
+          "en": "Graham Bell"
+        },
+        {
+          "hi": "राइट बंधु (ऑरविले एवं विल्बर राइट / Wright Brothers)",
+          "en": "Wright Brothers (Orville and Wilbur Wright)"
+        },
+        {
+          "hi": "हेनरी फोर्ड",
+          "en": "Henry Ford"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कार निर्माण में 'चलती असेंबली लाइन' (Moving Assembly Line) द्वारा भारी उत्पादन क्रांति किसने की?",
+        "en": "Who revolutionized manufacturing by introducing the moving assembly line for Model T cars in 1913?"
+      },
+      "o": [
+        {
+          "hi": "कार्ल बेंज",
+          "en": "Karl Benz"
+        },
+        {
+          "hi": "रुडोल्फ डीजल",
+          "en": "Rudolf Diesel"
+        },
+        {
+          "hi": "हेनरी फोर्ड (Henry Ford - फोर्डिज्म)",
+          "en": "Henry Ford (Fordism)"
+        },
+        {
+          "hi": "रॉकफेलर",
+          "en": "Rockefeller"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "औद्योगिक क्रांति के दौरान जनसंख्या का तीव्र विस्थापन किस दिशा में हुआ?",
+        "en": "What monumental demographic migration pattern was triggered by the Industrial Revolution?"
+      },
+      "o": [
+        {
+          "hi": "शहरों से गांवों की ओर",
+          "en": "From cities to villages"
+        },
+        {
+          "hi": "यूरोप से एशिया की ओर",
+          "en": "From Europe to Asia"
+        },
+        {
+          "hi": "गांवों से नए औद्योगिक शहरों की ओर (तीव्र नगरीकरण / Urbanization)",
+          "en": "From rural villages into booming industrial cities (Urbanization)"
+        },
+        {
+          "hi": "तटों से पहाड़ों की ओर",
+          "en": "From coasts to mountains"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "औद्योगिक क्रांति ने यूरोपीय शक्तियों को एशिया और अफ्रीका में किस शोषणकारी नीति हेतु प्रेरित किया?",
+        "en": "What predatory global expansion did Industrial capitalism compel European powers to pursue?"
+      },
+      "o": [
+        {
+          "hi": "धार्मिक संन्यास",
+          "en": "Religious asceticism"
+        },
+        {
+          "hi": "शांतिपूर्ण व्यापार",
+          "en": "Peaceful trade"
+        },
+        {
+          "hi": "कच्चे माल की लूट और तैयार माल खपाने हेतु उग्र उपनिवेशवाद व साम्राज्यवाद",
+          "en": "Aggressive Colonialism & Imperialism for raw materials and captive markets"
+        },
+        {
+          "hi": "दास प्रथा की सुरक्षा",
+          "en": "Protection of slavery"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ब्रिटेन के बाद 19वीं सदी के मध्य में महाद्वीपीय यूरोप में सर्वप्रथम औद्योगिक क्रांति कहाँ फैली?",
+        "en": "After Britain, which continental European country industrialized first in early 19th century?"
+      },
+      "o": [
+        {
+          "hi": "रूस",
+          "en": "Russia"
+        },
+        {
+          "hi": "स्पेन",
+          "en": "Spain"
+        },
+        {
+          "hi": "इटली",
+          "en": "Italy"
+        },
+        {
+          "hi": "बेल्जियम (Belgium)",
+          "en": "Belgium"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "19वीं सदी के अंत तक ब्रिटेन को पछाड़कर विश्व की दो प्रमुख औद्योगिक महाशक्तियां कौन बनीं?",
+        "en": "By late 19th century, which two rising superpowers overtook Britain in industrial manufacturing?"
+      },
+      "o": [
+        {
+          "hi": "फ्रांस और रूस",
+          "en": "France and Russia"
+        },
+        {
+          "hi": "इटली और स्पेन",
+          "en": "Italy and Spain"
+        },
+        {
+          "hi": "जापान और भारत",
+          "en": "Japan and India"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका और एकीकृत जर्मनी (USA and Germany)",
+          "en": "United States and unified Germany"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "औद्योगिक क्रांति के दुष्प्रभावों (श्रमिक शोषण) की प्रतिक्रिया में किस विचारधारा का जन्म हुआ?",
+        "en": "Which socio-economic political ideology was born in direct response to capitalist industrial exploitation?"
+      },
+      "o": [
+        {
+          "hi": "सामंतवाद",
+          "en": "Feudalism"
+        },
+        {
+          "hi": "फासीवाद",
+          "en": "Fascism"
+        },
+        {
+          "hi": "धार्मिक कट्टरता",
+          "en": "Religious dogmatism"
+        },
+        {
+          "hi": "वैज्ञानिक समाजवाद और साम्यवाद (Socialism & Communism)",
+          "en": "Scientific Socialism and Marxism"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "काल्पनिक समाजवाद (Utopian Socialism) के प्रमुख विचारकों में इंग्लैंड के कौन-से उद्योगपति थे?",
+        "en": "Which humane British industrialist established ideal cooperative model mills at New Lanark?"
+      },
+      "o": [
+        {
+          "hi": "कार्ल मार्क्स",
+          "en": "Karl Marx"
+        },
+        {
+          "hi": "फ्रेडरिक एंगेल्स",
+          "en": "Friedrich Engels"
+        },
+        {
+          "hi": "सेंट साइमन",
+          "en": "Saint-Simon"
+        },
+        {
+          "hi": "रॉबर्ट ओवेन (Robert Owen)",
+          "en": "Robert Owen"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "औद्योगिक क्रांति के समय भाप इंजनों और मशीनों के निर्माण में किस धातु ने लकड़ी का स्थान लिया?",
+        "en": "Which essential industrial metal replaced wood in building heavy machinery and structural beams?"
+      },
+      "o": [
+        {
+          "hi": "तांबा",
+          "en": "Copper"
+        },
+        {
+          "hi": "कांसा",
+          "en": "Bronze"
+        },
+        {
+          "hi": "सीसा",
+          "en": "Lead"
+        },
+        {
+          "hi": "ढलवा लोहा और इस्पात (Cast Iron and Steel)",
+          "en": "Cast Iron, Wrought Iron and Steel"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1779 ई. में इंग्लैंड की सेवेर्न नदी पर विश्व का पहला लोहे का पुल (The Iron Bridge) किसने बनाया?",
+        "en": "Who engineered the world's very first cast-iron bridge erected across River Severn in 1779?"
+      },
+      "o": [
+        {
+          "hi": "जेम्स वाट",
+          "en": "James Watt"
+        },
+        {
+          "hi": "जॉर्ज स्टीफेंसन",
+          "en": "George Stephenson"
+        },
+        {
+          "hi": "जॉन मैकाडम",
+          "en": "John McAdam"
+        },
+        {
+          "hi": "अब्राहम डर्बी तृतीय (Abraham Darby III)",
+          "en": "Abraham Darby III"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ब्रिटेन में 1851 में आयोजित प्रथम 'विश्व औद्योगिक प्रदर्शनी' (Great Exhibition) कहाँ हुई थी?",
+        "en": "Where was the landmark Great Exhibition of the Works of Industry of All Nations held in 1851?"
+      },
+      "o": [
+        {
+          "hi": "पेरिस में",
+          "en": "Paris"
+        },
+        {
+          "hi": "मैनचेस्टर में",
+          "en": "Manchester"
+        },
+        {
+          "hi": "बर्मिंघम में",
+          "en": "Birmingham"
+        },
+        {
+          "hi": "लंदन के हाइड पार्क स्थित क्रिस्टल पैलेस (Crystal Palace, London)",
+          "en": "The Crystal Palace, Hyde Park, London"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "क्रिस्टल पैलेस (Crystal Palace) की पूरी इमारत किन दो आधुनिक औद्योगिक सामग्रियों से बनी थी?",
+        "en": "The iconic Crystal Palace built for the 1851 Great Exhibition was constructed entirely of what?"
+      },
+      "o": [
+        {
+          "hi": "ईंट और चूना",
+          "en": "Brick and mortar"
+        },
+        {
+          "hi": "लकड़ी और पत्थर",
+          "en": "Wood and stone"
+        },
+        {
+          "hi": "कंक्रीट और मिट्टी",
+          "en": "Concrete and clay"
+        },
+        {
+          "hi": "लोहा और कांच (Cast Iron and Plate Glass)",
+          "en": "Cast Iron frame and plate glass"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "औद्योगिक क्रांति के कारण यूरोप में किस नए ऊर्जा स्रोत ने लकड़ी और चारकोल का स्थान लिया?",
+        "en": "Which primary fossil fuel energy source powered the blast furnaces and steam engines?"
+      },
+      "o": [
+        {
+          "hi": "पेट्रोलियम",
+          "en": "Petroleum"
+        },
+        {
+          "hi": "परमाणु ऊर्जा",
+          "en": "Nuclear energy"
+        },
+        {
+          "hi": "सौर ऊर्जा",
+          "en": "Solar energy"
+        },
+        {
+          "hi": "पत्थर का कोयला (Mineral Coal / Coke)",
+          "en": "Mineral Bituminous Coal and Coke"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भाप चालित जहाजों और रेलगाड़ियों के विकास ने वैश्विक व्यापार में क्या क्रांतिकारी परिवर्तन किया?",
+        "en": "What revolutionary transformation did steam transport introduce into world commerce?"
+      },
+      "o": [
+        {
+          "hi": "व्यापार को धीमा किया",
+          "en": "Slowed down trade"
+        },
+        {
+          "hi": "परिवहन लागत अत्यधिक बढ़ाई",
+          "en": "Increased freight cost"
+        },
+        {
+          "hi": "व्यापार केवल स्थल तक सीमित किया",
+          "en": "Limited trade to land"
+        },
+        {
+          "hi": "दूरियों को घटाया, परिवहन लागत अत्यंत कम की और वैश्विक बाजार को एक-दूसरे से जोड़ा",
+          "en": "Shrank global distances, slashed freight costs & created globalized trade"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "औद्योगिक क्रांति में रासायनिक उद्योग के विकास के अंतर्गत ब्लीचिंग पाउडर का आविष्कार किसने किया?",
+        "en": "Who patented chloride of lime (bleaching powder) in 1799 transforming textile finishing?"
+      },
+      "o": [
+        {
+          "hi": "हमफ्री डेवी",
+          "en": "Humphry Davy"
+        },
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "जॉन डाल्टन",
+          "en": "John Dalton"
+        },
+        {
+          "hi": "चार्ल्स टेनेंट (Charles Tennant)",
+          "en": "Charles Tennant"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "औद्योगिक क्रांति मानव सभ्यता के इतिहास में किस क्रांति के बाद सबसे बड़ा मोड़ मानी जाती है?",
+        "en": "After which ancient prehistoric event is the Industrial Revolution rated the greatest turning point?"
+      },
+      "o": [
+        {
+          "hi": "फ्रांसीसी क्रांति",
+          "en": "French Revolution"
+        },
+        {
+          "hi": "अमेरिकी क्रांति",
+          "en": "American Revolution"
+        },
+        {
+          "hi": "कांस्य युगीन सभ्यता",
+          "en": "Bronze Age civilization"
+        },
+        {
+          "hi": "नवपाषाण युगीन कृषि क्रांति (Neolithic Agricultural Revolution)",
+          "en": "Neolithic Agricultural Revolution"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}

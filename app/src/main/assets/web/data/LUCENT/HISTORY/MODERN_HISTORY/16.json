@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - आधुनिक भारत (Modern India)",
+  "subtitle": "भारत की ऐतिहासिक लड़ाइयाँ",
+  "description": "भारत की ऐतिहासिक लड़ाइयाँ (तराइन, पानीपत, खानवा, प्लासी, बक्सर, वांडीवाश, आंग्ल-मैसूर, आंग्ल-मराठा, आंग्ल-सिख युद्ध) पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "तराइन का प्रथम युद्ध (1191 ई.) में पृथ्वीराज चौहान ने किसे पराजित किया था?",
+        "en": "Whom did Prithviraj Chauhan decisively defeat in the First Battle of Tarain (1191 AD)?"
+      },
+      "o": [
+        {
+          "hi": "मोहम्मद गोरी (Muhammad Ghori)",
+          "en": "Muhammad Ghori"
+        },
+        {
+          "hi": "महमूद गजनवी",
+          "en": "Mahmud Ghaznavi"
+        },
+        {
+          "hi": "बाबर",
+          "en": "Babur"
+        },
+        {
+          "hi": "इल्तुतमिश",
+          "en": "Iltutmish"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तराइन का द्वितीय युद्ध (1192 ई.) में किसने पृथ्वीराज चौहान को हराकर भारत में मुस्लिम सत्ता की नींव रखी?",
+        "en": "Who defeated Prithviraj Chauhan in the Second Battle of Tarain (1192 AD)?"
+      },
+      "o": [
+        {
+          "hi": "मोहम्मद गोरी (Muhammad Ghori)",
+          "en": "Muhammad Ghori"
+        },
+        {
+          "hi": "महमूद गजनवी",
+          "en": "Mahmud Ghaznavi"
+        },
+        {
+          "hi": "कुतुबुद्दीन ऐबक",
+          "en": "Qutbuddin Aibak"
+        },
+        {
+          "hi": "चंगेज खान",
+          "en": "Genghis Khan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चंदावर का युद्ध (1194 ई.) में मोहम्मद गोरी ने कन्नौज के किस राजा को पराजित किया था?",
+        "en": "Which king of Kannauj did Muhammad Ghori defeat in the Battle of Chandawar (1194 AD)?"
+      },
+      "o": [
+        {
+          "hi": "राजा जयचंद (Raja Jaichand)",
+          "en": "Raja Jaichand"
+        },
+        {
+          "hi": "पृथ्वीराज चौहान",
+          "en": "Prithviraj Chauhan"
+        },
+        {
+          "hi": "भीमदेव द्वितीय",
+          "en": "Bhimdev II"
+        },
+        {
+          "hi": "लक्ष्मणसेन",
+          "en": "Lakshmanasena"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पानीपत का प्रथम ऐतिहासिक युद्ध 21 अप्रैल 1526 को किनके बीच लड़ा गया था?",
+        "en": "Between whom was the First Battle of Panipat fought on 21 April 1526?"
+      },
+      "o": [
+        {
+          "hi": "बाबर और इब्राहिम लोदी (Babur & Ibrahim Lodi)",
+          "en": "Babur and Ibrahim Lodi"
+        },
+        {
+          "hi": "अकबर और हेमू",
+          "en": "Akbar and Hemu"
+        },
+        {
+          "hi": "अब्दाली और मराठा",
+          "en": "Abdali and Marathas"
+        },
+        {
+          "hi": "हुमायूँ और शेरशाह",
+          "en": "Humayun and Sher Shah"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "खानवा का ऐतिहासिक युद्ध 17 मार्च 1527 को बाबर और किसके बीच लड़ा गया था?",
+        "en": "The historic Battle of Khanwa was fought on 17 March 1527 between Babur and whom?"
+      },
+      "o": [
+        {
+          "hi": "मेवाड़ के राणा सांगा (Rana Sanga)",
+          "en": "Rana Sanga of Mewar"
+        },
+        {
+          "hi": "इब्राहिम लोदी",
+          "en": "Ibrahim Lodi"
+        },
+        {
+          "hi": "मेदिनी राय",
+          "en": "Medini Rai"
+        },
+        {
+          "hi": "महमूद लोदी",
+          "en": "Mahmud Lodi"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चंदेरी का युद्ध (1528 ई.) में बाबर ने मालवा के किस राजपूत शासक को पराजित किया था?",
+        "en": "Whom did Babur defeat in the Battle of Chanderi in 1528 AD?"
+      },
+      "o": [
+        {
+          "hi": "मेदिनी राय (Medini Rai)",
+          "en": "Medini Rai"
+        },
+        {
+          "hi": "राणा सांगा",
+          "en": "Rana Sanga"
+        },
+        {
+          "hi": "बाज बहादुर",
+          "en": "Baz Bahadur"
+        },
+        {
+          "hi": "भारमल",
+          "en": "Bharmal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "घाघरा का युद्ध (1529 ई.) बाबर और किसके बीच जल और थल दोनों पर लड़ा गया था?",
+        "en": "The Battle of Ghaghra (1529 AD) was fought on land and water between Babur and whom?"
+      },
+      "o": [
+        {
+          "hi": "महमूद लोदी के नेतृत्व में अफगान सेना",
+          "en": "Afghans led by Mahmud Lodi"
+        },
+        {
+          "hi": "राणा सांगा",
+          "en": "Rana Sanga"
+        },
+        {
+          "hi": "नुसरत शाह",
+          "en": "Nusrat Shah"
+        },
+        {
+          "hi": "शेरशाह",
+          "en": "Sher Shah"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चौसा का युद्ध (26 जून 1539) किन दो शासकों के बीच गंगा नदी के तट पर लड़ा गया?",
+        "en": "Between which two monarchs was the Battle of Chausa fought on 26 June 1539 on the Ganga?"
+      },
+      "o": [
+        {
+          "hi": "शेरशाह सूरी और हुमायूँ (Sher Shah & Humayun)",
+          "en": "Sher Shah Suri and Humayun"
+        },
+        {
+          "hi": "बाबर और इब्राहिम लोदी",
+          "en": "Babur and Ibrahim Lodi"
+        },
+        {
+          "hi": "अकबर और हेमू",
+          "en": "Akbar and Hemu"
+        },
+        {
+          "hi": "जहांगीर और खुसरो",
+          "en": "Jahangir and Khusrau"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बिलग्राम (कन्नौज) का युद्ध 17 मई 1540 को किसने जीता जिसके बाद हुमायूँ को भारत छोड़ना पड़ा?",
+        "en": "Who won the Battle of Bilgram (Kannauj) on 17 May 1540, exiling Humayun from India?"
+      },
+      "o": [
+        {
+          "hi": "शेरशाह सूरी (Sher Shah Suri)",
+          "en": "Sher Shah Suri"
+        },
+        {
+          "hi": "हुमायूँ",
+          "en": "Humayun"
+        },
+        {
+          "hi": "कामरान",
+          "en": "Kamran"
+        },
+        {
+          "hi": "अस्करी",
+          "en": "Askari"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पानीपत का द्वितीय ऐतिहासिक युद्ध 5 नवंबर 1556 को किनके बीच लड़ा गया था?",
+        "en": "Between whom was the Second Battle of Panipat fought on 5 November 1556?"
+      },
+      "o": [
+        {
+          "hi": "अकबर (बैरम खां) और हेमू (विक्रमादित्य)",
+          "en": "Akbar (Bairam Khan) and Hemu (Vikramaditya)"
+        },
+        {
+          "hi": "बाबर और इब्राहिम लोदी",
+          "en": "Babur and Ibrahim Lodi"
+        },
+        {
+          "hi": "मराठा और अब्दाली",
+          "en": "Marathas and Abdali"
+        },
+        {
+          "hi": "शेरशाह और हुमायूँ",
+          "en": "Sher Shah and Humayun"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तालीकोटा का युद्ध (राक्षस-तंगड़ी का युद्ध - 23 जनवरी 1565) में किसका पूर्ण विनाश हुआ?",
+        "en": "Whose magnificent empire was destroyed in the Battle of Talikota on 23 January 1565?"
+      },
+      "o": [
+        {
+          "hi": "विजयनगर साम्राज्य (Vijayanagara Empire)",
+          "en": "Vijayanagara Empire"
+        },
+        {
+          "hi": "बहमनी सल्तनत",
+          "en": "Bahmani Sultanate"
+        },
+        {
+          "hi": "मुगल साम्राज्य",
+          "en": "Mughal Empire"
+        },
+        {
+          "hi": "चोल साम्राज्य",
+          "en": "Chola Empire"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हल्दीघाटी का ऐतिहासिक युद्ध 18 जून 1576 को किन दो महान योद्धाओं/सेनाओं के बीच लड़ा गया?",
+        "en": "Between whom was the historic Battle of Haldighati fought on 18 June 1576?"
+      },
+      "o": [
+        {
+          "hi": "महाराणा प्रताप और अकबर (मानसिंह के नेतृत्व में)",
+          "en": "Maharana Pratap and Akbar (led by Man Singh)"
+        },
+        {
+          "hi": "राणा सांगा और बाबर",
+          "en": "Rana Sanga and Babur"
+        },
+        {
+          "hi": "शिवाजी और औरंगजेब",
+          "en": "Shivaji and Aurangzeb"
+        },
+        {
+          "hi": "हेमू और अकबर",
+          "en": "Hemu and Akbar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सामूगढ़ का प्रसिद्ध युद्ध (29 मई 1658) में औरंगजेब ने अपने किस बड़े भाई को पराजित किया?",
+        "en": "In the decisive Battle of Samugarh (1658), whom did Aurangzeb defeat to seize the throne?"
+      },
+      "o": [
+        {
+          "hi": "दारा शिकोह (Dara Shikoh)",
+          "en": "Dara Shikoh"
+        },
+        {
+          "hi": "शाह शुजा",
+          "en": "Shah Shuja"
+        },
+        {
+          "hi": "मुराद बख्श",
+          "en": "Murad Bakhsh"
+        },
+        {
+          "hi": "सुलेमान शिकोह",
+          "en": "Sulaiman Shikoh"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "करनाल का युद्ध 24 फरवरी 1739 को नादिर शाह और किस मुगल सम्राट के बीच लड़ा गया?",
+        "en": "The Battle of Karnal (1739) was fought between Nadir Shah and which Mughal Emperor?"
+      },
+      "o": [
+        {
+          "hi": "फर्रुखसियर",
+          "en": "Farrukhsiyar"
+        },
+        {
+          "hi": "मुहम्मद शाह 'रंगीला' (Muhammad Shah Rangila)",
+          "en": "Muhammad Shah Rangila"
+        },
+        {
+          "hi": "आलमगीर द्वितीय",
+          "en": "Alamgir II"
+        },
+        {
+          "hi": "शाह आलम द्वितीय",
+          "en": "Shah Alam II"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्लासी का ऐतिहासिक युद्ध 23 जून 1757 को किनके बीच लड़ा गया था?",
+        "en": "Between whom was the epoch-making Battle of Plassey fought on 23 June 1757?"
+      },
+      "o": [
+        {
+          "hi": "मीर कासिम और क्लाइव",
+          "en": "Mir Qasim and Clive"
+        },
+        {
+          "hi": "रॉबर्ट क्लाइव और नवाब सिराजुद्दौला (Clive & Siraj)",
+          "en": "Robert Clive and Nawab Siraj-ud-Daulah"
+        },
+        {
+          "hi": "हेक्टर मुनरो और मीर जाफर",
+          "en": "Hector Munro and Mir Jafar"
+        },
+        {
+          "hi": "हैदर अली और आयर कूट",
+          "en": "Hyder Ali and Eyre Coote"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बेदरा का प्रसिद्ध युद्ध (नवंबर 1759) में अंग्रेजों ने किस यूरोपीय शक्ति को निर्णायक रूप से हराया?",
+        "en": "In the Battle of Bedara (1759), which European power did the British decisively crush?"
+      },
+      "o": [
+        {
+          "hi": "फ्रांसीसियों को",
+          "en": "French"
+        },
+        {
+          "hi": "डचों को (Dutch - नीदरलैंड)",
+          "en": "Dutch (Netherlands)"
+        },
+        {
+          "hi": "पुर्तगालियों को",
+          "en": "Portuguese"
+        },
+        {
+          "hi": "डेनिश को",
+          "en": "Danes"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वांडीवाश का ऐतिहासिक युद्ध (22 जनवरी 1760) में अंग्रेजों (आयर कूट) ने किसे पराजित किया?",
+        "en": "In the Battle of Wandiwash (1760), whom did British General Eyre Coote defeat?"
+      },
+      "o": [
+        {
+          "hi": "डचों को",
+          "en": "Dutch"
+        },
+        {
+          "hi": "फ्रांसीसियों को (French - काउंट लाली)",
+          "en": "French (Count de Lally)"
+        },
+        {
+          "hi": "पुर्तगालियों को",
+          "en": "Portuguese"
+        },
+        {
+          "hi": "हैदर अली को",
+          "en": "Hyder Ali"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पानीपत का तीसरा महायुद्ध 14 जनवरी 1761 को किनके बीच लड़ा गया था?",
+        "en": "Between whom was the catastrophic Third Battle of Panipat fought on 14 January 1761?"
+      },
+      "o": [
+        {
+          "hi": "बाबर और इब्राहिम लोदी",
+          "en": "Babur and Ibrahim Lodi"
+        },
+        {
+          "hi": "मराठों (सदाशिवराव भाऊ) और अहमद शाह अब्दाली",
+          "en": "Marathas (Sadashivrao Bhau) & Ahmad Shah Abdali"
+        },
+        {
+          "hi": "अकबर और हेमू",
+          "en": "Akbar and Hemu"
+        },
+        {
+          "hi": "अंग्रेज और सिराजुद्दौला",
+          "en": "British and Siraj-ud-Daulah"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बक्सर का ऐतिहासिक निर्णायक युद्ध 22 अक्टूबर 1764 को किनके बीच लड़ा गया?",
+        "en": "Between whom was the decisive Battle of Buxar fought on 22 October 1764?"
+      },
+      "o": [
+        {
+          "hi": "क्लाइव और सिराजुद्दौला",
+          "en": "Clive and Siraj-ud-Daulah"
+        },
+        {
+          "hi": "हेक्टर मुनरो और भारतीय त्रिकूट (मीर कासिम, शुजाउद्दौला, शाह आलम)",
+          "en": "Hector Munro & Indian Allies (Mir Qasim, Shuja, Shah Alam)"
+        },
+        {
+          "hi": "वेलेजली और टीपू सुल्तान",
+          "en": "Wellesley and Tipu Sultan"
+        },
+        {
+          "hi": "कार्नवालिस और हैदर अली",
+          "en": "Cornwallis and Hyder Ali"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पोर्टो नोवो का युद्ध (1781 ई.) में ब्रिटिश सेनापति सर आयर कूट ने किसे पराजित किया था?",
+        "en": "In the Battle of Porto Novo (1781), whom did Sir Eyre Coote defeat?"
+      },
+      "o": [
+        {
+          "hi": "टीपू सुल्तान",
+          "en": "Tipu Sultan"
+        },
+        {
+          "hi": "हैदर अली (Hyder Ali)",
+          "en": "Hyder Ali"
+        },
+        {
+          "hi": "निजाम",
+          "en": "Nizam"
+        },
+        {
+          "hi": "सिंधिया",
+          "en": "Scindia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रथम आंग्ल-मराठा युद्ध (1775-1782 ई.) किस ऐतिहासिक संधि के द्वारा समाप्त हुआ था?",
+        "en": "Which historic treaty concluded the First Anglo-Maratha War in 1782?"
+      },
+      "o": [
+        {
+          "hi": "पुरंदर की संधि",
+          "en": "Treaty of Purandar"
+        },
+        {
+          "hi": "सालबाई की संधि (Treaty of Salbai - 1782 ई.)",
+          "en": "Treaty of Salbai (1782 AD)"
+        },
+        {
+          "hi": "बसीन की संधि",
+          "en": "Treaty of Bassein"
+        },
+        {
+          "hi": "सूरत की संधि",
+          "en": "Treaty of Surat"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1803 के द्वितीय आंग्ल-मराठा युद्ध में आर्थर वेलेजली ने 'असई के युद्ध' में किसे हराया था?",
+        "en": "In the Battle of Assaye (1803), Arthur Wellesley defeated the combined armies of whom?"
+      },
+      "o": [
+        {
+          "hi": "होल्कर और गायकवाड़",
+          "en": "Holkar and Gaikwad"
+        },
+        {
+          "hi": "सिंधिया और भोंसले की संयुक्त सेना (Scindia & Bhonsle)",
+          "en": "Combined army of Scindia and Bhonsle"
+        },
+        {
+          "hi": "पेशवा",
+          "en": "Peshwa"
+        },
+        {
+          "hi": "निजाम",
+          "en": "Nizam"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आंग्ल-नेपाल युद्ध (1814-1816 ई.) किस प्रसिद्ध संधि के द्वारा समाप्त हुआ था?",
+        "en": "By which famous treaty was the Anglo-Nepalese War formally concluded in March 1816?"
+      },
+      "o": [
+        {
+          "hi": "काठमांडू की संधि",
+          "en": "Treaty of Kathmandu"
+        },
+        {
+          "hi": "सुगौली की संधि (Treaty of Sugauli - 1816 ई.)",
+          "en": "Treaty of Sugauli (1816 AD)"
+        },
+        {
+          "hi": "लाहौर की संधि",
+          "en": "Treaty of Lahore"
+        },
+        {
+          "hi": "यांडाबू की संधि",
+          "en": "Treaty of Yandabo"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रथम आंग्ल-बर्मा युद्ध (1824-1826 ई.) किस ऐतिहासिक संधि द्वारा समाप्त हुआ था?",
+        "en": "Which historic treaty concluded the First Anglo-Burmese War in 1826?"
+      },
+      "o": [
+        {
+          "hi": "रंगून की संधि",
+          "en": "Treaty of Rangoon"
+        },
+        {
+          "hi": "यांडाबू की संधि (Treaty of Yandabo - 1826 ई.)",
+          "en": "Treaty of Yandabo (1826 AD)"
+        },
+        {
+          "hi": "मांडले की संधि",
+          "en": "Treaty of Mandalay"
+        },
+        {
+          "hi": "सुगौली की संधि",
+          "en": "Treaty of Sugauli"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सबराओं का निर्णायक युद्ध (10 फरवरी 1846) किस युद्ध का अंतिम और खूनी संघर्ष था?",
+        "en": "The bloody Battle of Sobraon (10 Feb 1846) was the decisive climax of which war?"
+      },
+      "o": [
+        {
+          "hi": "द्वितीय आंग्ल-सिख युद्ध",
+          "en": "2nd Anglo-Sikh War"
+        },
+        {
+          "hi": "प्रथम आंग्ल-सिख युद्ध (First Anglo-Sikh War)",
+          "en": "First Anglo-Sikh War"
+        },
+        {
+          "hi": "आंग्ल-अफगान युद्ध",
+          "en": "Anglo-Afghan War"
+        },
+        {
+          "hi": "आंग्ल-मराठा युद्ध",
+          "en": "Anglo-Maratha War"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गुजरात (पंजाब) का युद्ध 21 फरवरी 1849 को लड़ा गया, इसमें अंग्रेजों ने किसे हराया?",
+        "en": "In the 'Battle of the Guns' at Gujrat (21 Feb 1849), whom did British General Gough route?"
+      },
+      "o": [
+        {
+          "hi": "अफगानों को",
+          "en": "Afghans"
+        },
+        {
+          "hi": "सिख सेना को (चतर सिंह व शेर सिंह / Sikh Army)",
+          "en": "Sikh Army (Chattar Singh & Sher Singh)"
+        },
+        {
+          "hi": "मराठों को",
+          "en": "Marathas"
+        },
+        {
+          "hi": "गोरखों को",
+          "en": "Gurkhas"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हाईडेस्पीज (झेलम / वितस्ता) का प्रसिद्ध युद्ध 326 ई.पू. में किनके बीच लड़ा गया था?",
+        "en": "The historic Battle of Hydaspes (Vitasta / 326 BC) was fought between whom?"
+      },
+      "o": [
+        {
+          "hi": "चन्द्रगुप्त मौर्य और सेल्यूकस",
+          "en": "Chandragupta Maurya and Seleucus"
+        },
+        {
+          "hi": "बिम्बिसार और अजातशत्रु",
+          "en": "Bimbisara and Ajatashatru"
+        },
+        {
+          "hi": "सिकन्दर और पंजाब के राजा पोरस (Alexander & Porus)",
+          "en": "Alexander and King Porus of Punjab"
+        },
+        {
+          "hi": "अशोक और कलिंग राज",
+          "en": "Ashoka and Kalinga King"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कलिंग का ऐतिहासिक भीषण युद्ध 261 ई.पू. में किस महान सम्राट ने लड़ा था?",
+        "en": "The colossal and bloody Kalinga War (261 BC) was fought by which Emperor?"
+      },
+      "o": [
+        {
+          "hi": "चन्द्रगुप्त मौर्य",
+          "en": "Chandragupta Maurya"
+        },
+        {
+          "hi": "बिन्दुसार",
+          "en": "Bindusara"
+        },
+        {
+          "hi": "सम्राट अशोक (Emperor Ashoka - 13वें शिलालेख में)",
+          "en": "Emperor Ashoka (13th Rock Edict)"
+        },
+        {
+          "hi": "कनिष्क",
+          "en": "Kanishka"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नर्मदा नदी का प्रसिद्ध युद्ध 618-619 ई. में किन दो चक्रवर्ती सम्राटों के बीच लड़ा गया?",
+        "en": "The famous Battle of Narmada (618-19 AD) was fought between which two monarchs?"
+      },
+      "o": [
+        {
+          "hi": "समुद्रगुप्त और रुद्रदामन",
+          "en": "Samudragupta and Rudradaman"
+        },
+        {
+          "hi": "चन्द्रगुप्त द्वितीय और शशांक",
+          "en": "Chandragupta II and Shashanka"
+        },
+        {
+          "hi": "हर्षवर्धन और चालुक्य पुलकेशिन द्वितीय (Harsha & Pulakeshin II)",
+          "en": "Harshavardhana and Chalukya Pulakeshin II"
+        },
+        {
+          "hi": "राजराज चोल और राजेंद्र प्रथम",
+          "en": "Rajaraja Chola and Rajendra I"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वेहिंद (पेशावर) का प्रथम युद्ध 1001 ई. में महमूद गजनवी और किस हिन्दू राजा के बीच हुआ?",
+        "en": "The First Battle of Waihind (1001 AD) was fought between Mahmud Ghaznavi and whom?"
+      },
+      "o": [
+        {
+          "hi": "आनंदपाल",
+          "en": "Anandpal"
+        },
+        {
+          "hi": "दाहिर",
+          "en": "Dahir"
+        },
+        {
+          "hi": "हिन्दूशाही राजा जयपाल (King Jaipal)",
+          "en": "Hindushahi King Jaipal"
+        },
+        {
+          "hi": "पृथ्वीराज चौहान",
+          "en": "Prithviraj Chauhan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राओर का ऐतिहासिक युद्ध 712 ई. में मुहम्मद बिन कासिम और किस शासक के बीच हुआ?",
+        "en": "The historic Battle of Rawar (712 AD) was fought between Muhammad bin Qasim and whom?"
+      },
+      "o": [
+        {
+          "hi": "जयपाल",
+          "en": "Jaipal"
+        },
+        {
+          "hi": "आनंदपाल",
+          "en": "Anandpal"
+        },
+        {
+          "hi": "सिंध के राजा दाहिर (King Dahir of Sindh)",
+          "en": "King Dahir of Sindh"
+        },
+        {
+          "hi": "पोरस",
+          "en": "Porus"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पालखेड़ का प्रसिद्ध युद्ध (1728 ई.) में पेशवा बाजीराव प्रथम ने किसे हराया था?",
+        "en": "In the Battle of Palkhed (1728 AD), whom did Peshwa Bajirao I decisively defeat?"
+      },
+      "o": [
+        {
+          "hi": "मुगलों को",
+          "en": "Mughals"
+        },
+        {
+          "hi": "सिंधिया को",
+          "en": "Scindia"
+        },
+        {
+          "hi": "हैदराबाद के निजाम-उल-मुल्क को (Nizam of Hyderabad)",
+          "en": "Nizam-ul-Mulk of Hyderabad"
+        },
+        {
+          "hi": "अंग्रेजों को",
+          "en": "British"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भोपाल का युद्ध (1737 ई.) में बाजीराव प्रथम ने किस संयुक्त सेना को धूल चटाई थी?",
+        "en": "In the Battle of Bhopal (1737 AD), whom did Bajirao I defeat, signing Treaty of Duraha?"
+      },
+      "o": [
+        {
+          "hi": "अंग्रेज और पुर्तगाली",
+          "en": "British and Portuguese"
+        },
+        {
+          "hi": "हैदर अली और टीपू",
+          "en": "Hyder Ali and Tipu"
+        },
+        {
+          "hi": "मुगल सम्राट और हैदराबाद के निजाम की संयुक्त सेना",
+          "en": "Combined armies of Mughals and Nizam"
+        },
+        {
+          "hi": "राजपूतों को",
+          "en": "Rajputs"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अलीनगर की संधि से पूर्व 1756 में कलकत्ता पर नवाब सिराजुद्दौला द्वारा की गई विजय को क्या कहते हैं?",
+        "en": "What was Siraj-ud-Daulah's military capture of Calcutta in June 1756 termed?"
+      },
+      "o": [
+        {
+          "hi": "प्लासी की लड़ाई",
+          "en": "Battle of Plassey"
+        },
+        {
+          "hi": "बक्सर का घेरा",
+          "en": "Siege of Buxar"
+        },
+        {
+          "hi": "कलकत्ता का घेरा (Siege of Fort William / अलीनगर विजय)",
+          "en": "Siege of Fort William (Alinagar conquest)"
+        },
+        {
+          "hi": "हुगली युद्ध",
+          "en": "Hooghly war"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सेंट थोमे का युद्ध (1746 ई.) किस आंग्ल-फ्रांसीसी कर्नाटक युद्ध का प्रसिद्ध निर्णायक मुकाबला था?",
+        "en": "The Battle of St. Thome / Adyar (1746) was part of which historic conflict?"
+      },
+      "o": [
+        {
+          "hi": "द्वितीय कर्नाटक युद्ध",
+          "en": "Second Carnatic War"
+        },
+        {
+          "hi": "तृतीय कर्नाटक युद्ध",
+          "en": "Third Carnatic War"
+        },
+        {
+          "hi": "प्रथम कर्नाटक युद्ध (First Carnatic War - फ्रांसीसी बनाम अनवरुद्दीन)",
+          "en": "First Carnatic War (French vs Nawab of Carnatic)"
+        },
+        {
+          "hi": "प्लासी युद्ध",
+          "en": "Plassey War"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अंबर का युद्ध (1749 ई.) में फ्रांसीसी सहायता से चंदा साहिब और मुजफ्फर जंग ने किसे मारा था?",
+        "en": "In the Battle of Ambur (1749), who was defeated and killed with French assistance?"
+      },
+      "o": [
+        {
+          "hi": "मुहम्मद अली",
+          "en": "Muhammad Ali"
+        },
+        {
+          "hi": "नासिर जंग",
+          "en": "Nasir Jung"
+        },
+        {
+          "hi": "कर्नाटक के नवाब अनवरुद्दीन को (Anwaruddin)",
+          "en": "Anwaruddin (Nawab of Carnatic)"
+        },
+        {
+          "hi": "सआदत खां",
+          "en": "Saadat Khan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किर्की का युद्ध (1817 ई.) में अंग्रेजों ने किस अंतिम मराठा पेशवा की सेना को हराया?",
+        "en": "In the Battle of Khadki / Kirkee (1817), whom did the British defeat ending Maratha rule?"
+      },
+      "o": [
+        {
+          "hi": "माधवराव",
+          "en": "Madhavrao"
+        },
+        {
+          "hi": "नाना साहेब",
+          "en": "Nana Saheb"
+        },
+        {
+          "hi": "पेशवा बाजीराव द्वितीय (Peshwa Bajirao II)",
+          "en": "Peshwa Bajirao II"
+        },
+        {
+          "hi": "रघुनाथराव",
+          "en": "Raghunathrao"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चिलियांवाला का युद्ध 13 जनवरी 1849 को किनके बीच लड़ा गया जो अत्यंत भीषण व खूनी रहा?",
+        "en": "The bloody Battle of Chilianwala (13 Jan 1849) was fought between whom?"
+      },
+      "o": [
+        {
+          "hi": "अंग्रेज और मराठा",
+          "en": "British and Marathas"
+        },
+        {
+          "hi": "अंग्रेज और गोरखा",
+          "en": "British and Gurkhas"
+        },
+        {
+          "hi": "अंग्रेज सेना (लॉर्ड गफ) और सिख सेना (शेर सिंह)",
+          "en": "British Army (Lord Gough) & Sikh Army (Sher Singh)"
+        },
+        {
+          "hi": "अंग्रेज और अफगान",
+          "en": "British and Afghans"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रथम आंग्ल-अफगान युद्ध (1839-1842 ई.) किस ब्रिटिश गवर्नर जनरल के समय हुआ जो अंग्रेजों की भारी तबाही बनी?",
+        "en": "Under which Governor-General did the disastrous 1st Anglo-Afghan War take place?"
+      },
+      "o": [
+        {
+          "hi": "लॉर्ड बेंटिक",
+          "en": "Lord Bentinck"
+        },
+        {
+          "hi": "लॉर्ड हार्डिंग",
+          "en": "Lord Hardinge"
+        },
+        {
+          "hi": "लॉर्ड डलहौजी",
+          "en": "Lord Dalhousie"
+        },
+        {
+          "hi": "लॉर्ड ऑकलैंड (Lord Auckland)",
+          "en": "Lord Auckland"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "द्वितीय आंग्ल-अफगान युद्ध (1878-1880 ई.) किस वायसराय के काल में लड़ा गया और गंडमक की संधि हुई?",
+        "en": "Under which Viceroy was the 2nd Anglo-Afghan War fought, ending with Treaty of Gandamak?"
+      },
+      "o": [
+        {
+          "hi": "लॉर्ड मेयो",
+          "en": "Lord Mayo"
+        },
+        {
+          "hi": "लॉर्ड नार्थब्रुक",
+          "en": "Lord Northbrook"
+        },
+        {
+          "hi": "लॉर्ड रिपन",
+          "en": "Lord Ripon"
+        },
+        {
+          "hi": "लॉर्ड लिटन (Lord Lytton)",
+          "en": "Lord Lytton"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तीसरा आंग्ल-मराठा युद्ध (1817-1818 ई.) का सबसे स्थायी ऐतिहासिक परिणाम क्या निकला?",
+        "en": "What was the permanent historical outcome of the Third Anglo-Maratha War (1817-1818)?"
+      },
+      "o": [
+        {
+          "hi": "मराठा शक्ति का पुनरुत्थान",
+          "en": "Resurgence of Marathas"
+        },
+        {
+          "hi": "मुगलों की बहाली",
+          "en": "Restoration of Mughals"
+        },
+        {
+          "hi": "फ्रांसीसी सत्ता की स्थापना",
+          "en": "French rule"
+        },
+        {
+          "hi": "पेशवा पद की पूर्ण समाप्ति और मराठा साम्राज्य का ब्रिटिश भारत में विलय",
+          "en": "Total abolition of the Peshwaship & annexation of Maratha lands"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चतुर्थ आंग्ल-मैसूर युद्ध (1799 ई.) में टीपू सुल्तान की शहादत के बाद मैसूर पर क्या हुआ?",
+        "en": "What was the political fate of Mysore after Tipu Sultan's martyrdom in 1799?"
+      },
+      "o": [
+        {
+          "hi": "फ्रांसीसियों को सौंपा गया",
+          "en": "Ceded to French"
+        },
+        {
+          "hi": "मराठों को मिला",
+          "en": "Given to Marathas"
+        },
+        {
+          "hi": "निजाम को दिया गया",
+          "en": "Given to Nizam"
+        },
+        {
+          "hi": "सहायक संधि द्वारा वाडियार वंश के बालक को नाममात्र का राजा बनाया गया",
+          "en": "Imposed Subsidiary Alliance restoring puppet child of Wodeyars"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सारंगपुर का युद्ध 1437 ई. में राणा कुंभा और किस सुल्तान के बीच लड़ा गया था?",
+        "en": "The Battle of Sarangpur (1437 AD) was fought between Maharana Kumbha and which Sultan?"
+      },
+      "o": [
+        {
+          "hi": "बहादुर शाह",
+          "en": "Bahadur Shah"
+        },
+        {
+          "hi": "इब्राहिम लोदी",
+          "en": "Ibrahim Lodi"
+        },
+        {
+          "hi": "अहमद शाह",
+          "en": "Ahmad Shah"
+        },
+        {
+          "hi": "मालवा के सुल्तान महमूद खिलजी (Mahmud Khalji of Malwa)",
+          "en": "Mahmud Khalji of Malwa (built Vijay Stambha)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "खतौली का युद्ध 1517-1518 ई. में मेवाड़ के महाराणा सांगा ने दिल्ली के किस सुल्तान को हराया था?",
+        "en": "In the Battle of Khatoli (1517-18 AD), whom did Maharana Sanga of Mewar rout?"
+      },
+      "o": [
+        {
+          "hi": "बहलोल लोदी",
+          "en": "Bahlol Lodi"
+        },
+        {
+          "hi": "सिकंदर लोदी",
+          "en": "Sikandar Lodi"
+        },
+        {
+          "hi": "बाबर",
+          "en": "Babur"
+        },
+        {
+          "hi": "इब्राहिम लोदी (Ibrahim Lodi)",
+          "en": "Ibrahim Lodi"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मुदकी का युद्ध (18 दिसंबर 1845) और फिरोजशाह का युद्ध (21 दिसंबर 1845) किस युद्ध का भाग थे?",
+        "en": "The Battles of Mudki & Ferozeshah (Dec 1845) were fought during which historic war?"
+      },
+      "o": [
+        {
+          "hi": "आंग्ल-मराठा युद्ध",
+          "en": "Anglo-Maratha War"
+        },
+        {
+          "hi": "आंग्ल-मैसूर युद्ध",
+          "en": "Anglo-Mysore War"
+        },
+        {
+          "hi": "आंग्ल-अफगान युद्ध",
+          "en": "Anglo-Afghan War"
+        },
+        {
+          "hi": "प्रथम आंग्ल-सिख युद्ध (First Anglo-Sikh War)",
+          "en": "First Anglo-Sikh War"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अलीवाल का युद्ध 28 जनवरी 1846 को सर हैरी स्मिथ के नेतृत्व में किस सिख सेनापति के विरुद्ध हुआ?",
+        "en": "The Battle of Aliwal (1846) was won by British Sir Harry Smith against which Sikh general?"
+      },
+      "o": [
+        {
+          "hi": "शाम सिंह",
+          "en": "Sham Singh"
+        },
+        {
+          "hi": "गुलाब सिंह",
+          "en": "Gulab Singh"
+        },
+        {
+          "hi": "शेर सिंह",
+          "en": "Sher Singh"
+        },
+        {
+          "hi": "रणजोध सिंह मजीठिया (Ranjodh Singh Majithia)",
+          "en": "Ranjodh Singh Majithia"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रामनगर का युद्ध (22 नवंबर 1848) द्वितीय आंग्ल-सिख युद्ध में किस नदी के तट पर लड़ा गया था?",
+        "en": "On the banks of which river was the Battle of Ramnagar fought on 22 Nov 1848?"
+      },
+      "o": [
+        {
+          "hi": "झेलम नदी",
+          "en": "Jhelum river"
+        },
+        {
+          "hi": "रावी नदी",
+          "en": "Ravi river"
+        },
+        {
+          "hi": "सतलुज नदी",
+          "en": "Sutlej river"
+        },
+        {
+          "hi": "चिनाब नदी (Chenab River)",
+          "en": "Chenab River"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "धर्मत का युद्ध (15 अप्रैल 1658) में औरंगजेब और मुराद की संयुक्त सेना ने किसे पराजित किया था?",
+        "en": "In the Battle of Dharmat (1658), whom did Aurangzeb and Murad defeat?"
+      },
+      "o": [
+        {
+          "hi": "शाह शुजा",
+          "en": "Shah Shuja"
+        },
+        {
+          "hi": "मीर जुमला",
+          "en": "Mir Jumla"
+        },
+        {
+          "hi": "सुलेमान शिकोह",
+          "en": "Sulaiman Shikoh"
+        },
+        {
+          "hi": "शाही मुगल सेनापति महाराजा जसवंत सिंह व कासिम खां",
+          "en": "Imperial generals Jaswant Singh and Qasim Khan"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "देवराई की घाटी का युद्ध (अप्रैल 1659) में औरंगजेब ने किसे अंतिम रूप से पराजित किया?",
+        "en": "In the Battle of Deorai (April 1659), whom did Aurangzeb finally vanquish?"
+      },
+      "o": [
+        {
+          "hi": "शाह शुजा",
+          "en": "Shah Shuja"
+        },
+        {
+          "hi": "मुराद बख्श",
+          "en": "Murad Bakhsh"
+        },
+        {
+          "hi": "जसवंत सिंह",
+          "en": "Jaswant Singh"
+        },
+        {
+          "hi": "दारा शिकोह (Dara Shikoh)",
+          "en": "Dara Shikoh"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत की ऐतिहासिक लड़ाइयों ने भारतीय उपमहाद्वीप के राजनीतिक भाग्य को किस प्रकार प्रभावित किया?",
+        "en": "How did these monumental historic battles fundamentally shape the political destiny of India?"
+      },
+      "o": [
+        {
+          "hi": "केवल सीमाएं बदलीं",
+          "en": "Only changed borders"
+        },
+        {
+          "hi": "कोई स्थायी असर नहीं हुआ",
+          "en": "Had no lasting impact"
+        },
+        {
+          "hi": "व्यापार पर असर पड़ा मात्र",
+          "en": "Only affected commerce"
+        },
+        {
+          "hi": "साम्राज्यों के उत्थान-पतन, नई सभ्यताओं के आगमन और अंततः ब्रिटिश पराधीनता से स्वतंत्रता तक का मार्ग तय किया",
+          "en": "Triggered the rise and fall of empires & charted the course to independence"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}

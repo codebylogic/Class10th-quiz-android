@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विश्व इतिहास (World History)",
+  "subtitle": "पुनर्जागरण",
+  "description": "पुनर्जागरण (दांते, पेट्रार्क, विंची, माइकल एंजेलो, राफेल, वैज्ञानिक क्रांति, धर्म सुधार) पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "यूरोप में 'पुनर्जागरण' (Renaissance) का प्रारंभ 14वीं शताब्दी में सर्वप्रथम किस देश से माना जाता है?",
+        "en": "In which country did the European Renaissance originate in the 14th century?"
+      },
+      "o": [
+        {
+          "hi": "इटली के फ्लोरेंस नगर से (Florence, Italy)",
+          "en": "Florence, Italy"
+        },
+        {
+          "hi": "इंग्लैंड से",
+          "en": "England"
+        },
+        {
+          "hi": "फ्रांस से",
+          "en": "France"
+        },
+        {
+          "hi": "जर्मनी से",
+          "en": "Germany"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पुनर्जागरण का अग्रदूत (Pioneer of Renaissance) इटली के किस महान कवि को माना जाता है?",
+        "en": "Who is celebrated as the Pioneer of the Renaissance from Florence, Italy?"
+      },
+      "o": [
+        {
+          "hi": "दांते एलीगिएरी (Dante Alighieri - 1265-1321 ई.)",
+          "en": "Dante Alighieri (1265-1321 AD)"
+        },
+        {
+          "hi": "पेट्रार्क",
+          "en": "Petrarch"
+        },
+        {
+          "hi": "बोकाशियो",
+          "en": "Boccaccio"
+        },
+        {
+          "hi": "मैकियावेली",
+          "en": "Machiavelli"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दांते द्वारा इतालवी बोलचाल की भाषा टस्कन में रचित अमर महाकाव्य कौन-सा है?",
+        "en": "Which immortal epic was composed by Dante in the Tuscan vernacular language?"
+      },
+      "o": [
+        {
+          "hi": "डिवाइन कॉमेडी (The Divine Comedy)",
+          "en": "The Divine Comedy"
+        },
+        {
+          "hi": "डेकामेरोन",
+          "en": "Decameron"
+        },
+        {
+          "hi": "द प्रिंस",
+          "en": "The Prince"
+        },
+        {
+          "hi": "यूटोपिया",
+          "en": "Utopia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आधुनिक 'मानववाद का जनक' (Father of Humanism) किसे कहा जाता है?",
+        "en": "Who is universally recognized as the 'Father of Humanism' during Renaissance?"
+      },
+      "o": [
+        {
+          "hi": "पेट्रार्क (Petrarch - 1304-1374 ई.)",
+          "en": "Petrarch (1304-1374 AD)"
+        },
+        {
+          "hi": "दांते",
+          "en": "Dante"
+        },
+        {
+          "hi": "इरास्मस",
+          "en": "Erasmus"
+        },
+        {
+          "hi": "थॉमस मूर",
+          "en": "Thomas More"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इतालवी गद्य का जनक और प्रसिद्ध कहानी संग्रह 'डेकामेरोन' (Decameron) के रचयिता कौन थे?",
+        "en": "Who was the father of Italian prose and author of the celebrated 'Decameron'?"
+      },
+      "o": [
+        {
+          "hi": "जियोवानी बोकाशियो (Giovanni Boccaccio)",
+          "en": "Giovanni Boccaccio"
+        },
+        {
+          "hi": "पेट्रार्क",
+          "en": "Petrarch"
+        },
+        {
+          "hi": "मैकियावेली",
+          "en": "Machiavelli"
+        },
+        {
+          "hi": "राफेल",
+          "en": "Raphael"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्वविख्यात चित्र 'मोनालिसा' (Mona Lisa) और 'द लास्ट सपर' (The Last Supper) के चित्रकार कौन थे?",
+        "en": "Who was the master painter of the world-famous 'Mona Lisa' and 'The Last Supper'?"
+      },
+      "o": [
+        {
+          "hi": "लियोनार्डो दा विंची (Leonardo da Vinci)",
+          "en": "Leonardo da Vinci"
+        },
+        {
+          "hi": "माइकल एंजेलो",
+          "en": "Michelangelo"
+        },
+        {
+          "hi": "राफेल",
+          "en": "Raphael"
+        },
+        {
+          "hi": "टिशियन",
+          "en": "Titian"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वेटिकन सिटी के सिस्टिन चैपल की छत पर 'द लास्ट जजमेंट' और 'द फॉल ऑफ मैन' के भित्तिचित्र किसने बनाए?",
+        "en": "Who painted 'The Last Judgment' and 'The Fall of Man' on the ceiling of the Sistine Chapel?"
+      },
+      "o": [
+        {
+          "hi": "माइकल एंजेलो (Michelangelo Buonarroti)",
+          "en": "Michelangelo Buonarroti"
+        },
+        {
+          "hi": "लियोनार्डो दा विंची",
+          "en": "Leonardo da Vinci"
+        },
+        {
+          "hi": "राफेल",
+          "en": "Raphael"
+        },
+        {
+          "hi": "डोनाटेलो",
+          "en": "Donatello"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जीसस क्राइस्ट की माता मैडोना के अनुपम चित्र और 'सिस्टिन मैडोना' बनाने वाले महान चित्रकार कौन थे?",
+        "en": "Who was the Renaissance master renowned for his sublime portraits of Madonna (Sistine Madonna)?"
+      },
+      "o": [
+        {
+          "hi": "राफेल (Raphael Sanzio)",
+          "en": "Raphael Sanzio"
+        },
+        {
+          "hi": "लियोनार्डो दा विंची",
+          "en": "Leonardo da Vinci"
+        },
+        {
+          "hi": "माइकल एंजेलो",
+          "en": "Michelangelo"
+        },
+        {
+          "hi": "रेंब्रां",
+          "en": "Rembrandt"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आधुनिक राजनीतिक दर्शन के जनक और प्रसिद्ध ग्रंथ 'द प्रिंस' (The Prince) के रचयिता कौन थे?",
+        "en": "Who was the founder of modern political philosophy and author of the classic 'The Prince'?"
+      },
+      "o": [
+        {
+          "hi": "निकोलो मैकियावेली (Niccolo Machiavelli)",
+          "en": "Niccolo Machiavelli"
+        },
+        {
+          "hi": "थॉमस मूर",
+          "en": "Thomas More"
+        },
+        {
+          "hi": "इरास्मस",
+          "en": "Erasmus"
+        },
+        {
+          "hi": "मोंटेस्क्यू",
+          "en": "Montesquieu"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इंग्लैंड के प्रसिद्ध लेखक सर थॉमस मूर ने 1516 ई. में किस काल्पनिक आदर्श समाज पर पुस्तक लिखी?",
+        "en": "Which book on an ideal socialist island society was written by Sir Thomas More in 1516?"
+      },
+      "o": [
+        {
+          "hi": "यूटोपिया (Utopia)",
+          "en": "Utopia"
+        },
+        {
+          "hi": "द प्रिंस",
+          "en": "The Prince"
+        },
+        {
+          "hi": "इन प्रेज ऑफ फॉली",
+          "en": "The Praise of Folly"
+        },
+        {
+          "hi": "न्यू अटलांटिस",
+          "en": "New Atlantis"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हॉलैंड के प्रसिद्ध मानवतावादी विचारक इरास्मस ने पाखंडी पादरियों पर व्यंग्य करते हुए कौन-सी पुस्तक लिखी?",
+        "en": "Which satirical masterpiece mocking corrupt clerics was written by Erasmus of Rotterdam?"
+      },
+      "o": [
+        {
+          "hi": "इन प्रेज ऑफ फॉली (The Praise of Folly - 1509 ई.)",
+          "en": "The Praise of Folly (1509 AD)"
+        },
+        {
+          "hi": "यूटोपिया",
+          "en": "Utopia"
+        },
+        {
+          "hi": "डिवाइन कॉमेडी",
+          "en": "The Divine Comedy"
+        },
+        {
+          "hi": "डेकामेरोन",
+          "en": "Decameron"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जर्मनी में 1454 ई. में आधुनिक मुद्रण कला (Printing Press) का आविष्कार किसने किया था?",
+        "en": "Who invented the modern movable-type Printing Press in Germany around 1454 AD?"
+      },
+      "o": [
+        {
+          "hi": "जोहान्स गुटेनबर्ग (Johannes Gutenberg)",
+          "en": "Johannes Gutenberg"
+        },
+        {
+          "hi": "विलियम कैक्सटन",
+          "en": "William Caxton"
+        },
+        {
+          "hi": "मार्टिन लूथर",
+          "en": "Martin Luther"
+        },
+        {
+          "hi": "गैलीलियो",
+          "en": "Galileo"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गुटेनबर्ग के प्रिंटिंग प्रेस पर छपने वाली विश्व की प्रथम पुस्तक कौन-सी थी?",
+        "en": "Which was the very first major book printed on Gutenberg's movable-type press in 1455?"
+      },
+      "o": [
+        {
+          "hi": "गुटेनबर्ग बाइबिल (The Gutenberg Bible)",
+          "en": "The Gutenberg Bible"
+        },
+        {
+          "hi": "डिवाइन कॉमेडी",
+          "en": "The Divine Comedy"
+        },
+        {
+          "hi": "द प्रिंस",
+          "en": "The Prince"
+        },
+        {
+          "hi": "यूटोपिया",
+          "en": "Utopia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सौरमंडल का सूर्यकेंद्रीय सिद्धांत (Heliocentric Theory) सर्वप्रथम किस पोलिश खगोलविद ने दिया?",
+        "en": "Which Polish astronomer first propounded the Heliocentric model that the Earth orbits the Sun?"
+      },
+      "o": [
+        {
+          "hi": "गैलीलियो",
+          "en": "Galileo"
+        },
+        {
+          "hi": "निकोलस कोपरनिकस (Nicolaus Copernicus - 1543 ई.)",
+          "en": "Nicolaus Copernicus (1543 AD)"
+        },
+        {
+          "hi": "जोहान्स केपलर",
+          "en": "Johannes Kepler"
+        },
+        {
+          "hi": "आइजैक न्यूटन",
+          "en": "Isaac Newton"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दूरबीन (Telescope) का निर्माण कर कोपरनिकस के सिद्धांत की पुष्टि करने वाले इतालवी वैज्ञानिक कौन थे?",
+        "en": "Which Italian scientist perfected the telescope, confirming Copernicus's heliocentric theory?"
+      },
+      "o": [
+        {
+          "hi": "कोपरनिकस",
+          "en": "Copernicus"
+        },
+        {
+          "hi": "गैलीलियो गैलीली (Galileo Galilei)",
+          "en": "Galileo Galilei"
+        },
+        {
+          "hi": "केपलर",
+          "en": "Kepler"
+        },
+        {
+          "hi": "न्यूटन",
+          "en": "Newton"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ग्रहों की गति के तीन नियम (Laws of Planetary Motion) किस जर्मन खगोलविद ने प्रतिपादित किए?",
+        "en": "Which German astronomer discovered and formulated the three Laws of Planetary Motion?"
+      },
+      "o": [
+        {
+          "hi": "गैलीलियो",
+          "en": "Galileo"
+        },
+        {
+          "hi": "जोहान्स केपलर (Johannes Kepler)",
+          "en": "Johannes Kepler"
+        },
+        {
+          "hi": "कोपरनिकस",
+          "en": "Copernicus"
+        },
+        {
+          "hi": "टॉलेमी",
+          "en": "Ptolemy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गुरुत्वाकर्षण का सार्वभौमिक नियम और गति के तीन नियम किस महान ब्रिटिश वैज्ञानिक ने दिए?",
+        "en": "Which British genius formulated the Universal Law of Gravitation and Laws of Motion in 'Principia'?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट बॉयल",
+          "en": "Robert Boyle"
+        },
+        {
+          "hi": "सर आइजैक न्यूटन (Sir Isaac Newton - 1687 ई.)",
+          "en": "Sir Isaac Newton (1687 AD)"
+        },
+        {
+          "hi": "विलियम हार्वे",
+          "en": "William Harvey"
+        },
+        {
+          "hi": "फ्रांसिस बेकन",
+          "en": "Francis Bacon"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में रक्त परिसंचरण तंत्र (Blood Circulation System) की खोज 1628 ई. में किसने की?",
+        "en": "Who discovered the systemic circulation of blood pumped by the heart in 1628 AD?"
+      },
+      "o": [
+        {
+          "hi": "एड्रियन वेसालियस",
+          "en": "Andreas Vesalius"
+        },
+        {
+          "hi": "विलियम हार्वे (William Harvey, इंग्लैंड)",
+          "en": "William Harvey (England)"
+        },
+        {
+          "hi": "एडवर्ड जेनर",
+          "en": "Edward Jenner"
+        },
+        {
+          "hi": "लुई पाश्चर",
+          "en": "Louis Pasteur"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "धर्म सुधार आंदोलन (Protestant Reformation) की शुरुआत 1517 ई. में किस जर्मन पादरी ने की?",
+        "en": "Who launched the Protestant Reformation in 1517 AD by nailing his 95 Theses at Wittenberg?"
+      },
+      "o": [
+        {
+          "hi": "जॉन केल्विन",
+          "en": "John Calvin"
+        },
+        {
+          "hi": "मार्टिन लूथर (Martin Luther - 95 Theses)",
+          "en": "Martin Luther (95 Theses)"
+        },
+        {
+          "hi": "उलरिच ज्विंगली",
+          "en": "Huldrych Zwingli"
+        },
+        {
+          "hi": "जॉन वाइक्लिफ",
+          "en": "John Wycliffe"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मार्टिन लूथर ने कैथोलिक चर्च द्वारा बेचे जाने वाले किस क्षमा-पत्र का प्रखर विरोध किया था?",
+        "en": "Which corrupt papal practice of selling forgiveness of sins did Martin Luther protest?"
+      },
+      "o": [
+        {
+          "hi": "दशमांश कर",
+          "en": "Tithes"
+        },
+        {
+          "hi": "पापमोचन पत्र (इंडल्जेंस / Indulgences)",
+          "en": "Sale of Indulgences (Certificates)"
+        },
+        {
+          "hi": "बपतिस्मा",
+          "en": "Baptism"
+        },
+        {
+          "hi": "धर्मसभा",
+          "en": "Inquisition"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मार्टिन लूथर ने बाइबिल का जनसाधारण की किस भाषा में सर्वप्रथम अनुवाद किया था?",
+        "en": "Into which national vernacular language did Martin Luther first translate the Bible from Latin?"
+      },
+      "o": [
+        {
+          "hi": "अंग्रेजी",
+          "en": "English"
+        },
+        {
+          "hi": "जर्मन भाषा (German Language)",
+          "en": "German language"
+        },
+        {
+          "hi": "फ्रेंच",
+          "en": "French"
+        },
+        {
+          "hi": "रूसी",
+          "en": "Russian"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "इंग्लैंड के सर्वकालिक महानतम नाटककार विलियम शेक्सपियर की अमर रचनाओं में कौन शामिल है?",
+        "en": "Which timeless tragic drama was authored by England's literary giant William Shakespeare?"
+      },
+      "o": [
+        {
+          "hi": "यूटोपिया",
+          "en": "Utopia"
+        },
+        {
+          "hi": "रोमियो-जूलियट, हेमलेट, मैकबेथ, ओथेलो",
+          "en": "Romeo and Juliet, Hamlet, Macbeth, Othello"
+        },
+        {
+          "hi": "द प्रिंस",
+          "en": "The Prince"
+        },
+        {
+          "hi": "द लास्ट सपर",
+          "en": "The Last Supper"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्पेन के महान लेखक मिगुएल डी सर्वेंटिस द्वारा रचित विश्वविख्यात हास्य उपन्यास कौन-सा है?",
+        "en": "Which celebrated comic masterpiece novel was written by Spanish author Miguel de Cervantes?"
+      },
+      "o": [
+        {
+          "hi": "डिवाइन कॉमेडी",
+          "en": "Divine Comedy"
+        },
+        {
+          "hi": "डॉन क्विक्सोट (Don Quixote - 1605 ई.)",
+          "en": "Don Quixote (1605 AD)"
+        },
+        {
+          "hi": "डेकामेरोन",
+          "en": "Decameron"
+        },
+        {
+          "hi": "पैराडाइज लॉस्ट",
+          "en": "Paradise Lost"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अंग्रेजी काव्य का जनक (Father of English Poetry) किसे माना जाता है जिन्होंने 'कैंटरबरी टेल्स' लिखी?",
+        "en": "Who is celebrated as the 'Father of English Poetry', author of 'The Canterbury Tales'?"
+      },
+      "o": [
+        {
+          "hi": "जॉन मिल्टन",
+          "en": "John Milton"
+        },
+        {
+          "hi": "ज्योफ्री चॉसर (Geoffrey Chaucer)",
+          "en": "Geoffrey Chaucer"
+        },
+        {
+          "hi": "विलियम शेक्सपियर",
+          "en": "William Shakespeare"
+        },
+        {
+          "hi": "एडमंड स्पेंसर",
+          "en": "Edmund Spenser"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पुनर्जागरण काल में यूरोप के किस प्रसिद्ध मूर्तिकार ने पहली बार स्वतंत्र कांस्य प्रतिमा 'डेविड' बनाई?",
+        "en": "Which early Renaissance Florentine sculptor created the first free-standing bronze 'David'?"
+      },
+      "o": [
+        {
+          "hi": "माइकल एंजेलो",
+          "en": "Michelangelo"
+        },
+        {
+          "hi": "डोनाटेलो (Donatello)",
+          "en": "Donatello"
+        },
+        {
+          "hi": "राफेल",
+          "en": "Raphael"
+        },
+        {
+          "hi": "बरनिनी",
+          "en": "Bernini"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पुनर्जागरण काल की सबसे प्रमुख मूल वैचारिक विशेषता क्या थी?",
+        "en": "What was the core philosophical and intellectual essence defining the Renaissance?"
+      },
+      "o": [
+        {
+          "hi": "धर्म का अंधानुकरण",
+          "en": "Blind religious faith"
+        },
+        {
+          "hi": "मानववाद, तर्क, वैज्ञानिक दृष्टिकोण और व्यक्तिवाद",
+          "en": "Humanism, reason, scientific inquiry & individualism"
+        },
+        {
+          "hi": "सामंतवाद की मजबूती",
+          "en": "Strengthening of feudalism"
+        },
+        {
+          "hi": "वैराग्य और संन्यास",
+          "en": "Asceticism and monasticism"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1453 ई. में तुर्कों द्वारा किस ईसाई साम्राज्य की राजधानी पर अधिकार से पुनर्जागरण को गति मिली?",
+        "en": "The fall of which historic Christian capital to Ottoman Turks in 1453 accelerated Renaissance?"
+      },
+      "o": [
+        {
+          "hi": "रोम",
+          "en": "Rome"
+        },
+        {
+          "hi": "एथेंस",
+          "en": "Athens"
+        },
+        {
+          "hi": "कुस्तुंतुनिया / कॉन्स्टेंटिनोपल (Constantinople / इस्तांबुल)",
+          "en": "Constantinople (modern Istanbul)"
+        },
+        {
+          "hi": "वेनिस",
+          "en": "Venice"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कुस्तुंतुनिया के पतन के बाद यूनानी और लैटिन विद्वान अपनी दुर्लभ पांडुलिपियों के साथ कहाँ भागे?",
+        "en": "Following the fall of Constantinople in 1453, where did Greek and Latin scholars seek refuge?"
+      },
+      "o": [
+        {
+          "hi": "लंदन",
+          "en": "London"
+        },
+        {
+          "hi": "पेरिस",
+          "en": "Paris"
+        },
+        {
+          "hi": "इटली के नगरों में (फ्लोरेंस, रोम, वेनिस)",
+          "en": "Italian cities (Florence, Rome, Venice)"
+        },
+        {
+          "hi": "मैड्रिड",
+          "en": "Madrid"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पुनर्जागरण काल में फ्लोरेंस नगर पर किस समृद्ध और कला-प्रेमी परिवार का शक्तिशाली शासन था?",
+        "en": "Which fabulously wealthy family patronized arts and governed Florence during the Renaissance?"
+      },
+      "o": [
+        {
+          "hi": "बोर्गिया परिवार",
+          "en": "Borgia family"
+        },
+        {
+          "hi": "हैब्सबर्ग परिवार",
+          "en": "Habsburg family"
+        },
+        {
+          "hi": "मेदिसी परिवार (Medici Family - लोरेंजो डी मेदिसी)",
+          "en": "Medici family (Lorenzo the Magnificent)"
+        },
+        {
+          "hi": "ट्यूडर परिवार",
+          "en": "Tudor family"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लियोनार्डो दा विंची की बहुमुखी प्रतिभा में कौन-से क्षेत्र शामिल थे?",
+        "en": "Which diverse fields reflected the polymath genius of Leonardo da Vinci ('Renaissance Man')?"
+      },
+      "o": [
+        {
+          "hi": "केवल चित्रकला",
+          "en": "Only painting"
+        },
+        {
+          "hi": "केवल मूर्तिकला",
+          "en": "Only sculpture"
+        },
+        {
+          "hi": "चित्रकार, वास्तुकार, इंजीनियर, वैज्ञानिक, शरीर-विज्ञानी और संगीतज्ञ",
+          "en": "Painter, architect, engineer, scientist, anatomist & musician"
+        },
+        {
+          "hi": "केवल राजनीति",
+          "en": "Only politics"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "माइकल एंजेलो द्वारा संगमरमर से तराशी गई ईसा मसीह और माता मेरी की विश्वप्रसिद्ध मूर्ति कौन-सी है?",
+        "en": "Which peerless marble sculpture of Mother Mary holding Jesus's body was sculpted by Michelangelo?"
+      },
+      "o": [
+        {
+          "hi": "डेविड",
+          "en": "David"
+        },
+        {
+          "hi": "मूसा",
+          "en": "Moses"
+        },
+        {
+          "hi": "पिएटा (Pieta - सेंट पीटर्स बेसिलिका, वेटिकन)",
+          "en": "Pieta (St. Peter's Basilica, Vatican)"
+        },
+        {
+          "hi": "अपोलो",
+          "en": "Apollo"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वेटिकन में 'द स्कूल ऑफ एथेंस' (The School of Athens) का प्रसिद्ध भित्तिचित्र किस चित्रकार ने बनाया?",
+        "en": "Who painted the iconic masterpiece fresco 'The School of Athens' in the Vatican papal apartments?"
+      },
+      "o": [
+        {
+          "hi": "लियोनार्डो दा विंची",
+          "en": "Leonardo da Vinci"
+        },
+        {
+          "hi": "माइकल एंजेलो",
+          "en": "Michelangelo"
+        },
+        {
+          "hi": "राफेल (Raphael Sanzio - 1511 ई.)",
+          "en": "Raphael Sanzio (1511 AD)"
+        },
+        {
+          "hi": "टिशियन",
+          "en": "Titian"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पुनर्जागरण काल में इंग्लैंड के महान महाकाव्य 'पैराडाइज लॉस्ट' (Paradise Lost) के रचयिता कौन थे?",
+        "en": "Who authored the monumental English epic poem 'Paradise Lost' (1667)?"
+      },
+      "o": [
+        {
+          "hi": "शेक्सपियर",
+          "en": "Shakespeare"
+        },
+        {
+          "hi": "चॉसर",
+          "en": "Chaucer"
+        },
+        {
+          "hi": "जॉन मिल्टन (John Milton)",
+          "en": "John Milton"
+        },
+        {
+          "hi": "वर्ड्सवर्थ",
+          "en": "Wordsworth"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आधुनिक प्रयोगात्मक विज्ञान का जन्मदाता (Father of Experimental Science) किसे कहा जाता है?",
+        "en": "Who is regarded as the pioneer/founder of modern experimental inductive science in England?"
+      },
+      "o": [
+        {
+          "hi": "आइजैक न्यूटन",
+          "en": "Isaac Newton"
+        },
+        {
+          "hi": "विलियम हार्वे",
+          "en": "William Harvey"
+        },
+        {
+          "hi": "रोजर बेकन एवं फ्रांसिस बेकन (Roger & Francis Bacon)",
+          "en": "Roger Bacon and Francis Bacon"
+        },
+        {
+          "hi": "जॉन लॉक",
+          "en": "John Locke"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पुनर्जागरण काल में भूगोल और समुद्री खोजों को प्रोत्साहन देने वाले पुर्तगाल के राजकुमार कौन थे?",
+        "en": "Which Portuguese royal pioneered the Age of Discovery, founding a navigation academy?"
+      },
+      "o": [
+        {
+          "hi": "राजा मैनुअल",
+          "en": "King Manuel"
+        },
+        {
+          "hi": "वास्कोडिगामा",
+          "en": "Vasco da Gama"
+        },
+        {
+          "hi": "प्रिंस हेनरी द नेविगेटर (Prince Henry the Navigator)",
+          "en": "Prince Henry the Navigator"
+        },
+        {
+          "hi": "कोलंबस",
+          "en": "Columbus"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1492 ई. में स्पेन के सहयोग से अटलांटिक पार कर अमेरिका की खोज करने वाले नाविक कौन थे?",
+        "en": "Which Italian explorer sailing under Spanish flag reached the Americas on 12 Oct 1492?"
+      },
+      "o": [
+        {
+          "hi": "वास्कोडिगामा",
+          "en": "Vasco da Gama"
+        },
+        {
+          "hi": "अमेरीगो वेस्पूची",
+          "en": "Amerigo Vespucci"
+        },
+        {
+          "hi": "क्रिस्टोफर कोलंबस (Christopher Columbus)",
+          "en": "Christopher Columbus"
+        },
+        {
+          "hi": "मैगलन",
+          "en": "Ferdinand Magellan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व का समुद्री मार्ग से पहला चक्कर (Circumnavigation of Earth) लगाने वाले नाविक कौन थे?",
+        "en": "Whose expedition (1519-1522) first sailed around the entire globe proving Earth is round?"
+      },
+      "o": [
+        {
+          "hi": "कोलंबस",
+          "en": "Columbus"
+        },
+        {
+          "hi": "वास्कोडिगामा",
+          "en": "Vasco da Gama"
+        },
+        {
+          "hi": "फर्डिनेंड मैगलन और जुआन सेबेस्टियन एलकानो (Magellan)",
+          "en": "Ferdinand Magellan & Juan Sebastian Elcano"
+        },
+        {
+          "hi": "कैप्टन कुक",
+          "en": "Captain Cook"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अमेरिका महाद्वीप का नाम किस इतालवी नाविक के नाम पर रखा गया जिसने इसे 'नई दुनिया' बताया?",
+        "en": "After which Italian explorer was the American continent named who termed it 'Mundus Novus'?"
+      },
+      "o": [
+        {
+          "hi": "कोलंबस",
+          "en": "Columbus"
+        },
+        {
+          "hi": "मार्को पोलो",
+          "en": "Marco Polo"
+        },
+        {
+          "hi": "अमेरीगो वेस्पूची (Amerigo Vespucci)",
+          "en": "Amerigo Vespucci"
+        },
+        {
+          "hi": "कैबोट",
+          "en": "John Cabot"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रोमन कैथोलिक चर्च द्वारा धर्म सुधारकों के विरुद्ध चलाए गए आंदोलन को क्या कहा जाता है?",
+        "en": "What was the Catholic Church's defensive response against the Protestant surge termed?"
+      },
+      "o": [
+        {
+          "hi": "क्रूसेड (धर्मयुद्ध)",
+          "en": "Crusades"
+        },
+        {
+          "hi": "इनक्विजिशन",
+          "en": "Inquisition"
+        },
+        {
+          "hi": "मानववाद",
+          "en": "Humanism"
+        },
+        {
+          "hi": "प्रति-धर्म सुधार आंदोलन (Counter-Reformation)",
+          "en": "Counter-Reformation"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कैथोलिक धर्म की रक्षा और प्रसार हेतु 'सोसाइटी ऑफ जीसस' (जेसुइट्स) की स्थापना 1540 में किसने की?",
+        "en": "Who founded the militant Catholic missionary order 'Society of Jesus' (Jesuits) in 1540?"
+      },
+      "o": [
+        {
+          "hi": "मार्टिन लूथर",
+          "en": "Martin Luther"
+        },
+        {
+          "hi": "जॉन केल्विन",
+          "en": "John Calvin"
+        },
+        {
+          "hi": "पोप लियो दसवें",
+          "en": "Pope Leo X"
+        },
+        {
+          "hi": "इग्नेशियस लोयोला (Ignatius of Loyola)",
+          "en": "Ignatius of Loyola"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पुनर्जागरण काल में चित्रकला में यथार्थवाद, गहराई और त्रिविमीय प्रभाव (3D / Perspective) किसने विकसित किया?",
+        "en": "Who mathematically perfected linear perspective and depth in early Renaissance painting?"
+      },
+      "o": [
+        {
+          "hi": "पेट्रार्क",
+          "en": "Petrarch"
+        },
+        {
+          "hi": "बोकाशियो",
+          "en": "Boccaccio"
+        },
+        {
+          "hi": "दांते",
+          "en": "Dante"
+        },
+        {
+          "hi": "मासाचियो एवं ब्रूनेलेस्की (Masaccio & Brunelleschi)",
+          "en": "Masaccio and Brunelleschi"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "फ्लोरेंस के प्रसिद्ध कैथेड्रल (डुओमो / Duomo) का विशाल गुंबद किस महान वास्तुकार ने बनाया?",
+        "en": "Who designed and engineered the world's largest brick dome of Santa Maria del Fiore in Florence?"
+      },
+      "o": [
+        {
+          "hi": "माइकल एंजेलो",
+          "en": "Michelangelo"
+        },
+        {
+          "hi": "लियोनार्डो",
+          "en": "Leonardo"
+        },
+        {
+          "hi": "राफेल",
+          "en": "Raphael"
+        },
+        {
+          "hi": "फिलिपो ब्रूनेलेस्की (Filippo Brunelleschi)",
+          "en": "Filippo Brunelleschi"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पुनर्जागरण काल में साहित्य सृजन में लैटिन भाषा के स्थान पर किसका प्रयोग बढ़ा?",
+        "en": "During the Renaissance, what linguistic shift revolutionized European literature?"
+      },
+      "o": [
+        {
+          "hi": "ग्रीक भाषा का",
+          "en": "Greek language"
+        },
+        {
+          "hi": "अरबी भाषा का",
+          "en": "Arabic language"
+        },
+        {
+          "hi": "संस्कृत का",
+          "en": "Sanskrit language"
+        },
+        {
+          "hi": "स्थानीय लोकभाषाओं (इटैलियन, फ्रेंच, इंग्लिश, जर्मन, स्पैनिश)",
+          "en": "National vernacular languages (Italian, English, French, German)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मार्टिन लूथर ने अपने 95 विरोध-पत्र (Theses) 31 अक्टूबर 1517 को किस चर्च के द्वार पर चिपकाए थे?",
+        "en": "On the door of which church did Martin Luther nail his 95 Theses in October 1517?"
+      },
+      "o": [
+        {
+          "hi": "सेंट पीटर्स, रोम",
+          "en": "St. Peter's, Rome"
+        },
+        {
+          "hi": "नोट्रे डेम, पेरिस",
+          "en": "Notre-Dame, Paris"
+        },
+        {
+          "hi": "वेस्टमिंस्टर एबे, लंदन",
+          "en": "Westminster Abbey, London"
+        },
+        {
+          "hi": "विटनबर्ग कैसल चर्च (Wittenberg Castle Church, जर्मनी)",
+          "en": "Wittenberg Castle Church (Germany)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कैथोलिक चर्च के सर्वोच्च धर्मगुरु 'पोप' का प्रधान कार्यालय कहाँ स्थित है?",
+        "en": "Where is the supreme papal headquarters of the Roman Catholic Church situated?"
+      },
+      "o": [
+        {
+          "hi": "लंदन",
+          "en": "London"
+        },
+        {
+          "hi": "पेरिस",
+          "en": "Paris"
+        },
+        {
+          "hi": "एथेंस",
+          "en": "Athens"
+        },
+        {
+          "hi": "वेटिकन सिटी (रोम / Vatican City)",
+          "en": "Vatican City (Rome)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पुनर्जागरण काल में स्थापित 'वैज्ञानिक क्रांति' का मानव समाज पर क्या दूरगामी प्रभाव पड़ा?",
+        "en": "What was the transformative impact of the Scientific Revolution born of the Renaissance?"
+      },
+      "o": [
+        {
+          "hi": "धार्मिक कट्टरता में वृद्धि",
+          "en": "Rise in superstition"
+        },
+        {
+          "hi": "युद्धों की समाप्ति",
+          "en": "Total end of wars"
+        },
+        {
+          "hi": "कला का विनाश",
+          "en": "Destruction of art"
+        },
+        {
+          "hi": "तर्क, प्रत्यक्ष प्रमाण, अनुसंधान और औद्योगिक क्रांति की नींव पड़ना",
+          "en": "Enthroning reason, empirical observation & paving way for Industrial Age"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "फ्रांस के प्रसिद्ध लेखक फ्रांस्वा रेबलास (Rabelais) ने किस हास्य व्यंग्य उपन्यास की रचना की?",
+        "en": "Which famous French satirical classic on medieval education was written by Francois Rabelais?"
+      },
+      "o": [
+        {
+          "hi": "द प्रिंस",
+          "en": "The Prince"
+        },
+        {
+          "hi": "डॉन क्विक्सोट",
+          "en": "Don Quixote"
+        },
+        {
+          "hi": "यूटोपिया",
+          "en": "Utopia"
+        },
+        {
+          "hi": "गार्गेन्चुआ और पैंटाग्रूएल (Gargantua and Pantagruel)",
+          "en": "Gargantua and Pantagruel"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पुनर्जागरण शब्द (Renaissance) मूल रूप से किस भाषा का शब्द है जिसका अर्थ 'पुनर्जन्म' है?",
+        "en": "The word 'Renaissance' (meaning rebirth of learning) is originally derived from which language?"
+      },
+      "o": [
+        {
+          "hi": "लैटिन",
+          "en": "Latin"
+        },
+        {
+          "hi": "इटैलियन",
+          "en": "Italian"
+        },
+        {
+          "hi": "जर्मन",
+          "en": "German"
+        },
+        {
+          "hi": "फ्रांसीसी भाषा (French Language)",
+          "en": "French language"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आधुनिक युग का प्रथम राजनीतिक दार्शनिक और यथार्थवादी विचारक किसे माना जाता है?",
+        "en": "Who is celebrated as the first realistic, secular political thinker of the modern era?"
+      },
+      "o": [
+        {
+          "hi": "अरस्तु",
+          "en": "Aristotle"
+        },
+        {
+          "hi": "प्लेटो",
+          "en": "Plato"
+        },
+        {
+          "hi": "थॉमस एक्विनास",
+          "en": "Thomas Aquinas"
+        },
+        {
+          "hi": "निकोलो मैकियावेली (Niccolo Machiavelli)",
+          "en": "Niccolo Machiavelli"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पुनर्जागरण ने यूरोपीय मध्यकाल के किस अंधकारमय युग का अंत कर आधुनिक युग का सूत्रपात किया?",
+        "en": "Renaissance brought an end to which era, ushering in the Modern Age in world history?"
+      },
+      "o": [
+        {
+          "hi": "पाषाण काल",
+          "en": "Stone Age"
+        },
+        {
+          "hi": "कांस्य युग",
+          "en": "Bronze Age"
+        },
+        {
+          "hi": "प्राचीन काल",
+          "en": "Ancient Classical era"
+        },
+        {
+          "hi": "सामंतवादी मध्यकाल और चर्च के बौद्धिक एकाधिकार (Dark Ages)",
+          "en": "Feudal Dark Ages & Church's intellectual monopoly"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}

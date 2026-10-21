@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विश्व इतिहास (World History)",
+  "subtitle": "जापानी साम्राज्यवाद",
+  "description": "जापानी साम्राज्यवाद (मेइजी पुनर्स्थापना, चीन-जापान युद्ध, रूस पर विजय 1905, पर्ल हार्बर हमला 1941, हिरोशिमा-नागासाकी, आत्मसमर्पण 1945) पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "1853 ई. में सदियों से अलग-थलग पड़े जापान के बंदरगाहों को व्यापार हेतु खोलने वाला अमेरिकी नौसैनिक अधिकारी कौन था?",
+        "en": "Which US naval officer forced isolated feudal Japan to open its ports to world trade in 1853?"
+      },
+      "o": [
+        {
+          "hi": "कमोडोर मैथ्यू पेरी (Commodore Matthew Perry - काले जहाज)",
+          "en": "Commodore Matthew Perry (Black Ships)"
+        },
+        {
+          "hi": "जनरल डगलस मैकआर्थर",
+          "en": "General Douglas MacArthur"
+        },
+        {
+          "hi": "एडमिरल निमिट्ज",
+          "en": "Admiral Nimitz"
+        },
+        {
+          "hi": "कैप्टन कुक",
+          "en": "Captain Cook"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जापान में 1868 ई. में शोगुन (सामंती सैन्य शासक) की सत्ता का अंत कर कौन-सी युगांतरकारी क्रांति हुई?",
+        "en": "Which historic 1868 transformation ended Tokugawa Shogunate feudalism, restoring imperial rule?"
+      },
+      "o": [
+        {
+          "hi": "मेइजी पुनर्स्थापना (Meiji Restoration - सम्राट मुत्सुहितो)",
+          "en": "Meiji Restoration (Emperor Mutsuhito)"
+        },
+        {
+          "hi": "ताइशो क्रांति",
+          "en": "Taisho Revolution"
+        },
+        {
+          "hi": "शोवा क्रांति",
+          "en": "Showa Revolution"
+        },
+        {
+          "hi": "सामुराई विद्रोह",
+          "en": "Samurai Revolt"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मेइजी पुनर्स्थापना के समय जापान के प्रबुद्ध सम्राट कौन बने जिन्होंने आधुनिक सुधारों का नेतृत्व किया?",
+        "en": "Who was the enlightened Emperor of Japan who presided over the rapid modernization during Meiji era?"
+      },
+      "o": [
+        {
+          "hi": "सम्राट मुत्सुहितो (Emperor Mutsuhito / Meiji)",
+          "en": "Emperor Mutsuhito (Meiji)"
+        },
+        {
+          "hi": "सम्राट हिरोहितो",
+          "en": "Emperor Hirohito"
+        },
+        {
+          "hi": "सम्राट अकिहितो",
+          "en": "Emperor Akihito"
+        },
+        {
+          "hi": "सम्राट योशिहितो",
+          "en": "Emperor Yoshihito"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जापान ने अपने आधुनिकीकरण के लिए किस यूरोपीय देश के संविधान के आधार पर 1889 में संविधान बनाया?",
+        "en": "On the constitutional model of which European power did Meiji Japan frame its 1889 Constitution?"
+      },
+      "o": [
+        {
+          "hi": "जर्मनी / प्रशिया का संविधान (Prussian Constitution)",
+          "en": "Prussia / Germany"
+        },
+        {
+          "hi": "ब्रिटेन का संविधान",
+          "en": "British Constitution"
+        },
+        {
+          "hi": "फ्रांस का संविधान",
+          "en": "French Constitution"
+        },
+        {
+          "hi": "रूसी संविधान",
+          "en": "Russian Constitution"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जापान की राष्ट्रीय संसद (Legislature) को आधिकारिक रूप से क्या कहा जाता है?",
+        "en": "What is the official constitutional title of the National Parliament of Japan?"
+      },
+      "o": [
+        {
+          "hi": "डायट (The National Diet / कोक्काई)",
+          "en": "The National Diet (Kokkai)"
+        },
+        {
+          "hi": "ड्यूमा",
+          "en": "Duma"
+        },
+        {
+          "hi": "रीकश्टाग",
+          "en": "Reichstag"
+        },
+        {
+          "hi": "कांग्रेस",
+          "en": "Congress"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रथम चीन-जापान युद्ध (1894-1895 ई.) में जापान की विजय के बाद कौन-सी अपमानजनक संधि हुई?",
+        "en": "By which 1895 treaty did victorious Japan force Qing China to cede Taiwan and recognize Korean independence?"
+      },
+      "o": [
+        {
+          "hi": "शिमोनोसेकी की संधि (Treaty of Shimonoseki - 1895 ई.)",
+          "en": "Treaty of Shimonoseki (1895 AD)"
+        },
+        {
+          "hi": "नानकिंग की संधि",
+          "en": "Treaty of Nanking"
+        },
+        {
+          "hi": "पेकिंग संधि",
+          "en": "Treaty of Peking"
+        },
+        {
+          "hi": "पोर्ट्समाउथ संधि",
+          "en": "Treaty of Portsmouth"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1904-1905 के ऐतिहासिक रूस-जापान युद्ध में किस एशियाई देश ने रूस की विशाल सेना को पराजित किया?",
+        "en": "In the historic 1904-1905 war, which Asian country stunned the world by defeating imperial Russia?"
+      },
+      "o": [
+        {
+          "hi": "जापान (Japan - त्सुशिमा जलसंधि युद्ध)",
+          "en": "Japan (Battle of Tsushima)"
+        },
+        {
+          "hi": "चीन",
+          "en": "China"
+        },
+        {
+          "hi": "कोरिया",
+          "en": "Korea"
+        },
+        {
+          "hi": "वियतनाम",
+          "en": "Vietnam"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रूस-जापान युद्ध (1905) को समाप्त कराने हेतु किस अमेरिकी राष्ट्रपति ने 'पोर्ट्समाउथ की संधि' कराई?",
+        "en": "Which US President mediated the Treaty of Portsmouth ending the Russo-Japanese War in 1905?"
+      },
+      "o": [
+        {
+          "hi": "थियोडोर रूजवेल्ट (Theodore Roosevelt - नोबेल शांति पुरस्कार मिला)",
+          "en": "Theodore Roosevelt (awarded Nobel Peace Prize)"
+        },
+        {
+          "hi": "वुडरो विल्सन",
+          "en": "Woodrow Wilson"
+        },
+        {
+          "hi": "विलियम टाफ्ट",
+          "en": "William Taft"
+        },
+        {
+          "hi": "हर्बर्ट हूवर",
+          "en": "Herbert Hoover"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जापान ने किस वर्ष पड़ोसी देश कोरिया पर पूर्ण सैन्य अधिकार कर उसे अपने साम्राज्य में मिला लिया?",
+        "en": "In which year did the Empire of Japan formally annex the Korean peninsula into its realm?"
+      },
+      "o": [
+        {
+          "hi": "1910 ईस्वी (1910 AD)",
+          "en": "1910 AD"
+        },
+        {
+          "hi": "1895 ई.",
+          "en": "1895 AD"
+        },
+        {
+          "hi": "1905 ई.",
+          "en": "1905 AD"
+        },
+        {
+          "hi": "1914 ई.",
+          "en": "1914 AD"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रथम विश्व युद्ध के दौरान 1915 ई. में जापान ने कमजोर चीन पर कौन-सी आक्रामक मांगें थोपीं?",
+        "en": "Which aggressive demands expanding imperialist control were presented by Japan to China in Jan 1915?"
+      },
+      "o": [
+        {
+          "hi": "इक्कीस मांगें (Twenty-One Demands)",
+          "en": "Twenty-One Demands"
+        },
+        {
+          "hi": "चौदह सूत्र",
+          "en": "Fourteen Points"
+        },
+        {
+          "hi": "दस मांगें",
+          "en": "Ten Demands"
+        },
+        {
+          "hi": "खुले द्वार की मांग",
+          "en": "Open Door Demands"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जापान ने 18 सितंबर 1931 को 'मुकदेन घटना' का बहाना बनाकर चीन के किस विशाल क्षेत्र पर कब्जा किया?",
+        "en": "Staging the Mukden Incident on 18 Sep 1931, which vast province of China did Japan invade?"
+      },
+      "o": [
+        {
+          "hi": "मंचूरिया (Manchuria - मनचुकुओ कठपुतली राज्य बनाया)",
+          "en": "Manchuria (created puppet state of Manchukuo)"
+        },
+        {
+          "hi": "तिब्बत",
+          "en": "Tibet"
+        },
+        {
+          "hi": "शंघाई",
+          "en": "Shanghai"
+        },
+        {
+          "hi": "हांगकांग",
+          "en": "Hong Kong"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मंचूरिया पर जापानी आक्रमण की जांच हेतु राष्ट्रसंघ (League of Nations) ने कौन-सा आयोग भेजा था?",
+        "en": "Which international commission of inquiry was dispatched by League of Nations to Manchuria in 1932?"
+      },
+      "o": [
+        {
+          "hi": "लिटन आयोग (Lytton Commission)",
+          "en": "Lytton Commission"
+        },
+        {
+          "hi": "साइमन आयोग",
+          "en": "Simon Commission"
+        },
+        {
+          "hi": "हंटर आयोग",
+          "en": "Hunter Commission"
+        },
+        {
+          "hi": "पील आयोग",
+          "en": "Peel Commission"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लिटन आयोग की रिपोर्ट में दोषी ठहराए जाने पर जापान ने मार्च 1933 में क्या ऐतिहासिक कदम उठाया?",
+        "en": "Condemned by the Lytton Report for aggression in Manchuria, what did Japan do in March 1933?"
+      },
+      "o": [
+        {
+          "hi": "राष्ट्रसंघ (League of Nations) की सदस्यता का पूर्ण परित्याग कर दिया",
+          "en": "Formally resigned and walked out of the League of Nations"
+        },
+        {
+          "hi": "मंचूरिया खाली कर दिया",
+          "en": "Evacuated Manchuria"
+        },
+        {
+          "hi": "चीन से क्षमा मांगी",
+          "en": "Apologized to China"
+        },
+        {
+          "hi": "अमेरिका से संधि की",
+          "en": "Signed pact with USA"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जुलाई 1937 में किस पुल पर हुई सैन्य झड़प के बाद द्वितीय चीन-जापान युद्ध (1937-1945) भड़का?",
+        "en": "Which minor clash on 7 July 1937 near Beijing escalated into the full-scale Second Sino-Japanese War?"
+      },
+      "o": [
+        {
+          "hi": "यंग्त्से पुल",
+          "en": "Yangtze Bridge"
+        },
+        {
+          "hi": "मार्को पोलो ब्रिज की घटना (Marco Polo Bridge Incident)",
+          "en": "Marco Polo Bridge Incident (Lugou Bridge)"
+        },
+        {
+          "hi": "पीली नदी पुल",
+          "en": "Yellow River Bridge"
+        },
+        {
+          "hi": "नानकिंग पुल",
+          "en": "Nanking Bridge"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जापान ने एशिया में अपने औपनिवेशिक विस्तार को न्यायोचित ठहराने हेतु कौन-सा प्रसिद्ध नारा दिया?",
+        "en": "What pan-Asian slogan did imperial Japan proclaim to mask its military conquest of Southeast Asia?"
+      },
+      "o": [
+        {
+          "hi": "'एशिया साम्यवाद के लिए'",
+          "en": "'Asia for Communism'"
+        },
+        {
+          "hi": "'एशिया एशियाइयों के लिए' (Greater East Asia Co-Prosperity Sphere)",
+          "en": "'Asia for the Asiatics' (Co-Prosperity Sphere)"
+        },
+        {
+          "hi": "'एशियाई शांति संघ'",
+          "en": "'Asian Peace League'"
+        },
+        {
+          "hi": "'विश्व हमारा घर है'",
+          "en": "'World is our home'"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "द्वितीय विश्व युद्ध के दौरान जापानी सेना का सर्वोच्च सैन्य कमांडर और प्रधानमंत्री कौन था?",
+        "en": "Who was the ultranationalist general serving as Prime Minister of Japan from 1941 to 1944?"
+      },
+      "o": [
+        {
+          "hi": "कोनोए",
+          "en": "Prince Konoe"
+        },
+        {
+          "hi": "जनरल हिदेकी तोजो (General Hideki Tojo)",
+          "en": "General Hideki Tojo"
+        },
+        {
+          "hi": "एडमिरल यामामोटो",
+          "en": "Admiral Yamamoto"
+        },
+        {
+          "hi": "ताकुगावा",
+          "en": "Tokugawa"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "7 दिसंबर 1941 को जापानी नौसेना व वायुसेना ने अमेरिका के किस नौसैनिक अड्डे पर अचानक हमला किया?",
+        "en": "On 7 Dec 1941, which major US Pacific Fleet base was devastated by Japanese surprise air raid?"
+      },
+      "o": [
+        {
+          "hi": "गुआम",
+          "en": "Guam"
+        },
+        {
+          "hi": "पर्ल हार्बर (हवाई द्वीप / Pearl Harbor, Hawaii)",
+          "en": "Pearl Harbor (Hawaii)"
+        },
+        {
+          "hi": "मिडवे",
+          "en": "Midway"
+        },
+        {
+          "hi": "वेक द्वीप",
+          "en": "Wake Island"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पर्ल हार्बर पर जापानी हमले की गुप्त कूटनीतिक योजना किस प्रतिभाशाली जापानी एडमिरल ने बनाई थी?",
+        "en": "Which Commander-in-Chief of the Japanese Combined Fleet masterminded the Pearl Harbor raid?"
+      },
+      "o": [
+        {
+          "hi": "जनरल तोजो",
+          "en": "General Tojo"
+        },
+        {
+          "hi": "एडमिरल इसोरोकु यामामोटो (Admiral Isoroku Yamamoto)",
+          "en": "Admiral Isoroku Yamamoto"
+        },
+        {
+          "hi": "एडमिरल नागुमो",
+          "en": "Admiral Nagumo"
+        },
+        {
+          "hi": "कुरीता",
+          "en": "Kurita"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पर्ल हार्बर हमले के तुरंत बाद अमेरिकी राष्ट्रपति रूजवेल्ट ने इसे किस रूप में याद किया?",
+        "en": "In his war address to Congress, how did President Roosevelt famously brand 7 December 1941?"
+      },
+      "o": [
+        {
+          "hi": "'विजय का दिन'",
+          "en": "'Day of Victory'"
+        },
+        {
+          "hi": "'एक ऐसी तिथि जो इतिहास में कलंक के रूप में जीवित रहेगी' (Date of Infamy)",
+          "en": "'A date which will live in infamy'"
+        },
+        {
+          "hi": "'शांति का अंत'",
+          "en": "'The end of peace'"
+        },
+        {
+          "hi": "'स्वतंत्रता का दिन'",
+          "en": "'Day of Freedom'"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जापानी वायुसेना के आत्मघाती पायलटों को क्या कहा जाता था जो विस्फोटक लदे विमान जहाजों से टकराते थे?",
+        "en": "What were the Japanese suicide bomber pilots called who dove explosive planes into Allied ships?"
+      },
+      "o": [
+        {
+          "hi": "सामुराई",
+          "en": "Samurai"
+        },
+        {
+          "hi": "कामिकेजे (Kamikaze - दैवीय पवन / Divine Wind)",
+          "en": "Kamikaze (Divine Wind)"
+        },
+        {
+          "hi": "रोंनिन",
+          "en": "Ronin"
+        },
+        {
+          "hi": "निंजा",
+          "en": "Ninja"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जून 1942 के किस ऐतिहासिक नौसैनिक युद्ध में अमेरिकी नौसेना ने जापान के 4 विमानवाहक पोत डुबो दिए?",
+        "en": "In which decisive carrier battle of June 1942 did US Navy sink 4 Japanese carriers, turning the Pacific War?"
+      },
+      "o": [
+        {
+          "hi": "कोरल सी का युद्ध",
+          "en": "Battle of Coral Sea"
+        },
+        {
+          "hi": "मिडवे का युद्ध (Battle of Midway)",
+          "en": "Battle of Midway"
+        },
+        {
+          "hi": "लेयटे गल्फ का युद्ध",
+          "en": "Battle of Leyte Gulf"
+        },
+        {
+          "hi": "इवो जिमा का युद्ध",
+          "en": "Battle of Iwo Jima"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अमेरिका ने 6 अगस्त 1945 को जापान के किस पहले शहर पर परमाणु बम 'लिटिल बॉय' (Little Boy) गिराया?",
+        "en": "On which Japanese city did the US drop the first atomic bomb 'Little Boy' on 6 August 1945?"
+      },
+      "o": [
+        {
+          "hi": "टोक्यो",
+          "en": "Tokyo"
+        },
+        {
+          "hi": "हिरोशिमा (Hiroshima - 6 अगस्त 1945)",
+          "en": "Hiroshima (6 August 1945)"
+        },
+        {
+          "hi": "नागासाकी",
+          "en": "Nagasaki"
+        },
+        {
+          "hi": "क्योटो",
+          "en": "Kyoto"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अमेरिका ने 9 अगस्त 1945 को जापान के किस दूसरे शहर पर 'फैट मैन' (Fat Man) प्लूटोनियम बम गिराया?",
+        "en": "On which second Japanese industrial city was the atomic bomb 'Fat Man' dropped on 9 August 1945?"
+      },
+      "o": [
+        {
+          "hi": "हिरोशिमा",
+          "en": "Hiroshima"
+        },
+        {
+          "hi": "नागासाकी (Nagasaki - 9 अगस्त 1945)",
+          "en": "Nagasaki (9 August 1945)"
+        },
+        {
+          "hi": "ओसाका",
+          "en": "Osaka"
+        },
+        {
+          "hi": "योकोहामा",
+          "en": "Yokohama"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हिरोशिमा पर परमाणु बम गिराने वाले अमेरिकी बी-29 बमवर्षक विमान का क्या नाम था?",
+        "en": "What was the name of the historic US B-29 Superfortress bomber that dropped the bomb on Hiroshima?"
+      },
+      "o": [
+        {
+          "hi": "बॉक्सकार",
+          "en": "Bockscar"
+        },
+        {
+          "hi": "एनोला गे (Enola Gay - पायलट कर्नल पॉल टिबेट्स)",
+          "en": "Enola Gay (Piloted by Paul Tibbets)"
+        },
+        {
+          "hi": "फ्लाइंग फोर्ट्रेस",
+          "en": "Flying Fortress"
+        },
+        {
+          "hi": "स्पिरिट ऑफ सेंट लुइस",
+          "en": "Spirit of St. Louis"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जापान के किस सम्राट ने 15 अगस्त 1945 को रेडियो पर राष्ट्र को बिना शर्त आत्मसमर्पण की घोषणा की?",
+        "en": "Which Japanese Emperor broke imperial silence on 15 Aug 1945 broadcasting surrender to his nation?"
+      },
+      "o": [
+        {
+          "hi": "मुत्सुहितो",
+          "en": "Mutsuhito"
+        },
+        {
+          "hi": "सम्राट हिरोहितो (Emperor Hirohito / शोवा सम्राट)",
+          "en": "Emperor Hirohito (Showa Emperor)"
+        },
+        {
+          "hi": "अकिहितो",
+          "en": "Akihito"
+        },
+        {
+          "hi": "योशिहितो",
+          "en": "Yoshihito"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "2 सितंबर 1945 को जापान ने किस अमेरिकी युद्धपोत पर औपचारिक बिना शर्त आत्मसमर्पण पत्र पर हस्ताक्षर किए?",
+        "en": "On which US battleship anchored in Tokyo Bay did Japan formally sign surrender documents ending WWII?"
+      },
+      "o": [
+        {
+          "hi": "यूएसएस एरिजोना",
+          "en": "USS Arizona"
+        },
+        {
+          "hi": "यूएसएस मिसौरी (USS Missouri - जनरल मैकआर्थर के समक्ष)",
+          "en": "USS Missouri (before General MacArthur)"
+        },
+        {
+          "hi": "यूएसएस आयोवा",
+          "en": "USS Iowa"
+        },
+        {
+          "hi": "यूएसएस एंटरप्राइज",
+          "en": "USS Enterprise"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जापानी सैन्य संहिता और योद्धाओं के कर्तव्य-धर्म को पारंपरिक रूप से क्या कहा जाता है?",
+        "en": "What is the ancient traditional chivalric code of moral ethics of Japanese warriors called?"
+      },
+      "o": [
+        {
+          "hi": "शिंतो",
+          "en": "Shinto"
+        },
+        {
+          "hi": "कराटे",
+          "en": "Karate"
+        },
+        {
+          "hi": "बुशिदो (Bushido - योद्धा का मार्ग)",
+          "en": "Bushido (Way of the Warrior)"
+        },
+        {
+          "hi": "जुडो",
+          "en": "Judo"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जापान का पारंपरिक राष्ट्रीय धर्म कौन-सा है जिसमें प्रकृति और पूर्वजों की पूजा होती है?",
+        "en": "What is the indigenous ethnic religion of Japan venerating nature spirits and divine ancestors?"
+      },
+      "o": [
+        {
+          "hi": "बौद्ध धर्म",
+          "en": "Buddhism"
+        },
+        {
+          "hi": "ताओ धर्म",
+          "en": "Taoism"
+        },
+        {
+          "hi": "शिंतो धर्म (Shintoism / कामी की पूजा)",
+          "en": "Shintoism (Way of the Kami)"
+        },
+        {
+          "hi": "कन्फ्यूशियस धर्म",
+          "en": "Confucianism"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जापान ने द्वितीय विश्व युद्ध के दौरान अंडमान और निकोबार द्वीप समूह किसे सौंप दिए थे?",
+        "en": "To whom did imperial Japan hand over the captured Andaman and Nicobar Islands in Nov 1943?"
+      },
+      "o": [
+        {
+          "hi": "बर्मा की सेना को",
+          "en": "Burmese Army"
+        },
+        {
+          "hi": "थाईलैंड को",
+          "en": "Thailand"
+        },
+        {
+          "hi": "नेताजी सुभाष चंद्र बोस और आजाद हिंद सरकार को",
+          "en": "Netaji Subhas Chandra Bose and Provisional Govt of Azad Hind"
+        },
+        {
+          "hi": "मुगल सम्राट को",
+          "en": "Mughal Emperor"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नेताजी सुभाष चंद्र बोस ने अंडमान और निकोबार द्वीपों का क्रमशः क्या नया नामकरण किया था?",
+        "en": "What patriotic new names were bestowed upon Andaman and Nicobar by Netaji Subhas Bose?"
+      },
+      "o": [
+        {
+          "hi": "आजाद और हिंद द्वीप",
+          "en": "Azad and Hind Islands"
+        },
+        {
+          "hi": "गांधी और नेहरू द्वीप",
+          "en": "Gandhi and Nehru Islands"
+        },
+        {
+          "hi": "शहीद द्वीप (अंडमान) एवं स्वराज द्वीप (निकोबार)",
+          "en": "Shaheed Dweep (Andaman) & Swaraj Dweep (Nicobar)"
+        },
+        {
+          "hi": "वीर और क्रांतिकारी द्वीप",
+          "en": "Veer and Krantikari Islands"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1942 में जापानी सेना ने ब्रिटिश साम्राज्य के किस 'अभेद्य' नौसैनिक गढ़ को मात्र 7 दिनों में जीत लिया?",
+        "en": "Which supposedly 'impregnable' British bastion in Malaya fell to Japanese bike troops in Feb 1942?"
+      },
+      "o": [
+        {
+          "hi": "हांगकांग",
+          "en": "Hong Kong"
+        },
+        {
+          "hi": "रंगून",
+          "en": "Rangoon"
+        },
+        {
+          "hi": "सिंगापुर (Singapore - 85,000 ब्रिटिश सैनिकों का समर्पण)",
+          "en": "Singapore (Surrender of 85,000 British troops)"
+        },
+        {
+          "hi": "कोलंबो",
+          "en": "Colombo"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "द्वितीय विश्व युद्ध के दौरान जापानी सेना द्वारा फिलीपींस में युद्धबंदियों का क्रूर मार्च क्या कहलाया?",
+        "en": "What was the horrific 65-mile forced transfer of 75,000 Filipino and US POWs in 1942 termed?"
+      },
+      "o": [
+        {
+          "hi": "लॉन्ग मार्च",
+          "en": "Long March"
+        },
+        {
+          "hi": "सॉल्ट मार्च",
+          "en": "Salt March"
+        },
+        {
+          "hi": "बाटन डेथ मार्च (Bataan Death March)",
+          "en": "Bataan Death March"
+        },
+        {
+          "hi": "टोक्यो मार्च",
+          "en": "Tokyo March"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1945 के किस खूनी प्रशांत द्वीप युद्ध में अमेरिकी मरीन सैनिकों ने माउंट सुरीबाची पर अमेरिकी ध्वज फहराया?",
+        "en": "In which fierce 1945 island battle was the iconic flag raised atop Mount Suribachi?"
+      },
+      "o": [
+        {
+          "hi": "मिडवे का युद्ध",
+          "en": "Battle of Midway"
+        },
+        {
+          "hi": "गुआडलकैनाल",
+          "en": "Guadalcanal"
+        },
+        {
+          "hi": "इवो जिमा का युद्ध (Battle of Iwo Jima)",
+          "en": "Battle of Iwo Jima"
+        },
+        {
+          "hi": "साइपन का युद्ध",
+          "en": "Battle of Saipan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "द्वितीय विश्व युद्ध के बाद जापान के पुनर्निर्माण और कब्जे का सर्वोच्च अमेरिकी प्रशासक कौन बना?",
+        "en": "Who was appointed Supreme Commander for the Allied Powers (SCAP) governing occupied postwar Japan?"
+      },
+      "o": [
+        {
+          "hi": "जनरल आइजनहावर",
+          "en": "General Eisenhower"
+        },
+        {
+          "hi": "जनरल पैटन",
+          "en": "General Patton"
+        },
+        {
+          "hi": "जनरल डगलस मैकआर्थर (General Douglas MacArthur)",
+          "en": "General Douglas MacArthur"
+        },
+        {
+          "hi": "जनरल मार्शल",
+          "en": "General Marshall"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मैकआर्थर द्वारा तैयार 1947 के जापानी संविधान के किस प्रसिद्ध अनुच्छेद में युद्ध का त्याग किया गया?",
+        "en": "Which famous pacifist 'Renunciation of War' clause is enshrined in the 1947 Japanese Constitution?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 1",
+          "en": "Article 1"
+        },
+        {
+          "hi": "अनुच्छेद 5",
+          "en": "Article 5"
+        },
+        {
+          "hi": "अनुच्छेद 9 (Article 9 - शांति अनुच्छेद / Peace Clause)",
+          "en": "Article 9 (Peace Clause)"
+        },
+        {
+          "hi": "अनुच्छेद 21",
+          "en": "Article 21"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "टोक्यो युद्ध अपराध न्यायाधिकरण (1946-48) में सभी जापानी नेताओं को निर्दोष बताने वाले एकमात्र भारतीय जज कौन थे?",
+        "en": "Who was the lone dissenting Indian jurist at Tokyo War Crimes Trials who acquitted Japanese leaders?"
+      },
+      "o": [
+        {
+          "hi": "न्यायमूर्ति पतंजलि शास्त्री",
+          "en": "Justice Patanjali Shastri"
+        },
+        {
+          "hi": "न्यायमूर्ति मेहरचंद महाजन",
+          "en": "Justice Mehr Chand Mahajan"
+        },
+        {
+          "hi": "न्यायमूर्ति राधाबिनोद पाल (Justice Radhabinod Pal)",
+          "en": "Justice Radhabinod Pal"
+        },
+        {
+          "hi": "न्यायमूर्ति एच.जे. कानिया",
+          "en": "Justice H.J. Kania"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कोलकाता के प्रसिद्ध विधि विशेषज्ञ जस्टिस राधाबिनोद पाल का आज भी किस जापानी तीर्थस्थल पर स्मारक है?",
+        "en": "At which famous Shinto shrine in Tokyo is there a bronze monument dedicated to Justice Radhabinod Pal?"
+      },
+      "o": [
+        {
+          "hi": "मेइजी मंदिर",
+          "en": "Meiji Shrine"
+        },
+        {
+          "hi": "असाकुसा मंदिर",
+          "en": "Asakusa Shrine"
+        },
+        {
+          "hi": "यासुकोनी मंदिर (Yasukuni Shrine, Tokyo)",
+          "en": "Yasukuni Shrine (Tokyo)"
+        },
+        {
+          "hi": "क्योटो मंदिर",
+          "en": "Kyoto Shrine"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1951 ई. में अमेरिका और मित्र राष्ट्रों ने जापान के साथ कौन-सी शांति संधि कर संप्रभुता लौटाई?",
+        "en": "By which 1951 peace treaty did 48 nations formally restore sovereignty to occupied Japan?"
+      },
+      "o": [
+        {
+          "hi": "पेरिस संधि",
+          "en": "Treaty of Paris"
+        },
+        {
+          "hi": "वाशिंगटन संधि",
+          "en": "Treaty of Washington"
+        },
+        {
+          "hi": "सैन फ्रांसिस्को शांति संधि (Treaty of San Francisco)",
+          "en": "Treaty of San Francisco"
+        },
+        {
+          "hi": "टोक्यो संधि",
+          "en": "Treaty of Tokyo"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जापान में 1854 में अमेरिकी दबाव में हस्ताक्षरित प्रथम असमान संधि कौन-सी थी?",
+        "en": "What was the landmark treaty signed by Tokugawa Shogunate with Matthew Perry in March 1854?"
+      },
+      "o": [
+        {
+          "hi": "शिमोनोसेकी संधि",
+          "en": "Treaty of Shimonoseki"
+        },
+        {
+          "hi": "टोक्यो संधि",
+          "en": "Treaty of Tokyo"
+        },
+        {
+          "hi": "क्योटो संधि",
+          "en": "Treaty of Kyoto"
+        },
+        {
+          "hi": "कानागावा की संधि (Convention of Kanagawa)",
+          "en": "Convention of Kanagawa"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मेइजी काल में जापान के प्रसिद्ध आधुनिकीकरण के नारे में क्या शामिल था?",
+        "en": "What dual national motto encapsulated Meiji Japan's crash modernization campaign?"
+      },
+      "o": [
+        {
+          "hi": "'अहिंसा और शांति'",
+          "en": "'Ahimsa and Peace'"
+        },
+        {
+          "hi": "'धर्म और सम्राट'",
+          "en": "'Religion and Emperor'"
+        },
+        {
+          "hi": "'केवल व्यापार'",
+          "en": "'Trade Only'"
+        },
+        {
+          "hi": "'फूकोकु क्योहेई' (समृद्ध देश, मजबूत सेना / Rich Country, Strong Military)",
+          "en": "'Fukoku Kyohei' (Enrich the Country, Strengthen the Armed Forces)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "द्वितीय विश्व युद्ध के दौरान जापानी सेना द्वारा एशियाई महिलाओं को जबरन यौन दासी बनाना क्या कहलाया?",
+        "en": "What were the hundreds of thousands of Asian women forced into military sexual slavery by Japan called?"
+      },
+      "o": [
+        {
+          "hi": "गीशा",
+          "en": "Geisha"
+        },
+        {
+          "hi": "कामिकेजे",
+          "en": "Kamikaze"
+        },
+        {
+          "hi": "सामुराई",
+          "en": "Samurai"
+        },
+        {
+          "hi": "कम्फर्ट विमेन (Comfort Women / सुखदात्री महिलाएं)",
+          "en": "Comfort Women"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नागासाकी पर 9 अगस्त 1945 को परमाणु बम गिराने वाले अमेरिकी बी-29 विमान का नाम क्या था?",
+        "en": "What was the name of the B-29 bomber that dropped the atomic bomb on Nagasaki on 9 August?"
+      },
+      "o": [
+        {
+          "hi": "एनोला गे",
+          "en": "Enola Gay"
+        },
+        {
+          "hi": "द ग्रेट आर्टिस्ट",
+          "en": "The Great Artiste"
+        },
+        {
+          "hi": "सुपरफोर्ट्रेस",
+          "en": "Superfortress"
+        },
+        {
+          "hi": "बॉक्सकार (Bockscar - पायलट चार्ल्स स्वीनी)",
+          "en": "Bockscar (Piloted by Charles Sweeney)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हिरोशिमा पर गिराए गए 'लिटिल बॉय' बम में किस विखंडनीय पदार्थ का उपयोग हुआ था?",
+        "en": "Which fissile nuclear material fueled the gun-type atomic bomb 'Little Boy' dropped on Hiroshima?"
+      },
+      "o": [
+        {
+          "hi": "प्लूटोनियम-239",
+          "en": "Plutonium-239"
+        },
+        {
+          "hi": "थोरियम-232",
+          "en": "Thorium-232"
+        },
+        {
+          "hi": "रेडियम",
+          "en": "Radium"
+        },
+        {
+          "hi": "यूरेनियम-235 (Enriched Uranium-235)",
+          "en": "Enriched Uranium-235"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नागासाकी पर गिराए गए 'फैट मैन' बम में किस विखंडनीय तत्व का प्रयोग हुआ था?",
+        "en": "Which nuclear material fueled the implosion-type atomic bomb 'Fat Man' detonated over Nagasaki?"
+      },
+      "o": [
+        {
+          "hi": "यूरेनियम-235",
+          "en": "Uranium-235"
+        },
+        {
+          "hi": "हाइड्रोजन",
+          "en": "Hydrogen"
+        },
+        {
+          "hi": "ड्यूटेरियम",
+          "en": "Deuterium"
+        },
+        {
+          "hi": "प्लूटोनियम-239 (Plutonium-239)",
+          "en": "Plutonium-239"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हिरोशिमा और नागासाकी पर परमाणु हमलों में तुरंत और विकिरण से कुल कितने लोग मारे गए?",
+        "en": "Approximately how many human lives were snuffed out by the atomic bombings and radiation by end of 1945?"
+      },
+      "o": [
+        {
+          "hi": "10,000",
+          "en": "10,000"
+        },
+        {
+          "hi": "25,000",
+          "en": "25,000"
+        },
+        {
+          "hi": "50,000",
+          "en": "50,000"
+        },
+        {
+          "hi": "लगभग 2,14,000 से अधिक निर्दोष नागरिक (Over 214,000 Civilians)",
+          "en": "Over 214,000 innocent human souls"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "परमाणु बम से पीड़ित और जीवित बचे जापानी नागरिकों को जापानी भाषा में क्या कहा जाता है?",
+        "en": "What are the atomic bomb survivors honored as in Japan, advocating global nuclear abolition?"
+      },
+      "o": [
+        {
+          "hi": "सामुराई",
+          "en": "Samurai"
+        },
+        {
+          "hi": "कामिकेजे",
+          "en": "Kamikaze"
+        },
+        {
+          "hi": "रोंनिन",
+          "en": "Ronin"
+        },
+        {
+          "hi": "हिबाकुशा (Hibakusha - परमाणु पीड़ित)",
+          "en": "Hibakusha (Bomb-affected people)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जापान में 1923 के किस भयंकर प्राकृतिक आपदा में टोक्यो शहर राख हो गया था (1.4 लाख मरे)?",
+        "en": "Which catastrophic natural disaster leveled Tokyo and Yokohama in Sep 1923, killing 140,000?"
+      },
+      "o": [
+        {
+          "hi": "माउंट फुजी विस्फोट",
+          "en": "Mount Fuji eruption"
+        },
+        {
+          "hi": "सुनामी 2011",
+          "en": "Tsunami 2011"
+        },
+        {
+          "hi": "कोबे भूकंप",
+          "en": "Kobe earthquake"
+        },
+        {
+          "hi": "महान कांतो भूकंप (Great Kanto Earthquake)",
+          "en": "Great Kanto Earthquake"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "द्वितीय विश्व युद्ध में जापान ने भारत की सीमाओं पर 1944 में कौन-सा भयंकर सैन्य अभियान चलाया था?",
+        "en": "In 1944, which desperate military offensive did the Japanese 15th Army launch into Northeast India?"
+      },
+      "o": [
+        {
+          "hi": "ऑपरेशन बारबोसा",
+          "en": "Operation Barbarossa"
+        },
+        {
+          "hi": "ऑपरेशन ओवरलॉर्ड",
+          "en": "Operation Overlord"
+        },
+        {
+          "hi": "ऑपरेशन सी लायन",
+          "en": "Operation Sea Lion"
+        },
+        {
+          "hi": "ऑपरेशन यू-गो (इम्फाल और कोहिमा का युद्ध / Battle of Imphal-Kohima)",
+          "en": "Operation U-Go (Battle of Imphal & Kohima)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जापानी साम्राज्यवाद का सबसे बड़ा ऐतिहासिक सबक क्या था?",
+        "en": "What was the tragic historical lesson of the rise and total destruction of Imperial Japan?"
+      },
+      "o": [
+        {
+          "hi": "मशीनीकरण गलत है",
+          "en": "Mechanization is wrong"
+        },
+        {
+          "hi": "द्वीप सुरक्षित नहीं हैं",
+          "en": "Islands are unsafe"
+        },
+        {
+          "hi": "व्यापार नहीं करना चाहिए",
+          "en": "Trade should stop"
+        },
+        {
+          "hi": "अति-सैन्यवाद, अंध-राष्ट्रवाद और साम्राज्यवादी लालच किसी भी समृद्ध राष्ट्र को सर्वनाश की खाई में झोंक देते हैं",
+          "en": "Militarism, hyper-nationalism & imperial aggression lead a nation to catastrophic abyss"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "युद्ध के खंडहरों से उठकर आधुनिक जापान ने किस बल पर विश्व की शीर्ष आर्थिक व तकनीकी महाशक्ति का दर्जा पाया?",
+        "en": "Rising from nuclear ashes, on what foundation did postwar Japan re-emerge as a global economic titan?"
+      },
+      "o": [
+        {
+          "hi": "सेना के बल पर",
+          "en": "Through armed might"
+        },
+        {
+          "hi": "विदेशी विजय द्वारा",
+          "en": "Through foreign conquest"
+        },
+        {
+          "hi": "उपनिवेश बनाकर",
+          "en": "By colonizing others"
+        },
+        {
+          "hi": "शांति, अत्याधुनिक उच्च तकनीक, अनुकरणीय कार्य-संस्कृति, गुणवत्ता और मानवीय श्रम के बल पर",
+          "en": "Through pacifism, high technology, quality engineering and tireless human work ethic"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}
