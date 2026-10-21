@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भारत का भूगोल (Indian Geography)",
+  "subtitle": "भारत के प्रमुख वन्यजीव अभयारण्य",
+  "description": "भारत के प्रमुख वन्यजीव अभयारण्य पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारत का प्रथम राष्ट्रीय उद्यान कौन-सा है, जिसकी स्थापना 1936 में हुई थी?",
+        "en": "Which is India's first National Park, established in 1936 as Hailey National Park?"
+      },
+      "o": [
+        {
+          "hi": "जिम कॉर्बेट राष्ट्रीय उद्यान (उत्तराखंड / Jim Corbett NP)",
+          "en": "Jim Corbett National Park"
+        },
+        {
+          "hi": "काजीरंगा राष्ट्रीय उद्यान",
+          "en": "Kaziranga National Park"
+        },
+        {
+          "hi": "गिर राष्ट्रीय उद्यान",
+          "en": "Gir National Park"
+        },
+        {
+          "hi": "कान्हा राष्ट्रीय उद्यान",
+          "en": "Kanha National Park"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जिम कॉर्बेट राष्ट्रीय उद्यान का पुराना नाम क्या था?",
+        "en": "What was the original establishment name of Jim Corbett National Park?"
+      },
+      "o": [
+        {
+          "hi": "राजाजी राष्ट्रीय उद्यान",
+          "en": "Rajaji National Park"
+        },
+        {
+          "hi": "हेली राष्ट्रीय उद्यान (Hailey National Park)",
+          "en": "Hailey National Park"
+        },
+        {
+          "hi": "रामनगर राष्ट्रीय उद्यान",
+          "en": "Ramnagar National Park"
+        },
+        {
+          "hi": "नंदा देवी राष्ट्रीय उद्यान",
+          "en": "Nanda Devi National Park"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जिम कॉर्बेट राष्ट्रीय उद्यान से होकर कौन-सी प्रसिद्ध नदी बहती है?",
+        "en": "Which river flows through the heart of Jim Corbett National Park?"
+      },
+      "o": [
+        {
+          "hi": "गंगा नदी",
+          "en": "Ganga River"
+        },
+        {
+          "hi": "यमुना नदी",
+          "en": "Yamuna River"
+        },
+        {
+          "hi": "रामगंगा नदी (Ramganga River)",
+          "en": "Ramganga River"
+        },
+        {
+          "hi": "अलकनंदा नदी",
+          "en": "Alaknanda River"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में 'प्रोजेक्ट टाइगर' (Project Tiger) की शुरुआत सर्वप्रथम 1973 में कहाँ से हुई?",
+        "en": "Where was India's Project Tiger formally launched on 1 April 1973?"
+      },
+      "o": [
+        {
+          "hi": "रणथंभौर राष्ट्रीय उद्यान",
+          "en": "Ranthambore NP"
+        },
+        {
+          "hi": "कान्हा राष्ट्रीय उद्यान",
+          "en": "Kanha NP"
+        },
+        {
+          "hi": "सुंदरवन राष्ट्रीय उद्यान",
+          "en": "Sundarbans NP"
+        },
+        {
+          "hi": "जिम कॉर्बेट राष्ट्रीय उद्यान (Jim Corbett NP)",
+          "en": "Jim Corbett NP"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एक सींग वाले भारतीय गैंडे (One-horned Rhinoceros) के लिए प्रसिद्ध राष्ट्रीय उद्यान?",
+        "en": "Which world-famous National Park in Assam is home to 2/3rd of world's one-horned rhinos?"
+      },
+      "o": [
+        {
+          "hi": "काजीरंगा राष्ट्रीय उद्यान (असम / Kaziranga NP)",
+          "en": "Kaziranga National Park (Assam)"
+        },
+        {
+          "hi": "मानस राष्ट्रीय उद्यान",
+          "en": "Manas National Park"
+        },
+        {
+          "hi": "ओरांग राष्ट्रीय उद्यान",
+          "en": "Orang National Park"
+        },
+        {
+          "hi": "नामेरी राष्ट्रीय उद्यान",
+          "en": "Nameri National Park"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "असम में भूटान सीमा पर स्थित 'मानस राष्ट्रीय उद्यान' किस नदी के तट पर है?",
+        "en": "Manas National Park (UNESCO site) in Assam is along the banks of which river?"
+      },
+      "o": [
+        {
+          "hi": "ब्रह्मपुत्र नदी",
+          "en": "Brahmaputra"
+        },
+        {
+          "hi": "मानस नदी (Manas River)",
+          "en": "Manas River"
+        },
+        {
+          "hi": "सुबनसिरी नदी",
+          "en": "Subansiri River"
+        },
+        {
+          "hi": "लोहित नदी",
+          "en": "Lohit River"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एशियाई शेरों (Asiatic Lions / बब्बर शेर) का एकमात्र प्राकृतिक आवास कौन-सा है?",
+        "en": "Which National Park in Gujarat is the sole surviving natural habitat of Asiatic Lions?"
+      },
+      "o": [
+        {
+          "hi": "रणथंभौर राष्ट्रीय उद्यान",
+          "en": "Ranthambore NP"
+        },
+        {
+          "hi": "काजीरंगा राष्ट्रीय उद्यान",
+          "en": "Kaziranga NP"
+        },
+        {
+          "hi": "गिर राष्ट्रीय उद्यान (गुजरात / Gir National Park)",
+          "en": "Gir National Park (Gujarat)"
+        },
+        {
+          "hi": "कान्हा राष्ट्रीय उद्यान",
+          "en": "Kanha NP"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मध्य प्रदेश का सबसे बड़ा राष्ट्रीय उद्यान 'कान्हा किसली' किस पशु हेतु प्रसिद्ध है?",
+        "en": "Kanha National Park in MP is world-famous for conserving which rare state animal?"
+      },
+      "o": [
+        {
+          "hi": "एशियाई शेर",
+          "en": "Asiatic Lion"
+        },
+        {
+          "hi": "गैंडा",
+          "en": "Rhinoceros"
+        },
+        {
+          "hi": "जंगली गधा",
+          "en": "Wild Ass"
+        },
+        {
+          "hi": "बारहसिंगा (दलिया हिरण / Barasingha / Swamp Deer)",
+          "en": "Barasingha (Hard-ground Swamp Deer)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रुडयार्ड किपलिंग की प्रसिद्ध पुस्तक 'द जंगल बुक' (The Jungle Book) किस पार्क से प्रेरित है?",
+        "en": "Rudyard Kipling's 'The Jungle Book' was inspired by the forests of which park?"
+      },
+      "o": [
+        {
+          "hi": "पेंच राष्ट्रीय उद्यान (MP और महाराष्ट्र / Pench NP)",
+          "en": "Pench National Park (MP/MH)"
+        },
+        {
+          "hi": "जिम कॉर्बेट राष्ट्रीय उद्यान",
+          "en": "Jim Corbett NP"
+        },
+        {
+          "hi": "काजीरंगा राष्ट्रीय उद्यान",
+          "en": "Kaziranga NP"
+        },
+        {
+          "hi": "गिर राष्ट्रीय उद्यान",
+          "en": "Gir NP"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रॉयल बंगाल टाइगर (Royal Bengal Tiger) और मैंग्रोव वनों हेतु प्रसिद्ध उद्यान कौन-सा है?",
+        "en": "Which UNESCO World Heritage park in West Bengal is famed for Royal Bengal Tigers?"
+      },
+      "o": [
+        {
+          "hi": "काजीरंगा",
+          "en": "Kaziranga"
+        },
+        {
+          "hi": "सुंदरवन राष्ट्रीय उद्यान (Sundarbans NP, पश्चिम बंगाल)",
+          "en": "Sundarbans National Park"
+        },
+        {
+          "hi": "जलदापारा राष्ट्रीय उद्यान",
+          "en": "Jaldapara NP"
+        },
+        {
+          "hi": "गोरुमारा राष्ट्रीय उद्यान",
+          "en": "Gorumara NP"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में सर्वाधिक राष्ट्रीय उद्यान (12 नेशनल पार्क) किस राज्य में स्थित हैं?",
+        "en": "Which Indian state has the highest number of National Parks (12)?"
+      },
+      "o": [
+        {
+          "hi": "असम",
+          "en": "Assam"
+        },
+        {
+          "hi": "उत्तराखंड",
+          "en": "Uttarakhand"
+        },
+        {
+          "hi": "मध्य प्रदेश (टाइगर स्टेट / Madhya Pradesh)",
+          "en": "Madhya Pradesh (Tiger State)"
+        },
+        {
+          "hi": "महाराष्ट्र",
+          "en": "Maharashtra"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे बड़ा राष्ट्रीय उद्यान (क्षेत्रफल में / 4,400 वर्ग किमी) कौन-सा है?",
+        "en": "Which is the largest National Park in India by surface area (4,400 sq km)?"
+      },
+      "o": [
+        {
+          "hi": "जिम कॉर्बेट राष्ट्रीय उद्यान",
+          "en": "Jim Corbett NP"
+        },
+        {
+          "hi": "मरुभूमि राष्ट्रीय उद्यान",
+          "en": "Desert National Park"
+        },
+        {
+          "hi": "काजीरंगा राष्ट्रीय उद्यान",
+          "en": "Kaziranga NP"
+        },
+        {
+          "hi": "हेमिस राष्ट्रीय उद्यान (लद्दाख / Hemis National Park)",
+          "en": "Hemis National Park (Ladakh)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हेमिस राष्ट्रीय उद्यान (Hemis NP, लद्दाख) किस दुर्लभ वन्यजीव के लिए प्रसिद्ध है?",
+        "en": "Hemis National Park in Ladakh is globally celebrated for which apex predator?"
+      },
+      "o": [
+        {
+          "hi": "हिम तेंदुआ (स्नो लेपर्ड / Snow Leopard)",
+          "en": "Snow Leopard"
+        },
+        {
+          "hi": "लाल पांडा",
+          "en": "Red Panda"
+        },
+        {
+          "hi": "एशियाई शेर",
+          "en": "Asiatic Lion"
+        },
+        {
+          "hi": "ध्रुवीय भालू",
+          "en": "Polar Bear"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे छोटा राष्ट्रीय उद्यान (मात्र 0.05 वर्ग किमी) कौन-सा है?",
+        "en": "Which is the smallest National Park in India (only 0.05 sq km)?"
+      },
+      "o": [
+        {
+          "hi": "फॉसिल नेशनल पार्क",
+          "en": "Fossil National Park"
+        },
+        {
+          "hi": "साउथ बटन द्वीप राष्ट्रीय उद्यान (अंडमान / South Button)",
+          "en": "South Button Island NP (Andaman)"
+        },
+        {
+          "hi": "गुइंडी नेशनल पार्क",
+          "en": "Guindy National Park"
+        },
+        {
+          "hi": "केबुल लामजाओ",
+          "en": "Keibul Lamjao"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व का एकमात्र तैरता हुआ राष्ट्रीय उद्यान 'केबुल लामजाओ' किस राज्य में है?",
+        "en": "Where is Keibul Lamjao, the world's only floating national park, situated?"
+      },
+      "o": [
+        {
+          "hi": "असम",
+          "en": "Assam"
+        },
+        {
+          "hi": "मेघालय",
+          "en": "Meghalaya"
+        },
+        {
+          "hi": "मणिपुर (लोकटक झील / Manipur)",
+          "en": "Manipur (Loktak Lake)"
+        },
+        {
+          "hi": "त्रिपुरा",
+          "en": "Tripura"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कश्मीर का राज्य पशु 'कश्मीरी हिरण' (हंगुल / Hangul) किस उद्यान में पाया जाता है?",
+        "en": "Kashmir stag (Hangul, critically endangered) is protected in which National Park?"
+      },
+      "o": [
+        {
+          "hi": "हेमिस राष्ट्रीय उद्यान",
+          "en": "Hemis NP"
+        },
+        {
+          "hi": "किश्तवाड़ राष्ट्रीय उद्यान",
+          "en": "Kishtwar NP"
+        },
+        {
+          "hi": "काजीनाग राष्ट्रीय उद्यान",
+          "en": "Kazinag NP"
+        },
+        {
+          "hi": "दाचीगाम राष्ट्रीय उद्यान (श्रीनगर / Dachigam NP)",
+          "en": "Dachigam National Park"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "राजस्थान के भरतपुर में स्थित 'केवलादेव घाना राष्ट्रीय उद्यान' किसके लिए विख्यात है?",
+        "en": "Keoladeo Ghana National Park in Bharatpur, Rajasthan is world-famous as what?"
+      },
+      "o": [
+        {
+          "hi": "साइबेरियाई सारस एवं प्रवासी पक्षियों का स्वर्ग (Bird Paradise)",
+          "en": "Siberian Crane & Migratory Bird Paradise"
+        },
+        {
+          "hi": "बाघों की शरणस्थली",
+          "en": "Tiger Sanctuary"
+        },
+        {
+          "hi": "हाथियों का गलियारा",
+          "en": "Elephant Corridor"
+        },
+        {
+          "hi": "गैंडा प्रजनन केंद्र",
+          "en": "Rhino Breeding"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राजस्थान का कौन-सा राष्ट्रीय उद्यान बाघों के स्वच्छंद विचरण हेतु विश्वविख्यात है?",
+        "en": "Which National Park in Sawai Madhopur, Rajasthan is famous for royal Bengal tigers?"
+      },
+      "o": [
+        {
+          "hi": "सरिस्का राष्ट्रीय उद्यान",
+          "en": "Sariska NP"
+        },
+        {
+          "hi": "रणथंभौर राष्ट्रीय उद्यान (Ranthambore NP)",
+          "en": "Ranthambore National Park"
+        },
+        {
+          "hi": "मुकुंदरा हिल्स",
+          "en": "Mukundra Hills"
+        },
+        {
+          "hi": "डेजर्ट नेशनल पार्क",
+          "en": "Desert National Park"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "राजस्थान के अलवर जिले में स्थित प्रसिद्ध बाघ अभयारण्य कौन-सा है?",
+        "en": "Which famous Tiger Reserve is located in Alwar district of Rajasthan?"
+      },
+      "o": [
+        {
+          "hi": "रणथंभौर",
+          "en": "Ranthambore"
+        },
+        {
+          "hi": "केवलादेव",
+          "en": "Keoladeo"
+        },
+        {
+          "hi": "सरिस्का राष्ट्रीय उद्यान (Sariska Tiger Reserve)",
+          "en": "Sariska Tiger Reserve"
+        },
+        {
+          "hi": "रामगढ़ विषधारी",
+          "en": "Ramgarh Vishdhari"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कर्नाटक का कौन-सा प्रसिद्ध राष्ट्रीय उद्यान प्रोजेक्ट टाइगर और हाथियों हेतु प्रसिद्ध है?",
+        "en": "Which premier National Park in Chamarajanagar, Karnataka is part of Nilgiri Biosphere?"
+      },
+      "o": [
+        {
+          "hi": "कुद्रेमुख",
+          "en": "Kudremukh"
+        },
+        {
+          "hi": "नागरहोल",
+          "en": "Nagarhole"
+        },
+        {
+          "hi": "बन्नेरघट्टा",
+          "en": "Bannerghatta"
+        },
+        {
+          "hi": "बांदीपुर राष्ट्रीय उद्यान (Bandipur National Park)",
+          "en": "Bandipur National Park"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कर्नाटक के कोडागु और मैसूर में स्थित 'नागरहोल राष्ट्रीय उद्यान' का नया नाम क्या है?",
+        "en": "What is Nagarhole National Park in Karnataka officially renamed as?"
+      },
+      "o": [
+        {
+          "hi": "राजीव गांधी राष्ट्रीय उद्यान (Rajiv Gandhi NP)",
+          "en": "Rajiv Gandhi National Park"
+        },
+        {
+          "hi": "इंदिरा गांधी राष्ट्रीय उद्यान",
+          "en": "Indira Gandhi NP"
+        },
+        {
+          "hi": "महात्मा गांधी उद्यान",
+          "en": "Mahatma Gandhi NP"
+        },
+        {
+          "hi": "के. कामराज उद्यान",
+          "en": "K. Kamaraj NP"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "केरल के इडुक्की जिले में जंगली हाथियों एवं बाघों हेतु प्रसिद्ध अभयारण्य कौन-सा है?",
+        "en": "Which wildlife sanctuary in Idukki, Kerala around an artificial lake is famous for wild elephants?"
+      },
+      "o": [
+        {
+          "hi": "साइलेंट वैली",
+          "en": "Silent Valley"
+        },
+        {
+          "hi": "पेरियार वन्यजीव अभयारण्य (Periyar Sanctuary)",
+          "en": "Periyar Wildlife Sanctuary"
+        },
+        {
+          "hi": "इराविकुलम",
+          "en": "Eravikulam"
+        },
+        {
+          "hi": "वायनाड",
+          "en": "Wayanad"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "केरल के पलक्कड़ जिले में स्थित 'शांत घाटी' (Silent Valley NP) क्यों प्रसिद्ध है?",
+        "en": "Why is Silent Valley National Park in Palakkad, Kerala internationally celebrated?"
+      },
+      "o": [
+        {
+          "hi": "गैंडा संरक्षण हेतु",
+          "en": "Rhino conservation"
+        },
+        {
+          "hi": "सफेद बाघों हेतु",
+          "en": "White tigers"
+        },
+        {
+          "hi": "अत्यंत दुर्लभ वर्षावन एवं शेर की पूंछ वाले मकाक (Lion-tailed Macaque)",
+          "en": "Pristine rainforest & Lion-tailed Macaque"
+        },
+        {
+          "hi": "गुफाओं हेतु",
+          "en": "Caves"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "केरल के पश्चिमी घाट में स्थित 'इराविकुलम राष्ट्रीय उद्यान' किस जानवर का मुख्य आवास है?",
+        "en": "Eravikulam National Park in Munnar, Kerala is the primary habitat of which species?"
+      },
+      "o": [
+        {
+          "hi": "हाथी",
+          "en": "Elephant"
+        },
+        {
+          "hi": "रॉयल बंगाल टाइगर",
+          "en": "Royal Bengal Tiger"
+        },
+        {
+          "hi": "ग्रेट इंडियन बस्टर्ड",
+          "en": "Great Indian Bustard"
+        },
+        {
+          "hi": "नीलगिरी तहर (Nilgiri Tahr - लुप्तप्राय पहाड़ी बकरी)",
+          "en": "Nilgiri Tahr (Wild Mountain Goat)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत का एकमात्र अभयारण्य जहाँ 'जंगली गधा' (Indian Wild Ass / खुर) पाया जाता है?",
+        "en": "Which is India's only sanctuary home to the endangered Indian Wild Ass (Khur)?"
+      },
+      "o": [
+        {
+          "hi": "कच्छ का छोटा रण (गुजरात / Little Rann of Kutch)",
+          "en": "Little Rann of Kutch (Gujarat)"
+        },
+        {
+          "hi": "थार मरुस्थल",
+          "en": "Thar Desert"
+        },
+        {
+          "hi": "गिर राष्ट्रीय उद्यान",
+          "en": "Gir NP"
+        },
+        {
+          "hi": "काजीरंगा",
+          "en": "Kaziranga"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तमिलनाडु में स्थित प्रसिद्ध 'मदुमलाई वन्यजीव अभयारण्य' किसका भाग है?",
+        "en": "Mudumalai Wildlife Sanctuary in Tamil Nadu is part of which Biosphere Reserve?"
+      },
+      "o": [
+        {
+          "hi": "अगस्त्यमलाई",
+          "en": "Agasthyamalai"
+        },
+        {
+          "hi": "नीलगिरी बायोस्फीयर रिजर्व (Nilgiri Biosphere Reserve)",
+          "en": "Nilgiri Biosphere Reserve"
+        },
+        {
+          "hi": "मन्नार की खाड़ी",
+          "en": "Gulf of Mannar"
+        },
+        {
+          "hi": "शेषचलम",
+          "en": "Seshachalam"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत का प्रथम बायोस्फीयर रिजर्व (जैवमंडल आरक्षित क्षेत्र / 1986) कौन-सा था?",
+        "en": "Which was India's first designated Biosphere Reserve in 1986?"
+      },
+      "o": [
+        {
+          "hi": "नंदा देवी",
+          "en": "Nanda Devi"
+        },
+        {
+          "hi": "सुंदरवन",
+          "en": "Sundarbans"
+        },
+        {
+          "hi": "नीलगिरी बायोस्फीयर रिजर्व (Nilgiri Biosphere / TN, KL, KA)",
+          "en": "Nilgiri Biosphere Reserve"
+        },
+        {
+          "hi": "मन्नार की खाड़ी",
+          "en": "Gulf of Mannar"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उत्तराखंड का कौन-सा राष्ट्रीय उद्यान तीन अभयारण्यों (मोतीचूर, चीला, राजाजी) को मिलाकर बना?",
+        "en": "Which National Park in Uttarakhand was created by combining Chilla, Motichur & Rajaji?"
+      },
+      "o": [
+        {
+          "hi": "जिम कॉर्बेट",
+          "en": "Jim Corbett"
+        },
+        {
+          "hi": "नंदा देवी",
+          "en": "Nanda Devi"
+        },
+        {
+          "hi": "गोविंद पशु विहार",
+          "en": "Govind Pashu Vihar"
+        },
+        {
+          "hi": "राजाजी राष्ट्रीय उद्यान (Rajaji National Park)",
+          "en": "Rajaji National Park"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मध्य प्रदेश के उमरिया जिले में सर्वाधिक बाघ घनत्व वाला राष्ट्रीय उद्यान कौन-सा है?",
+        "en": "Which National Park in Umaria, MP has the highest density of Royal Bengal Tigers?"
+      },
+      "o": [
+        {
+          "hi": "बांधवगढ़ राष्ट्रीय उद्यान (Bandhavgarh National Park)",
+          "en": "Bandhavgarh National Park"
+        },
+        {
+          "hi": "कान्हा राष्ट्रीय उद्यान",
+          "en": "Kanha NP"
+        },
+        {
+          "hi": "पन्ना राष्ट्रीय उद्यान",
+          "en": "Panna NP"
+        },
+        {
+          "hi": "सतपुड़ा राष्ट्रीय उद्यान",
+          "en": "Satpura NP"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मध्य प्रदेश का कौन-सा राष्ट्रीय उद्यान सफेद बाघों (White Tigers) की मूल भूमि रहा है?",
+        "en": "Which region/park in Madhya Pradesh was historically the home of White Tigers (Mohan)?"
+      },
+      "o": [
+        {
+          "hi": "कान्हा",
+          "en": "Kanha"
+        },
+        {
+          "hi": "रीवा / बांधवगढ़ (Rewa / Bandhavgarh)",
+          "en": "Rewa / Bandhavgarh"
+        },
+        {
+          "hi": "पेंच",
+          "en": "Pench"
+        },
+        {
+          "hi": "माधव राष्ट्रीय उद्यान",
+          "en": "Madhav NP"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ओडिशा के मयूरभंज जिले में हाथियों, बाघों और साल वनों हेतु प्रसिद्ध राष्ट्रीय उद्यान?",
+        "en": "Which National Park in Mayurbhanj, Odisha is famous for elephants, tigers & waterfalls?"
+      },
+      "o": [
+        {
+          "hi": "भीतरकनिका राष्ट्रीय उद्यान",
+          "en": "Bhitarkanika NP"
+        },
+        {
+          "hi": "नंदनकानन",
+          "en": "Nandankanan"
+        },
+        {
+          "hi": "सिमलीपाल राष्ट्रीय उद्यान (Simlipal National Park)",
+          "en": "Simlipal National Park"
+        },
+        {
+          "hi": "चंदका अभयारण्य",
+          "en": "Chandaka Sanctuary"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ओडिशा का कौन-सा राष्ट्रीय उद्यान खारे पानी के विशाल मगरमच्छों और ओलिव रिडले कछुओं हेतु प्रसिद्ध है?",
+        "en": "Which National Park in Kendrapara, Odisha is renowned for Saltwater Crocodiles & turtles?"
+      },
+      "o": [
+        {
+          "hi": "सिमलीपाल",
+          "en": "Simlipal"
+        },
+        {
+          "hi": "चिल्का",
+          "en": "Chilika"
+        },
+        {
+          "hi": "नंदनकानन",
+          "en": "Nandankanan"
+        },
+        {
+          "hi": "भीतरकनिका राष्ट्रीय उद्यान (Bhitarkanika NP)",
+          "en": "Bhitarkanika National Park"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ओलिव रिडले समुद्री कछुओं (Olive Ridley Turtles) का विश्वप्रसिद्ध सामूहिक घोंसला स्थल?",
+        "en": "Which Odisha coastal sanctuary is world's largest rookery for Olive Ridley Turtles?"
+      },
+      "o": [
+        {
+          "hi": "गहिरमाथा समुद्री अभयारण्य (Gahirmatha Marine Sanctuary)",
+          "en": "Gahirmatha Marine Sanctuary"
+        },
+        {
+          "hi": "भीतरकनिका",
+          "en": "Bhitarkanika"
+        },
+        {
+          "hi": "पुरी तट",
+          "en": "Puri Coast"
+        },
+        {
+          "hi": "चांदीपुर",
+          "en": "Chandipur"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बिहार का एकमात्र राष्ट्रीय उद्यान कौन-सा है, जो पश्चिमी चंपारण जिले में स्थित है?",
+        "en": "Which is the only National Park in Bihar, located in West Champaran district?"
+      },
+      "o": [
+        {
+          "hi": "कैमूर अभयारण्य",
+          "en": "Kaimur Sanctuary"
+        },
+        {
+          "hi": "वाल्मीकि राष्ट्रीय उद्यान (Valmiki National Park)",
+          "en": "Valmiki National Park"
+        },
+        {
+          "hi": "भीमबांध अभयारण्य",
+          "en": "Bhimbandh Sanctuary"
+        },
+        {
+          "hi": "गौतम बुद्ध अभयारण्य",
+          "en": "Gautam Buddha Sanctuary"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बिहार के बेगूसराय जिले में स्थित प्रसिद्ध पक्षी विहार (रामसर स्थल) कौन-सा है?",
+        "en": "Which famous freshwater oxbow lake bird sanctuary (Ramsar site) is in Begusarai, Bihar?"
+      },
+      "o": [
+        {
+          "hi": "कुशेश्वरस्थान",
+          "en": "Kusheshwar Asthan"
+        },
+        {
+          "hi": "संजय गांधी जैविक उद्यान",
+          "en": "Sanjay Gandhi Biological Park"
+        },
+        {
+          "hi": "कांवर ताल / काबर झील पक्षी अभयारण्य (Kabar Taal)",
+          "en": "Kabar Taal Bird Sanctuary"
+        },
+        {
+          "hi": "नागी-नकटी",
+          "en": "Nagi-Nakti"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बिहार के भागलपुर में गंगा नदी में 'गंगा डॉल्फिन' (Gangetic Dolphin) अभयारण्य कौन-सा है?",
+        "en": "Which is India's only dedicated sanctuary for endangered Gangetic Dolphins in Bhagalpur, Bihar?"
+      },
+      "o": [
+        {
+          "hi": "कांवर पक्षी विहार",
+          "en": "Kabar Bird Sanctuary"
+        },
+        {
+          "hi": "वाल्मीकि अभयारण्य",
+          "en": "Valmiki Sanctuary"
+        },
+        {
+          "hi": "भीमबांध",
+          "en": "Bhimbandh"
+        },
+        {
+          "hi": "विक्रमशिला गंगा डॉल्फिन अभयारण्य (Vikramshila Sanctuary)",
+          "en": "Vikramshila Gangetic Dolphin Sanctuary"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उत्तर प्रदेश का एकमात्र राष्ट्रीय उद्यान कौन-सा है जो लखीमपुर खीरी जिले में स्थित है?",
+        "en": "Which is the only National Park in Uttar Pradesh, located in Lakhimpur Kheri?"
+      },
+      "o": [
+        {
+          "hi": "दुधवा राष्ट्रीय उद्यान (Dudhwa National Park)",
+          "en": "Dudhwa National Park"
+        },
+        {
+          "hi": "पीलीभीत टाइगर रिजर्व",
+          "en": "Pilibhit Tiger Reserve"
+        },
+        {
+          "hi": "चंद्रप्रभा अभयारण्य",
+          "en": "Chandraprabha Sanctuary"
+        },
+        {
+          "hi": "हस्तिनापुर अभयारण्य",
+          "en": "Hastinapur Sanctuary"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उत्तर प्रदेश के वाराणसी के निकट चंदौली जिले में स्थित प्राचीनतम अभयारण्य कौन-सा है?",
+        "en": "Which is the oldest wildlife sanctuary in UP (established 1957) in Chandauli?"
+      },
+      "o": [
+        {
+          "hi": "दुधवा",
+          "en": "Dudhwa"
+        },
+        {
+          "hi": "चंद्रप्रभा वन्यजीव अभयारण्य (Chandraprabha Sanctuary)",
+          "en": "Chandraprabha Wildlife Sanctuary"
+        },
+        {
+          "hi": "किशनपुर",
+          "en": "Kishanpur"
+        },
+        {
+          "hi": "कतर्नियाघाट",
+          "en": "Katarniaghat"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "झारखंड के पलामू जिले में स्थित एकमात्र राष्ट्रीय उद्यान कौन-सा है?",
+        "en": "Which is the sole National Park in Jharkhand, located in Latehar/Palamu district?"
+      },
+      "o": [
+        {
+          "hi": "हजारीबाग नेशनल पार्क",
+          "en": "Hazaribagh NP"
+        },
+        {
+          "hi": "दलमा वन्यजीव अभयारण्य",
+          "en": "Dalma Sanctuary"
+        },
+        {
+          "hi": "बेतला राष्ट्रीय उद्यान (Betla National Park)",
+          "en": "Betla National Park"
+        },
+        {
+          "hi": "तोपचांची अभयारण्य",
+          "en": "Topchanchi Sanctuary"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "झारखंड के जमशेदपुर के निकट जंगली हाथियों के लिए प्रसिद्ध अभयारण्य कौन-सा है?",
+        "en": "Which wildlife sanctuary near Jamshedpur, Jharkhand is famous for wild elephants?"
+      },
+      "o": [
+        {
+          "hi": "बेतला राष्ट्रीय उद्यान",
+          "en": "Betla NP"
+        },
+        {
+          "hi": "हजारीबाग अभयारण्य",
+          "en": "Hazaribagh Sanctuary"
+        },
+        {
+          "hi": "महुआडांड़ अभयारण्य",
+          "en": "Mahuadanr Sanctuary"
+        },
+        {
+          "hi": "दलमा वन्यजीव अभयारण्य (Dalma Wildlife Sanctuary)",
+          "en": "Dalma Wildlife Sanctuary"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अरुणाचल प्रदेश में स्थित 'नामदफा राष्ट्रीय उद्यान' अपनी किस अनूठी विशेषता हेतु प्रसिद्ध है?",
+        "en": "Namdapha National Park in Arunachal Pradesh is unique globally because?"
+      },
+      "o": [
+        {
+          "hi": "चारों बड़ी बिल्ली प्रजातियां (बाघ, तेंदुआ, हिम तेंदुआ, क्लाउडेड लेपर्ड) पाई जाती हैं",
+          "en": "Hosts all 4 big cats: Tiger, Leopard, Snow Leopard, Clouded Leopard"
+        },
+        {
+          "hi": "यहाँ केवल हाथी पाए जाते हैं",
+          "en": "Only elephants"
+        },
+        {
+          "hi": "यह सबसे छोटा पार्क है",
+          "en": "Smallest park"
+        },
+        {
+          "hi": "यहाँ कोई पेड़ नहीं है",
+          "en": "No trees"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लद्दाख में स्थित कौन-सा पक्षी अभयारण्य अपनी काली गर्दन वाले सारस हेतु प्रसिद्ध है?",
+        "en": "Which wetland in Ladakh is famous for breeding Black-necked cranes?"
+      },
+      "o": [
+        {
+          "hi": "डल झील",
+          "en": "Dal Lake"
+        },
+        {
+          "hi": "त्सो कर एवं त्सो मोरीरी आर्द्रभूमि (Tso Kar & Tso Moriri)",
+          "en": "Tso Kar & Tso Moriri Wetlands"
+        },
+        {
+          "hi": "वूलर झील",
+          "en": "Wular Lake"
+        },
+        {
+          "hi": "मानसबल",
+          "en": "Manasbal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ग्रेट इंडियन बस्टर्ड (गोडावण - राजस्थान का राज्य पक्षी) के संरक्षण हेतु राष्ट्रीय मरु उद्यान कहाँ है?",
+        "en": "Desert National Park for protecting the critically endangered Great Indian Bustard is in?"
+      },
+      "o": [
+        {
+          "hi": "बीकानेर और चूरू",
+          "en": "Bikaner & Churu"
+        },
+        {
+          "hi": "जोधपुर और नागौर",
+          "en": "Jodhpur & Nagaur"
+        },
+        {
+          "hi": "जैसलमेर और बाड़मेर (Desert National Park, Rajasthan)",
+          "en": "Jaisalmer & Barmer (Rajasthan)"
+        },
+        {
+          "hi": "जयपुर और अजमेर",
+          "en": "Jaipur & Ajmer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महाराष्ट्र का सबसे पुराना और बड़ा राष्ट्रीय उद्यान कौन-सा है (चंद्रपुर जिला)?",
+        "en": "Which is Maharashtra's oldest and largest National Park in Chandrapur district?"
+      },
+      "o": [
+        {
+          "hi": "संजय गांधी राष्ट्रीय उद्यान",
+          "en": "Sanjay Gandhi NP"
+        },
+        {
+          "hi": "नवेगांव राष्ट्रीय उद्यान",
+          "en": "Navegaon NP"
+        },
+        {
+          "hi": "पेंच राष्ट्रीय उद्यान",
+          "en": "Pench NP"
+        },
+        {
+          "hi": "ताडोबा-अंधारी राष्ट्रीय उद्यान (Tadoba-Andhari NP)",
+          "en": "Tadoba-Andhari National Park"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मुंबई महानगर के बीचों-बीच स्थित राष्ट्रीय उद्यान कौन-सा है (बोरीवली नेशनल पार्क)?",
+        "en": "Which famous National Park is located within the metropolis of Mumbai (Borivali)?"
+      },
+      "o": [
+        {
+          "hi": "संजय गांधी राष्ट्रीय उद्यान (Sanjay Gandhi National Park)",
+          "en": "Sanjay Gandhi National Park"
+        },
+        {
+          "hi": "ताडोबा नेशनल पार्क",
+          "en": "Tadoba NP"
+        },
+        {
+          "hi": "गुगामल नेशनल पार्क",
+          "en": "Gugamal NP"
+        },
+        {
+          "hi": "चांदोली नेशनल पार्क",
+          "en": "Chandoli NP"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सिक्किम में स्थित 'कंचनजंघा राष्ट्रीय उद्यान' को यूनेस्को ने किस श्रेणी में शामिल किया?",
+        "en": "In which category was Khangchendzonga National Park (Sikkim) inscribed by UNESCO (2016)?"
+      },
+      "o": [
+        {
+          "hi": "सांस्कृतिक श्रेणी",
+          "en": "Cultural category"
+        },
+        {
+          "hi": "मिश्रित विश्व धरोहर स्थल (भारत का एकमात्र Mixed Heritage Site)",
+          "en": "Mixed Heritage Site (India's only Mixed site)"
+        },
+        {
+          "hi": "प्राकृतिक श्रेणी केवल",
+          "en": "Natural category only"
+        },
+        {
+          "hi": "खतरे में धरोहर",
+          "en": "Heritage in Danger"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में वन्यजीव संरक्षण अधिनियम (Wildlife Protection Act) किस वर्ष लागू हुआ था?",
+        "en": "In which historic year was the Wildlife Protection Act enacted in India?"
+      },
+      "o": [
+        {
+          "hi": "1970",
+          "en": "1970"
+        },
+        {
+          "hi": "1971",
+          "en": "1971"
+        },
+        {
+          "hi": "1972 (9 सितंबर 1972)",
+          "en": "1972 (9 September 1972)"
+        },
+        {
+          "hi": "1980",
+          "en": "1980"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में पर्यावरण संरक्षण अधिनियम (Environment Protection Act) किस वर्ष पारित हुआ?",
+        "en": "In which year was the comprehensive Environment Protection Act enacted in India?"
+      },
+      "o": [
+        {
+          "hi": "1972",
+          "en": "1972"
+        },
+        {
+          "hi": "1974",
+          "en": "1974"
+        },
+        {
+          "hi": "1980",
+          "en": "1980"
+        },
+        {
+          "hi": "1986 (भोपाल गैस त्रासदी के बाद / 1986)",
+          "en": "1986 (After Bhopal Gas Tragedy)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रोजेक्ट एलीफेंट (Project Elephant - गजतम परियोजना) किस वर्ष शुरू किया गया था?",
+        "en": "Project Elephant was launched by Government of India in which year?"
+      },
+      "o": [
+        {
+          "hi": "1992 (फरवरी 1992)",
+          "en": "1992 (February 1992)"
+        },
+        {
+          "hi": "1973",
+          "en": "1973"
+        },
+        {
+          "hi": "2002",
+          "en": "2002"
+        },
+        {
+          "hi": "1985",
+          "en": "1985"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का राष्ट्रीय जलीय जीव (National Aquatic Animal) किसे घोषित किया गया है (2009)?",
+        "en": "Which species was declared as the National Aquatic Animal of India in 2009?"
+      },
+      "o": [
+        {
+          "hi": "घड़ियाल",
+          "en": "Gharial"
+        },
+        {
+          "hi": "गंगा नदी की डॉल्फिन (Gangetic River Dolphin / सोंस)",
+          "en": "Gangetic River Dolphin (Platanista gangetica)"
+        },
+        {
+          "hi": "ब्लू व्हेल",
+          "en": "Blue Whale"
+        },
+        {
+          "hi": "ओलिव रिडले कछुआ",
+          "en": "Olive Ridley Turtle"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

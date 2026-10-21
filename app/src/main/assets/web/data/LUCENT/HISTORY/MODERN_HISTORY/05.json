@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - आधुनिक भारत (Modern India)",
+  "subtitle": "सिख एवं अंग्रेज",
+  "description": "सिख एवं अंग्रेज (दस सिख गुरु, बंदा बहादुर, महाराजा रणजीत सिंह, दोनों आंग्ल-सिख युद्ध) पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "सिखों के दूसरे गुरु जिन्होंने गुरुमुखी लिपि की शुरुआत की, कौन थे?",
+        "en": "Who was the second Sikh Guru who invented and introduced the Gurmukhi script?"
+      },
+      "o": [
+        {
+          "hi": "गुरु अंगद देव जी (Guru Angad Dev)",
+          "en": "Guru Angad Dev Ji"
+        },
+        {
+          "hi": "गुरु अमरदास",
+          "en": "Guru Amar Das"
+        },
+        {
+          "hi": "गुरु रामदास",
+          "en": "Guru Ram Das"
+        },
+        {
+          "hi": "गुरु अर्जुन देव",
+          "en": "Guru Arjan Dev"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अमृतसर में पवित्र 'हरमंदिर साहिब' (स्वर्ण मंदिर) की नींव किस सूफी संत से रखवाई गई थी?",
+        "en": "By which famous Sufi saint was the foundation stone of Harmandir Sahib (Golden Temple) laid?"
+      },
+      "o": [
+        {
+          "hi": "हजरत मियां मीर (Hazrat Mian Mir)",
+          "en": "Hazrat Mian Mir"
+        },
+        {
+          "hi": "ख्वाजा मुईनुद्दीन चिश्ती",
+          "en": "Khwaja Moinuddin Chishti"
+        },
+        {
+          "hi": "निजामुद्दीन औलिया",
+          "en": "Nizamuddin Auliya"
+        },
+        {
+          "hi": "बाबा फरीद",
+          "en": "Baba Farid"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सिखों के किस पांचवें गुरु ने 1604 ई. में आदि ग्रंथ (गुरु ग्रंथ साहिब) का संकलन किया था?",
+        "en": "Which 5th Sikh Guru compiled the holy Adi Granth (Guru Granth Sahib) in 1604 AD?"
+      },
+      "o": [
+        {
+          "hi": "गुरु अर्जुन देव जी (Guru Arjan Dev)",
+          "en": "Guru Arjan Dev Ji"
+        },
+        {
+          "hi": "गुरु अंगद देव",
+          "en": "Guru Angad Dev"
+        },
+        {
+          "hi": "गुरु हरगोबिंद",
+          "en": "Guru Hargobind"
+        },
+        {
+          "hi": "गुरु तेग बहादुर",
+          "en": "Guru Tegh Bahadur"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सिखों को एक लड़ाकू सैनिक समुदाय में बदलने और 'अकाल तख्त' की स्थापना किसने की थी?",
+        "en": "Who militarized the Sikhs into a martial brotherhood and established the Akal Takht?"
+      },
+      "o": [
+        {
+          "hi": "गुरु हरगोबिंद साहिब (Guru Hargobind)",
+          "en": "Guru Hargobind Sahib"
+        },
+        {
+          "hi": "गुरु अर्जुन देव",
+          "en": "Guru Arjan Dev"
+        },
+        {
+          "hi": "गुरु गोबिंद सिंह",
+          "en": "Guru Gobind Singh"
+        },
+        {
+          "hi": "बंदा बहादुर",
+          "en": "Banda Bahadur"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1699 ई. में बैसाखी के पावन पर्व पर 'खालसा पंथ' की स्थापना किस दसवें गुरु ने की थी?",
+        "en": "Which 10th Guru founded the Khalsa Panth on Baisakhi day in 1699 AD at Anandpur Sahib?"
+      },
+      "o": [
+        {
+          "hi": "गुरु गोबिंद सिंह जी (Guru Gobind Singh)",
+          "en": "Guru Gobind Singh Ji"
+        },
+        {
+          "hi": "गुरु तेग बहादुर",
+          "en": "Guru Tegh Bahadur"
+        },
+        {
+          "hi": "गुरु हरगोबिंद",
+          "en": "Guru Hargobind"
+        },
+        {
+          "hi": "गुरु रामदास",
+          "en": "Guru Ram Das"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गुरु गोबिंद सिंह जी ने सिखों के लिए कौन-से पाँच अनिवार्य ककार (5 'K's) निर्धारित किए?",
+        "en": "Which Five 'K's were mandated for all initiated Khalsa Sikhs by Guru Gobind Singh?"
+      },
+      "o": [
+        {
+          "hi": "केश, कंघा, कड़ा, कच्छा और कृपाण (Kesh, Kangha, Kara, Kachhera, Kirpan)",
+          "en": "Kesh, Kangha, Kara, Kachhera, Kirpan"
+        },
+        {
+          "hi": "कमल, कटार, कंगन, कवच, कुंडल",
+          "en": "Lotus, Dagger, Bangle, Armor, Earring"
+        },
+        {
+          "hi": "कलम, किताब, कुर्ता, कड़ा, केश",
+          "en": "Pen, Book, Shirt, Bangle, Hair"
+        },
+        {
+          "hi": "किरपा, करुणा, कर्म, कीर्ति, कुल",
+          "en": "Mercy, Compassion, Karma, Fame, Clan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गुरु गोबिंद सिंह जी ने फारसी भाषा में औरंगजेब को चेतावनी भरा कौन-सा ऐतिहासिक पत्र लिखा था?",
+        "en": "Which historic Persian epistle of defiance and moral victory was written by Guru Gobind Singh to Aurangzeb?"
+      },
+      "o": [
+        {
+          "hi": "जफरनामा (Zafarnama - विजय पत्र)",
+          "en": "Zafarnama (Epistle of Victory)"
+        },
+        {
+          "hi": "हुक्मनामा",
+          "en": "Hukumnama"
+        },
+        {
+          "hi": "बाबरनामा",
+          "en": "Baburnama"
+        },
+        {
+          "hi": "अकबरनामा",
+          "en": "Akbarnama"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गुरु गोबिंद सिंह जी की 1708 ई. में हत्या जमशेद खां पठान ने महाराष्ट्र के किस स्थान पर की?",
+        "en": "At which place in Maharashtra was Guru Gobind Singh Ji assassinated in 1708 AD?"
+      },
+      "o": [
+        {
+          "hi": "नांदेड़ (Nanded - गोदावरी तट)",
+          "en": "Nanded (Godavari banks)"
+        },
+        {
+          "hi": "औरंगाबाद",
+          "en": "Aurangabad"
+        },
+        {
+          "hi": "पुणे",
+          "en": "Pune"
+        },
+        {
+          "hi": "नागपुर",
+          "en": "Nagpur"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बंदा सिंह बहादुर (लक्ष्मण देव) ने सिखों की राजधानी कहाँ स्थापित की थी?",
+        "en": "Where did Banda Singh Bahadur establish the administrative capital of his Sikh state?"
+      },
+      "o": [
+        {
+          "hi": "लौहगढ़ दुर्ग (Lohgarh Fort)",
+          "en": "Lohgarh Fort"
+        },
+        {
+          "hi": "अमृतसर",
+          "en": "Amritsar"
+        },
+        {
+          "hi": "लाहौर",
+          "en": "Lahore"
+        },
+        {
+          "hi": "सरहिंद",
+          "en": "Sirhind"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "महाराजा रणजीत सिंह किस सिख मिसल (Misl) से संबंधित थे?",
+        "en": "To which prominent Sikh Misl did Maharaja Ranjit Singh belong?"
+      },
+      "o": [
+        {
+          "hi": "सुकरचकिया मिसल (Sukerchakia Misl)",
+          "en": "Sukerchakia Misl"
+        },
+        {
+          "hi": "भंगी मिसल",
+          "en": "Bhangi Misl"
+        },
+        {
+          "hi": "आहलूवालिया मिसल",
+          "en": "Ahluwalia Misl"
+        },
+        {
+          "hi": "फैजलपुरिया मिसल",
+          "en": "Faizullapuria Misl"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "महाराजा रणजीत सिंह ने 1799 ई. में किस शहर को जीतकर अपनी राजनीतिक राजधानी बनाया?",
+        "en": "Capturing in 1799 AD, which city did Maharaja Ranjit Singh make his political capital?"
+      },
+      "o": [
+        {
+          "hi": "लाहौर (Lahore)",
+          "en": "Lahore"
+        },
+        {
+          "hi": "अमृतसर",
+          "en": "Amritsar"
+        },
+        {
+          "hi": "पेशावर",
+          "en": "Peshawar"
+        },
+        {
+          "hi": "मुल्तान",
+          "en": "Multan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "महाराजा रणजीत सिंह की धार्मिक राजधानी कौन-सी थी जहाँ स्वर्ण मंदिर स्थित है?",
+        "en": "Which sacred city served as the religious and spiritual capital of Maharaja Ranjit Singh?"
+      },
+      "o": [
+        {
+          "hi": "अमृतसर (Amritsar)",
+          "en": "Amritsar"
+        },
+        {
+          "hi": "आनंदपुर साहिब",
+          "en": "Anandpur Sahib"
+        },
+        {
+          "hi": "ननकाना साहिब",
+          "en": "Nankana Sahib"
+        },
+        {
+          "hi": "पटियाला",
+          "en": "Patiala"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ऐतिहासिक 'अमृतसर की संधि' (25 अप्रैल 1809) महाराजा रणजीत सिंह और किसके बीच हुई थी?",
+        "en": "Between Maharaja Ranjit Singh and which British envoy was the Treaty of Amritsar signed in 1809?"
+      },
+      "o": [
+        {
+          "hi": "चार्ल्स मेटकाफ (लॉर्ड मिंटो प्रथम के प्रतिनिधि)",
+          "en": "Charles Metcalfe (envoy of Lord Minto I)"
+        },
+        {
+          "hi": "लॉर्ड कार्नवालिस",
+          "en": "Lord Cornwallis"
+        },
+        {
+          "hi": "वारेन हेस्टिंग्स",
+          "en": "Warren Hastings"
+        },
+        {
+          "hi": "लॉर्ड वेलेजली",
+          "en": "Lord Wellesley"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अमृतसर की संधि (1809 ई.) के अनुसार दोनों राज्यों के बीच कौन-सी नदी स्थायी सीमा निर्धारित हुई?",
+        "en": "According to the Treaty of Amritsar (1809), which river was demarcated as the mutual boundary?"
+      },
+      "o": [
+        {
+          "hi": "झेलम नदी",
+          "en": "Jhelum river"
+        },
+        {
+          "hi": "सतलुज नदी (Sutlej River)",
+          "en": "Sutlej River"
+        },
+        {
+          "hi": "रावी नदी",
+          "en": "Ravi river"
+        },
+        {
+          "hi": "सिंधु नदी",
+          "en": "Indus river"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "महाराजा रणजीत सिंह को विश्वप्रसिद्ध 'कोहिनूर हीरा' किस अफगान शासक से प्राप्त हुआ था?",
+        "en": "From which Afghan monarch did Maharaja Ranjit Singh acquire the historic Koh-i-Noor diamond?"
+      },
+      "o": [
+        {
+          "hi": "अहमद शाह अब्दाली",
+          "en": "Ahmad Shah Abdali"
+        },
+        {
+          "hi": "शाह शुजा (Shah Shuja - दुर्रानी शासक)",
+          "en": "Shah Shuja (Durrani ruler)"
+        },
+        {
+          "hi": "दोस्त मुहम्मद",
+          "en": "Dost Muhammad"
+        },
+        {
+          "hi": "जमान शाह",
+          "en": "Zaman Shah"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "महाराजा रणजीत सिंह के प्रसिद्ध फ्रांसीसी सेनापति कौन थे जिन्होंने सेना को यूरोपीय तर्ज पर ढाला?",
+        "en": "Who was Ranjit Singh's famous French general who trained his infantry on modern European lines?"
+      },
+      "o": [
+        {
+          "hi": "डुप्ले",
+          "en": "Dupleix"
+        },
+        {
+          "hi": "जनरल अलार्ड और जनरल वेंचुरा (General Allard & Ventura)",
+          "en": "General Allard and General Ventura"
+        },
+        {
+          "hi": "काउंट लाली",
+          "en": "Count Lally"
+        },
+        {
+          "hi": "बुसी",
+          "en": "Bussy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "महाराजा रणजीत सिंह का विदेश मंत्री कौन था जो उनके प्रशासन का अत्यंत वफादार स्तंभ था?",
+        "en": "Who was Maharaja Ranjit Singh's highly trusted and brilliant Foreign Minister?"
+      },
+      "o": [
+        {
+          "hi": "दीनानाथ",
+          "en": "Dinanath"
+        },
+        {
+          "hi": "फकीर अजीजुद्दीन (Fakir Azizuddin)",
+          "en": "Fakir Azizuddin"
+        },
+        {
+          "hi": "हरि सिंह नलवा",
+          "en": "Hari Singh Nalwa"
+        },
+        {
+          "hi": "गुलाब सिंह",
+          "en": "Gulab Singh"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "महाराजा रणजीत सिंह के सबसे जांबाज सेनापति कौन थे जिन्होंने जमरूद के युद्ध (1837) में वीरगति पाई?",
+        "en": "Who was Ranjit Singh's legendary commander-in-chief martyred at the Battle of Jamrud in 1837?"
+      },
+      "o": [
+        {
+          "hi": "अकाल सिंह",
+          "en": "Akal Singh"
+        },
+        {
+          "hi": "सरदार हरि सिंह नलवा (Sardar Hari Singh Nalwa)",
+          "en": "Sardar Hari Singh Nalwa"
+        },
+        {
+          "hi": "श्याम सिंह अटारीवाला",
+          "en": "Shyam Singh Attariwala"
+        },
+        {
+          "hi": "खड़क सिंह",
+          "en": "Kharak Singh"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "महाराजा रणजीत सिंह की मृत्यु किस वर्ष लाहौर में हुई थी?",
+        "en": "In which year did Maharaja Ranjit Singh pass away in Lahore?"
+      },
+      "o": [
+        {
+          "hi": "1835 ई.",
+          "en": "1835 AD"
+        },
+        {
+          "hi": "1839 ईस्वी (1839 AD - 27 जून)",
+          "en": "1839 AD (27 June)"
+        },
+        {
+          "hi": "1845 ई.",
+          "en": "1845 AD"
+        },
+        {
+          "hi": "1849 ई.",
+          "en": "1849 AD"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रथम आंग्ल-सिख युद्ध (1845-1846 ई.) के समय भारत का गवर्नर जनरल कौन था?",
+        "en": "Who was the Governor-General of India during the First Anglo-Sikh War (1845-1846)?"
+      },
+      "o": [
+        {
+          "hi": "लॉर्ड ऑकलैंड",
+          "en": "Lord Auckland"
+        },
+        {
+          "hi": "लॉर्ड हार्डिंग प्रथम (Lord Hardinge I)",
+          "en": "Lord Hardinge I"
+        },
+        {
+          "hi": "लॉर्ड डलहौजी",
+          "en": "Lord Dalhousie"
+        },
+        {
+          "hi": "लॉर्ड एलेनबरो",
+          "en": "Lord Ellenborough"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रथम आंग्ल-सिख युद्ध किस अपमानजनक संधि द्वारा मार्च 1846 में समाप्त हुआ?",
+        "en": "By which treaty was the First Anglo-Sikh War concluded in March 1846?"
+      },
+      "o": [
+        {
+          "hi": "अमृतसर की संधि",
+          "en": "Treaty of Amritsar"
+        },
+        {
+          "hi": "लाहौर की संधि (Treaty of Lahore - 9 मार्च 1846)",
+          "en": "Treaty of Lahore (9 March 1846)"
+        },
+        {
+          "hi": "भैरोवाल की संधि",
+          "en": "Treaty of Bhairowal"
+        },
+        {
+          "hi": "रावलपिंडी की संधि",
+          "en": "Treaty of Rawalpindi"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लाहौर की संधि के तहत अंग्रेजों ने जम्मू और कश्मीर को किस डोगरा राजा को 75 लाख में बेच दिया?",
+        "en": "Under Treaty of Lahore terms, to which Dogra chief did British sell Kashmir for 75 lakh rupees?"
+      },
+      "o": [
+        {
+          "hi": "रणबीर सिंह",
+          "en": "Ranbir Singh"
+        },
+        {
+          "hi": "गुलाब सिंह (Gulab Singh)",
+          "en": "Gulab Singh"
+        },
+        {
+          "hi": "हरि सिंह",
+          "en": "Hari Singh"
+        },
+        {
+          "hi": "प्रताप सिंह",
+          "en": "Pratap Singh"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "द्वितीय आंग्ल-सिख युद्ध (1848-1849 ई.) के समय भारत का गवर्नर जनरल कौन था?",
+        "en": "Who was the imperialist Governor-General of India during the Second Anglo-Sikh War (1848-1849)?"
+      },
+      "o": [
+        {
+          "hi": "लॉर्ड हार्डिंग",
+          "en": "Lord Hardinge"
+        },
+        {
+          "hi": "लॉर्ड डलहौजी (Lord Dalhousie)",
+          "en": "Lord Dalhousie"
+        },
+        {
+          "hi": "लॉर्ड कैनिंग",
+          "en": "Lord Canning"
+        },
+        {
+          "hi": "लॉर्ड वेलेजली",
+          "en": "Lord Wellesley"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "द्वितीय आंग्ल-सिख युद्ध में 1849 का कौन-सा युद्ध 'तोपों का युद्ध' (Battle of Guns) कहलाता है?",
+        "en": "Which battle of the 2nd Anglo-Sikh War in 1849 is celebrated as the 'Battle of the Guns'?"
+      },
+      "o": [
+        {
+          "hi": "चिलियांवाला का युद्ध",
+          "en": "Battle of Chilianwala"
+        },
+        {
+          "hi": "गुजरात का युद्ध (Battle of Gujrat - 21 फरवरी 1849)",
+          "en": "Battle of Gujrat (21 Feb 1849)"
+        },
+        {
+          "hi": "रामनगर का युद्ध",
+          "en": "Battle of Ramnagar"
+        },
+        {
+          "hi": "मुदकी का युद्ध",
+          "en": "Battle of Mudki"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लॉर्ड डलहौजी ने पंजाब का पूर्ण विलय ब्रिटिश साम्राज्य में किस तिथि को घोषित किया?",
+        "en": "On which date did Lord Dalhousie proclaim the complete annexation of Punjab into British India?"
+      },
+      "o": [
+        {
+          "hi": "15 अगस्त 1847",
+          "en": "15 August 1847"
+        },
+        {
+          "hi": "29 मार्च 1849 (29 March 1849)",
+          "en": "29 March 1849"
+        },
+        {
+          "hi": "1 जनवरी 1850",
+          "en": "1 January 1850"
+        },
+        {
+          "hi": "10 मई 1857",
+          "en": "10 May 1857"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पंजाब के अंतिम सिख महाराजा कौन थे जिन्हें पेंशन देकर ब्रिटेन भेज दिया गया?",
+        "en": "Who was the last boy Maharaja of the Sikh Empire, exiled to Britain on pension?"
+      },
+      "o": [
+        {
+          "hi": "खड़क सिंह",
+          "en": "Kharak Singh"
+        },
+        {
+          "hi": "महाराजा दलीप सिंह (Maharaja Duleep Singh)",
+          "en": "Maharaja Duleep Singh"
+        },
+        {
+          "hi": "नौनिहाल सिंह",
+          "en": "Nau Nihal Singh"
+        },
+        {
+          "hi": "शेर सिंह",
+          "en": "Sher Singh"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पंजाब के विलय के पश्चात विश्वविख्यात 'कोहिनूर हीरा' डलहौजी द्वारा किसे भेंट किया गया?",
+        "en": "Following the annexation of Punjab, to whom was the Koh-i-Noor diamond presented by Dalhousie?"
+      },
+      "o": [
+        {
+          "hi": "ब्रिटिश संसद को",
+          "en": "To British Parliament"
+        },
+        {
+          "hi": "ईस्ट इंडिया कंपनी के चेयरमैन को",
+          "en": "To Chairman of EIC"
+        },
+        {
+          "hi": "ब्रिटिश महारानी विक्टोरिया को (Queen Victoria)",
+          "en": "To British Queen Victoria"
+        },
+        {
+          "hi": "लंदन के संग्रहालय को",
+          "en": "To London Museum"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गुरु नानक देव जी ने किस मुगल सम्राट के समकालीन रहकर अपने उपदेश दिए थे?",
+        "en": "Guru Nanak Dev Ji was a contemporary of which initial Mughal Emperors?"
+      },
+      "o": [
+        {
+          "hi": "अकबर और जहांगीर",
+          "en": "Akbar and Jahangir"
+        },
+        {
+          "hi": "शाहजहाँ और औरंगजेब",
+          "en": "Shah Jahan and Aurangzeb"
+        },
+        {
+          "hi": "बाबर और हुमायूँ (Babur and Humayun)",
+          "en": "Babur and Humayun"
+        },
+        {
+          "hi": "बहादुर शाह",
+          "en": "Bahadur Shah"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अमृतसर नगर की स्थापना हेतु 500 बीघा जमीन किस मुगल सम्राट ने गुरु रामदास को दान दी थी?",
+        "en": "Which Mughal Emperor granted 500 Bighas of land to Guru Ram Das for founding Amritsar?"
+      },
+      "o": [
+        {
+          "hi": "बाबर",
+          "en": "Babur"
+        },
+        {
+          "hi": "हुमायूँ",
+          "en": "Humayun"
+        },
+        {
+          "hi": "अकबर (Emperor Akbar)",
+          "en": "Emperor Akbar"
+        },
+        {
+          "hi": "जहांगीर",
+          "en": "Jahangir"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सिखों के किस गुरु को 'हिन्द दी चादर' (भारत की ढाल) कहा जाता है जिन्होंने धर्म हेतु शीश दिया?",
+        "en": "Which Sikh Guru is revered as 'Hind Di Chadar' (Shield of India) for his supreme martyrdom?"
+      },
+      "o": [
+        {
+          "hi": "गुरु अर्जुन देव",
+          "en": "Guru Arjan Dev"
+        },
+        {
+          "hi": "गुरु गोबिंद सिंह",
+          "en": "Guru Gobind Singh"
+        },
+        {
+          "hi": "गुरु तेग बहादुर जी (Guru Tegh Bahadur)",
+          "en": "Guru Tegh Bahadur Ji"
+        },
+        {
+          "hi": "गुरु हरगोबिंद",
+          "en": "Guru Hargobind"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गुरु तेग बहादुर जी की शहादत दिल्ली के चांदनी चौक पर किस मुगल सम्राट के आदेश पर हुई?",
+        "en": "Under whose orders was Guru Tegh Bahadur martyred at Chandni Chowk, Delhi in 1675?"
+      },
+      "o": [
+        {
+          "hi": "शाहजहाँ",
+          "en": "Shah Jahan"
+        },
+        {
+          "hi": "जहांगीर",
+          "en": "Jahangir"
+        },
+        {
+          "hi": "औरंगजेब (Aurangzeb)",
+          "en": "Aurangzeb"
+        },
+        {
+          "hi": "फर्रुखसियर",
+          "en": "Farrukhsiyar"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चांदनी चौक में गुरु तेग बहादुर जी के शहीदी स्थल पर कौन-सा ऐतिहासिक गुरुद्वारा स्थित है?",
+        "en": "Which historic Gurdwara stands at the martyrdom site of Guru Tegh Bahadur in Chandni Chowk?"
+      },
+      "o": [
+        {
+          "hi": "गुरुद्वारा बंगला साहिब",
+          "en": "Gurdwara Bangla Sahib"
+        },
+        {
+          "hi": "गुरुद्वारा रकाबगंज",
+          "en": "Gurdwara Rakab Ganj"
+        },
+        {
+          "hi": "गुरुद्वारा शीशगंज साहिब (Sis Ganj Sahib)",
+          "en": "Gurdwara Sis Ganj Sahib"
+        },
+        {
+          "hi": "गुरुद्वारा मजनू का टीला",
+          "en": "Gurdwara Majnu Ka Tila"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सिखों के किस गुरु की मृत्यु चेचक (Smallpox) की बीमारी से मात्र 8 वर्ष की अल्पायु में हुई थी?",
+        "en": "Which child Sikh Guru passed away of smallpox at barely 8 years of age in Delhi?"
+      },
+      "o": [
+        {
+          "hi": "गुरु हरराय",
+          "en": "Guru Har Rai"
+        },
+        {
+          "hi": "गुरु तेग बहादुर",
+          "en": "Guru Tegh Bahadur"
+        },
+        {
+          "hi": "गुरु हरकिशन जी (Guru Har Krishan)",
+          "en": "Guru Har Krishan Ji"
+        },
+        {
+          "hi": "गुरु अमरदास",
+          "en": "Guru Amar Das"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बंदा सिंह बहादुर का मूल नाम क्या था जिसे गुरु गोबिंद सिंह ने 'गुरबख्श सिंह' नाम दिया था?",
+        "en": "What was the birth name of Banda Singh Bahadur before he met Guru Gobind Singh at Nanded?"
+      },
+      "o": [
+        {
+          "hi": "लक्ष्मण दास",
+          "en": "Lachhman Das"
+        },
+        {
+          "hi": "माधो दास बैरागी",
+          "en": "Madho Das Bairagi"
+        },
+        {
+          "hi": "लक्ष्मण देव / माधोदास (Lachhman Dev)",
+          "en": "Lachhman Dev / Madho Das"
+        },
+        {
+          "hi": "जोरावर सिंह",
+          "en": "Zorawar Singh"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बंदा बहादुर ने किस मुगल फौजदार को मारकर गुरु गोबिंद सिंह के साहिबजादों की शहादत का बदला लिया?",
+        "en": "Which Mughal governor did Banda Bahadur defeat & kill to avenge the martyrdom of Chhote Sahibzade?"
+      },
+      "o": [
+        {
+          "hi": "शाइस्ता खां",
+          "en": "Shaista Khan"
+        },
+        {
+          "hi": "मीर जुमला",
+          "en": "Mir Jumla"
+        },
+        {
+          "hi": "वजीर खां (सरहिंद का सूबेदार / Wazir Khan)",
+          "en": "Wazir Khan (Governor of Sirhind)"
+        },
+        {
+          "hi": "दिलेर खां",
+          "en": "Diler Khan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "18वीं सदी में सिखों के 12 स्वतंत्र संघों/समूहों को क्या कहा जाता था?",
+        "en": "What were the 12 independent territorial confederacies of the Sikhs called in the 18th century?"
+      },
+      "o": [
+        {
+          "hi": "मठ",
+          "en": "Mutts"
+        },
+        {
+          "hi": "इक्ता",
+          "en": "Iqtas"
+        },
+        {
+          "hi": "मिसल (Misls - अरबी शब्द अर्थ समान)",
+          "en": "Misls (from Arabic meaning equal)"
+        },
+        {
+          "hi": "दल",
+          "en": "Dals"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महाराजा रणजीत सिंह की न्यायप्रियता के कारण उनकी अदालत को क्या कहा जाता था?",
+        "en": "What was the supreme royal court of Maharaja Ranjit Singh popularly called?"
+      },
+      "o": [
+        {
+          "hi": "शाही अदालत",
+          "en": "Shahi Adalat"
+        },
+        {
+          "hi": "दीवान-ए-आम",
+          "en": "Diwan-i-Aam"
+        },
+        {
+          "hi": "अदालत-ए-आला (Adalat-i-Ala)",
+          "en": "Adalat-i-Ala"
+        },
+        {
+          "hi": "न्याय कचहरी",
+          "en": "Nyaya Kachahari"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महाराजा रणजीत सिंह ने अपने सिक्कों पर किसका नाम अंकित करवाया था?",
+        "en": "Whose sacred name did Maharaja Ranjit Singh inscribe on his coins (Nanakshahi coins)?"
+      },
+      "o": [
+        {
+          "hi": "स्वयं अपना नाम",
+          "en": "His own personal name"
+        },
+        {
+          "hi": "ब्रिटिश महारानी का नाम",
+          "en": "British Queen's name"
+        },
+        {
+          "hi": "गुरु नानक और गुरु गोबिंद सिंह का नाम (Nanakshahi Coins)",
+          "en": "Guru Nanak and Guru Gobind Singh (Nanakshahi)"
+        },
+        {
+          "hi": "मुगल सम्राट का नाम",
+          "en": "Mughal Emperor's name"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सिखों के तीसरे गुरु जिन्होंने विवाह हेतु 'आनंद कारज' पद्धति और 22 गद्दियों की स्थापना की?",
+        "en": "Who was the 3rd Sikh Guru who established the Anand Karaj marriage rite and 22 Manjis?"
+      },
+      "o": [
+        {
+          "hi": "गुरु अंगद",
+          "en": "Guru Angad"
+        },
+        {
+          "hi": "गुरु रामदास",
+          "en": "Guru Ram Das"
+        },
+        {
+          "hi": "गुरु अर्जुन देव",
+          "en": "Guru Arjan Dev"
+        },
+        {
+          "hi": "गुरु अमरदास जी (Guru Amar Das)",
+          "en": "Guru Amar Das Ji"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गुरु गोबिंद सिंह जी के चारों साहिबजादों में से दो को सरहिंद की दीवार में किसने चिनवा दिया था?",
+        "en": "Who ordered the two younger Sahibzadas (Zorawar & Fateh Singh) to be bricked alive at Sirhind?"
+      },
+      "o": [
+        {
+          "hi": "औरंगजेब",
+          "en": "Aurangzeb"
+        },
+        {
+          "hi": "बहादुर शाह",
+          "en": "Bahadur Shah"
+        },
+        {
+          "hi": "फर्रुखसियर",
+          "en": "Farrukhsiyar"
+        },
+        {
+          "hi": "वजीर खां (Wazir Khan - सरहिंद का फौजदार)",
+          "en": "Wazir Khan (Faujdar of Sirhind)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गुरु गोबिंद सिंह जी की प्रसिद्ध आत्मकथात्मक रचना कौन-सी है?",
+        "en": "Which is the famous autobiographical composition of Guru Gobind Singh Ji included in Dasam Granth?"
+      },
+      "o": [
+        {
+          "hi": "जाप साहिब",
+          "en": "Jaap Sahib"
+        },
+        {
+          "hi": "चंडी दी वार",
+          "en": "Chandi Di Var"
+        },
+        {
+          "hi": "अकाल उस्तत",
+          "en": "Akal Ustat"
+        },
+        {
+          "hi": "बचित्तर नाटक (Bachittar Natak)",
+          "en": "Bachittar Natak"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सिखों के सैन्य संगठन 'दल खालसा' की स्थापना 1748 ई. में किसने की थी?",
+        "en": "Who organized the unified Sikh military federation 'Dal Khalsa' in 1748 AD?"
+      },
+      "o": [
+        {
+          "hi": "बंदा बहादुर",
+          "en": "Banda Bahadur"
+        },
+        {
+          "hi": "रणजीत सिंह",
+          "en": "Ranjit Singh"
+        },
+        {
+          "hi": "जस्सा सिंह अहलूवालिया",
+          "en": "Jassa Singh Ahluwalia"
+        },
+        {
+          "hi": "नवाब कपूर सिंह (Nawab Kapur Singh)",
+          "en": "Nawab Kapur Singh"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रथम आंग्ल-सिख युद्ध के समय सिखों के प्रधान सेनापति कौन थे जिन्होंने सिखों के साथ गद्दारी की?",
+        "en": "Who was the Sikh prime minister/commander whose treason crippled the Sikh army in 1845-46?"
+      },
+      "o": [
+        {
+          "hi": "हरि सिंह नलवा",
+          "en": "Hari Singh Nalwa"
+        },
+        {
+          "hi": "शाम सिंह",
+          "en": "Sham Singh"
+        },
+        {
+          "hi": "दीनानाथ",
+          "en": "Dinanath"
+        },
+        {
+          "hi": "लाल सिंह और तेजा सिंह (Lal Singh and Teja Singh)",
+          "en": "Lal Singh and Teja Singh"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सबराओं के युद्ध (10 फरवरी 1846) में किस वीर सिख वृद्ध सेनापति ने लड़ते हुए शहादत पाई?",
+        "en": "Which heroic veteran Sikh general fought to the last breath and died a hero at Sobraon (1846)?"
+      },
+      "o": [
+        {
+          "hi": "लाल सिंह",
+          "en": "Lal Singh"
+        },
+        {
+          "hi": "तेजा सिंह",
+          "en": "Teja Singh"
+        },
+        {
+          "hi": "गुलाब सिंह",
+          "en": "Gulab Singh"
+        },
+        {
+          "hi": "सरदार शाम सिंह अटारीवाला (Sham Singh Attariwala)",
+          "en": "Sardar Sham Singh Attariwala"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "द्वितीय आंग्ल-सिख युद्ध का तात्कालिक कारण किस स्थान के सिख गवर्नर मूलराज का विद्रोह था?",
+        "en": "The revolt of Sikh governor Mulraj at which city was the immediate spark for 2nd Sikh War?"
+      },
+      "o": [
+        {
+          "hi": "लाहौर",
+          "en": "Lahore"
+        },
+        {
+          "hi": "अमृतसर",
+          "en": "Amritsar"
+        },
+        {
+          "hi": "पेशावर",
+          "en": "Peshawar"
+        },
+        {
+          "hi": "मुल्तान (Multan Revolt)",
+          "en": "Multan (Multan Revolt)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "13 जनवरी 1849 को लड़ा गया प्रसिद्ध 'चिलियांवाला का युद्ध' किसके बीच अनिर्णायक रहा था?",
+        "en": "The famous bloody Battle of Chilianwala (13 Jan 1849) was fought under which British Commander?"
+      },
+      "o": [
+        {
+          "hi": "लॉर्ड हार्डिंग",
+          "en": "Lord Hardinge"
+        },
+        {
+          "hi": "लॉर्ड डलहौजी",
+          "en": "Lord Dalhousie"
+        },
+        {
+          "hi": "हेक्टर मुनरो",
+          "en": "Hector Munro"
+        },
+        {
+          "hi": "कमांडर-इन-चीफ लॉर्ड गफ (Lord Gough बनाम शेर सिंह)",
+          "en": "Commander-in-Chief Lord Gough (vs Sher Singh)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पंजाब के विलय के समय महाराजा दलीप सिंह की अल्पवयस्क संरक्षिका राजमाता कौन थीं?",
+        "en": "Who was the Queen Mother and Regent of young Maharaja Duleep Singh during Anglo-Sikh wars?"
+      },
+      "o": [
+        {
+          "hi": "रानी रूपमती",
+          "en": "Rani Roopmati"
+        },
+        {
+          "hi": "रानी पद्मावती",
+          "en": "Rani Padmavati"
+        },
+        {
+          "hi": "रानी लक्ष्मीबाई",
+          "en": "Rani Lakshmibai"
+        },
+        {
+          "hi": "महारानी जिंदन कौर (Maharani Jindan Kaur)",
+          "en": "Maharani Jindan Kaur"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पंजाब के विलय के बाद पंजाब के प्रशासनिक बोर्ड का अध्यक्ष किसे नियुक्त किया गया था?",
+        "en": "Following annexation, who was appointed President of the 3-member Board of Administration for Punjab?"
+      },
+      "o": [
+        {
+          "hi": "जॉन लॉरेंस",
+          "en": "John Lawrence"
+        },
+        {
+          "hi": "चार्ल्स नेपियर",
+          "en": "Charles Napier"
+        },
+        {
+          "hi": "रॉबर्ट मोंटगोमरी",
+          "en": "Robert Montgomery"
+        },
+        {
+          "hi": "सर हेनरी लॉरेंस (Sir Henry Lawrence)",
+          "en": "Sir Henry Lawrence"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "महाराजा दलीप सिंह का निधन 1893 ई. में किस यूरोपीय शहर में हुआ था?",
+        "en": "In which European city did the tragic exiled Maharaja Duleep Singh pass away in 1893?"
+      },
+      "o": [
+        {
+          "hi": "लंदन",
+          "en": "London"
+        },
+        {
+          "hi": "बर्लिन",
+          "en": "Berlin"
+        },
+        {
+          "hi": "रोम",
+          "en": "Rome"
+        },
+        {
+          "hi": "पेरिस (फ्रांस / Paris)",
+          "en": "Paris (France)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सिखों के सर्वोच्च धार्मिक ग्रंथ 'गुरु ग्रंथ साहिब' को सिखों का शाश्वत जीवित गुरु किसने घोषित किया?",
+        "en": "Who declared the holy scripture 'Guru Granth Sahib' as the eternal living Guru of the Sikhs?"
+      },
+      "o": [
+        {
+          "hi": "गुरु नानक देव",
+          "en": "Guru Nanak Dev"
+        },
+        {
+          "hi": "गुरु अर्जुन देव",
+          "en": "Guru Arjan Dev"
+        },
+        {
+          "hi": "गुरु तेग बहादुर",
+          "en": "Guru Tegh Bahadur"
+        },
+        {
+          "hi": "गुरु गोबिंद सिंह जी (नांदेड़ में 1708 ई.)",
+          "en": "Guru Gobind Singh Ji (at Nanded, 1708 AD)"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}

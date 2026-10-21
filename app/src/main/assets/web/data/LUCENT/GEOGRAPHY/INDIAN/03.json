@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भारत का भूगोल (Indian Geography)",
+  "subtitle": "भारत की नदियाँ",
+  "description": "भारत की नदियाँ पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारत की राष्ट्रीय नदी कौन-सी है, जिसे 2008 में राष्ट्रीय नदी घोषित किया गया?",
+        "en": "Which is the national river of India, declared in 2008?"
+      },
+      "o": [
+        {
+          "hi": "गंगा नदी (Ganga River)",
+          "en": "Ganga River"
+        },
+        {
+          "hi": "यमुना नदी",
+          "en": "Yamuna River"
+        },
+        {
+          "hi": "ब्रह्मपुत्र नदी",
+          "en": "Brahmaputra"
+        },
+        {
+          "hi": "गोदावरी नदी",
+          "en": "Godavari River"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत की सबसे लंबी नदी कौन-सी है जिसकी लंबाई 2,525 किमी है?",
+        "en": "Which is the longest river in India with a length of 2,525 km?"
+      },
+      "o": [
+        {
+          "hi": "गोदावरी",
+          "en": "Godavari"
+        },
+        {
+          "hi": "गंगा नदी (Ganga River - 2,525 km)",
+          "en": "Ganga River"
+        },
+        {
+          "hi": "सिंधु नदी",
+          "en": "Indus River"
+        },
+        {
+          "hi": "ब्रह्मपुत्र",
+          "en": "Brahmaputra"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भागीरथी और अलकनंदा नदियों का संगम कहाँ होता है, जहाँ से इसे 'गंगा' कहते हैं?",
+        "en": "Where do Bhagirathi and Alaknanda meet to form the Ganga?"
+      },
+      "o": [
+        {
+          "hi": "कर्णप्रयाग",
+          "en": "Karnaprayag"
+        },
+        {
+          "hi": "रुद्रप्रयाग",
+          "en": "Rudraprayag"
+        },
+        {
+          "hi": "देवप्रयाग (Devprayag - उत्तराखंड)",
+          "en": "Devprayag (Uttarakhand)"
+        },
+        {
+          "hi": "विष्णुप्रयाग",
+          "en": "Vishnuprayag"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मंदाकिनी और अलकनंदा नदियों का संगम किस प्रयाग में होता है?",
+        "en": "Where do Mandakini and Alaknanda rivers meet?"
+      },
+      "o": [
+        {
+          "hi": "देवप्रयाग",
+          "en": "Devprayag"
+        },
+        {
+          "hi": "कर्णप्रयाग",
+          "en": "Karnaprayag"
+        },
+        {
+          "hi": "नंदप्रयाग",
+          "en": "Nandprayag"
+        },
+        {
+          "hi": "रुद्रप्रयाग (Rudraprayag)",
+          "en": "Rudraprayag"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पिंडर नदी और अलकनंदा नदी का संगम किस स्थल पर होता है?",
+        "en": "Confluence of Pindar and Alaknanda rivers occurs at which Prayag?"
+      },
+      "o": [
+        {
+          "hi": "कर्णप्रयाग (Karnaprayag)",
+          "en": "Karnaprayag"
+        },
+        {
+          "hi": "विष्णुप्रयाग",
+          "en": "Vishnuprayag"
+        },
+        {
+          "hi": "देवप्रयाग",
+          "en": "Devprayag"
+        },
+        {
+          "hi": "रुद्रप्रयाग",
+          "en": "Rudraprayag"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "धौलीगंगा और अलकनंदा नदियों का संगम कहाँ होता है?",
+        "en": "Where do Dhauliganga and Alaknanda rivers meet?"
+      },
+      "o": [
+        {
+          "hi": "कर्णप्रयाग",
+          "en": "Karnaprayag"
+        },
+        {
+          "hi": "विष्णुप्रयाग (Vishnuprayag)",
+          "en": "Vishnuprayag"
+        },
+        {
+          "hi": "रुद्रप्रयाग",
+          "en": "Rudraprayag"
+        },
+        {
+          "hi": "नंदप्रयाग",
+          "en": "Nandprayag"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गंगा नदी की सबसे बड़ी और लंबी सहायक नदी कौन-सी है?",
+        "en": "Which is the largest and longest tributary of the Ganga (1,376 km)?"
+      },
+      "o": [
+        {
+          "hi": "घाघरा नदी",
+          "en": "Ghaghara River"
+        },
+        {
+          "hi": "गंडक नदी",
+          "en": "Gandak River"
+        },
+        {
+          "hi": "यमुना नदी (Yamuna River)",
+          "en": "Yamuna River"
+        },
+        {
+          "hi": "कोसी नदी",
+          "en": "Kosi River"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यमुना नदी का उद्गम किस हिमनद से होता है?",
+        "en": "From which glacier does the Yamuna River originate in Uttarakhand?"
+      },
+      "o": [
+        {
+          "hi": "गंगोत्री",
+          "en": "Gangotri"
+        },
+        {
+          "hi": "पिंडारी",
+          "en": "Pindari"
+        },
+        {
+          "hi": "मिलाम",
+          "en": "Milam"
+        },
+        {
+          "hi": "यमुनोत्री हिमनद (बंदरपूंछ चोटी / Yamunotri)",
+          "en": "Yamunotri Glacier"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गंगा और यमुना नदियों का पवित्र संगम कहाँ होता है?",
+        "en": "Where is the sacred confluence (Sangam) of Ganga and Yamuna situated?"
+      },
+      "o": [
+        {
+          "hi": "प्रयागराज (इलाहाबाद, UP / Prayagraj)",
+          "en": "Prayagraj"
+        },
+        {
+          "hi": "वाराणसी",
+          "en": "Varanasi"
+        },
+        {
+          "hi": "हरिद्वार",
+          "en": "Haridwar"
+        },
+        {
+          "hi": "ऋषिकेश",
+          "en": "Rishikesh"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गंगा नदी सर्वप्रथम मैदानी भाग में कहाँ प्रवेश करती है?",
+        "en": "Where does the Ganga River first enter the plains from the mountains?"
+      },
+      "o": [
+        {
+          "hi": "ऋषिकेश",
+          "en": "Rishikesh"
+        },
+        {
+          "hi": "हरिद्वार (Haridwar)",
+          "en": "Haridwar"
+        },
+        {
+          "hi": "देवप्रयाग",
+          "en": "Devprayag"
+        },
+        {
+          "hi": "कानपुर",
+          "en": "Kanpur"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गंगा नदी बांग्लादेश में प्रवेश करने पर किस नाम से जानी जाती है?",
+        "en": "By what name is the Ganga known upon entering Bangladesh?"
+      },
+      "o": [
+        {
+          "hi": "मेघना",
+          "en": "Meghna"
+        },
+        {
+          "hi": "जमुना",
+          "en": "Jamuna"
+        },
+        {
+          "hi": "पद्मा (Padma River)",
+          "en": "Padma River"
+        },
+        {
+          "hi": "हुगली",
+          "en": "Hooghly"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ब्रह्मपुत्र नदी को तिब्बत में किस नाम से जाना जाता है?",
+        "en": "By what name is the Brahmaputra River known in Tibet?"
+      },
+      "o": [
+        {
+          "hi": "दिहांग",
+          "en": "Dihang"
+        },
+        {
+          "hi": "मेघना",
+          "en": "Meghna"
+        },
+        {
+          "hi": "जमुना",
+          "en": "Jamuna"
+        },
+        {
+          "hi": "त्सांगपो / यारलुंग सांगपो (Tsangpo)",
+          "en": "Tsangpo"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ब्रह्मपुत्र नदी अरुणाचल प्रदेश में किस नाम से प्रवेश करती है?",
+        "en": "By what name does the Brahmaputra enter Arunachal Pradesh?"
+      },
+      "o": [
+        {
+          "hi": "दिहांग (Dihang / सिआंग)",
+          "en": "Dihang / Siang"
+        },
+        {
+          "hi": "दिबांग",
+          "en": "Dibang"
+        },
+        {
+          "hi": "लोहित",
+          "en": "Lohit"
+        },
+        {
+          "hi": "धनसिरी",
+          "en": "Dhansiri"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ब्रह्मपुत्र नदी बांग्लादेश में प्रवेश करने पर किस नाम से जानी जाती है?",
+        "en": "What is the Brahmaputra called when it flows into Bangladesh?"
+      },
+      "o": [
+        {
+          "hi": "पद्मा",
+          "en": "Padma"
+        },
+        {
+          "hi": "जमुना (Jamuna River)",
+          "en": "Jamuna River"
+        },
+        {
+          "hi": "मेघना",
+          "en": "Meghna"
+        },
+        {
+          "hi": "सुर्मा",
+          "en": "Surma"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गंगा (पद्मा) और ब्रह्मपुत्र (जमुना) की संयुक्त धारा आगे चलकर किस नाम से समुद्र में गिरती है?",
+        "en": "Combined waters of Ganga and Brahmaputra finally empty into Bay of Bengal as?"
+      },
+      "o": [
+        {
+          "hi": "पद्मा",
+          "en": "Padma"
+        },
+        {
+          "hi": "हुगली",
+          "en": "Hooghly"
+        },
+        {
+          "hi": "मेघना नदी (Meghna River)",
+          "en": "Meghna River"
+        },
+        {
+          "hi": "जमुना",
+          "en": "Jamuna"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा नदी डेल्टा कौन-सा है?",
+        "en": "Which is the largest river delta in the world?"
+      },
+      "o": [
+        {
+          "hi": "मिसिसिपी डेल्टा",
+          "en": "Mississippi Delta"
+        },
+        {
+          "hi": "नील नदी डेल्टा",
+          "en": "Nile Delta"
+        },
+        {
+          "hi": "अमेजन डेल्टा",
+          "en": "Amazon Delta"
+        },
+        {
+          "hi": "सुंदरवन का डेल्टा (गंगा-ब्रह्मपुत्र डेल्टा)",
+          "en": "Sundarbans Delta (Ganga-Brahmaputra)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सिंधु नदी (Indus River) का उद्गम कहाँ से होता है?",
+        "en": "Where does the Indus River originate?"
+      },
+      "o": [
+        {
+          "hi": "मानसरोवर झील के पास बोखर चू / सोनोख्याबाब हिमनद (तिब्बत)",
+          "en": "Near Lake Manasarovar (Bokhar Chu, Tibet)"
+        },
+        {
+          "hi": "राकसताल",
+          "en": "Rakashstal"
+        },
+        {
+          "hi": "शेषनाग झील",
+          "en": "Sheshnag Lake"
+        },
+        {
+          "hi": "रोहतांग दर्रा",
+          "en": "Rohtang Pass"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1960 के ऐतिहासिक सिंधु जल समझौते (IWT) की मध्यस्थता किसने की थी?",
+        "en": "Who brokered the historic 1960 Indus Waters Treaty between India and Pakistan?"
+      },
+      "o": [
+        {
+          "hi": "संयुक्त राष्ट्र (UN)",
+          "en": "United Nations"
+        },
+        {
+          "hi": "विश्व बैंक (World Bank)",
+          "en": "World Bank"
+        },
+        {
+          "hi": "अंतरराष्ट्रीय न्यायालय",
+          "en": "ICJ"
+        },
+        {
+          "hi": "ब्रिटिश सरकार",
+          "en": "British Govt"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सिंधु जल समझौते के तहत भारत को किन तीन पूर्वी नदियों के 100% जल का अधिकार मिला?",
+        "en": "Under Indus Treaty, India has unrestricted rights over which 3 eastern rivers?"
+      },
+      "o": [
+        {
+          "hi": "सिंधु, झेलम और चिनाब",
+          "en": "Indus, Jhelum, Chenab"
+        },
+        {
+          "hi": "गंगा, यमुना और घग्घर",
+          "en": "Ganga, Yamuna, Ghaggar"
+        },
+        {
+          "hi": "रावी, व्यास और सतलज (Ravi, Beas, Sutlej)",
+          "en": "Ravi, Beas & Sutlej"
+        },
+        {
+          "hi": "झेलम, रावी और सतलज",
+          "en": "Jhelum, Ravi, Sutlej"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सिंधु की सबसे बड़ी सहायक नदी कौन-सी है?",
+        "en": "Which is the largest tributary of the Indus River?"
+      },
+      "o": [
+        {
+          "hi": "झेलम",
+          "en": "Jhelum"
+        },
+        {
+          "hi": "रावी",
+          "en": "Ravi"
+        },
+        {
+          "hi": "सतलज",
+          "en": "Sutlej"
+        },
+        {
+          "hi": "चिनाब नदी (चंद्रभागा / Chenab River)",
+          "en": "Chenab River (Chandrabhaga)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "झेलम नदी का उद्गम किस प्रसिद्ध झील/कुंड से होता है?",
+        "en": "From which spring/lake does the Jhelum River originate in Kashmir?"
+      },
+      "o": [
+        {
+          "hi": "वेरीनाग कुंड (शेषनाग / Verinag)",
+          "en": "Verinag Spring"
+        },
+        {
+          "hi": "डल झील",
+          "en": "Dal Lake"
+        },
+        {
+          "hi": "वूलर झील",
+          "en": "Wular Lake"
+        },
+        {
+          "hi": "मानसरोवर",
+          "en": "Manasarovar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "श्रीनगर शहर किस नदी के तट पर बसा है तथा यह नदी किस झील से होकर बहती है?",
+        "en": "Srinagar is on the banks of Jhelum; through which lake does Jhelum flow?"
+      },
+      "o": [
+        {
+          "hi": "डल झील",
+          "en": "Dal Lake"
+        },
+        {
+          "hi": "वूलर झील (Wular Lake)",
+          "en": "Wular Lake"
+        },
+        {
+          "hi": "मानसबल झील",
+          "en": "Manasbal Lake"
+        },
+        {
+          "hi": "त्सो मोरीरी",
+          "en": "Tso Moriri"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "व्यास नदी (Beas) का उद्गम हिमाचल प्रदेश में किस दर्रे के पास से होता है?",
+        "en": "From near which pass does the Beas River originate in Himachal Pradesh?"
+      },
+      "o": [
+        {
+          "hi": "शिपकी ला",
+          "en": "Shipki La"
+        },
+        {
+          "hi": "बाड़ालाचा ला",
+          "en": "Bara-lacha La"
+        },
+        {
+          "hi": "रोहतांग दर्रा (व्यास कुंड / Rohtang Pass)",
+          "en": "Rohtang Pass (Beas Kund)"
+        },
+        {
+          "hi": "जोजिला",
+          "en": "Zoji La"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सतलज नदी (Sutlej) का उद्गम स्थल कौन-सा है?",
+        "en": "What is the source of the Sutlej River in Tibet?"
+      },
+      "o": [
+        {
+          "hi": "मानसरोवर",
+          "en": "Manasarovar"
+        },
+        {
+          "hi": "बोखर चू",
+          "en": "Bokhar Chu"
+        },
+        {
+          "hi": "यमुनोत्री",
+          "en": "Yamunotri"
+        },
+        {
+          "hi": "राकसताल झील (Rakshastal, तिब्बत)",
+          "en": "Rakshastal (Tibet)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रायद्वीपीय भारत की सबसे लंबी नदी कौन-सी है जिसे 'दक्षिण गंगा' या 'वृद्ध गंगा' कहते हैं?",
+        "en": "Longest river of Peninsular India (1,465 km) called 'Dakshin Ganga'?"
+      },
+      "o": [
+        {
+          "hi": "गोदावरी नदी (Godavari River)",
+          "en": "Godavari River"
+        },
+        {
+          "hi": "कृष्णा नदी",
+          "en": "Krishna River"
+        },
+        {
+          "hi": "कावेरी नदी",
+          "en": "Cauvery River"
+        },
+        {
+          "hi": "महानदी",
+          "en": "Mahanadi"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गोदावरी नदी का उद्गम किस स्थान से होता है?",
+        "en": "From where does the Godavari River originate?"
+      },
+      "o": [
+        {
+          "hi": "महाबलेश्वर",
+          "en": "Mahabaleshwar"
+        },
+        {
+          "hi": "त्र्यंबकेश्वर (नासिक, महाराष्ट्र / Trimbakeshwar)",
+          "en": "Trimbakeshwar (Nashik)"
+        },
+        {
+          "hi": "अमरकंटक",
+          "en": "Amarkantak"
+        },
+        {
+          "hi": "बैतूल",
+          "en": "Betul"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कृष्णा नदी (1,401 किमी) का उद्गम स्थल कहाँ है?",
+        "en": "Where does the Krishna River originate in Western Ghats?"
+      },
+      "o": [
+        {
+          "hi": "त्र्यंबकेश्वर",
+          "en": "Trimbakeshwar"
+        },
+        {
+          "hi": "ब्रह्मगिरी पहाड़ी",
+          "en": "Brahmagiri Hills"
+        },
+        {
+          "hi": "महाबलेश्वर (महाराष्ट्र / Mahabaleshwar)",
+          "en": "Mahabaleshwar"
+        },
+        {
+          "hi": "अमरकंटक",
+          "en": "Amarkantak"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तुंगभद्रा और भीमा नदियाँ किसकी प्रमुख सहायक नदियाँ हैं?",
+        "en": "Tungabhadra and Bhima are major tributaries of which river?"
+      },
+      "o": [
+        {
+          "hi": "गोदावरी",
+          "en": "Godavari"
+        },
+        {
+          "hi": "कावेरी",
+          "en": "Cauvery"
+        },
+        {
+          "hi": "महानदी",
+          "en": "Mahanadi"
+        },
+        {
+          "hi": "कृष्णा नदी (Krishna River)",
+          "en": "Krishna River"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कावेरी नदी का उद्गम कर्नाटक के किस जिले की ब्रह्मगिरी पहाड़ी से होता है?",
+        "en": "From Brahmagiri hills of which Karnataka district does Cauvery originate?"
+      },
+      "o": [
+        {
+          "hi": "कोडागु / कुर्ग जिला (Kodagu / Coorg)",
+          "en": "Kodagu / Coorg"
+        },
+        {
+          "hi": "बेलगावी",
+          "en": "Belagavi"
+        },
+        {
+          "hi": "शिवमोग्गा",
+          "en": "Shivamogga"
+        },
+        {
+          "hi": "हासन",
+          "en": "Hassan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वर्ष भर जल प्रवाह रहने के कारण किस नदी को 'दक्षिण भारत की गंगा' कहा जाता है?",
+        "en": "Which river is called the 'Ganga of South India' due to perennial flow from dual monsoons?"
+      },
+      "o": [
+        {
+          "hi": "गोदावरी",
+          "en": "Godavari"
+        },
+        {
+          "hi": "कावेरी नदी (Cauvery River)",
+          "en": "Cauvery River"
+        },
+        {
+          "hi": "कृष्णा",
+          "en": "Krishna"
+        },
+        {
+          "hi": "वैगई",
+          "en": "Vaigai"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अरब सागर में गिरने वाली भारत की सबसे लंबी नदी कौन-सी है?",
+        "en": "Which is the longest west-flowing river of India emptying into Arabian Sea (1,312 km)?"
+      },
+      "o": [
+        {
+          "hi": "ताप्ती नदी",
+          "en": "Tapti River"
+        },
+        {
+          "hi": "साबरमती नदी",
+          "en": "Sabarmati River"
+        },
+        {
+          "hi": "नर्मदा नदी (Narmada River)",
+          "en": "Narmada River"
+        },
+        {
+          "hi": "माही नदी",
+          "en": "Mahi River"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नर्मदा नदी किन दो पर्वत श्रेणियों के मध्य भ्रंश घाटी (Rift Valley) में बहती है?",
+        "en": "Narmada River flows through a rift valley between which two mountain ranges?"
+      },
+      "o": [
+        {
+          "hi": "अरावली और विंध्याचल",
+          "en": "Aravalli & Vindhya"
+        },
+        {
+          "hi": "पश्चिमी घाट और पूर्वी घाट",
+          "en": "Western & Eastern Ghats"
+        },
+        {
+          "hi": "सतपुड़ा और अजंता",
+          "en": "Satpura & Ajanta"
+        },
+        {
+          "hi": "विंध्याचल और सतपुड़ा (Vindhyas & Satpuras)",
+          "en": "Vindhyas and Satpuras"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नर्मदा नदी का उद्गम स्थल कौन-सा है?",
+        "en": "What is the source of the Narmada River?"
+      },
+      "o": [
+        {
+          "hi": "अमरकंटक पहाड़ी (मध्य प्रदेश / Amarkantak)",
+          "en": "Amarkantak (Madhya Pradesh)"
+        },
+        {
+          "hi": "महाबलेश्वर",
+          "en": "Mahabaleshwar"
+        },
+        {
+          "hi": "त्र्यंबकेश्वर",
+          "en": "Trimbakeshwar"
+        },
+        {
+          "hi": "मुलताई",
+          "en": "Multai"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ताप्ती (तापी) नदी का उद्गम मध्य प्रदेश के किस जिले के मुलताई से होता है?",
+        "en": "Tapti River originates from Multai in which MP district?"
+      },
+      "o": [
+        {
+          "hi": "जबलपुर",
+          "en": "Jabalpur"
+        },
+        {
+          "hi": "बैतूल जिला (Betul District, MP)",
+          "en": "Betul District"
+        },
+        {
+          "hi": "छिंदवाड़ा",
+          "en": "Chhindwara"
+        },
+        {
+          "hi": "होशंगाबाद",
+          "en": "Hoshangabad"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "डेल्टा न बनाकर ज्वारनदमुख (एच्युरी / Estuary) बनाने वाली प्रमुख नदियाँ कौन-सी हैं?",
+        "en": "Which major Indian rivers do not form deltas, but form estuaries?"
+      },
+      "o": [
+        {
+          "hi": "गंगा और ब्रह्मपुत्र",
+          "en": "Ganga & Brahmaputra"
+        },
+        {
+          "hi": "गोदावरी और कृष्णा",
+          "en": "Godavari & Krishna"
+        },
+        {
+          "hi": "नर्मदा और ताप्ती (Narmada & Tapti)",
+          "en": "Narmada & Tapti"
+        },
+        {
+          "hi": "कावेरी और महानदी",
+          "en": "Cauvery & Mahanadi"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कर्क रेखा को दो बार काटने वाली भारत की एकमात्र नदी कौन-सी है?",
+        "en": "Which is the only river in India that crosses the Tropic of Cancer twice?"
+      },
+      "o": [
+        {
+          "hi": "साबरमती नदी",
+          "en": "Sabarmati River"
+        },
+        {
+          "hi": "चंबल नदी",
+          "en": "Chambal River"
+        },
+        {
+          "hi": "बेतवा नदी",
+          "en": "Betwa River"
+        },
+        {
+          "hi": "माही नदी (Mahi River)",
+          "en": "Mahi River"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कच्छ के रण (Rann of Kutch) के दलदल में विलीन होने वाली अंतःस्थलीय नदी कौन-सी है?",
+        "en": "Which inland drainage river disappears into the marshes of Rann of Kutch?"
+      },
+      "o": [
+        {
+          "hi": "लूनी नदी (Luni River)",
+          "en": "Luni River"
+        },
+        {
+          "hi": "माही नदी",
+          "en": "Mahi River"
+        },
+        {
+          "hi": "घग्घर नदी",
+          "en": "Ghaggar River"
+        },
+        {
+          "hi": "साबरमती",
+          "en": "Sabarmati"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लूनी नदी का जल बालोतरा (राजस्थान) तक मीठा तथा उसके बाद खारा क्यों हो जाता है?",
+        "en": "Why does the Luni River turn saline after Balotra, Rajasthan?"
+      },
+      "o": [
+        {
+          "hi": "समुद्र से मिलने के कारण",
+          "en": "Due to sea mixing"
+        },
+        {
+          "hi": "मार्ग की लवणीय चट्टानों व मरुस्थलीय मिट्टी के कारण",
+          "en": "Due to salt-rich soil & deposits on its course"
+        },
+        {
+          "hi": "औद्योगिक प्रदूषण के कारण",
+          "en": "Industrial pollution"
+        },
+        {
+          "hi": "कम वर्षा के कारण",
+          "en": "Low rainfall"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत की सर्वाधिक बीहड़ (Ravines) बनाने वाली नदी कौन-सी है?",
+        "en": "Which river is notorious for creating extensive badland topography/ravines?"
+      },
+      "o": [
+        {
+          "hi": "यमुना नदी",
+          "en": "Yamuna River"
+        },
+        {
+          "hi": "बेतवा नदी",
+          "en": "Betwa River"
+        },
+        {
+          "hi": "चंबल नदी (Chambal River)",
+          "en": "Chambal River"
+        },
+        {
+          "hi": "केन नदी",
+          "en": "Ken River"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'बिहार का शोक' (Sorrow of Bihar) अपना मार्ग बदलने हेतु कुख्यात किस नदी को कहते हैं?",
+        "en": "Which river is known as the 'Sorrow of Bihar' due to frequent course shifts & floods?"
+      },
+      "o": [
+        {
+          "hi": "दामोदर नदी",
+          "en": "Damodar River"
+        },
+        {
+          "hi": "घाघरा नदी",
+          "en": "Ghaghara River"
+        },
+        {
+          "hi": "गंडक नदी",
+          "en": "Gandak River"
+        },
+        {
+          "hi": "कोसी नदी (Kosi River)",
+          "en": "Kosi River"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'बंगाल का शोक' (Sorrow of Bengal) ऐतिहासिक रूप से किस नदी को कहा जाता था?",
+        "en": "Which river was historically known as the 'Sorrow of Bengal'?"
+      },
+      "o": [
+        {
+          "hi": "दामोदर नदी (Damodar River)",
+          "en": "Damodar River"
+        },
+        {
+          "hi": "हुगली नदी",
+          "en": "Hooghly River"
+        },
+        {
+          "hi": "तीस्ता नदी",
+          "en": "Teesta River"
+        },
+        {
+          "hi": "महानंदा नदी",
+          "en": "Mahananda River"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दामोदर नदी किस नदी की प्रमुख वितरिका (Distributary) में जाकर मिलती है?",
+        "en": "Damodar River empties its waters into which distributary of Ganga in WB?"
+      },
+      "o": [
+        {
+          "hi": "पद्मा नदी",
+          "en": "Padma River"
+        },
+        {
+          "hi": "हुगली नदी (Hooghly River)",
+          "en": "Hooghly River"
+        },
+        {
+          "hi": "मेघना नदी",
+          "en": "Meghna River"
+        },
+        {
+          "hi": "रूपनारायण",
+          "en": "Rupnarayan"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ओडिशा का प्रसिद्ध हीराकुंड बांध किस नदी पर निर्मित है?",
+        "en": "World's longest earthen dam, Hirakud Dam, is built on which river in Odisha?"
+      },
+      "o": [
+        {
+          "hi": "ब्राह्मणी नदी",
+          "en": "Brahmani River"
+        },
+        {
+          "hi": "वैतरणी नदी",
+          "en": "Vaitarna River"
+        },
+        {
+          "hi": "महानदी (Mahanadi - 851 किमी)",
+          "en": "Mahanadi"
+        },
+        {
+          "hi": "सुवर्णरेखा नदी",
+          "en": "Subarnarekha"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गोवा राज्य की दो प्रमुख जीवनदायिनी नदियाँ कौन-सी हैं?",
+        "en": "Which are the two most important lifeline rivers of Goa?"
+      },
+      "o": [
+        {
+          "hi": "पेरियार और भरतपुझा",
+          "en": "Periyar & Bharatpuzha"
+        },
+        {
+          "hi": "शरावती और कालिंदी",
+          "en": "Sharavathi & Kalindi"
+        },
+        {
+          "hi": "नेत्रावती और शरावती",
+          "en": "Netravati & Sharavathi"
+        },
+        {
+          "hi": "मांडवी और जुआरी (Mandovi & Zuari)",
+          "en": "Mandovi & Zuari"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "केरल की सबसे लंबी नदी कौन-सी है?",
+        "en": "Which is the longest river in Kerala (244 km)?"
+      },
+      "o": [
+        {
+          "hi": "भरतपुझा नदी / पोन्नानी (Bharatpuzha)",
+          "en": "Bharatpuzha / Ponnani"
+        },
+        {
+          "hi": "पेरियार नदी",
+          "en": "Periyar River"
+        },
+        {
+          "hi": "पम्पा नदी",
+          "en": "Pamba River"
+        },
+        {
+          "hi": "चालाकुडी नदी",
+          "en": "Chalakudy River"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "केरल की 'जीवन रेखा' (Lifeline of Kerala) किस नदी को कहा जाता है?",
+        "en": "Which river is revered as the 'Lifeline of Kerala'?"
+      },
+      "o": [
+        {
+          "hi": "भरतपुझा",
+          "en": "Bharatpuzha"
+        },
+        {
+          "hi": "पेरियार नदी (Periyar River)",
+          "en": "Periyar River"
+        },
+        {
+          "hi": "पम्पा नदी",
+          "en": "Pamba River"
+        },
+        {
+          "hi": "काबिनी नदी",
+          "en": "Kabini River"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "असम में ब्रह्मपुत्र नदी पर स्थित विश्व का सबसे बड़ा नदी द्वीप कौन-सा है?",
+        "en": "Which is the largest inhabited river island in the world situated on Brahmaputra?"
+      },
+      "o": [
+        {
+          "hi": "उमानंदा",
+          "en": "Umananda"
+        },
+        {
+          "hi": "श्रीरंगम",
+          "en": "Srirangam"
+        },
+        {
+          "hi": "माजुली द्वीप (Majuli Island)",
+          "en": "Majuli Island"
+        },
+        {
+          "hi": "भवानी द्वीप",
+          "en": "Bhavani Island"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गुवाहाटी में ब्रह्मपुत्र नदी के मध्य स्थित विश्व का सबसे छोटा नदी द्वीप कौन-सा है?",
+        "en": "Which is the smallest inhabited river island in the world located in Guwahati?"
+      },
+      "o": [
+        {
+          "hi": "माजुली",
+          "en": "Majuli"
+        },
+        {
+          "hi": "दीव",
+          "en": "Diu"
+        },
+        {
+          "hi": "एलीफेंटा",
+          "en": "Elephanta"
+        },
+        {
+          "hi": "उमानंदा द्वीप (मयूर द्वीप / Umananda)",
+          "en": "Umananda Island (Peacock Island)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चंबल, बेतवा और केन नदियाँ किस मुख्य नदी की दाहिनी सहायक नदियाँ हैं?",
+        "en": "Chambal, Betwa, and Ken are major right-bank tributaries of which river?"
+      },
+      "o": [
+        {
+          "hi": "यमुना नदी (Yamuna River)",
+          "en": "Yamuna River"
+        },
+        {
+          "hi": "गंगा नदी",
+          "en": "Ganga River"
+        },
+        {
+          "hi": "सोन नदी",
+          "en": "Son River"
+        },
+        {
+          "hi": "नर्मदा नदी",
+          "en": "Narmada River"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रायद्वीपीय पठार से निकलकर सीधे गंगा में मिलने वाली प्रमुख नदी कौन-सी है?",
+        "en": "Which major peninsular river flows northward directly into Ganga near Patna?"
+      },
+      "o": [
+        {
+          "hi": "बेतवा नदी",
+          "en": "Betwa River"
+        },
+        {
+          "hi": "सोन नदी (Son River - अमरकंटक से उद्गम)",
+          "en": "Son River"
+        },
+        {
+          "hi": "चंबल नदी",
+          "en": "Chambal River"
+        },
+        {
+          "hi": "दामोदर नदी",
+          "en": "Damodar River"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - प्राचीन भारत (Ancient India)",
+  "subtitle": "प्रागैतिहासिक काल",
+  "description": "प्रागैतिहासिक काल पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "जिस काल में मनुष्य ने घटनाओं का कोई लिखित विवरण उद्धृत नहीं किया, उसे क्या कहते हैं?",
+        "en": "Period of human history for which no written records exist is called?"
+      },
+      "o": [
+        {
+          "hi": "प्रागैतिहासिक काल (Prehistoric Period)",
+          "en": "Prehistoric Period"
+        },
+        {
+          "hi": "आद्य-ऐतिहासिक काल",
+          "en": "Proto-historic Period"
+        },
+        {
+          "hi": "ऐतिहासिक काल",
+          "en": "Historic Period"
+        },
+        {
+          "hi": "वैदिक काल",
+          "en": "Vedic Period"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जिस काल के लिखित साक्ष्य तो उपलब्ध हैं लेकिन उन्हें अभी तक पढ़ा नहीं जा सका है?",
+        "en": "Period with written scripts available that remain undeciphered (e.g. Harappan)?"
+      },
+      "o": [
+        {
+          "hi": "प्रागैतिहासिक काल",
+          "en": "Prehistoric Period"
+        },
+        {
+          "hi": "आद्य-ऐतिहासिक काल (Proto-historic Period)",
+          "en": "Proto-historic Period"
+        },
+        {
+          "hi": "ऐतिहासिक काल",
+          "en": "Historic Period"
+        },
+        {
+          "hi": "पाषाण काल",
+          "en": "Stone Age"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय पुरातत्व सर्वेक्षण (ASI) का जनक किसे माना जाता है?",
+        "en": "Who is reverently regarded as the 'Father of Indian Archaeology'?"
+      },
+      "o": [
+        {
+          "hi": "जॉन मार्शल",
+          "en": "John Marshall"
+        },
+        {
+          "hi": "मार्टिमर व्हीलर",
+          "en": "Mortimer Wheeler"
+        },
+        {
+          "hi": "सर अलेक्जेंडर कनिंघम (Alexander Cunningham)",
+          "en": "Sir Alexander Cunningham"
+        },
+        {
+          "hi": "रॉबर्ट ब्रूस फुट",
+          "en": "Robert Bruce Foote"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में पाषाणकालीन सभ्यता का अनुसंधान सर्वप्रथम 1863 में किसने प्रारंभ किया था?",
+        "en": "Who first discovered early Paleolithic stone implements in India in 1863?"
+      },
+      "o": [
+        {
+          "hi": "कनिंघम",
+          "en": "Cunningham"
+        },
+        {
+          "hi": "दयाराम साहनी",
+          "en": "Dayaram Sahni"
+        },
+        {
+          "hi": "राखालदास बनर्जी",
+          "en": "R.D. Banerjee"
+        },
+        {
+          "hi": "रॉबर्ट ब्रूस फुट (Robert Bruce Foote - पल्लवरम, मद्रास)",
+          "en": "Robert Bruce Foote"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रॉबर्ट ब्रूस फुट को 1863 में मद्रास के निकट पल्लवरम से कौन-सा पहला पाषाण उपकरण मिला?",
+        "en": "Which first Paleolithic artifact did Robert Bruce Foote discover at Pallavaram in 1863?"
+      },
+      "o": [
+        {
+          "hi": "हस्त कुठार (Handaxe / कुल्हाड़ी)",
+          "en": "Handaxe (Cleaver)"
+        },
+        {
+          "hi": "तीर-कमान",
+          "en": "Bow & Arrow"
+        },
+        {
+          "hi": "मृद्भांड",
+          "en": "Pottery"
+        },
+        {
+          "hi": "हड्डी की सुई",
+          "en": "Bone needle"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव इतिहास का सबसे लंबा कालखंड कौन-सा माना जाता है (लगभग 99% समय)?",
+        "en": "Which is the longest cultural phase of human history comprising ~99% of its span?"
+      },
+      "o": [
+        {
+          "hi": "मध्यपाषाण काल",
+          "en": "Mesolithic Period"
+        },
+        {
+          "hi": "पुरापाषाण काल (Paleolithic Period)",
+          "en": "Paleolithic Period"
+        },
+        {
+          "hi": "नवपाषाण काल",
+          "en": "Neolithic Period"
+        },
+        {
+          "hi": "ताम्रपाषाण काल",
+          "en": "Chalcolithic Period"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पुरापाषाण काल (Paleolithic Age) में मानव की आजीविका का मुख्य आधार क्या था?",
+        "en": "What was the primary means of subsistence for Paleolithic humans?"
+      },
+      "o": [
+        {
+          "hi": "कृषि कार्य",
+          "en": "Agriculture"
+        },
+        {
+          "hi": "पशुपालन",
+          "en": "Animal husbandry"
+        },
+        {
+          "hi": "शिकार एवं खाद्य संग्रहण (Hunting & Food Gathering)",
+          "en": "Hunting & Food Gathering"
+        },
+        {
+          "hi": "व्यापार",
+          "en": "Trade"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मानव द्वारा आग (Fire) की खोज और उसका उपयोग सर्वप्रथम किस काल में सीखा गया?",
+        "en": "Discovery of fire and its controlled use was made by early humans in which age?"
+      },
+      "o": [
+        {
+          "hi": "मध्यपाषाण काल",
+          "en": "Mesolithic"
+        },
+        {
+          "hi": "नवपाषाण काल",
+          "en": "Neolithic"
+        },
+        {
+          "hi": "ताम्रपाषाण काल",
+          "en": "Chalcolithic"
+        },
+        {
+          "hi": "पुरापाषाण काल (निम्न पुरापाषाण / Paleolithic)",
+          "en": "Paleolithic Age"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पहिए (Wheel) का आविष्कार मानव ने किस काल में किया जिसने परिवहन क्रांति ला दी?",
+        "en": "In which period did humans invent the wheel, revolutionizing transport and pottery?"
+      },
+      "o": [
+        {
+          "hi": "नवपाषाण काल (Neolithic Period)",
+          "en": "Neolithic Period"
+        },
+        {
+          "hi": "पुरापाषाण काल",
+          "en": "Paleolithic Period"
+        },
+        {
+          "hi": "मध्यपाषाण काल",
+          "en": "Mesolithic Period"
+        },
+        {
+          "hi": "लौह काल",
+          "en": "Iron Age"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मनुष्य ने सर्वप्रथम किस धातु (First Metal used by Human) का प्रयोग किया था?",
+        "en": "Which was the very first metal discovered and utilized by human civilization?"
+      },
+      "o": [
+        {
+          "hi": "लोहा (Iron)",
+          "en": "Iron"
+        },
+        {
+          "hi": "तांबा (Copper)",
+          "en": "Copper"
+        },
+        {
+          "hi": "कांसा (Bronze)",
+          "en": "Bronze"
+        },
+        {
+          "hi": "सोना (Gold)",
+          "en": "Gold"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव द्वारा बनाया गया सर्वप्रथम औजार कौन-सा था?",
+        "en": "Which was the first specialized metallic tool fashioned by early man?"
+      },
+      "o": [
+        {
+          "hi": "भाला",
+          "en": "Spear"
+        },
+        {
+          "hi": "धनुष",
+          "en": "Bow"
+        },
+        {
+          "hi": "कुल्हाड़ी (हस्त कुठार / Axe)",
+          "en": "Axe"
+        },
+        {
+          "hi": "चाकू",
+          "en": "Knife"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अतिरामपक्कम (तमिलनाडु) से किस प्राचीन औजार की प्राप्ति हुई थी?",
+        "en": "From Attirampakkam near Chennai, which Paleolithic tool was recovered?"
+      },
+      "o": [
+        {
+          "hi": "लोहे का हल",
+          "en": "Iron plow"
+        },
+        {
+          "hi": "कांस्य नर्तकी",
+          "en": "Bronze dancer"
+        },
+        {
+          "hi": "तांबे की थाली",
+          "en": "Copper plate"
+        },
+        {
+          "hi": "कुल्हाड़ी / हैंडएक्स (Axe)",
+          "en": "Axe / Handaxe"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव द्वारा पाला गया प्रथम पालतू पशु कौन-सा था?",
+        "en": "Which was the first animal domesticated by early humans (in Mesolithic Age)?"
+      },
+      "o": [
+        {
+          "hi": "कुत्ता (Dog)",
+          "en": "Dog"
+        },
+        {
+          "hi": "बकरी",
+          "en": "Goat"
+        },
+        {
+          "hi": "भेड़",
+          "en": "Sheep"
+        },
+        {
+          "hi": "गाय",
+          "en": "Cow"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में पशुपालन (Animal Husbandry) के प्राचीनतम साक्ष्य कहाँ से मिलते हैं?",
+        "en": "Where are the earliest archaeological evidences of animal domestication in India found?"
+      },
+      "o": [
+        {
+          "hi": "भीमबेटका (MP)",
+          "en": "Bhimbetka (MP)"
+        },
+        {
+          "hi": "आदमगढ़ (MP) और बागोर (राजस्थान)",
+          "en": "Adamgarh (MP) & Bagor (Rajasthan)"
+        },
+        {
+          "hi": "बुर्जहोम (J&K)",
+          "en": "Burzahom (J&K)"
+        },
+        {
+          "hi": "मेहरगढ़ (बलूचिस्तान)",
+          "en": "Mehrgarh (Balochistan)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कृषि (Agriculture) का सर्वप्रथम आविष्कार किस पाषाण काल में हुआ?",
+        "en": "In which prehistoric epoch did agriculture first originate in human society?"
+      },
+      "o": [
+        {
+          "hi": "पुरापाषाण काल",
+          "en": "Paleolithic"
+        },
+        {
+          "hi": "मध्यपाषाण काल",
+          "en": "Mesolithic"
+        },
+        {
+          "hi": "नवपाषाण काल (Neolithic Period)",
+          "en": "Neolithic Period"
+        },
+        {
+          "hi": "महापाषाण काल",
+          "en": "Megalithic"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय उपमहाद्वीप में कृषि के प्राचीनतम साक्ष्य (लगभग 7000 ई.पू.) कहाँ से मिले हैं?",
+        "en": "Where were the oldest evidences of wheat/barley agriculture (~7000 BC) discovered?"
+      },
+      "o": [
+        {
+          "hi": "बुर्जहोम",
+          "en": "Burzahom"
+        },
+        {
+          "hi": "चिरांद",
+          "en": "Chirand"
+        },
+        {
+          "hi": "कालीबंगा",
+          "en": "Kalibangan"
+        },
+        {
+          "hi": "मेहरगढ़ (बलूचिस्तान, पाकिस्तान / Mehrgarh)",
+          "en": "Mehrgarh (Balochistan)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हालिया खोजों के अनुसार भारतीय उपमहाद्वीप में कृषि (चावल) का प्राचीनतम स्थल कौन-सा है?",
+        "en": "According to recent Lahuradewa excavations, earliest rice farming (~8000 BC) is at?"
+      },
+      "o": [
+        {
+          "hi": "लहुरादेवा (संत कबीर नगर, UP / Lahuradewa)",
+          "en": "Lahuradewa (Sant Kabir Nagar, UP)"
+        },
+        {
+          "hi": "मेहरगढ़",
+          "en": "Mehrgarh"
+        },
+        {
+          "hi": "कोल्डिहवा",
+          "en": "Koldihwa"
+        },
+        {
+          "hi": "महागड़ा",
+          "en": "Mahagara"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में चावल की खेती के प्रथम साक्ष्य बेलन घाटी में किस स्थल से मिले थे?",
+        "en": "Earliest evidence of rice cultivation in Belan Valley was recovered from which site?"
+      },
+      "o": [
+        {
+          "hi": "मेहरगढ़",
+          "en": "Mehrgarh"
+        },
+        {
+          "hi": "कोल्डिहवा (प्रयागराज, UP / Koldihwa)",
+          "en": "Koldihwa (Prayagraj, UP)"
+        },
+        {
+          "hi": "चिरांद",
+          "en": "Chirand"
+        },
+        {
+          "hi": "बुर्जहोम",
+          "en": "Burzahom"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मनुष्य द्वारा सर्वप्रथम प्रयुक्त किया गया अनाज कौन-सा था?",
+        "en": "Which was the first cereal grain cultivated and consumed by early human civilization?"
+      },
+      "o": [
+        {
+          "hi": "गेहूँ (Wheat)",
+          "en": "Wheat"
+        },
+        {
+          "hi": "चावल (Rice)",
+          "en": "Rice"
+        },
+        {
+          "hi": "जौ (यव / Barley)",
+          "en": "Barley (Yava)"
+        },
+        {
+          "hi": "मक्का (Maize)",
+          "en": "Maize"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मध्य प्रदेश के रायसेन जिले में स्थित 'भीमबेटका' (Bhimbetka) किसलिए विश्वविख्यात है?",
+        "en": "Why is Bhimbetka in Raisen district, MP a UNESCO World Heritage site?"
+      },
+      "o": [
+        {
+          "hi": "बौद्ध स्तूपों हेतु",
+          "en": "Buddhist stupas"
+        },
+        {
+          "hi": "खनिज खदानों हेतु",
+          "en": "Mineral mines"
+        },
+        {
+          "hi": "प्राचीन मंदिरों हेतु",
+          "en": "Ancient temples"
+        },
+        {
+          "hi": "प्रागैतिहासिक शैलचित्रों और गुफाओं हेतु (Rock Cave Paintings)",
+          "en": "Prehistoric Rock Cave Paintings"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भीमबेटका की प्रागैतिहासिक गुफाओं की खोज 1957-58 में किसने की थी?",
+        "en": "Who discovered the prehistoric rock shelters of Bhimbetka in 1957-58?"
+      },
+      "o": [
+        {
+          "hi": "विष्णु श्रीधर वाकणकर (V.S. Wakankar)",
+          "en": "V.S. Wakankar"
+        },
+        {
+          "hi": "अलेक्जेंडर कनिंघम",
+          "en": "Cunningham"
+        },
+        {
+          "hi": "राखालदास बनर्जी",
+          "en": "R.D. Banerjee"
+        },
+        {
+          "hi": "जॉन मार्शल",
+          "en": "John Marshall"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कश्मीर के किस नवपाषाणिक स्थल से 'गर्त-आवास' (Pit-dwellings) के साक्ष्य मिले हैं?",
+        "en": "Which Neolithic site in Kashmir yielded underground pit-dwellings and bone tools?"
+      },
+      "o": [
+        {
+          "hi": "गुफकराल",
+          "en": "Gufkral"
+        },
+        {
+          "hi": "बुर्जहोम (Burzahom - श्रीनगर के पास)",
+          "en": "Burzahom (near Srinagar)"
+        },
+        {
+          "hi": "मार्तंड",
+          "en": "Martand"
+        },
+        {
+          "hi": "अवंतीपुर",
+          "en": "Awantipora"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बुर्जहोम (कश्मीर) में कब्रों में मालिक के साथ किसे दफनाने की अनूठी प्रथा मिली है?",
+        "en": "At Burzahom, what unique burial practice was discovered in human graves?"
+      },
+      "o": [
+        {
+          "hi": "घोड़ा दफनाना",
+          "en": "Horse burial"
+        },
+        {
+          "hi": "सोने के आभूषण",
+          "en": "Gold ornaments"
+        },
+        {
+          "hi": "पालतू कुत्ते को दफनाना (Domestic Dog burial)",
+          "en": "Burial of pet dog with master"
+        },
+        {
+          "hi": "भोजन का बर्तन केवल",
+          "en": "Only utensils"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कश्मीर का दूसरा प्रमुख नवपाषाण कालीन स्थल 'गुफकराल' का शाब्दिक अर्थ क्या है?",
+        "en": "What is the literal Kashmiri meaning of 'Gufkral' Neolithic site?"
+      },
+      "o": [
+        {
+          "hi": "मछुआरे की गुफा",
+          "en": "Fisherman's cave"
+        },
+        {
+          "hi": "शिकारी का घर",
+          "en": "Hunter's home"
+        },
+        {
+          "hi": "साधु की कुटिया",
+          "en": "Hermit's hut"
+        },
+        {
+          "hi": "कुम्हार की गुफा (Cave of the Potter)",
+          "en": "Cave of the Potter"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बिहार के सारण जिले में स्थित कौन-सा नवपाषाण स्थल हड्डियों के औजारों हेतु प्रसिद्ध है?",
+        "en": "Which Neolithic site in Saran, Bihar is famous for abundant deer-antler bone tools?"
+      },
+      "o": [
+        {
+          "hi": "चिरांद (Chirand)",
+          "en": "Chirand (Saran, Bihar)"
+        },
+        {
+          "hi": "चेचर",
+          "en": "Chechar"
+        },
+        {
+          "hi": "ताराडीह",
+          "en": "Taradih"
+        },
+        {
+          "hi": "सोनपुर",
+          "en": "Sonpur"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मध्यपाषाण काल (Mesolithic Period) के पाषाण उपकरणों को क्या कहा जाता है?",
+        "en": "What are the tiny delicate stone tools of the Mesolithic Age technically called?"
+      },
+      "o": [
+        {
+          "hi": "मेगालिथ",
+          "en": "Megaliths"
+        },
+        {
+          "hi": "माइक्रोलिथ (सूक्ष्म पाषाण उपकरण / Microliths)",
+          "en": "Microliths"
+        },
+        {
+          "hi": "हैंडएक्स",
+          "en": "Handaxes"
+        },
+        {
+          "hi": "क्लिवर",
+          "en": "Cleavers"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में मध्यपाषाण काल के सूक्ष्म पाषाण औजारों की लंबाई सामान्यतः कितनी होती थी?",
+        "en": "What was the average size range of Mesolithic microlithic tools in India?"
+      },
+      "o": [
+        {
+          "hi": "10 से 15 सेमी",
+          "en": "10 to 15 cm"
+        },
+        {
+          "hi": "20 सेमी से अधिक",
+          "en": "Over 20 cm"
+        },
+        {
+          "hi": "1 से 8 सेंटीमीटर (1 to 8 cm)",
+          "en": "1 to 8 cm"
+        },
+        {
+          "hi": "50 सेमी",
+          "en": "50 cm"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उत्तर प्रदेश के प्रतापगढ़ में स्थित किन मध्यपाषाण स्थलों से अस्थि उपकरण व शवाधान मिले?",
+        "en": "Which Mesolithic sites in Pratapgarh, UP yielded human burials and bone artifacts?"
+      },
+      "o": [
+        {
+          "hi": "हस्तिनापुर और आलमगीरपुर",
+          "en": "Hastinapur & Alamgirpur"
+        },
+        {
+          "hi": "कौशांबी और श्रावस्ती",
+          "en": "Kaushambi & Shravasti"
+        },
+        {
+          "hi": "अतरंजीखेड़ा और अछत्र",
+          "en": "Atranji & Ahichchhatra"
+        },
+        {
+          "hi": "सराय नाहर राय, दमदमा और महदहा",
+          "en": "Sarai Nahar Rai, Damdama & Mahadaha"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किस स्थल से एक ही कब्र में तीन मानव कंकाल एक साथ दफनाए हुए मिले हैं?",
+        "en": "From which Mesolithic site in UP were three human skeletons found buried together?"
+      },
+      "o": [
+        {
+          "hi": "दमदमा (Damdama - प्रतापगढ़, UP)",
+          "en": "Damdama (Pratapgarh, UP)"
+        },
+        {
+          "hi": "सराय नाहर राय",
+          "en": "Sarai Nahar Rai"
+        },
+        {
+          "hi": "महदहा",
+          "en": "Mahadaha"
+        },
+        {
+          "hi": "बागोर",
+          "en": "Bagor"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राजस्थान के भीलवाड़ा में कोठारी नदी पर स्थित भारत का सबसे बड़ा मध्यपाषाण स्थल कौन-सा है?",
+        "en": "Which is the largest Mesolithic settlement in India, located on Kothari River in RJ?"
+      },
+      "o": [
+        {
+          "hi": "कालीबंगा",
+          "en": "Kalibangan"
+        },
+        {
+          "hi": "बागोर (Bagor - भीलवाड़ा, राजस्थान)",
+          "en": "Bagor (Bhilwara, Rajasthan)"
+        },
+        {
+          "hi": "आहड़",
+          "en": "Ahar"
+        },
+        {
+          "hi": "गणेश्वर",
+          "en": "Ganeshwar"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ताम्रपाषाण काल (Chalcolithic Age) की मुख्य विशेषता क्या थी?",
+        "en": "What was the defining technological hallmark of the Chalcolithic Age?"
+      },
+      "o": [
+        {
+          "hi": "केवल लोहे का उपयोग",
+          "en": "Only iron used"
+        },
+        {
+          "hi": "पत्थर का पूर्ण बहिष्कार",
+          "en": "Abandonment of stone"
+        },
+        {
+          "hi": "तांबे और पत्थर के उपकरणों का एक साथ उपयोग (Copper & Stone)",
+          "en": "Simultaneous use of Copper and Stone tools"
+        },
+        {
+          "hi": "मशीनों का आविष्कार",
+          "en": "Machines"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महाराष्ट्र की 'जोर्वे संस्कृति' (Jorwe Culture) का सबसे बड़ा बस्ती स्थल कौन-सा था?",
+        "en": "Which was the largest fortified settlement of the Jorwe Culture in Maharashtra?"
+      },
+      "o": [
+        {
+          "hi": "नेवासा",
+          "en": "Nevasa"
+        },
+        {
+          "hi": "चंदोली",
+          "en": "Chandoli"
+        },
+        {
+          "hi": "नासिक",
+          "en": "Nashik"
+        },
+        {
+          "hi": "इनामगांव (Inamgaon - घौड़ नदी के तट पर)",
+          "en": "Inamgaon"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "राजस्थान की बनास घाटी में स्थित ताम्रपाषाण कालीन 'आहड़ संस्कृति' का प्राचीन नाम क्या था?",
+        "en": "What was the ancient copper-melting name of Ahar Culture in Mewar, Rajasthan?"
+      },
+      "o": [
+        {
+          "hi": "तांबवती (तांबे वाली जगह / Tambavati)",
+          "en": "Tambavati (Place of Copper)"
+        },
+        {
+          "hi": "कांस्यवती",
+          "en": "Kansavati"
+        },
+        {
+          "hi": "लौहवती",
+          "en": "Lauhavati"
+        },
+        {
+          "hi": "सुवर्णनगरी",
+          "en": "Suvarnanagari"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मध्य प्रदेश की नर्मदा घाटी में स्थित प्रसिद्ध ताम्रपाषाणिक स्थल 'नवदाटोली' का उत्खनन किसने किया?",
+        "en": "Who directed the extensive archaeological excavation of Navdatoli in MP?"
+      },
+      "o": [
+        {
+          "hi": "कनिंघम",
+          "en": "Cunningham"
+        },
+        {
+          "hi": "एच.डी. सांकलिया (H.D. Sankalia)",
+          "en": "H.D. Sankalia"
+        },
+        {
+          "hi": "मार्टिमर व्हीलर",
+          "en": "Mortimer Wheeler"
+        },
+        {
+          "hi": "जॉन मार्शल",
+          "en": "John Marshall"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मालवा ताम्रपाषाणिक संस्कृति अपने किस विशिष्ट शिल्प हेतु सर्वश्रेष्ठ मानी जाती है?",
+        "en": "Malwa Chalcolithic culture is renowned as the finest for which craft tradition?"
+      },
+      "o": [
+        {
+          "hi": "लोहे के हथियार",
+          "en": "Iron weapons"
+        },
+        {
+          "hi": "कांस्य मूर्तियां",
+          "en": "Bronze statues"
+        },
+        {
+          "hi": "उत्कृष्ट मृद्भांड (Best Painted Pottery)",
+          "en": "Exquisite Painted Pottery"
+        },
+        {
+          "hi": "सोने के सिक्के",
+          "en": "Gold coins"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दक्षिण भारत में शवों को बड़े-बड़े पत्थरों से घेरकर दफनाने की परंपरा को क्या कहते हैं?",
+        "en": "Burial practice of placing megalithic stone boulders around graves in South India?"
+      },
+      "o": [
+        {
+          "hi": "माइक्रोलिथ",
+          "en": "Microliths"
+        },
+        {
+          "hi": "पैलियोलिथ",
+          "en": "Paleoliths"
+        },
+        {
+          "hi": "पिक्टोग्राफ",
+          "en": "Pictographs"
+        },
+        {
+          "hi": "मेगालिथ (महापाषाण काल / Megaliths)",
+          "en": "Megaliths"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "महापाषाण काल (Megalithic Culture) का संबंध मुख्य रूप से किस धातु से जुड़ा है?",
+        "en": "Megalithic culture in South India is archaeologically associated with which metal?"
+      },
+      "o": [
+        {
+          "hi": "लोहा (Iron Age)",
+          "en": "Iron Age"
+        },
+        {
+          "hi": "तांबा",
+          "en": "Copper"
+        },
+        {
+          "hi": "कांसा",
+          "en": "Bronze"
+        },
+        {
+          "hi": "सोना",
+          "en": "Gold"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में मानव का सर्वप्रथम साक्ष्य (First Human Fossil) किस नदी घाटी से मिला?",
+        "en": "Where was the earliest fossil evidence of archaic human (Hominid skull) found in India?"
+      },
+      "o": [
+        {
+          "hi": "गंगा घाटी से",
+          "en": "Ganga Valley"
+        },
+        {
+          "hi": "नर्मदा घाटी (हथनोरा, सीहोर, MP - 1982)",
+          "en": "Narmada Valley (Hathnora, MP - 1982)"
+        },
+        {
+          "hi": "यमुना घाटी से",
+          "en": "Yamuna Valley"
+        },
+        {
+          "hi": "गोदावरी घाटी से",
+          "en": "Godavari Valley"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हथनोरा (मध्य प्रदेश) से 1982 में 'नर्मदा मानव' की खोपड़ी किसने खोजी थी?",
+        "en": "Who discovered the fossilized skull cap of 'Narmada Man' at Hathnora in 1982?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट ब्रूस फुट",
+          "en": "Robert Bruce Foote"
+        },
+        {
+          "hi": "डी.एन. वाडिया",
+          "en": "D.N. Wadia"
+        },
+        {
+          "hi": "डॉ. अरुण सोनकिया (Dr. Arun Sonakia)",
+          "en": "Dr. Arun Sonakia"
+        },
+        {
+          "hi": "वी.एस. वाकणकर",
+          "en": "V.S. Wakankar"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नवपाषाण काल के लोगों द्वारा बनाया जाने वाला पहला पालतू कपड़ा कौन-सा था?",
+        "en": "Which natural fiber was first spun and woven into cloth by Neolithic humans?"
+      },
+      "o": [
+        {
+          "hi": "रेशम",
+          "en": "Silk"
+        },
+        {
+          "hi": "ऊन",
+          "en": "Wool"
+        },
+        {
+          "hi": "सिंथेटिक",
+          "en": "Synthetic"
+        },
+        {
+          "hi": "कपास (Cotton)",
+          "en": "Cotton"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में पुरापाषाण कालीन सभ्यता के प्रमुख केंद्र 'सोहन नदी घाटी' कहाँ स्थित है?",
+        "en": "Sohan River Valley, a cradle of Lower Paleolithic pebble-chopper culture, is in?"
+      },
+      "o": [
+        {
+          "hi": "पोतवार पठार (पंजाब, पाकिस्तान / Sohan Valley)",
+          "en": "Potwar Plateau (Punjab, Pakistan)"
+        },
+        {
+          "hi": "मध्य प्रदेश",
+          "en": "Madhya Pradesh"
+        },
+        {
+          "hi": "राजस्थान",
+          "en": "Rajasthan"
+        },
+        {
+          "hi": "कर्नाटक",
+          "en": "Karnataka"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चापर-चॉपिंग एवं पेबुल संस्कृति (Chopper-Chopping Culture) किस क्षेत्र से जुड़ी है?",
+        "en": "Pebble and Chopper-Chopping tool culture is associated with which Indian valley?"
+      },
+      "o": [
+        {
+          "hi": "नर्मदा घाटी",
+          "en": "Narmada Valley"
+        },
+        {
+          "hi": "सोहन नदी घाटी (Sohan Valley)",
+          "en": "Sohan River Valley"
+        },
+        {
+          "hi": "बेलन घाटी",
+          "en": "Belan Valley"
+        },
+        {
+          "hi": "दामोदर घाटी",
+          "en": "Damodar Valley"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "उत्तर प्रदेश के मिर्जापुर जिले में स्थित 'बेलन घाटी' (Belan Valley) क्यों प्रसिद्ध है?",
+        "en": "Why is the Belan Valley in Mirzapur, UP historically unique in Indian archaeology?"
+      },
+      "o": [
+        {
+          "hi": "वहाँ सिंधु सभ्यता मिली",
+          "en": "Indus site found"
+        },
+        {
+          "hi": "वहाँ केवल तांबा मिला",
+          "en": "Only copper"
+        },
+        {
+          "hi": "यहाँ पुरापाषाण से नवपाषाण तक के तीनों कालों के क्रमिक साक्ष्य मिले हैं",
+          "en": "Continuous sequence from Paleolithic to Neolithic found"
+        },
+        {
+          "hi": "वहाँ बौद्ध स्तूप हैं",
+          "en": "Stupas"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बेलन घाटी के लोहंदा नाला क्षेत्र से हड्डी की बनी किसकी दुर्लभ मूर्ति मिली है?",
+        "en": "Unique bone carving of which deity/figure was discovered at Lohanda Nala (Belan)?"
+      },
+      "o": [
+        {
+          "hi": "भगवान शिव",
+          "en": "Lord Shiva"
+        },
+        {
+          "hi": "पशु की आकृति",
+          "en": "Animal figure"
+        },
+        {
+          "hi": "बुद्ध की प्रतिमा",
+          "en": "Buddha idol"
+        },
+        {
+          "hi": "मातृदेवी की प्रतिमा (Mother Goddess Statue)",
+          "en": "Mother Goddess Figurine"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नवपाषाण कालीन क्रांति (Neolithic Revolution) शब्द का प्रयोग सर्वप्रथम किसने किया था?",
+        "en": "Who coined the phrase 'Neolithic Revolution' to describe agriculture & settlement?"
+      },
+      "o": [
+        {
+          "hi": "गॉर्डन चाइल्ड (V. Gordon Childe)",
+          "en": "V. Gordon Childe"
+        },
+        {
+          "hi": "मार्टिमर व्हीलर",
+          "en": "Mortimer Wheeler"
+        },
+        {
+          "hi": "कनिंघम",
+          "en": "Cunningham"
+        },
+        {
+          "hi": "रॉबर्ट फुट",
+          "en": "Robert Foote"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चाक पर मिट्टी के बर्तन (Potter's Wheel Pottery) बनाना किस काल की महान देन है?",
+        "en": "Wheel-turned painted and glazed pottery was invented during which prehistoric period?"
+      },
+      "o": [
+        {
+          "hi": "पुरापाषाण काल",
+          "en": "Paleolithic"
+        },
+        {
+          "hi": "नवपाषाण काल (Neolithic Period)",
+          "en": "Neolithic Period"
+        },
+        {
+          "hi": "मध्यपाषाण काल",
+          "en": "Mesolithic"
+        },
+        {
+          "hi": "पूर्वपाषाण काल",
+          "en": "Lower Paleolithic"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गेरुए रंग के मृद्भांड (OCP - Ochre Coloured Pottery) किस काल से संबंधित हैं?",
+        "en": "Ochre Coloured Pottery (OCP) culture is primarily associated with which period?"
+      },
+      "o": [
+        {
+          "hi": "नवपाषाण काल",
+          "en": "Neolithic"
+        },
+        {
+          "hi": "लौह काल",
+          "en": "Iron Age"
+        },
+        {
+          "hi": "ताम्रपाषाण काल (Chalcolithic Age)",
+          "en": "Chalcolithic Age"
+        },
+        {
+          "hi": "हड़प्पा काल",
+          "en": "Harappan Age"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चित्रित धूसर मृद्भांड (PGW - Painted Grey Ware) का संबंध किस ऐतिहासिक काल से है?",
+        "en": "Painted Grey Ware (PGW) pottery is characteristic of which Indian era?"
+      },
+      "o": [
+        {
+          "hi": "पुरापाषाण काल",
+          "en": "Paleolithic"
+        },
+        {
+          "hi": "मध्यपाषाण काल",
+          "en": "Mesolithic"
+        },
+        {
+          "hi": "मौर्य काल",
+          "en": "Mauryan Period"
+        },
+        {
+          "hi": "उत्तर वैदिक एवं आरंभिक लौह काल (Later Vedic / Iron Age)",
+          "en": "Later Vedic & Early Iron Age"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उत्तरी काली चमकीली मृद्भांड परंपरा (NBPW) किस ऐतिहासिक युग का चरम प्रतीक है?",
+        "en": "Northern Black Polished Ware (NBPW) reached its peak during which era?"
+      },
+      "o": [
+        {
+          "hi": "महाजनपद एवं मौर्य काल (Mahajanapada & Mauryan Era)",
+          "en": "Mahajanapada & Mauryan Era"
+        },
+        {
+          "hi": "ऋग्वैदिक काल",
+          "en": "Rigvedic Era"
+        },
+        {
+          "hi": "नवपाषाण काल",
+          "en": "Neolithic"
+        },
+        {
+          "hi": "ताम्रपाषाण काल",
+          "en": "Chalcolithic"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव द्वारा खाद्य संग्रह से 'खाद्य उत्पादक' (Food Producer) बनने का परिवर्तन कब हुआ?",
+        "en": "When did human society transition from food-gatherers to permanent 'Food Producers'?"
+      },
+      "o": [
+        {
+          "hi": "मध्यपाषाण काल में",
+          "en": "In Mesolithic"
+        },
+        {
+          "hi": "नवपाषाण काल में (Neolithic Revolution)",
+          "en": "In Neolithic Period"
+        },
+        {
+          "hi": "पुरापाषाण काल में",
+          "en": "In Paleolithic"
+        },
+        {
+          "hi": "लौह काल में",
+          "en": "In Iron Age"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

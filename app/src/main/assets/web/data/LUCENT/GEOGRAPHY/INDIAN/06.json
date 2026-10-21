@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भारत का भूगोल (Indian Geography)",
+  "subtitle": "भारत की जलवायु",
+  "description": "भारत की जलवायु पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारत की जलवायु को मुख्य रूप से किस प्रकार की जलवायु कहा जाता है?",
+        "en": "How is India's climate broadly classified geographically?"
+      },
+      "o": [
+        {
+          "hi": "उष्णकटिबंधीय मानसूनी जलवायु (Tropical Monsoon Climate)",
+          "en": "Tropical Monsoon Climate"
+        },
+        {
+          "hi": "भूमध्यसागरीय जलवायु",
+          "en": "Mediterranean Climate"
+        },
+        {
+          "hi": "शीतोष्ण कटिबंधीय जलवायु",
+          "en": "Temperate Climate"
+        },
+        {
+          "hi": "शुष्क मरुस्थलीय जलवायु",
+          "en": "Arid Desert Climate"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'मानसून' (Monsoon) शब्द की उत्पत्ति मूल रूप से किस भाषा के शब्द से हुई है?",
+        "en": "The word 'Monsoon' is derived from a word of which language?"
+      },
+      "o": [
+        {
+          "hi": "फारसी भाषा",
+          "en": "Persian"
+        },
+        {
+          "hi": "अरबी भाषा (Mausim / मौसम से)",
+          "en": "Arabic (from Mausim)"
+        },
+        {
+          "hi": "लैटिन भाषा",
+          "en": "Latin"
+        },
+        {
+          "hi": "ग्रीक भाषा",
+          "en": "Greek"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अरबी भाषा में 'मौसम' (Mausim) शब्द का शाब्दिक अर्थ क्या होता है?",
+        "en": "What is the literal meaning of the Arabic word 'Mausim'?"
+      },
+      "o": [
+        {
+          "hi": "वर्षा का होना",
+          "en": "Rainfall"
+        },
+        {
+          "hi": "अत्यधिक गर्मी",
+          "en": "Extreme heat"
+        },
+        {
+          "hi": "ऋतु / हवाओं की दिशा का मौसमी उलटफेर (Season/Wind reversal)",
+          "en": "Season / Seasonal reversal of winds"
+        },
+        {
+          "hi": "तूफान आना",
+          "en": "Storm arrival"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में मानसून का सर्वप्रथम आगमन किस राज्य में होता है?",
+        "en": "Monsoon rains first arrive in which Indian state (around 1st June)?"
+      },
+      "o": [
+        {
+          "hi": "तमिलनाडु",
+          "en": "Tamil Nadu"
+        },
+        {
+          "hi": "महाराष्ट्र",
+          "en": "Maharashtra"
+        },
+        {
+          "hi": "गुजरात",
+          "en": "Gujarat"
+        },
+        {
+          "hi": "केरल (मालाबार तट / Kerala)",
+          "en": "Kerala (Malabar Coast)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में दक्षिण-पश्चिम मानसून सामान्यतः किस समय अवधि तक सक्रिय रहता है?",
+        "en": "Southwest Monsoon is generally active during which months in India?"
+      },
+      "o": [
+        {
+          "hi": "जून से सितंबर तक (June to September)",
+          "en": "June to September"
+        },
+        {
+          "hi": "मार्च से मई तक",
+          "en": "March to May"
+        },
+        {
+          "hi": "अक्टूबर से दिसंबर तक",
+          "en": "October to December"
+        },
+        {
+          "hi": "जनवरी से फरवरी तक",
+          "en": "January to February"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में होने वाली कुल वार्षिक वर्षा का लगभग कितना प्रतिशत दक्षिण-पश्चिम मानसून से मिलता है?",
+        "en": "What percentage of India's total annual rainfall is received from SW Monsoon?"
+      },
+      "o": [
+        {
+          "hi": "50%",
+          "en": "50%"
+        },
+        {
+          "hi": "लगभग 75% से 80% (Approx 75-80%)",
+          "en": "Approx 75% to 80%"
+        },
+        {
+          "hi": "95%",
+          "en": "95%"
+        },
+        {
+          "hi": "60%",
+          "en": "60%"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दक्षिण-पश्चिम मानसून की दो प्रमुख शाखाएं कौन-सी हैं?",
+        "en": "Which are the two main branches of the Southwest Monsoon?"
+      },
+      "o": [
+        {
+          "hi": "उत्तरी और दक्षिणी शाखा",
+          "en": "North & South branches"
+        },
+        {
+          "hi": "पूर्वी और पश्चिमी शाखा",
+          "en": "East & West branches"
+        },
+        {
+          "hi": "अरब सागर की शाखा और बंगाल की खाड़ी की शाखा",
+          "en": "Arabian Sea branch & Bay of Bengal branch"
+        },
+        {
+          "hi": "थार शाखा और हिमालय शाखा",
+          "en": "Thar & Himalaya branches"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दक्षिण-पश्चिम मानसून की अरब सागर शाखा सबसे पहले किस पर्वत से टकराती है?",
+        "en": "Arabian Sea branch of SW Monsoon strikes first against which mountain range?"
+      },
+      "o": [
+        {
+          "hi": "अरावली पर्वत",
+          "en": "Aravalli Range"
+        },
+        {
+          "hi": "विंध्याचल पर्वत",
+          "en": "Vindhyan Range"
+        },
+        {
+          "hi": "सतपुड़ा पर्वत",
+          "en": "Satpura Range"
+        },
+        {
+          "hi": "पश्चिमी घाट (सह्याद्रि / Western Ghats)",
+          "en": "Western Ghats (Sahyadri)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व में सर्वाधिक वर्षा वाला स्थान 'मासिनराम' (Mawsynram) किस राज्य में है?",
+        "en": "Mawsynram, the wettest place on Earth (~1,141 cm rain), is in which state?"
+      },
+      "o": [
+        {
+          "hi": "मेघालय (खासी पहाड़ियाँ / Meghalaya)",
+          "en": "Meghalaya (Khasi Hills)"
+        },
+        {
+          "hi": "असम",
+          "en": "Assam"
+        },
+        {
+          "hi": "अरुणाचल प्रदेश",
+          "en": "Arunachal Pradesh"
+        },
+        {
+          "hi": "सिक्किम",
+          "en": "Sikkim"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मासिनराम और चेरापूंजी में अत्यधिक वर्षा होने का मुख्य भू-आकृतिक कारण क्या है?",
+        "en": "Main geographical reason for extraordinary rainfall at Mawsynram & Cherrapunji?"
+      },
+      "o": [
+        {
+          "hi": "समुद्र से अत्यधिक निकटता",
+          "en": "Extreme sea proximity"
+        },
+        {
+          "hi": "गारो, खासी व जयंतिया पहाड़ियों की कीपाकार (Funnel) आकृति",
+          "en": "Funnel-shaped relief of Garo, Khasi & Jaintia hills"
+        },
+        {
+          "hi": "घने वनों का होना",
+          "en": "Dense forests"
+        },
+        {
+          "hi": "सदाबहार नदियाँ",
+          "en": "Perennial rivers"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे कम वर्षा प्राप्त करने वाला स्थान कौन-सा है?",
+        "en": "Which is the driest / lowest rainfall location in India (<10 cm annual)?"
+      },
+      "o": [
+        {
+          "hi": "जैसलमेर (राजस्थान)",
+          "en": "Jaisalmer"
+        },
+        {
+          "hi": "बीकानेर",
+          "en": "Bikaner"
+        },
+        {
+          "hi": "लेह (लद्दाख / Leh, Ladakh)",
+          "en": "Leh (Ladakh)"
+        },
+        {
+          "hi": "कच्छ (गुजरात)",
+          "en": "Kutch"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "शीत ऋतु में उत्तर-पूर्वी मानसून (लौटते मानसून) से किस राज्य के तट पर वर्षा होती है?",
+        "en": "During winter, Northeast Retreating Monsoon brings heavy rainfall to which coast?"
+      },
+      "o": [
+        {
+          "hi": "केरल (मालाबार तट)",
+          "en": "Kerala (Malabar Coast)"
+        },
+        {
+          "hi": "महाराष्ट्र (कोंकण तट)",
+          "en": "Maharashtra (Konkan)"
+        },
+        {
+          "hi": "ओडिशा तट",
+          "en": "Odisha Coast"
+        },
+        {
+          "hi": "तमिलनाडु (कोरोमंडल तट / Coromandel Coast)",
+          "en": "Tamil Nadu (Coromandel Coast)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कोरोमंडल तट (तमिलनाडु) पर सर्वाधिक वर्षा किन महीनों में होती है?",
+        "en": "Coromandel Coast (Tamil Nadu) receives maximum rainfall during which months?"
+      },
+      "o": [
+        {
+          "hi": "अक्टूबर और नवंबर में (October & November)",
+          "en": "October and November"
+        },
+        {
+          "hi": "जून और जुलाई में",
+          "en": "June and July"
+        },
+        {
+          "hi": "मार्च और अप्रैल में",
+          "en": "March and April"
+        },
+        {
+          "hi": "जनवरी और फरवरी में",
+          "en": "January and February"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शीत ऋतु में उत्तर-पश्चिम भारत (पंजाब, हरियाणा, दिल्ली, पश्चिमी UP) में वर्षा का कारण?",
+        "en": "Winter rainfall in northwestern India (Punjab, Haryana, Delhi) is caused by?"
+      },
+      "o": [
+        {
+          "hi": "दक्षिण-पश्चिम मानसून",
+          "en": "Southwest Monsoon"
+        },
+        {
+          "hi": "पश्चिमी विक्षोभ (Western Disturbances / भूमध्यसागरीय चक्रवात)",
+          "en": "Western Disturbances (Mediterranean)"
+        },
+        {
+          "hi": "उत्तर-पूर्वी मानसून",
+          "en": "Northeast Monsoon"
+        },
+        {
+          "hi": "स्थानीय संवहन",
+          "en": "Local Convection"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पश्चिमी विक्षोभ (Western Disturbances) की उत्पत्ति किस सागर में होती है?",
+        "en": "Western Disturbances originate over which sea body?"
+      },
+      "o": [
+        {
+          "hi": "अरब सागर में",
+          "en": "Arabian Sea"
+        },
+        {
+          "hi": "लाल सागर में",
+          "en": "Red Sea"
+        },
+        {
+          "hi": "भूमध्य सागर एवं कैस्पियन सागर (Mediterranean Sea)",
+          "en": "Mediterranean Sea"
+        },
+        {
+          "hi": "काला सागर",
+          "en": "Black Sea"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पश्चिमी विक्षोभ द्वारा शीतकाल में होने वाली वर्षा किस रबी फसल हेतु वरदान है?",
+        "en": "Winter rainfall from Western Disturbances is highly beneficial for which Rabi crop?"
+      },
+      "o": [
+        {
+          "hi": "चावल (धान)",
+          "en": "Rice / Paddy"
+        },
+        {
+          "hi": "कपास",
+          "en": "Cotton"
+        },
+        {
+          "hi": "मक्का",
+          "en": "Maize"
+        },
+        {
+          "hi": "गेहूँ (Wheat crop)",
+          "en": "Wheat crop"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "राजस्थान में शीत ऋतु में होने वाली वर्षा को स्थानीय भाषा में क्या कहते हैं?",
+        "en": "What is winter rainfall caused by Western Disturbances called in Rajasthan?"
+      },
+      "o": [
+        {
+          "hi": "मावठ (Mawath)",
+          "en": "Mawath"
+        },
+        {
+          "hi": "काल बैसाखी",
+          "en": "Kalbaishakhi"
+        },
+        {
+          "hi": "चेरी ब्लॉसम",
+          "en": "Cherry Blossom"
+        },
+        {
+          "hi": "आम्र वर्षा",
+          "en": "Mango Showers"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ग्रीष्म ऋतु में पश्चिम बंगाल में चलने वाले तीव्र विनाशकारी तूफानों को क्या कहते हैं?",
+        "en": "Violent localized thunderstorms in West Bengal during pre-monsoon summer are called?"
+      },
+      "o": [
+        {
+          "hi": "लू",
+          "en": "Loo"
+        },
+        {
+          "hi": "काल बैसाखी (नॉरवेस्टर / Kalbaishakhi)",
+          "en": "Kalbaishakhi (Nor'westers)"
+        },
+        {
+          "hi": "आम्र वर्षा",
+          "en": "Mango Showers"
+        },
+        {
+          "hi": "मावठ",
+          "en": "Mawath"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ग्रीष्म ऋतु में असम में होने वाली तीव्र प्री-मानसून वर्षा को क्या कहा जाता है?",
+        "en": "What are pre-monsoon localized thunderstorms called in Assam?"
+      },
+      "o": [
+        {
+          "hi": "काल बैसाखी",
+          "en": "Kalbaishakhi"
+        },
+        {
+          "hi": "चेरी ब्लॉसम",
+          "en": "Cherry Blossom"
+        },
+        {
+          "hi": "बारदोली छीड़ा / चाय वर्षा (Tea Showers)",
+          "en": "Bardoli Chheerha (Tea Showers)"
+        },
+        {
+          "hi": "आम्र वर्षा",
+          "en": "Mango Showers"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कर्नाटक और केरल में आम की फसल को पकाने वाली प्री-मानसून वर्षा क्या कहलाती है?",
+        "en": "Pre-monsoon showers in Kerala and coastal Karnataka aiding mango ripening are called?"
+      },
+      "o": [
+        {
+          "hi": "काल बैसाखी",
+          "en": "Kalbaishakhi"
+        },
+        {
+          "hi": "बारदोली छीड़ा",
+          "en": "Bardoli Chheerha"
+        },
+        {
+          "hi": "मावठ",
+          "en": "Mawath"
+        },
+        {
+          "hi": "आम्र वर्षा (मैंगो शावर / Mango Showers)",
+          "en": "Mango Showers"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कर्नाटक में कॉफी के फूलों को खिलाने वाली प्री-मानसून वर्षा को क्या कहते हैं?",
+        "en": "Pre-monsoon rainfall in Karnataka helping coffee blossoms to bloom is called?"
+      },
+      "o": [
+        {
+          "hi": "चेरी ब्लॉसम / फूलों की बौछार (Cherry Blossom)",
+          "en": "Cherry Blossom (Coffee Showers)"
+        },
+        {
+          "hi": "आम्र वर्षा",
+          "en": "Mango Showers"
+        },
+        {
+          "hi": "काल बैसाखी",
+          "en": "Kalbaishakhi"
+        },
+        {
+          "hi": "लू",
+          "en": "Loo"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उत्तर भारत के मैदानों में मई-जून में चलने वाली अत्यंत गर्म एवं शुष्क हवाएं क्या कहलाती हैं?",
+        "en": "Extremely hot and dry gusty winds blowing in northern plains in May-June are called?"
+      },
+      "o": [
+        {
+          "hi": "मिस्ट्रल",
+          "en": "Mistral"
+        },
+        {
+          "hi": "लू (Loo)",
+          "en": "Loo"
+        },
+        {
+          "hi": "चिनूक",
+          "en": "Chinook"
+        },
+        {
+          "hi": "सिरोको",
+          "en": "Sirocco"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में मानसून प्रस्फोट (Burst of Monsoon) का क्या अर्थ है?",
+        "en": "What does 'Burst of Monsoon' mean in Indian climatology?"
+      },
+      "o": [
+        {
+          "hi": "बादल फटने की घटना",
+          "en": "Cloudburst incident"
+        },
+        {
+          "hi": "मानसून का वापस लौटना",
+          "en": "Monsoon retreat"
+        },
+        {
+          "hi": "अचानक बादलों की गर्जना व मूसलाधार निरंतर वर्षा का प्रारंभ",
+          "en": "Sudden onset of violent torrential rains with thunder"
+        },
+        {
+          "hi": "सूखा पड़ना",
+          "en": "Drought occurrence"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में मानसून का निवर्तन (Retreat of Monsoon) किस महीने से शुरू होता है?",
+        "en": "From which month does the Retreat of Monsoon commence from northwest India?"
+      },
+      "o": [
+        {
+          "hi": "जुलाई से",
+          "en": "July"
+        },
+        {
+          "hi": "अगस्त से",
+          "en": "August"
+        },
+        {
+          "hi": "अक्टूबर से",
+          "en": "October"
+        },
+        {
+          "hi": "सितंबर के प्रथम सप्ताह से (September)",
+          "en": "September"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अक्टूबर-नवंबर में मानसून लौटने के समय उमस भरी असहनीय गर्मी को क्या कहते हैं?",
+        "en": "Oppressive humid and sultry weather during October transition is known as?"
+      },
+      "o": [
+        {
+          "hi": "कार्तिक की धूप / अक्टूबर की गर्मी (October Heat)",
+          "en": "October Heat"
+        },
+        {
+          "hi": "लू",
+          "en": "Loo"
+        },
+        {
+          "hi": "मावठ",
+          "en": "Mawath"
+        },
+        {
+          "hi": "अलनिनो प्रभाव",
+          "en": "El Nino effect"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय मौसम विज्ञान विभाग (IMD) का प्रधान मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of the India Meteorological Department (IMD)?"
+      },
+      "o": [
+        {
+          "hi": "पुणे",
+          "en": "Pune"
+        },
+        {
+          "hi": "नई दिल्ली (New Delhi)",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "कोलकाता",
+          "en": "Kolkata"
+        },
+        {
+          "hi": "शिमला",
+          "en": "Shimla"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय मौसम विभाग की स्थापना 1875 में सर्वप्रथम किस शहर में हुई थी?",
+        "en": "Where was the India Meteorological Department originally founded in 1875?"
+      },
+      "o": [
+        {
+          "hi": "पुणे",
+          "en": "Pune"
+        },
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "कोलकाता (Kolkata)",
+          "en": "Kolkata"
+        },
+        {
+          "hi": "मुंबई",
+          "en": "Mumbai"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय मौसम विभाग के अनुसार भारत में मुख्य रूप से कितनी ऋतुएं पाई जाती हैं?",
+        "en": "According to IMD, how many official seasons are recognized in India?"
+      },
+      "o": [
+        {
+          "hi": "2 ऋतुएं",
+          "en": "2 seasons"
+        },
+        {
+          "hi": "3 ऋतुएं",
+          "en": "3 seasons"
+        },
+        {
+          "hi": "6 ऋतुएं",
+          "en": "6 seasons"
+        },
+        {
+          "hi": "4 ऋतुएं (शीत, ग्रीष्म, वर्षा, शरद / 4 Seasons)",
+          "en": "4 Seasons"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तमिलनाडु में दक्षिण-पश्चिम मानसून से वर्षा कम होने का क्या कारण है?",
+        "en": "Why does Tamil Nadu receive little rainfall during the Southwest Monsoon?"
+      },
+      "o": [
+        {
+          "hi": "पश्चिमी घाट के वृष्टि-छाया क्षेत्र में होना और बंगाल शाखा के समानांतर होना",
+          "en": "Lies in Western Ghats rain shadow & parallel to Bay branch"
+        },
+        {
+          "hi": "वहाँ कोई पर्वत नहीं है",
+          "en": "No hills exist"
+        },
+        {
+          "hi": "वहाँ तापमान बहुत कम होता है",
+          "en": "Temperature too low"
+        },
+        {
+          "hi": "हवाएं समुद्र से दूर जाती हैं",
+          "en": "Winds blow away"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पश्चिमी घाट के पूर्वी ढाल (जैसे विदर्भ, रायलसीमा) में वर्षा कम क्यों होती है?",
+        "en": "Why do eastern slopes of Western Ghats (e.g. Vidarbha, Rayalaseema) receive low rainfall?"
+      },
+      "o": [
+        {
+          "hi": "वनों के अभाव के कारण",
+          "en": "Due to lack of forests"
+        },
+        {
+          "hi": "वृष्टि-छाया क्षेत्र (Rain Shadow Area) में स्थित होने के कारण",
+          "en": "Being located in the Rain Shadow Area"
+        },
+        {
+          "hi": "रेतीली मिट्टी के कारण",
+          "en": "Due to sandy soil"
+        },
+        {
+          "hi": "समुद्र से दूरी के कारण केवल",
+          "en": "Distance from sea"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "राजस्थान में अरावली पर्वत श्रेणी दक्षिण-पश्चिम मानसून से वर्षा कराने में असफल क्यों रहती है?",
+        "en": "Why does Aravalli Range fail to cause significant rainfall from Arabian Sea branch?"
+      },
+      "o": [
+        {
+          "hi": "अरावली बहुत ऊँची है",
+          "en": "Aravalli is too high"
+        },
+        {
+          "hi": "यह बहुत प्राचीन है",
+          "en": "It is too ancient"
+        },
+        {
+          "hi": "इसकी दिशा मानसूनी पवनों के समानांतर (Parallel) है",
+          "en": "Its orientation is parallel to monsoon wind direction"
+        },
+        {
+          "hi": "वहाँ वनस्पति नहीं है",
+          "en": "No vegetation"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जेट स्ट्रीम (Jet Stream) क्या हैं जो भारतीय मानसून को प्रभावित करती हैं?",
+        "en": "What are Jet Streams that significantly influence the Indian Monsoon?"
+      },
+      "o": [
+        {
+          "hi": "समुद्री जलधाराएं",
+          "en": "Ocean currents"
+        },
+        {
+          "hi": "जमीन पर चलने वाली गर्म हवाएं",
+          "en": "Surface hot winds"
+        },
+        {
+          "hi": "मानसून पूर्व चक्रवात",
+          "en": "Pre-monsoon cyclones"
+        },
+        {
+          "hi": "क्षोभमंडल की ऊपरी सीमा में बहने वाली तीव्र पश्चिमी पवनें",
+          "en": "High-velocity upper-troposphere westerly winds"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तिब्बत के पठार का ग्रीष्मकाल में अत्यधिक गर्म होना मानसून के लिए क्यों अनुकूल है?",
+        "en": "Why is intense summer heating of Tibetan Plateau beneficial for Indian monsoon?"
+      },
+      "o": [
+        {
+          "hi": "यह ऊपरी वायुमंडल में उष्ण कटिबंधीय पूर्वी जेट और निम्न वायुदाब बनाता है",
+          "en": "Creates upper-tropospheric easterly jet & low pressure"
+        },
+        {
+          "hi": "यह बर्फ पिघलाता है",
+          "en": "Melts snow"
+        },
+        {
+          "hi": "यह हवाओं को रोकता है",
+          "en": "Blocks winds"
+        },
+        {
+          "hi": "यह वर्षा को सोखता है",
+          "en": "Absorbs rain"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रशांत महासागर में 'अल नीनो' (El Nino) की परिघटना का भारतीय मानसून पर प्रायः क्या प्रभाव पड़ता है?",
+        "en": "What is the typical impact of El Nino phenomenon on Indian monsoon rainfall?"
+      },
+      "o": [
+        {
+          "hi": "अत्यधिक मूसलाधार बाढ़",
+          "en": "Excessive torrential floods"
+        },
+        {
+          "hi": "मानसून कमजोर पड़ना और सूखे की स्थिति उत्पन्न होना",
+          "en": "Weakened monsoon and drought conditions"
+        },
+        {
+          "hi": "शीतकाल लंबा होना",
+          "en": "Longer winter"
+        },
+        {
+          "hi": "कोई प्रभाव नहीं पड़ता",
+          "en": "No effect"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रशांत महासागर में 'ला नीना' (La Nina) की स्थिति का भारतीय मानसून पर क्या प्रभाव होता है?",
+        "en": "What is the effect of La Nina on the Indian summer monsoon?"
+      },
+      "o": [
+        {
+          "hi": "मानसून का देर से आना",
+          "en": "Delayed monsoon"
+        },
+        {
+          "hi": "सूखा पड़ना",
+          "en": "Drought"
+        },
+        {
+          "hi": "सामान्य से अधिक और बेहतर मानसूनी वर्षा होना (Good Monsoon)",
+          "en": "Above-normal & plentiful monsoon rainfall"
+        },
+        {
+          "hi": "चक्रवातों में भारी कमी",
+          "en": "Fewer cyclones"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हिंद महासागरीय द्विध्रुव (Indian Ocean Dipole - IOD) का धनात्मक (Positive) होना क्या दर्शाता है?",
+        "en": "What does a Positive Indian Ocean Dipole (IOD) indicate for Indian monsoon?"
+      },
+      "o": [
+        {
+          "hi": "मानसून कमजोर होना",
+          "en": "Weak monsoon"
+        },
+        {
+          "hi": "अत्यधिक सूखा पड़ना",
+          "en": "Severe drought"
+        },
+        {
+          "hi": "भूमध्य रेखा पर बर्फबारी",
+          "en": "Snow at Equator"
+        },
+        {
+          "hi": "पश्चिमी हिंद महासागर का गर्म होना और भारत में अच्छी वर्षा",
+          "en": "Warmer western Indian Ocean & favorable Indian monsoon"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कोपेन के जलवायु वर्गीकरण (Koppen's Classification) के अनुसार भारत के गंगा के मैदान की जलवायु?",
+        "en": "According to Koppen's climate classification, Ganga plains are classified as?"
+      },
+      "o": [
+        {
+          "hi": "Cwg (शुष्क शीत ऋतु वाली मानसूनी जलवायु)",
+          "en": "Cwg (Monsoon with dry winter)"
+        },
+        {
+          "hi": "Amw (लघु शुष्क ऋतु वाली मानसूनी)",
+          "en": "Amw (Monsoon with short dry season)"
+        },
+        {
+          "hi": "BShw (अर्ध-शुष्क स्टेपी)",
+          "en": "BShw (Semi-arid steppe)"
+        },
+        {
+          "hi": "Aw (उष्णकटिबंधीय सवाना)",
+          "en": "Aw (Tropical Savanna)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोपेन के अनुसार मालाबार तट (केरल/तटीय कर्नाटक) की जलवायु का प्रकार क्या है?",
+        "en": "According to Koppen, Malabar Coast (Kerala/coastal Karnataka) has which climate?"
+      },
+      "o": [
+        {
+          "hi": "Cwg",
+          "en": "Cwg"
+        },
+        {
+          "hi": "Amw (उष्णकटिबंधीय मानसूनी, लघु शुष्क ऋतु सहित)",
+          "en": "Amw (Monsoon with short dry season)"
+        },
+        {
+          "hi": "BWhw",
+          "en": "BWhw"
+        },
+        {
+          "hi": "Dfc",
+          "en": "Dfc"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कोपेन के अनुसार कोरोमंडल तट (तमिलनाडु) की जलवायु को किस संकेत से दर्शाया जाता है?",
+        "en": "According to Koppen, Coromandel Coast (Tamil Nadu) climate is represented by?"
+      },
+      "o": [
+        {
+          "hi": "Aw",
+          "en": "Aw"
+        },
+        {
+          "hi": "Cwg",
+          "en": "Cwg"
+        },
+        {
+          "hi": "As (उष्णकटिबंधीय जलवायु, शुष्क ग्रीष्म ऋतु सहित)",
+          "en": "As (Tropical with dry summer)"
+        },
+        {
+          "hi": "BShw",
+          "en": "BShw"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कोपेन के अनुसार थार मरुस्थल (राजस्थान) की जलवायु का कूट क्या है?",
+        "en": "According to Koppen, Thar Desert climate is represented by which symbol?"
+      },
+      "o": [
+        {
+          "hi": "Cwg",
+          "en": "Cwg"
+        },
+        {
+          "hi": "Amw",
+          "en": "Amw"
+        },
+        {
+          "hi": "BShw",
+          "en": "BShw"
+        },
+        {
+          "hi": "BWhw (उष्ण मरुस्थलीय जलवायु)",
+          "en": "BWhw (Hot Desert Climate)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में दैनिक तापांतर (Diurnal Range of Temperature) सर्वाधिक कहाँ पाया जाता है?",
+        "en": "Where is the diurnal range of temperature highest in India?"
+      },
+      "o": [
+        {
+          "hi": "थार मरुस्थल (राजस्थान / Thar Desert)",
+          "en": "Thar Desert (Rajasthan)"
+        },
+        {
+          "hi": "तटीय मुंबई",
+          "en": "Coastal Mumbai"
+        },
+        {
+          "hi": "अंडमान द्वीप",
+          "en": "Andaman Islands"
+        },
+        {
+          "hi": "चेन्नई",
+          "en": "Chennai"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तटीय नगरों (जैसे मुंबई, चेन्नई) में तापांतर कम होने का मुख्य कारण क्या है?",
+        "en": "Why is the temperature variation very low in coastal cities like Mumbai and Chennai?"
+      },
+      "o": [
+        {
+          "hi": "पहाड़ों की उपस्थिति",
+          "en": "Presence of hills"
+        },
+        {
+          "hi": "समुद्र का समकारी प्रभाव (Maritime Equable Influence)",
+          "en": "Maritime Equable Influence of Ocean"
+        },
+        {
+          "hi": "अत्यधिक औद्योगिकीकरण",
+          "en": "Industrialization"
+        },
+        {
+          "hi": "नदियों का संगम",
+          "en": "Confluence of rivers"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे ठंडा स्थान 'द्रास' (Dras / -45°C) कहाँ स्थित है?",
+        "en": "Dras, the coldest inhabited place in India (-45°C), is located in?"
+      },
+      "o": [
+        {
+          "hi": "कश्मीर घाटी",
+          "en": "Kashmir Valley"
+        },
+        {
+          "hi": "शिमला",
+          "en": "Shimla"
+        },
+        {
+          "hi": "लद्दाख (कारगिल जिला / Ladakh)",
+          "en": "Ladakh (Kargil District)"
+        },
+        {
+          "hi": "सिक्किम",
+          "en": "Sikkim"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में ग्रीष्म ऋतु में सर्वाधिक तापमान (50°C+) कहाँ दर्ज किया जाता है?",
+        "en": "Where have extreme summer temperatures (50°C+) been recorded in India?"
+      },
+      "o": [
+        {
+          "hi": "बेंगलुरु",
+          "en": "Bengaluru"
+        },
+        {
+          "hi": "शिलांग",
+          "en": "Shillong"
+        },
+        {
+          "hi": "पुणे",
+          "en": "Pune"
+        },
+        {
+          "hi": "फलोदी / चूरू / जैसलमेर (राजस्थान / Phalodi)",
+          "en": "Phalodi / Churu (Rajasthan)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अंडमान और निकोबार द्वीप समूह में किस प्रकार की जलवायु पाई जाती है?",
+        "en": "What type of climate prevails in the Andaman and Nicobar Islands?"
+      },
+      "o": [
+        {
+          "hi": "विषुवतीय / भूमध्यरेखीय जलवायु (Equatorial Climate)",
+          "en": "Equatorial Climate"
+        },
+        {
+          "hi": "शीतोष्ण जलवायु",
+          "en": "Temperate Climate"
+        },
+        {
+          "hi": "शुष्क जलवायु",
+          "en": "Arid Climate"
+        },
+        {
+          "hi": "टुंड्रा जलवायु",
+          "en": "Tundra Climate"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बंगाल की खाड़ी में उष्णकटिबंधीय चक्रवात (Tropical Cyclones) सर्वाधिक किस ऋतु में आते हैं?",
+        "en": "Tropical cyclones in the Bay of Bengal are most frequent during which season?"
+      },
+      "o": [
+        {
+          "hi": "ग्रीष्म ऋतु (मई)",
+          "en": "Summer (May)"
+        },
+        {
+          "hi": "मानसून के लौटने के समय (अक्टूबर-नवंबर / Post-Monsoon)",
+          "en": "Post-Monsoon (October-November)"
+        },
+        {
+          "hi": "कड़ाके की शीत ऋतु",
+          "en": "Peak Winter"
+        },
+        {
+          "hi": "शुरुआती वसंत",
+          "en": "Early Spring"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चक्रवातों से भारत का कौन-सा पूर्वी तटीय राज्य सर्वाधिक प्रभावित होता है?",
+        "en": "Which eastern coastal state of India is most frequently hit by severe cyclones?"
+      },
+      "o": [
+        {
+          "hi": "गुजरात",
+          "en": "Gujarat"
+        },
+        {
+          "hi": "केरल",
+          "en": "Kerala"
+        },
+        {
+          "hi": "ओडिशा और आंध्र प्रदेश (Odisha & Andhra Pradesh)",
+          "en": "Odisha & Andhra Pradesh"
+        },
+        {
+          "hi": "कर्नाटक",
+          "en": "Karnataka"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1999 का महाचक्रवात (Super Cyclone) किस भारतीय राज्य में आया था?",
+        "en": "The catastrophic Super Cyclone of 1999 struck which Indian state?"
+      },
+      "o": [
+        {
+          "hi": "पश्चिम बंगाल",
+          "en": "West Bengal"
+        },
+        {
+          "hi": "तमिलनाडु",
+          "en": "Tamil Nadu"
+        },
+        {
+          "hi": "आंध्र प्रदेश",
+          "en": "Andhra Pradesh"
+        },
+        {
+          "hi": "ओडिशा (Odisha - 260 किमी/घंटा हवा)",
+          "en": "Odisha"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में औसत वार्षिक वर्षा (Average Annual Rainfall) लगभग कितनी होती है?",
+        "en": "What is the average annual rainfall of India as a whole?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 118 से 125 सेंटीमीटर (Approx 118-125 cm)",
+          "en": "Approx 118-125 cm"
+        },
+        {
+          "hi": "50 सेंटीमीटर",
+          "en": "50 cm"
+        },
+        {
+          "hi": "250 सेंटीमीटर",
+          "en": "250 cm"
+        },
+        {
+          "hi": "80 सेंटीमीटर",
+          "en": "80 cm"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "देश में सूखा प्रवण क्षेत्र (Drought Prone Area) किसे माना जाता है?",
+        "en": "In India, an area is considered drought-prone if annual rainfall is less than?"
+      },
+      "o": [
+        {
+          "hi": "100 सेमी",
+          "en": "100 cm"
+        },
+        {
+          "hi": "75 सेमी से कम (Less than 75 cm)",
+          "en": "Less than 75 cm"
+        },
+        {
+          "hi": "150 सेमी",
+          "en": "150 cm"
+        },
+        {
+          "hi": "120 सेमी",
+          "en": "120 cm"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

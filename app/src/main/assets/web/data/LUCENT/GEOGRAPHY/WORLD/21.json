@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विश्व का भूगोल (World Geography)",
+  "subtitle": "विश्व की प्रमुख नदियाँ",
+  "description": "विश्व की प्रमुख नदियाँ पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "विश्व की सबसे लंबी नदी कौन-सी है?",
+        "en": "Which is the longest river in the world?"
+      },
+      "o": [
+        {
+          "hi": "नील नदी (Nile River - 6,650 किमी)",
+          "en": "Nile River (6,650 km)"
+        },
+        {
+          "hi": "अमेजन नदी",
+          "en": "Amazon River"
+        },
+        {
+          "hi": "यांग्त्सी नदी",
+          "en": "Yangtze River"
+        },
+        {
+          "hi": "मिसिसिपी नदी",
+          "en": "Mississippi River"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नील नदी किस महाद्वीप में बहती है और इसका मुहाना कहाँ है?",
+        "en": "Through which continent does the Nile flow and where is its mouth?"
+      },
+      "o": [
+        {
+          "hi": "एशिया - अरब सागर",
+          "en": "Asia - Arabian Sea"
+        },
+        {
+          "hi": "अफ्रीका - भूमध्य सागर (Mediterranean Sea)",
+          "en": "Africa - Mediterranean Sea"
+        },
+        {
+          "hi": "दक्षिण अमेरिका - अटलांटिक",
+          "en": "South America - Atlantic"
+        },
+        {
+          "hi": "यूरोप - काला सागर",
+          "en": "Europe - Black Sea"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अपवाह क्षेत्र (जल आयतन / Discharge) की दृष्टि से विश्व की सबसे बड़ी नदी कौन-सी है?",
+        "en": "Which is the largest river in the world by water discharge/volume?"
+      },
+      "o": [
+        {
+          "hi": "कांगो नदी",
+          "en": "Congo River"
+        },
+        {
+          "hi": "नील नदी",
+          "en": "Nile River"
+        },
+        {
+          "hi": "अमेजन नदी (Amazon River - दक्षिण अमेरिका)",
+          "en": "Amazon River"
+        },
+        {
+          "hi": "ब्रह्मपुत्र नदी",
+          "en": "Brahmaputra"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अमेजन नदी का उद्गम स्थल कौन-सा है?",
+        "en": "What is the source of the Amazon River?"
+      },
+      "o": [
+        {
+          "hi": "विक्टोरिया झील",
+          "en": "Lake Victoria"
+        },
+        {
+          "hi": "तिब्बत का पठार",
+          "en": "Tibetan Plateau"
+        },
+        {
+          "hi": "आल्प्स पर्वत",
+          "en": "Alps"
+        },
+        {
+          "hi": "लैगो विलफेरो / एंडीज पर्वत (पेरू)",
+          "en": "Lago Villafro / Andes Mountains (Peru)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एशिया महाद्वीप की सबसे लंबी नदी कौन-सी है?",
+        "en": "Which is the longest river in the continent of Asia?"
+      },
+      "o": [
+        {
+          "hi": "यांग्त्सीक्यांग नदी (Yangtze River - 6,300 किमी)",
+          "en": "Yangtze River (6,300 km)"
+        },
+        {
+          "hi": "ह्वांगहो नदी",
+          "en": "Hwang Ho River"
+        },
+        {
+          "hi": "मेकांग नदी",
+          "en": "Mekong River"
+        },
+        {
+          "hi": "सिंधु नदी",
+          "en": "Indus River"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चीन की किस नदी को 'पीली नदी' (Yellow River) और 'चीन का शोक' कहा जाता है?",
+        "en": "Which river of China is known as the 'Yellow River' and 'Sorrow of China'?"
+      },
+      "o": [
+        {
+          "hi": "यांग्त्सी नदी",
+          "en": "Yangtze River"
+        },
+        {
+          "hi": "ह्वांगहो नदी (Hwang Ho River)",
+          "en": "Hwang Ho River"
+        },
+        {
+          "hi": "सीक्यांग नदी",
+          "en": "Xi Jiang"
+        },
+        {
+          "hi": "अमूर नदी",
+          "en": "Amur River"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "उत्तरी अमेरिका महाद्वीप की सबसे लंबी नदी प्रणाली कौन-सी है?",
+        "en": "Which is the longest river system in North America?"
+      },
+      "o": [
+        {
+          "hi": "सेंट लॉरेंस नदी",
+          "en": "St. Lawrence River"
+        },
+        {
+          "hi": "कोलोराडो नदी",
+          "en": "Colorado River"
+        },
+        {
+          "hi": "मिसिसिपी-मिसौरी नदी (Mississippi-Missouri)",
+          "en": "Mississippi-Missouri"
+        },
+        {
+          "hi": "युकॉन नदी",
+          "en": "Yukon River"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मिसिसिपी नदी अपना डेल्टा किस प्रकार का बनाती है?",
+        "en": "What type of delta does the Mississippi River form at its mouth?"
+      },
+      "o": [
+        {
+          "hi": "चापाकार डेल्टा",
+          "en": "Arcuate Delta"
+        },
+        {
+          "hi": "ज्वारनदमुखी डेल्टा",
+          "en": "Estuarine Delta"
+        },
+        {
+          "hi": "दंतुर डेल्टा",
+          "en": "Cuspate Delta"
+        },
+        {
+          "hi": "पंछी के पैर जैसा डेल्टा (Bird's Foot Delta)",
+          "en": "Bird's Foot Delta"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यूरोप महाद्वीप की सबसे लंबी नदी कौन-सी है?",
+        "en": "Which is the longest river in Europe?"
+      },
+      "o": [
+        {
+          "hi": "वोल्गा नदी (Volga River - 3,530 किमी)",
+          "en": "Volga River (3,530 km)"
+        },
+        {
+          "hi": "डेन्यूब नदी",
+          "en": "Danube River"
+        },
+        {
+          "hi": "राइन नदी",
+          "en": "Rhine River"
+        },
+        {
+          "hi": "नीपर नदी",
+          "en": "Dnieper River"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यूरोप की वोल्गा नदी का निकास (मुहाना) कहाँ होता है?",
+        "en": "Where does the Volga River of Europe empty into?"
+      },
+      "o": [
+        {
+          "hi": "काला सागर",
+          "en": "Black Sea"
+        },
+        {
+          "hi": "कैस्पियन सागर (Caspian Sea)",
+          "en": "Caspian Sea"
+        },
+        {
+          "hi": "बाल्टिक सागर",
+          "en": "Baltic Sea"
+        },
+        {
+          "hi": "श्वेत सागर",
+          "en": "White Sea"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यूरोप की दूसरी सबसे लंबी नदी 'डेन्यूब' (Danube) किस सागर में गिरती है?",
+        "en": "Danube, second longest river of Europe, empties into which sea?"
+      },
+      "o": [
+        {
+          "hi": "कैस्पियन सागर",
+          "en": "Caspian Sea"
+        },
+        {
+          "hi": "एड्रियाटिक सागर",
+          "en": "Adriatic Sea"
+        },
+        {
+          "hi": "काला सागर (Black Sea)",
+          "en": "Black Sea"
+        },
+        {
+          "hi": "बाल्टिक सागर",
+          "en": "Baltic Sea"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "डेन्यूब नदी यूरोप के कितने देशों से होकर बहती है?",
+        "en": "Danube River passes through or borders how many European countries?"
+      },
+      "o": [
+        {
+          "hi": "5 देश",
+          "en": "5 Countries"
+        },
+        {
+          "hi": "7 देश",
+          "en": "7 Countries"
+        },
+        {
+          "hi": "8 देश",
+          "en": "8 Countries"
+        },
+        {
+          "hi": "10 देश (10 Countries - विश्व में सर्वाधिक)",
+          "en": "10 Countries (Most international river)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किस नदी को 'यूरोपीय व्यापार की जीवन रेखा' और कोयला नदी कहा जाता है?",
+        "en": "Which river is called the lifeline of European commerce and Coal River?"
+      },
+      "o": [
+        {
+          "hi": "राइन नदी (Rhine River)",
+          "en": "Rhine River"
+        },
+        {
+          "hi": "डेन्यूब नदी",
+          "en": "Danube River"
+        },
+        {
+          "hi": "टेम्स नदी",
+          "en": "Thames River"
+        },
+        {
+          "hi": "सीन नदी",
+          "en": "Seine River"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राइन नदी किस पर्वत से निकलती है और किस सागर में गिरती है?",
+        "en": "Rhine River originates in the Alps and empties into which sea?"
+      },
+      "o": [
+        {
+          "hi": "भूमध्य सागर",
+          "en": "Mediterranean"
+        },
+        {
+          "hi": "उत्तरी सागर (North Sea - रोटरडैम के पास)",
+          "en": "North Sea (near Rotterdam)"
+        },
+        {
+          "hi": "बाल्टिक सागर",
+          "en": "Baltic Sea"
+        },
+        {
+          "hi": "काला सागर",
+          "en": "Black Sea"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अफ्रीका की कौन-सी नदी भूमध्य रेखा (Equator) को दो बार पार करती है?",
+        "en": "Which African river crosses the Equator twice?"
+      },
+      "o": [
+        {
+          "hi": "नील नदी",
+          "en": "Nile River"
+        },
+        {
+          "hi": "नाइजर नदी",
+          "en": "Niger River"
+        },
+        {
+          "hi": "कांगो / जायरे नदी (Congo River)",
+          "en": "Congo River"
+        },
+        {
+          "hi": "जांबेजी नदी",
+          "en": "Zambezi River"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अफ्रीका की कौन-सी नदी मकर रेखा (Tropic of Capricorn) को दो बार काटती है?",
+        "en": "Which river of Southern Africa cuts across Tropic of Capricorn twice?"
+      },
+      "o": [
+        {
+          "hi": "ऑरेंज नदी",
+          "en": "Orange River"
+        },
+        {
+          "hi": "कांगो नदी",
+          "en": "Congo River"
+        },
+        {
+          "hi": "जांबेजी नदी",
+          "en": "Zambezi River"
+        },
+        {
+          "hi": "लिम्पोपो नदी (Limpopo River)",
+          "en": "Limpopo River"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अफ्रीका की किस नदी को 'पाम ऑयल नदी' (Oil Palm River) कहा जाता है?",
+        "en": "Which West African river is known as the 'Oil Palm River'?"
+      },
+      "o": [
+        {
+          "hi": "नाइजर नदी (Niger River)",
+          "en": "Niger River"
+        },
+        {
+          "hi": "कांगो नदी",
+          "en": "Congo River"
+        },
+        {
+          "hi": "सेनेगल नदी",
+          "en": "Senegal River"
+        },
+        {
+          "hi": "गाम्बिया नदी",
+          "en": "Gambia River"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विक्टोरिया जलप्रपात और करीबा बांध किस नदी पर स्थित हैं?",
+        "en": "Victoria Falls and Kariba Dam are located on which African river?"
+      },
+      "o": [
+        {
+          "hi": "नील नदी",
+          "en": "Nile River"
+        },
+        {
+          "hi": "जांबेजी नदी (Zambezi River)",
+          "en": "Zambezi River"
+        },
+        {
+          "hi": "कांगो नदी",
+          "en": "Congo River"
+        },
+        {
+          "hi": "ऑरेंज नदी",
+          "en": "Orange River"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दक्षिण अमेरिका की दूसरी सबसे लंबी नदी कौन-सी है?",
+        "en": "Which is the second longest river in South America?"
+      },
+      "o": [
+        {
+          "hi": "ओरिनोको नदी",
+          "en": "Orinoco River"
+        },
+        {
+          "hi": "मैग्डेलेना नदी",
+          "en": "Magdalena River"
+        },
+        {
+          "hi": "पराना नदी (Parana River / ला प्लाटा प्रणाली)",
+          "en": "Parana River"
+        },
+        {
+          "hi": "साओ फ्रांसिस्को",
+          "en": "Sao Francisco"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्वप्रसिद्ध 'इगुआज़ू जलप्रपात' (Iguazu Falls) किस नदी पर स्थित है?",
+        "en": "World-famous Iguazu Falls is situated on which river?"
+      },
+      "o": [
+        {
+          "hi": "अमेजन नदी",
+          "en": "Amazon River"
+        },
+        {
+          "hi": "ओरिनोको नदी",
+          "en": "Orinoco River"
+        },
+        {
+          "hi": "साओ फ्रांसिस्को",
+          "en": "Sao Francisco"
+        },
+        {
+          "hi": "इगुआज़ू नदी / पराना नदी (Iguazu / Parana)",
+          "en": "Iguazu / Parana River"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे ऊँचा जलप्रपात 'एंजिल जलप्रपात' किस नदी की सहायक नदी पर है?",
+        "en": "World's highest waterfall 'Angel Falls' is on which tributary of Orinoco?"
+      },
+      "o": [
+        {
+          "hi": "कैरोनी / चुरुन नदी (Caroni / Churun River)",
+          "en": "Caroni / Churun River"
+        },
+        {
+          "hi": "अमेजन नदी",
+          "en": "Amazon River"
+        },
+        {
+          "hi": "पराना नदी",
+          "en": "Parana River"
+        },
+        {
+          "hi": "मदीरा नदी",
+          "en": "Madeira River"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ऑस्ट्रेलिया की सबसे लंबी और प्रमुख नदी प्रणाली कौन-सी है?",
+        "en": "Which is the most important and longest river system of Australia?"
+      },
+      "o": [
+        {
+          "hi": "फ्लिंडर्स नदी",
+          "en": "Flinders River"
+        },
+        {
+          "hi": "मरे-डार्लिंग नदी प्रणाली (Murray-Darling)",
+          "en": "Murray-Darling"
+        },
+        {
+          "hi": "विक्टोरिया नदी",
+          "en": "Victoria River"
+        },
+        {
+          "hi": "स्वान नदी",
+          "en": "Swan River"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रूस और चीन के बीच प्राकृतिक सीमा बनाने वाली प्रमुख नदी कौन-सी है?",
+        "en": "Which major river forms a natural international border between Russia and China?"
+      },
+      "o": [
+        {
+          "hi": "लीना नदी",
+          "en": "Lena River"
+        },
+        {
+          "hi": "ओब नदी",
+          "en": "Ob River"
+        },
+        {
+          "hi": "अमूर नदी (Amur River / हीलोंगजियांग)",
+          "en": "Amur River"
+        },
+        {
+          "hi": "येनिसी नदी",
+          "en": "Yenisei River"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "साइबेरिया की तीन प्रमुख नदियाँ (ओब, येनिसी, लीना) किस महासागर में गिरती हैं?",
+        "en": "Three great Siberian rivers (Ob, Yenisei, Lena) empty into which ocean?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर (Arctic Ocean)",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दक्षिण-पूर्व एशिया की सबसे लंबी नदी 'मेकांग नदी' (Mekong River) कहाँ से निकलती है?",
+        "en": "Where does the Mekong River (longest in SE Asia) originate?"
+      },
+      "o": [
+        {
+          "hi": "तिब्बत का पठार (Tibetan Plateau)",
+          "en": "Tibetan Plateau"
+        },
+        {
+          "hi": "म्यांमार की पहाड़ियाँ",
+          "en": "Myanmar Hills"
+        },
+        {
+          "hi": "अराकान योमा",
+          "en": "Arakan Yoma"
+        },
+        {
+          "hi": "कुनलुन पर्वत",
+          "en": "Kunlun Mountains"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मेकांग नदी कितने देशों से होकर प्रवाहित होती है?",
+        "en": "Through how many nations does the Mekong River flow (or border)?"
+      },
+      "o": [
+        {
+          "hi": "4 देश",
+          "en": "4 Countries"
+        },
+        {
+          "hi": "6 देश (चीन, म्यांमार, लाओस, थाईलैंड, कंबोडिया, वियतनाम)",
+          "en": "6 Countries"
+        },
+        {
+          "hi": "8 देश",
+          "en": "8 Countries"
+        },
+        {
+          "hi": "5 देश",
+          "en": "5 Countries"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "म्यांमार की जीवन रेखा (Lifeline of Myanmar) किस नदी को कहा जाता है?",
+        "en": "Which river is considered the 'Lifeline of Myanmar'?"
+      },
+      "o": [
+        {
+          "hi": "साल्वीन नदी",
+          "en": "Salween River"
+        },
+        {
+          "hi": "मेकांग नदी",
+          "en": "Mekong River"
+        },
+        {
+          "hi": "इरावदी नदी (Irrawaddy River)",
+          "en": "Irrawaddy River"
+        },
+        {
+          "hi": "सीतांग नदी",
+          "en": "Sittaung River"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "थाईलैंड की सबसे प्रमुख नदी कौन-सी है जिसे उसकी जीवन रेखा कहते हैं?",
+        "en": "Which is the principal river and lifeline of Thailand?"
+      },
+      "o": [
+        {
+          "hi": "मेकांग",
+          "en": "Mekong"
+        },
+        {
+          "hi": "साल्वीन",
+          "en": "Salween"
+        },
+        {
+          "hi": "इरावदी",
+          "en": "Irrawaddy"
+        },
+        {
+          "hi": "चाओ फ्राया नदी (Chao Phraya River)",
+          "en": "Chao Phraya River"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व में सर्वाधिक देशों की सीमाओं से होकर बहने वाली अंतरराष्ट्रीय नदी कौन-सी है?",
+        "en": "Which international river touches/passes through the largest number of sovereign countries?"
+      },
+      "o": [
+        {
+          "hi": "डेन्यूब नदी (Danube - 10 देश)",
+          "en": "Danube River (10 countries)"
+        },
+        {
+          "hi": "राइन नदी",
+          "en": "Rhine River"
+        },
+        {
+          "hi": "नील नदी",
+          "en": "Nile River"
+        },
+        {
+          "hi": "अमेजन नदी",
+          "en": "Amazon River"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इटली की सबसे लंबी नदी कौन-सी है, जिसे 'इटली की गंगा' कहा जाता है?",
+        "en": "Which is the longest river in Italy, often called the 'Ganga of Italy'?"
+      },
+      "o": [
+        {
+          "hi": "टाइबर नदी",
+          "en": "Tiber River"
+        },
+        {
+          "hi": "पो नदी (Po River)",
+          "en": "Po River"
+        },
+        {
+          "hi": "अर्नो नदी",
+          "en": "Arno River"
+        },
+        {
+          "hi": "अदिगे नदी",
+          "en": "Adige River"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फ्रांस की सबसे लंबी नदी कौन-सी है?",
+        "en": "Which is the longest river entirely in France?"
+      },
+      "o": [
+        {
+          "hi": "सीन नदी",
+          "en": "Seine River"
+        },
+        {
+          "hi": "रोन नदी",
+          "en": "Rhone River"
+        },
+        {
+          "hi": "लॉयर नदी (Loire River - 1,012 किमी)",
+          "en": "Loire River"
+        },
+        {
+          "hi": "गारोन नदी",
+          "en": "Garonne River"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्पेन और पुर्तगाल (इबेरियन प्रायद्वीप) की सबसे लंबी नदी कौन-सी है?",
+        "en": "Which is the longest river of the Iberian Peninsula (Spain & Portugal)?"
+      },
+      "o": [
+        {
+          "hi": "एब्रो नदी",
+          "en": "Ebro River"
+        },
+        {
+          "hi": "डौरो नदी",
+          "en": "Douro River"
+        },
+        {
+          "hi": "ग्वाडियाना",
+          "en": "Guadiana"
+        },
+        {
+          "hi": "टैगस नदी / ताजो (Tagus River)",
+          "en": "Tagus River"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संयुक्त राज्य अमेरिका और मेक्सिको के बीच अंतरराष्ट्रीय सीमा कौन-सी नदी बनाती है?",
+        "en": "Which river forms the international boundary between USA and Mexico?"
+      },
+      "o": [
+        {
+          "hi": "रियो ग्रांडे नदी (Rio Grande River)",
+          "en": "Rio Grande River"
+        },
+        {
+          "hi": "कोलोराडो नदी",
+          "en": "Colorado River"
+        },
+        {
+          "hi": "मिसिसिपी नदी",
+          "en": "Mississippi River"
+        },
+        {
+          "hi": "रेड नदी",
+          "en": "Red River"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्वप्रसिद्ध 'ग्रैंड कैनियन' (Grand Canyon) का निर्माण किस नदी ने किया है?",
+        "en": "The world-famous Grand Canyon was carved out by which river?"
+      },
+      "o": [
+        {
+          "hi": "मिसिसिपी नदी",
+          "en": "Mississippi River"
+        },
+        {
+          "hi": "कोलोराडो नदी (Colorado River)",
+          "en": "Colorado River"
+        },
+        {
+          "hi": "कोलंबिया नदी",
+          "en": "Columbia River"
+        },
+        {
+          "hi": "हडसन नदी",
+          "en": "Hudson River"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कनाडा की सबसे लंबी नदी कौन-सी है?",
+        "en": "Which is the longest river in Canada?"
+      },
+      "o": [
+        {
+          "hi": "सेंट लॉरेंस नदी",
+          "en": "St. Lawrence River"
+        },
+        {
+          "hi": "नेल्सन नदी",
+          "en": "Nelson River"
+        },
+        {
+          "hi": "मैकेंजी नदी (Mackenzie River - 4,241 किमी)",
+          "en": "Mackenzie River"
+        },
+        {
+          "hi": "युकॉन नदी",
+          "en": "Yukon River"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दक्षिण अमेरिका की 'ओरिनोको नदी' (Orinoco River) किस सागर/महासागर में गिरती है?",
+        "en": "Into which water body does the Orinoco River empty?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "कैरेबियन सागर",
+          "en": "Caribbean Sea"
+        },
+        {
+          "hi": "मेक्सिको की खाड़ी",
+          "en": "Gulf of Mexico"
+        },
+        {
+          "hi": "अटलांटिक महासागर (Atlantic Ocean)",
+          "en": "Atlantic Ocean"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अमेजन नदी की सबसे बड़ी सहायक नदी कौन-सी है?",
+        "en": "Which is the largest tributary of the Amazon River?"
+      },
+      "o": [
+        {
+          "hi": "मदीरा नदी (Madeira River)",
+          "en": "Madeira River"
+        },
+        {
+          "hi": "रियो नीग्रो",
+          "en": "Rio Negro"
+        },
+        {
+          "hi": "जिंगू नदी",
+          "en": "Xingu River"
+        },
+        {
+          "hi": "टोकांटिन्स",
+          "en": "Tocantins"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अमेजन नदी किस महासागर में अपना जल विसर्जित करती है?",
+        "en": "Into which ocean does the Amazon River discharge its massive volume?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर (Atlantic Ocean)",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "कैरेबियन सागर",
+          "en": "Caribbean Sea"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अमेजन नदी के मुहाने पर कौन-सी काल्पनिक अक्षांश रेखा गुजरती है?",
+        "en": "Which major imaginary latitudinal line passes right through the mouth of Amazon River?"
+      },
+      "o": [
+        {
+          "hi": "कर्क रेखा",
+          "en": "Tropic of Cancer"
+        },
+        {
+          "hi": "मकर रेखा",
+          "en": "Tropic of Capricorn"
+        },
+        {
+          "hi": "भूमध्य रेखा (विषुवत रेखा / 0° Equator)",
+          "en": "Equator (0°)"
+        },
+        {
+          "hi": "आर्कटिक वृत्त",
+          "en": "Arctic Circle"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चीन का विशालकाय 'थ्री गॉर्जेस डैम' (Three Gorges Dam) किस नदी पर निर्मित है?",
+        "en": "World's largest hydroelectric power station Three Gorges Dam is built on which river?"
+      },
+      "o": [
+        {
+          "hi": "ह्वांगहो नदी",
+          "en": "Hwang Ho"
+        },
+        {
+          "hi": "मेकांग नदी",
+          "en": "Mekong"
+        },
+        {
+          "hi": "पर्ल नदी",
+          "en": "Pearl River"
+        },
+        {
+          "hi": "यांग्त्सी नदी (Yangtze River)",
+          "en": "Yangtze River"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मिस्र का प्रसिद्ध 'आसवान बांध' (Aswan High Dam) किस नदी पर निर्मित है?",
+        "en": "The historic Aswan High Dam in Egypt is constructed on which river?"
+      },
+      "o": [
+        {
+          "hi": "नील नदी (Nile River)",
+          "en": "Nile River"
+        },
+        {
+          "hi": "कांगो नदी",
+          "en": "Congo River"
+        },
+        {
+          "hi": "नाइजर नदी",
+          "en": "Niger River"
+        },
+        {
+          "hi": "जांबेजी नदी",
+          "en": "Zambezi River"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आसवान बांध के निर्माण से कौन-सी विशाल कृत्रिम झील बनी है?",
+        "en": "Which vast artificial lake was created by the construction of the Aswan Dam?"
+      },
+      "o": [
+        {
+          "hi": "विक्टोरिया झील",
+          "en": "Lake Victoria"
+        },
+        {
+          "hi": "नासिर झील (Lake Nasser)",
+          "en": "Lake Nasser"
+        },
+        {
+          "hi": "चाड झील",
+          "en": "Lake Chad"
+        },
+        {
+          "hi": "वोल्टा झील",
+          "en": "Lake Volta"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अफ्रीका महाद्वीप की 'ऑरेंज नदी' किस देश की प्रमुख नदी है और कहाँ गिरती है?",
+        "en": "Orange River is the longest river of South Africa; where does it empty?"
+      },
+      "o": [
+        {
+          "hi": "हिंद महासागर में",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "भूमध्य सागर में",
+          "en": "Mediterranean"
+        },
+        {
+          "hi": "अटलांटिक महासागर में (Atlantic Ocean)",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "लाल सागर में",
+          "en": "Red Sea"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मेसोपोटामिया की प्राचीन सभ्यता किन दो नदियों की घाटी में विकसित हुई थी?",
+        "en": "Ancient Mesopotamian civilization developed in the fertile valleys of which two rivers?"
+      },
+      "o": [
+        {
+          "hi": "नील और कांगो",
+          "en": "Nile & Congo"
+        },
+        {
+          "hi": "सिंधु और गंगा",
+          "en": "Indus & Ganges"
+        },
+        {
+          "hi": "ह्वांगहो और यांग्त्सी",
+          "en": "Hwang Ho & Yangtze"
+        },
+        {
+          "hi": "दजला और फरात (Tigris & Euphrates)",
+          "en": "Tigris & Euphrates"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दजला (Tigris) और फरात (Euphrates) नदियाँ किस देश की प्रमुख नदियाँ हैं?",
+        "en": "Tigris and Euphrates are the primary lifelines of which Middle Eastern nation?"
+      },
+      "o": [
+        {
+          "hi": "इराक (Iraq)",
+          "en": "Iraq"
+        },
+        {
+          "hi": "ईरान",
+          "en": "Iran"
+        },
+        {
+          "hi": "सऊदी अरब",
+          "en": "Saudi Arabia"
+        },
+        {
+          "hi": "सीरिया",
+          "en": "Syria"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दजला और फरात के संगम से बनने वाली संयुक्त धारा को क्या कहते हैं?",
+        "en": "What is the combined river formed by the confluence of Tigris and Euphrates called?"
+      },
+      "o": [
+        {
+          "hi": "करून",
+          "en": "Karun"
+        },
+        {
+          "hi": "शत्त-अल-अरब (Shatt al-Arab)",
+          "en": "Shatt al-Arab"
+        },
+        {
+          "hi": "जॉर्डन",
+          "en": "Jordan"
+        },
+        {
+          "hi": "हेलमंद",
+          "en": "Helmand"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मृत सागर (Dead Sea) में गिरने वाली पवित्र नदी कौन-सी है?",
+        "en": "Which historic sacred river empties into the Dead Sea?"
+      },
+      "o": [
+        {
+          "hi": "नील नदी",
+          "en": "Nile River"
+        },
+        {
+          "hi": "दजला नदी",
+          "en": "Tigris River"
+        },
+        {
+          "hi": "जॉर्डन नदी (Jordan River)",
+          "en": "Jordan River"
+        },
+        {
+          "hi": "फरात नदी",
+          "en": "Euphrates River"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अफगानिस्तान की सबसे लंबी नदी कौन-सी है?",
+        "en": "Which is the longest river in Afghanistan?"
+      },
+      "o": [
+        {
+          "hi": "काबुल नदी",
+          "en": "Kabul River"
+        },
+        {
+          "hi": "कुनार नदी",
+          "en": "Kunar River"
+        },
+        {
+          "hi": "अमु दरिया",
+          "en": "Amu Darya"
+        },
+        {
+          "hi": "हेलमंद नदी (Helmand River)",
+          "en": "Helmand River"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मध्य एशिया की दो प्रमुख नदियाँ 'अमु दरिया' और 'सिर दरिया' किस झील में गिरती थीं?",
+        "en": "Two major Central Asian rivers, Amu Darya and Syr Darya, historically emptied into?"
+      },
+      "o": [
+        {
+          "hi": "अरल सागर (Aral Sea)",
+          "en": "Aral Sea"
+        },
+        {
+          "hi": "कैस्पियन सागर",
+          "en": "Caspian Sea"
+        },
+        {
+          "hi": "बालखश झील",
+          "en": "Lake Balkhash"
+        },
+        {
+          "hi": "बैकाल झील",
+          "en": "Lake Baikal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दक्षिण एशिया की 'सिंधु नदी' (Indus River) का उद्गम कहाँ से होता है?",
+        "en": "Where does the Indus River originate?"
+      },
+      "o": [
+        {
+          "hi": "गंगोत्री से",
+          "en": "Gangotri"
+        },
+        {
+          "hi": "तिब्बत में मानसरोवर झील के पास (सोनोख्याबाब हिमनद)",
+          "en": "Near Lake Manasarovar in Tibet"
+        },
+        {
+          "hi": "रोहतांग दर्रे से",
+          "en": "Rohtang Pass"
+        },
+        {
+          "hi": "वेरीनाग से",
+          "en": "Verinag"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

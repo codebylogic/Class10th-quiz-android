@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विश्व का भूगोल (World Geography)",
+  "subtitle": "पृथ्वी और उसका सौरैर्थिक संबंध",
+  "description": "पृथ्वी और उसका सौरैर्थिक संबंध पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "पृथ्वी की आकृति को वैज्ञानिक रूप से किस रूप में वर्णित किया जाता है?",
+        "en": "How is the true shape of the Earth scientifically described?"
+      },
+      "o": [
+        {
+          "hi": "जियोइड (Geoid / लघवक्ष गोलाभ)",
+          "en": "Geoid"
+        },
+        {
+          "hi": "पूर्ण गोलाकार (Spherical)",
+          "en": "Spherical"
+        },
+        {
+          "hi": "दीर्घवृत्ताकार (Elliptical)",
+          "en": "Elliptical"
+        },
+        {
+          "hi": "अंडाकार (Oval)",
+          "en": "Oval"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी अपने अक्ष पर कितने डिग्री झुकी हुई है?",
+        "en": "At what angle is the Earth tilted on its rotational axis?"
+      },
+      "o": [
+        {
+          "hi": "66.5°",
+          "en": "66.5°"
+        },
+        {
+          "hi": "23.5° (साढ़े 23 डिग्री)",
+          "en": "23.5°"
+        },
+        {
+          "hi": "45°",
+          "en": "45°"
+        },
+        {
+          "hi": "90°",
+          "en": "90°"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी अपने कक्षीय तल (Orbital Plane) के साथ कितने डिग्री का कोण बनाती है?",
+        "en": "What angle does Earth make with its orbital plane?"
+      },
+      "o": [
+        {
+          "hi": "23.5°",
+          "en": "23.5°"
+        },
+        {
+          "hi": "45°",
+          "en": "45°"
+        },
+        {
+          "hi": "66.5° (साढ़े 66 डिग्री)",
+          "en": "66.5°"
+        },
+        {
+          "hi": "90°",
+          "en": "90°"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी की दैनिक गति (घूर्णन / Rotation) के कारण क्या घटित होता है?",
+        "en": "What occurs due to the daily motion (rotation) of the Earth?"
+      },
+      "o": [
+        {
+          "hi": "ऋतु परिवर्तन",
+          "en": "Season changes"
+        },
+        {
+          "hi": "वर्ष की अवधि",
+          "en": "Year length"
+        },
+        {
+          "hi": "ग्रहण",
+          "en": "Eclipses"
+        },
+        {
+          "hi": "दिन और रात का होना (Day and Night)",
+          "en": "Day and Night"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी का अपने अक्ष पर एक चक्कर पूरा करने में कितना वास्तविक समय लगता है?",
+        "en": "What is the exact time taken by Earth for one complete rotation on its axis?"
+      },
+      "o": [
+        {
+          "hi": "23 घंटे 56 मिनट 4.09 सेकंड",
+          "en": "23 hrs 56 min 4.09 sec"
+        },
+        {
+          "hi": "24 घंटे",
+          "en": "24 hours"
+        },
+        {
+          "hi": "24 घंटे 48 मिनट",
+          "en": "24 hrs 48 min"
+        },
+        {
+          "hi": "23 घंटे 30 मिनट",
+          "en": "23 hrs 30 min"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी द्वारा सूर्य की एक परिक्रमा पूरी करने (वार्षिक गति) में कितना समय लगता है?",
+        "en": "Time taken by Earth to complete one revolution around the Sun?"
+      },
+      "o": [
+        {
+          "hi": "365 दिन",
+          "en": "365 days"
+        },
+        {
+          "hi": "365 दिन 5 घंटे 48 मिनट 46 सेकंड",
+          "en": "365 days 5 hrs 48 min 46 sec"
+        },
+        {
+          "hi": "366 दिन 6 घंटे",
+          "en": "366 days 6 hrs"
+        },
+        {
+          "hi": "364 दिन 12 घंटे",
+          "en": "364 days 12 hrs"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी पर ऋतु परिवर्तन (Change of Seasons) का मुख्य कारण क्या है?",
+        "en": "Main reason for the change of seasons on Earth?"
+      },
+      "o": [
+        {
+          "hi": "केवल पृथ्वी का घूर्णन",
+          "en": "Only rotation"
+        },
+        {
+          "hi": "सूर्य की बदलती दूरी",
+          "en": "Changing distance to Sun"
+        },
+        {
+          "hi": "सूर्य की परिक्रमा एवं अक्षीय झुकाव",
+          "en": "Revolution and axial tilt"
+        },
+        {
+          "hi": "वायुमंडलीय दबाव",
+          "en": "Atmospheric pressure"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उपसौर (Perihelion) की स्थिति किस तिथि को होती है जब पृथ्वी सूर्य के निकटतम होती है?",
+        "en": "On which date does Perihelion occur when Earth is closest to the Sun?"
+      },
+      "o": [
+        {
+          "hi": "4 जुलाई",
+          "en": "4 July"
+        },
+        {
+          "hi": "21 जून",
+          "en": "21 June"
+        },
+        {
+          "hi": "22 दिसंबर",
+          "en": "22 December"
+        },
+        {
+          "hi": "3 जनवरी (3 January)",
+          "en": "3 January"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अपसौर (Aphelion) की स्थिति किस तिथि को होती है जब पृथ्वी सूर्य से अधिकतम दूरी पर होती है?",
+        "en": "On which date does Aphelion occur when Earth is at maximum distance from Sun?"
+      },
+      "o": [
+        {
+          "hi": "4 जुलाई (4 July)",
+          "en": "4 July"
+        },
+        {
+          "hi": "3 जनवरी",
+          "en": "3 January"
+        },
+        {
+          "hi": "21 मार्च",
+          "en": "21 March"
+        },
+        {
+          "hi": "23 सितंबर",
+          "en": "23 September"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अपसौर एवं उपसौर को मिलाने वाली काल्पनिक रेखा जो सूर्य के केंद्र से गुजरती है?",
+        "en": "Imaginary line passing through Sun connecting Perihelion and Aphelion?"
+      },
+      "o": [
+        {
+          "hi": "कर्क रेखा",
+          "en": "Tropic of Cancer"
+        },
+        {
+          "hi": "एपसाइड रेखा (Apside Line)",
+          "en": "Apside Line"
+        },
+        {
+          "hi": "मकर रेखा",
+          "en": "Tropic of Capricorn"
+        },
+        {
+          "hi": "प्रधान मध्याह्न रेखा",
+          "en": "Prime Meridian"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विषुव (Equinox) की स्थिति वर्ष में किन दो तिथियों को होती है?",
+        "en": "On which two dates of the year does Equinox occur (equal day & night)?"
+      },
+      "o": [
+        {
+          "hi": "21 जून और 22 दिसंबर",
+          "en": "21 June & 22 Dec"
+        },
+        {
+          "hi": "3 जनवरी और 4 जुलाई",
+          "en": "3 Jan & 4 July"
+        },
+        {
+          "hi": "21 मार्च और 23 सितंबर",
+          "en": "21 March & 23 September"
+        },
+        {
+          "hi": "1 जनवरी और 1 जुलाई",
+          "en": "1 Jan & 1 July"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उत्तरी गोलार्द्ध में सबसे बड़ा दिन किस तिथि को होता है (कर्क संक्रांति)?",
+        "en": "Which date has the longest day in Northern Hemisphere (Summer Solstice)?"
+      },
+      "o": [
+        {
+          "hi": "21 मार्च",
+          "en": "21 March"
+        },
+        {
+          "hi": "23 सितंबर",
+          "en": "23 September"
+        },
+        {
+          "hi": "22 दिसंबर",
+          "en": "22 December"
+        },
+        {
+          "hi": "21 जून (21 June)",
+          "en": "21 June"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दक्षिणी गोलार्द्ध में सबसे बड़ा दिन एवं सबसे छोटी रात किस तिथि को होती है?",
+        "en": "Longest day and shortest night in Southern Hemisphere occurs on which date?"
+      },
+      "o": [
+        {
+          "hi": "22 दिसंबर (22 December)",
+          "en": "22 December"
+        },
+        {
+          "hi": "21 जून",
+          "en": "21 June"
+        },
+        {
+          "hi": "21 मार्च",
+          "en": "21 March"
+        },
+        {
+          "hi": "23 सितंबर",
+          "en": "23 September"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सूर्य ग्रहण (Solar Eclipse) हमेशा किस खगोलीय दिवस को घटित होता है?",
+        "en": "A Solar Eclipse always occurs on which astronomical day?"
+      },
+      "o": [
+        {
+          "hi": "पूर्णिमा (Full Moon)",
+          "en": "Full Moon"
+        },
+        {
+          "hi": "अमावस्या (New Moon)",
+          "en": "New Moon"
+        },
+        {
+          "hi": "प्रथमा",
+          "en": "Prathama"
+        },
+        {
+          "hi": "एकादशी",
+          "en": "Ekadashi"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चंद्र ग्रहण (Lunar Eclipse) हमेशा किस दिन होता है?",
+        "en": "A Lunar Eclipse always occurs on which day?"
+      },
+      "o": [
+        {
+          "hi": "अमावस्या को",
+          "en": "New Moon"
+        },
+        {
+          "hi": "चतुर्दशी को",
+          "en": "Chaturdashi"
+        },
+        {
+          "hi": "पूर्णिमा (Full Moon) को",
+          "en": "Full Moon"
+        },
+        {
+          "hi": "अष्टमी को",
+          "en": "Ashtami"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सूर्य ग्रहण की स्थिति में खगोलीय पिंडों का सही क्रम क्या होता है?",
+        "en": "What is the alignment of celestial bodies during a Solar Eclipse?"
+      },
+      "o": [
+        {
+          "hi": "सूर्य, पृथ्वी, चंद्रमा",
+          "en": "Sun, Earth, Moon"
+        },
+        {
+          "hi": "पृथ्वी, सूर्य, चंद्रमा",
+          "en": "Earth, Sun, Moon"
+        },
+        {
+          "hi": "चंद्रमा, सूर्य, पृथ्वी",
+          "en": "Moon, Sun, Earth"
+        },
+        {
+          "hi": "सूर्य और पृथ्वी के बीच चंद्रमा का आना",
+          "en": "Moon comes between Sun and Earth"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चंद्र ग्रहण की स्थिति में खगोलीय पिंडों का सही विन्यास क्या होता है?",
+        "en": "What is the correct alignment of bodies during a Lunar Eclipse?"
+      },
+      "o": [
+        {
+          "hi": "सूर्य और चंद्रमा के बीच पृथ्वी का आना",
+          "en": "Earth comes between Sun and Moon"
+        },
+        {
+          "hi": "सूर्य और पृथ्वी के बीच चंद्रमा",
+          "en": "Moon between Sun and Earth"
+        },
+        {
+          "hi": "पृथ्वी और सूर्य के बीच अन्य ग्रह",
+          "en": "Planet between Earth and Sun"
+        },
+        {
+          "hi": "चंद्रमा और सूर्य एक सीध में न होना",
+          "en": "Moon and Sun not aligned"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जब सूर्य, पृथ्वी और चंद्रमा एक सीधी रेखा में होते हैं तो इसे क्या कहा जाता है?",
+        "en": "When the Sun, Earth, and Moon are in a straight line, what is it called?"
+      },
+      "o": [
+        {
+          "hi": "युति-प्रतियुति (सिजिगी / Syzygy)",
+          "en": "Syzygy"
+        },
+        {
+          "hi": "अयन (Solstice)",
+          "en": "Solstice"
+        },
+        {
+          "hi": "संक्रांति",
+          "en": "Equinox"
+        },
+        {
+          "hi": "संयुग्मन",
+          "en": "Conjunction"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भूमध्य रेखा (Equator) कितने डिग्री अक्षांश पर स्थित है?",
+        "en": "At what degree of latitude is the Equator located?"
+      },
+      "o": [
+        {
+          "hi": "23.5°",
+          "en": "23.5°"
+        },
+        {
+          "hi": "0° अक्षांश (0° Latitude)",
+          "en": "0° Latitude"
+        },
+        {
+          "hi": "66.5°",
+          "en": "66.5°"
+        },
+        {
+          "hi": "90°",
+          "en": "90°"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कर्क रेखा (Tropic of Cancer) किस अक्षांश पर स्थित है?",
+        "en": "At what latitude is the Tropic of Cancer situated?"
+      },
+      "o": [
+        {
+          "hi": "23.5° दक्षिणी अक्षांश",
+          "en": "23.5° S"
+        },
+        {
+          "hi": "0° अक्षांश",
+          "en": "0° Latitude"
+        },
+        {
+          "hi": "23.5° उत्तरी अक्षांश (23.5° N)",
+          "en": "23.5° N"
+        },
+        {
+          "hi": "66.5° उत्तरी अक्षांश",
+          "en": "66.5° N"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मकर रेखा (Tropic of Capricorn) किस अक्षांश पर स्थित है?",
+        "en": "At what latitude is the Tropic of Capricorn situated?"
+      },
+      "o": [
+        {
+          "hi": "66.5° दक्षिणी अक्षांश",
+          "en": "66.5° S"
+        },
+        {
+          "hi": "23.5° उत्तरी अक्षांश",
+          "en": "23.5° N"
+        },
+        {
+          "hi": "0° अक्षांश",
+          "en": "0° Latitude"
+        },
+        {
+          "hi": "23.5° दक्षिणी अक्षांश (23.5° S)",
+          "en": "23.5° S"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दो अक्षांश रेखाओं के बीच की धरातलीय दूरी लगभग कितनी होती है?",
+        "en": "What is the approximate ground distance between two parallel latitudes?"
+      },
+      "o": [
+        {
+          "hi": "111 किलोमीटर (111 km)",
+          "en": "111 km"
+        },
+        {
+          "hi": "121 किलोमीटर",
+          "en": "121 km"
+        },
+        {
+          "hi": "100 किलोमीटर",
+          "en": "100 km"
+        },
+        {
+          "hi": "132 किलोमीटर",
+          "en": "132 km"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दो अक्षांश रेखाओं के बीच के क्षेत्र को क्या कहा जाता है?",
+        "en": "What is the region between two latitude lines called?"
+      },
+      "o": [
+        {
+          "hi": "ग्रिड (Grid)",
+          "en": "Grid"
+        },
+        {
+          "hi": "कटिबंध (Zone)",
+          "en": "Zone"
+        },
+        {
+          "hi": "गोरे (Gore)",
+          "en": "Gore"
+        },
+        {
+          "hi": "बेल्ट",
+          "en": "Belt"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कुल अक्षांश रेखाओं की संख्या (ध्रुवों को बिंदु मानने पर) कितनी होती है?",
+        "en": "Total number of latitude lines (if poles are counted as points)?"
+      },
+      "o": [
+        {
+          "hi": "180",
+          "en": "180"
+        },
+        {
+          "hi": "181",
+          "en": "181"
+        },
+        {
+          "hi": "179",
+          "en": "179"
+        },
+        {
+          "hi": "360",
+          "en": "360"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "0° देशान्तर रेखा को किस नाम से जाना जाता है?",
+        "en": "By what name is the 0° longitude line known?"
+      },
+      "o": [
+        {
+          "hi": "अंतर्राष्ट्रीय तिथि रेखा",
+          "en": "Int Date Line"
+        },
+        {
+          "hi": "कर्क रेखा",
+          "en": "Tropic of Cancer"
+        },
+        {
+          "hi": "विषुवत रेखा",
+          "en": "Equator"
+        },
+        {
+          "hi": "प्रधान मध्याह्न रेखा (Greenwich Meridian)",
+          "en": "Prime Meridian"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रधान मध्याह्न रेखा (Prime Meridian) कहाँ से होकर गुजरती है?",
+        "en": "From where does the Prime Meridian (0° Longitude) pass?"
+      },
+      "o": [
+        {
+          "hi": "ग्रीनविच (लंदन / UK)",
+          "en": "Greenwich (London / UK)"
+        },
+        {
+          "hi": "पेरिस (फ्रांस)",
+          "en": "Paris (France)"
+        },
+        {
+          "hi": "न्यूयॉर्क (USA)",
+          "en": "New York (USA)"
+        },
+        {
+          "hi": "टोक्यो (जापान)",
+          "en": "Tokyo (Japan)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दो देशान्तर रेखाओं के बीच की दूरी को किस नाम से जाना जाता है?",
+        "en": "By what name is the distance/space between two longitudes known?"
+      },
+      "o": [
+        {
+          "hi": "कटिबंध (Zone)",
+          "en": "Zone"
+        },
+        {
+          "hi": "गोरे (Gore)",
+          "en": "Gore"
+        },
+        {
+          "hi": "सर्किल",
+          "en": "Circle"
+        },
+        {
+          "hi": "ब्लॉक",
+          "en": "Block"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विषुवत रेखा पर दो देशान्तर रेखाओं के बीच अधिकतम दूरी कितनी होती है?",
+        "en": "What is the maximum distance between two longitudes at the equator?"
+      },
+      "o": [
+        {
+          "hi": "100 किमी",
+          "en": "100 km"
+        },
+        {
+          "hi": "111 किमी",
+          "en": "111 km"
+        },
+        {
+          "hi": "111.32 किलोमीटर",
+          "en": "111.32 km"
+        },
+        {
+          "hi": "120.5 किमी",
+          "en": "120.5 km"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एक डिग्री देशान्तर की दूरी तय करने में सूर्य को कितना समय लगता है?",
+        "en": "How much time does the Sun take to cover a distance of 1° longitude?"
+      },
+      "o": [
+        {
+          "hi": "1 मिनट",
+          "en": "1 min"
+        },
+        {
+          "hi": "2 मिनट",
+          "en": "2 min"
+        },
+        {
+          "hi": "15 मिनट",
+          "en": "15 min"
+        },
+        {
+          "hi": "4 मिनट (4 Minutes)",
+          "en": "4 Minutes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अंतर्राष्ट्रीय तिथि रेखा (International Date Line) किसे कहा जाता है?",
+        "en": "Which line is known as the International Date Line (IDL)?"
+      },
+      "o": [
+        {
+          "hi": "180° देशान्तर रेखा",
+          "en": "180° Longitude"
+        },
+        {
+          "hi": "0° देशान्तर रेखा",
+          "en": "0° Longitude"
+        },
+        {
+          "hi": "90° पूर्वी देशान्तर",
+          "en": "90° E Longitude"
+        },
+        {
+          "hi": "0° अक्षांश रेखा",
+          "en": "0° Latitude"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अंतर्राष्ट्रीय तिथि रेखा किस जलडमरूमध्य के समानांतर होकर गुजरती है?",
+        "en": "Through which strait does the International Date Line pass parallelly?"
+      },
+      "o": [
+        {
+          "hi": "मलक्का जलसंधि",
+          "en": "Malacca Strait"
+        },
+        {
+          "hi": "बेरिंग जलसंधि (Bering Strait)",
+          "en": "Bering Strait"
+        },
+        {
+          "hi": "जिब्राल्टर जलसंधि",
+          "en": "Gibraltar Strait"
+        },
+        {
+          "hi": "पाक जलसंधि",
+          "en": "Palk Strait"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यदि कोई व्यक्ति अंतर्राष्ट्रीय तिथि रेखा को पश्चिम से पूर्व की ओर पार करता है?",
+        "en": "If a person crosses the International Date Line from west to east?"
+      },
+      "o": [
+        {
+          "hi": "वह 24 घंटे खो देता है",
+          "en": "He loses 24 hrs"
+        },
+        {
+          "hi": "कोई अंतर नहीं पड़ता",
+          "en": "No change"
+        },
+        {
+          "hi": "उसे एक दिन का लाभ होता है (1 Day Gained)",
+          "en": "One day is gained"
+        },
+        {
+          "hi": "उसे एक दिन की हानि होती है",
+          "en": "One day is lost"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व को कुल कितने समय जोनों (Time Zones) में विभाजित किया गया है?",
+        "en": "The world is divided into how many standard Time Zones?"
+      },
+      "o": [
+        {
+          "hi": "12",
+          "en": "12"
+        },
+        {
+          "hi": "18",
+          "en": "18"
+        },
+        {
+          "hi": "36",
+          "en": "36"
+        },
+        {
+          "hi": "24 समय जोन (24 Time Zones)",
+          "en": "24 Time Zones"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रत्येक समय जोन (Time Zone) कितने डिग्री देशान्तर के बराबर होता है?",
+        "en": "Each standard Time Zone corresponds to how many degrees of longitude?"
+      },
+      "o": [
+        {
+          "hi": "15° देशान्तर (1 Hour)",
+          "en": "15° Longitude (1 Hr)"
+        },
+        {
+          "hi": "30° देशान्तर",
+          "en": "30° Longitude"
+        },
+        {
+          "hi": "10° देशान्तर",
+          "en": "10° Longitude"
+        },
+        {
+          "hi": "7.5° देशान्तर",
+          "en": "7.5° Longitude"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का मानक समय (IST) किस देशान्तर रेखा पर आधारित है?",
+        "en": "On which longitude is the Indian Standard Time (IST) based?"
+      },
+      "o": [
+        {
+          "hi": "80.5° पूर्वी देशान्तर",
+          "en": "80.5° E"
+        },
+        {
+          "hi": "82.5° पूर्वी देशान्तर (82°30' E)",
+          "en": "82°30' E Longitude"
+        },
+        {
+          "hi": "85° पूर्वी देशान्तर",
+          "en": "85° E"
+        },
+        {
+          "hi": "75° पूर्वी देशान्तर",
+          "en": "75° E"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय मानक समय (IST) ग्रीनविच माध्य समय (GMT) से कितना आगे है?",
+        "en": "How much ahead is Indian Standard Time (IST) from Greenwich Mean Time (GMT)?"
+      },
+      "o": [
+        {
+          "hi": "4 घंटे 30 मिनट",
+          "en": "4 hrs 30 min"
+        },
+        {
+          "hi": "5 घंटे",
+          "en": "5 hours"
+        },
+        {
+          "hi": "5 घंटे 30 मिनट (5.5 Hours Ahead)",
+          "en": "5 hrs 30 min"
+        },
+        {
+          "hi": "6 घंटे",
+          "en": "6 hours"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत की मानक समय रेखा (82.5° E) किस स्थान से होकर गुजरती है?",
+        "en": "Through which place does the Indian Standard Meridian (82.5° E) pass?"
+      },
+      "o": [
+        {
+          "hi": "दिल्ली",
+          "en": "Delhi"
+        },
+        {
+          "hi": "पटना",
+          "en": "Patna"
+        },
+        {
+          "hi": "उज्जैन",
+          "en": "Ujjain"
+        },
+        {
+          "hi": "नैनी (प्रयागराज / मिर्जापुर, UP)",
+          "en": "Naini (Prayagraj / Mirzapur)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किस देश में सर्वाधिक संख्या में समय जोन (Time Zones) हैं?",
+        "en": "Which country has the highest number of time zones (including overseas territories)?"
+      },
+      "o": [
+        {
+          "hi": "फ्रांस (12-13 टाइम जोन)",
+          "en": "France (12-13 Zones)"
+        },
+        {
+          "hi": "रूस",
+          "en": "Russia"
+        },
+        {
+          "hi": "अमेरिका",
+          "en": "USA"
+        },
+        {
+          "hi": "चीन",
+          "en": "China"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रूस में कुल कितने समय जोन (Time Zones) हैं?",
+        "en": "How many time zones are there in Russia mainland?"
+      },
+      "o": [
+        {
+          "hi": "9",
+          "en": "9"
+        },
+        {
+          "hi": "11 समय जोन",
+          "en": "11 Time Zones"
+        },
+        {
+          "hi": "12",
+          "en": "12"
+        },
+        {
+          "hi": "7",
+          "en": "7"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चीन का आधिकारिक रूप से कितना समय जोन मान्य है?",
+        "en": "How many official time zones does China officially follow?"
+      },
+      "o": [
+        {
+          "hi": "3 समय जोन",
+          "en": "3 Time Zones"
+        },
+        {
+          "hi": "5 समय जोन",
+          "en": "5 Time Zones"
+        },
+        {
+          "hi": "केवल 1 समय जोन (बीजिंग समय)",
+          "en": "Only 1 Time Zone (Beijing)"
+        },
+        {
+          "hi": "2 समय जोन",
+          "en": "2 Time Zones"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी की भूमध्यरेखीय परिधि (Equatorial Circumference) लगभग कितनी है?",
+        "en": "What is the approximate equatorial circumference of the Earth?"
+      },
+      "o": [
+        {
+          "hi": "30,000 किमी",
+          "en": "30,000 km"
+        },
+        {
+          "hi": "35,000 किमी",
+          "en": "35,000 km"
+        },
+        {
+          "hi": "48,000 किमी",
+          "en": "48,000 km"
+        },
+        {
+          "hi": "40,075 किलोमीटर",
+          "en": "40,075 km"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी का भूमध्यरेखीय व्यास (Equatorial Diameter) कितना है?",
+        "en": "What is the equatorial diameter of the Earth?"
+      },
+      "o": [
+        {
+          "hi": "12,756 किलोमीटर",
+          "en": "12,756 km"
+        },
+        {
+          "hi": "12,714 किलोमीटर",
+          "en": "12,714 km"
+        },
+        {
+          "hi": "12,800 किलोमीटर",
+          "en": "12,800 km"
+        },
+        {
+          "hi": "13,000 किलोमीटर",
+          "en": "13,000 km"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी का ध्रुवीय व्यास (Polar Diameter) कितना है?",
+        "en": "What is the polar diameter of the Earth?"
+      },
+      "o": [
+        {
+          "hi": "12,756 किमी",
+          "en": "12,756 km"
+        },
+        {
+          "hi": "12,714 किलोमीटर",
+          "en": "12,714 km"
+        },
+        {
+          "hi": "12,650 किमी",
+          "en": "12,650 km"
+        },
+        {
+          "hi": "12,700 किमी",
+          "en": "12,700 km"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी के भूमध्यरेखीय व्यास और ध्रुवीय व्यास में कितना अंतर है?",
+        "en": "Difference between equatorial diameter and polar diameter of Earth?"
+      },
+      "o": [
+        {
+          "hi": "21 किमी",
+          "en": "21 km"
+        },
+        {
+          "hi": "32 किमी",
+          "en": "32 km"
+        },
+        {
+          "hi": "42-43 किलोमीटर (Approx 43 km)",
+          "en": "42-43 km"
+        },
+        {
+          "hi": "55 किमी",
+          "en": "55 km"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी का औसत घनत्व (Average Density of Earth) कितना है?",
+        "en": "What is the average density of the Earth?"
+      },
+      "o": [
+        {
+          "hi": "3.5 ग्राम/सेमी³",
+          "en": "3.5 g/cm³"
+        },
+        {
+          "hi": "4.5 ग्राम/सेमी³",
+          "en": "4.5 g/cm³"
+        },
+        {
+          "hi": "6.2 ग्राम/सेमी³",
+          "en": "6.2 g/cm³"
+        },
+        {
+          "hi": "5.52 ग्राम/सेमी³ (5.5 g/cm³)",
+          "en": "5.52 g/cm³"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी पर जल और स्थल का अनुपात लगभग कितना है?",
+        "en": "What is the approximate ratio of water and land on Earth?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 71% जल एवं 29% स्थल",
+          "en": "Approx 71% water & 29% land"
+        },
+        {
+          "hi": "60% जल एवं 40% स्थल",
+          "en": "60% water & 40% land"
+        },
+        {
+          "hi": "80% जल एवं 20% स्थल",
+          "en": "80% water & 20% land"
+        },
+        {
+          "hi": "75% जल एवं 25% स्थल",
+          "en": "75% water & 25% land"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उत्तरी गोलार्द्ध को किस नाम से जाना जाता है?",
+        "en": "By what name is the Northern Hemisphere predominantly known?"
+      },
+      "o": [
+        {
+          "hi": "जलीय गोलार्द्ध",
+          "en": "Water Hemisphere"
+        },
+        {
+          "hi": "स्थलीय गोलार्द्ध (Land Hemisphere)",
+          "en": "Land Hemisphere"
+        },
+        {
+          "hi": "मरुस्थलीय गोलार्द्ध",
+          "en": "Desert Hemisphere"
+        },
+        {
+          "hi": "हिमानी गोलार्द्ध",
+          "en": "Glacial Hemisphere"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दक्षिणी गोलार्द्ध को किस नाम से जाना जाता है (जल की अधिकता के कारण)?",
+        "en": "By what name is Southern Hemisphere known due to predominance of water?"
+      },
+      "o": [
+        {
+          "hi": "स्थलीय गोलार्द्ध",
+          "en": "Land Hemisphere"
+        },
+        {
+          "hi": "पर्वतीय गोलार्द्ध",
+          "en": "Mountain Hemisphere"
+        },
+        {
+          "hi": "जल गोलार्द्ध (Water Hemisphere)",
+          "en": "Water Hemisphere"
+        },
+        {
+          "hi": "शीत गोलार्द्ध",
+          "en": "Cold Hemisphere"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कर्क रेखा भारत के कितने राज्यों से होकर गुजरती है?",
+        "en": "Tropic of Cancer passes through how many states of India?"
+      },
+      "o": [
+        {
+          "hi": "6",
+          "en": "6"
+        },
+        {
+          "hi": "7",
+          "en": "7"
+        },
+        {
+          "hi": "9",
+          "en": "9"
+        },
+        {
+          "hi": "8 राज्यों से (8 States)",
+          "en": "8 States"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विषुवत रेखा, कर्क रेखा और मकर रेखा तीनों किस महाद्वीप से गुजरती हैं?",
+        "en": "Equator, Tropic of Cancer, and Tropic of Capricorn all pass through which continent?"
+      },
+      "o": [
+        {
+          "hi": "अफ्रीका (Africa)",
+          "en": "Africa"
+        },
+        {
+          "hi": "एशिया",
+          "en": "Asia"
+        },
+        {
+          "hi": "दक्षिण अमेरिका",
+          "en": "South America"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया",
+          "en": "Australia"
+        }
+      ],
+      "a": 0
+    }
+  ]
+}

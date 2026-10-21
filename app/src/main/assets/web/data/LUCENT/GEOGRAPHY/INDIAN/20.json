@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भारत का भूगोल (Indian Geography)",
+  "subtitle": "भारतीय जनजातियाँ",
+  "description": "भारतीय जनजातियाँ पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "जनगणना 2011 के अनुसार भारत का सबसे बड़ा जनजाति समूह (Largest Tribe) कौन-सा है?",
+        "en": "According to Census 2011, which is the largest tribal group in India (>37%)?"
+      },
+      "o": [
+        {
+          "hi": "गोंड",
+          "en": "Gond"
+        },
+        {
+          "hi": "भील (Bhil Tribe - लगभग 1.7 करोड़)",
+          "en": "Bhil Tribe (~1.7 Crore)"
+        },
+        {
+          "hi": "संथाल",
+          "en": "Santhal"
+        },
+        {
+          "hi": "मुंडा",
+          "en": "Munda"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत का दूसरा सबसे बड़ा जनजाति समूह कौन-सा है?",
+        "en": "Which is the second largest tribal group in India as per Census 2011?"
+      },
+      "o": [
+        {
+          "hi": "भील",
+          "en": "Bhil"
+        },
+        {
+          "hi": "संथाल",
+          "en": "Santhal"
+        },
+        {
+          "hi": "गोंड (Gond Tribe)",
+          "en": "Gond Tribe"
+        },
+        {
+          "hi": "मीणा",
+          "en": "Meena"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भील (Bhil) शब्द की उत्पत्ति द्रविड़ भाषा के 'बिल्लू' शब्द से हुई है, जिसका अर्थ क्या है?",
+        "en": "The word 'Bhil' originates from Dravidian root 'Billu', meaning what?"
+      },
+      "o": [
+        {
+          "hi": "शिकारी",
+          "en": "Hunter"
+        },
+        {
+          "hi": "जंगल",
+          "en": "Forest"
+        },
+        {
+          "hi": "योद्धा",
+          "en": "Warrior"
+        },
+        {
+          "hi": "धनुष (Bow - Bowmen)",
+          "en": "Bow (Bowmen)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भील जनजाति मुख्य रूप से किन राज्यों में निवास करती है?",
+        "en": "Bhil tribe predominantly inhabits which western-central Indian states?"
+      },
+      "o": [
+        {
+          "hi": "राजस्थान, गुजरात, मध्य प्रदेश और महाराष्ट्र",
+          "en": "Rajasthan, Gujarat, MP & Maharashtra"
+        },
+        {
+          "hi": "असम, नगालैंड और मणिपुर",
+          "en": "Assam, Nagaland & Manipur"
+        },
+        {
+          "hi": "केरल और तमिलनाडु",
+          "en": "Kerala & Tamil Nadu"
+        },
+        {
+          "hi": "बिहार और पश्चिम बंगाल",
+          "en": "Bihar & West Bengal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राजस्थान का प्रसिद्ध 'बेणेश्वर मेला' (आदिवासियों का कुंभ) किस जनजाति का मुख्य पर्व है?",
+        "en": "Beneshwar Fair (Kumbh of Tribals) at Som-Mahi-Jakam sangam is celebrated by?"
+      },
+      "o": [
+        {
+          "hi": "गरासिया",
+          "en": "Garasia"
+        },
+        {
+          "hi": "भील जनजाति (Bhil Tribe)",
+          "en": "Bhil Tribe"
+        },
+        {
+          "hi": "सहरिया",
+          "en": "Sahariya"
+        },
+        {
+          "hi": "मीणा",
+          "en": "Meena"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गोंड जनजाति (Gond Tribe) का मुख्य निवास क्षेत्र कौन-सा माना जाता है?",
+        "en": "What is the primary historic habitat of the Gond tribe?"
+      },
+      "o": [
+        {
+          "hi": "थार मरुस्थल",
+          "en": "Thar Desert"
+        },
+        {
+          "hi": "छोटा नागपुर",
+          "en": "Chota Nagpur"
+        },
+        {
+          "hi": "गोंडवाना लैंड (मध्य प्रदेश, छत्तीसगढ़, ओडिशा, महाराष्ट्र)",
+          "en": "Gondwana (MP, CG, Odisha, MH)"
+        },
+        {
+          "hi": "कश्मीर घाटी",
+          "en": "Kashmir Valley"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "झारखंड का सबसे बड़ा जनजाति समुदाय कौन-सा है?",
+        "en": "Which is the largest tribal community in the state of Jharkhand?"
+      },
+      "o": [
+        {
+          "hi": "मुंडा",
+          "en": "Munda"
+        },
+        {
+          "hi": "हो",
+          "en": "Ho"
+        },
+        {
+          "hi": "उरांव",
+          "en": "Oraon"
+        },
+        {
+          "hi": "संथाल (Santhal Tribe - तीसरी सबसे बड़ी भारतीय जनजाति)",
+          "en": "Santhal Tribe"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1855-56 के प्रसिद्ध 'संथाल विद्रोह' (Santhal Hool) का नेतृत्व किसने किया था?",
+        "en": "Who led the famous Santhal Rebellion (1855-56) against British Raj & Zamindars?"
+      },
+      "o": [
+        {
+          "hi": "सिद्धू और कान्हू (Sidhu and Kanhu Murmu)",
+          "en": "Sidhu and Kanhu Murmu"
+        },
+        {
+          "hi": "बिरसा मुंडा",
+          "en": "Birsa Munda"
+        },
+        {
+          "hi": "तिलका मांझी",
+          "en": "Tilka Manjhi"
+        },
+        {
+          "hi": "तात्या टोपे",
+          "en": "Tatya Tope"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत की प्रथम आदिवासी महिला राष्ट्रपति 'द्रौपदी मुर्मू' किस जनजाति से संबंधित हैं?",
+        "en": "India's first tribal woman President, Droupadi Murmu, belongs to which tribe?"
+      },
+      "o": [
+        {
+          "hi": "गोंड जनजाति",
+          "en": "Gond"
+        },
+        {
+          "hi": "संथाल जनजाति (Santhal Tribe - मयूरभंज, ओडिशा)",
+          "en": "Santhal Tribe (Mayurbhanj, Odisha)"
+        },
+        {
+          "hi": "भील जनजाति",
+          "en": "Bhil"
+        },
+        {
+          "hi": "मुंडा जनजाति",
+          "en": "Munda"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'धरती आबा' (जगत पिता) के नाम से प्रसिद्ध अमर स्वतंत्रता सेनानी बिरसा मुंडा किस जनजाति के थे?",
+        "en": "Birsa Munda ('Dharti Aaba'), legendary freedom fighter, belonged to which tribe?"
+      },
+      "o": [
+        {
+          "hi": "संथाल",
+          "en": "Santhal"
+        },
+        {
+          "hi": "हो",
+          "en": "Ho"
+        },
+        {
+          "hi": "मुंडा जनजाति (Munda Tribe - छोटा नागपुर)",
+          "en": "Munda Tribe (Chota Nagpur)"
+        },
+        {
+          "hi": "खड़िया",
+          "en": "Kharia"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बिरसा मुंडा के नेतृत्व में 1899-1900 में हुए महान आदिवासी आंदोलन को क्या कहा जाता है?",
+        "en": "Great tribal uprising led by Birsa Munda in 1899-1900 is known as?"
+      },
+      "o": [
+        {
+          "hi": "संथाल हूल",
+          "en": "Santhal Hool"
+        },
+        {
+          "hi": "कोल विद्रोह",
+          "en": "Kol Rebellion"
+        },
+        {
+          "hi": "ताम्र विद्रोह",
+          "en": "Tamar Revolt"
+        },
+        {
+          "hi": "उलगुलान (महान हलचल / Ulgulan)",
+          "en": "Ulgulan (The Great Tumult)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत सरकार द्वारा बिरसा मुंडा की जयंती (15 नवंबर) को किस दिवस के रूप में घोषित किया गया?",
+        "en": "November 15, birth anniversary of Birsa Munda, is officially celebrated as?"
+      },
+      "o": [
+        {
+          "hi": "जनजातीय गौरव दिवस (Janjatiya Gaurav Divas - 2021 से)",
+          "en": "Janjatiya Gaurav Divas (since 2021)"
+        },
+        {
+          "hi": "आदिवासी एकता दिवस",
+          "en": "Tribal Unity Day"
+        },
+        {
+          "hi": "वनवासी दिवस",
+          "en": "Vanvasi Day"
+        },
+        {
+          "hi": "क्रांति दिवस",
+          "en": "Kranti Divas"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "झारखंड की 'उरांव जनजाति' (Oraon) कौन-सी द्रविड़ियन भाषा बोलती है?",
+        "en": "Oraon (Kurukh) tribe of Jharkhand speaks which Dravidian language?"
+      },
+      "o": [
+        {
+          "hi": "संथाली",
+          "en": "Santhali"
+        },
+        {
+          "hi": "कुडुख भाषा (Kurukh Language)",
+          "en": "Kurukh Language"
+        },
+        {
+          "hi": "मुंडारी",
+          "en": "Mundari"
+        },
+        {
+          "hi": "हो",
+          "en": "Ho"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "झारखंड के आदिवासियों का सबसे बड़ा और प्रमुख प्रकृति पर्व कौन-सा है?",
+        "en": "Which is the most prominent spring nature festival celebrated by Jharkhand tribals?"
+      },
+      "o": [
+        {
+          "hi": "करमा",
+          "en": "Karma"
+        },
+        {
+          "hi": "सोहराई",
+          "en": "Sohrai"
+        },
+        {
+          "hi": "सरहुल (Sarhul - साल वृक्ष के फूलों का पर्व)",
+          "en": "Sarhul (Festival of Sal flowers)"
+        },
+        {
+          "hi": "माघे",
+          "en": "Maghe"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उत्तराखंड और उत्तर प्रदेश के तराई क्षेत्र में पाई जाने वाली सबसे बड़ी जनजाति कौन-सी है?",
+        "en": "Which is the most prominent tribe found in the Tarai region of UP and Uttarakhand?"
+      },
+      "o": [
+        {
+          "hi": "भोटिया",
+          "en": "Bhotia"
+        },
+        {
+          "hi": "जौनसारी",
+          "en": "Jaunsari"
+        },
+        {
+          "hi": "बोक्सा",
+          "en": "Buksa"
+        },
+        {
+          "hi": "थारू जनजाति (Tharu Tribe)",
+          "en": "Tharu Tribe"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कौन-सी जनजाति 'दीपावली' (Diwali) को शोक पर्व के रूप में मनाती है?",
+        "en": "Which tribal community traditionally observes Diwali as a period of mourning (Shok)?"
+      },
+      "o": [
+        {
+          "hi": "थारू जनजाति (Tharu Tribe)",
+          "en": "Tharu Tribe"
+        },
+        {
+          "hi": "भोटिया",
+          "en": "Bhotia"
+        },
+        {
+          "hi": "गोंड",
+          "en": "Gond"
+        },
+        {
+          "hi": "भील",
+          "en": "Bhil"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "थारू जनजाति में किस प्रकार की सामाजिक एवं पारिवारिक व्यवस्था पाई जाती है?",
+        "en": "What type of family system has traditionally been prevalent among the Tharus?"
+      },
+      "o": [
+        {
+          "hi": "पितृसत्तात्मक केवल",
+          "en": "Patriarchal only"
+        },
+        {
+          "hi": "मातृसत्तात्मक संयुक्त परिवार व्यवस्था (Matriarchal elements)",
+          "en": "Matriarchal joint family elements"
+        },
+        {
+          "hi": "एकल परिवार",
+          "en": "Nuclear family"
+        },
+        {
+          "hi": "कबीलाई राजशाही",
+          "en": "Tribal monarchy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "उत्तराखंड के उच्च हिमालयी क्षेत्रों में 'ऋतु प्रवास' (Transhumance) करने वाली जनजाति?",
+        "en": "Which pastoral tribe of Uttarakhand practices transhumance (seasonal migration)?"
+      },
+      "o": [
+        {
+          "hi": "जौनसारी",
+          "en": "Jaunsari"
+        },
+        {
+          "hi": "थारू",
+          "en": "Tharu"
+        },
+        {
+          "hi": "भोटिया जनजाति (Bhotia Tribe)",
+          "en": "Bhotia Tribe"
+        },
+        {
+          "hi": "राजी",
+          "en": "Raji"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उत्तराखंड की कौन-सी जनजाति 'बहुपति विवाह प्रथा' (Polyandry) हेतु प्रसिद्ध रही है?",
+        "en": "Which tribal group in Dehradun (Jaunsar-Bawar) was famous for fraternal polyandry?"
+      },
+      "o": [
+        {
+          "hi": "थारू",
+          "en": "Tharu"
+        },
+        {
+          "hi": "भोटिया",
+          "en": "Bhotia"
+        },
+        {
+          "hi": "बोक्सा",
+          "en": "Buksa"
+        },
+        {
+          "hi": "जौनसारी जनजाति (Jaunsari Tribe)",
+          "en": "Jaunsari Tribe"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उत्तराखंड की सबसे कम जनसंख्या वाली लुप्तप्राय 'वनराजी' (जंगल के राजा) जनजाति?",
+        "en": "Endangered primitive tribe of Pithoragarh, Uttarakhand known as 'Vanraji' (Asurs)?"
+      },
+      "o": [
+        {
+          "hi": "राजी जनजाति (Raji Tribe / बनरौत)",
+          "en": "Raji Tribe (Vanraji)"
+        },
+        {
+          "hi": "थारू",
+          "en": "Tharu"
+        },
+        {
+          "hi": "बोक्सा",
+          "en": "Buksa"
+        },
+        {
+          "hi": "जौनसारी",
+          "en": "Jaunsari"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मेघालय की गारो, खासी और जयंतिया पहाड़ियाँ किन मूल जनजातियों के नाम पर हैं?",
+        "en": "Garo, Khasi, and Jaintia hills in Meghalaya are named after which indigenous tribes?"
+      },
+      "o": [
+        {
+          "hi": "नागा और कुकी",
+          "en": "Naga & Kuki"
+        },
+        {
+          "hi": "गारो, खासी और जयंतिया जनजातियाँ (Matrilineal society)",
+          "en": "Garo, Khasi & Jaintia Tribes"
+        },
+        {
+          "hi": "मिजो और चकमा",
+          "en": "Mizo & Chakma"
+        },
+        {
+          "hi": "अपातानी और डफला",
+          "en": "Apatani & Dafla"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गारो और खासी जनजातियों में कौन-सी पारिवारिक उत्तराधिकार प्रणाली पाई जाती है?",
+        "en": "What family inheritance system is famously followed by the Khasi and Garo tribes?"
+      },
+      "o": [
+        {
+          "hi": "पितृसत्तात्मक",
+          "en": "Patriarchal"
+        },
+        {
+          "hi": "पितृवंशीय",
+          "en": "Patrilineal"
+        },
+        {
+          "hi": "मातृसत्तात्मक एवं मातृवंशीय (Matrilineal - संपत्ति सबसे छोटी बेटी को)",
+          "en": "Matrilineal (Property to youngest daughter)"
+        },
+        {
+          "hi": "सहकारी व्यवस्था",
+          "en": "Cooperative"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तमिलनाडु की नीलगिरी पहाड़ियों पर निवास करने वाली भैंस-पालक जनजाति कौन-सी है?",
+        "en": "Which pastoral buffalo-herding tribe inhabits the Nilgiri Hills of Tamil Nadu?"
+      },
+      "o": [
+        {
+          "hi": "बदागा",
+          "en": "Badaga"
+        },
+        {
+          "hi": "कुरुम्बा",
+          "en": "Kurumba"
+        },
+        {
+          "hi": "इरुला",
+          "en": "Irula"
+        },
+        {
+          "hi": "टोडा जनजाति (Toda Tribe)",
+          "en": "Toda Tribe"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "टोडा जनजाति की पारंपरिक सामाजिक विशेषता क्या रही है?",
+        "en": "What was the traditional marriage custom documented among the Toda tribe?"
+      },
+      "o": [
+        {
+          "hi": "भ्रातृक बहुपति विवाह (Fraternal Polyandry)",
+          "en": "Fraternal Polyandry"
+        },
+        {
+          "hi": "बहुपत्नी विवाह केवल",
+          "en": "Polygyny only"
+        },
+        {
+          "hi": "बाल विवाह",
+          "en": "Child marriage"
+        },
+        {
+          "hi": "सती प्रथा",
+          "en": "Sati practice"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सिक्किम और दार्जिलिंग के मूल निवासी जनजाति समुदाय कौन-से हैं?",
+        "en": "Which indigenous tribal communities are native to Sikkim and Darjeeling?"
+      },
+      "o": [
+        {
+          "hi": "खासी और गारो",
+          "en": "Khasi & Garo"
+        },
+        {
+          "hi": "लेप्चा और भूटिया (Lepcha & Bhutia Tribes)",
+          "en": "Lepcha & Bhutia Tribes"
+        },
+        {
+          "hi": "कुकी और नागा",
+          "en": "Kuki & Naga"
+        },
+        {
+          "hi": "संथाल और मुंडा",
+          "en": "Santhal & Munda"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लेप्चा (Lepcha) जनजाति को सिक्किम में स्थानीय भाषा में क्या कहा जाता है?",
+        "en": "What are the Lepcha people traditionally called in Sikkim ('Ravine Folk')?"
+      },
+      "o": [
+        {
+          "hi": "भूटिया",
+          "en": "Bhutia"
+        },
+        {
+          "hi": "शेरपा",
+          "en": "Sherpa"
+        },
+        {
+          "hi": "रोंग या रोंगकुप (Rong / Rongkup)",
+          "en": "Rong or Rongkup"
+        },
+        {
+          "hi": "मोनपा",
+          "en": "Monpa"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अरुणाचल प्रदेश की कौन-सी जनजाति महिलाओं के चेहरे पर गोदना और नाक में लकड़ी के कुंडल (यपिंग हुलो) पहनती है?",
+        "en": "Women of which Arunachal tribe famously wear large wooden nose plugs (Yaping Hullo)?"
+      },
+      "o": [
+        {
+          "hi": "मिशमी",
+          "en": "Mishmi"
+        },
+        {
+          "hi": "डफला",
+          "en": "Dafla"
+        },
+        {
+          "hi": "आदि",
+          "en": "Adi"
+        },
+        {
+          "hi": "अपातानी जनजाति (Apatani Tribe - जीरो घाटी)",
+          "en": "Apatani Tribe (Ziro Valley)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अंडमान और निकोबार द्वीप समूह की अत्यंत प्राचीन नेग्रीटो जनजातियाँ कौन-सी हैं?",
+        "en": "Which ancient Negrito indigenous tribes inhabit Andaman and Nicobar Islands?"
+      },
+      "o": [
+        {
+          "hi": "जारवा, ओंगे, सेंटिनलीज और ग्रेट अंडमानी",
+          "en": "Jarawa, Onge, Sentinelese & Great Andamanese"
+        },
+        {
+          "hi": "टोडा, इरुला और बदागा",
+          "en": "Toda, Irula & Badaga"
+        },
+        {
+          "hi": "भील, गोंड और संथाल",
+          "en": "Bhil, Gond & Santhal"
+        },
+        {
+          "hi": "गारो, खासी और जयंतिया",
+          "en": "Garo, Khasi & Jaintia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उत्तरी सेंटिनल द्वीप (North Sentinel Island) पर बाहरी दुनिया से पूर्णतः अलग रहने वाली जनजाति?",
+        "en": "Which uncontacted, completely isolated hunter-gatherer tribe lives on North Sentinel Island?"
+      },
+      "o": [
+        {
+          "hi": "जारवा",
+          "en": "Jarawa"
+        },
+        {
+          "hi": "सेंटिनलीज जनजाति (Sentinelese Tribe)",
+          "en": "Sentinelese Tribe"
+        },
+        {
+          "hi": "ओंगे",
+          "en": "Onge"
+        },
+        {
+          "hi": "शोम्पेन",
+          "en": "Shompen"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "निकोबार द्वीप समूह में निवास करने वाली मंगोलोइड जनजाति कौन-सी है?",
+        "en": "Which indigenous Mongoloid hunter-gatherer tribe inhabits the interior of Great Nicobar?"
+      },
+      "o": [
+        {
+          "hi": "जारवा",
+          "en": "Jarawa"
+        },
+        {
+          "hi": "ओंगे",
+          "en": "Onge"
+        },
+        {
+          "hi": "शोम्पेन जनजाति (Shompen Tribe)",
+          "en": "Shompen Tribe"
+        },
+        {
+          "hi": "सेंटिनलीज",
+          "en": "Sentinelese"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अंडमान के 'लिटिल अंडमान' (Little Andaman) द्वीप पर कौन-सी जनजाति निवास करती है?",
+        "en": "Which indigenous tribe primarily inhabits the Little Andaman Island?"
+      },
+      "o": [
+        {
+          "hi": "जारवा",
+          "en": "Jarawa"
+        },
+        {
+          "hi": "सेंटिनलीज",
+          "en": "Sentinelese"
+        },
+        {
+          "hi": "ग्रेट अंडमानी",
+          "en": "Great Andamanese"
+        },
+        {
+          "hi": "ओंगे जनजाति (Onge Tribe)",
+          "en": "Onge Tribe"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में 'विशेष रूप से कमजोर जनजातीय समूह' (PVTG) की कुल संख्या कितनी है?",
+        "en": "How many Particularly Vulnerable Tribal Groups (PVTGs) are recognized in India?"
+      },
+      "o": [
+        {
+          "hi": "75 जनजातीय समूह (75 PVTGs)",
+          "en": "75 PVTGs"
+        },
+        {
+          "hi": "50 समूह",
+          "en": "50 groups"
+        },
+        {
+          "hi": "100 समूह",
+          "en": "100 groups"
+        },
+        {
+          "hi": "60 समूह",
+          "en": "60 groups"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत के किस राज्य में सर्वाधिक संख्या में PVTG (13 समूह) पाए जाते हैं?",
+        "en": "Which Indian state has the highest number of PVTG communities (13)?"
+      },
+      "o": [
+        {
+          "hi": "मध्य प्रदेश",
+          "en": "Madhya Pradesh"
+        },
+        {
+          "hi": "ओडिशा (Odisha - 13 PVTGs)",
+          "en": "Odisha (13 PVTGs)"
+        },
+        {
+          "hi": "झारखंड",
+          "en": "Jharkhand"
+        },
+        {
+          "hi": "आंध्र प्रदेश",
+          "en": "Andhra Pradesh"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "राजस्थान की सबसे बड़ी जनजाति कौन-सी है जो साक्षरता और प्रशासनिक सेवाओं में अग्रणी है?",
+        "en": "Which is the largest tribe in Rajasthan, highly advanced in education & civil services?"
+      },
+      "o": [
+        {
+          "hi": "भील",
+          "en": "Bhil"
+        },
+        {
+          "hi": "गरासिया",
+          "en": "Garasia"
+        },
+        {
+          "hi": "मीणा जनजाति (Meena Tribe)",
+          "en": "Meena Tribe"
+        },
+        {
+          "hi": "सहरिया",
+          "en": "Sahariya"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राजस्थान के बारां जिले में निवास करने वाली अत्यंत पिछड़ी जनजाति कौन-सी है?",
+        "en": "Which primitive tribal group predominantly inhabits Baran district of Rajasthan?"
+      },
+      "o": [
+        {
+          "hi": "मीणा",
+          "en": "Meena"
+        },
+        {
+          "hi": "भील",
+          "en": "Bhil"
+        },
+        {
+          "hi": "दामोर",
+          "en": "Damor"
+        },
+        {
+          "hi": "सहरिया जनजाति (Sahariya Tribe)",
+          "en": "Sahariya Tribe"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गुजरात और राजस्थान में पाई जाने वाली 'गरासिया जनजाति' का प्रसिद्ध नृत्य कौन-सा है?",
+        "en": "Which famous graceful dance is performed by the Garasia tribe of Rajasthan?"
+      },
+      "o": [
+        {
+          "hi": "वालर नृत्य (Valar Dance)",
+          "en": "Valar Dance"
+        },
+        {
+          "hi": "घूमर",
+          "en": "Ghoomar"
+        },
+        {
+          "hi": "कालबेलिया",
+          "en": "Kalbelia"
+        },
+        {
+          "hi": "तेरहताली",
+          "en": "Terah Taali"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "महाराष्ट्र की प्रमुख जनजातियाँ कौन-सी हैं?",
+        "en": "Which are prominent tribal communities of Maharashtra?"
+      },
+      "o": [
+        {
+          "hi": "गोंड और भील",
+          "en": "Gond & Bhil"
+        },
+        {
+          "hi": "वारली, कोली, कोर्कू और भील (Warli, Koli, Korku)",
+          "en": "Warli, Koli, Korku & Bhil"
+        },
+        {
+          "hi": "टोडा और कोटा",
+          "en": "Toda & Kota"
+        },
+        {
+          "hi": "लेप्चा और भूटिया",
+          "en": "Lepcha & Bhutia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "महाराष्ट्र की 'वारली जनजाति' (Warli Tribe) विश्व में किस कला हेतु विख्यात है?",
+        "en": "Warli tribe of Maharashtra is internationally celebrated for which indigenous art?"
+      },
+      "o": [
+        {
+          "hi": "मधुबनी पेंटिंग",
+          "en": "Madhubani"
+        },
+        {
+          "hi": "तंजौर पेंटिंग",
+          "en": "Tanjore"
+        },
+        {
+          "hi": "वारली लोक चित्रकला (Warli Folk Painting / भित्ति चित्र)",
+          "en": "Warli Folk Painting"
+        },
+        {
+          "hi": "पटचित्र",
+          "en": "Pattachitra"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "केरल और तमिलनाडु की सीमा पर विषैले सांप पकड़ने में माहिर जनजाति कौन-सी है?",
+        "en": "Which indigenous tribe in Tamil Nadu is world-renowned for traditional snake-catching skills?"
+      },
+      "o": [
+        {
+          "hi": "टोडा",
+          "en": "Toda"
+        },
+        {
+          "hi": "कुरुम्बा",
+          "en": "Kurumba"
+        },
+        {
+          "hi": "बदागा",
+          "en": "Badaga"
+        },
+        {
+          "hi": "इरुला जनजाति (Irula Tribe)",
+          "en": "Irula Tribe"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लक्षद्वीप द्वीप समूह के अधिकांश निवासी किस धर्म और जनजाति श्रेणी में आते हैं?",
+        "en": "Indigenous inhabitants of Lakshadweep belong to which category?"
+      },
+      "o": [
+        {
+          "hi": "मुस्लिम धर्म के अनुसूचित जनजाति (ST Muslim population)",
+          "en": "ST Muslim population"
+        },
+        {
+          "hi": "ईसाई जनजाति",
+          "en": "Christian ST"
+        },
+        {
+          "hi": "हिंदू जनजाति",
+          "en": "Hindu ST"
+        },
+        {
+          "hi": "बौद्ध जनजाति",
+          "en": "Buddhist ST"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नगालैंड की प्रमुख जनजातियों (आओ, अंगामी, सेमा, कोन्याक) का प्रसिद्ध वार्षिक उत्सव कौन-सा है?",
+        "en": "Famous 'Festival of Festivals' celebrated by all Naga tribes in December is?"
+      },
+      "o": [
+        {
+          "hi": "बिहू",
+          "en": "Bihu"
+        },
+        {
+          "hi": "हॉर्नबिल महोत्सव (Hornbill Festival - 1 से 10 दिसंबर)",
+          "en": "Hornbill Festival"
+        },
+        {
+          "hi": "चापचार कुट",
+          "en": "Chapchar Kut"
+        },
+        {
+          "hi": "वांगला",
+          "en": "Wangala"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मिजोरम का सबसे प्रसिद्ध पारंपरिक बांस नृत्य (Bamboo Dance) किस पर्व पर होता है?",
+        "en": "Cheraw (Bamboo Dance) is the traditional folk dance of which Mizo festival?"
+      },
+      "o": [
+        {
+          "hi": "हॉर्नबिल",
+          "en": "Hornbill"
+        },
+        {
+          "hi": "नोंगक्रेम",
+          "en": "Nongkrem"
+        },
+        {
+          "hi": "चापचार कुट (Chapchar Kut - चेराओ नृत्य)",
+          "en": "Chapchar Kut (Cheraw Dance)"
+        },
+        {
+          "hi": "लोसर",
+          "en": "Losar"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मेघालय की गारो जनजाति का 100 ढोलों वाला प्रसिद्ध फसल उत्सव कौन-सा है?",
+        "en": "Famous post-harvest festival of the Garo tribe featuring 100 drums is called?"
+      },
+      "o": [
+        {
+          "hi": "हॉर्नबिल",
+          "en": "Hornbill"
+        },
+        {
+          "hi": "सरहुल",
+          "en": "Sarhul"
+        },
+        {
+          "hi": "लोसर",
+          "en": "Losar"
+        },
+        {
+          "hi": "वांगला महोत्सव (Wangala Festival / 100 Drums)",
+          "en": "Wangala Festival"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हिमाचल प्रदेश की किन्नौर और लाहौल-स्पीति घाटी में कौन-सी जनजातियाँ पाई जाती हैं?",
+        "en": "Which tribal communities reside in Kinnaur and Lahaul-Spiti of Himachal Pradesh?"
+      },
+      "o": [
+        {
+          "hi": "गद्दी, किन्नौरी और गुज्जर (Gaddi, Kinnauri & Gujjar)",
+          "en": "Gaddi, Kinnauri & Gujjar"
+        },
+        {
+          "hi": "भील और मीणा",
+          "en": "Bhil & Meena"
+        },
+        {
+          "hi": "संथाल और मुंडा",
+          "en": "Santhal & Munda"
+        },
+        {
+          "hi": "टोडा और कोटा",
+          "en": "Toda & Kota"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जम्मू-कश्मीर और हिमाचल में घुमंतू पशुपालक (बकरवाल) जनजाति कौन-सी है?",
+        "en": "Nomadic pastoral transhumance tribe rearing sheep and goats in J&K is?"
+      },
+      "o": [
+        {
+          "hi": "गद्दी",
+          "en": "Gaddi"
+        },
+        {
+          "hi": "बकरवाल जनजाति (Bakarwal Tribe)",
+          "en": "Bakarwal Tribe"
+        },
+        {
+          "hi": "डोगरा",
+          "en": "Dogra"
+        },
+        {
+          "hi": "लद्दाखी",
+          "en": "Ladakhi"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय संविधान के किस अनुच्छेद के तहत अनुसूचित जनजातियों (ST) को अधिसूचित किया जाता है?",
+        "en": "Under which Constitutional Article are Scheduled Tribes officially notified by the President?"
+      },
+      "o": [
+        {
+          "hi": "अनुच्छेद 330",
+          "en": "Article 330"
+        },
+        {
+          "hi": "अनुच्छेद 338",
+          "en": "Article 338"
+        },
+        {
+          "hi": "अनुच्छेद 342 (Article 342)",
+          "en": "Article 342"
+        },
+        {
+          "hi": "अनुच्छेद 370",
+          "en": "Article 370"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संविधान की 5वीं और 6वीं अनुसूची का संबंध किससे है?",
+        "en": "Fifth and Sixth Schedules of the Indian Constitution deal with?"
+      },
+      "o": [
+        {
+          "hi": "राजभाषाओं से",
+          "en": "Official languages"
+        },
+        {
+          "hi": "न्यायपालिका से",
+          "en": "Judiciary"
+        },
+        {
+          "hi": "संसद के विशेषाधिकार",
+          "en": "Parliament privileges"
+        },
+        {
+          "hi": "अनुसूचित क्षेत्रों एवं जनजातियों के प्रशासन व स्वायत्तता से",
+          "en": "Administration & autonomy of Scheduled Areas & Tribes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संविधान की 6वीं अनुसूची में पूर्वोत्तर के कौन-से चार राज्य शामिल हैं?",
+        "en": "Sixth Schedule of the Constitution applies to tribal areas of which four states (AMTM)?"
+      },
+      "o": [
+        {
+          "hi": "असम, मेघालय, त्रिपुरा और मिजोरम (Assam, Meghalaya, Tripura & Mizoram)",
+          "en": "Assam, Meghalaya, Tripura & Mizoram"
+        },
+        {
+          "hi": "असम, नगालैंड, मणिपुर और मिजोरम",
+          "en": "Assam, Nagaland, Manipur & Mizoram"
+        },
+        {
+          "hi": "अरुणाचल, नगालैंड, मणिपुर, मिजोरम",
+          "en": "Arunachal, Nagaland, Manipur, Mizoram"
+        },
+        {
+          "hi": "सिक्किम, असम, मेघालय, त्रिपुरा",
+          "en": "Sikkim, Assam, Meghalaya, Tripura"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रीय अनुसूचित जनजाति आयोग (NCST) की स्थापना किस संवैधानिक संशोधन द्वारा हुई?",
+        "en": "National Commission for Scheduled Tribes (NCST, Art 338A) was established by which amendment?"
+      },
+      "o": [
+        {
+          "hi": "65वां संशोधन 1990",
+          "en": "65th Amendment 1990"
+        },
+        {
+          "hi": "89वां संविधान संशोधन 2003 (89th Amendment Act, 2003)",
+          "en": "89th Amendment Act, 2003"
+        },
+        {
+          "hi": "91वां संशोधन 2003",
+          "en": "91st Amendment 2003"
+        },
+        {
+          "hi": "102वां संशोधन 2018",
+          "en": "102nd Amendment 2018"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जनगणना 2011 के अनुसार भारत की कुल जनसंख्या में अनुसूचित जनजातियों (ST) का प्रतिशत कितना है?",
+        "en": "As per Census 2011, Scheduled Tribes constitute what percentage of India's total population?"
+      },
+      "o": [
+        {
+          "hi": "7.5%",
+          "en": "7.5%"
+        },
+        {
+          "hi": "16.6%",
+          "en": "16.6%"
+        },
+        {
+          "hi": "8.6 प्रतिशत (8.6% - लगभग 10.42 करोड़)",
+          "en": "8.6% (~10.42 Crore)"
+        },
+        {
+          "hi": "12.0%",
+          "en": "12.0%"
+        }
+      ],
+      "a": 2
+    }
+  ]
+}

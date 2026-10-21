@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विश्व का भूगोल (World Geography)",
+  "subtitle": "विश्व की प्रमुख वनस्पतियाँ",
+  "description": "विश्व की प्रमुख वनस्पतियाँ पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "जलप्लावित क्षेत्रों एवं जल में पाई जाने वाली वनस्पति को क्या कहा जाता है?",
+        "en": "What is vegetation growing in water/aquatic areas called?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोफाइट (Hydrophyte)",
+          "en": "Hydrophyte"
+        },
+        {
+          "hi": "जेरोफाइट (Xerophyte)",
+          "en": "Xerophyte"
+        },
+        {
+          "hi": "मेसोफाइट (Mesophyte)",
+          "en": "Mesophyte"
+        },
+        {
+          "hi": "हैलोफाइट (Halophyte)",
+          "en": "Halophyte"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उष्णकटिबंधीय मरुस्थलीय क्षेत्रों में पाई जाने वाली कटीली वनस्पति क्या कहलाती है?",
+        "en": "Thorny vegetation found in hot arid desert regions is called?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोफाइट",
+          "en": "Hydrophyte"
+        },
+        {
+          "hi": "जेरोफाइट (मरुद्भिद / Xerophyte)",
+          "en": "Xerophyte"
+        },
+        {
+          "hi": "क्रायोफाइट",
+          "en": "Cryophyte"
+        },
+        {
+          "hi": "लिथोफाइट",
+          "en": "Lithophyte"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नमकीन मिट्टी एवं क्षारीय दलदली क्षेत्रों में उगने वाली वनस्पति को क्या कहते हैं?",
+        "en": "Vegetation growing in saline soil and mangrove marshes is called?"
+      },
+      "o": [
+        {
+          "hi": "ट्रोपोफाइट",
+          "en": "Tropophyte"
+        },
+        {
+          "hi": "हाइग्रोफाइट",
+          "en": "Hygrophyte"
+        },
+        {
+          "hi": "हैलोफाइट (लवणोद्भिद / Halophyte)",
+          "en": "Halophyte"
+        },
+        {
+          "hi": "मेसोफाइट",
+          "en": "Mesophyte"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "टुंड्रा एवं अत्यंत शीत ध्रुवीय क्षेत्रों में उगने वाली वनस्पति क्या कहलाती है?",
+        "en": "Vegetation growing in cold tundra and polar regions is called?"
+      },
+      "o": [
+        {
+          "hi": "जेरोफाइट",
+          "en": "Xerophyte"
+        },
+        {
+          "hi": "लिथोफाइट",
+          "en": "Lithophyte"
+        },
+        {
+          "hi": "हैलोफाइट",
+          "en": "Halophyte"
+        },
+        {
+          "hi": "क्रायोफाइट (Cryophyte)",
+          "en": "Cryophyte"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कठोर चट्टानों पर उगने वाली वनस्पति को क्या कहा जाता है?",
+        "en": "Vegetation growing on bare hard rocks is called?"
+      },
+      "o": [
+        {
+          "hi": "लिथोफाइट (Lithophyte)",
+          "en": "Lithophyte"
+        },
+        {
+          "hi": "क्रायोफाइट",
+          "en": "Cryophyte"
+        },
+        {
+          "hi": "हाइड्रोफाइट",
+          "en": "Hydrophyte"
+        },
+        {
+          "hi": "ट्रोपोफाइट",
+          "en": "Tropophyte"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उष्णकटिबंधीय जलवायु वाली घास एवं वनस्पति को क्या कहा जाता है?",
+        "en": "Tropical climate vegetation and grasslands are broadly termed as?"
+      },
+      "o": [
+        {
+          "hi": "मेसोफाइट",
+          "en": "Mesophyte"
+        },
+        {
+          "hi": "ट्रोपोफाइट (Tropophyte)",
+          "en": "Tropophyte"
+        },
+        {
+          "hi": "हाइग्रोफाइट",
+          "en": "Hygrophyte"
+        },
+        {
+          "hi": "जेरोफाइट",
+          "en": "Xerophyte"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "शीतोष्ण कटिबंधीय क्षेत्रों में पाई जाने वाली सामान्य वनस्पति क्या कहलाती है?",
+        "en": "Vegetation typical of temperate climate regions with moderate moisture is called?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोफाइट",
+          "en": "Hydrophyte"
+        },
+        {
+          "hi": "क्रायोफाइट",
+          "en": "Cryophyte"
+        },
+        {
+          "hi": "मेसोफाइट (Mesophyte)",
+          "en": "Mesophyte"
+        },
+        {
+          "hi": "हैलोफाइट",
+          "en": "Halophyte"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अत्यधिक आर्द्रता एवं दलदली भू-भागों में उगने वाली वनस्पति क्या कहलाती है?",
+        "en": "Vegetation flourishing in excessively humid and wetland areas is called?"
+      },
+      "o": [
+        {
+          "hi": "लिथोफाइट",
+          "en": "Lithophyte"
+        },
+        {
+          "hi": "जेरोफाइट",
+          "en": "Xerophyte"
+        },
+        {
+          "hi": "क्रायोफाइट",
+          "en": "Cryophyte"
+        },
+        {
+          "hi": "हाइग्रोफाइट (Hygrophyte)",
+          "en": "Hygrophyte"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व के शीतोष्ण कटिबंधीय घास के मैदानों को उत्तरी अमेरिका में क्या कहते हैं?",
+        "en": "What are the temperate grasslands called in North America?"
+      },
+      "o": [
+        {
+          "hi": "प्रेयरी (Prairie)",
+          "en": "Prairie"
+        },
+        {
+          "hi": "पंपास",
+          "en": "Pampas"
+        },
+        {
+          "hi": "वेल्ड",
+          "en": "Veld"
+        },
+        {
+          "hi": "डाउन्स",
+          "en": "Downs"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यूक्रेन, रूस और मध्य एशिया में फैले शीतोष्ण घास के मैदान क्या कहलाते हैं?",
+        "en": "What are the temperate grasslands stretching across Ukraine & Central Asia called?"
+      },
+      "o": [
+        {
+          "hi": "सवाना",
+          "en": "Savanna"
+        },
+        {
+          "hi": "स्टेपी (Steppe)",
+          "en": "Steppe"
+        },
+        {
+          "hi": "प्रेयरी",
+          "en": "Prairie"
+        },
+        {
+          "hi": "लानोज",
+          "en": "Llanos"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दक्षिण अमेरिका (अर्जेंटीना व उरुग्वे) के शीतोष्ण घास के मैदान क्या कहलाते हैं?",
+        "en": "What are the temperate grasslands of South America (Argentina) called?"
+      },
+      "o": [
+        {
+          "hi": "कैम्पोस",
+          "en": "Campos"
+        },
+        {
+          "hi": "सवाना",
+          "en": "Savanna"
+        },
+        {
+          "hi": "पंपास (Pampas)",
+          "en": "Pampas"
+        },
+        {
+          "hi": "लानोज",
+          "en": "Llanos"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दक्षिण अफ्रीका के शीतोष्ण घास के मैदानों को किस नाम से जाना जाता है?",
+        "en": "By what name are the temperate grasslands of South Africa known?"
+      },
+      "o": [
+        {
+          "hi": "सवाना",
+          "en": "Savanna"
+        },
+        {
+          "hi": "डाउन्स",
+          "en": "Downs"
+        },
+        {
+          "hi": "स्टेपी",
+          "en": "Steppe"
+        },
+        {
+          "hi": "वेल्ड (Veld)",
+          "en": "Veld"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऑस्ट्रेलिया के शीतोष्ण घास के मैदानों को क्या कहा जाता है?",
+        "en": "What are the temperate grasslands of Australia called?"
+      },
+      "o": [
+        {
+          "hi": "डाउन्स (Downs)",
+          "en": "Downs"
+        },
+        {
+          "hi": "वेल्ड",
+          "en": "Veld"
+        },
+        {
+          "hi": "पंपास",
+          "en": "Pampas"
+        },
+        {
+          "hi": "कैंटरबरी",
+          "en": "Canterbury"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "न्यूजीलैंड के शीतोष्ण घास के मैदानों को किस नाम से जाना जाता है?",
+        "en": "By what name are the temperate grasslands of New Zealand known?"
+      },
+      "o": [
+        {
+          "hi": "डाउन्स",
+          "en": "Downs"
+        },
+        {
+          "hi": "कैंटरबरी (Canterbury)",
+          "en": "Canterbury"
+        },
+        {
+          "hi": "पुश्ताज",
+          "en": "Puszta"
+        },
+        {
+          "hi": "स्टेपी",
+          "en": "Steppe"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हंगरी में विस्तृत शीतोष्ण घास के मैदान क्या कहलाते हैं?",
+        "en": "What are the temperate grasslands of Hungary called?"
+      },
+      "o": [
+        {
+          "hi": "स्टेपी",
+          "en": "Steppe"
+        },
+        {
+          "hi": "वेल्ड",
+          "en": "Veld"
+        },
+        {
+          "hi": "पुश्ताज (Puszta)",
+          "en": "Puszta"
+        },
+        {
+          "hi": "प्रेयरी",
+          "en": "Prairie"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अफ्रीका के उष्णकटिबंधीय घास के मैदानों को क्या कहा जाता है?",
+        "en": "What are the tropical grasslands of Africa called?"
+      },
+      "o": [
+        {
+          "hi": "वेल्ड",
+          "en": "Veld"
+        },
+        {
+          "hi": "स्टेपी",
+          "en": "Steppe"
+        },
+        {
+          "hi": "पंपास",
+          "en": "Pampas"
+        },
+        {
+          "hi": "सवाना (Savanna)",
+          "en": "Savanna"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वेनेजुएला और कोलंबिया में ओरिनोको बेसिन के उष्ण घास के मैदान क्या कहलाते हैं?",
+        "en": "What are the tropical grasslands of the Orinoco Basin in Venezuela called?"
+      },
+      "o": [
+        {
+          "hi": "लानोज (Llanos)",
+          "en": "Llanos"
+        },
+        {
+          "hi": "कैम्पोस",
+          "en": "Campos"
+        },
+        {
+          "hi": "सेलवास",
+          "en": "Selvas"
+        },
+        {
+          "hi": "ग्रान चाको",
+          "en": "Gran Chaco"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ब्राजील के उच्च भूमि क्षेत्र के उष्णकटिबंधीय घास के मैदान क्या कहलाते हैं?",
+        "en": "What are the tropical grasslands of the Brazilian Highlands called?"
+      },
+      "o": [
+        {
+          "hi": "पंपास",
+          "en": "Pampas"
+        },
+        {
+          "hi": "कैम्पोस (Campos)",
+          "en": "Campos"
+        },
+        {
+          "hi": "लानोज",
+          "en": "Llanos"
+        },
+        {
+          "hi": "सवाना",
+          "en": "Savanna"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अमेजन बेसिन के सघन भूमध्यरेखीय वर्षा वनों को स्थानीय रूप से क्या कहते हैं?",
+        "en": "What are dense equatorial rainforests of the Amazon Basin locally called?"
+      },
+      "o": [
+        {
+          "hi": "कैम्पोस",
+          "en": "Campos"
+        },
+        {
+          "hi": "लानोज",
+          "en": "Llanos"
+        },
+        {
+          "hi": "सेलवास (Selvas)",
+          "en": "Selvas"
+        },
+        {
+          "hi": "पंपास",
+          "en": "Pampas"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व के फेफड़े (Lungs of the Planet) किस वन क्षेत्र को कहा जाता है?",
+        "en": "Which forest region is famously known as the 'Lungs of the Planet'?"
+      },
+      "o": [
+        {
+          "hi": "कांगो वर्षा वन",
+          "en": "Congo Rainforest"
+        },
+        {
+          "hi": "टैगा वन",
+          "en": "Taiga Forest"
+        },
+        {
+          "hi": "सुंदरवन",
+          "en": "Sundarbans"
+        },
+        {
+          "hi": "अमेजन वर्षा वन (Amazon Rainforest)",
+          "en": "Amazon Rainforest"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कोणधारी वन या शंकुधारी वन (Coniferous Forests) को किस नाम से जाना जाता है?",
+        "en": "What are high-latitude coniferous forests commonly known as?"
+      },
+      "o": [
+        {
+          "hi": "टैगा वन (Taiga Forests)",
+          "en": "Taiga Forests"
+        },
+        {
+          "hi": "टुंड्रा वन",
+          "en": "Tundra Forests"
+        },
+        {
+          "hi": "सवाना वन",
+          "en": "Savanna Forests"
+        },
+        {
+          "hi": "मानसूनी वन",
+          "en": "Monsoon Forests"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसार में सर्वाधिक नरम लकड़ी (Softwood) प्रदान करने वाले वन कौन-से हैं?",
+        "en": "Which forests are the largest suppliers of commercial softwood and pulp?"
+      },
+      "o": [
+        {
+          "hi": "उष्णकटिबंधीय वर्षा वन",
+          "en": "Tropical Rainforests"
+        },
+        {
+          "hi": "शंकुधारी / टैगा वन (Coniferous / Taiga)",
+          "en": "Coniferous / Taiga"
+        },
+        {
+          "hi": "पर्णपाती वन",
+          "en": "Deciduous Forests"
+        },
+        {
+          "hi": "भूमध्यसागरीय वन",
+          "en": "Mediterranean Forests"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चीड़, देवदार, स्प्रूस और लार्च किस प्रकार के वनों के प्रमुख वृक्ष हैं?",
+        "en": "Pine, Cedar, Spruce and Larch are prominent trees of which forest type?"
+      },
+      "o": [
+        {
+          "hi": "उष्णकटिबंधीय वन",
+          "en": "Tropical Forests"
+        },
+        {
+          "hi": "कंटीले वन",
+          "en": "Thorny Forests"
+        },
+        {
+          "hi": "कोणधारी / टैगा वन (Taiga Forests)",
+          "en": "Taiga Forests"
+        },
+        {
+          "hi": "मैंग्रोव वन",
+          "en": "Mangrove Forests"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रोजवुड, आबनूस (एबोनी) और महोगनी किस प्रकार के वनों के महत्वपूर्ण वृक्ष हैं?",
+        "en": "Rosewood, Ebony, and Mahogany are valuable trees of which forest biome?"
+      },
+      "o": [
+        {
+          "hi": "शीतोष्ण पर्णपाती वन",
+          "en": "Temperate Deciduous"
+        },
+        {
+          "hi": "टैगा वन",
+          "en": "Taiga Forests"
+        },
+        {
+          "hi": "सवाना वन",
+          "en": "Savanna"
+        },
+        {
+          "hi": "उष्णकटिबंधीय सदाबहार वन (Evergreen Rainforests)",
+          "en": "Tropical Evergreen"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सिनकोना वृक्ष की छाल से कौन-सी प्रसिद्ध औषधि बनाई जाती है?",
+        "en": "Which famous medicine is extracted from the bark of the Cinchona tree?"
+      },
+      "o": [
+        {
+          "hi": "कुनैन (मलेरिया की दवा / Quinine)",
+          "en": "Quinine (Malaria drug)"
+        },
+        {
+          "hi": "एस्पिरिन",
+          "en": "Aspirin"
+        },
+        {
+          "hi": "पेनिसिलिन",
+          "en": "Penicillin"
+        },
+        {
+          "hi": "मॉर्फिन",
+          "en": "Morphine"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सिनकोना वृक्ष मूल रूप से किस वन क्षेत्र में पाया जाता है?",
+        "en": "The Cinchona tree is natively found in which forest region?"
+      },
+      "o": [
+        {
+          "hi": "टैगा वन",
+          "en": "Taiga Forest"
+        },
+        {
+          "hi": "अमेजन / भूमध्यरेखीय वर्षा वन",
+          "en": "Amazon / Equatorial Rainforest"
+        },
+        {
+          "hi": "टुंड्रा वन",
+          "en": "Tundra"
+        },
+        {
+          "hi": "भूमध्यसागरीय वन",
+          "en": "Mediterranean"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व में अखरोट, जैतून, कॉर्क ओक और अंजीर किस वन क्षेत्र की विशेषताएं हैं?",
+        "en": "Walnut, olive, cork oak, and figs are characteristic trees of which forest biome?"
+      },
+      "o": [
+        {
+          "hi": "टैगा वन",
+          "en": "Taiga"
+        },
+        {
+          "hi": "मानसूनी वन",
+          "en": "Monsoon"
+        },
+        {
+          "hi": "भूमध्यसागरीय वन (Mediterranean Forests)",
+          "en": "Mediterranean Forests"
+        },
+        {
+          "hi": "सवाना",
+          "en": "Savanna"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मैंग्रोव वनस्पति (सुंदरी वृक्ष) मुख्य रूप से कहाँ पाई जाती है?",
+        "en": "Where is Mangrove vegetation (Sundari trees) predominantly found?"
+      },
+      "o": [
+        {
+          "hi": "मरुस्थलीय क्षेत्रों में",
+          "en": "In Deserts"
+        },
+        {
+          "hi": "उच्च पर्वतीय शिखरों पर",
+          "en": "On high peaks"
+        },
+        {
+          "hi": "शुष्क पठारों पर",
+          "en": "On dry plateaus"
+        },
+        {
+          "hi": "तटीय खारे दलदली एवं डेल्टाई क्षेत्रों में",
+          "en": "Coastal saline wetlands & deltas"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा मैंग्रोव वन क्षेत्र कौन-सा है?",
+        "en": "Which is the largest contiguous mangrove forest region in the world?"
+      },
+      "o": [
+        {
+          "hi": "सुंदरवन (भारत एवं बांग्लादेश / Sundarbans)",
+          "en": "Sundarbans (India & Bangladesh)"
+        },
+        {
+          "hi": "फ्लोरिडा एवरग्लेड्स",
+          "en": "Florida Everglades"
+        },
+        {
+          "hi": "अमेजन मुहाना",
+          "en": "Amazon Delta"
+        },
+        {
+          "hi": "नाइजर डेल्टा",
+          "en": "Niger Delta"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "टुंड्रा वनस्पति में मुख्य रूप से क्या शामिल होता है?",
+        "en": "What does Tundra vegetation primarily consist of?"
+      },
+      "o": [
+        {
+          "hi": "लंबे शंकुधारी वृक्ष",
+          "en": "Tall conifers"
+        },
+        {
+          "hi": "लाइकेन एवं काई (Lichens and Mosses)",
+          "en": "Lichens and Mosses"
+        },
+        {
+          "hi": "सदाबहार लताएं",
+          "en": "Evergreen climbers"
+        },
+        {
+          "hi": "घने चौड़े पत्ते वाले पेड़",
+          "en": "Dense broadleaf trees"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कैक्टस और नागफनी किस प्रकार के अनुकूलन का प्रदर्शन करते हैं?",
+        "en": "Cactus and prickly pear plants display which type of environmental adaptation?"
+      },
+      "o": [
+        {
+          "hi": "अत्यधिक जल अवशोषण",
+          "en": "Excessive water intake"
+        },
+        {
+          "hi": "चौड़ी पत्तियों का विकास",
+          "en": "Broad leaves"
+        },
+        {
+          "hi": "पत्तियों का कांटों में रूपांतरण (वाष्पोत्सर्जन रोकने)",
+          "en": "Leaves modified into thorns (reduce transpiration)"
+        },
+        {
+          "hi": "वायु से श्वसन",
+          "en": "Breathing from air"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अल्फाल्फा (Alfalfa) क्या है, जो दक्षिण अमेरिका के पंपास में बहुतायत से उगती है?",
+        "en": "What is Alfalfa, extensively grown in the Pampas of South America?"
+      },
+      "o": [
+        {
+          "hi": "एक जहरीली झाड़ी",
+          "en": "Poisonous shrub"
+        },
+        {
+          "hi": "एक कठोर लकड़ी का वृक्ष",
+          "en": "Hardwood tree"
+        },
+        {
+          "hi": "एक औषधीय फल",
+          "en": "Medicinal fruit"
+        },
+        {
+          "hi": "एक पोषक घास / चारा (Nutritious Fodder Grass)",
+          "en": "Nutritious Fodder Grass"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बाओबाब (Baobab) वृक्ष अपनी किस विशेषता के लिए प्रसिद्ध है?",
+        "en": "The Baobab tree (found in Madagascar/Africa) is famous for what characteristic?"
+      },
+      "o": [
+        {
+          "hi": "विशाल तने में भारी मात्रा में जल संचित करने के लिए",
+          "en": "Storing massive water in swollen trunk"
+        },
+        {
+          "hi": "विश्व की सबसे भारी लकड़ी के लिए",
+          "en": "Heaviest wood"
+        },
+        {
+          "hi": "अत्यंत सुगंधित पुष्पों के लिए",
+          "en": "Fragrant flowers"
+        },
+        {
+          "hi": "सदाबहार पत्तियों के लिए",
+          "en": "Evergreen leaves"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे ऊँचा जीवित वृक्ष कौन-सा है?",
+        "en": "Which is the tallest living tree in the world?"
+      },
+      "o": [
+        {
+          "hi": "नीलगिरी",
+          "en": "Eucalyptus"
+        },
+        {
+          "hi": "रेडवुड / सिकोया (Sequoia Sempervirens / Hyperion)",
+          "en": "Redwood / Sequoia (Hyperion)"
+        },
+        {
+          "hi": "बाओबाब",
+          "en": "Baobab"
+        },
+        {
+          "hi": "देवदार",
+          "en": "Deodar"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रेडवुड राष्ट्रीय उद्यान कहाँ स्थित है जहाँ सिकोया वृक्ष पाए जाते हैं?",
+        "en": "Where is Redwood National Park located, home to giant Sequoia trees?"
+      },
+      "o": [
+        {
+          "hi": "कनाडा",
+          "en": "Canada"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया",
+          "en": "Australia"
+        },
+        {
+          "hi": "कैलिफोर्निया (USA / California)",
+          "en": "California (USA)"
+        },
+        {
+          "hi": "ब्राजील",
+          "en": "Brazil"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे हल्की लकड़ी कौन-सी मानी जाती है (नाव निर्माण हेतु प्रयुक्त)?",
+        "en": "Which is considered the lightest commercial wood in the world (used for rafts)?"
+      },
+      "o": [
+        {
+          "hi": "सागौन",
+          "en": "Teak"
+        },
+        {
+          "hi": "महोगनी",
+          "en": "Mahogany"
+        },
+        {
+          "hi": "शीशम",
+          "en": "Rosewood"
+        },
+        {
+          "hi": "बाल्सा (Balsa Wood)",
+          "en": "Balsa Wood"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे भारी और कठोर लकड़ी कौन-सी मानी जाती है (लोहा लकड़ी)?",
+        "en": "Which wood is renowned as one of the heaviest and hardest (Ironwood)?"
+      },
+      "o": [
+        {
+          "hi": "लिग्नम विटे / गुआयाकम (Lignum Vitae)",
+          "en": "Lignum Vitae"
+        },
+        {
+          "hi": "बाल्सा",
+          "en": "Balsa"
+        },
+        {
+          "hi": "बांस",
+          "en": "Bamboo"
+        },
+        {
+          "hi": "पाइन",
+          "en": "Pine"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बांस (Bamboo) को वैज्ञानिक रूप से किस श्रेणी में रखा जाता है?",
+        "en": "Under which botanical category is Bamboo scientifically classified?"
+      },
+      "o": [
+        {
+          "hi": "झाड़ी (Shrub)",
+          "en": "Shrub"
+        },
+        {
+          "hi": "घास (Fastest growing Grass)",
+          "en": "Grass"
+        },
+        {
+          "hi": "वृक्ष (Tree)",
+          "en": "Tree"
+        },
+        {
+          "hi": "लता (Climber)",
+          "en": "Climber"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कपूर (Camphor) किस वृक्ष की लकड़ी और पत्तियों के आसवन से प्राप्त होता है?",
+        "en": "Camphor is commercially obtained from the distillation of which tree?"
+      },
+      "o": [
+        {
+          "hi": "चीड़",
+          "en": "Pine"
+        },
+        {
+          "hi": "देवदार",
+          "en": "Cedar"
+        },
+        {
+          "hi": "सिनामोमम कैम्फोरा (Cinnamomum camphora)",
+          "en": "Cinnamomum camphora"
+        },
+        {
+          "hi": "नीलगिरी",
+          "en": "Eucalyptus"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "टैगा वनों में पाई जाने वाली अम्लीय एवं अनुपजाऊ मिट्टी को क्या कहते हैं?",
+        "en": "What is the acidic, ashy-gray infertile soil of Taiga forests called?"
+      },
+      "o": [
+        {
+          "hi": "चेरनोजम",
+          "en": "Chernozem"
+        },
+        {
+          "hi": "लेटराइट",
+          "en": "Laterite"
+        },
+        {
+          "hi": "जलोढ़",
+          "en": "Alluvial"
+        },
+        {
+          "hi": "पोडजोल (Podzol)",
+          "en": "Podzol"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शीतोष्ण घास के मैदानों में पाई जाने वाली अत्यंत उपजाऊ काली मिट्टी क्या कहलाती है?",
+        "en": "Extremely fertile dark soil found in temperate grasslands (Steppes/Prairies)?"
+      },
+      "o": [
+        {
+          "hi": "चेरनोजम (Chernozem)",
+          "en": "Chernozem"
+        },
+        {
+          "hi": "पोडजोल",
+          "en": "Podzol"
+        },
+        {
+          "hi": "रेगुर",
+          "en": "Regur"
+        },
+        {
+          "hi": "सिरोजम",
+          "en": "Sierozem"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पर्णपाती या पतझड़ वन (Deciduous Forests) अपनी पत्तियां कब गिराते हैं?",
+        "en": "When do temperate deciduous forests shed their leaves?"
+      },
+      "o": [
+        {
+          "hi": "ग्रीष्म ऋतु के प्रारंभ में",
+          "en": "Beginning of summer"
+        },
+        {
+          "hi": "शरद ऋतु में / शीत ऋतु से पूर्व (Autumn)",
+          "en": "Autumn / Before winter"
+        },
+        {
+          "hi": "वर्षा ऋतु में",
+          "en": "Monsoon"
+        },
+        {
+          "hi": "वर्ष भर कभी नहीं",
+          "en": "Never"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "महोगनी, एबोनी और रोजवुड की लकड़ी किस प्रकार की होती है?",
+        "en": "What type of wood do Mahogany, Ebony, and Rosewood yield?"
+      },
+      "o": [
+        {
+          "hi": "नरम लकड़ी (Softwood)",
+          "en": "Softwood"
+        },
+        {
+          "hi": "पल्प लकड़ी",
+          "en": "Pulpwood"
+        },
+        {
+          "hi": "कठोर लकड़ी (Hardwood)",
+          "en": "Hardwood"
+        },
+        {
+          "hi": "छिद्रदार लकड़ी",
+          "en": "Porous wood"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "घास के मैदान पृथ्वी के कुल भू-भाग के लगभग कितने प्रतिशत भाग पर फैले हैं?",
+        "en": "Grasslands cover approximately what percentage of the Earth's land area?"
+      },
+      "o": [
+        {
+          "hi": "5%",
+          "en": "5%"
+        },
+        {
+          "hi": "10%",
+          "en": "10%"
+        },
+        {
+          "hi": "50%",
+          "en": "50%"
+        },
+        {
+          "hi": "लगभग 20% से 25%",
+          "en": "Approx 20% to 25%"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चपराल (Chaparral) झाड़ियाँ किस जलवायु क्षेत्र में पाई जाती हैं?",
+        "en": "Chaparral scrub vegetation is characteristic of which climate biome?"
+      },
+      "o": [
+        {
+          "hi": "भूमध्यसागरीय जलवायु (कैलिफोर्निया/भूमध्य सागर)",
+          "en": "Mediterranean Climate (California)"
+        },
+        {
+          "hi": "टुंड्रा जलवायु",
+          "en": "Tundra"
+        },
+        {
+          "hi": "विषुवतीय जलवायु",
+          "en": "Equatorial"
+        },
+        {
+          "hi": "मानसूनी जलवायु",
+          "en": "Monsoon"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पाइनस (चीड़) के वृक्ष से कौन-सा उपयोगी तेल और रेजिन निकाला जाता है?",
+        "en": "Which useful oil and resin are extracted from Pine trees?"
+      },
+      "o": [
+        {
+          "hi": "सरसों का तेल",
+          "en": "Mustard oil"
+        },
+        {
+          "hi": "तारपीन का तेल (Turpentine Oil)",
+          "en": "Turpentine Oil"
+        },
+        {
+          "hi": "लौंग का तेल",
+          "en": "Clove oil"
+        },
+        {
+          "hi": "जैतून का तेल",
+          "en": "Olive oil"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सागौन (Teak) और साल (Sal) किस प्रकार के वनों के सबसे महत्वपूर्ण उत्पाद हैं?",
+        "en": "Teak and Sal are the most economically important trees of which forests?"
+      },
+      "o": [
+        {
+          "hi": "टैगा वन",
+          "en": "Taiga"
+        },
+        {
+          "hi": "सदाबहार वन",
+          "en": "Evergreen"
+        },
+        {
+          "hi": "उष्णकटिबंधीय आर्द्र पर्णपाती वन (Monsoon Deciduous)",
+          "en": "Tropical Moist Deciduous"
+        },
+        {
+          "hi": "टुंड्रा वन",
+          "en": "Tundra"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "युकलिप्टस (सफेदा) को 'पर्यावरण का शत्रु' क्यों माना जाता है?",
+        "en": "Why is Eucalyptus often termed an 'Ecological Hazard' in dry areas?"
+      },
+      "o": [
+        {
+          "hi": "यह जहरीली गैस छोड़ता है",
+          "en": "Emits toxic gas"
+        },
+        {
+          "hi": "इस पर कीट नहीं बैठते",
+          "en": "Repels insects"
+        },
+        {
+          "hi": "इसकी लकड़ी जलती नहीं",
+          "en": "Wood won't burn"
+        },
+        {
+          "hi": "यह अत्यधिक मात्रा में भूजल सोख लेता है",
+          "en": "Absorbs excessive groundwater"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सवाना घास के मैदानों को 'शिकारियों की भूमि' (Big Game Country) क्यों कहते हैं?",
+        "en": "Why are Savanna grasslands called 'Big Game Country'?"
+      },
+      "o": [
+        {
+          "hi": "वहाँ बड़े पैमाने पर जंगली शिकारियों एवं शाकाहारियों की विविधता है",
+          "en": "Rich diversity of large herbivore & carnivore fauna"
+        },
+        {
+          "hi": "वहाँ कोई वृक्ष नहीं होता",
+          "en": "No trees grow"
+        },
+        {
+          "hi": "शिकार पूरी तरह प्रतिबंधित है",
+          "en": "Hunting is banned"
+        },
+        {
+          "hi": "वहाँ केवल शेर पाए जाते हैं",
+          "en": "Only lions live there"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में सर्वाधिक वन आच्छादित क्षेत्रफल किस देश में है?",
+        "en": "Which country has the largest forest cover area in the world?"
+      },
+      "o": [
+        {
+          "hi": "ब्राजील",
+          "en": "Brazil"
+        },
+        {
+          "hi": "रूस (Russian Federation)",
+          "en": "Russian Federation"
+        },
+        {
+          "hi": "कनाडा",
+          "en": "Canada"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका",
+          "en": "USA"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

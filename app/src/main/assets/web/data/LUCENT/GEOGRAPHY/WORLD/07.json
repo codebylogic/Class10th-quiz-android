@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विश्व का भूगोल (World Geography)",
+  "subtitle": "महासागरीय जलधाराएँ",
+  "description": "महासागरीय जलधाराएँ पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "महासागरीय जलधाराओं की उत्पत्ति का मुख्य कारण कौन-सा है?",
+        "en": "What is the primary cause of the origin of ocean currents?"
+      },
+      "o": [
+        {
+          "hi": "पृथ्वी का घूर्णन, हवाएं और घनत्व में अंतर",
+          "en": "Earth rotation, winds & density difference"
+        },
+        {
+          "hi": "केवल चंद्रमा का गुरुत्वाकर्षण",
+          "en": "Only Moon's gravity"
+        },
+        {
+          "hi": "समुद्री जीवों की गति",
+          "en": "Movement of marine life"
+        },
+        {
+          "hi": "नदियों का जल प्रवाह",
+          "en": "River water discharge"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उत्तरी गोलार्द्ध में जलधाराएँ अपनी दाहिनी ओर तथा दक्षिणी गोलार्द्ध में बाईं ओर किस प्रभाव से मुड़ती हैं?",
+        "en": "In North Hemisphere currents deflect right & South Hemisphere left due to?"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्वाकर्षण बल",
+          "en": "Gravitational force"
+        },
+        {
+          "hi": "कोरिऑलिस बल (फेरेल का नियम)",
+          "en": "Coriolis Force (Ferrel's Law)"
+        },
+        {
+          "hi": "चुंबकीय बल",
+          "en": "Magnetic force"
+        },
+        {
+          "hi": "घर्षण बल",
+          "en": "Frictional force"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गल्फ स्ट्रीम (Gulf Stream) किस महासागर की प्रमुख गर्म जलधारा है?",
+        "en": "Gulf Stream is a major warm ocean current of which ocean?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर (Atlantic Ocean)",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किस गर्म जलधारा को 'यूरोप का गर्म कंबल' (Warm Blanket of Europe) कहा जाता है?",
+        "en": "Which warm ocean current is known as the 'Warm Blanket of Europe'?"
+      },
+      "o": [
+        {
+          "hi": "ब्राजील धारा",
+          "en": "Brazil Current"
+        },
+        {
+          "hi": "कु Kuroshio धारा",
+          "en": "Kuroshio Current"
+        },
+        {
+          "hi": "फ्लोरिडा धारा",
+          "en": "Florida Current"
+        },
+        {
+          "hi": "गल्फ स्ट्रीम (Gulf Stream)",
+          "en": "Gulf Stream"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लैब्राडोर की धारा (Labrador Current) किस प्रकार की जलधारा है?",
+        "en": "What type of ocean current is the Labrador Current?"
+      },
+      "o": [
+        {
+          "hi": "ठंडी जलधारा (Cold Current)",
+          "en": "Cold Current"
+        },
+        {
+          "hi": "अत्यधिक गर्म धारा",
+          "en": "Very Warm Current"
+        },
+        {
+          "hi": "परिवर्तनशील धारा",
+          "en": "Variable Current"
+        },
+        {
+          "hi": "अंतःसागरीय धारा",
+          "en": "Subsurface Current"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लैब्राडोर की ठंडी धारा और गल्फ स्ट्रीम की गर्म धारा कहाँ मिलती हैं?",
+        "en": "Where do the cold Labrador current and warm Gulf Stream meet?"
+      },
+      "o": [
+        {
+          "hi": "फ्लोरिडा के तट पर",
+          "en": "Coast of Florida"
+        },
+        {
+          "hi": "न्यूफाउंडलैंड के निकट (Grand Bank)",
+          "en": "Near Newfoundland (Grand Bank)"
+        },
+        {
+          "hi": "जिब्राल्टर के पास",
+          "en": "Near Gibraltar"
+        },
+        {
+          "hi": "बरमूडा के निकट",
+          "en": "Near Bermuda"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्यूरोशियो (Kuroshio / जापानी धारा) किस महासागर की गर्म जलधारा है?",
+        "en": "Kuroshio (Japan Current) is a warm current of which ocean?"
+      },
+      "o": [
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "प्रशांत महासागर (Pacific Ocean)",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ओयाशियो (Oyashio / क्यूराइल धारा) किस प्रकार की जलधारा है?",
+        "en": "What type of ocean current is the Oyashio (Kurile) current?"
+      },
+      "o": [
+        {
+          "hi": "गर्म जलधारा",
+          "en": "Warm Current"
+        },
+        {
+          "hi": "लवणीय धारा",
+          "en": "Saline Current"
+        },
+        {
+          "hi": "मौसमी धारा",
+          "en": "Seasonal Current"
+        },
+        {
+          "hi": "ठंडी जलधारा (Cold Current)",
+          "en": "Cold Current"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पेरू की धारा (हम्बोल्ट धारा / Humboldt Current) किस महासागर में बहती है?",
+        "en": "Peru Current (Humboldt Current) flows in which ocean?"
+      },
+      "o": [
+        {
+          "hi": "दक्षिण प्रशांत महासागर (South Pacific)",
+          "en": "South Pacific Ocean"
+        },
+        {
+          "hi": "उत्तर अटलांटिक महासागर",
+          "en": "North Atlantic"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "दक्षिण अटलांटिक",
+          "en": "South Atlantic"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पेरू की ठंडी धारा (Humboldt Current) के स्थान पर प्रकट होने वाली गर्म धारा कौन-सी है?",
+        "en": "Which warm current replaces the cold Peru (Humboldt) Current periodically?"
+      },
+      "o": [
+        {
+          "hi": "ला नीना (La Nina)",
+          "en": "La Nina"
+        },
+        {
+          "hi": "अल नीनो (El Nino)",
+          "en": "El Nino"
+        },
+        {
+          "hi": "फाकलैंड धारा",
+          "en": "Falkland Current"
+        },
+        {
+          "hi": "बेंगुएला धारा",
+          "en": "Benguela Current"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अल नीनो (El Nino) का भारतीय मानसून पर प्रायः क्या प्रभाव पड़ता है?",
+        "en": "What effect does El Nino typically have on the Indian monsoon?"
+      },
+      "o": [
+        {
+          "hi": "अत्यधिक मूसलाधार वर्षा",
+          "en": "Excessive torrential rain"
+        },
+        {
+          "hi": "शीत ऋतु में वृद्धि",
+          "en": "Increase in winter"
+        },
+        {
+          "hi": "मानसून कमजोर होना / सूखा पड़ना (Weakens Monsoon)",
+          "en": "Weakens monsoon / drought"
+        },
+        {
+          "hi": "कोई प्रभाव नहीं",
+          "en": "No effect"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ला नीना (La Nina) का भारतीय मानसून पर सामान्यतः क्या प्रभाव होता है?",
+        "en": "What is the usual effect of La Nina on the Indian monsoon?"
+      },
+      "o": [
+        {
+          "hi": "सूखा पड़ना",
+          "en": "Causes drought"
+        },
+        {
+          "hi": "मानसून देर से आना",
+          "en": "Delayed monsoon"
+        },
+        {
+          "hi": "चक्रवातों में कमी",
+          "en": "Fewer cyclones"
+        },
+        {
+          "hi": "प्रचुर और अच्छी मानसूनी वर्षा",
+          "en": "Abundant and good monsoon rainfall"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बेंगुएला धारा (Benguela Current) किस महाद्वीप के पश्चिमी तट पर बहती है?",
+        "en": "Benguela Current flows along the west coast of which continent?"
+      },
+      "o": [
+        {
+          "hi": "दक्षिण अफ्रीका (दक्षिणी अटलांटिक)",
+          "en": "South Africa (South Atlantic)"
+        },
+        {
+          "hi": "दक्षिण अमेरिका",
+          "en": "South America"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया",
+          "en": "Australia"
+        },
+        {
+          "hi": "यूरोप",
+          "en": "Europe"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कनारी धारा (Canary Current) किस प्रकार की जलधारा है?",
+        "en": "What type of current is the Canary Current?"
+      },
+      "o": [
+        {
+          "hi": "गर्म धारा",
+          "en": "Warm Current"
+        },
+        {
+          "hi": "ठंडी जलधारा (Cold Current)",
+          "en": "Cold Current"
+        },
+        {
+          "hi": "स्थानीय धारा",
+          "en": "Local Current"
+        },
+        {
+          "hi": "गंभीर धारा",
+          "en": "Deep Current"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ब्राजील की धारा (Brazil Current) किस महासागर की गर्म जलधारा है?",
+        "en": "Brazil Current is a warm current of which ocean?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "दक्षिण अटलांटिक महासागर (South Atlantic)",
+          "en": "South Atlantic Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "फाकलैंड की धारा (Falkland Current) किस प्रकार की जलधारा है?",
+        "en": "What type of current is the Falkland Current?"
+      },
+      "o": [
+        {
+          "hi": "अति गर्म धारा",
+          "en": "Very warm current"
+        },
+        {
+          "hi": "मध्यम गर्म धारा",
+          "en": "Moderate warm"
+        },
+        {
+          "hi": "उष्णकटिबंधीय धारा",
+          "en": "Tropical current"
+        },
+        {
+          "hi": "ठंडी जलधारा (Cold Current)",
+          "en": "Cold Current"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पश्चिमी ऑस्ट्रेलियाई धारा (West Australian Current) किस प्रकार की धारा है?",
+        "en": "What type of current is the West Australian Current?"
+      },
+      "o": [
+        {
+          "hi": "ठंडी जलधारा (Cold Current)",
+          "en": "Cold Current"
+        },
+        {
+          "hi": "गर्म जलधारा",
+          "en": "Warm Current"
+        },
+        {
+          "hi": "परिवर्तनीय धारा",
+          "en": "Variable Current"
+        },
+        {
+          "hi": "भूमध्यरेखीय धारा",
+          "en": "Equatorial Current"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पूर्वी ऑस्ट्रेलियाई धारा (East Australian Current) किस प्रकार की जलधारा है?",
+        "en": "What type of current is the East Australian Current?"
+      },
+      "o": [
+        {
+          "hi": "ठंडी धारा",
+          "en": "Cold Current"
+        },
+        {
+          "hi": "गर्म जलधारा (Warm Current)",
+          "en": "Warm Current"
+        },
+        {
+          "hi": "स्थिर धारा",
+          "en": "Stationary Current"
+        },
+        {
+          "hi": "ध्रुवीय धारा",
+          "en": "Polar Current"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मोजाम्बिक धारा (Mozambique Current) किस महासागर की गर्म जलधारा है?",
+        "en": "Mozambique Current is a warm current of which ocean?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "हिंद महासागर (Indian Ocean)",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अगुलहास धारा (Agulhas Current) किस महासागर में बहती है?",
+        "en": "Agulhas Current flows in which ocean?"
+      },
+      "o": [
+        {
+          "hi": "उत्तर अटलांटिक महासागर",
+          "en": "North Atlantic"
+        },
+        {
+          "hi": "दक्षिण प्रशांत महासागर",
+          "en": "South Pacific"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        },
+        {
+          "hi": "हिंद महासागर (Indian Ocean - गर्म धारा)",
+          "en": "Indian Ocean (Warm)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कैलिफोर्निया की धारा (California Current) किस प्रकार की धारा है?",
+        "en": "What type of current is the California Current?"
+      },
+      "o": [
+        {
+          "hi": "ठंडी जलधारा (Cold Current)",
+          "en": "Cold Current"
+        },
+        {
+          "hi": "गर्म जलधारा",
+          "en": "Warm Current"
+        },
+        {
+          "hi": "आंतरिक धारा",
+          "en": "Inland Current"
+        },
+        {
+          "hi": "मौसमी धारा",
+          "en": "Seasonal Current"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अलास्का की धारा (Alaska Current) किस प्रकार की जलधारा है?",
+        "en": "What type of current is the Alaska Current?"
+      },
+      "o": [
+        {
+          "hi": "ठंडी धारा",
+          "en": "Cold Current"
+        },
+        {
+          "hi": "गर्म जलधारा (Warm Current)",
+          "en": "Warm Current"
+        },
+        {
+          "hi": "स्थानीय धारा",
+          "en": "Local Current"
+        },
+        {
+          "hi": "खारी धारा",
+          "en": "Saline Current"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ओखोटस्क धारा या क्यूराइल धारा किस महासागर में बहती है?",
+        "en": "Okhotsk Current (Kurile Current) flows in which ocean?"
+      },
+      "o": [
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "उत्तर प्रशांत महासागर (North Pacific)",
+          "en": "North Pacific Ocean"
+        },
+        {
+          "hi": "दक्षिण अटलांटिक महासागर",
+          "en": "South Atlantic"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सुशीमा धारा (Tsushima Current) किस देश के समीप बहने वाली गर्म जलधारा है?",
+        "en": "Tsushima Current is a warm current flowing near which country?"
+      },
+      "o": [
+        {
+          "hi": "ऑस्ट्रेलिया",
+          "en": "Australia"
+        },
+        {
+          "hi": "ब्रिटेन",
+          "en": "Britain"
+        },
+        {
+          "hi": "चिली",
+          "en": "Chile"
+        },
+        {
+          "hi": "जापान (Japan)",
+          "en": "Japan"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इरमिंजर धारा (Irminger Current) किस महासागर की गर्म धारा है?",
+        "en": "Irminger Current is a warm current of which ocean?"
+      },
+      "o": [
+        {
+          "hi": "अटलांटिक महासागर (Atlantic Ocean)",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "प्रशांत महासागर",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नॉर्वे की धारा (Norwegian Current) किस प्रकार की जलधारा है?",
+        "en": "What type of current is the Norwegian Current?"
+      },
+      "o": [
+        {
+          "hi": "ठंडी जलधारा",
+          "en": "Cold Current"
+        },
+        {
+          "hi": "गर्म जलधारा (Warm Current)",
+          "en": "Warm Current"
+        },
+        {
+          "hi": "स्थिर धारा",
+          "en": "Stationary Current"
+        },
+        {
+          "hi": "ध्रुवीय धारा",
+          "en": "Polar Current"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किन दो धाराओं के मिलने से न्यूफाउंडलैंड के पास घना कोहरा (Dense Fog) छा जाता है?",
+        "en": "Meeting of which two currents causes dense fog near Newfoundland?"
+      },
+      "o": [
+        {
+          "hi": "क्यूरोशियो और ओयाशियो",
+          "en": "Kuroshio & Oyashio"
+        },
+        {
+          "hi": "ब्राजील और फाकलैंड",
+          "en": "Brazil & Falkland"
+        },
+        {
+          "hi": "गल्फ स्ट्रीम और लैब्राडोर धारा",
+          "en": "Gulf Stream & Labrador Current"
+        },
+        {
+          "hi": "कनारी और बेंगुएला",
+          "en": "Canary & Benguela"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जापान के समीप किन दो विपरीत धाराओं के मिलने से मत्स्य क्षेत्र बनता है?",
+        "en": "Which two opposing currents meet near Japan to create rich fishing grounds?"
+      },
+      "o": [
+        {
+          "hi": "गल्फ स्ट्रीम और लैब्राडोर",
+          "en": "Gulf Stream & Labrador"
+        },
+        {
+          "hi": "ब्राजील और फाकलैंड",
+          "en": "Brazil & Falkland"
+        },
+        {
+          "hi": "कनारी और गिनी",
+          "en": "Canary & Guinea"
+        },
+        {
+          "hi": "क्यूरोशियो (गर्म) और ओयाशियो (ठंडी)",
+          "en": "Kuroshio (Warm) & Oyashio (Cold)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हिंद महासागर की जलधाराओं की दिशा में वर्ष में दो बार परिवर्तन का क्या कारण है?",
+        "en": "Why do Indian Ocean currents reverse their direction twice a year?"
+      },
+      "o": [
+        {
+          "hi": "मानसूनी पवनों का मौसमी परिवर्तन",
+          "en": "Seasonal reversal of Monsoon winds"
+        },
+        {
+          "hi": "महासागरीय लवणता में उतार-चढ़ाव",
+          "en": "Salinity fluctuation"
+        },
+        {
+          "hi": "चंद्रमा का गुरुत्वाकर्षण",
+          "en": "Moon's gravity"
+        },
+        {
+          "hi": "ज्वालामुखी उद्गार",
+          "en": "Volcanic activity"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सोमाली धारा (Somali Current) किस महासागर में बहती है?",
+        "en": "Somali Current flows in which ocean?"
+      },
+      "o": [
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "हिंद महासागर (Indian Ocean)",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "प्रशांत महासागर",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विषुवत रेखीय विपरीत धारा (Counter Equatorial Current) किस दिशा में बहती है?",
+        "en": "In which direction does the Counter Equatorial Current flow?"
+      },
+      "o": [
+        {
+          "hi": "उत्तर से दक्षिण",
+          "en": "North to South"
+        },
+        {
+          "hi": "पूर्व से पश्चिम",
+          "en": "East to West"
+        },
+        {
+          "hi": "पश्चिम से पूर्व की ओर (West to East)",
+          "en": "West to East"
+        },
+        {
+          "hi": "दक्षिण से उत्तर",
+          "en": "South to North"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सारगासो सागर की उत्पत्ति किन धाराओं के वृत्ताकार प्रवाह (Gyre) के बीच होती है?",
+        "en": "Sargasso Sea is enclosed within the circular gyre of which currents?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागरीय धाराएं",
+          "en": "Pacific Currents"
+        },
+        {
+          "hi": "हिंद महासागरीय धाराएं",
+          "en": "Indian Ocean Currents"
+        },
+        {
+          "hi": "दक्षिणी अटलांटिक धाराएं",
+          "en": "South Atlantic Currents"
+        },
+        {
+          "hi": "उत्तरी अटलांटिक की गल्फ स्ट्रीम, कनारी व उत्तरी विषुवतीय धाराएं",
+          "en": "Gulf Stream, Canaries & North Equatorial Currents"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रेनेल धारा (Rennell Current) किस तट के पास बहने वाली गर्म जलधारा है?",
+        "en": "Rennell Current is a warm current flowing near which coast?"
+      },
+      "o": [
+        {
+          "hi": "बिस्के की खाड़ी (फ्रांस/स्पेन तट)",
+          "en": "Bay of Biscay (France/Spain)"
+        },
+        {
+          "hi": "ब्राजील तट",
+          "en": "Brazil Coast"
+        },
+        {
+          "hi": "जापान तट",
+          "en": "Japan Coast"
+        },
+        {
+          "hi": "दक्षिण अफ्रीका तट",
+          "en": "South Africa Coast"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गिनी की धारा (Guinea Current) किस प्रकार की धारा है?",
+        "en": "What type of current is the Guinea Current?"
+      },
+      "o": [
+        {
+          "hi": "ठंडी जलधारा",
+          "en": "Cold Current"
+        },
+        {
+          "hi": "गर्म जलधारा (Warm Current)",
+          "en": "Warm Current"
+        },
+        {
+          "hi": "ध्रुवीय धारा",
+          "en": "Polar Current"
+        },
+        {
+          "hi": "मौसमी ठंडी धारा",
+          "en": "Seasonal Cold Current"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फ्लोरिडा की धारा (Florida Current) किस महासागर में बहती है?",
+        "en": "Florida Current flows in which ocean?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर (Atlantic Ocean)",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पूर्वी ग्रीनलैंड धारा (East Greenland Current) किस प्रकार की धारा है?",
+        "en": "What type of current is the East Greenland Current?"
+      },
+      "o": [
+        {
+          "hi": "उष्ण धारा",
+          "en": "Warm Current"
+        },
+        {
+          "hi": "गर्म जलधारा",
+          "en": "Warm Current"
+        },
+        {
+          "hi": "उपोष्ण धारा",
+          "en": "Subtropical Current"
+        },
+        {
+          "hi": "ठंडी जलधारा (Cold Current)",
+          "en": "Cold Current"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अंटार्कटिक प्रवाह (West Wind Drift) किस दिशा में निरंतर बहता है?",
+        "en": "In which direction does the Antarctic Circumpolar Current / West Wind Drift flow?"
+      },
+      "o": [
+        {
+          "hi": "पश्चिम से पूर्व की ओर (West to East)",
+          "en": "West to East"
+        },
+        {
+          "hi": "पूर्व से पश्चिम",
+          "en": "East to West"
+        },
+        {
+          "hi": "उत्तर से दक्षिण",
+          "en": "North to South"
+        },
+        {
+          "hi": "ध्रुव से विषुवत की ओर",
+          "en": "Poles to Equator"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "महासागरीय धाराओं की गति (Velocity) सामान्यतः किसमें मापी जाती है?",
+        "en": "Speed/velocity of ocean currents is commonly measured in?"
+      },
+      "o": [
+        {
+          "hi": "किमी प्रति घंटा में केवल",
+          "en": "Only km/h"
+        },
+        {
+          "hi": "नॉट्स (Knots) / समुद्री मील प्रति घंटा",
+          "en": "Knots (Nautical miles per hr)"
+        },
+        {
+          "hi": "मीटर प्रति मिनट",
+          "en": "Meters per minute"
+        },
+        {
+          "hi": "हर्ट्ज",
+          "en": "Hertz"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ठंडी जलधाराओं के प्रभाव से तटीय मरुस्थल बनने का प्रमुख उदाहरण कौन-सा है?",
+        "en": "Coastal deserts formed primarily under the influence of cold currents include?"
+      },
+      "o": [
+        {
+          "hi": "थार मरुस्थल",
+          "en": "Thar Desert"
+        },
+        {
+          "hi": "गोबी मरुस्थल",
+          "en": "Gobi Desert"
+        },
+        {
+          "hi": "अटाकामा और नामीब मरुस्थल (Atacama & Namib)",
+          "en": "Atacama & Namib Deserts"
+        },
+        {
+          "hi": "सहारा का आंतरिक भाग",
+          "en": "Central Sahara"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अटाकामा मरुस्थल की शुष्कता का मुख्य कारण कौन-सी ठंडी धारा है?",
+        "en": "Which cold ocean current is primarily responsible for aridity of Atacama Desert?"
+      },
+      "o": [
+        {
+          "hi": "ब्राजील धारा",
+          "en": "Brazil Current"
+        },
+        {
+          "hi": "फाकलैंड धारा",
+          "en": "Falkland Current"
+        },
+        {
+          "hi": "कैलिफोर्निया धारा",
+          "en": "California Current"
+        },
+        {
+          "hi": "हम्बोल्ट / पेरू की ठंडी धारा (Humboldt Current)",
+          "en": "Humboldt / Peru Cold Current"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नामीब मरुस्थल (अफ्रीका) की शुष्कता किस ठंडी धारा के कारण है?",
+        "en": "Aridity of the Namib Desert is caused by which cold current?"
+      },
+      "o": [
+        {
+          "hi": "बेंगुएला धारा (Benguela Current)",
+          "en": "Benguela Current"
+        },
+        {
+          "hi": "कनारी धारा",
+          "en": "Canary Current"
+        },
+        {
+          "hi": "अगुलहास धारा",
+          "en": "Agulhas Current"
+        },
+        {
+          "hi": "सोमाली धारा",
+          "en": "Somali Current"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कैलिफोर्निया मरुस्थल के निर्माण में कौन-सी ठंडी जलधारा सहायक है?",
+        "en": "Which cold ocean current aids in the formation of the California/Sonoran desert?"
+      },
+      "o": [
+        {
+          "hi": "गल्फ स्ट्रीम",
+          "en": "Gulf Stream"
+        },
+        {
+          "hi": "कैलिफोर्निया की ठंडी धारा",
+          "en": "California Cold Current"
+        },
+        {
+          "hi": "अलास्का धारा",
+          "en": "Alaska Current"
+        },
+        {
+          "hi": "क्यूरोशियो",
+          "en": "Kuroshio"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "महासागरीय जलधाराओं द्वारा ऊष्मा का संतुलन कैसे स्थापित होता है?",
+        "en": "How do ocean currents help maintain global thermal balance?"
+      },
+      "o": [
+        {
+          "hi": "ध्रुवों से ऊष्मा विषुवत की ओर लाकर",
+          "en": "Poles to Equator"
+        },
+        {
+          "hi": "केवल गहराई में जल दबाकर",
+          "en": "Pressing deep water"
+        },
+        {
+          "hi": "विषुवत रेखा से अतिरिक्त ऊष्मा ध्रुवों की ओर ले जाकर",
+          "en": "Transferring excess heat from Equator to Poles"
+        },
+        {
+          "hi": "समुद्र तल बढ़ाकर",
+          "en": "Raising sea floor"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महासागरीय जल का 'अपवेलिंग' (Upwelling) क्या कहलाता है?",
+        "en": "What is 'Upwelling' of ocean water?"
+      },
+      "o": [
+        {
+          "hi": "गर्म जल का नीचे बैठना",
+          "en": "Sinking of warm water"
+        },
+        {
+          "hi": "जल का वाष्पीकरण",
+          "en": "Evaporation"
+        },
+        {
+          "hi": "लवणता का घटना",
+          "en": "Reduction in salinity"
+        },
+        {
+          "hi": "गहरे, ठंडे व पोषक तत्वों से भरपूर जल का सतह पर आना",
+          "en": "Rise of deep, cold & nutrient-rich water to surface"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अपवेलिंग (Upwelling) क्षेत्रों में समुद्री जीवन पर क्या प्रभाव पड़ता है?",
+        "en": "What effect does upwelling have on marine life in that area?"
+      },
+      "o": [
+        {
+          "hi": "पादप प्लवक और मछलियों की भारी वृद्धि",
+          "en": "Vast increase in phytoplankton & fish"
+        },
+        {
+          "hi": "सभी जीवों की मृत्यु",
+          "en": "Death of all organisms"
+        },
+        {
+          "hi": "प्रवाल भित्तियों का विनाश",
+          "en": "Destruction of reefs"
+        },
+        {
+          "hi": "जल का विषाक्त होना",
+          "en": "Water poisoning"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "डॉग्स बैंक (Dogger Bank) प्रसिद्ध उत्तरी सागर का मत्स्य क्षेत्र कहाँ है?",
+        "en": "Where is the famous Dogger Bank fishing area located?"
+      },
+      "o": [
+        {
+          "hi": "भूमध्य सागर में",
+          "en": "Mediterranean Sea"
+        },
+        {
+          "hi": "उत्तरी सागर (North Sea - यूरोप)",
+          "en": "North Sea (Europe)"
+        },
+        {
+          "hi": "बाल्टिक सागर",
+          "en": "Baltic Sea"
+        },
+        {
+          "hi": "काला सागर",
+          "en": "Black Sea"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कमचटका धारा (Kamchatka Current) किस प्रकार की धारा है?",
+        "en": "What type of current is the Kamchatka Current?"
+      },
+      "o": [
+        {
+          "hi": "गर्म धारा",
+          "en": "Warm Current"
+        },
+        {
+          "hi": "उष्ण धारा",
+          "en": "Tropical Current"
+        },
+        {
+          "hi": "ठंडी जलधारा (Cold Current)",
+          "en": "Cold Current"
+        },
+        {
+          "hi": "उपोष्ण धारा",
+          "en": "Subtropical Current"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एंटिलीज़ धारा (Antilles Current) किस महासागर की गर्म जलधारा है?",
+        "en": "Antilles Current is a warm current of which ocean?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर (Atlantic Ocean)",
+          "en": "Atlantic Ocean"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ड्रिफ्ट (Drift / प्रवाह) और करंट (Current / धारा) में क्या अंतर है?",
+        "en": "What is the primary difference between a Drift and a Current?"
+      },
+      "o": [
+        {
+          "hi": "ड्रिफ्ट की गति मंद व सीमा अनिश्चित होती है",
+          "en": "Drift is slower with indefinite boundaries"
+        },
+        {
+          "hi": "ड्रिफ्ट केवल मीठे जल में होता है",
+          "en": "Drift only in fresh water"
+        },
+        {
+          "hi": "करंट हवा के साथ बदलता है",
+          "en": "Current changes with wind"
+        },
+        {
+          "hi": "दोनों में कोई अंतर नहीं है",
+          "en": "No difference at all"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समुद्र में सबसे तीव्र गति से बहने वाले जल प्रवाह को क्या कहते हैं?",
+        "en": "What is the fastest and largest mass ocean flow called?"
+      },
+      "o": [
+        {
+          "hi": "ड्रिफ्ट (Drift)",
+          "en": "Drift"
+        },
+        {
+          "hi": "स्ट्रीम (Stream - जैसे गल्फ स्ट्रीम)",
+          "en": "Stream (e.g. Gulf Stream)"
+        },
+        {
+          "hi": "तरंग (Wave)",
+          "en": "Wave"
+        },
+        {
+          "hi": "ज्वारीय बोर",
+          "en": "Tidal Bore"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

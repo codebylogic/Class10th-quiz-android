@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विश्व का भूगोल (World Geography)",
+  "subtitle": "सौर मंडल",
+  "description": "सौर मंडल पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "सौर मंडल की खोज किस खगोलशास्त्री ने की थी?",
+        "en": "Which astronomer discovered the Solar System?"
+      },
+      "o": [
+        {
+          "hi": "निकोलस कॉपरनिकस",
+          "en": "Nicolaus Copernicus"
+        },
+        {
+          "hi": "जोहान्स केप्लर",
+          "en": "Johannes Kepler"
+        },
+        {
+          "hi": "गैलिलियो गैलीली",
+          "en": "Galileo Galilei"
+        },
+        {
+          "hi": "क्लॉडियस टॉलेमी",
+          "en": "Claudius Ptolemy"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ग्रहों की गति के नियम (Laws of Planetary Motion) किसने प्रतिपादित किए?",
+        "en": "Who propounded the Laws of Planetary Motion?"
+      },
+      "o": [
+        {
+          "hi": "न्यूटन",
+          "en": "Newton"
+        },
+        {
+          "hi": "जोहान्स केप्लर",
+          "en": "Johannes Kepler"
+        },
+        {
+          "hi": "कॉपरनिकस",
+          "en": "Copernicus"
+        },
+        {
+          "hi": "गैलिलियो",
+          "en": "Galileo"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सौर मंडल में कुल कितने प्रमाणित ग्रह (Planets) हैं?",
+        "en": "How many officially recognized planets are there in the Solar System?"
+      },
+      "o": [
+        {
+          "hi": "7",
+          "en": "7"
+        },
+        {
+          "hi": "9",
+          "en": "9"
+        },
+        {
+          "hi": "8",
+          "en": "8"
+        },
+        {
+          "hi": "10",
+          "en": "10"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्लूटो (यम) को किस वर्ष ग्रहों की श्रेणी से हटाकर बौने ग्रह का दर्जा दिया गया?",
+        "en": "In which year was Pluto demoted from planet to dwarf planet?"
+      },
+      "o": [
+        {
+          "hi": "2002",
+          "en": "2002"
+        },
+        {
+          "hi": "2004",
+          "en": "2004"
+        },
+        {
+          "hi": "2008",
+          "en": "2008"
+        },
+        {
+          "hi": "2006 (प्राग सम्मेलन)",
+          "en": "2006 (Prague Conference)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सूर्य से दूरी के क्रम में ग्रहों का सही बढ़ता क्रम कौन-सा है?",
+        "en": "What is the correct increasing order of planets by distance from Sun?"
+      },
+      "o": [
+        {
+          "hi": "बुध, शुक्र, पृथ्वी, मंगल, बृहस्पति, शनि, अरुण, वरुण",
+          "en": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune"
+        },
+        {
+          "hi": "बुध, मंगल, शुक्र, पृथ्वी, शनि, बृहस्पति, अरुण, वरुण",
+          "en": "Mercury, Mars, Venus, Earth..."
+        },
+        {
+          "hi": "शुक्र, बुध, पृथ्वी, मंगल, बृहस्पति, शनि, वरुण, अरुण",
+          "en": "Venus, Mercury, Earth..."
+        },
+        {
+          "hi": "बुध, शुक्र, मंगल, पृथ्वी, बृहस्पति, शनि, अरुण, वरुण",
+          "en": "Mercury, Venus, Mars..."
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आकार के अनुसार सौर मंडल का सबसे बड़ा ग्रह कौन-सा है?",
+        "en": "Which is the largest planet in the Solar System by size?"
+      },
+      "o": [
+        {
+          "hi": "शनि",
+          "en": "Saturn"
+        },
+        {
+          "hi": "बृहस्पति (Jupiter)",
+          "en": "Jupiter"
+        },
+        {
+          "hi": "अरुण (Uranus)",
+          "en": "Uranus"
+        },
+        {
+          "hi": "पृथ्वी (Earth)",
+          "en": "Earth"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आकार के अनुसार सौर मंडल का सबसे छोटा ग्रह कौन-सा है?",
+        "en": "Which is the smallest planet in the Solar System by size?"
+      },
+      "o": [
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        },
+        {
+          "hi": "बुध (Mercury)",
+          "en": "Mercury"
+        },
+        {
+          "hi": "वरुण",
+          "en": "Neptune"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आंतरिक या पार्थिव ग्रह (Terrestrial Planets) किन्हें कहा जाता है?",
+        "en": "Which planets are called Inner or Terrestrial Planets?"
+      },
+      "o": [
+        {
+          "hi": "बृहस्पति, शनि, अरुण, वरुण",
+          "en": "Jupiter, Saturn, Uranus, Neptune"
+        },
+        {
+          "hi": "मंगल, बृहस्पति, शनि, अरुण",
+          "en": "Mars, Jupiter, Saturn, Uranus"
+        },
+        {
+          "hi": "बुध, शुक्र, शनि, वरुण",
+          "en": "Mercury, Venus, Saturn, Neptune"
+        },
+        {
+          "hi": "बुध, शुक्र, पृथ्वी एवं मंगल",
+          "en": "Mercury, Venus, Earth & Mars"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बाह्य ग्रह या जोवियन ग्रह (Jovian Planets) किन्हें कहा जाता है?",
+        "en": "Which planets are called Outer or Jovian Planets?"
+      },
+      "o": [
+        {
+          "hi": "बृहस्पति, शनि, अरुण एवं वरुण",
+          "en": "Jupiter, Saturn, Uranus & Neptune"
+        },
+        {
+          "hi": "बुध, शुक्र, पृथ्वी, मंगल",
+          "en": "Mercury, Venus, Earth, Mars"
+        },
+        {
+          "hi": "पृथ्वी, मंगल, बृहस्पति, शनि",
+          "en": "Earth, Mars, Jupiter, Saturn"
+        },
+        {
+          "hi": "शुक्र, पृथ्वी, मंगल, बृहस्पति",
+          "en": "Venus, Earth, Mars, Jupiter"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सूर्य के सबसे निकट स्थित ग्रह कौन-सा है?",
+        "en": "Which planet is closest to the Sun?"
+      },
+      "o": [
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        },
+        {
+          "hi": "बुध (Mercury)",
+          "en": "Mercury"
+        },
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "पृथ्वी",
+          "en": "Earth"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सौर मंडल का सर्वाधिक तीव्र गति से सूर्य की परिक्रमा करने वाला ग्रह?",
+        "en": "Planet with fastest orbital revolution around the Sun?"
+      },
+      "o": [
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        },
+        {
+          "hi": "बुध (88 दिन)",
+          "en": "Mercury (88 days)"
+        },
+        {
+          "hi": "बृहस्पति",
+          "en": "Jupiter"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किस ग्रह पर दिन अत्यधिक गर्म और रातें बर्फीली होती हैं (सर्वाधिक तापांतर)?",
+        "en": "Which planet experiences highest temperature variation (hot days & freezing nights)?"
+      },
+      "o": [
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        },
+        {
+          "hi": "शनि",
+          "en": "Saturn"
+        },
+        {
+          "hi": "बुध (Mercury)",
+          "en": "Mercury"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सौर मंडल का सबसे गर्म ग्रह (Hottest Planet) कौन-सा है?",
+        "en": "Which is the hottest planet in the Solar System?"
+      },
+      "o": [
+        {
+          "hi": "शुक्र (Venus)",
+          "en": "Venus"
+        },
+        {
+          "hi": "बुध",
+          "en": "Mercury"
+        },
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "बृहस्पति",
+          "en": "Jupiter"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शुक्र ग्रह का तापमान सर्वाधिक होने का मुख्य कारण क्या है?",
+        "en": "Main reason for Venus having the highest surface temperature?"
+      },
+      "o": [
+        {
+          "hi": "सूर्य से निकटता",
+          "en": "Proximity to Sun"
+        },
+        {
+          "hi": "वायुमंडल में 95-97% CO2 (ग्रीनहाउस प्रभाव)",
+          "en": "95-97% CO2 in atmosphere"
+        },
+        {
+          "hi": "ज्वालामुखी क्रिया",
+          "en": "Volcanic activity"
+        },
+        {
+          "hi": "तेज घूर्णन गति",
+          "en": "Fast rotation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'भोर का तारा' (Morning Star) और 'सांझ का तारा' (Evening Star) किसे कहते हैं?",
+        "en": "Which planet is called 'Morning Star' and 'Evening Star'?"
+      },
+      "o": [
+        {
+          "hi": "बुध",
+          "en": "Mercury"
+        },
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "शुक्र (Venus)",
+          "en": "Venus"
+        },
+        {
+          "hi": "बृहस्पति",
+          "en": "Jupiter"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'पृथ्वी की जुड़वां बहन' (Earth's Twin) किस ग्रह को कहा जाता है?",
+        "en": "Which planet is known as 'Earth's Twin' due to similar size and mass?"
+      },
+      "o": [
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "बुध",
+          "en": "Mercury"
+        },
+        {
+          "hi": "बृहस्पति",
+          "en": "Jupiter"
+        },
+        {
+          "hi": "शुक्र (Venus)",
+          "en": "Venus"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वे दो ग्रह कौन-से हैं जिनका कोई भी प्राकृतिक उपग्रह (Moon) नहीं है?",
+        "en": "Which two planets have no natural satellites (moons)?"
+      },
+      "o": [
+        {
+          "hi": "बुध एवं शुक्र",
+          "en": "Mercury and Venus"
+        },
+        {
+          "hi": "शुक्र एवं मंगल",
+          "en": "Venus and Mars"
+        },
+        {
+          "hi": "बुध एवं मंगल",
+          "en": "Mercury and Mars"
+        },
+        {
+          "hi": "मंगल एवं अरुण",
+          "en": "Mars and Uranus"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सौर मंडल के कौन-से दो ग्रह पूर्व से पश्चिम (Clockwise) घूर्णन करते हैं?",
+        "en": "Which two planets rotate clockwise (East to West)?"
+      },
+      "o": [
+        {
+          "hi": "पृथ्वी एवं मंगल",
+          "en": "Earth and Mars"
+        },
+        {
+          "hi": "शुक्र एवं अरुण (Venus & Uranus)",
+          "en": "Venus and Uranus"
+        },
+        {
+          "hi": "बुध एवं शनि",
+          "en": "Mercury and Saturn"
+        },
+        {
+          "hi": "बृहस्पति एवं वरुण",
+          "en": "Jupiter and Neptune"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'लाल ग्रह' (Red Planet) किस ग्रह को कहा जाता है?",
+        "en": "Which planet is called the 'Red Planet'?"
+      },
+      "o": [
+        {
+          "hi": "बुध",
+          "en": "Mercury"
+        },
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        },
+        {
+          "hi": "मंगल (Mars)",
+          "en": "Mars"
+        },
+        {
+          "hi": "बृहस्पति",
+          "en": "Jupiter"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मंगल ग्रह का लाल रंग किसकी उपस्थिति के कारण होता है?",
+        "en": "The red color of Mars is due to the presence of what?"
+      },
+      "o": [
+        {
+          "hi": "कॉपर ऑक्साइड",
+          "en": "Copper oxide"
+        },
+        {
+          "hi": "सल्फर डाइऑक्साइड",
+          "en": "Sulfur dioxide"
+        },
+        {
+          "hi": "नाइट्रस ऑक्साइड",
+          "en": "Nitrous oxide"
+        },
+        {
+          "hi": "आयरन ऑक्साइड (Iron Oxide)",
+          "en": "Iron Oxide"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मंगल ग्रह के दो प्रमुख उपग्रह कौन-से हैं?",
+        "en": "Which are the two main satellites/moons of Mars?"
+      },
+      "o": [
+        {
+          "hi": "फोबोस और डीमॉस (Phobos & Deimos)",
+          "en": "Phobos & Deimos"
+        },
+        {
+          "hi": "टाइटन और रिया",
+          "en": "Titan and Rhea"
+        },
+        {
+          "hi": "गैनिमीड और कैलिस्टो",
+          "en": "Ganymede & Callisto"
+        },
+        {
+          "hi": "ट्राइटन और नेरिड",
+          "en": "Triton & Nereid"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सौर मंडल का सबसे छोटा उपग्रह कौन-सा है?",
+        "en": "Which is the smallest satellite in the Solar System?"
+      },
+      "o": [
+        {
+          "hi": "फोबोस",
+          "en": "Phobos"
+        },
+        {
+          "hi": "डीमॉस (Deimos)",
+          "en": "Deimos"
+        },
+        {
+          "hi": "मून",
+          "en": "Moon"
+        },
+        {
+          "hi": "मिरांडा",
+          "en": "Miranda"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सौर मंडल का सबसे बड़ा ज्वालामुखी 'ओलिपस मेस' किस ग्रह पर स्थित है?",
+        "en": "The largest volcano in solar system 'Olympus Mons' is on which planet?"
+      },
+      "o": [
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        },
+        {
+          "hi": "पृथ्वी",
+          "en": "Earth"
+        },
+        {
+          "hi": "मंगल (Mars)",
+          "en": "Mars"
+        },
+        {
+          "hi": "बृहस्पति",
+          "en": "Jupiter"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सौर मंडल का सबसे ऊँचा पर्वत 'निक्स ओलंपिया' (माउंट एवरेस्ट से 3 गुना) कहाँ है?",
+        "en": "The highest mountain 'Nix Olympica' is located on which planet?"
+      },
+      "o": [
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        },
+        {
+          "hi": "चंद्रमा",
+          "en": "Moon"
+        },
+        {
+          "hi": "बुध",
+          "en": "Mercury"
+        },
+        {
+          "hi": "मंगल (Mars)",
+          "en": "Mars"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सौर मंडल का सबसे भारी और सबसे बड़ा ग्रह कौन-सा है?",
+        "en": "Which is the heaviest and largest planet in the Solar System?"
+      },
+      "o": [
+        {
+          "hi": "बृहस्पति (Jupiter)",
+          "en": "Jupiter"
+        },
+        {
+          "hi": "शनि",
+          "en": "Saturn"
+        },
+        {
+          "hi": "वरुण",
+          "en": "Neptune"
+        },
+        {
+          "hi": "पृथ्वी",
+          "en": "Earth"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सौर मंडल का सबसे बड़ा उपग्रह कौन-सा है?",
+        "en": "Which is the largest satellite/moon in the Solar System?"
+      },
+      "o": [
+        {
+          "hi": "टाइटन",
+          "en": "Titan"
+        },
+        {
+          "hi": "गैनिमीड (Ganymede - बृहस्पति का उपग्रह)",
+          "en": "Ganymede"
+        },
+        {
+          "hi": "कैलिस्टो",
+          "en": "Callisto"
+        },
+        {
+          "hi": "ट्राइटन",
+          "en": "Triton"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किस ग्रह को 'लघु सौर-तंत्र' (Miniature Solar System) भी कहा जाता है?",
+        "en": "Which planet is called a 'Miniature Solar System' due to its huge satellite family?"
+      },
+      "o": [
+        {
+          "hi": "शनि",
+          "en": "Saturn"
+        },
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "बृहस्पति (Jupiter)",
+          "en": "Jupiter"
+        },
+        {
+          "hi": "वरुण",
+          "en": "Neptune"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तारे के समान प्रकाश उत्सर्जित करने की रेडियो ऊर्जा क्षमता किस ग्रह में है?",
+        "en": "Which planet possesses radio energy emission similar to a star?"
+      },
+      "o": [
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        },
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "शनि",
+          "en": "Saturn"
+        },
+        {
+          "hi": "बृहस्पति (Jupiter)",
+          "en": "Jupiter"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सौर मंडल का दूसरा सबसे बड़ा ग्रह कौन-सा है, जिसके चारों ओर वलय (Rings) हैं?",
+        "en": "Second largest planet in Solar System having prominent rings around it?"
+      },
+      "o": [
+        {
+          "hi": "शनि (Saturn)",
+          "en": "Saturn"
+        },
+        {
+          "hi": "बृहस्पति",
+          "en": "Jupiter"
+        },
+        {
+          "hi": "अरुण",
+          "en": "Uranus"
+        },
+        {
+          "hi": "वरुण",
+          "en": "Neptune"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शनि ग्रह के वलयों (Rings) की खोज सर्वप्रथम किसने की थी?",
+        "en": "Who first discovered the rings of Saturn?"
+      },
+      "o": [
+        {
+          "hi": "कॉपरनिकस",
+          "en": "Copernicus"
+        },
+        {
+          "hi": "गैलिलियो (Galileo)",
+          "en": "Galileo"
+        },
+        {
+          "hi": "केप्लर",
+          "en": "Kepler"
+        },
+        {
+          "hi": "हर्शल",
+          "en": "Herschel"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "शनि का सबसे बड़ा उपग्रह कौन-सा है?",
+        "en": "Which is the largest satellite of Saturn?"
+      },
+      "o": [
+        {
+          "hi": "रिया",
+          "en": "Rhea"
+        },
+        {
+          "hi": "फोबे",
+          "en": "Phoebe"
+        },
+        {
+          "hi": "टाइटन (Titan)",
+          "en": "Titan"
+        },
+        {
+          "hi": "गैनिमीड",
+          "en": "Ganymede"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "टाइटन उपग्रह का आकार लगभग किस ग्रह के बराबर है?",
+        "en": "Titan satellite is almost equal in size to which planet?"
+      },
+      "o": [
+        {
+          "hi": "पृथ्वी",
+          "en": "Earth"
+        },
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        },
+        {
+          "hi": "बुध (Mercury)",
+          "en": "Mercury"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शनि का कौन-सा उपग्रह उसकी कक्षा की विपरीत दिशा में परिक्रमा करता है?",
+        "en": "Which moon of Saturn orbits in the reverse direction of its rotation?"
+      },
+      "o": [
+        {
+          "hi": "फोबे (Phoebe)",
+          "en": "Phoebe"
+        },
+        {
+          "hi": "टाइटन",
+          "en": "Titan"
+        },
+        {
+          "hi": "मिमास",
+          "en": "Mimas"
+        },
+        {
+          "hi": "टेथिस",
+          "en": "Tethys"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सौर मंडल के किस ग्रह का औसत घनत्व जल से भी कम (0.69 g/cm³) है?",
+        "en": "Which planet has an average density less than water (would float on water)?"
+      },
+      "o": [
+        {
+          "hi": "बृहस्पति",
+          "en": "Jupiter"
+        },
+        {
+          "hi": "शनि (Saturn)",
+          "en": "Saturn"
+        },
+        {
+          "hi": "अरुण",
+          "en": "Uranus"
+        },
+        {
+          "hi": "वरुण",
+          "en": "Neptune"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अरुण (Uranus) ग्रह की खोज 1781 में किसने की थी?",
+        "en": "Who discovered the planet Uranus in 1781?"
+      },
+      "o": [
+        {
+          "hi": "गैलिलियो",
+          "en": "Galileo"
+        },
+        {
+          "hi": "जोहान गाले",
+          "en": "Johann Galle"
+        },
+        {
+          "hi": "विलियम हर्शल (William Herschel)",
+          "en": "William Herschel"
+        },
+        {
+          "hi": "केप्लर",
+          "en": "Kepler"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'लेटा हुआ ग्रह' (Lying Planet) किस ग्रह को कहा जाता है?",
+        "en": "Which planet is called the 'Lying/Tilted Planet' due to high axial tilt?"
+      },
+      "o": [
+        {
+          "hi": "शुक्र",
+          "en": "Venus"
+        },
+        {
+          "hi": "शनि",
+          "en": "Saturn"
+        },
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "अरुण (Uranus)",
+          "en": "Uranus"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वरुण (Neptune) ग्रह की खोज 1846 में किसने की थी?",
+        "en": "Who discovered the planet Neptune in 1846?"
+      },
+      "o": [
+        {
+          "hi": "जोहान गाले (Johann Galle)",
+          "en": "Johann Galle"
+        },
+        {
+          "hi": "विलियम हर्शल",
+          "en": "William Herschel"
+        },
+        {
+          "hi": "कॉपरनिकस",
+          "en": "Copernicus"
+        },
+        {
+          "hi": "हबल",
+          "en": "Hubble"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'हरा ग्रह' (Green Planet) किसे कहा जाता है (मीथेन गैस की उपस्थिति के कारण)?",
+        "en": "Which planet is called the 'Green Planet' due to abundance of methane?"
+      },
+      "o": [
+        {
+          "hi": "शनि",
+          "en": "Saturn"
+        },
+        {
+          "hi": "वरुण (Neptune)",
+          "en": "Neptune"
+        },
+        {
+          "hi": "मंगल",
+          "en": "Mars"
+        },
+        {
+          "hi": "बृहस्पति",
+          "en": "Jupiter"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सूर्य से सर्वाधिक दूरी पर स्थित ग्रह कौन-सा है?",
+        "en": "Which planet is situated farthest from the Sun?"
+      },
+      "o": [
+        {
+          "hi": "अरुण",
+          "en": "Uranus"
+        },
+        {
+          "hi": "शनि",
+          "en": "Saturn"
+        },
+        {
+          "hi": "वरुण (Neptune)",
+          "en": "Neptune"
+        },
+        {
+          "hi": "बृहस्पति",
+          "en": "Jupiter"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "क्षुद्रग्रह (Asteroids) किन दो ग्रहों की कक्षाओं के बीच पाए जाते हैं?",
+        "en": "Between which two planets' orbits is the Asteroid Belt located?"
+      },
+      "o": [
+        {
+          "hi": "बुध और शुक्र",
+          "en": "Mercury and Venus"
+        },
+        {
+          "hi": "शुक्र और पृथ्वी",
+          "en": "Venus and Earth"
+        },
+        {
+          "hi": "बृहस्पति और शनि",
+          "en": "Jupiter and Saturn"
+        },
+        {
+          "hi": "मंगल और बृहस्पति (Mars & Jupiter)",
+          "en": "Mars & Jupiter"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वह एकमात्र क्षुद्रग्रह कौन-सा है जिसे नंगी आँखों से देखा जा सकता है?",
+        "en": "Which is the only asteroid that can be seen with the naked eye?"
+      },
+      "o": [
+        {
+          "hi": "फोर वेस्टा (4 Vesta)",
+          "en": "4 Vesta"
+        },
+        {
+          "hi": "सेरेस (Ceres)",
+          "en": "Ceres"
+        },
+        {
+          "hi": "इरोस (Eros)",
+          "en": "Eros"
+        },
+        {
+          "hi": "पलास (Pallas)",
+          "en": "Pallas"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पुच्छल तारे (धूमकेतु / Comets) की पूंछ हमेशा किस दिशा में होती है?",
+        "en": "In which direction does the tail of a comet always point?"
+      },
+      "o": [
+        {
+          "hi": "सूर्य की ओर",
+          "en": "Towards the Sun"
+        },
+        {
+          "hi": "सूर्य से विपरीत दिशा में (Away from Sun)",
+          "en": "Away from the Sun"
+        },
+        {
+          "hi": "पृथ्वी की ओर",
+          "en": "Towards Earth"
+        },
+        {
+          "hi": "उत्तर दिशा की ओर",
+          "en": "Towards North"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हैली नामक प्रसिद्ध धूमकेतु (Halley's Comet) का परिक्रमण काल कितना है?",
+        "en": "What is the orbital period of famous Halley's Comet?"
+      },
+      "o": [
+        {
+          "hi": "60 वर्ष",
+          "en": "60 Years"
+        },
+        {
+          "hi": "86 वर्ष",
+          "en": "86 Years"
+        },
+        {
+          "hi": "76 वर्ष (76 Years)",
+          "en": "76 Years"
+        },
+        {
+          "hi": "100 वर्ष",
+          "en": "100 Years"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हैली धूमकेतु पिछली बार 1986 में दिखा था, अब यह कब पुनः दिखाई देगा?",
+        "en": "Halley's comet last appeared in 1986, when will it reappear next?"
+      },
+      "o": [
+        {
+          "hi": "2040",
+          "en": "2040"
+        },
+        {
+          "hi": "2050",
+          "en": "2050"
+        },
+        {
+          "hi": "2072",
+          "en": "2072"
+        },
+        {
+          "hi": "2062 (लगभग 2061-62)",
+          "en": "2062 (~2061-62)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी का एकमात्र प्राकृतिक उपग्रह कौन-सा है?",
+        "en": "Which is the only natural satellite of the Earth?"
+      },
+      "o": [
+        {
+          "hi": "चंद्रमा (Moon)",
+          "en": "Moon"
+        },
+        {
+          "hi": "फोबोस",
+          "en": "Phobos"
+        },
+        {
+          "hi": "टाइटन",
+          "en": "Titan"
+        },
+        {
+          "hi": "गैनिमीड",
+          "en": "Ganymede"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चंद्रमा के अध्ययन के विज्ञान को क्या कहा जाता है?",
+        "en": "What is the study of the Moon called?"
+      },
+      "o": [
+        {
+          "hi": "कॉस्मोलॉजी",
+          "en": "Cosmology"
+        },
+        {
+          "hi": "सेलेनोलॉजी (Selenology)",
+          "en": "Selenology"
+        },
+        {
+          "hi": "ओरोलॉजी",
+          "en": "Orology"
+        },
+        {
+          "hi": "हाइड्रोलॉजी",
+          "en": "Hydrology"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'सी ऑफ ट्रैंक्विलिटी' (शांत सागर) कहाँ स्थित है?",
+        "en": "Where is the 'Sea of Tranquillity' located?"
+      },
+      "o": [
+        {
+          "hi": "मंगल ग्रह पर",
+          "en": "On Mars"
+        },
+        {
+          "hi": "शुक्र ग्रह पर",
+          "en": "On Venus"
+        },
+        {
+          "hi": "चंद्रमा पर (On the Moon)",
+          "en": "On the Moon"
+        },
+        {
+          "hi": "बृहस्पति पर",
+          "en": "On Jupiter"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चंद्रमा का प्रकाश पृथ्वी तक पहुँचने में कितना समय लगता है?",
+        "en": "How long does moonlight take to reach Earth?"
+      },
+      "o": [
+        {
+          "hi": "8 मिनट 16 सेकंड",
+          "en": "8 min 16 sec"
+        },
+        {
+          "hi": "2 मिनट 15 सेकंड",
+          "en": "2 min 15 sec"
+        },
+        {
+          "hi": "500 सेकंड",
+          "en": "500 sec"
+        },
+        {
+          "hi": "1.28 सेकंड (लगभग 1.3 सेकंड)",
+          "en": "1.28 sec (~1.3 sec)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चंद्रमा की सतह पर मनुष्य का भार पृथ्वी की तुलना में कितना रह जाता है?",
+        "en": "What is the weight of a person on the Moon compared to Earth?"
+      },
+      "o": [
+        {
+          "hi": "1/6 भाग (1/6th)",
+          "en": "1/6th"
+        },
+        {
+          "hi": "1/4 भाग",
+          "en": "1/4th"
+        },
+        {
+          "hi": "1/2 भाग",
+          "en": "1/2"
+        },
+        {
+          "hi": "बराबर",
+          "en": "Equal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जब चंद्रमा पृथ्वी के सबसे निकट होता है तो उस स्थिति को क्या कहते हैं?",
+        "en": "When the Moon is closest to Earth in its orbit, what is it called?"
+      },
+      "o": [
+        {
+          "hi": "अपोजी (Apogee)",
+          "en": "Apogee"
+        },
+        {
+          "hi": "पेरिजी (Perigee / उपभू)",
+          "en": "Perigee"
+        },
+        {
+          "hi": "इक्विनॉक्स",
+          "en": "Equinox"
+        },
+        {
+          "hi": "सोलस्टिस",
+          "en": "Solstice"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

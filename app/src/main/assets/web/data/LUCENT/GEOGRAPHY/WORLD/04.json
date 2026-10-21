@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विश्व का भूगोल (World Geography)",
+  "subtitle": "पृथ्वी की संरचना",
+  "description": "पृथ्वी की संरचना पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "पृथ्वी की आंतरिक संरचना को मुख्य रूप से किन तीन परतों में बांटा गया है?",
+        "en": "Earth's internal structure is divided into which three main concentric layers?"
+      },
+      "o": [
+        {
+          "hi": "क्रस्ट, मेंटल और क्रोड (Crust, Mantle & Core)",
+          "en": "Crust, Mantle & Core"
+        },
+        {
+          "hi": "सियाल, सीमा और मैग्मा",
+          "en": "Sial, Sima & Magma"
+        },
+        {
+          "hi": "स्थलमंडल, जलमंडल, वायुमंडल",
+          "en": "Litho, Hydro, Atmosphere"
+        },
+        {
+          "hi": "बेसाल्ट, ग्रेनाइट, नीस",
+          "en": "Basalt, Granite, Gneiss"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्वेस (Suess) के अनुसार पृथ्वी की ऊपरी परत 'सियाल' (SIAL) में किन तत्वों की प्रधानता है?",
+        "en": "According to Suess, which elements dominate the upper layer 'SIAL'?"
+      },
+      "o": [
+        {
+          "hi": "सिलिका और मैग्नीशियम",
+          "en": "Silica & Magnesium"
+        },
+        {
+          "hi": "सिलिका और एल्युमीनियम (Silica & Aluminium)",
+          "en": "Silica & Aluminium"
+        },
+        {
+          "hi": "सिलिका और लोहा",
+          "en": "Silica & Iron"
+        },
+        {
+          "hi": "निकल और लोहा",
+          "en": "Nickel & Iron"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी की मध्यवर्ती परत 'सीमा' (SIMA) में किन तत्वों की बहुलता होती है?",
+        "en": "Which elements are abundant in the intermediate layer 'SIMA'?"
+      },
+      "o": [
+        {
+          "hi": "सिलिका और एल्युमीनियम",
+          "en": "Silica & Aluminium"
+        },
+        {
+          "hi": "निकल और फेरस",
+          "en": "Nickel & Ferrous"
+        },
+        {
+          "hi": "सिलिका और मैग्नीशियम (Silica & Magnesium)",
+          "en": "Silica & Magnesium"
+        },
+        {
+          "hi": "मैग्नीशियम और लोहा",
+          "en": "Magnesium & Iron"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी के केंद्रीय भाग 'निफे' (NIFE / Core) की रचना किससे हुई है?",
+        "en": "What is the Earth's core (NIFE) composed of?"
+      },
+      "o": [
+        {
+          "hi": "सिलिका और निकल",
+          "en": "Silica & Nickel"
+        },
+        {
+          "hi": "एल्युमीनियम और लोहा",
+          "en": "Aluminium & Iron"
+        },
+        {
+          "hi": "सिलिका और मैग्नीशियम",
+          "en": "Silica & Magnesium"
+        },
+        {
+          "hi": "निकल और फेरस/लोहा (Nickel & Iron)",
+          "en": "Nickel & Iron"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भूपर्पटी (Crust) में सर्वाधिक मात्रा में पाया जाने वाला तत्व कौन-सा है?",
+        "en": "Which element is most abundant in the Earth's Crust by weight?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सीजन (लगभग 46.6%)",
+          "en": "Oxygen (~46.6%)"
+        },
+        {
+          "hi": "सिलिकॉन (लगभग 27.7%)",
+          "en": "Silicon (~27.7%)"
+        },
+        {
+          "hi": "एल्युमीनियम (लगभग 8.1%)",
+          "en": "Aluminium (~8.1%)"
+        },
+        {
+          "hi": "लोहा (लगभग 5%)",
+          "en": "Iron (~5%)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भूपर्पटी में सर्वाधिक पाया जाने वाला धातु तत्व कौन-सा है?",
+        "en": "Which metallic element is most abundant in the Earth's crust?"
+      },
+      "o": [
+        {
+          "hi": "लोहा (Iron)",
+          "en": "Iron"
+        },
+        {
+          "hi": "एल्युमीनियम (Aluminium)",
+          "en": "Aluminium"
+        },
+        {
+          "hi": "कैल्शियम (Calcium)",
+          "en": "Calcium"
+        },
+        {
+          "hi": "सोडियम (Sodium)",
+          "en": "Sodium"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्रस्ट और मेंटल के बीच की असंबद्धता (Discontinuity) क्या कहलाती है?",
+        "en": "What is the discontinuity between Crust and Mantle called?"
+      },
+      "o": [
+        {
+          "hi": "गुटेनबर्ग असंबद्धता",
+          "en": "Gutenberg"
+        },
+        {
+          "hi": "कोनराड असंबद्धता",
+          "en": "Conrad"
+        },
+        {
+          "hi": "मोहो असंबद्धता (Mohorovicic / Moho)",
+          "en": "Mohorovicic (Moho)"
+        },
+        {
+          "hi": "लेहमैन असंबद्धता",
+          "en": "Lehmann"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मेंटल और क्रोड (Core) के मध्य की सीमा रेखा को क्या कहा जाता है?",
+        "en": "Boundary between Mantle and Core is known as which discontinuity?"
+      },
+      "o": [
+        {
+          "hi": "मोहो असंबद्धता",
+          "en": "Moho Discontinuity"
+        },
+        {
+          "hi": "रेपेटी असंबद्धता",
+          "en": "Repetti"
+        },
+        {
+          "hi": "कोनराड असंबद्धता",
+          "en": "Conrad"
+        },
+        {
+          "hi": "गुटेनबर्ग असंबद्धता (Gutenberg)",
+          "en": "Gutenberg Discontinuity"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मेंटल का वह ऊपरी भाग जहाँ से मैग्मा उत्पन्न होता है, क्या कहलाता है?",
+        "en": "Upper mantle zone from which magma originates is called?"
+      },
+      "o": [
+        {
+          "hi": "एस्थेनोस्फीयर (Asthenosphere / दुर्बलता मंडल)",
+          "en": "Asthenosphere"
+        },
+        {
+          "hi": "लिथोस्फीयर",
+          "en": "Lithosphere"
+        },
+        {
+          "hi": "मेसोस्फीयर",
+          "en": "Mesosphere"
+        },
+        {
+          "hi": "बेरीस्फीयर",
+          "en": "Barysphere"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी के अंदर प्रति 32 मीटर की गहराई पर तापमान में कितनी वृद्धि होती है?",
+        "en": "For every 32 meters depth inside Earth, how much does temperature increase?"
+      },
+      "o": [
+        {
+          "hi": "2°C",
+          "en": "2°C"
+        },
+        {
+          "hi": "1°C (1 Degree Celsius)",
+          "en": "1°C"
+        },
+        {
+          "hi": "0.5°C",
+          "en": "0.5°C"
+        },
+        {
+          "hi": "5°C",
+          "en": "5°C"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्राथमिक चट्टानें (Primary Rocks) किन्हें कहा जाता है?",
+        "en": "Which rocks are termed as Primary Rocks?"
+      },
+      "o": [
+        {
+          "hi": "अवसादी चट्टानें",
+          "en": "Sedimentary Rocks"
+        },
+        {
+          "hi": "कायांतरित चट्टानें",
+          "en": "Metamorphic Rocks"
+        },
+        {
+          "hi": "आग्नेय चट्टानें (Igneous Rocks)",
+          "en": "Igneous Rocks"
+        },
+        {
+          "hi": "जीवाश्म चट्टानें",
+          "en": "Fossiliferous Rocks"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बेसाल्ट और ग्रेनाइट किस प्रकार की चट्टान के प्रमुख उदाहरण हैं?",
+        "en": "Basalt and Granite are primary examples of which type of rock?"
+      },
+      "o": [
+        {
+          "hi": "अवसादी चट्टान",
+          "en": "Sedimentary Rock"
+        },
+        {
+          "hi": "कायांतरित चट्टान",
+          "en": "Metamorphic Rock"
+        },
+        {
+          "hi": "परतदार चट्टान",
+          "en": "Stratified Rock"
+        },
+        {
+          "hi": "आग्नेय चट्टान (Igneous Rock)",
+          "en": "Igneous Rock"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किस प्रकार की चट्टानों में जीवाश्म (Fossils) पाए जाते हैं?",
+        "en": "In which type of rocks are fossils commonly found?"
+      },
+      "o": [
+        {
+          "hi": "अवसादी चट्टानें (Sedimentary Rocks)",
+          "en": "Sedimentary Rocks"
+        },
+        {
+          "hi": "आग्नेय चट्टानें",
+          "en": "Igneous Rocks"
+        },
+        {
+          "hi": "कायांतरित चट्टानें",
+          "en": "Metamorphic Rocks"
+        },
+        {
+          "hi": "ज्वालामुखी चट्टानें",
+          "en": "Volcanic Rocks"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कोयला और खनिज तेल (पेट्रोलियम) किन चट्टानों में पाए जाते हैं?",
+        "en": "Coal and petroleum mineral oil are found in which rocks?"
+      },
+      "o": [
+        {
+          "hi": "आग्नेय चट्टानों में",
+          "en": "In Igneous Rocks"
+        },
+        {
+          "hi": "अवसादी / परतदार चट्टानों में (Sedimentary)",
+          "en": "In Sedimentary Rocks"
+        },
+        {
+          "hi": "रूपांतरित चट्टानों में",
+          "en": "In Metamorphic Rocks"
+        },
+        {
+          "hi": "ग्रेनाइट चट्टानों में",
+          "en": "In Granite Rocks"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चूना पत्थर (Limestone) का कायांतरित रूप कौन-सा है?",
+        "en": "What is the metamorphic form of Limestone?"
+      },
+      "o": [
+        {
+          "hi": "क्वार्टजाइट",
+          "en": "Quartzite"
+        },
+        {
+          "hi": "स्लेट",
+          "en": "Slate"
+        },
+        {
+          "hi": "संगमरमर (Marble)",
+          "en": "Marble"
+        },
+        {
+          "hi": "नीस",
+          "en": "Gneiss"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बलुआ पत्थर (Sandstone) के रूपांतरण से कौन-सी चट्टान बनती है?",
+        "en": "Which rock is formed by metamorphism of Sandstone?"
+      },
+      "o": [
+        {
+          "hi": "संगमरमर",
+          "en": "Marble"
+        },
+        {
+          "hi": "सिस्ट",
+          "en": "Schist"
+        },
+        {
+          "hi": "ग्रेफाइट",
+          "en": "Graphite"
+        },
+        {
+          "hi": "क्वार्टजाइट (Quartzite)",
+          "en": "Quartzite"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ग्रेनाइट चट्टान के रूपांतरण से क्या बनता है?",
+        "en": "What is formed by the metamorphism of Granite rock?"
+      },
+      "o": [
+        {
+          "hi": "नीस (Gneiss)",
+          "en": "Gneiss"
+        },
+        {
+          "hi": "क्वार्टजाइट",
+          "en": "Quartzite"
+        },
+        {
+          "hi": "सर्पेंटाइन",
+          "en": "Serpentine"
+        },
+        {
+          "hi": "एम्फीबोलाइट",
+          "en": "Amphibolite"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ज्वालामुखी से निकलने वाले ठोस टुकड़ों और धूल कणों को क्या कहते हैं?",
+        "en": "Solid fragments and dust particles ejected from a volcano are called?"
+      },
+      "o": [
+        {
+          "hi": "लावा",
+          "en": "Lava"
+        },
+        {
+          "hi": "पाइरोक्लास्ट (Pyroclast) / टफ",
+          "en": "Pyroclast / Tuff"
+        },
+        {
+          "hi": "मैग्मा",
+          "en": "Magma"
+        },
+        {
+          "hi": "गीजर",
+          "en": "Geyser"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ज्वालामुखी के मुख (छिद्र) को क्या कहा जाता है?",
+        "en": "What is the mouth or opening of a volcano called?"
+      },
+      "o": [
+        {
+          "hi": "काल्डेरा",
+          "en": "Caldera"
+        },
+        {
+          "hi": "वेंट",
+          "en": "Vent"
+        },
+        {
+          "hi": "क्रेटर (Crater)",
+          "en": "Crater"
+        },
+        {
+          "hi": "गर्त",
+          "en": "Trench"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "क्रेटर का अत्यधिक विस्तृत रूप क्या कहलाता है?",
+        "en": "A very large, widened volcanic depression (crater) is called?"
+      },
+      "o": [
+        {
+          "hi": "गीजर",
+          "en": "Geyser"
+        },
+        {
+          "hi": "धुआँरे (Fumaroles)",
+          "en": "Fumaroles"
+        },
+        {
+          "hi": "सिंडर शंकु",
+          "en": "Cinder Cone"
+        },
+        {
+          "hi": "काल्डेरा (Caldera)",
+          "en": "Caldera"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे सक्रिय ज्वालामुखी कौन-सा माना जाता है?",
+        "en": "Which is considered the most active volcano in the world?"
+      },
+      "o": [
+        {
+          "hi": "किलाउ / किलाऊआ (Kilauea, हवाई द्वीप)",
+          "en": "Kilauea (Hawaii)"
+        },
+        {
+          "hi": "कोटोपैक्सी",
+          "en": "Cotopaxi"
+        },
+        {
+          "hi": "माउंट एटना",
+          "en": "Mount Etna"
+        },
+        {
+          "hi": "स्ट्रॉम्बोली",
+          "en": "Stromboli"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भूमध्य सागर का प्रकाश स्तंभ (Lighthouse of the Mediterranean) किसे कहते हैं?",
+        "en": "Which volcano is called the 'Lighthouse of the Mediterranean'?"
+      },
+      "o": [
+        {
+          "hi": "माउंट विसुवियस",
+          "en": "Mt Vesuvius"
+        },
+        {
+          "hi": "स्ट्रॉम्बोली (Stromboli)",
+          "en": "Stromboli"
+        },
+        {
+          "hi": "माउंट एटना",
+          "en": "Mt Etna"
+        },
+        {
+          "hi": "क्राकातोआ",
+          "en": "Krakatoa"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे ऊँचा सक्रिय ज्वालामुखी कौन-सा है?",
+        "en": "Which is the highest active volcano in the world?"
+      },
+      "o": [
+        {
+          "hi": "माउना लोआ",
+          "en": "Mauna Loa"
+        },
+        {
+          "hi": "माउंट फुजी",
+          "en": "Mt Fuji"
+        },
+        {
+          "hi": "ओजॉस डेल सालाडो (Ojos del Salado)",
+          "en": "Ojos del Salado"
+        },
+        {
+          "hi": "चिम्बोराजो",
+          "en": "Chimborazo"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे ऊँचा शांत ज्वालामुखी (Extinct Volcano) कौन-सा है?",
+        "en": "Which is the highest extinct volcano in the world?"
+      },
+      "o": [
+        {
+          "hi": "पोपा ज्वालामुखी",
+          "en": "Popa Volcano"
+        },
+        {
+          "hi": "किलिमंजारो",
+          "en": "Kilimanjaro"
+        },
+        {
+          "hi": "देमवंद",
+          "en": "Damavand"
+        },
+        {
+          "hi": "एकांकागुआ (Aconcagua)",
+          "en": "Aconcagua"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'अग्नि वलय' (Ring of Fire) किस महासागर के तटीय पेटी को कहा जाता है?",
+        "en": "Which oceanic coastal belt is known as the 'Ring of Fire'?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर (Pacific Ocean)",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भूकंप की उत्पत्ति जिस आंतरिक केंद्र से होती है, उसे क्या कहते हैं?",
+        "en": "The underground point of origin of an earthquake is called?"
+      },
+      "o": [
+        {
+          "hi": "अधिकेंद्र (Epicenter)",
+          "en": "Epicenter"
+        },
+        {
+          "hi": "भूकंप मूल / फोकस (Hypocenter / Focus)",
+          "en": "Focus / Hypocenter"
+        },
+        {
+          "hi": "क्रेटर",
+          "en": "Crater"
+        },
+        {
+          "hi": "दरार",
+          "en": "Fault"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी की सतह पर भूकंप तरंगों को सबसे पहले महसूस करने वाला बिंदु?",
+        "en": "Point on Earth's surface directly above focus where waves hit first?"
+      },
+      "o": [
+        {
+          "hi": "भूकंप मूल",
+          "en": "Focus"
+        },
+        {
+          "hi": "सेंटर",
+          "en": "Center"
+        },
+        {
+          "hi": "अधिकेंद्र (एपिसेंटर / Epicenter)",
+          "en": "Epicenter"
+        },
+        {
+          "hi": "नोडल प्वाइंट",
+          "en": "Nodal Point"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भूकंपीय तरंगों की तीव्रता किस यंत्र द्वारा मापी जाती है?",
+        "en": "The intensity and recording of seismic waves is done by which instrument?"
+      },
+      "o": [
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "हाइग्रोमीटर",
+          "en": "Hygrometer"
+        },
+        {
+          "hi": "अल्टीमीटर",
+          "en": "Altimeter"
+        },
+        {
+          "hi": "सिस्मोग्राफ (Seismograph)",
+          "en": "Seismograph"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भूकंप की तीव्रता मापने का गणितीय पैमाना (Magnitude Scale) कौन-सा है?",
+        "en": "Which mathematical scale measures the magnitude/energy of an earthquake?"
+      },
+      "o": [
+        {
+          "hi": "रिक्टर स्केल (Richter Scale)",
+          "en": "Richter Scale"
+        },
+        {
+          "hi": "मर्केली स्केल",
+          "en": "Mercalli Scale"
+        },
+        {
+          "hi": "केल्विन स्केल",
+          "en": "Kelvin Scale"
+        },
+        {
+          "hi": "डेसिबल स्केल",
+          "en": "Decibel Scale"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रिक्टर पैमाने पर प्रत्येक अगला अंक ऊर्जा में कितनी वृद्धि दर्शाता है?",
+        "en": "Each increase of 1 on Richter scale represents how much increase in energy?"
+      },
+      "o": [
+        {
+          "hi": "10 गुना",
+          "en": "10 times"
+        },
+        {
+          "hi": "लगभग 31.6 गुना (32 गुना)",
+          "en": "Approx 31.6 times"
+        },
+        {
+          "hi": "100 गुना",
+          "en": "100 times"
+        },
+        {
+          "hi": "2 गुना",
+          "en": "2 times"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भूकंपीय तरंगों में सर्वाधिक तीव्र गति वाली तरंगें कौन-सी हैं?",
+        "en": "Which seismic waves have the fastest speed and arrive first?"
+      },
+      "o": [
+        {
+          "hi": "S-तरंगें (द्वितीयक)",
+          "en": "S-waves"
+        },
+        {
+          "hi": "L-तरंगें (धरातलीय)",
+          "en": "L-waves"
+        },
+        {
+          "hi": "P-तरंगें (प्राथमिक तरंगें / Primary Waves)",
+          "en": "P-waves (Primary)"
+        },
+        {
+          "hi": "रेले तरंगें",
+          "en": "Rayleigh waves"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कौन-सी भूकंपीय तरंगें केवल ठोस माध्यम में ही गमन कर सकती हैं (तरल में लुप्त)?",
+        "en": "Which seismic waves can travel only through solids (disappear in liquids)?"
+      },
+      "o": [
+        {
+          "hi": "P-तरंगें",
+          "en": "P-waves"
+        },
+        {
+          "hi": "L-तरंगें",
+          "en": "L-waves"
+        },
+        {
+          "hi": "ध्वनि तरंगें",
+          "en": "Sound waves"
+        },
+        {
+          "hi": "S-तरंगें (द्वितीयक / गौण तरंगें)",
+          "en": "S-waves (Secondary)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "धरातल पर सर्वाधिक विनाशकारी भूकंपीय तरंगें कौन-सी होती हैं?",
+        "en": "Which seismic waves cause the maximum destruction on the Earth's surface?"
+      },
+      "o": [
+        {
+          "hi": "L-तरंगें (धरातलीय / Love Waves)",
+          "en": "L-waves (Surface)"
+        },
+        {
+          "hi": "P-तरंगें",
+          "en": "P-waves"
+        },
+        {
+          "hi": "S-तरंगें",
+          "en": "S-waves"
+        },
+        {
+          "hi": "परावर्तित तरंगें",
+          "en": "Reflected waves"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समुद्र के भीतर भूकंप आने से उठने वाली विशाल तरंगों को क्या कहते हैं?",
+        "en": "Giant ocean waves triggered by undersea earthquakes are called?"
+      },
+      "o": [
+        {
+          "hi": "ज्वार-भाटा",
+          "en": "Tides"
+        },
+        {
+          "hi": "सुनामी (Tsunami - जापानी शब्द)",
+          "en": "Tsunami"
+        },
+        {
+          "hi": "जलधाराएं",
+          "en": "Ocean Currents"
+        },
+        {
+          "hi": "भंवर",
+          "en": "Whirlpool"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वलित पर्वत (Fold Mountains) का विश्वप्रसिद्ध उदाहरण कौन-सा है?",
+        "en": "Which is a world-famous example of Fold Mountains?"
+      },
+      "o": [
+        {
+          "hi": "सिएरा नेवादा",
+          "en": "Sierra Nevada"
+        },
+        {
+          "hi": "ब्लैक फॉरेस्ट",
+          "en": "Black Forest"
+        },
+        {
+          "hi": "हिमालय, आल्प्स, रॉकी एवं एंडीज",
+          "en": "Himalayas, Alps, Rockies & Andes"
+        },
+        {
+          "hi": "विंध्याचल",
+          "en": "Vindhyachal"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे प्राचीन वलित पर्वत श्रृंखला कौन-सी मानी जाती है?",
+        "en": "Which is considered the oldest fold mountain range in the world?"
+      },
+      "o": [
+        {
+          "hi": "यूराल पर्वत",
+          "en": "Ural Mountains"
+        },
+        {
+          "hi": "अपलेशियन",
+          "en": "Appalachian"
+        },
+        {
+          "hi": "सतपुड़ा",
+          "en": "Satpura"
+        },
+        {
+          "hi": "अरावली पर्वत (भारत)",
+          "en": "Aravalli Range (India)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ब्लैक फॉरेस्ट (जर्मनी) और वॉसजेस (फ्रांस) किस प्रकार के पर्वत हैं?",
+        "en": "Black Forest (Germany) and Vosges (France) are examples of which mountain type?"
+      },
+      "o": [
+        {
+          "hi": "भ्रंशोत्थ पर्वत (Block Mountains)",
+          "en": "Block Mountains"
+        },
+        {
+          "hi": "वलित पर्वत",
+          "en": "Fold Mountains"
+        },
+        {
+          "hi": "ज्वालामुखी पर्वत",
+          "en": "Volcanic Mountains"
+        },
+        {
+          "hi": "अवशिष्ट पर्वत",
+          "en": "Residual Mountains"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संसार की छत (Roof of the World) किस पठार को कहा जाता है?",
+        "en": "Which plateau is known as the 'Roof of the World'?"
+      },
+      "o": [
+        {
+          "hi": "तिब्बत का पठार",
+          "en": "Tibetan Plateau"
+        },
+        {
+          "hi": "पामीर का पठार (Pamir Plateau)",
+          "en": "Pamir Plateau"
+        },
+        {
+          "hi": "दक्कन का पठार",
+          "en": "Deccan Plateau"
+        },
+        {
+          "hi": "कोलंबिया का पठार",
+          "en": "Columbia Plateau"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्षेत्रफल की दृष्टि से विश्व का सबसे विस्तृत पठार कौन-सा है?",
+        "en": "Which is the largest plateau in the world by surface area?"
+      },
+      "o": [
+        {
+          "hi": "पामीर का पठार",
+          "en": "Pamir Plateau"
+        },
+        {
+          "hi": "अनादोलू का पठार",
+          "en": "Anatolian Plateau"
+        },
+        {
+          "hi": "तिब्बत का पठार (Tibetan Plateau)",
+          "en": "Tibetan Plateau"
+        },
+        {
+          "hi": "कोलोराडो का पठार",
+          "en": "Colorado Plateau"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लोएस का मैदान (Loess Plain) मुख्य रूप से किसके द्वारा निर्मित होता है?",
+        "en": "Loess plains are primarily formed by the depositional work of what?"
+      },
+      "o": [
+        {
+          "hi": "नदियों द्वारा",
+          "en": "By Rivers"
+        },
+        {
+          "hi": "हिमनद द्वारा",
+          "en": "By Glaciers"
+        },
+        {
+          "hi": "समुद्री लहरों द्वारा",
+          "en": "By Sea Waves"
+        },
+        {
+          "hi": "पवन (हवा) द्वारा उड़ाकर लाई गई धूल से",
+          "en": "By Wind blown dust"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वी-आकार की घाटी (V-shaped Valley) का निर्माण किसके द्वारा होता है?",
+        "en": "V-shaped valley is carved out by the erosional action of what?"
+      },
+      "o": [
+        {
+          "hi": "युवावस्था में नदी (River) द्वारा",
+          "en": "By River in young stage"
+        },
+        {
+          "hi": "हिमनद (Glacier) द्वारा",
+          "en": "By Glacier"
+        },
+        {
+          "hi": "पवन द्वारा",
+          "en": "By Wind"
+        },
+        {
+          "hi": "भूमिगत जल द्वारा",
+          "en": "By Groundwater"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यू-आकार की घाटी (U-shaped Valley) किसके अपरदन से बनती है?",
+        "en": "U-shaped valley is typically formed by the erosion of what?"
+      },
+      "o": [
+        {
+          "hi": "बहते जल द्वारा",
+          "en": "By running water"
+        },
+        {
+          "hi": "हिमनद (Glacier) द्वारा",
+          "en": "By Glacier"
+        },
+        {
+          "hi": "हवा द्वारा",
+          "en": "By Wind"
+        },
+        {
+          "hi": "समुद्री लहरों द्वारा",
+          "en": "By Waves"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कास्ट स्थलाकृति (Karst Topography) किस प्रकार के क्षेत्र में विकसित होती है?",
+        "en": "Karst topography typically develops in which type of rock region?"
+      },
+      "o": [
+        {
+          "hi": "ग्रेनाइट क्षेत्र में",
+          "en": "In granite region"
+        },
+        {
+          "hi": "बालूकाश्म क्षेत्र में",
+          "en": "In sandstone region"
+        },
+        {
+          "hi": "चूना पत्थर (Limestone) युक्त क्षेत्र में",
+          "en": "In Limestone region"
+        },
+        {
+          "hi": "ज्वालामुखी लावा क्षेत्र में",
+          "en": "In basaltic region"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "छत्रक शिला (Mushroom Rock / गारा) का निर्माण किसके अपरदन से होता है?",
+        "en": "Mushroom Rock (Gara) is formed by the erosional work of what?"
+      },
+      "o": [
+        {
+          "hi": "नदी द्वारा",
+          "en": "By River"
+        },
+        {
+          "hi": "हिमनद द्वारा",
+          "en": "By Glacier"
+        },
+        {
+          "hi": "भूमिगत जल द्वारा",
+          "en": "By Groundwater"
+        },
+        {
+          "hi": "मरुस्थलों में पवन (Wind) द्वारा",
+          "en": "By Wind in deserts"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बरखान (Barchan) किस प्रकार की स्थलाकृति है?",
+        "en": "What type of landform is a Barchan?"
+      },
+      "o": [
+        {
+          "hi": "पवन निक्षेपित बालू का स्तूप (अर्धचंद्राकार)",
+          "en": "Crescent-shaped wind sand dune"
+        },
+        {
+          "hi": "हिमानी निक्षेप",
+          "en": "Glacial deposit"
+        },
+        {
+          "hi": "नदी डेल्टा",
+          "en": "River delta"
+        },
+        {
+          "hi": "ज्वालामुखी शंकु",
+          "en": "Volcanic cone"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ज्यूगेन और यारडांग किस प्राकृतिक कारक द्वारा निर्मित स्थलाकृतियां हैं?",
+        "en": "Zeugen and Yardang are desert landforms shaped by what agent?"
+      },
+      "o": [
+        {
+          "hi": "नदी जल",
+          "en": "Running water"
+        },
+        {
+          "hi": "पवन (Wind)",
+          "en": "Wind"
+        },
+        {
+          "hi": "हिमानी",
+          "en": "Glacier"
+        },
+        {
+          "hi": "लहरें",
+          "en": "Waves"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्टैलेक्टाइट और स्टैलेग्माइट गुफाओं में किस कारक द्वारा बनते हैं?",
+        "en": "Stalactites and Stalagmites are deposited in caves by what agent?"
+      },
+      "o": [
+        {
+          "hi": "पवन द्वारा",
+          "en": "By Wind"
+        },
+        {
+          "hi": "हिमनद द्वारा",
+          "en": "By Glacier"
+        },
+        {
+          "hi": "भूमिगत जल (Groundwater) द्वारा",
+          "en": "By Groundwater"
+        },
+        {
+          "hi": "नदी द्वारा",
+          "en": "By River"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ड्रमलिन (Drumlin - उल्टी नाव के आकार की स्थलाकृति) किससे संबंधित है?",
+        "en": "Drumlin (inverted boat-shaped basket of eggs topography) is related to?"
+      },
+      "o": [
+        {
+          "hi": "पवन निक्षेप",
+          "en": "Wind deposit"
+        },
+        {
+          "hi": "नदी अपरदन",
+          "en": "River erosion"
+        },
+        {
+          "hi": "ज्वालामुखी क्रिया",
+          "en": "Volcanic action"
+        },
+        {
+          "hi": "हिमानी निक्षेप (Glacial Deposit)",
+          "en": "Glacial Deposit"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सर्क (Cirque) और हॉर्न (Horn) का निर्माण किस कारक द्वारा होता है?",
+        "en": "Cirque and Horn landforms are formed by which geological agent?"
+      },
+      "o": [
+        {
+          "hi": "हिमानी अपरदन (Glacial Erosion)",
+          "en": "Glacial Erosion"
+        },
+        {
+          "hi": "नदी अपरदन",
+          "en": "River erosion"
+        },
+        {
+          "hi": "पवन अपरदन",
+          "en": "Wind erosion"
+        },
+        {
+          "hi": "समुद्री अपरदन",
+          "en": "Coastal erosion"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नदी के मुहाने पर अवसादों के जमाव से बनने वाली त्रिभुजाकार आकृति?",
+        "en": "Triangular depositional feature at a river's mouth is called?"
+      },
+      "o": [
+        {
+          "hi": "जलोढ़ पंख",
+          "en": "Alluvial Fan"
+        },
+        {
+          "hi": "डेल्टा (Delta)",
+          "en": "Delta"
+        },
+        {
+          "hi": "एच्युरी (ज्वारनदमुख)",
+          "en": "Estuary"
+        },
+        {
+          "hi": "बाढ़ का मैदान",
+          "en": "Flood plain"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

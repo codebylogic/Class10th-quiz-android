@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - आधुनिक भारत (Modern India)",
+  "subtitle": "बंगाल पर अंग्रेजों का आधिपत्य",
+  "description": "बंगाल पर अंग्रेजों का आधिपत्य (प्लासी, बक्सर, द्वैध शासन, मीर जाफर, मीर कासिम) पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "मुगल साम्राज्य के अंतर्गत स्वतंत्र होने वाला भारत का प्रथम समृद्ध राज्य कौन-सा था?",
+        "en": "Which was the first prosperous province to become virtually independent under the Mughals?"
+      },
+      "o": [
+        {
+          "hi": "बंगाल (Bengal)",
+          "en": "Bengal"
+        },
+        {
+          "hi": "अवध",
+          "en": "Awadh"
+        },
+        {
+          "hi": "हैदराबाद",
+          "en": "Hyderabad"
+        },
+        {
+          "hi": "कर्नाटक",
+          "en": "Carnatic"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बंगाल के स्वतंत्र राज्य का संस्थापक कौन था जिसने राजधानी ढाका से मुर्शिदाबाद स्थानांतरित की?",
+        "en": "Who was the founder of independent Bengal who shifted the capital from Dhaka to Murshidabad?"
+      },
+      "o": [
+        {
+          "hi": "मुर्शीद कुली खां (Murshid Quli Khan - 1717-1727 ई.)",
+          "en": "Murshid Quli Khan (1717-1727 AD)"
+        },
+        {
+          "hi": "शुजाउद्दीन",
+          "en": "Shuja-ud-Din"
+        },
+        {
+          "hi": "अलीवर्दी खां",
+          "en": "Alivardi Khan"
+        },
+        {
+          "hi": "सिराजुद्दौला",
+          "en": "Siraj-ud-Daulah"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यूरोपियनों की तुलना 'मधुमक्खियों के छत्ते' से किस बंगाल के नवाब ने की थी?",
+        "en": "Which Nawab of Bengal famously compared Europeans to a hive of bees?"
+      },
+      "o": [
+        {
+          "hi": "अलीवर्दी खां (Alivardi Khan)",
+          "en": "Alivardi Khan"
+        },
+        {
+          "hi": "मुर्शीद कुली खां",
+          "en": "Murshid Quli Khan"
+        },
+        {
+          "hi": "सिराजुद्दौला",
+          "en": "Siraj-ud-Daulah"
+        },
+        {
+          "hi": "मीर कासिम",
+          "en": "Mir Qasim"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अलीवर्दी खां की मृत्यु के बाद 1756 ई. में बंगाल का नवाब कौन बना?",
+        "en": "Who succeeded Alivardi Khan as the Nawab of Bengal in 1756 AD?"
+      },
+      "o": [
+        {
+          "hi": "सिराजुद्दौला (Siraj-ud-Daulah)",
+          "en": "Siraj-ud-Daulah"
+        },
+        {
+          "hi": "मीर जाफर",
+          "en": "Mir Jafar"
+        },
+        {
+          "hi": "मीर कासिम",
+          "en": "Mir Qasim"
+        },
+        {
+          "hi": "शौकत जंग",
+          "en": "Shaukat Jung"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सिराजुद्दौला ने कलकत्ता पर अधिकार कर उसका नाम बदलकर क्या रखा था?",
+        "en": "After capturing Calcutta in June 1756, what new name did Siraj-ud-Daulah give it?"
+      },
+      "o": [
+        {
+          "hi": "अलीनगर (Alinagar)",
+          "en": "Alinagar"
+        },
+        {
+          "hi": "मुर्शिदाबाद",
+          "en": "Murshidabad"
+        },
+        {
+          "hi": "फतेहनगर",
+          "en": "Fatehnagar"
+        },
+        {
+          "hi": "कासिम बाजार",
+          "en": "Qasim Bazar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इतिहास में चर्चित 'ब्लैक होल की घटना' (काल कोठरी त्रासदी) 20 जून 1756 को किस शहर में हुई थी?",
+        "en": "In which city did the historic 'Black Hole Tragedy' take place on 20 June 1756?"
+      },
+      "o": [
+        {
+          "hi": "कलकत्ता (फोर्ट विलियम / Calcutta)",
+          "en": "Calcutta (Fort William)"
+        },
+        {
+          "hi": "मुर्शिदाबाद",
+          "en": "Murshidabad"
+        },
+        {
+          "hi": "ढाका",
+          "en": "Dhaka"
+        },
+        {
+          "hi": "प्लासी",
+          "en": "Plassey"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ब्लैक होल घटना का मुख्य प्रचारक और विवरण देने वाला ब्रिटिश अधिकारी कौन था?",
+        "en": "Who was the primary British survivor and chronicler of the Black Hole incident?"
+      },
+      "o": [
+        {
+          "hi": "जे. जेड. हॉलवेल (J.Z. Holwell)",
+          "en": "J.Z. Holwell"
+        },
+        {
+          "hi": "रॉबर्ट क्लाइव",
+          "en": "Robert Clive"
+        },
+        {
+          "hi": "वारेन हेस्टिंग्स",
+          "en": "Warren Hastings"
+        },
+        {
+          "hi": "हेक्टर मुनरो",
+          "en": "Hector Munro"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अलीनगर की संधि (9 फरवरी 1757) किनके बीच संपन्न हुई थी?",
+        "en": "Between whom was the Treaty of Alinagar signed on 9 February 1757?"
+      },
+      "o": [
+        {
+          "hi": "सिराजुद्दौला और रॉबर्ट क्लाइव (अंग्रेज)",
+          "en": "Siraj-ud-Daulah and Robert Clive (British)"
+        },
+        {
+          "hi": "मीर जाफर और क्लाइव",
+          "en": "Mir Jafar and Clive"
+        },
+        {
+          "hi": "मीर कासिम और वेन्सिटार्ट",
+          "en": "Mir Qasim and Vansittart"
+        },
+        {
+          "hi": "शाह आलम द्वितीय और क्लाइव",
+          "en": "Shah Alam II and Clive"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्लासी का ऐतिहासिक युद्ध 23 जून 1757 को किस नदी के किनारे लड़ा गया था?",
+        "en": "On the banks of which river was the historic Battle of Plassey fought on 23 June 1757?"
+      },
+      "o": [
+        {
+          "hi": "भागीरथी / हुगली नदी (नदिया जिला, बंगाल)",
+          "en": "Bhagirathi / Hooghly river (Nadia, Bengal)"
+        },
+        {
+          "hi": "पद्मा नदी",
+          "en": "Padma river"
+        },
+        {
+          "hi": "दामोदर नदी",
+          "en": "Damodar river"
+        },
+        {
+          "hi": "सुवर्णरेखा नदी",
+          "en": "Subarnarekha river"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्लासी के युद्ध में ब्रिटिश ईस्ट इंडिया कंपनी की सेना का सफल नेतृत्व किसने किया था?",
+        "en": "Who successfully led the British East India Company's army in the Battle of Plassey?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट क्लाइव (Robert Clive)",
+          "en": "Robert Clive"
+        },
+        {
+          "hi": "हेक्टर मुनरो",
+          "en": "Hector Munro"
+        },
+        {
+          "hi": "वारेन हेस्टिंग्स",
+          "en": "Warren Hastings"
+        },
+        {
+          "hi": "लॉर्ड कार्नवालिस",
+          "en": "Lord Cornwallis"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्लासी के युद्ध में सिराजुद्दौला के विरुद्ध विश्वासघात करने वाला प्रमुख मीर बख्शी (प्रधान सेनापति) कौन था?",
+        "en": "Who was Siraj-ud-Daulah's treacherous Commander-in-Chief who betrayed him at Plassey?"
+      },
+      "o": [
+        {
+          "hi": "मीर जाफर (Mir Jafar)",
+          "en": "Mir Jafar"
+        },
+        {
+          "hi": "मीर कासिम",
+          "en": "Mir Qasim"
+        },
+        {
+          "hi": "मोहनलाल",
+          "en": "Mohanlal"
+        },
+        {
+          "hi": "मीर मदान",
+          "en": "Mir Madan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्लासी के युद्ध में सिराजुद्दौला के प्रति निष्ठावान रहकर लड़ते हुए वीरगति पाने वाले सेनापति कौन थे?",
+        "en": "Which loyal commanders fought bravely and died for Siraj-ud-Daulah at Plassey?"
+      },
+      "o": [
+        {
+          "hi": "मीर मदान और मोहनलाल (Mir Madan & Mohanlal)",
+          "en": "Mir Madan and Mohanlal"
+        },
+        {
+          "hi": "राय दुर्लभ और जगत सेठ",
+          "en": "Rai Durlabh and Jagat Seth"
+        },
+        {
+          "hi": "यार लतीफ और अमीरचंद",
+          "en": "Yar Latif and Omi Chand"
+        },
+        {
+          "hi": "मीर जाफर और खादिम खां",
+          "en": "Mir Jafar and Khadim Khan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्लासी के युद्ध के बाद अंग्रेजों ने बंगाल की गद्दी पर किसे कठपुतली नवाब बनाया?",
+        "en": "Whom did the British install as the puppet Nawab of Bengal following the Battle of Plassey?"
+      },
+      "o": [
+        {
+          "hi": "मीर जाफर (Mir Jafar - 1757 ई.)",
+          "en": "Mir Jafar (1757 AD)"
+        },
+        {
+          "hi": "मीर कासिम",
+          "en": "Mir Qasim"
+        },
+        {
+          "hi": "नजमुद्दौला",
+          "en": "Najm-ud-Daulah"
+        },
+        {
+          "hi": "शौकत जंग",
+          "en": "Shaukat Jung"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अंग्रेज अधिकारियों ने मीर जाफर को उसकी चाटुकारिता और पराधीनता के कारण क्या नाम दिया?",
+        "en": "What humiliating sobriquet was given to Mir Jafar due to his subservience to the British?"
+      },
+      "o": [
+        {
+          "hi": "शेर-ए-बंगाल",
+          "en": "Sher-e-Bengal"
+        },
+        {
+          "hi": "क्लाइव का सियार या गधा (Clive's Jackal)",
+          "en": "Clive's Jackal"
+        },
+        {
+          "hi": "बंगाल का सुल्तान",
+          "en": "Sultan of Bengal"
+        },
+        {
+          "hi": "हिंद का तोता",
+          "en": "Parrot of Hind"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मीर जाफर को हटाकर अंग्रेजों ने 1760 ई. में किसे बंगाल का नवाब बनाया?",
+        "en": "Deposing Mir Jafar in 1760 AD, whom did the British install as the new Nawab of Bengal?"
+      },
+      "o": [
+        {
+          "hi": "सिराजुद्दौला",
+          "en": "Siraj-ud-Daulah"
+        },
+        {
+          "hi": "मीर कासिम (Mir Qasim)",
+          "en": "Mir Qasim"
+        },
+        {
+          "hi": "नजमुद्दौला",
+          "en": "Najm-ud-Daulah"
+        },
+        {
+          "hi": "मुबारक-उद-दौला",
+          "en": "Mubarak-ud-Daulah"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मीर कासिम ने अपनी राजधानी मुर्शिदाबाद से हटाकर कहाँ स्थानांतरित की थी?",
+        "en": "Where did Mir Qasim shift his capital from Murshidabad to escape British interference?"
+      },
+      "o": [
+        {
+          "hi": "ढाका",
+          "en": "Dhaka"
+        },
+        {
+          "hi": "मुंगेर (बिहार / Munger)",
+          "en": "Munger (Bihar)"
+        },
+        {
+          "hi": "पटना",
+          "en": "Patna"
+        },
+        {
+          "hi": "कलकत्ता",
+          "en": "Calcutta"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मीर कासिम ने आधुनिक तोपों और तोड़ेदार बंदूकों के निर्माण हेतु शस्त्रागार कहाँ स्थापित किया?",
+        "en": "Where did Mir Qasim set up a modern foundry for casting cannons and firelocks?"
+      },
+      "o": [
+        {
+          "hi": "मुर्शिदाबाद",
+          "en": "Murshidabad"
+        },
+        {
+          "hi": "मुंगेर (Munger)",
+          "en": "Munger"
+        },
+        {
+          "hi": "बक्सर",
+          "en": "Buxar"
+        },
+        {
+          "hi": "कटिहार",
+          "en": "Katihar"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मीर कासिम और अंग्रेजों के बीच संघर्ष का सबसे प्रमुख और वास्तविक कारण क्या था?",
+        "en": "What was the primary root cause of conflict between Mir Qasim and the British?"
+      },
+      "o": [
+        {
+          "hi": "धार्मिक विवाद",
+          "en": "Religious dispute"
+        },
+        {
+          "hi": "दस्तक (मुक्त व्यापार पास) का कंपनी कर्मचारियों द्वारा दुरुपयोग और आंतरिक करों का उन्मूलन",
+          "en": "Abuse of Dastak (trade permits) by British private traders"
+        },
+        {
+          "hi": "सीमा विवाद",
+          "en": "Boundary dispute"
+        },
+        {
+          "hi": "फ्रांसीसियों से मित्रता",
+          "en": "Alliance with French"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बक्सर का ऐतिहासिक निर्णायक युद्ध किस तिथि को लड़ा गया था?",
+        "en": "On which exact date was the decisive historic Battle of Buxar fought?"
+      },
+      "o": [
+        {
+          "hi": "23 जून 1757",
+          "en": "23 June 1757"
+        },
+        {
+          "hi": "22 अक्टूबर 1764 (22 October 1764)",
+          "en": "22 October 1764"
+        },
+        {
+          "hi": "12 अगस्त 1765",
+          "en": "12 August 1765"
+        },
+        {
+          "hi": "14 जनवरी 1761",
+          "en": "14 January 1761"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बक्सर के युद्ध में अंग्रेजी सेना का मुख्य सेनापति कौन था?",
+        "en": "Who was the supreme Commander-in-Chief of the British forces at the Battle of Buxar?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट क्लाइव",
+          "en": "Robert Clive"
+        },
+        {
+          "hi": "मेजर हेक्टर मुनरो (Major Hector Munro)",
+          "en": "Major Hector Munro"
+        },
+        {
+          "hi": "वारेन हेस्टिंग्स",
+          "en": "Warren Hastings"
+        },
+        {
+          "hi": "लॉर्ड कार्नवालिस",
+          "en": "Lord Cornwallis"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बक्सर के युद्ध (1764 ई.) में अंग्रेजों के विरुद्ध कौन-सा संयुक्त भारतीय त्रिकूट लड़ा था?",
+        "en": "Which joint Indian confederacy fought against the British in the Battle of Buxar (1764)?"
+      },
+      "o": [
+        {
+          "hi": "मराठा, सिख और जाट",
+          "en": "Marathas, Sikhs and Jats"
+        },
+        {
+          "hi": "मीर कासिम, अवध का नवाब शुजाउद्दौला और मुगल सम्राट शाह आलम द्वितीय",
+          "en": "Mir Qasim, Shuja-ud-Daula of Awadh & Emperor Shah Alam II"
+        },
+        {
+          "hi": "सिराजुद्दौला, हैदर अली और टीपू सुल्तान",
+          "en": "Siraj-ud-Daulah, Haidar Ali & Tipu Sultan"
+        },
+        {
+          "hi": "झांसी की रानी, तात्या टोपे और नाना साहेब",
+          "en": "Rani of Jhansi, Tatya Tope & Nana Saheb"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में वास्तविक रूप से ब्रिटिश संप्रभुता और साम्राज्य की स्थापना किस युद्ध से मानी जाती है?",
+        "en": "Which battle is historically regarded as firmly establishing real British imperial sovereignty in India?"
+      },
+      "o": [
+        {
+          "hi": "प्लासी का युद्ध (1757)",
+          "en": "Battle of Plassey (1757)"
+        },
+        {
+          "hi": "बक्सर का युद्ध (1764 ई. / Battle of Buxar)",
+          "en": "Battle of Buxar (1764 AD)"
+        },
+        {
+          "hi": "वांडीवाश का युद्ध (1760)",
+          "en": "Battle of Wandiwash (1760)"
+        },
+        {
+          "hi": "पानीपत का तृतीय युद्ध (1761)",
+          "en": "Third Battle of Panipat (1761)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बंगाल में 'द्वैध शासन' (Dual Government / Diarchy) 1765 ई. में किसने लागू किया था?",
+        "en": "Who instituted the 'Dual System of Government' in Bengal in 1765 AD?"
+      },
+      "o": [
+        {
+          "hi": "वारेन हेस्टिंग्स",
+          "en": "Warren Hastings"
+        },
+        {
+          "hi": "रॉबर्ट क्लाइव (Robert Clive)",
+          "en": "Robert Clive"
+        },
+        {
+          "hi": "लॉर्ड कार्नवालिस",
+          "en": "Lord Cornwallis"
+        },
+        {
+          "hi": "लॉर्ड वेलेजली",
+          "en": "Lord Wellesley"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बंगाल में द्वैध शासन को 1772 ई. में किसने समाप्त किया था?",
+        "en": "Who abolished the Dual System of Government in Bengal in 1772 AD?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट क्लाइव",
+          "en": "Robert Clive"
+        },
+        {
+          "hi": "वारेन हेस्टिंग्स (Warren Hastings)",
+          "en": "Warren Hastings"
+        },
+        {
+          "hi": "लॉर्ड डलहौजी",
+          "en": "Lord Dalhousie"
+        },
+        {
+          "hi": "लॉर्ड विलियम बेंटिक",
+          "en": "Lord William Bentinck"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किस भारतीय इतिहासकार/विद्वान ने बंगाल में द्वैध शासन (1765-1772) को 'डाकुओं का राज्य' कहा था?",
+        "en": "Which eminent Indian scholar termed the Dual Government era in Bengal as 'a Robber State'?"
+      },
+      "o": [
+        {
+          "hi": "आर.सी. दत्त",
+          "en": "R.C. Dutt"
+        },
+        {
+          "hi": "के. एम. पणिक्कर (K.M. Panikkar)",
+          "en": "K.M. Panikkar"
+        },
+        {
+          "hi": "दादाभाई नौरोजी",
+          "en": "Dadabhai Naoroji"
+        },
+        {
+          "hi": "ताराचंद",
+          "en": "Tarachand"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बंगाल में विनाशकारी 'छियत्तर का मनवंतर' (भीषण अकाल जिसमें 1/3 आबादी मर गई) किस वर्ष पड़ा था?",
+        "en": "In which year did the catastrophic Great Bengal Famine occur (perishing 1/3rd populace)?"
+      },
+      "o": [
+        {
+          "hi": "1757 ई.",
+          "en": "1757 AD"
+        },
+        {
+          "hi": "1770 ईस्वी (1770 AD / बांग्ला संवत 1176)",
+          "en": "1770 AD (Bangla San 1176)"
+        },
+        {
+          "hi": "1780 ई.",
+          "en": "1780 AD"
+        },
+        {
+          "hi": "1793 ई.",
+          "en": "1793 AD"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मुर्शीद कुली खां ने कृषकों को राहत देने के लिए कौन-सा अग्रिम कृषि ऋण प्रदान किया था?",
+        "en": "Which agricultural advance loans were provided by Murshid Quli Khan to relieve distressed farmers?"
+      },
+      "o": [
+        {
+          "hi": "सोनधर",
+          "en": "Sondhar"
+        },
+        {
+          "hi": "इक्ता",
+          "en": "Iqta"
+        },
+        {
+          "hi": "तकावी ऋण (Taccavi Loans)",
+          "en": "Taccavi loans"
+        },
+        {
+          "hi": "दहसाला",
+          "en": "Dahsala"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मुर्शीद कुली खां द्वारा बंगाल में शुरू की गई नई भू-राजस्व व्यवस्था को क्या कहा जाता था?",
+        "en": "What was the new land revenue contract system introduced by Murshid Quli Khan in Bengal called?"
+      },
+      "o": [
+        {
+          "hi": "जमींदारी प्रथा",
+          "en": "Zamindari system"
+        },
+        {
+          "hi": "रैयतवाड़ी प्रथा",
+          "en": "Ryotwari system"
+        },
+        {
+          "hi": "इजारेदारी प्रथा (Ijaradari System)",
+          "en": "Ijaradari system"
+        },
+        {
+          "hi": "महालवाड़ी प्रथा",
+          "en": "Mahalwari system"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1740 ई. के 'गिरिया के युद्ध' में सरफराज खां को मारकर बंगाल का नवाब कौन बना था?",
+        "en": "Killing Sarfaraz Khan in the Battle of Giriya (1740), who usurped the throne of Bengal?"
+      },
+      "o": [
+        {
+          "hi": "मुर्शीद कुली खां",
+          "en": "Murshid Quli Khan"
+        },
+        {
+          "hi": "शुजाउद्दीन",
+          "en": "Shuja-ud-Din"
+        },
+        {
+          "hi": "अलीवर्दी खां (Alivardi Khan)",
+          "en": "Alivardi Khan"
+        },
+        {
+          "hi": "मीर जाफर",
+          "en": "Mir Jafar"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मराठों (रघुजी भोंसले) के निरंतर आक्रमणों से तंग आकर अलीवर्दी खां ने 1751 ई. में क्या समझौता किया?",
+        "en": "Harassed by continuous Maratha raids, what treaty did Alivardi Khan sign in 1751 with Raghuji Bhonsle?"
+      },
+      "o": [
+        {
+          "hi": "मुर्शिदाबाद सौंप दिया",
+          "en": "Surrendered Murshidabad"
+        },
+        {
+          "hi": "पूरा बंगाल सौंप दिया",
+          "en": "Ceded all Bengal"
+        },
+        {
+          "hi": "उड़ीसा प्रांत और 12 लाख रुपये वार्षिक चौथ देना स्वीकार किया",
+          "en": "Ceded Orissa province and agreed to pay 12 lakh annual Chauth"
+        },
+        {
+          "hi": "सैनिक सहायता मांगी",
+          "en": "Demanded military help"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्लासी के षड्यंत्र में नवाब सिराजुद्दौला का सबसे धनी बैंकर कौन था जो अंग्रेजों से मिला हुआ था?",
+        "en": "Who was the fabulously wealthy banker of Murshidabad involved in the conspiracy against Siraj?"
+      },
+      "o": [
+        {
+          "hi": "अमीरचंद",
+          "en": "Omi Chand"
+        },
+        {
+          "hi": "राय दुर्लभ",
+          "en": "Rai Durlabh"
+        },
+        {
+          "hi": "जगत सेठ (फतेहचंद / Jagat Seth)",
+          "en": "Jagat Seth (Fateh Chand)"
+        },
+        {
+          "hi": "माणिकचंद",
+          "en": "Manik Chand"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कलकत्ता का वह प्रभारी अधिकारी कौन था जिसने रिश्वत लेकर नवाब की सेना के सामने समर्पण कर दिया था?",
+        "en": "Who was the Calcutta officer in charge who accepted bribes and surrendered to the Nawab?"
+      },
+      "o": [
+        {
+          "hi": "हॉलवेल",
+          "en": "Holwell"
+        },
+        {
+          "hi": "ड्रेक",
+          "en": "Drake"
+        },
+        {
+          "hi": "माणिकचंद (Manik Chand)",
+          "en": "Manik Chand"
+        },
+        {
+          "hi": "क्लाइव",
+          "en": "Clive"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्लासी के युद्ध के समय क्लाइव की सेना में कुल कितने सैनिक थे?",
+        "en": "Approximately how many soldiers were in Robert Clive's small army at the Battle of Plassey?"
+      },
+      "o": [
+        {
+          "hi": "10,000",
+          "en": "10,000"
+        },
+        {
+          "hi": "20,000",
+          "en": "20,000"
+        },
+        {
+          "hi": "लगभग 3,200 सैनिक (950 यूरोपीय व 2100 भारतीय सिपाही)",
+          "en": "About 3,200 soldiers (950 Europeans & 2100 Sepoys)"
+        },
+        {
+          "hi": "50,000",
+          "en": "50,000"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्लासी के युद्ध के पश्चात सिराजुद्दौला की हत्या मुर्शिदाबाद में किसके आदेश पर की गई थी?",
+        "en": "Following the Battle of Plassey, on whose order was Siraj-ud-Daulah assassinated in Murshidabad?"
+      },
+      "o": [
+        {
+          "hi": "क्लाइव के आदेश पर",
+          "en": "On Clive's order"
+        },
+        {
+          "hi": "हेक्टर मुनरो के आदेश पर",
+          "en": "On Hector Munro's order"
+        },
+        {
+          "hi": "मीर जाफर के पुत्र मीरन (Miran) के आदेश पर",
+          "en": "On the order of Miran, son of Mir Jafar"
+        },
+        {
+          "hi": "जगत सेठ के आदेश पर",
+          "en": "On Jagat Seth's order"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मीर जाफर ने अंग्रेजों को कृतज्ञता स्वरूप किस जिले की 24 परगना की जमींदारी पुरस्कार में दी?",
+        "en": "To which territory's revenue did Mir Jafar grant the Zamindari to the Company in gratitude?"
+      },
+      "o": [
+        {
+          "hi": "नादिया",
+          "en": "Nadia"
+        },
+        {
+          "hi": "हुगली",
+          "en": "Hooghly"
+        },
+        {
+          "hi": "24 परगना जिला (24 Parganas)",
+          "en": "24 Parganas district"
+        },
+        {
+          "hi": "बर्दवान",
+          "en": "Burdwan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मीर कासिम ने मुंगेर में अपनी सेना को किस यूरोपीय पद्धति पर प्रशिक्षित करने हेतु जर्मन अधिकारी रखा था?",
+        "en": "Which European mercenary did Mir Qasim hire to drill and train his army on modern lines at Munger?"
+      },
+      "o": [
+        {
+          "hi": "डुप्ले",
+          "en": "Dupleix"
+        },
+        {
+          "hi": "बुसी",
+          "en": "Bussy"
+        },
+        {
+          "hi": "वाल्टर रीनहार्ड / समरू (Reinhard / Sombre)",
+          "en": "Walter Reinhard (Sombre)"
+        },
+        {
+          "hi": "काउंट लाली",
+          "en": "Count Lally"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मीर कासिम द्वारा सभी भारतीय व्यापारियों के लिए आंतरिक सीमा शुल्क समाप्त करने का अंग्रेजों ने विरोध क्यों किया?",
+        "en": "Why did the British oppose Mir Qasim abolishing internal transit duties for Indian traders?"
+      },
+      "o": [
+        {
+          "hi": "राजस्व कम हो गया",
+          "en": "Revenue declined"
+        },
+        {
+          "hi": "मुगल नाराज हो गए",
+          "en": "Mughals got angry"
+        },
+        {
+          "hi": "क्योंकि इससे अंग्रेजों का व्यापारिक एकाधिकार और विशेषाधिकार समाप्त हो गया",
+          "en": "Because it stripped the British of their unfair tariff advantage"
+        },
+        {
+          "hi": "सैनिक विद्रोह हुआ",
+          "en": "Troops rebelled"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मीर कासिम बक्सर के युद्ध में पराजय के बाद दिल्ली भाग गया और 1777 ई. में किस अवस्था में मरा?",
+        "en": "Fleeing to Delhi after Buxar, under what conditions did Mir Qasim die in 1777 AD?"
+      },
+      "o": [
+        {
+          "hi": "नवाब के रूप में",
+          "en": "As a wealthy Nawab"
+        },
+        {
+          "hi": "अंग्रेजी जेल में",
+          "en": "In British prison"
+        },
+        {
+          "hi": "अत्यंत दरिद्रता और गुमनामी की अवस्था में (In extreme poverty)",
+          "en": "In utter penury, destitution and obscurity"
+        },
+        {
+          "hi": "युद्ध के मैदान में",
+          "en": "On the battlefield"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अवध के नवाब शुजाउद्दौला के साथ 16 अगस्त 1765 को 'इलाहाबाद की दूसरी संधि' किसने की?",
+        "en": "Who signed the Second Treaty of Allahabad with Shuja-ud-Daula of Awadh on 16 August 1765?"
+      },
+      "o": [
+        {
+          "hi": "वारेन हेस्टिंग्स",
+          "en": "Warren Hastings"
+        },
+        {
+          "hi": "हेक्टर मुनरो",
+          "en": "Hector Munro"
+        },
+        {
+          "hi": "लॉर्ड कार्नवालिस",
+          "en": "Lord Cornwallis"
+        },
+        {
+          "hi": "रॉबर्ट क्लाइव (Robert Clive)",
+          "en": "Robert Clive"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इलाहाबाद की दूसरी संधि के तहत अवध के नवाब से कौन-से दो जिले छीनकर मुगल सम्राट को दिए गए?",
+        "en": "Under the 2nd Treaty of Allahabad, which two districts were taken from Awadh & given to Shah Alam II?"
+      },
+      "o": [
+        {
+          "hi": "लखनऊ और फैजाबाद",
+          "en": "Lucknow and Faizabad"
+        },
+        {
+          "hi": "बनारस और जौनपुर",
+          "en": "Varanasi and Jaunpur"
+        },
+        {
+          "hi": "बरेली और मुरादाबाद",
+          "en": "Bareilly and Moradabad"
+        },
+        {
+          "hi": "कड़ा और इलाहाबाद (Kora and Allahabad)",
+          "en": "Kora and Allahabad"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इलाहाबाद की संधि के तहत ईस्ट इंडिया कंपनी ने मुगल सम्राट शाह आलम द्वितीय को कितनी वार्षिक पेंशन तय की?",
+        "en": "What annual pension did the East India Company settle for Emperor Shah Alam II in 1765?"
+      },
+      "o": [
+        {
+          "hi": "10 लाख रुपये",
+          "en": "10 lakh rupees"
+        },
+        {
+          "hi": "15 लाख रुपये",
+          "en": "15 lakh rupees"
+        },
+        {
+          "hi": "50 लाख रुपये",
+          "en": "50 lakh rupees"
+        },
+        {
+          "hi": "26 लाख रुपये (26 Lakh Rupees Annually)",
+          "en": "26 lakh rupees annually"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बंगाल के द्वैध शासन में 'दीवानी' और 'निजामत' का क्या विभाजन था?",
+        "en": "In Bengal's Dual System, what was the division between 'Diwani' and 'Nizamat'?"
+      },
+      "o": [
+        {
+          "hi": "दोनों नवाब के पास थे",
+          "en": "Both held by Nawab"
+        },
+        {
+          "hi": "दोनों कंपनी के पास थे",
+          "en": "Both held by Company"
+        },
+        {
+          "hi": "दीवानी नवाब के पास और निजामत कंपनी के पास",
+          "en": "Diwani with Nawab & Nizamat with Company"
+        },
+        {
+          "hi": "दीवानी (राजस्व व वित्त) कंपनी के पास तथा निजामत (प्रशासन व कानून) नवाब के पास",
+          "en": "Diwani (revenue) with Company & Nizamat (law/order) with Nawab"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "क्लाइव ने दीवानी कार्य के लिए बंगाल में किसे उप-दीवान नियुक्त किया था?",
+        "en": "Whom did Robert Clive appoint as the Naib Diwan for Bengal revenue administration in 1765?"
+      },
+      "o": [
+        {
+          "hi": "राजा शिताब राय (बिहार हेतु)",
+          "en": "Raja Shitab Rai (for Bihar)"
+        },
+        {
+          "hi": "राय दुर्लभ",
+          "en": "Rai Durlabh"
+        },
+        {
+          "hi": "जगत सेठ",
+          "en": "Jagat Seth"
+        },
+        {
+          "hi": "मोहम्मद रजा खां (Mohammad Reza Khan)",
+          "en": "Mohammad Reza Khan"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "क्लाइव ने बिहार के लिए किसे उप-दीवान नियुक्त किया था?",
+        "en": "Whom did Robert Clive appoint as the Naib Diwan for Bihar in 1765?"
+      },
+      "o": [
+        {
+          "hi": "मोहम्मद रजा खां",
+          "en": "Mohammad Reza Khan"
+        },
+        {
+          "hi": "दुर्लभ राय",
+          "en": "Durlabh Rai"
+        },
+        {
+          "hi": "आलमचंद",
+          "en": "Alamchand"
+        },
+        {
+          "hi": "राजा शिताब राय (Raja Shitab Rai)",
+          "en": "Raja Shitab Rai"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रॉबर्ट क्लाइव भारत में कुल कितने कार्यकाल (गवर्नर के रूप में) रहा?",
+        "en": "For how many terms did Robert Clive serve as Governor of Bengal?"
+      },
+      "o": [
+        {
+          "hi": "एक कार्यकाल",
+          "en": "One term"
+        },
+        {
+          "hi": "तीन कार्यकाल",
+          "en": "Three terms"
+        },
+        {
+          "hi": "चार कार्यकाल",
+          "en": "Four terms"
+        },
+        {
+          "hi": "दो कार्यकाल (1757-60 ई. एवं 1765-67 ई.)",
+          "en": "Two terms (1757-60 and 1765-67 AD)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रॉबर्ट क्लाइव ने इंग्लैंड लौटने के बाद 1774 ई. में अपने जीवन का अंत कैसे किया?",
+        "en": "How did Robert Clive end his life in England in 1774 following parliamentary inquiries?"
+      },
+      "o": [
+        {
+          "hi": "युद्ध में मारा गया",
+          "en": "Killed in battle"
+        },
+        {
+          "hi": "फांसी दी गई",
+          "en": "Hanged"
+        },
+        {
+          "hi": "लंबी बीमारी से मरा",
+          "en": "Died of prolonged illness"
+        },
+        {
+          "hi": "आत्महत्या करके (Committed Suicide)",
+          "en": "By committing suicide"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बंगाल का अंतिम नवाब कौन था जिसके समय नवाब का पद समाप्त कर केवल पेंशनर बना दिया गया?",
+        "en": "Who was the last nominal Nawab of Bengal when the title was abolished in 1880?"
+      },
+      "o": [
+        {
+          "hi": "नजमुद्दौला",
+          "en": "Najm-ud-Daulah"
+        },
+        {
+          "hi": "सैफुद्दौला",
+          "en": "Saif-ud-Daulah"
+        },
+        {
+          "hi": "मुबारक-उद-दौला",
+          "en": "Mubarak-ud-Daulah"
+        },
+        {
+          "hi": "मंसूर अली खां (फरेदुन जाह / Mansur Ali Khan)",
+          "en": "Mansur Ali Khan (Feredun Jah)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्लासी के युद्ध के तुरंत बाद मीर जाफर ने अंग्रेजों को उपहारों और क्षतिपूर्ति में कितनी धनराशि दी?",
+        "en": "How much indemnity and gifts did Mir Jafar pay the Company immediately after Plassey?"
+      },
+      "o": [
+        {
+          "hi": "10 लाख रुपये",
+          "en": "10 lakh rupees"
+        },
+        {
+          "hi": "50 लाख रुपये",
+          "en": "50 lakh rupees"
+        },
+        {
+          "hi": "1 करोड़ रुपये",
+          "en": "1 crore rupees"
+        },
+        {
+          "hi": "लगभग 1.77 करोड़ रुपये (17.7 Million Rupees)",
+          "en": "Nearly 1.77 crore rupees"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बंगाल विजय ने ईस्ट इंडिया कंपनी को एक व्यापारी कंपनी से बदलकर क्या बना दिया?",
+        "en": "The conquest of Bengal transformed the East India Company from a trading firm into what?"
+      },
+      "o": [
+        {
+          "hi": "धार्मिक संस्था",
+          "en": "Religious organization"
+        },
+        {
+          "hi": "जहाजी कंपनी मात्र",
+          "en": "Shipping line only"
+        },
+        {
+          "hi": "अंतर्राष्ट्रीय बैंक",
+          "en": "International bank"
+        },
+        {
+          "hi": "भारत की सर्वोच्च संप्रभु राजनीतिक और सैन्य औपनिवेशिक शक्ति",
+          "en": "Foremost sovereign political and military colonial power in India"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बंगाल के अधिग्रहण का भारत की अर्थव्यवस्था पर सबसे घातक परिणाम क्या हुआ?",
+        "en": "What was the most catastrophic economic outcome of the British acquisition of Bengal?"
+      },
+      "o": [
+        {
+          "hi": "कृषि का आधुनिकीकरण",
+          "en": "Modernization of agriculture"
+        },
+        {
+          "hi": "उद्योगों का विकास",
+          "en": "Industrial growth"
+        },
+        {
+          "hi": "नए नगरों का उदय",
+          "en": "Rise of new cities"
+        },
+        {
+          "hi": "भारतीय धन की लंदन की ओर एकतरफा अनवरत निकासी (Drain of Wealth)",
+          "en": "Relentless unrequited 'Drain of Wealth' from India to Britain"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}

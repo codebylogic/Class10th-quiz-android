@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भारत का भूगोल (Indian Geography)",
+  "subtitle": "भारत की मिट्टी",
+  "description": "भारत की मिट्टी पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारतीय कृषि अनुसंधान परिषद (ICAR) ने भारत की मिट्टियों को कितने प्रमुख वर्गों में बांटा है?",
+        "en": "Indian Council of Agricultural Research (ICAR) divided Indian soils into how many major orders?"
+      },
+      "o": [
+        {
+          "hi": "8 प्रमुख वर्गों में (8 Major Orders)",
+          "en": "8 Major Orders"
+        },
+        {
+          "hi": "5 वर्गों में",
+          "en": "5 Orders"
+        },
+        {
+          "hi": "12 वर्गों में",
+          "en": "12 Orders"
+        },
+        {
+          "hi": "6 वर्गों में",
+          "en": "6 Orders"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में सर्वाधिक क्षेत्रफल (लगभग 40% से 43%) पर पाई जाने वाली मिट्टी कौन-सी है?",
+        "en": "Which soil covers the largest area in India (~40-43% of total land area)?"
+      },
+      "o": [
+        {
+          "hi": "काली मिट्टी",
+          "en": "Black Soil"
+        },
+        {
+          "hi": "जलोढ़ मिट्टी (कॉप / दोमट / Alluvial Soil)",
+          "en": "Alluvial Soil"
+        },
+        {
+          "hi": "लाल मिट्टी",
+          "en": "Red Soil"
+        },
+        {
+          "hi": "लेटराइट मिट्टी",
+          "en": "Laterite Soil"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जलोढ़ मिट्टी (Alluvial Soil) का निर्माण मुख्य रूप से किसके द्वारा होता है?",
+        "en": "Alluvial soil is primarily formed by the depositional work of what?"
+      },
+      "o": [
+        {
+          "hi": "ज्वालामुखी लावा के विखंडन से",
+          "en": "Volcanic lava"
+        },
+        {
+          "hi": "हवाओं के उड़ने से",
+          "en": "Wind action"
+        },
+        {
+          "hi": "नदियों द्वारा बहाकर लाई गई तलछट/गाद से (Rivers)",
+          "en": "Rivers bringing silt and sediments"
+        },
+        {
+          "hi": "चट्टानों के कायांतरण से",
+          "en": "Metamorphism"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत के उत्तरी मैदानों में पुरानी जलोढ़ मिट्टी को क्या कहा जाता है?",
+        "en": "What is the older alluvium found in elevated areas of northern plains called?"
+      },
+      "o": [
+        {
+          "hi": "खादर",
+          "en": "Khadar"
+        },
+        {
+          "hi": "भाबर",
+          "en": "Bhabar"
+        },
+        {
+          "hi": "तराई",
+          "en": "Tarai"
+        },
+        {
+          "hi": "बांगर (Bangar)",
+          "en": "Bangar"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नदियों द्वारा बाढ़ के समय प्रतिवर्ष नई बिछाई जाने वाली उपजाऊ जलोढ़ मिट्टी क्या कहलाती है?",
+        "en": "New fertile alluvial soil deposited annually by river floodwaters is called?"
+      },
+      "o": [
+        {
+          "hi": "खादर (Khadar)",
+          "en": "Khadar"
+        },
+        {
+          "hi": "बांगर",
+          "en": "Bangar"
+        },
+        {
+          "hi": "रेह",
+          "en": "Reh"
+        },
+        {
+          "hi": "कल्लर",
+          "en": "Kallar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जलोढ़ मिट्टी में किन रासायनिक तत्वों की प्रचुरता होती है?",
+        "en": "Alluvial soil is generally rich in which plant nutrients?"
+      },
+      "o": [
+        {
+          "hi": "नाइट्रोजन और फास्फोरस",
+          "en": "Nitrogen and Phosphorus"
+        },
+        {
+          "hi": "पोटाश, चूना और फास्फोरिक एसिड",
+          "en": "Potash, Lime & Phosphoric acid"
+        },
+        {
+          "hi": "ह्यूमस और लोहा",
+          "en": "Humus and Iron"
+        },
+        {
+          "hi": "सल्फर और मैग्नीशियम",
+          "en": "Sulfur and Magnesium"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जलोढ़ मिट्टी में सामान्यतः किन आवश्यक पोषक तत्वों की कमी पाई जाती है?",
+        "en": "Indian alluvial soils are typically deficient in which plant nutrients?"
+      },
+      "o": [
+        {
+          "hi": "पोटाश और चूना",
+          "en": "Potash and Lime"
+        },
+        {
+          "hi": "कैल्शियम और सिलिका",
+          "en": "Calcium and Silica"
+        },
+        {
+          "hi": "नाइट्रोजन, फास्फोरस और ह्यूमस (N, P & Humus)",
+          "en": "Nitrogen, Phosphorus & Humus"
+        },
+        {
+          "hi": "लोहा और एल्युमीनियम",
+          "en": "Iron and Aluminium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में क्षेत्रफल की दृष्टि से दूसरा सबसे बड़ा मृदा वर्ग (लगभग 18.5%) कौन-सा है?",
+        "en": "Which is the second largest soil group by area in India (~18.5%)?"
+      },
+      "o": [
+        {
+          "hi": "काली मिट्टी",
+          "en": "Black Soil"
+        },
+        {
+          "hi": "लेटराइट मिट्टी",
+          "en": "Laterite Soil"
+        },
+        {
+          "hi": "मरुस्थलीय मिट्टी",
+          "en": "Desert Soil"
+        },
+        {
+          "hi": "लाल एवं पीली मिट्टी (Red & Yellow Soil)",
+          "en": "Red and Yellow Soil"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लाल मिट्टी का लाल रंग किसकी उपस्थिति के कारण होता है?",
+        "en": "The red color of Red Soil is primarily due to the presence of what?"
+      },
+      "o": [
+        {
+          "hi": "फेरिक ऑक्साइड / लौह यौगिक (Iron Oxide)",
+          "en": "Ferric Oxide (Iron Oxide)"
+        },
+        {
+          "hi": "मैग्नीशियम",
+          "en": "Magnesium"
+        },
+        {
+          "hi": "ह्यूमस",
+          "en": "Humus"
+        },
+        {
+          "hi": "चूना",
+          "en": "Lime"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लाल मिट्टी जल को अवशोषित करने पर किस रंग की दिखाई देती है?",
+        "en": "When hydrated, red soil appears in which color?"
+      },
+      "o": [
+        {
+          "hi": "काली",
+          "en": "Black"
+        },
+        {
+          "hi": "पीली (Yellow)",
+          "en": "Yellow"
+        },
+        {
+          "hi": "भूरी",
+          "en": "Brown"
+        },
+        {
+          "hi": "सफेद",
+          "en": "White"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "काली मिट्टी (Black Soil) को स्थानीय रूप से किस नाम से जाना जाता है?",
+        "en": "What is the local popular name of Black Soil in India?"
+      },
+      "o": [
+        {
+          "hi": "बांगर",
+          "en": "Bangar"
+        },
+        {
+          "hi": "खादर",
+          "en": "Khadar"
+        },
+        {
+          "hi": "रेगुर मिट्टी (Regur Soil / कपासी मृदा)",
+          "en": "Regur Soil"
+        },
+        {
+          "hi": "लेटराइट",
+          "en": "Laterite"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "काली मिट्टी (Regur) किस नकदी फसल की खेती के लिए सर्वाधिक उपयुक्त होती है?",
+        "en": "Black soil is universally considered most suitable for which cash crop?"
+      },
+      "o": [
+        {
+          "hi": "जूट",
+          "en": "Jute"
+        },
+        {
+          "hi": "चाय",
+          "en": "Tea"
+        },
+        {
+          "hi": "कॉफी",
+          "en": "Coffee"
+        },
+        {
+          "hi": "कपास (Cotton - Black Cotton Soil)",
+          "en": "Cotton (Black Cotton Soil)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "काली मिट्टी का निर्माण किस प्रकार की चट्टानों के विखंडन और अपक्षय से हुआ है?",
+        "en": "Black soil is derived from the weathering and breakdown of which rocks?"
+      },
+      "o": [
+        {
+          "hi": "बेसाल्ट लावा चट्टानें (Basaltic Lava Rocks)",
+          "en": "Basaltic Lava Rocks"
+        },
+        {
+          "hi": "ग्रेनाइट चट्टानें",
+          "en": "Granite"
+        },
+        {
+          "hi": "बलुआ पत्थर",
+          "en": "Sandstone"
+        },
+        {
+          "hi": "चूना पत्थर",
+          "en": "Limestone"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "काली मिट्टी का काला रंग मुख्य रूप से किसकी उपस्थिति के कारण होता है?",
+        "en": "The black color of regur soil is attributed to the presence of what compound?"
+      },
+      "o": [
+        {
+          "hi": "आयरन ऑक्साइड",
+          "en": "Iron oxide"
+        },
+        {
+          "hi": "टिटेनीफेरस मैग्नेटाइट एवं जीवांश (Titaniferous Magnetite)",
+          "en": "Titaniferous Magnetite & humus"
+        },
+        {
+          "hi": "कैल्शियम कार्बोनेट",
+          "en": "Calcium carbonate"
+        },
+        {
+          "hi": "फास्फोरस",
+          "en": "Phosphorus"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किस मिट्टी में 'स्वतः जुताई' (Self-ploughing) की अनूठी क्षमता पाई जाती है?",
+        "en": "Which soil has the unique characteristic of 'Self-ploughing' upon drying?"
+      },
+      "o": [
+        {
+          "hi": "जलोढ़ मिट्टी",
+          "en": "Alluvial Soil"
+        },
+        {
+          "hi": "लाल मिट्टी",
+          "en": "Red Soil"
+        },
+        {
+          "hi": "काली मिट्टी (दरारें पड़ने के कारण / Black Soil)",
+          "en": "Black Soil (due to deep cracks)"
+        },
+        {
+          "hi": "लेटराइट मिट्टी",
+          "en": "Laterite Soil"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "काली मिट्टी की सर्वाधिक जल-धारण क्षमता (Water Retention Capacity) का क्या कारण है?",
+        "en": "Why does Black Soil possess an exceptionally high moisture retention capacity?"
+      },
+      "o": [
+        {
+          "hi": "बालू की अधिकता",
+          "en": "High sand content"
+        },
+        {
+          "hi": "कंकड़ों की बहुलता",
+          "en": "Pebble content"
+        },
+        {
+          "hi": "बड़ी चट्टानों की उपस्थिति",
+          "en": "Large rocks"
+        },
+        {
+          "hi": "क्ले (चिकनी मिट्टी / Montmorillonite Clay) की अधिकता",
+          "en": "High clay content (Montmorillonite)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में काली मिट्टी का सर्वाधिक विस्तार किस राज्य में पाया जाता है?",
+        "en": "Which Indian state has the largest area under Black (Regur) Soil?"
+      },
+      "o": [
+        {
+          "hi": "महाराष्ट्र (दक्कन ट्रैप / Maharashtra)",
+          "en": "Maharashtra (Deccan Trap)"
+        },
+        {
+          "hi": "गुजरात",
+          "en": "Gujarat"
+        },
+        {
+          "hi": "मध्य प्रदेश",
+          "en": "Madhya Pradesh"
+        },
+        {
+          "hi": "कर्नाटक",
+          "en": "Karnataka"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अंतरराष्ट्रीय स्तर पर भारतीय काली मिट्टी की तुलना किस वैश्विक मिट्टी से की जाती है?",
+        "en": "Internationally, Indian black soil corresponds to which global soil group?"
+      },
+      "o": [
+        {
+          "hi": "पोडजोल",
+          "en": "Podzol"
+        },
+        {
+          "hi": "चेरनोजम मिट्टी (Chernozem / उष्णकटिबंधीय चेरनोजम)",
+          "en": "Chernozem (Tropical Chernozem)"
+        },
+        {
+          "hi": "सिरोजम",
+          "en": "Sierozem"
+        },
+        {
+          "hi": "लेटोसोल",
+          "en": "Latosol"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लेटराइट मिट्टी (Laterite Soil) का निर्माण किस प्रक्रिया द्वारा होता है?",
+        "en": "Laterite soil is predominantly formed as a result of which soil-forming process?"
+      },
+      "o": [
+        {
+          "hi": "हवा के निक्षेपण से",
+          "en": "Wind deposition"
+        },
+        {
+          "hi": "ज्वालामुखी राख से",
+          "en": "Volcanic ash"
+        },
+        {
+          "hi": "तीव्र मानसूनी वर्षा में निक्षालन (लीचिंग / Leaching) द्वारा",
+          "en": "Intense leaching under heavy monsoon rains"
+        },
+        {
+          "hi": "नदियों के बाढ़ से",
+          "en": "River flooding"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'लेटराइट' (Laterite) शब्द लैटिन भाषा के 'लेटर' (Later) से बना है, जिसका अर्थ क्या है?",
+        "en": "The word 'Laterite' comes from Latin word 'Later', meaning what?"
+      },
+      "o": [
+        {
+          "hi": "पत्थर",
+          "en": "Stone"
+        },
+        {
+          "hi": "लोहा",
+          "en": "Iron"
+        },
+        {
+          "hi": "मिट्टी",
+          "en": "Earth"
+        },
+        {
+          "hi": "ईंट (Brick)",
+          "en": "Brick"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सूख जाने पर ईंट की तरह अत्यंत कठोर हो जाने वाली मिट्टी कौन-सी है?",
+        "en": "Which soil becomes rock-hard like a brick when dry and soft when wet?"
+      },
+      "o": [
+        {
+          "hi": "लेटराइट मिट्टी (Laterite Soil)",
+          "en": "Laterite Soil"
+        },
+        {
+          "hi": "काली मिट्टी",
+          "en": "Black Soil"
+        },
+        {
+          "hi": "जलोढ़ मिट्टी",
+          "en": "Alluvial Soil"
+        },
+        {
+          "hi": "बलुई मिट्टी",
+          "en": "Sandy Soil"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लेटराइट मिट्टी में किन तत्वों की अधिकता पाई जाती है?",
+        "en": "Laterite soil is rich in which oxides due to heavy leaching?"
+      },
+      "o": [
+        {
+          "hi": "नाइट्रोजन और पोटाश",
+          "en": "Nitrogen and Potash"
+        },
+        {
+          "hi": "लोहा और एल्युमीनियम (Iron & Aluminium Oxides)",
+          "en": "Iron & Aluminium Oxides"
+        },
+        {
+          "hi": "चूना और फास्फोरस",
+          "en": "Lime and Phosphorus"
+        },
+        {
+          "hi": "ह्यूमस और मैग्नीशियम",
+          "en": "Humus and Magnesium"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लेटराइट मिट्टी भारत में मुख्य रूप से कहाँ पाई जाती है?",
+        "en": "Laterite soils are prominently developed in which Indian regions?"
+      },
+      "o": [
+        {
+          "hi": "गंगा के मैदान में",
+          "en": "Ganga Plains"
+        },
+        {
+          "hi": "थार मरुस्थल में",
+          "en": "Thar Desert"
+        },
+        {
+          "hi": "पश्चिमी घाट, मेघालय पठार एवं केरल के उच्च भागों में",
+          "en": "Western Ghats, Meghalaya & Kerala highlands"
+        },
+        {
+          "hi": "पंजाब और हरियाणा में",
+          "en": "Punjab and Haryana"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लेटराइट मिट्टी किन बागानी फसलों (Plantation Crops) की खेती के लिए उत्तम है?",
+        "en": "Laterite soil is best suited for which plantation cash crops?"
+      },
+      "o": [
+        {
+          "hi": "गेहूँ और सरसों",
+          "en": "Wheat and Mustard"
+        },
+        {
+          "hi": "धान और जूट",
+          "en": "Paddy and Jute"
+        },
+        {
+          "hi": "कपास और सोयाबीन",
+          "en": "Cotton and Soybean"
+        },
+        {
+          "hi": "चाय, कॉफी, काजू और रबर (Tea, Coffee, Cashew & Rubber)",
+          "en": "Tea, Coffee, Cashew & Rubber"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मरुस्थलीय मिट्टी (Desert / Arid Soil) भारत के किस राज्य में सर्वाधिक पाई जाती है?",
+        "en": "Desert/Arid soil is most extensively distributed in which state?"
+      },
+      "o": [
+        {
+          "hi": "राजस्थान (पश्चिमी राजस्थान / Rajasthan)",
+          "en": "Rajasthan (Western Rajasthan)"
+        },
+        {
+          "hi": "गुजरात",
+          "en": "Gujarat"
+        },
+        {
+          "hi": "पंजाब",
+          "en": "Punjab"
+        },
+        {
+          "hi": "हरियाणा",
+          "en": "Haryana"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मरुस्थलीय मिट्टी में किसकी अधिकता होती है और किसकी अत्यधिक कमी?",
+        "en": "In desert soils, what is abundant and what is severely deficient?"
+      },
+      "o": [
+        {
+          "hi": "नाइट्रोजन अधिक, लवण कम",
+          "en": "Nitrogen high, salts low"
+        },
+        {
+          "hi": "लवण एवं फास्फेट अधिक, नमी व नाइट्रोजन की भारी कमी",
+          "en": "Soluble salts high; moisture & nitrogen deficient"
+        },
+        {
+          "hi": "ह्यूमस अधिक, बालू कम",
+          "en": "Humus high"
+        },
+        {
+          "hi": "चूना कम, पोटाश कम",
+          "en": "Lime low"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लवणीय एवं क्षारीय मिट्टी (Saline and Alkaline Soil) को स्थानीय रूप से क्या कहते हैं?",
+        "en": "Saline-alkaline soils in northern India are locally referred to as?"
+      },
+      "o": [
+        {
+          "hi": "खादर और बांगर",
+          "en": "Khadar & Bangar"
+        },
+        {
+          "hi": "रेगुर और मटियार",
+          "en": "Regur & Matiyar"
+        },
+        {
+          "hi": "रेह, उसर, कल्लर या चोपन (Reh, Usar, Kallar)",
+          "en": "Reh, Usar, Kallar or Chopan"
+        },
+        {
+          "hi": "बुग्याल और मर्ग",
+          "en": "Bugyal & Marg"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नहरी सिंचाई वाले क्षेत्रों (पंजाब, हरियाणा, UP) में मिट्टी के लवणीय होने का क्या कारण है?",
+        "en": "What causes salinization/alkalization of soils in canal-irrigated areas?"
+      },
+      "o": [
+        {
+          "hi": "अत्यधिक रासायनिक खाद",
+          "en": "Fertilizers"
+        },
+        {
+          "hi": "कम वर्षा होना",
+          "en": "Low rainfall"
+        },
+        {
+          "hi": "मिट्टी की कटाई",
+          "en": "Soil cutting"
+        },
+        {
+          "hi": "अत्यधिक जलभराव एवं केशिका क्रिया (Capillary action & waterlogging)",
+          "en": "Waterlogging and capillary action"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अम्लीय मिट्टी (Acidic Soil) के सुधार हेतु उसमें क्या मिलाया जाता है?",
+        "en": "What substance is added to reclaim Acidic Soil for agriculture?"
+      },
+      "o": [
+        {
+          "hi": "चूना (कली चूना / बुझा चूना / Lime)",
+          "en": "Lime (Quicklime / Slaked lime)"
+        },
+        {
+          "hi": "जिप्सम (Gypsum)",
+          "en": "Gypsum"
+        },
+        {
+          "hi": "यूरिया",
+          "en": "Urea"
+        },
+        {
+          "hi": "पोटाश",
+          "en": "Potash"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्षारीय मिट्टी (Alkaline / Saline Soil) के उपचार हेतु किसका उपयोग किया जाता है?",
+        "en": "What chemical amendment is used to reclaim Alkaline / Sodic soil?"
+      },
+      "o": [
+        {
+          "hi": "चूना पत्थर",
+          "en": "Limestone"
+        },
+        {
+          "hi": "जिप्सम (कैल्शियम सल्फेट / Gypsum)",
+          "en": "Gypsum (Calcium Sulphate)"
+        },
+        {
+          "hi": "नाइट्रोजन",
+          "en": "Nitrogen"
+        },
+        {
+          "hi": "सल्फर पाउडर",
+          "en": "Sulfur powder"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पर्वतीय मिट्टी (Forest / Mountain Soil) में किसकी प्रचुरता पाई जाती है?",
+        "en": "Forest and Mountain soils of the Himalayas are rich in?"
+      },
+      "o": [
+        {
+          "hi": "पोटाश",
+          "en": "Potash"
+        },
+        {
+          "hi": "चूना",
+          "en": "Lime"
+        },
+        {
+          "hi": "ह्यूमस / जीवांश (Humus from forest litter)",
+          "en": "Humus (organic matter)"
+        },
+        {
+          "hi": "फास्फोरस",
+          "en": "Phosphorus"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पर्वतीय मिट्टी मुख्य रूप से किन फसलों के लिए उपयुक्त मानी जाती है?",
+        "en": "Mountain/Forest soils on hill slopes are suitable for which crops?"
+      },
+      "o": [
+        {
+          "hi": "कपास और मक्का",
+          "en": "Cotton and Maize"
+        },
+        {
+          "hi": "गेहूँ और चना",
+          "en": "Wheat and Gram"
+        },
+        {
+          "hi": "बाजरा और ज्वार",
+          "en": "Millets"
+        },
+        {
+          "hi": "चाय, कॉफी, सेब और मसाले (Tea, Coffee, Apple & Spices)",
+          "en": "Tea, Coffee, Apple & Spices"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पीट एवं दलदली मिट्टी (Peaty and Marshy Soil) मुख्य रूप से कहाँ पाई जाती है?",
+        "en": "Peaty and Organic marshy soils are typically found in?"
+      },
+      "o": [
+        {
+          "hi": "सुंदरवन डेल्टा (WB), केरल (अलेप्पी/कोट्टायम) व उत्तराखंड",
+          "en": "Sundarbans (WB), Kerala (Kari/Alappuzha) & UK"
+        },
+        {
+          "hi": "थार मरुस्थल",
+          "en": "Thar Desert"
+        },
+        {
+          "hi": "दक्कन का पठार",
+          "en": "Deccan Plateau"
+        },
+        {
+          "hi": "लद्दाख का पठार",
+          "en": "Ladakh Plateau"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "केरल के तटीय क्षेत्रों में पाई जाने वाली पीट मिट्टी को स्थानीय रूप से क्या कहते हैं?",
+        "en": "Peaty saline organic soil found in coastal Kerala is locally called?"
+      },
+      "o": [
+        {
+          "hi": "रेह",
+          "en": "Reh"
+        },
+        {
+          "hi": "कारी (Kari Soil)",
+          "en": "Kari Soil"
+        },
+        {
+          "hi": "रेगुर",
+          "en": "Regur"
+        },
+        {
+          "hi": "उसर",
+          "en": "Usar"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मृदा की उर्वरता बनाए रखने के लिए किन फसलों का चक्रीकरण (Crop Rotation) किया जाता है?",
+        "en": "To restore natural soil nitrogen fertility, which crops are rotated?"
+      },
+      "o": [
+        {
+          "hi": "अनाज वाली फसलें",
+          "en": "Cereal crops"
+        },
+        {
+          "hi": "सब्जियां",
+          "en": "Vegetables"
+        },
+        {
+          "hi": "दलहनी फसलें (फलीदार पौधे / Leguminous crops)",
+          "en": "Leguminous crops (Pulses)"
+        },
+        {
+          "hi": "कंद वाली फसलें",
+          "en": "Tuber crops"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दलहनी पौधों की जड़ों की गांठों में कौन-सा सहजीवी जीवाणु नाइट्रोजन स्थिरीकरण करता है?",
+        "en": "Which symbiotic bacterium in pulse root nodules fixes atmospheric nitrogen?"
+      },
+      "o": [
+        {
+          "hi": "अमीबा",
+          "en": "Amoeba"
+        },
+        {
+          "hi": "लैक्टोबैसिलस",
+          "en": "Lactobacillus"
+        },
+        {
+          "hi": "ई-कोलाई",
+          "en": "E. Coli"
+        },
+        {
+          "hi": "राइजोबियम (Rhizobium)",
+          "en": "Rhizobium"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मृदा अपरदन (Soil Erosion) को किस उपनाम से जाना जाता है?",
+        "en": "Soil erosion is often metaphorically described by agricultural scientists as?"
+      },
+      "o": [
+        {
+          "hi": "किसान की मौत / रेंगती हुई मृत्यु (Creeping Death)",
+          "en": "Creeping Death / Farmer's Death"
+        },
+        {
+          "hi": "कृषि की संजीवनी",
+          "en": "Agri Sanjeevani"
+        },
+        {
+          "hi": "भूमि का पोषण",
+          "en": "Land nutrition"
+        },
+        {
+          "hi": "मिट्टी की क्रांति",
+          "en": "Soil revolution"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तीव्र वर्षा द्वारा मिट्टी की ऊपरी परत का बड़े पैमाने पर कट जाना क्या कहलाता है?",
+        "en": "Uniform removal of topsoil layer over large areas by sheet runoff is called?"
+      },
+      "o": [
+        {
+          "hi": "अवनालिका अपरदन",
+          "en": "Gully erosion"
+        },
+        {
+          "hi": "परत अपरदन (शीट अपरदन / Sheet Erosion)",
+          "en": "Sheet Erosion"
+        },
+        {
+          "hi": "वायु अपरदन",
+          "en": "Wind erosion"
+        },
+        {
+          "hi": "तटीय अपरदन",
+          "en": "Coastal erosion"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मध्य प्रदेश के चंबल बेसिन में गहरी नालियों और बीहड़ों का निर्माण किस अपरदन से हुआ?",
+        "en": "Deep ravines and badlands in Chambal basin were formed by which severe erosion?"
+      },
+      "o": [
+        {
+          "hi": "परत अपरदन",
+          "en": "Sheet erosion"
+        },
+        {
+          "hi": "वायु अपरदन",
+          "en": "Wind erosion"
+        },
+        {
+          "hi": "अवनालिका अपरदन (गली अपरदन / Gully Erosion)",
+          "en": "Gully Erosion"
+        },
+        {
+          "hi": "हिमानी अपरदन",
+          "en": "Glacial erosion"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पहाड़ी ढालों पर मृदा अपरदन रोकने की सर्वोत्तम वैज्ञानिक विधि कौन-सी है?",
+        "en": "Which is the most effective farming practice to prevent soil erosion on steep slopes?"
+      },
+      "o": [
+        {
+          "hi": "झूम कृषि करना",
+          "en": "Shifting cultivation"
+        },
+        {
+          "hi": "ढाल के समानांतर जुताई",
+          "en": "Plowing along slope"
+        },
+        {
+          "hi": "गहरी जुताई करना",
+          "en": "Deep digging"
+        },
+        {
+          "hi": "सीढ़ीदार खेती एवं समोच्च रेखीय जुताई (Terrace Farming / Contour Bunding)",
+          "en": "Terrace Farming & Contour Bunding"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मरुस्थलीय क्षेत्रों में वायु अपरदन को रोकने के लिए क्या उपाय किया जाता है?",
+        "en": "What technique is used to combat wind erosion in arid desert lands?"
+      },
+      "o": [
+        {
+          "hi": "रक्षक मेखला (वृक्षों की कतार / Shelterbelts / Windbreaks)",
+          "en": "Shelterbelts / Windbreaks"
+        },
+        {
+          "hi": "सीढ़ीदार खेत बनाना",
+          "en": "Terrace fields"
+        },
+        {
+          "hi": "तालाब खोदना",
+          "en": "Ponds"
+        },
+        {
+          "hi": "रासायनिक छिड़काव",
+          "en": "Chemical spray"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय मृदा विज्ञान संस्थान (IISS) का मुख्यालय कहाँ स्थित है?",
+        "en": "Indian Institute of Soil Science (IISS) is located in which city?"
+      },
+      "o": [
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "भोपाल (मध्य प्रदेश / Bhopal)",
+          "en": "Bhopal (Madhya Pradesh)"
+        },
+        {
+          "hi": "नागपुर",
+          "en": "Nagpur"
+        },
+        {
+          "hi": "देहरादून",
+          "en": "Dehradun"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "केंद्रीय मृदा लवणता अनुसंधान संस्थान (CSSRI) कहाँ स्थित है?",
+        "en": "Central Soil Salinity Research Institute (CSSRI) is located at?"
+      },
+      "o": [
+        {
+          "hi": "जोधपुर",
+          "en": "Jodhpur"
+        },
+        {
+          "hi": "हिसार",
+          "en": "Hisar"
+        },
+        {
+          "hi": "करनाल (हरियाणा / Karnal)",
+          "en": "Karnal (Haryana)"
+        },
+        {
+          "hi": "बीकानेर",
+          "en": "Bikaner"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रीय मृदा सर्वेक्षण एवं भूमि उपयोग नियोजन ब्यूरो (NBSS&LUP) कहाँ है?",
+        "en": "National Bureau of Soil Survey & Land Use Planning (NBSS&LUP) is at?"
+      },
+      "o": [
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "भोपाल",
+          "en": "Bhopal"
+        },
+        {
+          "hi": "पुणे",
+          "en": "Pune"
+        },
+        {
+          "hi": "नागपुर (महाराष्ट्र / Nagpur)",
+          "en": "Nagpur (Maharashtra)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत सरकार द्वारा 'मृदा स्वास्थ्य कार्ड योजना' (Soil Health Card Scheme) कब शुरू हुई?",
+        "en": "When was the 'Soil Health Card Scheme' launched by the Government of India?"
+      },
+      "o": [
+        {
+          "hi": "19 फरवरी 2015 (सूरतगढ़, राजस्थान)",
+          "en": "19 Feb 2015 (Suratgarh, Rajasthan)"
+        },
+        {
+          "hi": "2014",
+          "en": "2014"
+        },
+        {
+          "hi": "2016",
+          "en": "2016"
+        },
+        {
+          "hi": "2018",
+          "en": "2018"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मृदा स्वास्थ्य कार्ड योजना का आधिकारिक ध्येय वाक्य (Motto) क्या है?",
+        "en": "What is the official slogan/motto of the Soil Health Card Scheme?"
+      },
+      "o": [
+        {
+          "hi": "हर खेत को पानी",
+          "en": "Har Khet Ko Pani"
+        },
+        {
+          "hi": "स्वस्थ धरा, खेत हरा (Healthy Earth, Green Farm)",
+          "en": "Swasth Dhara, Khet Hara"
+        },
+        {
+          "hi": "जय जवान जय किसान",
+          "en": "Jai Jawan Jai Kisan"
+        },
+        {
+          "hi": "किसान की आय दोगुनी",
+          "en": "Doubling Farmer Income"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कृषि योग्य भूमि का आदर्श pH मान (Ideal Soil pH) कितना होना चाहिए?",
+        "en": "What is the optimal pH range of soil for most agricultural crops?"
+      },
+      "o": [
+        {
+          "hi": "3.0 से 4.5",
+          "en": "3.0 to 4.5"
+        },
+        {
+          "hi": "8.5 से 10.0",
+          "en": "8.5 to 10.0"
+        },
+        {
+          "hi": "6.5 से 7.5 (लगभग उदासीन / Neutral)",
+          "en": "6.5 to 7.5 (Near Neutral)"
+        },
+        {
+          "hi": "1.0 से 2.0",
+          "en": "1.0 to 2.0"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यदि मिट्टी का pH मान 7 से कम हो, तो मिट्टी कैसी होती है?",
+        "en": "If the soil pH is less than 7, what is its nature?"
+      },
+      "o": [
+        {
+          "hi": "क्षारीय",
+          "en": "Alkaline"
+        },
+        {
+          "hi": "लवणीय",
+          "en": "Saline"
+        },
+        {
+          "hi": "उदासीन",
+          "en": "Neutral"
+        },
+        {
+          "hi": "अम्लीय (Acidic)",
+          "en": "Acidic"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यदि मिट्टी का pH मान 7 से अधिक (जैसे 8.5+) हो, तो मिट्टी कैसी होती है?",
+        "en": "If the soil pH is significantly greater than 7 (e.g. 8.5+), it is?"
+      },
+      "o": [
+        {
+          "hi": "क्षारीय (Alkaline)",
+          "en": "Alkaline"
+        },
+        {
+          "hi": "अम्लीय",
+          "en": "Acidic"
+        },
+        {
+          "hi": "उपजाऊ",
+          "en": "Fertile"
+        },
+        {
+          "hi": "उदासीन",
+          "en": "Neutral"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मिट्टी में केंचुए (Earthworms) को 'किसान का मित्र' क्यों कहा जाता है?",
+        "en": "Why are earthworms universally honored as the 'Farmer's Friend'?"
+      },
+      "o": [
+        {
+          "hi": "वे फसल को खाते हैं",
+          "en": "They eat crops"
+        },
+        {
+          "hi": "वे मिट्टी को भुरभुरा बनाकर हवादार व वर्मीकम्पोस्ट बनाते हैं",
+          "en": "They burrow, aerate soil & produce vermicompost"
+        },
+        {
+          "hi": "वे कीटों को मारते हैं",
+          "en": "They kill pests"
+        },
+        {
+          "hi": "वे जल रोकते हैं",
+          "en": "They retain water"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भारत का भूगोल (Indian Geography)",
+  "subtitle": "भारत का भौतिक स्वरूप",
+  "description": "भारत का भौतिक स्वरूप पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारत को भौतिक स्वरूप के आधार पर मुख्य रूप से कितने भागों में विभाजित किया गया है?",
+        "en": "Into how many primary physiographic divisions is India broadly divided?"
+      },
+      "o": [
+        {
+          "hi": "5 से 6 भौतिक प्रदेशों में",
+          "en": "5 to 6 physiographic divisions"
+        },
+        {
+          "hi": "3 प्रदेशों में",
+          "en": "3 divisions"
+        },
+        {
+          "hi": "8 प्रदेशों में",
+          "en": "8 divisions"
+        },
+        {
+          "hi": "10 प्रदेशों में",
+          "en": "10 divisions"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भू-गर्भिक दृष्टि से भारत का सर्वाधिक प्राचीन भू-भाग कौन-सा है?",
+        "en": "Geologically, which is the oldest and most stable landmass of India?"
+      },
+      "o": [
+        {
+          "hi": "उत्तर का विशाल मैदान",
+          "en": "Northern Plains"
+        },
+        {
+          "hi": "प्रायद्वीपीय पठार (Peninsular Plateau / गोंडवाना लैंड)",
+          "en": "Peninsular Plateau (Gondwana Land)"
+        },
+        {
+          "hi": "हिमालय पर्वतमाला",
+          "en": "Himalayan Mountains"
+        },
+        {
+          "hi": "तटीय मैदान",
+          "en": "Coastal Plains"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हिमालय पर्वतमाला की उत्पत्ति किस प्राचीन भूसन्नति (Geosyncline) के मलबे से हुई?",
+        "en": "Himalayas originated from sediments deposited in which ancient geosyncline sea?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत भूसन्नति",
+          "en": "Pacific"
+        },
+        {
+          "hi": "लाल सागर",
+          "en": "Red Sea"
+        },
+        {
+          "hi": "टेथिस सागर (Tethys Sea)",
+          "en": "Tethys Sea"
+        },
+        {
+          "hi": "यूराल सागर",
+          "en": "Ural Sea"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हिमालय किस प्रकार का पर्वत है?",
+        "en": "What type of mountain system is the Himalayas?"
+      },
+      "o": [
+        {
+          "hi": "भ्रंशोत्थ पर्वत (Block)",
+          "en": "Block Mountain"
+        },
+        {
+          "hi": "ज्वालामुखी पर्वत",
+          "en": "Volcanic Mountain"
+        },
+        {
+          "hi": "अवशिष्ट पर्वत",
+          "en": "Residual Mountain"
+        },
+        {
+          "hi": "नवीन वलित पर्वत (Young Fold Mountain)",
+          "en": "Young Fold Mountain"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हिमालय की उत्तर से दक्षिण की तीन समानांतर श्रेणियों का सही क्रम क्या है?",
+        "en": "Correct north-to-south sequence of the 3 parallel ranges of Himalayas?"
+      },
+      "o": [
+        {
+          "hi": "वृहद् हिमालय, लघु/मध्य हिमालय, शिवालिक",
+          "en": "Greater, Lesser/Middle, Shiwalik"
+        },
+        {
+          "hi": "शिवालिक, मध्य हिमालय, वृहद् हिमालय",
+          "en": "Shiwalik, Lesser, Greater"
+        },
+        {
+          "hi": "लघु हिमालय, वृहद् हिमालय, शिवालिक",
+          "en": "Lesser, Greater, Shiwalik"
+        },
+        {
+          "hi": "काराकोरम, शिवालिक, पीर पंजाल",
+          "en": "Karakoram, Shiwalik, Pir Panjal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हिमालय की सबसे ऊँची एवं सतत श्रेणी कौन-सी है जिसे 'हिमाद्रि' भी कहते हैं?",
+        "en": "Which is the highest continuous range of Himalayas, also called 'Himadri'?"
+      },
+      "o": [
+        {
+          "hi": "शिवालिक",
+          "en": "Shiwalik"
+        },
+        {
+          "hi": "वृहद् हिमालय / महान हिमालय (Greater Himalayas / Himadri)",
+          "en": "Greater Himalayas (Himadri)"
+        },
+        {
+          "hi": "पीर पंजाल",
+          "en": "Pir Panjal"
+        },
+        {
+          "hi": "धौलाधार",
+          "en": "Dhauladhar"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "महान हिमालय (हिमाद्रि) की औसत ऊँचाई लगभग कितनी है?",
+        "en": "What is the average elevation of the Greater Himalayas (Himadri)?"
+      },
+      "o": [
+        {
+          "hi": "3,000 मीटर",
+          "en": "3,000 m"
+        },
+        {
+          "hi": "4,500 मीटर",
+          "en": "4,500 m"
+        },
+        {
+          "hi": "6,000 मीटर (6,100 m)",
+          "en": "6,000 m (6,100 m)"
+        },
+        {
+          "hi": "8,000 मीटर",
+          "en": "8,000 m"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हिमालय की सबसे दक्षिणी और नवीनतम पर्वत श्रेणी कौन-सी है?",
+        "en": "Which is the southernmost, outer and youngest range of the Himalayas?"
+      },
+      "o": [
+        {
+          "hi": "जास्कर श्रेणी",
+          "en": "Zanskar Range"
+        },
+        {
+          "hi": "पीर पंजाल",
+          "en": "Pir Panjal"
+        },
+        {
+          "hi": "वृहद् हिमालय",
+          "en": "Greater Himalayas"
+        },
+        {
+          "hi": "शिवालिक श्रेणी (उप-हिमालय / Shiwalik)",
+          "en": "Shiwalik Range (Sub-Himalayas)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ट्रांस-हिमालय (तिब्बत हिमालय) में कौन-सी प्रमुख पर्वत श्रेणियां स्थित हैं?",
+        "en": "Which mountain ranges are included in the Trans-Himalayas zone?"
+      },
+      "o": [
+        {
+          "hi": "काराकोरम, लद्दाख और जास्कर श्रेणियां",
+          "en": "Karakoram, Ladakh & Zanskar"
+        },
+        {
+          "hi": "पीर पंजाल और धौलाधार",
+          "en": "Pir Panjal & Dhauladhar"
+        },
+        {
+          "hi": "शिवालिक और महाभारत",
+          "en": "Shiwalik & Mahabharat"
+        },
+        {
+          "hi": "गारो, खासी और जयंतिया",
+          "en": "Garo, Khasi & Jaintia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे ऊँचा दर्रा 'काराकोरम दर्रा' (5,654 मी) किस श्रेणी में है?",
+        "en": "Karakoram Pass (5,654 m), highest motorable pass, is in which range?"
+      },
+      "o": [
+        {
+          "hi": "पीर पंजाल",
+          "en": "Pir Panjal"
+        },
+        {
+          "hi": "काराकोरम श्रेणी (लद्दाख / Karakoram)",
+          "en": "Karakoram Range (Ladakh)"
+        },
+        {
+          "hi": "जास्कर श्रेणी",
+          "en": "Zanskar Range"
+        },
+        {
+          "hi": "धौलाधार",
+          "en": "Dhauladhar"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा गैर-ध्रुवीय हिमनद 'सियाचिन ग्लेशियर' किस श्रेणी में है?",
+        "en": "Siachen Glacier, world's highest battlefield, is located in which range?"
+      },
+      "o": [
+        {
+          "hi": "पीर पंजाल",
+          "en": "Pir Panjal"
+        },
+        {
+          "hi": "जास्कर",
+          "en": "Zanskar"
+        },
+        {
+          "hi": "काराकोरम श्रेणी (नुब्रा घाटी / Karakoram)",
+          "en": "Karakoram Range (Nubra Valley)"
+        },
+        {
+          "hi": "शिवालिक",
+          "en": "Shiwalik"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कश्मीर घाटी (Valley of Kashmir) किन दो पर्वत श्रेणियों के मध्य स्थित है?",
+        "en": "Kashmir Valley is situated between which two mountain ranges?"
+      },
+      "o": [
+        {
+          "hi": "लद्दाख और जास्कर",
+          "en": "Ladakh & Zanskar"
+        },
+        {
+          "hi": "शिवालिक और धौलाधार",
+          "en": "Shiwalik & Dhauladhar"
+        },
+        {
+          "hi": "काराकोरम और लद्दाख",
+          "en": "Karakoram & Ladakh"
+        },
+        {
+          "hi": "वृहद् हिमालय और पीर पंजाल (Greater Himalayas & Pir Panjal)",
+          "en": "Greater Himalayas & Pir Panjal"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कश्मीर घाटी में हिमानी झीलों के निक्षेप से बनी उपजाऊ मृदा 'करेवा' किसकी खेती हेतु प्रसिद्ध है?",
+        "en": "Lacustrine fertile deposits 'Karewas' in Kashmir Valley are famous for growing?"
+      },
+      "o": [
+        {
+          "hi": "जाफरान (केसर / Saffron)",
+          "en": "Saffron (Zaffran)"
+        },
+        {
+          "hi": "चाय",
+          "en": "Tea"
+        },
+        {
+          "hi": "कॉफी",
+          "en": "Coffee"
+        },
+        {
+          "hi": "रबर",
+          "en": "Rubber"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सिडनी बुरार्ड द्वारा हिमालय का प्रादेशिक विभाजन पश्चिम से पूर्व किस आधार पर किया गया?",
+        "en": "On what basis did Sir Sidney Burrard divide Himalayas from west to east?"
+      },
+      "o": [
+        {
+          "hi": "ऊँचाई के आधार पर",
+          "en": "On elevation"
+        },
+        {
+          "hi": "नदी घाटियों के आधार पर (River Valleys)",
+          "en": "On basis of River Valleys"
+        },
+        {
+          "hi": "चट्टानों की आयु पर",
+          "en": "Age of rocks"
+        },
+        {
+          "hi": "वनों के प्रकार पर",
+          "en": "Forest types"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सिंधु नदी और सतलज नदी के बीच के हिमालय को क्या कहा जाता है?",
+        "en": "Himalayan section between Indus and Sutlej rivers is called?"
+      },
+      "o": [
+        {
+          "hi": "कुमाऊं हिमालय",
+          "en": "Kumaon Himalayas"
+        },
+        {
+          "hi": "नेपाल हिमालय",
+          "en": "Nepal Himalayas"
+        },
+        {
+          "hi": "पंजाब हिमालय / कश्मीर हिमालय (560 किमी)",
+          "en": "Punjab / Kashmir Himalayas"
+        },
+        {
+          "hi": "असम हिमालय",
+          "en": "Assam Himalayas"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सतलज नदी और काली नदी के मध्य फैले हिमालय को क्या कहते हैं?",
+        "en": "Himalayan section between Sutlej and Kali rivers is called?"
+      },
+      "o": [
+        {
+          "hi": "पंजाब हिमालय",
+          "en": "Punjab Himalayas"
+        },
+        {
+          "hi": "नेपाल हिमालय",
+          "en": "Nepal Himalayas"
+        },
+        {
+          "hi": "असम हिमालय",
+          "en": "Assam Himalayas"
+        },
+        {
+          "hi": "कुमाऊं हिमालय (320 किमी / Kumaon Himalayas)",
+          "en": "Kumaon Himalayas"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "काली नदी और तीस्ता नदी के बीच फैले हिमालय को क्या कहा जाता है?",
+        "en": "Himalayan section between Kali and Teesta rivers is called?"
+      },
+      "o": [
+        {
+          "hi": "नेपाल हिमालय (800 किमी - सर्वोच्च चोटियां)",
+          "en": "Nepal Himalayas (800 km - highest peaks)"
+        },
+        {
+          "hi": "कुमाऊं हिमालय",
+          "en": "Kumaon Himalayas"
+        },
+        {
+          "hi": "पंजाब हिमालय",
+          "en": "Punjab Himalayas"
+        },
+        {
+          "hi": "असम हिमालय",
+          "en": "Assam Himalayas"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तीस्ता नदी और दिहांग (ब्रह्मपुत्र) नदी के मध्य स्थित हिमालय क्या कहलाता है?",
+        "en": "Himalayan section between Teesta and Dihang (Brahmaputra) is called?"
+      },
+      "o": [
+        {
+          "hi": "कुमाऊं हिमालय",
+          "en": "Kumaon Himalayas"
+        },
+        {
+          "hi": "असम हिमालय (720 किमी / Assam Himalayas)",
+          "en": "Assam Himalayas"
+        },
+        {
+          "hi": "नेपाल हिमालय",
+          "en": "Nepal Himalayas"
+        },
+        {
+          "hi": "पंजाब हिमालय",
+          "en": "Punjab Himalayas"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लघु हिमालय और शिवालिक के बीच की अनुदैर्ध्य घाटियों को पश्चिम में क्या कहते हैं?",
+        "en": "Longitudinal structural valleys between Lesser Himalayas & Shiwalik are called?"
+      },
+      "o": [
+        {
+          "hi": "करेवा",
+          "en": "Karewa"
+        },
+        {
+          "hi": "बग्याल",
+          "en": "Bugyal"
+        },
+        {
+          "hi": "दून (जैसे देहरादून, कोटली दून / Doon)",
+          "en": "Doon (e.g. Dehradun)"
+        },
+        {
+          "hi": "भाबर",
+          "en": "Bhabar"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लघु हिमालय और शिवालिक के बीच की घाटियों को पूर्व में क्या कहा जाता है?",
+        "en": "What are these longitudinal valleys called in eastern Himalayas?"
+      },
+      "o": [
+        {
+          "hi": "दून",
+          "en": "Doon"
+        },
+        {
+          "hi": "बग्याल",
+          "en": "Bugyal"
+        },
+        {
+          "hi": "खादर",
+          "en": "Khadar"
+        },
+        {
+          "hi": "द्वार (जैसे हरिद्वार / Duar)",
+          "en": "Duar (e.g. Haridwar)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लघु हिमालय के ढालों पर पाए जाने वाले छोटे-छोटे घास के मैदानों को कश्मीर में क्या कहते हैं?",
+        "en": "Small alpine meadows on slopes of Lesser Himalayas are called in Kashmir?"
+      },
+      "o": [
+        {
+          "hi": "मर्ग (जैसे गुलमर्ग, सोनमर्ग / Marg)",
+          "en": "Marg (Gulmarg, Sonmarg)"
+        },
+        {
+          "hi": "बुग्याल",
+          "en": "Bugyal"
+        },
+        {
+          "hi": "प payar",
+          "en": "Payar"
+        },
+        {
+          "hi": "दून",
+          "en": "Doon"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उत्तराखंड में इन शीतोष्ण घास के मैदानों को क्या कहा जाता है?",
+        "en": "What are these alpine meadow pastures called in Uttarakhand?"
+      },
+      "o": [
+        {
+          "hi": "मर्ग",
+          "en": "Marg"
+        },
+        {
+          "hi": "बुग्याल एवं पयार (Bugyal & Payar)",
+          "en": "Bugyal and Payar"
+        },
+        {
+          "hi": "दून",
+          "en": "Doon"
+        },
+        {
+          "hi": "भाबर",
+          "en": "Bhabar"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "शिवालिक के गिरिपाद में 8 से 16 किमी चौड़ी कंकड़-पत्थरों वाली पेटी जहाँ नदियां लुप्त हो जाती हैं?",
+        "en": "8-16 km pebble-gravel belt at Shiwalik foothills where rivers disappear underground?"
+      },
+      "o": [
+        {
+          "hi": "तराई पेटी",
+          "en": "Tarai belt"
+        },
+        {
+          "hi": "बांगर पेटी",
+          "en": "Bangar belt"
+        },
+        {
+          "hi": "भाबर पेटी (Bhabar Belt)",
+          "en": "Bhabar Belt"
+        },
+        {
+          "hi": "खादर पेटी",
+          "en": "Khadar belt"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भाबर के दक्षिण में स्थित दलदली, सघन वनों एवं जैव विविधता से युक्त पेटी क्या कहलाती है?",
+        "en": "Wet, marshy, densely forested belt south of Bhabar where streams re-emerge?"
+      },
+      "o": [
+        {
+          "hi": "भाबर",
+          "en": "Bhabar"
+        },
+        {
+          "hi": "बांगर",
+          "en": "Bangar"
+        },
+        {
+          "hi": "खादर",
+          "en": "Khadar"
+        },
+        {
+          "hi": "तराई पेटी (Tarai Belt)",
+          "en": "Tarai Belt"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उत्तरी मैदानों में पुरानी जलोढ़ मिट्टी से निर्मित उच्च भूमि क्षेत्र क्या कहलाता है?",
+        "en": "Older alluvial elevated plains above flood levels in northern India are called?"
+      },
+      "o": [
+        {
+          "hi": "बांगर (Bangar)",
+          "en": "Bangar"
+        },
+        {
+          "hi": "खादर (Khadar)",
+          "en": "Khadar"
+        },
+        {
+          "hi": "भाबर",
+          "en": "Bhabar"
+        },
+        {
+          "hi": "तराई",
+          "en": "Tarai"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नदियों द्वारा प्रतिवर्ष बाढ़ में बिछाई जाने वाली नवीन उपजाऊ जलोढ़ मिट्टी क्या कहलाती है?",
+        "en": "Newer fertile alluvial soil renewed annually by river floods is called?"
+      },
+      "o": [
+        {
+          "hi": "बांगर",
+          "en": "Bangar"
+        },
+        {
+          "hi": "खादर (Khadar)",
+          "en": "Khadar"
+        },
+        {
+          "hi": "रेह या कल्लर",
+          "en": "Reh or Kollar"
+        },
+        {
+          "hi": "भाबर",
+          "en": "Bhabar"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रायद्वीपीय भारत की अरावली पर्वत श्रृंखला किस प्रकार के पर्वत का सर्वोत्तम उदाहरण है?",
+        "en": "Aravalli Range in northwestern India is the classic example of which mountain type?"
+      },
+      "o": [
+        {
+          "hi": "नवीन वलित पर्वत",
+          "en": "Young Fold Mountain"
+        },
+        {
+          "hi": "भ्रंशोत्थ पर्वत",
+          "en": "Block Mountain"
+        },
+        {
+          "hi": "अवशिष्ट पर्वत (Residual / Relict Mountain)",
+          "en": "Residual Mountain"
+        },
+        {
+          "hi": "ज्वालामुखी पर्वत",
+          "en": "Volcanic Mountain"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अरावली पर्वत श्रृंखला की सबसे ऊँची चोटी कौन-सी है?",
+        "en": "Which is the highest peak of the Aravalli Range (1,722 m)?"
+      },
+      "o": [
+        {
+          "hi": "धूपगढ़",
+          "en": "Dhupgarh"
+        },
+        {
+          "hi": "अमरकंटक",
+          "en": "Amarkantak"
+        },
+        {
+          "hi": "पारसनाथ",
+          "en": "Parasnath"
+        },
+        {
+          "hi": "गुरु शिखर (माउंट आबू / Guru Shikhar)",
+          "en": "Guru Shikhar (Mount Abu)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नर्मदा और ताप्ती नदियों के बीच कौन-सी ब्लॉक पर्वत श्रेणी स्थित है?",
+        "en": "Which block mountain range lies between the Narmada and Tapti rift valleys?"
+      },
+      "o": [
+        {
+          "hi": "सतपुड़ा श्रेणी (Satpura Range)",
+          "en": "Satpura Range"
+        },
+        {
+          "hi": "विंध्याचल श्रेणी",
+          "en": "Vindhyan Range"
+        },
+        {
+          "hi": "अरावली",
+          "en": "Aravalli"
+        },
+        {
+          "hi": "अजंता श्रेणी",
+          "en": "Ajanta Range"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सतपुड़ा पर्वत श्रृंखला की सर्वोच्च चोटी 'धूपगढ़' (1,350 मी) कहाँ स्थित है?",
+        "en": "Where is Dhupgarh (1,350 m), the highest peak of Satpura, located?"
+      },
+      "o": [
+        {
+          "hi": "अमरकंटक में",
+          "en": "Amarkantak"
+        },
+        {
+          "hi": "पचमढ़ी (महादेव पहाड़ियाँ, MP / Pachmarhi)",
+          "en": "Pachmarhi (Mahadeo Hills)"
+        },
+        {
+          "hi": "मैकाल श्रेणी में",
+          "en": "Maikal Range"
+        },
+        {
+          "hi": "राजपिपला में",
+          "en": "Rajpipla"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नर्मदा, सोन और जोहिला नदियों का उद्गम किस पहाड़ी से होता है?",
+        "en": "Narmada, Son, and Johilla rivers originate from which radial drainage hub?"
+      },
+      "o": [
+        {
+          "hi": "महादेव पहाड़ियाँ",
+          "en": "Mahadeo Hills"
+        },
+        {
+          "hi": "धूपगढ़",
+          "en": "Dhupgarh"
+        },
+        {
+          "hi": "अमरकंटक (मैकाल श्रेणी / Amarkantak)",
+          "en": "Amarkantak (Maikal Range)"
+        },
+        {
+          "hi": "पारसनाथ",
+          "en": "Parasnath"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत को उत्तर भारत और दक्षिण भारत में प्राकृतिक रूप से विभाजित करने वाली पर्वतमाला?",
+        "en": "Which mountain range acts as the natural divide between North and South India?"
+      },
+      "o": [
+        {
+          "hi": "सतपुड़ा श्रेणी",
+          "en": "Satpura Range"
+        },
+        {
+          "hi": "अरावली श्रेणी",
+          "en": "Aravalli Range"
+        },
+        {
+          "hi": "पश्चिमी घाट",
+          "en": "Western Ghats"
+        },
+        {
+          "hi": "विंध्याचल पर्वत श्रेणी (Vindhyan Range)",
+          "en": "Vindhyan Range"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पश्चिमी घाट (Western Ghats) को महाराष्ट्र और कर्नाटक में किस नाम से जाना जाता है?",
+        "en": "By what name are the Western Ghats known in Maharashtra and Karnataka?"
+      },
+      "o": [
+        {
+          "hi": "सह्याद्रि (Sahyadri)",
+          "en": "Sahyadri"
+        },
+        {
+          "hi": "मलयगिरी",
+          "en": "Malayagiri"
+        },
+        {
+          "hi": "नीलगिरी",
+          "en": "Nilgiri"
+        },
+        {
+          "hi": "एनामलाई",
+          "en": "Annamalai"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पश्चिमी घाट और पूर्वी घाट का मिलन स्थल कौन-सी पहाड़ियाँ हैं?",
+        "en": "Which hills form the junction connecting the Western and Eastern Ghats?"
+      },
+      "o": [
+        {
+          "hi": "अन्नामलाई पहाड़ियाँ",
+          "en": "Annamalai Hills"
+        },
+        {
+          "hi": "नीलगिरी की पहाड़ियाँ (Nilgiri Hills)",
+          "en": "Nilgiri Hills"
+        },
+        {
+          "hi": "कार्डमम पहाड़ियाँ",
+          "en": "Cardamom Hills"
+        },
+        {
+          "hi": "पालनी पहाड़ियाँ",
+          "en": "Palani Hills"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दक्षिण भारत की सबसे ऊँची चोटी 'अनाइमुडी' (2,695 मी) किस पहाड़ी पर स्थित है?",
+        "en": "Anamudi (2,695 m), highest peak in South India, is on which hills?"
+      },
+      "o": [
+        {
+          "hi": "नीलगिरी पहाड़ियाँ",
+          "en": "Nilgiri Hills"
+        },
+        {
+          "hi": "कार्डमम पहाड़ियाँ",
+          "en": "Cardamom Hills"
+        },
+        {
+          "hi": "अन्नामलाई पहाड़ियाँ (Annamalai Hills, केरल)",
+          "en": "Annamalai Hills (Kerala)"
+        },
+        {
+          "hi": "पालनी पहाड़ियाँ",
+          "en": "Palani Hills"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत की दक्षिणतम पर्वत श्रेणी (Southernmost Hill Range of India) कौन-सी है?",
+        "en": "Which is the southernmost mountain range in mainland India?"
+      },
+      "o": [
+        {
+          "hi": "नीलगिरी",
+          "en": "Nilgiri"
+        },
+        {
+          "hi": "अन्नामलाई",
+          "en": "Annamalai"
+        },
+        {
+          "hi": "जावादी पहाड़ियाँ",
+          "en": "Javadi Hills"
+        },
+        {
+          "hi": "इलायची पहाड़ियाँ / कार्डमम हिल्स (Cardamom Hills)",
+          "en": "Cardamom Hills"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मुंबई और नासिक के बीच कौन-सा प्रमुख पश्चिमी घाट दर्रा स्थित है?",
+        "en": "Which Western Ghats pass connects Mumbai to Nashik (NH-3)?"
+      },
+      "o": [
+        {
+          "hi": "थालघाट दर्रा (Thal Ghat - 581 मी)",
+          "en": "Thal Ghat"
+        },
+        {
+          "hi": "भोरघाट दर्रा",
+          "en": "Bhor Ghat"
+        },
+        {
+          "hi": "पालघाट दर्रा",
+          "en": "Palghat Gap"
+        },
+        {
+          "hi": "सेनकोट्टा दर्रा",
+          "en": "Shencottah Gap"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मुंबई और पुणे को जोड़ने वाला पश्चिमी घाट दर्रा कौन-सा है?",
+        "en": "Which Western Ghats pass connects Mumbai to Pune (NH-4)?"
+      },
+      "o": [
+        {
+          "hi": "थालघाट",
+          "en": "Thal Ghat"
+        },
+        {
+          "hi": "भोरघाट दर्रा (Bhor Ghat - 630 मी)",
+          "en": "Bhor Ghat"
+        },
+        {
+          "hi": "पालघाट",
+          "en": "Palghat"
+        },
+        {
+          "hi": "सेनकोट्टा",
+          "en": "Shencottah"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "केरल के पलक्कड़ और तमिलनाडु के कोयंबटूर को जोड़ने वाला प्रमुख दर्रा कौन-सा है?",
+        "en": "Which pass connects Palakkad (Kerala) to Coimbatore (Tamil Nadu)?"
+      },
+      "o": [
+        {
+          "hi": "थालघाट",
+          "en": "Thal Ghat"
+        },
+        {
+          "hi": "भोरघाट",
+          "en": "Bhor Ghat"
+        },
+        {
+          "hi": "पालघाट दर्रा (Palghat Gap)",
+          "en": "Palghat Gap"
+        },
+        {
+          "hi": "सेनकोट्टा दर्रा",
+          "en": "Shencottah Gap"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तिरुवनंतपुरम और मदुरै को जोड़ने वाला दर्रा कौन-सा है?",
+        "en": "Which pass links Thiruvananthapuram (Kerala) to Madurai (Tamil Nadu)?"
+      },
+      "o": [
+        {
+          "hi": "थालघाट",
+          "en": "Thal Ghat"
+        },
+        {
+          "hi": "भोरघाट",
+          "en": "Bhor Ghat"
+        },
+        {
+          "hi": "पालघाट",
+          "en": "Palghat"
+        },
+        {
+          "hi": "सेनकोट्टा दर्रा (Shencottah Gap)",
+          "en": "Shencottah Gap"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "श्रीनगर को लेह से जोड़ने वाला प्रमुख राष्ट्रीय राजमार्ग दर्रा कौन-सा है?",
+        "en": "Which strategic Himalayan pass connects Srinagar to Leh (NH-1D)?"
+      },
+      "o": [
+        {
+          "hi": "जोजिला दर्रा (Zoji La - लद्दाख/J&K)",
+          "en": "Zoji La"
+        },
+        {
+          "hi": "बनिहाल दर्रा",
+          "en": "Banihal Pass"
+        },
+        {
+          "hi": "पीर पंजाल दर्रा",
+          "en": "Pir Panjal Pass"
+        },
+        {
+          "hi": "बुर्जिल दर्रा",
+          "en": "Burzil Pass"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जम्मू को श्रीनगर से जोड़ने वाली जवाहर सुरंग किस दर्रे में स्थित है?",
+        "en": "In which Himalayan pass is the famous Jawahar Tunnel located (NH-44)?"
+      },
+      "o": [
+        {
+          "hi": "जोजिला दर्रा",
+          "en": "Zoji La"
+        },
+        {
+          "hi": "बनिहाल दर्रा (Banihal Pass)",
+          "en": "Banihal Pass"
+        },
+        {
+          "hi": "रोहतांग दर्रा",
+          "en": "Rohtang Pass"
+        },
+        {
+          "hi": "बाड़ालाचा ला",
+          "en": "Bara-lacha La"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मनाली को लेह से जोड़ने वाला 'अटल टनल' किस दर्रे के नीचे निर्मित है?",
+        "en": "Beneath which pass was the world-famous Atal Tunnel built near Manali?"
+      },
+      "o": [
+        {
+          "hi": "शिपकी ला",
+          "en": "Shipki La"
+        },
+        {
+          "hi": "बाड़ालाचा ला",
+          "en": "Bara-lacha La"
+        },
+        {
+          "hi": "रोहतांग दर्रा (Rohtang Pass)",
+          "en": "Rohtang Pass"
+        },
+        {
+          "hi": "माना दर्रा",
+          "en": "Mana Pass"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हिमाचल प्रदेश में सतलज नदी किस दर्रे से होकर भारत में प्रवेश करती है?",
+        "en": "Through which Himalayan pass does the Sutlej River enter India from Tibet?"
+      },
+      "o": [
+        {
+          "hi": "रोहतांग दर्रा",
+          "en": "Rohtang Pass"
+        },
+        {
+          "hi": "बाड़ालाचा ला",
+          "en": "Bara-lacha La"
+        },
+        {
+          "hi": "जेलप ला",
+          "en": "Jelep La"
+        },
+        {
+          "hi": "शिपकी ला दर्रा (Shipki La)",
+          "en": "Shipki La Pass"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सिक्किम को ल्हासा (तिब्बत) से जोड़ने वाला ऐतिहासिक सिल्क रूट दर्रा कौन-सा है?",
+        "en": "Which historic pass connects Sikkim to Lhasa (Tibet) reopened in 2006?"
+      },
+      "o": [
+        {
+          "hi": "नाथू ला दर्रा (Nathu La)",
+          "en": "Nathu La"
+        },
+        {
+          "hi": "जेलप ला",
+          "en": "Jelep La"
+        },
+        {
+          "hi": "बोमडिला",
+          "en": "Bomdi La"
+        },
+        {
+          "hi": "दिफू",
+          "en": "Diphu"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अरुणाचल प्रदेश को ल्हासा (तिब्बत) से जोड़ने वाला प्रमुख दर्रा कौन-सा है?",
+        "en": "Which prominent pass connects Arunachal Pradesh to Lhasa (Tibet)?"
+      },
+      "o": [
+        {
+          "hi": "नाथू ला",
+          "en": "Nathu La"
+        },
+        {
+          "hi": "बोमडिला दर्रा (Bomdi La)",
+          "en": "Bomdi La"
+        },
+        {
+          "hi": "यांग्याप दर्रा",
+          "en": "Yonggyap Pass"
+        },
+        {
+          "hi": "दिफू दर्रा",
+          "en": "Diphu Pass"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ब्रह्मपुत्र नदी किस दर्रे के पास से भारत के अरुणाचल प्रदेश में प्रवेश करती है?",
+        "en": "Near which Himalayan pass does the Brahmaputra River enter Arunachal Pradesh?"
+      },
+      "o": [
+        {
+          "hi": "बोमडिला",
+          "en": "Bomdi La"
+        },
+        {
+          "hi": "दिफू दर्रा",
+          "en": "Diphu Pass"
+        },
+        {
+          "hi": "यांग्याप दर्रा (Yonggyap Pass)",
+          "en": "Yonggyap Pass"
+        },
+        {
+          "hi": "नीति दर्रा",
+          "en": "Niti Pass"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उत्तराखंड में तिब्बत सीमा पर स्थित तीन प्रमुख दर्रे कौन-से हैं?",
+        "en": "Which three famous passes link Uttarakhand to Tibet for Kailash Mansarovar?"
+      },
+      "o": [
+        {
+          "hi": "जोजिला, बनिहाल, बुर्जिल",
+          "en": "Zoji La, Banihal, Burzil"
+        },
+        {
+          "hi": "रोहतांग, शिपकी ला, बाड़ालाचा",
+          "en": "Rohtang, Shipki, Baralacha"
+        },
+        {
+          "hi": "नाथू ला, जेलप ला, बोमडिला",
+          "en": "Nathu La, Jelep La, Bomdila"
+        },
+        {
+          "hi": "माना, नीति और लिपुलेख दर्रा (Mana, Niti & Lipulekh)",
+          "en": "Mana, Niti & Lipulekh"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लक्षद्वीप समूह किस प्रकार के द्वीपों का उदाहरण है?",
+        "en": "Lakshadweep island archipelago is a classic example of which island type?"
+      },
+      "o": [
+        {
+          "hi": "प्रवाल द्वीप / एटोल (Coral Atolls)",
+          "en": "Coral Atolls"
+        },
+        {
+          "hi": "ज्वालामुखी द्वीप",
+          "en": "Volcanic Islands"
+        },
+        {
+          "hi": "अवसादी द्वीप",
+          "en": "Sedimentary Islands"
+        },
+        {
+          "hi": "नदी द्वीप",
+          "en": "River Islands"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का दक्षिणतम भू-भाग 'इंदिरा पॉइंट' 2004 की सुनामी में जलमग्न हुआ, वह कहाँ है?",
+        "en": "Indira Point, which was partially submerged during 2004 tsunami, is in?"
+      },
+      "o": [
+        {
+          "hi": "कार निकोबार",
+          "en": "Car Nicobar"
+        },
+        {
+          "hi": "ग्रेट निकोबार द्वीप (Great Nicobar Island)",
+          "en": "Great Nicobar Island"
+        },
+        {
+          "hi": "लघु अंडमान",
+          "en": "Little Andaman"
+        },
+        {
+          "hi": "मध्य अंडमान",
+          "en": "Middle Andaman"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

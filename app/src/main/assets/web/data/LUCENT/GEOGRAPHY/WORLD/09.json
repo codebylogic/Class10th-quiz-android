@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विश्व का भूगोल (World Geography)",
+  "subtitle": "विश्व की प्रमुख फसलें एवं उनके उत्पादक देश",
+  "description": "विश्व की प्रमुख फसलें एवं उनके उत्पादक देश पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "विश्व में चावल (Rice) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which is the largest producer country of Rice in the world?"
+      },
+      "o": [
+        {
+          "hi": "चीन (China)",
+          "en": "China"
+        },
+        {
+          "hi": "भारत (India)",
+          "en": "India"
+        },
+        {
+          "hi": "इंडोनेशिया (Indonesia)",
+          "en": "Indonesia"
+        },
+        {
+          "hi": "थाईलैंड (Thailand)",
+          "en": "Thailand"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में चावल उत्पादन में भारत का कौन-सा स्थान है?",
+        "en": "What is India's rank in world rice production?"
+      },
+      "o": [
+        {
+          "hi": "प्रथम",
+          "en": "First"
+        },
+        {
+          "hi": "द्वितीय (Second)",
+          "en": "Second"
+        },
+        {
+          "hi": "तृतीय",
+          "en": "Third"
+        },
+        {
+          "hi": "चतुर्थ",
+          "en": "Fourth"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व में चावल का सबसे बड़ा निर्यातक (Exporter) देश कौन-सा है?",
+        "en": "Which country is the largest exporter of rice in the world?"
+      },
+      "o": [
+        {
+          "hi": "वियतनाम",
+          "en": "Vietnam"
+        },
+        {
+          "hi": "थाईलैंड",
+          "en": "Thailand"
+        },
+        {
+          "hi": "भारत (India)",
+          "en": "India"
+        },
+        {
+          "hi": "पाकिस्तान",
+          "en": "Pakistan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चावल की खेती के लिए अनुकूल जलवायु और मिट्टी कौन-सी है?",
+        "en": "Ideal climate and soil for rice cultivation?"
+      },
+      "o": [
+        {
+          "hi": "शीतोष्ण जलवायु एवं बलुई मिट्टी",
+          "en": "Temperate & sandy"
+        },
+        {
+          "hi": "शुष्क जलवायु एवं काली मिट्टी",
+          "en": "Arid & black soil"
+        },
+        {
+          "hi": "अल्पाइन जलवायु एवं लेटराइट",
+          "en": "Alpine & laterite"
+        },
+        {
+          "hi": "उष्ण-आर्द्र जलवायु एवं जलोढ़/चिकनी मिट्टी",
+          "en": "Hot-humid & alluvial/clayey soil"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व में गेहूँ (Wheat) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which is the largest producer of Wheat in the world?"
+      },
+      "o": [
+        {
+          "hi": "चीन (China)",
+          "en": "China"
+        },
+        {
+          "hi": "भारत",
+          "en": "India"
+        },
+        {
+          "hi": "रूस",
+          "en": "Russia"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका",
+          "en": "USA"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में गेहूँ उत्पादन में भारत का कौन-सा स्थान है?",
+        "en": "What is India's position in global wheat production?"
+      },
+      "o": [
+        {
+          "hi": "प्रथम",
+          "en": "First"
+        },
+        {
+          "hi": "द्वितीय (Second)",
+          "en": "Second"
+        },
+        {
+          "hi": "तृतीय",
+          "en": "Third"
+        },
+        {
+          "hi": "चतुर्थ",
+          "en": "Fourth"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व में मक्का (Maize / Corn) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which is the largest producer country of Maize (Corn) in the world?"
+      },
+      "o": [
+        {
+          "hi": "चीन",
+          "en": "China"
+        },
+        {
+          "hi": "ब्राजील",
+          "en": "Brazil"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका (USA)",
+          "en": "USA"
+        },
+        {
+          "hi": "अर्जेंटीना",
+          "en": "Argentina"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व की 'मक्का पेटी' (Corn Belt) किस देश में स्थित है?",
+        "en": "The world famous 'Corn Belt' is located in which country?"
+      },
+      "o": [
+        {
+          "hi": "कनाडा",
+          "en": "Canada"
+        },
+        {
+          "hi": "मेक्सिको",
+          "en": "Mexico"
+        },
+        {
+          "hi": "ब्राजील",
+          "en": "Brazil"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका (USA)",
+          "en": "USA"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व में गन्ने (Sugarcane) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which is the largest producer country of Sugarcane in the world?"
+      },
+      "o": [
+        {
+          "hi": "ब्राजील (Brazil)",
+          "en": "Brazil"
+        },
+        {
+          "hi": "भारत (India)",
+          "en": "India"
+        },
+        {
+          "hi": "चीन",
+          "en": "China"
+        },
+        {
+          "hi": "क्यूबा",
+          "en": "Cuba"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में गन्ना उत्पादन में दूसरा प्रमुख स्थान किस देश का है?",
+        "en": "Which country ranks second in global sugarcane production?"
+      },
+      "o": [
+        {
+          "hi": "ब्राजील",
+          "en": "Brazil"
+        },
+        {
+          "hi": "भारत (India)",
+          "en": "India"
+        },
+        {
+          "hi": "थाईलैंड",
+          "en": "Thailand"
+        },
+        {
+          "hi": "पाकिस्तान",
+          "en": "Pakistan"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व में 'चीनी का कटोरा' (Sugar Bowl of the World) किसे कहा जाता था?",
+        "en": "Which country was traditionally called the 'Sugar Bowl of the World'?"
+      },
+      "o": [
+        {
+          "hi": "ब्राजील",
+          "en": "Brazil"
+        },
+        {
+          "hi": "भारत",
+          "en": "India"
+        },
+        {
+          "hi": "क्यूबा (Cuba)",
+          "en": "Cuba"
+        },
+        {
+          "hi": "इंडोनेशिया",
+          "en": "Indonesia"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व में चुकंदर से सर्वाधिक चीनी बनाने वाला देश कौन-सा है?",
+        "en": "Which country is the leading producer of sugar from sugar beet?"
+      },
+      "o": [
+        {
+          "hi": "जर्मनी",
+          "en": "Germany"
+        },
+        {
+          "hi": "फ्रांस",
+          "en": "France"
+        },
+        {
+          "hi": "यूक्रेन",
+          "en": "Ukraine"
+        },
+        {
+          "hi": "रूस (Russia)",
+          "en": "Russia"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व में चाय (Tea) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which is the largest tea producing country in the world?"
+      },
+      "o": [
+        {
+          "hi": "चीन (China)",
+          "en": "China"
+        },
+        {
+          "hi": "भारत",
+          "en": "India"
+        },
+        {
+          "hi": "केन्या",
+          "en": "Kenya"
+        },
+        {
+          "hi": "श्रीलंका",
+          "en": "Sri Lanka"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में चाय का सबसे बड़ा निर्यातक (Exporter) देश कौन-सा है?",
+        "en": "Which country is the largest exporter of tea in the world?"
+      },
+      "o": [
+        {
+          "hi": "चीन",
+          "en": "China"
+        },
+        {
+          "hi": "केन्या (Kenya)",
+          "en": "Kenya"
+        },
+        {
+          "hi": "भारत",
+          "en": "India"
+        },
+        {
+          "hi": "श्रीलंका",
+          "en": "Sri Lanka"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व में कहवा (कॉफी / Coffee) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which country is the largest producer of Coffee in the world?"
+      },
+      "o": [
+        {
+          "hi": "कोलंबिया",
+          "en": "Colombia"
+        },
+        {
+          "hi": "वियतनाम",
+          "en": "Vietnam"
+        },
+        {
+          "hi": "ब्राजील (Brazil)",
+          "en": "Brazil"
+        },
+        {
+          "hi": "इथियोपिया",
+          "en": "Ethiopia"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व की 'कॉफी राजधानी' (Coffee Capital) किसे कहा जाता है?",
+        "en": "Which city is known as the 'Coffee Capital of the World'?"
+      },
+      "o": [
+        {
+          "hi": "सैंटोस",
+          "en": "Santos"
+        },
+        {
+          "hi": "रियो डी जेनेरो",
+          "en": "Rio de Janeiro"
+        },
+        {
+          "hi": "ब्यूनस आयर्स",
+          "en": "Buenos Aires"
+        },
+        {
+          "hi": "साओ पाउलो (ब्राजील / Sao Paulo)",
+          "en": "Sao Paulo (Brazil)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व का प्रसिद्ध 'कॉफी पत्तन' (Coffee Port) कौन-सा बंदरगाह कहलाता है?",
+        "en": "Which port is famously known as the 'Coffee Port' of the world?"
+      },
+      "o": [
+        {
+          "hi": "सैंटोस बंदरगाह (ब्राजील / Santos Port)",
+          "en": "Santos Port (Brazil)"
+        },
+        {
+          "hi": "साओ पाउलो",
+          "en": "Sao Paulo"
+        },
+        {
+          "hi": "रियो डी जेनेरो",
+          "en": "Rio de Janeiro"
+        },
+        {
+          "hi": "रोटरडैम",
+          "en": "Rotterdam"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में कपास (Cotton) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which is the largest producer of Cotton in the world?"
+      },
+      "o": [
+        {
+          "hi": "संयुक्त राज्य अमेरिका",
+          "en": "USA"
+        },
+        {
+          "hi": "भारत / चीन (India / China)",
+          "en": "India / China"
+        },
+        {
+          "hi": "पाकिस्तान",
+          "en": "Pakistan"
+        },
+        {
+          "hi": "उज्बेकिस्तान",
+          "en": "Uzbekistan"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लंबे रेशे वाली सर्वोत्तम अमेरिकी कपास को क्या कहा जाता है?",
+        "en": "What is the premium long-staple American cotton called?"
+      },
+      "o": [
+        {
+          "hi": "उपलेंड कपास",
+          "en": "Upland Cotton"
+        },
+        {
+          "hi": "देशी कपास",
+          "en": "Desi Cotton"
+        },
+        {
+          "hi": "सी-आइलैंड कपास (Sea Island Cotton)",
+          "en": "Sea Island Cotton"
+        },
+        {
+          "hi": "मिस्री कपास",
+          "en": "Egyptian Cotton"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व में जूट (Jute / पटसन) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which country is the largest producer of Jute in the world?"
+      },
+      "o": [
+        {
+          "hi": "बांग्लादेश",
+          "en": "Bangladesh"
+        },
+        {
+          "hi": "चीन",
+          "en": "China"
+        },
+        {
+          "hi": "थाईलैंड",
+          "en": "Thailand"
+        },
+        {
+          "hi": "भारत (India)",
+          "en": "India"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व में जूट का सबसे बड़ा निर्यातक (Exporter) देश कौन-सा है?",
+        "en": "Which country is the largest exporter of Jute in the world?"
+      },
+      "o": [
+        {
+          "hi": "बांग्लादेश (Bangladesh)",
+          "en": "Bangladesh"
+        },
+        {
+          "hi": "भारत",
+          "en": "India"
+        },
+        {
+          "hi": "म्यांमार",
+          "en": "Myanmar"
+        },
+        {
+          "hi": "नेपाल",
+          "en": "Nepal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में प्राकृतिक रबर (Natural Rubber) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which is the largest producer of Natural Rubber in the world?"
+      },
+      "o": [
+        {
+          "hi": "मलेशिया",
+          "en": "Malaysia"
+        },
+        {
+          "hi": "थाईलैंड (Thailand)",
+          "en": "Thailand"
+        },
+        {
+          "hi": "इंडोनेशिया",
+          "en": "Indonesia"
+        },
+        {
+          "hi": "भारत",
+          "en": "India"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्राकृतिक रबर उत्पादन में दूसरा प्रमुख स्थान किस देश का है?",
+        "en": "Which country ranks second in natural rubber production?"
+      },
+      "o": [
+        {
+          "hi": "थाईलैंड",
+          "en": "Thailand"
+        },
+        {
+          "hi": "मलेशिया",
+          "en": "Malaysia"
+        },
+        {
+          "hi": "इंडोनेशिया (Indonesia)",
+          "en": "Indonesia"
+        },
+        {
+          "hi": "वियतनाम",
+          "en": "Vietnam"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व में तम्बाकू (Tobacco) का सबसे बड़ा उत्पादक और उपभोक्ता देश कौन-सा है?",
+        "en": "Which country is the largest producer and consumer of Tobacco?"
+      },
+      "o": [
+        {
+          "hi": "भारत",
+          "en": "India"
+        },
+        {
+          "hi": "ब्राजील",
+          "en": "Brazil"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका",
+          "en": "USA"
+        },
+        {
+          "hi": "चीन (China)",
+          "en": "China"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व में सोयाबीन (Soybean) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which is the largest producer country of Soybean in the world?"
+      },
+      "o": [
+        {
+          "hi": "ब्राजील / USA (Brazil / USA)",
+          "en": "Brazil / USA"
+        },
+        {
+          "hi": "चीन",
+          "en": "China"
+        },
+        {
+          "hi": "भारत",
+          "en": "India"
+        },
+        {
+          "hi": "रूस",
+          "en": "Russia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में मूंगफली (Groundnut / Peanut) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which country is the largest producer of Groundnut (Peanut)?"
+      },
+      "o": [
+        {
+          "hi": "भारत",
+          "en": "India"
+        },
+        {
+          "hi": "चीन (China)",
+          "en": "China"
+        },
+        {
+          "hi": "नाइजीरिया",
+          "en": "Nigeria"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका",
+          "en": "USA"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व में दलहन (Pulses / दालें) का सबसे बड़ा उत्पादक एवं उपभोक्ता देश कौन-सा है?",
+        "en": "Which country is the largest producer and consumer of Pulses in the world?"
+      },
+      "o": [
+        {
+          "hi": "कनाडा",
+          "en": "Canada"
+        },
+        {
+          "hi": "म्यांमार",
+          "en": "Myanmar"
+        },
+        {
+          "hi": "भारत (India)",
+          "en": "India"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया",
+          "en": "Australia"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व में मसालों (Spices) का सबसे बड़ा उत्पादक, उपभोक्ता एवं निर्यातक कौन है?",
+        "en": "Which country is the largest producer, consumer, and exporter of Spices?"
+      },
+      "o": [
+        {
+          "hi": "इंडोनेशिया",
+          "en": "Indonesia"
+        },
+        {
+          "hi": "वियतनाम",
+          "en": "Vietnam"
+        },
+        {
+          "hi": "ग्रेनेडा",
+          "en": "Grenada"
+        },
+        {
+          "hi": "भारत (India)",
+          "en": "India"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व में नारियल (Coconut) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which country is the leading producer of Coconut in the world?"
+      },
+      "o": [
+        {
+          "hi": "इंडोनेशिया (Indonesia)",
+          "en": "Indonesia"
+        },
+        {
+          "hi": "फिलीपींस",
+          "en": "Philippines"
+        },
+        {
+          "hi": "भारत",
+          "en": "India"
+        },
+        {
+          "hi": "श्रीलंका",
+          "en": "Sri Lanka"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में कोको (Cocoa) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which is the largest producer country of Cocoa in the world?"
+      },
+      "o": [
+        {
+          "hi": "घाना",
+          "en": "Ghana"
+        },
+        {
+          "hi": "आइवरी कोस्ट (कोटे डी आइवर)",
+          "en": "Ivory Coast (Cote d'Ivoire)"
+        },
+        {
+          "hi": "नाइजीरिया",
+          "en": "Nigeria"
+        },
+        {
+          "hi": "ब्राजील",
+          "en": "Brazil"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व में ताजे फलों (Fresh Fruits) और सब्जियों के उत्पादन में प्रथम देश कौन-सा है?",
+        "en": "Which country is the largest producer of fresh fruits and vegetables?"
+      },
+      "o": [
+        {
+          "hi": "भारत",
+          "en": "India"
+        },
+        {
+          "hi": "ब्राजील",
+          "en": "Brazil"
+        },
+        {
+          "hi": "चीन (China)",
+          "en": "China"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका",
+          "en": "USA"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व में दूध (Milk) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which is the largest milk producing country in the world?"
+      },
+      "o": [
+        {
+          "hi": "संयुक्त राज्य अमेरिका",
+          "en": "USA"
+        },
+        {
+          "hi": "चीन",
+          "en": "China"
+        },
+        {
+          "hi": "पाकिस्तान",
+          "en": "Pakistan"
+        },
+        {
+          "hi": "भारत (India - लगभग 24% वैश्विक उत्पादन)",
+          "en": "India (~24% Global)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व में रेशम (Silk) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which is the largest producer of Silk in the world?"
+      },
+      "o": [
+        {
+          "hi": "चीन (China)",
+          "en": "China"
+        },
+        {
+          "hi": "भारत",
+          "en": "India"
+        },
+        {
+          "hi": "उज्बेकिस्तान",
+          "en": "Uzbekistan"
+        },
+        {
+          "hi": "वियतनाम",
+          "en": "Vietnam"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रेशम की सभी चार प्रमुख व्यावसायिक किस्मों (मलबरी, तसर, एरी, मूंगा) का उत्पादक देश?",
+        "en": "Country producing all four commercial varieties of silk (Mulberry, Tasar, Eri, Muga)?"
+      },
+      "o": [
+        {
+          "hi": "चीन",
+          "en": "China"
+        },
+        {
+          "hi": "भारत (India)",
+          "en": "India"
+        },
+        {
+          "hi": "जापान",
+          "en": "Japan"
+        },
+        {
+          "hi": "थाईलैंड",
+          "en": "Thailand"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व में ऊन (Wool) का सबसे बड़ा उत्पादक और निर्यातक देश कौन-सा है?",
+        "en": "Which is the largest producer and exporter of Wool in the world?"
+      },
+      "o": [
+        {
+          "hi": "न्यूजीलैंड",
+          "en": "New Zealand"
+        },
+        {
+          "hi": "चीन",
+          "en": "China"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        },
+        {
+          "hi": "अर्जेंटीना",
+          "en": "Argentina"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व में मेरिनो ऊन (Merino Wool - सर्वश्रेष्ठ किस्म) का मुख्य उत्पादक देश?",
+        "en": "Which country is the primary producer of finest Merino Wool?"
+      },
+      "o": [
+        {
+          "hi": "दक्षिण अफ्रीका",
+          "en": "South Africa"
+        },
+        {
+          "hi": "न्यूजीलैंड",
+          "en": "New Zealand"
+        },
+        {
+          "hi": "कजाकिस्तान",
+          "en": "Kazakhstan"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व में जैतून (Olive) और जैतून के तेल का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which country is the largest producer of Olives and Olive Oil?"
+      },
+      "o": [
+        {
+          "hi": "स्पेन (Spain)",
+          "en": "Spain"
+        },
+        {
+          "hi": "इटली",
+          "en": "Italy"
+        },
+        {
+          "hi": "ग्रीस",
+          "en": "Greece"
+        },
+        {
+          "hi": "तुर्की",
+          "en": "Turkey"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में खट्टे रसीले फलों (Citrus Fruits) के लिए कौन-सा जलवायु प्रदेश विख्यात है?",
+        "en": "Which climatic region is world famous for citrus fruits viticulture?"
+      },
+      "o": [
+        {
+          "hi": "मानसून प्रदेश",
+          "en": "Monsoon Region"
+        },
+        {
+          "hi": "भूमध्यसागरीय जलवायु प्रदेश (Mediterranean)",
+          "en": "Mediterranean Region"
+        },
+        {
+          "hi": "टुंड्रा प्रदेश",
+          "en": "Tundra Region"
+        },
+        {
+          "hi": "सवाना प्रदेश",
+          "en": "Savanna Region"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व में अंगूर (Grapes) और वाइन (शराब) का प्रमुख उत्पादक यूरोपीय देश कौन-सा है?",
+        "en": "Which European country is leading in grapes and wine production?"
+      },
+      "o": [
+        {
+          "hi": "जर्मनी",
+          "en": "Germany"
+        },
+        {
+          "hi": "ब्रिटेन",
+          "en": "UK"
+        },
+        {
+          "hi": "इटली एवं फ्रांस (Italy & France)",
+          "en": "Italy & France"
+        },
+        {
+          "hi": "पोलैंड",
+          "en": "Poland"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व में पाम ऑयल (ताड़ का तेल) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which is the largest producer country of Palm Oil in the world?"
+      },
+      "o": [
+        {
+          "hi": "मलेशिया",
+          "en": "Malaysia"
+        },
+        {
+          "hi": "थाईलैंड",
+          "en": "Thailand"
+        },
+        {
+          "hi": "नाइजीरिया",
+          "en": "Nigeria"
+        },
+        {
+          "hi": "इंडोनेशिया (Indonesia)",
+          "en": "Indonesia"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व में सूरजमुखी के बीज (Sunflower Seed) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which country is the leading producer of Sunflower seeds?"
+      },
+      "o": [
+        {
+          "hi": "रूस एवं यूक्रेन (Russia & Ukraine)",
+          "en": "Russia & Ukraine"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका",
+          "en": "USA"
+        },
+        {
+          "hi": "अर्जेंटीना",
+          "en": "Argentina"
+        },
+        {
+          "hi": "चीन",
+          "en": "China"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में जौ (Barley) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which country is the largest producer of Barley in the world?"
+      },
+      "o": [
+        {
+          "hi": "कनाडा",
+          "en": "Canada"
+        },
+        {
+          "hi": "रूस (Russia)",
+          "en": "Russia"
+        },
+        {
+          "hi": "फ्रांस",
+          "en": "France"
+        },
+        {
+          "hi": "जर्मनी",
+          "en": "Germany"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व में जई (Oats) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which country is the largest producer of Oats in the world?"
+      },
+      "o": [
+        {
+          "hi": "ऑस्ट्रेलिया",
+          "en": "Australia"
+        },
+        {
+          "hi": "पोलैंड",
+          "en": "Poland"
+        },
+        {
+          "hi": "कनाडा एवं रूस (Canada & Russia)",
+          "en": "Canada & Russia"
+        },
+        {
+          "hi": "ब्राजील",
+          "en": "Brazil"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व में राई (Rye) का सर्वाधिक उत्पादन किस देश में होता है?",
+        "en": "Which country produces the largest quantity of Rye in the world?"
+      },
+      "o": [
+        {
+          "hi": "संयुक्त राज्य अमेरिका",
+          "en": "USA"
+        },
+        {
+          "hi": "कनाडा",
+          "en": "Canada"
+        },
+        {
+          "hi": "चीन",
+          "en": "China"
+        },
+        {
+          "hi": "जर्मनी / पोलैंड / रूस (Germany/Poland)",
+          "en": "Germany / Poland / Russia"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व में सेब (Apple) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which is the largest apple producing country in the world?"
+      },
+      "o": [
+        {
+          "hi": "चीन (China)",
+          "en": "China"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका",
+          "en": "USA"
+        },
+        {
+          "hi": "तुर्की",
+          "en": "Turkey"
+        },
+        {
+          "hi": "पोलैंड",
+          "en": "Poland"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में केले (Banana) और आम (Mango) का सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which country is the largest producer of Bananas and Mangoes?"
+      },
+      "o": [
+        {
+          "hi": "ब्राजील",
+          "en": "Brazil"
+        },
+        {
+          "hi": "भारत (India)",
+          "en": "India"
+        },
+        {
+          "hi": "फिलीपींस",
+          "en": "Philippines"
+        },
+        {
+          "hi": "चीन",
+          "en": "China"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व में काजू (Cashew Nut) और बादाम का प्रमुख उत्पादक देश कौन-सा है?",
+        "en": "Major producer of cashew nuts and almonds in the world?"
+      },
+      "o": [
+        {
+          "hi": "घाना",
+          "en": "Ghana"
+        },
+        {
+          "hi": "श्रीलंका",
+          "en": "Sri Lanka"
+        },
+        {
+          "hi": "आइवरी कोस्ट/भारत (काजू) और USA (बादाम)",
+          "en": "Ivory Coast/India (Cashew) & USA (Almond)"
+        },
+        {
+          "hi": "मेक्सिको",
+          "en": "Mexico"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मोटे अनाजों (Millets / बाजरा, ज्वार) का विश्व में सबसे बड़ा उत्पादक देश कौन-सा है?",
+        "en": "Which country is the largest producer of Millets in the world?"
+      },
+      "o": [
+        {
+          "hi": "नाइजर",
+          "en": "Niger"
+        },
+        {
+          "hi": "चीन",
+          "en": "China"
+        },
+        {
+          "hi": "नाइजीरिया",
+          "en": "Nigeria"
+        },
+        {
+          "hi": "भारत (India)",
+          "en": "India"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व में लोंग (Clove) का सबसे बड़ा निर्यातक द्वीप कौन-सा है?",
+        "en": "Which famous island is known as the 'Island of Cloves'?"
+      },
+      "o": [
+        {
+          "hi": "जांजीबार एवं पेम्बा (तंजानिया / Zanzibar)",
+          "en": "Zanzibar & Pemba (Tanzania)"
+        },
+        {
+          "hi": "मेडागास्कर",
+          "en": "Madagascar"
+        },
+        {
+          "hi": "मॉरीशस",
+          "en": "Mauritius"
+        },
+        {
+          "hi": "मालदीव",
+          "en": "Maldives"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में दालचीनी (Cinnamon) का प्रमुख उत्पादक देश कौन-सा है?",
+        "en": "Which is a major producer of Cinnamon in the world?"
+      },
+      "o": [
+        {
+          "hi": "इंडोनेशिया",
+          "en": "Indonesia"
+        },
+        {
+          "hi": "श्रीलंका (Sri Lanka)",
+          "en": "Sri Lanka"
+        },
+        {
+          "hi": "भारत",
+          "en": "India"
+        },
+        {
+          "hi": "वियतनाम",
+          "en": "Vietnam"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

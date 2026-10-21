@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विश्व का भूगोल (World Geography)",
+  "subtitle": "महाद्वीप",
+  "description": "महाद्वीप पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "विश्व में कुल कितने महाद्वीप (Continents) स्थित हैं?",
+        "en": "How many continents are there in the world?"
+      },
+      "o": [
+        {
+          "hi": "7 महाद्वीप (7 Continents)",
+          "en": "7 Continents"
+        },
+        {
+          "hi": "5 महाद्वीप",
+          "en": "5 Continents"
+        },
+        {
+          "hi": "6 महाद्वीप",
+          "en": "6 Continents"
+        },
+        {
+          "hi": "8 महाद्वीप",
+          "en": "8 Continents"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्षेत्रफल की दृष्टि से विश्व का सबसे बड़ा महाद्वीप कौन-सा है?",
+        "en": "Which is the largest continent in the world by surface area?"
+      },
+      "o": [
+        {
+          "hi": "अफ्रीका",
+          "en": "Africa"
+        },
+        {
+          "hi": "एशिया (Asia)",
+          "en": "Asia"
+        },
+        {
+          "hi": "उत्तरी अमेरिका",
+          "en": "North America"
+        },
+        {
+          "hi": "यूरोप",
+          "en": "Europe"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्षेत्रफल की दृष्टि से विश्व का सबसे छोटा महाद्वीप कौन-सा है?",
+        "en": "Which is the smallest continent in the world by surface area?"
+      },
+      "o": [
+        {
+          "hi": "यूरोप",
+          "en": "Europe"
+        },
+        {
+          "hi": "अंटार्कटिका",
+          "en": "Antarctica"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        },
+        {
+          "hi": "दक्षिण अमेरिका",
+          "en": "South America"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे बड़ा द्वीप ग्रीनलैंड किस महाद्वीप का भाग (भौगोलिक रूप से) है?",
+        "en": "Greenland, world's largest island, is geographically part of which continent?"
+      },
+      "o": [
+        {
+          "hi": "यूरोप",
+          "en": "Europe"
+        },
+        {
+          "hi": "एशिया",
+          "en": "Asia"
+        },
+        {
+          "hi": "दक्षिण अमेरिका",
+          "en": "South America"
+        },
+        {
+          "hi": "उत्तरी अमेरिका (North America)",
+          "en": "North America"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'सभ्यता का पालना' (Cradle of Civilization) किस महाद्वीप को कहा जाता है?",
+        "en": "Which continent is called the 'Cradle of Civilization'?"
+      },
+      "o": [
+        {
+          "hi": "एशिया (Asia)",
+          "en": "Asia"
+        },
+        {
+          "hi": "यूरोप",
+          "en": "Europe"
+        },
+        {
+          "hi": "अफ्रीका",
+          "en": "Africa"
+        },
+        {
+          "hi": "दक्षिण अमेरिका",
+          "en": "South America"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का सर्वाधिक जनसंख्या वाला महाद्वीप कौन-सा है?",
+        "en": "Which continent has the largest population in the world?"
+      },
+      "o": [
+        {
+          "hi": "अफ्रीका",
+          "en": "Africa"
+        },
+        {
+          "hi": "एशिया (Asia)",
+          "en": "Asia"
+        },
+        {
+          "hi": "यूरोप",
+          "en": "Europe"
+        },
+        {
+          "hi": "उत्तरी अमेरिका",
+          "en": "North America"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एशिया महाद्वीप का सबसे ऊँचा पर्वत शिखर कौन-सा है?",
+        "en": "Which is the highest mountain peak of the continent of Asia?"
+      },
+      "o": [
+        {
+          "hi": "के2 (गॉडविन ऑस्टिन)",
+          "en": "K2"
+        },
+        {
+          "hi": "कंचनजंघा",
+          "en": "Kanchenjunga"
+        },
+        {
+          "hi": "माउंट एवरेस्ट (8848.86 मी)",
+          "en": "Mount Everest"
+        },
+        {
+          "hi": "ल्होत्से",
+          "en": "Lhotse"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एशिया और विश्व का सबसे निचला भू-भाग (Lowest Point) कौन-सा है?",
+        "en": "Which is the lowest land point in Asia and the world?"
+      },
+      "o": [
+        {
+          "hi": "कैस्पियन सागर",
+          "en": "Caspian Sea"
+        },
+        {
+          "hi": "बैकाल झील",
+          "en": "Lake Baikal"
+        },
+        {
+          "hi": "डेथ वैली",
+          "en": "Death Valley"
+        },
+        {
+          "hi": "मृत सागर (Dead Sea)",
+          "en": "Dead Sea"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे गहरी झील 'बैकाल झील' किस महाद्वीप में स्थित है?",
+        "en": "Lake Baikal, world's deepest lake, is located in which continent?"
+      },
+      "o": [
+        {
+          "hi": "एशिया (रूस में)",
+          "en": "Asia (in Russia)"
+        },
+        {
+          "hi": "यूरोप",
+          "en": "Europe"
+        },
+        {
+          "hi": "उत्तरी अमेरिका",
+          "en": "North America"
+        },
+        {
+          "hi": "अफ्रीका",
+          "en": "Africa"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे बड़ी आंतरिक खारे पानी की झील 'कैस्पियन सागर' कहाँ स्थित है?",
+        "en": "Caspian Sea, the largest lake by surface area, lies between Europe and?"
+      },
+      "o": [
+        {
+          "hi": "अफ्रीका",
+          "en": "Africa"
+        },
+        {
+          "hi": "एशिया (Asia)",
+          "en": "Asia"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया",
+          "en": "Australia"
+        },
+        {
+          "hi": "दक्षिण अमेरिका",
+          "en": "South America"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'अंध महाद्वीप' (Dark Continent) किस महाद्वीप को कहा जाता है?",
+        "en": "Which continent is historically known as the 'Dark Continent'?"
+      },
+      "o": [
+        {
+          "hi": "एशिया",
+          "en": "Asia"
+        },
+        {
+          "hi": "दक्षिण अमेरिका",
+          "en": "South America"
+        },
+        {
+          "hi": "अफ्रीका (Africa)",
+          "en": "Africa"
+        },
+        {
+          "hi": "अंटार्कटिका",
+          "en": "Antarctica"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व का दूसरा सबसे बड़ा महाद्वीप क्षेत्रफल और जनसंख्या दोनों में कौन-सा है?",
+        "en": "Second largest continent in both area and population is?"
+      },
+      "o": [
+        {
+          "hi": "यूरोप",
+          "en": "Europe"
+        },
+        {
+          "hi": "उत्तरी अमेरिका",
+          "en": "North America"
+        },
+        {
+          "hi": "दक्षिण अमेरिका",
+          "en": "South America"
+        },
+        {
+          "hi": "अफ्रीका (Africa)",
+          "en": "Africa"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अफ्रीका महाद्वीप का सबसे ऊँचा पर्वत शिखर कौन-सा है?",
+        "en": "Which is the highest mountain peak of Africa?"
+      },
+      "o": [
+        {
+          "hi": "माउंट किलिमंजारो (Mt. Kilimanjaro)",
+          "en": "Mt. Kilimanjaro"
+        },
+        {
+          "hi": "माउंट केन्या",
+          "en": "Mount Kenya"
+        },
+        {
+          "hi": "एटलस पर्वत",
+          "en": "Atlas Mountains"
+        },
+        {
+          "hi": "माउंट स्टैनली",
+          "en": "Mount Stanley"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे लंबी नदी 'नील नदी' (Nile River) किस महाद्वीप में बहती है?",
+        "en": "World's longest river 'Nile' flows through which continent?"
+      },
+      "o": [
+        {
+          "hi": "दक्षिण अमेरिका",
+          "en": "South America"
+        },
+        {
+          "hi": "अफ्रीका (Africa)",
+          "en": "Africa"
+        },
+        {
+          "hi": "एशिया",
+          "en": "Asia"
+        },
+        {
+          "hi": "यूरोप",
+          "en": "Europe"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नील नदी का उद्गम किस झील से होता है?",
+        "en": "From which lake does the White Nile originate?"
+      },
+      "o": [
+        {
+          "hi": "चाड झील",
+          "en": "Lake Chad"
+        },
+        {
+          "hi": "तांगानिका झील",
+          "en": "Lake Tanganyika"
+        },
+        {
+          "hi": "विक्टोरिया झील (Lake Victoria)",
+          "en": "Lake Victoria"
+        },
+        {
+          "hi": "मलावी झील",
+          "en": "Lake Malawi"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा उष्ण मरुस्थल 'सहारा मरुस्थल' कहाँ स्थित है?",
+        "en": "Where is the Sahara Desert, world's largest hot desert, located?"
+      },
+      "o": [
+        {
+          "hi": "एशिया में",
+          "en": "In Asia"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया में",
+          "en": "In Australia"
+        },
+        {
+          "hi": "दक्षिण अमेरिका में",
+          "en": "In South America"
+        },
+        {
+          "hi": "उत्तरी अफ्रीका (North Africa)",
+          "en": "North Africa"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अफ्रीका की कौन-सी नदी भूमध्य रेखा (Equator) को दो बार काटती है?",
+        "en": "Which river of Africa crosses the Equator twice?"
+      },
+      "o": [
+        {
+          "hi": "कांगो / जायरे नदी (Congo River)",
+          "en": "Congo River"
+        },
+        {
+          "hi": "नाइजर नदी",
+          "en": "Niger River"
+        },
+        {
+          "hi": "जांबेजी नदी",
+          "en": "Zambezi River"
+        },
+        {
+          "hi": "लिम्पोपो नदी",
+          "en": "Limpopo River"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अफ्रीका की कौन-सी नदी मकर रेखा (Tropic of Capricorn) को दो बार काटती है?",
+        "en": "Which river of Africa crosses the Tropic of Capricorn twice?"
+      },
+      "o": [
+        {
+          "hi": "कांगो नदी",
+          "en": "Congo River"
+        },
+        {
+          "hi": "लिम्पोपो नदी (Limpopo River)",
+          "en": "Limpopo River"
+        },
+        {
+          "hi": "नील नदी",
+          "en": "Nile River"
+        },
+        {
+          "hi": "ऑरेंज नदी",
+          "en": "Orange River"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "उत्तरी अमेरिका महाद्वीप की खोज 1492 में किसने की थी?",
+        "en": "Who discovered the continent of North America in 1492?"
+      },
+      "o": [
+        {
+          "hi": "वास्को डी गामा",
+          "en": "Vasco da Gama"
+        },
+        {
+          "hi": "कैप्टन कुक",
+          "en": "Captain Cook"
+        },
+        {
+          "hi": "क्रिस्टोफर कोलंबस",
+          "en": "Christopher Columbus"
+        },
+        {
+          "hi": "अमेरिगो वेस्पुसी",
+          "en": "Amerigo Vespucci"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उत्तरी अमेरिका का सर्वोच्च पर्वत शिखर कौन-सा है?",
+        "en": "Which is the highest peak in North America?"
+      },
+      "o": [
+        {
+          "hi": "माउंट लोगन",
+          "en": "Mount Logan"
+        },
+        {
+          "hi": "माउंट व्हिटनी",
+          "en": "Mount Whitney"
+        },
+        {
+          "hi": "माउंट एल्बर्ट",
+          "en": "Mount Elbert"
+        },
+        {
+          "hi": "माउंट देनाली / मैकिन्ले (Denali)",
+          "en": "Denali (Mt McKinley)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे बड़ी मीठे पानी की झील कौन-सी है?",
+        "en": "Which is the largest freshwater lake in the world by surface area?"
+      },
+      "o": [
+        {
+          "hi": "सुपीरियर झील (Lake Superior)",
+          "en": "Lake Superior"
+        },
+        {
+          "hi": "ह्यूरॉन झील",
+          "en": "Lake Huron"
+        },
+        {
+          "hi": "मिशिगन झील",
+          "en": "Lake Michigan"
+        },
+        {
+          "hi": "बैकाल झील",
+          "en": "Lake Baikal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ग्रेट लेक्स (महान झीलें) किन दो देशों की सीमा पर स्थित हैं?",
+        "en": "Between which two countries are the Great Lakes situated?"
+      },
+      "o": [
+        {
+          "hi": "अमेरिका और मैक्सिको",
+          "en": "USA and Mexico"
+        },
+        {
+          "hi": "अमेरिका और कनाडा (USA & Canada)",
+          "en": "USA and Canada"
+        },
+        {
+          "hi": "ब्राजील और अर्जेंटीना",
+          "en": "Brazil & Argentina"
+        },
+        {
+          "hi": "रूस और चीन",
+          "en": "Russia & China"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नियाग्रा जलप्रपात किन दो झीलों के मध्य स्थित है?",
+        "en": "Between which two lakes is the Niagara Falls located?"
+      },
+      "o": [
+        {
+          "hi": "सुपीरियर और ह्यूरॉन",
+          "en": "Superior & Huron"
+        },
+        {
+          "hi": "ह्यूरॉन और मिशिगन",
+          "en": "Huron & Michigan"
+        },
+        {
+          "hi": "इरी और ओंटारियो (Erie & Ontario)",
+          "en": "Erie and Ontario"
+        },
+        {
+          "hi": "मिशिगन और इरी",
+          "en": "Michigan & Erie"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे व्यस्त आंतरिक जलमार्ग वाली नदी सेंट लॉरेंस किस महाद्वीप में है?",
+        "en": "St. Lawrence River, a very busy inland waterway, is in which continent?"
+      },
+      "o": [
+        {
+          "hi": "यूरोप",
+          "en": "Europe"
+        },
+        {
+          "hi": "एशिया",
+          "en": "Asia"
+        },
+        {
+          "hi": "दक्षिण अमेरिका",
+          "en": "South America"
+        },
+        {
+          "hi": "उत्तरी अमेरिका (North America)",
+          "en": "North America"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'पक्षियों का महाद्वीप' (Continent of Birds) किसे कहा जाता है?",
+        "en": "Which continent is popularly known as the 'Continent of Birds'?"
+      },
+      "o": [
+        {
+          "hi": "दक्षिण अमेरिका (South America)",
+          "en": "South America"
+        },
+        {
+          "hi": "अफ्रीका",
+          "en": "Africa"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया",
+          "en": "Australia"
+        },
+        {
+          "hi": "एशिया",
+          "en": "Asia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे लंबी पर्वत श्रृंखला कौन-सी है?",
+        "en": "Which is the longest mountain range in the world?"
+      },
+      "o": [
+        {
+          "hi": "हिमालय",
+          "en": "Himalayas"
+        },
+        {
+          "hi": "एंडीज पर्वतमाला (Andes - दक्षिण अमेरिका)",
+          "en": "Andes (South America)"
+        },
+        {
+          "hi": "रॉकी पर्वतमाला",
+          "en": "Rockies"
+        },
+        {
+          "hi": "यूराल पर्वतमाला",
+          "en": "Urals"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जल की मात्रा (अपवाह क्षेत्र) की दृष्टि से विश्व की सबसे बड़ी नदी कौन-सी है?",
+        "en": "Which is the largest river in the world by water volume/discharge?"
+      },
+      "o": [
+        {
+          "hi": "नील नदी",
+          "en": "Nile River"
+        },
+        {
+          "hi": "यांग्त्सी नदी",
+          "en": "Yangtze River"
+        },
+        {
+          "hi": "अमेजन नदी (Amazon River)",
+          "en": "Amazon River"
+        },
+        {
+          "hi": "मिसिसिपी नदी",
+          "en": "Mississippi River"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अमेजन नदी का उद्गम किस पर्वत श्रृंखला से होता है?",
+        "en": "From which mountain range does the Amazon River originate?"
+      },
+      "o": [
+        {
+          "hi": "रॉकी पर्वत",
+          "en": "Rockies"
+        },
+        {
+          "hi": "आल्प्स",
+          "en": "Alps"
+        },
+        {
+          "hi": "एटलस",
+          "en": "Atlas"
+        },
+        {
+          "hi": "एंडीज पर्वत (Andes)",
+          "en": "Andes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे ऊँचा जलप्रपात 'एंजिल जलप्रपात' किस देश में स्थित है?",
+        "en": "Angel Falls, the highest waterfall in the world, is in which country?"
+      },
+      "o": [
+        {
+          "hi": "वेनेजुएला (Venezuela)",
+          "en": "Venezuela"
+        },
+        {
+          "hi": "कोलंबिया",
+          "en": "Colombia"
+        },
+        {
+          "hi": "ब्राजील",
+          "en": "Brazil"
+        },
+        {
+          "hi": "पेरू",
+          "en": "Peru"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे ऊँची नौकायन योग्य झील कौन-सी है?",
+        "en": "Which is the highest commercially navigable lake in the world?"
+      },
+      "o": [
+        {
+          "hi": "विक्टोरिया झील",
+          "en": "Lake Victoria"
+        },
+        {
+          "hi": "टिटिकाका झील (Lake Titicaca)",
+          "en": "Lake Titicaca"
+        },
+        {
+          "hi": "सुपीरियर झील",
+          "en": "Lake Superior"
+        },
+        {
+          "hi": "बैकाल झील",
+          "en": "Lake Baikal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संसार का सबसे सूखा मरुस्थल 'अटाकामा मरुस्थल' कहाँ स्थित है?",
+        "en": "Where is the Atacama Desert, world's driest non-polar desert, located?"
+      },
+      "o": [
+        {
+          "hi": "अफ्रीका में",
+          "en": "In Africa"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया में",
+          "en": "In Australia"
+        },
+        {
+          "hi": "दक्षिण अमेरिका (चिली/पेरू)",
+          "en": "South America (Chile/Peru)"
+        },
+        {
+          "hi": "एशिया में",
+          "en": "In Asia"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ब्राजील में कहवा (कॉफी) के बड़े-बड़े बागानों को क्या कहा जाता है?",
+        "en": "What are the large coffee plantations in Brazil called?"
+      },
+      "o": [
+        {
+          "hi": "पंपास",
+          "en": "Pampas"
+        },
+        {
+          "hi": "सेलवास",
+          "en": "Selvas"
+        },
+        {
+          "hi": "कैम्पोस",
+          "en": "Campos"
+        },
+        {
+          "hi": "फजेंडा (Fazenda)",
+          "en": "Fazenda"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'प्रायद्वीपों का प्रायद्वीप' (Peninsula of Peninsulas) किसे कहा जाता है?",
+        "en": "Which continent is known as the 'Peninsula of Peninsulas'?"
+      },
+      "o": [
+        {
+          "hi": "यूरोप (Europe)",
+          "en": "Europe"
+        },
+        {
+          "hi": "एशिया",
+          "en": "Asia"
+        },
+        {
+          "hi": "अफ्रीका",
+          "en": "Africa"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया",
+          "en": "Australia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यूरोप महाद्वीप का सर्वोच्च पर्वत शिखर कौन-सा है?",
+        "en": "Which is the highest peak of Europe?"
+      },
+      "o": [
+        {
+          "hi": "माउंट ब्लैंक",
+          "en": "Mont Blanc"
+        },
+        {
+          "hi": "माउंट एल्ब्रस (Mt. Elbrus - काकेशस)",
+          "en": "Mt. Elbrus"
+        },
+        {
+          "hi": "माउंट मैटरहॉर्न",
+          "en": "Matterhorn"
+        },
+        {
+          "hi": "माउंट एटना",
+          "en": "Mt. Etna"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यूरोप की सबसे लंबी नदी कौन-सी है?",
+        "en": "Which is the longest river of Europe?"
+      },
+      "o": [
+        {
+          "hi": "डेन्यूब नदी",
+          "en": "Danube River"
+        },
+        {
+          "hi": "राइन नदी",
+          "en": "Rhine River"
+        },
+        {
+          "hi": "वोल्गा नदी (Volga River)",
+          "en": "Volga River"
+        },
+        {
+          "hi": "टेम्स नदी",
+          "en": "Thames River"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किस नदी को 'यूरोपीय व्यापार की जीवन रेखा' और कोयला नदी कहा जाता है?",
+        "en": "Which river is called the lifeline of European commerce and Coal River?"
+      },
+      "o": [
+        {
+          "hi": "डेन्यूब नदी",
+          "en": "Danube River"
+        },
+        {
+          "hi": "सीन नदी",
+          "en": "Seine River"
+        },
+        {
+          "hi": "पो नदी",
+          "en": "Po River"
+        },
+        {
+          "hi": "राइन नदी (Rhine River)",
+          "en": "Rhine River"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किस देश को 'झीलों का देश' (Land of Thousand Lakes) कहा जाता है?",
+        "en": "Which European country is known as the 'Land of Thousand Lakes'?"
+      },
+      "o": [
+        {
+          "hi": "फिनलैंड (Finland)",
+          "en": "Finland"
+        },
+        {
+          "hi": "नॉर्वे",
+          "en": "Norway"
+        },
+        {
+          "hi": "स्वीडन",
+          "en": "Sweden"
+        },
+        {
+          "hi": "डेनमार्क",
+          "en": "Denmark"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किस देश को 'मध्यरात्रि के सूर्य का देश' (Land of Midnight Sun) कहा जाता है?",
+        "en": "Which country is called the 'Land of the Midnight Sun'?"
+      },
+      "o": [
+        {
+          "hi": "आइसलैंड",
+          "en": "Iceland"
+        },
+        {
+          "hi": "नॉर्वे (Norway)",
+          "en": "Norway"
+        },
+        {
+          "hi": "कनाडा",
+          "en": "Canada"
+        },
+        {
+          "hi": "फिनलैंड",
+          "en": "Finland"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "इटली की गंगा किस नदी को कहा जाता है?",
+        "en": "Which river is called the 'Ganga of Italy'?"
+      },
+      "o": [
+        {
+          "hi": "टाइबर नदी",
+          "en": "Tiber River"
+        },
+        {
+          "hi": "अर्नो नदी",
+          "en": "Arno River"
+        },
+        {
+          "hi": "पो नदी (Po River)",
+          "en": "Po River"
+        },
+        {
+          "hi": "डेन्यूब नदी",
+          "en": "Danube River"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'द्वीपीय महाद्वीप' (Island Continent) किस महाद्वीप को कहा जाता है?",
+        "en": "Which continent is known as the 'Island Continent'?"
+      },
+      "o": [
+        {
+          "hi": "अंटार्कटिका",
+          "en": "Antarctica"
+        },
+        {
+          "hi": "यूरोप",
+          "en": "Europe"
+        },
+        {
+          "hi": "दक्षिण अमेरिका",
+          "en": "South America"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे बड़ी प्रवाल भित्ति 'ग्रेट बैरियर रीफ' कहाँ स्थित है?",
+        "en": "Where is the Great Barrier Reef, the world's largest coral reef, located?"
+      },
+      "o": [
+        {
+          "hi": "ऑस्ट्रेलिया के उत्तर-पूर्वी तट पर",
+          "en": "NE Coast of Australia"
+        },
+        {
+          "hi": "भारत के दक्षिण में",
+          "en": "South of India"
+        },
+        {
+          "hi": "ब्राजील के तट पर",
+          "en": "Coast of Brazil"
+        },
+        {
+          "hi": "मेडागास्कर के पास",
+          "en": "Near Madagascar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ऑस्ट्रेलिया की प्रमुख दो नदियाँ कौन-सी हैं जो बेसिन बनाती हैं?",
+        "en": "Which two main rivers form the major river basin of Australia?"
+      },
+      "o": [
+        {
+          "hi": "डार्लिंग और वोल्गा",
+          "en": "Darling & Volga"
+        },
+        {
+          "hi": "मरे और डार्लिंग (Murray & Darling)",
+          "en": "Murray & Darling"
+        },
+        {
+          "hi": "हडसन और मिसिसिपी",
+          "en": "Hudson & Mississippi"
+        },
+        {
+          "hi": "युकॉन और मैकेंजी",
+          "en": "Yukon & Mackenzie"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'श्वेत महाद्वीप' (White Continent) किस महाद्वीप को कहा जाता है?",
+        "en": "Which continent is called the 'White Continent' due to perpetual ice cover?"
+      },
+      "o": [
+        {
+          "hi": "यूरोप",
+          "en": "Europe"
+        },
+        {
+          "hi": "उत्तरी अमेरिका",
+          "en": "North America"
+        },
+        {
+          "hi": "अंटार्कटिका (Antarctica)",
+          "en": "Antarctica"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया",
+          "en": "Australia"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अंटार्कटिका महाद्वीप पर पहुँचने वाले प्रथम भारतीय कौन थे?",
+        "en": "Who was the first Indian to reach the continent of Antarctica?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. एस.जेड. कासिम",
+          "en": "Dr. S.Z. Qasim"
+        },
+        {
+          "hi": "डॉ. गिरिराज सिरोही",
+          "en": "Dr. Giriraj Sirohi"
+        },
+        {
+          "hi": "आर.एस. बिष्ट",
+          "en": "R.S. Bisht"
+        },
+        {
+          "hi": "लेफ्टिनेंट राम चरण (Lt. Ram Charan)",
+          "en": "Lt. Ram Charan"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत ने अंटार्कटिका में अपना पहला वैज्ञानिक अनुसंधान केंद्र कब स्थापित किया?",
+        "en": "When did India set up its first scientific research station 'Dakshin Gangotri' in Antarctica?"
+      },
+      "o": [
+        {
+          "hi": "1983-84 (दक्षिण गंगोत्री)",
+          "en": "1983-84 (Dakshin Gangotri)"
+        },
+        {
+          "hi": "1988-89 (मैत्री)",
+          "en": "1988-89 (Maitri)"
+        },
+        {
+          "hi": "2012 (भारती)",
+          "en": "2012 (Bharati)"
+        },
+        {
+          "hi": "1975",
+          "en": "1975"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अंटार्कटिका में भारत के वर्तमान सक्रिय अनुसंधान केंद्र कौन-से हैं?",
+        "en": "Which are currently operational Indian research stations in Antarctica?"
+      },
+      "o": [
+        {
+          "hi": "केवल दक्षिण गंगोत्री",
+          "en": "Only Dakshin Gangotri"
+        },
+        {
+          "hi": "मैत्री और भारती (Maitri & Bharati)",
+          "en": "Maitri & Bharati"
+        },
+        {
+          "hi": "दक्षिण गंगोत्री और भारती",
+          "en": "Dakshin Gangotri & Bharati"
+        },
+        {
+          "hi": "केवल मैत्री",
+          "en": "Only Maitri"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अंटार्कटिका महाद्वीप का सर्वोच्च पर्वत शिखर कौन-सा है?",
+        "en": "Which is the highest peak of Antarctica?"
+      },
+      "o": [
+        {
+          "hi": "माउंट एवरेस्ट",
+          "en": "Mt Everest"
+        },
+        {
+          "hi": "माउंट किलिमंजारो",
+          "en": "Mt Kilimanjaro"
+        },
+        {
+          "hi": "विंसन मैसिफ (Vinson Massif)",
+          "en": "Vinson Massif"
+        },
+        {
+          "hi": "माउंट कुक",
+          "en": "Mount Cook"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व में कौन-सा महाद्वीप पूरी तरह से दक्षिणी गोलार्द्ध में स्थित है?",
+        "en": "Which continent is located entirely in the Southern Hemisphere?"
+      },
+      "o": [
+        {
+          "hi": "अफ्रीका",
+          "en": "Africa"
+        },
+        {
+          "hi": "दक्षिण अमेरिका",
+          "en": "South America"
+        },
+        {
+          "hi": "एशिया",
+          "en": "Asia"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया और अंटार्कटिका",
+          "en": "Australia & Antarctica"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किस महाद्वीप को 'प्यासी भूमि का देश' (Land of Thirsty Land) कहा जाता है?",
+        "en": "Which continent is called the 'Land of the Thirsty Soil' due to vast dry areas?"
+      },
+      "o": [
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        },
+        {
+          "hi": "अफ्रीका",
+          "en": "Africa"
+        },
+        {
+          "hi": "दक्षिण अमेरिका",
+          "en": "South America"
+        },
+        {
+          "hi": "एशिया",
+          "en": "Asia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यूरोप और एशिया को अलग करने वाली प्राकृतिक सीमा कौन-सा पर्वत बनाता है?",
+        "en": "Which mountain forms the natural boundary separating Europe and Asia?"
+      },
+      "o": [
+        {
+          "hi": "आल्प्स पर्वत",
+          "en": "Alps"
+        },
+        {
+          "hi": "यूराल पर्वत (Ural Mountains)",
+          "en": "Ural Mountains"
+        },
+        {
+          "hi": "रॉकी पर्वत",
+          "en": "Rockies"
+        },
+        {
+          "hi": "एटलस पर्वत",
+          "en": "Atlas"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

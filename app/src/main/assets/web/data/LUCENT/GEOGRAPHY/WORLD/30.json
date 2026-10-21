@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विश्व का भूगोल (World Geography)",
+  "subtitle": "भू-आवेष्टित देश",
+  "description": "भू-आवेष्टित देश पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भू-आवेष्टित देश (Landlocked Country) किसे कहा जाता है?",
+        "en": "What is the geographic definition of a Landlocked Country?"
+      },
+      "o": [
+        {
+          "hi": "वह देश जिसकी कोई भी सीमा खुले समुद्र या महासागर से नहीं लगती",
+          "en": "Country entirely enclosed by land with no direct ocean access"
+        },
+        {
+          "hi": "चारों ओर से जल से घिरा द्वीप",
+          "en": "An island country"
+        },
+        {
+          "hi": "केवल नदियों से घिरा देश",
+          "en": "Country bordered only by rivers"
+        },
+        {
+          "hi": "वह देश जहाँ कोई पर्वत नहीं होते",
+          "en": "Country with no mountains"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में कुल कितने संप्रभु भू-आवेष्टित (Landlocked) देश हैं?",
+        "en": "Approximately how many sovereign landlocked countries are there in the world?"
+      },
+      "o": [
+        {
+          "hi": "30",
+          "en": "30"
+        },
+        {
+          "hi": "44 (संयुक्त राष्ट्र मान्यता प्राप्त संप्रभु देश)",
+          "en": "44 (UN Recognized sovereign states)"
+        },
+        {
+          "hi": "55",
+          "en": "55"
+        },
+        {
+          "hi": "25",
+          "en": "25"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्षेत्रफल की दृष्टि से विश्व का सबसे बड़ा भू-आवेष्टित देश कौन-सा है?",
+        "en": "Which is the largest landlocked country in the world by surface area?"
+      },
+      "o": [
+        {
+          "hi": "मंगोलिया",
+          "en": "Mongolia"
+        },
+        {
+          "hi": "चाड",
+          "en": "Chad"
+        },
+        {
+          "hi": "कजाकिस्तान (Kazakhstan - 27.2 लाख वर्ग किमी)",
+          "en": "Kazakhstan (2.72M sq km)"
+        },
+        {
+          "hi": "नाइजर",
+          "en": "Niger"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "क्षेत्रफल की दृष्टि से विश्व का दूसरा सबसे बड़ा भू-आवेष्टित देश कौन-सा है?",
+        "en": "Which is the second largest landlocked country in the world?"
+      },
+      "o": [
+        {
+          "hi": "कजाकिस्तान",
+          "en": "Kazakhstan"
+        },
+        {
+          "hi": "माली",
+          "en": "Mali"
+        },
+        {
+          "hi": "इथियोपिया",
+          "en": "Ethiopia"
+        },
+        {
+          "hi": "मंगोलिया (Mongolia - 15.6 लाख वर्ग किमी)",
+          "en": "Mongolia (1.56M sq km)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जनसंख्या की दृष्टि से विश्व का सबसे अधिक आबादी वाला भू-आवेष्टित देश कौन-सा है?",
+        "en": "Which is the most populous landlocked country in the world (>120 million)?"
+      },
+      "o": [
+        {
+          "hi": "इथियोपिया (Ethiopia - अफ्रीका)",
+          "en": "Ethiopia (Africa)"
+        },
+        {
+          "hi": "युगांडा",
+          "en": "Uganda"
+        },
+        {
+          "hi": "उज्बेकिस्तान",
+          "en": "Uzbekistan"
+        },
+        {
+          "hi": "नेपाल",
+          "en": "Nepal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में कितने 'दोहरे भू-आवेष्टित देश' (Doubly Landlocked Countries) हैं?",
+        "en": "How many 'Doubly Landlocked Countries' exist in the world?"
+      },
+      "o": [
+        {
+          "hi": "1",
+          "en": "1"
+        },
+        {
+          "hi": "2 देश (लिकटेंस्टीन और उज्बेकिस्तान)",
+          "en": "2 Countries (Liechtenstein & Uzbekistan)"
+        },
+        {
+          "hi": "3",
+          "en": "3"
+        },
+        {
+          "hi": "4",
+          "en": "4"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दोहरा भू-आवेष्टित देश (Doubly Landlocked) किसे कहा जाता है?",
+        "en": "What is a Doubly Landlocked Country?"
+      },
+      "o": [
+        {
+          "hi": "जो दो महासागरों से घिरा हो",
+          "en": "Surrounded by 2 oceans"
+        },
+        {
+          "hi": "जिसके पास दो बड़ी नदियाँ हों",
+          "en": "Having 2 rivers"
+        },
+        {
+          "hi": "जो स्वयं भू-आवेष्टित हो और उसके सभी पड़ोसी देश भी भू-आवेष्टित हों",
+          "en": "Landlocked country surrounded only by landlocked countries"
+        },
+        {
+          "hi": "जो दो महाद्वीपों में हो",
+          "en": "Spanning 2 continents"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यूरोप महाद्वीप का एकमात्र दोहरा भू-आवेष्टित देश कौन-सा है?",
+        "en": "Which is the only doubly landlocked country in Europe?"
+      },
+      "o": [
+        {
+          "hi": "स्विट्जरलैंड",
+          "en": "Switzerland"
+        },
+        {
+          "hi": "ऑस्ट्रिया",
+          "en": "Austria"
+        },
+        {
+          "hi": "लक्जमबर्ग",
+          "en": "Luxembourg"
+        },
+        {
+          "hi": "लिकटेंस्टीन (Liechtenstein - स्विट्जरलैंड व ऑस्ट्रिया के बीच)",
+          "en": "Liechtenstein"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एशिया महाद्वीप का एकमात्र दोहरा भू-आवेष्टित देश कौन-सा है?",
+        "en": "Which is the only doubly landlocked country in Asia?"
+      },
+      "o": [
+        {
+          "hi": "उज्बेकिस्तान (Uzbekistan)",
+          "en": "Uzbekistan"
+        },
+        {
+          "hi": "कजाकिस्तान",
+          "en": "Kazakhstan"
+        },
+        {
+          "hi": "तुर्कमेनिस्तान",
+          "en": "Turkmenistan"
+        },
+        {
+          "hi": "ताजिकिस्तान",
+          "en": "Tajikistan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दक्षिण अमेरिका महाद्वीप में कुल कितने भू-आवेष्टित देश हैं?",
+        "en": "How many landlocked countries are there in South America?"
+      },
+      "o": [
+        {
+          "hi": "1",
+          "en": "1"
+        },
+        {
+          "hi": "2 देश (बोलीविया और पराग्वे)",
+          "en": "2 Countries (Bolivia & Paraguay)"
+        },
+        {
+          "hi": "3",
+          "en": "3"
+        },
+        {
+          "hi": "4",
+          "en": "4"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दक्षिण अमेरिका का सबसे बड़ा भू-आवेष्टित देश कौन-सा है?",
+        "en": "Which is the largest landlocked country in South America by area?"
+      },
+      "o": [
+        {
+          "hi": "पराग्वे",
+          "en": "Paraguay"
+        },
+        {
+          "hi": "उरुग्वे",
+          "en": "Uruguay"
+        },
+        {
+          "hi": "बोलीविया (Bolivia - 10.98 लाख वर्ग किमी)",
+          "en": "Bolivia"
+        },
+        {
+          "hi": "सूरीनाम",
+          "en": "Suriname"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उत्तरी अमेरिका महाद्वीप में कुल कितने भू-आवेष्टित देश स्थित हैं?",
+        "en": "How many landlocked countries are located in North America?"
+      },
+      "o": [
+        {
+          "hi": "1",
+          "en": "1"
+        },
+        {
+          "hi": "2",
+          "en": "2"
+        },
+        {
+          "hi": "3",
+          "en": "3"
+        },
+        {
+          "hi": "शून्य (0 - कोई भी नहीं)",
+          "en": "Zero (None)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऑस्ट्रेलिया महाद्वीप में कितने भू-आवेष्टित देश हैं?",
+        "en": "How many landlocked countries are there in the continent of Australia?"
+      },
+      "o": [
+        {
+          "hi": "शून्य (0 - पूरा एक द्वीपीय महाद्वीप)",
+          "en": "Zero (Island continent)"
+        },
+        {
+          "hi": "1",
+          "en": "1"
+        },
+        {
+          "hi": "2",
+          "en": "2"
+        },
+        {
+          "hi": "3",
+          "en": "3"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में सर्वाधिक भू-आवेष्टित देश किस महाद्वीप में स्थित हैं?",
+        "en": "Which continent has the highest number of landlocked countries (16)?"
+      },
+      "o": [
+        {
+          "hi": "एशिया (12 देश)",
+          "en": "Asia (12)"
+        },
+        {
+          "hi": "अफ्रीका (16 देश / Africa)",
+          "en": "Africa (16 countries)"
+        },
+        {
+          "hi": "यूरोप (14 देश)",
+          "en": "Europe (14)"
+        },
+        {
+          "hi": "दक्षिण अमेरिका",
+          "en": "South America"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यूरोप महाद्वीप में कुल कितने भू-आवेष्टित देश हैं?",
+        "en": "How many landlocked sovereign nations are there in Europe?"
+      },
+      "o": [
+        {
+          "hi": "8",
+          "en": "8"
+        },
+        {
+          "hi": "10",
+          "en": "10"
+        },
+        {
+          "hi": "14-16 देश (जैसे ऑस्ट्रिया, स्विट्जरलैंड, चेक गणराज्य आदि)",
+          "en": "14-16 Countries"
+        },
+        {
+          "hi": "20",
+          "en": "20"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत के कौन-से दो प्रमुख पड़ोसी देश पूर्णतः भू-आवेष्टित हैं?",
+        "en": "Which two immediate northern neighbors of India are landlocked nations?"
+      },
+      "o": [
+        {
+          "hi": "पाकिस्तान और म्यांमार",
+          "en": "Pakistan & Myanmar"
+        },
+        {
+          "hi": "बांग्लादेश और श्रीलंका",
+          "en": "Bangladesh & Sri Lanka"
+        },
+        {
+          "hi": "मालदीव और चीन",
+          "en": "Maldives & China"
+        },
+        {
+          "hi": "नेपाल और भूटान (Nepal & Bhutan)",
+          "en": "Nepal & Bhutan"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मध्य एशिया के 'पाँचों तान' (Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan, Turkmenistan) क्या हैं?",
+        "en": "All five Central Asian republics are geographically classified as?"
+      },
+      "o": [
+        {
+          "hi": "सभी भू-आवेष्टित देश हैं (All are Landlocked)",
+          "en": "All are Landlocked"
+        },
+        {
+          "hi": "सभी द्वीपीय देश हैं",
+          "en": "All are Island nations"
+        },
+        {
+          "hi": "सभी तटीय देश हैं",
+          "en": "All are Coastal nations"
+        },
+        {
+          "hi": "इनमें कोई सीमा नहीं है",
+          "en": "Border-less"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कजाकिस्तान और तुर्कमेनिस्तान किस अंतर्देशीय खारे जल निकाय से घिरे हैं?",
+        "en": "Kazakhstan and Turkmenistan border which massive inland salt lake (not open sea)?"
+      },
+      "o": [
+        {
+          "hi": "काला सागर",
+          "en": "Black Sea"
+        },
+        {
+          "hi": "कैस्पियन सागर (Caspian Sea)",
+          "en": "Caspian Sea"
+        },
+        {
+          "hi": "लाल सागर",
+          "en": "Red Sea"
+        },
+        {
+          "hi": "बाल्टिक सागर",
+          "en": "Baltic Sea"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अफगानिस्तान किस प्रकार का देश है?",
+        "en": "How is Afghanistan geographically classified in terms of ocean access?"
+      },
+      "o": [
+        {
+          "hi": "द्वीपीय देश",
+          "en": "Island Nation"
+        },
+        {
+          "hi": "प्रायद्वीपीय देश",
+          "en": "Peninsular Nation"
+        },
+        {
+          "hi": "भू-आवेष्टित देश (Landlocked Country)",
+          "en": "Landlocked Country"
+        },
+        {
+          "hi": "तटीय देश",
+          "en": "Coastal Nation"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दक्षिण-पूर्व एशिया (आसियान / ASEAN) का एकमात्र भू-आवेष्टित देश कौन-सा है?",
+        "en": "Which is the only landlocked country in Southeast Asia (ASEAN)?"
+      },
+      "o": [
+        {
+          "hi": "कंबोडिया",
+          "en": "Cambodia"
+        },
+        {
+          "hi": "म्यांमार",
+          "en": "Myanmar"
+        },
+        {
+          "hi": "थाईलैंड",
+          "en": "Thailand"
+        },
+        {
+          "hi": "लाओस (Laos)",
+          "en": "Laos"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यूरोप का प्रसिद्ध तटस्थ देश 'स्विट्जरलैंड' किस प्रकार का देश है?",
+        "en": "Switzerland, famous neutral European country, is geographically?"
+      },
+      "o": [
+        {
+          "hi": "भू-आवेष्टित देश (Landlocked Country)",
+          "en": "Landlocked Country"
+        },
+        {
+          "hi": "द्वीपीय देश",
+          "en": "Island Country"
+        },
+        {
+          "hi": "तटीय देश",
+          "en": "Coastal Country"
+        },
+        {
+          "hi": "प्रायद्वीपीय देश",
+          "en": "Peninsular Country"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मध्य यूरोप का कौन-सा प्रसिद्ध विकसित देश चारों ओर जमीन से घिरा है?",
+        "en": "Which prominent Central European country sharing borders with 8 nations is landlocked?"
+      },
+      "o": [
+        {
+          "hi": "जर्मनी",
+          "en": "Germany"
+        },
+        {
+          "hi": "ऑस्ट्रिया (Austria)",
+          "en": "Austria"
+        },
+        {
+          "hi": "इटली",
+          "en": "Italy"
+        },
+        {
+          "hi": "फ्रांस",
+          "en": "France"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हंगरी, चेक गणराज्य और स्लोवाकिया किस श्रेणी के देश हैं?",
+        "en": "Hungary, Czech Republic, and Slovakia are geographically classified as?"
+      },
+      "o": [
+        {
+          "hi": "द्वीपीय देश",
+          "en": "Island Nations"
+        },
+        {
+          "hi": "तटीय राष्ट्र",
+          "en": "Coastal Nations"
+        },
+        {
+          "hi": "भू-आवेष्टित देश (Landlocked Countries)",
+          "en": "Landlocked Countries"
+        },
+        {
+          "hi": "अर्ध-द्वीपीय",
+          "en": "Semi-islands"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यूरोप के दो सबसे छोटे संप्रभु देश 'वेटिकन सिटी' और 'सैन मैरिनो' किस देश से घिरे हैं?",
+        "en": "Microstates Vatican City and San Marino are completely enclaved within which country?"
+      },
+      "o": [
+        {
+          "hi": "फ्रांस",
+          "en": "France"
+        },
+        {
+          "hi": "स्पेन",
+          "en": "Spain"
+        },
+        {
+          "hi": "स्विट्जरलैंड",
+          "en": "Switzerland"
+        },
+        {
+          "hi": "इटली (Enclaved inside Italy)",
+          "en": "Italy"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वह देश जो चारों ओर से केवल एक ही देश की सीमा से घिरा हो, क्या कहलाता है?",
+        "en": "A country entirely surrounded by the territory of another single country is called?"
+      },
+      "o": [
+        {
+          "hi": "एन्क्लेव देश (Enclaved / अंतःक्षेत्रीय देश)",
+          "en": "Enclave State"
+        },
+        {
+          "hi": "एक्सक्लेव देश",
+          "en": "Exclave State"
+        },
+        {
+          "hi": "कॉरिडोर देश",
+          "en": "Corridor State"
+        },
+        {
+          "hi": "बफर स्टेट",
+          "en": "Buffer State"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अफ्रीका का 'लेसोथो' (Lesotho) देश पूरी तरह से किस देश द्वारा घिरा हुआ है?",
+        "en": "Kingdom of Lesotho in Africa is completely surrounded by which single nation?"
+      },
+      "o": [
+        {
+          "hi": "मोजाम्बिक",
+          "en": "Mozambique"
+        },
+        {
+          "hi": "दक्षिण अफ्रीका (South Africa)",
+          "en": "South Africa"
+        },
+        {
+          "hi": "जिम्बाब्वे",
+          "en": "Zimbabwe"
+        },
+        {
+          "hi": "नामीबिया",
+          "en": "Namibia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अफ्रीका का 'इस्वातिनी' (स्वाजीलैंड) किन दो देशों की सीमाओं के बीच घिरा है?",
+        "en": "Eswatini (Swaziland) is landlocked between South Africa and which other nation?"
+      },
+      "o": [
+        {
+          "hi": "बोत्सवाना",
+          "en": "Botswana"
+        },
+        {
+          "hi": "जिम्बाब्वे",
+          "en": "Zimbabwe"
+        },
+        {
+          "hi": "मोजाम्बिक (Mozambique & South Africa)",
+          "en": "Mozambique & South Africa"
+        },
+        {
+          "hi": "अंगोला",
+          "en": "Angola"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अफ्रीका के हॉर्न ऑफ अफ्रीका में 1993 में इरीट्रिया के अलग होने से कौन-सा देश भू-आवेष्टित हो गया?",
+        "en": "Which large East African country became landlocked after Eritrea's independence in 1993?"
+      },
+      "o": [
+        {
+          "hi": "सूडान",
+          "en": "Sudan"
+        },
+        {
+          "hi": "सोमालिया",
+          "en": "Somalia"
+        },
+        {
+          "hi": "केन्या",
+          "en": "Kenya"
+        },
+        {
+          "hi": "इथियोपिया (Ethiopia)",
+          "en": "Ethiopia"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अफ्रीका का 'चाड' (Chad) देश किस प्रकार का देश है?",
+        "en": "Chad in north-central Africa is geographically classified as?"
+      },
+      "o": [
+        {
+          "hi": "भू-आवेष्टित देश (Landlocked Country)",
+          "en": "Landlocked Country"
+        },
+        {
+          "hi": "तटीय देश",
+          "en": "Coastal Country"
+        },
+        {
+          "hi": "द्वीपीय देश",
+          "en": "Island Country"
+        },
+        {
+          "hi": "अर्ध-तटीय देश",
+          "en": "Semi-coastal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अफ्रीका का 'नाइजर' और 'माली' किस प्रकार के भौगोलिक देश हैं?",
+        "en": "Niger and Mali in West Africa are categorized as?"
+      },
+      "o": [
+        {
+          "hi": "तटीय देश",
+          "en": "Coastal Nations"
+        },
+        {
+          "hi": "भू-आवेष्टित देश (Landlocked Countries)",
+          "en": "Landlocked Countries"
+        },
+        {
+          "hi": "द्वीपीय देश",
+          "en": "Island Nations"
+        },
+        {
+          "hi": "पर्वतीय देश",
+          "en": "Mountainous only"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जिम्बाब्वे और जाम्बिया किस प्रकार के देश हैं?",
+        "en": "Zimbabwe and Zambia in Southern Africa are geographically?"
+      },
+      "o": [
+        {
+          "hi": "तटीय राष्ट्र",
+          "en": "Coastal Nations"
+        },
+        {
+          "hi": "द्वीपीय राष्ट्र",
+          "en": "Island Nations"
+        },
+        {
+          "hi": "भू-आवेष्टित देश (Landlocked Countries)",
+          "en": "Landlocked Countries"
+        },
+        {
+          "hi": "अर्ध-द्वीपीय",
+          "en": "Peninsular"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रवांडा और बुरुंडी (मध्य अफ्रीका के ग्रेट लेक्स क्षेत्र) किस श्रेणी में आते हैं?",
+        "en": "Rwanda and Burundi in Central Africa belong to which geographical category?"
+      },
+      "o": [
+        {
+          "hi": "तटीय देश",
+          "en": "Coastal"
+        },
+        {
+          "hi": "द्वीपीय देश",
+          "en": "Island"
+        },
+        {
+          "hi": "महासागरीय",
+          "en": "Oceanic"
+        },
+        {
+          "hi": "भू-आवेष्टित देश (Landlocked Countries)",
+          "en": "Landlocked Countries"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मध्य अफ्रीकी गणराज्य (CAR) किस महाद्वीप का भू-आवेष्टित देश है?",
+        "en": "Central African Republic (CAR) is a landlocked nation of which continent?"
+      },
+      "o": [
+        {
+          "hi": "अफ्रीका (Africa)",
+          "en": "Africa"
+        },
+        {
+          "hi": "एशिया",
+          "en": "Asia"
+        },
+        {
+          "hi": "यूरोप",
+          "en": "Europe"
+        },
+        {
+          "hi": "दक्षिण अमेरिका",
+          "en": "South America"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यूरोप का 'बेलारूस' (Belarus) किस प्रकार का देश है?",
+        "en": "Eastern European nation Belarus is geographically classified as?"
+      },
+      "o": [
+        {
+          "hi": "तटीय देश (बाल्टिक पर)",
+          "en": "Coastal (on Baltic)"
+        },
+        {
+          "hi": "भू-आवेष्टित देश (Landlocked Country)",
+          "en": "Landlocked Country"
+        },
+        {
+          "hi": "द्वीपीय देश",
+          "en": "Island Country"
+        },
+        {
+          "hi": "प्रायद्वीपीय",
+          "en": "Peninsular"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यूरोप का 'माल्डोवा' (Moldova) रोमानिया और यूक्रेन के बीच किस प्रकार का देश है?",
+        "en": "Moldova, situated between Romania and Ukraine, is categorized as?"
+      },
+      "o": [
+        {
+          "hi": "तटीय देश (काला सागर पर)",
+          "en": "Coastal on Black Sea"
+        },
+        {
+          "hi": "द्वीपीय देश",
+          "en": "Island Nation"
+        },
+        {
+          "hi": "भू-आवेष्टित देश (Landlocked Country)",
+          "en": "Landlocked Country"
+        },
+        {
+          "hi": "सागरीय देश",
+          "en": "Maritime State"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आर्मेनिया (Armenia) दक्षिण काकेशस में किस प्रकार का देश है?",
+        "en": "Armenia in the South Caucasus is geographically classified as?"
+      },
+      "o": [
+        {
+          "hi": "काला सागर का तटीय देश",
+          "en": "Black Sea Coastal"
+        },
+        {
+          "hi": "कैस्पियन का तटीय देश",
+          "en": "Caspian Coastal"
+        },
+        {
+          "hi": "भूमध्यसागरीय देश",
+          "en": "Mediterranean"
+        },
+        {
+          "hi": "भू-आवेष्टित देश (Landlocked Country)",
+          "en": "Landlocked Country"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यूरोप का 'अंडोरा' (Andorra) किन दो देशों के मध्य स्थित एक छोटा भू-आवेष्टित देश है?",
+        "en": "Microstate Andorra in the Pyrenees is landlocked between which two nations?"
+      },
+      "o": [
+        {
+          "hi": "फ्रांस और स्पेन (France & Spain)",
+          "en": "France & Spain"
+        },
+        {
+          "hi": "स्पेन और पुर्तगाल",
+          "en": "Spain & Portugal"
+        },
+        {
+          "hi": "फ्रांस और इटली",
+          "en": "France & Italy"
+        },
+        {
+          "hi": "इटली और स्विट्जरलैंड",
+          "en": "Italy & Switzerland"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यूरोप का 'लक्जमबर्ग' (Luxembourg) किन देशों से घिरा भू-आवेष्टित देश है?",
+        "en": "Luxembourg is a landlocked country bordered by Belgium, Germany and?"
+      },
+      "o": [
+        {
+          "hi": "नीदरलैंड",
+          "en": "Netherlands"
+        },
+        {
+          "hi": "फ्रांस (France, Germany & Belgium)",
+          "en": "France (France, Ger & Bel)"
+        },
+        {
+          "hi": "स्विट्जरलैंड",
+          "en": "Switzerland"
+        },
+        {
+          "hi": "ऑस्ट्रिया",
+          "en": "Austria"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दक्षिण अमेरिका के बोलीविया ने किस युद्ध में अपना समुद्री तट (प्रशांत महासागर) खो दिया था?",
+        "en": "In which war did Bolivia lose its Pacific coastline to Chile (1879-1884)?"
+      },
+      "o": [
+        {
+          "hi": "चाको युद्ध",
+          "en": "Chaco War"
+        },
+        {
+          "hi": "ट्रिपल अलायंस युद्ध",
+          "en": "Triple Alliance War"
+        },
+        {
+          "hi": "प्रशांत का युद्ध (War of the Pacific)",
+          "en": "War of the Pacific"
+        },
+        {
+          "hi": "एंडीज युद्ध",
+          "en": "Andean War"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भू-आवेष्टित देशों को समुद्री व्यापार हेतु पारगमन (Transit) का अधिकार किस संधि द्वारा मिला है?",
+        "en": "Which UN treaty guarantees freedom of transit for landlocked states to the sea?"
+      },
+      "o": [
+        {
+          "hi": "क्योटो प्रोटोकॉल",
+          "en": "Kyoto Protocol"
+        },
+        {
+          "hi": "पेरिस समझौता",
+          "en": "Paris Agreement"
+        },
+        {
+          "hi": "जेनेवा कन्वेंशन",
+          "en": "Geneva Convention"
+        },
+        {
+          "hi": "समुद्र कानून पर संयुक्त राष्ट्र अभिसमय (UNCLOS 1982)",
+          "en": "UNCLOS (1982)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भू-आवेष्टित देशों के विकास के लिए सबसे बड़ी आर्थिक और व्यापारिक चुनौती क्या है?",
+        "en": "What is the primary economic challenge faced by landlocked developing nations?"
+      },
+      "o": [
+        {
+          "hi": "उच्च परिवहन एवं पारगमन लागत तथा पड़ोसी देशों के बंदरगाहों पर निर्भरता",
+          "en": "High transit & freight costs, reliance on neighbors' ports"
+        },
+        {
+          "hi": "जनसंख्या की कमी",
+          "en": "Lack of population"
+        },
+        {
+          "hi": "पानी की अत्यधिक बहुलता",
+          "en": "Excess water"
+        },
+        {
+          "hi": "खनिजों का अभाव",
+          "en": "No minerals"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का कौन-सा बंदरगाह नेपाल और भूटान के विदेशी व्यापार का मुख्य पारगमन केंद्र है?",
+        "en": "Which Indian seaport serves as the primary transit gateway for Nepal and Bhutan?"
+      },
+      "o": [
+        {
+          "hi": "मुंबई बंदरगाह",
+          "en": "Mumbai Port"
+        },
+        {
+          "hi": "कोलकाता / हल्दिया बंदरगाह (Kolkata/Haldia Port)",
+          "en": "Kolkata/Haldia Port"
+        },
+        {
+          "hi": "चेन्नई बंदरगाह",
+          "en": "Chennai Port"
+        },
+        {
+          "hi": "विशाखापट्टनम बंदरगाह",
+          "en": "Visakhapatnam Port"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अफगानिस्तान को समुद्र तक वैकल्पिक पहुँच प्रदान करने वाला ईरान का भारतीय निर्मित बंदरगाह?",
+        "en": "Which Iranian port developed by India provides sea access to landlocked Afghanistan?"
+      },
+      "o": [
+        {
+          "hi": "बंदर अब्बास",
+          "en": "Bandar Abbas"
+        },
+        {
+          "hi": "ग्वादर बंदरगाह",
+          "en": "Gwadar Port"
+        },
+        {
+          "hi": "चाबहार बंदरगाह (Chabahar Port)",
+          "en": "Chabahar Port"
+        },
+        {
+          "hi": "कराची बंदरगाह",
+          "en": "Karachi Port"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बोत्सवाना (Botswana) किस प्रकार का देश है?",
+        "en": "Botswana in Southern Africa is geographically classified as?"
+      },
+      "o": [
+        {
+          "hi": "द्वीपीय देश",
+          "en": "Island Nation"
+        },
+        {
+          "hi": "तटीय देश",
+          "en": "Coastal Nation"
+        },
+        {
+          "hi": "अर्ध-तटीय देश",
+          "en": "Semi-coastal"
+        },
+        {
+          "hi": "भू-आवेष्टित देश (Landlocked Country)",
+          "en": "Landlocked Country"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पराग्वे की राजधानी 'असुन्सियन' किस नदी के माध्यम से समुद्र तक जलमार्ग पहुँच प्राप्त करती है?",
+        "en": "Asuncion, capital of landlocked Paraguay, connects to sea via which navigable river?"
+      },
+      "o": [
+        {
+          "hi": "पराग्वे-पराना नदी प्रणाली (Paraguay-Parana River)",
+          "en": "Paraguay-Parana River System"
+        },
+        {
+          "hi": "अमेजन नदी",
+          "en": "Amazon River"
+        },
+        {
+          "hi": "ओरिनोको नदी",
+          "en": "Orinoco River"
+        },
+        {
+          "hi": "साओ फ्रांसिस्को नदी",
+          "en": "Sao Francisco"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यूरोप की कौन-सी अंतरराष्ट्रीय नदी कई भू-आवेष्टित देशों (ऑस्ट्रिया, स्लोवाकिया, हंगरी, सर्बिया) को काला सागर तक जोड़ती है?",
+        "en": "Which European river connects landlocked Austria, Slovakia, Hungary & Serbia to Black Sea?"
+      },
+      "o": [
+        {
+          "hi": "राइन नदी",
+          "en": "Rhine River"
+        },
+        {
+          "hi": "डेन्यूब नदी (Danube River)",
+          "en": "Danube River"
+        },
+        {
+          "hi": "एल्बे नदी",
+          "en": "Elbe River"
+        },
+        {
+          "hi": "वोल्गा नदी",
+          "en": "Volga River"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अफ्रीका का 'मलावी' देश किस विशाल झील के किनारे स्थित भू-आवेष्टित देश है?",
+        "en": "Landlocked African country Malawi lies along which great lake?"
+      },
+      "o": [
+        {
+          "hi": "विक्टोरिया झील",
+          "en": "Lake Victoria"
+        },
+        {
+          "hi": "तांगानिका झील",
+          "en": "Lake Tanganyika"
+        },
+        {
+          "hi": "मलावी झील / न्यासा झील (Lake Malawi)",
+          "en": "Lake Malawi / Nyasa"
+        },
+        {
+          "hi": "चाड झील",
+          "en": "Lake Chad"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व में कुल कितने देश ऐसे हैं जो किसी भी खुले महासागर की सीमा से नहीं लगते?",
+        "en": "Total officially recognized landlocked states globally?"
+      },
+      "o": [
+        {
+          "hi": "20",
+          "en": "20"
+        },
+        {
+          "hi": "30",
+          "en": "30"
+        },
+        {
+          "hi": "40",
+          "en": "40"
+        },
+        {
+          "hi": "लगभग 44 संप्रभु देश (44 Sovereign Countries)",
+          "en": "44 Sovereign Countries"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नेपाल और भारत के बीच पारगमन संधि (Treaty of Transit) किसके लिए की गई है?",
+        "en": "India-Nepal Treaty of Transit allows Nepal to?"
+      },
+      "o": [
+        {
+          "hi": "भारतीय बंदरगाहों और मार्गों से होकर निर्बाध विदेशी व्यापार करने की सुविधा",
+          "en": "Unrestricted third-country trade via Indian ports"
+        },
+        {
+          "hi": "भारत पर टैक्स लगाने",
+          "en": "Tax India"
+        },
+        {
+          "hi": "सैन्य अड्डा बनाने",
+          "en": "Military bases"
+        },
+        {
+          "hi": "मुद्रा बदलने",
+          "en": "Currency exchange"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भू-आवेष्टित विकासशील देशों (LLDC) का विशेष सम्मेलन किस अंतरराष्ट्रीय संस्था द्वारा आयोजित होता है?",
+        "en": "Conferences for Landlocked Developing Countries (LLDCs) are organized by?"
+      },
+      "o": [
+        {
+          "hi": "विश्व बैंक",
+          "en": "World Bank"
+        },
+        {
+          "hi": "संयुक्त राष्ट्र (United Nations / UN-OHRLLS)",
+          "en": "United Nations (UN-OHRLLS)"
+        },
+        {
+          "hi": "विश्व व्यापार संगठन",
+          "en": "WTO"
+        },
+        {
+          "hi": "अंतर्राष्ट्रीय मुद्रा कोष",
+          "en": "IMF"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

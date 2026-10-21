@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - प्राचीन भारत (Ancient India)",
+  "subtitle": "प्राचीन भारतीय इतिहास के स्रोत",
+  "description": "प्राचीन भारतीय इतिहास के स्रोत पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "प्राचीन भारतीय इतिहास के अध्ययन के मुख्य रूप से कितने स्रोत हैं?",
+        "en": "How many primary categories of sources are there for ancient Indian history?"
+      },
+      "o": [
+        {
+          "hi": "4 स्रोत (धर्मग्रंथ, ऐतिहासिक ग्रंथ, विदेशियों के विवरण, पुरातत्व साक्ष्य)",
+          "en": "4 Sources (Religious, Historical, Foreign accounts, Archeology)"
+        },
+        {
+          "hi": "2 स्रोत",
+          "en": "2 sources"
+        },
+        {
+          "hi": "6 स्रोत",
+          "en": "6 sources"
+        },
+        {
+          "hi": "8 स्रोत",
+          "en": "8 sources"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का सर्वप्राचीन धर्मग्रंथ कौन-सा है, जिसके संकलनकर्ता महर्षि वेदव्यास माने जाते हैं?",
+        "en": "Which is the oldest religious text of India, compiled by Maharishi Ved Vyas?"
+      },
+      "o": [
+        {
+          "hi": "उपनिषद",
+          "en": "Upanishad"
+        },
+        {
+          "hi": "वेद (Vedas - ऋग्वेद, यजुर्वेद, सामवेद, अथर्ववेद)",
+          "en": "Vedas"
+        },
+        {
+          "hi": "पुराण",
+          "en": "Puranas"
+        },
+        {
+          "hi": "रामायण",
+          "en": "Ramayana"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ऋचाओं के क्रमबद्ध ज्ञान के संग्रह को क्या कहा जाता है?",
+        "en": "What is the systematic collection of hymns and verses called?"
+      },
+      "o": [
+        {
+          "hi": "सामवेद",
+          "en": "Samaveda"
+        },
+        {
+          "hi": "यजुर्वेद",
+          "en": "Yajurveda"
+        },
+        {
+          "hi": "ऋग्वेद (Rigveda - 10 मंडल, 1028 सूक्त)",
+          "en": "Rigveda"
+        },
+        {
+          "hi": "अथर्ववेद",
+          "en": "Atharvaveda"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऋग्वेद के तीसरे मंडल में सूर्य देवता 'सावित्री' को समर्पित कौन-सा प्रसिद्ध मंत्र है?",
+        "en": "Which famous hymn dedicated to Savitri (Sun god) is in the 3rd Mandala of Rigveda?"
+      },
+      "o": [
+        {
+          "hi": "महामृत्युंजय मंत्र",
+          "en": "Mahamrityunjaya Mantra"
+        },
+        {
+          "hi": "शांति पाठ",
+          "en": "Shanti Path"
+        },
+        {
+          "hi": "विष्णु स्तुति",
+          "en": "Vishnu Stuti"
+        },
+        {
+          "hi": "गायत्री मंत्र (Gayatri Mantra - विश्वामित्र रचित)",
+          "en": "Gayatri Mantra"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऋग्वेद के 10वें मंडल के किस सूक्त में चार वर्णों (ब्राह्मण, क्षत्रिय, वैश्य, शूद्र) का उल्लेख है?",
+        "en": "In which hymn of the 10th Mandala of Rigveda are the 4 Varnas first mentioned?"
+      },
+      "o": [
+        {
+          "hi": "पुरुष सूक्त (Purusha Sukta)",
+          "en": "Purusha Sukta"
+        },
+        {
+          "hi": "नासदीय सूक्त",
+          "en": "Nasadiya Sukta"
+        },
+        {
+          "hi": "विवाह सूक्त",
+          "en": "Vivaha Sukta"
+        },
+        {
+          "hi": "नदी सूक्त",
+          "en": "Nadi Sukta"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गद्य और पद्य (Prose and Verse) दोनों में रचित एकमात्र वेद कौन-सा है?",
+        "en": "Which is the only Veda composed in both prose and verse?"
+      },
+      "o": [
+        {
+          "hi": "ऋग्वेद",
+          "en": "Rigveda"
+        },
+        {
+          "hi": "यजुर्वेद (Yajurveda)",
+          "en": "Yajurveda"
+        },
+        {
+          "hi": "सामवेद",
+          "en": "Samaveda"
+        },
+        {
+          "hi": "अथर्ववेद",
+          "en": "Atharvaveda"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय संगीत का जनक (Father of Indian Classical Music) किस वेद को कहा जाता है?",
+        "en": "Which Veda is considered the origin/fountainhead of Indian classical music?"
+      },
+      "o": [
+        {
+          "hi": "ऋग्वेद",
+          "en": "Rigveda"
+        },
+        {
+          "hi": "यजुर्वेद",
+          "en": "Yajurveda"
+        },
+        {
+          "hi": "सामवेद (Samaveda - गान योग्य ऋचाएं)",
+          "en": "Samaveda"
+        },
+        {
+          "hi": "अथर्ववेद",
+          "en": "Atharvaveda"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रोग निवारण, तंत्र-मंत्र, जादू-टोना, विवाह और औषधि से संबंधित वेद कौन-सा है?",
+        "en": "Which Veda deals with medicine, charms, spells, marriage, and household rituals?"
+      },
+      "o": [
+        {
+          "hi": "ऋग्वेद",
+          "en": "Rigveda"
+        },
+        {
+          "hi": "सामवेद",
+          "en": "Samaveda"
+        },
+        {
+          "hi": "यजुर्वेद",
+          "en": "Yajurveda"
+        },
+        {
+          "hi": "अथर्ववेद (Atharvaveda - ऋषि अथर्वा द्वारा रचित)",
+          "en": "Atharvaveda"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय दार्शनिक विचारों के प्राचीनतम स्रोत 'उपनिषदों' की कुल संख्या कितनी है?",
+        "en": "What is the total number of Upanishads representing ancient Indian philosophical thought?"
+      },
+      "o": [
+        {
+          "hi": "108 उपनिषद (108 Upanishads)",
+          "en": "108 Upanishads"
+        },
+        {
+          "hi": "18 उपनिषद",
+          "en": "18"
+        },
+        {
+          "hi": "1028 उपनिषद",
+          "en": "1028"
+        },
+        {
+          "hi": "6 उपनिषद",
+          "en": "6"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का राष्ट्रीय आदर्श वाक्य 'सत्यमेव जयते' किस उपनिषद से लिया गया है?",
+        "en": "India's national motto 'Satyameva Jayate' is taken from which Upanishad?"
+      },
+      "o": [
+        {
+          "hi": "छांदोग्य उपनिषद",
+          "en": "Chandogya Upanishad"
+        },
+        {
+          "hi": "मुण्डकोपनिषद (Mundaka Upanishad)",
+          "en": "Mundaka Upanishad"
+        },
+        {
+          "hi": "कठोपनिषद",
+          "en": "Katha Upanishad"
+        },
+        {
+          "hi": "बृहदारण्यक उपनिषद",
+          "en": "Brihadaranyaka Upanishad"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यम और नचिकेता के बीच प्रसिद्ध आध्यात्मिक संवाद किस उपनिषद में वर्णित है?",
+        "en": "The famous spiritual dialogue between Yama and Nachiketa is in which Upanishad?"
+      },
+      "o": [
+        {
+          "hi": "मुण्डकोपनिषद",
+          "en": "Mundaka Upanishad"
+        },
+        {
+          "hi": "केन उपनिषद",
+          "en": "Kena Upanishad"
+        },
+        {
+          "hi": "कठोपनिषद (Katha Upanishad)",
+          "en": "Katha Upanishad"
+        },
+        {
+          "hi": "प्रश्नोपनिषद",
+          "en": "Prashna Upanishad"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वेदों को भली-भाँति समझने के लिए कुल कितने 'वेदांगों' (Vedangas) की रचना की गई?",
+        "en": "How many Vedangas were composed for the correct comprehension of the Vedas?"
+      },
+      "o": [
+        {
+          "hi": "4",
+          "en": "4"
+        },
+        {
+          "hi": "5",
+          "en": "5"
+        },
+        {
+          "hi": "8",
+          "en": "8"
+        },
+        {
+          "hi": "6 वेदांग (शिक्षा, कल्प, व्याकरण, निरुक्त, छंद, ज्योतिष)",
+          "en": "6 Vedangas"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय ऐतिहासिक कथाओं का सबसे अच्छा क्रमबद्ध विवरण किसमें मिलता है?",
+        "en": "The best chronological and systematic narrative of Indian historical events is found in?"
+      },
+      "o": [
+        {
+          "hi": "पुराणों में (Puranas - कुल संख्या 18)",
+          "en": "Puranas (Total 18)"
+        },
+        {
+          "hi": "ब्राह्मण ग्रंथों में",
+          "en": "Brahmanas"
+        },
+        {
+          "hi": "आरम्यकों में",
+          "en": "Aranyakas"
+        },
+        {
+          "hi": "वेदांगों में",
+          "en": "Vedangas"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सबसे प्राचीन एवं प्रामाणिक पुराण कौन-सा माना जाता है?",
+        "en": "Which is considered the oldest and most authentic Purana?"
+      },
+      "o": [
+        {
+          "hi": "विष्णु पुराण",
+          "en": "Vishnu Purana"
+        },
+        {
+          "hi": "मत्स्य पुराण (Matsya Purana - आंध्र सातवाहन वंश)",
+          "en": "Matsya Purana"
+        },
+        {
+          "hi": "वायु पुराण",
+          "en": "Vayu Purana"
+        },
+        {
+          "hi": "भागवत पुराण",
+          "en": "Bhagavata Purana"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मौर्य वंश से संबंधित ऐतिहासिक जानकारी किस पुराण में मिलती है?",
+        "en": "Historical information regarding the Mauryan dynasty is predominantly found in which Purana?"
+      },
+      "o": [
+        {
+          "hi": "मत्स्य पुराण",
+          "en": "Matsya Purana"
+        },
+        {
+          "hi": "वायु पुराण",
+          "en": "Vayu Purana"
+        },
+        {
+          "hi": "विष्णु पुराण (Vishnu Purana)",
+          "en": "Vishnu Purana"
+        },
+        {
+          "hi": "गरुड़ पुराण",
+          "en": "Garuda Purana"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गुप्त वंश के इतिहास की प्रामाणिक जानकारी किस पुराण से प्राप्त होती है?",
+        "en": "Authentic historical details about the Gupta dynasty are primarily obtained from which Purana?"
+      },
+      "o": [
+        {
+          "hi": "विष्णु पुराण",
+          "en": "Vishnu Purana"
+        },
+        {
+          "hi": "मत्स्य पुराण",
+          "en": "Matsya Purana"
+        },
+        {
+          "hi": "ब्रह्म पुराण",
+          "en": "Brahma Purana"
+        },
+        {
+          "hi": "वायु पुराण (Vayu Purana)",
+          "en": "Vayu Purana"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सबसे प्राचीन एवं प्रामाणिक धर्मशास्त्र 'मनुस्मृति' किस काल का मानक ग्रंथ है?",
+        "en": "Manusmriti, the oldest code of Hindu socio-legal conduct, belongs to which period?"
+      },
+      "o": [
+        {
+          "hi": "शुंग काल (Shunga Period)",
+          "en": "Shunga Period"
+        },
+        {
+          "hi": "मौर्य काल",
+          "en": "Mauryan Period"
+        },
+        {
+          "hi": "गुप्त काल",
+          "en": "Gupta Period"
+        },
+        {
+          "hi": "कुषाण काल",
+          "en": "Kushana Period"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बौद्ध साहित्य के प्राचीनतम ग्रंथ त्रिपिटक (सूत, विनय, अभिधम्म) किस भाषा में रचित हैं?",
+        "en": "In which language are the ancient Buddhist canonical Pitakas composed?"
+      },
+      "o": [
+        {
+          "hi": "संस्कृत",
+          "en": "Sanskrit"
+        },
+        {
+          "hi": "पालि भाषा (Pali Language)",
+          "en": "Pali Language"
+        },
+        {
+          "hi": "प्राकृत",
+          "en": "Prakrit"
+        },
+        {
+          "hi": "अपभ्रंश",
+          "en": "Apabhramsha"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बुद्ध के पूर्व जन्मों की 549 कथाओं का संग्रह किस ग्रंथ में मिलता है?",
+        "en": "Stories of previous births of Gautama Buddha are collected in which text?"
+      },
+      "o": [
+        {
+          "hi": "विनय पिटक",
+          "en": "Vinaya Pitaka"
+        },
+        {
+          "hi": "अभिधम्म पिटक",
+          "en": "Abhidhamma Pitaka"
+        },
+        {
+          "hi": "जातक कथाएं (Jataka Tales)",
+          "en": "Jataka Tales"
+        },
+        {
+          "hi": "दीपवंश",
+          "en": "Dipavamsa"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जैन साहित्य को आगम कहा जाता है, यह प्रारंभिक रूप से किस भाषा में लिखा गया?",
+        "en": "Jain canonical literature (Agamas) was originally composed in which language?"
+      },
+      "o": [
+        {
+          "hi": "संस्कृत",
+          "en": "Sanskrit"
+        },
+        {
+          "hi": "पालि",
+          "en": "Pali"
+        },
+        {
+          "hi": "मागधी",
+          "en": "Magadhi"
+        },
+        {
+          "hi": "प्राकृत / अर्धमागधी (Prakrit / Ardhamagadhi)",
+          "en": "Prakrit / Ardhamagadhi"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जैन धर्म का प्रारंभिक इतिहास और तीर्थंकरों की जीवनियाँ किस ग्रंथ में हैं?",
+        "en": "Early history of Jainism and biographies of Tirthankaras are in Bhadrabahu's?"
+      },
+      "o": [
+        {
+          "hi": "कल्पसूत्र (भद्रबाहु रचित / Kalpasutra)",
+          "en": "Kalpasutra (by Bhadrabahu)"
+        },
+        {
+          "hi": "परिशिष्टपर्वन",
+          "en": "Parishishtaparvan"
+        },
+        {
+          "hi": "आचरांग सूत्र",
+          "en": "Acharanga Sutra"
+        },
+        {
+          "hi": "भगवती सूत्र",
+          "en": "Bhagavati Sutra"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कौटिल्य (चाणक्य) द्वारा रचित 'अर्थशास्त्र' किस विषय से संबंधित ग्रंथ है?",
+        "en": "Chanakya's treatise 'Arthashastra' is primarily a foundational work on what?"
+      },
+      "o": [
+        {
+          "hi": "अर्थव्यवस्था व कर प्रणाली",
+          "en": "Economics & taxation"
+        },
+        {
+          "hi": "राजनीति शास्त्र एवं शासन कला (Politics & Statecraft)",
+          "en": "Politics & Statecraft"
+        },
+        {
+          "hi": "सैन्य विज्ञान केवल",
+          "en": "Military science"
+        },
+        {
+          "hi": "धर्म और दर्शन",
+          "en": "Religion & Philosophy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संस्कृत साहित्य में ऐतिहासिक घटनाओं को क्रमबद्ध लिखने का प्रथम प्रयास किसने किया?",
+        "en": "Who made the first attempt to record historical events chronologically in 'Rajatarangini'?"
+      },
+      "o": [
+        {
+          "hi": "बाणभट्ट",
+          "en": "Banabhatta"
+        },
+        {
+          "hi": "बिल्हण",
+          "en": "Bilhana"
+        },
+        {
+          "hi": "कल्हण (12वीं सदी - कश्मीर का इतिहास)",
+          "en": "Kalhana (Rajatarangini)"
+        },
+        {
+          "hi": "हेमचंद्र",
+          "en": "Hemachandra"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अरबों की सिंध विजय का ऐतिहासिक वृत्तांत किस फारसी/अरबी पुस्तक में मिलता है?",
+        "en": "Arab conquest of Sindh (712 AD) is historically detailed in which book?"
+      },
+      "o": [
+        {
+          "hi": "किताब-उल-हिंद",
+          "en": "Kitab-ul-Hind"
+        },
+        {
+          "hi": "शाहनामा",
+          "en": "Shahnama"
+        },
+        {
+          "hi": "तारीख-ए-फिरोजशाही",
+          "en": "Tarikh-i-Firozshahi"
+        },
+        {
+          "hi": "चचनामा (अली अहमद द्वारा रचित / Chachnama)",
+          "en": "Chachnama"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संस्कृत भाषा व्याकरण की प्रथम प्रसिद्ध पुस्तक 'अष्टाध्यायी' के लेखक कौन हैं?",
+        "en": "Who is the author of 'Ashtadhyayi', the first Sanskrit grammar treatise?"
+      },
+      "o": [
+        {
+          "hi": "महर्षि पाणिनि (Panini)",
+          "en": "Maharshi Panini"
+        },
+        {
+          "hi": "पतंजलि",
+          "en": "Patanjali"
+        },
+        {
+          "hi": "कात्यायन",
+          "en": "Katyayana"
+        },
+        {
+          "hi": "यास्क",
+          "en": "Yaska"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मौर्योत्तर काल के पुष्यमित्र शुंग के पुरोहित पतंजलि ने किस ग्रंथ की रचना की?",
+        "en": "Patanjali, the royal priest of Pushyamitra Shunga, composed which major text?"
+      },
+      "o": [
+        {
+          "hi": "अष्टाध्यायी",
+          "en": "Ashtadhyayi"
+        },
+        {
+          "hi": "महाभाष्य (Mahabhashya)",
+          "en": "Mahabhashya"
+        },
+        {
+          "hi": "मुद्राराक्षस",
+          "en": "Mudrarakshasa"
+        },
+        {
+          "hi": "मालविकाग्निमित्रम्",
+          "en": "Malavikagnimitram"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'इतिहास का पिता' (Father of History) किसे कहा जाता है जिसने 'हिस्टोरिका' लिखी?",
+        "en": "Who is known as the 'Father of History' and author of 'Historica' (5th century BC)?"
+      },
+      "o": [
+        {
+          "hi": "टॉलेमी",
+          "en": "Ptolemy"
+        },
+        {
+          "hi": "प्लिनी",
+          "en": "Pliny"
+        },
+        {
+          "hi": "हेरोडोटस (Herodotus)",
+          "en": "Herodotus"
+        },
+        {
+          "hi": "मेगस्थनीज",
+          "en": "Megasthenes"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सेल्युकस निकेटर का राजदूत जो चंद्रगुप्त मौर्य के दरबार में आया और 'इंडिका' लिखी?",
+        "en": "Ambassador of Seleucus Nicator who visited Chandragupta Maurya and wrote 'Indica'?"
+      },
+      "o": [
+        {
+          "hi": "डायमेकस",
+          "en": "Deimachus"
+        },
+        {
+          "hi": "डायोनिसियस",
+          "en": "Dionysius"
+        },
+        {
+          "hi": "प्लिनी",
+          "en": "Pliny"
+        },
+        {
+          "hi": "मेगस्थनीज (Megasthenes)",
+          "en": "Megasthenes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बिंदुसार के राजदरबार में आने वाला सीरियाई राजदूत कौन था?",
+        "en": "Which Syrian ambassador was sent by King Antiochus I to the court of Bindusara?"
+      },
+      "o": [
+        {
+          "hi": "डायमेकस (Deimachus)",
+          "en": "Deimachus"
+        },
+        {
+          "hi": "मेगस्थनीज",
+          "en": "Megasthenes"
+        },
+        {
+          "hi": "डायोनिसियस",
+          "en": "Dionysius"
+        },
+        {
+          "hi": "टॉलेमी",
+          "en": "Ptolemy"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ईसा की प्रथम शताब्दी में 'नेचुरल हिस्टोरिका' (Naturalis Historia) पुस्तक किसने लिखी?",
+        "en": "Who authored 'Naturalis Historia' in the 1st century AD describing Indo-Roman trade?"
+      },
+      "o": [
+        {
+          "hi": "टॉलेमी",
+          "en": "Ptolemy"
+        },
+        {
+          "hi": "प्लिनी (Pliny the Elder)",
+          "en": "Pliny the Elder"
+        },
+        {
+          "hi": "स्ट्रैबो",
+          "en": "Strabo"
+        },
+        {
+          "hi": "एरियन",
+          "en": "Arrian"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गुप्त सम्राट चंद्रगुप्त द्वितीय 'विक्रमादित्य' के दरबार में आने वाला चीनी यात्री कौन था?",
+        "en": "Which Chinese Buddhist pilgrim visited India during Chandragupta II Vikramaditya's reign?"
+      },
+      "o": [
+        {
+          "hi": "ह्वेनसांग",
+          "en": "Hiuen Tsang"
+        },
+        {
+          "hi": "इत्सिंग",
+          "en": "I-Tsing"
+        },
+        {
+          "hi": "फाह्यान (Fa-Hien - 399-414 ई.)",
+          "en": "Fa-Hien"
+        },
+        {
+          "hi": "सुंगयुन",
+          "en": "Song Yun"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हर्षवर्धन के शासनकाल में भारत आने वाला महान चीनी तीर्थयात्री कौन था?",
+        "en": "Which famous Chinese pilgrim visited India during King Harshavardhana's reign (629-645 AD)?"
+      },
+      "o": [
+        {
+          "hi": "फाह्यान",
+          "en": "Fa-Hien"
+        },
+        {
+          "hi": "इत्सिंग",
+          "en": "I-Tsing"
+        },
+        {
+          "hi": "तारानाथ",
+          "en": "Taranatha"
+        },
+        {
+          "hi": "ह्वेनसांग / युवान च्वांग (Hiuen Tsang - सी-यू-की)",
+          "en": "Hiuen Tsang (Si-Yu-Ki)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ह्वेनसांग ने नालंदा विश्वविद्यालय में किसके अधीन बौद्ध दर्शन का अध्ययन किया?",
+        "en": "Under which venerable Buddhist scholar did Hiuen Tsang study at Nalanda University?"
+      },
+      "o": [
+        {
+          "hi": "आचार्य शीलभद्र (Acharya Shilabhadra)",
+          "en": "Acharya Shilabhadra"
+        },
+        {
+          "hi": "आचार्य नागार्जुन",
+          "en": "Nagarjuna"
+        },
+        {
+          "hi": "धर्मपाल",
+          "en": "Dharmapala"
+        },
+        {
+          "hi": "वसुबंधु",
+          "en": "Vasubandhu"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "महमूद गजनवी के साथ 11वीं सदी में भारत आने वाला मुस्लिम विद्वान कौन था?",
+        "en": "Which great Islamic polymath came to India with Mahmud of Ghazni in 11th century?"
+      },
+      "o": [
+        {
+          "hi": "इब्न बतूता",
+          "en": "Ibn Battuta"
+        },
+        {
+          "hi": "अल-बरूनी (Al-Biruni - किताब-उल-हिंद)",
+          "en": "Al-Biruni"
+        },
+        {
+          "hi": "अल-मसूदी",
+          "en": "Al-Masudi"
+        },
+        {
+          "hi": "सुलेमान",
+          "en": "Suleiman"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मोरक्को (अफ्रीका) का प्रसिद्ध यात्री इब्न बतूता 1333 में किसके दरबार में आया था?",
+        "en": "Moroccan traveler Ibn Battuta (author of Rihla) arrived in Delhi in 1333 at whose court?"
+      },
+      "o": [
+        {
+          "hi": "अलाउद्दीन खिलजी",
+          "en": "Alauddin Khalji"
+        },
+        {
+          "hi": "बलबन",
+          "en": "Balban"
+        },
+        {
+          "hi": "मोहम्मद बिन तुगलक (Muhammad bin Tughluq)",
+          "en": "Muhammad bin Tughluq"
+        },
+        {
+          "hi": "फिरोज शाह तुगलक",
+          "en": "Firoz Shah Tughluq"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अभिलेखों के अध्ययन (Study of Inscriptions) के विज्ञान को क्या कहा जाता है?",
+        "en": "What is the scientific study of inscriptions and epigraphs called?"
+      },
+      "o": [
+        {
+          "hi": "न्यूमिस्मैटिक्स",
+          "en": "Numismatics"
+        },
+        {
+          "hi": "पैलियोग्राफी",
+          "en": "Palaeography"
+        },
+        {
+          "hi": "आर्कियोलॉजी",
+          "en": "Archaeology"
+        },
+        {
+          "hi": "एपीग्राफी (पुरालेखशास्त्र / Epigraphy)",
+          "en": "Epigraphy"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सिक्कों के अध्ययन (Study of Coins) के विज्ञान को क्या कहा जाता है?",
+        "en": "What is the scientific study and collection of coins and currency tokens called?"
+      },
+      "o": [
+        {
+          "hi": "न्यूमिस्मैटिक्स (मुद्राशास्त्र / Numismatics)",
+          "en": "Numismatics"
+        },
+        {
+          "hi": "एपीग्राफी",
+          "en": "Epigraphy"
+        },
+        {
+          "hi": "आइकोनोग्राफी",
+          "en": "Iconography"
+        },
+        {
+          "hi": "एथनोग्राफी",
+          "en": "Ethnography"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में प्राचीनतम आहत सिक्के (Punch-marked Coins) मुख्य रूप से किसके बने थे?",
+        "en": "Earliest punch-marked coins (Aahat coins, 6th-5th century BC) were mostly made of?"
+      },
+      "o": [
+        {
+          "hi": "सोने के",
+          "en": "Gold"
+        },
+        {
+          "hi": "चांदी एवं तांबे के (Silver & Copper)",
+          "en": "Silver & Copper"
+        },
+        {
+          "hi": "लोहे के",
+          "en": "Iron"
+        },
+        {
+          "hi": "कांस्य के",
+          "en": "Bronze"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में सर्वप्रथम सोने के सिक्के किन शासकों ने जारी किए थे?",
+        "en": "Who were the first rulers in India to issue gold coins bearing royal portraits and legends?"
+      },
+      "o": [
+        {
+          "hi": "मौर्य शासक",
+          "en": "Mauryas"
+        },
+        {
+          "hi": "कुषाण शासक",
+          "en": "Kushanas"
+        },
+        {
+          "hi": "हिंद-यवन शासक (इंडो-ग्रीक / Indo-Greeks)",
+          "en": "Indo-Greeks"
+        },
+        {
+          "hi": "गुप्त शासक",
+          "en": "Guptas"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में सर्वाधिक शुद्ध सोने के सिक्के (Purest Gold Coins) किसने चलाए?",
+        "en": "Which dynasty minted the highest purity gold dinars in ancient India?"
+      },
+      "o": [
+        {
+          "hi": "गुप्त शासकों ने",
+          "en": "Guptas"
+        },
+        {
+          "hi": "इंडो-ग्रीक शासकों ने",
+          "en": "Indo-Greeks"
+        },
+        {
+          "hi": "सातवाहन शासकों ने",
+          "en": "Satavahanas"
+        },
+        {
+          "hi": "कुषाण शासकों ने (कनिष्क व विम कडफिसेस)",
+          "en": "Kushana Rulers (Kanishka & Wima)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में सर्वाधिक संख्या में सोने के सिक्के (Maximum Gold Coins) किस काल में जारी हुए?",
+        "en": "During which era was the largest overall volume of gold coins issued in India?"
+      },
+      "o": [
+        {
+          "hi": "गुप्त काल में (Gupta Period)",
+          "en": "Gupta Period"
+        },
+        {
+          "hi": "कुषाण काल में",
+          "en": "Kushana Period"
+        },
+        {
+          "hi": "मौर्य काल में",
+          "en": "Mauryan Period"
+        },
+        {
+          "hi": "हर्षवर्धन के काल में",
+          "en": "Harsha Period"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सीसे के सिक्के (Lead Coins) जारी करने वाला प्राचीन भारतीय राजवंश कौन-सा था?",
+        "en": "Which ancient Indian dynasty was famous for minting unique Lead and Potin coins?"
+      },
+      "o": [
+        {
+          "hi": "शुंग वंश",
+          "en": "Shunga Dynasty"
+        },
+        {
+          "hi": "सातवाहन राजवंश (Satavahana Dynasty)",
+          "en": "Satavahana Dynasty"
+        },
+        {
+          "hi": "कण्व वंश",
+          "en": "Kanva Dynasty"
+        },
+        {
+          "hi": "चेदि वंश",
+          "en": "Chedi Dynasty"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समुद्रगुप्त के संगीत-प्रेम का प्रमाण उसके किस सिक्के से मिलता है?",
+        "en": "Evidence of Samudragupta's passion for music comes from coins depicting him playing?"
+      },
+      "o": [
+        {
+          "hi": "धनुष-बाण चलाते हुए",
+          "en": "Shooting arrows"
+        },
+        {
+          "hi": "अश्वमेध यज्ञ करते हुए",
+          "en": "Ashvamedha"
+        },
+        {
+          "hi": "वीणा बजाते हुए (Playing Veena/Lyre)",
+          "en": "Playing Veena (Lyre)"
+        },
+        {
+          "hi": "गरुड़ ध्वज पकड़े हुए",
+          "en": "Holding Garuda"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अशोक के शिलालेखों को सर्वप्रथम 1837 में पढ़ने में किसने सफलता पाई?",
+        "en": "Who was the first scholar to decipher Ashoka's Brahmi & Kharosthi edicts in 1837?"
+      },
+      "o": [
+        {
+          "hi": "विलियम जोन्स",
+          "en": "William Jones"
+        },
+        {
+          "hi": "अलेक्जेंडर कनिंघम",
+          "en": "Alexander Cunningham"
+        },
+        {
+          "hi": "मैक्स मूलर",
+          "en": "Max Muller"
+        },
+        {
+          "hi": "जेम्स प्रिंसेप (James Prinsep)",
+          "en": "James Prinsep"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अशोक के अधिकांश शिलालेख किस लिपि में उत्कीर्ण हैं?",
+        "en": "In which primary script were the majority of Ashoka's rock and pillar edicts written?"
+      },
+      "o": [
+        {
+          "hi": "ब्राह्मी लिपि (Brahmi Script)",
+          "en": "Brahmi Script"
+        },
+        {
+          "hi": "खरोष्ठी लिपि",
+          "en": "Kharosthi Script"
+        },
+        {
+          "hi": "अरामीक लिपि",
+          "en": "Aramaic Script"
+        },
+        {
+          "hi": "यूनानी लिपि",
+          "en": "Greek Script"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अशोक के उत्तर-पश्चिमी (शाहबाजगढ़ी व मानसेहरा, पाकिस्तान) अभिलेख किस लिपि में हैं?",
+        "en": "Ashoka's northwestern rock edicts at Shahbazgarhi & Mansehra are in which script?"
+      },
+      "o": [
+        {
+          "hi": "ब्राह्मी लिपि",
+          "en": "Brahmi"
+        },
+        {
+          "hi": "खरोष्ठी लिपि (दाएं से बाएं लिखी जाने वाली)",
+          "en": "Kharosthi Script (Written right to left)"
+        },
+        {
+          "hi": "देवनागरी लिपि",
+          "en": "Devanagari"
+        },
+        {
+          "hi": "संस्कृत",
+          "en": "Sanskrit"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संस्कृत भाषा का सबसे लंबा और पहला प्रामाणिक अभिलेख 'जूनागढ़ अभिलेख' किसका है?",
+        "en": "Which Saka ruler issued the famous first long Sanskrit rock inscription at Junagadh?"
+      },
+      "o": [
+        {
+          "hi": "कनिष्क",
+          "en": "Kanishka"
+        },
+        {
+          "hi": "गोंडोफर्नीज",
+          "en": "Gondophares"
+        },
+        {
+          "hi": "रुद्रदामन प्रथम (Rudradaman I - 150 ई.)",
+          "en": "Rudradaman I (150 AD)"
+        },
+        {
+          "hi": "नहपान",
+          "en": "Nahapana"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समुद्रगुप्त की विजयों का विस्तृत विवरण देने वाला 'प्रयाग प्रशस्ति' किसने लिखा था?",
+        "en": "Who composed the historic 'Prayag Prashasti' (Allahabad Pillar) for Samudragupta?"
+      },
+      "o": [
+        {
+          "hi": "कालिदास",
+          "en": "Kalidasa"
+        },
+        {
+          "hi": "बाणभट्ट",
+          "en": "Banabhatta"
+        },
+        {
+          "hi": "रविकीर्ति",
+          "en": "Ravikirti"
+        },
+        {
+          "hi": "हरिषेण (Harishena - राजकवि)",
+          "en": "Harishena (Court Poet)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पुलकेशिन द्वितीय और हर्षवर्धन के युद्ध का वर्णन किस अभिलेख में मिलता है?",
+        "en": "Famous battle between Pulakeshin II & Harsha is detailed in Ravikirti's?"
+      },
+      "o": [
+        {
+          "hi": "ऐहोल अभिलेख (कर्नाटक / Aihole Inscription)",
+          "en": "Aihole Inscription (Karnataka)"
+        },
+        {
+          "hi": "हाथीगुंफा अभिलेख",
+          "en": "Hathigumpha"
+        },
+        {
+          "hi": "नासिक अभिलेख",
+          "en": "Nasik Inscription"
+        },
+        {
+          "hi": "ग्वालियर अभिलेख",
+          "en": "Gwalior Inscription"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कलिंग नरेश खारवेल के जीवन की घटनाओं का विवरण देने वाला तिथि-रहित अभिलेख?",
+        "en": "Which undated epigraph details the military campaigns of King Kharavela of Kalinga?"
+      },
+      "o": [
+        {
+          "hi": "ऐहोल अभिलेख",
+          "en": "Aihole Inscription"
+        },
+        {
+          "hi": "हाथीगुंफा अभिलेख (Hathigumpha Inscription, ओडिशा)",
+          "en": "Hathigumpha Inscription (Odisha)"
+        },
+        {
+          "hi": "जूनागढ़ अभिलेख",
+          "en": "Junagadh Inscription"
+        },
+        {
+          "hi": "मेहरौली अभिलेख",
+          "en": "Mehrauli Inscription"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

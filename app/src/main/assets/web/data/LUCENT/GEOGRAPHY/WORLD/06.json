@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विश्व का भूगोल (World Geography)",
+  "subtitle": "जलमंडल",
+  "description": "जलमंडल पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "पृथ्वी के कुल धरातल के कितने प्रतिशत भाग पर जल का विस्तार है?",
+        "en": "On what percentage of the Earth's surface is water distributed?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 71% (70.8%)",
+          "en": "Approx 71% (70.8%)"
+        },
+        {
+          "hi": "लगभग 65%",
+          "en": "Approx 65%"
+        },
+        {
+          "hi": "लगभग 80%",
+          "en": "Approx 80%"
+        },
+        {
+          "hi": "लगभग 75%",
+          "en": "Approx 75%"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी पर उपस्थित कुल जल का कितना प्रतिशत भाग महासागरों में (खारा जल) है?",
+        "en": "What percentage of total water on Earth is in oceans (saline water)?"
+      },
+      "o": [
+        {
+          "hi": "85%",
+          "en": "85%"
+        },
+        {
+          "hi": "लगभग 97.2% - 97.5%",
+          "en": "Approx 97.2% - 97.5%"
+        },
+        {
+          "hi": "90%",
+          "en": "90%"
+        },
+        {
+          "hi": "75%",
+          "en": "75%"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी पर मीठे पानी (Freshwater) का कुल प्रतिशत लगभग कितना है?",
+        "en": "What is the approximate total percentage of freshwater on Earth?"
+      },
+      "o": [
+        {
+          "hi": "10%",
+          "en": "10%"
+        },
+        {
+          "hi": "5%",
+          "en": "5%"
+        },
+        {
+          "hi": "लगभग 2.5% - 2.8%",
+          "en": "Approx 2.5% - 2.8%"
+        },
+        {
+          "hi": "1%",
+          "en": "1%"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी के मीठे जल का सबसे बड़ा भंडार (लगभग 68.7%) किस रूप में संचित है?",
+        "en": "In what form is the largest reservoir of Earth's freshwater stored (~68.7%)?"
+      },
+      "o": [
+        {
+          "hi": "भूमिगत जल",
+          "en": "Groundwater"
+        },
+        {
+          "hi": "नदियों और झीलों में",
+          "en": "Rivers and lakes"
+        },
+        {
+          "hi": "वायुमंडल में",
+          "en": "In atmosphere"
+        },
+        {
+          "hi": "हिमनद और बर्फ की चादरों में (Glaciers/Ice caps)",
+          "en": "Glaciers and Ice caps"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "महासागरीय जल का औसत तापमान लगभग कितना होता है?",
+        "en": "What is the average surface temperature of oceanic water?"
+      },
+      "o": [
+        {
+          "hi": "17°C (लगभग 5°C से 33°C)",
+          "en": "17°C (~5°C to 33°C)"
+        },
+        {
+          "hi": "25°C",
+          "en": "25°C"
+        },
+        {
+          "hi": "10°C",
+          "en": "10°C"
+        },
+        {
+          "hi": "30°C",
+          "en": "30°C"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "महासागरीय जल की औसत लवणता (Average Salinity) कितनी होती है?",
+        "en": "What is the average salinity of ocean water?"
+      },
+      "o": [
+        {
+          "hi": "30 प्रति हजार (30‰)",
+          "en": "30 per thousand"
+        },
+        {
+          "hi": "35 प्रति हजार (35‰)",
+          "en": "35 per thousand (35‰)"
+        },
+        {
+          "hi": "40 प्रति हजार",
+          "en": "40 per thousand"
+        },
+        {
+          "hi": "25 प्रति हजार",
+          "en": "25 per thousand"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "महासागरीय लवणता में सर्वाधिक मात्रा किस लवण की होती है?",
+        "en": "Which salt is most abundant in ocean water salinity?"
+      },
+      "o": [
+        {
+          "hi": "मैग्नीशियम क्लोराइड",
+          "en": "Magnesium Chloride"
+        },
+        {
+          "hi": "सोडियम सल्फेट",
+          "en": "Sodium Sulphate"
+        },
+        {
+          "hi": "सोडियम क्लोराइड (NaCl - लगभग 77.8%)",
+          "en": "Sodium Chloride (~77.8%)"
+        },
+        {
+          "hi": "कैल्शियम कार्बोनेट",
+          "en": "Calcium Carbonate"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महासागरीय लवणता में दूसरा सर्वाधिक मात्रा में पाया जाने वाला लवण?",
+        "en": "Second most abundant salt in oceanic salinity?"
+      },
+      "o": [
+        {
+          "hi": "कैल्शियम सल्फेट",
+          "en": "Calcium Sulphate"
+        },
+        {
+          "hi": "पोटेशियम क्लोराइड",
+          "en": "Potassium Chloride"
+        },
+        {
+          "hi": "सोडियम क्लोराइड",
+          "en": "Sodium Chloride"
+        },
+        {
+          "hi": "मैग्नीशियम क्लोराइड (MgCl2 - 10.9%)",
+          "en": "Magnesium Chloride (10.9%)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व में सर्वाधिक लवणता वाली झील कौन-सी है?",
+        "en": "Which lake has the highest salinity in the world?"
+      },
+      "o": [
+        {
+          "hi": "वान झील (तुर्की - 330‰)",
+          "en": "Lake Van (Turkey - 330‰)"
+        },
+        {
+          "hi": "मृत सागर (Dead Sea - 238‰)",
+          "en": "Dead Sea (238‰)"
+        },
+        {
+          "hi": "ग्रेट साल्ट लेक (220‰)",
+          "en": "Great Salt Lake (220‰)"
+        },
+        {
+          "hi": "कैस्पियन सागर",
+          "en": "Caspian Sea"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मृत सागर (Dead Sea) की लवणता लगभग कितनी है?",
+        "en": "What is the approximate salinity of the Dead Sea?"
+      },
+      "o": [
+        {
+          "hi": "150‰",
+          "en": "150‰"
+        },
+        {
+          "hi": "238 प्रति हजार (238‰)",
+          "en": "238 per thousand (238‰)"
+        },
+        {
+          "hi": "330‰",
+          "en": "330‰"
+        },
+        {
+          "hi": "100‰",
+          "en": "100‰"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समान लवणता वाले स्थानों को मिलाने वाली काल्पनिक रेखा को क्या कहते हैं?",
+        "en": "Imaginary line joining points of equal salinity in oceans is called?"
+      },
+      "o": [
+        {
+          "hi": "आइसोबार",
+          "en": "Isobar"
+        },
+        {
+          "hi": "आइसोथर्म",
+          "en": "Isotherm"
+        },
+        {
+          "hi": "आइसोहेलाइन (Isohaline)",
+          "en": "Isohaline"
+        },
+        {
+          "hi": "आइसोहाइट",
+          "en": "Isohyet"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महासागरों का सबसे उथला और तट के समीपवर्ती भाग क्या कहलाता है?",
+        "en": "Shallowest gently sloping part of ocean near coastline is called?"
+      },
+      "o": [
+        {
+          "hi": "महाद्वीपीय ढाल",
+          "en": "Continental Slope"
+        },
+        {
+          "hi": "गहरा सागरीय मैदान",
+          "en": "Deep Sea Plain"
+        },
+        {
+          "hi": "महासागरीय गर्त",
+          "en": "Ocean Trench"
+        },
+        {
+          "hi": "महाद्वीपीय मग्नतट (Continental Shelf)",
+          "en": "Continental Shelf"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व के प्रमुख मत्स्य पालन केंद्र (Fisheries) मुख्य रूप से कहाँ पाए जाते हैं?",
+        "en": "Major fishing grounds in the world are mainly found on?"
+      },
+      "o": [
+        {
+          "hi": "महाद्वीपीय मग्नतट (Continental Shelves)",
+          "en": "Continental Shelves"
+        },
+        {
+          "hi": "महासागरीय गर्तों में",
+          "en": "Ocean Trenches"
+        },
+        {
+          "hi": "गहरे समुद्री मैदान में",
+          "en": "Deep Sea Plains"
+        },
+        {
+          "hi": "मध्य-महासागरीय कटक",
+          "en": "Mid-oceanic Ridges"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "महाद्वीपीय मग्नतट के बाद आने वाला तीव्र ढाल वाला क्षेत्र क्या कहलाता है?",
+        "en": "Steep slope area following the continental shelf is called?"
+      },
+      "o": [
+        {
+          "hi": "सागरीय मैदान",
+          "en": "Abyssal Plain"
+        },
+        {
+          "hi": "महाद्वीपीय मग्नढाल (Continental Slope)",
+          "en": "Continental Slope"
+        },
+        {
+          "hi": "कटक",
+          "en": "Ridge"
+        },
+        {
+          "hi": "गर्त",
+          "en": "Trench"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "महासागरीय तल के सर्वाधिक क्षेत्रफल (लगभग 75.9%) पर कौन-सी स्थलाकृति है?",
+        "en": "Which relief feature covers the largest area (~75.9%) of ocean floor?"
+      },
+      "o": [
+        {
+          "hi": "महाद्वीपीय मग्नतट",
+          "en": "Continental Shelf"
+        },
+        {
+          "hi": "महाद्वीपीय ढाल",
+          "en": "Continental Slope"
+        },
+        {
+          "hi": "गहरे सागरीय मैदान (Abyssal / Deep Sea Plains)",
+          "en": "Deep Sea Plains"
+        },
+        {
+          "hi": "महासागरीय गर्त",
+          "en": "Ocean Trenches"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महासागरों के सबसे गहरे भाग को क्या कहा जाता है?",
+        "en": "What are the deepest parts of the ocean floor called?"
+      },
+      "o": [
+        {
+          "hi": "सागरीय कटक",
+          "en": "Ocean Ridges"
+        },
+        {
+          "hi": "अबिसेल हिल",
+          "en": "Abyssal Hills"
+        },
+        {
+          "hi": "गायोट",
+          "en": "Guyots"
+        },
+        {
+          "hi": "महासागरीय गर्त (Ocean Trenches / Deeps)",
+          "en": "Ocean Trenches"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे गहरा महासागरीय गर्त कौन-सा है?",
+        "en": "Which is the deepest oceanic trench in the world?"
+      },
+      "o": [
+        {
+          "hi": "मारियाना गर्त / चैलेंजर गर्त (11,022 मी)",
+          "en": "Mariana / Challenger Trench"
+        },
+        {
+          "hi": "सुंडा गर्त",
+          "en": "Sunda Trench"
+        },
+        {
+          "hi": "प्यूर्टो रिको गर्त",
+          "en": "Puerto Rico Trench"
+        },
+        {
+          "hi": "जावा गर्त",
+          "en": "Java Trench"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मारियाना गर्त (Mariana Trench) किस महासागर में स्थित है?",
+        "en": "In which ocean is the Mariana Trench located?"
+      },
+      "o": [
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "प्रशांत महासागर (Pacific Ocean)",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हिंद महासागर का सबसे गहरा गर्त कौन-सा है?",
+        "en": "Which is the deepest trench in the Indian Ocean?"
+      },
+      "o": [
+        {
+          "hi": "मारियाना गर्त",
+          "en": "Mariana Trench"
+        },
+        {
+          "hi": "प्यूर्टो रिको गर्त",
+          "en": "Puerto Rico Trench"
+        },
+        {
+          "hi": "सुंडा / जावा गर्त (Sunda / Java Trench)",
+          "en": "Sunda / Java Trench"
+        },
+        {
+          "hi": "रोमैंशे गर्त",
+          "en": "Romanche Trench"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अटलांटिक महासागर का सबसे गहरा गर्त कौन-सा है?",
+        "en": "Which is the deepest trench in the Atlantic Ocean?"
+      },
+      "o": [
+        {
+          "hi": "सुंडा गर्त",
+          "en": "Sunda Trench"
+        },
+        {
+          "hi": "मारियाना गर्त",
+          "en": "Mariana Trench"
+        },
+        {
+          "hi": "जावा गर्त",
+          "en": "Java Trench"
+        },
+        {
+          "hi": "प्यूर्टो रिको गर्त (Puerto Rico Trench)",
+          "en": "Puerto Rico Trench"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सपाट शीर्ष वाले समुद्री पर्वत (Flat-topped Seamounts) को क्या कहते हैं?",
+        "en": "What are flat-topped undersea volcanic mountains called?"
+      },
+      "o": [
+        {
+          "hi": "गायोट (Guyot)",
+          "en": "Guyot"
+        },
+        {
+          "hi": "कटक (Ridge)",
+          "en": "Ridge"
+        },
+        {
+          "hi": "सिंडर शंकु",
+          "en": "Cinder cone"
+        },
+        {
+          "hi": "कोरल रीफ",
+          "en": "Coral reef"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जल के निश्चित अंतराल पर ऊपर उठने और नीचे गिरने की क्रिया को क्या कहते हैं?",
+        "en": "Periodic rise and fall of ocean water due to gravitational pull is called?"
+      },
+      "o": [
+        {
+          "hi": "तरंग (Wave)",
+          "en": "Wave"
+        },
+        {
+          "hi": "ज्वार-भाटा (Tides and Ebb)",
+          "en": "Tides and Ebb"
+        },
+        {
+          "hi": "धारा (Current)",
+          "en": "Current"
+        },
+        {
+          "hi": "सुनामी (Tsunami)",
+          "en": "Tsunami"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ज्वार-भाटा की उत्पत्ति का मुख्य कारण क्या है?",
+        "en": "What is the primary cause of the origin of tides?"
+      },
+      "o": [
+        {
+          "hi": "केवल पृथ्वी का घूर्णन",
+          "en": "Only Earth's rotation"
+        },
+        {
+          "hi": "हवाओं का प्रभाव",
+          "en": "Wind effect"
+        },
+        {
+          "hi": "सूर्य और चंद्रमा की गुरुत्वाकर्षण शक्ति",
+          "en": "Gravitational pull of Sun & Moon"
+        },
+        {
+          "hi": "समुद्र की लवणता",
+          "en": "Salinity of sea"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सूर्य और चंद्रमा में से किसका ज्वारोत्पादक बल पृथ्वी पर अधिक प्रभावी होता है?",
+        "en": "Whose tidal force is more effective on Earth between Sun and Moon?"
+      },
+      "o": [
+        {
+          "hi": "सूर्य का (अधिक द्रव्यमान के कारण)",
+          "en": "Sun's"
+        },
+        {
+          "hi": "दोनों का बिल्कुल बराबर",
+          "en": "Both equal"
+        },
+        {
+          "hi": "हवाओं के अनुसार बदलता है",
+          "en": "Varies with wind"
+        },
+        {
+          "hi": "चंद्रमा का (दोगुने से अधिक, निकट होने के कारण)",
+          "en": "Moon's (more than double)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वृहत् ज्वार (Spring Tide / दीर्घ ज्वार) कब आता है?",
+        "en": "When does Spring Tide (highest tide) occur?"
+      },
+      "o": [
+        {
+          "hi": "पूर्णिमा और अमावस्या को (सिजिगी स्थिति)",
+          "en": "On Full Moon and New Moon (Syzygy)"
+        },
+        {
+          "hi": "सप्तमी और अष्टमी को",
+          "en": "On 7th and 8th lunar day"
+        },
+        {
+          "hi": "प्रतिदिन एक ही समय",
+          "en": "Everyday same time"
+        },
+        {
+          "hi": "केवल संक्रांति पर",
+          "en": "Only on Solstice"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लघु ज्वार (Neap Tide) कब उत्पन्न होता है?",
+        "en": "When does Neap Tide (lowest tidal range) occur?"
+      },
+      "o": [
+        {
+          "hi": "पूर्णिमा के दिन",
+          "en": "Full Moon"
+        },
+        {
+          "hi": "शुक्ल व कृष्ण पक्ष की सप्तमी/अष्टमी (समकोण स्थिति)",
+          "en": "On 7th/8th day (Right angle position)"
+        },
+        {
+          "hi": "अमावस्या के दिन",
+          "en": "New Moon"
+        },
+        {
+          "hi": "विषुव के दिन",
+          "en": "Equinox"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक स्थान पर सामान्यतः दो ज्वारों के बीच कितना समयांतराल होता है?",
+        "en": "Time interval between two successive tides at a place is usually?"
+      },
+      "o": [
+        {
+          "hi": "12 घंटे",
+          "en": "12 hours"
+        },
+        {
+          "hi": "24 घंटे",
+          "en": "24 hours"
+        },
+        {
+          "hi": "12 घंटे 26 मिनट (12 hrs 26 min)",
+          "en": "12 hrs 26 min"
+        },
+        {
+          "hi": "6 घंटे 13 मिनट",
+          "en": "6 hrs 13 min"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ज्वार आने में 26 मिनट की देरी का मुख्य कारण क्या है?",
+        "en": "Main reason for the 26-minute delay in subsequent tide arrival?"
+      },
+      "o": [
+        {
+          "hi": "पृथ्वी की गति में मंदी",
+          "en": "Slowing of Earth"
+        },
+        {
+          "hi": "समुद्री हवाएं",
+          "en": "Ocean winds"
+        },
+        {
+          "hi": "ऋतु परिवर्तन",
+          "en": "Season change"
+        },
+        {
+          "hi": "चंद्रमा का पृथ्वी के सापेक्ष आगे खिसकना",
+          "en": "Moon's orbit progression"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व में सर्वाधिक ऊँचा ज्वार (लगभग 16-18 मीटर) कहाँ आता है?",
+        "en": "Where does the highest tidal range in the world (~16-18 m) occur?"
+      },
+      "o": [
+        {
+          "hi": "फंडी की खाड़ी (कनाडा / Bay of Fundy)",
+          "en": "Bay of Fundy (Canada)"
+        },
+        {
+          "hi": "कच्छ की खाड़ी (भारत)",
+          "en": "Gulf of Kutch"
+        },
+        {
+          "hi": "हडसन की खाड़ी",
+          "en": "Hudson Bay"
+        },
+        {
+          "hi": "बिस्के की खाड़ी",
+          "en": "Bay of Biscay"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इंग्लैंड के साउथेम्प्टन तट पर दिन में कितनी बार ज्वार आते हैं?",
+        "en": "How many times a day do tides occur at Southampton (UK)?"
+      },
+      "o": [
+        {
+          "hi": "2 बार",
+          "en": "2 times"
+        },
+        {
+          "hi": "4 बार (Four times a day)",
+          "en": "4 times a day"
+        },
+        {
+          "hi": "3 बार",
+          "en": "3 times"
+        },
+        {
+          "hi": "1 बार",
+          "en": "1 time"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में सबसे ऊँचा ज्वार किस स्थान पर अनुभव किया जाता है?",
+        "en": "Where is the highest tidal range experienced in India?"
+      },
+      "o": [
+        {
+          "hi": "मुंबई तट",
+          "en": "Mumbai coast"
+        },
+        {
+          "hi": "चेन्नई तट",
+          "en": "Chennai coast"
+        },
+        {
+          "hi": "ओखा तट (कच्छ की खाड़ी, गुजरात)",
+          "en": "Okha coast (Gulf of Kutch)"
+        },
+        {
+          "hi": "विशाखापट्टनम तट",
+          "en": "Visakhapatnam coast"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महासागरीय जल तरंगों में तरंग के उच्चतम बिंदु को क्या कहा जाता है?",
+        "en": "What is the highest point of an ocean water wave called?"
+      },
+      "o": [
+        {
+          "hi": "गर्त (Trough)",
+          "en": "Trough"
+        },
+        {
+          "hi": "तरंग दैर्ध्य",
+          "en": "Wavelength"
+        },
+        {
+          "hi": "आयाम (Amplitude)",
+          "en": "Amplitude"
+        },
+        {
+          "hi": "श्रृंग (Crest)",
+          "en": "Crest"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "महासागरीय जल तरंग के निम्नतम बिंदु को क्या कहा जाता है?",
+        "en": "What is the lowest depression point of an ocean wave called?"
+      },
+      "o": [
+        {
+          "hi": "गर्त (Trough)",
+          "en": "Trough"
+        },
+        {
+          "hi": "श्रृंग (Crest)",
+          "en": "Crest"
+        },
+        {
+          "hi": "शिखर",
+          "en": "Peak"
+        },
+        {
+          "hi": "तरंग आधार",
+          "en": "Wave base"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दो क्रमिक श्रृंगों या गर्तों के बीच की क्षैतिज दूरी को क्या कहते हैं?",
+        "en": "Horizontal distance between two consecutive crests or troughs?"
+      },
+      "o": [
+        {
+          "hi": "तरंग ऊंचाई",
+          "en": "Wave height"
+        },
+        {
+          "hi": "तरंग दैर्ध्य (Wavelength)",
+          "en": "Wavelength"
+        },
+        {
+          "hi": "तरंग आवर्तकाल",
+          "en": "Wave period"
+        },
+        {
+          "hi": "तरंग वेग",
+          "en": "Wave speed"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रवाल भित्तियों (Coral Reefs) का निर्माण किस जीव के अस्थि-पंजरों से होता है?",
+        "en": "Coral reefs are built up by the skeletons of which marine organism?"
+      },
+      "o": [
+        {
+          "hi": "मूंगा कीट (मूंगा / पॉलिप)",
+          "en": "Coral Polyps"
+        },
+        {
+          "hi": "प्लवक (Plankton)",
+          "en": "Plankton"
+        },
+        {
+          "hi": "मूंगा / कोरल पॉलिप (कैल्शियम कार्बोनेट)",
+          "en": "Coral Polyps (CaCO3)"
+        },
+        {
+          "hi": "मछली",
+          "en": "Fish"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रवाल भित्तियों के विकास के लिए अनुकूल औसत तापमान कितना होना चाहिए?",
+        "en": "Ideal average water temperature for growth of coral reefs?"
+      },
+      "o": [
+        {
+          "hi": "5°C से 10°C",
+          "en": "5°C to 10°C"
+        },
+        {
+          "hi": "10°C से 15°C",
+          "en": "10°C to 15°C"
+        },
+        {
+          "hi": "35°C से 40°C",
+          "en": "35°C to 40°C"
+        },
+        {
+          "hi": "20°C से 21°C (20°-25°C)",
+          "en": "20°C to 25°C"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अंगूठी या घोड़े की नाल के आकार की प्रवाल भित्ति को क्या कहा जाता है?",
+        "en": "Ring or horse-shoe shaped coral reef enclosing a lagoon is called?"
+      },
+      "o": [
+        {
+          "hi": "एटोल (Atoll)",
+          "en": "Atoll"
+        },
+        {
+          "hi": "तटीय प्रवाल भित्ति",
+          "en": "Fringing Reef"
+        },
+        {
+          "hi": "अवरोधक प्रवाल भित्ति",
+          "en": "Barrier Reef"
+        },
+        {
+          "hi": "गायोट",
+          "en": "Guyot"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लक्षद्वीप द्वीप समूह किस प्रकार के द्वीप का उदाहरण है?",
+        "en": "Lakshadweep archipelago is an example of which type of islands?"
+      },
+      "o": [
+        {
+          "hi": "ज्वालामुखी द्वीप",
+          "en": "Volcanic Islands"
+        },
+        {
+          "hi": "प्रवाल द्वीप (एटोल / Coral Island)",
+          "en": "Coral Island (Atoll)"
+        },
+        {
+          "hi": "अवसादी द्वीप",
+          "en": "Sedimentary Islands"
+        },
+        {
+          "hi": "नदी द्वीप",
+          "en": "River Islands"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रवाल विरंजन (Coral Bleaching) का मुख्य कारण क्या है?",
+        "en": "What is the primary cause of Coral Bleaching?"
+      },
+      "o": [
+        {
+          "hi": "महासागरीय अम्लीकरण",
+          "en": "Ocean acidification"
+        },
+        {
+          "hi": "जलीय प्रदूषण",
+          "en": "Water pollution"
+        },
+        {
+          "hi": "ग्लोबल वार्मिंग से समुद्री तापमान वृद्धि",
+          "en": "Rising sea temperatures / Warming"
+        },
+        {
+          "hi": "अधिक मछली पकड़ना",
+          "en": "Overfishing"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महासागरों में पाए जाने वाले सूक्ष्म जलीय जीवों को क्या कहते हैं जो मछलियों का भोजन हैं?",
+        "en": "Microscopic organisms drifting in ocean water serving as fish food?"
+      },
+      "o": [
+        {
+          "hi": "नेक्टन",
+          "en": "Nekton"
+        },
+        {
+          "hi": "बेन्थोस",
+          "en": "Benthos"
+        },
+        {
+          "hi": "कोरल",
+          "en": "Coral"
+        },
+        {
+          "hi": "प्लवक (Plankton)",
+          "en": "Plankton"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पादप प्लवक (Phytoplankton) प्रकाश संश्लेषण कहाँ करते हैं?",
+        "en": "In which ocean zone do Phytoplankton perform photosynthesis?"
+      },
+      "o": [
+        {
+          "hi": "प्रकाशित मंडल (Photic Zone / यूफोटिक)",
+          "en": "Photic Zone"
+        },
+        {
+          "hi": "अप्रकाशीय मंडल (Aphotic Zone)",
+          "en": "Aphotic Zone"
+        },
+        {
+          "hi": "रसायन मंडल",
+          "en": "Chemo zone"
+        },
+        {
+          "hi": "रसातल",
+          "en": "Benthic floor"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "महासागरीय जल का वह संकीर्ण क्षेत्र जहाँ गहराई के साथ तापमान तेजी से गिरता है?",
+        "en": "Zone where water temperature drops rapidly with increasing depth?"
+      },
+      "o": [
+        {
+          "hi": "हेलोक्लाइन (Halocline)",
+          "en": "Halocline"
+        },
+        {
+          "hi": "थर्मोक्लाइन (Thermocline)",
+          "en": "Thermocline"
+        },
+        {
+          "hi": "पिक्नोक्लाइन (Pycnocline)",
+          "en": "Pycnocline"
+        },
+        {
+          "hi": "आइसोक्लाइन",
+          "en": "Isocline"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वह क्षेत्र जहाँ गहराई के साथ लवणता में तीव्र परिवर्तन होता है?",
+        "en": "Zone where salinity changes rapidly with depth?"
+      },
+      "o": [
+        {
+          "hi": "थर्मोक्लाइन",
+          "en": "Thermocline"
+        },
+        {
+          "hi": "पिक्नोक्लाइन",
+          "en": "Pycnocline"
+        },
+        {
+          "hi": "हेलोक्लाइन (Halocline)",
+          "en": "Halocline"
+        },
+        {
+          "hi": "केमोक्लाइन",
+          "en": "Chemocline"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वह क्षेत्र जहाँ गहराई के साथ जल के घनत्व में तीव्र परिवर्तन होता है?",
+        "en": "Zone where water density increases rapidly with depth?"
+      },
+      "o": [
+        {
+          "hi": "थर्मोक्लाइन",
+          "en": "Thermocline"
+        },
+        {
+          "hi": "हेलोक्लाइन",
+          "en": "Halocline"
+        },
+        {
+          "hi": "आइसोथर्म",
+          "en": "Isotherm"
+        },
+        {
+          "hi": "पिक्नोक्लाइन (Pycnocline)",
+          "en": "Pycnocline"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व का कौन-सा सागर किसी भी स्थलीय तट को नहीं छूता (तटरहित सागर)?",
+        "en": "Which sea has no land boundary / coastline in the world?"
+      },
+      "o": [
+        {
+          "hi": "सारगासो सागर (Sargasso Sea)",
+          "en": "Sargasso Sea"
+        },
+        {
+          "hi": "बाल्टिक सागर",
+          "en": "Baltic Sea"
+        },
+        {
+          "hi": "काला सागर",
+          "en": "Black Sea"
+        },
+        {
+          "hi": "लाल सागर",
+          "en": "Red Sea"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सारगासो सागर (Sargasso Sea) किस महासागर में स्थित है?",
+        "en": "In which ocean is the Sargasso Sea located?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "उत्तरी अटलांटिक महासागर",
+          "en": "North Atlantic Ocean"
+        },
+        {
+          "hi": "दक्षिण अटलांटिक महासागर",
+          "en": "South Atlantic Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सारगासो सागर का नाम किसके नाम पर पड़ा है?",
+        "en": "After what is the Sargasso Sea named?"
+      },
+      "o": [
+        {
+          "hi": "एक पुर्तगाली नाविक",
+          "en": "Portuguese sailor"
+        },
+        {
+          "hi": "एक दुर्लभ मछली",
+          "en": "Rare fish"
+        },
+        {
+          "hi": "सारगासम नामक तैरती समुद्री घास (Seaweed)",
+          "en": "Sargassum floating seaweed"
+        },
+        {
+          "hi": "एक समुद्री तूफान",
+          "en": "Sea storm"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ग्रैंड बैंक (Grand Bank) जो प्रसिद्ध मत्स्य क्षेत्र है, कहाँ स्थित है?",
+        "en": "Grand Bank, a world-famous fishing ground, is located near?"
+      },
+      "o": [
+        {
+          "hi": "ब्रिटेन के पास",
+          "en": "Near Britain"
+        },
+        {
+          "hi": "जापान के तट पर",
+          "en": "Coast of Japan"
+        },
+        {
+          "hi": "नॉर्वे के पास",
+          "en": "Near Norway"
+        },
+        {
+          "hi": "न्यूफाउंडलैंड (कनाडा) के तट पर",
+          "en": "Newfoundland Coast (Canada)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ग्रैंड बैंक के निकट मत्स्य उत्पादन अधिक होने का मुख्य कारण क्या है?",
+        "en": "Main reason for high fish production near Grand Bank?"
+      },
+      "o": [
+        {
+          "hi": "गर्म गल्फ स्ट्रीम और ठंडी लैब्राडोर धारा का मिलना",
+          "en": "Meeting of warm Gulf Stream & cold Labrador"
+        },
+        {
+          "hi": "स्वच्छ जल का प्रवाह",
+          "en": "Freshwater influx"
+        },
+        {
+          "hi": "उथला प्रवाल क्षेत्र",
+          "en": "Shallow coral area"
+        },
+        {
+          "hi": "तेज समुद्री लहरें",
+          "en": "Strong sea waves"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जहाँ गर्म और ठंडी जलधाराएँ मिलती हैं, वहाँ क्या विकसित होता है?",
+        "en": "What develops where warm and cold ocean currents meet?"
+      },
+      "o": [
+        {
+          "hi": "विशाल प्रवाल भित्ति",
+          "en": "Giant coral reefs"
+        },
+        {
+          "hi": "घना कोहरा और प्रचुर प्लवक (मत्स्य आहार)",
+          "en": "Dense fog and abundant plankton"
+        },
+        {
+          "hi": "चक्रवात और बवंडर",
+          "en": "Cyclones and tornadoes"
+        },
+        {
+          "hi": "सागरीय रेगिस्तान",
+          "en": "Oceanic desert"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

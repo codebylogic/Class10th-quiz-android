@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विश्व का भूगोल (World Geography)",
+  "subtitle": "विश्व के महासागर",
+  "description": "विश्व के महासागर पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा और सबसे गहरा महासागर कौन-सा है?",
+        "en": "Which is the largest and deepest ocean in the world?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर (Pacific Ocean)",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रशांत महासागर का आकार मुख्य रूप से किस ज्यामितीय आकृति जैसा है?",
+        "en": "What is the primary geometric shape of the Pacific Ocean?"
+      },
+      "o": [
+        {
+          "hi": "अंग्रेजी के S अक्षर जैसा",
+          "en": "S-shaped"
+        },
+        {
+          "hi": "त्रिभुजाकार (Triangular)",
+          "en": "Triangular"
+        },
+        {
+          "hi": "आयताकार",
+          "en": "Rectangular"
+        },
+        {
+          "hi": "वृत्ताकार",
+          "en": "Circular"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व का दूसरा सबसे बड़ा महासागर कौन-सा है?",
+        "en": "Which is the second largest ocean in the world?"
+      },
+      "o": [
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "प्रशांत महासागर",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर (Atlantic Ocean)",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अटलांटिक महासागर का आकार अंग्रेजी के किस अक्षर के समान है?",
+        "en": "Atlantic Ocean is shaped like which English letter?"
+      },
+      "o": [
+        {
+          "hi": "O अक्षर",
+          "en": "Letter O"
+        },
+        {
+          "hi": "V अक्षर",
+          "en": "Letter V"
+        },
+        {
+          "hi": "U अक्षर",
+          "en": "Letter U"
+        },
+        {
+          "hi": "S अक्षर के समान (S-shaped)",
+          "en": "Letter S"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व का एकमात्र महासागर जिसका नाम किसी देश के नाम पर पड़ा है?",
+        "en": "Which is the only ocean named after a specific country?"
+      },
+      "o": [
+        {
+          "hi": "हिंद महासागर (Indian Ocean - भारत)",
+          "en": "Indian Ocean (India)"
+        },
+        {
+          "hi": "प्रशांत महासागर",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे छोटा महासागर कौन-सा है?",
+        "en": "Which is the smallest and shallowest ocean in the world?"
+      },
+      "o": [
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर (Arctic Ocean)",
+          "en": "Arctic Ocean"
+        },
+        {
+          "hi": "दक्षिणी महासागर",
+          "en": "Southern Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे व्यस्ततम महासागरीय व्यापारिक जलमार्ग किस महासागर में है?",
+        "en": "Which ocean has the busiest maritime trade route in the world?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "उत्तरी अटलांटिक महासागर (North Atlantic)",
+          "en": "North Atlantic Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी के कुल क्षेत्रफल का लगभग एक तिहाई (1/3) भाग किस महासागर द्वारा घिरा है?",
+        "en": "Which ocean covers approximately one-third of the Earth's total surface area?"
+      },
+      "o": [
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "दक्षिणी महासागर",
+          "en": "Southern Ocean"
+        },
+        {
+          "hi": "प्रशांत महासागर (Pacific Ocean)",
+          "en": "Pacific Ocean"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे गहरा गर्त 'मारियाना गर्त' (चैलेंजर गर्त / 11,022 मी) कहाँ स्थित है?",
+        "en": "Mariana Trench (Challenger Deep, 11,022 m) is located in which ocean?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर (गुआम द्वीप के पास)",
+          "en": "Pacific Ocean (near Guam)"
+        },
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अटलांटिक महासागर का सबसे गहरा गर्त (Deepest Point) कौन-सा है?",
+        "en": "Which is the deepest trench/point in the Atlantic Ocean?"
+      },
+      "o": [
+        {
+          "hi": "सुंडा गर्त",
+          "en": "Sunda Trench"
+        },
+        {
+          "hi": "प्यूर्टो रिको गर्त (Puerto Rico Trench)",
+          "en": "Puerto Rico Trench"
+        },
+        {
+          "hi": "जावा गर्त",
+          "en": "Java Trench"
+        },
+        {
+          "hi": "रोमैंशे गर्त",
+          "en": "Romanche Trench"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हिंद महासागर का सबसे गहरा गर्त कौन-सा है?",
+        "en": "Which is the deepest trench in the Indian Ocean?"
+      },
+      "o": [
+        {
+          "hi": "मारियाना गर्त",
+          "en": "Mariana Trench"
+        },
+        {
+          "hi": "प्यूर्टो रिको गर्त",
+          "en": "Puerto Rico Trench"
+        },
+        {
+          "hi": "सुंडा / जावा गर्त (Sunda Trench)",
+          "en": "Sunda Trench"
+        },
+        {
+          "hi": "डायमेंटीना गर्त",
+          "en": "Diamantina Trench"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आर्कटिक महासागर का सबसे गहरा बिंदु कौन-सा है?",
+        "en": "Which is the deepest point in the Arctic Ocean?"
+      },
+      "o": [
+        {
+          "hi": "चैलेंजर डीप",
+          "en": "Challenger Deep"
+        },
+        {
+          "hi": "मिल्वौकी डीप",
+          "en": "Milwaukee Deep"
+        },
+        {
+          "hi": "जावा ट्रेंच",
+          "en": "Java Trench"
+        },
+        {
+          "hi": "यूरेशियन बेसिन / मोलोय होल (Molloy Deep)",
+          "en": "Molloy Deep"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे लंबी पर्वत श्रृंखला 'मध्य-अटलांटिक कटक' (Mid-Atlantic Ridge) कहाँ है?",
+        "en": "Mid-Atlantic Ridge, the longest submarine mountain chain, is in which ocean?"
+      },
+      "o": [
+        {
+          "hi": "अटलांटिक महासागर (Atlantic Ocean)",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "प्रशांत महासागर",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मध्य-अटलांटिक कटक उत्तर में आइसलैंड से दक्षिण में कहाँ तक विस्तृत है?",
+        "en": "Mid-Atlantic Ridge extends from Iceland in the north to where in the south?"
+      },
+      "o": [
+        {
+          "hi": "मेडागास्कर तक",
+          "en": "Madagascar"
+        },
+        {
+          "hi": "बोवेट द्वीप तक (Bouvet Island)",
+          "en": "Bouvet Island"
+        },
+        {
+          "hi": "फाकलैंड तक",
+          "en": "Falkland"
+        },
+        {
+          "hi": "हवाई तक",
+          "en": "Hawaii"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'अग्नि वलय' (Ring of Fire) की उपस्थिति किस महासागर के किनारों पर है?",
+        "en": "The 'Ring of Fire' (girdle of active volcanoes/earthquakes) surrounds which ocean?"
+      },
+      "o": [
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "प्रशांत महासागर (Pacific Ocean)",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व के लगभग कितने प्रतिशत भूकंप प्रशांत महासागरीय पेटी में आते हैं?",
+        "en": "Approximately what percentage of world earthquakes occur in the Pacific Rim?"
+      },
+      "o": [
+        {
+          "hi": "25%",
+          "en": "25%"
+        },
+        {
+          "hi": "40%",
+          "en": "40%"
+        },
+        {
+          "hi": "50%",
+          "en": "50%"
+        },
+        {
+          "hi": "लगभग 68% (दो-तिहाई)",
+          "en": "Approx 68% (Two-thirds)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'बरमूडा त्रिकोण' (Bermuda Triangle) किस महासागर में स्थित है?",
+        "en": "The mysterious Bermuda Triangle is located in which ocean?"
+      },
+      "o": [
+        {
+          "hi": "उत्तरी अटलांटिक महासागर (North Atlantic)",
+          "en": "North Atlantic Ocean"
+        },
+        {
+          "hi": "दक्षिण प्रशांत महासागर",
+          "en": "South Pacific"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बरमूडा द्वीप समूह किन तीन बिंदुओं से मिलकर त्रिकोण बनाता है?",
+        "en": "Bermuda Triangle vertices are typically formed by Bermuda, Puerto Rico and?"
+      },
+      "o": [
+        {
+          "hi": "क्यूबा",
+          "en": "Cuba"
+        },
+        {
+          "hi": "मियामी (फ्लोरिडा, USA)",
+          "en": "Miami (Florida, USA)"
+        },
+        {
+          "hi": "जमैका",
+          "en": "Jamaica"
+        },
+        {
+          "hi": "बहामास",
+          "en": "Bahamas"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व का कौन-सा महासागर वर्ष के अधिकांश समय बर्फ से ढका रहता है?",
+        "en": "Which ocean remains frozen and covered with pack ice for most of the year?"
+      },
+      "o": [
+        {
+          "hi": "दक्षिणी महासागर",
+          "en": "Southern Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर (Arctic Ocean)",
+          "en": "Arctic Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अंटार्कटिका महाद्वीप के चारों ओर 60° दक्षिणी अक्षांश तक फैले जल को क्या कहते हैं?",
+        "en": "Water body encircling Antarctica south of 60°S latitude is called?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "वेडेल सागर",
+          "en": "Weddell Sea"
+        },
+        {
+          "hi": "दक्षिणी महासागर (Southern / Antarctic Ocean)",
+          "en": "Southern Ocean"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हिंद महासागर का सबसे बड़ा द्वीप कौन-सा है?",
+        "en": "Which is the largest island in the Indian Ocean?"
+      },
+      "o": [
+        {
+          "hi": "मेडागास्कर (Madagascar)",
+          "en": "Madagascar"
+        },
+        {
+          "hi": "श्रीलंका",
+          "en": "Sri Lanka"
+        },
+        {
+          "hi": "सुमात्रा",
+          "en": "Sumatra"
+        },
+        {
+          "hi": "मालदीव",
+          "en": "Maldives"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "डिएगो गार्सिया (Diego Garcia) द्वीप किस महासागर में स्थित एक महत्वपूर्ण नौसैनिक अड्डा है?",
+        "en": "Diego Garcia is an important military naval base in which ocean?"
+      },
+      "o": [
+        {
+          "hi": "प्रशांत महासागर",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "हिंद महासागर (Indian Ocean)",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रशांत महासागर का 'चौराहा' (Crossroads of the Pacific) किसे कहा जाता है?",
+        "en": "Which island group is called the 'Crossroads of the Pacific'?"
+      },
+      "o": [
+        {
+          "hi": "फिजी",
+          "en": "Fiji"
+        },
+        {
+          "hi": "सामोआ",
+          "en": "Samoa"
+        },
+        {
+          "hi": "हवाई द्वीप (Hawaii Islands)",
+          "en": "Hawaii Islands"
+        },
+        {
+          "hi": "ताहिती",
+          "en": "Tahiti"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ग्रेट बैरियर रीफ (प्रवाल भित्ति) किस महासागर में स्थित है?",
+        "en": "The Great Barrier Reef is situated in which ocean?"
+      },
+      "o": [
+        {
+          "hi": "हिंद महासागर",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        },
+        {
+          "hi": "प्रशांत महासागर (कोरल सागर / Pacific Ocean)",
+          "en": "Pacific Ocean (Coral Sea)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व में कौन-सा महासागर 'अर्ध महासागर' (Half Ocean) कहलाता है?",
+        "en": "Which ocean is often referred to as a 'Half Ocean' due to landlocked north?"
+      },
+      "o": [
+        {
+          "hi": "हिंद महासागर (Indian Ocean)",
+          "en": "Indian Ocean"
+        },
+        {
+          "hi": "प्रशांत महासागर",
+          "en": "Pacific Ocean"
+        },
+        {
+          "hi": "अटलांटिक महासागर",
+          "en": "Atlantic Ocean"
+        },
+        {
+          "hi": "आर्कटिक महासागर",
+          "en": "Arctic Ocean"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अटलांटिक महासागर के भूमध्यरेखीय भाग में स्थित 'रोमैंशे गर्त' की गहराई कितनी है?",
+        "en": "Romanche Trench in equatorial Atlantic has a depth of approximately?"
+      },
+      "o": [
+        {
+          "hi": "11,000 मीटर",
+          "en": "11,000 m"
+        },
+        {
+          "hi": "7,760 मीटर (7,761 m)",
+          "en": "7,760 m"
+        },
+        {
+          "hi": "5,000 मीटर",
+          "en": "5,000 m"
+        },
+        {
+          "hi": "3,500 मीटर",
+          "en": "3,500 m"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व का सबसे बड़ा सागर (समुद्र) कौन-सा है?",
+        "en": "Which is the largest marginal sea in the world by surface area?"
+      },
+      "o": [
+        {
+          "hi": "भूमध्य सागर",
+          "en": "Mediterranean Sea"
+        },
+        {
+          "hi": "कैरेबियन सागर",
+          "en": "Caribbean Sea"
+        },
+        {
+          "hi": "दक्षिण चीन सागर (South China Sea)",
+          "en": "South China Sea"
+        },
+        {
+          "hi": "बेरिंग सागर",
+          "en": "Bering Sea"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सारगासो सागर (Sargasso Sea) की मुख्य विशेषता क्या है?",
+        "en": "What is the unique defining feature of the Sargasso Sea?"
+      },
+      "o": [
+        {
+          "hi": "यह विश्व का सबसे ठंडा सागर है",
+          "en": "Coldest sea"
+        },
+        {
+          "hi": "यह अत्यंत उथला है",
+          "en": "Very shallow"
+        },
+        {
+          "hi": "इसमें कोई ज्वार नहीं आता",
+          "en": "No tides"
+        },
+        {
+          "hi": "इसकी कोई स्थलीय तटरेखा नहीं है (No Coastline)",
+          "en": "No land coastline"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जापान सागर और प्रशांत महासागर को कौन-सा जलडमरूमध्य जोड़ता है?",
+        "en": "Which strait connects the Sea of Japan with the Pacific Ocean?"
+      },
+      "o": [
+        {
+          "hi": "त्सुगारु जलसंधि (Tsugaru Strait)",
+          "en": "Tsugaru Strait"
+        },
+        {
+          "hi": "मलक्का जलसंधि",
+          "en": "Malacca Strait"
+        },
+        {
+          "hi": "बेरिंग जलसंधि",
+          "en": "Bering Strait"
+        },
+        {
+          "hi": "सुंडा जलसंधि",
+          "en": "Sunda Strait"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भूमध्य सागर को अटलांटिक महासागर से कौन-सी जलसंधि जोड़ती है?",
+        "en": "Which strait connects the Mediterranean Sea to the Atlantic Ocean?"
+      },
+      "o": [
+        {
+          "hi": "बॉस्फोरस",
+          "en": "Bosphorus"
+        },
+        {
+          "hi": "जिब्राल्टर जलसंधि (Strait of Gibraltar)",
+          "en": "Strait of Gibraltar"
+        },
+        {
+          "hi": "डार्डेनेल्स",
+          "en": "Dardanelles"
+        },
+        {
+          "hi": "मेसिना",
+          "en": "Messina"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "काला सागर (Black Sea) और मारमरा सागर को कौन-सी जलसंधि जोड़ती है?",
+        "en": "Which strait connects the Black Sea with the Sea of Marmara?"
+      },
+      "o": [
+        {
+          "hi": "डार्डेनेल्स जलसंधि",
+          "en": "Dardanelles"
+        },
+        {
+          "hi": "जिब्राल्टर",
+          "en": "Gibraltar"
+        },
+        {
+          "hi": "बॉस्फोरस जलसंधि (Bosphorus Strait)",
+          "en": "Bosphorus Strait"
+        },
+        {
+          "hi": "केर्च जलसंधि",
+          "en": "Kerch Strait"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मारमरा सागर और एजियन सागर (भूमध्य सागर) को कौन जोड़ता है?",
+        "en": "Which strait connects the Sea of Marmara to the Aegean Sea?"
+      },
+      "o": [
+        {
+          "hi": "बॉस्फोरस",
+          "en": "Bosphorus"
+        },
+        {
+          "hi": "जिब्राल्टर",
+          "en": "Gibraltar"
+        },
+        {
+          "hi": "बाब-अल-मंदेब",
+          "en": "Bab-el-Mandeb"
+        },
+        {
+          "hi": "डार्डेनेल्स जलसंधि (Dardanelles Strait)",
+          "en": "Dardanelles Strait"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लाल सागर और अदन की खाड़ी (हिंद महासागर) को कौन-सी जलसंधि जोड़ती है?",
+        "en": "Which strait connects the Red Sea to the Gulf of Aden (Indian Ocean)?"
+      },
+      "o": [
+        {
+          "hi": "बाब-अल-मंदेब (Bab-el-Mandeb)",
+          "en": "Bab-el-Mandeb"
+        },
+        {
+          "hi": "हॉर्मुज जलसंधि",
+          "en": "Hormuz Strait"
+        },
+        {
+          "hi": "मलक्का जलसंधि",
+          "en": "Malacca Strait"
+        },
+        {
+          "hi": "पाक जलसंधि",
+          "en": "Palk Strait"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फारस की खाड़ी और ओमान की खाड़ी को कौन-सी रणनीतिक जलसंधि जोड़ती है?",
+        "en": "Which strategic choke point connects the Persian Gulf to the Gulf of Oman?"
+      },
+      "o": [
+        {
+          "hi": "बाब-अल-मंदेब",
+          "en": "Bab-el-Mandeb"
+        },
+        {
+          "hi": "हॉर्मुज जलसंधि (Strait of Hormuz)",
+          "en": "Strait of Hormuz"
+        },
+        {
+          "hi": "मलक्का",
+          "en": "Malacca"
+        },
+        {
+          "hi": "जिब्राल्टर",
+          "en": "Gibraltar"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत और श्रीलंका के बीच कौन-सी जलसंधि स्थित है?",
+        "en": "Which strait separates India from Sri Lanka?"
+      },
+      "o": [
+        {
+          "hi": "सुंडा जलसंधि",
+          "en": "Sunda Strait"
+        },
+        {
+          "hi": "मलक्का जलसंधि",
+          "en": "Malacca Strait"
+        },
+        {
+          "hi": "पाक जलसंधि (Palk Strait)",
+          "en": "Palk Strait"
+        },
+        {
+          "hi": "बेरिंग जलसंधि",
+          "en": "Bering Strait"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अंडमान सागर और दक्षिण चीन सागर को जोड़ने वाली प्रमुख जलसंधि कौन-सी है?",
+        "en": "Which major shipping strait connects Andaman Sea with South China Sea?"
+      },
+      "o": [
+        {
+          "hi": "सुंडा जलसंधि",
+          "en": "Sunda Strait"
+        },
+        {
+          "hi": "मकास्सर जलसंधि",
+          "en": "Makassar Strait"
+        },
+        {
+          "hi": "लुजोन जलसंधि",
+          "en": "Luzon Strait"
+        },
+        {
+          "hi": "मलक्का जलसंधि (Strait of Malacca)",
+          "en": "Strait of Malacca"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एशिया और उत्तरी अमेरिका को अलग करने वाली जलसंधि कौन-सी है?",
+        "en": "Which strait separates Asia (Russia) from North America (Alaska)?"
+      },
+      "o": [
+        {
+          "hi": "बेरिंग जलसंधि (Bering Strait)",
+          "en": "Bering Strait"
+        },
+        {
+          "hi": "डेविस जलसंधि",
+          "en": "Davis Strait"
+        },
+        {
+          "hi": "डोवर जलसंधि",
+          "en": "Dover Strait"
+        },
+        {
+          "hi": "हडसन जलसंधि",
+          "en": "Hudson Strait"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे चौड़ी जलसंधि कौन-सी मानी जाती है?",
+        "en": "Which is considered the widest strait in the world?"
+      },
+      "o": [
+        {
+          "hi": "जिब्राल्टर जलसंधि",
+          "en": "Gibraltar Strait"
+        },
+        {
+          "hi": "डेविस जलसंधि (Davis Strait)",
+          "en": "Davis Strait"
+        },
+        {
+          "hi": "मलक्का जलसंधि",
+          "en": "Malacca Strait"
+        },
+        {
+          "hi": "फ्लोरिडा जलसंधि",
+          "en": "Florida Strait"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "इंग्लैंड और फ्रांस को अलग करने वाली प्रसिद्ध जलसंधि कौन-सी है?",
+        "en": "Which famous strait separates England from France?"
+      },
+      "o": [
+        {
+          "hi": "जिब्राल्टर",
+          "en": "Gibraltar"
+        },
+        {
+          "hi": "बेरिंग जलसंधि",
+          "en": "Bering"
+        },
+        {
+          "hi": "डोवर जलसंधि (Strait of Dover)",
+          "en": "Strait of Dover"
+        },
+        {
+          "hi": "बॉस्फोरस",
+          "en": "Bosphorus"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "इंग्लिश चैनल और उत्तरी सागर को कौन-सी जलसंधि आपस में जोड़ती है?",
+        "en": "Which strait connects the English Channel with the North Sea?"
+      },
+      "o": [
+        {
+          "hi": "जिब्राल्टर",
+          "en": "Gibraltar"
+        },
+        {
+          "hi": "मलक्का",
+          "en": "Malacca"
+        },
+        {
+          "hi": "डेविस",
+          "en": "Davis"
+        },
+        {
+          "hi": "डोवर जलसंधि (Strait of Dover)",
+          "en": "Strait of Dover"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यूरोप महाद्वीप का कौन-सा सागर पूर्णतः स्थल-रुद्ध (Landlocked) माना जाता है?",
+        "en": "Which sea is considered a completely landlocked inland sea?"
+      },
+      "o": [
+        {
+          "hi": "कैस्पियन सागर (Caspian Sea)",
+          "en": "Caspian Sea"
+        },
+        {
+          "hi": "उत्तरी सागर",
+          "en": "North Sea"
+        },
+        {
+          "hi": "बाल्टिक सागर",
+          "en": "Baltic Sea"
+        },
+        {
+          "hi": "नॉर्वेजियन सागर",
+          "en": "Norwegian Sea"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अरल सागर (Aral Sea) किन दो देशों की सीमा पर स्थित है जो लगभग सूख चुका है?",
+        "en": "Aral Sea, which has drastically dried up, is situated between which two nations?"
+      },
+      "o": [
+        {
+          "hi": "रूस और चीन",
+          "en": "Russia & China"
+        },
+        {
+          "hi": "कजाकिस्तान और उज्बेकिस्तान (Kazakhstan & Uzbekistan)",
+          "en": "Kazakhstan & Uzbekistan"
+        },
+        {
+          "hi": "ईरान और तुर्कमेनिस्तान",
+          "en": "Iran & Turkmenistan"
+        },
+        {
+          "hi": "अफगानिस्तान और पाकिस्तान",
+          "en": "Afghanistan & Pakistan"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व में सर्वाधिक लवणता वाला सागर कौन-सा है?",
+        "en": "Which enclosed sea has the highest average natural salinity?"
+      },
+      "o": [
+        {
+          "hi": "बाल्टिक सागर",
+          "en": "Baltic Sea"
+        },
+        {
+          "hi": "काला सागर",
+          "en": "Black Sea"
+        },
+        {
+          "hi": "लाल सागर (Red Sea - 37-41‰)",
+          "en": "Red Sea (37-41‰)"
+        },
+        {
+          "hi": "पीला सागर",
+          "en": "Yellow Sea"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बाल्टिक सागर में लवणता कम होने का मुख्य कारण क्या है?",
+        "en": "Why is the salinity of the Baltic Sea exceptionally low (under 10‰)?"
+      },
+      "o": [
+        {
+          "hi": "अत्यधिक वाष्पीकरण",
+          "en": "High evaporation"
+        },
+        {
+          "hi": "भूमिगत लवणीय स्रोत",
+          "en": "Underground salt"
+        },
+        {
+          "hi": "समुद्री जीवों का प्रभाव",
+          "en": "Marine life"
+        },
+        {
+          "hi": "प्रचुर मात्रा में स्वच्छ नदी जल का मिलना व कम वाष्पीकरण",
+          "en": "Heavy fresh river influx & low evaporation"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उत्तरी अटलांटिक में स्थित 'ग्रैंड बैंक' और 'जॉर्जेस बैंक' किसके लिए प्रसिद्ध हैं?",
+        "en": "Grand Bank and Georges Bank in North Atlantic are world famous for?"
+      },
+      "o": [
+        {
+          "hi": "मत्स्य उत्पादन (मछली पालन / Fishing Grounds)",
+          "en": "Fishing Grounds"
+        },
+        {
+          "hi": "तेल निष्कर्षण",
+          "en": "Oil Drilling"
+        },
+        {
+          "hi": "कोरल रीफ",
+          "en": "Coral Reefs"
+        },
+        {
+          "hi": "खनिज नोड्यूल्स",
+          "en": "Mineral Nodules"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "महासागरीय तलहटी पर पाए जाने वाले 'मैंगनीज नोड्यूल्स' में क्या शामिल होता है?",
+        "en": "Polymetallic / Manganese Nodules on deep ocean floors contain?"
+      },
+      "o": [
+        {
+          "hi": "केवल लोहा",
+          "en": "Only Iron"
+        },
+        {
+          "hi": "मैंगनीज, लोहा, निकेल, तांबा और कोबाल्ट",
+          "en": "Manganese, Iron, Nickel, Copper & Cobalt"
+        },
+        {
+          "hi": "सोना और चांदी केवल",
+          "en": "Gold & Silver only"
+        },
+        {
+          "hi": "केवल एल्युमीनियम",
+          "en": "Only Aluminium"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अंतर्राष्ट्रीय समुद्री संगठन (IMO) का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of the International Maritime Organization (IMO) located?"
+      },
+      "o": [
+        {
+          "hi": "जिनेवा",
+          "en": "Geneva"
+        },
+        {
+          "hi": "न्यूयॉर्क",
+          "en": "New York"
+        },
+        {
+          "hi": "लंदन (ब्रिटेन / London)",
+          "en": "London (UK)"
+        },
+        {
+          "hi": "पेरिस",
+          "en": "Paris"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समुद्र कानून पर संयुक्त राष्ट्र सम्मेलन (UNCLOS) के अनुसार प्रादेशिक जल सीमा कितनी है?",
+        "en": "According to UNCLOS, what is the breadth of the Territorial Sea from baseline?"
+      },
+      "o": [
+        {
+          "hi": "6 समुद्री मील",
+          "en": "6 nautical miles"
+        },
+        {
+          "hi": "200 समुद्री मील",
+          "en": "200 nautical miles"
+        },
+        {
+          "hi": "24 समुद्री मील",
+          "en": "24 nautical miles"
+        },
+        {
+          "hi": "12 समुद्री मील (12 Nautical Miles)",
+          "en": "12 Nautical Miles"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विशेष आर्थिक क्षेत्र (EEZ - Exclusive Economic Zone) की सीमा तट से कितनी दूरी तक होती है?",
+        "en": "What is the extent of Exclusive Economic Zone (EEZ) from the baseline?"
+      },
+      "o": [
+        {
+          "hi": "200 समुद्री मील (200 Nautical Miles)",
+          "en": "200 Nautical Miles"
+        },
+        {
+          "hi": "100 समुद्री मील",
+          "en": "100 nautical miles"
+        },
+        {
+          "hi": "50 समुद्री मील",
+          "en": "50 nautical miles"
+        },
+        {
+          "hi": "12 समुद्री मील",
+          "en": "12 nautical miles"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एक समुद्री मील (Nautical Mile) कितने मीटर/किलोमीटर के बराबर होता है?",
+        "en": "One international Nautical Mile is equal to how many meters?"
+      },
+      "o": [
+        {
+          "hi": "1000 मीटर",
+          "en": "1000 m"
+        },
+        {
+          "hi": "1852 मीटर (1.852 किमी)",
+          "en": "1852 meters (1.852 km)"
+        },
+        {
+          "hi": "1609 मीटर (1 मील)",
+          "en": "1609 m (1 statute mile)"
+        },
+        {
+          "hi": "2000 मीटर",
+          "en": "2000 m"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - प्राचीन भारत (Ancient India)",
+  "subtitle": "वैष्णव धर्म",
+  "description": "वैष्णव धर्म पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "वैष्णव धर्म के प्रारंभिक रूप को किस नाम से जाना जाता था?",
+        "en": "By what early religious name was Vaishnavism originally known?"
+      },
+      "o": [
+        {
+          "hi": "भागवत धर्म या सात्वत धर्म (Bhagavata / Satvata Dharma)",
+          "en": "Bhagavata / Satvata Dharma"
+        },
+        {
+          "hi": "शैव धर्म",
+          "en": "Shaivism"
+        },
+        {
+          "hi": "शाक्त धर्म",
+          "en": "Shaktism"
+        },
+        {
+          "hi": "पाशुपत धर्म",
+          "en": "Pashupata"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भागवत (वैष्णव) धर्म के मूल प्रवर्तक कौन थे जो वृष्णि वंशीय यादव थे?",
+        "en": "Who was the historical founder of Bhagavata religion of the Vrishni Yadava clan?"
+      },
+      "o": [
+        {
+          "hi": "ऋषभदेव",
+          "en": "Rishabhadeva"
+        },
+        {
+          "hi": "श्रीकृष्ण / वासुदेव कृष्ण (Vasudeva Krishna)",
+          "en": "Vasudeva Krishna"
+        },
+        {
+          "hi": "बलराम",
+          "en": "Balarama"
+        },
+        {
+          "hi": "परशुराम",
+          "en": "Parashurama"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वासुदेव कृष्ण का प्रारंभिक निवास स्थान कौन-सा नगर था?",
+        "en": "What was the primary home and preaching center of Vasudeva Krishna?"
+      },
+      "o": [
+        {
+          "hi": "अयोध्या",
+          "en": "Ayodhya"
+        },
+        {
+          "hi": "काशी",
+          "en": "Kashi"
+        },
+        {
+          "hi": "मथुरा (Mathura - शूरसेन महाजनपद)",
+          "en": "Mathura (Shoorasena)"
+        },
+        {
+          "hi": "उज्जैन",
+          "en": "Ujjain"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कृष्ण का सर्वप्रथम उल्लेख किस प्राचीन उपनिषद में देवकी-पुत्र और घोर अंगिरस के शिष्य रूप में मिलता है?",
+        "en": "In which Upanishad is Krishna first mentioned as son of Devaki & disciple of Ghora Angirasa?"
+      },
+      "o": [
+        {
+          "hi": "मुण्डकोपनिषद",
+          "en": "Mundaka Upanishad"
+        },
+        {
+          "hi": "कठोपनिषद",
+          "en": "Katha Upanishad"
+        },
+        {
+          "hi": "बृहदारण्यक उपनिषद",
+          "en": "Brihadaranyaka"
+        },
+        {
+          "hi": "छांदोग्य उपनिषद (Chandogya Upanishad)",
+          "en": "Chandogya Upanishad"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विष्णु के दस प्रमुख अवतारों (दशावतार / Dashavatara) का स्पष्ट उल्लेख किस पुराण में मिलता है?",
+        "en": "The doctrine of the Ten Incarnations of Vishnu (Dashavatara) is explicitly detailed in?"
+      },
+      "o": [
+        {
+          "hi": "मत्स्य पुराण (Matsya Purana)",
+          "en": "Matsya Purana"
+        },
+        {
+          "hi": "विष्णु पुराण",
+          "en": "Vishnu Purana"
+        },
+        {
+          "hi": "वायु पुराण",
+          "en": "Vayu Purana"
+        },
+        {
+          "hi": "भागवत पुराण",
+          "en": "Bhagavata Purana"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विष्णु के दशावतारों में प्रथम अवतार कौन-सा माना जाता है जिसने वेदों की रक्षा की?",
+        "en": "Which is the first incarnation of Lord Vishnu in Dashavatara who rescued the Vedas?"
+      },
+      "o": [
+        {
+          "hi": "कूर्म (कछुआ)",
+          "en": "Kurma (Tortoise)"
+        },
+        {
+          "hi": "मत्स्य अवतार (मछली / Matsya Avatara)",
+          "en": "Matsya Avatara (Fish)"
+        },
+        {
+          "hi": "वराह (सूअर)",
+          "en": "Varaha (Boar)"
+        },
+        {
+          "hi": "नृसिंह",
+          "en": "Narasimha"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "समुद्र मंथन के समय मंदराचल पर्वत को अपनी पीठ पर धारण करने वाला द्वितीय अवतार कौन-सा था?",
+        "en": "Which 2nd incarnation of Vishnu supported Mount Mandara during Samudra Manthan?"
+      },
+      "o": [
+        {
+          "hi": "मत्स्य अवतार",
+          "en": "Matsya"
+        },
+        {
+          "hi": "वराह अवतार",
+          "en": "Varaha"
+        },
+        {
+          "hi": "कूर्म / कच्छप अवतार (Kurma / Tortoise)",
+          "en": "Kurma / Tortoise"
+        },
+        {
+          "hi": "वामन अवतार",
+          "en": "Vamana"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हिरण्याक्ष का वध कर पृथ्वी को रसातल से बाहर निकालने वाला तृतीय अवतार कौन-सा था?",
+        "en": "Which 3rd incarnation of Vishnu slew Hiranyaksha and lifted the Earth from cosmic ocean?"
+      },
+      "o": [
+        {
+          "hi": "नृसिंह",
+          "en": "Narasimha"
+        },
+        {
+          "hi": "परशुराम",
+          "en": "Parashurama"
+        },
+        {
+          "hi": "राम",
+          "en": "Rama"
+        },
+        {
+          "hi": "वराह अवतार (Varaha Avatara / Boar)",
+          "en": "Varaha Avatara (Boar)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गुप्त काल में भगवान विष्णु का कौन-सा अवतार सर्वाधिक लोकप्रिय और पूजनीय था?",
+        "en": "Which incarnation of Lord Vishnu was most widely worshipped in the Gupta Period?"
+      },
+      "o": [
+        {
+          "hi": "वराह अवतार (Varaha Avatara - एरण/उदयगिरि मूर्तियां)",
+          "en": "Varaha Avatara (Eran/Udayagiri)"
+        },
+        {
+          "hi": "मत्स्य अवतार",
+          "en": "Matsya"
+        },
+        {
+          "hi": "बुद्ध अवतार",
+          "en": "Buddha"
+        },
+        {
+          "hi": "कल्कि अवतार",
+          "en": "Kalki"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भक्त प्रह्लाद की रक्षा और हिरण्यकश्यप के वध हेतु विष्णु का चौथा अवतार कौन-सा था?",
+        "en": "Which 4th fierce half-man half-lion incarnation saved Prahlada from Hiranyakashipu?"
+      },
+      "o": [
+        {
+          "hi": "वामन",
+          "en": "Vamana"
+        },
+        {
+          "hi": "नृसिंह अवतार (Narasimha Avatara)",
+          "en": "Narasimha Avatara"
+        },
+        {
+          "hi": "परशुराम",
+          "en": "Parashurama"
+        },
+        {
+          "hi": "वराह",
+          "en": "Varaha"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "असुर राजा बलि के अहंकार को तोड़ने हेतु तीन पग भूमि मांगने वाला पाँचवाँ अवतार कौन-सा था?",
+        "en": "Which 5th dwarf-brahmin incarnation measured the universe in three paces before King Bali?"
+      },
+      "o": [
+        {
+          "hi": "नृसिंह",
+          "en": "Narasimha"
+        },
+        {
+          "hi": "परशुराम",
+          "en": "Parashurama"
+        },
+        {
+          "hi": "वामन अवतार (Vamana Avatara)",
+          "en": "Vamana Avatara"
+        },
+        {
+          "hi": "राम अवतार",
+          "en": "Rama"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कलयुग के अंत में अधर्म के विनाश हेतु भगवान विष्णु का होने वाला भविष्य का दसवां अवतार?",
+        "en": "Which prophesied 10th and final incarnation of Vishnu will appear at the end of Kali Yuga?"
+      },
+      "o": [
+        {
+          "hi": "बुद्ध",
+          "en": "Buddha"
+        },
+        {
+          "hi": "परशुराम",
+          "en": "Parashurama"
+        },
+        {
+          "hi": "बलराम",
+          "en": "Balarama"
+        },
+        {
+          "hi": "कल्कि अवतार (Kalki Avatara - संभल ग्राम)",
+          "en": "Kalki Avatara"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विष्णु का वाहन कौन-सा पौराणिक पक्षी माना जाता है?",
+        "en": "Which mythical eagle-king bird is the celestial mount (Vahana) of Lord Vishnu?"
+      },
+      "o": [
+        {
+          "hi": "गरुड़ (Garuda)",
+          "en": "Garuda"
+        },
+        {
+          "hi": "हंस",
+          "en": "Hamsa"
+        },
+        {
+          "hi": "मयूर (मोर)",
+          "en": "Peacock"
+        },
+        {
+          "hi": "नंदी",
+          "en": "Nandi"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मध्य प्रदेश के विदिशा (बेसनगर) में 'गरुड़ ध्वज स्तंभ' की स्थापना किस यूनानी राजदूत ने की थी?",
+        "en": "Which Greek ambassador erected the famous Garuda Pillar at Besnagar (Vidisha) in 113 BC?"
+      },
+      "o": [
+        {
+          "hi": "मेगस्थनीज",
+          "en": "Megasthenes"
+        },
+        {
+          "hi": "हेलियोडोरस (Heliodorus - भागवत धर्म अपनाया)",
+          "en": "Heliodorus (Embraced Bhagavatism)"
+        },
+        {
+          "hi": "डायमेकस",
+          "en": "Deimachus"
+        },
+        {
+          "hi": "मिनांडर",
+          "en": "Menander"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हेलियोडोरस किस यवन (ग्रीक) राजा का राजदूत था जो शुंग राजा भागभद्र के दरबार में आया?",
+        "en": "Heliodorus was the Greek ambassador sent by which Indo-Greek king of Taxila?"
+      },
+      "o": [
+        {
+          "hi": "डेमेट्रियस",
+          "en": "Demetrius"
+        },
+        {
+          "hi": "यूक्रेटाइड्स",
+          "en": "Eucratides"
+        },
+        {
+          "hi": "एंटियालकिडास (Antialcidas)",
+          "en": "Antialcidas"
+        },
+        {
+          "hi": "अगाथोक्लीज",
+          "en": "Agathocles"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दक्षिण भारत में वैष्णव धर्म का प्रचार-प्रसार करने वाले संत-कवियों को क्या कहा जाता था?",
+        "en": "What were the 12 devotional poet-saints of Vaishnavism called in Tamil South India?"
+      },
+      "o": [
+        {
+          "hi": "नयनार",
+          "en": "Nayanars"
+        },
+        {
+          "hi": "जंगम",
+          "en": "Jangama"
+        },
+        {
+          "hi": "वीरशैव",
+          "en": "Veerashaiva"
+        },
+        {
+          "hi": "अलवार संत (Alvars - कुल 12 संत)",
+          "en": "Alvars (Total 12)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अलवार संतों में एकमात्र प्रसिद्ध महिला संत कौन थीं जिन्हें 'दक्षिण की मीरा' कहते हैं?",
+        "en": "Who was the only female saint among the 12 Alvars, revered as the 'Meera of the South'?"
+      },
+      "o": [
+        {
+          "hi": "अंडाल (कोदई / Andal)",
+          "en": "Andal (Kodai)"
+        },
+        {
+          "hi": "अक्क महादेवी",
+          "en": "Akka Mahadevi"
+        },
+        {
+          "hi": "कराइक्कल अम्मैयार",
+          "en": "Karaikkal Ammaiyar"
+        },
+        {
+          "hi": "मुक्ताबाई",
+          "en": "Muktabai"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "12 अलवार संतों के भक्ति पदों का पवित्र तमिल संकलन किस ग्रंथ में मिलता है?",
+        "en": "The 4,000 sacred Tamil devotional verses of the 12 Alvars are compiled in?"
+      },
+      "o": [
+        {
+          "hi": "तिरुक्कुरल",
+          "en": "Tirukkural"
+        },
+        {
+          "hi": "नालयिर दिव्य प्रबंधम (Nalayira Divya Prabandham)",
+          "en": "Nalayira Divya Prabandham"
+        },
+        {
+          "hi": "शिलप्पादिकारम",
+          "en": "Silappadikaram"
+        },
+        {
+          "hi": "मणिमेकलै",
+          "en": "Manimekalai"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वैष्णव धर्म के 'श्री संप्रदाय' के संस्थापक कौन थे जिन्होंने 'विशिष्टाद्वैतवाद' दिया?",
+        "en": "Who was the founder of Sri Sampradaya and propounder of Vishishtadvaita philosophy?"
+      },
+      "o": [
+        {
+          "hi": "माधवाचार्य",
+          "en": "Madhvacharya"
+        },
+        {
+          "hi": "निम्बार्काचार्य",
+          "en": "Nimbarkacharya"
+        },
+        {
+          "hi": "रामानुजाचार्य (Ramanujacharya - 11वीं सदी)",
+          "en": "Ramanujacharya (11th Century)"
+        },
+        {
+          "hi": "वल्लभाचार्य",
+          "en": "Vallabhacharya"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हैदराबाद में स्थापित रामानुजाचार्य की 216 फुट ऊँची बैठी हुई भव्य प्रतिमा क्या कहलाती है?",
+        "en": "What is the 216-ft seated statue of Ramanujacharya in Hyderabad officially named?"
+      },
+      "o": [
+        {
+          "hi": "स्टैच्यू ऑफ यूनिटी",
+          "en": "Statue of Unity"
+        },
+        {
+          "hi": "स्टैच्यू ऑफ पीस",
+          "en": "Statue of Peace"
+        },
+        {
+          "hi": "स्टैच्यू ऑफ प्रॉस्पेरिटी",
+          "en": "Statue of Prosperity"
+        },
+        {
+          "hi": "स्टैच्यू ऑफ इक्वैलिटी (Statue of Equality - समता की मूर्ति)",
+          "en": "Statue of Equality"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वैष्णव धर्म के 'ब्रह्म संप्रदाय' के संस्थापक कौन थे जिन्होंने 'द्वैतवाद' (Dvaita) का प्रतिपादन किया?",
+        "en": "Who was the founder of Brahma Sampradaya and propounder of Dvaita philosophy?"
+      },
+      "o": [
+        {
+          "hi": "माधवाचार्य / आनंदतीर्थ (Madhvacharya)",
+          "en": "Madhvacharya (Anandatirtha)"
+        },
+        {
+          "hi": "रामानुज",
+          "en": "Ramanuja"
+        },
+        {
+          "hi": "निम्बार्क",
+          "en": "Nimbarka"
+        },
+        {
+          "hi": "शंकराचार्य",
+          "en": "Shankaracharya"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सनक संप्रदाय के प्रवर्तक कौन थे जिन्होंने 'द्वैताद्वैतवाद' (भेदाभेद) दर्शन दिया?",
+        "en": "Who founded the Sanaka Sampradaya and expounded the Dvaitadvaita philosophy?"
+      },
+      "o": [
+        {
+          "hi": "रामानुजाचार्य",
+          "en": "Ramanujacharya"
+        },
+        {
+          "hi": "निम्बार्काचार्य (Nimbarkacharya)",
+          "en": "Nimbarkacharya"
+        },
+        {
+          "hi": "माधवाचार्य",
+          "en": "Madhvacharya"
+        },
+        {
+          "hi": "वल्लभाचार्य",
+          "en": "Vallabhacharya"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रुद्र संप्रदाय के प्रमुख आचार्य कौन थे जिन्होंने 'शुद्धाद्वैतवाद' (Shuddhadvaita) दिया?",
+        "en": "Who was the great Acharya of Rudra Sampradaya and propounder of Shuddhadvaita?"
+      },
+      "o": [
+        {
+          "hi": "चैतन्य महाप्रभु",
+          "en": "Chaitanya"
+        },
+        {
+          "hi": "रामानंद",
+          "en": "Ramananda"
+        },
+        {
+          "hi": "वल्लभाचार्य (विष्णुस्वामी / Vallabhacharya)",
+          "en": "Vallabhacharya"
+        },
+        {
+          "hi": "माधव",
+          "en": "Madhava"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वल्लभाचार्य द्वारा स्थापित कृष्ण भक्ति मार्ग को क्या कहा जाता है?",
+        "en": "What is the spiritual path of loving devotion established by Vallabhacharya called?"
+      },
+      "o": [
+        {
+          "hi": "ज्ञान मार्ग",
+          "en": "Jnana Marga"
+        },
+        {
+          "hi": "कर्म मार्ग",
+          "en": "Karma Marga"
+        },
+        {
+          "hi": "तंत्र मार्ग",
+          "en": "Tantra Marga"
+        },
+        {
+          "hi": "पुष्टि मार्ग (Pushtimarga)",
+          "en": "Pushtimarga"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उत्तर भारत में भक्ति आंदोलन को दक्षिण से लाने का श्रेय किस महान संत को है?",
+        "en": "Who brought the Bhakti movement from South India to North India in 14th century?"
+      },
+      "o": [
+        {
+          "hi": "स्वामी रामानंद (Swami Ramananda)",
+          "en": "Swami Ramananda"
+        },
+        {
+          "hi": "कबीरदास",
+          "en": "Kabir"
+        },
+        {
+          "hi": "तुलसीदास",
+          "en": "Tulsidas"
+        },
+        {
+          "hi": "सूरदास",
+          "en": "Surdas"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ओडिशा के पुरी में स्थित प्रसिद्ध 'जगन्नाथ मंदिर' (Jagannath Temple) किस भगवान का है?",
+        "en": "World-renowned Jagannath Temple at Puri (Odisha) is dedicated to which form of Vishnu?"
+      },
+      "o": [
+        {
+          "hi": "राम",
+          "en": "Rama"
+        },
+        {
+          "hi": "भगवान श्रीकृष्ण (जगन्नाथ, बलभद्र, सुभद्रा / Lord Krishna)",
+          "en": "Lord Krishna (Jagannath, Balabhadra, Subhadra)"
+        },
+        {
+          "hi": "शिव",
+          "en": "Shiva"
+        },
+        {
+          "hi": "सूर्य",
+          "en": "Surya"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पुरी के जगन्नाथ मंदिर का निर्माण 12वीं शताब्दी में किस गंग वंशीय राजा ने कराया था?",
+        "en": "Jagannath Temple at Puri was constructed in 12th century by which Eastern Ganga king?"
+      },
+      "o": [
+        {
+          "hi": "नरसिंहदेव प्रथम",
+          "en": "Narasimhadeva I"
+        },
+        {
+          "hi": "प्रतापरुद्र",
+          "en": "Prataparudra"
+        },
+        {
+          "hi": "अनंतवर्मन चोडगंग देव (Anantavarman Chodaganga)",
+          "en": "Anantavarman Chodaganga"
+        },
+        {
+          "hi": "ययाति केसरी",
+          "en": "Jajati Keshari"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तमिलनाडु में कावेरी नदी के द्वीप पर स्थित भारत का सबसे बड़ा क्रियाशील मंदिर परिसर कौन-सा है?",
+        "en": "Which is the largest functioning Hindu temple complex in India (156 acres, Srirangam)?"
+      },
+      "o": [
+        {
+          "hi": "मीनाक्षी मंदिर",
+          "en": "Meenakshi Temple"
+        },
+        {
+          "hi": "बृहदीश्वर मंदिर",
+          "en": "Brihadisvara"
+        },
+        {
+          "hi": "रामेश्वरम मंदिर",
+          "en": "Rameshwaram"
+        },
+        {
+          "hi": "श्री रंगनाथस्वामी मंदिर (Sri Ranganathaswamy Temple, Srirangam)",
+          "en": "Sri Ranganathaswamy Temple"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आंध्र प्रदेश के तिरुमाला पर्वत पर स्थित विश्व का सर्वाधिक धनी एवं प्रसिद्ध वैष्णव मंदिर?",
+        "en": "World-famous wealthy Venkateswara temple situated on Tirumala hills in AP?"
+      },
+      "o": [
+        {
+          "hi": "तिरुुपति बालाजी (श्री वेंकटेश्वर स्वामी मंदिर / Tirupati Balaji)",
+          "en": "Tirupati Balaji (Sri Venkateswara)"
+        },
+        {
+          "hi": "पद्मनाभस्वामी मंदिर",
+          "en": "Padmanabhaswamy"
+        },
+        {
+          "hi": "गुरुवायुर मंदिर",
+          "en": "Guruvayur"
+        },
+        {
+          "hi": "द्वारकाधीश",
+          "en": "Dwarkadhish"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "केरल के तिरुवनंतपुरम में स्थित अपार स्वर्ण संपदा वाला प्रसिद्ध विष्णु मंदिर कौन-सा है?",
+        "en": "Famous historic Vishnu temple in Thiruvananthapuram, Kerala with vast vaults of gold?"
+      },
+      "o": [
+        {
+          "hi": "सबरीमाला मंदिर",
+          "en": "Sabarimala"
+        },
+        {
+          "hi": "पद्मनाभस्वामी मंदिर (Padmanabhaswamy Temple)",
+          "en": "Padmanabhaswamy Temple"
+        },
+        {
+          "hi": "गुरुवायुर",
+          "en": "Guruvayur"
+        },
+        {
+          "hi": "अत्तुकल",
+          "en": "Attukal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पद्मनाभस्वामी मंदिर में भगवान विष्णु किस मुद्रा में शयन करते हुए प्रतिष्ठित हैं?",
+        "en": "Lord Vishnu is depicted in which divine posture at Padmanabhaswamy Temple?"
+      },
+      "o": [
+        {
+          "hi": "नृत्य मुद्रा",
+          "en": "Dancing posture"
+        },
+        {
+          "hi": "खड़े स्वरूप में",
+          "en": "Standing posture"
+        },
+        {
+          "hi": "अनंत शयन मुद्रा (शेषनाग पर योगनिद्रा / Anantha Shayana)",
+          "en": "Anantha Shayana (Reclining on Sheshanaga)"
+        },
+        {
+          "hi": "ध्यान मुद्रा",
+          "en": "Dhyana posture"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भगवान विष्णु के सुदर्शन चक्र का प्रतीक क्या दर्शाता है?",
+        "en": "What does the cosmic spinning Sudarshana Chakra of Lord Vishnu symbolize?"
+      },
+      "o": [
+        {
+          "hi": "शांति",
+          "en": "Peace"
+        },
+        {
+          "hi": "धन",
+          "en": "Wealth"
+        },
+        {
+          "hi": "सत्य",
+          "en": "Truth"
+        },
+        {
+          "hi": "काल चक्र एवं मन की असीम गति (Wheel of Time & Cosmic Order)",
+          "en": "Wheel of Time & Cosmic Mind"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वैष्णव धर्म में 'पंचरात्र' (Pancharatra) साहित्य किससे संबंधित है?",
+        "en": "In Vaishnavism, the authoritative Pancharatra Agamas deal primarily with?"
+      },
+      "o": [
+        {
+          "hi": "मंदिर निर्माण, मूर्ति प्रतिष्ठा एवं पूजा अनुष्ठान विधि",
+          "en": "Temple architecture, idol consecration & worship rituals"
+        },
+        {
+          "hi": "युद्ध नीति",
+          "en": "Warfare"
+        },
+        {
+          "hi": "चिकित्सा",
+          "en": "Medicine"
+        },
+        {
+          "hi": "राजनीति",
+          "en": "Politics"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चतुर्व्यूह (Chaturvyuha) सिद्धांत में वासुदेव के अतिरिक्त कौन-से तीन देव शामिल हैं?",
+        "en": "In the Pancharatra doctrine of Chaturvyuha, who are the other three emanations besides Vasudeva?"
+      },
+      "o": [
+        {
+          "hi": "राम, लक्ष्मण, भरत",
+          "en": "Rama, Laxman, Bharat"
+        },
+        {
+          "hi": "संकर्षण (बलराम), प्रद्युम्न और अनिरुद्ध",
+          "en": "Sankarshana, Pradyumna and Aniruddha"
+        },
+        {
+          "hi": "ब्रह्मा, विष्णु, महेश",
+          "en": "Brahma, Vishnu, Mahesh"
+        },
+        {
+          "hi": "मत्स्य, कूर्म, वराह",
+          "en": "Matsya, Kurma, Varaha"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गौड़ीय वैष्णव संप्रदाय (अचिंत्यभेदाभेदवाद) के प्रवर्तक कौन थे?",
+        "en": "Who was the founder of Gaudiya Vaishnavism (Achintya Bhedabheda) in 16th century Bengal?"
+      },
+      "o": [
+        {
+          "hi": "रामानंद",
+          "en": "Ramananda"
+        },
+        {
+          "hi": "वल्लभाचार्य",
+          "en": "Vallabhacharya"
+        },
+        {
+          "hi": "चैतन्य महाप्रभु (Chaitanya Mahaprabhu - नदिया, बंगाल)",
+          "en": "Chaitanya Mahaprabhu (Nadia, Bengal)"
+        },
+        {
+          "hi": "सूरदास",
+          "en": "Surdas"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हरे कृष्ण महामंत्र का व्यापक संकीर्तन आंदोलन किसने प्रारंभ किया था?",
+        "en": "Who spearheaded the widespread congregational Sankirtana (Hare Krishna) movement?"
+      },
+      "o": [
+        {
+          "hi": "कबीरदास",
+          "en": "Kabir"
+        },
+        {
+          "hi": "तुलसीदास",
+          "en": "Tulsidas"
+        },
+        {
+          "hi": "शंकराचार्य",
+          "en": "Shankaracharya"
+        },
+        {
+          "hi": "चैतन्य महाप्रभु (Chaitanya Mahaprabhu)",
+          "en": "Chaitanya Mahaprabhu"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "असम में 'एकशरण नाम धर्म' (सत्रिया संस्कृति) के महान वैष्णव संत कौन थे?",
+        "en": "Who was the 15th-century saint-reformer who founded Ekasarana Dharma in Assam?"
+      },
+      "o": [
+        {
+          "hi": "श्रीमंत शंकरदेव (Srimanta Sankardeva)",
+          "en": "Srimanta Sankardeva"
+        },
+        {
+          "hi": "माधवदेव",
+          "en": "Madhavadeva"
+        },
+        {
+          "hi": "चैतन्य",
+          "en": "Chaitanya"
+        },
+        {
+          "hi": "ज्ञानेश्वर",
+          "en": "Jnaneshwar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "श्रीमंत शंकरदेव द्वारा विकसित शास्त्रीय नृत्य कौन-सा है जिसे 2000 में मान्यता मिली?",
+        "en": "Classical Indian dance tradition created by Sankardeva in Vaishnava monasteries (Satras)?"
+      },
+      "o": [
+        {
+          "hi": "कथक",
+          "en": "Kathak"
+        },
+        {
+          "hi": "सत्रिया नृत्य (Sattriya Dance of Assam)",
+          "en": "Sattriya Dance of Assam"
+        },
+        {
+          "hi": "ओडिसी",
+          "en": "Odissi"
+        },
+        {
+          "hi": "मणिपुरी",
+          "en": "Manipuri"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "महाराष्ट्र में विट्ठल (विठोबा / विष्णु) की भक्ति करने वाला संप्रदाय क्या कहलाता है?",
+        "en": "Popular devotional movement in Maharashtra centered on Lord Vitthala of Pandharpur?"
+      },
+      "o": [
+        {
+          "hi": "स्मार्त संप्रदाय",
+          "en": "Smartha"
+        },
+        {
+          "hi": "महानुभाव संप्रदाय",
+          "en": "Mahanubhava"
+        },
+        {
+          "hi": "वारकरी संप्रदाय (Varkari Sampradaya - ज्ञानदेव, तुकाराम)",
+          "en": "Varkari Sampradaya"
+        },
+        {
+          "hi": "नाथ संप्रदाय",
+          "en": "Nath Panth"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पंढरपुर (महाराष्ट्र) के विट्ठल मंदिर की मुख्य वार्षिक तीर्थयात्रा क्या कहलाती है?",
+        "en": "Famous annual pilgrimage on foot to Vithoba Temple at Pandharpur is called?"
+      },
+      "o": [
+        {
+          "hi": "कुंभ मेला",
+          "en": "Kumbh Mela"
+        },
+        {
+          "hi": "कांवड़ यात्रा",
+          "en": "Kanwar Yatra"
+        },
+        {
+          "hi": "रथ यात्रा",
+          "en": "Rath Yatra"
+        },
+        {
+          "hi": "वारी (पंढरपुर वारी / Pandharpur Wari)",
+          "en": "Pandharpur Wari"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इस्लाम धर्म के संस्थापक हजरत मोहम्मद साहब का जन्म कब और कहाँ हुआ था?",
+        "en": "When and where was Prophet Muhammad, founder of Islam, born?"
+      },
+      "o": [
+        {
+          "hi": "570 ईस्वी में मक्का (सऊदी अरब / Mecca - 570 AD)",
+          "en": "570 AD in Mecca (Saudi Arabia)"
+        },
+        {
+          "hi": "622 ईस्वी में मदीना",
+          "en": "622 AD in Medina"
+        },
+        {
+          "hi": "632 ईस्वी में यरुशलम",
+          "en": "632 AD in Jerusalem"
+        },
+        {
+          "hi": "610 ईस्वी में रियाद",
+          "en": "610 AD in Riyadh"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हजरत मोहम्मद साहब किस प्रसिद्ध अरबी कबीले से संबंधित थे?",
+        "en": "Prophet Muhammad belonged to which prominent Arabian tribe in Mecca?"
+      },
+      "o": [
+        {
+          "hi": "बद्दू कबीला",
+          "en": "Bedouin"
+        },
+        {
+          "hi": "कुरैश कबीला (Quraish Tribe - हाशमी कुल)",
+          "en": "Quraish Tribe (Hashim clan)"
+        },
+        {
+          "hi": "उमय्यद कबीला",
+          "en": "Umayyad"
+        },
+        {
+          "hi": "अब्बासी कबीला",
+          "en": "Abbasid"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मोहम्मद साहब के पिता और माता का नाम क्रमशः क्या था?",
+        "en": "What were the names of Prophet Muhammad's father and mother respectively?"
+      },
+      "o": [
+        {
+          "hi": "अबू तालिब और खदीजा",
+          "en": "Abu Talib & Khadija"
+        },
+        {
+          "hi": "अली और फातिमा",
+          "en": "Ali & Fatima"
+        },
+        {
+          "hi": "अब्दुल्ला और अमीना (Abdullah & Amina)",
+          "en": "Abdullah and Amina"
+        },
+        {
+          "hi": "उमर और आयशा",
+          "en": "Umar & Aisha"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हजरत मोहम्मद साहब को 610 ईस्वी में 40 वर्ष की आयु में ज्ञान की प्राप्ति कहाँ हुई?",
+        "en": "Where did Prophet Muhammad receive his first divine revelation at age 40 in 610 AD?"
+      },
+      "o": [
+        {
+          "hi": "सफा पहाड़ी पर",
+          "en": "Mount Safa"
+        },
+        {
+          "hi": "मरवा पहाड़ी पर",
+          "en": "Mount Marwah"
+        },
+        {
+          "hi": "तूर पहाड़ पर",
+          "en": "Mount Sinai"
+        },
+        {
+          "hi": "हीरा नामक गुफा में (Cave of Hira, मक्का के पास)",
+          "en": "Cave of Hira (near Mecca)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इस्लाम की पवित्रतम धर्मपुस्तक कौन-सी है जो अल्लाह का संदेश मानी जाती है?",
+        "en": "Which is the central religious holy text of Islam, revealed via Angel Gabriel (Jibreel)?"
+      },
+      "o": [
+        {
+          "hi": "पवित्र कुरान (Holy Quran)",
+          "en": "Holy Quran"
+        },
+        {
+          "hi": "हदीस",
+          "en": "Hadith"
+        },
+        {
+          "hi": "तौरात",
+          "en": "Torah"
+        },
+        {
+          "hi": "इंजील",
+          "en": "Gospel"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मोहम्मद साहब की मक्का से मदीना की पवित्र यात्रा (24 सितंबर 622 ई.) को क्या कहते हैं?",
+        "en": "Prophet Muhammad's migration from Mecca to Medina on 24 Sept 622 AD is called?"
+      },
+      "o": [
+        {
+          "hi": "हज यात्रा",
+          "en": "Hajj"
+        },
+        {
+          "hi": "हिजरत / हिजरी संवत का प्रारंभ (Hijrat / Hijri Era)",
+          "en": "Hijrat (Commencement of Islamic Calendar)"
+        },
+        {
+          "hi": "शब-ए-बारात",
+          "en": "Shab-e-Barat"
+        },
+        {
+          "hi": "जिहाद",
+          "en": "Jihad"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हजरत मोहम्मद साहब की मृत्यु किस वर्ष मदीना में हुई थी जहाँ उनका रोजा मुबारक है?",
+        "en": "In which year did Prophet Muhammad pass away in Medina (aged 62)?"
+      },
+      "o": [
+        {
+          "hi": "622 ईस्वी में",
+          "en": "622 AD"
+        },
+        {
+          "hi": "630 ईस्वी में",
+          "en": "630 AD"
+        },
+        {
+          "hi": "8 जून 632 ईस्वी (8 June 632 AD)",
+          "en": "8 June 632 AD"
+        },
+        {
+          "hi": "640 ईस्वी में",
+          "en": "640 AD"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "इस्लाम धर्म के पाँच अनिवार्य आधारभूत स्तंभ (Five Pillars of Islam) कौन-से हैं?",
+        "en": "Which are the 'Five Pillars' (Arkan al-Islam) obligatory for every Muslim?"
+      },
+      "o": [
+        {
+          "hi": "सत्य, अहिंसा, तप, दान, पूजा",
+          "en": "Generic virtues"
+        },
+        {
+          "hi": "पूजा, ध्यान, कीर्तन, व्रत, तीर्थ",
+          "en": "Hindu practices"
+        },
+        {
+          "hi": "यज्ञ, जप, ध्यान, तप, योग",
+          "en": "Vedic rites"
+        },
+        {
+          "hi": "कलमा, नमाज (5 वक्त), रोजा (रमजान), जकात (दान) और हज",
+          "en": "Shahada, Salah (5 times), Sawm (Ramadan), Zakat, Hajj"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मोहम्मद साहब के बाद उनके उत्तराधिकारी को क्या कहा गया?",
+        "en": "What title was given to the political and religious successors of Prophet Muhammad?"
+      },
+      "o": [
+        {
+          "hi": "खलीफा (Caliph / Caliphate)",
+          "en": "Caliph (Khalifa)"
+        },
+        {
+          "hi": "सुल्तान",
+          "en": "Sultan"
+        },
+        {
+          "hi": "पादशाह",
+          "en": "Padishah"
+        },
+        {
+          "hi": "इमाम",
+          "en": "Imam"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इस्लाम के प्रथम चार धर्मनिष्ठ खलीफाओं (राशिदून खलीफा) का सही क्रम क्या है?",
+        "en": "Correct chronological order of the first four Rightly Guided Caliphs (Rashidun)?"
+      },
+      "o": [
+        {
+          "hi": "उमर, उस्मान, अबू बक्र, अली",
+          "en": "Umar, Uthman, Abu Bakr, Ali"
+        },
+        {
+          "hi": "अबू बक्र, उमर, उस्मान और अली (Abu Bakr, Umar, Uthman & Ali)",
+          "en": "Abu Bakr, Umar, Uthman & Ali"
+        },
+        {
+          "hi": "अली, अबू बक्र, उमर, उस्मान",
+          "en": "Ali, Abu Bakr..."
+        },
+        {
+          "hi": "उस्मान, उमर, अली, अबू बक्र",
+          "en": "Uthman, Umar..."
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

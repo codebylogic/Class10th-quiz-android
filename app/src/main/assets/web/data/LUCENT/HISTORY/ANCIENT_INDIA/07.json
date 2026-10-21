@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - प्राचीन भारत (Ancient India)",
+  "subtitle": "बौद्ध धर्म",
+  "description": "बौद्ध धर्म पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "बौद्ध धर्म के संस्थापक गौतम बुद्ध को क्या कहा जाता है?",
+        "en": "Gautama Buddha, founder of Buddhism, is revered globally as what?"
+      },
+      "o": [
+        {
+          "hi": "एशिया की ज्योति (Light of Asia)",
+          "en": "Light of Asia"
+        },
+        {
+          "hi": "संसार की आत्मा",
+          "en": "Soul of the World"
+        },
+        {
+          "hi": "धर्म का सूर्य",
+          "en": "Sun of Religion"
+        },
+        {
+          "hi": "ज्ञान का सागर",
+          "en": "Ocean of Wisdom"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गौतम बुद्ध का जन्म 563 ईसा पूर्व में कहाँ हुआ था?",
+        "en": "Where was Gautama Buddha born in 563 BC?"
+      },
+      "o": [
+        {
+          "hi": "पावापुरी (नालंदा)",
+          "en": "Pawapuri"
+        },
+        {
+          "hi": "लुम्बिनी (कपिलवस्तु के निकट, नेपाल / Lumbini)",
+          "en": "Lumbini (near Kapilavastu, Nepal)"
+        },
+        {
+          "hi": "सारनाथ (वाराणसी)",
+          "en": "Sarnath"
+        },
+        {
+          "hi": "बोधगया (बिहार)",
+          "en": "Bodh Gaya"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गौतम बुद्ध के बचपन का नाम क्या था?",
+        "en": "What was the childhood name of Gautama Buddha?"
+      },
+      "o": [
+        {
+          "hi": "वर्धमान",
+          "en": "Vardhamana"
+        },
+        {
+          "hi": "राहुल",
+          "en": "Rahul"
+        },
+        {
+          "hi": "सिद्धार्थ (Siddhartha)",
+          "en": "Siddhartha"
+        },
+        {
+          "hi": "तथागत",
+          "en": "Tathagata"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बुद्ध के पिता 'शुद्धोदन' किस गणराज्य के निर्वाचित राजा/शासक थे?",
+        "en": "Buddha's father Shuddhodana was the elected chief of which republic?"
+      },
+      "o": [
+        {
+          "hi": "ज्ञात्रिक कुल",
+          "en": "Jnatrika"
+        },
+        {
+          "hi": "लिच्छवि गणराज्य",
+          "en": "Licchavi"
+        },
+        {
+          "hi": "कोलिय गणराज्य",
+          "en": "Koliya"
+        },
+        {
+          "hi": "शाक्य गणराज्य (Shakya Republic of Kapilavastu)",
+          "en": "Shakya Republic"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बुद्ध की माता 'महामाया' किस वंश/गणराज्य की राजकुमारी थीं जिनकी मृत्यु बुद्ध के जन्म के 7वें दिन हुई?",
+        "en": "Buddha's mother Mahamaya belonged to which clan?"
+      },
+      "o": [
+        {
+          "hi": "कोलिय वंश (Koliya Dynasty)",
+          "en": "Koliya Dynasty"
+        },
+        {
+          "hi": "शाक्य वंश",
+          "en": "Shakya"
+        },
+        {
+          "hi": "लिच्छवि वंश",
+          "en": "Licchavi"
+        },
+        {
+          "hi": "मौर्य वंश",
+          "en": "Maurya"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गौतम बुद्ध का लालन-पालन उनकी किस मौसी/विमाता ने किया जो पहली बौद्ध भिक्षुणी बनीं?",
+        "en": "Who brought up young Siddhartha and later became the first Buddhist nun?"
+      },
+      "o": [
+        {
+          "hi": "यशोधरा",
+          "en": "Yashodhara"
+        },
+        {
+          "hi": "प्रजापति गौतमी (Prajapati Gautami)",
+          "en": "Prajapati Gautami"
+        },
+        {
+          "hi": "आम्रपाली",
+          "en": "Amrapali"
+        },
+        {
+          "hi": "सुजाता",
+          "en": "Sujata"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सिद्धार्थ का विवाह 16 वर्ष की आयु में किससे हुआ तथा उनके पुत्र का नाम क्या था?",
+        "en": "Whom did Siddhartha marry at 16, and what was their son's name?"
+      },
+      "o": [
+        {
+          "hi": "यशोदा और प्रियदर्शिनी",
+          "en": "Yashoda & Priyadarshini"
+        },
+        {
+          "hi": "त्रिशला और वर्धमान",
+          "en": "Trishala & Vardhamana"
+        },
+        {
+          "hi": "यशोधरा और राहुल (Yashodhara & Rahul)",
+          "en": "Yashodhara & Rahul"
+        },
+        {
+          "hi": "महामाया और आनंद",
+          "en": "Mahamaya & Ananda"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सिद्धार्थ द्वारा कपिलवस्तु की सैर पर देखे गए चार दृश्यों का सही क्रम क्या है?",
+        "en": "Correct chronological order of the 4 sights seen by Siddhartha triggering renunciation?"
+      },
+      "o": [
+        {
+          "hi": "संन्यासी, शव, बीमार, बूढ़ा",
+          "en": "Ascetic, Corpse, Sick, Old"
+        },
+        {
+          "hi": "बीमार, बूढ़ा, शव, संन्यासी",
+          "en": "Sick, Old, Corpse, Ascetic"
+        },
+        {
+          "hi": "शव, बूढ़ा व्यक्ति, बीमार, संन्यासी",
+          "en": "Corpse, Old, Sick, Ascetic"
+        },
+        {
+          "hi": "बूढ़ा व्यक्ति, एक बीमार व्यक्ति, एक शव, एक संन्यासी",
+          "en": "An old man, A sick man, A corpse, An ascetic"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सिद्धार्थ ने 29 वर्ष की आयु में सांसारिक दुखों से द्रवित होकर गृह त्याग किया, बौद्ध धर्म में इसे क्या कहते हैं?",
+        "en": "Siddhartha's Great Renunciation at age 29 is termed in Buddhist tradition as?"
+      },
+      "o": [
+        {
+          "hi": "महाभिनिष्क्रमण (Mahabhinishkramana)",
+          "en": "Mahabhinishkramana"
+        },
+        {
+          "hi": "धर्मचक्रप्रवर्तन",
+          "en": "Dharmachakrapravartana"
+        },
+        {
+          "hi": "महापरिनिर्वाण",
+          "en": "Mahaparinirvana"
+        },
+        {
+          "hi": "संबोधि",
+          "en": "Sambodhi"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गृह त्याग के उपरांत सिद्धार्थ ने वैशाली में सांख्य दर्शन की शिक्षा किससे प्राप्त की (प्रथम गुरु)?",
+        "en": "From whom did Siddhartha study Samkhya philosophy at Vaishali (his 1st teacher)?"
+      },
+      "o": [
+        {
+          "hi": "रुद्रक रामपुत्र",
+          "en": "Rudraka Ramaputra"
+        },
+        {
+          "hi": "आलार कालाम (Alara Kalama)",
+          "en": "Alara Kalama"
+        },
+        {
+          "hi": "आनंद",
+          "en": "Ananda"
+        },
+        {
+          "hi": "उरुवेला कश्यप",
+          "en": "Uruvela Kassapa"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आलार कालाम के बाद सिद्धार्थ ने राजगृह में अपने दूसरे गुरु के रूप में किससे शिक्षा ली?",
+        "en": "From whom did Siddhartha receive spiritual guidance at Rajagriha after Alara Kalama?"
+      },
+      "o": [
+        {
+          "hi": "उरुवेला",
+          "en": "Uruvela"
+        },
+        {
+          "hi": "सारिपुत्र",
+          "en": "Sariputta"
+        },
+        {
+          "hi": "रुद्रक रामपुत्र (Udraka Ramaputta)",
+          "en": "Rudraka Ramaputra"
+        },
+        {
+          "hi": "महाकश्यप",
+          "en": "Mahakassapa"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सिद्धार्थ को कितने वर्ष की कठोर तपस्या के बाद 35 वर्ष की आयु में ज्ञान (बोधि) प्राप्त हुआ?",
+        "en": "After how many years of intense meditation did Siddhartha attain Enlightenment at 35?"
+      },
+      "o": [
+        {
+          "hi": "12 वर्ष",
+          "en": "12 years"
+        },
+        {
+          "hi": "10 वर्ष",
+          "en": "10 years"
+        },
+        {
+          "hi": "8 वर्ष",
+          "en": "8 years"
+        },
+        {
+          "hi": "6 वर्ष (6 Years of Penance)",
+          "en": "6 Years"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बुद्ध को किस नदी के तट पर और किस वृक्ष के नीचे ज्ञान (संबोधि) प्राप्त हुआ था?",
+        "en": "Under which tree and along which river did Buddha attain Enlightenment?"
+      },
+      "o": [
+        {
+          "hi": "निरंजना नदी (फल्गु) - पीपल वृक्ष (बोधि वृक्ष) / Bodhi Tree",
+          "en": "Niranjana (Falgu) River - Peepal (Bodhi Tree)"
+        },
+        {
+          "hi": "ऋजुपालिका नदी - शाल वृक्ष",
+          "en": "Rijupalika - Sal tree"
+        },
+        {
+          "hi": "गंगा नदी - बरगद वृक्ष",
+          "en": "Ganga - Banyan tree"
+        },
+        {
+          "hi": "यमुना नदी - अशोक वृक्ष",
+          "en": "Yamuna - Ashoka tree"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ज्ञान प्राप्ति के बाद सिद्धार्थ क्या कहलाए तथा वह स्थान किस नाम से प्रसिद्ध हुआ?",
+        "en": "After Enlightenment, Siddhartha became known as Buddha and the place as?"
+      },
+      "o": [
+        {
+          "hi": "महावीर और पावापुरी",
+          "en": "Mahavira & Pawapuri"
+        },
+        {
+          "hi": "बुद्ध और बोधगया (बिहार / Buddha & Bodh Gaya)",
+          "en": "Buddha and Bodh Gaya (Bihar)"
+        },
+        {
+          "hi": "ऋषि और सारनाथ",
+          "en": "Rishi & Sarnath"
+        },
+        {
+          "hi": "तीर्थंकर और वैशाली",
+          "en": "Tirthankara & Vaishali"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बुद्ध ने अपना प्रथम उपदेश सारनाथ (ऋषिपत्तनम) में पाँच संन्यासियों को दिया, इसे क्या कहा जाता है?",
+        "en": "Buddha's first sermon at Sarnath to 5 ascetics is celebrated in Buddhism as?"
+      },
+      "o": [
+        {
+          "hi": "महाभिनिष्क्रमण",
+          "en": "Mahabhinishkramana"
+        },
+        {
+          "hi": "महापरिनिर्वाण",
+          "en": "Mahaparinirvana"
+        },
+        {
+          "hi": "धर्मचक्रप्रवर्तन (Dharmachakrapravartana)",
+          "en": "Dharmachakrapravartana"
+        },
+        {
+          "hi": "उपसंपदा",
+          "en": "Upasampada"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बुद्ध ने अपने उपदेश जनसाधारण को किस सरल भाषा में दिए?",
+        "en": "In which colloquial language did Buddha deliver his discourses to the masses?"
+      },
+      "o": [
+        {
+          "hi": "संस्कृत",
+          "en": "Sanskrit"
+        },
+        {
+          "hi": "प्राकृत",
+          "en": "Prakrit"
+        },
+        {
+          "hi": "अर्धमागधी",
+          "en": "Ardhamagadhi"
+        },
+        {
+          "hi": "पालि भाषा (Pali Language)",
+          "en": "Pali Language"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बुद्ध ने सर्वाधिक उपदेश किस महाजनपद की राजधानी 'श्रावस्ती' में दिए?",
+        "en": "Buddha delivered the maximum number of sermons in Shravasti, capital of which state?"
+      },
+      "o": [
+        {
+          "hi": "कोशल राज्य (Kosala State)",
+          "en": "Kosala State"
+        },
+        {
+          "hi": "मगध",
+          "en": "Magadha"
+        },
+        {
+          "hi": "वत्स",
+          "en": "Vatsa"
+        },
+        {
+          "hi": "अंग",
+          "en": "Anga"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बौद्ध धर्म के 'चार आर्य सत्य' (Four Noble Truths) कौन-से हैं?",
+        "en": "Which are the 'Four Noble Truths' taught by the Buddha?"
+      },
+      "o": [
+        {
+          "hi": "सत्य, अहिंसा, अस्तेय, अपरिग्रह",
+          "en": "Jain vows"
+        },
+        {
+          "hi": "दुःख, दुःख समुदाय, दुःख निरोध, दुःख निरोध गामिनी प्रतिपदा",
+          "en": "Dukkha, Samudaya, Nirodha, Magga"
+        },
+        {
+          "hi": "सम्यक दर्शन, ज्ञान, चरित्र, तप",
+          "en": "Triratna"
+        },
+        {
+          "hi": "काम, क्रोध, मद, लोभ",
+          "en": "Passions"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दुःखों के अंत एवं निर्वाण प्राप्ति हेतु बुद्ध ने किस अष्टांगिक मार्ग (Eightfold Path) का उपदेश दिया?",
+        "en": "Noble Eightfold Path prescribed by Buddha to extinguish suffering is called?"
+      },
+      "o": [
+        {
+          "hi": "कठोर तपस्या मार्ग",
+          "en": "Extreme penance"
+        },
+        {
+          "hi": "घोर विलासिता",
+          "en": "Extreme hedonism"
+        },
+        {
+          "hi": "मध्यम प्रतिपदा / मध्यम मार्ग (The Middle Path)",
+          "en": "The Middle Path (Madhyama Pratipada)"
+        },
+        {
+          "hi": "केवल भक्ति मार्ग",
+          "en": "Bhakti only"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बुद्ध के अनुसार सभी दुःखों का मूल कारण क्या है?",
+        "en": "According to the Buddha, what is the ultimate root cause of all human suffering?"
+      },
+      "o": [
+        {
+          "hi": "अज्ञानता",
+          "en": "Ignorance"
+        },
+        {
+          "hi": "क्रोध",
+          "en": "Anger"
+        },
+        {
+          "hi": "माया",
+          "en": "Maya"
+        },
+        {
+          "hi": "तृष्णा (इच्छा / Desire / Trishna)",
+          "en": "Desire / Craving (Trishna)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बौद्ध धर्म के 'त्रिरत्न' (Three Jewels) कौन-से हैं?",
+        "en": "Which are the 'Three Jewels' (Triratna) of Buddhism?"
+      },
+      "o": [
+        {
+          "hi": "बुद्ध, धम्म और संघ (Buddha, Dhamma, Sangha)",
+          "en": "Buddha, Dhamma, Sangha"
+        },
+        {
+          "hi": "सत्य, अहिंसा, शांति",
+          "en": "Truth, Non-violence, Peace"
+        },
+        {
+          "hi": "सम्यक दर्शन, ज्ञान, चरित्र",
+          "en": "Jain Triratna"
+        },
+        {
+          "hi": "शील, समाधि, प्रज्ञा",
+          "en": "Precepts"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बौद्ध संघ में प्रवेश लेने की न्यूनतम आयु क्या निर्धारित थी तथा इस संस्कार को क्या कहते थे?",
+        "en": "What was the minimum age to enter the Buddhist Sangha, and what was the ordination called?"
+      },
+      "o": [
+        {
+          "hi": "12 वर्ष, दीक्षा",
+          "en": "12 yrs, Diksha"
+        },
+        {
+          "hi": "15 वर्ष, उपसंपदा संस्कार (Upasampada - 15 yrs)",
+          "en": "15 years, Upasampada"
+        },
+        {
+          "hi": "18 वर्ष, प्रव्रज्या",
+          "en": "18 yrs, Pravrajya"
+        },
+        {
+          "hi": "21 वर्ष, संन्यास",
+          "en": "21 yrs, Sannyasa"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बौद्ध धर्म में सांसारिक दुखों से मुक्ति और जीवन-मरण के चक्र से छूटने को क्या कहा गया है?",
+        "en": "In Buddhism, the ultimate spiritual goal of extinguishing desires is called?"
+      },
+      "o": [
+        {
+          "hi": "कैवल्य",
+          "en": "Kevalya"
+        },
+        {
+          "hi": "मोक्ष",
+          "en": "Moksha"
+        },
+        {
+          "hi": "निर्वाण (Nirvana - दीपक का बुझ जाना)",
+          "en": "Nirvana (Extinction of lamp)"
+        },
+        {
+          "hi": "अपवर्ग",
+          "en": "Apavarga"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बुद्ध को 80 वर्ष की आयु में 483 ई.पू. में 'महापरिनिर्वाण' (मृत्यु) कहाँ प्राप्त हुआ?",
+        "en": "Where did Gautama Buddha attain Mahaparinirvana at age 80 in 483 BC?"
+      },
+      "o": [
+        {
+          "hi": "लुम्बिनी",
+          "en": "Lumbini"
+        },
+        {
+          "hi": "बोधगया",
+          "en": "Bodh Gaya"
+        },
+        {
+          "hi": "सारनाथ",
+          "en": "Sarnath"
+        },
+        {
+          "hi": "कुशीनगर / कुशीनारा (देवरिया, UP / Kushinagar)",
+          "en": "Kushinagar (UP)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बुद्ध के महापरिनिर्वाण के बाद उनके पवित्र अस्थि अवशेषों को कितने भागों में बांटकर स्तूप बनाए गए?",
+        "en": "Buddha's cremated relics were divided into how many portions to build stupas?"
+      },
+      "o": [
+        {
+          "hi": "8 भागों में (8 Parts / आठ स्तूप)",
+          "en": "8 Parts (Eight Stupas)"
+        },
+        {
+          "hi": "4 भागों में",
+          "en": "4 parts"
+        },
+        {
+          "hi": "10 भागों में",
+          "en": "10 parts"
+        },
+        {
+          "hi": "12 भागों में",
+          "en": "12 parts"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रथम बौद्ध संगीति (First Buddhist Council) 483 ईसा पूर्व में किसके शासनकाल में हुई?",
+        "en": "Under whose patronage was the First Buddhist Council convened in 483 BC?"
+      },
+      "o": [
+        {
+          "hi": "कालाशोक",
+          "en": "Kalashoka"
+        },
+        {
+          "hi": "अजातशत्रु (हर्यक वंश / Ajatashatru)",
+          "en": "Ajatashatru (Haryanka)"
+        },
+        {
+          "hi": "अशोक",
+          "en": "Ashoka"
+        },
+        {
+          "hi": "कनिष्क",
+          "en": "Kanishka"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रथम बौद्ध संगीति कहाँ आयोजित हुई थी तथा इसके अध्यक्ष कौन थे?",
+        "en": "Where was the 1st Buddhist Council held and who presided over it?"
+      },
+      "o": [
+        {
+          "hi": "वैशाली - साबाकामी",
+          "en": "Vaishali - Sabakami"
+        },
+        {
+          "hi": "पाटलिपुत्र - मोग्गलिपुत्त तिस्स",
+          "en": "Pataliputra - Tissa"
+        },
+        {
+          "hi": "राजगृह (सप्तपर्णी गुफा) - महाकश्यप (Mahakassapa)",
+          "en": "Rajagriha (Saptaparni Cave) - Mahakassapa"
+        },
+        {
+          "hi": "कुंडलवन - वसुमित्र",
+          "en": "Kundalvana - Vasumitra"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रथम बौद्ध संगीति में बुद्ध के उपदेशों को किन दो पिटकों में संकलित किया गया?",
+        "en": "In the 1st Buddhist Council, Buddha's teachings were compiled into which 2 Pitakas?"
+      },
+      "o": [
+        {
+          "hi": "अभिधम्म और महावंश",
+          "en": "Abhidhamma & Mahavamsa"
+        },
+        {
+          "hi": "दीपवंश और मिलिंदपन्हो",
+          "en": "Dipavamsa & Milinda"
+        },
+        {
+          "hi": "जातक और कल्पसूत्र",
+          "en": "Jataka & Kalpa"
+        },
+        {
+          "hi": "सूत पिटक (आनंद द्वारा) और विनय पिटक (उपालि द्वारा)",
+          "en": "Sutta Pitaka (by Ananda) & Vinaya Pitaka (by Upali)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "द्वितीय बौद्ध संगीति 383 ई.पू. में किसके शासनकाल में वैशाली में आयोजित हुई?",
+        "en": "Second Buddhist Council (383 BC) in Vaishali was held under which king?"
+      },
+      "o": [
+        {
+          "hi": "कालाशोक / काकवर्ण (शिशुनाग वंश / Kalashoka)",
+          "en": "Kalashoka (Shishunaga Dynasty)"
+        },
+        {
+          "hi": "अजातशत्रु",
+          "en": "Ajatashatru"
+        },
+        {
+          "hi": "अशोक",
+          "en": "Ashoka"
+        },
+        {
+          "hi": "कनिष्क",
+          "en": "Kanishka"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "द्वितीय बौद्ध संगीति की अध्यक्षता किसने की थी?",
+        "en": "Who presided over the Second Buddhist Council held at Vaishali?"
+      },
+      "o": [
+        {
+          "hi": "महाकश्यप",
+          "en": "Mahakassapa"
+        },
+        {
+          "hi": "साबाकामी / सर्वकामनी (Sabakami)",
+          "en": "Sabakami"
+        },
+        {
+          "hi": "मोग्गलिपुत्त तिस्स",
+          "en": "Moggaliputta Tissa"
+        },
+        {
+          "hi": "वसुमित्र",
+          "en": "Vasumitra"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तृतीय बौद्ध संगीति 250 ई.पू. में पाटलिपुत्र में किसके शासनकाल में हुई?",
+        "en": "Third Buddhist Council (~250 BC) at Pataliputra was held under which emperor?"
+      },
+      "o": [
+        {
+          "hi": "कनिष्क",
+          "en": "Kanishka"
+        },
+        {
+          "hi": "अजातशत्रु",
+          "en": "Ajatashatru"
+        },
+        {
+          "hi": "सम्राट अशोक (मौर्य वंश / Emperor Ashoka)",
+          "en": "Emperor Ashoka"
+        },
+        {
+          "hi": "हर्षवर्धन",
+          "en": "Harshavardhana"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तृतीय बौद्ध संगीति की अध्यक्षता किसने की जिसमें तीसरा पिटक 'अभिधम्म पिटक' जोड़ा गया?",
+        "en": "Who presided over the 3rd Buddhist Council where Abhidhamma Pitaka was added?"
+      },
+      "o": [
+        {
+          "hi": "वसुमित्र",
+          "en": "Vasumitra"
+        },
+        {
+          "hi": "अश्वघोष",
+          "en": "Ashvaghosha"
+        },
+        {
+          "hi": "साबाकामी",
+          "en": "Sabakami"
+        },
+        {
+          "hi": "मोग्गलिपुत्त तिस्स (Moggaliputta Tissa)",
+          "en": "Moggaliputta Tissa"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चतुर्थ बौद्ध संगीति ईसा की प्रथम शताब्दी में कश्मीर के कुंडलवन में किसके समय हुई?",
+        "en": "Fourth Buddhist Council (1st century AD) at Kundalvana, Kashmir was held under?"
+      },
+      "o": [
+        {
+          "hi": "महाराजा कनिष्क (कुषाण वंश / Kanishka)",
+          "en": "Kanishka (Kushana Dynasty)"
+        },
+        {
+          "hi": "अशोक",
+          "en": "Ashoka"
+        },
+        {
+          "hi": "हर्षवर्धन",
+          "en": "Harshavardhana"
+        },
+        {
+          "hi": "मिनांडर",
+          "en": "Menander"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चतुर्थ बौद्ध संगीति के अध्यक्ष एवं उपाध्यक्ष क्रमशः कौन थे?",
+        "en": "Who were the President and Vice-President of the 4th Buddhist Council respectively?"
+      },
+      "o": [
+        {
+          "hi": "नागार्जुन और चरक",
+          "en": "Nagarjuna & Charaka"
+        },
+        {
+          "hi": "वसुमित्र (अध्यक्ष) और अश्वघोष (उपाध्यक्ष)",
+          "en": "Vasumitra (President) & Ashvaghosha (Vice-President)"
+        },
+        {
+          "hi": "मोग्गलिपुत्त तिस्स और उपगुप्त",
+          "en": "Tissa & Upagupta"
+        },
+        {
+          "hi": "शीलभद्र और धर्मपाल",
+          "en": "Shilabhadra & Dharmapala"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चतुर्थ बौद्ध संगीति के बाद बौद्ध धर्म किन दो स्पष्ट संप्रदायों में विभाजित हो गया?",
+        "en": "Following the 4th Council in Kashmir, Buddhism split into which two distinct sects?"
+      },
+      "o": [
+        {
+          "hi": "श्वेतांबर और दिगंबर",
+          "en": "Shvetambara & Digambara"
+        },
+        {
+          "hi": "शिया और सुन्नी",
+          "en": "Shia & Sunni"
+        },
+        {
+          "hi": "हीनयान और महायान (Hinayana & Mahayana)",
+          "en": "Hinayana & Mahayana"
+        },
+        {
+          "hi": "शैव और वैष्णव",
+          "en": "Shaiva & Vaishnava"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हीनयान और महायान में मुख्य अंतर क्या था?",
+        "en": "What was the fundamental doctrinal difference between Hinayana and Mahayana?"
+      },
+      "o": [
+        {
+          "hi": "हीनयान मांस खाता था",
+          "en": "Dietary"
+        },
+        {
+          "hi": "महायान केवल पालि मानता था",
+          "en": "Language"
+        },
+        {
+          "hi": "कोई अंतर नहीं था",
+          "en": "No difference"
+        },
+        {
+          "hi": "महायान ने बुद्ध को ईश्वर मानकर मूर्ति पूजा शुरू की, हीनयान ने महापुरुष माना",
+          "en": "Mahayana worshipped Buddha as God (Idols); Hinayana as human teacher"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में पूजी जाने वाली पहली मानव प्रतिमा संभवतः किसकी थी?",
+        "en": "The first human idol sculptured and worshipped in India was probably of?"
+      },
+      "o": [
+        {
+          "hi": "भगवान बुद्ध की (Lord Buddha)",
+          "en": "Lord Buddha"
+        },
+        {
+          "hi": "भगवान महावीर की",
+          "en": "Lord Mahavira"
+        },
+        {
+          "hi": "भगवान शिव की",
+          "en": "Lord Shiva"
+        },
+        {
+          "hi": "भगवान विष्णु की",
+          "en": "Lord Vishnu"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बुद्ध की मूर्तियों का निर्माण मुख्य रूप से किन दो कला शैलियों में हुआ?",
+        "en": "Buddha's statues were primarily sculpted in which two classical schools of art?"
+      },
+      "o": [
+        {
+          "hi": "मथुरा और द्रविड़ शैली",
+          "en": "Mathura & Dravidian"
+        },
+        {
+          "hi": "गांधार कला शैली और मथुरा कला शैली (Gandhara & Mathura)",
+          "en": "Gandhara & Mathura Art Schools"
+        },
+        {
+          "hi": "अमरावती और नागर शैली",
+          "en": "Amravati & Nagara"
+        },
+        {
+          "hi": "वेसर और कलिंग शैली",
+          "en": "Vesara & Kalinga"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अशोक ने बौद्ध धर्म के प्रचार हेतु अपने पुत्र महेंद्र और पुत्री संघमित्रा को कहाँ भेजा था?",
+        "en": "Where did Emperor Ashoka send his son Mahendra & daughter Sanghamitra to propagate Dhamma?"
+      },
+      "o": [
+        {
+          "hi": "चीन",
+          "en": "China"
+        },
+        {
+          "hi": "जापान",
+          "en": "Japan"
+        },
+        {
+          "hi": "श्रीलंका / सीलोन (Sri Lanka / Ceylon)",
+          "en": "Sri Lanka (Ceylon)"
+        },
+        {
+          "hi": "बर्मा",
+          "en": "Burma"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बौद्ध धर्म की 'वज्रयान शाखा' में किसका अत्यधिक प्रभाव था?",
+        "en": "Vajrayana (Tantric Buddhism) which flourished in Bengal/Bihar was marked by?"
+      },
+      "o": [
+        {
+          "hi": "कठोर संन्यास केवल",
+          "en": "Asceticism only"
+        },
+        {
+          "hi": "मूर्तियां न बनाना",
+          "en": "No idols"
+        },
+        {
+          "hi": "जैन सिद्धांतों का समावेश",
+          "en": "Jain vows"
+        },
+        {
+          "hi": "जादू-टोना, तंत्र-मंत्र और तारा देवी की उपासना",
+          "en": "Tantric rituals, occult spells & Tara worship"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बुद्ध के गृहत्याग का प्रतीक चिह्न क्या है?",
+        "en": "What is the traditional Buddhist symbol of the Great Renunciation (Mahabhinishkramana)?"
+      },
+      "o": [
+        {
+          "hi": "घोड़ा (Horse - कंथक)",
+          "en": "Horse (Kanthaka)"
+        },
+        {
+          "hi": "कमल एवं सांड",
+          "en": "Lotus & Bull"
+        },
+        {
+          "hi": "बोधि वृक्ष",
+          "en": "Bodhi Tree"
+        },
+        {
+          "hi": "धर्म चक्र",
+          "en": "Dharma Wheel"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बुद्ध के जन्म का पारंपरिक प्रतीक चिह्न क्या है?",
+        "en": "What is the traditional symbol associated with the Birth of Gautama Buddha?"
+      },
+      "o": [
+        {
+          "hi": "घोड़ा",
+          "en": "Horse"
+        },
+        {
+          "hi": "कमल एवं सांड (Lotus and Bull)",
+          "en": "Lotus and Bull"
+        },
+        {
+          "hi": "पदचिह्न",
+          "en": "Footprints"
+        },
+        {
+          "hi": "स्तूप",
+          "en": "Stupa"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बुद्ध के ज्ञान (संबोधि) और प्रथम उपदेश के प्रतीक चिह्न क्रमशः क्या हैं?",
+        "en": "What are the symbols for Buddha's Enlightenment and First Sermon respectively?"
+      },
+      "o": [
+        {
+          "hi": "घोड़ा और पदचिह्न",
+          "en": "Horse & Footprints"
+        },
+        {
+          "hi": "कमल और स्तूप",
+          "en": "Lotus & Stupa"
+        },
+        {
+          "hi": "बोधि वृक्ष (पीपल) और धर्मचक्र (Wheel of Law)",
+          "en": "Bodhi Tree & Wheel of Law (Chakra)"
+        },
+        {
+          "hi": "सांड और शेर",
+          "en": "Bull & Lion"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बुद्ध के महापरिनिर्वाण (मृत्यु) का प्रतीक चिह्न क्या है?",
+        "en": "What is the architectural and artistic symbol of Buddha's Mahaparinirvana?"
+      },
+      "o": [
+        {
+          "hi": "कमल",
+          "en": "Lotus"
+        },
+        {
+          "hi": "घोड़ा",
+          "en": "Horse"
+        },
+        {
+          "hi": "चक्र",
+          "en": "Wheel"
+        },
+        {
+          "hi": "स्तूप (Stupa)",
+          "en": "Stupa"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्वविख्यात नालंदा विश्वविद्यालय की स्थापना किस गुप्त सम्राट ने 5वीं सदी में की थी?",
+        "en": "Nalanda Mahavihara, the world-famous Buddhist university, was founded by?"
+      },
+      "o": [
+        {
+          "hi": "कुमारगुप्त प्रथम (महेन्द्रादित्य / Kumaragupta I)",
+          "en": "Kumaragupta I"
+        },
+        {
+          "hi": "चंद्रगुप्त द्वितीय",
+          "en": "Chandragupta II"
+        },
+        {
+          "hi": "समुद्रगुप्त",
+          "en": "Samudragupta"
+        },
+        {
+          "hi": "स्कंदगुप्त",
+          "en": "Skandagupta"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विक्रमशिला विश्वविद्यालय की स्थापना किस पाल वंशीय बौद्ध शासक ने की थी?",
+        "en": "Vikramashila University in Bhagalpur was established by which Pala Buddhist king?"
+      },
+      "o": [
+        {
+          "hi": "गोपाल",
+          "en": "Gopala"
+        },
+        {
+          "hi": "धर्मपाल (Dharmapala)",
+          "en": "Dharmapala"
+        },
+        {
+          "hi": "देवपाल",
+          "en": "Devapala"
+        },
+        {
+          "hi": "महीपाल",
+          "en": "Mahipala"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नालंदा और विक्रमशिला विश्वविद्यालयों को 1202 ईस्वी में किसने जलाकर नष्ट कर दिया?",
+        "en": "Who plundered and burned down Nalanda and Vikramashila universities around 1202 AD?"
+      },
+      "o": [
+        {
+          "hi": "महमूद गजनवी",
+          "en": "Mahmud Ghaznavi"
+        },
+        {
+          "hi": "मोहम्मद गोरी",
+          "en": "Muhammad Ghori"
+        },
+        {
+          "hi": "बख्तियार खिलजी (Bakhtiyar Khalji)",
+          "en": "Bakhtiyar Khalji"
+        },
+        {
+          "hi": "चंगेज खान",
+          "en": "Genghis Khan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बौद्ध भिक्षुओं के रहने के स्थान को क्या कहते हैं और पूजा स्थल को क्या कहते हैं?",
+        "en": "What are Buddhist monastic residences and prayer shrines called respectively?"
+      },
+      "o": [
+        {
+          "hi": "स्तूप और समाधि",
+          "en": "Stupa & Samadhi"
+        },
+        {
+          "hi": "देवाल और मंदिर",
+          "en": "Deval & Mandir"
+        },
+        {
+          "hi": "संगम और मठ",
+          "en": "Sangam & Math"
+        },
+        {
+          "hi": "विहार (निवास) और चैत्य (प्रार्थना गृह / Vihara & Chaitya)",
+          "en": "Vihara (Residence) & Chaitya (Prayer Hall)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "महाराष्ट्र की अजंता और एलोरा की गुफाओं में किन धर्मों का संगम देखने को मिलता है?",
+        "en": "Ajanta and Ellora caves in Maharashtra feature rock-cut art of which religions?"
+      },
+      "o": [
+        {
+          "hi": "बौद्ध, जैन और हिन्दू धर्म (Buddhism, Jainism & Hinduism)",
+          "en": "Buddhism, Jainism & Hinduism"
+        },
+        {
+          "hi": "केवल बौद्ध धर्म",
+          "en": "Buddhism only"
+        },
+        {
+          "hi": "केवल हिन्दू धर्म",
+          "en": "Hinduism only"
+        },
+        {
+          "hi": "केवल जैन धर्म",
+          "en": "Jainism only"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बौद्ध धर्म आत्मा (Soul) को मानता है या अनात्मवादी है?",
+        "en": "Does Buddhism believe in an eternal permanent soul or is it Anatmavada?"
+      },
+      "o": [
+        {
+          "hi": "आत्मा को शाश्वत मानता है",
+          "en": "Believes in eternal soul"
+        },
+        {
+          "hi": "अनात्मवादी है (आत्मा की सत्ता को नहीं मानता / Anatmavada)",
+          "en": "Anatmavada (No permanent soul)"
+        },
+        {
+          "hi": "केवल पुनर्जन्म नकारता है",
+          "en": "Rejects rebirth"
+        },
+        {
+          "hi": "वेदों को सर्वोच्च मानता है",
+          "en": "Accepts Vedas"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

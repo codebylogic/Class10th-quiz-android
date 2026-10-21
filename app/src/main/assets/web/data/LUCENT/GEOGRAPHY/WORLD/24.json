@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विश्व का भूगोल (World Geography)",
+  "subtitle": "विश्व की प्रमुख झीलें",
+  "description": "विश्व की प्रमुख झीलें पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "क्षेत्रफल और आयतन की दृष्टि से विश्व की सबसे बड़ी झील कौन-सी है?",
+        "en": "Which is the largest lake in the world by both surface area and volume?"
+      },
+      "o": [
+        {
+          "hi": "कैस्पियन सागर (Caspian Sea - 3,71,000 वर्ग किमी)",
+          "en": "Caspian Sea (371,000 sq km)"
+        },
+        {
+          "hi": "सुपीरियर झील",
+          "en": "Lake Superior"
+        },
+        {
+          "hi": "विक्टोरिया झील",
+          "en": "Lake Victoria"
+        },
+        {
+          "hi": "बैकाल झील",
+          "en": "Lake Baikal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कैस्पियन सागर किस प्रकार की झील का उदाहरण है?",
+        "en": "Caspian Sea is an example of which type of lake?"
+      },
+      "o": [
+        {
+          "hi": "मीठे पानी की झील",
+          "en": "Freshwater Lake"
+        },
+        {
+          "hi": "खारे पानी की अंतर्देशीय झील (Saline Inland Lake)",
+          "en": "Saline Inland Lake"
+        },
+        {
+          "hi": "क्रेटर झील",
+          "en": "Crater Lake"
+        },
+        {
+          "hi": "हिमनद झील",
+          "en": "Glacial Lake"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कैस्पियन सागर की सीमा कितने देशों से लगती है?",
+        "en": "Caspian Sea is bordered by how many sovereign countries?"
+      },
+      "o": [
+        {
+          "hi": "3 देश",
+          "en": "3 Countries"
+        },
+        {
+          "hi": "4 देश",
+          "en": "4 Countries"
+        },
+        {
+          "hi": "5 देश (रूस, कजाकिस्तान, तुर्कमेनिस्तान, अजरबैजान, ईरान)",
+          "en": "5 Countries (TARIK)"
+        },
+        {
+          "hi": "6 देश",
+          "en": "6 Countries"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व में ताजे/मीठे पानी की सबसे बड़ी झील (क्षेत्रफल में) कौन-सी है?",
+        "en": "Which is the largest freshwater lake in the world by surface area?"
+      },
+      "o": [
+        {
+          "hi": "बैकाल झील",
+          "en": "Lake Baikal"
+        },
+        {
+          "hi": "विक्टोरिया झील",
+          "en": "Lake Victoria"
+        },
+        {
+          "hi": "ह्यूरॉन झील",
+          "en": "Lake Huron"
+        },
+        {
+          "hi": "सुपीरियर झील (Lake Superior - 82,100 वर्ग किमी)",
+          "en": "Lake Superior"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सुपीरियर झील किन दो देशों की सीमा पर स्थित है?",
+        "en": "Lake Superior lies on the international border of which two countries?"
+      },
+      "o": [
+        {
+          "hi": "संयुक्त राज्य अमेरिका और कनाडा (USA & Canada)",
+          "en": "USA & Canada"
+        },
+        {
+          "hi": "अमेरिका और मेक्सिको",
+          "en": "USA & Mexico"
+        },
+        {
+          "hi": "ब्राजील और अर्जेंटीना",
+          "en": "Brazil & Argentina"
+        },
+        {
+          "hi": "रूस और मंगोलिया",
+          "en": "Russia & Mongolia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे गहरी झील (Deepest Lake - 1,642 मीटर) कौन-सी है?",
+        "en": "Which is the deepest lake in the world (1,642 meters)?"
+      },
+      "o": [
+        {
+          "hi": "तांगानिका झील",
+          "en": "Lake Tanganyika"
+        },
+        {
+          "hi": "बैकाल झील (Lake Baikal - साइबेरिया, रूस)",
+          "en": "Lake Baikal (Siberia, Russia)"
+        },
+        {
+          "hi": "मृत सागर",
+          "en": "Dead Sea"
+        },
+        {
+          "hi": "कैस्पियन सागर",
+          "en": "Caspian Sea"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व में ताजे पानी की सर्वाधिक मात्रा (आयतन / 20%) किस झील में संचित है?",
+        "en": "Which lake holds the largest volume of unfrozen surface freshwater (~20% global)?"
+      },
+      "o": [
+        {
+          "hi": "सुपीरियर झील",
+          "en": "Lake Superior"
+        },
+        {
+          "hi": "विक्टोरिया झील",
+          "en": "Lake Victoria"
+        },
+        {
+          "hi": "बैकाल झील (Lake Baikal)",
+          "en": "Lake Baikal"
+        },
+        {
+          "hi": "ह्यूरॉन झील",
+          "en": "Lake Huron"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे प्राचीन (लगभग 2.5 करोड़ वर्ष पुरानी) झील कौन-सी है?",
+        "en": "Which is the oldest known lake in the world (~25 million years old)?"
+      },
+      "o": [
+        {
+          "hi": "टिटिकाका झील",
+          "en": "Lake Titicaca"
+        },
+        {
+          "hi": "कैस्पियन सागर",
+          "en": "Caspian Sea"
+        },
+        {
+          "hi": "विक्टोरिया झील",
+          "en": "Lake Victoria"
+        },
+        {
+          "hi": "बैकाल झील (Lake Baikal)",
+          "en": "Lake Baikal"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अफ्रीका महाद्वीप की सबसे बड़ी झील कौन-सी है?",
+        "en": "Which is the largest lake in the continent of Africa by surface area?"
+      },
+      "o": [
+        {
+          "hi": "विक्टोरिया झील (Lake Victoria - 68,800 वर्ग किमी)",
+          "en": "Lake Victoria"
+        },
+        {
+          "hi": "तांगानिका झील",
+          "en": "Lake Tanganyika"
+        },
+        {
+          "hi": "मलावी (न्यासा) झील",
+          "en": "Lake Malawi"
+        },
+        {
+          "hi": "चाड झील",
+          "en": "Lake Chad"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विक्टोरिया झील से कौन-सी विश्वप्रसिद्ध नदी निकलती है?",
+        "en": "Which world-famous river originates from Lake Victoria?"
+      },
+      "o": [
+        {
+          "hi": "कांगो नदी",
+          "en": "Congo River"
+        },
+        {
+          "hi": "नील नदी (श्वेत नील / White Nile)",
+          "en": "Nile River (White Nile)"
+        },
+        {
+          "hi": "नाइजर नदी",
+          "en": "Niger River"
+        },
+        {
+          "hi": "जांबेजी नदी",
+          "en": "Zambezi River"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विक्टोरिया झील किन तीन अफ्रीकी देशों की सीमा बनाती है?",
+        "en": "Lake Victoria is shared by which three East African countries?"
+      },
+      "o": [
+        {
+          "hi": "मिस्र, सूडान और इथियोपिया",
+          "en": "Egypt, Sudan & Ethiopia"
+        },
+        {
+          "hi": "कांगो, अंगोला और जाम्बिया",
+          "en": "Congo, Angola & Zambia"
+        },
+        {
+          "hi": "युगांडा, केन्या और तंजानिया (Uganda, Kenya & Tanzania)",
+          "en": "Uganda, Kenya & Tanzania"
+        },
+        {
+          "hi": "जिम्बाब्वे, मोजाम्बिक और मलावी",
+          "en": "Zimbabwe, Moz & Malawi"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कौन-सी प्रमुख काल्पनिक रेखा विक्टोरिया झील के ठीक मध्य से गुजरती है?",
+        "en": "Which major imaginary latitudinal line passes directly through Lake Victoria?"
+      },
+      "o": [
+        {
+          "hi": "कर्क रेखा",
+          "en": "Tropic of Cancer"
+        },
+        {
+          "hi": "मकर रेखा",
+          "en": "Tropic of Capricorn"
+        },
+        {
+          "hi": "ग्रीनविच रेखा",
+          "en": "Prime Meridian"
+        },
+        {
+          "hi": "विषुवत रेखा (भूमध्य रेखा / 0° Equator)",
+          "en": "Equator (0°)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विश्व की दूसरी सबसे गहरी और सबसे लंबी मीठे पानी की झील कौन-सी है?",
+        "en": "Which is the second deepest lake in the world and the longest freshwater lake?"
+      },
+      "o": [
+        {
+          "hi": "तांगानिका झील (Lake Tanganyika - 1,470 मी)",
+          "en": "Lake Tanganyika (1,470 m)"
+        },
+        {
+          "hi": "बैकाल झील",
+          "en": "Lake Baikal"
+        },
+        {
+          "hi": "मलावी झील",
+          "en": "Lake Malawi"
+        },
+        {
+          "hi": "सुपीरियर झील",
+          "en": "Lake Superior"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व की सबसे ऊँची नौगम्य (Commercially Navigable) झील कौन-सी है?",
+        "en": "Which is the highest commercially navigable lake in the world (3,812 m)?"
+      },
+      "o": [
+        {
+          "hi": "बैकाल झील",
+          "en": "Lake Baikal"
+        },
+        {
+          "hi": "टिटिकाका झील (Lake Titicaca - एंडीज पर्वत)",
+          "en": "Lake Titicaca (Andes)"
+        },
+        {
+          "hi": "विक्टोरिया झील",
+          "en": "Lake Victoria"
+        },
+        {
+          "hi": "वान झील",
+          "en": "Lake Van"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "टिटिकाका झील किन दो दक्षिण अमेरिकी देशों की सीमा पर स्थित है?",
+        "en": "Lake Titicaca lies on the high Andean border between which two countries?"
+      },
+      "o": [
+        {
+          "hi": "चिली और अर्जेंटीना",
+          "en": "Chile & Argentina"
+        },
+        {
+          "hi": "ब्राजील और पेरू",
+          "en": "Brazil & Peru"
+        },
+        {
+          "hi": "पेरू और बोलीविया (Peru & Bolivia)",
+          "en": "Peru & Bolivia"
+        },
+        {
+          "hi": "कोलंबिया और इक्वाडोर",
+          "en": "Colombia & Ecuador"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समुद्र तल से सबसे निचली झील (Lowest Lake on Earth - 430 मी नीचे) कौन-सी है?",
+        "en": "Which lake's surface and shores are the lowest land elevation on Earth (-430 m)?"
+      },
+      "o": [
+        {
+          "hi": "कैस्पियन सागर",
+          "en": "Caspian Sea"
+        },
+        {
+          "hi": "बैकाल झील",
+          "en": "Lake Baikal"
+        },
+        {
+          "hi": "वान झील",
+          "en": "Lake Van"
+        },
+        {
+          "hi": "मृत सागर (Dead Sea)",
+          "en": "Dead Sea"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मृत सागर (Dead Sea) किन दो देशों की सीमा पर स्थित है?",
+        "en": "Dead Sea lies between which two countries/entities?"
+      },
+      "o": [
+        {
+          "hi": "जॉर्डन और इजराइल (Jordan & Israel)",
+          "en": "Jordan & Israel"
+        },
+        {
+          "hi": "मिस्र और सूडान",
+          "en": "Egypt & Sudan"
+        },
+        {
+          "hi": "सीरिया और इराक",
+          "en": "Syria & Iraq"
+        },
+        {
+          "hi": "सऊदी अरब और यमन",
+          "en": "Saudi & Yemen"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में सर्वाधिक लवणता वाली झील कौन-सी है?",
+        "en": "Which lake has the highest natural salinity in the world (330‰)?"
+      },
+      "o": [
+        {
+          "hi": "मृत सागर (238‰)",
+          "en": "Dead Sea (238‰)"
+        },
+        {
+          "hi": "वान झील (तुर्की / Lake Van - 330‰)",
+          "en": "Lake Van (Turkey - 330‰)"
+        },
+        {
+          "hi": "ग्रेट साल्ट लेक (220‰)",
+          "en": "Great Salt Lake"
+        },
+        {
+          "hi": "असाल झील",
+          "en": "Lake Assal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संयुक्त राज्य अमेरिका की 'ग्रेट साल्ट लेक' (Great Salt Lake) किस राज्य में है?",
+        "en": "The Great Salt Lake is located in which US state?"
+      },
+      "o": [
+        {
+          "hi": "कैलिफोर्निया",
+          "en": "California"
+        },
+        {
+          "hi": "नेवादा",
+          "en": "Nevada"
+        },
+        {
+          "hi": "यूटा (Utah)",
+          "en": "Utah"
+        },
+        {
+          "hi": "एरिजोना",
+          "en": "Arizona"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अमेरिका और कनाडा की सीमा पर स्थित 'महान झीलों' (Great Lakes) में कितनी झीलें हैं?",
+        "en": "How many lakes comprise the North American Great Lakes system?"
+      },
+      "o": [
+        {
+          "hi": "3",
+          "en": "3"
+        },
+        {
+          "hi": "4",
+          "en": "4"
+        },
+        {
+          "hi": "6",
+          "en": "6"
+        },
+        {
+          "hi": "5 झीलें (HOMES: Huron, Ontario, Michigan, Erie, Superior)",
+          "en": "5 Lakes (HOMES)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "महान झीलों (Great Lakes) में से कौन-सी एकमात्र झील पूरी तरह USA में स्थित है?",
+        "en": "Which of the Great Lakes is located entirely within the United States?"
+      },
+      "o": [
+        {
+          "hi": "मिशिगन झील (Lake Michigan)",
+          "en": "Lake Michigan"
+        },
+        {
+          "hi": "सुपीरियर झील",
+          "en": "Lake Superior"
+        },
+        {
+          "hi": "ह्यूरॉन झील",
+          "en": "Lake Huron"
+        },
+        {
+          "hi": "इरी झील",
+          "en": "Lake Erie"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "महान झीलों को पश्चिम से पूर्व के सही भौगोलिक क्रम में व्यवस्थित करें:",
+        "en": "Correct order of the Great Lakes from West to East?"
+      },
+      "o": [
+        {
+          "hi": "ह्यूरॉन, सुपीरियर, मिशिगन, इरी, ओंटारियो",
+          "en": "Huron, Sup, Mich, Erie, Ont"
+        },
+        {
+          "hi": "सुपीरियर, मिशिगन, ह्यूरॉन, इरी, ओंटारियो",
+          "en": "Superior, Michigan, Huron, Erie, Ontario"
+        },
+        {
+          "hi": "ओंटारियो, इरी, ह्यूरॉन, मिशिगन, सुपीरियर",
+          "en": "East to West"
+        },
+        {
+          "hi": "मिशिगन, सुपीरियर, इरी, ह्यूरॉन, ओंटारियो",
+          "en": "Mixed"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कनाडा की कौन-सी दो प्रसिद्ध विशाल झीलें उत्तर-पश्चिम में स्थित हैं?",
+        "en": "Which two large lakes are located in the Northwest Territories of Canada?"
+      },
+      "o": [
+        {
+          "hi": "इरी और ओंटारियो",
+          "en": "Erie & Ontario"
+        },
+        {
+          "hi": "मिशिगन और ह्यूरॉन",
+          "en": "Michigan & Huron"
+        },
+        {
+          "hi": "ग्रेट बियर और ग्रेट स्लेव झील (Great Bear & Great Slave)",
+          "en": "Great Bear & Great Slave"
+        },
+        {
+          "hi": "विक्टोरिया और मलावी",
+          "en": "Victoria & Malawi"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कनाडा की 'ग्रेट बियर झील' (Great Bear Lake) से कौन-सी काल्पनिक रेखा गुजरती है?",
+        "en": "Which major imaginary circle passes directly through Canada's Great Bear Lake?"
+      },
+      "o": [
+        {
+          "hi": "कर्क रेखा",
+          "en": "Tropic of Cancer"
+        },
+        {
+          "hi": "भूमध्य रेखा",
+          "en": "Equator"
+        },
+        {
+          "hi": "मकर रेखा",
+          "en": "Tropic of Capricorn"
+        },
+        {
+          "hi": "आर्कटिक वृत्त (66.5° N / Arctic Circle)",
+          "en": "Arctic Circle (66.5° N)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कनाडा की 'गेहूं मंडी' के लिए प्रसिद्ध 'विनिपेग झील' किस प्रांत में है?",
+        "en": "Lake Winnipeg is located in which Canadian province?"
+      },
+      "o": [
+        {
+          "hi": "मैनिटोबा (Manitoba)",
+          "en": "Manitoba"
+        },
+        {
+          "hi": "ओंटारियो",
+          "en": "Ontario"
+        },
+        {
+          "hi": "अल्बर्टा",
+          "en": "Alberta"
+        },
+        {
+          "hi": "क्यूबेक",
+          "en": "Quebec"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मध्य एशिया की 'बालखश झील' (Lake Balkhash) किस देश में स्थित है?",
+        "en": "Lake Balkhash is located in which Central Asian country?"
+      },
+      "o": [
+        {
+          "hi": "उज्बेकिस्तान",
+          "en": "Uzbekistan"
+        },
+        {
+          "hi": "कजाकिस्तान (Kazakhstan)",
+          "en": "Kazakhstan"
+        },
+        {
+          "hi": "तुर्कमेनिस्तान",
+          "en": "Turkmenistan"
+        },
+        {
+          "hi": "किर्गिस्तान",
+          "en": "Kyrgyzstan"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बालखश झील की एक अनूठी विशेषता क्या है?",
+        "en": "What is a unique physical characteristic of Lake Balkhash?"
+      },
+      "o": [
+        {
+          "hi": "यह पूरी तरह खारी है",
+          "en": "Completely saline"
+        },
+        {
+          "hi": "यह वर्ष भर जमी रहती है",
+          "en": "Perpetually frozen"
+        },
+        {
+          "hi": "पश्चिमी भाग मीठा और पूर्वी भाग खारा है",
+          "en": "Western half is fresh, eastern half is saline"
+        },
+        {
+          "hi": "यह ज्वालामुखी क्रेटर में है",
+          "en": "Volcanic crater"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यूरोप की सबसे बड़ी ताजे पानी की झील कौन-सी है?",
+        "en": "Which is the largest freshwater lake in Europe by surface area?"
+      },
+      "o": [
+        {
+          "hi": "ओनेगा झील",
+          "en": "Lake Onega"
+        },
+        {
+          "hi": "जेनेवा झील",
+          "en": "Lake Geneva"
+        },
+        {
+          "hi": "वानर्न झील",
+          "en": "Lake Vanern"
+        },
+        {
+          "hi": "लाडोगा झील (रूस / Lake Ladoga - 17,700 वर्ग किमी)",
+          "en": "Lake Ladoga (Russia)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यूरोप की दूसरी सबसे बड़ी झील 'ओनेगा झील' (Lake Onega) किस देश में है?",
+        "en": "Lake Onega, the second largest lake in Europe, is located in?"
+      },
+      "o": [
+        {
+          "hi": "रूस (Russia)",
+          "en": "Russia"
+        },
+        {
+          "hi": "फिनलैंड",
+          "en": "Finland"
+        },
+        {
+          "hi": "स्वीडन",
+          "en": "Sweden"
+        },
+        {
+          "hi": "नॉर्वे",
+          "en": "Norway"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्विट्जरलैंड और फ्रांस की सीमा पर कौन-सी प्रसिद्ध झील स्थित है?",
+        "en": "Which crescent-shaped alpine lake lies on the border of Switzerland and France?"
+      },
+      "o": [
+        {
+          "hi": "कॉन्स्टेंस झील",
+          "en": "Lake Constance"
+        },
+        {
+          "hi": "जिनेवा झील (लेक लेमान / Lake Geneva)",
+          "en": "Lake Geneva (Lac Leman)"
+        },
+        {
+          "hi": "ज्यूरिख झील",
+          "en": "Lake Zurich"
+        },
+        {
+          "hi": "लुसर्न झील",
+          "en": "Lake Lucerne"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जर्मनी, ऑस्ट्रिया और स्विट्जरलैंड की सीमा पर कौन-सी झील स्थित है?",
+        "en": "Which lake borders Germany, Austria, and Switzerland simultaneously?"
+      },
+      "o": [
+        {
+          "hi": "जिनेवा झील",
+          "en": "Lake Geneva"
+        },
+        {
+          "hi": "लाडोगा झील",
+          "en": "Lake Ladoga"
+        },
+        {
+          "hi": "कॉन्स्टेंस झील (बोडेनसी / Lake Constance)",
+          "en": "Lake Constance (Bodensee)"
+        },
+        {
+          "hi": "गार्डा झील",
+          "en": "Lake Garda"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "इटली की सबसे बड़ी झील कौन-सी है?",
+        "en": "Which is the largest lake in Italy?"
+      },
+      "o": [
+        {
+          "hi": "कोमो झील",
+          "en": "Lake Como"
+        },
+        {
+          "hi": "मैगिओर झील",
+          "en": "Lake Maggiore"
+        },
+        {
+          "hi": "ट्रेसिमेनो झील",
+          "en": "Lake Trasimeno"
+        },
+        {
+          "hi": "गार्डा झील (Lake Garda)",
+          "en": "Lake Garda"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अफ्रीका की 'चाड झील' (Lake Chad) किन देशों की सीमा पर स्थित है?",
+        "en": "Lake Chad is shared by which group of African countries?"
+      },
+      "o": [
+        {
+          "hi": "चाड, नाइजर, नाइजीरिया और कैमरून",
+          "en": "Chad, Niger, Nigeria & Cameroon"
+        },
+        {
+          "hi": "मिस्र, लीबिया और सूडान",
+          "en": "Egypt, Libya & Sudan"
+        },
+        {
+          "hi": "कांगो, गैबॉन और अंगोला",
+          "en": "Congo, Gabon & Angola"
+        },
+        {
+          "hi": "केन्या, तंजानिया और युगांडा",
+          "en": "Kenya, Tanzania & Uganda"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "घाना में स्थित 'वोल्टा झील' (Lake Volta) की प्रमुख विशेषता क्या है?",
+        "en": "Lake Volta in Ghana is world-renowned as what?"
+      },
+      "o": [
+        {
+          "hi": "विश्व की सबसे गहरी झील",
+          "en": "Deepest lake"
+        },
+        {
+          "hi": "विश्व की सबसे बड़ी मानव निर्मित कृत्रिम झील (क्षेत्रफल में)",
+          "en": "Largest artificial reservoir by surface area"
+        },
+        {
+          "hi": "सर्वाधिक लवणीय झील",
+          "en": "Most saline"
+        },
+        {
+          "hi": "सबसे पुरानी झील",
+          "en": "Oldest lake"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विश्व में 'झीलों की वाटिका' (Garden of Lakes) किस देश को कहा जाता है?",
+        "en": "Which country is called the 'Garden of Lakes' (Country of Lakes)?"
+      },
+      "o": [
+        {
+          "hi": "नॉर्वे",
+          "en": "Norway"
+        },
+        {
+          "hi": "स्वीडन",
+          "en": "Sweden"
+        },
+        {
+          "hi": "फिनलैंड (Finland - 1.8 लाख से अधिक झीलें)",
+          "en": "Finland (>180,000 lakes)"
+        },
+        {
+          "hi": "कनाडा",
+          "en": "Canada"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऑस्ट्रेलिया की सबसे बड़ी झील कौन-सी है?",
+        "en": "Which is the largest lake in Australia (shallow salt lake)?"
+      },
+      "o": [
+        {
+          "hi": "टॉरेंस झील",
+          "en": "Lake Torrens"
+        },
+        {
+          "hi": "गार्डनर झील",
+          "en": "Lake Gairdner"
+        },
+        {
+          "hi": "मैके झील",
+          "en": "Lake Mackay"
+        },
+        {
+          "hi": "आयर झील (Lake Eyre - कटी-थांडा)",
+          "en": "Lake Eyre (Kati Thanda)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत की सबसे बड़ी मीठे पानी की प्राकृतिक झील कौन-सी है?",
+        "en": "Which is the largest natural freshwater lake in India?"
+      },
+      "o": [
+        {
+          "hi": "वूलर झील (जम्मू-कश्मीर / Wular Lake)",
+          "en": "Wular Lake (J&K)"
+        },
+        {
+          "hi": "डल झील",
+          "en": "Dal Lake"
+        },
+        {
+          "hi": "लोकटक झील",
+          "en": "Loktak Lake"
+        },
+        {
+          "hi": "भीमताल",
+          "en": "Bhimtal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत की सबसे बड़ी तटीय लैगून खारे पानी की झील कौन-सी है?",
+        "en": "Which is the largest brackish water coastal lagoon in India?"
+      },
+      "o": [
+        {
+          "hi": "पुलीकट झील",
+          "en": "Pulicat Lake"
+        },
+        {
+          "hi": "चिल्का झील (ओडिशा / Chilika Lake)",
+          "en": "Chilika Lake (Odisha)"
+        },
+        {
+          "hi": "वेम्बनाड झील",
+          "en": "Vembanad Lake"
+        },
+        {
+          "hi": "कोलेरू झील",
+          "en": "Kolleru Lake"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत की सबसे लंबी झील 'वेम्बनाड झील' (Vembanad Lake) किस राज्य में है?",
+        "en": "Vembanad Lake, the longest lake in India, is located in which state?"
+      },
+      "o": [
+        {
+          "hi": "तमिलनाडु",
+          "en": "Tamil Nadu"
+        },
+        {
+          "hi": "कर्नाटक",
+          "en": "Karnataka"
+        },
+        {
+          "hi": "केरल (Kerala - 96 किमी)",
+          "en": "Kerala (96 km)"
+        },
+        {
+          "hi": "आंध्र प्रदेश",
+          "en": "Andhra Pradesh"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पूर्वोत्तर भारत की मीठे पानी की सबसे बड़ी झील 'लोकटक' किस राज्य में है?",
+        "en": "Loktak Lake, largest freshwater lake in Northeast India, is in which state?"
+      },
+      "o": [
+        {
+          "hi": "असम",
+          "en": "Assam"
+        },
+        {
+          "hi": "मेघालय",
+          "en": "Meghalaya"
+        },
+        {
+          "hi": "त्रिपुरा",
+          "en": "Tripura"
+        },
+        {
+          "hi": "मणिपुर (Manipur - केबुल लामजाओ तैरता पार्क)",
+          "en": "Manipur"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "महाराष्ट्र की 'लोनार झील' (Lonar Lake) किस प्रकार की झील का उदाहरण है?",
+        "en": "Lonar Lake in Buldhana, Maharashtra is a classic example of which lake type?"
+      },
+      "o": [
+        {
+          "hi": "उल्कापिंड प्रभाव से निर्मित क्रेटर झील (Meteorite Crater Lake)",
+          "en": "Meteorite Impact Crater Lake"
+        },
+        {
+          "hi": "हिमनद झील",
+          "en": "Glacial Lake"
+        },
+        {
+          "hi": "गोखुर झील",
+          "en": "Oxbow Lake"
+        },
+        {
+          "hi": "लैगून झील",
+          "en": "Lagoon Lake"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राजस्थान की सबसे बड़ी अंतर्देशीय खारे पानी की झील कौन-सी है?",
+        "en": "Which is the largest inland saline lake in Rajasthan, India?"
+      },
+      "o": [
+        {
+          "hi": "डीडवाना झील",
+          "en": "Didwana Lake"
+        },
+        {
+          "hi": "सांभर झील (Sambhar Salt Lake)",
+          "en": "Sambhar Salt Lake"
+        },
+        {
+          "hi": "पचपदरा झील",
+          "en": "Pachpadra Lake"
+        },
+        {
+          "hi": "जयसमंद झील",
+          "en": "Jaisamand Lake"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संसार में सर्वाधिक ऊंचाई पर स्थित ज्वालामुखी क्रेटर झील कौन-सी है?",
+        "en": "Highest volcanic crater lake in the world (Ojos del Salado crater pool)?"
+      },
+      "o": [
+        {
+          "hi": "टिटिकाका",
+          "en": "Titicaca"
+        },
+        {
+          "hi": "विक्टोरिया",
+          "en": "Victoria"
+        },
+        {
+          "hi": "ओजॉस डेल सालाडो क्रेटर झील (6,390 मी)",
+          "en": "Ojos del Salado Crater Lake"
+        },
+        {
+          "hi": "टोबा झील",
+          "en": "Lake Toba"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "इंडोनेशिया के सुमात्रा में स्थित 'टोबा झील' (Lake Toba) क्या है?",
+        "en": "Lake Toba in Sumatra, Indonesia is globally renowned as?"
+      },
+      "o": [
+        {
+          "hi": "विश्व की सबसे गहरी झील",
+          "en": "Deepest lake"
+        },
+        {
+          "hi": "विश्व की सबसे खारी झील",
+          "en": "Most saline lake"
+        },
+        {
+          "hi": "सबसे पुरानी झील",
+          "en": "Oldest lake"
+        },
+        {
+          "hi": "विश्व की सबसे बड़ी सुपर-ज्वालामुखी काल्डेरा झील",
+          "en": "Largest supervolcanic caldera lake in world"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रूस की 'बैकाल झील' यूनेस्को की विश्व धरोहर सूची में किस वर्ष शामिल हुई?",
+        "en": "In which year was Russia's Lake Baikal inscribed as a UNESCO World Heritage Site?"
+      },
+      "o": [
+        {
+          "hi": "1996",
+          "en": "1996"
+        },
+        {
+          "hi": "1990",
+          "en": "1990"
+        },
+        {
+          "hi": "2000",
+          "en": "2000"
+        },
+        {
+          "hi": "1985",
+          "en": "1985"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भ्रंश घाटी (Rift Valley) में स्थित झीलों का सबसे प्रसिद्ध उदाहरण कहाँ है?",
+        "en": "The most extensive system of Rift Valley lakes in the world is located in?"
+      },
+      "o": [
+        {
+          "hi": "उत्तरी अमेरिका",
+          "en": "North America"
+        },
+        {
+          "hi": "पूर्वी अफ्रीकी भ्रंश घाटी (तांगानिका, मलावी, तुर्काना)",
+          "en": "East African Rift Valley"
+        },
+        {
+          "hi": "पश्चिमी यूरोप",
+          "en": "Western Europe"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया",
+          "en": "Australia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मृत सागर (Dead Sea) में किसी व्यक्ति का डूबना असंभव क्यों है?",
+        "en": "Why is it practically impossible for a person to sink in the Dead Sea?"
+      },
+      "o": [
+        {
+          "hi": "पानी बहुत गर्म है",
+          "en": "Water is too hot"
+        },
+        {
+          "hi": "अत्यधिक तेज लहरों के कारण",
+          "en": "Strong waves"
+        },
+        {
+          "hi": "अत्यधिक उच्च लवणता और भारी जल घनत्व (High Buoyancy)",
+          "en": "Extremely high salinity & buoyant water density"
+        },
+        {
+          "hi": "जल स्तर बहुत उथला है",
+          "en": "Very shallow"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गोखुर झील (Oxbow Lake / चापाकार झील) का निर्माण किसके द्वारा होता है?",
+        "en": "An Oxbow lake is typically formed by the meandering action of which agent?"
+      },
+      "o": [
+        {
+          "hi": "पवन द्वारा",
+          "en": "Wind"
+        },
+        {
+          "hi": "हिमनद द्वारा",
+          "en": "Glacier"
+        },
+        {
+          "hi": "समुद्री लहरों द्वारा",
+          "en": "Sea waves"
+        },
+        {
+          "hi": "नदियों के विसर्पण एवं कटाव द्वारा (River Meandering)",
+          "en": "River Meandering"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संसार की सबसे रहस्यमयी 'कंकाल झील' (Skeleton Lake) रूपकुंड कहाँ स्थित है?",
+        "en": "Roopkund, known as the 'Skeleton Lake', is located in which Indian state?"
+      },
+      "o": [
+        {
+          "hi": "उत्तराखंड (हिमालय / Uttarakhand)",
+          "en": "Uttarakhand (Himalayas)"
+        },
+        {
+          "hi": "हिमाचल प्रदेश",
+          "en": "Himachal Pradesh"
+        },
+        {
+          "hi": "सिक्किम",
+          "en": "Sikkim"
+        },
+        {
+          "hi": "लद्दाख",
+          "en": "Ladakh"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लद्दाख में भारत और चीन के मध्य स्थित प्रसिद्ध विवादित खारे पानी की झील?",
+        "en": "Famous high-altitude saline lake shared between India and China in Ladakh?"
+      },
+      "o": [
+        {
+          "hi": "त्सो मोरीरी",
+          "en": "Tso Moriri"
+        },
+        {
+          "hi": "पैंगॉन्ग त्सो (Pangong Tso - 4,350 मी)",
+          "en": "Pangong Tso (4,350 m)"
+        },
+        {
+          "hi": "त्सो कर",
+          "en": "Tso Kar"
+        },
+        {
+          "hi": "वूलर झील",
+          "en": "Wular Lake"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

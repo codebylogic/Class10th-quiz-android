@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भारत का भूगोल (Indian Geography)",
+  "subtitle": "भारत में सिंचाई",
+  "description": "भारत में सिंचाई पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारत में शुद्ध सिंचित क्षेत्रफल का सर्वाधिक भाग किस साधन द्वारा सिंचित होता है?",
+        "en": "In India, what is the largest source of net irrigated area (~60% to 62%)?"
+      },
+      "o": [
+        {
+          "hi": "कुएं एवं नलकूप (Wells and Tube-wells)",
+          "en": "Wells and Tube-wells"
+        },
+        {
+          "hi": "नहरें (Canals)",
+          "en": "Canals"
+        },
+        {
+          "hi": "तालाब (Tanks)",
+          "en": "Tanks"
+        },
+        {
+          "hi": "अन्य स्रोत (झरने आदि)",
+          "en": "Other sources"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में सिंचाई का दूसरा सबसे प्रमुख साधन कौन-सा है?",
+        "en": "Which is the second largest source of irrigation in India (~24% to 26%)?"
+      },
+      "o": [
+        {
+          "hi": "तालाब",
+          "en": "Tanks"
+        },
+        {
+          "hi": "नहरें (Canals)",
+          "en": "Canals"
+        },
+        {
+          "hi": "कुएं",
+          "en": "Open Wells"
+        },
+        {
+          "hi": "ड्रिप सिंचाई",
+          "en": "Drip Irrigation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रायद्वीपीय भारत (दक्षिण भारत) में सिंचाई का प्रमुख पारंपरिक साधन कौन-सा है?",
+        "en": "Which is the traditional and primary source of irrigation in Peninsular South India?"
+      },
+      "o": [
+        {
+          "hi": "नलकूप",
+          "en": "Tube-wells"
+        },
+        {
+          "hi": "गहरी नहरें",
+          "en": "Deep Canals"
+        },
+        {
+          "hi": "तालाब (Tanks)",
+          "en": "Tanks"
+        },
+        {
+          "hi": "स्प्रिंकलर",
+          "en": "Sprinkler"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दक्षिण भारत में तालाबों द्वारा सिंचाई सर्वाधिक प्रचलित होने का भौगोलिक कारण क्या है?",
+        "en": "Why is tank irrigation most widespread in Peninsular South India?"
+      },
+      "o": [
+        {
+          "hi": "अत्यधिक वर्षा होना",
+          "en": "Heavy rainfall"
+        },
+        {
+          "hi": "समतल रेतीले मैदान",
+          "en": "Flat sandy plains"
+        },
+        {
+          "hi": "नहरों का अभाव",
+          "en": "No canals"
+        },
+        {
+          "hi": "कठोर अप्रवेश्य चट्टानी धरातल एवं प्राकृतिक गड्ढे",
+          "en": "Hard impermeable crystalline rock terrain & natural hollows"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत के किस राज्य में तालाबों द्वारा सर्वाधिक सिंचाई की जाती है?",
+        "en": "Which Indian state has the largest area under Tank irrigation?"
+      },
+      "o": [
+        {
+          "hi": "तमिलनाडु (Tamil Nadu)",
+          "en": "Tamil Nadu"
+        },
+        {
+          "hi": "आंध्र प्रदेश",
+          "en": "Andhra Pradesh"
+        },
+        {
+          "hi": "कर्नाटक",
+          "en": "Karnataka"
+        },
+        {
+          "hi": "केरल",
+          "en": "Kerala"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में नलकूपों (Tube-wells) की सर्वाधिक संख्या और सर्वाधिक सिंचित क्षेत्रफल किस राज्य में है?",
+        "en": "Which state has the largest number of tube-wells and area irrigated by them?"
+      },
+      "o": [
+        {
+          "hi": "पंजाब",
+          "en": "Punjab"
+        },
+        {
+          "hi": "उत्तर प्रदेश (Uttar Pradesh)",
+          "en": "Uttar Pradesh"
+        },
+        {
+          "hi": "हरियाणा",
+          "en": "Haryana"
+        },
+        {
+          "hi": "बिहार",
+          "en": "Bihar"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में नहरों द्वारा सर्वाधिक सिंचित क्षेत्रफल किस राज्य में पाया जाता है?",
+        "en": "Which Indian state has the largest area under Canal irrigation?"
+      },
+      "o": [
+        {
+          "hi": "पंजाब",
+          "en": "Punjab"
+        },
+        {
+          "hi": "राजस्थान",
+          "en": "Rajasthan"
+        },
+        {
+          "hi": "उत्तर प्रदेश (Uttar Pradesh)",
+          "en": "Uttar Pradesh"
+        },
+        {
+          "hi": "हरियाणा",
+          "en": "Haryana"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अपने शुद्ध बोए गए क्षेत्र का सर्वाधिक प्रतिशत सिंचित करने वाला राज्य कौन-सा है?",
+        "en": "Which state has the highest percentage of its net sown area under irrigation (>98%)?"
+      },
+      "o": [
+        {
+          "hi": "हरियाणा",
+          "en": "Haryana"
+        },
+        {
+          "hi": "उत्तर प्रदेश",
+          "en": "Uttar Pradesh"
+        },
+        {
+          "hi": "राजस्थान",
+          "en": "Rajasthan"
+        },
+        {
+          "hi": "पंजाब (Punjab - लगभग 98.7%)",
+          "en": "Punjab (~98.7%)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत की सबसे लंबी और सबसे बड़ी सिंचाई नहर कौन-सी है?",
+        "en": "Which is the largest and longest irrigation canal in India?"
+      },
+      "o": [
+        {
+          "hi": "इंदिरा गांधी नहर / राजस्थान नहर (लगभग 649 किमी)",
+          "en": "Indira Gandhi Canal / Rajasthan Canal"
+        },
+        {
+          "hi": "सरहिंद नहर",
+          "en": "Sirhind Canal"
+        },
+        {
+          "hi": "ऊपरी गंगा नहर",
+          "en": "Upper Ganga Canal"
+        },
+        {
+          "hi": "शारदा नहर",
+          "en": "Sharda Canal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इंदिरा गांधी नहर (राजस्थान नहर) का उद्गम किस बैराज से होता है?",
+        "en": "Indira Gandhi Canal originates from which barrage in Punjab?"
+      },
+      "o": [
+        {
+          "hi": "भाखड़ा नांगल बैराज",
+          "en": "Bhakra Nangal"
+        },
+        {
+          "hi": "हरिके बैराज (सतलज और व्यास का संगम / Harike)",
+          "en": "Harike Barrage"
+        },
+        {
+          "hi": "तेहरी बैराज",
+          "en": "Tehri Barrage"
+        },
+        {
+          "hi": "ताजेवाला बैराज",
+          "en": "Tajewala Barrage"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "इंदिरा गांधी नहर की मुख्य फीडर नहर की लंबाई पंजाब और हरियाणा में कितनी है?",
+        "en": "What is the length of the main feeder canal of Indira Gandhi Canal?"
+      },
+      "o": [
+        {
+          "hi": "100 किमी",
+          "en": "100 km"
+        },
+        {
+          "hi": "150 किमी",
+          "en": "150 km"
+        },
+        {
+          "hi": "204 किलोमीटर (204 km)",
+          "en": "204 km"
+        },
+        {
+          "hi": "300 किमी",
+          "en": "300 km"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "इंदिरा गांधी नहर परियोजना की रूपरेखा (परिकल्पना) सर्वप्रथम किसने प्रस्तुत की थी?",
+        "en": "Who first conceived and drafted the project outline of Rajasthan Canal in 1948?"
+      },
+      "o": [
+        {
+          "hi": "सर एम. विश्वेश्वरैया",
+          "en": "Sir M. Visvesvaraya"
+        },
+        {
+          "hi": "पंडित नेहरू",
+          "en": "Pandit Nehru"
+        },
+        {
+          "hi": "गंगा सिंह",
+          "en": "Ganga Singh"
+        },
+        {
+          "hi": "इंजीनियर कंवर सेन (Kanwar Sain)",
+          "en": "Kanwar Sain"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उत्तर प्रदेश की सबसे लंबी नहर प्रणाली कौन-सी है?",
+        "en": "Which is the longest canal system in Uttar Pradesh?"
+      },
+      "o": [
+        {
+          "hi": "शारदा नहर (Sharda Canal System)",
+          "en": "Sharda Canal System"
+        },
+        {
+          "hi": "ऊपरी गंगा नहर",
+          "en": "Upper Ganga Canal"
+        },
+        {
+          "hi": "निचली गंगा नहर",
+          "en": "Lower Ganga Canal"
+        },
+        {
+          "hi": "आगरा नहर",
+          "en": "Agra Canal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत की सबसे पुरानी चालू नहरों में से एक 'ऊपरी गंगा नहर' का निर्माण कब हुआ था?",
+        "en": "When was the Upper Ganga Canal constructed under Sir Proby Cautley?"
+      },
+      "o": [
+        {
+          "hi": "1830",
+          "en": "1830"
+        },
+        {
+          "hi": "1854 में (लॉर्ड डलहौजी के काल में)",
+          "en": "1854 (Lord Dalhousie's tenure)"
+        },
+        {
+          "hi": "1885",
+          "en": "1885"
+        },
+        {
+          "hi": "1905",
+          "en": "1905"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ऊपरी गंगा नहर का उद्गम किस स्थान से होता है?",
+        "en": "From which sacred place does the Upper Ganga Canal originate?"
+      },
+      "o": [
+        {
+          "hi": "ऋषिकेश",
+          "en": "Rishikesh"
+        },
+        {
+          "hi": "देवप्रयाग",
+          "en": "Devprayag"
+        },
+        {
+          "hi": "हरिद्वार (भीमगोड़ा बैराज / Haridwar)",
+          "en": "Haridwar (Bhimogoda Barrage)"
+        },
+        {
+          "hi": "नरोरा",
+          "en": "Narora"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पंजाब की प्रसिद्ध 'सरहिंद नहर' (Sirhind Canal) किस नदी से निकाली गई है?",
+        "en": "Famous Sirhind Canal in Punjab is drawn from which river at Ropar?"
+      },
+      "o": [
+        {
+          "hi": "रावी नदी",
+          "en": "Ravi River"
+        },
+        {
+          "hi": "व्यास नदी",
+          "en": "Beas River"
+        },
+        {
+          "hi": "झेलम नदी",
+          "en": "Jhelum River"
+        },
+        {
+          "hi": "सतलज नदी (Sutlej River)",
+          "en": "Sutlej River"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "त्रिवेणी नहर (Triveni Canal) बिहार में किस नदी से निकाली गई है?",
+        "en": "Triveni Canal in Bihar (West Champaran) is drawn from which river?"
+      },
+      "o": [
+        {
+          "hi": "गंडक नदी (Gandak River)",
+          "en": "Gandak River"
+        },
+        {
+          "hi": "कोसी नदी",
+          "en": "Kosi River"
+        },
+        {
+          "hi": "सोन नदी",
+          "en": "Son River"
+        },
+        {
+          "hi": "कमला नदी",
+          "en": "Kamla River"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सोन नहर प्रणाली (Son Canal System) किस राज्य की सबसे पुरानी सिंचाई नहर है?",
+        "en": "Son Canal System (1874) is the oldest irrigation canal network in which state?"
+      },
+      "o": [
+        {
+          "hi": "उत्तर प्रदेश",
+          "en": "Uttar Pradesh"
+        },
+        {
+          "hi": "बिहार (डेहरी-ऑन-सोन / Bihar)",
+          "en": "Bihar (Dehri-on-Sone)"
+        },
+        {
+          "hi": "मध्य प्रदेश",
+          "en": "Madhya Pradesh"
+        },
+        {
+          "hi": "झारखंड",
+          "en": "Jharkhand"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सूक्ष्म सिंचाई पद्धतियों (Micro-irrigation) में 'टपकन सिंचाई' (Drip Irrigation) का विकास किस देश में हुआ?",
+        "en": "In which country was Drip Irrigation pioneeringly developed?"
+      },
+      "o": [
+        {
+          "hi": "संयुक्त राज्य अमेरिका",
+          "en": "USA"
+        },
+        {
+          "hi": "जापान",
+          "en": "Japan"
+        },
+        {
+          "hi": "इजराइल (Israel)",
+          "en": "Israel"
+        },
+        {
+          "hi": "नीदरलैंड",
+          "en": "Netherlands"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "टपकन सिंचाई (Drip Irrigation) और फव्वारा सिंचाई (Sprinkler) का सबसे बड़ा लाभ क्या है?",
+        "en": "What is the primary advantage of Drip and Sprinkler irrigation?"
+      },
+      "o": [
+        {
+          "hi": "अधिक पानी बहना",
+          "en": "More water flow"
+        },
+        {
+          "hi": "सस्ती लागत",
+          "en": "Cheap cost"
+        },
+        {
+          "hi": "मजदूरों की कमी",
+          "en": "Labor shortage"
+        },
+        {
+          "hi": "जल की भारी बचत (60-70%) एवं सीधे जड़ों में पोषण",
+          "en": "60-70% water savings & direct root fertigation"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत सरकार द्वारा 'प्रधानमंत्री कृषि सिंचाई योजना' (PMKSY) किस वर्ष शुरू की गई?",
+        "en": "In which year was Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) launched?"
+      },
+      "o": [
+        {
+          "hi": "1 जुलाई 2015 (1 July 2015)",
+          "en": "1 July 2015"
+        },
+        {
+          "hi": "2014",
+          "en": "2014"
+        },
+        {
+          "hi": "2016",
+          "en": "2016"
+        },
+        {
+          "hi": "2018",
+          "en": "2018"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रधानमंत्री कृषि सिंचाई योजना का मुख्य नारा/लक्ष्य क्या है?",
+        "en": "What is the key slogan and objective of PMKSY?"
+      },
+      "o": [
+        {
+          "hi": "जय जवान जय किसान",
+          "en": "Jai Jawan Jai Kisan"
+        },
+        {
+          "hi": "हर खेत को पानी और प्रति बूंद अधिक फसल (Per Drop More Crop)",
+          "en": "Har Khet Ko Pani & Per Drop More Crop"
+        },
+        {
+          "hi": "स्वस्थ धरा खेत हरा",
+          "en": "Swasth Dhara"
+        },
+        {
+          "hi": "किसान सम्मान",
+          "en": "Kisan Samman"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ड्रिप सिंचाई (टपक सिंचाई) के अंतर्गत सर्वाधिक क्षेत्रफल वाला भारतीय राज्य कौन-सा है?",
+        "en": "Which Indian state has the largest area covered under Drip Irrigation?"
+      },
+      "o": [
+        {
+          "hi": "राजस्थान",
+          "en": "Rajasthan"
+        },
+        {
+          "hi": "गुजरात",
+          "en": "Gujarat"
+        },
+        {
+          "hi": "महाराष्ट्र एवं आंध्र प्रदेश (Maharashtra & AP)",
+          "en": "Maharashtra & Andhra Pradesh"
+        },
+        {
+          "hi": "पंजाब",
+          "en": "Punjab"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्प्रिंकलर (फव्वारा सिंचाई) के अंतर्गत सर्वाधिक क्षेत्रफल वाला राज्य कौन-सा है?",
+        "en": "Which state leads in area under Sprinkler Irrigation in India?"
+      },
+      "o": [
+        {
+          "hi": "उत्तर प्रदेश",
+          "en": "Uttar Pradesh"
+        },
+        {
+          "hi": "मध्य प्रदेश",
+          "en": "Madhya Pradesh"
+        },
+        {
+          "hi": "हरियाणा",
+          "en": "Haryana"
+        },
+        {
+          "hi": "राजस्थान (Rajasthan)",
+          "en": "Rajasthan"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में सिंचाई परियोजनाओं को कितने वर्गों (वृहद्, मध्यम, लघु) में बांटा गया है?",
+        "en": "Major, Medium, and Minor irrigation projects in India are classified on what basis?"
+      },
+      "o": [
+        {
+          "hi": "कृषि योग्य कमान क्षेत्र (CCA) के आधार पर",
+          "en": "Culturable Command Area (CCA)"
+        },
+        {
+          "hi": "लागत के आधार पर केवल",
+          "en": "Only cost"
+        },
+        {
+          "hi": "नदी की लंबाई के आधार पर",
+          "en": "River length"
+        },
+        {
+          "hi": "राज्य के आकार पर",
+          "en": "State size"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वृहद् सिंचाई परियोजना (Major Irrigation Project) किसे कहा जाता है?",
+        "en": "What is defined as a Major Irrigation Project in India?"
+      },
+      "o": [
+        {
+          "hi": "जिसका CCA 2,000 हेक्टेयर हो",
+          "en": "CCA 2,000 ha"
+        },
+        {
+          "hi": "जिसका कृषि योग्य कमान क्षेत्र (CCA) 10,000 हेक्टेयर से अधिक हो",
+          "en": "CCA more than 10,000 hectares"
+        },
+        {
+          "hi": "जिसका CCA 5,000 हेक्टेयर हो",
+          "en": "CCA 5,000 ha"
+        },
+        {
+          "hi": "जो केवल विदेशों से पोषित हो",
+          "en": "Foreign funded"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मध्यम सिंचाई परियोजना (Medium Irrigation Project) का कमान क्षेत्र कितना होता है?",
+        "en": "What is the Culturable Command Area of a Medium Irrigation Project?"
+      },
+      "o": [
+        {
+          "hi": "1,000 से 2,000 हेक्टेयर",
+          "en": "1,000 to 2,000 ha"
+        },
+        {
+          "hi": "10,000 से अधिक",
+          "en": "More than 10,000 ha"
+        },
+        {
+          "hi": "2,000 से 10,000 हेक्टेयर (2,000 to 10,000 ha)",
+          "en": "2,000 to 10,000 ha"
+        },
+        {
+          "hi": "500 से 1,000 हेक्टेयर",
+          "en": "500 to 1,000 ha"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लघु सिंचाई परियोजना (Minor Irrigation Project) के अंतर्गत कितना क्षेत्र आता है?",
+        "en": "A Minor Irrigation Project covers a Culturable Command Area of?"
+      },
+      "o": [
+        {
+          "hi": "10,000 हेक्टेयर तक",
+          "en": "Up to 10,000 ha"
+        },
+        {
+          "hi": "5,000 हेक्टेयर तक",
+          "en": "Up to 5,000 ha"
+        },
+        {
+          "hi": "2,000 से 5,000 हेक्टेयर",
+          "en": "2,000 to 5,000 ha"
+        },
+        {
+          "hi": "2,000 हेक्टेयर या उससे कम (2,000 ha or less)",
+          "en": "2,000 hectares or less"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में लघु सिंचाई परियोजनाओं (कुएं, नलकूप, छोटे तालाब) का कुल सिंचाई में कितना योगदान है?",
+        "en": "Minor irrigation schemes account for what proportion of total irrigation in India?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 65% से 70% (Two-Thirds)",
+          "en": "Approx 65% to 70%"
+        },
+        {
+          "hi": "लगभग 20%",
+          "en": "Approx 20%"
+        },
+        {
+          "hi": "लगभग 40%",
+          "en": "Approx 40%"
+        },
+        {
+          "hi": "लगभग 10%",
+          "en": "Approx 10%"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "केंद्रीय जल आयोग (Central Water Commission - CWC) का मुख्यालय कहाँ है?",
+        "en": "Where is the headquarters of the Central Water Commission (CWC) located?"
+      },
+      "o": [
+        {
+          "hi": "पुणे",
+          "en": "Pune"
+        },
+        {
+          "hi": "नई दिल्ली (New Delhi)",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "रुड़की",
+          "en": "Roorkee"
+        },
+        {
+          "hi": "भोपाल",
+          "en": "Bhopal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रीय जल विकास एजेंसी (NWDA - नदी जोड़ो परियोजना हेतु) की स्थापना कब हुई?",
+        "en": "National Water Development Agency (NWDA) for river interlinking was set up in?"
+      },
+      "o": [
+        {
+          "hi": "1972",
+          "en": "1972"
+        },
+        {
+          "hi": "1975",
+          "en": "1975"
+        },
+        {
+          "hi": "1982 (जुलाई 1982)",
+          "en": "1982"
+        },
+        {
+          "hi": "1995",
+          "en": "1995"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत की पहली नदी जोड़ो परियोजना (First River Interlinking Project) कौन-सी है?",
+        "en": "Which is India's first river interlinking project launched officially?"
+      },
+      "o": [
+        {
+          "hi": "गोदावरी-कृष्णा लिंक",
+          "en": "Godavari-Krishna link"
+        },
+        {
+          "hi": "नर्मदा-साबरमती लिंक",
+          "en": "Narmada-Sabarmati"
+        },
+        {
+          "hi": "दामोदर-सुवर्णरेखा लिंक",
+          "en": "Damodar-Subarnarekha"
+        },
+        {
+          "hi": "केन-बेतवा लिंक परियोजना (Ken-Betwa Link Project)",
+          "en": "Ken-Betwa Link Project"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "केन-बेतवा लिंक परियोजना से मुख्य रूप से किस सूखाग्रस्त क्षेत्र को लाभ होगा?",
+        "en": "Which drought-prone region will primarily benefit from the Ken-Betwa link?"
+      },
+      "o": [
+        {
+          "hi": "बुंदेलखंड क्षेत्र (UP और MP / Bundelkhand)",
+          "en": "Bundelkhand Region (UP & MP)"
+        },
+        {
+          "hi": "विदर्भ क्षेत्र",
+          "en": "Vidarbha"
+        },
+        {
+          "hi": "रायलसीमा क्षेत्र",
+          "en": "Rayalaseema"
+        },
+        {
+          "hi": "मारवाड़ क्षेत्र",
+          "en": "Marwar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कावेरी जल विवाद किन राज्यों/UT के मध्य है?",
+        "en": "Cauvery Water Dispute is between which states and Union Territory?"
+      },
+      "o": [
+        {
+          "hi": "केरल और तमिलनाडु केवल",
+          "en": "Kerala & TN only"
+        },
+        {
+          "hi": "तमिलनाडु, कर्नाटक, केरल और पुदुचेरी (TN, KA, KL, PY)",
+          "en": "Tamil Nadu, Karnataka, Kerala & Puducherry"
+        },
+        {
+          "hi": "आंध्र प्रदेश और कर्नाटक",
+          "en": "AP & Karnataka"
+        },
+        {
+          "hi": "महाराष्ट्र और कर्नाटक",
+          "en": "Maharashtra & Karnataka"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कृष्णा जल विवाद न्यायाधिकरण किन तीन राज्यों से संबंधित है?",
+        "en": "Krishna Water Disputes Tribunal (KWDT) involves which three states?"
+      },
+      "o": [
+        {
+          "hi": "तमिलनाडु, केरल और कर्नाटक",
+          "en": "TN, KL & KA"
+        },
+        {
+          "hi": "ओडिशा, छत्तीसगढ़ और AP",
+          "en": "OD, CG & AP"
+        },
+        {
+          "hi": "महाराष्ट्र, कर्नाटक और आंध्र प्रदेश/तेलंगाना",
+          "en": "Maharashtra, Karnataka & AP/Telangana"
+        },
+        {
+          "hi": "मध्य प्रदेश, गुजरात और राजस्थान",
+          "en": "MP, GJ & RJ"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मुल्लापेरियार बांध (Mullaperiyar Dam) किस राज्य में स्थित है जिसका संचालन तमिलनाडु करता है?",
+        "en": "Mullaperiyar Dam is situated in which state, operated by Tamil Nadu?"
+      },
+      "o": [
+        {
+          "hi": "तमिलनाडु",
+          "en": "Tamil Nadu"
+        },
+        {
+          "hi": "कर्नाटक",
+          "en": "Karnataka"
+        },
+        {
+          "hi": "आंध्र प्रदेश",
+          "en": "Andhra Pradesh"
+        },
+        {
+          "hi": "केरल (इडुक्की जिला / Kerala)",
+          "en": "Kerala (Idukki District)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बाणसागर नहर परियोजना (Bansagar Canal Project) किन तीन राज्यों की संयुक्त परियोजना है?",
+        "en": "Bansagar Project on Son River is a joint venture of which three states?"
+      },
+      "o": [
+        {
+          "hi": "मध्य प्रदेश, उत्तर प्रदेश और बिहार (MP, UP & Bihar)",
+          "en": "MP, UP & Bihar"
+        },
+        {
+          "hi": "MP, राजस्थान और गुजरात",
+          "en": "MP, Rajasthan & Gujarat"
+        },
+        {
+          "hi": "UP, बिहार और झारखंड",
+          "en": "UP, Bihar & Jharkhand"
+        },
+        {
+          "hi": "MP, महाराष्ट्र और छत्तीसगढ़",
+          "en": "MP, Maharashtra & CG"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राजस्थान की जीवन रेखा 'गंग नहर' (Gang Canal - 1927) किसने बनवाई थी?",
+        "en": "Who constructed the historic Gang Canal in 1927 to green Bikaner?"
+      },
+      "o": [
+        {
+          "hi": "महाराणा प्रताप",
+          "en": "Maharana Pratap"
+        },
+        {
+          "hi": "महाराजा गंगा सिंह (बीकानेर / Maharaja Ganga Singh)",
+          "en": "Maharaja Ganga Singh (Bikaner)"
+        },
+        {
+          "hi": "सवाई जयसिंह",
+          "en": "Sawai Jai Singh"
+        },
+        {
+          "hi": "महाराजा सूरजमल",
+          "en": "Maharaja Suraj Mal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में सर्वाधिक असिंचित (वर्षा आधारित / Rainfed) कृषि भूमि किस फसल की है?",
+        "en": "Which crop category has the highest percentage of rainfed/unirrigated land in India?"
+      },
+      "o": [
+        {
+          "hi": "गेहूँ",
+          "en": "Wheat"
+        },
+        {
+          "hi": "चावल",
+          "en": "Rice"
+        },
+        {
+          "hi": "मोटे अनाज एवं दलहन (Millets and Pulses)",
+          "en": "Millets and Pulses"
+        },
+        {
+          "hi": "गन्ना",
+          "en": "Sugarcane"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गन्ने की फसल को कुल कितने पानी की आवश्यकता होती है?",
+        "en": "Sugarcane crop requires high irrigation water amounting to approximately?"
+      },
+      "o": [
+        {
+          "hi": "50-60 सेमी",
+          "en": "50-60 cm"
+        },
+        {
+          "hi": "80-100 सेमी",
+          "en": "80-100 cm"
+        },
+        {
+          "hi": "120-150 सेमी",
+          "en": "120-150 cm"
+        },
+        {
+          "hi": "150 से 250 सेंटीमीटर (150-250 cm)",
+          "en": "150 to 250 cm"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बांस ड्रिप सिंचाई प्रणाली (Bamboo Drip Irrigation) भारत के किस राज्य में पारंपरिक रूप से प्रचलित है?",
+        "en": "Bamboo Drip Irrigation is an indigenous ingenious practice in which state?"
+      },
+      "o": [
+        {
+          "hi": "मेघालय (Meghalaya)",
+          "en": "Meghalaya"
+        },
+        {
+          "hi": "नगालैंड",
+          "en": "Nagaland"
+        },
+        {
+          "hi": "सिक्किम",
+          "en": "Sikkim"
+        },
+        {
+          "hi": "अरुणाचल प्रदेश",
+          "en": "Arunachal Pradesh"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बांस ड्रिप सिंचाई द्वारा मुख्य रूप से किस पौधे को सींचा जाता है?",
+        "en": "Bamboo drip irrigation in Meghalaya is used primarily to irrigate which plant?"
+      },
+      "o": [
+        {
+          "hi": "चावल",
+          "en": "Rice"
+        },
+        {
+          "hi": "पान (Betel leaf / ब्लैक पेपर)",
+          "en": "Betel Leaf / Black pepper"
+        },
+        {
+          "hi": "चाय",
+          "en": "Tea"
+        },
+        {
+          "hi": "कॉफी",
+          "en": "Coffee"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हिमाचल प्रदेश के पहाड़ी क्षेत्रों में सिंचाई की पारंपरिक नहरों को क्या कहते हैं?",
+        "en": "Traditional community gravity water diversion channels in Himachal Pradesh are called?"
+      },
+      "o": [
+        {
+          "hi": "बावड़ी",
+          "en": "Baori"
+        },
+        {
+          "hi": "आहर-पाइन",
+          "en": "Ahar-Pyne"
+        },
+        {
+          "hi": "कुहल (Kuhl)",
+          "en": "Kuhl"
+        },
+        {
+          "hi": "जोहड़",
+          "en": "Johad"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बिहार के दक्षिण भाग में पारंपरिक बाढ़ जल संचयन प्रणाली को क्या कहते हैं?",
+        "en": "Traditional indigenous flood-water harvesting system in South Bihar is known as?"
+      },
+      "o": [
+        {
+          "hi": "कुहल",
+          "en": "Kuhl"
+        },
+        {
+          "hi": "बावड़ी",
+          "en": "Baori"
+        },
+        {
+          "hi": "टांका",
+          "en": "Tanka"
+        },
+        {
+          "hi": "आहर-पाइन (Ahar-Pyne)",
+          "en": "Ahar-Pyne"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "राजस्थान के शेखावाटी और मरुस्थलीय क्षेत्रों में वर्षा जल संचयन के कुंड को क्या कहते हैं?",
+        "en": "Traditional underground circular rainwater harvesting cisterns in Rajasthan are called?"
+      },
+      "o": [
+        {
+          "hi": "टांका और जोहड़ (Tanka & Johad)",
+          "en": "Tanka and Johad"
+        },
+        {
+          "hi": "आहर",
+          "en": "Ahar"
+        },
+        {
+          "hi": "कुहल",
+          "en": "Kuhl"
+        },
+        {
+          "hi": "सुरंगम",
+          "en": "Surangam"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "केरल और दक्षिण कर्नाटक में पश्चिमी घाट की गुफानुमा जल संचयन संरचना क्या कहलाती है?",
+        "en": "Traditional cave-like horizontal excavation tunnels for water in Kerala/Karnataka are called?"
+      },
+      "o": [
+        {
+          "hi": "कुहल",
+          "en": "Kuhl"
+        },
+        {
+          "hi": "सुरंगम (Surangam)",
+          "en": "Surangam"
+        },
+        {
+          "hi": "बावड़ी",
+          "en": "Baori"
+        },
+        {
+          "hi": "टांका",
+          "en": "Tanka"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत के 'जल पुरुष' (Waterman of India) जिन्होंने जोहड़ पुनर्जीवित किए?",
+        "en": "Who is called 'Waterman of India' for reviving traditional Johads in Rajasthan?"
+      },
+      "o": [
+        {
+          "hi": "सुंदरलाल बहुगुणा",
+          "en": "Sunderlal Bahuguna"
+        },
+        {
+          "hi": "मेधा पाटकर",
+          "en": "Medha Patkar"
+        },
+        {
+          "hi": "डॉ. राजेंद्र सिंह (Dr. Rajendra Singh - तरुण भारत संघ)",
+          "en": "Dr. Rajendra Singh"
+        },
+        {
+          "hi": "बाबा आमटे",
+          "en": "Baba Amte"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सिंचाई से खेतों में अत्यधिक जलभराव (Waterlogging) का सबसे बुरा परिणाम क्या होता है?",
+        "en": "What is the most severe soil degradation consequence of over-irrigation?"
+      },
+      "o": [
+        {
+          "hi": "मिट्टी का उपजाऊ होना",
+          "en": "Soil fertility boost"
+        },
+        {
+          "hi": "फसलों की तीव्र वृद्धि",
+          "en": "Rapid crop growth"
+        },
+        {
+          "hi": "कीटों का समाप्त होना",
+          "en": "Pest elimination"
+        },
+        {
+          "hi": "मृदा लवणता एवं क्षारीयता में वृद्धि (Salinization)",
+          "en": "Soil Salinization & Alkalinization"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सिंचाई दक्षता (Irrigation Water Use Efficiency) बढ़ाने का सर्वोत्तम आधुनिक उपाय?",
+        "en": "Most effective modern technical measure to maximize irrigation water use efficiency?"
+      },
+      "o": [
+        {
+          "hi": "टपक एवं फव्वारा सिंचाई को अपनाना (Micro-irrigation)",
+          "en": "Adopting Drip & Sprinkler Micro-irrigation"
+        },
+        {
+          "hi": "नहरों को और चौड़ा करना",
+          "en": "Widening canals"
+        },
+        {
+          "hi": "दिन-रात ट्यूबवेल चलाना",
+          "en": "Continuous pumping"
+        },
+        {
+          "hi": "पारंपरिक बाढ़ सिंचाई",
+          "en": "Flood irrigation"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में प्रथम सिंचाई आयोग (First Irrigation Commission) का गठन 1901 में किसकी अध्यक्षता में हुआ?",
+        "en": "First Irrigation Commission was appointed in India in 1901 under chairmanship of?"
+      },
+      "o": [
+        {
+          "hi": "लॉर्ड कर्जन",
+          "en": "Lord Curzon"
+        },
+        {
+          "hi": "सर कॉलिन स्कॉट-मॉनक्रीफ (Sir Colin Scott-Moncrieff)",
+          "en": "Sir Colin Scott-Moncrieff"
+        },
+        {
+          "hi": "विलियम बेंटिंक",
+          "en": "William Bentinck"
+        },
+        {
+          "hi": "लॉर्ड रिपन",
+          "en": "Lord Ripon"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - मध्यकालीन भारत (Medieval India)",
+  "subtitle": "भक्ति आन्दोलन",
+  "description": "भक्ति आन्दोलन (आलवार, नयनार, शंकराचार्य, कबीर, नानक, चैतन्य, तुलसी, सूर, मीरा) पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "मध्यकालीन भारत में भक्ति आंदोलन का उदय सर्वप्रथम किस क्षेत्र में हुआ था?",
+        "en": "In which region did the Bhakti movement originally originate in medieval India?"
+      },
+      "o": [
+        {
+          "hi": "दक्षिण भारत (तमिल / द्रविड़ देश)",
+          "en": "South India (Tamil / Dravidian region)"
+        },
+        {
+          "hi": "उत्तर भारत",
+          "en": "North India"
+        },
+        {
+          "hi": "पूर्वी भारत",
+          "en": "East India"
+        },
+        {
+          "hi": "पश्चिमी भारत",
+          "en": "West India"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दक्षिण भारत में वैष्णव मतावलम्बी संतों को क्या कहा जाता था (कुल संख्या 12 थी)?",
+        "en": "What were the Vaishnava devotee saints of South India called (total 12 saints)?"
+      },
+      "o": [
+        {
+          "hi": "आलवार संत (Alvar Saints)",
+          "en": "Alvar Saints"
+        },
+        {
+          "hi": "नयनार संत",
+          "en": "Nayanar Saints"
+        },
+        {
+          "hi": "वीरशैव संत",
+          "en": "Virashaiva Saints"
+        },
+        {
+          "hi": "नाथपंथी संत",
+          "en": "Nathpanthi Saints"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दक्षिण भारत में एकमात्र प्रसिद्ध महिला आलवार संत कौन थीं जिन्हें 'दक्षिण की मीरा' कहा जाता है?",
+        "en": "Who was the only famous female Alvar saint of South India, revered as 'Meera of the South'?"
+      },
+      "o": [
+        {
+          "hi": "आंडाल (Andal / कोदई)",
+          "en": "Andal (Kodhai)"
+        },
+        {
+          "hi": "अक्का महादेवी",
+          "en": "Akka Mahadevi"
+        },
+        {
+          "hi": "कराईक्काल अम्मैयार",
+          "en": "Karaikkal Ammaiyar"
+        },
+        {
+          "hi": "मुक्ताबाई",
+          "en": "Muktabai"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दक्षिण भारत में भगवान शिव के उपासक संतों को क्या कहा जाता था (कुल संख्या 63 थी)?",
+        "en": "What were the Shaivite devotee saints of South India called (total 63 saints)?"
+      },
+      "o": [
+        {
+          "hi": "नयनार संत (Nayanar Saints)",
+          "en": "Nayanar Saints"
+        },
+        {
+          "hi": "आलवार संत",
+          "en": "Alvar Saints"
+        },
+        {
+          "hi": "वारकरी संत",
+          "en": "Varkari Saints"
+        },
+        {
+          "hi": "पुष्टिमार्गी संत",
+          "en": "Pushtimargi Saints"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अद्वैतवाद (Non-Dualism) के महान दार्शनिक संस्थापक कौन थे जिन्होंने भारत के चारों कोनों में मठ स्थापित किए?",
+        "en": "Who was the great philosopher of Advaita Vedanta who founded 4 holy mutts across India?"
+      },
+      "o": [
+        {
+          "hi": "आदि शंकराचार्य (Adi Shankaracharya)",
+          "en": "Adi Shankaracharya"
+        },
+        {
+          "hi": "रामानुजाचार्य",
+          "en": "Ramanujacharya"
+        },
+        {
+          "hi": "माधवाचार्य",
+          "en": "Madhvacharya"
+        },
+        {
+          "hi": "निम्बार्काचार्य",
+          "en": "Nimbarkacharya"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आदि शंकराचार्य का जन्म 8वीं शताब्दी में केरल के किस ग्राम में हुआ था?",
+        "en": "In which village of Kerala was Adi Shankaracharya born in the 8th century AD?"
+      },
+      "o": [
+        {
+          "hi": "कालड़ी (Kaladi)",
+          "en": "Kaladi"
+        },
+        {
+          "hi": "वायनाड",
+          "en": "Wayanad"
+        },
+        {
+          "hi": "तंजावुर",
+          "en": "Thanjavur"
+        },
+        {
+          "hi": "कांचीपुरम",
+          "en": "Kanchipuram"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विशिष्टाद्वैतवाद (Qualified Monism) दर्शन के प्रतिपादक कौन थे जिन्होंने श्री संप्रदाय की स्थापना की?",
+        "en": "Who was the proponent of Vishishtadvaita philosophy who founded the Sri Sampradaya?"
+      },
+      "o": [
+        {
+          "hi": "रामानुजाचार्य (Ramanujacharya)",
+          "en": "Ramanujacharya"
+        },
+        {
+          "hi": "शंकराचार्य",
+          "en": "Shankaracharya"
+        },
+        {
+          "hi": "माधवाचार्य",
+          "en": "Madhvacharya"
+        },
+        {
+          "hi": "वल्लभाचार्य",
+          "en": "Vallabhacharya"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "द्वैतवाद (Dualism) दर्शन के महान प्रतिपादक कौन थे जिन्होंने ब्रह्म संप्रदाय की स्थापना की?",
+        "en": "Who was the founder of Dvaita (Dualism) philosophy who established the Brahma Sampradaya?"
+      },
+      "o": [
+        {
+          "hi": "माधवाचार्य (Madhvacharya / आनंदतीर्थ)",
+          "en": "Madhvacharya (Anandatirtha)"
+        },
+        {
+          "hi": "रामानुजाचार्य",
+          "en": "Ramanujacharya"
+        },
+        {
+          "hi": "निम्बार्काचार्य",
+          "en": "Nimbarkacharya"
+        },
+        {
+          "hi": "शंकराचार्य",
+          "en": "Shankaracharya"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शुद्धाद्वैतवाद (Pure Non-Dualism) और पुष्टिमार्ग के महान प्रवर्तक कौन थे?",
+        "en": "Who was the great exponent of Shuddhadvaita and the path of grace (Pushtimarga)?"
+      },
+      "o": [
+        {
+          "hi": "वल्लभाचार्य (Vallabhacharya)",
+          "en": "Vallabhacharya"
+        },
+        {
+          "hi": "रामानुजाचार्य",
+          "en": "Ramanujacharya"
+        },
+        {
+          "hi": "माधवाचार्य",
+          "en": "Madhvacharya"
+        },
+        {
+          "hi": "रामानंद",
+          "en": "Ramananda"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भक्ति आंदोलन को दक्षिण भारत से उत्तर भारत लाने का ऐतिहासिक श्रेय किसे प्राप्त है?",
+        "en": "Who is credited with bringing the Bhakti movement from South India to North India?"
+      },
+      "o": [
+        {
+          "hi": "स्वामी रामानंद (Swami Ramananda)",
+          "en": "Swami Ramananda"
+        },
+        {
+          "hi": "कबीरदास",
+          "en": "Kabirdas"
+        },
+        {
+          "hi": "गुरु नानक",
+          "en": "Guru Nanak"
+        },
+        {
+          "hi": "तुलसीदास",
+          "en": "Tulsidas"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अपने उपदेशों में जनसाधारण की भाषा 'हिंदी' का सर्वप्रथम प्रयोग करने वाले भक्ति संत कौन थे?",
+        "en": "Who was the first Bhakti saint to use the vernacular 'Hindi' for delivering sermons?"
+      },
+      "o": [
+        {
+          "hi": "रामानंद (Ramananda)",
+          "en": "Ramananda"
+        },
+        {
+          "hi": "शंकराचार्य",
+          "en": "Shankaracharya"
+        },
+        {
+          "hi": "चैतन्य महाप्रभु",
+          "en": "Chaitanya Mahaprabhu"
+        },
+        {
+          "hi": "ज्ञानेश्वर",
+          "en": "Jnaneshwar"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संत कबीरदास का जन्म 1398 ई. में किस पवित्र नगरी में हुआ था?",
+        "en": "In which sacred city was Saint Kabirdas born in 1398 AD?"
+      },
+      "o": [
+        {
+          "hi": "वाराणसी / काशी (Varanasi / Kashi)",
+          "en": "Varanasi / Kashi"
+        },
+        {
+          "hi": "मथुरा",
+          "en": "Mathura"
+        },
+        {
+          "hi": "प्रयागराज",
+          "en": "Prayagraj"
+        },
+        {
+          "hi": "अयोध्या",
+          "en": "Ayodhya"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कबीरदास का लालन-पालन किस जुलाहा (बुनकर) दंपत्ति ने किया था?",
+        "en": "Which weaver (Julaha) couple brought up Kabirdas?"
+      },
+      "o": [
+        {
+          "hi": "नीरू और नीमा (Neeru and Neema)",
+          "en": "Neeru and Neema"
+        },
+        {
+          "hi": "रहीम और रशीदा",
+          "en": "Rahim and Rashida"
+        },
+        {
+          "hi": "अकबर और जोधा",
+          "en": "Akbar and Jodha"
+        },
+        {
+          "hi": "हसन और हुसैन",
+          "en": "Hasan and Husain"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "संत कबीरदास के उपदेशों और साखियों का मुख्य संकलन किस ग्रंथ में मिलता है?",
+        "en": "In which famous scripture is the primary collection of Kabir's teachings compiled?"
+      },
+      "o": [
+        {
+          "hi": "रामचरितमानस",
+          "en": "Ramcharitmanas"
+        },
+        {
+          "hi": "बीजक (Bijak - साखी, सबद, रमैनी)",
+          "en": "Bijak (Sakhi, Sabad, Ramaini)"
+        },
+        {
+          "hi": "सूरसागर",
+          "en": "Sursagar"
+        },
+        {
+          "hi": "विनयपत्रिका",
+          "en": "Vinayapatrika"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संत कबीरदास दिल्ली के किस लोदी सुल्तान के समकालीन थे?",
+        "en": "Saint Kabirdas was a contemporary of which Lodi Sultan of Delhi?"
+      },
+      "o": [
+        {
+          "hi": "बहलोल लोदी",
+          "en": "Bahlol Lodi"
+        },
+        {
+          "hi": "सिकंदर लोदी (Sikandar Lodi)",
+          "en": "Sikandar Lodi"
+        },
+        {
+          "hi": "इब्राहिम लोदी",
+          "en": "Ibrahim Lodi"
+        },
+        {
+          "hi": "अलाउद्दीन खिलजी",
+          "en": "Alauddin Khalji"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संत कबीरदास ने अपने नश्वर शरीर का त्याग उत्तर प्रदेश के किस स्थान पर किया था?",
+        "en": "At which place in Uttar Pradesh did Saint Kabirdas pass away, defying superstitions?"
+      },
+      "o": [
+        {
+          "hi": "काशी",
+          "en": "Kashi"
+        },
+        {
+          "hi": "मगहर (संत कबीर नगर / Maghar)",
+          "en": "Maghar (Sant Kabir Nagar)"
+        },
+        {
+          "hi": "सारनाथ",
+          "en": "Sarnath"
+        },
+        {
+          "hi": "अयोध्या",
+          "en": "Ayodhya"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सिख धर्म के प्रवर्तक और प्रथम गुरु संत गुरु नानक देव जी का जन्म कहाँ हुआ था?",
+        "en": "Where was Guru Nanak Dev Ji, the founder and first Guru of Sikhism, born in 1469 AD?"
+      },
+      "o": [
+        {
+          "hi": "अमृतसर",
+          "en": "Amritsar"
+        },
+        {
+          "hi": "तलवंडी / ननकाना साहिब (पाकिस्तान)",
+          "en": "Talwandi / Nankana Sahib (Pakistan)"
+        },
+        {
+          "hi": "आनंदपुर",
+          "en": "Anandpur"
+        },
+        {
+          "hi": "पटना साहिब",
+          "en": "Patna Sahib"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गुरु नानक देव जी ने सामाजिक समानता हेतु किस निःशुल्क भोजन परंपरा की शुरुआत की थी?",
+        "en": "Which free community kitchen tradition did Guru Nanak initiate for social equality?"
+      },
+      "o": [
+        {
+          "hi": "इक्ता",
+          "en": "Iqta"
+        },
+        {
+          "hi": "लंगर प्रथा (गुरु का लंगर / Langar)",
+          "en": "Langar system (Guru ka Langar)"
+        },
+        {
+          "hi": "जजिया",
+          "en": "Jizya"
+        },
+        {
+          "hi": "दानपात्र",
+          "en": "Danpatra"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गुरु नानक देव जी की मृत्यु 1539 ई. में किस स्थान पर हुई थी?",
+        "en": "At which place did Guru Nanak Dev Ji pass away in 1539 AD?"
+      },
+      "o": [
+        {
+          "hi": "लाहौर",
+          "en": "Lahore"
+        },
+        {
+          "hi": "करतारपुर (पाकिस्तान / Kartarpur)",
+          "en": "Kartarpur (Pakistan)"
+        },
+        {
+          "hi": "ननकाना साहिब",
+          "en": "Nankana Sahib"
+        },
+        {
+          "hi": "अमृतसर",
+          "en": "Amritsar"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बंगाल में कृष्ण भक्ति और 'संकीर्तन प्रथा' (हरे कृष्ण कीर्तन) के जन्मदाता कौन थे?",
+        "en": "Who was the founder of the congregational chanting (Sankirtana) of Krishna bhakti in Bengal?"
+      },
+      "o": [
+        {
+          "hi": "शंकरदेव",
+          "en": "Shankardev"
+        },
+        {
+          "hi": "चैतन्य महाप्रभु (गौरांग महाप्रभु)",
+          "en": "Chaitanya Mahaprabhu (Gauranga)"
+        },
+        {
+          "hi": "विद्यापति",
+          "en": "Vidyapati"
+        },
+        {
+          "hi": "चंडीदास",
+          "en": "Chandidas"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चैतन्य महाप्रभु का जन्म 1486 ई. में बंगाल के किस शिक्षा केंद्र में हुआ था?",
+        "en": "In which prominent educational hub of Bengal was Chaitanya Mahaprabhu born in 1486 AD?"
+      },
+      "o": [
+        {
+          "hi": "कलकत्ता",
+          "en": "Calcutta"
+        },
+        {
+          "hi": "नादिया / नवद्वीप (Nadia / Nabadwip)",
+          "en": "Nadia / Nabadwip"
+        },
+        {
+          "hi": "मुर्शिदाबाद",
+          "en": "Murshidabad"
+        },
+        {
+          "hi": "ढाका",
+          "en": "Dhaka"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चैतन्य महाप्रभु द्वारा प्रतिपादित दार्शनिक सिद्धांत कौन-सा कहलाता है?",
+        "en": "Which philosophical doctrine propounded by Chaitanya Mahaprabhu is known in Vedanta?"
+      },
+      "o": [
+        {
+          "hi": "अद्वैतवाद",
+          "en": "Advaita"
+        },
+        {
+          "hi": "अचिंत्यभेदाभेदवाद (Achintya Bhedabheda)",
+          "en": "Achintya Bhedabheda"
+        },
+        {
+          "hi": "विशिष्टाद्वैत",
+          "en": "Vishishtadvaita"
+        },
+        {
+          "hi": "शुद्धाद्वैत",
+          "en": "Shuddhadvaita"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गोस्वामी तुलसीदास जी द्वारा अवधी भाषा में रचित अमर महाकाव्य कौन-सा है?",
+        "en": "Which immortal epic masterpiece in Awadhi was composed by Goswami Tulsidas?"
+      },
+      "o": [
+        {
+          "hi": "रामायण",
+          "en": "Ramayana"
+        },
+        {
+          "hi": "रामचरितमानस (Ramcharitmanas)",
+          "en": "Ramcharitmanas"
+        },
+        {
+          "hi": "महाभारत",
+          "en": "Mahabharata"
+        },
+        {
+          "hi": "सूरसागर",
+          "en": "Sursagar"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गोस्वामी तुलसीदास किस मुगल सम्राट और समकालीन शासक के समय जीवित थे?",
+        "en": "Goswami Tulsidas lived during the contemporary reign of which Mughal Emperor?"
+      },
+      "o": [
+        {
+          "hi": "बाबर",
+          "en": "Babur"
+        },
+        {
+          "hi": "अकबर और जहांगीर (Akbar and Jahangir)",
+          "en": "Akbar and Jahangir"
+        },
+        {
+          "hi": "शाहजहाँ",
+          "en": "Shah Jahan"
+        },
+        {
+          "hi": "औरंगजेब",
+          "en": "Aurangzeb"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कृष्ण भक्ति शाखा के महाकवि सूरदास किस भाषा में अपनी रचनाएं लिखते थे?",
+        "en": "In which language did the great Krishna-bhakti poet Surdas compose his devotional verses?"
+      },
+      "o": [
+        {
+          "hi": "अवधी भाषा",
+          "en": "Awadhi language"
+        },
+        {
+          "hi": "ब्रजभाषा (Braj Bhasha)",
+          "en": "Braj Bhasha"
+        },
+        {
+          "hi": "मैथिली",
+          "en": "Maithili"
+        },
+        {
+          "hi": "भोजपुरी",
+          "en": "Bhojpuri"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सूरदास किस पुष्टिमार्गी आचार्य के शिष्य थे और अष्टछाप के सर्वश्रेष्ठ कवि माने जाते थे?",
+        "en": "Whose disciple was Surdas, celebrated as the greatest poet of the 'Ashtachhap'?"
+      },
+      "o": [
+        {
+          "hi": "रामानुजाचार्य",
+          "en": "Ramanujacharya"
+        },
+        {
+          "hi": "महाप्रभु वल्लभाचार्य (Vallabhacharya)",
+          "en": "Mahaprabhu Vallabhacharya"
+        },
+        {
+          "hi": "रामानंद",
+          "en": "Ramananda"
+        },
+        {
+          "hi": "कबीरदास",
+          "en": "Kabirdas"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भगवान कृष्ण की अनन्य प्रेमिका संत मीराबाई का जन्म राजस्थान के किस राजघराने में हुआ था?",
+        "en": "In which royal clan of Rajasthan was Saint Meerabai born in 1498 AD?"
+      },
+      "o": [
+        {
+          "hi": "सिसोदिया वंश",
+          "en": "Sisodia clan"
+        },
+        {
+          "hi": "कछवाहा वंश",
+          "en": "Kachhwaha clan"
+        },
+        {
+          "hi": "मेड़ता के राठौड़ राजवंश (Rathore of Merta)",
+          "en": "Rathore clan of Merta"
+        },
+        {
+          "hi": "चौहान वंश",
+          "en": "Chauhan clan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मीराबाई का विवाह मेवाड़ के महाराणा सांगा के किस ज्येष्ठ पुत्र के साथ हुआ था?",
+        "en": "To which eldest son of Maharana Sanga of Mewar was Meerabai married?"
+      },
+      "o": [
+        {
+          "hi": "राणा रतन सिंह",
+          "en": "Rana Ratan Singh"
+        },
+        {
+          "hi": "राणा विक्रमादित्य",
+          "en": "Rana Vikramaditya"
+        },
+        {
+          "hi": "युवराज भोजराज (Prince Bhojraj)",
+          "en": "Prince Bhojraj"
+        },
+        {
+          "hi": "राणा उदय सिंह",
+          "en": "Rana Udai Singh"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मीराबाई के आध्यात्मिक गुरु कौन माने जाते हैं जो काशी के प्रसिद्ध चर्मकार संत थे?",
+        "en": "Who is regarded as Meerabai's spiritual preceptor, the revered cobbler saint of Kashi?"
+      },
+      "o": [
+        {
+          "hi": "कबीरदास",
+          "en": "Kabirdas"
+        },
+        {
+          "hi": "रामानंद",
+          "en": "Ramananda"
+        },
+        {
+          "hi": "संत रविदास / रैदास (Sant Ravidas / Raidas)",
+          "en": "Sant Ravidas / Raidas"
+        },
+        {
+          "hi": "सेना नाई",
+          "en": "Sena Nai"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "असम में वैष्णव धर्म और 'एकशरण नामधर्म' का प्रचार करने वाले महान सुधारक कौन थे?",
+        "en": "Who was the great reformer who propagated Vaishnavism and 'Ekasarana Dharma' in Assam?"
+      },
+      "o": [
+        {
+          "hi": "चैतन्य महाप्रभु",
+          "en": "Chaitanya Mahaprabhu"
+        },
+        {
+          "hi": "विद्यापति",
+          "en": "Vidyapati"
+        },
+        {
+          "hi": "श्रीमंत शंकरदेव (Srimanta Sankardev)",
+          "en": "Srimanta Sankardev"
+        },
+        {
+          "hi": "माधवदेव",
+          "en": "Madhavdev"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महाराष्ट्र में भक्ति आंदोलन का जनक किसे माना जाता है जिन्होंने 'भावार्थ दीपिका' (ज्ञानेश्वरी) लिखी?",
+        "en": "Who is considered the pioneer of Bhakti in Maharashtra, author of 'Bhavartha Dipika' (Jnaneshvari)?"
+      },
+      "o": [
+        {
+          "hi": "संत तुकाराम",
+          "en": "Sant Tukaram"
+        },
+        {
+          "hi": "संत एकनाथ",
+          "en": "Sant Eknath"
+        },
+        {
+          "hi": "संत ज्ञानेश्वर (Jnaneshwar)",
+          "en": "Sant Jnaneshwar"
+        },
+        {
+          "hi": "समर्थ रामदास",
+          "en": "Samarth Ramdas"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "महाराष्ट्र के प्रसिद्ध 'वारकरी संप्रदाय' के प्रमुख आराध्य देवता कौन हैं?",
+        "en": "Who is the presiding deity of the famous 'Varkari Sampradaya' in Maharashtra?"
+      },
+      "o": [
+        {
+          "hi": "भगवान शिव",
+          "en": "Lord Shiva"
+        },
+        {
+          "hi": "भगवान गणेश",
+          "en": "Lord Ganesha"
+        },
+        {
+          "hi": "भगवान विट्ठल / विठोबा (पंढरपुर / Lord Vithoba)",
+          "en": "Lord Vitthala / Vithoba (Pandharpur)"
+        },
+        {
+          "hi": "भगवान कार्तिकेय",
+          "en": "Lord Kartikeya"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "छत्रपति शिवाजी महाराज के समकालीन प्रसिद्ध मराठी भक्ति संत कौन थे जिनके 'अभंग' प्रसिद्ध हैं?",
+        "en": "Which famous Marathi Bhakti saint was a contemporary of Chhatrapati Shivaji Maharaj?"
+      },
+      "o": [
+        {
+          "hi": "संत ज्ञानेश्वर",
+          "en": "Sant Jnaneshwar"
+        },
+        {
+          "hi": "संत नामदेव",
+          "en": "Sant Namdev"
+        },
+        {
+          "hi": "संत तुकाराम (Sant Tukaram)",
+          "en": "Sant Tukaram"
+        },
+        {
+          "hi": "संत एकनाथ",
+          "en": "Sant Eknath"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "छत्रपति शिवाजी महाराज के आध्यात्मिक और राजनीतिक गुरु कौन थे जिन्होंने 'दासबोध' ग्रंथ लिखा?",
+        "en": "Who was the spiritual and political mentor of Shivaji Maharaj, author of 'Dasbodh'?"
+      },
+      "o": [
+        {
+          "hi": "संत तुकाराम",
+          "en": "Sant Tukaram"
+        },
+        {
+          "hi": "संत एकनाथ",
+          "en": "Sant Eknath"
+        },
+        {
+          "hi": "समर्थ गुरु रामदास (Samarth Ramdas)",
+          "en": "Samarth Guru Ramdas"
+        },
+        {
+          "hi": "ज्ञानेश्वर",
+          "en": "Jnaneshwar"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "द्वैताद्वैतवाद (सनक संप्रदाय) दर्शन के प्रतिपादक कौन थे?",
+        "en": "Who was the proponent of the Dvaitadvaita (Sanaka Sampradaya) philosophical school?"
+      },
+      "o": [
+        {
+          "hi": "शंकराचार्य",
+          "en": "Shankaracharya"
+        },
+        {
+          "hi": "रामानुजाचार्य",
+          "en": "Ramanujacharya"
+        },
+        {
+          "hi": "निम्बार्काचार्य (Nimbarkacharya)",
+          "en": "Nimbarkacharya"
+        },
+        {
+          "hi": "माधवाचार्य",
+          "en": "Madhvacharya"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भक्ति संतों में दर्जी का कार्य करने वाले संत कौन थे?",
+        "en": "Which prominent Bhakti saint practiced the occupation of tailoring?"
+      },
+      "o": [
+        {
+          "hi": "कबीर",
+          "en": "Kabir"
+        },
+        {
+          "hi": "रैदास",
+          "en": "Raidas"
+        },
+        {
+          "hi": "संत नामदेव (Sant Namdev)",
+          "en": "Sant Namdev"
+        },
+        {
+          "hi": "धन्ना",
+          "en": "Dhanna"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जाट जाति के किस भक्ति संत का जन्म राजस्थान के टोंक जिले में हुआ था?",
+        "en": "Which peasant Bhakti saint belonging to the Jat community was born in Tonk, Rajasthan?"
+      },
+      "o": [
+        {
+          "hi": "पीपा",
+          "en": "Pipa"
+        },
+        {
+          "hi": "सेना",
+          "en": "Sena"
+        },
+        {
+          "hi": "संत धन्ना (Sant Dhanna)",
+          "en": "Sant Dhanna"
+        },
+        {
+          "hi": "सधना",
+          "en": "Sadhana"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भक्ति आंदोलन में सगुण और निर्गुण भक्ति में मुख्य अंतर क्या था?",
+        "en": "What was the fundamental distinction between Saguna and Nirguna forms of Bhakti?"
+      },
+      "o": [
+        {
+          "hi": "सगुण में ईश्वर को नहीं माना जाता",
+          "en": "Saguna rejects God"
+        },
+        {
+          "hi": "निर्गुण में वेदों का विरोध था",
+          "en": "Nirguna opposed Vedas"
+        },
+        {
+          "hi": "सगुण में साकार रूप (अवतार/मूर्ति) की पूजा थी जबकि निर्गुण में निराकार ईश्वर की आराधना",
+          "en": "Saguna worships manifested form while Nirguna worships formless Divine"
+        },
+        {
+          "hi": "दोनों एक समान थे",
+          "en": "Both were identical"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रामानंद के प्रसिद्ध 12 शिष्यों में नाई का पेशा करने वाले संत कौन थे?",
+        "en": "Among the 12 chief disciples of Ramananda, who practiced the profession of a barber?"
+      },
+      "o": [
+        {
+          "hi": "कबीर (जुलाहा)",
+          "en": "Kabir (Weaver)"
+        },
+        {
+          "hi": "रैदास (चर्मकार)",
+          "en": "Raidas (Cobbler)"
+        },
+        {
+          "hi": "धन्ना (जाट)",
+          "en": "Dhanna (Jat)"
+        },
+        {
+          "hi": "संत सेना (Sant Sena - नाई)",
+          "en": "Sant Sena (Barber)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रामानंद के शिष्यों में राजपूत राजा कौन थे जिन्होंने अपना राज्य त्यागकर संन्यास लिया?",
+        "en": "Who was the Rajput prince among Ramananda's disciples who abdicated to take sannyasa?"
+      },
+      "o": [
+        {
+          "hi": "धन्ना",
+          "en": "Dhanna"
+        },
+        {
+          "hi": "सधना",
+          "en": "Sadhana"
+        },
+        {
+          "hi": "सेना",
+          "en": "Sena"
+        },
+        {
+          "hi": "भगत पीपा (राजा पीपा / Bhagat Pipa)",
+          "en": "Bhagat Pipa"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कसाई का कार्य करने वाले किस संत के पद गुरु ग्रंथ साहिब में संकलित हैं?",
+        "en": "Which saint, practicing butchery, had his devotional hymns included in Guru Granth Sahib?"
+      },
+      "o": [
+        {
+          "hi": "कबीर",
+          "en": "Kabir"
+        },
+        {
+          "hi": "रैदास",
+          "en": "Raidas"
+        },
+        {
+          "hi": "पीपा",
+          "en": "Pipa"
+        },
+        {
+          "hi": "संत सधना (Sant Sadhana)",
+          "en": "Sant Sadhana"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वल्लभाचार्य ने कृष्ण की बाल लीलाओं की पूजा हेतु किस मार्ग की स्थापना की थी?",
+        "en": "Which spiritual path did Vallabhacharya establish focusing on child Krishna's Leelas?"
+      },
+      "o": [
+        {
+          "hi": "ज्ञानमार्ग",
+          "en": "Jnanamarga"
+        },
+        {
+          "hi": "कर्ममार्ग",
+          "en": "Karmamarga"
+        },
+        {
+          "hi": "योगमार्ग",
+          "en": "Yogamarga"
+        },
+        {
+          "hi": "पुष्टिमार्ग (Pushtimarga - कृपा का मार्ग)",
+          "en": "Pushtimarga (Path of Grace)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सूरदास, परमानंद दास, कुंभन दास आदि 8 कवियों को मिलाकर विट्ठलनाथ ने किस मंडली की स्थापना की?",
+        "en": "Vitthalnath established which elite poetic assembly comprising 8 Krishna-bhakti poets?"
+      },
+      "o": [
+        {
+          "hi": "नवरत्न",
+          "en": "Navaratna"
+        },
+        {
+          "hi": "अष्टदिग्गज",
+          "en": "Ashtadiggaja"
+        },
+        {
+          "hi": "अष्टप्रधान",
+          "en": "Ashtapradhan"
+        },
+        {
+          "hi": "अष्टछाप (Ashtachhap - 1565 ई.)",
+          "en": "Ashtachhap (1565 AD)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तुलसीदास जी द्वारा रचित ब्रजभाषा का प्रसिद्ध आत्मनिवेदनपरक ग्रंथ कौन-सा है?",
+        "en": "Which celebrated prayerful text in Braj Bhasha was authored by Goswami Tulsidas?"
+      },
+      "o": [
+        {
+          "hi": "रामचरितमानस",
+          "en": "Ramcharitmanas"
+        },
+        {
+          "hi": "दोहावली",
+          "en": "Dohavali"
+        },
+        {
+          "hi": "गीतावली",
+          "en": "Gitavali"
+        },
+        {
+          "hi": "विनयपत्रिका (Vinayapatrika)",
+          "en": "Vinayapatrika"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मीराबाई ने अपने जीवन का अंतिम समय किस तीर्थस्थल में कृष्ण मूर्ति के सम्मुख व्यतीत किया?",
+        "en": "Where did Meerabai spend the final years of her life in front of the Krishna idol?"
+      },
+      "o": [
+        {
+          "hi": "वृंदावन",
+          "en": "Vrindavan"
+        },
+        {
+          "hi": "मथुरा",
+          "en": "Mathura"
+        },
+        {
+          "hi": "काशी",
+          "en": "Kashi"
+        },
+        {
+          "hi": "द्वारका (रणछोड़जी मंदिर / Dwarka)",
+          "en": "Dwarka (Ranchhodji Temple)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शंकराचार्य ने भारत के पूर्वी कोने में कौन-से प्रसिद्ध मठ की स्थापना की थी?",
+        "en": "Which famous holy monastery did Adi Shankaracharya establish in the eastern corner of India?"
+      },
+      "o": [
+        {
+          "hi": "श्रृंगेरी मठ (दक्षिण)",
+          "en": "Sringeri Mutt (South)"
+        },
+        {
+          "hi": "द्वारका मठ (पश्चिम)",
+          "en": "Dwarka Mutt (West)"
+        },
+        {
+          "hi": "ज्योतिर्मठ / बदरिकाश्रम (उत्तर)",
+          "en": "Jyotirmath (North)"
+        },
+        {
+          "hi": "गोवर्धन मठ / पुरी (Govardhana Mutt, Puri)",
+          "en": "Govardhana Mutt (Puri)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दक्षिण भारत में श्रृंगेरी मठ की स्थापना शंकराचार्य ने किस नदी के तट पर की थी?",
+        "en": "On the banks of which river did Shankaracharya establish the Sringeri Mutt in Karnataka?"
+      },
+      "o": [
+        {
+          "hi": "कावेरी नदी",
+          "en": "Kaveri river"
+        },
+        {
+          "hi": "कृष्णा नदी",
+          "en": "Krishna river"
+        },
+        {
+          "hi": "गोदावरी नदी",
+          "en": "Godavari river"
+        },
+        {
+          "hi": "तुंगा नदी (Tunga River, चिकमगलूर)",
+          "en": "Tunga river (Chikmagalur)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भक्ति आंदोलन के संतों ने समाज में किस कुप्रथा पर सबसे प्रखर प्रहार किया?",
+        "en": "Against which deep-rooted social evil did Bhakti saints launch the fiercest assault?"
+      },
+      "o": [
+        {
+          "hi": "व्यापार व्यवस्था",
+          "en": "Trading system"
+        },
+        {
+          "hi": "शिक्षा प्रणाली",
+          "en": "Education system"
+        },
+        {
+          "hi": "सैनिक सेवा",
+          "en": "Military service"
+        },
+        {
+          "hi": "जाति-पांत, छुआछूत, धार्मिक आडंबर और पाखंड",
+          "en": "Caste discrimination, untouchability & religious dogma"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भक्ति आंदोलन का भारतीय साहित्य पर सबसे बड़ा क्रांतिकारी प्रभाव क्या था?",
+        "en": "What was the most revolutionary impact of the Bhakti movement on Indian literature?"
+      },
+      "o": [
+        {
+          "hi": "संस्कृत का एकाधिकार बढ़ना",
+          "en": "Growth of Sanskrit monopoly"
+        },
+        {
+          "hi": "फारसी का प्रसार",
+          "en": "Spread of Persian"
+        },
+        {
+          "hi": "अंग्रेजी का आगमन",
+          "en": "Arrival of English"
+        },
+        {
+          "hi": "क्षेत्रीय लोकभाषाओं (हिंदी, अवधी, ब्रज, बंगाली, मराठी) का अभूतपूर्व विकास",
+          "en": "Phenomenal rise of regional vernacular literatures"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भक्ति आंदोलन और सूफी आंदोलन के समन्वय ने भारत में किस साझी सांस्कृतिक चेतना को जन्म दिया?",
+        "en": "What composite cultural consciousness was nurtured by the synthesis of Bhakti and Sufi movements?"
+      },
+      "o": [
+        {
+          "hi": "धार्मिक युद्ध",
+          "en": "Religious warfare"
+        },
+        {
+          "hi": "सांप्रदायिक विभाजन",
+          "en": "Communal partition"
+        },
+        {
+          "hi": "औपनिवेशिक मानसिकता",
+          "en": "Colonial mindset"
+        },
+        {
+          "hi": "गंगा-जमुनी साझा सांस्कृतिक ताना-बाना और आपसी सद्भाव",
+          "en": "Ganga-Jamuni composite culture and mutual communal harmony"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}

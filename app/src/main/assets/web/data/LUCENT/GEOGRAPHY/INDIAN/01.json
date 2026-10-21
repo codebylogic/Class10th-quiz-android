@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भारत का भूगोल (Indian Geography)",
+  "subtitle": "सामान्य जानकारी (भारत)",
+  "description": "सामान्य जानकारी (भारत) पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारत किस गोलार्द्ध में स्थित है?",
+        "en": "In which hemisphere is India located geographically?"
+      },
+      "o": [
+        {
+          "hi": "उत्तरी और पूर्वी गोलार्द्ध (Northern & Eastern)",
+          "en": "Northern & Eastern"
+        },
+        {
+          "hi": "दक्षिणी और पूर्वी गोलार्द्ध",
+          "en": "Southern & Eastern"
+        },
+        {
+          "hi": "उत्तरी और पश्चिमी गोलार्द्ध",
+          "en": "Northern & Western"
+        },
+        {
+          "hi": "दक्षिणी और पश्चिमी गोलार्द्ध",
+          "en": "Southern & Western"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का कुल भौगोलिक क्षेत्रफल लगभग कितना है?",
+        "en": "What is the total approximate geographical area of India?"
+      },
+      "o": [
+        {
+          "hi": "30,87,240 वर्ग किमी",
+          "en": "30,87,240 sq km"
+        },
+        {
+          "hi": "32,87,263 वर्ग किमी (32.87 Lakh sq km)",
+          "en": "32,87,263 sq km"
+        },
+        {
+          "hi": "35,12,000 वर्ग किमी",
+          "en": "35,12,000 sq km"
+        },
+        {
+          "hi": "38,40,000 वर्ग किमी",
+          "en": "38,40,000 sq km"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत का क्षेत्रफल विश्व के कुल स्थलीय क्षेत्रफल का कितना प्रतिशत है?",
+        "en": "India's area constitutes what percentage of the world's total land area?"
+      },
+      "o": [
+        {
+          "hi": "1.5%",
+          "en": "1.5%"
+        },
+        {
+          "hi": "3.2%",
+          "en": "3.2%"
+        },
+        {
+          "hi": "2.42 प्रतिशत (2.42%)",
+          "en": "2.42%"
+        },
+        {
+          "hi": "4.16%",
+          "en": "4.16%"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "क्षेत्रफल की दृष्टि से विश्व में भारत का कौन-सा स्थान है?",
+        "en": "What is India's rank in the world in terms of geographical area?"
+      },
+      "o": [
+        {
+          "hi": "पाँचवाँ",
+          "en": "Fifth"
+        },
+        {
+          "hi": "छठा",
+          "en": "Sixth"
+        },
+        {
+          "hi": "आठवाँ",
+          "en": "Eighth"
+        },
+        {
+          "hi": "सातवाँ (Seventh - रूस, कनाडा, चीन, USA, ब्राजील, ऑस्ट्रेलिया के बाद)",
+          "en": "Seventh"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत की मुख्य भूमि का अक्षांशीय विस्तार (Latitudinal Extent) क्या है?",
+        "en": "What is the latitudinal extent of the mainland of India?"
+      },
+      "o": [
+        {
+          "hi": "8°4' उत्तरी अक्षांश से 37°6' उत्तरी अक्षांश",
+          "en": "8°4' N to 37°6' N"
+        },
+        {
+          "hi": "6°4' N से 37°6' N",
+          "en": "6°4' N to 37°6' N"
+        },
+        {
+          "hi": "8°4' S से 37°6' N",
+          "en": "8°4' S to 37°6' N"
+        },
+        {
+          "hi": "10°4' N से 40°6' N",
+          "en": "10°4' N to 40°6' N"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का देशान्तरीय विस्तार (Longitudinal Extent) क्या है?",
+        "en": "What is the longitudinal extent of India?"
+      },
+      "o": [
+        {
+          "hi": "68°7' W से 97°25' W",
+          "en": "68°7' W to 97°25' W"
+        },
+        {
+          "hi": "68°7' पूर्वी देशान्तर से 97°25' पूर्वी देशान्तर",
+          "en": "68°7' E to 97°25' E"
+        },
+        {
+          "hi": "70°5' E से 95°20' E",
+          "en": "70°5' E to 95°20' E"
+        },
+        {
+          "hi": "65°7' E से 100°25' E",
+          "en": "65°7' E to 100°25' E"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत का उत्तर से दक्षिण तक वास्तविक विस्तार कितना है?",
+        "en": "What is the north-to-south maximum extent of India?"
+      },
+      "o": [
+        {
+          "hi": "2,933 किमी",
+          "en": "2,933 km"
+        },
+        {
+          "hi": "3,000 किमी",
+          "en": "3,000 km"
+        },
+        {
+          "hi": "3,214 किलोमीटर (3,214 km)",
+          "en": "3,214 km"
+        },
+        {
+          "hi": "3,400 किमी",
+          "en": "3,400 km"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का पूर्व से पश्चिम तक वास्तविक विस्तार कितना है?",
+        "en": "What is the east-to-west maximum breadth of India?"
+      },
+      "o": [
+        {
+          "hi": "3,214 किमी",
+          "en": "3,214 km"
+        },
+        {
+          "hi": "3,100 किमी",
+          "en": "3,100 km"
+        },
+        {
+          "hi": "2,850 किमी",
+          "en": "2,850 km"
+        },
+        {
+          "hi": "2,933 किलोमीटर (2,933 km)",
+          "en": "2,933 km"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत की स्थलीय सीमा की कुल लंबाई (Land Frontier) लगभग कितनी है?",
+        "en": "What is the total length of India's land boundary?"
+      },
+      "o": [
+        {
+          "hi": "15,200 किलोमीटर (15,200 km)",
+          "en": "15,200 km"
+        },
+        {
+          "hi": "12,500 किमी",
+          "en": "12,500 km"
+        },
+        {
+          "hi": "7,516.6 किमी",
+          "en": "7,516.6 km"
+        },
+        {
+          "hi": "6,100 किमी",
+          "en": "6,100 km"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "द्वीपों सहित भारत की कुल समुद्र तटीय सीमा की लंबाई कितनी है?",
+        "en": "What is the total coastline length of India including islands?"
+      },
+      "o": [
+        {
+          "hi": "6,100 किमी",
+          "en": "6,100 km"
+        },
+        {
+          "hi": "7,516.6 किलोमीटर (7,516.6 km)",
+          "en": "7,516.6 km"
+        },
+        {
+          "hi": "8,000 किमी",
+          "en": "8,000 km"
+        },
+        {
+          "hi": "9,200 किमी",
+          "en": "9,200 km"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत की मुख्य भूमि की तटीय सीमा की लंबाई कितनी है?",
+        "en": "What is the coastline length of the mainland of India (excluding islands)?"
+      },
+      "o": [
+        {
+          "hi": "5,500 किमी",
+          "en": "5,500 km"
+        },
+        {
+          "hi": "7,516.6 किमी",
+          "en": "7,516.6 km"
+        },
+        {
+          "hi": "6,100 किलोमीटर (6,100 km)",
+          "en": "6,100 km"
+        },
+        {
+          "hi": "6,800 किमी",
+          "en": "6,800 km"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे दक्षिणी बिंदु (Southernmost Point) कौन-सा है?",
+        "en": "Which is the southernmost point of the Republic of India?"
+      },
+      "o": [
+        {
+          "hi": "कन्याकुमारी",
+          "en": "Kanyakumari"
+        },
+        {
+          "hi": "इंदिरा कॉल",
+          "en": "Indira Col"
+        },
+        {
+          "hi": "किबिथू",
+          "en": "Kibithu"
+        },
+        {
+          "hi": "इंदिरा पॉइंट (ग्रेट निकोबार / 6°4' N)",
+          "en": "Indira Point (Great Nicobar)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इंदिरा पॉइंट का पूर्व नाम क्या था?",
+        "en": "What was the former name of Indira Point?"
+      },
+      "o": [
+        {
+          "hi": "पिग्मेलियन पॉइंट / पार्सन पॉइंट",
+          "en": "Pygmalion Point / Parson Point"
+        },
+        {
+          "hi": "केप कोमोरिन",
+          "en": "Cape Comorin"
+        },
+        {
+          "hi": "प्वाइंट कैलिमेर",
+          "en": "Point Calimere"
+        },
+        {
+          "hi": "गांधी पॉइंट",
+          "en": "Gandhi Point"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत की मुख्य भूमि का सबसे दक्षिणी छोर कौन-सा है?",
+        "en": "Which is the southernmost tip of the mainland of India?"
+      },
+      "o": [
+        {
+          "hi": "इंदिरा पॉइंट",
+          "en": "Indira Point"
+        },
+        {
+          "hi": "केप कोमोरिन (कन्याकुमारी, तमिलनाडु)",
+          "en": "Cape Comorin (Kanyakumari, TN)"
+        },
+        {
+          "hi": "धनुषकोडी",
+          "en": "Dhanushkodi"
+        },
+        {
+          "hi": "रामेश्वरम",
+          "en": "Rameshwaram"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे उत्तरी बिंदु (Northernmost Point) कौन-सा है?",
+        "en": "Which is the northernmost point of India?"
+      },
+      "o": [
+        {
+          "hi": "सियाचिन बेस",
+          "en": "Siachen Base"
+        },
+        {
+          "hi": "दौलत बेग ओल्डी",
+          "en": "Daulat Beg Oldi"
+        },
+        {
+          "hi": "इंदिरा कॉल (लद्दाख / Indira Col)",
+          "en": "Indira Col (Ladakh)"
+        },
+        {
+          "hi": "कारगिल",
+          "en": "Kargil"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे पश्चिमी बिंदु (Westernmost Point) कौन-सा है?",
+        "en": "Which is the westernmost point of India?"
+      },
+      "o": [
+        {
+          "hi": "कच्छ",
+          "en": "Kutch"
+        },
+        {
+          "hi": "द्वारका",
+          "en": "Dwarka"
+        },
+        {
+          "hi": "कांडला",
+          "en": "Kandla"
+        },
+        {
+          "hi": "गुहार मोती / सर क्रीक (गुजरात / Guhar Moti)",
+          "en": "Guhar Moti (Gujarat)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत का सबसे पूर्वी बिंदु (Easternmost Point) कौन-सा है?",
+        "en": "Which is the easternmost point of India?"
+      },
+      "o": [
+        {
+          "hi": "किबिथू (अरुणाचल प्रदेश / Kibithu)",
+          "en": "Kibithu (Arunachal Pradesh)"
+        },
+        {
+          "hi": "तवांग",
+          "en": "Tawang"
+        },
+        {
+          "hi": "तेजू",
+          "en": "Tezu"
+        },
+        {
+          "hi": "डोंग",
+          "en": "Dong"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कर्क रेखा (23°30' N) भारत के कितने राज्यों से होकर गुजरती है?",
+        "en": "Tropic of Cancer (23°30' N) passes through how many Indian states?"
+      },
+      "o": [
+        {
+          "hi": "7 राज्य",
+          "en": "7 States"
+        },
+        {
+          "hi": "8 राज्य (गुजरात, राज., MP, छत्तीस., झार., WB, त्रिपु., मिजो.)",
+          "en": "8 States"
+        },
+        {
+          "hi": "9 राज्य",
+          "en": "9 States"
+        },
+        {
+          "hi": "6 राज्य",
+          "en": "6 States"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय मानक समय (IST) की 82°30' पूर्वी देशान्तर रेखा कितने राज्यों से गुजरती है?",
+        "en": "Indian Standard Meridian (82°30' E) passes through how many states?"
+      },
+      "o": [
+        {
+          "hi": "4 राज्य",
+          "en": "4 States"
+        },
+        {
+          "hi": "6 राज्य",
+          "en": "6 States"
+        },
+        {
+          "hi": "5 राज्य (UP, MP, छत्तीसगढ़, ओडिशा, AP)",
+          "en": "5 States (UP, MP, CG, OD, AP)"
+        },
+        {
+          "hi": "7 राज्य",
+          "en": "7 States"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कर्क रेखा और भारतीय मानक समय रेखा एक-दूसरे को किस राज्य में काटती हैं?",
+        "en": "In which state do the Tropic of Cancer and the IST Meridian intersect?"
+      },
+      "o": [
+        {
+          "hi": "मध्य प्रदेश",
+          "en": "Madhya Pradesh"
+        },
+        {
+          "hi": "झारखंड",
+          "en": "Jharkhand"
+        },
+        {
+          "hi": "ओडिशा",
+          "en": "Odisha"
+        },
+        {
+          "hi": "छत्तीसगढ़ (कोरिया/सूरजपुर जिला)",
+          "en": "Chhattisgarh"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत की सबसे लंबी अंतरराष्ट्रीय स्थलीय सीमा किस देश के साथ लगती है?",
+        "en": "India shares its longest international land border with which country?"
+      },
+      "o": [
+        {
+          "hi": "बांग्लादेश (4,096.7 किमी)",
+          "en": "Bangladesh (4,096.7 km)"
+        },
+        {
+          "hi": "चीन (3,488 किमी)",
+          "en": "China"
+        },
+        {
+          "hi": "पाकिस्तान (3,323 किमी)",
+          "en": "Pakistan"
+        },
+        {
+          "hi": "नेपाल (1,751 किमी)",
+          "en": "Nepal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत की सबसे छोटी अंतरराष्ट्रीय स्थलीय सीमा किस देश के साथ है?",
+        "en": "India shares its shortest international land border with which country?"
+      },
+      "o": [
+        {
+          "hi": "भूटान",
+          "en": "Bhutan"
+        },
+        {
+          "hi": "अफगानिस्तान (106 किमी / POK)",
+          "en": "Afghanistan (106 km)"
+        },
+        {
+          "hi": "म्यांमार",
+          "en": "Myanmar"
+        },
+        {
+          "hi": "नेपाल",
+          "en": "Nepal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत और चीन के बीच की सीमा रेखा को क्या कहा जाता है?",
+        "en": "What is the boundary line between India and China called?"
+      },
+      "o": [
+        {
+          "hi": "रेडक्लिफ रेखा",
+          "en": "Radcliffe Line"
+        },
+        {
+          "hi": "डूरंड रेखा",
+          "en": "Durand Line"
+        },
+        {
+          "hi": "मैकमोहन रेखा (1914 में शिमला में निर्धारित)",
+          "en": "McMahon Line (1914)"
+        },
+        {
+          "hi": "नियंत्रण रेखा (LOC)",
+          "en": "Line of Control"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत और पाकिस्तान के बीच की सीमा रेखा को क्या कहा जाता है?",
+        "en": "What is the boundary line between India and Pakistan called?"
+      },
+      "o": [
+        {
+          "hi": "मैकमोहन रेखा",
+          "en": "McMahon Line"
+        },
+        {
+          "hi": "डूरंड रेखा",
+          "en": "Durand Line"
+        },
+        {
+          "hi": "हिंडनबर्ग रेखा",
+          "en": "Hindenburg Line"
+        },
+        {
+          "hi": "रेडक्लिफ रेखा (17 अगस्त 1947)",
+          "en": "Radcliffe Line (1947)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत और अफगानिस्तान के बीच 1896 में खींची गई सीमा रेखा कौन-सी थी?",
+        "en": "Which boundary line was demarcated between British India and Afghanistan in 1896?"
+      },
+      "o": [
+        {
+          "hi": "डूरंड रेखा (Durand Line - अब पाक-अफगान)",
+          "en": "Durand Line"
+        },
+        {
+          "hi": "रेडक्लिफ रेखा",
+          "en": "Radcliffe Line"
+        },
+        {
+          "hi": "मैकमोहन रेखा",
+          "en": "McMahon Line"
+        },
+        {
+          "hi": "कर्जन रेखा",
+          "en": "Curzon Line"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत के कितने राज्यों की सीमाएं समुद्री तटरेखा (Coastline) से लगती हैं?",
+        "en": "How many Indian states have a coastline?"
+      },
+      "o": [
+        {
+          "hi": "8 राज्य",
+          "en": "8 States"
+        },
+        {
+          "hi": "9 राज्य (गुजरात, महा., गोवा, कर्ण., केर., TN, AP, ओडि., WB)",
+          "en": "9 States"
+        },
+        {
+          "hi": "10 राज्य",
+          "en": "10 States"
+        },
+        {
+          "hi": "7 राज्य",
+          "en": "7 States"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत के किस राज्य की तटरेखा सबसे लंबी है?",
+        "en": "Which Indian state has the longest coastline (~1,214 km)?"
+      },
+      "o": [
+        {
+          "hi": "आंध्र प्रदेश",
+          "en": "Andhra Pradesh"
+        },
+        {
+          "hi": "तमिलनाडु",
+          "en": "Tamil Nadu"
+        },
+        {
+          "hi": "गुजरात (Gujarat - लगभग 1214 किमी)",
+          "en": "Gujarat (~1,214 km)"
+        },
+        {
+          "hi": "महाराष्ट्र",
+          "en": "Maharashtra"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दक्षिण भारत (प्रायद्वीपीय भारत) में सबसे लंबी तटरेखा वाला राज्य कौन-सा है?",
+        "en": "Which state has the longest coastline in South / Peninsular India?"
+      },
+      "o": [
+        {
+          "hi": "तमिलनाडु",
+          "en": "Tamil Nadu"
+        },
+        {
+          "hi": "केरल",
+          "en": "Kerala"
+        },
+        {
+          "hi": "कर्नाटक",
+          "en": "Karnataka"
+        },
+        {
+          "hi": "आंध्र प्रदेश (Andhra Pradesh - लगभग 974 किमी)",
+          "en": "Andhra Pradesh (~974 km)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत के किस राज्य की तटरेखा सबसे छोटी है?",
+        "en": "Which Indian coastal state has the shortest coastline (~101 km)?"
+      },
+      "o": [
+        {
+          "hi": "गोवा (Goa)",
+          "en": "Goa"
+        },
+        {
+          "hi": "पश्चिम बंगाल",
+          "en": "West Bengal"
+        },
+        {
+          "hi": "कर्नाटक",
+          "en": "Karnataka"
+        },
+        {
+          "hi": "ओडिशा",
+          "en": "Odisha"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत के कितने राज्य और केंद्र शासित प्रदेश अंतरराष्ट्रीय सीमा बनाते हैं?",
+        "en": "How many Indian states share land borders with neighboring countries?"
+      },
+      "o": [
+        {
+          "hi": "14 राज्य",
+          "en": "14 States"
+        },
+        {
+          "hi": "16 राज्य और 2 UTs (लद्दाख व J&K)",
+          "en": "16 States & 2 UTs"
+        },
+        {
+          "hi": "18 राज्य",
+          "en": "18 States"
+        },
+        {
+          "hi": "20 राज्य",
+          "en": "20 States"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कौन-सा भारतीय राज्य तीन तरफ से बांग्लादेश से घिरा हुआ है?",
+        "en": "Which Indian state is surrounded by Bangladesh on three sides?"
+      },
+      "o": [
+        {
+          "hi": "असम",
+          "en": "Assam"
+        },
+        {
+          "hi": "मेघालय",
+          "en": "Meghalaya"
+        },
+        {
+          "hi": "त्रिपुरा (Tripura)",
+          "en": "Tripura"
+        },
+        {
+          "hi": "मिजोरम",
+          "en": "Mizoram"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का कौन-सा राज्य सर्वाधिक राज्यों की सीमाओं को स्पर्श करता है?",
+        "en": "Which Indian state borders the maximum number of other states (8 states + Delhi)?"
+      },
+      "o": [
+        {
+          "hi": "मध्य प्रदेश",
+          "en": "Madhya Pradesh"
+        },
+        {
+          "hi": "राजस्थान",
+          "en": "Rajasthan"
+        },
+        {
+          "hi": "महाराष्ट्र",
+          "en": "Maharashtra"
+        },
+        {
+          "hi": "उत्तर प्रदेश (8 राज्य + 1 UT दिल्ली)",
+          "en": "Uttar Pradesh (8 states + 1 UT)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उत्तर प्रदेश का कौन-सा एकमात्र जिला चार राज्यों (MP, छत्तीसगढ़, झारखंड, बिहार) को छूता है?",
+        "en": "Which only district of UP borders four states (MP, CG, JH, BR)?"
+      },
+      "o": [
+        {
+          "hi": "सोनभद्र जिला (Sonbhadra)",
+          "en": "Sonbhadra"
+        },
+        {
+          "hi": "झांसी",
+          "en": "Jhansi"
+        },
+        {
+          "hi": "सहारनपुर",
+          "en": "Saharanpur"
+        },
+        {
+          "hi": "ललितपुर",
+          "en": "Lalitpur"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत और श्रीलंका को अलग करने वाली जलसंधि और खाड़ी कौन-सी है?",
+        "en": "Which strait and gulf separate India from Sri Lanka?"
+      },
+      "o": [
+        {
+          "hi": "मलक्का जलसंधि",
+          "en": "Malacca Strait"
+        },
+        {
+          "hi": "पाक जलसंधि और मन्नार की खाड़ी (Palk Strait & Gulf of Mannar)",
+          "en": "Palk Strait & Gulf of Mannar"
+        },
+        {
+          "hi": "सुंडा जलसंधि",
+          "en": "Sunda Strait"
+        },
+        {
+          "hi": "हॉर्मुज जलसंधि",
+          "en": "Hormuz Strait"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत का अनन्य आर्थिक क्षेत्र (EEZ) आधार रेखा से कितनी दूरी तक फैला है?",
+        "en": "India's Exclusive Economic Zone (EEZ) extends to what distance from baseline?"
+      },
+      "o": [
+        {
+          "hi": "12 समुद्री मील",
+          "en": "12 Nautical Miles"
+        },
+        {
+          "hi": "24 समुद्री मील",
+          "en": "24 Nautical Miles"
+        },
+        {
+          "hi": "200 समुद्री मील (200 Nautical Miles)",
+          "en": "200 Nautical Miles"
+        },
+        {
+          "hi": "350 समुद्री मील",
+          "en": "350 Nautical Miles"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत की प्रादेशिक जल सीमा (Territorial Water) तट से कितनी दूरी तक है?",
+        "en": "India's Territorial Waters extend up to what distance from the baseline?"
+      },
+      "o": [
+        {
+          "hi": "6 नॉटिकल मील",
+          "en": "6 NM"
+        },
+        {
+          "hi": "18 नॉटिकल मील",
+          "en": "18 NM"
+        },
+        {
+          "hi": "24 नॉटिकल मील",
+          "en": "24 NM"
+        },
+        {
+          "hi": "12 नॉटिकल मील (12 Nautical Miles)",
+          "en": "12 Nautical Miles"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पुदुचेरी केंद्र शासित प्रदेश का विस्तार कितने राज्यों में है?",
+        "en": "Union Territory of Puducherry has enclaves spread across how many states?"
+      },
+      "o": [
+        {
+          "hi": "3 राज्यों में (तमिलनाडु-पुदुचेरी/कराइकल, केरल-माहे, AP-यनम)",
+          "en": "3 States (TN, KL, AP)"
+        },
+        {
+          "hi": "2 राज्यों में",
+          "en": "2 States"
+        },
+        {
+          "hi": "4 राज्यों में",
+          "en": "4 States"
+        },
+        {
+          "hi": "केवल 1 राज्य में",
+          "en": "Only 1 State"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पुदुचेरी का सबसे छोटा जिला 'माहे' किस राज्य के तट पर स्थित है?",
+        "en": "Mahe district of Puducherry is located on the coast of which state?"
+      },
+      "o": [
+        {
+          "hi": "तमिलनाडु",
+          "en": "Tamil Nadu"
+        },
+        {
+          "hi": "केरल (मालाबार तट / Kerala)",
+          "en": "Kerala"
+        },
+        {
+          "hi": "आंध्र प्रदेश",
+          "en": "Andhra Pradesh"
+        },
+        {
+          "hi": "कर्नाटक",
+          "en": "Karnataka"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत की सर्वाधिक पूर्वी और पश्चिमी सीमाओं के बीच समय में कितना अंतर है?",
+        "en": "What is the approximate solar time difference between eastern (Arunachal) & western (Gujarat) extremities?"
+      },
+      "o": [
+        {
+          "hi": "1 घंटा",
+          "en": "1 hour"
+        },
+        {
+          "hi": "1 घंटा 30 मिनट",
+          "en": "1 hr 30 min"
+        },
+        {
+          "hi": "लगभग 2 घंटे (30° देशान्तर = 120 मिनट)",
+          "en": "Approx 2 Hours (30° = 120 min)"
+        },
+        {
+          "hi": "3 घंटे",
+          "en": "3 hours"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आदम का पुल (Ram Setu / Adam's Bridge) किन दो स्थलों के मध्य स्थित है?",
+        "en": "Between which two landmasses does Adam's Bridge (Ram Setu) lie?"
+      },
+      "o": [
+        {
+          "hi": "कन्याकुमारी और कोलंबो",
+          "en": "Kanyakumari & Colombo"
+        },
+        {
+          "hi": "कोचीन और जाफना",
+          "en": "Cochin & Jaffna"
+        },
+        {
+          "hi": "तूतीकोरिन और त्रिंकोमाली",
+          "en": "Tuticorin & Trincomalee"
+        },
+        {
+          "hi": "धनुषकोडी (भारत) और तलाईमन्नार (श्रीलंका)",
+          "en": "Dhanushkodi (India) & Talaimannar (Sri Lanka)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सिक्किम राज्य किन तीन देशों की अंतरराष्ट्रीय सीमाओं को स्पर्श करता है?",
+        "en": "Sikkim borders which three sovereign foreign nations?"
+      },
+      "o": [
+        {
+          "hi": "नेपाल, भूटान और चीन (तिब्बत)",
+          "en": "Nepal, Bhutan & China (Tibet)"
+        },
+        {
+          "hi": "चीन, म्यांमार और बांग्लादेश",
+          "en": "China, Myanmar & Bangladesh"
+        },
+        {
+          "hi": "भूटान, बांग्लादेश और म्यांमार",
+          "en": "Bhutan, Bangladesh & Myanmar"
+        },
+        {
+          "hi": "नेपाल, पाकिस्तान और चीन",
+          "en": "Nepal, Pakistan & China"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पश्चिम बंगाल राज्य किन तीन देशों की अंतरराष्ट्रीय सीमाओं को छूता है?",
+        "en": "West Bengal state shares international borders with which three countries?"
+      },
+      "o": [
+        {
+          "hi": "चीन, नेपाल और भूटान",
+          "en": "China, Nepal & Bhutan"
+        },
+        {
+          "hi": "बांग्लादेश, नेपाल और भूटान (Bangladesh, Nepal & Bhutan)",
+          "en": "Bangladesh, Nepal & Bhutan"
+        },
+        {
+          "hi": "बांग्लादेश, म्यांमार और भूटान",
+          "en": "Bangladesh, Myanmar & Bhutan"
+        },
+        {
+          "hi": "नेपाल, भूटान और म्यांमार",
+          "en": "Nepal, Bhutan & Myanmar"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अरुणाचल प्रदेश किन तीन देशों के साथ अंतरराष्ट्रीय सीमा साझा करता है?",
+        "en": "Arunachal Pradesh shares international frontiers with which three countries?"
+      },
+      "o": [
+        {
+          "hi": "नेपाल, चीन और भूटान",
+          "en": "Nepal, China & Bhutan"
+        },
+        {
+          "hi": "चीन, बांग्लादेश और म्यांमार",
+          "en": "China, Bangladesh & Myanmar"
+        },
+        {
+          "hi": "भूटान, चीन और म्यांमार (Bhutan, China & Myanmar)",
+          "en": "Bhutan, China & Myanmar"
+        },
+        {
+          "hi": "भूटान, नेपाल और म्यांमार",
+          "en": "Bhutan, Nepal & Myanmar"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लद्दाख केंद्र शासित प्रदेश किन तीन देशों से सीमा साझा करता है?",
+        "en": "Union Territory of Ladakh borders which three countries?"
+      },
+      "o": [
+        {
+          "hi": "नेपाल, चीन और भूटान",
+          "en": "Nepal, China & Bhutan"
+        },
+        {
+          "hi": "रूस, चीन और पाकिस्तान",
+          "en": "Russia, China & Pakistan"
+        },
+        {
+          "hi": "अफगानिस्तान, ताजिकिस्तान और चीन",
+          "en": "Afghanistan, Tajikistan & China"
+        },
+        {
+          "hi": "पाकिस्तान, अफगानिस्तान और चीन (तिब्बत)",
+          "en": "Pakistan, Afghanistan & China"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत और पाकिस्तान के बीच 'सर क्रीक' (Sir Creek) विवाद किस राज्य की सीमा पर है?",
+        "en": "Sir Creek maritime boundary dispute between India & Pakistan lies in which state?"
+      },
+      "o": [
+        {
+          "hi": "गुजरात (कच्छ का रण / Gujarat)",
+          "en": "Gujarat (Rann of Kutch)"
+        },
+        {
+          "hi": "राजस्थान",
+          "en": "Rajasthan"
+        },
+        {
+          "hi": "पंजाब",
+          "en": "Punjab"
+        },
+        {
+          "hi": "जम्मू-कश्मीर",
+          "en": "Jammu & Kashmir"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "डोकलाम (Doklam) पठार किन तीन देशों के ट्राइजंक्शन पर स्थित रणनीतिक क्षेत्र है?",
+        "en": "Doklam plateau is a strategic tri-junction between which three nations?"
+      },
+      "o": [
+        {
+          "hi": "भारत, नेपाल और चीन",
+          "en": "India, Nepal & China"
+        },
+        {
+          "hi": "भारत, भूटान और चीन (India, Bhutan & China)",
+          "en": "India, Bhutan & China"
+        },
+        {
+          "hi": "भारत, म्यांमार और चीन",
+          "en": "India, Myanmar & China"
+        },
+        {
+          "hi": "भारत, बांग्लादेश और म्यांमार",
+          "en": "India, Bangladesh & Myanmar"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कालापानी और लिपुलेख सीमा विवाद भारत और किस पड़ोसी देश के मध्य है?",
+        "en": "Kalapani and Lipulekh territorial dispute is between India and which neighbor?"
+      },
+      "o": [
+        {
+          "hi": "चीन",
+          "en": "China"
+        },
+        {
+          "hi": "भूटान",
+          "en": "Bhutan"
+        },
+        {
+          "hi": "नेपाल (पिथौरागढ़, उत्तराखंड सीमा / Nepal)",
+          "en": "Nepal (Uttarakhand border)"
+        },
+        {
+          "hi": "पाकिस्तान",
+          "en": "Pakistan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का कौन-सा भू-भाग 'चिकन नेक' (Chicken's Neck / सिलिगुड़ी कॉरिडोर) कहलाता है?",
+        "en": "Which strategic narrow strip connecting Northeast to mainland India is called 'Chicken's Neck'?"
+      },
+      "o": [
+        {
+          "hi": "पालघाट दर्रा",
+          "en": "Palghat Gap"
+        },
+        {
+          "hi": "मालदा गैप",
+          "en": "Malda Gap"
+        },
+        {
+          "hi": "नाथूला दर्रा",
+          "en": "Nathu La"
+        },
+        {
+          "hi": "सिलिगुड़ी कॉरिडोर (Siliguri Corridor - 21-22 किमी चौड़ा)",
+          "en": "Siliguri Corridor"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत सरकार द्वारा 100वें संविधान संशोधन (2015) द्वारा भूमि सीमा समझौता किस देश से हुआ?",
+        "en": "India's 100th Constitutional Amendment (2015) operationalized Land Boundary Agreement with?"
+      },
+      "o": [
+        {
+          "hi": "बांग्लादेश (भूमि परिक्षेत्रों की अदला-बदली)",
+          "en": "Bangladesh (Enclaves exchange)"
+        },
+        {
+          "hi": "नेपाल",
+          "en": "Nepal"
+        },
+        {
+          "hi": "म्यांमार",
+          "en": "Myanmar"
+        },
+        {
+          "hi": "भूटान",
+          "en": "Bhutan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का मानक समय ग्रीनविच समय (GMT) से कितना आगे है?",
+        "en": "How much ahead is Indian Standard Time (IST) from Greenwich Mean Time (GMT)?"
+      },
+      "o": [
+        {
+          "hi": "5 घंटे",
+          "en": "5 hours"
+        },
+        {
+          "hi": "5 घंटे 30 मिनट (+5:30 Hours)",
+          "en": "5 hours 30 minutes (+5:30)"
+        },
+        {
+          "hi": "6 घंटे",
+          "en": "6 hours"
+        },
+        {
+          "hi": "4 घंटे 30 मिनट",
+          "en": "4 hours 30 minutes"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

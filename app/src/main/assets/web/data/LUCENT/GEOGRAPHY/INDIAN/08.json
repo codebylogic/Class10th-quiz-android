@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भारत का भूगोल (Indian Geography)",
+  "subtitle": "भारत में कृषि",
+  "description": "भारत में कृषि पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भारतीय अर्थव्यवस्था में कृषि को क्या कहा जाता है?",
+        "en": "Agriculture is historically described as what for the Indian economy?"
+      },
+      "o": [
+        {
+          "hi": "अर्थव्यवस्था की रीढ़ (Backbone of Economy)",
+          "en": "Backbone of Indian Economy"
+        },
+        {
+          "hi": "औद्योगिक पूरक",
+          "en": "Industrial auxiliary"
+        },
+        {
+          "hi": "सहायक क्षेत्र मात्र",
+          "en": "Ancillary sector only"
+        },
+        {
+          "hi": "शून्य निवेश क्षेत्र",
+          "en": "Zero investment sector"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में कृषि फसलों को ऋतुओं के आधार पर कितने प्रमुख वर्गों में बांटा गया है?",
+        "en": "Based on cropping seasons, Indian crops are divided into how many groups?"
+      },
+      "o": [
+        {
+          "hi": "2 (रबी और खरीफ)",
+          "en": "2 (Rabi & Kharif)"
+        },
+        {
+          "hi": "3 (खरीफ, रबी और जायद / 3 Seasons)",
+          "en": "3 (Kharif, Rabi, Zaid)"
+        },
+        {
+          "hi": "4 वर्ग",
+          "en": "4 groups"
+        },
+        {
+          "hi": "5 वर्ग",
+          "en": "5 groups"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "खरीफ की फसलें (Kharif Crops) किस माह में बोई और काटी जाती हैं?",
+        "en": "During which months are Kharif crops sown and harvested?"
+      },
+      "o": [
+        {
+          "hi": "अक्टूबर में बोई और अप्रैल में काटी",
+          "en": "Sown Oct, reaped Apr"
+        },
+        {
+          "hi": "जनवरी में बोई और मई में काटी",
+          "en": "Sown Jan, reaped May"
+        },
+        {
+          "hi": "जून-जुलाई में बोई और अक्टूबर-नवंबर में काटी जाती हैं",
+          "en": "Sown in June-July & reaped in Oct-Nov"
+        },
+        {
+          "hi": "मार्च में बोई और जून में काटी",
+          "en": "Sown Mar, reaped June"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा समूह पूर्णतः खरीफ फसलों (Kharif) का है?",
+        "en": "Which of the following is a complete group of Kharif crops?"
+      },
+      "o": [
+        {
+          "hi": "गेहूँ, जौ, चना, सरसों",
+          "en": "Wheat, Barley, Gram, Mustard"
+        },
+        {
+          "hi": "मटर, मसूर, आलू, प्याज",
+          "en": "Pea, Lentil, Potato, Onion"
+        },
+        {
+          "hi": "तरबूज, खीरा, ककड़ी, खरबूजा",
+          "en": "Watermelon, Cucumber"
+        },
+        {
+          "hi": "धान (चावल), मक्का, ज्वार, बाजरा, कपास, मूंगफली",
+          "en": "Rice, Maize, Jowar, Bajra, Cotton, Groundnut"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रबी की फसलें (Rabi Crops) सामान्यतः कब बोई और काटी जाती हैं?",
+        "en": "When are Rabi crops typically sown and harvested in India?"
+      },
+      "o": [
+        {
+          "hi": "अक्टूबर-नवंबर में बोई और मार्च-अप्रैल में काटी जाती हैं",
+          "en": "Sown in Oct-Nov & reaped in March-April"
+        },
+        {
+          "hi": "जून में बोई और अक्टूबर में काटी",
+          "en": "Sown June, reaped Oct"
+        },
+        {
+          "hi": "मार्च में बोई और जून में काटी",
+          "en": "Sown March, reaped June"
+        },
+        {
+          "hi": "अगस्त में बोई और दिसंबर में काटी",
+          "en": "Sown Aug, reaped Dec"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा समूह रबी फसलों (Rabi Crops) का सही उदाहरण है?",
+        "en": "Which group accurately represents major Rabi crops?"
+      },
+      "o": [
+        {
+          "hi": "धान, मक्का, ज्वार, मूंगफली",
+          "en": "Rice, Maize, Jowar, Groundnut"
+        },
+        {
+          "hi": "गेहूँ, जौ, चना, मटर, सरसों, आलू",
+          "en": "Wheat, Barley, Gram, Pea, Mustard, Potato"
+        },
+        {
+          "hi": "कपास, जूट, गन्ना, सोयाबीन",
+          "en": "Cotton, Jute, Sugarcane, Soybean"
+        },
+        {
+          "hi": "तरबूज, खरबूजा, खीरा, ककड़ी",
+          "en": "Watermelon, Musk melon, Cucumber"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जायद की फसलें (Zaid Crops) किस समय अवधि (ग्रीष्मकाल) में उगाई जाती हैं?",
+        "en": "Zaid crops are grown during which short summer transitional season?"
+      },
+      "o": [
+        {
+          "hi": "नवंबर से जनवरी",
+          "en": "Nov to Jan"
+        },
+        {
+          "hi": "जुलाई से सितंबर",
+          "en": "July to Sept"
+        },
+        {
+          "hi": "मार्च से जून तक (तरबूज, खीरा, ककड़ी, सब्जियां)",
+          "en": "March to June (Watermelon, Cucumber, Gourds)"
+        },
+        {
+          "hi": "दिसंबर से फरवरी",
+          "en": "Dec to Feb"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में हरित क्रांति (Green Revolution) की शुरुआत किस दशक में हुई?",
+        "en": "In which decade did the Green Revolution begin in India?"
+      },
+      "o": [
+        {
+          "hi": "1950 के दशक में",
+          "en": "1950s"
+        },
+        {
+          "hi": "1970 के दशक में",
+          "en": "1970s"
+        },
+        {
+          "hi": "1980 के दशक में",
+          "en": "1980s"
+        },
+        {
+          "hi": "1966-67 में (1960s / Third/Plan Holiday)",
+          "en": "1966-67 (1960s)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में हरित क्रांति का जनक (Father of Green Revolution in India) किसे कहा जाता है?",
+        "en": "Who is universally honored as the 'Father of the Green Revolution in India'?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. एम.एस. स्वामीनाथन (Dr. M.S. Swaminathan)",
+          "en": "Dr. M.S. Swaminathan"
+        },
+        {
+          "hi": "डॉ. वर्गीज कुरियन",
+          "en": "Dr. Verghese Kurien"
+        },
+        {
+          "hi": "डॉ. नॉर्मन बोरलॉग",
+          "en": "Dr. Norman Borlaug"
+        },
+        {
+          "hi": "डॉ. विलियम गौड",
+          "en": "Dr. William Gaud"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में हरित क्रांति के जनक (Father of World Green Revolution) कौन थे?",
+        "en": "Who was the global Father of the Green Revolution (Nobel Peace Prize 1970)?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. एम.एस. स्वामीनाथन",
+          "en": "Dr. M.S. Swaminathan"
+        },
+        {
+          "hi": "डॉ. नॉर्मन बोरलॉग (Dr. Norman Borlaug - मेक्सिको/USA)",
+          "en": "Dr. Norman Borlaug (Mexico/USA)"
+        },
+        {
+          "hi": "डॉ. विलियम गौड",
+          "en": "Dr. William Gaud"
+        },
+        {
+          "hi": "डॉ. कुरियन",
+          "en": "Dr. Kurien"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'हरित क्रांति' (Green Revolution) शब्द का सर्वप्रथम प्रयोग किसने किया था?",
+        "en": "Who first coined the term 'Green Revolution' in 1968?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. नॉर्मन बोरलॉग",
+          "en": "Dr. Norman Borlaug"
+        },
+        {
+          "hi": "डॉ. एम.एस. स्वामीनाथन",
+          "en": "Dr. M.S. Swaminathan"
+        },
+        {
+          "hi": "डॉ. विलियम गौड (Dr. William Gaud - USA)",
+          "en": "Dr. William Gaud (USA)"
+        },
+        {
+          "hi": "जवाहरलाल नेहरू",
+          "en": "Jawaharlal Nehru"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हरित क्रांति का सर्वाधिक सकारात्मक प्रभाव किन दो फसलों के उत्पादन पर पड़ा?",
+        "en": "Green Revolution had the most dramatic positive impact on which two crops?"
+      },
+      "o": [
+        {
+          "hi": "धान और कपास",
+          "en": "Rice and Cotton"
+        },
+        {
+          "hi": "दालें और तिलहन",
+          "en": "Pulses and Oilseeds"
+        },
+        {
+          "hi": "मक्का और बाजरा",
+          "en": "Maize and Bajra"
+        },
+        {
+          "hi": "गेहूँ और चावल (विशेषकर गेहूँ पर सर्वाधिक)",
+          "en": "Wheat and Rice (Maximum on Wheat)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हरित क्रांति के दौरान भारत में किस देश से गेहूँ की बौनी किस्म के बीज मंगाए गए?",
+        "en": "High-Yielding semi-dwarf wheat seeds introduced in India were developed in?"
+      },
+      "o": [
+        {
+          "hi": "मेक्सिको (CIMMYT - सोनोरा 64, लरमा रोजो)",
+          "en": "Mexico (CIMMYT - Sonora 64, Lerma Rojo)"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका",
+          "en": "USA"
+        },
+        {
+          "hi": "जापान",
+          "en": "Japan"
+        },
+        {
+          "hi": "कनाडा",
+          "en": "Canada"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में हरित क्रांति का प्रथम चरण मुख्य रूप से किन राज्यों तक सीमित रहा?",
+        "en": "First phase of Green Revolution was primarily confined to which states?"
+      },
+      "o": [
+        {
+          "hi": "बिहार, बंगाल और ओडिशा",
+          "en": "Bihar, Bengal & Odisha"
+        },
+        {
+          "hi": "पंजाब, हरियाणा और पश्चिमी उत्तर प्रदेश",
+          "en": "Punjab, Haryana & Western UP"
+        },
+        {
+          "hi": "महाराष्ट्र और गुजरात",
+          "en": "Maharashtra & Gujarat"
+        },
+        {
+          "hi": "केरल और तमिलनाडु",
+          "en": "Kerala & Tamil Nadu"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत की मुख्य खाद्य फसल (Primary Staple Food Crop) कौन-सी है?",
+        "en": "Which is the primary staple food crop of the largest population in India?"
+      },
+      "o": [
+        {
+          "hi": "गेहूँ (Wheat)",
+          "en": "Wheat"
+        },
+        {
+          "hi": "मक्का (Maize)",
+          "en": "Maize"
+        },
+        {
+          "hi": "चावल / धान (Rice - प्रथम स्थान)",
+          "en": "Rice (First Position)"
+        },
+        {
+          "hi": "बाजरा (Bajra)",
+          "en": "Bajra"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत का कौन-सा राज्य चावल (धान) का सबसे बड़ा उत्पादक है?",
+        "en": "Which Indian state is the largest producer of Rice (Paddy)?"
+      },
+      "o": [
+        {
+          "hi": "उत्तर प्रदेश",
+          "en": "Uttar Pradesh"
+        },
+        {
+          "hi": "पंजाब",
+          "en": "Punjab"
+        },
+        {
+          "hi": "आंध्र प्रदेश",
+          "en": "Andhra Pradesh"
+        },
+        {
+          "hi": "पश्चिम बंगाल (West Bengal)",
+          "en": "West Bengal"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में प्रति हेक्टेयर चावल की सर्वाधिक उत्पादकता (Yield/Hectare) किस राज्य में है?",
+        "en": "Which state has the highest per-hectare productivity/yield of Rice?"
+      },
+      "o": [
+        {
+          "hi": "पंजाब (Punjab)",
+          "en": "Punjab"
+        },
+        {
+          "hi": "पश्चिम बंगाल",
+          "en": "West Bengal"
+        },
+        {
+          "hi": "तमिलनाडु",
+          "en": "Tamil Nadu"
+        },
+        {
+          "hi": "हरियाणा",
+          "en": "Haryana"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में 'धान का कटोरा' (Rice Bowl of India) किस बेसिन/राज्य को कहा जाता है?",
+        "en": "Which river delta / state is traditionally known as the 'Rice Bowl of India'?"
+      },
+      "o": [
+        {
+          "hi": "गंगा बेसिन",
+          "en": "Ganga Basin"
+        },
+        {
+          "hi": "कृष्णा-गोदावरी डेल्टा / छत्तीसगढ़ (K-G Delta / Chhattisgarh)",
+          "en": "Krishna-Godavari Delta / Chhattisgarh"
+        },
+        {
+          "hi": "कावेरी डेल्टा",
+          "en": "Cauvery Delta"
+        },
+        {
+          "hi": "ब्रह्मपुत्र घाटी",
+          "en": "Brahmaputra Valley"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में गेहूँ (Wheat) का सबसे बड़ा उत्पादक राज्य कौन-सा है?",
+        "en": "Which Indian state is the largest producer of Wheat in absolute volume?"
+      },
+      "o": [
+        {
+          "hi": "पंजाब",
+          "en": "Punjab"
+        },
+        {
+          "hi": "हरियाणा",
+          "en": "Haryana"
+        },
+        {
+          "hi": "उत्तर प्रदेश (Uttar Pradesh - लगभग 32%)",
+          "en": "Uttar Pradesh (~32%)"
+        },
+        {
+          "hi": "मध्य प्रदेश",
+          "en": "Madhya Pradesh"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रति हेक्टेयर गेहूँ की सर्वाधिक उत्पादकता (Yield) किस राज्य में है?",
+        "en": "Which state holds the highest per-hectare productivity of Wheat in India?"
+      },
+      "o": [
+        {
+          "hi": "उत्तर प्रदेश",
+          "en": "Uttar Pradesh"
+        },
+        {
+          "hi": "राजस्थान",
+          "en": "Rajasthan"
+        },
+        {
+          "hi": "मध्य प्रदेश",
+          "en": "Madhya Pradesh"
+        },
+        {
+          "hi": "पंजाब (Punjab)",
+          "en": "Punjab"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में दालों (Pulses / दलहन) का सबसे बड़ा उत्पादक राज्य कौन-सा है?",
+        "en": "Which state is the largest producer of Pulses in India (~30%)?"
+      },
+      "o": [
+        {
+          "hi": "मध्य प्रदेश (Madhya Pradesh)",
+          "en": "Madhya Pradesh"
+        },
+        {
+          "hi": "राजस्थान",
+          "en": "Rajasthan"
+        },
+        {
+          "hi": "महाराष्ट्र",
+          "en": "Maharashtra"
+        },
+        {
+          "hi": "उत्तर प्रदेश",
+          "en": "Uttar Pradesh"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में सोयाबीन (Soybean) का सबसे बड़ा उत्पादक राज्य कौन-सा है (सोया प्रदेश)?",
+        "en": "Which state is known as 'Soya State' (largest producer of soybean)?"
+      },
+      "o": [
+        {
+          "hi": "महाराष्ट्र",
+          "en": "Maharashtra"
+        },
+        {
+          "hi": "मध्य प्रदेश (Madhya Pradesh) / महाराष्ट्र",
+          "en": "Madhya Pradesh / Maharashtra"
+        },
+        {
+          "hi": "राजस्थान",
+          "en": "Rajasthan"
+        },
+        {
+          "hi": "गुजरात",
+          "en": "Gujarat"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में गन्ने (Sugarcane) का सबसे बड़ा उत्पादक राज्य कौन-सा है?",
+        "en": "Which state is the largest producer of Sugarcane in India?"
+      },
+      "o": [
+        {
+          "hi": "महाराष्ट्र",
+          "en": "Maharashtra"
+        },
+        {
+          "hi": "कर्नाटक",
+          "en": "Karnataka"
+        },
+        {
+          "hi": "उत्तर प्रदेश (Uttar Pradesh)",
+          "en": "Uttar Pradesh"
+        },
+        {
+          "hi": "तमिलनाडु",
+          "en": "Tamil Nadu"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में चीनी (Sugar) का सबसे बड़ा उत्पादक राज्य कौन-सा है?",
+        "en": "Which state is currently leading in Sugar production in India?"
+      },
+      "o": [
+        {
+          "hi": "गुजरात",
+          "en": "Gujarat"
+        },
+        {
+          "hi": "कर्नाटक",
+          "en": "Karnataka"
+        },
+        {
+          "hi": "बिहार",
+          "en": "Bihar"
+        },
+        {
+          "hi": "महाराष्ट्र / उत्तर प्रदेश (Maharashtra / UP)",
+          "en": "Maharashtra / Uttar Pradesh"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में कपास (Cotton) का सबसे बड़ा उत्पादक राज्य कौन-सा है?",
+        "en": "Which state is the largest producer of raw cotton in India?"
+      },
+      "o": [
+        {
+          "hi": "गुजरात (Gujarat)",
+          "en": "Gujarat"
+        },
+        {
+          "hi": "महाराष्ट्र",
+          "en": "Maharashtra"
+        },
+        {
+          "hi": "तेलंगाना",
+          "en": "Telangana"
+        },
+        {
+          "hi": "आंध्र प्रदेश",
+          "en": "Andhra Pradesh"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में जूट (पटसन / Golden Fibre) का सबसे बड़ा उत्पादक राज्य कौन-सा है?",
+        "en": "Which state is the largest producer of Jute in India (>75%)?"
+      },
+      "o": [
+        {
+          "hi": "असम",
+          "en": "Assam"
+        },
+        {
+          "hi": "पश्चिम बंगाल (West Bengal)",
+          "en": "West Bengal"
+        },
+        {
+          "hi": "बिहार",
+          "en": "Bihar"
+        },
+        {
+          "hi": "ओडिशा",
+          "en": "Odisha"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में चाय (Tea) का सबसे बड़ा उत्पादक राज्य कौन-सा है?",
+        "en": "Which Indian state is the largest producer of Tea (>50%)?"
+      },
+      "o": [
+        {
+          "hi": "पश्चिम बंगाल (दार्जिलिंग)",
+          "en": "West Bengal (Darjeeling)"
+        },
+        {
+          "hi": "केरल",
+          "en": "Kerala"
+        },
+        {
+          "hi": "असम (Assam)",
+          "en": "Assam"
+        },
+        {
+          "hi": "तमिलनाडु (नीलगिरी)",
+          "en": "Tamil Nadu (Nilgiri)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में जीआई टैग (GI Tag) प्राप्त करने वाला प्रथम उत्पाद (2004) कौन-सा था?",
+        "en": "Which was the very first product in India to be awarded a GI Tag (2004)?"
+      },
+      "o": [
+        {
+          "hi": "असम चाय",
+          "en": "Assam Tea"
+        },
+        {
+          "hi": "कांगड़ा चाय",
+          "en": "Kangra Tea"
+        },
+        {
+          "hi": "नीलगिरी चाय",
+          "en": "Nilgiri Tea"
+        },
+        {
+          "hi": "दार्जिलिंग चाय (Darjeeling Tea)",
+          "en": "Darjeeling Tea"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में कहवा (कॉफी / Coffee) का सबसे बड़ा उत्पादक राज्य कौन-सा है?",
+        "en": "Which state is the undisputed leader in coffee production in India (>70%)?"
+      },
+      "o": [
+        {
+          "hi": "कर्नाटक (Karnataka - चिकमगलूर, कोडागु)",
+          "en": "Karnataka (Chikmagalur, Kodagu)"
+        },
+        {
+          "hi": "केरल",
+          "en": "Kerala"
+        },
+        {
+          "hi": "तमिलनाडु",
+          "en": "Tamil Nadu"
+        },
+        {
+          "hi": "आंध्र प्रदेश",
+          "en": "Andhra Pradesh"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में प्राकृतिक रबर (Natural Rubber) का सबसे बड़ा उत्पादक राज्य कौन-सा है?",
+        "en": "Which state produces over 75-80% of India's Natural Rubber?"
+      },
+      "o": [
+        {
+          "hi": "कर्नाटक",
+          "en": "Karnataka"
+        },
+        {
+          "hi": "केरल (Kerala)",
+          "en": "Kerala"
+        },
+        {
+          "hi": "तमिलनाडु",
+          "en": "Tamil Nadu"
+        },
+        {
+          "hi": "त्रिपुरा",
+          "en": "Tripura"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में मसालों का सबसे बड़ा उत्पादक राज्य (Spices Hub) वर्तमान में कौन-सा है?",
+        "en": "Which state is currently the largest producer of Spices in India?"
+      },
+      "o": [
+        {
+          "hi": "केरल",
+          "en": "Kerala"
+        },
+        {
+          "hi": "कर्नाटक",
+          "en": "Karnataka"
+        },
+        {
+          "hi": "मध्य प्रदेश / राजस्थान / गुजरात",
+          "en": "Madhya Pradesh / Rajasthan / Gujarat"
+        },
+        {
+          "hi": "आंध्र प्रदेश",
+          "en": "Andhra Pradesh"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "केसर (Saffron / जाफरान) का एकमात्र उत्पादक भारतीय राज्य/UT कौन-सा है?",
+        "en": "Which is the sole producer state/UT of Saffron in India (Karewas of Pampore)?"
+      },
+      "o": [
+        {
+          "hi": "हिमाचल प्रदेश",
+          "en": "Himachal Pradesh"
+        },
+        {
+          "hi": "उत्तराखंड",
+          "en": "Uttarakhand"
+        },
+        {
+          "hi": "सिक्किम",
+          "en": "Sikkim"
+        },
+        {
+          "hi": "जम्मू-कश्मीर (Jammu & Kashmir)",
+          "en": "Jammu & Kashmir"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में मूँगफली (Groundnut) का सबसे बड़ा उत्पादक राज्य कौन-सा है?",
+        "en": "Which state is the largest producer of Groundnut in India?"
+      },
+      "o": [
+        {
+          "hi": "गुजरात (Gujarat)",
+          "en": "Gujarat"
+        },
+        {
+          "hi": "राजस्थान",
+          "en": "Rajasthan"
+        },
+        {
+          "hi": "तमिलनाडु",
+          "en": "Tamil Nadu"
+        },
+        {
+          "hi": "आंध्र प्रदेश",
+          "en": "Andhra Pradesh"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में सरसों एवं तोरिया (Mustard & Rapeseed) का सबसे बड़ा उत्पादक राज्य?",
+        "en": "Which state is the largest producer of Mustard & Rapeseed in India (~45%)?"
+      },
+      "o": [
+        {
+          "hi": "हरियाणा",
+          "en": "Haryana"
+        },
+        {
+          "hi": "राजस्थान (Rajasthan)",
+          "en": "Rajasthan"
+        },
+        {
+          "hi": "मध्य प्रदेश",
+          "en": "Madhya Pradesh"
+        },
+        {
+          "hi": "उत्तर प्रदेश",
+          "en": "Uttar Pradesh"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में कुल तिलहन (Total Oilseeds) उत्पादन में प्रथम राज्य कौन-सा है?",
+        "en": "Which state ranks first in overall Oilseeds production in India?"
+      },
+      "o": [
+        {
+          "hi": "मध्य प्रदेश",
+          "en": "Madhya Pradesh"
+        },
+        {
+          "hi": "गुजरात",
+          "en": "Gujarat"
+        },
+        {
+          "hi": "राजस्थान (Rajasthan)",
+          "en": "Rajasthan"
+        },
+        {
+          "hi": "महाराष्ट्र",
+          "en": "Maharashtra"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में प्याज (Onion) और अंगूर (Grape) का सबसे बड़ा उत्पादक राज्य कौन-सा है?",
+        "en": "Which state is the largest producer of Onions and Grapes (Nashik)?"
+      },
+      "o": [
+        {
+          "hi": "गुजरात",
+          "en": "Gujarat"
+        },
+        {
+          "hi": "मध्य प्रदेश",
+          "en": "Madhya Pradesh"
+        },
+        {
+          "hi": "कर्नाटक",
+          "en": "Karnataka"
+        },
+        {
+          "hi": "महाराष्ट्र (नासिक / Maharashtra)",
+          "en": "Maharashtra (Nashik)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में आलू (Potato) का सबसे बड़ा उत्पादक राज्य कौन-सा है?",
+        "en": "Which state is the largest producer of Potato in India (~35%)?"
+      },
+      "o": [
+        {
+          "hi": "उत्तर प्रदेश (Uttar Pradesh)",
+          "en": "Uttar Pradesh"
+        },
+        {
+          "hi": "पश्चिम बंगाल",
+          "en": "West Bengal"
+        },
+        {
+          "hi": "बिहार",
+          "en": "Bihar"
+        },
+        {
+          "hi": "गुजरात",
+          "en": "Gujarat"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में मक्का (Maize) का सबसे बड़ा उत्पादक राज्य कौन-सा है?",
+        "en": "Which state is the largest producer of Maize in India?"
+      },
+      "o": [
+        {
+          "hi": "मध्य प्रदेश",
+          "en": "Madhya Pradesh"
+        },
+        {
+          "hi": "कर्नाटक (Karnataka)",
+          "en": "Karnataka"
+        },
+        {
+          "hi": "बिहार",
+          "en": "Bihar"
+        },
+        {
+          "hi": "महाराष्ट्र",
+          "en": "Maharashtra"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में बाजरा (Pearl Millet) का सबसे बड़ा उत्पादक राज्य कौन-सा है?",
+        "en": "Which state is the largest producer of Bajra (Pearl Millet) in India?"
+      },
+      "o": [
+        {
+          "hi": "उत्तर प्रदेश",
+          "en": "Uttar Pradesh"
+        },
+        {
+          "hi": "हरियाणा",
+          "en": "Haryana"
+        },
+        {
+          "hi": "राजस्थान (Rajasthan)",
+          "en": "Rajasthan"
+        },
+        {
+          "hi": "गुजरात",
+          "en": "Gujarat"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत में ज्वार (Sorghum) का सबसे बड़ा उत्पादक राज्य कौन-सा है?",
+        "en": "Which state is the largest producer of Jowar (Sorghum) in India?"
+      },
+      "o": [
+        {
+          "hi": "कर्नाटक",
+          "en": "Karnataka"
+        },
+        {
+          "hi": "मध्य प्रदेश",
+          "en": "Madhya Pradesh"
+        },
+        {
+          "hi": "आंध्र प्रदेश",
+          "en": "Andhra Pradesh"
+        },
+        {
+          "hi": "महाराष्ट्र (Maharashtra)",
+          "en": "Maharashtra"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "श्वेत क्रांति (White Revolution / ऑपरेशन फ्लड) का संबंध किससे है?",
+        "en": "White Revolution (Operation Flood, 1970) is related to which sector?"
+      },
+      "o": [
+        {
+          "hi": "दुग्ध उत्पादन में वृद्धि से (Milk Production)",
+          "en": "Milk Production increase"
+        },
+        {
+          "hi": "अंडा उत्पादन से",
+          "en": "Egg production"
+        },
+        {
+          "hi": "चावल उत्पादन से",
+          "en": "Rice production"
+        },
+        {
+          "hi": "मछली उत्पादन से",
+          "en": "Fish production"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत में श्वेत क्रांति (ऑपरेशन फ्लड) का जनक किसे कहा जाता है?",
+        "en": "Who is celebrated as the 'Father of the White Revolution' (Milkman of India)?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. एम.एस. स्वामीनाथन",
+          "en": "Dr. M.S. Swaminathan"
+        },
+        {
+          "hi": "डॉ. वर्गीज कुरियन (Dr. Verghese Kurien - अमूल)",
+          "en": "Dr. Verghese Kurien (Amul)"
+        },
+        {
+          "hi": "डॉ. नॉर्मन बोरलॉग",
+          "en": "Dr. Norman Borlaug"
+        },
+        {
+          "hi": "सैम पित्रोदा",
+          "en": "Sam Pitroda"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नीली क्रांति (Blue Revolution) का संबंध किस कृषि क्षेत्र से है?",
+        "en": "Blue Revolution is associated with the dramatic growth of which sector?"
+      },
+      "o": [
+        {
+          "hi": "तिलहन उत्पादन",
+          "en": "Oilseeds"
+        },
+        {
+          "hi": "उर्वरक उत्पादन",
+          "en": "Fertilizers"
+        },
+        {
+          "hi": "मत्स्य उत्पादन (मछली पालन / Fisheries)",
+          "en": "Fish & Aquaculture Production"
+        },
+        {
+          "hi": "नदी जोड़ो परियोजना",
+          "en": "River Linking"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पीली क्रांति (Yellow Revolution) का संबंध किससे है?",
+        "en": "Yellow Revolution is related to the production of what?"
+      },
+      "o": [
+        {
+          "hi": "दालें",
+          "en": "Pulses"
+        },
+        {
+          "hi": "अनाज",
+          "en": "Cereals"
+        },
+        {
+          "hi": "केसर",
+          "en": "Saffron"
+        },
+        {
+          "hi": "तिलहन उत्पादन (सरसों, सूरजमुखी, तिल / Oilseeds)",
+          "en": "Oilseeds Production"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गोल क्रांति (Round Revolution) का संबंध किस फसल उत्पादन से है?",
+        "en": "Round Revolution in Indian agriculture is related to which crop?"
+      },
+      "o": [
+        {
+          "hi": "आलू उत्पादन (Potato Production)",
+          "en": "Potato Production"
+        },
+        {
+          "hi": "टमाटर उत्पादन",
+          "en": "Tomato"
+        },
+        {
+          "hi": "प्याज उत्पादन",
+          "en": "Onion"
+        },
+        {
+          "hi": "अंडा उत्पादन",
+          "en": "Egg"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लाल क्रांति (Red Revolution) का संबंध किन दो उत्पादों से है?",
+        "en": "Red Revolution is related to the production of which two commodities?"
+      },
+      "o": [
+        {
+          "hi": "सेब और अनार",
+          "en": "Apple & Pomegranate"
+        },
+        {
+          "hi": "टमाटर और मांस उत्पादन (Tomato & Meat)",
+          "en": "Tomato and Meat Production"
+        },
+        {
+          "hi": "गाजर और चुकंदर",
+          "en": "Carrot & Beetroot"
+        },
+        {
+          "hi": "गुलाब और स्ट्रॉबेरी",
+          "en": "Rose & Strawberry"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रजत क्रांति (Silver Revolution) का संबंध किसके उत्पादन में तीव्र वृद्धि से है?",
+        "en": "Silver Revolution is related to the exponential increase in production of?"
+      },
+      "o": [
+        {
+          "hi": "चांदी खनन",
+          "en": "Silver Mining"
+        },
+        {
+          "hi": "दुग्ध उत्पादन",
+          "en": "Milk"
+        },
+        {
+          "hi": "अंडा एवं पोल्ट्री उत्पादन (Egg & Poultry)",
+          "en": "Egg and Poultry Production"
+        },
+        {
+          "hi": "कपास उत्पादन",
+          "en": "Cotton"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गुलाबी क्रांति (Pink Revolution) का संबंध किससे है?",
+        "en": "Pink Revolution is primarily related to which commodity/meat?"
+      },
+      "o": [
+        {
+          "hi": "गुलाब की खेती",
+          "en": "Rose cultivation"
+        },
+        {
+          "hi": "सेब उत्पादन",
+          "en": "Apple"
+        },
+        {
+          "hi": "कपास",
+          "en": "Cotton"
+        },
+        {
+          "hi": "झींगा मछली एवं प्याज उत्पादन (Prawns & Onion)",
+          "en": "Prawns (Shrimp) & Onion Production"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्वर्ण क्रांति (Golden Revolution) का संबंध किससे है?",
+        "en": "Golden Revolution is related to which agricultural sector?"
+      },
+      "o": [
+        {
+          "hi": "बागवानी, शहद एवं फल उत्पादन (Horticulture & Honey)",
+          "en": "Horticulture, Honey & Fruits"
+        },
+        {
+          "hi": "सोना खनन",
+          "en": "Gold Mining"
+        },
+        {
+          "hi": "जूट उत्पादन",
+          "en": "Jute Production"
+        },
+        {
+          "hi": "गेहूँ उत्पादन",
+          "en": "Wheat Production"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का कौन-सा राज्य पूर्ण रूप से जैविक खेती (100% Organic Farming) वाला पहला राज्य बना?",
+        "en": "Which became the first 100% Organic State in the world (declared in 2016)?"
+      },
+      "o": [
+        {
+          "hi": "केरल",
+          "en": "Kerala"
+        },
+        {
+          "hi": "सिक्किम (Sikkim - 2016)",
+          "en": "Sikkim (2016)"
+        },
+        {
+          "hi": "उत्तराखंड",
+          "en": "Uttarakhand"
+        },
+        {
+          "hi": "मेघालय",
+          "en": "Meghalaya"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

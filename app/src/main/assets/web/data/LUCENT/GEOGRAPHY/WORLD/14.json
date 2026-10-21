@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - विश्व का भूगोल (World Geography)",
+  "subtitle": "विश्व के प्रसिद्ध स्थान",
+  "description": "विश्व के प्रसिद्ध स्थान पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "'व्हाइट हाउस' (White House) किस देश के राष्ट्रपति का आधिकारिक निवास है?",
+        "en": "White House is the official residence and workplace of President of which country?"
+      },
+      "o": [
+        {
+          "hi": "संयुक्त राज्य अमेरिका (USA)",
+          "en": "USA"
+        },
+        {
+          "hi": "फ्रांस",
+          "en": "France"
+        },
+        {
+          "hi": "रूस",
+          "en": "Russia"
+        },
+        {
+          "hi": "ब्रिटेन",
+          "en": "UK"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'10, डाउनिंग स्ट्रीट' (10 Downing Street) किसका आधिकारिक निवास है?",
+        "en": "10 Downing Street is the official residence and office of?"
+      },
+      "o": [
+        {
+          "hi": "अमेरिकी राष्ट्रपति",
+          "en": "US President"
+        },
+        {
+          "hi": "ब्रिटेन के प्रधानमंत्री (British Prime Minister)",
+          "en": "British Prime Minister"
+        },
+        {
+          "hi": "फ्रांस के राष्ट्रपति",
+          "en": "French President"
+        },
+        {
+          "hi": "कनाडा के प्रधानमंत्री",
+          "en": "Canadian PM"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'बकिंघम पैलेस' (Buckingham Palace) कहाँ स्थित है?",
+        "en": "Where is the famous Buckingham Palace located?"
+      },
+      "o": [
+        {
+          "hi": "पेरिस",
+          "en": "Paris"
+        },
+        {
+          "hi": "वाशिंगटन डीसी",
+          "en": "Washington DC"
+        },
+        {
+          "hi": "लंदन (ब्रिटेन / London)",
+          "en": "London (UK)"
+        },
+        {
+          "hi": "रोम",
+          "en": "Rome"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'क्रेमलिन' (Kremlin) किस देश की सरकार का प्रमुख प्रशासनिक केंद्र है?",
+        "en": "Kremlin is the fortified administrative complex of the government of which country?"
+      },
+      "o": [
+        {
+          "hi": "चीन",
+          "en": "China"
+        },
+        {
+          "hi": "जर्मनी",
+          "en": "Germany"
+        },
+        {
+          "hi": "उत्तर कोरिया",
+          "en": "North Korea"
+        },
+        {
+          "hi": "रूस (मास्को / Russia)",
+          "en": "Russia (Moscow)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'पेंटागन' (The Pentagon) किस देश का रक्षा मंत्रालय मुख्यालय है?",
+        "en": "The Pentagon is the headquarters of the Department of Defense of which country?"
+      },
+      "o": [
+        {
+          "hi": "संयुक्त राज्य अमेरिका (वाशिंगटन / USA)",
+          "en": "USA (Washington)"
+        },
+        {
+          "hi": "ब्रिटेन",
+          "en": "UK"
+        },
+        {
+          "hi": "रूस",
+          "en": "Russia"
+        },
+        {
+          "hi": "फ्रांस",
+          "en": "France"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'एफिल टॉवर' (Eiffel Tower) किस शहर में स्थित है?",
+        "en": "In which iconic city is the Eiffel Tower located?"
+      },
+      "o": [
+        {
+          "hi": "रोम",
+          "en": "Rome"
+        },
+        {
+          "hi": "पेरिस (फ्रांस / Paris)",
+          "en": "Paris (France)"
+        },
+        {
+          "hi": "लंदन",
+          "en": "London"
+        },
+        {
+          "hi": "बर्लिन",
+          "en": "Berlin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'पीसा की झुकी हुई मीनार' (Leaning Tower of Pisa) किस देश में स्थित है?",
+        "en": "In which country is the famous Leaning Tower of Pisa located?"
+      },
+      "o": [
+        {
+          "hi": "फ्रांस",
+          "en": "France"
+        },
+        {
+          "hi": "स्पेन",
+          "en": "Spain"
+        },
+        {
+          "hi": "इटली (Italy)",
+          "en": "Italy"
+        },
+        {
+          "hi": "जर्मनी",
+          "en": "Germany"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'स्टैच्यू ऑफ लिबर्टी' (Statue of Liberty) किस नगर के बंदरगाह पर स्थित है?",
+        "en": "Statue of Liberty is situated on Liberty Island in which city?"
+      },
+      "o": [
+        {
+          "hi": "लंदन",
+          "en": "London"
+        },
+        {
+          "hi": "सैन फ्रांसिस्को",
+          "en": "San Francisco"
+        },
+        {
+          "hi": "वाशिंगटन डीसी",
+          "en": "Washington DC"
+        },
+        {
+          "hi": "न्यूयॉर्क (USA / New York)",
+          "en": "New York (USA)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'स्टैच्यू ऑफ लिबर्टी' अमेरिका को किस देश ने मैत्री स्वरूप उपहार में दी थी?",
+        "en": "Which country gifted the Statue of Liberty to the United States as a sign of friendship?"
+      },
+      "o": [
+        {
+          "hi": "फ्रांस (France)",
+          "en": "France"
+        },
+        {
+          "hi": "ब्रिटेन",
+          "en": "Britain"
+        },
+        {
+          "hi": "इटली",
+          "en": "Italy"
+        },
+        {
+          "hi": "स्पेन",
+          "en": "Spain"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'ओपेरा हाउस' (Sydney Opera House) किस देश का प्रसिद्ध सांस्कृतिक प्रतीक है?",
+        "en": "Sydney Opera House is a world-famous performing arts center in which country?"
+      },
+      "o": [
+        {
+          "hi": "न्यूजीलैंड",
+          "en": "New Zealand"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (सिडनी / Australia)",
+          "en": "Australia (Sydney)"
+        },
+        {
+          "hi": "कनाडा",
+          "en": "Canada"
+        },
+        {
+          "hi": "दक्षिण अफ्रीका",
+          "en": "South Africa"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'कोलोजियम' (Colosseum - प्राचीन अखाड़ा) किस शहर में स्थित है?",
+        "en": "In which ancient city is the Colosseum amphitheater located?"
+      },
+      "o": [
+        {
+          "hi": "एथेंस",
+          "en": "Athens"
+        },
+        {
+          "hi": "काहिरा",
+          "en": "Cairo"
+        },
+        {
+          "hi": "रोम (इटली / Rome)",
+          "en": "Rome (Italy)"
+        },
+        {
+          "hi": "इस्तांबुल",
+          "en": "Istanbul"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'पार्थेनन' (Parthenon - देवी एथेना का मंदिर) कहाँ स्थित है?",
+        "en": "Where is the historic Parthenon temple located on the Acropolis?"
+      },
+      "o": [
+        {
+          "hi": "रोम",
+          "en": "Rome"
+        },
+        {
+          "hi": "अलेक्जेंड्रिया",
+          "en": "Alexandria"
+        },
+        {
+          "hi": "इस्तांबुल",
+          "en": "Istanbul"
+        },
+        {
+          "hi": "एथेंस (ग्रीस / Athens)",
+          "en": "Athens (Greece)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'गीजा के महान पिरामिड' (Pyramids of Giza) किस देश में स्थित हैं?",
+        "en": "In which country are the iconic Great Pyramids of Giza located?"
+      },
+      "o": [
+        {
+          "hi": "मिस्र (Egypt)",
+          "en": "Egypt"
+        },
+        {
+          "hi": "सूडान",
+          "en": "Sudan"
+        },
+        {
+          "hi": "इराक",
+          "en": "Iraq"
+        },
+        {
+          "hi": "ईरान",
+          "en": "Iran"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'माचू पिच्चू' (Machu Picchu - इंका सभ्यता का स्थल) किस देश में स्थित है?",
+        "en": "Machu Picchu, the 15th-century Inca citadel, is located in which country?"
+      },
+      "o": [
+        {
+          "hi": "बोलीविया",
+          "en": "Bolivia"
+        },
+        {
+          "hi": "पेरू (Peru)",
+          "en": "Peru"
+        },
+        {
+          "hi": "चिली",
+          "en": "Chile"
+        },
+        {
+          "hi": "कोलंबिया",
+          "en": "Colombia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'क्राइस्ट द रिडीमर' (Christ the Redeemer) की विशाल प्रतिमा कहाँ स्थित है?",
+        "en": "The colossal statue of Christ the Redeemer overlooks which city?"
+      },
+      "o": [
+        {
+          "hi": "ब्यूनस आयर्स",
+          "en": "Buenos Aires"
+        },
+        {
+          "hi": "साओ पाउलो",
+          "en": "Sao Paulo"
+        },
+        {
+          "hi": "रियो डी जेनेरो (ब्राजील / Rio de Janeiro)",
+          "en": "Rio de Janeiro (Brazil)"
+        },
+        {
+          "hi": "सैंटियागो",
+          "en": "Santiago"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'पेट्रा' (Petra - चट्टानों को तराश कर बनाया गया प्राचीन नगर) किस देश में है?",
+        "en": "In which Middle Eastern country is the rock-carved rose city of Petra located?"
+      },
+      "o": [
+        {
+          "hi": "इजराइल",
+          "en": "Israel"
+        },
+        {
+          "hi": "मिस्र",
+          "en": "Egypt"
+        },
+        {
+          "hi": "सऊदी अरब",
+          "en": "Saudi Arabia"
+        },
+        {
+          "hi": "जॉर्डन (Jordan)",
+          "en": "Jordan"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'ताजमहल' विश्व के सात नए आश्चर्यों में शामिल, किस देश में स्थित है?",
+        "en": "Taj Mahal, one of the New 7 Wonders of the World, is located in which country?"
+      },
+      "o": [
+        {
+          "hi": "भारत (आगरा / India)",
+          "en": "India (Agra)"
+        },
+        {
+          "hi": "पाकिस्तान",
+          "en": "Pakistan"
+        },
+        {
+          "hi": "बांग्लादेश",
+          "en": "Bangladesh"
+        },
+        {
+          "hi": "नेपाल",
+          "en": "Nepal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'चीन की विशाल दीवार' (Great Wall of China) का निर्माण किस सम्राट ने शुरू कराया?",
+        "en": "Which Chinese emperor began construction of the Great Wall of China?"
+      },
+      "o": [
+        {
+          "hi": "कुबलई खान",
+          "en": "Kublai Khan"
+        },
+        {
+          "hi": "शी हुआंग-ती (Qin Shi Huang)",
+          "en": "Qin Shi Huang"
+        },
+        {
+          "hi": "सुन यात-सेन",
+          "en": "Sun Yat-sen"
+        },
+        {
+          "hi": "माओ त्से तुंग",
+          "en": "Mao Zedong"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'एक्रोपोलिस' (Acropolis) प्रसिद्ध प्राचीन स्मारक किस नगर में है?",
+        "en": "The ancient citadel Acropolis is located in which capital city?"
+      },
+      "o": [
+        {
+          "hi": "रोम",
+          "en": "Rome"
+        },
+        {
+          "hi": "पेरिस",
+          "en": "Paris"
+        },
+        {
+          "hi": "एथेंस (ग्रीस / Athens)",
+          "en": "Athens (Greece)"
+        },
+        {
+          "hi": "काहिरा",
+          "en": "Cairo"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'अंगकोर वाट' (Angkor Wat - विश्व का सबसे बड़ा हिंदू/बौद्ध मंदिर परिसर) कहाँ है?",
+        "en": "Where is Angkor Wat, the largest religious temple complex in the world, located?"
+      },
+      "o": [
+        {
+          "hi": "थाईलैंड",
+          "en": "Thailand"
+        },
+        {
+          "hi": "इंडोनेशिया",
+          "en": "Indonesia"
+        },
+        {
+          "hi": "म्यांमार",
+          "en": "Myanmar"
+        },
+        {
+          "hi": "कंबोडिया (Cambodia)",
+          "en": "Cambodia"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अंगकोर वाट मंदिर का निर्माण 12वीं शताब्दी में किस राजा ने करवाया था?",
+        "en": "Which Khmer king built Angkor Wat in the early 12th century?"
+      },
+      "o": [
+        {
+          "hi": "सूर्यवर्मन द्वितीय (Suryavarman II)",
+          "en": "Suryavarman II"
+        },
+        {
+          "hi": "जयवर्मन सप्तम",
+          "en": "Jayavarman VII"
+        },
+        {
+          "hi": "इंद्रवर्मन",
+          "en": "Indravarman"
+        },
+        {
+          "hi": "रुद्रवर्मन",
+          "en": "Rudravarman"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'बोरोबुदुर' (Borobudur - विश्व का सबसे बड़ा बौद्ध स्तूप/मंदिर) कहाँ स्थित है?",
+        "en": "Where is Borobudur, the world's largest Buddhist temple monument, located?"
+      },
+      "o": [
+        {
+          "hi": "कंबोडिया",
+          "en": "Cambodia"
+        },
+        {
+          "hi": "जावा (इंडोनेशिया / Java, Indonesia)",
+          "en": "Java, Indonesia"
+        },
+        {
+          "hi": "थाईलैंड",
+          "en": "Thailand"
+        },
+        {
+          "hi": "वियतनाम",
+          "en": "Vietnam"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'पोटाला पैलेस' (Potala Palace - दलाई लामा का पूर्व शीतकालीन निवास) कहाँ है?",
+        "en": "Where is Potala Palace, the historic winter residence of the Dalai Lama, located?"
+      },
+      "o": [
+        {
+          "hi": "भूटान",
+          "en": "Bhutan"
+        },
+        {
+          "hi": "काठमांडू",
+          "en": "Kathmandu"
+        },
+        {
+          "hi": "ल्हासा (तिब्बत / Lhasa, Tibet)",
+          "en": "Lhasa, Tibet"
+        },
+        {
+          "hi": "सिक्किम",
+          "en": "Sikkim"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'रेड स्क्वायर' (Red Square) किस शहर का प्रसिद्ध केंद्रीय चौक है?",
+        "en": "Red Square is the world-famous city square of which world capital?"
+      },
+      "o": [
+        {
+          "hi": "लंदन",
+          "en": "London"
+        },
+        {
+          "hi": "पेरिस",
+          "en": "Paris"
+        },
+        {
+          "hi": "वाशिंगटन डीसी",
+          "en": "Washington DC"
+        },
+        {
+          "hi": "मास्को (रूस / Moscow)",
+          "en": "Moscow (Russia)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'सेंट पीटर्स बेसिलिका' (St. Peter's Basilica) कहाँ स्थित है?",
+        "en": "Where is St. Peter's Basilica, the largest church in the world, located?"
+      },
+      "o": [
+        {
+          "hi": "वेटिकन सिटी (रोम / Vatican City)",
+          "en": "Vatican City"
+        },
+        {
+          "hi": "पेरिस",
+          "en": "Paris"
+        },
+        {
+          "hi": "मैड्रिड",
+          "en": "Madrid"
+        },
+        {
+          "hi": "फ्लोरेंस",
+          "en": "Florence"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'काबा' (Kaaba - इस्लाम का सबसे पवित्र स्थल) किस शहर में स्थित है?",
+        "en": "In which holy city is the Kaaba situated inside Masjid al-Haram?"
+      },
+      "o": [
+        {
+          "hi": "मदीना",
+          "en": "Medina"
+        },
+        {
+          "hi": "मक्का (सऊदी अरब / Mecca)",
+          "en": "Mecca (Saudi Arabia)"
+        },
+        {
+          "hi": "यरूशलम",
+          "en": "Jerusalem"
+        },
+        {
+          "hi": "दमिश्क",
+          "en": "Damascus"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'अल-अक्सा मस्जिद' और 'डोम ऑफ द रॉक' किस पवित्र नगर में स्थित हैं?",
+        "en": "Al-Aqsa Mosque and Dome of the Rock are situated in which historic city?"
+      },
+      "o": [
+        {
+          "hi": "काहिरा",
+          "en": "Cairo"
+        },
+        {
+          "hi": "इस्तांबुल",
+          "en": "Istanbul"
+        },
+        {
+          "hi": "यरूशलम (Jerusalem)",
+          "en": "Jerusalem"
+        },
+        {
+          "hi": "बगदाद",
+          "en": "Baghdad"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'हागिया सोफिया' (Hagia Sophia - प्रसिद्ध ऐतिहासिक स्मारक) कहाँ स्थित है?",
+        "en": "Where is Hagia Sophia, the historic architectural wonder, located?"
+      },
+      "o": [
+        {
+          "hi": "एथेंस",
+          "en": "Athens"
+        },
+        {
+          "hi": "अलेक्जेंड्रिया",
+          "en": "Alexandria"
+        },
+        {
+          "hi": "रोम",
+          "en": "Rome"
+        },
+        {
+          "hi": "इस्तांबुल (तुर्की / Istanbul)",
+          "en": "Istanbul (Turkey)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'वॉल स्ट्रीट' (Wall Street - विश्व का प्रमुख वित्तीय केंद्र) किस शहर में है?",
+        "en": "Wall Street, the world's prominent financial center, is in which city?"
+      },
+      "o": [
+        {
+          "hi": "न्यूयॉर्क (New York)",
+          "en": "New York"
+        },
+        {
+          "hi": "लंदन",
+          "en": "London"
+        },
+        {
+          "hi": "टोक्यो",
+          "en": "Tokyo"
+        },
+        {
+          "hi": "शंघाई",
+          "en": "Shanghai"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'फ्लीट स्ट्रीट' (Fleet Street) लंदन में ऐतिहासिक रूप से किसके लिए प्रसिद्ध है?",
+        "en": "Fleet Street in London is historically associated with which industry?"
+      },
+      "o": [
+        {
+          "hi": "बैंक और वित्त",
+          "en": "Banking"
+        },
+        {
+          "hi": "समाचार पत्र एवं पत्रकारिता (Newspapers)",
+          "en": "Newspapers & Press"
+        },
+        {
+          "hi": "वस्त्र निर्माण",
+          "en": "Textiles"
+        },
+        {
+          "hi": "जहाजरानी",
+          "en": "Shipping"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'ब्रॉडवे' (Broadway) न्यूयॉर्क शहर में किसके लिए अंतरराष्ट्रीय रूप से विख्यात है?",
+        "en": "Broadway in New York City is globally celebrated for?"
+      },
+      "o": [
+        {
+          "hi": "स्टॉक एक्सचेंज",
+          "en": "Stock Exchange"
+        },
+        {
+          "hi": "संग्रहालय",
+          "en": "Museums"
+        },
+        {
+          "hi": "थिएटर और नाटक (Theatres)",
+          "en": "Theatres & Musicals"
+        },
+        {
+          "hi": "खेल स्टेडियम",
+          "en": "Sports Stadiums"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'हॉलीवुड' (Hollywood - विश्व की फिल्म राजधानी) किस शहर में स्थित है?",
+        "en": "Hollywood, world's entertainment capital, is a neighborhood of which US city?"
+      },
+      "o": [
+        {
+          "hi": "न्यूयॉर्क",
+          "en": "New York"
+        },
+        {
+          "hi": "शिकागो",
+          "en": "Chicago"
+        },
+        {
+          "hi": "मियामी",
+          "en": "Miami"
+        },
+        {
+          "hi": "लॉस एंजिल्स (Los Angeles, California)",
+          "en": "Los Angeles"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'सिलिकॉन वैली' (Silicon Valley - विश्व का आईटी हब) कहाँ स्थित है?",
+        "en": "Silicon Valley, the global high-tech and IT innovation hub, is located in?"
+      },
+      "o": [
+        {
+          "hi": "उत्तरी कैलिफोर्निया (USA)",
+          "en": "Northern California (USA)"
+        },
+        {
+          "hi": "टेक्सास",
+          "en": "Texas"
+        },
+        {
+          "hi": "सिएटल",
+          "en": "Seattle"
+        },
+        {
+          "hi": "फ्लोरिडा",
+          "en": "Florida"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'केप कैनावेरल' (Cape Canaveral) अमेरिका में किसके लिए जाना जाता है?",
+        "en": "What is Cape Canaveral in Florida globally renowned for?"
+      },
+      "o": [
+        {
+          "hi": "नौसेना बेस",
+          "en": "Naval Base"
+        },
+        {
+          "hi": "अंतरिक्ष यान प्रक्षेपण केंद्र (Kennedy Space Center)",
+          "en": "Rocket / Space Launch Center"
+        },
+        {
+          "hi": "परमाणु रिएक्टर",
+          "en": "Nuclear Reactor"
+        },
+        {
+          "hi": "गहरे समुद्र बंदरगाह",
+          "en": "Deep Sea Port"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'बैकोनूर कॉस्मोड्रोम' (Baikonur Cosmodrome - अंतरिक्ष केंद्र) कहाँ स्थित है?",
+        "en": "Where is Baikonur Cosmodrome, the historic spaceport, situated?"
+      },
+      "o": [
+        {
+          "hi": "रूस में",
+          "en": "In Russia"
+        },
+        {
+          "hi": "यूक्रेन में",
+          "en": "In Ukraine"
+        },
+        {
+          "hi": "कजाकिस्तान (Kazakhstan)",
+          "en": "Kazakhstan"
+        },
+        {
+          "hi": "उज्बेकिस्तान",
+          "en": "Uzbekistan"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'हांगकांग' का 'विक्टोरिया पीक' किस लिए प्रसिद्ध है?",
+        "en": "What is Victoria Peak in Hong Kong famous for?"
+      },
+      "o": [
+        {
+          "hi": "सोने की खान",
+          "en": "Gold Mine"
+        },
+        {
+          "hi": "प्राचीन किला",
+          "en": "Ancient Fort"
+        },
+        {
+          "hi": "बौद्ध मठ",
+          "en": "Buddhist Monastery"
+        },
+        {
+          "hi": "शहर के विहंगम दृश्य (Panoramic City View)",
+          "en": "Panoramic City View"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'मर्डेका पैलेस' (Merdeka Palace) किस देश के राष्ट्रपति का आधिकारिक निवास है?",
+        "en": "Merdeka Palace is the official residence of the President of which country?"
+      },
+      "o": [
+        {
+          "hi": "इंडोनेशिया (जकार्ता / Indonesia)",
+          "en": "Indonesia (Jakarta)"
+        },
+        {
+          "hi": "मलेशिया",
+          "en": "Malaysia"
+        },
+        {
+          "hi": "फिलीपींस",
+          "en": "Philippines"
+        },
+        {
+          "hi": "सिंगापुर",
+          "en": "Singapore"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'पेट्रोनास ट्विन टावर्स' (Petronas Twin Towers) किस शहर में स्थित हैं?",
+        "en": "In which Asian capital city are the iconic Petronas Twin Towers located?"
+      },
+      "o": [
+        {
+          "hi": "सिंगापुर",
+          "en": "Singapore"
+        },
+        {
+          "hi": "क्वालालंपुर (मलेशिया / Kuala Lumpur)",
+          "en": "Kuala Lumpur (Malaysia)"
+        },
+        {
+          "hi": "बैंकॉक",
+          "en": "Bangkok"
+        },
+        {
+          "hi": "जकार्ता",
+          "en": "Jakarta"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'बुर्ज खलीफा' (Burj Khalifa - विश्व की सबसे ऊँची इमारत, 828 मी) कहाँ है?",
+        "en": "Where is Burj Khalifa, the tallest building in the world (828 m), located?"
+      },
+      "o": [
+        {
+          "hi": "रियाद",
+          "en": "Riyadh"
+        },
+        {
+          "hi": "दोहा",
+          "en": "Doha"
+        },
+        {
+          "hi": "दुबई (संयुक्त अरब अमीरात / Dubai, UAE)",
+          "en": "Dubai (UAE)"
+        },
+        {
+          "hi": "अबू धाबी",
+          "en": "Abu Dhabi"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'सीएन टॉवर' (CN Tower) किस शहर का प्रमुख लैंडमार्क है?",
+        "en": "CN Tower is the iconic communications and observation tower of which city?"
+      },
+      "o": [
+        {
+          "hi": "मॉन्ट्रियल",
+          "en": "Montreal"
+        },
+        {
+          "hi": "वैंकूवर",
+          "en": "Vancouver"
+        },
+        {
+          "hi": "ओटावा",
+          "en": "Ottawa"
+        },
+        {
+          "hi": "टोरंटो (कनाडा / Toronto)",
+          "en": "Toronto (Canada)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'लौवर संग्रहालय' (Louvre Museum - जहाँ मोनालिसा की पेंटिंग है) कहाँ है?",
+        "en": "Where is the Louvre Museum, home to Leonardo da Vinci's Mona Lisa, located?"
+      },
+      "o": [
+        {
+          "hi": "पेरिस (फ्रांस / Paris)",
+          "en": "Paris (France)"
+        },
+        {
+          "hi": "रोम",
+          "en": "Rome"
+        },
+        {
+          "hi": "मैड्रिड",
+          "en": "Madrid"
+        },
+        {
+          "hi": "फ्लोरेंस",
+          "en": "Florence"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'बिग बेन' (Big Ben) लंदन में क्या है?",
+        "en": "What is Big Ben in London?"
+      },
+      "o": [
+        {
+          "hi": "ब्रिटिश संसद का भवन",
+          "en": "Parliament Building"
+        },
+        {
+          "hi": "वेस्टमिंस्टर पैलेस का महान घंटा (Great Bell)",
+          "en": "Great Bell of the Clock Tower"
+        },
+        {
+          "hi": "टेम्स नदी पर पुल",
+          "en": "Bridge on Thames"
+        },
+        {
+          "hi": "शाही मुकुट",
+          "en": "Royal Crown"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'क्रिसलर बिल्डिंग' और 'एम्पायर स्टेट बिल्डिंग' किस शहर में स्थित हैं?",
+        "en": "The Chrysler Building and Empire State Building are situated in which city?"
+      },
+      "o": [
+        {
+          "hi": "लॉस एंजिल्स",
+          "en": "Los Angeles"
+        },
+        {
+          "hi": "शिकागो",
+          "en": "Chicago"
+        },
+        {
+          "hi": "न्यूयॉर्क (USA / New York)",
+          "en": "New York (USA)"
+        },
+        {
+          "hi": "टोरंटो",
+          "en": "Toronto"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'ब्रांडेनबर्ग गेट' (Brandenburg Gate) किस शहर का ऐतिहासिक स्मारक है?",
+        "en": "Brandenburg Gate is a famous 18th-century neoclassical monument in which city?"
+      },
+      "o": [
+        {
+          "hi": "वियना",
+          "en": "Vienna"
+        },
+        {
+          "hi": "म्यूनिख",
+          "en": "Munich"
+        },
+        {
+          "hi": "वारसॉ",
+          "en": "Warsaw"
+        },
+        {
+          "hi": "बर्लिन (जर्मनी / Berlin)",
+          "en": "Berlin (Germany)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'एलीसी पैलेस' (Elysee Palace) किस देश के राष्ट्रपति का आधिकारिक निवास है?",
+        "en": "Elysee Palace is the official residence of the President of which country?"
+      },
+      "o": [
+        {
+          "hi": "फ्रांस (France)",
+          "en": "France"
+        },
+        {
+          "hi": "इटली",
+          "en": "Italy"
+        },
+        {
+          "hi": "स्पेन",
+          "en": "Spain"
+        },
+        {
+          "hi": "पुर्तगाल",
+          "en": "Portugal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'सिय्योन' (Mount Zion) किस शहर में स्थित एक पवित्र पहाड़ी है?",
+        "en": "Mount Zion is a historic and sacred hill located in which holy city?"
+      },
+      "o": [
+        {
+          "hi": "काहिरा",
+          "en": "Cairo"
+        },
+        {
+          "hi": "यरूशलम (Jerusalem)",
+          "en": "Jerusalem"
+        },
+        {
+          "hi": "दमिश्क",
+          "en": "Damascus"
+        },
+        {
+          "hi": "बेथलहम",
+          "en": "Bethlehem"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "'वाटरलू' (Waterloo - जहाँ 1815 में नेपोलियन पराजित हुआ था) कहाँ है?",
+        "en": "Where is Waterloo, the battlefield where Napoleon was finally defeated in 1815?"
+      },
+      "o": [
+        {
+          "hi": "फ्रांस",
+          "en": "France"
+        },
+        {
+          "hi": "जर्मनी",
+          "en": "Germany"
+        },
+        {
+          "hi": "बेल्जियम (Belgium)",
+          "en": "Belgium"
+        },
+        {
+          "hi": "ऑस्ट्रिया",
+          "en": "Austria"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "'पर्ल हार्बर' (Pearl Harbor - जिस पर 1941 में जापान ने हमला किया) कहाँ स्थित है?",
+        "en": "Where is Pearl Harbor, the naval base attacked by Japan in 1941, located?"
+      },
+      "o": [
+        {
+          "hi": "कैलिफोर्निया",
+          "en": "California"
+        },
+        {
+          "hi": "गुआम",
+          "en": "Guam"
+        },
+        {
+          "hi": "अलास्का",
+          "en": "Alaska"
+        },
+        {
+          "hi": "हवाई द्वीप (ओआहू / Hawaii, USA)",
+          "en": "Hawaii (USA)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "'चेरनोबिल' (Chernobyl - 1986 की परमाणु आपदा का स्थल) किस देश में स्थित है?",
+        "en": "In which country is Chernobyl, the site of the catastrophic 1986 nuclear accident?"
+      },
+      "o": [
+        {
+          "hi": "यूक्रेन (Ukraine)",
+          "en": "Ukraine"
+        },
+        {
+          "hi": "रूस",
+          "en": "Russia"
+        },
+        {
+          "hi": "बेलारूस",
+          "en": "Belarus"
+        },
+        {
+          "hi": "कजाकिस्तान",
+          "en": "Kazakhstan"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "'आउशवित्ज़' (Auschwitz - द्वितीय विश्व युद्ध का कुख्यात यातना शिविर) कहाँ है?",
+        "en": "Where is Auschwitz, the notorious Nazi concentration camp during WWII, located?"
+      },
+      "o": [
+        {
+          "hi": "जर्मनी",
+          "en": "Germany"
+        },
+        {
+          "hi": "पोलैंड (Poland)",
+          "en": "Poland"
+        },
+        {
+          "hi": "ऑस्ट्रिया",
+          "en": "Austria"
+        },
+        {
+          "hi": "चेक गणराज्य",
+          "en": "Czech Republic"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}
