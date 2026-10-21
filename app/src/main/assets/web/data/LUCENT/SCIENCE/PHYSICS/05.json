@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "दाब",
+  "description": "दाब पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "प्रति एकांक क्षेत्रफल पर लगने वाले अभिलंबवत बल को क्या कहते हैं?",
+        "en": "What is the perpendicular force acting per unit area called?"
+      },
+      "o": [
+        {
+          "hi": "दाब (Pressure)",
+          "en": "Pressure"
+        },
+        {
+          "hi": "बल (Force)",
+          "en": "Force"
+        },
+        {
+          "hi": "पृष्ठ तनाव",
+          "en": "Surface tension"
+        },
+        {
+          "hi": "श्यानता",
+          "en": "Viscosity"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दाब (Pressure) किस प्रकार की भौतिक राशि है?",
+        "en": "What type of physical quantity is pressure?"
+      },
+      "o": [
+        {
+          "hi": "सदिश राशि",
+          "en": "Vector quantity"
+        },
+        {
+          "hi": "अदिश राशि",
+          "en": "Scalar quantity"
+        },
+        {
+          "hi": "टेन्सर राशि",
+          "en": "Tensor quantity"
+        },
+        {
+          "hi": "विमाहीन राशि",
+          "en": "Dimensionless quantity"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "SI पद्धति में दाब का मात्रक क्या होता है?",
+        "en": "What is the SI unit of pressure?"
+      },
+      "o": [
+        {
+          "hi": "न्यूटन-मीटर",
+          "en": "Newton-meter"
+        },
+        {
+          "hi": "जूल/सेकंड",
+          "en": "Joule/second"
+        },
+        {
+          "hi": "पास्कल (N/m²)",
+          "en": "Pascal (N/m²)"
+        },
+        {
+          "hi": "डाइन/सेमी",
+          "en": "Dyne/cm"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वायुमंडलीय दाब (Atmospheric Pressure) को मापने वाला यंत्र कौन-सा है?",
+        "en": "Which instrument is used to measure atmospheric pressure?"
+      },
+      "o": [
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "हाइड्रोमीटर",
+          "en": "Hydrometer"
+        },
+        {
+          "hi": "अल्टीमीटर",
+          "en": "Altimeter"
+        },
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बैरोमीटर का आविष्कार किस वैज्ञानिक ने किया था?",
+        "en": "Which scientist invented the barometer?"
+      },
+      "o": [
+        {
+          "hi": "ई. टॉरिसेली ने",
+          "en": "E. Torricelli"
+        },
+        {
+          "hi": "ब्लेज पास्कल ने",
+          "en": "Blaise Pascal"
+        },
+        {
+          "hi": "आर्किमिडीज ने",
+          "en": "Archimedes"
+        },
+        {
+          "hi": "रॉबर्ट बॉयल ने",
+          "en": "Robert Boyle"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समुद्र तल पर मानक वायुमंडलीय दाब पारे के कितने सेमी स्तंभ के बराबर होता है?",
+        "en": "Standard atmospheric pressure at sea level is equal to how many cm of Hg column?"
+      },
+      "o": [
+        {
+          "hi": "70 सेमी",
+          "en": "70 cm"
+        },
+        {
+          "hi": "76 सेमी",
+          "en": "76 cm"
+        },
+        {
+          "hi": "80 सेमी",
+          "en": "80 cm"
+        },
+        {
+          "hi": "100 सेमी",
+          "en": "100 cm"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बैरोमीटर का पाठ्यांक जब एकाएक (अचानक) नीचे गिरता है, तो यह किस मौसम का संकेत देता है?",
+        "en": "When the barometer reading falls suddenly, what weather does it indicate?"
+      },
+      "o": [
+        {
+          "hi": "साफ मौसम का",
+          "en": "Clear weather"
+        },
+        {
+          "hi": "अत्यधिक गर्मी का",
+          "en": "Extreme heat"
+        },
+        {
+          "hi": "आंधी-तूफान आने का",
+          "en": "Storm/gale approaching"
+        },
+        {
+          "hi": "लगातार वर्षा का",
+          "en": "Continuous rain"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बैरोमीटर का पाठ्यांक जब धीरे-धीरे नीचे गिरता है, तो यह किस संभावना को दर्शाता है?",
+        "en": "When barometer reading falls gradually, what possibility does it indicate?"
+      },
+      "o": [
+        {
+          "hi": "आंधी आने की",
+          "en": "Storm coming"
+        },
+        {
+          "hi": "मौसम शुष्क रहने की",
+          "en": "Weather remaining dry"
+        },
+        {
+          "hi": "बर्फबारी होने की",
+          "en": "Snowfall occurring"
+        },
+        {
+          "hi": "वर्षा होने की",
+          "en": "Rain occurring"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बैरोमीटर का पाठ्यांक जब धीरे-धीरे ऊपर चढ़ता है, तो यह किसका संकेत होता है?",
+        "en": "When barometer reading rises gradually, what is it an indication of?"
+      },
+      "o": [
+        {
+          "hi": "दिन साफ और शांत रहने का",
+          "en": "Clear and calm weather"
+        },
+        {
+          "hi": "भारी वर्षा होने का",
+          "en": "Heavy rainfall"
+        },
+        {
+          "hi": "चक्रवात आने का",
+          "en": "Cyclone arrival"
+        },
+        {
+          "hi": "धूल भरी आंधी का",
+          "en": "Dust storm"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पहाड़ों पर अधिक ऊँचाई पर जाने पर वायुमंडलीय दाब पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to atmospheric pressure as we go to higher altitudes on mountains?"
+      },
+      "o": [
+        {
+          "hi": "बढ़ जाता है",
+          "en": "Increases"
+        },
+        {
+          "hi": "कम हो जाता है",
+          "en": "Decreases"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "शून्य हो जाता है",
+          "en": "Becomes zero"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पहाड़ों पर खाना पकाने में अधिक समय क्यों लगता है?",
+        "en": "Why does it take longer to cook food on mountains?"
+      },
+      "o": [
+        {
+          "hi": "तापमान बहुत कम होने से",
+          "en": "Due to very low temperature"
+        },
+        {
+          "hi": "वायु में नमी अधिक होने से",
+          "en": "High moisture in air"
+        },
+        {
+          "hi": "दाब कम होने से क्वथनांक घट जाता है",
+          "en": "Lower pressure reduces boiling point"
+        },
+        {
+          "hi": "ऑक्सीजन कम होने से",
+          "en": "Due to low oxygen"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हवाई जहाज में यात्रा करते समय फाउंटेन पेन से स्याही बाहर क्यों निकलने लगती है?",
+        "en": "Why does ink leak out from a fountain pen while traveling in an airplane?"
+      },
+      "o": [
+        {
+          "hi": "तापमान बढ़ने के कारण",
+          "en": "Due to temperature increase"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण घटने से",
+          "en": "Due to gravity decrease"
+        },
+        {
+          "hi": "हवाई जहाज के वेग के कारण",
+          "en": "Due to airplane speed"
+        },
+        {
+          "hi": "ऊँचाई पर वायुदाब कम होने के कारण",
+          "en": "Due to lower air pressure at altitude"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रेशर कुकर में खाना जल्दी क्यों पक जाता है?",
+        "en": "Why does food cook faster in a pressure cooker?"
+      },
+      "o": [
+        {
+          "hi": "दाब बढ़ने से पानी का क्वथनांक बढ़ जाता है",
+          "en": "Increased pressure raises boiling point"
+        },
+        {
+          "hi": "दाब बढ़ने से क्वथनांक घट जाता है",
+          "en": "Increased pressure lowers boiling point"
+        },
+        {
+          "hi": "भाप बाहर नहीं निकल पाती",
+          "en": "Steam cannot escape"
+        },
+        {
+          "hi": "कुकर ऊष्मा का अच्छा चालक है",
+          "en": "Cooker is good conductor"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रेशर कुकर के अंदर जल का क्वथनांक सामान्य 100°C से बढ़कर लगभग कितना हो जाता है?",
+        "en": "Inside a pressure cooker, boiling point of water increases from 100°C to approximately what?"
+      },
+      "o": [
+        {
+          "hi": "105°C",
+          "en": "105°C"
+        },
+        {
+          "hi": "120°C",
+          "en": "120°C"
+        },
+        {
+          "hi": "150°C",
+          "en": "150°C"
+        },
+        {
+          "hi": "200°C",
+          "en": "200°C"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दलदल में फंसे व्यक्ति को लेट जाने की सलाह क्यों दी जाती है?",
+        "en": "Why is a person trapped in quicksand advised to lie down?"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्वाकर्षण कम करने के लिए",
+          "en": "To reduce gravity"
+        },
+        {
+          "hi": "शरीर हल्का करने के लिए",
+          "en": "To make body light"
+        },
+        {
+          "hi": "क्षेत्रफल बढ़ने से दाब कम हो जाता है",
+          "en": "Larger area decreases pressure"
+        },
+        {
+          "hi": "आसानी से सांस लेने के लिए",
+          "en": "To breathe easily"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कील का सिरा नुकीला क्यों बनाया जाता है?",
+        "en": "Why is the tip of a nail made pointed?"
+      },
+      "o": [
+        {
+          "hi": "सुंदर दिखने के लिए",
+          "en": "To look attractive"
+        },
+        {
+          "hi": "लोहा बचाने के लिए",
+          "en": "To save iron"
+        },
+        {
+          "hi": "भार कम करने के लिए",
+          "en": "To reduce weight"
+        },
+        {
+          "hi": "क्षेत्रफल घटाकर दाब बढ़ाने के लिए",
+          "en": "To decrease area & increase pressure"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोलिक लिफ्ट, हाइड्रोलिक प्रेस और हाइड्रोलिक ब्रेक किस नियम पर आधारित हैं?",
+        "en": "Hydraulic lift, hydraulic press and hydraulic brakes are based on which law?"
+      },
+      "o": [
+        {
+          "hi": "पास्कल के नियम पर",
+          "en": "Pascal's law"
+        },
+        {
+          "hi": "आर्किमिडीज के सिद्धांत पर",
+          "en": "Archimedes' principle"
+        },
+        {
+          "hi": "बर्नोली के प्रमेय पर",
+          "en": "Bernoulli's theorem"
+        },
+        {
+          "hi": "बॉयल के नियम पर",
+          "en": "Boyle's law"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पास्कल का नियम मुख्यतः किससे संबंधित है?",
+        "en": "Pascal's law is primarily related to what?"
+      },
+      "o": [
+        {
+          "hi": "गैसों के प्रसार से",
+          "en": "Expansion of gases"
+        },
+        {
+          "hi": "द्रव दाब के संचरण से",
+          "en": "Transmission of fluid pressure"
+        },
+        {
+          "hi": "ठोसों के प्रसार से",
+          "en": "Expansion of solids"
+        },
+        {
+          "hi": "तापमान के प्रभाव से",
+          "en": "Effect of temperature"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "द्रव के अंदर किसी बिंदु पर द्रव दाब (P) का सही सूत्र क्या है?",
+        "en": "What is the correct formula for liquid pressure (P) at depth h?"
+      },
+      "o": [
+        {
+          "hi": "P = h / ρg",
+          "en": "P = h / ρg"
+        },
+        {
+          "hi": "P = mg / A",
+          "en": "P = mg / A"
+        },
+        {
+          "hi": "P = h · ρ · g",
+          "en": "P = h · ρ · g"
+        },
+        {
+          "hi": "P = ½ ρv²",
+          "en": "P = ½ ρv²"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नदी या नहर के बांध की दीवारें नीचे की ओर चौड़ी क्यों बनाई जाती हैं?",
+        "en": "Why are the walls of a dam made broader at the bottom?"
+      },
+      "o": [
+        {
+          "hi": "सुंदरता बढ़ाने के लिए",
+          "en": "To enhance appearance"
+        },
+        {
+          "hi": "मिट्टी के कटाव को रोकने हेतु",
+          "en": "To stop soil erosion"
+        },
+        {
+          "hi": "जल का बहाव तेज करने हेतु",
+          "en": "To speed up water flow"
+        },
+        {
+          "hi": "गहराई बढ़ने पर द्रव दाब बढ़ने के कारण",
+          "en": "Liquid pressure increases with depth"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एक ही क्षैतिज तल पर स्थित किसी स्थिर द्रव के सभी बिंदुओं पर दाब कैसा होता है?",
+        "en": "In a stationary liquid at the same horizontal level, what is the pressure at all points?"
+      },
+      "o": [
+        {
+          "hi": "एकसमान (बराबर) होता है",
+          "en": "Uniform (equal)"
+        },
+        {
+          "hi": "अलग-अलग होता है",
+          "en": "Different"
+        },
+        {
+          "hi": "शून्य होता है",
+          "en": "Zero"
+        },
+        {
+          "hi": "अनंत होता है",
+          "en": "Infinite"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्थिर द्रव के किसी बिंदु पर लगने वाला द्रव दाब किस पर निर्भर नहीं करता?",
+        "en": "Liquid pressure at a point in a stationary liquid does not depend on what?"
+      },
+      "o": [
+        {
+          "hi": "द्रव के घनत्व पर",
+          "en": "Density of liquid"
+        },
+        {
+          "hi": "पात्र के आकार या आकृति पर",
+          "en": "Shape or size of vessel"
+        },
+        {
+          "hi": "बिंदु की गहराई पर",
+          "en": "Depth of the point"
+        },
+        {
+          "hi": "गुरुत्वीय त्वरण पर",
+          "en": "Acceleration due to gravity"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दाब बढ़ाने पर बर्फ के गलनांक (Melting Point) पर क्या प्रभाव पड़ता है?",
+        "en": "What effect does increasing pressure have on the melting point of ice?"
+      },
+      "o": [
+        {
+          "hi": "बढ़ जाता है",
+          "en": "Increases"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "घट जाता है",
+          "en": "Decreases"
+        },
+        {
+          "hi": "पहले बढ़ता फिर घटता है",
+          "en": "First increases then decreases"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दाब बढ़ाने पर मोम या घी का गलनांक क्या होता है?",
+        "en": "What happens to the melting point of wax or ghee on increasing pressure?"
+      },
+      "o": [
+        {
+          "hi": "घट जाता है",
+          "en": "Decreases"
+        },
+        {
+          "hi": "शून्य हो जाता है",
+          "en": "Becomes zero"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "बढ़ जाता है",
+          "en": "Increases"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दाब बढ़ाने पर किसी द्रव के क्वथनांक (Boiling Point) पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to the boiling point of a liquid when pressure is increased?"
+      },
+      "o": [
+        {
+          "hi": "क्वथनांक बढ़ जाता है",
+          "en": "Boiling point increases"
+        },
+        {
+          "hi": "क्वथनांक घट जाता है",
+          "en": "Boiling point decreases"
+        },
+        {
+          "hi": "क्वथनांक स्थिर रहता है",
+          "en": "Boiling point remains constant"
+        },
+        {
+          "hi": "द्रव जमने लगता है",
+          "en": "Liquid begins to freeze"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बर्फ के दो टुकड़ों को आपस में दबाने पर वे आपस में चिपक क्यों जाते हैं?",
+        "en": "Why do two pieces of ice stick together when pressed against each other?"
+      },
+      "o": [
+        {
+          "hi": "दाब बढ़ने से गलनांक बढ़ जाता है",
+          "en": "Melting point increases with pressure"
+        },
+        {
+          "hi": "दाब बढ़ने से गलनांक घट जाता है",
+          "en": "Melting point decreases with pressure"
+        },
+        {
+          "hi": "बर्फ में रासायनिक क्रिया होती है",
+          "en": "Chemical reaction occurs"
+        },
+        {
+          "hi": "बर्फ का घनत्व कम होता है",
+          "en": "Ice has lower density"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दाब हटा लेने पर बर्फ का पिघला हुआ जल पुनः जम जाता है, इस प्रक्रिया को क्या कहते हैं?",
+        "en": "Melted ice refreezes when pressure is released, what is this process called?"
+      },
+      "o": [
+        {
+          "hi": "ऊर्ध्वपातन",
+          "en": "Sublimation"
+        },
+        {
+          "hi": "वाष्पीकरण",
+          "en": "Evaporation"
+        },
+        {
+          "hi": "पुनर्हिमायन (Regelation)",
+          "en": "Regelation"
+        },
+        {
+          "hi": "संघनन",
+          "en": "Condensation"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रेल की पटरियों के नीचे लकड़ी या कंक्रीट के बड़े स्लीपर क्यों बिछाए जाते हैं?",
+        "en": "Why are wooden or concrete sleepers placed below railway tracks?"
+      },
+      "o": [
+        {
+          "hi": "झटकों को रोकने के लिए",
+          "en": "To stop jerks"
+        },
+        {
+          "hi": "पटरियों को समानांतर रखने हेतु",
+          "en": "To keep rails parallel"
+        },
+        {
+          "hi": "सुंदरता बढ़ाने हेतु",
+          "en": "To look aesthetic"
+        },
+        {
+          "hi": "क्षेत्रफल बढ़ाकर दाब कम करने हेतु",
+          "en": "To increase area & reduce pressure"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऊँट मरुस्थल में आसानी से क्यों चल लेता है?",
+        "en": "Why can a camel walk easily in a desert?"
+      },
+      "o": [
+        {
+          "hi": "पैर चौड़े होने से रेत पर दाब कम पड़ता है",
+          "en": "Broad feet exert less pressure on sand"
+        },
+        {
+          "hi": "ऊँट का भार बहुत कम होता है",
+          "en": "Camel has very little weight"
+        },
+        {
+          "hi": "ऊँट तेज दौड़ता है",
+          "en": "Camel runs fast"
+        },
+        {
+          "hi": "रेत में घर्षण बहुत अधिक होता है",
+          "en": "Sand has very high friction"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तेज धार वाले चाकू से किसी वस्तु को काटना आसान क्यों होता है?",
+        "en": "Why is it easier to cut an object with a sharp knife?"
+      },
+      "o": [
+        {
+          "hi": "चाकू भारी होता है",
+          "en": "Knife is heavier"
+        },
+        {
+          "hi": "संपर्क क्षेत्रफल कम होने से दाब अधिक होता है",
+          "en": "Lesser contact area creates more pressure"
+        },
+        {
+          "hi": "चाकू का घर्षण शून्य होता है",
+          "en": "Knife has zero friction"
+        },
+        {
+          "hi": "चाकू का वेग अधिक होता है",
+          "en": "Knife has higher velocity"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गहरे समुद्र में गोताखोरी करते समय गोताखोर विशेष प्रकार की पोशाक क्यों पहनते हैं?",
+        "en": "Why do divers wear special suits while diving in deep sea?"
+      },
+      "o": [
+        {
+          "hi": "ठंड से बचने के लिए",
+          "en": "To avoid cold"
+        },
+        {
+          "hi": "जलीय जीवों से बचने के लिए",
+          "en": "To avoid marine creatures"
+        },
+        {
+          "hi": "समुद्र के अत्यधिक जलदाब से बचने के लिए",
+          "en": "To withstand extreme water pressure"
+        },
+        {
+          "hi": "हल्का महसूस करने के लिए",
+          "en": "To feel lighter"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रक्तचाप (Blood Pressure) मापने के लिए किस यंत्र का उपयोग किया जाता है?",
+        "en": "Which instrument is used to measure blood pressure?"
+      },
+      "o": [
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "थर्मामीटर",
+          "en": "Thermometer"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "स्फिग्मोमैनोमीटर",
+          "en": "Sphygmomanometer"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सामान्य मनुष्य का मानक रक्तदाब (सिस्टोलिक/डायस्टोलिक) कितना होता है?",
+        "en": "What is the standard blood pressure (systolic/diastolic) of a normal human?"
+      },
+      "o": [
+        {
+          "hi": "120/80 mm Hg",
+          "en": "120/80 mm Hg"
+        },
+        {
+          "hi": "80/120 mm Hg",
+          "en": "80/120 mm Hg"
+        },
+        {
+          "hi": "100/60 mm Hg",
+          "en": "100/60 mm Hg"
+        },
+        {
+          "hi": "140/90 mm Hg",
+          "en": "140/90 mm Hg"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गैस का दाब मापने के लिए सामान्यतः किस यंत्र का उपयोग किया जाता है?",
+        "en": "Which instrument is commonly used to measure gas pressure?"
+      },
+      "o": [
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "पाइरोमीटर",
+          "en": "Pyrometer"
+        },
+        {
+          "hi": "हाइड्रोमीटर",
+          "en": "Hydrometer"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1 टॉर (1 Torr) कितने मिमी पारे के स्तंभ के दाब के बराबर होता है?",
+        "en": "1 Torr is equal to the pressure of how many mm of Hg column?"
+      },
+      "o": [
+        {
+          "hi": "760 mm of Hg",
+          "en": "760 mm of Hg"
+        },
+        {
+          "hi": "10 mm of Hg",
+          "en": "10 mm of Hg"
+        },
+        {
+          "hi": "1 mm of Hg",
+          "en": "1 mm of Hg"
+        },
+        {
+          "hi": "76 mm of Hg",
+          "en": "76 mm of Hg"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1 वायुमंडलीय दाब (1 atm) कितने पास्कल के समतुल्य होता है?",
+        "en": "1 atmospheric pressure (1 atm) is equivalent to how many pascals?"
+      },
+      "o": [
+        {
+          "hi": "1.013 × 10^3 Pa",
+          "en": "1.013 × 10^3 Pa"
+        },
+        {
+          "hi": "1.013 × 10^4 Pa",
+          "en": "1.013 × 10^4 Pa"
+        },
+        {
+          "hi": "1.013 × 10^6 Pa",
+          "en": "1.013 × 10^6 Pa"
+        },
+        {
+          "hi": "1.013 × 10^5 Pa",
+          "en": "1.013 × 10^5 Pa"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अधिक ऊँचाई पर जाने पर मानव शरीर की रक्त वाहिनियों के फटने का खतरा क्यों बढ़ जाता है?",
+        "en": "Why does risk of rupture of blood vessels increase at high altitude?"
+      },
+      "o": [
+        {
+          "hi": "बाहरी वायुदाब शरीर के रक्तदाब से कम हो जाता है",
+          "en": "External pressure becomes lower than BP"
+        },
+        {
+          "hi": "रक्त गाढ़ा हो जाता है",
+          "en": "Blood becomes thicker"
+        },
+        {
+          "hi": "शरीर का तापमान बढ़ जाता है",
+          "en": "Body temperature rises"
+        },
+        {
+          "hi": "हृदय गति रुक जाती है",
+          "en": "Heart rate stops"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्ट्रॉ (नली) द्वारा शीतल पेय पीना किस सिद्धांत पर आधारित होता है?",
+        "en": "Drinking cold beverage through a straw is based on which principle?"
+      },
+      "o": [
+        {
+          "hi": "केशिकत्व पर",
+          "en": "Capillarity"
+        },
+        {
+          "hi": "वायुमंडलीय दाब पर",
+          "en": "Atmospheric pressure"
+        },
+        {
+          "hi": "पृष्ठ तनाव पर",
+          "en": "Surface tension"
+        },
+        {
+          "hi": "आर्किमिडीज सिद्धांत पर",
+          "en": "Archimedes principle"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रबर चूषक (Suction Cup) चिकनी दीवार से किस कारण चिपक जाता है?",
+        "en": "Why does a rubber suction cup stick to a smooth wall?"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्वाकर्षण बल से",
+          "en": "Gravitational force"
+        },
+        {
+          "hi": "स्थिर विद्युत बल से",
+          "en": "Electrostatic force"
+        },
+        {
+          "hi": "वायुमंडलीय दाब के कारण",
+          "en": "Due to atmospheric pressure"
+        },
+        {
+          "hi": "चुंबकीय खिंचाव से",
+          "en": "Magnetic attraction"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बैरोमीटर में पारे (Mercury) का उपयोग करने का मुख्य कारण क्या है?",
+        "en": "What is the main reason for using mercury in a barometer?"
+      },
+      "o": [
+        {
+          "hi": "यह सस्ता होता है",
+          "en": "It is inexpensive"
+        },
+        {
+          "hi": "यह पारदर्शी होता है",
+          "en": "It is transparent"
+        },
+        {
+          "hi": "यह बहुत हल्का होता है",
+          "en": "It is very light"
+        },
+        {
+          "hi": "उच्च घनत्व एवं निम्न वाष्प दाब",
+          "en": "High density and low vapor pressure"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यदि बैरोमीटर में पारे के स्थान पर पानी का उपयोग किया जाए, तो नली की न्यूनतम ऊँचाई लगभग कितनी होनी चाहिए?",
+        "en": "If water is used instead of mercury in a barometer, what should be the minimum tube height?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 10.3 मीटर",
+          "en": "About 10.3 meters"
+        },
+        {
+          "hi": "लगभग 76 सेमी",
+          "en": "About 76 cm"
+        },
+        {
+          "hi": "लगभग 1 मीटर",
+          "en": "About 1 meter"
+        },
+        {
+          "hi": "लगभग 5 मीटर",
+          "en": "About 5 meters"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ऑटोमोबाइल के हाइड्रोलिक ब्रेक किस नियम के प्रत्यक्ष अनुप्रयोग हैं?",
+        "en": "Hydraulic brakes in automobiles are a direct application of which law?"
+      },
+      "o": [
+        {
+          "hi": "बर्नोली का नियम",
+          "en": "Bernoulli's law"
+        },
+        {
+          "hi": "पास्कल का नियम",
+          "en": "Pascal's law"
+        },
+        {
+          "hi": "आर्किमिडीज का नियम",
+          "en": "Archimedes' law"
+        },
+        {
+          "hi": "न्यूटन का नियम",
+          "en": "Newton's law"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किसी बंद द्रव में यदि किसी बिंदु पर दाब बढ़ाया जाए, तो वह दाब कहाँ संचरित होता है?",
+        "en": "If pressure is increased at any point in a confined liquid, where is it transmitted?"
+      },
+      "o": [
+        {
+          "hi": "केवल नीचे की ओर",
+          "en": "Only downwards"
+        },
+        {
+          "hi": "केवल ऊपर की ओर",
+          "en": "Only upwards"
+        },
+        {
+          "hi": "सभी दिशाओं में समान रूप से",
+          "en": "Equally in all directions"
+        },
+        {
+          "hi": "केवल पात्र की दीवारों पर",
+          "en": "Only on vessel walls"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समुद्र की सतह पर वायुमंडलीय दाब लगभग कितना बार (Bar) होता है?",
+        "en": "Approximately how many bars is the atmospheric pressure at sea level?"
+      },
+      "o": [
+        {
+          "hi": "10 बार",
+          "en": "10 bar"
+        },
+        {
+          "hi": "5 बार",
+          "en": "5 bar"
+        },
+        {
+          "hi": "0.5 बार",
+          "en": "0.5 bar"
+        },
+        {
+          "hi": "1.013 बार",
+          "en": "1.013 bar"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्कूल बैग में चौड़ी पट्टियाँ क्यों लगाई जाती हैं?",
+        "en": "Why are broad straps provided in school bags?"
+      },
+      "o": [
+        {
+          "hi": "क्षेत्रफल बढ़ाकर कंधों पर दाब कम करने हेतु",
+          "en": "To increase area & reduce shoulder pressure"
+        },
+        {
+          "hi": "बैग सुंदर दिखने के लिए",
+          "en": "To make bag look stylish"
+        },
+        {
+          "hi": "बैग का वजन कम करने के लिए",
+          "en": "To reduce weight of bag"
+        },
+        {
+          "hi": "पट्टियों की मजबूती बढ़ाने के लिए",
+          "en": "To make straps stronger"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ऊँचाई बढ़ने के साथ-साथ पारे के बैरोमीटर के स्तंभ की ऊँचाई पर क्या प्रभाव पड़ता है?",
+        "en": "With increase in altitude, what happens to the height of mercury column in barometer?"
+      },
+      "o": [
+        {
+          "hi": "बढ़ती है",
+          "en": "Increases"
+        },
+        {
+          "hi": "घटती है",
+          "en": "Decreases"
+        },
+        {
+          "hi": "अपरिवर्तित रहती है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "शून्य हो जाती है",
+          "en": "Becomes zero"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा यंत्र द्रव के दाब का अंतर मापने के लिए प्रयुक्त होता है?",
+        "en": "Which of the following instruments is used to measure liquid pressure difference?"
+      },
+      "o": [
+        {
+          "hi": "लैक्टोमीटर",
+          "en": "Lactometer"
+        },
+        {
+          "hi": "पाइरोमीटर",
+          "en": "Pyrometer"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "एनीमोमीटर",
+          "en": "Anemometer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हवाई जहाज के केबिन को कृत्रिम रूप से क्यों दाबानुकूलित (Pressurized) किया जाता है?",
+        "en": "Why is an aircraft cabin artificially pressurized?"
+      },
+      "o": [
+        {
+          "hi": "ईंधन बचाने के लिए",
+          "en": "To save fuel"
+        },
+        {
+          "hi": "हवाई जहाज का वजन घटाने के लिए",
+          "en": "To reduce plane weight"
+        },
+        {
+          "hi": "आवाज कम करने के लिए",
+          "en": "To reduce noise"
+        },
+        {
+          "hi": "सामान्य श्वसन हेतु उचित वायुदाब बनाए रखने के लिए",
+          "en": "To maintain proper air pressure for breathing"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दाब का विमीय सूत्र (Dimensional Formula) क्या होता है?",
+        "en": "What is the dimensional formula of pressure?"
+      },
+      "o": [
+        {
+          "hi": "[M L^-1 T^-2]",
+          "en": "[M L^-1 T^-2]"
+        },
+        {
+          "hi": "[M L T^-2]",
+          "en": "[M L T^-2]"
+        },
+        {
+          "hi": "[M L^2 T^-2]",
+          "en": "[M L^2 T^-2]"
+        },
+        {
+          "hi": "[M L^-2 T^-2]",
+          "en": "[M L^-2 T^-2]"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पानी का त्रिक बिंदु (Triple Point of Water) किस दाब पर होता है?",
+        "en": "At what pressure does the triple point of water occur?"
+      },
+      "o": [
+        {
+          "hi": "1.013 bar",
+          "en": "1.013 bar"
+        },
+        {
+          "hi": "4.58 mm of Hg",
+          "en": "4.58 mm of Hg"
+        },
+        {
+          "hi": "760 mm of Hg",
+          "en": "760 mm of Hg"
+        },
+        {
+          "hi": "100 mm of Hg",
+          "en": "100 mm of Hg"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

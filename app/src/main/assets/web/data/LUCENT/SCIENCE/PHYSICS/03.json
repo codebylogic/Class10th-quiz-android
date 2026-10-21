@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "कार्य, ऊर्जा एवं शक्ति",
+  "description": "कार्य, ऊर्जा एवं शक्ति पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "भौतिकी में कार्य (Work) किस प्रकार की राशि है?",
+        "en": "In physics, what type of physical quantity is work?"
+      },
+      "o": [
+        {
+          "hi": "अदिश राशि",
+          "en": "Scalar quantity"
+        },
+        {
+          "hi": "सदिश राशि",
+          "en": "Vector quantity"
+        },
+        {
+          "hi": "टेन्सर राशि",
+          "en": "Tensor quantity"
+        },
+        {
+          "hi": "विमाहीन राशि",
+          "en": "Dimensionless quantity"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यदि बल और विस्थापन के बीच का कोण 90° हो, तो किया गया कार्य कितना होगा?",
+        "en": "If the angle between force and displacement is 90°, what will be the work done?"
+      },
+      "o": [
+        {
+          "hi": "अधिकतम",
+          "en": "Maximum"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "ऋणात्मक",
+          "en": "Negative"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जब कोई कुली अपने सिर पर भारी बोझ रखकर क्षैतिज प्लेटफॉर्म पर चलता है, तो गुरुत्वाकर्षण बल द्वारा किया गया कार्य कितना होता है?",
+        "en": "When a porter walks on a horizontal platform carrying luggage on his head, what is work done by gravity?"
+      },
+      "o": [
+        {
+          "hi": "धनात्मक",
+          "en": "Positive"
+        },
+        {
+          "hi": "ऋणात्मक",
+          "en": "Negative"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "अधिकतम",
+          "en": "Maximum"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वृत्ताकार मार्ग पर एक पूरा चक्कर लगाने पर अभिकेंद्रीय बल द्वारा किया गया कुल कार्य कितना होता है?",
+        "en": "What is the total work done by centripetal force in completing one full circle?"
+      },
+      "o": [
+        {
+          "hi": "अधिकतम धनात्मक",
+          "en": "Maximum positive"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "ऋणात्मक",
+          "en": "Negative"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किसी वस्तु की कार्य करने की क्षमता को क्या कहा जाता है?",
+        "en": "What is the capacity of a body to do work called?"
+      },
+      "o": [
+        {
+          "hi": "ऊर्जा (Energy)",
+          "en": "Energy"
+        },
+        {
+          "hi": "शक्ति (Power)",
+          "en": "Power"
+        },
+        {
+          "hi": "बल (Force)",
+          "en": "Force"
+        },
+        {
+          "hi": "संवेग (Momentum)",
+          "en": "Momentum"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गतिज ऊर्जा (Kinetic Energy) का सही गणितीय सूत्र क्या है?",
+        "en": "What is the correct mathematical formula for kinetic energy?"
+      },
+      "o": [
+        {
+          "hi": "mgh",
+          "en": "mgh"
+        },
+        {
+          "hi": "½ mv²",
+          "en": "½ mv²"
+        },
+        {
+          "hi": "mv",
+          "en": "mv"
+        },
+        {
+          "hi": "½ m²v",
+          "en": "½ m²v"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यदि किसी गतिमान वस्तु का संवेग (Momentum) दोगुना कर दिया जाए, तो उसकी गतिज ऊर्जा कितनी हो जाएगी?",
+        "en": "If the momentum of a moving body is doubled, what will happen to its kinetic energy?"
+      },
+      "o": [
+        {
+          "hi": "दोगुनी",
+          "en": "Doubled"
+        },
+        {
+          "hi": "आधी",
+          "en": "Halved"
+        },
+        {
+          "hi": "चार गुनी",
+          "en": "Four times"
+        },
+        {
+          "hi": "अपरिवर्तित",
+          "en": "Unchanged"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यदि किसी वस्तु का द्रव्यमान आधा और वेग दोगुना कर दिया जाए, तो उसकी गतिज ऊर्जा पर क्या प्रभाव पड़ेगा?",
+        "en": "If the mass of an object is halved and its velocity is doubled, what will be the effect on kinetic energy?"
+      },
+      "o": [
+        {
+          "hi": "समान रहेगी",
+          "en": "Remains same"
+        },
+        {
+          "hi": "चार गुनी होगी",
+          "en": "Becomes four times"
+        },
+        {
+          "hi": "आधी रह जाएगी",
+          "en": "Becomes half"
+        },
+        {
+          "hi": "दोगुनी हो जाएगी",
+          "en": "Will be doubled"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बांध में जमा किए गए पानी में कौन-सी ऊर्जा संचित होती है?",
+        "en": "What type of energy is stored in water collected in a dam?"
+      },
+      "o": [
+        {
+          "hi": "स्थितिज ऊर्जा",
+          "en": "Potential energy"
+        },
+        {
+          "hi": "गतिज ऊर्जा",
+          "en": "Kinetic energy"
+        },
+        {
+          "hi": "विद्युत ऊर्जा",
+          "en": "Electrical energy"
+        },
+        {
+          "hi": "रासायनिक ऊर्जा",
+          "en": "Chemical energy"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "घड़ी की चाबी में संचित ऊर्जा किस प्रकार की ऊर्जा होती है?",
+        "en": "What type of energy is stored in the wound spring of a clock?"
+      },
+      "o": [
+        {
+          "hi": "गतिज ऊर्जा",
+          "en": "Kinetic energy"
+        },
+        {
+          "hi": "स्थितिज ऊर्जा",
+          "en": "Potential energy"
+        },
+        {
+          "hi": "यांत्रिक ऊर्जा",
+          "en": "Mechanical energy"
+        },
+        {
+          "hi": "ऊष्मीय ऊर्जा",
+          "en": "Thermal energy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तनी हुई धनुष की डोरी में कौन-सी ऊर्जा निहित होती है?",
+        "en": "Which energy is present in a stretched bow string?"
+      },
+      "o": [
+        {
+          "hi": "गतिज ऊर्जा",
+          "en": "Kinetic energy"
+        },
+        {
+          "hi": "विद्युत ऊर्जा",
+          "en": "Electrical energy"
+        },
+        {
+          "hi": "प्रत्यास्थ स्थितिज ऊर्जा",
+          "en": "Elastic potential energy"
+        },
+        {
+          "hi": "रासायनिक ऊर्जा",
+          "en": "Chemical energy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ऊर्जा संरक्षण का सिद्धांत (Principle of Conservation of Energy) क्या बताता है?",
+        "en": "What does the Principle of Conservation of Energy state?"
+      },
+      "o": [
+        {
+          "hi": "ऊर्जा उत्पन्न होती है",
+          "en": "Energy can be created"
+        },
+        {
+          "hi": "ऊर्जा नष्ट होती है",
+          "en": "Energy can be destroyed"
+        },
+        {
+          "hi": "कुल ऊर्जा घटती है",
+          "en": "Total energy decreases"
+        },
+        {
+          "hi": "ऊर्जा केवल रूपांतरित होती है",
+          "en": "Energy only transforms"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "डायनेमो (Dynamo) किस ऊर्जा को किस ऊर्जा में रूपांतरित करता है?",
+        "en": "Dynamo converts which form of energy into which form?"
+      },
+      "o": [
+        {
+          "hi": "यांत्रिक को विद्युत में",
+          "en": "Mechanical to electrical"
+        },
+        {
+          "hi": "विद्युत को यांत्रिक में",
+          "en": "Electrical to mechanical"
+        },
+        {
+          "hi": "रासायनिक को विद्युत में",
+          "en": "Chemical to electrical"
+        },
+        {
+          "hi": "सौर को विद्युत में",
+          "en": "Solar to electrical"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विद्युत मोटर (Electric Motor) ऊर्जा का कौन-सा रूपांतरण करती है?",
+        "en": "What energy transformation is performed by an electric motor?"
+      },
+      "o": [
+        {
+          "hi": "यांत्रिक को विद्युत में",
+          "en": "Mechanical to electrical"
+        },
+        {
+          "hi": "विद्युत को यांत्रिक में",
+          "en": "Electrical to mechanical"
+        },
+        {
+          "hi": "विद्युत को ध्वनि में",
+          "en": "Electrical to sound"
+        },
+        {
+          "hi": "ध्वनि को विद्युत में",
+          "en": "Sound to electrical"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "माइक्रोफोन (Microphone) किस ऊर्जा को किस ऊर्जा में परिवर्तित करता है?",
+        "en": "Microphone converts which energy into which energy?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत ऊर्जा को ध्वनि में",
+          "en": "Electrical to sound"
+        },
+        {
+          "hi": "यांत्रिक को प्रकाश में",
+          "en": "Mechanical to light"
+        },
+        {
+          "hi": "ध्वनि ऊर्जा को विद्युत में",
+          "en": "Sound to electrical"
+        },
+        {
+          "hi": "सौर ऊर्जा को ध्वनि में",
+          "en": "Solar to sound"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लाउडस्पीकर (Loudspeaker) ऊर्जा का कौन-सा रूपांतरण करता है?",
+        "en": "What energy conversion is done by a loudspeaker?"
+      },
+      "o": [
+        {
+          "hi": "ध्वनि को विद्युत ऊर्जा में",
+          "en": "Sound to electrical"
+        },
+        {
+          "hi": "रासायनिक को ध्वनि में",
+          "en": "Chemical to sound"
+        },
+        {
+          "hi": "यांत्रिक को विद्युत में",
+          "en": "Mechanical to electrical"
+        },
+        {
+          "hi": "विद्युत ऊर्जा को ध्वनि में",
+          "en": "Electrical to sound"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सौर सेल (Solar Cell) किस ऊर्जा को विद्युत ऊर्जा में बदलता है?",
+        "en": "Solar cell converts which energy into electrical energy?"
+      },
+      "o": [
+        {
+          "hi": "सौर ऊर्जा को",
+          "en": "Solar energy"
+        },
+        {
+          "hi": "यांत्रिक ऊर्जा को",
+          "en": "Mechanical energy"
+        },
+        {
+          "hi": "रासायनिक ऊर्जा को",
+          "en": "Chemical energy"
+        },
+        {
+          "hi": "नाभिकीय ऊर्जा को",
+          "en": "Nuclear energy"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विद्युत सेल (Electric Cell/Battery) किस ऊर्जा को विद्युत ऊर्जा में परिवर्तित करता है?",
+        "en": "Electric cell converts which form of energy into electrical energy?"
+      },
+      "o": [
+        {
+          "hi": "यांत्रिक ऊर्जा को",
+          "en": "Mechanical energy"
+        },
+        {
+          "hi": "रासायनिक ऊर्जा को",
+          "en": "Chemical energy"
+        },
+        {
+          "hi": "सौर ऊर्जा को",
+          "en": "Solar energy"
+        },
+        {
+          "hi": "नाभिकीय ऊर्जा को",
+          "en": "Nuclear energy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सितार (Sitar) या गिटार बजाने पर कौन-सा ऊर्जा रूपांतरण होता है?",
+        "en": "Which energy transformation takes place while playing a sitar or guitar?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत को ध्वनि में",
+          "en": "Electrical to sound"
+        },
+        {
+          "hi": "ध्वनि को यांत्रिक में",
+          "en": "Sound to mechanical"
+        },
+        {
+          "hi": "यांत्रिक को ध्वनि में",
+          "en": "Mechanical to sound"
+        },
+        {
+          "hi": "रासायनिक को ध्वनि में",
+          "en": "Chemical to sound"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मोमबत्ती का जलना ऊर्जा का कौन-सा रूपांतरण है?",
+        "en": "Burning of a candle is which energy conversion?"
+      },
+      "o": [
+        {
+          "hi": "भौतिक को रासायनिक में",
+          "en": "Physical to chemical"
+        },
+        {
+          "hi": "विद्युत को प्रकाश में",
+          "en": "Electrical to light"
+        },
+        {
+          "hi": "यांत्रिक को ऊष्मा में",
+          "en": "Mechanical to heat"
+        },
+        {
+          "hi": "रासायनिक को प्रकाश व ऊष्मा में",
+          "en": "Chemical to light & heat"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कार्य करने की दर (Rate of doing work) को क्या कहते हैं?",
+        "en": "What is the rate of doing work called?"
+      },
+      "o": [
+        {
+          "hi": "शक्ति (Power)",
+          "en": "Power"
+        },
+        {
+          "hi": "ऊर्जा (Energy)",
+          "en": "Energy"
+        },
+        {
+          "hi": "बल (Force)",
+          "en": "Force"
+        },
+        {
+          "hi": "संवेग (Momentum)",
+          "en": "Momentum"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शक्ति (Power) किस प्रकार की भौतिक राशि है?",
+        "en": "What type of physical quantity is power?"
+      },
+      "o": [
+        {
+          "hi": "सदिश राशि",
+          "en": "Vector quantity"
+        },
+        {
+          "hi": "अदिश राशि",
+          "en": "Scalar quantity"
+        },
+        {
+          "hi": "टेन्सर राशि",
+          "en": "Tensor quantity"
+        },
+        {
+          "hi": "पूरक राशि",
+          "en": "Supplementary quantity"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक किलोवाट घंटा (1 kWh) कितने जूल के बराबर होता है?",
+        "en": "One kilowatt hour (1 kWh) is equal to how many joules?"
+      },
+      "o": [
+        {
+          "hi": "3.6 × 10^5 जूल",
+          "en": "3.6 × 10^5 Joules"
+        },
+        {
+          "hi": "3.6 × 10^4 जूल",
+          "en": "3.6 × 10^4 Joules"
+        },
+        {
+          "hi": "3.6 × 10^6 जूल",
+          "en": "3.6 × 10^6 Joules"
+        },
+        {
+          "hi": "7.46 × 10^6 जूल",
+          "en": "7.46 × 10^6 Joules"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "घरों में विद्युत ऊर्जा खपत का मापन 'यूनिट' में किया जाता है। 1 यूनिट किसके बराबर होता है?",
+        "en": "Domestic electrical consumption is measured in units. 1 unit is equal to what?"
+      },
+      "o": [
+        {
+          "hi": "1 वाट घंटा",
+          "en": "1 Watt hour"
+        },
+        {
+          "hi": "1 किलोवाट",
+          "en": "1 Kilowatt"
+        },
+        {
+          "hi": "1 मेगावाट घंटा",
+          "en": "1 Megawatt hour"
+        },
+        {
+          "hi": "1 किलोवाट घंटा (kWh)",
+          "en": "1 Kilowatt hour (kWh)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ऊँचाई पर उड़ते हुए हवाई जहाज में कौन-सी ऊर्जा उपस्थित होती है?",
+        "en": "What energy is present in an airplane flying at an altitude?"
+      },
+      "o": [
+        {
+          "hi": "गतिज और स्थितिज दोनों",
+          "en": "Both kinetic and potential"
+        },
+        {
+          "hi": "केवल गतिज ऊर्जा",
+          "en": "Only kinetic energy"
+        },
+        {
+          "hi": "केवल स्थितिज ऊर्जा",
+          "en": "Only potential energy"
+        },
+        {
+          "hi": "केवल ध्वनि ऊर्जा",
+          "en": "Only sound energy"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पहाड़ पर चढ़ता हुआ व्यक्ति आगे की ओर क्यों झुकता है?",
+        "en": "Why does a person climbing a mountain lean forward?"
+      },
+      "o": [
+        {
+          "hi": "थकान कम करने के लिए",
+          "en": "To reduce fatigue"
+        },
+        {
+          "hi": "स्थायित्व बढ़ाने के लिए",
+          "en": "To increase stability"
+        },
+        {
+          "hi": "तेज चलने के लिए",
+          "en": "To walk faster"
+        },
+        {
+          "hi": "ऊर्जा बचाने के लिए",
+          "en": "To save energy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जल विद्युत शक्ति संयंत्र (Hydroelectric Plant) में टरबाइन किस ऊर्जा को विद्युत ऊर्जा में बदलता है?",
+        "en": "In a hydroelectric plant, turbine converts which energy into electrical energy?"
+      },
+      "o": [
+        {
+          "hi": "सौर ऊर्जा को",
+          "en": "Solar energy"
+        },
+        {
+          "hi": "रासायनिक ऊर्जा को",
+          "en": "Chemical energy"
+        },
+        {
+          "hi": "जल की गतिज ऊर्जा को",
+          "en": "Kinetic energy of water"
+        },
+        {
+          "hi": "नाभिकीय ऊर्जा को",
+          "en": "Nuclear energy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पवन चक्की (Windmill) किस ऊर्जा को यांत्रिक या विद्युत ऊर्जा में परिवर्तित करती है?",
+        "en": "A windmill converts which energy into mechanical or electrical energy?"
+      },
+      "o": [
+        {
+          "hi": "वायु की स्थितिज ऊर्जा",
+          "en": "Potential energy of air"
+        },
+        {
+          "hi": "वायुमंडलीय दाब",
+          "en": "Atmospheric pressure"
+        },
+        {
+          "hi": "ऊष्मीय ऊर्जा",
+          "en": "Thermal energy"
+        },
+        {
+          "hi": "वायु की गतिज ऊर्जा",
+          "en": "Kinetic energy of wind"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किसी स्प्रिंग को उसकी सामान्य लंबाई से खींचने पर उसमें संचित ऊर्जा क्या कहलाती है?",
+        "en": "What is the energy stored when a spring is stretched called?"
+      },
+      "o": [
+        {
+          "hi": "प्रत्यास्थ स्थितिज ऊर्जा",
+          "en": "Elastic potential energy"
+        },
+        {
+          "hi": "गुरुत्वीय ऊर्जा",
+          "en": "Gravitational energy"
+        },
+        {
+          "hi": "गतिज ऊर्जा",
+          "en": "Kinetic energy"
+        },
+        {
+          "hi": "नाभिकीय ऊर्जा",
+          "en": "Nuclear energy"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्प्रिंग की स्थितिज ऊर्जा का गणितीय सूत्र क्या होता है?",
+        "en": "What is the mathematical formula for potential energy of a spring?"
+      },
+      "o": [
+        {
+          "hi": "kx²",
+          "en": "kx²"
+        },
+        {
+          "hi": "½ kx²",
+          "en": "½ kx²"
+        },
+        {
+          "hi": "½ k²x",
+          "en": "½ k²x"
+        },
+        {
+          "hi": "mgh",
+          "en": "mgh"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यदि किसी वस्तु पर बल लगाने के बावजूद विस्थापन शून्य हो, तो किया गया कार्य क्या होगा?",
+        "en": "If displacement is zero despite applying force on an object, what will be the work done?"
+      },
+      "o": [
+        {
+          "hi": "धनात्मक",
+          "en": "Positive"
+        },
+        {
+          "hi": "ऋणात्मक",
+          "en": "Negative"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "घर्षण बल द्वारा किसी गतिमान वस्तु पर किया गया कार्य सामान्यतः कैसा होता है?",
+        "en": "The work done by frictional force on a moving body is generally what?"
+      },
+      "o": [
+        {
+          "hi": "धनात्मक",
+          "en": "Positive"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "अपरिमित",
+          "en": "Infinite"
+        },
+        {
+          "hi": "ऋणात्मक",
+          "en": "Negative"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 मेगावाट (1 MW) कितने वाट के बराबर होता है?",
+        "en": "1 Megawatt (1 MW) is equal to how many watts?"
+      },
+      "o": [
+        {
+          "hi": "10^6 वाट",
+          "en": "10^6 Watts"
+        },
+        {
+          "hi": "10^3 वाट",
+          "en": "10^3 Watts"
+        },
+        {
+          "hi": "10^9 वाट",
+          "en": "10^9 Watts"
+        },
+        {
+          "hi": "10^12 वाट",
+          "en": "10^12 Watts"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 गीगावाट (1 GW) कितने वाट के बराबर होता है?",
+        "en": "1 Gigawatt (1 GW) is equal to how many watts?"
+      },
+      "o": [
+        {
+          "hi": "10^6 वाट",
+          "en": "10^6 Watts"
+        },
+        {
+          "hi": "10^9 वाट",
+          "en": "10^9 Watts"
+        },
+        {
+          "hi": "10^12 वाट",
+          "en": "10^12 Watts"
+        },
+        {
+          "hi": "10^3 वाट",
+          "en": "10^3 Watts"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्वतंत्रतापूर्वक गिरती हुई वस्तु की कुल यांत्रिक ऊर्जा (Mechanical Energy) पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to the total mechanical energy of a freely falling body?"
+      },
+      "o": [
+        {
+          "hi": "लगातार बढ़ती है",
+          "en": "Increases continuously"
+        },
+        {
+          "hi": "लगातार घटती है",
+          "en": "Decreases continuously"
+        },
+        {
+          "hi": "नियत (अपरिवर्तित) रहती है",
+          "en": "Remains constant"
+        },
+        {
+          "hi": "पहले घटती फिर बढ़ती है",
+          "en": "First decreases then increases"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जब कोई पिंड पृथ्वी की सतह से ऊपर उठाया जाता है, तो उसकी स्थितिज ऊर्जा पर क्या प्रभाव पड़ता है?",
+        "en": "When a body is raised above Earth's surface, what happens to its potential energy?"
+      },
+      "o": [
+        {
+          "hi": "घटती है",
+          "en": "Decreases"
+        },
+        {
+          "hi": "शून्य हो जाती है",
+          "en": "Becomes zero"
+        },
+        {
+          "hi": "अपरिवर्तित रहती है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "बढ़ती है",
+          "en": "Increases"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी तल पर किसी वस्तु की गुरुत्वीय स्थितिज ऊर्जा सामान्यतः कितनी मानी जाती है?",
+        "en": "What is gravitational potential energy of an object at Earth's surface generally assumed to be?"
+      },
+      "o": [
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "9.8 जूल",
+          "en": "9.8 Joules"
+        },
+        {
+          "hi": "ऋणात्मक अनंत",
+          "en": "Negative infinite"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बंदूक से छोड़ी गई गोली में लक्ष्य से टकराते समय कौन-सी ऊर्जा प्रमुख होती है?",
+        "en": "Which energy is predominant in a bullet fired from a gun upon hitting a target?"
+      },
+      "o": [
+        {
+          "hi": "स्थितिज ऊर्जा",
+          "en": "Potential energy"
+        },
+        {
+          "hi": "गतिज ऊर्जा",
+          "en": "Kinetic energy"
+        },
+        {
+          "hi": "विद्युत ऊर्जा",
+          "en": "Electrical energy"
+        },
+        {
+          "hi": "नाभिकीय ऊर्जा",
+          "en": "Nuclear energy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भाप इंजन (Steam Engine) ऊष्मा ऊर्जा को किस ऊर्जा में बदलता है?",
+        "en": "Steam engine converts heat energy into which energy?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत ऊर्जा में",
+          "en": "Electrical energy"
+        },
+        {
+          "hi": "रासायनिक ऊर्जा में",
+          "en": "Chemical energy"
+        },
+        {
+          "hi": "यांत्रिक ऊर्जा में",
+          "en": "Mechanical energy"
+        },
+        {
+          "hi": "ध्वनि ऊर्जा में",
+          "en": "Sound energy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विद्युत बल्ब में विद्युत ऊर्जा मुख्य रूप से किन ऊर्जाओं में रूपांतरित होती है?",
+        "en": "In an electric bulb, electrical energy is mainly transformed into what?"
+      },
+      "o": [
+        {
+          "hi": "यांत्रिक ऊर्जा में",
+          "en": "Mechanical energy"
+        },
+        {
+          "hi": "रासायनिक ऊर्जा में",
+          "en": "Chemical energy"
+        },
+        {
+          "hi": "केवल ध्वनि ऊर्जा में",
+          "en": "Only sound energy"
+        },
+        {
+          "hi": "प्रकाश एवं ऊष्मा ऊर्जा में",
+          "en": "Light and heat energy"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कार्य-ऊर्जा प्रमेय (Work-Energy Theorem) के अनुसार किसी वस्तु पर किया गया कुल कार्य किसके बराबर होता है?",
+        "en": "According to Work-Energy Theorem, net work done on a body is equal to what?"
+      },
+      "o": [
+        {
+          "hi": "गतिज ऊर्जा में परिवर्तन के",
+          "en": "Change in kinetic energy"
+        },
+        {
+          "hi": "स्थितिज ऊर्जा में परिवर्तन के",
+          "en": "Change in potential energy"
+        },
+        {
+          "hi": "संवेग में परिवर्तन के",
+          "en": "Change in momentum"
+        },
+        {
+          "hi": "त्वरण में परिवर्तन के",
+          "en": "Change in acceleration"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ऊर्जा का सबसे बड़ा प्राकृतिक स्रोत कौन-सा है?",
+        "en": "Which is the largest natural source of energy on Earth?"
+      },
+      "o": [
+        {
+          "hi": "कोयला",
+          "en": "Coal"
+        },
+        {
+          "hi": "सूर्य",
+          "en": "Sun"
+        },
+        {
+          "hi": "पेट्रोलियम",
+          "en": "Petroleum"
+        },
+        {
+          "hi": "परमाणु ऊर्जा",
+          "en": "Nuclear energy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा ऊर्जा का अनवीकरणीय (Non-renewable) स्रोत है?",
+        "en": "Which of the following is a non-renewable source of energy?"
+      },
+      "o": [
+        {
+          "hi": "सौर ऊर्जा",
+          "en": "Solar energy"
+        },
+        {
+          "hi": "पवन ऊर्जा",
+          "en": "Wind energy"
+        },
+        {
+          "hi": "कोयला",
+          "en": "Coal"
+        },
+        {
+          "hi": "जल विद्युत",
+          "en": "Hydroelectricity"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा ऊर्जा का नवीकरणीय (Renewable) स्रोत है?",
+        "en": "Which of the following is a renewable source of energy?"
+      },
+      "o": [
+        {
+          "hi": "पेट्रोल",
+          "en": "Petrol"
+        },
+        {
+          "hi": "डीजल",
+          "en": "Diesel"
+        },
+        {
+          "hi": "प्राकृतिक गैस",
+          "en": "Natural gas"
+        },
+        {
+          "hi": "बायोमास (जैवभार)",
+          "en": "Biomass"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यदि किसी वस्तु का द्रव्यमान दोगुना कर दिया जाए, तो उसकी गतिज ऊर्जा कितनी हो जाएगी?",
+        "en": "If the mass of a body is doubled keeping velocity constant, what happens to kinetic energy?"
+      },
+      "o": [
+        {
+          "hi": "दोगुनी",
+          "en": "Doubled"
+        },
+        {
+          "hi": "चार गुनी",
+          "en": "Four times"
+        },
+        {
+          "hi": "आधी",
+          "en": "Halved"
+        },
+        {
+          "hi": "अपरिवर्तित",
+          "en": "Unchanged"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चलती हुई गाड़ी में बैठे यात्री में कौन-सी ऊर्जा होती है?",
+        "en": "What energy is present in a passenger sitting in a moving train?"
+      },
+      "o": [
+        {
+          "hi": "केवल स्थितिज ऊर्जा",
+          "en": "Only potential energy"
+        },
+        {
+          "hi": "गतिज एवं स्थितिज दोनों",
+          "en": "Both kinetic and potential"
+        },
+        {
+          "hi": "केवल गतिज ऊर्जा",
+          "en": "Only kinetic energy"
+        },
+        {
+          "hi": "कोई ऊर्जा नहीं",
+          "en": "No energy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हथौड़े से कील ठोकते समय हथौड़े में कौन-सी ऊर्जा उपस्थित होती है?",
+        "en": "Which energy is present in a hammer when striking a nail?"
+      },
+      "o": [
+        {
+          "hi": "रासायनिक ऊर्जा",
+          "en": "Chemical energy"
+        },
+        {
+          "hi": "ध्वनि ऊर्जा",
+          "en": "Sound energy"
+        },
+        {
+          "hi": "गतिज ऊर्जा",
+          "en": "Kinetic energy"
+        },
+        {
+          "hi": "विद्युत ऊर्जा",
+          "en": "Electrical energy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किसी मशीन की दक्षता (Efficiency) हमेशा कितनी होती है?",
+        "en": "What is the efficiency of any practical machine always?"
+      },
+      "o": [
+        {
+          "hi": "100% से अधिक",
+          "en": "More than 100%"
+        },
+        {
+          "hi": "100% के बराबर",
+          "en": "Equal to 100%"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "100% से कम",
+          "en": "Less than 100%"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सरल मशीन (Simple Machine) किस सिद्धांत पर कार्य करती है?",
+        "en": "On which principle does a simple machine work?"
+      },
+      "o": [
+        {
+          "hi": "बल आघूर्ण के सिद्धांत पर",
+          "en": "Principle of moments"
+        },
+        {
+          "hi": "संवेग संरक्षण पर",
+          "en": "Momentum conservation"
+        },
+        {
+          "hi": "न्यूटन के तृतीय नियम पर",
+          "en": "Newton's third law"
+        },
+        {
+          "hi": "आर्किमिडीज के सिद्धांत पर",
+          "en": "Archimedes principle"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उत्तोलक (Lever) किस सिद्धांत पर आधारित एक सरल मशीन है?",
+        "en": "A lever is a simple machine based on which principle?"
+      },
+      "o": [
+        {
+          "hi": "ऊर्जा ह्रास के",
+          "en": "Energy dissipation"
+        },
+        {
+          "hi": "आघूर्ण के सिद्धांत पर",
+          "en": "Principle of moments"
+        },
+        {
+          "hi": "दाब के नियम पर",
+          "en": "Law of pressure"
+        },
+        {
+          "hi": "जड़त्व के नियम पर",
+          "en": "Law of inertia"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

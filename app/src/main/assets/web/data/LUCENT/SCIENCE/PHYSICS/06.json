@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "प्लवन",
+  "description": "प्लवन पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "द्रव में डूबी किसी वस्तु पर ऊपर की ओर लगने वाले बल को क्या कहते हैं?",
+        "en": "What is the upward force acting on an object submerged in a fluid called?"
+      },
+      "o": [
+        {
+          "hi": "उत्प्लावक बल (Buoyant Force)",
+          "en": "Buoyant Force"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण बल",
+          "en": "Gravitational Force"
+        },
+        {
+          "hi": "श्यान बल",
+          "en": "Viscous Force"
+        },
+        {
+          "hi": "घर्षण बल",
+          "en": "Frictional Force"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "उत्प्लावक बल किस वैज्ञानिक के सिद्धांत पर आधारित है?",
+        "en": "Buoyant force is based on the principle of which scientist?"
+      },
+      "o": [
+        {
+          "hi": "न्यूटन",
+          "en": "Newton"
+        },
+        {
+          "hi": "आर्किमिडीज",
+          "en": "Archimedes"
+        },
+        {
+          "hi": "पास्कल",
+          "en": "Pascal"
+        },
+        {
+          "hi": "बर्नोली",
+          "en": "Bernoulli"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आर्किमिडीज का सिद्धांत निम्नलिखित में से किससे संबंधित है?",
+        "en": "Archimedes' principle is related to which of the following?"
+      },
+      "o": [
+        {
+          "hi": "गति के नियम से",
+          "en": "Laws of motion"
+        },
+        {
+          "hi": "दाब के नियम से",
+          "en": "Laws of pressure"
+        },
+        {
+          "hi": "प्लवन के नियम से",
+          "en": "Laws of floatation"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण नियम से",
+          "en": "Law of gravitation"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जब कोई वस्तु किसी द्रव में पूरी या आंशिक रूप से डुबोई जाती है, तो उसके भार में आभासी कमी किसके बराबर होती है?",
+        "en": "When a body is immersed in fluid, its apparent loss of weight equals what?"
+      },
+      "o": [
+        {
+          "hi": "वस्तु के कुल भार के",
+          "en": "Total weight of body"
+        },
+        {
+          "hi": "द्रव के कुल आयतन के",
+          "en": "Total volume of fluid"
+        },
+        {
+          "hi": "पात्र के आकार के",
+          "en": "Shape of vessel"
+        },
+        {
+          "hi": "विस्थापित द्रव के भार के",
+          "en": "Weight of displaced fluid"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उत्प्लावक बल का परिमाण किस पर निर्भर करता है?",
+        "en": "The magnitude of buoyant force depends on what?"
+      },
+      "o": [
+        {
+          "hi": "डूबे भाग के आयतन व द्रव के घनत्व पर",
+          "en": "Submerged volume & fluid density"
+        },
+        {
+          "hi": "केवल वस्तु के रंग पर",
+          "en": "Only color of body"
+        },
+        {
+          "hi": "पात्र की गहराई पर",
+          "en": "Depth of vessel"
+        },
+        {
+          "hi": "वायुमंडलीय दाब पर",
+          "en": "Atmospheric pressure"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लोहे की छोटी कील पानी में डूब जाती है, जबकि लोहे का बना विशाल जहाज तैरता रहता है, यह किस सिद्धांत पर आधारित है?",
+        "en": "An iron nail sinks in water but a large iron ship floats, based on which principle?"
+      },
+      "o": [
+        {
+          "hi": "पास्कल के नियम पर",
+          "en": "Pascal's law"
+        },
+        {
+          "hi": "आर्किमिडीज के सिद्धांत पर",
+          "en": "Archimedes' principle"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण नियम पर",
+          "en": "Gravitational law"
+        },
+        {
+          "hi": "बर्नोली के प्रमेय पर",
+          "en": "Bernoulli's theorem"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जल का घनत्व (Density of Water) किस तापमान पर सर्वाधिक (अधिकतम) होता है?",
+        "en": "At what temperature is the density of water maximum?"
+      },
+      "o": [
+        {
+          "hi": "0°C",
+          "en": "0°C"
+        },
+        {
+          "hi": "100°C",
+          "en": "100°C"
+        },
+        {
+          "hi": "4°C",
+          "en": "4°C"
+        },
+        {
+          "hi": "-4°C",
+          "en": "-4°C"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जल का आयतन (Volume of Water) किस तापमान पर न्यूनतम होता है?",
+        "en": "At what temperature is the volume of water minimum?"
+      },
+      "o": [
+        {
+          "hi": "0°C",
+          "en": "0°C"
+        },
+        {
+          "hi": "10°C",
+          "en": "10°C"
+        },
+        {
+          "hi": "50°C",
+          "en": "50°C"
+        },
+        {
+          "hi": "4°C",
+          "en": "4°C"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पानी का 0°C से 4°C तक गर्म करने पर सिकुड़ना और घनत्व बढ़ना क्या कहलाता है?",
+        "en": "Contraction and density increase of water when heated from 0°C to 4°C is called what?"
+      },
+      "o": [
+        {
+          "hi": "जल का असामान्य प्रसार",
+          "en": "Anomalous expansion of water"
+        },
+        {
+          "hi": "जल का वाष्पीकरण",
+          "en": "Evaporation of water"
+        },
+        {
+          "hi": "जल का संघनन",
+          "en": "Condensation of water"
+        },
+        {
+          "hi": "जल का ऊर्ध्वपातन",
+          "en": "Sublimation of water"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सर्दियों में अत्यधिक ठंड पड़ने पर झीलों की ऊपरी सतह जम जाने के बावजूद जलीय जीव नीचे जीवित क्यों रहते हैं?",
+        "en": "Why do aquatic animals survive below frozen lakes in extreme winter?"
+      },
+      "o": [
+        {
+          "hi": "बर्फ ऑक्सीजन छोड़ती है",
+          "en": "Ice releases oxygen"
+        },
+        {
+          "hi": "झील की तली का जल 4°C पर द्रव रूप में रहता है",
+          "en": "Water at lake bottom stays liquid at 4°C"
+        },
+        {
+          "hi": "मछलियां बर्फ खाती हैं",
+          "en": "Fishes eat ice"
+        },
+        {
+          "hi": "पानी में गर्मी पैदा होती है",
+          "en": "Heat is generated in water"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बर्फ का एक टुकड़ा पानी में तैर रहा है। बर्फ के पूरी तरह पिघल जाने पर बीकर में पानी के स्तर पर क्या प्रभाव पड़ेगा?",
+        "en": "An ice cube floats in water. When it melts completely, what happens to water level?"
+      },
+      "o": [
+        {
+          "hi": "पानी का स्तर बढ़ जाएगा",
+          "en": "Water level will rise"
+        },
+        {
+          "hi": "पानी का स्तर घट जाएगा",
+          "en": "Water level will fall"
+        },
+        {
+          "hi": "पानी का स्तर अपरिवर्तित रहेगा",
+          "en": "Water level remains unchanged"
+        },
+        {
+          "hi": "पानी बाहर छलक जाएगा",
+          "en": "Water will overflow"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पानी में तैरती हुई बर्फ का कितना भाग पानी की सतह के ऊपर रहता है?",
+        "en": "What fraction of a floating ice cube remains above the water surface?"
+      },
+      "o": [
+        {
+          "hi": "1/2 भाग",
+          "en": "1/2 part"
+        },
+        {
+          "hi": "9/10 भाग",
+          "en": "9/10 part"
+        },
+        {
+          "hi": "1/4 भाग",
+          "en": "1/4 part"
+        },
+        {
+          "hi": "1/10 भाग",
+          "en": "1/10 part"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पानी में तैरती बर्फ का कितना भाग पानी की सतह के अंदर डूबा रहता है?",
+        "en": "What fraction of a floating ice block remains submerged in water?"
+      },
+      "o": [
+        {
+          "hi": "9/10 भाग",
+          "en": "9/10 part"
+        },
+        {
+          "hi": "1/10 भाग",
+          "en": "1/10 part"
+        },
+        {
+          "hi": "1/2 भाग",
+          "en": "1/2 part"
+        },
+        {
+          "hi": "3/4 भाग",
+          "en": "3/4 part"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नदी के पानी की तुलना में समुद्र के पानी में तैरना आसान क्यों होता है?",
+        "en": "Why is it easier to swim in sea water than in river water?"
+      },
+      "o": [
+        {
+          "hi": "समुद्र का पानी ठंडा होता है",
+          "en": "Sea water is colder"
+        },
+        {
+          "hi": "समुद्र के पानी का घनत्व अधिक होता है",
+          "en": "Sea water has higher density"
+        },
+        {
+          "hi": "समुद्र में लहरें उठती हैं",
+          "en": "Waves arise in sea"
+        },
+        {
+          "hi": "नदी का पानी गंदा होता है",
+          "en": "River water is dirty"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जब कोई जहाज नदी से निकलकर समुद्र में प्रवेश करता है, तो उसके स्तर पर क्या प्रभाव पड़ता है?",
+        "en": "When a ship enters the sea from a river, what happens to its level?"
+      },
+      "o": [
+        {
+          "hi": "वह थोड़ा नीचे डूब जाता है",
+          "en": "It sinks a little"
+        },
+        {
+          "hi": "वह पूरी तरह डूब जाता है",
+          "en": "It sinks completely"
+        },
+        {
+          "hi": "वह थोड़ा ऊपर उठ जाता है",
+          "en": "It rises a little higher"
+        },
+        {
+          "hi": "वह अपरिवर्तित रहता है",
+          "en": "It remains unchanged"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "द्रवों का आपेक्षिक घनत्व (Relative Density) मापने के लिए किस यंत्र का उपयोग किया जाता है?",
+        "en": "Which instrument is used to measure relative density of liquids?"
+      },
+      "o": [
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "लैक्टोमीटर",
+          "en": "Lactometer"
+        },
+        {
+          "hi": "हाइग्रोमीटर",
+          "en": "Hygrometer"
+        },
+        {
+          "hi": "हाइड्रोमीटर",
+          "en": "Hydrometer"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दूध की शुद्धता (Purity of Milk) मापने के लिए किस यंत्र का उपयोग किया जाता है?",
+        "en": "Which instrument is used to test the purity of milk?"
+      },
+      "o": [
+        {
+          "hi": "लैक्टोमीटर",
+          "en": "Lactometer"
+        },
+        {
+          "hi": "हाइड्रोमीटर",
+          "en": "Hydrometer"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "अल्टीमीटर",
+          "en": "Altimeter"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दूध से क्रीम निकाल लेने पर दूध के घनत्व पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to the density of milk when cream is removed from it?"
+      },
+      "o": [
+        {
+          "hi": "घनत्व घट जाता है",
+          "en": "Density decreases"
+        },
+        {
+          "hi": "घनत्व बढ़ जाता है",
+          "en": "Density increases"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "शून्य हो जाता है",
+          "en": "Becomes zero"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आपेक्षिक घनत्व (Relative Density) का मात्रक क्या होता है?",
+        "en": "What is the unit of relative density?"
+      },
+      "o": [
+        {
+          "hi": "किग्रा/मीटर³",
+          "en": "kg/m³"
+        },
+        {
+          "hi": "ग्राम/सेमी³",
+          "en": "g/cm³"
+        },
+        {
+          "hi": "यह एक मात्रकहीन राशि है",
+          "en": "It is a dimensionless quantity"
+        },
+        {
+          "hi": "न्यूटन/मीटर²",
+          "en": "Newton/m²"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्लवन करते हुए पिंड का संतुलन केंद्र (Metacenter) गुरुत्व केंद्र के कहाँ होना चाहिए?",
+        "en": "Where should the metacenter be relative to center of gravity for stable equilibrium?"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्व केंद्र के नीचे",
+          "en": "Below center of gravity"
+        },
+        {
+          "hi": "गुरुत्व केंद्र के दाईं ओर",
+          "en": "Right of center of gravity"
+        },
+        {
+          "hi": "गुरुत्व केंद्र के समान स्तर पर",
+          "en": "At same level"
+        },
+        {
+          "hi": "गुरुत्व केंद्र के ऊपर",
+          "en": "Above center of gravity"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मृत सागर (Dead Sea) में मनुष्य बिना डूबे तैर सकता है, इसका वैज्ञानिक कारण क्या है?",
+        "en": "A person can float in Dead Sea without sinking, what is the scientific reason?"
+      },
+      "o": [
+        {
+          "hi": "जल में अत्यधिक लवणता व उच्च घनत्व",
+          "en": "Extreme salinity & high density"
+        },
+        {
+          "hi": "जल का तापमान बहुत अधिक होना",
+          "en": "Very high water temperature"
+        },
+        {
+          "hi": "वायुमंडलीय दाब शून्य होना",
+          "en": "Atmospheric pressure is zero"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण बल बहुत कम होना",
+          "en": "Very weak gravity"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वायुमंडल में बादलों के तैरने का क्या कारण होता है?",
+        "en": "What is the reason for clouds floating in the atmosphere?"
+      },
+      "o": [
+        {
+          "hi": "उच्च तापमान",
+          "en": "High temperature"
+        },
+        {
+          "hi": "उनका कम घनत्व",
+          "en": "Their low density"
+        },
+        {
+          "hi": "उच्च वायुमंडलीय दाब",
+          "en": "High atmospheric pressure"
+        },
+        {
+          "hi": "तीव्र वायु वेग",
+          "en": "High wind velocity"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यदि पानी से भरे बीकर में बर्फ तैर रही है और बर्फ में कंकड़ जमा हुआ है, बर्फ पिघलने पर जल स्तर क्या होगा?",
+        "en": "If ice floating in water has a stone inside it, what happens to water level when ice melts?"
+      },
+      "o": [
+        {
+          "hi": "बढ़ जाएगा",
+          "en": "Will rise"
+        },
+        {
+          "hi": "अपरिवर्तित रहेगा",
+          "en": "Will remain unchanged"
+        },
+        {
+          "hi": "घट जाएगा",
+          "en": "Will fall"
+        },
+        {
+          "hi": "पहले बढ़ेगा फिर घटेगा",
+          "en": "First rise then fall"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गर्म हवा का गुब्बारा (Hot Air Balloon) आकाश में ऊपर क्यों उठता है?",
+        "en": "Why does a hot air balloon rise into the sky?"
+      },
+      "o": [
+        {
+          "hi": "गुब्बारे का भार बढ़ने से",
+          "en": "Weight of balloon increases"
+        },
+        {
+          "hi": "हवा का दाब बढ़ने से",
+          "en": "Air pressure increases"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण बल शून्य होने से",
+          "en": "Gravity becomes zero"
+        },
+        {
+          "hi": "गर्म हवा का घनत्व ठंडी हवा से कम होता है",
+          "en": "Hot air has lower density than cold air"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किसी पिंड के तैरने की आवश्यक शर्त क्या है?",
+        "en": "What is the essential condition for a body to float in a fluid?"
+      },
+      "o": [
+        {
+          "hi": "वस्तु का भार विस्थापित द्रव के भार के बराबर हो",
+          "en": "Weight equals weight of displaced liquid"
+        },
+        {
+          "hi": "वस्तु का भार विस्थापित द्रव से अधिक हो",
+          "en": "Weight exceeds displaced liquid"
+        },
+        {
+          "hi": "वस्तु का घनत्व द्रव से दोगुना हो",
+          "en": "Density is double of liquid"
+        },
+        {
+          "hi": "उत्प्लावक बल शून्य हो",
+          "en": "Buoyant force is zero"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पारे में लोहे की कील क्यों तैरती है, जबकि पानी में डूब जाती है?",
+        "en": "Why does an iron nail float in mercury but sink in water?"
+      },
+      "o": [
+        {
+          "hi": "पारे में ऑक्सीजन नहीं होती",
+          "en": "Mercury has no oxygen"
+        },
+        {
+          "hi": "लोहे का घनत्व पानी से अधिक व पारे से कम है",
+          "en": "Iron denser than water, less than mercury"
+        },
+        {
+          "hi": "पारा एक विषैला द्रव है",
+          "en": "Mercury is a toxic liquid"
+        },
+        {
+          "hi": "लोहे और पारे में आकर्षण होता है",
+          "en": "Attraction between iron & mercury"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक बीकर में पानी पर बर्फ तैर रही है। जब पूरी बर्फ पिघल जाएगी, तो बीकर की तली पर लगने वाले दाब पर क्या प्रभाव पड़ेगा?",
+        "en": "Ice floats in water. When ice melts completely, what effect on pressure at bottom?"
+      },
+      "o": [
+        {
+          "hi": "दाब बढ़ जाएगा",
+          "en": "Pressure will increase"
+        },
+        {
+          "hi": "दाब घट जाएगा",
+          "en": "Pressure will decrease"
+        },
+        {
+          "hi": "दाब वही (अपरिवर्तित) रहेगा",
+          "en": "Pressure remains same"
+        },
+        {
+          "hi": "दाब शून्य हो जाएगा",
+          "en": "Pressure becomes zero"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पानी का घनत्व अधिकतम कितने केल्विन (K) तापमान पर होता है?",
+        "en": "At what temperature in Kelvin (K) is the density of water maximum?"
+      },
+      "o": [
+        {
+          "hi": "273 K",
+          "en": "273 K"
+        },
+        {
+          "hi": "373 K",
+          "en": "373 K"
+        },
+        {
+          "hi": "0 K",
+          "en": "0 K"
+        },
+        {
+          "hi": "277 K",
+          "en": "277 K"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पनडुब्बी (Submarine) पानी के अंदर चलने तथा सतह पर आने के लिए किस सिद्धांत का प्रयोग करती है?",
+        "en": "On which principle does a submarine operate to dive and resurface?"
+      },
+      "o": [
+        {
+          "hi": "आर्किमिडीज का सिद्धांत",
+          "en": "Archimedes' principle"
+        },
+        {
+          "hi": "बर्नोली का प्रमेय",
+          "en": "Bernoulli's theorem"
+        },
+        {
+          "hi": "पास्कल का नियम",
+          "en": "Pascal's law"
+        },
+        {
+          "hi": "स्टोक्स का नियम",
+          "en": "Stokes' law"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पनडुब्बी में पानी के अंदर गहराई नियंत्रित करने के लिए किन टैंकों में पानी भरा या निकाला जाता है?",
+        "en": "In a submarine, which tanks are filled or emptied to control depth?"
+      },
+      "o": [
+        {
+          "hi": "फ्यूल टैंक",
+          "en": "Fuel tanks"
+        },
+        {
+          "hi": "बैलास्ट टैंक (Ballast Tanks)",
+          "en": "Ballast tanks"
+        },
+        {
+          "hi": "ऑक्सीजन टैंक",
+          "en": "Oxygen tanks"
+        },
+        {
+          "hi": "प्रोपेलर टैंक",
+          "en": "Propeller tanks"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "शुद्ध जल की तुलना में समुद्री जल का क्वथनांक कैसा होता है?",
+        "en": "How is the boiling point of sea water compared to pure water?"
+      },
+      "o": [
+        {
+          "hi": "समान होता है",
+          "en": "Same"
+        },
+        {
+          "hi": "कम होता है",
+          "en": "Lower"
+        },
+        {
+          "hi": "अधिक होता है",
+          "en": "Higher"
+        },
+        {
+          "hi": "शून्य होता है",
+          "en": "Zero"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जल में अशुद्धि (जैसे नमक) मिलाने पर उसके हिमांक (Freezing Point) पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to the freezing point of water when impurity (like salt) is added?"
+      },
+      "o": [
+        {
+          "hi": "बढ़ जाता है",
+          "en": "Increases"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "100°C हो जाता है",
+          "en": "Becomes 100°C"
+        },
+        {
+          "hi": "घट जाता है",
+          "en": "Decreases"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कुल्फी या आइसक्रीम जमाते समय बर्फ में नमक क्यों मिलाया जाता है?",
+        "en": "Why is salt mixed with ice while making ice-cream?"
+      },
+      "o": [
+        {
+          "hi": "हिमांक कम करके अधिक ठंडा करने हेतु",
+          "en": "To lower freezing point for more cooling"
+        },
+        {
+          "hi": "बर्फ को मीठा करने के लिए",
+          "en": "To sweeten the ice"
+        },
+        {
+          "hi": "बर्फ को जल्दी पिघलाने के लिए",
+          "en": "To melt ice faster"
+        },
+        {
+          "hi": "बर्फ का रंग सफेद करने के लिए",
+          "en": "To make ice whiter"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पानी का आपेक्षिक घनत्व 4°C पर कितना माना जाता है?",
+        "en": "What is the relative density of water at 4°C taken as?"
+      },
+      "o": [
+        {
+          "hi": "0",
+          "en": "0"
+        },
+        {
+          "hi": "1",
+          "en": "1"
+        },
+        {
+          "hi": "4",
+          "en": "4"
+        },
+        {
+          "hi": "1000",
+          "en": "1000"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किसी ठोस वस्तु को पानी में डुबाने पर उसके भार में 10 ग्राम की कमी आती है, तो विस्थापित जल का भार कितना होगा?",
+        "en": "When a solid is submerged in water, its weight decreases by 10g, what is weight of displaced water?"
+      },
+      "o": [
+        {
+          "hi": "5 ग्राम",
+          "en": "5 grams"
+        },
+        {
+          "hi": "20 ग्राम",
+          "en": "20 grams"
+        },
+        {
+          "hi": "10 ग्राम",
+          "en": "10 grams"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जल का घनत्व SI पद्धति में कितना होता है?",
+        "en": "What is the density of water in the SI system?"
+      },
+      "o": [
+        {
+          "hi": "1 किग्रा/मीटर³",
+          "en": "1 kg/m³"
+        },
+        {
+          "hi": "100 किग्रा/मीटर³",
+          "en": "100 kg/m³"
+        },
+        {
+          "hi": "500 किग्रा/मीटर³",
+          "en": "500 kg/m³"
+        },
+        {
+          "hi": "1000 किग्रा/मीटर³",
+          "en": "1000 kg/m³"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बर्फ का घनत्व पानी के घनत्व से कैसा होता है?",
+        "en": "How is the density of ice compared to that of water?"
+      },
+      "o": [
+        {
+          "hi": "कम होता है",
+          "en": "Less"
+        },
+        {
+          "hi": "अधिक होता है",
+          "en": "More"
+        },
+        {
+          "hi": "बिल्कुल बराबर होता है",
+          "en": "Exactly equal"
+        },
+        {
+          "hi": "दोगुना होता है",
+          "en": "Double"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पानी के जमने पर उसके आयतन पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to the volume of water when it freezes into ice?"
+      },
+      "o": [
+        {
+          "hi": "घटता है",
+          "en": "Decreases"
+        },
+        {
+          "hi": "बढ़ता है",
+          "en": "Increases"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "शून्य हो जाता है",
+          "en": "Becomes zero"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सर्दियों की रातों में पानी के पाइप अक्सर क्यों फट जाते हैं?",
+        "en": "Why do water pipes often burst during cold winter nights?"
+      },
+      "o": [
+        {
+          "hi": "पाइप सिकुड़ जाते हैं",
+          "en": "Pipes shrink"
+        },
+        {
+          "hi": "पानी का वाष्प दाब बढ़ता है",
+          "en": "Water vapor pressure increases"
+        },
+        {
+          "hi": "जमने पर पानी का आयतन बढ़ जाता है",
+          "en": "Volume of water increases on freezing"
+        },
+        {
+          "hi": "ऑक्सीजन गैस बन जाती है",
+          "en": "Oxygen gas forms"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोमीटर किस वैज्ञानिक सिद्धांत पर आधारित यंत्र है?",
+        "en": "On which scientific principle is a hydrometer based?"
+      },
+      "o": [
+        {
+          "hi": "बर्नोली सिद्धांत",
+          "en": "Bernoulli's principle"
+        },
+        {
+          "hi": "पास्कल नियम",
+          "en": "Pascal's law"
+        },
+        {
+          "hi": "न्यूटन नियम",
+          "en": "Newton's law"
+        },
+        {
+          "hi": "आर्किमिडीज का प्लवन सिद्धांत",
+          "en": "Archimedes' floatation principle"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वायु में तैरता हाइड्रोजन से भरा गुब्बारा ऊपर की ओर उठता है क्योंकि?",
+        "en": "A hydrogen filled balloon rises in air because?"
+      },
+      "o": [
+        {
+          "hi": "गुब्बारे पर उत्प्लावक बल उसके भार से अधिक होता है",
+          "en": "Buoyant force exceeds its weight"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण ऊपर खींचता है",
+          "en": "Gravity pulls it upwards"
+        },
+        {
+          "hi": "हाइड्रोमीटर दाब घटाता है",
+          "en": "Hydrometer reduces pressure"
+        },
+        {
+          "hi": "वायु का घर्षण शून्य होता है",
+          "en": "Air friction is zero"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किसी वस्तु का भार वायु में 50N तथा पानी में 40N है, तो वस्तु पर उत्प्लावन बल कितना है?",
+        "en": "A body weighs 50N in air and 40N in water, what is the buoyant force on it?"
+      },
+      "o": [
+        {
+          "hi": "90 N",
+          "en": "90 N"
+        },
+        {
+          "hi": "10 N",
+          "en": "10 N"
+        },
+        {
+          "hi": "5 N",
+          "en": "5 N"
+        },
+        {
+          "hi": "20 N",
+          "en": "20 N"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जब कोई तैरती हुई वस्तु संतुलन में होती है, तो उसका आभासी भार कितना होता है?",
+        "en": "When a floating body is in equilibrium, what is its apparent weight?"
+      },
+      "o": [
+        {
+          "hi": "अधिकतम",
+          "en": "Maximum"
+        },
+        {
+          "hi": "वास्तविक भार के बराबर",
+          "en": "Equal to true weight"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आर्किमिडीज किस प्राचीन देश के प्रसिद्ध गणितज्ञ एवं भौतिक विज्ञानी थे?",
+        "en": "Archimedes was a famous mathematician and physicist of which ancient country?"
+      },
+      "o": [
+        {
+          "hi": "रोम",
+          "en": "Rome"
+        },
+        {
+          "hi": "मिस्र",
+          "en": "Egypt"
+        },
+        {
+          "hi": "ब्रिटेन",
+          "en": "Britain"
+        },
+        {
+          "hi": "यूनान (ग्रीस)",
+          "en": "Greece"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तैरने वाले जहाज के डिजाइन में सुरक्षा के लिए जहाजों की तली पर कौन-सी रेखाएं अंकित होती हैं?",
+        "en": "Which load lines are marked on ship hulls for safety?"
+      },
+      "o": [
+        {
+          "hi": "प्लिमसोल रेखाएं (Plimsoll Lines)",
+          "en": "Plimsoll Lines"
+        },
+        {
+          "hi": "डिक्सन रेखाएं",
+          "en": "Dixon Lines"
+        },
+        {
+          "hi": "मैinot रेखाएं",
+          "en": "Maginot Lines"
+        },
+        {
+          "hi": "कैपिलरी रेखाएं",
+          "en": "Capillary Lines"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कार की बैटरी में प्रयुक्त अम्ल का घनत्व जांचने के लिए किस उपकरण का उपयोग किया जाता है?",
+        "en": "Which instrument is used to check the acid density in a car battery?"
+      },
+      "o": [
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "हाइड्रोमीटर (एसिड टेस्टर)",
+          "en": "Hydrometer (Acid tester)"
+        },
+        {
+          "hi": "पाइरोमीटर",
+          "en": "Pyrometer"
+        },
+        {
+          "hi": "अल्टीमीटर",
+          "en": "Altimeter"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक निश्चित आकृति के पिंड के लिए उत्प्लावक बल का केंद्र क्या कहलाता है?",
+        "en": "What is the center of buoyant force called for an immersed body?"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्व केंद्र",
+          "en": "Center of gravity"
+        },
+        {
+          "hi": "द्रव्यमान केंद्र",
+          "en": "Center of mass"
+        },
+        {
+          "hi": "उत्प्लावकता केंद्र (Center of Buoyancy)",
+          "en": "Center of Buoyancy"
+        },
+        {
+          "hi": "जड़त्व केंद्र",
+          "en": "Center of inertia"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "उत्प्लावकता केंद्र (Center of Buoyancy) सदैव किसके गुरुत्व केंद्र के संपाती होता है?",
+        "en": "Center of Buoyancy always coincides with the center of gravity of what?"
+      },
+      "o": [
+        {
+          "hi": "संपूर्ण वस्तु के",
+          "en": "The entire object"
+        },
+        {
+          "hi": "पात्र के",
+          "en": "The container"
+        },
+        {
+          "hi": "पृथ्वी के",
+          "en": "The Earth"
+        },
+        {
+          "hi": "विस्थापित द्रव के",
+          "en": "The displaced liquid"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पहाड़ी क्षेत्रों में सर्दियों में नल का पानी जम जाने पर बर्फ का घनत्व पानी की तुलना में लगभग कितना कम होता है?",
+        "en": "When tap water freezes in winter, ice density is approximately how much lower than water?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 9-10% कम",
+          "en": "About 9-10% less"
+        },
+        {
+          "hi": "लगभग 50% कम",
+          "en": "About 50% less"
+        },
+        {
+          "hi": "लगभग 25% कम",
+          "en": "About 25% less"
+        },
+        {
+          "hi": "लगभग 1% कम",
+          "en": "About 1% less"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आर्किमिडीज ने सोने के मुकुट में मिलावट का पता लगाने के लिए किस सिद्धांत का प्रयोग किया था?",
+        "en": "Archimedes detected impurity in a gold crown using which method?"
+      },
+      "o": [
+        {
+          "hi": "रासायनिक दहन",
+          "en": "Chemical combustion"
+        },
+        {
+          "hi": "जल विस्थापन द्वारा घनत्व मापन",
+          "en": "Density measurement via water displacement"
+        },
+        {
+          "hi": "चुंबकीय आकर्षण",
+          "en": "Magnetic attraction"
+        },
+        {
+          "hi": "विद्युत अपघटन",
+          "en": "Electrolysis"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

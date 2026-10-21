@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "नाभिकीय विखंडन तथा संलयन",
+  "description": "नाभिकीय विखंडन तथा संलयन पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "नाभिकीय विखंडन (Nuclear Fission) की खोज 1939 में किन वैज्ञानिकों ने की थी?",
+        "en": "Who discovered nuclear fission in 1939?"
+      },
+      "o": [
+        {
+          "hi": "ऑटो हान और फ्रिट्ज स्ट्रॉसमन ने",
+          "en": "Otto Hahn and Fritz Strassmann"
+        },
+        {
+          "hi": "एनरिको फर्मी ने",
+          "en": "Enrico Fermi"
+        },
+        {
+          "hi": "अल्बर्ट आइंस्टीन ने",
+          "en": "Albert Einstein"
+        },
+        {
+          "hi": "रदरफोर्ड ने",
+          "en": "Rutherford"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नाभिकीय विखंडन में भारी नाभिक (U-235) पर किसकी बमबारी करके विखंडन कराया जाता है?",
+        "en": "In nuclear fission, with what particle is heavy U-235 nucleus bombarded?"
+      },
+      "o": [
+        {
+          "hi": "तीव्रगामी प्रोटॉन की",
+          "en": "Fast protons"
+        },
+        {
+          "hi": "धीमी गति वाले (मंद) न्यूट्रॉनों (Thermal Neutrons) की",
+          "en": "Slow/thermal neutrons"
+        },
+        {
+          "hi": "अल्फा कणों की",
+          "en": "Alpha particles"
+        },
+        {
+          "hi": "इलेक्ट्रॉनों की",
+          "en": "Electrons"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यूरेनियम-235 के एक नाभिक के विखंडन से लगभग कितनी ऊर्जा मुक्त होती है?",
+        "en": "Approximately how much energy is released per fission of one U-235 nucleus?"
+      },
+      "o": [
+        {
+          "hi": "13.6 eV",
+          "en": "13.6 eV"
+        },
+        {
+          "hi": "1 MeV",
+          "en": "1 MeV"
+        },
+        {
+          "hi": "लगभग 200 MeV (Mega Electron Volt)",
+          "en": "About 200 MeV"
+        },
+        {
+          "hi": "931.5 GeV",
+          "en": "931.5 GeV"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "परमाणु बम (Atom Bomb) किस सिद्धांत पर आधारित एक अस्त्र है?",
+        "en": "An atom bomb is based on which principle?"
+      },
+      "o": [
+        {
+          "hi": "नियंत्रित नाभिकीय संलयन",
+          "en": "Controlled nuclear fusion"
+        },
+        {
+          "hi": "अनियंत्रित नाभिकीय संलयन",
+          "en": "Uncontrolled nuclear fusion"
+        },
+        {
+          "hi": "नियंत्रित नाभिकीय विखंडन",
+          "en": "Controlled nuclear fission"
+        },
+        {
+          "hi": "अनियंत्रित नाभिकीय विखंडन श्रृंखला अभिक्रिया (Uncontrolled Nuclear Fission)",
+          "en": "Uncontrolled Nuclear Fission Chain Reaction"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "परमाणु बम का आविष्कार (मैनहट्टन प्रोजेक्ट के तहत) किसने किया था?",
+        "en": "Who is considered the father of the atomic bomb (Manhattan Project)?"
+      },
+      "o": [
+        {
+          "hi": "जे. रॉबर्ट ओपेनहाइमर (J. Robert Oppenheimer)",
+          "en": "J. Robert Oppenheimer"
+        },
+        {
+          "hi": "एडवर्ड टेलर",
+          "en": "Edward Teller"
+        },
+        {
+          "hi": "एनरिको फर्मी",
+          "en": "Enrico Fermi"
+        },
+        {
+          "hi": "अल्बर्ट आइंस्टीन",
+          "en": "Albert Einstein"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "द्वितीय विश्व युद्ध में अमेरिका द्वारा 6 अगस्त 1945 को हिरोशिमा पर गिराए गए परमाणु बम का कोड नाम क्या था?",
+        "en": "What was codename of atomic bomb dropped on Hiroshima on Aug 6, 1945?"
+      },
+      "o": [
+        {
+          "hi": "फैट मैन (Fat Man)",
+          "en": "Fat Man"
+        },
+        {
+          "hi": "लिटिल बॉय (Little Boy - यूरेनियम-235 बम)",
+          "en": "Little Boy (U-235 bomb)"
+        },
+        {
+          "hi": "स्माइलिंग बुद्धा",
+          "en": "Smiling Buddha"
+        },
+        {
+          "hi": "ट्रिनिटी",
+          "en": "Trinity"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "9 अगस्त 1945 को नागासाकी पर गिराए गए परमाणु बम का कोड नाम क्या था?",
+        "en": "What was codename of atomic bomb dropped on Nagasaki on Aug 9, 1945?"
+      },
+      "o": [
+        {
+          "hi": "लिटिल बॉय",
+          "en": "Little Boy"
+        },
+        {
+          "hi": "जार बॉम्बा",
+          "en": "Tsar Bomba"
+        },
+        {
+          "hi": "फैट मैन (Fat Man - प्लूटोनियम-239 बम)",
+          "en": "Fat Man (Pu-239 bomb)"
+        },
+        {
+          "hi": "शक्ति",
+          "en": "Shakti"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व की पहली परमाणु भट्टी (Nuclear Reactor) 1942 में किसके नेतृत्व में शिकागो में बनाई गई?",
+        "en": "Under whose leadership was the world's first nuclear reactor built in 1942?"
+      },
+      "o": [
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "ओपेनहाइमर",
+          "en": "Oppenheimer"
+        },
+        {
+          "hi": "नील्स बोर",
+          "en": "Niels Bohr"
+        },
+        {
+          "hi": "एनरिको फर्मी (Enrico Fermi)",
+          "en": "Enrico Fermi"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नाभिकीय रिएक्टर (परमाणु भट्टी) में किस प्रकार की अभिक्रिया होती है?",
+        "en": "What type of reaction takes place inside a nuclear power reactor?"
+      },
+      "o": [
+        {
+          "hi": "नियंत्रित नाभिकीय विखंडन श्रृंखला अभिक्रिया (Controlled Nuclear Fission)",
+          "en": "Controlled Nuclear Fission Chain Reaction"
+        },
+        {
+          "hi": "अनियंत्रित नाभिकीय विखंडन",
+          "en": "Uncontrolled fission"
+        },
+        {
+          "hi": "अनियंत्रित नाभिकीय संलयन",
+          "en": "Uncontrolled fusion"
+        },
+        {
+          "hi": "रासायनिक दहन अभिक्रिया",
+          "en": "Chemical combustion"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नाभिकीय रिएक्टर में मंदक (Moderator) का मुख्य कार्य क्या होता है?",
+        "en": "What is the primary function of a moderator in a nuclear reactor?"
+      },
+      "o": [
+        {
+          "hi": "न्यूट्रॉनों को अवशोषित करना",
+          "en": "Absorb neutrons"
+        },
+        {
+          "hi": "तीव्रगामी न्यूट्रॉनों की गति को धीमा (मंद) करना",
+          "en": "Slow down speed of fast neutrons"
+        },
+        {
+          "hi": "तापमान बढ़ाना",
+          "en": "Increase temperature"
+        },
+        {
+          "hi": "विकिरण को रोकना",
+          "en": "Block radiation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नाभिकीय रिएक्टर में मंदक (Moderator) के रूप में सामान्यतः किसका उपयोग किया जाता है?",
+        "en": "What is commonly used as a moderator in nuclear reactors?"
+      },
+      "o": [
+        {
+          "hi": "लोहे और तांबे का",
+          "en": "Iron and copper"
+        },
+        {
+          "hi": "कैडमियम और बोरॉन का",
+          "en": "Cadmium and boron"
+        },
+        {
+          "hi": "भारी जल (D2O) और ग्रेफाइट का",
+          "en": "Heavy water (D2O) and Graphite"
+        },
+        {
+          "hi": "द्रवित सोडियम का",
+          "en": "Liquid sodium"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नाभिकीय रिएक्टर में भारी जल (D2O) और ग्रेफाइट का उपयोग किस रूप में होता है?",
+        "en": "Heavy water and graphite are utilized in nuclear reactors as what?"
+      },
+      "o": [
+        {
+          "hi": "ईंधन के रूप में",
+          "en": "As fuel"
+        },
+        {
+          "hi": "शीतलक के रूप में",
+          "en": "As coolant"
+        },
+        {
+          "hi": "नियंत्रक छड़ों के रूप में",
+          "en": "As control rods"
+        },
+        {
+          "hi": "मंदक (Moderator) के रूप में",
+          "en": "As Moderator"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नाभिकीय रिएक्टर में श्रृंखला अभिक्रिया को नियंत्रित करने के लिए नियंत्रक छड़ें (Control Rods) किसकी बनाई जाती हैं?",
+        "en": "Control rods in a nuclear reactor are made of which materials?"
+      },
+      "o": [
+        {
+          "hi": "कैडमियम (Cd) अथवा बोरॉन (B) की",
+          "en": "Cadmium (Cd) or Boron (B)"
+        },
+        {
+          "hi": "लोहा अथवा तांबा",
+          "en": "Iron or Copper"
+        },
+        {
+          "hi": "यूरेनियम अथवा थोरियम",
+          "en": "Uranium or Thorium"
+        },
+        {
+          "hi": "ग्रेफाइट अथवा सीसा",
+          "en": "Graphite or Lead"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नियंत्रक छड़ें (Control Rods) विखंडन दर को कैसे नियंत्रित करती हैं?",
+        "en": "How do control rods regulate the rate of fission?"
+      },
+      "o": [
+        {
+          "hi": "तापमान घटाकर",
+          "en": "By cooling temperature"
+        },
+        {
+          "hi": "अतिरिक्त न्यूट्रॉनों को अवशोषित करके",
+          "en": "By absorbing excess neutrons"
+        },
+        {
+          "hi": "ईंधन को अलग करके",
+          "en": "By separating fuel"
+        },
+        {
+          "hi": "दबाव बढ़ाकर",
+          "en": "By increasing pressure"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नाभिकीय रिएक्टर में उत्पन्न अत्यधिक ऊष्मा को बाहर निकालने के लिए शीतलक (Coolant) के रूप में क्या प्रयुक्त होता है?",
+        "en": "What is used as a coolant to extract heat from a nuclear reactor?"
+      },
+      "o": [
+        {
+          "hi": "केवल डीजल",
+          "en": "Only diesel"
+        },
+        {
+          "hi": "केवल पारा",
+          "en": "Only mercury"
+        },
+        {
+          "hi": "साधारण जल, भारी जल अथवा द्रवित सोडियम",
+          "en": "Normal water, heavy water or liquid sodium"
+        },
+        {
+          "hi": "अल्कोहल",
+          "en": "Alcohol"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नाभिकीय रिएक्टर में परमाणु ईंधन (Nuclear Fuel) के रूप में मुख्यतः किसका उपयोग होता है?",
+        "en": "What is primarily used as nuclear fuel in power reactors?"
+      },
+      "o": [
+        {
+          "hi": "थोरियम और कोयला",
+          "en": "Thorium and coal"
+        },
+        {
+          "hi": "रेडियम और पोलोनियम",
+          "en": "Radium and polonium"
+        },
+        {
+          "hi": "सीसा और जस्ता",
+          "en": "Lead and zinc"
+        },
+        {
+          "hi": "यूरेनियम-235 (U-235) अथवा प्लूटोनियम-239 (Pu-239)",
+          "en": "Uranium-235 (U-235) or Plutonium-239 (Pu-239)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "फास्ट ब्रीडर रिएक्टर (Fast Breeder Reactor - FBR) की क्या विशेषता होती है?",
+        "en": "What is the unique characteristic of a Fast Breeder Reactor (FBR)?"
+      },
+      "o": [
+        {
+          "hi": "यह जितना विखंडनीय ईंधन खर्च करता है, उससे अधिक नया ईंधन उत्पन्न करता है",
+          "en": "Produces more fissile material than it consumes"
+        },
+        {
+          "hi": "यह बिना ईंधन के चलता है",
+          "en": "Operates without fuel"
+        },
+        {
+          "hi": "यह बहुत धीमा चलता है",
+          "en": "Runs very slowly"
+        },
+        {
+          "hi": "इसमें कोई ऊर्जा नहीं निकलती",
+          "en": "Releases no energy"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फास्ट ब्रीडर रिएक्टर में गैर-विखंडनीय थोरियम-232 को किस विखंडनीय ईंधन में बदला जाता है?",
+        "en": "In a breeder reactor, non-fissile Th-232 is converted into which fissile fuel?"
+      },
+      "o": [
+        {
+          "hi": "यूरेनियम-238",
+          "en": "Uranium-238"
+        },
+        {
+          "hi": "यूरेनियम-233 (U-233)",
+          "en": "Uranium-233 (U-233)"
+        },
+        {
+          "hi": "प्लूटोनियम-239",
+          "en": "Plutonium-239"
+        },
+        {
+          "hi": "नेप्च्यूनियम-239",
+          "en": "Neptunium-239"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दो या दो से अधिक हल्के नाभिकों का आपस में जुड़कर एक भारी नाभिक बनाने की क्रिया क्या कहलाती है?",
+        "en": "Process of combining two light nuclei to form a heavier nucleus is called?"
+      },
+      "o": [
+        {
+          "hi": "नाभिकीय विखंडन",
+          "en": "Nuclear fission"
+        },
+        {
+          "hi": "रेडियोसक्रिय क्षय",
+          "en": "Radioactive decay"
+        },
+        {
+          "hi": "नाभिकीय संलयन (Nuclear Fusion)",
+          "en": "Nuclear Fusion"
+        },
+        {
+          "hi": "आयनन",
+          "en": "Ionization"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सूर्य और ब्रह्मांड के तारों में ऊर्जा का मुख्य स्रोत क्या है?",
+        "en": "What is the primary source of energy in the Sun and stars?"
+      },
+      "o": [
+        {
+          "hi": "कोयले का दहन",
+          "en": "Combustion of coal"
+        },
+        {
+          "hi": "नाभिकीय विखंडन",
+          "en": "Nuclear fission"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण संकुचन",
+          "en": "Gravitational contraction"
+        },
+        {
+          "hi": "नाभिकीय संलयन (Nuclear Fusion - हाइड्रोजन से हीलियम बनना)",
+          "en": "Nuclear Fusion (conversion of H into He)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सूर्य में ऊर्जा निर्माण की संलयन प्रक्रिया (प्रोटॉन-प्रोटॉन चक्र) की खोज किसने की थी?",
+        "en": "Who discovered the proton-proton fusion cycle in the Sun?"
+      },
+      "o": [
+        {
+          "hi": "हंस बेथे ने (Hans Bethe - 1967 नोबेल पुरस्कार)",
+          "en": "Hans Bethe (1967 Nobel)"
+        },
+        {
+          "hi": "अल्बर्ट आइंस्टीन ने",
+          "en": "Albert Einstein"
+        },
+        {
+          "hi": "नील्स बोर ने",
+          "en": "Niels Bohr"
+        },
+        {
+          "hi": "रदरफोर्ड ने",
+          "en": "Rutherford"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सूर्य में मुख्यतः कौन-से दो तत्व प्रचुर मात्रा में पाए जाते हैं?",
+        "en": "Which two elements are primarily abundant in the Sun?"
+      },
+      "o": [
+        {
+          "hi": "लोहा और निकेल",
+          "en": "Iron and Nickel"
+        },
+        {
+          "hi": "हाइड्रोजन (लगभग 71%) और हीलियम (लगभग 26.5%)",
+          "en": "Hydrogen (~71%) and Helium (~26.5%)"
+        },
+        {
+          "hi": "ऑक्सीजन और नाइट्रोजन",
+          "en": "Oxygen and Nitrogen"
+        },
+        {
+          "hi": "कार्बन और सिलिकॉन",
+          "en": "Carbon and Silicon"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नाभिकीय संलयन अभिक्रिया कराने के लिए किन भौतिक परिस्थितियों की आवश्यकता होती है?",
+        "en": "What physical conditions are mandatory for nuclear fusion to take place?"
+      },
+      "o": [
+        {
+          "hi": "अत्यधिक निम्न तापमान",
+          "en": "Very low temperature"
+        },
+        {
+          "hi": "सामान्य कमरे का तापमान",
+          "en": "Normal room temperature"
+        },
+        {
+          "hi": "अत्यधिक उच्च तापमान (10^7 से 10^8 K) और उच्च दाब",
+          "en": "Extremely high temp (10^7 to 10^8 K) & high pressure"
+        },
+        {
+          "hi": "शून्य दाब",
+          "en": "Zero pressure"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नाभिकीय संलयन अभिक्रियाओं को अन्य किस नाम से जाना जाता है?",
+        "en": "Nuclear fusion reactions are also known by what name?"
+      },
+      "o": [
+        {
+          "hi": "रासायनिक अभिक्रिया",
+          "en": "Chemical reaction"
+        },
+        {
+          "hi": "अपघटन अभिक्रिया",
+          "en": "Decomposition reaction"
+        },
+        {
+          "hi": "प्रकाशिक अभिक्रिया",
+          "en": "Optical reaction"
+        },
+        {
+          "hi": "ऊष्मा-नाभिकीय अभिक्रिया (Thermonuclear Reaction)",
+          "en": "Thermonuclear Reaction"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन बम (Hydrogen Bomb) किस सिद्धांत पर आधारित अस्त्र है?",
+        "en": "A hydrogen bomb is based on which principle?"
+      },
+      "o": [
+        {
+          "hi": "अनियंत्रित नाभिकीय संलयन (Uncontrolled Nuclear Fusion)",
+          "en": "Uncontrolled Nuclear Fusion"
+        },
+        {
+          "hi": "नियंत्रित नाभिकीय संलयन",
+          "en": "Controlled nuclear fusion"
+        },
+        {
+          "hi": "अनियंत्रित नाभिकीय विखंडन",
+          "en": "Uncontrolled nuclear fission"
+        },
+        {
+          "hi": "रासायनिक विस्फोट",
+          "en": "Chemical explosion"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन बम का आविष्कार 1952 में किस वैज्ञानिक ने किया था?",
+        "en": "Who invented the hydrogen bomb in 1952?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट ओपेनहाइमर ने",
+          "en": "Robert Oppenheimer"
+        },
+        {
+          "hi": "एडवर्ड टेलर (Edward Teller) ने",
+          "en": "Edward Teller"
+        },
+        {
+          "hi": "एनरिको फर्मी ने",
+          "en": "Enrico Fermi"
+        },
+        {
+          "hi": "अल्बर्ट आइंस्टीन ने",
+          "en": "Albert Einstein"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन बम परमाणु बम की तुलना में लगभग कितने गुना अधिक शक्तिशाली होता है?",
+        "en": "A hydrogen bomb is approximately how many times more destructive than an atom bomb?"
+      },
+      "o": [
+        {
+          "hi": "2 गुना",
+          "en": "2 times"
+        },
+        {
+          "hi": "10 गुना",
+          "en": "10 times"
+        },
+        {
+          "hi": "लगभग 1000 गुना अधिक शक्तिशाली",
+          "en": "About 1000 times more powerful"
+        },
+        {
+          "hi": "बराबर",
+          "en": "Equal"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन बम के विस्फोट के लिए आवश्यक उच्च ताप उत्पन्न करने हेतु पहले किसका विस्फोट कराया जाता है?",
+        "en": "To trigger the high temperature needed for a hydrogen bomb, what is detonated first?"
+      },
+      "o": [
+        {
+          "hi": "डायनामाइट का",
+          "en": "Dynamite"
+        },
+        {
+          "hi": "टीएनटी (TNT) का",
+          "en": "TNT"
+        },
+        {
+          "hi": "आरडीएक्स (RDX) का",
+          "en": "RDX"
+        },
+        {
+          "hi": "परमाणु बम (नाभिकीय विखंडन बम) का",
+          "en": "An atomic bomb (fission bomb)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "टोकामाक (Tokamak) यंत्र का उपयोग किस अनुसंधान के लिए किया जाता है?",
+        "en": "What is a Tokamak device used for in scientific research?"
+      },
+      "o": [
+        {
+          "hi": "नियंत्रित नाभिकीय संलयन (Controlled Thermonuclear Fusion)",
+          "en": "Controlled Thermonuclear Fusion"
+        },
+        {
+          "hi": "परमाणु बम निर्माण",
+          "en": "Atom bomb production"
+        },
+        {
+          "hi": "एक्स-रे उत्पादन",
+          "en": "X-ray generation"
+        },
+        {
+          "hi": "विद्युत मोटर डिजाइन",
+          "en": "Electric motor design"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अंतर्राष्ट्रीय ताप-नाभिकीय प्रायोगिक रिएक्टर (ITER) परियोजना कहाँ स्थापित की जा रही है?",
+        "en": "Where is the ITER project (world's largest fusion experiment) located?"
+      },
+      "o": [
+        {
+          "hi": "अमेरिका में",
+          "en": "USA"
+        },
+        {
+          "hi": "कादाराश (फ्रांस) में",
+          "en": "Cadarache (France)"
+        },
+        {
+          "hi": "रूस में",
+          "en": "Russia"
+        },
+        {
+          "hi": "जापान में",
+          "en": "Japan"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सूर्य में प्रति सेकंड कितनी ऊर्जा विकिरण के रूप में निकलती है?",
+        "en": "How much energy does the Sun radiate per second?"
+      },
+      "o": [
+        {
+          "hi": "10^20 जूल/सेकंड",
+          "en": "10^20 J/s"
+        },
+        {
+          "hi": "10^30 जूल/सेकंड",
+          "en": "10^30 J/s"
+        },
+        {
+          "hi": "लगभग 3.86 × 10^26 जूल/सेकंड (वाट)",
+          "en": "About 3.86 × 10^26 Joules/sec (Watt)"
+        },
+        {
+          "hi": "10^15 जूल/सेकंड",
+          "en": "10^15 J/s"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "परमाणु बम में विखंडन श्रृंखला अभिक्रिया जारी रखने के लिए विखंडनीय पदार्थ के न्यूनतम द्रव्यमान को क्या कहते हैं?",
+        "en": "Minimum mass of fissile material required to sustain a chain reaction is?"
+      },
+      "o": [
+        {
+          "hi": "परमाणु द्रव्यमान",
+          "en": "Atomic mass"
+        },
+        {
+          "hi": "आणविक द्रव्यमान",
+          "en": "Molecular mass"
+        },
+        {
+          "hi": "मोलर द्रव्यमान",
+          "en": "Molar mass"
+        },
+        {
+          "hi": "क्रांतिक द्रव्यमान (Critical Mass)",
+          "en": "Critical Mass"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यदि विखंडनीय पदार्थ का द्रव्यमान क्रांतिक द्रव्यमान से कम हो (Subcritical), तो श्रृंखला अभिक्रिया का क्या होगा?",
+        "en": "If fissile mass is subcritical, what happens to chain reaction?"
+      },
+      "o": [
+        {
+          "hi": "श्रृंखला अभिक्रिया स्वतः बंद हो जाएगी",
+          "en": "Chain reaction dies out automatically"
+        },
+        {
+          "hi": "महाविस्फोट होगा",
+          "en": "Super explosion occurs"
+        },
+        {
+          "hi": "संलयन शुरू हो जाएगा",
+          "en": "Fusion begins"
+        },
+        {
+          "hi": "तापमान अनंत हो जाएगा",
+          "en": "Temperature becomes infinite"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यदि विखंडनीय पदार्थ का द्रव्यमान क्रांतिक द्रव्यमान से अधिक हो (Supercritical), तो क्या होगा?",
+        "en": "If fissile mass is supercritical, what occurs?"
+      },
+      "o": [
+        {
+          "hi": "अभिक्रिया धीमी हो जाएगी",
+          "en": "Reaction slows down"
+        },
+        {
+          "hi": "तीव्र अनियंत्रित विस्फोट (परमाणु बम धमाका) होगा",
+          "en": "Rapid uncontrolled nuclear explosion"
+        },
+        {
+          "hi": "रेडियोसक्रियता समाप्त हो जाएगी",
+          "en": "Radioactivity ceases"
+        },
+        {
+          "hi": "ऊर्जा अवशोषित होगी",
+          "en": "Energy is absorbed"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत का प्रथम परमाणु अनुसंधान रिएक्टर कौन-सा था जो 1956 में ट्रॉम्बे में शुरू हुआ?",
+        "en": "Which was India's first nuclear research reactor commissioned in 1956 at Trombay?"
+      },
+      "o": [
+        {
+          "hi": "ध्रुव",
+          "en": "Dhruva"
+        },
+        {
+          "hi": "सायरस",
+          "en": "Cirus"
+        },
+        {
+          "hi": "अप्सरा (Apsara)",
+          "en": "Apsara"
+        },
+        {
+          "hi": "पूर्णिमा",
+          "en": "Purnima"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारत के परमाणु ऊर्जा कार्यक्रम के जनक (Father of Indian Nuclear Program) कौन थे?",
+        "en": "Who is regarded as the Father of the Indian Nuclear Program?"
+      },
+      "o": [
+        {
+          "hi": "सत्येंद्र नाथ बोस",
+          "en": "S.N. Bose"
+        },
+        {
+          "hi": "सी. वी. रमन",
+          "en": "C.V. Raman"
+        },
+        {
+          "hi": "विक्रम साराभाई",
+          "en": "Vikram Sarabhai"
+        },
+        {
+          "hi": "डॉ. होमी जहांगीर भाभा (Dr. Homi J. Bhabha)",
+          "en": "Dr. Homi J. Bhabha"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत ने अपना पहला भूमिगत परमाणु परीक्षण पोखरण (राजस्थान) में कब किया था?",
+        "en": "When did India conduct its first underground nuclear test in Pokhran?"
+      },
+      "o": [
+        {
+          "hi": "18 मई 1974 (ऑपरेशन 'स्माइलिंग बुद्धा')",
+          "en": "May 18, 1974 (Operation 'Smiling Buddha')"
+        },
+        {
+          "hi": "11 मई 1998",
+          "en": "May 11, 1998"
+        },
+        {
+          "hi": "15 अगस्त 1947",
+          "en": "August 15, 1947"
+        },
+        {
+          "hi": "26 जनवरी 1950",
+          "en": "January 26, 1950"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत ने पोखरण में 11 और 13 मई 1998 को किए गए पांच परमाणु परीक्षणों को क्या कोड नाम दिया था?",
+        "en": "What was the codename of Pokhran-II nuclear tests in May 1998?"
+      },
+      "o": [
+        {
+          "hi": "ऑपरेशन विजय",
+          "en": "Operation Vijay"
+        },
+        {
+          "hi": "ऑपरेशन शक्ति (Operation Shakti - Pokhran II)",
+          "en": "Operation Shakti (Pokhran II)"
+        },
+        {
+          "hi": "ऑपरेशन मेघदूत",
+          "en": "Operation Meghdoot"
+        },
+        {
+          "hi": "ऑपरेशन पराक्रम",
+          "en": "Operation Parakram"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में राष्ट्रीय प्रौद्योगिकी दिवस (National Technology Day) प्रतिवर्ष किस तिथि को मनाया जाता है?",
+        "en": "National Technology Day is celebrated in India every year on which date?"
+      },
+      "o": [
+        {
+          "hi": "28 फरवरी",
+          "en": "February 28"
+        },
+        {
+          "hi": "18 मई",
+          "en": "May 18"
+        },
+        {
+          "hi": "11 मई (पोखरण-II परीक्षण की स्मृति में)",
+          "en": "May 11 (commemorating Pokhran-II)"
+        },
+        {
+          "hi": "2 अक्टूबर",
+          "en": "October 2"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भाभा परमाणु अनुसंधान केंद्र (BARC) कहाँ स्थित है?",
+        "en": "Where is Bhabha Atomic Research Centre (BARC) located?"
+      },
+      "o": [
+        {
+          "hi": "नई दिल्ली",
+          "en": "New Delhi"
+        },
+        {
+          "hi": "बेंगलुरु",
+          "en": "Bengaluru"
+        },
+        {
+          "hi": "हैदराबाद",
+          "en": "Hyderabad"
+        },
+        {
+          "hi": "ट्रॉम्बे (मुंबई, महाराष्ट्र)",
+          "en": "Trombay (Mumbai, Maharashtra)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इंदिरा गांधी परमाणु अनुसंधान केंद्र (IGCAR) कहाँ स्थित है?",
+        "en": "Where is Indira Gandhi Centre for Atomic Research (IGCAR) located?"
+      },
+      "o": [
+        {
+          "hi": "कलपक्कम (तमिलनाडु)",
+          "en": "Kalpakkam (Tamil Nadu)"
+        },
+        {
+          "hi": "तारापुर (महाराष्ट्र)",
+          "en": "Tarapur (Maharashtra)"
+        },
+        {
+          "hi": "रावतभाटा (राजस्थान)",
+          "en": "Rawatbhata (Rajasthan)"
+        },
+        {
+          "hi": "नरोरा (उत्तर प्रदेश)",
+          "en": "Narora (Uttar Pradesh)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारत का पहला परमाणु ऊर्जा संयंत्र (Nuclear Power Station) 1969 में कहाँ स्थापित हुआ था?",
+        "en": "Where was India's first commercial nuclear power plant established in 1969?"
+      },
+      "o": [
+        {
+          "hi": "कैगा (कर्नाटक)",
+          "en": "Kaiga (Karnataka)"
+        },
+        {
+          "hi": "तारापुर (महाराष्ट्र - USA के सहयोग से)",
+          "en": "Tarapur (Maharashtra - with US aid)"
+        },
+        {
+          "hi": "कुडनकुलम (तमिलनाडु)",
+          "en": "Kudankulam (Tamil Nadu)"
+        },
+        {
+          "hi": "काकरापार (गुजरात)",
+          "en": "Kakrapar (Gujarat)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कुडनकुलम परमाणु ऊर्जा संयंत्र (Kudankulam Nuclear Plant) किस राज्य में स्थित है?",
+        "en": "In which state is Kudankulam Nuclear Power Plant located?"
+      },
+      "o": [
+        {
+          "hi": "केरल",
+          "en": "Kerala"
+        },
+        {
+          "hi": "आंध्र प्रदेश",
+          "en": "Andhra Pradesh"
+        },
+        {
+          "hi": "तमिलनाडु (रूस के सहयोग से निर्मित)",
+          "en": "Tamil Nadu (built with Russian aid)"
+        },
+        {
+          "hi": "कर्नाटक",
+          "en": "Karnataka"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कैगा परमाणु ऊर्जा संयंत्र (Kaiga Nuclear Plant) किस भारतीय राज्य में स्थित है?",
+        "en": "In which Indian state is the Kaiga Nuclear Plant located?"
+      },
+      "o": [
+        {
+          "hi": "महाराष्ट्र",
+          "en": "Maharashtra"
+        },
+        {
+          "hi": "गुजरात",
+          "en": "Gujarat"
+        },
+        {
+          "hi": "राजस्थान",
+          "en": "Rajasthan"
+        },
+        {
+          "hi": "कर्नाटक",
+          "en": "Karnataka"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नरोरा परमाणु ऊर्जा संयंत्र (Narora Nuclear Plant) किस राज्य में स्थित है?",
+        "en": "In which state is Narora Nuclear Power Plant located?"
+      },
+      "o": [
+        {
+          "hi": "उत्तर प्रदेश (बुलंदशहर)",
+          "en": "Uttar Pradesh (Bulandshahr)"
+        },
+        {
+          "hi": "मध्य प्रदेश",
+          "en": "Madhya Pradesh"
+        },
+        {
+          "hi": "बिहार",
+          "en": "Bihar"
+        },
+        {
+          "hi": "हरियाणा",
+          "en": "Haryana"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "काकरापार परमाणु ऊर्जा संयंत्र (Kakrapar Nuclear Plant) किस राज्य में स्थित है?",
+        "en": "In which state is Kakrapar Nuclear Plant located?"
+      },
+      "o": [
+        {
+          "hi": "महाराष्ट्र",
+          "en": "Maharashtra"
+        },
+        {
+          "hi": "गुजरात",
+          "en": "Gujarat"
+        },
+        {
+          "hi": "राजस्थान",
+          "en": "Rajasthan"
+        },
+        {
+          "hi": "ओडिशा",
+          "en": "Odisha"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रावतभाटा परमाणु ऊर्जा संयंत्र (Rawatbhata Nuclear Plant) किस राज्य में स्थित है?",
+        "en": "In which state is Rawatbhata Nuclear Plant located?"
+      },
+      "o": [
+        {
+          "hi": "गुजरात",
+          "en": "Gujarat"
+        },
+        {
+          "hi": "पंजाब",
+          "en": "Punjab"
+        },
+        {
+          "hi": "राजस्थान (कनाडा के सहयोग से निर्मित)",
+          "en": "Rajasthan (built with Canadian aid)"
+        },
+        {
+          "hi": "हरियाणा",
+          "en": "Haryana"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारी जल (Heavy Water - D2O) का अणुभार कितना होता है?",
+        "en": "What is the molecular weight of Heavy Water (D2O)?"
+      },
+      "o": [
+        {
+          "hi": "18",
+          "en": "18"
+        },
+        {
+          "hi": "16",
+          "en": "16"
+        },
+        {
+          "hi": "32",
+          "en": "32"
+        },
+        {
+          "hi": "20 (ड्यूटीरियम 2×2 + ऑक्सीजन 16)",
+          "en": "20 (Deuterium 2×2 + Oxygen 16)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारी जल की खोज 1932 में किस वैज्ञानिक ने की थी?",
+        "en": "Who discovered heavy water (D2O) in 1932?"
+      },
+      "o": [
+        {
+          "hi": "एच. सी. उरे (Harold Urey) ने",
+          "en": "Harold Urey"
+        },
+        {
+          "hi": "मैडम क्यूरी ने",
+          "en": "Madame Curie"
+        },
+        {
+          "hi": "रदरफोर्ड ने",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "चैडविक ने",
+          "en": "Chadwick"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नाभिकीय विखंडन में यूरेनियम-235 नाभिक के टूटने पर औसतन कितने नए न्यूट्रॉन उत्पन्न होते हैं?",
+        "en": "On average, how many new neutrons are produced per fission of a U-235 nucleus?"
+      },
+      "o": [
+        {
+          "hi": "1 न्यूट्रॉन",
+          "en": "1 neutron"
+        },
+        {
+          "hi": "औसतन 2.5 (लगभग 2 से 3 न्यूट्रॉन)",
+          "en": "Average 2.5 (about 2 to 3 neutrons)"
+        },
+        {
+          "hi": "10 न्यूट्रॉन",
+          "en": "10 neutrons"
+        },
+        {
+          "hi": "कोई न्यूट्रॉन नहीं",
+          "en": "No neutrons"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

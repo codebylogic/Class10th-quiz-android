@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - खेल-कूद (Sports)",
+  "subtitle": "ओलम्पिक खेल",
+  "description": "ओलम्पिक खेल पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "प्राचीन ओलम्पिक खेलों की शुरुआत 776 ई.पू. में किस यूनानी देवता के सम्मान में हुई थी?",
+        "en": "In honor of which Greek god did the ancient Olympic Games begin in 776 BC?"
+      },
+      "o": [
+        {
+          "hi": "देवता ज़्यूस (Zeus)",
+          "en": "God Zeus"
+        },
+        {
+          "hi": "देवता अपोलो (Apollo)",
+          "en": "God Apollo"
+        },
+        {
+          "hi": "देवता पोसीडॉन (Poseidon)",
+          "en": "God Poseidon"
+        },
+        {
+          "hi": "देवी एथेना (Athena)",
+          "en": "Goddess Athena"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्राचीन ओलम्पिक खेलों को 394 ईस्वी में किस रोमन सम्राट ने प्रतिबंधित कर दिया था?",
+        "en": "Which Roman emperor banned the ancient Olympic Games in 394 AD?"
+      },
+      "o": [
+        {
+          "hi": "सम्राट नीरो (Nero)",
+          "en": "Emperor Nero"
+        },
+        {
+          "hi": "सम्राट थियोडोसियस (Theodosius)",
+          "en": "Emperor Theodosius"
+        },
+        {
+          "hi": "जूलियस सीज़र (Julius Caesar)",
+          "en": "Julius Caesar"
+        },
+        {
+          "hi": "सम्राट ऑगस्टस (Augustus)",
+          "en": "Emperor Augustus"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आधुनिक ओलम्पिक खेलों का जनक (Father of Modern Olympics) किसे कहा जाता है?",
+        "en": "Who is known as the Father of the Modern Olympic Games?"
+      },
+      "o": [
+        {
+          "hi": "एवांगेलोस ज़ापास (Evangelos Zappas)",
+          "en": "Evangelos Zappas"
+        },
+        {
+          "hi": "डेमेट्रियस विकेलस (Demetrius Vikelas)",
+          "en": "Demetrius Vikelas"
+        },
+        {
+          "hi": "बैरोन पियरे डी कुबर्तिन (Pierre de Coubertin)",
+          "en": "Baron Pierre de Coubertin"
+        },
+        {
+          "hi": "अवेरी ब्रुंडेज (Avery Brundage)",
+          "en": "Avery Brundage"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अंतरराष्ट्रीय ओलम्पिक समिति (IOC) की स्थापना 23 जून 1894 को कहाँ की गई थी?",
+        "en": "Where was the International Olympic Committee (IOC) founded on 23 June 1894?"
+      },
+      "o": [
+        {
+          "hi": "एथेंस (ग्रीस)",
+          "en": "Athens (Greece)"
+        },
+        {
+          "hi": "लुसाने (स्विट्जरलैंड)",
+          "en": "Lausanne (Switzerland)"
+        },
+        {
+          "hi": "लंदन (ब्रिटेन)",
+          "en": "London (UK)"
+        },
+        {
+          "hi": "सोरबोन, पेरिस (फ्रांस)",
+          "en": "Sorbonne, Paris (France)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अंतरराष्ट्रीय ओलम्पिक समिति (IOC) का स्थायी मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the permanent headquarters of the International Olympic Committee (IOC) located?"
+      },
+      "o": [
+        {
+          "hi": "लुसाने (स्विट्जरलैंड)",
+          "en": "Lausanne (Switzerland)"
+        },
+        {
+          "hi": "जिनेवा (स्विट्जरलैंड)",
+          "en": "Geneva (Switzerland)"
+        },
+        {
+          "hi": "पेरिस (फ्रांस)",
+          "en": "Paris (France)"
+        },
+        {
+          "hi": "ज्यूरिख (स्विट्जरलैंड)",
+          "en": "Zurich (Switzerland)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रथम आधुनिक ग्रीष्मकालीन ओलम्पिक खेल 1896 में कहाँ आयोजित किए गए थे?",
+        "en": "Where were the first modern Summer Olympic Games held in 1896?"
+      },
+      "o": [
+        {
+          "hi": "पेरिस (फ्रांस)",
+          "en": "Paris (France)"
+        },
+        {
+          "hi": "एथेंस (ग्रीस)",
+          "en": "Athens (Greece)"
+        },
+        {
+          "hi": "लंदन (ब्रिटेन)",
+          "en": "London (UK)"
+        },
+        {
+          "hi": "सेंट लुइस (USA)",
+          "en": "St. Louis (USA)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक खेलों में महिलाओं की भागीदारी सर्वप्रथम किस ओलम्पिक में हुई थी?",
+        "en": "In which Olympic Games did women participate for the first time?"
+      },
+      "o": [
+        {
+          "hi": "1896 एथेंस ओलम्पिक",
+          "en": "1896 Athens Olympics"
+        },
+        {
+          "hi": "1904 सेंट लुइस ओलम्पिक",
+          "en": "1904 St. Louis Olympics"
+        },
+        {
+          "hi": "1900 पेरिस ओलम्पिक",
+          "en": "1900 Paris Olympics"
+        },
+        {
+          "hi": "1908 लंदन ओलम्पिक",
+          "en": "1908 London Olympics"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक ध्वज (Olympic Flag) पर बने 5 छल्ले (Rings) क्या प्रदर्शित करते हैं?",
+        "en": "What do the 5 interlocking rings on the Olympic Flag represent?"
+      },
+      "o": [
+        {
+          "hi": "विश्व के 5 महासागर",
+          "en": "5 Oceans of the World"
+        },
+        {
+          "hi": "5 मूल ओलम्पिक खेल",
+          "en": "5 Original Olympic Sports"
+        },
+        {
+          "hi": "5 संस्थापक देश",
+          "en": "5 Founding Nations"
+        },
+        {
+          "hi": "विश्व के 5 महाद्वीप",
+          "en": "5 Continents of the World"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक ध्वज में 'पीला छल्ला' (Yellow Ring) किस महाद्वीप का प्रतीक है?",
+        "en": "In the Olympic Flag, which continent does the 'Yellow Ring' represent?"
+      },
+      "o": [
+        {
+          "hi": "एशिया (Asia)",
+          "en": "Asia"
+        },
+        {
+          "hi": "यूरोप (Europe)",
+          "en": "Europe"
+        },
+        {
+          "hi": "अफ्रीका (Africa)",
+          "en": "Africa"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक ध्वज में 'हरा छल्ला' (Green Ring) किस महाद्वीप का प्रतिनिधित्व करता है?",
+        "en": "In the Olympic Flag, which continent is represented by the 'Green Ring'?"
+      },
+      "o": [
+        {
+          "hi": "अमेरिका (Americas)",
+          "en": "Americas"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया / ओशिनिया",
+          "en": "Australia / Oceania"
+        },
+        {
+          "hi": "एशिया (Asia)",
+          "en": "Asia"
+        },
+        {
+          "hi": "यूरोप (Europe)",
+          "en": "Europe"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक ध्वज में 'काला छल्ला' (Black Ring) किस महाद्वीप का प्रतीक है?",
+        "en": "In the Olympic Flag, which continent is symbolized by the 'Black Ring'?"
+      },
+      "o": [
+        {
+          "hi": "यूरोप (Europe)",
+          "en": "Europe"
+        },
+        {
+          "hi": "एशिया (Asia)",
+          "en": "Asia"
+        },
+        {
+          "hi": "अफ्रीका (Africa)",
+          "en": "Africa"
+        },
+        {
+          "hi": "अमेरिका (Americas)",
+          "en": "Americas"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक ध्वज को सर्वप्रथम किस ओलम्पिक खेल में औपचारिक रूप से फहराया गया था?",
+        "en": "In which Olympic Games was the Olympic Flag officially hoisted for the first time?"
+      },
+      "o": [
+        {
+          "hi": "1912 स्टॉकहोम ओलम्पिक",
+          "en": "1912 Stockholm Olympics"
+        },
+        {
+          "hi": "1924 पेरिस ओलम्पिक",
+          "en": "1924 Paris Olympics"
+        },
+        {
+          "hi": "1928 एम्सटर्डम ओलम्पिक",
+          "en": "1928 Amsterdam Olympics"
+        },
+        {
+          "hi": "1920 एंटवर्प ओलम्पिक (बेल्जियम)",
+          "en": "1920 Antwerp Olympics (Belgium)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक का मूल लैटिन आदर्श वाक्य (Motto) 'Citius, Altius, Fortius' का क्या अर्थ है?",
+        "en": "What is the meaning of the original Olympic Latin motto 'Citius, Altius, Fortius'?"
+      },
+      "o": [
+        {
+          "hi": "तेज, ऊंचा, बलवान (Faster, Higher, Stronger)",
+          "en": "Faster, Higher, Stronger"
+        },
+        {
+          "hi": "शांति, एकता, मित्रता (Peace, Unity, Friendship)",
+          "en": "Peace, Unity, Friendship"
+        },
+        {
+          "hi": "सत्य, निष्ठा, समर्पण (Truth, Loyalty, Devotion)",
+          "en": "Truth, Loyalty, Devotion"
+        },
+        {
+          "hi": "खेल, स्वास्थ्य, विजय (Sport, Health, Victory)",
+          "en": "Sport, Health, Victory"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "टोक्यो 2020 ओलम्पिक में ओलम्पिक मोटो में कौन-सा चौथा शब्द 'Communiter' जोड़ा गया?",
+        "en": "Which fourth word 'Communiter' was added to the Olympic motto in Tokyo 2020?"
+      },
+      "o": [
+        {
+          "hi": "हमेशा (Forever)",
+          "en": "Forever"
+        },
+        {
+          "hi": "एक साथ (Together)",
+          "en": "Together"
+        },
+        {
+          "hi": "शांति (Peace)",
+          "en": "Peace"
+        },
+        {
+          "hi": "साहस (Courage)",
+          "en": "Courage"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक मशाल (Olympic Flame) प्रज्वलित करने की आधुनिक शुरुआत किस ओलम्पिक से हुई?",
+        "en": "From which Olympic Games did the modern tradition of lighting the Olympic Flame begin?"
+      },
+      "o": [
+        {
+          "hi": "1936 बर्लिन ओलम्पिक",
+          "en": "1936 Berlin Olympics"
+        },
+        {
+          "hi": "1924 पेरिस ओलम्पिक",
+          "en": "1924 Paris Olympics"
+        },
+        {
+          "hi": "1928 एम्सटर्डम ओलम्पिक",
+          "en": "1928 Amsterdam Olympics"
+        },
+        {
+          "hi": "1920 एंटवर्प ओलम्पिक",
+          "en": "1920 Antwerp Olympics"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक मशाल रिले (Torch Relay) की प्रथा पहली बार किस ओलम्पिक में शुरू की गई थी?",
+        "en": "In which Olympic Games was the Olympic Torch Relay first introduced?"
+      },
+      "o": [
+        {
+          "hi": "1928 एम्सटर्डम ओलम्पिक",
+          "en": "1928 Amsterdam Olympics"
+        },
+        {
+          "hi": "1948 लंदन ओलम्पिक",
+          "en": "1948 London Olympics"
+        },
+        {
+          "hi": "1932 लॉस एंजिल्स ओलम्पिक",
+          "en": "1932 Los Angeles Olympics"
+        },
+        {
+          "hi": "1936 बर्लिन ओलम्पिक (जर्मनी)",
+          "en": "1936 Berlin Olympics (Germany)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक खेलों के उद्घाटन समारोह में मार्च पास्ट में सबसे आगे कौन-सा देश रहता है?",
+        "en": "In the opening ceremony march past of Olympic Games, which country always marches first?"
+      },
+      "o": [
+        {
+          "hi": "ग्रीस / यूनान (Greece)",
+          "en": "Greece"
+        },
+        {
+          "hi": "मेजबान देश (Host Country)",
+          "en": "Host Country"
+        },
+        {
+          "hi": "फ्रांस (France)",
+          "en": "France"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका (USA)",
+          "en": "USA"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक उद्घाटन मार्च पास्ट में सबसे अंत में कौन-सा दल प्रवेश करता है?",
+        "en": "Which contingent enters last in the Olympic opening ceremony march past?"
+      },
+      "o": [
+        {
+          "hi": "ग्रीस (Greece)",
+          "en": "Greece"
+        },
+        {
+          "hi": "मेजबान देश (Host Nation)",
+          "en": "Host Nation"
+        },
+        {
+          "hi": "अंतिम पदक विजेता देश",
+          "en": "Last medal winning country"
+        },
+        {
+          "hi": "संयुक्त राज्य अमेरिका",
+          "en": "United States of America"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक खेलों का पहला आधिकारिक शुभंकर (Official Mascot) 'वाल्डी' (Waldi) किस वर्ष पेश हुआ?",
+        "en": "In which Olympic Games was the first official mascot 'Waldi' introduced?"
+      },
+      "o": [
+        {
+          "hi": "1968 मैक्सिको सिटी ओलम्पिक",
+          "en": "1968 Mexico City Olympics"
+        },
+        {
+          "hi": "1976 मॉन्ट्रियल ओलम्पिक",
+          "en": "1976 Montreal Olympics"
+        },
+        {
+          "hi": "1972 म्यूनिख ओलम्पिक",
+          "en": "1972 Munich Olympics"
+        },
+        {
+          "hi": "1980 मॉस्को ओलम्पिक",
+          "en": "1980 Moscow Olympics"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय ओलम्पिक संघ (IOA) की स्थापना किस वर्ष की गई थी?",
+        "en": "In which year was the Indian Olympic Association (IOA) established?"
+      },
+      "o": [
+        {
+          "hi": "1920 में",
+          "en": "In 1920"
+        },
+        {
+          "hi": "1924 में",
+          "en": "In 1924"
+        },
+        {
+          "hi": "1932 में",
+          "en": "In 1932"
+        },
+        {
+          "hi": "1927 में (प्रथम अध्यक्ष: सर दोराबजी टाटा)",
+          "en": "In 1927 (First President: Sir Dorabji Tata)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत ने आधिकारिक रूप से अपने दल को पहली बार किस ओलम्पिक में भेजा था?",
+        "en": "In which Olympic Games did India officially send its first contingent?"
+      },
+      "o": [
+        {
+          "hi": "1920 एंटवर्प ओलम्पिक",
+          "en": "1920 Antwerp Olympics"
+        },
+        {
+          "hi": "1900 पेरिस ओलम्पिक",
+          "en": "1900 Paris Olympics"
+        },
+        {
+          "hi": "1924 पेरिस ओलम्पिक",
+          "en": "1924 Paris Olympics"
+        },
+        {
+          "hi": "1928 एम्सटर्डम ओलम्पिक",
+          "en": "1928 Amsterdam Olympics"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1900 के पेरिस ओलम्पिक में भारत की ओर से भाग लेकर 2 रजत पदक जीतने वाले एथलीट कौन थे?",
+        "en": "Who won two silver medals representing India at the 1900 Paris Olympics?"
+      },
+      "o": [
+        {
+          "hi": "के.डी. जाधव",
+          "en": "K.D. Jadhav"
+        },
+        {
+          "hi": "नॉर्मन प्रिचार्ड (Norman Pritchard)",
+          "en": "Norman Pritchard"
+        },
+        {
+          "hi": "मिल्खा सिंह",
+          "en": "Milkha Singh"
+        },
+        {
+          "hi": "ध्यानचंद",
+          "en": "Dhyan Chand"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारतीय पुरुष हॉकी टीम ने अपना पहला ओलम्पिक स्वर्ण पदक किस वर्ष जीता था?",
+        "en": "In which year did the Indian men's hockey team win its first Olympic gold medal?"
+      },
+      "o": [
+        {
+          "hi": "1932 लॉस एंजिल्स ओलम्पिक",
+          "en": "1932 Los Angeles Olympics"
+        },
+        {
+          "hi": "1936 बर्लिन ओलम्पिक",
+          "en": "1936 Berlin Olympics"
+        },
+        {
+          "hi": "1928 एम्सटर्डम ओलम्पिक",
+          "en": "1928 Amsterdam Olympics"
+        },
+        {
+          "hi": "1948 लंदन ओलम्पिक",
+          "en": "1948 London Olympics"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भारतीय पुरुष हॉकी टीम ने ओलम्पिक इतिहास में कुल कितने स्वर्ण पदक जीते हैं?",
+        "en": "How many total Gold medals has the Indian men's hockey team won in Olympic history?"
+      },
+      "o": [
+        {
+          "hi": "6 स्वर्ण पदक",
+          "en": "6 Gold Medals"
+        },
+        {
+          "hi": "10 स्वर्ण पदक",
+          "en": "10 Gold Medals"
+        },
+        {
+          "hi": "12 स्वर्ण पदक",
+          "en": "12 Gold Medals"
+        },
+        {
+          "hi": "8 स्वर्ण पदक (8 Gold Medals)",
+          "en": "8 Gold Medals"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय हॉकी टीम ने लगातार 6 ओलम्पिक स्वर्ण पदक किस समयावधि में जीते थे?",
+        "en": "During which period did the Indian hockey team win 6 consecutive Olympic gold medals?"
+      },
+      "o": [
+        {
+          "hi": "1928 से 1956 तक",
+          "en": "1928 to 1956"
+        },
+        {
+          "hi": "1932 से 1960 तक",
+          "en": "1932 to 1960"
+        },
+        {
+          "hi": "1920 से 1948 तक",
+          "en": "1920 to 1948"
+        },
+        {
+          "hi": "1936 से 1964 तक",
+          "en": "1936 to 1964"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भारतीय हॉकी टीम ने अपना अंतिम (8वां) ओलम्पिक स्वर्ण पदक किस वर्ष जीता था?",
+        "en": "In which year did the Indian hockey team win its last (8th) Olympic gold medal?"
+      },
+      "o": [
+        {
+          "hi": "1964 टोक्यो ओलम्पिक",
+          "en": "1964 Tokyo Olympics"
+        },
+        {
+          "hi": "1980 मॉस्को ओलम्पिक",
+          "en": "1980 Moscow Olympics"
+        },
+        {
+          "hi": "1972 म्यूनिख ओलम्पिक",
+          "en": "1972 Munich Olympics"
+        },
+        {
+          "hi": "2020 टोक्यो ओलम्पिक",
+          "en": "2020 Tokyo Olympics"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्वतंत्र भारत के लिए पहला व्यक्तिगत ओलम्पिक पदक (कांस्य) 1952 हेलसिंकी में किसने जीता?",
+        "en": "Who won independent India's first individual Olympic medal (Bronze) in 1952 Helsinki?"
+      },
+      "o": [
+        {
+          "hi": "मिल्खा सिंह (एथलेटिक्स)",
+          "en": "Milkha Singh (Athletics)"
+        },
+        {
+          "hi": "दलीप सिंह (लंबी कूद)",
+          "en": "Dalip Singh (Long Jump)"
+        },
+        {
+          "hi": "के.डी. जाधव (कुश्ती)",
+          "en": "K.D. Jadhav (Wrestling)"
+        },
+        {
+          "hi": "लेस्ली क्लॉडियस (हॉकी)",
+          "en": "Leslie Claudius (Hockey)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक में पदक जीतने वाली पहली भारतीय महिला कौन हैं?",
+        "en": "Who was the first Indian woman to win an Olympic medal?"
+      },
+      "o": [
+        {
+          "hi": "पी.टी. उषा (एथलेटिक्स)",
+          "en": "P.T. Usha (Athletics)"
+        },
+        {
+          "hi": "मैरी कॉम (मुक्केबाजी)",
+          "en": "Mary Kom (Boxing)"
+        },
+        {
+          "hi": "साइना नेहवाल (बैडमिंटन)",
+          "en": "Saina Nehwal (Badminton)"
+        },
+        {
+          "hi": "कर्णम मल्लेश्वरी (कांस्य, भारोत्तोलन 2000 सिडनी)",
+          "en": "Karnam Malleswari (Bronze, Weightlifting 2000 Sydney)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "व्यक्तिगत स्पर्धा में भारत के लिए पहला ओलम्पिक स्वर्ण पदक किसने जीता?",
+        "en": "Who won India's first individual Olympic Gold medal?"
+      },
+      "o": [
+        {
+          "hi": "अभिनव बिंद्रा (10मी एयर राइफल, 2008 बीजिंग)",
+          "en": "Abhinav Bindra (10m Air Rifle, 2008 Beijing)"
+        },
+        {
+          "hi": "राज्यवर्धन सिंह राठौड़ (2004)",
+          "en": "Rajyavardhan Singh Rathore (2004)"
+        },
+        {
+          "hi": "नीरज चोपड़ा (2020)",
+          "en": "Neeraj Chopra (2020)"
+        },
+        {
+          "hi": "सुशील कुमार (2012)",
+          "en": "Sushil Kumar (2012)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एथलेटिक्स (ट्रैक एंड फील्ड) में भारत के लिए पहला ओलम्पिक स्वर्ण पदक किसने जीता?",
+        "en": "Who won India's first Olympic Gold medal in Athletics (Track and Field)?"
+      },
+      "o": [
+        {
+          "hi": "मिल्खा सिंह",
+          "en": "Milkha Singh"
+        },
+        {
+          "hi": "नीरज चोपड़ा (भाला फेंक, टोक्यो 2020)",
+          "en": "Neeraj Chopra (Javelin Throw, Tokyo 2020)"
+        },
+        {
+          "hi": "अभिनव बिंद्रा",
+          "en": "Abhinav Bindra"
+        },
+        {
+          "hi": "बजरंग पुनिया",
+          "en": "Bajrang Punia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "टोक्यो 2020 ओलम्पिक में नीरज चोपड़ा ने कितने मीटर भाला फेंककर स्वर्ण पदक जीता था?",
+        "en": "How many meters did Neeraj Chopra throw the javelin to win Gold at Tokyo 2020?"
+      },
+      "o": [
+        {
+          "hi": "88.07 मीटर",
+          "en": "88.07 meters"
+        },
+        {
+          "hi": "86.65 मीटर",
+          "en": "86.65 meters"
+        },
+        {
+          "hi": "87.58 मीटर",
+          "en": "87.58 meters"
+        },
+        {
+          "hi": "89.94 मीटर",
+          "en": "89.94 meters"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लगातार दो ओलम्पिक खेलों में व्यक्तिगत पदक जीतने वाली पहली भारतीय महिला खिलाड़ी कौन हैं?",
+        "en": "Who is the first Indian female athlete to win individual medals in two consecutive Olympics?"
+      },
+      "o": [
+        {
+          "hi": "साइना नेहवाल",
+          "en": "Saina Nehwal"
+        },
+        {
+          "hi": "मैरी कॉम",
+          "en": "Mary Kom"
+        },
+        {
+          "hi": "मीराबाई चानू",
+          "en": "Mirabai Chanu"
+        },
+        {
+          "hi": "पी.वी. सिंधु (बैडमिंटन - 2016 रजत, 2020 कांस्य)",
+          "en": "P.V. Sindhu (Badminton - 2016 Silver, 2020 Bronze)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्वतंत्र भारत में दो ओलम्पिक पदक जीतने वाले पहले व्यक्तिगत पुरुष खिलाड़ी कौन बने?",
+        "en": "Who became the first individual male athlete of independent India to win two Olympic medals?"
+      },
+      "o": [
+        {
+          "hi": "सुशील कुमार (कुश्ती - 2008 कांस्य, 2012 रजत)",
+          "en": "Sushil Kumar (Wrestling - 2008 Bronze, 2012 Silver)"
+        },
+        {
+          "hi": "योगेश्वर दत्त",
+          "en": "Yogeshwar Dutt"
+        },
+        {
+          "hi": "के.डी. जाधव",
+          "en": "K.D. Jadhav"
+        },
+        {
+          "hi": "नीरज चोपड़ा",
+          "en": "Neeraj Chopra"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक के इतिहास में एक ही ओलम्पिक में सर्वाधिक (8) स्वर्ण पदक जीतने का रिकॉर्ड किसके नाम है?",
+        "en": "Who holds the record for winning the most gold medals (8) in a single Olympic Games (Beijing 2008)?"
+      },
+      "o": [
+        {
+          "hi": "मार्क स्पिट्ज (Mark Spitz)",
+          "en": "Mark Spitz"
+        },
+        {
+          "hi": "माइकल फेल्प्स (Michael Phelps - तैराकी)",
+          "en": "Michael Phelps (Swimming)"
+        },
+        {
+          "hi": "उसैन बोल्ट (Usain Bolt)",
+          "en": "Usain Bolt"
+        },
+        {
+          "hi": "कार्ल लुईस (Carl Lewis)",
+          "en": "Carl Lewis"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक इतिहास में सर्वाधिक कुल पदक (28 पदक, 23 स्वर्ण) जीतने वाले एथलीट कौन हैं?",
+        "en": "Who is the most decorated Olympian of all time with 28 total medals (23 gold)?"
+      },
+      "o": [
+        {
+          "hi": "लारिसा लातीनिना (Larisa Latynina)",
+          "en": "Larisa Latynina"
+        },
+        {
+          "hi": "पावो नूरमी (Paavo Nurmi)",
+          "en": "Paavo Nurmi"
+        },
+        {
+          "hi": "माइकल फेल्प्स (USA)",
+          "en": "Michael Phelps (USA)"
+        },
+        {
+          "hi": "उसैन बोल्ट (Usain Bolt)",
+          "en": "Usain Bolt"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व युद्धों के कारण किन वर्षों में ओलम्पिक खेल आयोजित नहीं किए जा सके थे?",
+        "en": "In which years were the Olympic Games cancelled due to the World Wars?"
+      },
+      "o": [
+        {
+          "hi": "1912, 1936 और 1948",
+          "en": "1912, 1936 and 1948"
+        },
+        {
+          "hi": "1914, 1939 और 1945",
+          "en": "1914, 1939 and 1945"
+        },
+        {
+          "hi": "1920, 1940 और 1952",
+          "en": "1920, 1940 and 1952"
+        },
+        {
+          "hi": "1916, 1940 और 1944",
+          "en": "1916, 1940 and 1944"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रथम शीतकालीन ओलम्पिक खेल (Winter Olympics) 1924 में कहाँ आयोजित किए गए थे?",
+        "en": "Where were the first Winter Olympic Games held in 1924?"
+      },
+      "o": [
+        {
+          "hi": "शैमोनिक्स (फ्रांस)",
+          "en": "Chamonix (France)"
+        },
+        {
+          "hi": "ओस्लो (नॉर्वे)",
+          "en": "Oslo (Norway)"
+        },
+        {
+          "hi": "सेंट मोरिट्ज (स्विट्जरलैंड)",
+          "en": "St. Moritz (Switzerland)"
+        },
+        {
+          "hi": "लेक प्लासिड (USA)",
+          "en": "Lake Placid (USA)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तीन बार ग्रीष्मकालीन ओलम्पिक (1908, 1948, 2012) की मेजबानी करने वाला पहला शहर कौन-सा है?",
+        "en": "Which is the first city to host the Summer Olympic Games three times (1908, 1948, 2012)?"
+      },
+      "o": [
+        {
+          "hi": "पेरिस (Paris)",
+          "en": "Paris"
+        },
+        {
+          "hi": "लंदन (London)",
+          "en": "London"
+        },
+        {
+          "hi": "एथेंस (Athens)",
+          "en": "Athens"
+        },
+        {
+          "hi": "लॉस एंजिल्स (Los Angeles)",
+          "en": "Los Angeles"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "33वें ग्रीष्मकालीन ओलम्पिक खेल (2024) का आयोजन कहाँ किया गया?",
+        "en": "Where were the 33rd Summer Olympic Games held in 2024?"
+      },
+      "o": [
+        {
+          "hi": "लॉस एंजिल्स (USA)",
+          "en": "Los Angeles (USA)"
+        },
+        {
+          "hi": "ब्रिस्बेन (ऑस्ट्रेलिया)",
+          "en": "Brisbane (Australia)"
+        },
+        {
+          "hi": "पेरिस (फ्रांस)",
+          "en": "Paris (France)"
+        },
+        {
+          "hi": "टोक्यो (जापान)",
+          "en": "Tokyo (Japan)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "34वें ग्रीष्मकालीन ओलम्पिक खेल (2028) का आयोजन किस शहर में प्रस्तावित है?",
+        "en": "In which city are the 34th Summer Olympic Games scheduled to be held in 2028?"
+      },
+      "o": [
+        {
+          "hi": "ब्रिस्बेन (ऑस्ट्रेलिया)",
+          "en": "Brisbane (Australia)"
+        },
+        {
+          "hi": "मैड्रिड (स्पेन)",
+          "en": "Madrid (Spain)"
+        },
+        {
+          "hi": "दोहा (कतर)",
+          "en": "Doha (Qatar)"
+        },
+        {
+          "hi": "लॉस एंजिल्स (USA)",
+          "en": "Los Angeles (USA)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "35वें ग्रीष्मकालीन ओलम्पिक खेल (2032) का आयोजन कहाँ होगा?",
+        "en": "Where will the 35th Summer Olympic Games be held in 2032?"
+      },
+      "o": [
+        {
+          "hi": "ब्रिस्बेन (ऑस्ट्रेलिया)",
+          "en": "Brisbane (Australia)"
+        },
+        {
+          "hi": "सिडनी (ऑस्ट्रेलिया)",
+          "en": "Sydney (Australia)"
+        },
+        {
+          "hi": "मेलबर्न (ऑस्ट्रेलिया)",
+          "en": "Melbourne (Australia)"
+        },
+        {
+          "hi": "लंदन (ब्रिटेन)",
+          "en": "London (UK)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "टोक्यो 2020 ओलम्पिक में भारत ने कुल कितने पदक (1 स्वर्ण, 2 रजत, 4 कांस्य) जीते थे?",
+        "en": "How many total medals (1 Gold, 2 Silver, 4 Bronze) did India win at Tokyo 2020?"
+      },
+      "o": [
+        {
+          "hi": "6 पदक",
+          "en": "6 Medals"
+        },
+        {
+          "hi": "7 पदक (भारत का सर्वश्रेष्ठ प्रदर्शन)",
+          "en": "7 Medals (India's Best Performance)"
+        },
+        {
+          "hi": "8 पदक",
+          "en": "8 Medals"
+        },
+        {
+          "hi": "5 पदक",
+          "en": "5 Medals"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "टोक्यो 2020 ओलम्पिक में भारतीय पुरुष हॉकी टीम ने किस देश को हराकर 41 वर्ष बाद कांस्य पदक जीता?",
+        "en": "Which country did Indian men's hockey team defeat to win Bronze after 41 years at Tokyo 2020?"
+      },
+      "o": [
+        {
+          "hi": "बेल्जियम (Belgium)",
+          "en": "Belgium"
+        },
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        },
+        {
+          "hi": "जर्मनी (Germany)",
+          "en": "Germany"
+        },
+        {
+          "hi": "नीदरलैंड (Netherlands)",
+          "en": "Netherlands"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक पदक जीतने वाली भारत की पहली महिला पहलवान कौन हैं?",
+        "en": "Who is the first Indian female wrestler to win an Olympic medal?"
+      },
+      "o": [
+        {
+          "hi": "गीता फोगाट",
+          "en": "Geeta Phogat"
+        },
+        {
+          "hi": "बबिता फोगाट",
+          "en": "Babita Phogat"
+        },
+        {
+          "hi": "विनेश फोगाट",
+          "en": "Vinesh Phogat"
+        },
+        {
+          "hi": "साक्षी मलिक (कांस्य, रियो 2016)",
+          "en": "Sakshi Malik (Bronze, Rio 2016)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक पदक जीतने वाली भारत की पहली महिला मुक्केबाज कौन हैं?",
+        "en": "Who is the first Indian female boxer to win an Olympic medal?"
+      },
+      "o": [
+        {
+          "hi": "एम.सी. मैरी कॉम (कांस्य, 2012 लंदन)",
+          "en": "M.C. Mary Kom (Bronze, 2012 London)"
+        },
+        {
+          "hi": "लवलीना बोरगोहेन",
+          "en": "Lovlina Borgohain"
+        },
+        {
+          "hi": "निखत जरीन",
+          "en": "Nikhat Zareen"
+        },
+        {
+          "hi": "सरिता देवी",
+          "en": "Sarita Devi"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक पदक जीतने वाली भारत की पहली बैडमिंटन खिलाड़ी कौन हैं?",
+        "en": "Who was the first Indian badminton player to win an Olympic medal?"
+      },
+      "o": [
+        {
+          "hi": "पी.वी. सिंधु",
+          "en": "P.V. Sindhu"
+        },
+        {
+          "hi": "साइना नेहवाल (कांस्य, 2012 लंदन)",
+          "en": "Saina Nehwal (Bronze, 2012 London)"
+        },
+        {
+          "hi": "ज्वाला गुट्टा",
+          "en": "Jwala Gutta"
+        },
+        {
+          "hi": "अश्विनी पोनप्पा",
+          "en": "Ashwini Ponnappa"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक खेलों के समापन समारोह में अगला मेजबान शहर किसको प्रतीकात्मक ध्वज सौंपता है?",
+        "en": "In the closing ceremony of Olympic Games, to whom is the symbolic Olympic flag handed over?"
+      },
+      "o": [
+        {
+          "hi": "अंतरराष्ट्रीय न्यायालय के अध्यक्ष को",
+          "en": "To President of International Court of Justice"
+        },
+        {
+          "hi": "यूएन महासचिव को",
+          "en": "To UN Secretary General"
+        },
+        {
+          "hi": "अगले मेजबान शहर के मेयर को",
+          "en": "To the Mayor of the next host city"
+        },
+        {
+          "hi": "सर्वोच्च पदक विजेता देश के प्रधानमंत्री को",
+          "en": "To Prime Minister of top medal country"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अंतरराष्ट्रीय ओलम्पिक समिति (IOC) की पहली भारतीय महिला सदस्य 2016 में कौन बनीं?",
+        "en": "Who became the first Indian woman member of the International Olympic Committee in 2016?"
+      },
+      "o": [
+        {
+          "hi": "पी.टी. उषा",
+          "en": "P.T. Usha"
+        },
+        {
+          "hi": "अंजू बॉबी जॉर्ज",
+          "en": "Anju Bobby George"
+        },
+        {
+          "hi": "सायना नेहवाल",
+          "en": "Saina Nehwal"
+        },
+        {
+          "hi": "नीता अंबानी (Nita Ambani)",
+          "en": "Nita Ambani"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक खेलों में भाग लेने वाली पहली भारतीय महिला खिलाड़ी (1952 हेलसिंकी) कौन थीं?",
+        "en": "Who was the first Indian female athlete to participate in the Olympic Games (1952 Helsinki)?"
+      },
+      "o": [
+        {
+          "hi": "मेरी डिसूजा और नीलिमा घोष",
+          "en": "Mary D'Souza and Nilima Ghose"
+        },
+        {
+          "hi": "पी.टी. उषा",
+          "en": "P.T. Usha"
+        },
+        {
+          "hi": "शाइनी अब्राहम",
+          "en": "Shiny Abraham"
+        },
+        {
+          "hi": "कमलजीत संधू",
+          "en": "Kamaljeet Sandhu"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ओलम्पिक खेलों का टीवी पर पहला लाइव ब्लैक एंड व्हाइट प्रसारण किस वर्ष हुआ था?",
+        "en": "In which year was the first live black-and-white television broadcast of Olympic Games made?"
+      },
+      "o": [
+        {
+          "hi": "1948 लंदन ओलम्पिक",
+          "en": "1948 London Olympics"
+        },
+        {
+          "hi": "1936 बर्लिन ओलम्पिक",
+          "en": "1936 Berlin Olympics"
+        },
+        {
+          "hi": "1960 रोम ओलम्पिक",
+          "en": "1960 Rome Olympics"
+        },
+        {
+          "hi": "1928 एम्सटर्डम ओलम्पिक",
+          "en": "1928 Amsterdam Olympics"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

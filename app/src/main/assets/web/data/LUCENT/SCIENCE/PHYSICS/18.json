@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "परमाणु भौतिकी",
+  "description": "परमाणु भौतिकी पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "परमाणु के नाभिक (Atomic Nucleus) की खोज 1911 में किस वैज्ञानिक ने की थी?",
+        "en": "Who discovered atomic nucleus in 1911 via alpha scattering experiment?"
+      },
+      "o": [
+        {
+          "hi": "अर्नेस्ट रदरफोर्ड ने",
+          "en": "Ernest Rutherford"
+        },
+        {
+          "hi": "जे. जे. थॉमसन ने",
+          "en": "J.J. Thomson"
+        },
+        {
+          "hi": "नील्स बोर ने",
+          "en": "Niels Bohr"
+        },
+        {
+          "hi": "जॉन डाल्टन ने",
+          "en": "John Dalton"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इलेक्ट्रॉन (Electron) की खोज 1897 में किसने की थी?",
+        "en": "Who discovered the electron in 1897?"
+      },
+      "o": [
+        {
+          "hi": "गोल्डस्टीन ने",
+          "en": "Goldstein"
+        },
+        {
+          "hi": "जे. जे. थॉमसन ने",
+          "en": "J.J. Thomson"
+        },
+        {
+          "hi": "जेम्स चैडविक ने",
+          "en": "James Chadwick"
+        },
+        {
+          "hi": "रदरफोर्ड ने",
+          "en": "Rutherford"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रोटॉन (Proton) का नामकरण एवं प्रकृति निर्धारण किसने किया था?",
+        "en": "Who established proton and named it?"
+      },
+      "o": [
+        {
+          "hi": "जे. जे. थॉमसन",
+          "en": "J.J. Thomson"
+        },
+        {
+          "hi": "चैडविक",
+          "en": "Chadwick"
+        },
+        {
+          "hi": "अर्नेस्ट रदरफोर्ड (एवं गोल्डस्टीन ने खोज)",
+          "en": "Ernest Rutherford (Goldstein discovered)"
+        },
+        {
+          "hi": "बोर",
+          "en": "Bohr"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "न्यूट्रॉन (Neutron) की खोज 1932 में किस वैज्ञानिक ने की थी?",
+        "en": "Who discovered the neutron in 1932?"
+      },
+      "o": [
+        {
+          "hi": "रदरफोर्ड ने",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "थॉमसन ने",
+          "en": "Thomson"
+        },
+        {
+          "hi": "डाल्टन ने",
+          "en": "Dalton"
+        },
+        {
+          "hi": "जेम्स चैडविक ने (James Chadwick)",
+          "en": "James Chadwick"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "परमाणु के नाभिक में कौन-से मूल कण उपस्थित होते हैं?",
+        "en": "Which fundamental particles reside inside atomic nucleus (nucleons)?"
+      },
+      "o": [
+        {
+          "hi": "प्रोटॉन और न्यूट्रॉन (Nucleons)",
+          "en": "Protons and Neutrons (Nucleons)"
+        },
+        {
+          "hi": "इलेक्ट्रॉन और प्रोटॉन",
+          "en": "Electrons and Protons"
+        },
+        {
+          "hi": "इलेक्ट्रॉन और न्यूट्रॉन",
+          "en": "Electrons and Neutrons"
+        },
+        {
+          "hi": "केवल प्रोटॉन",
+          "en": "Only Protons"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "परमाणु के नाभिक का आकार (त्रिज्या) लगभग कितना होता है?",
+        "en": "What is approximately the size (radius) of an atomic nucleus?"
+      },
+      "o": [
+        {
+          "hi": "10^-10 मीटर (1 Å)",
+          "en": "10^-10 m (1 Å)"
+        },
+        {
+          "hi": "10^-15 मीटर (1 फर्मी)",
+          "en": "10^-15 m (1 Fermi)"
+        },
+        {
+          "hi": "10^-6 मीटर",
+          "en": "10^-6 m"
+        },
+        {
+          "hi": "10^-18 मीटर",
+          "en": "10^-18 m"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संपूर्ण परमाणु का आकार (त्रिज्या) लगभग कितना होता है?",
+        "en": "What is approximately the size (radius) of an entire atom?"
+      },
+      "o": [
+        {
+          "hi": "10^-15 मीटर",
+          "en": "10^-15 m"
+        },
+        {
+          "hi": "10^-6 मीटर",
+          "en": "10^-6 m"
+        },
+        {
+          "hi": "10^-10 मीटर (1 एंग्स्ट्रॉम)",
+          "en": "10^-10 m (1 Angstrom)"
+        },
+        {
+          "hi": "10^-20 मीटर",
+          "en": "10^-20 m"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "इलेक्ट्रॉन का द्रव्यमान (Rest Mass) कितना होता है?",
+        "en": "What is the rest mass of an electron?"
+      },
+      "o": [
+        {
+          "hi": "1.67 × 10^-27 kg",
+          "en": "1.67 × 10^-27 kg"
+        },
+        {
+          "hi": "1.66 × 10^-24 kg",
+          "en": "1.66 × 10^-24 kg"
+        },
+        {
+          "hi": "9.1 × 10^-28 kg",
+          "en": "9.1 × 10^-28 kg"
+        },
+        {
+          "hi": "9.109 × 10^-31 किग्रा",
+          "en": "9.109 × 10^-31 kg"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रोटॉन का द्रव्यमान इलेक्ट्रॉन के द्रव्यमान का लगभग कितने गुना होता है?",
+        "en": "Mass of a proton is approximately how many times mass of electron?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 1836 से 1840 गुना",
+          "en": "About 1836 to 1840 times"
+        },
+        {
+          "hi": "100 गुना",
+          "en": "100 times"
+        },
+        {
+          "hi": "500 गुना",
+          "en": "500 times"
+        },
+        {
+          "hi": "1000 गुना",
+          "en": "1000 times"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "न्यूट्रॉन पर कितना विद्युत आवेश होता है?",
+        "en": "What is electric charge on a neutron?"
+      },
+      "o": [
+        {
+          "hi": "+1.6 × 10^-19 कूलॉम",
+          "en": "+1.6 × 10^-19 C"
+        },
+        {
+          "hi": "शून्य (यह एक विद्युत उदासीन कण है)",
+          "en": "Zero (electrically neutral particle)"
+        },
+        {
+          "hi": "-1.6 × 10^-19 कूलॉम",
+          "en": "-1.6 × 10^-19 C"
+        },
+        {
+          "hi": "2 यूनिट धनावेश",
+          "en": "2 units positive"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "परमाणु क्रमांक या परमाणु संख्या (Atomic Number - Z) किसके बराबर होती है?",
+        "en": "Atomic number (Z) of an atom is equal to what?"
+      },
+      "o": [
+        {
+          "hi": "नाभिक में न्यूट्रॉनों की संख्या",
+          "en": "Number of neutrons"
+        },
+        {
+          "hi": "कुल द्रव्यमान संख्या",
+          "en": "Total mass number"
+        },
+        {
+          "hi": "नाभिक में प्रोटॉनों की संख्या",
+          "en": "Number of protons in nucleus"
+        },
+        {
+          "hi": "परमाणु भार के",
+          "en": "Atomic weight"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "द्रव्यमान संख्या (Mass Number - A) किसका योग होती है?",
+        "en": "Mass number (A) of an atom is the sum of what?"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रॉन और प्रोटॉन",
+          "en": "Electrons and protons"
+        },
+        {
+          "hi": "इलेक्ट्रॉन और न्यूट्रॉन",
+          "en": "Electrons and neutrons"
+        },
+        {
+          "hi": "परमाणु संख्या और इलेक्ट्रॉन",
+          "en": "Atomic number & electrons"
+        },
+        {
+          "hi": "प्रोटॉन और न्यूट्रॉनों की संख्या (A = Z + N)",
+          "en": "Protons and Neutrons (A = Z + N)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समान परमाणु क्रमांक (Z) परंतु भिन्न द्रव्यमान संख्या (A) वाले परमाणुओं को क्या कहते हैं?",
+        "en": "Atoms with same atomic number (Z) but different mass numbers (A) are?"
+      },
+      "o": [
+        {
+          "hi": "समस्थानिक (Isotopes)",
+          "en": "Isotopes"
+        },
+        {
+          "hi": "समभारिक (Isobars)",
+          "en": "Isobars"
+        },
+        {
+          "hi": "समन्यूट्रॉनिक (Isotones)",
+          "en": "Isotones"
+        },
+        {
+          "hi": "समावयवी (Isomers)",
+          "en": "Isomers"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन के कुल कितने समस्थानिक (Isotopes) होते हैं?",
+        "en": "How many isotopes does hydrogen have?"
+      },
+      "o": [
+        {
+          "hi": "2",
+          "en": "2"
+        },
+        {
+          "hi": "3 (प्रोटियम, ड्यूटीरियम, ट्राइटियम)",
+          "en": "3 (Protium, Deuterium, Tritium)"
+        },
+        {
+          "hi": "4",
+          "en": "4"
+        },
+        {
+          "hi": "1",
+          "en": "1"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन का कौन-सा एकमात्र समस्थानिक रेडियोधर्मी (Radioactive) होता है?",
+        "en": "Which isotope of hydrogen is radioactive?"
+      },
+      "o": [
+        {
+          "hi": "प्रोटियम (1H1)",
+          "en": "Protium (1H1)"
+        },
+        {
+          "hi": "ड्यूटीरियम (1H2)",
+          "en": "Deuterium (1H2)"
+        },
+        {
+          "hi": "ट्राइटियम (1H3)",
+          "en": "Tritium (1H3)"
+        },
+        {
+          "hi": "भारी हाइड्रोजन",
+          "en": "Heavy hydrogen"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समान द्रव्यमान संख्या (A) परंतु भिन्न परमाणु क्रमांक (Z) वाले परमाणुओं को क्या कहते हैं?",
+        "en": "Atoms having same mass number (A) but different atomic numbers (Z) are?"
+      },
+      "o": [
+        {
+          "hi": "समस्थानिक",
+          "en": "Isotopes"
+        },
+        {
+          "hi": "समन्यूट्रॉनिक",
+          "en": "Isotones"
+        },
+        {
+          "hi": "समइलेक्ट्रॉनिक",
+          "en": "Isoelectronic"
+        },
+        {
+          "hi": "समभारिक (Isobars)",
+          "en": "Isobars"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जिन परमाणुओं में न्यूट्रॉनों की संख्या (A - Z) समान होती है, उन्हें क्या कहा जाता है?",
+        "en": "Atoms containing same number of neutrons are called what?"
+      },
+      "o": [
+        {
+          "hi": "समन्यूट्रॉनिक (Isotones)",
+          "en": "Isotones"
+        },
+        {
+          "hi": "समस्थानिक",
+          "en": "Isotopes"
+        },
+        {
+          "hi": "समभारिक",
+          "en": "Isobars"
+        },
+        {
+          "hi": "समइलेक्ट्रॉनिक",
+          "en": "Isoelectronic"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समान संख्या में इलेक्ट्रॉन रखने वाले आयनों या परमाणुओं को क्या कहते हैं?",
+        "en": "Atoms or ions having same number of electrons are called?"
+      },
+      "o": [
+        {
+          "hi": "समभारिक",
+          "en": "Isobars"
+        },
+        {
+          "hi": "समइलेक्ट्रॉनिक (Isoelectronic)",
+          "en": "Isoelectronic"
+        },
+        {
+          "hi": "समस्थानिक",
+          "en": "Isotopes"
+        },
+        {
+          "hi": "समन्यूट्रॉनिक",
+          "en": "Isotones"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "बोर के परमाणु मॉडल के अनुसार इलेक्ट्रॉन केवल उन्हीं कक्षाओं में घूम सकते हैं जिनमें कोणीय संवेग क्या हो?",
+        "en": "According to Bohr's model, angular momentum mvr of an orbiting electron must be?"
+      },
+      "o": [
+        {
+          "hi": "nh / π",
+          "en": "nh / π"
+        },
+        {
+          "hi": "2nh / π",
+          "en": "2nh / π"
+        },
+        {
+          "hi": "nh / (2π) का पूर्ण गुणज",
+          "en": "Integral multiple of nh / (2π)"
+        },
+        {
+          "hi": "h / (4π)",
+          "en": "h / (4π)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्लांक नियतांक (Planck's Constant - h) का मान कितना होता है?",
+        "en": "What is the value of Planck's Constant (h)?"
+      },
+      "o": [
+        {
+          "hi": "3 × 10^8 m/s",
+          "en": "3 × 10^8 m/s"
+        },
+        {
+          "hi": "6.67 × 10^-11 N·m²/kg²",
+          "en": "6.67 × 10^-11 N·m²/kg²"
+        },
+        {
+          "hi": "1.6 × 10^-19 J",
+          "en": "1.6 × 10^-19 J"
+        },
+        {
+          "hi": "6.626 × 10^-34 जूल-सेकंड (J·s)",
+          "en": "6.626 × 10^-34 Joule-second (J·s)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्लांक नियतांक (h) का विमीय सूत्र किस भौतिक राशि के समान होता है?",
+        "en": "Dimensional formula of Planck's Constant is identical to which quantity?"
+      },
+      "o": [
+        {
+          "hi": "कोणीय संवेग (Angular Momentum - [M L^2 T^-1])",
+          "en": "Angular Momentum ([M L^2 T^-1])"
+        },
+        {
+          "hi": "रेखीय संवेग",
+          "en": "Linear momentum"
+        },
+        {
+          "hi": "कार्य",
+          "en": "Work"
+        },
+        {
+          "hi": "ऊर्जा",
+          "en": "Energy"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पदार्थ की तरंग-कण द्वैत प्रकृति (Dual Nature of Matter) का सिद्धांत किसने दिया था?",
+        "en": "Who proposed the dual wave-particle nature of matter in 1924?"
+      },
+      "o": [
+        {
+          "hi": "अल्बर्ट आइंस्टीन ने",
+          "en": "Albert Einstein"
+        },
+        {
+          "hi": "लुई डी ब्रोग्ली ने (Louis de Broglie)",
+          "en": "Louis de Broglie"
+        },
+        {
+          "hi": "मैक्स प्लांक ने",
+          "en": "Max Planck"
+        },
+        {
+          "hi": "नील्स बोर ने",
+          "en": "Niels Bohr"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "डी ब्रोग्ली तरंगदैर्घ्य (de Broglie Wavelength) का सही सूत्र क्या है?",
+        "en": "What is the formula for de Broglie wavelength λ?"
+      },
+      "o": [
+        {
+          "hi": "λ = h / c",
+          "en": "λ = h / c"
+        },
+        {
+          "hi": "λ = h · p",
+          "en": "λ = h · p"
+        },
+        {
+          "hi": "λ = h / p (या h / mv)",
+          "en": "λ = h / p (or h / mv)"
+        },
+        {
+          "hi": "λ = p / h",
+          "en": "λ = p / h"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हाइजेनबर्ग का अनिश्चितता सिद्धांत (Uncertainty Principle) क्या बताता है?",
+        "en": "What does Heisenberg's Uncertainty Principle state?"
+      },
+      "o": [
+        {
+          "hi": "ऊर्जा नष्ट नहीं हो सकती",
+          "en": "Energy cannot be destroyed"
+        },
+        {
+          "hi": "प्रकाश की चाल नियत है",
+          "en": "Speed of light is constant"
+        },
+        {
+          "hi": "इलेक्ट्रॉन का द्रव्यमान स्थिर है",
+          "en": "Electron mass is constant"
+        },
+        {
+          "hi": "किसी कण की स्थिति और संवेग दोनों का एक साथ यथार्थ मापन असंभव है (Δx·Δp ≥ h/4π)",
+          "en": "Simultaneous precise measurement of position & momentum impossible"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इलेक्ट्रॉन सूक्ष्मदर्शी (Electron Microscope) का आविष्कार किसने किया था?",
+        "en": "Who invented the electron microscope in 1931?"
+      },
+      "o": [
+        {
+          "hi": "अर्न्स्ट रुस्का और मैक्स नोल ने",
+          "en": "Ernst Ruska and Max Knoll"
+        },
+        {
+          "hi": "रॉबर्ट हुक ने",
+          "en": "Robert Hooke"
+        },
+        {
+          "hi": "ल्यूवेनहॉक ने",
+          "en": "Leeuwenhoek"
+        },
+        {
+          "hi": "जे. जे. थॉमसन ने",
+          "en": "J.J. Thomson"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इलेक्ट्रॉन सूक्ष्मदर्शी प्रकाश सूक्ष्मदर्शी से कई हजार गुना अधिक आवर्धन क्यों देता है?",
+        "en": "Why does an electron microscope give much higher magnification than optical one?"
+      },
+      "o": [
+        {
+          "hi": "कांच के लेंस बड़े होते हैं",
+          "en": "Glass lenses are larger"
+        },
+        {
+          "hi": "इलेक्ट्रॉन की डी ब्रोग्ली तरंगदैर्घ्य दृश्य प्रकाश से अत्यंत छोटी होती है",
+          "en": "Electron wavelength is much shorter than light"
+        },
+        {
+          "hi": "इलेक्ट्रॉन भारी होते हैं",
+          "en": "Electrons are heavy"
+        },
+        {
+          "hi": "इलेक्ट्रॉन में चुंबकत्व होता है",
+          "en": "Electrons possess magnetism"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रकाश-विद्युत प्रभाव में उत्सर्जित इलेक्ट्रॉनों की अधिकतम गतिज ऊर्जा किस पर निर्भर करती है?",
+        "en": "In photoelectric effect, maximum kinetic energy of emitted photoelectrons depends on?"
+      },
+      "o": [
+        {
+          "hi": "आपतित प्रकाश की तीव्रता पर",
+          "en": "Intensity of incident light"
+        },
+        {
+          "hi": "धातु के आकार पर",
+          "en": "Size of metal plate"
+        },
+        {
+          "hi": "आपतित प्रकाश की आवृत्ति (Frequency) पर",
+          "en": "Frequency of incident light"
+        },
+        {
+          "hi": "कमरे के तापमान पर",
+          "en": "Room temperature"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रकाश-विद्युत प्रभाव में प्रति सेकंड उत्सर्जित इलेक्ट्रॉनों की संख्या किस पर निर्भर करती है?",
+        "en": "Number of photoelectrons emitted per second in photoelectric effect depends on?"
+      },
+      "o": [
+        {
+          "hi": "प्रकाश की चाल पर",
+          "en": "Speed of light"
+        },
+        {
+          "hi": "प्रकाश की आवृत्ति पर",
+          "en": "Frequency of light"
+        },
+        {
+          "hi": "धातु के तापमान पर",
+          "en": "Temperature of metal"
+        },
+        {
+          "hi": "आपतित प्रकाश की तीव्रता (Intensity) पर",
+          "en": "Intensity of incident light"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वह न्यूनतम आवृत्ति जिसके नीचे धातु की सतह से इलेक्ट्रॉन उत्सर्जित नहीं होते, क्या कहलाती है?",
+        "en": "Minimum frequency below which no photoelectrons are emitted from metal surface is?"
+      },
+      "o": [
+        {
+          "hi": "देहली आवृत्ति (Threshold Frequency - ν0)",
+          "en": "Threshold Frequency (ν0)"
+        },
+        {
+          "hi": "क्रांतिक आवृत्ति",
+          "en": "Critical frequency"
+        },
+        {
+          "hi": "अनुनादी आवृत्ति",
+          "en": "Resonant frequency"
+        },
+        {
+          "hi": "परावर्तक आवृत्ति",
+          "en": "Reflecting frequency"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "धातु की सतह से इलेक्ट्रॉन को बाहर निकालने के लिए आवश्यक न्यूनतम ऊर्जा को क्या कहते हैं?",
+        "en": "Minimum energy required to liberate an electron from metal surface is called?"
+      },
+      "o": [
+        {
+          "hi": "बंधन ऊर्जा",
+          "en": "Binding energy"
+        },
+        {
+          "hi": "कार्य फलन (Work Function - Φ)",
+          "en": "Work Function (Φ)"
+        },
+        {
+          "hi": "आयनन विभव",
+          "en": "Ionization potential"
+        },
+        {
+          "hi": "स्थितिज ऊर्जा",
+          "en": "Potential energy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सर्वप्रथम किस धातु से दृश्य प्रकाश द्वारा भी प्रकाश-विद्युत उत्सर्जन संभव होता है?",
+        "en": "From which metals is photoelectric emission possible even with visible light?"
+      },
+      "o": [
+        {
+          "hi": "लोहा और तांबा",
+          "en": "Iron and Copper"
+        },
+        {
+          "hi": "एल्युमिनियम और जस्ता",
+          "en": "Aluminium and Zinc"
+        },
+        {
+          "hi": "क्षार धातुएं (सीजियम, पोटेशियम, रुबिडियम)",
+          "en": "Alkali metals (Cesium, Potassium, Rubidium)"
+        },
+        {
+          "hi": "प्लेटिनम और सोना",
+          "en": "Platinum and Gold"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "फोटो सेल (Photocell / Photoelectric Cell) किस ऊर्जा को किस ऊर्जा में बदलता है?",
+        "en": "A photoelectric cell converts which energy into which energy?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत ऊर्जा को प्रकाश में",
+          "en": "Electrical to light"
+        },
+        {
+          "hi": "यांत्रिक ऊर्जा को विद्युत में",
+          "en": "Mechanical to electrical"
+        },
+        {
+          "hi": "सौर ऊर्जा को ऊष्मा में",
+          "en": "Solar to heat"
+        },
+        {
+          "hi": "प्रकाश ऊर्जा को विद्युत ऊर्जा में (Light to Electrical)",
+          "en": "Light energy to Electrical energy"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सिनेमा में फिल्मों की रील से ध्वनि का पुनरुत्पादन करने में किसका उपयोग होता है?",
+        "en": "What is used to reproduce sound from film soundtrack in cinema?"
+      },
+      "o": [
+        {
+          "hi": "फोटो सेल (प्रकाश-विद्युत सेल)",
+          "en": "Photoelectric cell"
+        },
+        {
+          "hi": "थर्मामीटर",
+          "en": "Thermometer"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "डायनेमो",
+          "en": "Dynamo"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एक्स किरणों (X-Rays) की प्रकृति किस प्रकार की होती है?",
+        "en": "What is the electromagnetic nature of X-rays?"
+      },
+      "o": [
+        {
+          "hi": "अति-लंबी रेडियो तरंगें",
+          "en": "Very long radio waves"
+        },
+        {
+          "hi": "अत्यधिक लघु तरंगदैर्घ्य वाली विद्युत-चुंबकीय तरंगें (~0.1 Å से 100 Å)",
+          "en": "Short-wavelength electromagnetic waves (~0.1 Å to 100 Å)"
+        },
+        {
+          "hi": "धनावेशित कण धारा",
+          "en": "Positively charged particles"
+        },
+        {
+          "hi": "ऋणावेशित कण धारा",
+          "en": "Negatively charged particles"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कूलिज नली (Coolidge Tube) का उपयोग क्या उत्पन्न करने के लिए किया जाता है?",
+        "en": "What is a Coolidge tube used to generate?"
+      },
+      "o": [
+        {
+          "hi": "गामा किरणें",
+          "en": "Gamma rays"
+        },
+        {
+          "hi": "कैथोड किरणें",
+          "en": "Cathode rays"
+        },
+        {
+          "hi": "एक्स किरणें (X-Rays)",
+          "en": "X-Rays"
+        },
+        {
+          "hi": "पराबैंगनी किरणें",
+          "en": "Ultraviolet rays"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "क्रिस्टल संरचना (Crystal Structure) का अध्ययन करने के लिए किन किरणों का उपयोग किया जाता है?",
+        "en": "Which rays are used to investigate crystal structures (Bragg's Diffraction)?"
+      },
+      "o": [
+        {
+          "hi": "अवरक्त किरणें",
+          "en": "Infrared rays"
+        },
+        {
+          "hi": "दृश्य प्रकाश",
+          "en": "Visible light"
+        },
+        {
+          "hi": "रेडियो तरंगें",
+          "en": "Radio waves"
+        },
+        {
+          "hi": "एक्स किरणें (ब्रैग का समीकरण: 2d sin θ = nλ)",
+          "en": "X-Rays (Bragg's law: 2d sin θ = nλ)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लेसर (LASER) का पूर्ण रूप क्या होता है?",
+        "en": "What is the full form of LASER?"
+      },
+      "o": [
+        {
+          "hi": "Light Amplification by Stimulated Emission of Radiation",
+          "en": "Light Amplification by Stimulated Emission of Radiation"
+        },
+        {
+          "hi": "Light Absorption by Stimulated Energy of Radiation",
+          "en": "Light Absorption by Stimulated Energy of Radiation"
+        },
+        {
+          "hi": "Linear Amplification of Solar Energy Radiation",
+          "en": "Linear Amplification of Solar Energy Radiation"
+        },
+        {
+          "hi": "Laser Applied Science Engineering Research",
+          "en": "Laser Applied Science Engineering Research"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विश्व में प्रथम लेसर (LASER) का निर्माण 1960 में किस वैज्ञानिक ने किया था?",
+        "en": "Who built the world's first working LASER in 1960?"
+      },
+      "o": [
+        {
+          "hi": "अल्बर्ट आइंस्टीन ने",
+          "en": "Albert Einstein"
+        },
+        {
+          "hi": "टी. एच. मैमन (Theodore H. Maiman) ने",
+          "en": "Theodore H. Maiman"
+        },
+        {
+          "hi": "चार्ल्स टाउन्स ने",
+          "en": "Charles Townes"
+        },
+        {
+          "hi": "रॉबर्ट वाटसन ने",
+          "en": "Robert Watson"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लेसर पुंज (Laser Beam) की मुख्य विशेषताएं क्या होती हैं?",
+        "en": "What are the main characteristics of a laser beam?"
+      },
+      "o": [
+        {
+          "hi": "अवर्णी और विक्षुब्ध",
+          "en": "Achromatic & turbulent"
+        },
+        {
+          "hi": "बहुरंगी और फैली हुई",
+          "en": "Polychromatic & scattered"
+        },
+        {
+          "hi": "पूर्णतः एकवर्णी, कला-संबद्ध और अत्यधिक तीव्र (Monochromatic & Coherent)",
+          "en": "Monochromatic, Coherent & highly collimated"
+        },
+        {
+          "hi": "कम चमकीली",
+          "en": "Low brightness"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "त्रिविमीय (3D) चित्रों को खींचने और देखने की तकनीक को क्या कहा जाता है?",
+        "en": "Technique of recording and reproducing 3D images using laser is called?"
+      },
+      "o": [
+        {
+          "hi": "रेडियोग्राफी",
+          "en": "Radiography"
+        },
+        {
+          "hi": "सोनोग्राफी",
+          "en": "Sonography"
+        },
+        {
+          "hi": "फोटोग्राफी",
+          "en": "Photography"
+        },
+        {
+          "hi": "होलोग्राफी (Holography - डेनिस गैबोर)",
+          "en": "Holography (Dennis Gabor)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मेसर (MASER) में सूक्ष्म तरंगों के प्रवर्धन हेतु किसका उपयोग होता है?",
+        "en": "What is MASER an acronym for?"
+      },
+      "o": [
+        {
+          "hi": "Microwave Amplification by Stimulated Emission of Radiation",
+          "en": "Microwave Amplification by Stimulated Emission of Radiation"
+        },
+        {
+          "hi": "Molecular Absorption of Solar Energy",
+          "en": "Molecular Absorption of Solar Energy"
+        },
+        {
+          "hi": "Magnetic Amplification by Sound Energy",
+          "en": "Magnetic Amplification by Sound Energy"
+        },
+        {
+          "hi": "Macro Amplification of Sound",
+          "en": "Macro Amplification of Sound"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पॉजिट्रॉन (Positron) की खोज 1932 में किसने की थी?",
+        "en": "Who discovered positron (antielectron) in 1932?"
+      },
+      "o": [
+        {
+          "hi": "जे. जे. थॉमसन",
+          "en": "J.J. Thomson"
+        },
+        {
+          "hi": "कार्ल डी. एंडरसन (Carl D. Anderson)",
+          "en": "Carl D. Anderson"
+        },
+        {
+          "hi": "चैडविक",
+          "en": "Chadwick"
+        },
+        {
+          "hi": "युकावा",
+          "en": "Yukawa"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पॉजिट्रॉन पर आवेश और द्रव्यमान किसके समान होता है?",
+        "en": "Positron has mass equal to electron and charge equal to what?"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रॉन के समान ऋण आवेश",
+          "en": "Negative charge like electron"
+        },
+        {
+          "hi": "न्यूट्रॉन के समान शून्य आवेश",
+          "en": "Zero charge like neutron"
+        },
+        {
+          "hi": "इलेक्ट्रॉन के बराबर धनावेश (+1.6 × 10^-19 C)",
+          "en": "Equal positive charge to electron (+1.6 × 10^-19 C)"
+        },
+        {
+          "hi": "प्रोटॉन से दोगुना आवेश",
+          "en": "Double proton charge"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मेसॉन कणों (Mesons) की खोज 1935 में किस जापानी वैज्ञानिक ने की थी?",
+        "en": "Who predicted and discovered mesons in 1935?"
+      },
+      "o": [
+        {
+          "hi": "नील्स बोर ने",
+          "en": "Niels Bohr"
+        },
+        {
+          "hi": "सी. वी. रमन ने",
+          "en": "C.V. Raman"
+        },
+        {
+          "hi": "सत्येंद्र नाथ बोस ने",
+          "en": "S.N. Bose"
+        },
+        {
+          "hi": "हिदेकी युकावा (Hideki Yukawa) ने",
+          "en": "Hideki Yukawa"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बोसॉन (Boson) कणों का नामकरण किस प्रसिद्ध भारतीय भौतिक विज्ञानी के सम्मान में किया गया?",
+        "en": "Boson subatomic particles are named in honor of which Indian physicist?"
+      },
+      "o": [
+        {
+          "hi": "सत्येंद्र नाथ बोस (S.N. Bose)",
+          "en": "Satyendra Nath Bose"
+        },
+        {
+          "hi": "होमी जहांगीर भाभा",
+          "en": "Homi J. Bhabha"
+        },
+        {
+          "hi": "जगदीश चंद्र बसु",
+          "en": "J.C. Bose"
+        },
+        {
+          "hi": "सी. वी. रमन",
+          "en": "C.V. Raman"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हिग्स बोसॉन (Higgs Boson) कण को आम बोलचाल में क्या कहा जाता है?",
+        "en": "What is Higgs Boson colloquially called in popular media?"
+      },
+      "o": [
+        {
+          "hi": "एटम बम कण",
+          "en": "Atom bomb particle"
+        },
+        {
+          "hi": "गॉड पार्टिकल (God Particle)",
+          "en": "God Particle"
+        },
+        {
+          "hi": "डार्क पार्टिकल",
+          "en": "Dark particle"
+        },
+        {
+          "hi": "अल्फा कण",
+          "en": "Alpha particle"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गॉड पार्टिकल (Higgs Boson) की खोज यूरोपीय परमाणु अनुसंधान संगठन (CERN) में किस विशाल मशीन द्वारा की गई?",
+        "en": "At CERN, which machine detected Higgs Boson in 2012?"
+      },
+      "o": [
+        {
+          "hi": "साइक्लोट्रॉन",
+          "en": "Cyclotron"
+        },
+        {
+          "hi": "सिंक्रोट्रॉन",
+          "en": "Synchrotron"
+        },
+        {
+          "hi": "लार्ज हैड्रॉन कोलाइडर (LHC)",
+          "en": "Large Hadron Collider (LHC)"
+        },
+        {
+          "hi": "वान डे ग्राफ",
+          "en": "Van de Graaff"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नाभिक के भीतर प्रोटॉनों और न्यूट्रॉनों को बांधकर रखने वाला सबसे मजबूत मूल बल कौन-सा है?",
+        "en": "Strongest fundamental force binding protons and neutrons inside nucleus is?"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्वाकर्षण बल",
+          "en": "Gravitational force"
+        },
+        {
+          "hi": "स्थिर विद्युत बल",
+          "en": "Electrostatic force"
+        },
+        {
+          "hi": "चुंबकीय बल",
+          "en": "Magnetic force"
+        },
+        {
+          "hi": "प्रबल नाभिकीय बल (Strong Nuclear Force)",
+          "en": "Strong Nuclear Force"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 परमाणु द्रव्यमान इकाई (1 amu / 1 u) कितने किलोग्राम के बराबर होती है?",
+        "en": "1 atomic mass unit (1 amu) is equivalent to how many kilograms?"
+      },
+      "o": [
+        {
+          "hi": "1.6605 × 10^-27 किग्रा",
+          "en": "1.6605 × 10^-27 kg"
+        },
+        {
+          "hi": "9.1 × 10^-31 किग्रा",
+          "en": "9.1 × 10^-31 kg"
+        },
+        {
+          "hi": "1.6 × 10^-19 किग्रा",
+          "en": "1.6 × 10^-19 kg"
+        },
+        {
+          "hi": "6.023 × 10^-23 किग्रा",
+          "en": "6.023 × 10^-23 kg"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आइंस्टीन के द्रव्यमान-ऊर्जा समीकरण (E = mc²) के अनुसार 1 amu द्रव्यमान के विनाश से कितनी ऊर्जा मुक्त होती है?",
+        "en": "According to E = mc², energy released by complete destruction of 1 amu mass is?"
+      },
+      "o": [
+        {
+          "hi": "200 MeV",
+          "en": "200 MeV"
+        },
+        {
+          "hi": "लगभग 931.5 MeV (Mega Electron Volt)",
+          "en": "About 931.5 MeV"
+        },
+        {
+          "hi": "1000 MeV",
+          "en": "1000 MeV"
+        },
+        {
+          "hi": "13.6 eV",
+          "en": "13.6 eV"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

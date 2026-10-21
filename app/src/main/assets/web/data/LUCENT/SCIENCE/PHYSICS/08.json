@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "श्यानता",
+  "description": "श्यानता पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "तरल की विभिन्न परतों के बीच आपेक्षिक गति का विरोध करने वाले आंतरिक घर्षण बल को क्या कहते हैं?",
+        "en": "What is the internal friction opposing relative motion between fluid layers called?"
+      },
+      "o": [
+        {
+          "hi": "श्यान बल (Viscous Force)",
+          "en": "Viscous Force"
+        },
+        {
+          "hi": "पृष्ठ तनाव",
+          "en": "Surface Tension"
+        },
+        {
+          "hi": "उत्प्लावक बल",
+          "en": "Buoyant Force"
+        },
+        {
+          "hi": "प्रत्यानयन बल",
+          "en": "Restoring Force"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "श्यानता (Viscosity) निम्नलिखित में से किन पदार्थों का स्वाभाविक गुण है?",
+        "en": "Viscosity is the characteristic property of which of the following?"
+      },
+      "o": [
+        {
+          "hi": "केवल ठोसों का",
+          "en": "Only solids"
+        },
+        {
+          "hi": "द्रवों तथा गैसों (तरलों) का",
+          "en": "Liquids and gases (Fluids)"
+        },
+        {
+          "hi": "केवल द्रवों का",
+          "en": "Only liquids"
+        },
+        {
+          "hi": "केवल धातुओं का",
+          "en": "Only metals"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक आदर्श तरल (Ideal Fluid) की श्यानता कितनी मानी जाती है?",
+        "en": "What is the viscosity of an ideal fluid considered to be?"
+      },
+      "o": [
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "1 पास्कल-सेकंड",
+          "en": "1 Pa-s"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        },
+        {
+          "hi": "100 पॉयज",
+          "en": "100 Poise"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तापमान बढ़ाने पर द्रवों की श्यानता (Viscosity of Liquids) पर क्या प्रभाव पड़ता है?",
+        "en": "What effect does increasing temperature have on the viscosity of liquids?"
+      },
+      "o": [
+        {
+          "hi": "बढ़ जाती है",
+          "en": "Increases"
+        },
+        {
+          "hi": "अपरिवर्तित रहती है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "शून्य हो जाती है",
+          "en": "Becomes zero"
+        },
+        {
+          "hi": "घट जाती है",
+          "en": "Decreases"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तापमान बढ़ाने पर गैसों की श्यानता (Viscosity of Gases) पर क्या प्रभाव पड़ता है?",
+        "en": "What effect does increasing temperature have on the viscosity of gases?"
+      },
+      "o": [
+        {
+          "hi": "बढ़ जाती है",
+          "en": "Increases"
+        },
+        {
+          "hi": "घट जाती है",
+          "en": "Decreases"
+        },
+        {
+          "hi": "अपरिवर्तित रहती है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "पहले घटती फिर बढ़ती है",
+          "en": "First decreases then increases"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "श्यानता गुणांक (Coefficient of Viscosity) का SI मात्रक क्या होता है?",
+        "en": "What is the SI unit of coefficient of viscosity?"
+      },
+      "o": [
+        {
+          "hi": "न्यूटन-मीटर",
+          "en": "Newton-meter"
+        },
+        {
+          "hi": "पॉयजुली (Pl) या पास्कल-सेकंड (Pa·s)",
+          "en": "Poiseuille (Pl) or Pascal-second (Pa·s)"
+        },
+        {
+          "hi": "जूल-सेकंड",
+          "en": "Joule-second"
+        },
+        {
+          "hi": "डाइन/सेमी",
+          "en": "Dyne/cm"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "CGS पद्धति में श्यानता गुणांक का मात्रक 'प्वाइज' (Poise) है। 1 पॉयजुली (SI मात्रक) कितने प्वाइज के बराबर होता है?",
+        "en": "The CGS unit of viscosity is Poise. 1 Poiseuille (SI unit) is equal to how many Poise?"
+      },
+      "o": [
+        {
+          "hi": "1 प्वाइज",
+          "en": "1 Poise"
+        },
+        {
+          "hi": "100 प्वाइज",
+          "en": "100 Poise"
+        },
+        {
+          "hi": "10 प्वाइज",
+          "en": "10 Poise"
+        },
+        {
+          "hi": "1000 प्वाइज",
+          "en": "1000 Poise"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "श्यानता गुणांक का विमीय सूत्र (Dimensional Formula) क्या होता है?",
+        "en": "What is the dimensional formula of coefficient of viscosity?"
+      },
+      "o": [
+        {
+          "hi": "[M L T^-1]",
+          "en": "[M L T^-1]"
+        },
+        {
+          "hi": "[M L^2 T^-2]",
+          "en": "[M L^2 T^-2]"
+        },
+        {
+          "hi": "[M L^-2 T^-1]",
+          "en": "[M L^-2 T^-1]"
+        },
+        {
+          "hi": "[M L^-1 T^-1]",
+          "en": "[M L^-1 T^-1]"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जब कोई वस्तु किसी श्यान माध्यम में गिरती है और उसका त्वरण शून्य हो जाता है, तो उस नियत अधिकतम वेग को क्या कहते हैं?",
+        "en": "When a body falls in a viscous medium and its acceleration becomes zero, what is that velocity called?"
+      },
+      "o": [
+        {
+          "hi": "सीमांत वेग (Terminal Velocity)",
+          "en": "Terminal Velocity"
+        },
+        {
+          "hi": "पलायन वेग",
+          "en": "Escape Velocity"
+        },
+        {
+          "hi": "कक्षीय वेग",
+          "en": "Orbital Velocity"
+        },
+        {
+          "hi": "क्रांतिक वेग",
+          "en": "Critical Velocity"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्टोक्स के नियम (Stokes' Law) के अनुसार किसी गोलाकार पिंड का सीमांत वेग उसकी त्रिज्या (r) के किस अनुपात में होता है?",
+        "en": "According to Stokes' Law, terminal velocity of a sphere is proportional to what power of radius (r)?"
+      },
+      "o": [
+        {
+          "hi": "त्रिज्या के व्युत्क्रमानुपाती (1/r)",
+          "en": "Inversely to radius (1/r)"
+        },
+        {
+          "hi": "त्रिज्या के वर्ग (r²) के समानुपाती",
+          "en": "Directly to square of radius (r²)"
+        },
+        {
+          "hi": "त्रिज्या (r) के समानुपाती",
+          "en": "Directly to radius (r)"
+        },
+        {
+          "hi": "त्रिज्या के घन (r³) के",
+          "en": "Directly to cube of radius (r³)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आकाश से गिरती हुई वर्षा की बूंदें एक नियत सुरक्षित वेग से नीचे क्यों आती हैं?",
+        "en": "Why do raindrops falling from sky descend with a constant terminal velocity?"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्वाकर्षण समाप्त होने से",
+          "en": "Gravity vanishes"
+        },
+        {
+          "hi": "बूंदों के वाष्पीकरण से",
+          "en": "Due to evaporation"
+        },
+        {
+          "hi": "वायु के श्यान बल के कारण सीमांत वेग प्राप्त होने से",
+          "en": "Attaining terminal velocity due to air viscosity"
+        },
+        {
+          "hi": "सूर्य के विकिरण दबाव से",
+          "en": "Due to solar radiation"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हवाई जहाज से कूदने पर पैराशूट से नीचे उतरता व्यक्ति किस कारण से सुरक्षित भूमि पर उतरता है?",
+        "en": "Why does a parachutist land safely after jumping from an aircraft?"
+      },
+      "o": [
+        {
+          "hi": "हल्का होने के कारण",
+          "en": "Being light"
+        },
+        {
+          "hi": "पैराशूट में ऑक्सीजन होने से",
+          "en": "Oxygen in parachute"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण शून्य होने से",
+          "en": "Gravity being zero"
+        },
+        {
+          "hi": "वायु प्रतिरोध एवं श्यानता द्वारा नियत सीमांत वेग प्राप्त करने से",
+          "en": "Reaching constant terminal velocity via air drag"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "द्रव प्रवाह का वह अधिकतम वेग जिसके नीचे प्रवाह धारा-रेखी (Streamline) रहता है, क्या कहलाता है?",
+        "en": "What is maximum velocity below which liquid flow remains streamline called?"
+      },
+      "o": [
+        {
+          "hi": "क्रांतिक वेग (Critical Velocity)",
+          "en": "Critical Velocity"
+        },
+        {
+          "hi": "सीमांत वेग",
+          "en": "Terminal Velocity"
+        },
+        {
+          "hi": "पलायन वेग",
+          "en": "Escape Velocity"
+        },
+        {
+          "hi": "ध्वनि वेग",
+          "en": "Sonic Velocity"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यदि किसी द्रव का वेग क्रांतिक वेग से अधिक हो जाए, तो उसका प्रवाह कैसा हो जाता है?",
+        "en": "If velocity of liquid exceeds critical velocity, what does its flow become?"
+      },
+      "o": [
+        {
+          "hi": "शांत प्रवाह",
+          "en": "Laminar flow"
+        },
+        {
+          "hi": "विक्षुब्ध प्रवाह (Turbulent Flow)",
+          "en": "Turbulent Flow"
+        },
+        {
+          "hi": "स्थिर प्रवाह",
+          "en": "Stationary flow"
+        },
+        {
+          "hi": "शून्य प्रवाह",
+          "en": "Zero flow"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रेनॉल्ड्स संख्या (Reynolds Number) का उपयोग क्या निर्धारित करने के लिए किया जाता है?",
+        "en": "What is Reynolds Number used to determine?"
+      },
+      "o": [
+        {
+          "hi": "द्रव का घनत्व",
+          "en": "Fluid density"
+        },
+        {
+          "hi": "द्रव का तापमान",
+          "en": "Fluid temperature"
+        },
+        {
+          "hi": "प्रवाह की प्रकृति (धारा-रेखी अथवा विक्षुब्ध)",
+          "en": "Nature of flow (streamline or turbulent)"
+        },
+        {
+          "hi": "द्रव का पृष्ठ तनाव",
+          "en": "Fluid surface tension"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बर्नोली का प्रमेय (Bernoulli's Theorem) किस भौतिक राशि के संरक्षण के नियम पर आधारित है?",
+        "en": "Bernoulli's Theorem is based on the law of conservation of which physical quantity?"
+      },
+      "o": [
+        {
+          "hi": "द्रव्यमान",
+          "en": "Mass"
+        },
+        {
+          "hi": "संवेग",
+          "en": "Momentum"
+        },
+        {
+          "hi": "कोणीय संवेग",
+          "en": "Angular momentum"
+        },
+        {
+          "hi": "ऊर्जा (Energy)",
+          "en": "Energy"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बर्नोली के प्रमेय के अनुसार, किसी आदर्श द्रव के धारा-रेखी प्रवाह में एकांक आयतन की कुल ऊर्जा (दाब ऊर्जा + गतिज ऊर्जा + स्थितिज ऊर्जा) कैसी रहती है?",
+        "en": "According to Bernoulli's theorem, total energy per unit volume of streamline ideal flow is what?"
+      },
+      "o": [
+        {
+          "hi": "नियत (Constant) रहती है",
+          "en": "Remains constant"
+        },
+        {
+          "hi": "शून्य रहती है",
+          "en": "Remains zero"
+        },
+        {
+          "hi": "लगातार बढ़ती है",
+          "en": "Continuously increases"
+        },
+        {
+          "hi": "लगातार घटती है",
+          "en": "Continuously decreases"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हवाई जहाज के पंखों का विशेष आकार (Aerofoil) किस सिद्धांत पर आधारित होता है?",
+        "en": "The special cross-sectional shape of airplane wings (Aerofoil) is based on which principle?"
+      },
+      "o": [
+        {
+          "hi": "आर्किमिडीज सिद्धांत पर",
+          "en": "Archimedes' principle"
+        },
+        {
+          "hi": "बर्नोली के प्रमेय पर",
+          "en": "Bernoulli's theorem"
+        },
+        {
+          "hi": "पास्कल के नियम पर",
+          "en": "Pascal's law"
+        },
+        {
+          "hi": "केपलर के नियम पर",
+          "en": "Kepler's law"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तीव्र आंधी-तूफान आने पर टिन की शेड या छप्पर का उड़ जाना किस सिद्धांत पर आधारित है?",
+        "en": "Blowing off of tin roofs during strong storms is based on which principle?"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्वाकर्षण नियम",
+          "en": "Law of gravitation"
+        },
+        {
+          "hi": "पास्कल का नियम",
+          "en": "Pascal's law"
+        },
+        {
+          "hi": "बर्नोली का प्रमेय",
+          "en": "Bernoulli's theorem"
+        },
+        {
+          "hi": "आर्किमिडीज सिद्धांत",
+          "en": "Archimedes principle"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "क्रिकेट में स्पिन या स्विंग करती हुई गेंद के हवा में मुड़ जाने की घटना (मैग्नस प्रभाव - Magnus Effect) किस पर आधारित है?",
+        "en": "Magnus effect, responsible for swinging/spinning cricket ball in air, is based on what?"
+      },
+      "o": [
+        {
+          "hi": "जड़त्व के नियम पर",
+          "en": "Law of inertia"
+        },
+        {
+          "hi": "घर्षण के नियम पर",
+          "en": "Law of friction"
+        },
+        {
+          "hi": "संवेग संरक्षण पर",
+          "en": "Momentum conservation"
+        },
+        {
+          "hi": "बर्नोली के प्रमेय पर",
+          "en": "Bernoulli's theorem"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पेंट गन, परफ्यूम स्प्रेयर या एटोमाइजर (Atomizer) किस सिद्धांत पर कार्य करता है?",
+        "en": "On which principle does a paint spray gun, perfume sprayer or atomizer work?"
+      },
+      "o": [
+        {
+          "hi": "बर्नोली के प्रमेय पर",
+          "en": "Bernoulli's theorem"
+        },
+        {
+          "hi": "पास्कल के नियम पर",
+          "en": "Pascal's law"
+        },
+        {
+          "hi": "आर्किमिडीज सिद्धांत पर",
+          "en": "Archimedes' principle"
+        },
+        {
+          "hi": "बॉयल के नियम पर",
+          "en": "Boyle's law"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नली में बहते हुए द्रव की प्रवाह दर (Rate of Flow) मापने के लिए किस यंत्र का उपयोग किया जाता है?",
+        "en": "Which instrument is used to measure the rate of flow of liquid in a pipe?"
+      },
+      "o": [
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "वेंचुरीमीटर (Venturimeter)",
+          "en": "Venturimeter"
+        },
+        {
+          "hi": "लैक्टोमीटर",
+          "en": "Lactometer"
+        },
+        {
+          "hi": "हाइड्रोमीटर",
+          "en": "Hydrometer"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वेंचुरीमीटर किस वैज्ञानिक प्रमेय पर कार्य करता है?",
+        "en": "Venturimeter operates on which scientific theorem?"
+      },
+      "o": [
+        {
+          "hi": "पास्कल का प्रमेय",
+          "en": "Pascal's theorem"
+        },
+        {
+          "hi": "टॉरिसेली का प्रमेय",
+          "en": "Torricelli's theorem"
+        },
+        {
+          "hi": "बर्नोली का प्रमेय",
+          "en": "Bernoulli's theorem"
+        },
+        {
+          "hi": "स्टोक्स का प्रमेय",
+          "en": "Stokes' theorem"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रेलवे प्लेटफॉर्म पर तेजी से गुजरती ट्रेन के समीप खड़े व्यक्ति को ट्रेन की ओर खिंचने का अनुभव क्यों होता है?",
+        "en": "Why does a person standing near a fast train feel pulled towards the train?"
+      },
+      "o": [
+        {
+          "hi": "ट्रेन के गुरुत्वाकर्षण खिंचाव से",
+          "en": "Train's gravitational pull"
+        },
+        {
+          "hi": "ट्रेन के चुंबकीय खिंचाव से",
+          "en": "Magnetic attraction of train"
+        },
+        {
+          "hi": "वायुमंडलीय तापमान बढ़ने से",
+          "en": "Increase in temperature"
+        },
+        {
+          "hi": "तेज वायु वेग से बीच में वायुदाब कम हो जाने के कारण",
+          "en": "Air velocity increases, dropping pressure"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शहद (Honey) और पानी में से किसकी श्यानता अधिक होती है?",
+        "en": "Between honey and water, which has higher viscosity?"
+      },
+      "o": [
+        {
+          "hi": "शहद की",
+          "en": "Honey"
+        },
+        {
+          "hi": "पानी की",
+          "en": "Water"
+        },
+        {
+          "hi": "दोनों की बराबर",
+          "en": "Equal in both"
+        },
+        {
+          "hi": "तापमान पर निर्भर नहीं करती",
+          "en": "Independent of temperature"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गर्मियों में इंजन ऑयल (स्नेहक) पतला क्यों हो जाता है?",
+        "en": "Why does engine lubricant oil become thin in summer?"
+      },
+      "o": [
+        {
+          "hi": "दबाव बढ़ने से",
+          "en": "Due to pressure increase"
+        },
+        {
+          "hi": "तापमान बढ़ने से श्यानता घटने के कारण",
+          "en": "Viscosity decreases as temperature rises"
+        },
+        {
+          "hi": "ऑक्सीजन मिलने से",
+          "en": "Due to oxidation"
+        },
+        {
+          "hi": "घनत्व शून्य होने से",
+          "en": "Density becomes zero"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अत्यधिक ठंडे प्रदेशों में गाड़ियों के इंजन में किस प्रकार के स्नेहक तेल का उपयोग किया जाता है?",
+        "en": "What type of lubricant oil is used in car engines in extremely cold regions?"
+      },
+      "o": [
+        {
+          "hi": "अत्यधिक गाढ़ा (उच्च श्यानता वाला)",
+          "en": "Very thick (high viscosity)"
+        },
+        {
+          "hi": "पानी मिला हुआ",
+          "en": "Mixed with water"
+        },
+        {
+          "hi": "कम श्यानता वाला तेल (ताकि जमे नहीं)",
+          "en": "Low viscosity oil (so it won't freeze)"
+        },
+        {
+          "hi": "बिना तेल के गाड़ी चलती है",
+          "en": "Vehicle runs without oil"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रक्त (Blood) की श्यानता पानी की तुलना में कैसी होती है?",
+        "en": "How is the viscosity of human blood compared to water?"
+      },
+      "o": [
+        {
+          "hi": "पानी से बहुत कम",
+          "en": "Much lower than water"
+        },
+        {
+          "hi": "पानी के बिल्कुल बराबर",
+          "en": "Exactly equal to water"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "पानी से लगभग 4 से 5 गुना अधिक",
+          "en": "About 4 to 5 times higher than water"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "द्रवों के प्रवाह में लगातार अनुप्रस्थ काट क्षेत्रफल और वेग का गुणनफल (A × v = constant) क्या कहलाता है?",
+        "en": "What is the relation A × v = constant in fluid flow called?"
+      },
+      "o": [
+        {
+          "hi": "सांतत्य समीकरण (Equation of Continuity)",
+          "en": "Equation of Continuity"
+        },
+        {
+          "hi": "बर्नोली समीकरण",
+          "en": "Bernoulli's equation"
+        },
+        {
+          "hi": "स्टोक्स समीकरण",
+          "en": "Stokes' equation"
+        },
+        {
+          "hi": "पास्कल समीकरण",
+          "en": "Pascal's equation"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सांतत्य समीकरण (Equation of Continuity) किस संरक्षण सिद्धांत पर आधारित है?",
+        "en": "The Equation of Continuity is based on which conservation principle?"
+      },
+      "o": [
+        {
+          "hi": "ऊर्जा संरक्षण",
+          "en": "Energy conservation"
+        },
+        {
+          "hi": "द्रव्यमान संरक्षण (Conservation of Mass)",
+          "en": "Conservation of Mass"
+        },
+        {
+          "hi": "संवेग संरक्षण",
+          "en": "Momentum conservation"
+        },
+        {
+          "hi": "आवेश संरक्षण",
+          "en": "Charge conservation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जब पानी का पाइप आगे से उंगली दबाकर संकरा किया जाता है, तो पानी का वेग क्यों बढ़ जाता है?",
+        "en": "Why does water velocity increase when the pipe opening is narrowed with a finger?"
+      },
+      "o": [
+        {
+          "hi": "पानी का घनत्व बढ़ने से",
+          "en": "Due to higher density"
+        },
+        {
+          "hi": "पानी का तापमान बढ़ने से",
+          "en": "Due to higher temperature"
+        },
+        {
+          "hi": "क्षेत्रफल कम होने से वेग बढ़ता है (A1v1 = A2v2)",
+          "en": "Velocity increases as area decreases"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण बल बढ़ने से",
+          "en": "Due to gravity"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हवाई जहाज की गति मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+        "en": "Which instrument is used to measure the airspeed of an aircraft?"
+      },
+      "o": [
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "हाइड्रोमीटर",
+          "en": "Hydrometer"
+        },
+        {
+          "hi": "पिटॉट ट्यूब (Pitot Tube)",
+          "en": "Pitot Tube"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पिटॉट ट्यूब (Pitot Tube) किस सिद्धांत पर कार्य करती है?",
+        "en": "On which principle does a Pitot tube work?"
+      },
+      "o": [
+        {
+          "hi": "बर्नोली के प्रमेय पर",
+          "en": "Bernoulli's theorem"
+        },
+        {
+          "hi": "आर्किमिडीज सिद्धांत पर",
+          "en": "Archimedes' principle"
+        },
+        {
+          "hi": "पास्कल के नियम पर",
+          "en": "Pascal's law"
+        },
+        {
+          "hi": "न्यूटन के गति नियम पर",
+          "en": "Newton's laws of motion"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "श्यान बल (F) और वेग प्रवणता (dv/dx) के बीच संबंध किसने दिया था?",
+        "en": "Who gave the relation between viscous force and velocity gradient?"
+      },
+      "o": [
+        {
+          "hi": "पास्कल ने",
+          "en": "Pascal"
+        },
+        {
+          "hi": "न्यूटन ने (न्यूटन का श्यानता नियम)",
+          "en": "Newton (Newton's law of viscosity)"
+        },
+        {
+          "hi": "स्टोक्स ने",
+          "en": "Stokes"
+        },
+        {
+          "hi": "आर्किमिडीज ने",
+          "en": "Archimedes"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वेग प्रवणता (Velocity Gradient) का SI मात्रक क्या होता है?",
+        "en": "What is the SI unit of velocity gradient?"
+      },
+      "o": [
+        {
+          "hi": "मीटर/सेकंड",
+          "en": "m/s"
+        },
+        {
+          "hi": "मीटर/सेकंड²",
+          "en": "m/s²"
+        },
+        {
+          "hi": "प्रति सेकंड (s^-1)",
+          "en": "Per second (s^-1)"
+        },
+        {
+          "hi": "मीटर²",
+          "en": "m²"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किसी श्यान द्रव में गिरने वाली छोटी गोली पर लगने वाले श्यान बल (F = 6πηrv) का नियम किसने दिया?",
+        "en": "Who gave the formula for viscous force F = 6πηrv acting on a small sphere in fluid?"
+      },
+      "o": [
+        {
+          "hi": "बर्नोली ने",
+          "en": "Bernoulli"
+        },
+        {
+          "hi": "पास्कल ने",
+          "en": "Pascal"
+        },
+        {
+          "hi": "केपलर ने",
+          "en": "Kepler"
+        },
+        {
+          "hi": "स्टोक्स ने (Stokes' Law)",
+          "en": "Stokes (Stokes' Law)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समान आकार की दो बूंदों में से बड़ी बूंद का सीमांत वेग छोटी बूंद से कैसा होगा?",
+        "en": "How is the terminal velocity of a larger droplet compared to a smaller droplet?"
+      },
+      "o": [
+        {
+          "hi": "अधिक होगा (vt ∝ r²)",
+          "en": "Higher (vt ∝ r²)"
+        },
+        {
+          "hi": "कम होगा",
+          "en": "Lower"
+        },
+        {
+          "hi": "बराबर होगा",
+          "en": "Equal"
+        },
+        {
+          "hi": "शून्य होगा",
+          "en": "Zero"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ग्लिसरीन और जल में से किसमें कांच की गोली तेजी से नीचे गिरेगी?",
+        "en": "In which fluid will a glass marble fall faster: glycerin or water?"
+      },
+      "o": [
+        {
+          "hi": "ग्लिसरीन में",
+          "en": "In glycerin"
+        },
+        {
+          "hi": "जल में (क्योंकि जल की श्यानता कम है)",
+          "en": "In water (due to lower viscosity)"
+        },
+        {
+          "hi": "दोनों में समान समय लेगी",
+          "en": "Same in both"
+        },
+        {
+          "hi": "किसी में नहीं गिरेगी",
+          "en": "Will not fall in either"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सख्त सर्दियों में जब नल से तेल निकाला जाता है, तो वह धीमी गति से क्यों बहता है?",
+        "en": "Why does oil pour slowly from a container in severe winter?"
+      },
+      "o": [
+        {
+          "hi": "तेल का भार बढ़ने से",
+          "en": "Oil weight increases"
+        },
+        {
+          "hi": "वायुमंडलीय दाब कम होने से",
+          "en": "Atmospheric pressure decreases"
+        },
+        {
+          "hi": "तापमान घटने से तेल की श्यानता बढ़ जाने के कारण",
+          "en": "Viscosity increases as temperature drops"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण बल शून्य होने से",
+          "en": "Gravity becomes zero"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हार्ट अटैक (दिल का दौरा) आने के जोखिम को बढ़ाने में रक्त की किस भौतिक स्थिति की भूमिका होती है?",
+        "en": "Which physical condition of blood increases the risk of a heart attack?"
+      },
+      "o": [
+        {
+          "hi": "रक्त की श्यानता अत्यधिक कम होना",
+          "en": "Very low blood viscosity"
+        },
+        {
+          "hi": "रक्त में हीमोग्लोबिन कम होना",
+          "en": "Low hemoglobin"
+        },
+        {
+          "hi": "रक्त का तापमान घटना",
+          "en": "Drop in blood temperature"
+        },
+        {
+          "hi": "रक्त का गाढ़ा होना अर्थात् श्यानता अत्यधिक बढ़ना",
+          "en": "Thickening of blood, high viscosity"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एक बंद नली में क्षैतिज रूप से बहते द्रव का जहाँ दाब अधिक होता है, वहाँ वेग कैसा होता है?",
+        "en": "In horizontal streamline flow, where pressure is high, what is the fluid velocity?"
+      },
+      "o": [
+        {
+          "hi": "कम होता है",
+          "en": "Lower"
+        },
+        {
+          "hi": "अधिक होता है",
+          "en": "Higher"
+        },
+        {
+          "hi": "अनंत होता है",
+          "en": "Infinite"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "टॉरिसेली का नियम (Torricelli's Law) किसी बर्तन के छिद्र से निकलने वाले द्रव के किस गुण से संबंधित है?",
+        "en": "Torricelli's Law is related to which property of liquid efflux from an orifice?"
+      },
+      "o": [
+        {
+          "hi": "तापमान से",
+          "en": "Temperature"
+        },
+        {
+          "hi": "बहिःस्राव वेग (Velocity of Efflux v = √(2gh))",
+          "en": "Velocity of efflux (v = √(2gh))"
+        },
+        {
+          "hi": "घनत्व से",
+          "en": "Density"
+        },
+        {
+          "hi": "पृष्ठ तनाव से",
+          "en": "Surface tension"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "छिद्र से निकलने वाले द्रव का बहिःस्राव वेग उस वेग के बराबर होता है जो कोई पिंड किस ऊँचाई से गिरकर प्राप्त करता है?",
+        "en": "Velocity of efflux equals the velocity a body attains falling freely from what height?"
+      },
+      "o": [
+        {
+          "hi": "दोगुनी ऊँचाई से",
+          "en": "Double height"
+        },
+        {
+          "hi": "आधी ऊँचाई से",
+          "en": "Half height"
+        },
+        {
+          "hi": "स्वतंत्र सतह से छिद्र की गहराई (h) से",
+          "en": "Depth (h) from free surface"
+        },
+        {
+          "hi": "बर्तन की कुल ऊँचाई से",
+          "en": "Total vessel height"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "द्रवों की विभिन्न परतों के वेग में अंतर होने पर कौन-सा बल उत्पन्न होता है?",
+        "en": "Which force arises due to velocity difference between different liquid layers?"
+      },
+      "o": [
+        {
+          "hi": "पृष्ठ तनाव बल",
+          "en": "Surface tension force"
+        },
+        {
+          "hi": "अभिकेंद्रीय बल",
+          "en": "Centripetal force"
+        },
+        {
+          "hi": "गुरुत्वीय बल",
+          "en": "Gravitational force"
+        },
+        {
+          "hi": "श्यान घर्षण बल",
+          "en": "Viscous friction force"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गैसों में श्यानता का मुख्य कारण क्या होता है?",
+        "en": "What is the primary cause of viscosity in gases?"
+      },
+      "o": [
+        {
+          "hi": "अणुओं के बीच संवेग का विसरण (स्थानांतरण)",
+          "en": "Diffusion of momentum among molecules"
+        },
+        {
+          "hi": "अणुओं के बीच मजबूत ससंजक बल",
+          "en": "Strong cohesive force"
+        },
+        {
+          "hi": "गैसों का उच्च घनत्व",
+          "en": "High gas density"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण खिंचाव",
+          "en": "Gravitational pull"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "द्रवों में श्यानता का मुख्य कारण क्या होता है?",
+        "en": "What is the primary cause of viscosity in liquids?"
+      },
+      "o": [
+        {
+          "hi": "अणुओं की उच्च गतिज ऊर्जा",
+          "en": "High kinetic energy"
+        },
+        {
+          "hi": "द्रव के अणुओं के मध्य ससंजक बल (Cohesive Force)",
+          "en": "Cohesive force between liquid molecules"
+        },
+        {
+          "hi": "आसंजक बल",
+          "en": "Adhesive force"
+        },
+        {
+          "hi": "वाष्पीकरण दर",
+          "en": "Evaporation rate"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नदी में बहते जल का वेग किस स्थान पर सर्वाधिक होता है?",
+        "en": "Where is the velocity of water flowing in a river maximum?"
+      },
+      "o": [
+        {
+          "hi": "नदी की तली पर",
+          "en": "At river bottom"
+        },
+        {
+          "hi": "नदी के किनारों पर",
+          "en": "At river banks"
+        },
+        {
+          "hi": "जल की ऊपरी मध्य सतह पर",
+          "en": "At the upper middle surface"
+        },
+        {
+          "hi": "सभी जगह समान होता है",
+          "en": "Equal everywhere"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नदी की तली के समीप जल का वेग सबसे कम क्यों होता है?",
+        "en": "Why is water velocity minimum near the bottom of a river?"
+      },
+      "o": [
+        {
+          "hi": "वहाँ तापमान अधिक होता है",
+          "en": "Temperature is higher"
+        },
+        {
+          "hi": "जल में ऑक्सीजन कम होती है",
+          "en": "Less oxygen"
+        },
+        {
+          "hi": "सूर्य का प्रकाश नहीं पहुँचता",
+          "en": "No sunlight reaches"
+        },
+        {
+          "hi": "तली और जल के बीच घर्षण व श्यान बल सर्वाधिक होने से",
+          "en": "Friction & viscous drag are highest at bottom"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हवाई जहाज और तेज गति वाली कारों को आगे से नुकीला और सुव्यवस्थित (Streamlined) क्यों बनाया जाता है?",
+        "en": "Why are airplanes and high-speed cars designed with a streamlined shape?"
+      },
+      "o": [
+        {
+          "hi": "वायु के श्यान घर्षण (Drag) को न्यूनतम करने हेतु",
+          "en": "To minimize aerodynamic viscous drag"
+        },
+        {
+          "hi": "वाहन को भारी बनाने हेतु",
+          "en": "To make vehicle heavy"
+        },
+        {
+          "hi": "ईंधन का वजन बढ़ाने हेतु",
+          "en": "To increase fuel weight"
+        },
+        {
+          "hi": "सड़क पर घर्षण बढ़ाने हेतु",
+          "en": "To increase road friction"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मछलियों का शरीर नौकाकार (सुव्यवस्थित) क्यों होता है?",
+        "en": "Why is the body of fishes streamlined?"
+      },
+      "o": [
+        {
+          "hi": "सुंदर दिखने के लिए",
+          "en": "To look attractive"
+        },
+        {
+          "hi": "जल के श्यान घर्षण को कम करके आसानी से तैरने के लिए",
+          "en": "To reduce water viscous drag and swim easily"
+        },
+        {
+          "hi": "अधिक जल पीने के लिए",
+          "en": "To drink more water"
+        },
+        {
+          "hi": "गहराई में डूबने के लिए",
+          "en": "To sink deeper"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "विद्युत धारा",
+  "description": "विद्युत धारा पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "आवेश के प्रवाह की दर (Rate of flow of charge) को क्या कहते हैं?",
+        "en": "What is the rate of flow of electric charge called?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत विभव",
+          "en": "Electric potential"
+        },
+        {
+          "hi": "विद्युत धारिता",
+          "en": "Capacitance"
+        },
+        {
+          "hi": "विद्युत धारा (Electric Current)",
+          "en": "Electric Current"
+        },
+        {
+          "hi": "विद्युत शक्ति",
+          "en": "Electric power"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विद्युत धारा (Electric Current) किस प्रकार की भौतिक राशि है?",
+        "en": "What type of physical quantity is electric current?"
+      },
+      "o": [
+        {
+          "hi": "सदिश राशि",
+          "en": "Vector quantity"
+        },
+        {
+          "hi": "टेन्सर राशि",
+          "en": "Tensor quantity"
+        },
+        {
+          "hi": "विमाहीन राशि",
+          "en": "Dimensionless"
+        },
+        {
+          "hi": "अदिश राशि (दिशा होने के बावजूद सदिश योग नियमों का पालन नहीं करती)",
+          "en": "Scalar quantity (does not obey vector addition)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विद्युत धारा का SI मात्रक क्या होता है?",
+        "en": "What is the SI unit of electric current?"
+      },
+      "o": [
+        {
+          "hi": "एम्पीयर (Ampere - A)",
+          "en": "Ampere (A)"
+        },
+        {
+          "hi": "वोल्ट",
+          "en": "Volt"
+        },
+        {
+          "hi": "ओम",
+          "en": "Ohm"
+        },
+        {
+          "hi": "कूलॉम",
+          "en": "Coulomb"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ओम का नियम (Ohm's Law: V = IR) किन चालकों के लिए मान्य होता है?",
+        "en": "Ohm's Law (V = IR) is strictly valid for which conductors?"
+      },
+      "o": [
+        {
+          "hi": "अर्धचालकों के लिए",
+          "en": "Semiconductors"
+        },
+        {
+          "hi": "धात्विक चालकों के लिए (नियत तापमान पर)",
+          "en": "Metallic conductors (at constant temp)"
+        },
+        {
+          "hi": "डायोड वाल्व के लिए",
+          "en": "Diode valves"
+        },
+        {
+          "hi": "विद्युत अपघट्य के लिए",
+          "en": "Electrolytes"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत प्रतिरोध (Resistance - R) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of electrical resistance?"
+      },
+      "o": [
+        {
+          "hi": "एम्पीयर",
+          "en": "Ampere"
+        },
+        {
+          "hi": "वोल्ट",
+          "en": "Volt"
+        },
+        {
+          "hi": "ओम (Ohm - Ω)",
+          "en": "Ohm (Ω)"
+        },
+        {
+          "hi": "सीमेंस",
+          "en": "Siemens"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किसी चालक तार का प्रतिरोध उसकी लंबाई (l) और अनुप्रस्थ काट क्षेत्रफल (A) पर कैसे निर्भर करता है?",
+        "en": "Resistance of a wire depends on length l and area A in which manner?"
+      },
+      "o": [
+        {
+          "hi": "R ∝ A / l",
+          "en": "R ∝ A / l"
+        },
+        {
+          "hi": "R ∝ l × A",
+          "en": "R ∝ l × A"
+        },
+        {
+          "hi": "R ∝ 1 / (l·A)",
+          "en": "R ∝ 1 / (l·A)"
+        },
+        {
+          "hi": "R = ρ (l / A) (लंबाई के समानुपाती व क्षेत्रफल के व्युत्क्रमानुपाती)",
+          "en": "R = ρ (l / A) (proportional to l, inverse to A)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यदि किसी चालक तार की लंबाई खींचकर दोगुनी कर दी जाए, तो उसका नया प्रतिरोध कितना हो जाएगा?",
+        "en": "If length of a wire is stretched to double its original, new resistance is?"
+      },
+      "o": [
+        {
+          "hi": "4 गुना (R' = n² R)",
+          "en": "4 times (R' = n² R)"
+        },
+        {
+          "hi": "2 गुना",
+          "en": "2 times"
+        },
+        {
+          "hi": "आधा",
+          "en": "Half"
+        },
+        {
+          "hi": "अपरिवर्तित रहेगा",
+          "en": "Remains unchanged"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विशिष्ट प्रतिरोध अथवा प्रतिरोधकता (Resistivity - ρ) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of specific resistance or resistivity?"
+      },
+      "o": [
+        {
+          "hi": "ओम/मीटर",
+          "en": "Ohm/meter"
+        },
+        {
+          "hi": "ओम-मीटर (Ω·m)",
+          "en": "Ohm-meter (Ω·m)"
+        },
+        {
+          "hi": "ओम/मीटर²",
+          "en": "Ohm/meter²"
+        },
+        {
+          "hi": "सीमेंस",
+          "en": "Siemens"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किसी तार की प्रतिरोधकता (Resistivity) किस पर निर्भर करती है?",
+        "en": "Resistivity of a wire depends on what factor?"
+      },
+      "o": [
+        {
+          "hi": "तार की लंबाई पर",
+          "en": "Length of wire"
+        },
+        {
+          "hi": "तार की मोटाई पर",
+          "en": "Thickness of wire"
+        },
+        {
+          "hi": "तार के पदार्थ की प्रकृति एवं तापमान पर",
+          "en": "Nature of material & temperature"
+        },
+        {
+          "hi": "तार के आकार पर",
+          "en": "Shape of wire"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तापमान बढ़ाने पर शुद्ध धातुओं (चालकों) के प्रतिरोध पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to the resistance of pure metals (conductors) on increasing temperature?"
+      },
+      "o": [
+        {
+          "hi": "घट जाता है",
+          "en": "Decreases"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "शून्य हो जाता है",
+          "en": "Becomes zero"
+        },
+        {
+          "hi": "बढ़ जाता है",
+          "en": "Increases"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तापमान बढ़ाने पर अर्धचालकों (जैसे सिलिकॉन और जर्मेनियम) के प्रतिरोध पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to resistance of semiconductors (Si and Ge) on increasing temperature?"
+      },
+      "o": [
+        {
+          "hi": "घट जाता है (चालकता बढ़ती है)",
+          "en": "Decreases (conductivity increases)"
+        },
+        {
+          "hi": "बढ़ जाता है",
+          "en": "Increases"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "अनंत हो जाता है",
+          "en": "Becomes infinite"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "परम शून्य ताप (0 K) पर अर्धचालक किस प्रकार व्यवहार करते हैं?",
+        "en": "At absolute zero temperature (0 K), how do semiconductors behave?"
+      },
+      "o": [
+        {
+          "hi": "सुचालक की तरह",
+          "en": "Like a good conductor"
+        },
+        {
+          "hi": "पूर्ण अचालक / आदर्श विद्युतरोधी की तरह",
+          "en": "Like a perfect insulator"
+        },
+        {
+          "hi": "अतिचालक की तरह",
+          "en": "Like a superconductor"
+        },
+        {
+          "hi": "धातु की तरह",
+          "en": "Like a metal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अत्यधिक निम्न ताप पर किसी पदार्थ का प्रतिरोध पूर्णतः शून्य हो जाने की परिघटना को क्या कहते हैं?",
+        "en": "Phenomenon where electrical resistance of material drops to zero at low temp is?"
+      },
+      "o": [
+        {
+          "hi": "अर्धचालकता",
+          "en": "Semiconductivity"
+        },
+        {
+          "hi": "विद्युत अपघटन",
+          "en": "Electrolysis"
+        },
+        {
+          "hi": "अतिचालकता (Superconductivity)",
+          "en": "Superconductivity"
+        },
+        {
+          "hi": "ताप-विद्युत प्रभाव",
+          "en": "Thermoelectricity"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अतिचालकता (Superconductivity) की खोज 1911 में किस वैज्ञानिक ने की थी?",
+        "en": "Who discovered superconductivity in 1911?"
+      },
+      "o": [
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "जे. जे. थॉमसन",
+          "en": "J.J. Thomson"
+        },
+        {
+          "hi": "अल्बर्ट आइंस्टीन",
+          "en": "Albert Einstein"
+        },
+        {
+          "hi": "कैमरलिंग ओन्स (H. Kamerlingh Onnes)",
+          "en": "H. Kamerlingh Onnes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पारा (Mercury) किस तापमान पर अतिचालक (Superconductor) बन जाता है?",
+        "en": "At what temperature does mercury become a superconductor?"
+      },
+      "o": [
+        {
+          "hi": "4.2 K (-268.95°C)",
+          "en": "4.2 K (-268.95°C)"
+        },
+        {
+          "hi": "0 K",
+          "en": "0 K"
+        },
+        {
+          "hi": "77 K",
+          "en": "77 K"
+        },
+        {
+          "hi": "273 K",
+          "en": "273 K"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "घरों में विभिन्न विद्युत उपकरण (पंखा, बल्ब, टीवी) किस क्रम में जोड़े जाते हैं?",
+        "en": "Domestic electrical appliances (fan, bulb, TV) are connected in which combination?"
+      },
+      "o": [
+        {
+          "hi": "श्रेणीक्रम में",
+          "en": "In series"
+        },
+        {
+          "hi": "समानांतर क्रम में (Parallel Combination)",
+          "en": "Parallel Combination"
+        },
+        {
+          "hi": "मिश्रित क्रम में",
+          "en": "Mixed combination"
+        },
+        {
+          "hi": "चक्रीय क्रम में",
+          "en": "Cyclic combination"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "घरों की विद्युत वायरिंग समानांतर क्रम में क्यों की जाती है?",
+        "en": "Why is domestic wiring done in parallel combination?"
+      },
+      "o": [
+        {
+          "hi": "तार कम लगता है",
+          "en": "Requires less wire"
+        },
+        {
+          "hi": "स्विच एक ही होता है",
+          "en": "Single switch works"
+        },
+        {
+          "hi": "सभी उपकरणों को समान वोल्टेज मिलता है व स्वतंत्र नियंत्रण रहता है",
+          "en": "All get equal voltage & independent control"
+        },
+        {
+          "hi": "करंट अधिक मिलता है",
+          "en": "Higher current is supplied"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दिवाली में सजावट के लिए प्रयुक्त छोटे-छोटे बल्बों की लड़ी किस क्रम में जुड़ी होती है?",
+        "en": "Small decorative fairy lights used in Diwali are connected in which combination?"
+      },
+      "o": [
+        {
+          "hi": "समानांतर क्रम में",
+          "en": "In parallel"
+        },
+        {
+          "hi": "त्रिभुजाकार क्रम में",
+          "en": "In triangular shape"
+        },
+        {
+          "hi": "मिश्रित क्रम में",
+          "en": "In mixed circuit"
+        },
+        {
+          "hi": "श्रेणीक्रम में (Series Combination)",
+          "en": "Series Combination"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विद्युत धारा के उष्मीय प्रभाव (Joule's Heating Effect: H = I²Rt) का नियम किसने दिया था?",
+        "en": "Who gave the law of heating effect of electric current (H = I²Rt)?"
+      },
+      "o": [
+        {
+          "hi": "जेम्स प्रेस्कॉट जूल ने",
+          "en": "James Prescott Joule"
+        },
+        {
+          "hi": "जॉर्ज साइमन ओम ने",
+          "en": "Georg Simon Ohm"
+        },
+        {
+          "hi": "फैराडे ने",
+          "en": "Faraday"
+        },
+        {
+          "hi": "एम्पीयर ने",
+          "en": "Ampere"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विद्युत हीटर और गीजर का तापन तंतु (Heating Element) किस मिश्रधातु का बना होता है?",
+        "en": "Heating element of electric heaters and geysers is made of which alloy?"
+      },
+      "o": [
+        {
+          "hi": "तांबा",
+          "en": "Copper"
+        },
+        {
+          "hi": "नाइक्रोम (Nichrome - निकेल और क्रोमियम)",
+          "en": "Nichrome (Nickel and Chromium)"
+        },
+        {
+          "hi": "टंगस्टन",
+          "en": "Tungsten"
+        },
+        {
+          "hi": "पीतल",
+          "en": "Brass"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत हीटर में नाइक्रोम का तार ही क्यों प्रयुक्त किया जाता है?",
+        "en": "Why is nichrome wire used in electric heaters?"
+      },
+      "o": [
+        {
+          "hi": "यह सस्ता होता है",
+          "en": "It is cheap"
+        },
+        {
+          "hi": "यह सुंदर दिखता है",
+          "en": "It looks attractive"
+        },
+        {
+          "hi": "उच्च प्रतिरोधकता और उच्च गलनांक (लगभग 1400°C) के कारण",
+          "en": "High resistivity and high melting point (1400°C)"
+        },
+        {
+          "hi": "यह पिघल जाता है",
+          "en": "It melts easily"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विद्युत बल्ब का फिलामेंट (तंतु) किस धातु का बना होता है?",
+        "en": "Filament of an incandescent electric bulb is made of which metal?"
+      },
+      "o": [
+        {
+          "hi": "तांबा",
+          "en": "Copper"
+        },
+        {
+          "hi": "लोहा",
+          "en": "Iron"
+        },
+        {
+          "hi": "नाइक्रोम",
+          "en": "Nichrome"
+        },
+        {
+          "hi": "टंगस्टन (Tungsten - संकेत W)",
+          "en": "Tungsten (Symbol W)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विद्युत बल्ब में टंगस्टन धातु का उपयोग करने का मुख्य कारण क्या है?",
+        "en": "What is the primary reason for using tungsten in electric bulb filaments?"
+      },
+      "o": [
+        {
+          "hi": "अत्यधिक उच्च गलनांक (लगभग 3422°C)",
+          "en": "Extremely high melting point (3422°C)"
+        },
+        {
+          "hi": "अत्यधिक कम गलनांक",
+          "en": "Very low melting point"
+        },
+        {
+          "hi": "यह बहुत चमकीला है",
+          "en": "It is very shiny"
+        },
+        {
+          "hi": "यह चुंबक से चिपकता है",
+          "en": "It sticks to magnet"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विद्युत बल्ब के अंदर कौन-सी अक्रिय गैसें भरी जाती हैं?",
+        "en": "Which inert/unreactive gases are filled inside an electric bulb?"
+      },
+      "o": [
+        {
+          "hi": "ऑक्सीजन और क्लोरीन",
+          "en": "Oxygen and chlorine"
+        },
+        {
+          "hi": "ऑर्गन (Argon) और नाइट्रोजन",
+          "en": "Argon and Nitrogen"
+        },
+        {
+          "hi": "हाइड्रोजन और कार्बन मोनोऑक्साइड",
+          "en": "Hydrogen and carbon monoxide"
+        },
+        {
+          "hi": "मीथेन और अमोनिया",
+          "en": "Methane and ammonia"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत बल्ब में निष्क्रिय गैसें (जैसे ऑर्गन) क्यों भरी जाती हैं?",
+        "en": "Why are inert gases like argon filled inside electric bulbs?"
+      },
+      "o": [
+        {
+          "hi": "प्रकाश अधिक चमकीला करने हेतु",
+          "en": "To make light brighter"
+        },
+        {
+          "hi": "बल्ब का वजन बढ़ाने हेतु",
+          "en": "To increase weight"
+        },
+        {
+          "hi": "टंगस्टन फिलामेंट के ऑक्सीकरण और वाष्पीकरण को रोकने हेतु",
+          "en": "To prevent oxidation and evaporation of filament"
+        },
+        {
+          "hi": "बल्ब को ठंडा रखने हेतु",
+          "en": "To keep bulb cold"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विद्युत परिपथ की सुरक्षा के लिए प्रयुक्त 'फ्यूज तार' (Fuse Wire) किस मिश्रधातु का बना होता है?",
+        "en": "Safety fuse wire in electric circuits is made of which alloy?"
+      },
+      "o": [
+        {
+          "hi": "तांबा और लोहा",
+          "en": "Copper and iron"
+        },
+        {
+          "hi": "नाइक्रोम और पीतल",
+          "en": "Nichrome and brass"
+        },
+        {
+          "hi": "एल्युमिनियम और जस्ता",
+          "en": "Aluminium and zinc"
+        },
+        {
+          "hi": "टिन और सीसा (Tin ~63% and Lead ~37%)",
+          "en": "Tin and Lead (Sn-Pb alloy)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एक आदर्श फ्यूज तार की क्या विशेषताएं होनी चाहिए?",
+        "en": "What are the essential characteristics of an ideal fuse wire?"
+      },
+      "o": [
+        {
+          "hi": "उच्च प्रतिरोध और निम्न गलनांक",
+          "en": "High resistance and low melting point"
+        },
+        {
+          "hi": "निम्न प्रतिरोध और उच्च गलनांक",
+          "en": "Low resistance and high melting point"
+        },
+        {
+          "hi": "उच्च प्रतिरोध और उच्च गलनांक",
+          "en": "High resistance and high melting point"
+        },
+        {
+          "hi": "निम्न प्रतिरोध और निम्न गलनांक",
+          "en": "Low resistance and low melting point"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फ्यूज तार को विद्युत परिपथ में किस तार के साथ और किस क्रम में जोड़ा जाता है?",
+        "en": "How and in which wire is a fuse connected in a domestic circuit?"
+      },
+      "o": [
+        {
+          "hi": "उदासीन तार में समानांतर",
+          "en": "Parallel in neutral wire"
+        },
+        {
+          "hi": "फेज (जीवंत/गर्म) तार में श्रेणीक्रम में",
+          "en": "In series with phase/live wire"
+        },
+        {
+          "hi": "अर्थिंग तार में श्रेणीक्रम में",
+          "en": "In series with earth wire"
+        },
+        {
+          "hi": "किसी भी तार में समानांतर",
+          "en": "Parallel in any wire"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत शक्ति (Electric Power) का SI मात्रक क्या होता है?",
+        "en": "What is the SI unit of electric power?"
+      },
+      "o": [
+        {
+          "hi": "जूल",
+          "en": "Joule"
+        },
+        {
+          "hi": "वोल्ट",
+          "en": "Volt"
+        },
+        {
+          "hi": "वाट (Watt - W)",
+          "en": "Watt (W)"
+        },
+        {
+          "hi": "एम्पीयर",
+          "en": "Ampere"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1 किलोवाट घंटा (1 kWh) विद्युत ऊर्जा का मान कितने जूल के बराबर होता है?",
+        "en": "What is value of 1 kilowatt hour (1 kWh) in joules?"
+      },
+      "o": [
+        {
+          "hi": "1000 जूल",
+          "en": "1000 Joules"
+        },
+        {
+          "hi": "3600 जूल",
+          "en": "3600 Joules"
+        },
+        {
+          "hi": "746 जूल",
+          "en": "746 Joules"
+        },
+        {
+          "hi": "3.6 × 10^6 जूल (1 यूनिट)",
+          "en": "3.6 × 10^6 Joules (1 Unit)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बिजली के बिल में खपत की गई ऊर्जा को किस इकाई में मापा जाता है?",
+        "en": "In which commercial unit is consumed electrical energy billed?"
+      },
+      "o": [
+        {
+          "hi": "यूनिट (किलोवाट घंटा - kWh)",
+          "en": "Unit (Kilowatt-hour - kWh)"
+        },
+        {
+          "hi": "किलोवाट में",
+          "en": "Kilowatt"
+        },
+        {
+          "hi": "मेगावाट में",
+          "en": "Megawatt"
+        },
+        {
+          "hi": "एम्पीयर-घंटा में",
+          "en": "Ampere-hour"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "परिपथ में विद्युत धारा (Current) मापने के लिए किस यंत्र का उपयोग किया जाता है?",
+        "en": "Which instrument is used to measure electric current in a circuit?"
+      },
+      "o": [
+        {
+          "hi": "वोल्टमीटर",
+          "en": "Voltmeter"
+        },
+        {
+          "hi": "अमीटर (Ammeter)",
+          "en": "Ammeter"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "पाइरोमीटर",
+          "en": "Pyrometer"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अमीटर को परिपथ में किस क्रम में जोड़ा जाता है?",
+        "en": "In which combination is an ammeter connected in an electric circuit?"
+      },
+      "o": [
+        {
+          "hi": "समानांतर क्रम में",
+          "en": "In parallel"
+        },
+        {
+          "hi": "मिश्रित क्रम में",
+          "en": "In mixed circuit"
+        },
+        {
+          "hi": "सदैव श्रेणीक्रम में (Series)",
+          "en": "Always in series"
+        },
+        {
+          "hi": "स्वतंत्र रूप से",
+          "en": "Independently"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एक आदर्श अमीटर (Ideal Ammeter) का विद्युत प्रतिरोध कितना होना चाहिए?",
+        "en": "What should be the electrical resistance of an ideal ammeter?"
+      },
+      "o": [
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "100 ओम",
+          "en": "100 Ohm"
+        },
+        {
+          "hi": "1 ओम",
+          "en": "1 Ohm"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "परिपथ के किन्हीं दो बिंदुओं के बीच विभवांतर (Voltage) मापने के लिए किस यंत्र का उपयोग होता है?",
+        "en": "Which instrument is used to measure potential difference between two points?"
+      },
+      "o": [
+        {
+          "hi": "वोल्टमीटर (Voltmeter)",
+          "en": "Voltmeter"
+        },
+        {
+          "hi": "अमीटर",
+          "en": "Ammeter"
+        },
+        {
+          "hi": "गैल्वेनोमीटर",
+          "en": "Galvanometer"
+        },
+        {
+          "hi": "लैक्टोमीटर",
+          "en": "Lactometer"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वोल्टमीटर को परिपथ में किस क्रम में जोड़ा जाता है?",
+        "en": "In which combination is a voltmeter connected across a circuit?"
+      },
+      "o": [
+        {
+          "hi": "श्रेणीक्रम में",
+          "en": "In series"
+        },
+        {
+          "hi": "समानांतर क्रम में (Parallel)",
+          "en": "In parallel"
+        },
+        {
+          "hi": "विकर्ण क्रम में",
+          "en": "Diagonally"
+        },
+        {
+          "hi": "कहीं भी",
+          "en": "Anywhere"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक आदर्श वोल्टमीटर (Ideal Voltmeter) का विद्युत प्रतिरोध कितना होता है?",
+        "en": "What is the electrical resistance of an ideal voltmeter?"
+      },
+      "o": [
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "1 ओम",
+          "en": "1 Ohm"
+        },
+        {
+          "hi": "अनंत (Infinite)",
+          "en": "Infinite"
+        },
+        {
+          "hi": "1000 ओम",
+          "en": "1000 Ohm"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गैल्वेनोमीटर को अमीटर में बदलने के लिए क्या किया जाता है?",
+        "en": "To convert a galvanometer into an ammeter, what is connected?"
+      },
+      "o": [
+        {
+          "hi": "श्रेणीक्रम में उच्च प्रतिरोध",
+          "en": "High resistance in series"
+        },
+        {
+          "hi": "समानांतर क्रम में उच्च प्रतिरोध",
+          "en": "High resistance in parallel"
+        },
+        {
+          "hi": "श्रेणीक्रम में निम्न प्रतिरोध",
+          "en": "Low resistance in series"
+        },
+        {
+          "hi": "समानांतर क्रम में निम्न प्रतिरोध (शंट - Shunt)",
+          "en": "Low resistance (shunt) in parallel"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गैल्वेनोमीटर को वोल्टमीटर में बदलने के लिए क्या किया जाता है?",
+        "en": "To convert a galvanometer into a voltmeter, what is connected?"
+      },
+      "o": [
+        {
+          "hi": "श्रेणीक्रम में उच्च प्रतिरोध (High resistance in series)",
+          "en": "High resistance in series"
+        },
+        {
+          "hi": "समानांतर क्रम में निम्न प्रतिरोध",
+          "en": "Low resistance in parallel"
+        },
+        {
+          "hi": "समानांतर क्रम में उच्च प्रतिरोध",
+          "en": "High resistance in parallel"
+        },
+        {
+          "hi": "कुछ भी नहीं जोड़ते",
+          "en": "Nothing is added"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दिष्ट धारा (DC) और प्रत्यावर्ती धारा (AC) में क्या मुख्य अंतर होता है?",
+        "en": "What is the primary difference between Direct Current (DC) and Alternating Current (AC)?"
+      },
+      "o": [
+        {
+          "hi": "DC में वोल्टेज अधिक होता है",
+          "en": "DC has higher voltage"
+        },
+        {
+          "hi": "DC की दिशा समय के साथ नहीं बदलती जबकि AC की दिशा आवर्ती रूप से बदलती है",
+          "en": "DC direction is constant, AC alternates periodically"
+        },
+        {
+          "hi": "AC बैटरी से मिलती है",
+          "en": "AC comes from battery"
+        },
+        {
+          "hi": "DC दूर तक भेजी जा सकती है",
+          "en": "DC travels further"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में घरों में प्रयुक्त प्रत्यावर्ती धारा (AC) की आवृत्ति और वोल्टेज कितना होता है?",
+        "en": "What is frequency and voltage of domestic AC supply in India?"
+      },
+      "o": [
+        {
+          "hi": "60 Hz, 110 V",
+          "en": "60 Hz, 110 V"
+        },
+        {
+          "hi": "100 Hz, 440 V",
+          "en": "100 Hz, 440 V"
+        },
+        {
+          "hi": "50 Hz, 220 V",
+          "en": "50 Hz, 220 V"
+        },
+        {
+          "hi": "50 Hz, 110 V",
+          "en": "50 Hz, 110 V"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रत्यावर्ती धारा (AC) को दिष्ट धारा (DC) में बदलने वाले उपकरण को क्या कहते हैं?",
+        "en": "Device used to convert Alternating Current (AC) into Direct Current (DC) is?"
+      },
+      "o": [
+        {
+          "hi": "इन्वर्टर",
+          "en": "Inverter"
+        },
+        {
+          "hi": "ट्रांसफार्मर",
+          "en": "Transformer"
+        },
+        {
+          "hi": "डायनेमो",
+          "en": "Dynamo"
+        },
+        {
+          "hi": "दिष्टकारी (Rectifier)",
+          "en": "Rectifier"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दिष्ट धारा (DC) को प्रत्यावर्ती धारा (AC) में बदलने वाले उपकरण को क्या कहा जाता है?",
+        "en": "Device used to convert Direct Current (DC) into Alternating Current (AC) is?"
+      },
+      "o": [
+        {
+          "hi": "इन्वर्टर (Inverter)",
+          "en": "Inverter"
+        },
+        {
+          "hi": "रेक्टिफायर",
+          "en": "Rectifier"
+        },
+        {
+          "hi": "ट्रांसफार्मर",
+          "en": "Transformer"
+        },
+        {
+          "hi": "जनरेटर",
+          "en": "Generator"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ट्रांसफार्मर (Transformer) किस सिद्धांत पर कार्य करता है?",
+        "en": "On which principle does an electrical transformer operate?"
+      },
+      "o": [
+        {
+          "hi": "स्व-प्रेरण पर",
+          "en": "Self-induction"
+        },
+        {
+          "hi": "अन्योन्य प्रेरण (Mutual Induction) के सिद्धांत पर",
+          "en": "Principle of Mutual Induction"
+        },
+        {
+          "hi": "प्रकाश-विद्युत प्रभाव पर",
+          "en": "Photoelectric effect"
+        },
+        {
+          "hi": "पास्कल के नियम पर",
+          "en": "Pascal's law"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ट्रांसफार्मर का उपयोग केवल किस प्रकार की धारा में किया जा सकता है?",
+        "en": "A transformer can be used only in which type of current circuit?"
+      },
+      "o": [
+        {
+          "hi": "केवल DC में",
+          "en": "Only in DC"
+        },
+        {
+          "hi": "AC और DC दोनों में",
+          "en": "Both AC and DC"
+        },
+        {
+          "hi": "केवल प्रत्यावर्ती धारा (AC) में",
+          "en": "Only in Alternating Current (AC)"
+        },
+        {
+          "hi": "केवल बैटरी परिपथ में",
+          "en": "Only in battery circuit"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ट्रांसफार्मर की क्रोड (Core) किसकी बनाई जाती है?",
+        "en": "The core of a transformer is made of which material?"
+      },
+      "o": [
+        {
+          "hi": "स्टील की",
+          "en": "Steel"
+        },
+        {
+          "hi": "तांबे की",
+          "en": "Copper"
+        },
+        {
+          "hi": "एल्युमिनियम की",
+          "en": "Aluminium"
+        },
+        {
+          "hi": "पटलित नर्म लोहे (Laminated Soft Iron) की",
+          "en": "Laminated Soft Iron"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ट्रांसफार्मर की क्रोड को पटलित (Laminated) क्यों बनाया जाता है?",
+        "en": "Why is the core of a transformer laminated?"
+      },
+      "o": [
+        {
+          "hi": "भंवर धाराओं (Eddy Currents) से होने वाली ऊर्जा हानि कम करने हेतु",
+          "en": "To reduce energy loss due to eddy currents"
+        },
+        {
+          "hi": "ट्रांसफार्मर का वजन घटाने के लिए",
+          "en": "To reduce transformer weight"
+        },
+        {
+          "hi": "जंग से बचाने के लिए",
+          "en": "To prevent rust"
+        },
+        {
+          "hi": "सुंदरता के लिए",
+          "en": "For aesthetic look"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किरचॉफ का धारा नियम (प्रथम नियम: ΣI = 0) किस संरक्षण पर आधारित है?",
+        "en": "Kirchhoff's Current Law (First Law: ΣI = 0) is based on conservation of what?"
+      },
+      "o": [
+        {
+          "hi": "ऊर्जा संरक्षण",
+          "en": "Energy conservation"
+        },
+        {
+          "hi": "आवेश संरक्षण (Conservation of Charge)",
+          "en": "Conservation of Charge"
+        },
+        {
+          "hi": "संवेग संरक्षण",
+          "en": "Momentum conservation"
+        },
+        {
+          "hi": "द्रव्यमान संरक्षण",
+          "en": "Mass conservation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किरचॉफ का वोल्टेज नियम (द्वितीय नियम: ΣV = 0) किस संरक्षण पर आधारित है?",
+        "en": "Kirchhoff's Voltage Law (Second Law) is based on conservation of what?"
+      },
+      "o": [
+        {
+          "hi": "आवेश संरक्षण",
+          "en": "Conservation of charge"
+        },
+        {
+          "hi": "द्रव्यमान संरक्षण",
+          "en": "Conservation of mass"
+        },
+        {
+          "hi": "ऊर्जा संरक्षण (Conservation of Energy)",
+          "en": "Conservation of Energy"
+        },
+        {
+          "hi": "कोणीय संवेग संरक्षण",
+          "en": "Angular momentum"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "व्हीटस्टोन सेतु (Wheatstone Bridge) का उपयोग क्या मापने के लिए किया जाता है?",
+        "en": "What is a Wheatstone Bridge used to measure?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत धारा",
+          "en": "Electric current"
+        },
+        {
+          "hi": "विद्युत विभव",
+          "en": "Electric potential"
+        },
+        {
+          "hi": "विद्युत धारिता",
+          "en": "Capacitance"
+        },
+        {
+          "hi": "अज्ञात प्रतिरोध (Unknown Resistance)",
+          "en": "Unknown Resistance"
+        }
+      ],
+      "a": 3
+    }
+  ]
+}

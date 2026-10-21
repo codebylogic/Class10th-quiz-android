@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "पृष्ठ तनाव",
+  "description": "पृष्ठ तनाव पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "एक ही पदार्थ के अणुओं के मध्य लगने वाले आकर्षण बल को क्या कहते हैं?",
+        "en": "What is the attractive force between molecules of the same substance called?"
+      },
+      "o": [
+        {
+          "hi": "ससंजक बल (Cohesive Force)",
+          "en": "Cohesive Force"
+        },
+        {
+          "hi": "आसंजक बल (Adhesive Force)",
+          "en": "Adhesive Force"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण बल",
+          "en": "Gravitational Force"
+        },
+        {
+          "hi": "घर्षण बल",
+          "en": "Frictional Force"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दो भिन्न-भिन्न पदार्थों के अणुओं के बीच लगने वाले आकर्षण बल को क्या कहा जाता है?",
+        "en": "What is the attractive force between molecules of different substances called?"
+      },
+      "o": [
+        {
+          "hi": "ससंजक बल",
+          "en": "Cohesive Force"
+        },
+        {
+          "hi": "आसंजक बल (Adhesive Force)",
+          "en": "Adhesive Force"
+        },
+        {
+          "hi": "प्रत्यानयन बल",
+          "en": "Restoring Force"
+        },
+        {
+          "hi": "नाभिकीय बल",
+          "en": "Nuclear Force"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ब्लैकबोर्ड पर चॉक से लिखने पर अक्षर क्यों उभर आते हैं?",
+        "en": "Why do letters appear when writing with chalk on a blackboard?"
+      },
+      "o": [
+        {
+          "hi": "ससंजक बल के कारण",
+          "en": "Due to cohesive force"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण के कारण",
+          "en": "Due to gravitation"
+        },
+        {
+          "hi": "आसंजक बल के कारण",
+          "en": "Due to adhesive force"
+        },
+        {
+          "hi": "श्यानता के कारण",
+          "en": "Due to viscosity"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पानी कांच को भिगोता है जबकि पारा कांच को नहीं भिगोता, इसका मुख्य कारण क्या है?",
+        "en": "Water wets glass but mercury does not wet glass, what is the main reason?"
+      },
+      "o": [
+        {
+          "hi": "पारे का घनत्व कम होना",
+          "en": "Mercury has low density"
+        },
+        {
+          "hi": "पानी का रंगहीन होना",
+          "en": "Water is colorless"
+        },
+        {
+          "hi": "पारे का वाष्प दाब अधिक होना",
+          "en": "High vapor pressure of mercury"
+        },
+        {
+          "hi": "पारे का ससंजक बल आसंजक बल से अधिक होना",
+          "en": "Mercury's cohesive force exceeds adhesive"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "द्रव की स्वतंत्र सतह द्वारा अपना क्षेत्रफल न्यूनतम करने की प्रवृत्ति को क्या कहते हैं?",
+        "en": "The tendency of liquid surface to contract to minimum surface area is called what?"
+      },
+      "o": [
+        {
+          "hi": "पृष्ठ तनाव (Surface Tension)",
+          "en": "Surface Tension"
+        },
+        {
+          "hi": "श्यानता (Viscosity)",
+          "en": "Viscosity"
+        },
+        {
+          "hi": "प्रत्यास्थता (Elasticity)",
+          "en": "Elasticity"
+        },
+        {
+          "hi": "केशिकत्व (Capillarity)",
+          "en": "Capillarity"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "SI पद्धति में पृष्ठ तनाव (Surface Tension) का मात्रक क्या होता है?",
+        "en": "What is the SI unit of surface tension?"
+      },
+      "o": [
+        {
+          "hi": "जूल-मीटर",
+          "en": "Joule-meter"
+        },
+        {
+          "hi": "न्यूटन/मीटर (N/m)",
+          "en": "Newton/meter (N/m)"
+        },
+        {
+          "hi": "न्यूटन-मीटर",
+          "en": "Newton-meter"
+        },
+        {
+          "hi": "पास्कल",
+          "en": "Pascal"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वर्षा की गिरती हुई बूंदें गोलाकार किस गुण के कारण होती हैं?",
+        "en": "Falling raindrops acquire spherical shape due to which property?"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्वाकर्षण के कारण",
+          "en": "Due to gravity"
+        },
+        {
+          "hi": "श्यानता के कारण",
+          "en": "Due to viscosity"
+        },
+        {
+          "hi": "पृष्ठ तनाव के कारण",
+          "en": "Due to surface tension"
+        },
+        {
+          "hi": "वायुमंडलीय दाब के कारण",
+          "en": "Due to atmospheric pressure"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृष्ठ तनाव का विमीय सूत्र (Dimensional Formula) क्या होता है?",
+        "en": "What is the dimensional formula of surface tension?"
+      },
+      "o": [
+        {
+          "hi": "[M L T^-2]",
+          "en": "[M L T^-2]"
+        },
+        {
+          "hi": "[M L^-1 T^-2]",
+          "en": "[M L^-1 T^-2]"
+        },
+        {
+          "hi": "[M L^2 T^-2]",
+          "en": "[M L^2 T^-2]"
+        },
+        {
+          "hi": "[M L^0 T^-2] या [M T^-2]",
+          "en": "[M L^0 T^-2] or [M T^-2]"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तापमान बढ़ाने पर द्रवों के पृष्ठ तनाव (Surface Tension) पर क्या प्रभाव पड़ता है?",
+        "en": "What effect does increasing temperature have on surface tension of liquids?"
+      },
+      "o": [
+        {
+          "hi": "पृष्ठ तनाव घट जाता है",
+          "en": "Surface tension decreases"
+        },
+        {
+          "hi": "पृष्ठ तनाव बढ़ जाता है",
+          "en": "Surface tension increases"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "अनंत हो जाता है",
+          "en": "Becomes infinite"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्रांतिक ताप (Critical Temperature) पर द्रव का पृष्ठ तनाव कितना हो जाता है?",
+        "en": "At critical temperature, what does surface tension of a liquid become?"
+      },
+      "o": [
+        {
+          "hi": "अधिकतम",
+          "en": "Maximum"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "अपरिवर्तित",
+          "en": "Unchanged"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गर्म सूप (Hot Soup) ठंडे सूप की तुलना में अधिक स्वादिष्ट क्यों लगता है?",
+        "en": "Why does hot soup taste more delicious than cold soup?"
+      },
+      "o": [
+        {
+          "hi": "गर्म सूप में मसाले अधिक होते हैं",
+          "en": "Hot soup has more spices"
+        },
+        {
+          "hi": "गर्म सूप गाढ़ा होता है",
+          "en": "Hot soup is thicker"
+        },
+        {
+          "hi": "ताप अधिक होने से पृष्ठ तनाव कम होता है और जीभ पर फैलता है",
+          "en": "Lower surface tension spreads it on tongue"
+        },
+        {
+          "hi": "गर्म सूप का वाष्पीकरण नहीं होता",
+          "en": "Hot soup does not evaporate"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पानी में साबुन या डिटर्जेंट घोलने पर जल के पृष्ठ तनाव पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to the surface tension of water when soap or detergent is dissolved?"
+      },
+      "o": [
+        {
+          "hi": "बढ़ जाता है",
+          "en": "Increases"
+        },
+        {
+          "hi": "शून्य हो जाता है",
+          "en": "Becomes zero"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "कम हो जाता है",
+          "en": "Decreases"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "साबुन के घोल से बड़े बुलबुले क्यों बनाए जा सकते हैं?",
+        "en": "Why can large bubbles be formed from soap solution?"
+      },
+      "o": [
+        {
+          "hi": "साबुन घोल का पृष्ठ तनाव कम होता है",
+          "en": "Soap solution has lower surface tension"
+        },
+        {
+          "hi": "साबुन घोल का पृष्ठ तनाव अधिक होता है",
+          "en": "Soap solution has higher surface tension"
+        },
+        {
+          "hi": "साबुन से घनत्व बढ़ जाता है",
+          "en": "Soap increases density"
+        },
+        {
+          "hi": "साबुन से श्यानता बढ़ जाती है",
+          "en": "Soap increases viscosity"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मच्छरों के प्रकोप को रोकने के लिए ठहरे हुए पानी पर मिट्टी का तेल (केरोसिन) क्यों छिड़का जाता है?",
+        "en": "Why is kerosene sprayed on stagnant water to control mosquito breeding?"
+      },
+      "o": [
+        {
+          "hi": "तेल से मच्छर भाग जाते हैं",
+          "en": "Mosquitoes flee from oil"
+        },
+        {
+          "hi": "पृष्ठ तनाव कम होने से लार्वा डूबकर मर जाते हैं",
+          "en": "Lower surface tension drowns larvae"
+        },
+        {
+          "hi": "पानी का तापमान बढ़ जाता है",
+          "en": "Water temperature rises"
+        },
+        {
+          "hi": "तेल से पानी जम जाता है",
+          "en": "Water freezes with oil"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पानी की सतह पर धीरे से रखी गई लोहे की पतली सुई किस कारण तैरने लगती है?",
+        "en": "Why does a thin iron needle float when placed gently on water surface?"
+      },
+      "o": [
+        {
+          "hi": "आर्किमिडीज सिद्धांत से",
+          "en": "Due to Archimedes' principle"
+        },
+        {
+          "hi": "सुई के कम भार के कारण",
+          "en": "Due to low weight"
+        },
+        {
+          "hi": "जल के पृष्ठ तनाव के कारण",
+          "en": "Due to surface tension of water"
+        },
+        {
+          "hi": "श्यानता के कारण",
+          "en": "Due to viscosity"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एक बहुत बारीक और समान त्रिज्या वाली खोखली नली को क्या कहा जाता है?",
+        "en": "What is a very fine and uniform bore tube called?"
+      },
+      "o": [
+        {
+          "hi": "परखनली",
+          "en": "Test tube"
+        },
+        {
+          "hi": "पिपेट",
+          "en": "Pipette"
+        },
+        {
+          "hi": "ब्यूरेट",
+          "en": "Burette"
+        },
+        {
+          "hi": "केशनली (Capillary Tube)",
+          "en": "Capillary Tube"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "केशनली में द्रव के ऊपर चढ़ने या नीचे उतरने की घटना को क्या कहते हैं?",
+        "en": "What is the phenomenon of rise or fall of liquid in a capillary tube called?"
+      },
+      "o": [
+        {
+          "hi": "केशिकत्व (Capillarity)",
+          "en": "Capillarity"
+        },
+        {
+          "hi": "श्यानता",
+          "en": "Viscosity"
+        },
+        {
+          "hi": "प्लवन",
+          "en": "Floatation"
+        },
+        {
+          "hi": "प्रत्यास्थता",
+          "en": "Elasticity"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लालटेन अथवा दीये की बत्ती में तेल ऊपर किस क्रिया द्वारा चढ़ता है?",
+        "en": "By which action does oil rise in the wick of a lantern or lamp?"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्वाकर्षण द्वारा",
+          "en": "By gravity"
+        },
+        {
+          "hi": "केशिकत्व (Capillarity) द्वारा",
+          "en": "By capillarity"
+        },
+        {
+          "hi": "श्यानता द्वारा",
+          "en": "By viscosity"
+        },
+        {
+          "hi": "दाबांतर द्वारा",
+          "en": "By pressure difference"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ब्लोटिंग पेपर द्वारा स्याही सोखना किस परिघटना पर आधारित है?",
+        "en": "Absorption of ink by blotting paper is based on which phenomenon?"
+      },
+      "o": [
+        {
+          "hi": "श्यानता पर",
+          "en": "Viscosity"
+        },
+        {
+          "hi": "अपोहन पर",
+          "en": "Dialysis"
+        },
+        {
+          "hi": "केशिकत्व क्रिया पर",
+          "en": "Capillary action"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण पर",
+          "en": "Gravitation"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तौलिए का एक सिरा पानी में डुबोने पर पूरा तौलिया किस कारण भीग जाता है?",
+        "en": "Why does an entire towel get wet when one end is dipped in water?"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्वाकर्षण से",
+          "en": "Due to gravity"
+        },
+        {
+          "hi": "वाष्पीकरण से",
+          "en": "Due to evaporation"
+        },
+        {
+          "hi": "श्यान बल से",
+          "en": "Due to viscous force"
+        },
+        {
+          "hi": "केशिकत्व के कारण",
+          "en": "Due to capillarity"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पेड़-पौधों की शाखाओं व पत्तियों तक जल एवं खनिज लवण किस प्रक्रिया द्वारा पहुँचते हैं?",
+        "en": "By which process do water and minerals reach branches and leaves in plants?"
+      },
+      "o": [
+        {
+          "hi": "केशिकत्व एवं वाष्पोत्सर्जन खिंचाव द्वारा",
+          "en": "Capillarity & transpiration pull"
+        },
+        {
+          "hi": "केवल गुरुत्वाकर्षण बल द्वारा",
+          "en": "Only gravitational force"
+        },
+        {
+          "hi": "केवल प्रकाश संश्लेषण द्वारा",
+          "en": "Only photosynthesis"
+        },
+        {
+          "hi": "वायुमंडलीय दाब द्वारा",
+          "en": "Atmospheric pressure"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फाउंटेन पेन की निब बीच से चीरी (विभाजित) क्यों होती है?",
+        "en": "Why is the nib of a fountain pen slit down the middle?"
+      },
+      "o": [
+        {
+          "hi": "डिजाइन सुंदर बनाने हेतु",
+          "en": "To look decorative"
+        },
+        {
+          "hi": "बारीक केशनली बनाकर स्याही चढ़ाने हेतु",
+          "en": "To form capillary for ink flow"
+        },
+        {
+          "hi": "निब को लचीला बनाने हेतु",
+          "en": "To make nib flexible"
+        },
+        {
+          "hi": "स्याही सुखाने हेतु",
+          "en": "To dry ink"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वर्षा के बाद किसान अपने खेतों की जुताई क्यों कर देते हैं?",
+        "en": "Why do farmers plough their fields after rainfall?"
+      },
+      "o": [
+        {
+          "hi": "मिट्टी की उर्वरता बढ़ाने के लिए",
+          "en": "To increase fertility"
+        },
+        {
+          "hi": "खरपतवार नष्ट करने के लिए",
+          "en": "To destroy weeds"
+        },
+        {
+          "hi": "मिट्टी में बनी केशनलियों को तोड़कर नमी बचाने हेतु",
+          "en": "To break capillaries & retain moisture"
+        },
+        {
+          "hi": "खेत को समतल करने के लिए",
+          "en": "To level the field"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कांच की केशनली में पानी का मेनिस्कस (सतह का आकार) कैसा होता है?",
+        "en": "What is the shape of water meniscus in a glass capillary tube?"
+      },
+      "o": [
+        {
+          "hi": "उत्तल (Convex)",
+          "en": "Convex"
+        },
+        {
+          "hi": "समतल (Flat)",
+          "en": "Flat"
+        },
+        {
+          "hi": "अण्डाकार",
+          "en": "Oval"
+        },
+        {
+          "hi": "अवतल (Concave)",
+          "en": "Concave"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कांच की नली में पारे (Mercury) का मेनिस्कस कैसा होता है?",
+        "en": "What is the shape of mercury meniscus in a glass tube?"
+      },
+      "o": [
+        {
+          "hi": "उत्तल (Convex)",
+          "en": "Convex"
+        },
+        {
+          "hi": "अवतल (Concave)",
+          "en": "Concave"
+        },
+        {
+          "hi": "समतल (Flat)",
+          "en": "Flat"
+        },
+        {
+          "hi": "परवलयाकार",
+          "en": "Parabolic"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शुद्ध जल और स्वच्छ कांच के बीच स्पर्श कोण (Angle of Contact) का मान लगभग कितना होता है?",
+        "en": "What is the approximate angle of contact between pure water and clean glass?"
+      },
+      "o": [
+        {
+          "hi": "90°",
+          "en": "90°"
+        },
+        {
+          "hi": "0° (लगभग 8° साधारण जल हेतु)",
+          "en": "0° (about 8° for normal water)"
+        },
+        {
+          "hi": "138°",
+          "en": "138°"
+        },
+        {
+          "hi": "180°",
+          "en": "180°"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पारे और कांच के बीच स्पर्श कोण (Angle of Contact) कैसा होता है?",
+        "en": "What type of angle of contact is there between mercury and glass?"
+      },
+      "o": [
+        {
+          "hi": "न्यूनकोण (Acute angle)",
+          "en": "Acute angle"
+        },
+        {
+          "hi": "समकोण (Right angle)",
+          "en": "Right angle"
+        },
+        {
+          "hi": "अधिक कोण (लगभग 138°)",
+          "en": "Obtuse angle (approx 138°)"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "साबुन के घोल के बुलबुले के अंदर का अतिरिक्त दाब (Excess Pressure) कितना होता है?",
+        "en": "What is excess pressure inside a soap bubble of radius R and surface tension T?"
+      },
+      "o": [
+        {
+          "hi": "T / R",
+          "en": "T / R"
+        },
+        {
+          "hi": "2T / R",
+          "en": "2T / R"
+        },
+        {
+          "hi": "T / 2R",
+          "en": "T / 2R"
+        },
+        {
+          "hi": "4T / R",
+          "en": "4T / R"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "द्रव की बूंद (जैसे पानी की बूंद) के अंदर अतिरिक्त दाब (Excess Pressure) का मान क्या होता है?",
+        "en": "What is excess pressure inside a liquid drop of radius R?"
+      },
+      "o": [
+        {
+          "hi": "2T / R",
+          "en": "2T / R"
+        },
+        {
+          "hi": "4T / R",
+          "en": "4T / R"
+        },
+        {
+          "hi": "T / R",
+          "en": "T / R"
+        },
+        {
+          "hi": "T / 4R",
+          "en": "T / 4R"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दाढ़ी बनाने वाले ब्रश को पानी से बाहर निकालने पर उसके बाल आपस में क्यों चिपक जाते हैं?",
+        "en": "Why do the hairs of a shaving brush cling together when taken out of water?"
+      },
+      "o": [
+        {
+          "hi": "श्यानता के कारण",
+          "en": "Due to viscosity"
+        },
+        {
+          "hi": "पृष्ठ तनाव के कारण",
+          "en": "Due to surface tension"
+        },
+        {
+          "hi": "प्रत्यास्थता के कारण",
+          "en": "Due to elasticity"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण के कारण",
+          "en": "Due to gravitation"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चित्रकारी (पेंटिंग) के ब्रश के बाल पानी से निकालते ही आपस में चिपकने का कारण क्या है?",
+        "en": "What causes the bristles of a painting brush to cling together upon removal from water?"
+      },
+      "o": [
+        {
+          "hi": "ससंजक बल का अभाव",
+          "en": "Lack of cohesive force"
+        },
+        {
+          "hi": "गुरुत्वीय खिंचाव",
+          "en": "Gravitational pull"
+        },
+        {
+          "hi": "पृष्ठ तनाव",
+          "en": "Surface tension"
+        },
+        {
+          "hi": "वायुमंडलीय दबाव",
+          "en": "Atmospheric pressure"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कपूर के छोटे-छोटे टुकड़े जल की सतह पर तेजी से इधर-उधर क्यों नाचते हैं?",
+        "en": "Why do small camphor pieces dance rapidly on water surface?"
+      },
+      "o": [
+        {
+          "hi": "कपूर के वाष्पीकरण से",
+          "en": "Due to evaporation"
+        },
+        {
+          "hi": "रासायनिक अभिक्रिया से",
+          "en": "Chemical reaction"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण के कारण",
+          "en": "Due to gravity"
+        },
+        {
+          "hi": "पृष्ठ तनाव में असमान परिवर्तन के कारण",
+          "en": "Unequal variation in surface tension"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यदि जल में अत्यधिक घुलनशील अशुद्धि (जैसे साधारण नमक) मिलाई जाए, तो जल के पृष्ठ तनाव पर क्या प्रभाव पड़ेगा?",
+        "en": "If highly soluble impurity like common salt is added to water, what happens to surface tension?"
+      },
+      "o": [
+        {
+          "hi": "पृष्ठ तनाव बढ़ जाता है",
+          "en": "Surface tension increases"
+        },
+        {
+          "hi": "पृष्ठ तनाव घट जाता है",
+          "en": "Surface tension decreases"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "शून्य हो जाता है",
+          "en": "Becomes zero"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कम घुलनशील अशुद्धि (जैसे साबुन या फिनोल) मिलाने पर जल के पृष्ठ तनाव पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to surface tension when sparingly soluble impurity like soap is added?"
+      },
+      "o": [
+        {
+          "hi": "बढ़ जाता है",
+          "en": "Increases"
+        },
+        {
+          "hi": "घट जाता है",
+          "en": "Decreases"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "अनंत हो जाता है",
+          "en": "Becomes infinite"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अंतरिक्ष यान में भारहीनता की स्थिति में जल की बूंद का आकार पूर्णतः कैसा होगा?",
+        "en": "In weightlessness inside a spacecraft, what exact shape will a water drop take?"
+      },
+      "o": [
+        {
+          "hi": "अण्डाकार",
+          "en": "Oval"
+        },
+        {
+          "hi": "समतल",
+          "en": "Flat"
+        },
+        {
+          "hi": "पूर्णतः गोलाकार (Spherical)",
+          "en": "Completely spherical"
+        },
+        {
+          "hi": "शंक्वाकार",
+          "en": "Conical"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यदि केशनली की त्रिज्या आधी कर दी जाए, तो उसमें चढ़ने वाले द्रव की ऊँचाई पर क्या प्रभाव पड़ेगा?",
+        "en": "If radius of a capillary tube is halved, what happens to height of liquid column?"
+      },
+      "o": [
+        {
+          "hi": "आधी रह जाएगी",
+          "en": "Becomes half"
+        },
+        {
+          "hi": "समान रहेगी",
+          "en": "Remains same"
+        },
+        {
+          "hi": "चार गुनी हो जाएगी",
+          "en": "Becomes four times"
+        },
+        {
+          "hi": "दोगुनी हो जाएगी",
+          "en": "Will be doubled"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यदि केशनली की लंबाई चढ़ने वाले द्रव की ऊँचाई से कम हो, तो द्रव का क्या होगा?",
+        "en": "If a capillary tube is insufficient in length, what will happen to the liquid?"
+      },
+      "o": [
+        {
+          "hi": "द्रव ऊपरी सिरे तक पहुँचकर रुक जाएगा (फव्वारा नहीं बनेगा)",
+          "en": "Liquid reaches top and stays (no fountain)"
+        },
+        {
+          "hi": "द्रव बाहर बहने लगेगा",
+          "en": "Liquid overflows continuously"
+        },
+        {
+          "hi": "द्रव नीचे उतर जाएगा",
+          "en": "Liquid goes down"
+        },
+        {
+          "hi": "नली टूट जाएगी",
+          "en": "Tube breaks"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गर्म पानी से कपड़े धोने पर वे ठंडे पानी की अपेक्षा अधिक साफ क्यों होते हैं?",
+        "en": "Why are clothes cleaned better in hot water compared to cold water?"
+      },
+      "o": [
+        {
+          "hi": "गर्म पानी में साबुन जम जाता है",
+          "en": "Soap freezes in hot water"
+        },
+        {
+          "hi": "गर्म पानी का पृष्ठ तनाव कम होने से मैल गहराई से निकलता है",
+          "en": "Lower surface tension penetrates dirt better"
+        },
+        {
+          "hi": "गर्म पानी का भार अधिक होता है",
+          "en": "Hot water is heavier"
+        },
+        {
+          "hi": "गर्म पानी में ऑक्सीजन नहीं होती",
+          "en": "Hot water lacks oxygen"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "शीशे (कांच) को काटने के बाद उसके किनारों को चिकना व गोल करने के लिए गर्म क्यों किया जाता है?",
+        "en": "Why are sharp glass edges heated to make them smooth and rounded?"
+      },
+      "o": [
+        {
+          "hi": "कांच की कठोरता बढ़ाने के लिए",
+          "en": "To increase hardness"
+        },
+        {
+          "hi": "कांच का रंग बदलने के लिए",
+          "en": "To change color"
+        },
+        {
+          "hi": "पृष्ठ तनाव के कारण पिघला सिरा गोलाकार हो जाता है",
+          "en": "Surface tension rounds off molten edges"
+        },
+        {
+          "hi": "कांच की मोटाई बढ़ाने के लिए",
+          "en": "To increase thickness"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जल की सतह पर तेल की एक बूंद डालने पर वह पतली फिल्म के रूप में क्यों फैल जाती है?",
+        "en": "Why does an oil drop spread into a thin film on water surface?"
+      },
+      "o": [
+        {
+          "hi": "तेल का घनत्व जल से अधिक होता है",
+          "en": "Oil is denser than water"
+        },
+        {
+          "hi": "तेल की श्यानता जल से अधिक होती है",
+          "en": "Oil is more viscous than water"
+        },
+        {
+          "hi": "जल का तापमान तेल से कम होता है",
+          "en": "Water is cooler than oil"
+        },
+        {
+          "hi": "तेल का पृष्ठ तनाव जल के पृष्ठ तनाव से कम होता है",
+          "en": "Oil has lower surface tension than water"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जब दो छोटे पारे के कण आपस में मिलते हैं, तो एक बड़ी बूंद बनती है। इस प्रक्रिया में कुल पृष्ठीय ऊर्जा पर क्या प्रभाव पड़ता है?",
+        "en": "When mercury droplets coalesce into a larger drop, what happens to surface energy?"
+      },
+      "o": [
+        {
+          "hi": "पृष्ठीय ऊर्जा घटती है तथा ऊष्मा मुक्त होती है",
+          "en": "Surface energy decreases & heat released"
+        },
+        {
+          "hi": "पृष्ठीय ऊर्जा बढ़ती है",
+          "en": "Surface energy increases"
+        },
+        {
+          "hi": "पृष्ठीय ऊर्जा अपरिवर्तित रहती है",
+          "en": "Surface energy remains unchanged"
+        },
+        {
+          "hi": "तापमान अत्यधिक घट जाता है",
+          "en": "Temperature drops severely"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "द्रव की सतह का क्षेत्रफल एकांक बढ़ाने के लिए किया गया कार्य किसके बराबर होता है?",
+        "en": "The work done in increasing the surface area of a liquid by unity equals what?"
+      },
+      "o": [
+        {
+          "hi": "श्यान बल के",
+          "en": "Viscous force"
+        },
+        {
+          "hi": "पृष्ठ ऊर्जा या पृष्ठ तनाव के",
+          "en": "Surface energy or surface tension"
+        },
+        {
+          "hi": "गुरुत्वीय स्थितिज ऊर्जा के",
+          "en": "Gravitational potential energy"
+        },
+        {
+          "hi": "दाब के",
+          "en": "Pressure"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृष्ठ तनाव की उत्पत्ति का आणविक कारण क्या है?",
+        "en": "What is the molecular cause of surface tension in liquids?"
+      },
+      "o": [
+        {
+          "hi": "अणुओं के बीच गुरुत्वाकर्षण बल",
+          "en": "Gravity between molecules"
+        },
+        {
+          "hi": "परमाणुओं का चुंबकीय क्षेत्र",
+          "en": "Magnetic field of atoms"
+        },
+        {
+          "hi": "सतह के अणुओं पर नीचे की ओर परिणामी ससंजक खिंचाव",
+          "en": "Net inward cohesive pull on surface molecules"
+        },
+        {
+          "hi": "अणुओं की गतिज ऊर्जा",
+          "en": "Kinetic energy of molecules"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किसी द्रव के लिए संपर्क कोण 90° से अधिक (अधिक कोण) हो, तो वह द्रव कांच को क्या करेगा?",
+        "en": "If angle of contact is obtuse (>90°), what will the liquid do to glass?"
+      },
+      "o": [
+        {
+          "hi": "पूरी तरह भिगो देगा",
+          "en": "Will wet completely"
+        },
+        {
+          "hi": "कांच को पिघला देगा",
+          "en": "Will melt the glass"
+        },
+        {
+          "hi": "कांच से चिपक जाएगा",
+          "en": "Will stick to glass"
+        },
+        {
+          "hi": "कांच को नहीं भिगोएगा",
+          "en": "Will not wet the glass"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मोमयुक्त सतह (Waxed Surface) पर जल की बूंदें क्यों नहीं फैलतीं?",
+        "en": "Why do water droplets not spread on a waxed surface?"
+      },
+      "o": [
+        {
+          "hi": "जल का ससंजक बल मोम और जल के आसंजक बल से अधिक होता है",
+          "en": "Water cohesive force exceeds adhesive with wax"
+        },
+        {
+          "hi": "मोम का तापमान अधिक होता है",
+          "en": "Wax temperature is higher"
+        },
+        {
+          "hi": "जल की श्यानता शून्य हो जाती है",
+          "en": "Water viscosity becomes zero"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण अनुपस्थित होता है",
+          "en": "Gravity is absent"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जलरोधक कपड़े (Waterproof Fabrics) बनाने के लिए किस सिद्धांत का प्रयोग किया जाता है?",
+        "en": "Which principle is used to make waterproof fabrics?"
+      },
+      "o": [
+        {
+          "hi": "जल का घनत्व बढ़ाने का",
+          "en": "Increasing water density"
+        },
+        {
+          "hi": "रासायनिक लेप द्वारा संपर्क कोण बढ़ाकर 90° से अधिक करना",
+          "en": "Increasing contact angle >90° by coating"
+        },
+        {
+          "hi": "कपड़े की श्यानता घटाने का",
+          "en": "Decreasing cloth viscosity"
+        },
+        {
+          "hi": "वायुमंडलीय दाब कम करने का",
+          "en": "Reducing atmospheric pressure"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "केशनली में पारे का स्तर बाहर के पारे के स्तर से कैसा रहता है?",
+        "en": "How is the level of mercury in a capillary tube compared to outside level?"
+      },
+      "o": [
+        {
+          "hi": "समान रहता है",
+          "en": "Remains same"
+        },
+        {
+          "hi": "ऊपर चढ़ता है",
+          "en": "Rises higher"
+        },
+        {
+          "hi": "नीचे दब (अवनमित हो) जाता है",
+          "en": "Depressed lower"
+        },
+        {
+          "hi": "उबलने लगता है",
+          "en": "Starts boiling"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "साबुन के दो बुलबुले जिनकी त्रिज्याएं असमान हैं, एक नली द्वारा जोड़ दिए जाएं तो क्या होगा?",
+        "en": "If two unequal soap bubbles are connected by a tube, what will happen?"
+      },
+      "o": [
+        {
+          "hi": "दोनों का आकार समान हो जाएगा",
+          "en": "Both will become equal in size"
+        },
+        {
+          "hi": "दोनों फूट जाएंगे",
+          "en": "Both will burst"
+        },
+        {
+          "hi": "बड़ा बुलबुला छोटा हो जाएगा",
+          "en": "Larger one becomes smaller"
+        },
+        {
+          "hi": "छोटा बुलबुला और छोटा तथा बड़ा बुलबुला और बड़ा हो जाएगा",
+          "en": "Smaller becomes smaller & larger becomes larger"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "छोटे बुलबुले के अंदर दाब बड़े बुलबुले के अंदर के दाब से कैसा होता है?",
+        "en": "How is the excess pressure inside a smaller bubble compared to a larger bubble?"
+      },
+      "o": [
+        {
+          "hi": "अधिक होता है",
+          "en": "Higher"
+        },
+        {
+          "hi": "कम होता है",
+          "en": "Lower"
+        },
+        {
+          "hi": "बराबर होता है",
+          "en": "Equal"
+        },
+        {
+          "hi": "शून्य होता है",
+          "en": "Zero"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जल की सतह पर सुई को तैराने के लिए सुई को किसके साथ धीरे से रखा जाता है?",
+        "en": "To float a needle on water, on what is it gently placed initially?"
+      },
+      "o": [
+        {
+          "hi": "कांच के टुकड़े पर",
+          "en": "On glass piece"
+        },
+        {
+          "hi": "ब्लोटिंग पेपर या टिशू पेपर पर",
+          "en": "On blotting/tissue paper"
+        },
+        {
+          "hi": "लोहे की पत्ती पर",
+          "en": "On iron sheet"
+        },
+        {
+          "hi": "सिक्के पर",
+          "en": "On coin"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

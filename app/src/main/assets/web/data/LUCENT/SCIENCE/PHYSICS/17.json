@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "चुम्बकत्व",
+  "description": "चुम्बकत्व पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "प्राकृतिक चुंबक (Natural Magnet) रासायनिक रूप से लोहे का कौन-सा ऑक्साइड होता है?",
+        "en": "Natural magnet is chemically which oxide of iron?"
+      },
+      "o": [
+        {
+          "hi": "मैग्नेटाइट (Fe3O4)",
+          "en": "Magnetite (Fe3O4)"
+        },
+        {
+          "hi": "हेमेटाइट (Fe2O3)",
+          "en": "Hematite (Fe2O3)"
+        },
+        {
+          "hi": "सिडेराइट (FeCO3)",
+          "en": "Siderite (FeCO3)"
+        },
+        {
+          "hi": "आयरन पाइराइट्स (FeS2)",
+          "en": "Iron Pyrites (FeS2)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्वतंत्रतापूर्वक लटकाया गया चुंबक सदैव किस भौगोलिक दिशा में आकर ठहरता है?",
+        "en": "A freely suspended magnet always rests in which geographic direction?"
+      },
+      "o": [
+        {
+          "hi": "पूर्व-पश्चिम दिशा में",
+          "en": "East-West direction"
+        },
+        {
+          "hi": "उत्तर-दक्षिण दिशा में (North-South)",
+          "en": "North-South direction"
+        },
+        {
+          "hi": "उत्तर-पूर्व दिशा में",
+          "en": "North-East direction"
+        },
+        {
+          "hi": "दक्षिण-पश्चिम दिशा में",
+          "en": "South-West direction"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चुंबक के दो समान ध्रुवों (जैसे उत्तर-उत्तर) के बीच कौन-सा बल कार्य करता है?",
+        "en": "What force acts between two like magnetic poles?"
+      },
+      "o": [
+        {
+          "hi": "आकर्षण बल",
+          "en": "Attractive force"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण बल",
+          "en": "Gravitational force"
+        },
+        {
+          "hi": "प्रतिकर्षण बल (Repulsive Force)",
+          "en": "Repulsive Force"
+        },
+        {
+          "hi": "शून्य बल",
+          "en": "Zero force"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चुंबकत्व की वास्तविक और अचूक पहचान (Sure Test of Magnetism) क्या है?",
+        "en": "What is the sure test of magnetism?"
+      },
+      "o": [
+        {
+          "hi": "आकर्षण",
+          "en": "Attraction"
+        },
+        {
+          "hi": "घर्षण",
+          "en": "Friction"
+        },
+        {
+          "hi": "चालकता",
+          "en": "Conductivity"
+        },
+        {
+          "hi": "प्रतिकर्षण (Repulsion)",
+          "en": "Repulsion"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चुंबक के किस भाग में चुंबकत्व सर्वाधिक (अधिकतम) होता है?",
+        "en": "In which part of a magnet is magnetism maximum?"
+      },
+      "o": [
+        {
+          "hi": "दोनों ध्रुवों (Poles) पर",
+          "en": "At both poles"
+        },
+        {
+          "hi": "चुंबक के केंद्र पर",
+          "en": "At center of magnet"
+        },
+        {
+          "hi": "चुंबक की ऊपरी सतह पर",
+          "en": "On top surface"
+        },
+        {
+          "hi": "सभी जगह समान",
+          "en": "Same everywhere"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चुंबक के ठीक मध्य (केंद्र) में चुंबकत्व का मान कितना होता है?",
+        "en": "What is the value of magnetism at the exact center of a bar magnet?"
+      },
+      "o": [
+        {
+          "hi": "अधिकतम",
+          "en": "Maximum"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        },
+        {
+          "hi": "ध्रुवों का आधा",
+          "en": "Half of poles"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यदि किसी छड़ चुंबक को लंबाई के लंबवत दो बराबर टुकड़ों में काट दिया जाए, तो क्या होगा?",
+        "en": "If a bar magnet is cut into two equal halves perpendicularly, what happens?"
+      },
+      "o": [
+        {
+          "hi": "ध्रुव नष्ट हो जाएंगे",
+          "en": "Poles are destroyed"
+        },
+        {
+          "hi": "एक टुकड़ा केवल उत्तरी व दूसरा केवल दक्षिणी ध्रुव बनेगा",
+          "en": "One North only and other South only"
+        },
+        {
+          "hi": "प्रत्येक टुकड़ा अपने आप में एक पूर्ण चुंबक बन जाएगा",
+          "en": "Each piece becomes a complete magnet with two poles"
+        },
+        {
+          "hi": "चुंबकत्व समाप्त हो जाएगा",
+          "en": "Magnetism is lost"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चुंबकीय फ्लक्स (Magnetic Flux) का SI मात्रक क्या होता है?",
+        "en": "What is the SI unit of magnetic flux?"
+      },
+      "o": [
+        {
+          "hi": "टेस्ला",
+          "en": "Tesla"
+        },
+        {
+          "hi": "गॉस",
+          "en": "Gauss"
+        },
+        {
+          "hi": "हेनरी",
+          "en": "Henry"
+        },
+        {
+          "hi": "वेबर (Weber - Wb)",
+          "en": "Weber (Wb)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चुंबकीय फ्लक्स का CGS मात्रक 'मैक्सवेल' है। 1 वेबर कितने मैक्सवेल के बराबर होता है?",
+        "en": "1 Weber is equal to how many Maxwells?"
+      },
+      "o": [
+        {
+          "hi": "10^8 मैक्सवेल",
+          "en": "10^8 Maxwell"
+        },
+        {
+          "hi": "10^4 मैक्सवेल",
+          "en": "10^4 Maxwell"
+        },
+        {
+          "hi": "10^6 मैक्सवेल",
+          "en": "10^6 Maxwell"
+        },
+        {
+          "hi": "10^10 मैक्सवेल",
+          "en": "10^10 Maxwell"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चुंबकीय क्षेत्र की तीव्रता या प्रेरण (Magnetic Field Induction - B) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of magnetic field induction (B)?"
+      },
+      "o": [
+        {
+          "hi": "वेबर",
+          "en": "Weber"
+        },
+        {
+          "hi": "टेस्ला (Tesla - T) या वेबर/मीटर²",
+          "en": "Tesla (T) or Weber/m²"
+        },
+        {
+          "hi": "गॉस",
+          "en": "Gauss"
+        },
+        {
+          "hi": "ओर्स्टेड",
+          "en": "Oersted"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "CGS पद्धति में चुंबकीय प्रेरण का मात्रक गॉस (Gauss) है। 1 टेस्ला कितने गॉस के बराबर होता है?",
+        "en": "1 Tesla is equal to how many Gauss?"
+      },
+      "o": [
+        {
+          "hi": "10^2 गॉस",
+          "en": "10^2 Gauss"
+        },
+        {
+          "hi": "10^3 गॉस",
+          "en": "10^3 Gauss"
+        },
+        {
+          "hi": "10^4 गॉस",
+          "en": "10^4 Gauss"
+        },
+        {
+          "hi": "10^5 गॉस",
+          "en": "10^5 Gauss"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चुंबकीय बल रेखाएं (Magnetic Lines of Force) चुंबक के बाहर किधर से किधर जाती हैं?",
+        "en": "Outside a magnet, magnetic field lines travel from where to where?"
+      },
+      "o": [
+        {
+          "hi": "दक्षिणी ध्रुव से उत्तरी ध्रुव की ओर",
+          "en": "From South Pole to North Pole"
+        },
+        {
+          "hi": "केंद्र से बाहर की ओर",
+          "en": "From center outwards"
+        },
+        {
+          "hi": "लंबवत ऊपर की ओर",
+          "en": "Perpendicular upwards"
+        },
+        {
+          "hi": "उत्तरी ध्रुव से दक्षिणी ध्रुव की ओर",
+          "en": "From North Pole to South Pole"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चुंबक के अंदर चुंबकीय बल रेखाओं की दिशा किधर होती है?",
+        "en": "Inside a magnet, what is the direction of magnetic field lines?"
+      },
+      "o": [
+        {
+          "hi": "दक्षिणी ध्रुव से उत्तरी ध्रुव की ओर (South to North)",
+          "en": "From South Pole to North Pole"
+        },
+        {
+          "hi": "उत्तरी ध्रुव से दक्षिणी ध्रुव की ओर",
+          "en": "From North Pole to South Pole"
+        },
+        {
+          "hi": "शून्य होती है",
+          "en": "Zero"
+        },
+        {
+          "hi": "केंद्र से ध्रुव की ओर",
+          "en": "From center to pole"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विद्युत धारा के चुंबकीय प्रभाव (Magnetic Effect of Current) की खोज सर्वप्रथम किसने की थी?",
+        "en": "Who first discovered the magnetic effect of electric current in 1820?"
+      },
+      "o": [
+        {
+          "hi": "माइकल फैराडे ने",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "हेंस क्रिश्चियन ओर्स्टेड ने",
+          "en": "Hans Christian Oersted"
+        },
+        {
+          "hi": "आंद्रे एम्पीयर ने",
+          "en": "Andre Ampere"
+        },
+        {
+          "hi": "अलेक्जेंड्रो वोल्टा ने",
+          "en": "Alessandro Volta"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चुंबक द्वारा दुर्बल रूप से प्रतिकर्षित (Weakly Repelled) होने वाले पदार्थ क्या कहलाते हैं?",
+        "en": "Substances weakly repelled by a magnetic field are called what?"
+      },
+      "o": [
+        {
+          "hi": "लौहचुंबकीय पदार्थ",
+          "en": "Ferromagnetic substances"
+        },
+        {
+          "hi": "अनुचुंबकीय पदार्थ",
+          "en": "Paramagnetic substances"
+        },
+        {
+          "hi": "प्रतिचुंबकीय पदार्थ (Diamagnetic)",
+          "en": "Diamagnetic substances"
+        },
+        {
+          "hi": "अतिचालक पदार्थ",
+          "en": "Superconducting substances"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा एक प्रतिचुंबकीय (Diamagnetic) पदार्थ का उदाहरण है?",
+        "en": "Which of the following is an example of a diamagnetic substance?"
+      },
+      "o": [
+        {
+          "hi": "लोहा",
+          "en": "Iron"
+        },
+        {
+          "hi": "निकेल",
+          "en": "Nickel"
+        },
+        {
+          "hi": "एल्युमिनियम",
+          "en": "Aluminium"
+        },
+        {
+          "hi": "बिस्मथ, तांबा, चांदी, सोना और जल",
+          "en": "Bismuth, Copper, Silver, Gold and Water"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चुंबक द्वारा दुर्बल रूप से आकर्षित (Weakly Attracted) होने वाले पदार्थ क्या कहलाते हैं?",
+        "en": "Substances weakly attracted towards a magnet are called what?"
+      },
+      "o": [
+        {
+          "hi": "अनुचुंबकीय पदार्थ (Paramagnetic)",
+          "en": "Paramagnetic substances"
+        },
+        {
+          "hi": "प्रतिचुंबकीय पदार्थ",
+          "en": "Diamagnetic substances"
+        },
+        {
+          "hi": "लौहचुंबकीय पदार्थ",
+          "en": "Ferromagnetic substances"
+        },
+        {
+          "hi": "अचुंबकीय पदार्थ",
+          "en": "Non-magnetic substances"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा एक अनुचुंबकीय (Paramagnetic) पदार्थ है?",
+        "en": "Which of the following is a paramagnetic substance?"
+      },
+      "o": [
+        {
+          "hi": "बिस्मथ",
+          "en": "Bismuth"
+        },
+        {
+          "hi": "एल्युमिनियम, प्लेटिनम, सोडियम और ऑक्सीजन",
+          "en": "Aluminium, Platinum, Sodium and Oxygen"
+        },
+        {
+          "hi": "लोहा",
+          "en": "Iron"
+        },
+        {
+          "hi": "कोबाल्ट",
+          "en": "Cobalt"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चुंबक द्वारा बहुत प्रबल रूप से आकर्षित (Strongly Attracted) होने वाले पदार्थ क्या कहलाते हैं?",
+        "en": "Substances strongly attracted by a magnet are called what?"
+      },
+      "o": [
+        {
+          "hi": "प्रतिचुंबकीय",
+          "en": "Diamagnetic"
+        },
+        {
+          "hi": "अनुचुंबकीय",
+          "en": "Paramagnetic"
+        },
+        {
+          "hi": "लौहचुंबकीय पदार्थ (Ferromagnetic)",
+          "en": "Ferromagnetic substances"
+        },
+        {
+          "hi": "विद्युतरोधी",
+          "en": "Insulators"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा समूह लौहचुंबकीय (Ferromagnetic) पदार्थों का है?",
+        "en": "Which group consists of ferromagnetic materials?"
+      },
+      "o": [
+        {
+          "hi": "तांबा, चांदी, सोना",
+          "en": "Copper, Silver, Gold"
+        },
+        {
+          "hi": "सोडियम, पोटेशियम, मैग्नीशियम",
+          "en": "Sodium, Potassium, Magnesium"
+        },
+        {
+          "hi": "बिस्मथ, सीसा, पारा",
+          "en": "Bismuth, Lead, Mercury"
+        },
+        {
+          "hi": "लोहा (Fe), निकेल (Ni) और कोबाल्ट (Co)",
+          "en": "Iron (Fe), Nickel (Ni) and Cobalt (Co)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वह निश्चित तापमान जिसके ऊपर गर्म करने पर लौहचुंबकीय पदार्थ अनुचुंबकीय बन जाता है, क्या कहलाता है?",
+        "en": "Temperature above which a ferromagnetic material becomes paramagnetic is?"
+      },
+      "o": [
+        {
+          "hi": "क्यूरी ताप (Curie Temperature)",
+          "en": "Curie Temperature"
+        },
+        {
+          "hi": "क्रांतिक ताप",
+          "en": "Critical temperature"
+        },
+        {
+          "hi": "परम शून्य ताप",
+          "en": "Absolute zero"
+        },
+        {
+          "hi": "ब्वॉयल ताप",
+          "en": "Boyle temperature"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लोहे (Iron) का क्यूरी तापमान कितना होता है?",
+        "en": "What is the Curie temperature of iron?"
+      },
+      "o": [
+        {
+          "hi": "358°C",
+          "en": "358°C"
+        },
+        {
+          "hi": "770°C (या लगभग 1043 K)",
+          "en": "770°C (or approx 1043 K)"
+        },
+        {
+          "hi": "1120°C",
+          "en": "1120°C"
+        },
+        {
+          "hi": "100°C",
+          "en": "100°C"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "निकेल (Nickel) का क्यूरी तापमान कितना होता है?",
+        "en": "What is the Curie temperature of nickel?"
+      },
+      "o": [
+        {
+          "hi": "770°C",
+          "en": "770°C"
+        },
+        {
+          "hi": "1043°C",
+          "en": "1043°C"
+        },
+        {
+          "hi": "लगभग 358°C",
+          "en": "About 358°C"
+        },
+        {
+          "hi": "0°C",
+          "en": "0°C"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विद्युत चुंबक (अस्थायी चुंबक - Electromagnet) बनाने के लिए किस पदार्थ का उपयोग किया जाता है?",
+        "en": "Which material is used to make electromagnets (temporary magnets)?"
+      },
+      "o": [
+        {
+          "hi": "स्टील (कठोर इस्पात)",
+          "en": "Steel"
+        },
+        {
+          "hi": "एल्निको",
+          "en": "Alnico"
+        },
+        {
+          "hi": "तांबा",
+          "en": "Copper"
+        },
+        {
+          "hi": "नर्म लोहा (Soft Iron)",
+          "en": "Soft Iron"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्थायी चुंबक (Permanent Magnet) बनाने के लिए सर्वाधिक उपयुक्त पदार्थ कौन-सा है?",
+        "en": "Which material is most suitable for making permanent magnets?"
+      },
+      "o": [
+        {
+          "hi": "इस्पात (Steel) अथवा एल्निको (Alnico)",
+          "en": "Steel or Alnico"
+        },
+        {
+          "hi": "नर्म लोहा",
+          "en": "Soft Iron"
+        },
+        {
+          "hi": "शुद्ध तांबा",
+          "en": "Pure Copper"
+        },
+        {
+          "hi": "पीतल",
+          "en": "Brass"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एल्निको (Alnico) मिश्रधातु में कौन-कौन से तत्व शामिल होते हैं?",
+        "en": "Which elements are present in Alnico alloy?"
+      },
+      "o": [
+        {
+          "hi": "सोना, चांदी, तांबा",
+          "en": "Gold, Silver, Copper"
+        },
+        {
+          "hi": "एल्युमिनियम, निकेल और कोबाल्ट",
+          "en": "Aluminium, Nickel and Cobalt"
+        },
+        {
+          "hi": "सीसा, टिन, जस्ता",
+          "en": "Lead, Tin, Zinc"
+        },
+        {
+          "hi": "लोहा और कार्बन",
+          "en": "Iron and Carbon"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "चुंबकीय याम्योत्तर और भौगोलिक याम्योत्तर के बीच बने न्यून कोण को क्या कहते हैं?",
+        "en": "Acute angle between magnetic meridian and geographic meridian is called?"
+      },
+      "o": [
+        {
+          "hi": "नमन कोण",
+          "en": "Angle of Dip"
+        },
+        {
+          "hi": "क्रांतिक कोण",
+          "en": "Critical angle"
+        },
+        {
+          "hi": "दिक्पात कोण (Angle of Declination)",
+          "en": "Angle of Declination"
+        },
+        {
+          "hi": "ध्रुवण कोण",
+          "en": "Polarizing angle"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी के चुंबकीय ध्रुवों (Magnetic Poles) पर नमन कोण (Angle of Dip) का मान कितना होता है?",
+        "en": "What is the value of Angle of Dip at Earth's magnetic poles?"
+      },
+      "o": [
+        {
+          "hi": "0°",
+          "en": "0°"
+        },
+        {
+          "hi": "45°",
+          "en": "45°"
+        },
+        {
+          "hi": "60°",
+          "en": "60°"
+        },
+        {
+          "hi": "90°",
+          "en": "90°"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी की चुंबकीय भूमध्य रेखा (Magnetic Equator) पर नमन कोण का मान कितना होता है?",
+        "en": "What is the value of Angle of Dip at Earth's magnetic equator?"
+      },
+      "o": [
+        {
+          "hi": "0°",
+          "en": "0°"
+        },
+        {
+          "hi": "90°",
+          "en": "90°"
+        },
+        {
+          "hi": "45°",
+          "en": "45°"
+        },
+        {
+          "hi": "180°",
+          "en": "180°"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चुंबक को गर्म करने अथवा हथौड़े से जोर-जोर से पीटने पर उसके चुंबकत्व पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to magnetism of a magnet on heating or hammering strongly?"
+      },
+      "o": [
+        {
+          "hi": "चुंबकत्व बढ़ जाता है",
+          "en": "Magnetism increases"
+        },
+        {
+          "hi": "चुंबकत्व नष्ट (समाप्त) हो जाता है",
+          "en": "Magnetism is destroyed/lost"
+        },
+        {
+          "hi": "चुंबकत्व अपरिवर्तित रहता है",
+          "en": "Magnetism remains unchanged"
+        },
+        {
+          "hi": "ध्रुव बदल जाते हैं",
+          "en": "Poles get reversed"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किसी गतिमान आवेशित कण पर चुंबकीय क्षेत्र में लगने वाले बल को क्या कहते हैं?",
+        "en": "Force acting on a moving charged particle in a magnetic field is called?"
+      },
+      "o": [
+        {
+          "hi": "कूलॉम बल",
+          "en": "Coulomb force"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण बल",
+          "en": "Gravitational force"
+        },
+        {
+          "hi": "लॉरेंट्ज बल (Lorentz Force: F = q(v × B))",
+          "en": "Lorentz Force: F = q(v × B)"
+        },
+        {
+          "hi": "श्यान बल",
+          "en": "Viscous force"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यदि कोई आवेशित कण चुंबकीय क्षेत्र की दिशा के समानांतर गति करे (θ = 0°), तो उस पर लगने वाला चुंबकीय बल क्या होगा?",
+        "en": "If a charged particle moves parallel to magnetic field lines, magnetic force on it is?"
+      },
+      "o": [
+        {
+          "hi": "अधिकतम",
+          "en": "Maximum"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "ऋणात्मक",
+          "en": "Negative"
+        },
+        {
+          "hi": "शून्य (F = qvB sin 0° = 0)",
+          "en": "Zero (F = qvB sin 0° = 0)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यदि कोई आवेशित कण चुंबकीय क्षेत्र के लंबवत (θ = 90°) प्रवेश करे, तो उसका गति पथ कैसा होगा?",
+        "en": "If a charged particle enters perpendicular to a uniform magnetic field, its path is?"
+      },
+      "o": [
+        {
+          "hi": "वृत्ताकार (Circular Path)",
+          "en": "Circular Path"
+        },
+        {
+          "hi": "सरल रेखीय",
+          "en": "Straight line"
+        },
+        {
+          "hi": "परवलयाकार",
+          "en": "Parabolic"
+        },
+        {
+          "hi": "अतिपरवलयाकार",
+          "en": "Hyperbolic"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "फ्लेमिंग के बाएं हाथ का नियम (Fleming's Left-Hand Rule) किसकी दिशा ज्ञात करने के लिए प्रयोग होता है?",
+        "en": "Fleming's Left-Hand Rule is used to find the direction of what?"
+      },
+      "o": [
+        {
+          "hi": "प्रेरित धारा की दिशा",
+          "en": "Direction of induced current"
+        },
+        {
+          "hi": "चुंबकीय क्षेत्र में धारावाही चालक पर लगने वाले बल की दिशा",
+          "en": "Force on current-carrying conductor in B"
+        },
+        {
+          "hi": "चुंबकीय क्षेत्र की दिशा",
+          "en": "Direction of magnetic field"
+        },
+        {
+          "hi": "विद्युत विभव की दिशा",
+          "en": "Direction of potential"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "फ्लेमिंग के बाएं हाथ के नियम में तर्जनी (Forefinger) किसकी दिशा को प्रदर्शित करती है?",
+        "en": "In Fleming's Left-Hand Rule, forefinger indicates direction of what?"
+      },
+      "o": [
+        {
+          "hi": "चालक पर लगने वाले बल की",
+          "en": "Force on conductor"
+        },
+        {
+          "hi": "विद्युत धारा की",
+          "en": "Electric current"
+        },
+        {
+          "hi": "चुंबकीय क्षेत्र (Magnetic Field) की",
+          "en": "Magnetic Field"
+        },
+        {
+          "hi": "चालक की गति की",
+          "en": "Motion of conductor"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "फ्लेमिंग के दाएं हाथ का नियम (Fleming's Right-Hand Rule) किसकी दिशा ज्ञात करने के लिए उपयोग किया जाता है?",
+        "en": "Fleming's Right-Hand Rule is used to find direction of what?"
+      },
+      "o": [
+        {
+          "hi": "चुंबकीय क्षेत्र की तीव्रता",
+          "en": "Magnetic field intensity"
+        },
+        {
+          "hi": "चुंबकीय आघूर्ण",
+          "en": "Magnetic moment"
+        },
+        {
+          "hi": "आवेश के वेग",
+          "en": "Velocity of charge"
+        },
+        {
+          "hi": "प्रेरित विद्युत धारा (Induced Current) की",
+          "en": "Induced Current"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विद्युत मोटर (Electric Motor) किस नियम पर कार्य करती है?",
+        "en": "Electric motor works on which rule/principle?"
+      },
+      "o": [
+        {
+          "hi": "फ्लेमिंग के बाएं हाथ के नियम पर",
+          "en": "Fleming's Left-Hand Rule"
+        },
+        {
+          "hi": "फ्लेमिंग के दाएं हाथ के नियम पर",
+          "en": "Fleming's Right-Hand Rule"
+        },
+        {
+          "hi": "फैराडे के विद्युत अपघटन नियम पर",
+          "en": "Faraday's electrolysis rule"
+        },
+        {
+          "hi": "पास्कल के नियम पर",
+          "en": "Pascal's law"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विद्युत जनरेटर (डायनेमो - Generator) किस सिद्धांत पर कार्य करता है?",
+        "en": "Electric generator (dynamo) operates on which principle?"
+      },
+      "o": [
+        {
+          "hi": "फ्लेमिंग के बाएं हाथ के नियम पर",
+          "en": "Fleming's Left-Hand Rule"
+        },
+        {
+          "hi": "विद्युत-चुंबकीय प्रेरण (Electromagnetic Induction) पर",
+          "en": "Electromagnetic Induction"
+        },
+        {
+          "hi": "जूल के ऊष्मीय प्रभाव पर",
+          "en": "Joule's heating effect"
+        },
+        {
+          "hi": "कूलॉम के नियम पर",
+          "en": "Coulomb's law"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत-चुंबकीय प्रेरण (Electromagnetic Induction) की खोज 1831 में किस वैज्ञानिक ने की थी?",
+        "en": "Who discovered Electromagnetic Induction in 1831?"
+      },
+      "o": [
+        {
+          "hi": "थॉमस एडीसन ने",
+          "en": "Thomas Edison"
+        },
+        {
+          "hi": "हेंस ओर्स्टेड ने",
+          "en": "Hans Oersted"
+        },
+        {
+          "hi": "माइकल फैराडे (Michael Faraday) ने",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "जेम्स वाट ने",
+          "en": "James Watt"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रेरित विद्युत वाहक बल की दिशा सदैव ऐसी होती है कि वह उस कारण का विरोध करती है जिससे वह उत्पन्न हुई है, यह किसका नियम है?",
+        "en": "Induced EMF opposes the cause that produces it. Whose law is this?"
+      },
+      "o": [
+        {
+          "hi": "फैराडे का प्रथम नियम",
+          "en": "Faraday's first law"
+        },
+        {
+          "hi": "ओम का नियम",
+          "en": "Ohm's law"
+        },
+        {
+          "hi": "एम्पीयर का नियम",
+          "en": "Ampere's law"
+        },
+        {
+          "hi": "लेंज का नियम (Lenz's Law)",
+          "en": "Lenz's Law"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लेंज का नियम (Lenz's Law) किस भौतिक राशि के संरक्षण के नियम पर आधारित है?",
+        "en": "Lenz's Law is based on the conservation of which physical quantity?"
+      },
+      "o": [
+        {
+          "hi": "ऊर्जा संरक्षण (Conservation of Energy)",
+          "en": "Conservation of Energy"
+        },
+        {
+          "hi": "आवेश संरक्षण",
+          "en": "Conservation of charge"
+        },
+        {
+          "hi": "संवेग संरक्षण",
+          "en": "Conservation of momentum"
+        },
+        {
+          "hi": "द्रव्यमान संरक्षण",
+          "en": "Conservation of mass"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्व-प्रेरण (Self-Induction) और अन्योन्य प्रेरण (Mutual Induction) का SI मात्रक क्या होता है?",
+        "en": "What is the SI unit of self-inductance and mutual inductance?"
+      },
+      "o": [
+        {
+          "hi": "वेबर",
+          "en": "Weber"
+        },
+        {
+          "hi": "हेनरी (Henry - H)",
+          "en": "Henry (H)"
+        },
+        {
+          "hi": "टेस्ला",
+          "en": "Tesla"
+        },
+        {
+          "hi": "फैराड",
+          "en": "Farad"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ट्रांसफार्मर किस प्रेरण के सिद्धांत पर कार्य करता है?",
+        "en": "A transformer works on which principle of induction?"
+      },
+      "o": [
+        {
+          "hi": "स्व-प्रेरण पर",
+          "en": "Self-induction"
+        },
+        {
+          "hi": "घर्षण प्रेरण पर",
+          "en": "Frictional induction"
+        },
+        {
+          "hi": "अन्योन्य प्रेरण (Mutual Induction) पर",
+          "en": "Mutual Induction"
+        },
+        {
+          "hi": "स्थिर विद्युत प्रेरण पर",
+          "en": "Electrostatic induction"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "परिनालिका (Solenoid) में नर्म लोहे की छड़ रखने पर उसके चुंबकीय क्षेत्र पर क्या प्रभाव पड़ता है?",
+        "en": "Inserting a soft iron core into a current-carrying solenoid does what to magnetic field?"
+      },
+      "o": [
+        {
+          "hi": "घट जाता है",
+          "en": "Decreases"
+        },
+        {
+          "hi": "शून्य हो जाता है",
+          "en": "Becomes zero"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "अत्यधिक बढ़ जाता है",
+          "en": "Increases significantly"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चुंबकीय पारगम्यता (Magnetic Permeability - μ) का SI मात्रक क्या होता है?",
+        "en": "What is the SI unit of magnetic permeability (μ)?"
+      },
+      "o": [
+        {
+          "hi": "हेनरी/मीटर (H/m) अथवा T·m/A",
+          "en": "Henry/meter (H/m) or T·m/A"
+        },
+        {
+          "hi": "वेबर/मीटर",
+          "en": "Weber/meter"
+        },
+        {
+          "hi": "टेस्ला/मीटर",
+          "en": "Tesla/meter"
+        },
+        {
+          "hi": "एम्पीयर-मीटर",
+          "en": "Ampere-meter"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रतिचुंबकीय पदार्थों की चुंबकीय प्रवृत्ति (Magnetic Susceptibility - χ) कैसी होती है?",
+        "en": "What is the magnetic susceptibility (χ) of diamagnetic substances?"
+      },
+      "o": [
+        {
+          "hi": "धनात्मक और बहुत बड़ी",
+          "en": "Positive and very large"
+        },
+        {
+          "hi": "ऋणात्मक और अल्प (Small negative)",
+          "en": "Small negative"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अनुचुंबकीय पदार्थों की चुंबकीय प्रवृत्ति (Magnetic Susceptibility) कैसी होती है?",
+        "en": "What is the magnetic susceptibility of paramagnetic substances?"
+      },
+      "o": [
+        {
+          "hi": "ऋणात्मक",
+          "en": "Negative"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "धनात्मक और अल्प (Small positive)",
+          "en": "Small positive"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लौहचुंबकीय पदार्थों की चुंबकीय प्रवृत्ति कैसी होती है?",
+        "en": "What is the magnetic susceptibility of ferromagnetic substances?"
+      },
+      "o": [
+        {
+          "hi": "ऋणात्मक",
+          "en": "Negative"
+        },
+        {
+          "hi": "अत्यंत कम",
+          "en": "Extremely low"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "धनात्मक और बहुत अधिक (Positive & very large)",
+          "en": "Positive & very large"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दिक्सूचक सुई (Compass Needle) किस दिशा की ओर संकेत करती है?",
+        "en": "Which direction does a magnetic compass needle point towards?"
+      },
+      "o": [
+        {
+          "hi": "चुंबकीय उत्तर दिशा (Magnetic North)",
+          "en": "Magnetic North"
+        },
+        {
+          "hi": "चुंबकीय दक्षिण दिशा",
+          "en": "Magnetic South"
+        },
+        {
+          "hi": "भौगोलिक पूर्व दिशा",
+          "en": "Geographic East"
+        },
+        {
+          "hi": "भौगोलिक पश्चिम दिशा",
+          "en": "Geographic West"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चुंबकीय क्षेत्र में रखी धारावाही कुंडली पर लगने वाले बल आघूर्ण (Torque) का सूत्र क्या है?",
+        "en": "Torque τ acting on a current loop in magnetic field B is given by?"
+      },
+      "o": [
+        {
+          "hi": "τ = M / B",
+          "en": "τ = M / B"
+        },
+        {
+          "hi": "τ = M × B (या NIAB sin θ)",
+          "en": "τ = M × B (or NIAB sin θ)"
+        },
+        {
+          "hi": "τ = M + B",
+          "en": "τ = M + B"
+        },
+        {
+          "hi": "τ = M · B",
+          "en": "τ = M · B"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

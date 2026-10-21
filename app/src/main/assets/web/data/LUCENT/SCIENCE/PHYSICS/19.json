@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "रेडियोसक्रियता",
+  "description": "रेडियोसक्रियता पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "रेडियोसक्रियता (Radioactivity) की खोज 1896 में किस फ्रांसीसी वैज्ञानिक ने की थी?",
+        "en": "Who discovered radioactivity in uranium in 1896?"
+      },
+      "o": [
+        {
+          "hi": "हेनरी बेकेरल (Henri Becquerel) ने",
+          "en": "Henri Becquerel"
+        },
+        {
+          "hi": "मैरी क्यूरी ने",
+          "en": "Marie Curie"
+        },
+        {
+          "hi": "अर्नेस्ट रदरफोर्ड ने",
+          "en": "Ernest Rutherford"
+        },
+        {
+          "hi": "विलियम रॉन्टजन ने",
+          "en": "Wilhelm Roentgen"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पिचब्लेंड (Pitchblende) अयस्क से रेडियम और पोलोनियम की खोज 1898 में किसने की थी?",
+        "en": "Who discovered Radium and Polonium from pitchblende ore in 1898?"
+      },
+      "o": [
+        {
+          "hi": "हेनरी बेकेरल ने",
+          "en": "Henri Becquerel"
+        },
+        {
+          "hi": "मैरी क्यूरी और पियरे क्यूरी ने",
+          "en": "Marie Curie and Pierre Curie"
+        },
+        {
+          "hi": "जे. जे. थॉमसन ने",
+          "en": "J.J. Thomson"
+        },
+        {
+          "hi": "ऑटो हान ने",
+          "en": "Otto Hahn"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रेडियोसक्रियता का SI मात्रक क्या होता है?",
+        "en": "What is the SI unit of radioactivity?"
+      },
+      "o": [
+        {
+          "hi": "क्यूरी",
+          "en": "Curie"
+        },
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "बेकेरल (Becquerel - Bq / 1 क्षय प्रति सेकंड)",
+          "en": "Becquerel (Bq / 1 decay per second)"
+        },
+        {
+          "hi": "फर्मी",
+          "en": "Fermi"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1 क्यूरी (Curie - Ci) कितने विखंडन (क्षय) प्रति सेकंड के बराबर होती है?",
+        "en": "1 Curie is equal to how many disintegrations per second?"
+      },
+      "o": [
+        {
+          "hi": "10^6 क्षय/सेकंड",
+          "en": "10^6 dps"
+        },
+        {
+          "hi": "3.0 × 10^8 क्षय/सेकंड",
+          "en": "3.0 × 10^8 dps"
+        },
+        {
+          "hi": "1 क्षय/सेकंड",
+          "en": "1 dps"
+        },
+        {
+          "hi": "3.7 × 10^10 क्षय/सेकंड (disintegrations per second)",
+          "en": "3.7 × 10^10 dps"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 रदरफोर्ड (Rutherford - Rd) कितने विघटन प्रति सेकंड के बराबर होता है?",
+        "en": "1 Rutherford is equal to how many disintegrations per second?"
+      },
+      "o": [
+        {
+          "hi": "10^6 विघटन प्रति सेकंड",
+          "en": "10^6 disintegrations per second"
+        },
+        {
+          "hi": "10^3 विघटन/सेकंड",
+          "en": "10^3 dps"
+        },
+        {
+          "hi": "3.7 × 10^10 विघटन/सेकंड",
+          "en": "3.7 × 10^10 dps"
+        },
+        {
+          "hi": "10^12 विघटन/सेकंड",
+          "en": "10^12 dps"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रेडियोसक्रिय पदार्थों से स्वतः उत्सर्जित होने वाली तीन किरणें कौन-सी हैं?",
+        "en": "Which three rays are spontaneously emitted from radioactive substances?"
+      },
+      "o": [
+        {
+          "hi": "एक्स, कैथोड और कैनाल",
+          "en": "X, cathode and canal"
+        },
+        {
+          "hi": "अल्फा (α), बीटा (β) और गामा (γ) किरणें",
+          "en": "Alpha, Beta and Gamma rays"
+        },
+        {
+          "hi": "पराबैंगनी, दृश्य और अवरक्त",
+          "en": "UV, visible and IR"
+        },
+        {
+          "hi": "माइक्रोवेव और रेडियो तरंगें",
+          "en": "Microwaves and radio"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अल्फा कण (Alpha Particle) वास्तव में क्या होते हैं?",
+        "en": "What is an alpha particle physically?"
+      },
+      "o": [
+        {
+          "hi": "तीव्रगामी इलेक्ट्रॉन",
+          "en": "Fast moving electrons"
+        },
+        {
+          "hi": "उच्च ऊर्जा फोटॉन",
+          "en": "High energy photons"
+        },
+        {
+          "hi": "हीलियम के द्वि-आयनित नाभिक (He²⁺)",
+          "en": "Doubly-ionized helium nucleus (He²⁺)"
+        },
+        {
+          "hi": "एक प्रोटॉन",
+          "en": "A single proton"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अल्फा कण पर कितना विद्युत आवेश होता है?",
+        "en": "What is electric charge on an alpha particle?"
+      },
+      "o": [
+        {
+          "hi": "-1.6 × 10^-19 कूलॉम",
+          "en": "-1.6 × 10^-19 C"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "-3.2 × 10^-19 कूलॉम",
+          "en": "-3.2 × 10^-19 C"
+        },
+        {
+          "hi": "+2 इकाई धनावेश (+3.2 × 10^-19 कूलॉम)",
+          "en": "+2 units positive charge (+3.2 × 10^-19 C)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बीटा कण (Beta Particles) वास्तव में क्या होते हैं?",
+        "en": "What are beta particles physically?"
+      },
+      "o": [
+        {
+          "hi": "तीव्रगामी ऋणावेशित इलेक्ट्रॉनों की धारा",
+          "en": "Stream of fast-moving electrons"
+        },
+        {
+          "hi": "हीलियम नाभिक",
+          "en": "Helium nuclei"
+        },
+        {
+          "hi": "विद्युत-चुंबकीय तरंगें",
+          "en": "Electromagnetic waves"
+        },
+        {
+          "hi": "धनावेशित प्रोटॉन",
+          "en": "Positively charged protons"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "बीटा कणों का वेग प्रकाश के वेग का लगभग कितना होता है?",
+        "en": "What is approximate speed of beta particles relative to speed of light?"
+      },
+      "o": [
+        {
+          "hi": "10%",
+          "en": "10%"
+        },
+        {
+          "hi": "लगभग 90% (9/10 भाग तक)",
+          "en": "About 90% (up to 9/10th)"
+        },
+        {
+          "hi": "प्रकाश के वेग के बराबर",
+          "en": "Equal to light speed"
+        },
+        {
+          "hi": "ध्वनि के वेग के बराबर",
+          "en": "Equal to sound speed"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गामा किरणें (Gamma Rays) किस प्रकार की किरणें होती हैं?",
+        "en": "What type of rays are gamma rays?"
+      },
+      "o": [
+        {
+          "hi": "धनावेशित कण",
+          "en": "Positively charged particles"
+        },
+        {
+          "hi": "ऋणावेशित कण",
+          "en": "Negatively charged particles"
+        },
+        {
+          "hi": "अनावेशित उच्च ऊर्जा विद्युत-चुंबकीय फोटॉन",
+          "en": "Uncharged high-energy electromagnetic photons"
+        },
+        {
+          "hi": "न्यूट्रॉनों का पुंज",
+          "en": "Beam of neutrons"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अल्फा, बीटा और गामा में से सर्वाधिक आयनन क्षमता (Maximum Ionizing Power) किसकी होती है?",
+        "en": "Among alpha, beta and gamma, which has the maximum ionizing power?"
+      },
+      "o": [
+        {
+          "hi": "बीटा किरणों की",
+          "en": "Beta rays"
+        },
+        {
+          "hi": "गामा किरणों की",
+          "en": "Gamma rays"
+        },
+        {
+          "hi": "एक्स किरणों की",
+          "en": "X-rays"
+        },
+        {
+          "hi": "अल्फा किरणों (α-rays) की",
+          "en": "Alpha rays (α-rays)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अल्फा, बीटा और गामा में से सर्वाधिक भेदन क्षमता (Maximum Penetrating Power) किसकी होती है?",
+        "en": "Which ray has maximum penetrating power among alpha, beta and gamma?"
+      },
+      "o": [
+        {
+          "hi": "गामा किरणों (γ-rays) की",
+          "en": "Gamma rays (γ-rays)"
+        },
+        {
+          "hi": "अल्फा किरणों की",
+          "en": "Alpha rays"
+        },
+        {
+          "hi": "बीटा किरणों की",
+          "en": "Beta rays"
+        },
+        {
+          "hi": "कैथोड किरणों की",
+          "en": "Cathode rays"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गामा किरणों की भेदन क्षमता अल्फा किरणों से लगभग कितने गुना अधिक होती है?",
+        "en": "Penetrating power of gamma rays is approximately how many times of alpha rays?"
+      },
+      "o": [
+        {
+          "hi": "100 गुना",
+          "en": "100 times"
+        },
+        {
+          "hi": "लगभग 10,000 गुना",
+          "en": "About 10,000 times"
+        },
+        {
+          "hi": "10 गुना",
+          "en": "10 times"
+        },
+        {
+          "hi": "2 गुना",
+          "en": "2 times"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गामा किरणों की भेदन क्षमता बीटा किरणों की तुलना में लगभग कितने गुना होती है?",
+        "en": "Penetrating power of gamma rays is about how many times of beta rays?"
+      },
+      "o": [
+        {
+          "hi": "10 गुना",
+          "en": "10 times"
+        },
+        {
+          "hi": "50 गुना",
+          "en": "50 times"
+        },
+        {
+          "hi": "लगभग 100 गुना",
+          "en": "About 100 times"
+        },
+        {
+          "hi": "1000 गुना",
+          "en": "1000 times"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अल्फा, बीटा और गामा किरणों की आयनन क्षमताओं का सही अनुपात क्या होता है?",
+        "en": "What is ratio of ionizing powers of alpha, beta and gamma rays?"
+      },
+      "o": [
+        {
+          "hi": "1 : 100 : 10000",
+          "en": "1 : 100 : 10000"
+        },
+        {
+          "hi": "1 : 1 : 1",
+          "en": "1 : 1 : 1"
+        },
+        {
+          "hi": "10000 : 1 : 100",
+          "en": "10000 : 1 : 100"
+        },
+        {
+          "hi": "10000 : 100 : 1 (α : β : γ)",
+          "en": "10000 : 100 : 1 (α : β : γ)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सोडी-फैजन्स वर्ग विस्थापन नियम के अनुसार किसी नाभिक से 1 अल्फा कण निकलने पर परमाणु संख्या और द्रव्यमान संख्या में क्या परिवर्तन होता है?",
+        "en": "When 1 alpha particle is emitted from a nucleus, what change occurs?"
+      },
+      "o": [
+        {
+          "hi": "परमाणु संख्या में 2 की कमी और द्रव्यमान संख्या में 4 की कमी",
+          "en": "Atomic number decreases by 2, mass number by 4"
+        },
+        {
+          "hi": "परमाणु संख्या में 1 की वृद्धि",
+          "en": "Atomic number increases by 1"
+        },
+        {
+          "hi": "द्रव्यमान संख्या में 2 की कमी",
+          "en": "Mass number decreases by 2"
+        },
+        {
+          "hi": "कोई परिवर्तन नहीं होता",
+          "en": "No change occurs"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किसी रेडियोसक्रिय नाभिक से 1 बीटा कण उत्सर्जित होने पर क्या परिवर्तन होता है?",
+        "en": "When 1 beta particle is emitted from a radioactive nucleus, what happens?"
+      },
+      "o": [
+        {
+          "hi": "परमाणु संख्या 1 घटती है",
+          "en": "Atomic number decreases by 1"
+        },
+        {
+          "hi": "परमाणु संख्या 1 बढ़ जाती है और द्रव्यमान संख्या अपरिवर्तित रहती है",
+          "en": "Atomic number increases by 1, mass unchanged"
+        },
+        {
+          "hi": "द्रव्यमान संख्या 4 घटती है",
+          "en": "Mass number decreases by 4"
+        },
+        {
+          "hi": "परमाणु संख्या 2 बढ़ती है",
+          "en": "Atomic number increases by 2"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नाभिक से 1 बीटा कण निकलने पर प्राप्त नया तत्व मूल तत्व का क्या होता है?",
+        "en": "New element formed after emitting 1 beta particle is what to parent element?"
+      },
+      "o": [
+        {
+          "hi": "समस्थानिक (Isotope)",
+          "en": "Isotope"
+        },
+        {
+          "hi": "समन्यूट्रॉनिक (Isotone)",
+          "en": "Isotone"
+        },
+        {
+          "hi": "समभारिक (Isobar)",
+          "en": "Isobar"
+        },
+        {
+          "hi": "समावयवी (Isomer)",
+          "en": "Isomer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किसी नाभिक से गामा किरण (γ-ray) निकलने पर उसके परमाणु क्रमांक और द्रव्यमान संख्या पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to atomic and mass numbers when a gamma ray is emitted?"
+      },
+      "o": [
+        {
+          "hi": "परमाणु संख्या 1 बढ़ती है",
+          "en": "Atomic number increases by 1"
+        },
+        {
+          "hi": "द्रव्यमान संख्या 1 घटती है",
+          "en": "Mass number decreases by 1"
+        },
+        {
+          "hi": "दोनों 2 घट जाते हैं",
+          "en": "Both decrease by 2"
+        },
+        {
+          "hi": "दोनों अपरिवर्तित रहते हैं (कोई बदलाव नहीं होता)",
+          "en": "Both remain unchanged (no change)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रेडियोधर्मी विकिरण को मापने और संसूचित करने के लिए किस उपकरण का उपयोग किया जाता है?",
+        "en": "Which instrument is used to detect and measure ionizing radioactivity?"
+      },
+      "o": [
+        {
+          "hi": "गीगर-मूलर काउंटर (G-M Counter)",
+          "en": "Geiger-Muller Counter (G-M Counter)"
+        },
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "हाइग्रोमीटर",
+          "en": "Hygrometer"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वह समयांतराल जिसमें किसी रेडियोधर्मी पदार्थ के परमाणुओं की संख्या विघटित होकर आधी रह जाती है, क्या कहलाता है?",
+        "en": "Time interval in which half of radioactive atoms disintegrate is called?"
+      },
+      "o": [
+        {
+          "hi": "औसत आयु काल",
+          "en": "Mean life"
+        },
+        {
+          "hi": "अर्ध-आयु काल (Half-life Period)",
+          "en": "Half-life Period"
+        },
+        {
+          "hi": "विघटन काल",
+          "en": "Decay time"
+        },
+        {
+          "hi": "संक्रांति काल",
+          "en": "Transition period"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अर्ध-आयु काल (T) और क्षय नियतांक (λ) के बीच सही संबंध क्या है?",
+        "en": "What is correct relation between half-life T and decay constant λ?"
+      },
+      "o": [
+        {
+          "hi": "T = λ / 0.693",
+          "en": "T = λ / 0.693"
+        },
+        {
+          "hi": "T = 0.693 × λ",
+          "en": "T = 0.693 × λ"
+        },
+        {
+          "hi": "T = 0.693 / λ",
+          "en": "T = 0.693 / λ"
+        },
+        {
+          "hi": "T = 1 / λ²",
+          "en": "T = 1 / λ²"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किसी रेडियोसक्रिय तत्व की अर्ध-आयु 10 वर्ष है। कितने वर्षों बाद उसका केवल 1/4 भाग शेष बचेगा?",
+        "en": "Half-life of an element is 10 years. After how many years will 1/4th remain?"
+      },
+      "o": [
+        {
+          "hi": "10 वर्ष",
+          "en": "10 years"
+        },
+        {
+          "hi": "15 वर्ष",
+          "en": "15 years"
+        },
+        {
+          "hi": "40 वर्ष",
+          "en": "40 years"
+        },
+        {
+          "hi": "20 वर्ष (2 अर्ध-आयु में)",
+          "en": "20 years (in 2 half-lives)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जीवाश्मों, मृत पेड़-पौधों और प्राचीन काष्ठ की आयु ज्ञात करने के लिए किस विधि का उपयोग किया जाता है?",
+        "en": "Which method is used to determine age of fossils, archaeological specimens & wood?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन डेटिंग (C-14 Dating विधि)",
+          "en": "Carbon Dating (C-14 Dating)"
+        },
+        {
+          "hi": "यूरेनियम डेटिंग",
+          "en": "Uranium Dating"
+        },
+        {
+          "hi": "पोटेशियम-ऑर्गन डेटिंग",
+          "en": "Potassium-Argon Dating"
+        },
+        {
+          "hi": "रेडियम डेटिंग",
+          "en": "Radium Dating"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कार्बन डेटिंग विधि का आविष्कार किस अमेरिकी वैज्ञानिक ने किया था?",
+        "en": "Who invented radiocarbon dating method in 1949?"
+      },
+      "o": [
+        {
+          "hi": "अल्बर्ट आइंस्टीन ने",
+          "en": "Albert Einstein"
+        },
+        {
+          "hi": "विलार्ड लिब्बी (Willard Libby - 1960 नोबेल पुरस्कार)",
+          "en": "Willard Libby (1960 Nobel)"
+        },
+        {
+          "hi": "रदरफोर्ड ने",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "एनरिको फर्मी ने",
+          "en": "Enrico Fermi"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी, प्राचीन चट्टानों और उल्कापिंडों की आयु निर्धारित करने के लिए किस विधि का प्रयोग किया जाता है?",
+        "en": "Which dating method is used to determine the age of Earth and old rocks?"
+      },
+      "o": [
+        {
+          "hi": "कार्बन-14 डेटिंग",
+          "en": "Carbon-14 Dating"
+        },
+        {
+          "hi": "फास्फोरस डेटिंग",
+          "en": "Phosphorus Dating"
+        },
+        {
+          "hi": "यूरेनियम-लेड डेटिंग विधि (Uranium Dating)",
+          "en": "Uranium-Lead Dating"
+        },
+        {
+          "hi": "सोडियम डेटिंग",
+          "en": "Sodium Dating"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कैंसर के प्रसिद्ध उपचार (रेडियोथेरेपी) में किस समस्थानिक का उपयोग किया जाता है?",
+        "en": "Which radioactive isotope is widely used in radiotherapy for cancer treatment?"
+      },
+      "o": [
+        {
+          "hi": "आयोडीन-131",
+          "en": "Iodine-131"
+        },
+        {
+          "hi": "सोडियम-24",
+          "en": "Sodium-24"
+        },
+        {
+          "hi": "कार्बन-14",
+          "en": "Carbon-14"
+        },
+        {
+          "hi": "कोबाल्ट-60 (Cobalt-60 - गामा किरण उत्सर्जन)",
+          "en": "Cobalt-60 (Gamma emitter)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "थायरॉयड ग्रंथि (गलगंड/घेंघा) के विकारों की जांच व उपचार में किस रेडियोधर्मी समस्थानिक का उपयोग होता है?",
+        "en": "Which isotope is used for diagnosing and treating thyroid gland disorders?"
+      },
+      "o": [
+        {
+          "hi": "आयोडीन-131 (I-131)",
+          "en": "Iodine-131 (I-131)"
+        },
+        {
+          "hi": "कोबाल्ट-60",
+          "en": "Cobalt-60"
+        },
+        {
+          "hi": "सोडियम-24",
+          "en": "Sodium-24"
+        },
+        {
+          "hi": "आयरन-59",
+          "en": "Iron-59"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर में रक्त परिसंचरण तंत्र में रक्त के थक्के (Blood Clots) का पता लगाने हेतु किसका उपयोग होता है?",
+        "en": "Which isotope is used to locate blood clots in human circulatory system?"
+      },
+      "o": [
+        {
+          "hi": "कोबाल्ट-60",
+          "en": "Cobalt-60"
+        },
+        {
+          "hi": "सोडियम-24 (Na-24)",
+          "en": "Sodium-24 (Na-24)"
+        },
+        {
+          "hi": "आयोडीन-131",
+          "en": "Iodine-131"
+        },
+        {
+          "hi": "कार्बन-14",
+          "en": "Carbon-14"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रक्त कैंसर (ल्यूकेमिया - Leukemia) के उपचार में किस समस्थानिक का उपयोग किया जाता है?",
+        "en": "Which radioisotope is used in the treatment of leukemia (blood cancer)?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम-24",
+          "en": "Sodium-24"
+        },
+        {
+          "hi": "आयोडीन-131",
+          "en": "Iodine-131"
+        },
+        {
+          "hi": "फास्फोरस-32 (P-32)",
+          "en": "Phosphorus-32 (P-32)"
+        },
+        {
+          "hi": "यूरेनियम-235",
+          "en": "Uranium-235"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रक्तहीनता (एनीमिया) की जांच के लिए किस रेडियोधर्मी समस्थानिक का उपयोग किया जाता है?",
+        "en": "Which isotope is used to diagnose anemia?"
+      },
+      "o": [
+        {
+          "hi": "सोडियम-24",
+          "en": "Sodium-24"
+        },
+        {
+          "hi": "आयोडीन-131",
+          "en": "Iodine-131"
+        },
+        {
+          "hi": "कोबाल्ट-60",
+          "en": "Cobalt-60"
+        },
+        {
+          "hi": "आयरन-59 (Fe-59)",
+          "en": "Iron-59 (Fe-59)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पौधों में उर्वरकों के प्रभाव और प्रकाश संश्लेषण की प्रक्रिया का अध्ययन करने में किसका उपयोग होता है?",
+        "en": "Which radioisotope is used to trace uptake of fertilizers in plants?"
+      },
+      "o": [
+        {
+          "hi": "फास्फोरस-32 और कार्बन-14",
+          "en": "Phosphorus-32 and Carbon-14"
+        },
+        {
+          "hi": "यूरेनियम-238",
+          "en": "Uranium-238"
+        },
+        {
+          "hi": "रेडियम-226",
+          "en": "Radium-226"
+        },
+        {
+          "hi": "थोरियम-232",
+          "en": "Thorium-232"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रेडियोसक्रिय अपशिष्ट (Radioactive Waste) को सुरक्षित रखने के लिए किन बक्सों का प्रयोग किया जाता है?",
+        "en": "Radioactive waste is safely shielded and stored in containers made of?"
+      },
+      "o": [
+        {
+          "hi": "लोहे के",
+          "en": "Iron"
+        },
+        {
+          "hi": "सीसे (Lead - Pb) के बक्सों में",
+          "en": "Lead (Pb) containers"
+        },
+        {
+          "hi": "एल्युमिनियम के",
+          "en": "Aluminium"
+        },
+        {
+          "hi": "कांच के",
+          "en": "Glass"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रेडियोसक्रिय विकिरण से मानव शरीर का कौन-सा अंग सबसे पहले और सर्वाधिक प्रभावित होता है?",
+        "en": "Which part of the human body is most sensitive and affected first by radiation?"
+      },
+      "o": [
+        {
+          "hi": "हृदय",
+          "en": "Heart"
+        },
+        {
+          "hi": "यकृत",
+          "en": "Liver"
+        },
+        {
+          "hi": "अस्थि मज्जा (Bone Marrow) और रक्त कोशिकाएं",
+          "en": "Bone Marrow and blood cells"
+        },
+        {
+          "hi": "गुर्दा",
+          "en": "Kidney"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रेडियोसक्रिय क्षय में बीटा क्षय के साथ उत्सर्जित होने वाले अनावेशित व द्रव्यमानहीन कण को क्या कहते हैं?",
+        "en": "Neutral, almost massless particle emitted alongside beta particle in beta decay is?"
+      },
+      "o": [
+        {
+          "hi": "पॉजिट्रॉन",
+          "en": "Positron"
+        },
+        {
+          "hi": "मेसॉन",
+          "en": "Meson"
+        },
+        {
+          "hi": "प्रोटॉन",
+          "en": "Proton"
+        },
+        {
+          "hi": "एंटीन्यूट्रिनो (Antineutrino)",
+          "en": "Antineutrino"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्राकृतिक रेडियोसक्रियता किस परमाणु क्रमांक से अधिक वाले भारी तत्वों में सामान्यतः पाई जाती है?",
+        "en": "Natural radioactivity is predominantly found in elements with atomic number Z greater than?"
+      },
+      "o": [
+        {
+          "hi": "Z > 82 (लेड/सीसे से भारी तत्वों में)",
+          "en": "Z > 82 (elements heavier than Lead)"
+        },
+        {
+          "hi": "Z > 20",
+          "en": "Z > 20"
+        },
+        {
+          "hi": "Z > 50",
+          "en": "Z > 50"
+        },
+        {
+          "hi": "Z > 10",
+          "en": "Z > 10"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रेडियोसक्रिय क्षय की अंतिम स्थिर परिणति (End Product) सामान्यतः कौन-सा तत्व होता है?",
+        "en": "What is the final stable non-radioactive end product of all natural decay series?"
+      },
+      "o": [
+        {
+          "hi": "लोहा",
+          "en": "Iron"
+        },
+        {
+          "hi": "सीसा (Lead - Pb)",
+          "en": "Lead (Pb)"
+        },
+        {
+          "hi": "सोना",
+          "en": "Gold"
+        },
+        {
+          "hi": "पारा",
+          "en": "Mercury"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कृत्रिम रेडियोसक्रियता (Artificial Radioactivity) की खोज 1934 में किसने की थी?",
+        "en": "Who discovered artificial radioactivity in 1934?"
+      },
+      "o": [
+        {
+          "hi": "हेनरी बेकेरल",
+          "en": "Henri Becquerel"
+        },
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "इरेन क्यूरी और एफ. जोलियट ने",
+          "en": "Irene Curie and F. Joliot"
+        },
+        {
+          "hi": "एनरिको फर्मी",
+          "en": "Enrico Fermi"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रेडियोसक्रियता के अध्ययन में प्रयुक्त विल्सन क्लाउड चैम्बर (Cloud Chamber) का आविष्कार किसने किया?",
+        "en": "Who invented the Wilson Cloud Chamber to track paths of ionizing particles?"
+      },
+      "o": [
+        {
+          "hi": "जे. जे. थॉमसन",
+          "en": "J.J. Thomson"
+        },
+        {
+          "hi": "रॉबर्ट मिलिकन",
+          "en": "Robert Millikan"
+        },
+        {
+          "hi": "जेम्स चैडविक",
+          "en": "James Chadwick"
+        },
+        {
+          "hi": "सी. टी. आर. विल्सन ने (C.T.R. Wilson)",
+          "en": "C.T.R. Wilson"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "क्लाउड चैम्बर में अल्फा कणों का मार्ग कैसा दिखाई देता है?",
+        "en": "How does the track of alpha particles appear inside a cloud chamber?"
+      },
+      "o": [
+        {
+          "hi": "मोटी, स्पष्ट और सीधी रेखा के रूप में",
+          "en": "Thick, continuous and straight line"
+        },
+        {
+          "hi": "पतली और टेढ़ी-मेढ़ी रेखा",
+          "en": "Thin and zigzag line"
+        },
+        {
+          "hi": "दिखाई नहीं देता",
+          "en": "Invisible"
+        },
+        {
+          "hi": "वृत्ताकार छल्ले",
+          "en": "Circular rings"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्लाउड चैम्बर में बीटा कणों का मार्ग कैसा दिखाई देता है?",
+        "en": "How does the track of beta particles appear in a cloud chamber?"
+      },
+      "o": [
+        {
+          "hi": "मोटी सीधी रेखा",
+          "en": "Thick straight line"
+        },
+        {
+          "hi": "पतली और टूटी-फूटी टेढ़ी-मेढ़ी रेखा",
+          "en": "Thin and zigzag wavy track"
+        },
+        {
+          "hi": "एकदम सीधी रेखा",
+          "en": "Perfect straight line"
+        },
+        {
+          "hi": "समानांतर रेखाएं",
+          "en": "Parallel lines"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रेडियोसक्रिय विकिरण को रोकने के लिए सबसे प्रभावी धातु कौन-सी है?",
+        "en": "Which is the most effective metal for shielding against radioactive radiation?"
+      },
+      "o": [
+        {
+          "hi": "लोहा",
+          "en": "Iron"
+        },
+        {
+          "hi": "तांबा",
+          "en": "Copper"
+        },
+        {
+          "hi": "सीसा (Lead)",
+          "en": "Lead"
+        },
+        {
+          "hi": "सोना",
+          "en": "Gold"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "केरल के समुद्री तट की बालू में कौन-सा महत्वपूर्ण रेडियोधर्मी खनिज प्रचुर मात्रा में पाया जाता है?",
+        "en": "Which important radioactive mineral is found abundantly in coastal sands of Kerala?"
+      },
+      "o": [
+        {
+          "hi": "यूरेनियम",
+          "en": "Uranium"
+        },
+        {
+          "hi": "प्लूटोनियम",
+          "en": "Plutonium"
+        },
+        {
+          "hi": "रेडियम",
+          "en": "Radium"
+        },
+        {
+          "hi": "थोरियम (मोनोज़ाइट बालू से)",
+          "en": "Thorium (from Monazite sand)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत में थोरियम के अयस्क को किस नाम से जाना जाता है?",
+        "en": "The chief ore of thorium found in India is known as what?"
+      },
+      "o": [
+        {
+          "hi": "मोनाजाइट (Monazite)",
+          "en": "Monazite"
+        },
+        {
+          "hi": "पिचब्लेंड",
+          "en": "Pitchblende"
+        },
+        {
+          "hi": "हेमेटाइट",
+          "en": "Hematite"
+        },
+        {
+          "hi": "बॉक्साइट",
+          "en": "Bauxite"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अल्फा और बीटा किरणों को विद्युत और चुंबकीय क्षेत्र में विक्षेपित करके किसने दिखाया था?",
+        "en": "Who demonstrated that alpha and beta rays are deflected by electric & magnetic fields?"
+      },
+      "o": [
+        {
+          "hi": "बेकेरल",
+          "en": "Becquerel"
+        },
+        {
+          "hi": "अर्नेस्ट रदरफोर्ड ने",
+          "en": "Ernest Rutherford"
+        },
+        {
+          "hi": "मैरी क्यूरी",
+          "en": "Marie Curie"
+        },
+        {
+          "hi": "चैडविक",
+          "en": "Chadwick"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गामा किरणें विद्युत या चुंबकीय क्षेत्र में विक्षेपित क्यों नहीं होतीं?",
+        "en": "Why are gamma rays not deflected by electric or magnetic fields?"
+      },
+      "o": [
+        {
+          "hi": "क्योंकि वे बहुत भारी हैं",
+          "en": "Because they are very heavy"
+        },
+        {
+          "hi": "क्योंकि उनकी चाल कम है",
+          "en": "Because speed is low"
+        },
+        {
+          "hi": "क्योंकि वे विद्युत रूप से उदासीन (अनावेशित) होती हैं",
+          "en": "Because they are electrically neutral (uncharged)"
+        },
+        {
+          "hi": "क्योंकि वे ठोस हैं",
+          "en": "Because they are solid"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रेडियोधर्मी तत्व यूरेनियम-238 (92U238) से एक अल्फा कण निकलने पर बनने वाला तत्व कौन-सा है?",
+        "en": "When 92U238 emits one alpha particle, which nucleus is formed?"
+      },
+      "o": [
+        {
+          "hi": "93Np238",
+          "en": "93Np238"
+        },
+        {
+          "hi": "91Pa234",
+          "en": "91Pa234"
+        },
+        {
+          "hi": "92U234",
+          "en": "92U234"
+        },
+        {
+          "hi": "90Th234 (थोरियम)",
+          "en": "90Th234 (Thorium)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नाभिक से न्यूट्रॉन का प्रोटॉन में रूपांतरण होने पर कौन-सा कण उत्सर्जित होता है?",
+        "en": "When a neutron converts into a proton inside a nucleus, which particle is emitted?"
+      },
+      "o": [
+        {
+          "hi": "बीटा कण (इलेक्ट्रॉन) और एंटीन्यूट्रिनो",
+          "en": "Beta particle (electron) & antineutrino"
+        },
+        {
+          "hi": "अल्फा कण",
+          "en": "Alpha particle"
+        },
+        {
+          "hi": "पॉजिट्रॉन",
+          "en": "Positron"
+        },
+        {
+          "hi": "गामा फोटॉन",
+          "en": "Gamma photon"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "परमाणु के किस भाग से रेडियोधर्मी किरणें (α, β, γ) उत्सर्जित होती हैं?",
+        "en": "From which part of the atom are radioactive rays (α, β, γ) emitted?"
+      },
+      "o": [
+        {
+          "hi": "कक्षाओं में घूमते इलेक्ट्रॉनों से",
+          "en": "From orbiting electrons"
+        },
+        {
+          "hi": "परमाणु के नाभिक (Nucleus) से",
+          "en": "From the atomic nucleus"
+        },
+        {
+          "hi": "परमाणु की बाह्य सतह से",
+          "en": "From outer atomic surface"
+        },
+        {
+          "hi": "रासायनिक बंधों से",
+          "en": "From chemical bonds"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "वैज्ञानिक उपकरण",
+  "description": "वैज्ञानिक उपकरण पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "उड़ते हुए विमानों (हवाई जहाजों) की ऊँचाई मापने के लिए किस यंत्र का उपयोग किया जाता है?",
+        "en": "Which instrument is used in aircraft to measure altitude above sea level?"
+      },
+      "o": [
+        {
+          "hi": "अल्टीमीटर (Altimeter)",
+          "en": "Altimeter"
+        },
+        {
+          "hi": "अमीटर",
+          "en": "Ammeter"
+        },
+        {
+          "hi": "ऑडियोमीटर",
+          "en": "Audiometer"
+        },
+        {
+          "hi": "एनीमोमीटर",
+          "en": "Anemometer"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वायु की गति और दिशा मापने के लिए किस यंत्र का उपयोग किया जाता है?",
+        "en": "Which instrument is used to measure speed and force of wind?"
+      },
+      "o": [
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "एनीमोमीटर (Anemometer)",
+          "en": "Anemometer"
+        },
+        {
+          "hi": "अल्टीमीटर",
+          "en": "Altimeter"
+        },
+        {
+          "hi": "हाइग्रोमीटर",
+          "en": "Hygrometer"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ध्वनि की तीव्रता (Loudness of Sound) मापने के लिए किस उपकरण का उपयोग होता है?",
+        "en": "Which instrument is used to measure the intensity of sound?"
+      },
+      "o": [
+        {
+          "hi": "अमीटर",
+          "en": "Ammeter"
+        },
+        {
+          "hi": "अल्टीमीटर",
+          "en": "Altimeter"
+        },
+        {
+          "hi": "ऑडियोमीटर (Audiometer)",
+          "en": "Audiometer"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विद्युत धारा (Electric Current) की तीव्रता को एम्पीयर में मापने वाला यंत्र कौन-सा है?",
+        "en": "Which instrument measures electric current in amperes?"
+      },
+      "o": [
+        {
+          "hi": "वोल्टमीटर",
+          "en": "Voltmeter"
+        },
+        {
+          "hi": "वाटमीटर",
+          "en": "Wattmeter"
+        },
+        {
+          "hi": "गैल्वेनोमीटर",
+          "en": "Galvanometer"
+        },
+        {
+          "hi": "अमीटर (Ammeter)",
+          "en": "Ammeter"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वायुमंडलीय दाब (Atmospheric Pressure) मापने के लिए किस यंत्र का उपयोग किया जाता है?",
+        "en": "Which instrument is used to measure atmospheric pressure?"
+      },
+      "o": [
+        {
+          "hi": "बैरोमीटर (Barometer)",
+          "en": "Barometer"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "बोलोमीटर",
+          "en": "Bolometer"
+        },
+        {
+          "hi": "पाइरोमीटर",
+          "en": "Pyrometer"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ऊष्मीय विकिरण (Infrared/Thermal Radiation) मापने के लिए किस संवेदनशील यंत्र का उपयोग होता है?",
+        "en": "Which sensitive instrument is used to measure thermal/infrared radiation?"
+      },
+      "o": [
+        {
+          "hi": "कैलोरीमीटर",
+          "en": "Calorimeter"
+        },
+        {
+          "hi": "बोलोमीटर (Bolometer)",
+          "en": "Bolometer"
+        },
+        {
+          "hi": "थर्मामीटर",
+          "en": "Thermometer"
+        },
+        {
+          "hi": "पाइरोमीटर",
+          "en": "Pyrometer"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ऊष्मा की मात्रा (Quantity of Heat) मापने के लिए सामान्यतः किसका उपयोग किया जाता है?",
+        "en": "Which instrument is used to measure quantity of heat in a physical process?"
+      },
+      "o": [
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "थर्मामीटर",
+          "en": "Thermometer"
+        },
+        {
+          "hi": "कैलोरीमीटर (Calorimeter - तांबे का बना)",
+          "en": "Calorimeter (made of copper)"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हृदय गति और धड़कनों को ग्राफिक रूप में रिकॉर्ड करने वाले यंत्र को क्या कहते हैं?",
+        "en": "What is the instrument that records heart activity graphically (ECG)?"
+      },
+      "o": [
+        {
+          "hi": "ईईजी (EEG)",
+          "en": "EEG"
+        },
+        {
+          "hi": "सीस्मोग्राफ",
+          "en": "Seismograph"
+        },
+        {
+          "hi": "स्फिग्मोमैनोमीटर",
+          "en": "Sphygmomanometer"
+        },
+        {
+          "hi": "इलेक्ट्रोकार्डियोग्राफ (ECG / Cardigraph)",
+          "en": "Electrocardiograph (ECG)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मस्तिष्क की विद्युत गतिविधियों को रिकॉर्ड करने वाली जांच क्या कहलाती है?",
+        "en": "Which test records electrical activity of human brain?"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रोएन्सेफेलोग्राफ (EEG)",
+          "en": "Electroencephalograph (EEG)"
+        },
+        {
+          "hi": "ईसीजी (ECG)",
+          "en": "ECG"
+        },
+        {
+          "hi": "सीटी स्कैन",
+          "en": "CT Scan"
+        },
+        {
+          "hi": "एमआरआई",
+          "en": "MRI"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समुद्र में चलने वाले जलयानों पर सही समय का पता लगाने के लिए किस घड़ी का उपयोग होता है?",
+        "en": "Which accurate timekeeper is used on ships at sea to find longitude?"
+      },
+      "o": [
+        {
+          "hi": "स्टॉपवॉच",
+          "en": "Stopwatch"
+        },
+        {
+          "hi": "क्रोनोमीटर (Chronometer)",
+          "en": "Chronometer"
+        },
+        {
+          "hi": "पेंडुलम घड़ी",
+          "en": "Pendulum clock"
+        },
+        {
+          "hi": "क्वार्ट्ज़ घड़ी",
+          "en": "Quartz clock"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पौधों की वृद्धि मापने वाले यंत्र 'क्रेस्कोग्राफ' (Crescograph) का आविष्कार किसने किया था?",
+        "en": "Who invented the Crescograph to measure growth in plants?"
+      },
+      "o": [
+        {
+          "hi": "सी. वी. रमन",
+          "en": "C.V. Raman"
+        },
+        {
+          "hi": "मेघनाद साहा",
+          "en": "Meghnad Saha"
+        },
+        {
+          "hi": "सर जगदीश चंद्र बसु (J.C. Bose)",
+          "en": "Sir J.C. Bose"
+        },
+        {
+          "hi": "बीरबल साहनी",
+          "en": "Birbal Sahni"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यांत्रिक ऊर्जा को विद्युत ऊर्जा में परिवर्तित करने वाला यंत्र कौन-सा है?",
+        "en": "Which device converts mechanical energy into electrical energy?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत मोटर",
+          "en": "Electric motor"
+        },
+        {
+          "hi": "ट्रांसफार्मर",
+          "en": "Transformer"
+        },
+        {
+          "hi": "इन्वर्टर",
+          "en": "Inverter"
+        },
+        {
+          "hi": "डायनेमो (Dynamo / Generator)",
+          "en": "Dynamo / Generator"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इंजनों द्वारा उत्पन्न की जाने वाली शक्ति (Power) को मापने वाले यंत्र को क्या कहते हैं?",
+        "en": "Instrument used to measure mechanical power output of an engine is called?"
+      },
+      "o": [
+        {
+          "hi": "डायनेमोमीटर (Dynamometer)",
+          "en": "Dynamometer"
+        },
+        {
+          "hi": "डायनेमो",
+          "en": "Dynamo"
+        },
+        {
+          "hi": "अमीटर",
+          "en": "Ammeter"
+        },
+        {
+          "hi": "वाटमीटर",
+          "en": "Wattmeter"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समुद्र की गहराई (Depth of the Sea) मापने के लिए किस यंत्र का उपयोग किया जाता है?",
+        "en": "Which instrument is used to measure the depth of the ocean?"
+      },
+      "o": [
+        {
+          "hi": "लैक्टोमीटर",
+          "en": "Lactometer"
+        },
+        {
+          "hi": "फेदोमीटर (Fathometer)",
+          "en": "Fathometer"
+        },
+        {
+          "hi": "हाइड्रोमीटर",
+          "en": "Hydrometer"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत परिपथ में अत्यंत सूक्ष्म धारा की उपस्थिति और दिशा जांचने वाला यंत्र कौन-सा है?",
+        "en": "Which sensitive instrument detects presence & direction of feeble current?"
+      },
+      "o": [
+        {
+          "hi": "अमीटर",
+          "en": "Ammeter"
+        },
+        {
+          "hi": "वोल्टमीटर",
+          "en": "Voltmeter"
+        },
+        {
+          "hi": "गैल्वेनोमीटर (Galvanometer)",
+          "en": "Galvanometer"
+        },
+        {
+          "hi": "पोटेंशियोमीटर",
+          "en": "Potentiometer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "द्रवों का आपेक्षिक घनत्व (Relative Density of Liquids) मापने वाला यंत्र कौन-सा है?",
+        "en": "Which instrument measures the relative density/specific gravity of liquids?"
+      },
+      "o": [
+        {
+          "hi": "हाइग्रोमीटर",
+          "en": "Hygrometer"
+        },
+        {
+          "hi": "लैक्टोमीटर",
+          "en": "Lactometer"
+        },
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "हाइड्रोमीटर (Hydrometer)",
+          "en": "Hydrometer"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वायुमंडल की आपेक्षिक आर्द्रता (Relative Humidity) मापने वाला यंत्र कौन-सा है?",
+        "en": "Which instrument is used to measure atmospheric humidity?"
+      },
+      "o": [
+        {
+          "hi": "हाइग्रोमीटर (Hygrometer)",
+          "en": "Hygrometer"
+        },
+        {
+          "hi": "हाइड्रोमीटर",
+          "en": "Hydrometer"
+        },
+        {
+          "hi": "हाइड्रोफोन",
+          "en": "Hydrophone"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पानी के अंदर ध्वनि तरंगों को रिकॉर्ड करने और सुनने वाला उपकरण कौन-सा है?",
+        "en": "Which apparatus is used to record and listen to sound underwater?"
+      },
+      "o": [
+        {
+          "hi": "मेगाफोन",
+          "en": "Megaphone"
+        },
+        {
+          "hi": "हाइड्रोफोन (Hydrophone)",
+          "en": "Hydrophone"
+        },
+        {
+          "hi": "ऑडियोफोन",
+          "en": "Audiophone"
+        },
+        {
+          "hi": "माइक्रोफोन",
+          "en": "Microphone"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दूध की शुद्धता एवं उसमें पानी की मिलावट की जांच किस यंत्र से की जाती है?",
+        "en": "Purity of milk and water dilution is tested by which instrument?"
+      },
+      "o": [
+        {
+          "hi": "हाइड्रोमीटर",
+          "en": "Hydrometer"
+        },
+        {
+          "hi": "हाइग्रोमीटर",
+          "en": "Hygrometer"
+        },
+        {
+          "hi": "लैक्टोमीटर (Lactometer)",
+          "en": "Lactometer"
+        },
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सिलेंडर या बंद पात्र में गैस का दाब (Gas Pressure) मापने के लिए किस यंत्र का प्रयोग होता है?",
+        "en": "Which instrument is used to measure pressure of gases in a vessel?"
+      },
+      "o": [
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "अल्टीमीटर",
+          "en": "Altimeter"
+        },
+        {
+          "hi": "पाइरोमीटर",
+          "en": "Pyrometer"
+        },
+        {
+          "hi": "मैनोमीटर (Manometer)",
+          "en": "Manometer"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पनडुब्बी में बैठकर समुद्र की सतह पर स्थित जहाजों को देखने के लिए किस यंत्र का उपयोग होता है?",
+        "en": "Device used in submarines to view objects on sea surface is?"
+      },
+      "o": [
+        {
+          "hi": "पेरिस्कोप (Periscope - 45° पर दो समतल दर्पण)",
+          "en": "Periscope (two plane mirrors at 45°)"
+        },
+        {
+          "hi": "टेलीस्कोप",
+          "en": "Telescope"
+        },
+        {
+          "hi": "माइक्रोस्कोप",
+          "en": "Microscope"
+        },
+        {
+          "hi": "कैलिडोस्कोप",
+          "en": "Kaleidoscope"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दूर स्थित अत्यधिक गर्म वस्तुओं (जैसे सूर्य) का तापमान बिना छुए मापने वाला यंत्र कौन-सा है?",
+        "en": "Instrument to measure high temperature of distant objects radiation is?"
+      },
+      "o": [
+        {
+          "hi": "थर्मामीटर",
+          "en": "Thermometer"
+        },
+        {
+          "hi": "पाइरोमीटर (Pyrometer / Radiation Pyrometer)",
+          "en": "Pyrometer"
+        },
+        {
+          "hi": "बोलोमीटर",
+          "en": "Bolometer"
+        },
+        {
+          "hi": "कैलोरीमीटर",
+          "en": "Calorimeter"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रेडियो तरंगों की सहायता से दूर स्थित वस्तुओं (विमानों) की दूरी और दिशा बताने वाला यंत्र कौन-सा है?",
+        "en": "Device detecting range and angle of distant aircraft using radio waves is?"
+      },
+      "o": [
+        {
+          "hi": "सोनार",
+          "en": "SONAR"
+        },
+        {
+          "hi": "लेसर",
+          "en": "LASER"
+        },
+        {
+          "hi": "रडार (RADAR)",
+          "en": "RADAR"
+        },
+        {
+          "hi": "मेसर",
+          "en": "MASER"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वर्षा की मात्रा (Rainfall) को मिमी या सेमी में मापने वाला यंत्र क्या कहलाता है?",
+        "en": "Instrument used to measure the amount of precipitation/rainfall is called?"
+      },
+      "o": [
+        {
+          "hi": "हाइग्रोमीटर",
+          "en": "Hygrometer"
+        },
+        {
+          "hi": "हाइड्रोमीटर",
+          "en": "Hydrometer"
+        },
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "रेन गेज या यूडोमीटर (Rain Gauge / Udometer)",
+          "en": "Rain Gauge / Udometer"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भूकंपीय तरंगों की तीव्रता और कंपन को रेखांकित करने वाला मुख्य यंत्र कौन-सा है?",
+        "en": "Instrument recording seismic vibrations and earthquake waves is called?"
+      },
+      "o": [
+        {
+          "hi": "सीस्मोग्राफ (Seismograph)",
+          "en": "Seismograph"
+        },
+        {
+          "hi": "रिक्टर पैमाना",
+          "en": "Richter scale"
+        },
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "क्रोनोमीटर",
+          "en": "Chronometer"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भूकंप की तीव्रता मापने के लिए किस गणितीय पैमाने (स्केल) का उपयोग किया जाता है?",
+        "en": "Which logarithmic scale is used to measure earthquake magnitude?"
+      },
+      "o": [
+        {
+          "hi": "मर्केली स्केल",
+          "en": "Mercalli scale"
+        },
+        {
+          "hi": "रिक्टर स्केल (Richter Scale - 0 से 9)",
+          "en": "Richter Scale (0 to 9)"
+        },
+        {
+          "hi": "केल्विन स्केल",
+          "en": "Kelvin scale"
+        },
+        {
+          "hi": "डेसिबल स्केल",
+          "en": "Decibel scale"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव रक्तचाप (Blood Pressure) मापने के लिए डॉक्टरों द्वारा किस उपकरण का उपयोग किया जाता है?",
+        "en": "Which instrument is used to measure human blood pressure?"
+      },
+      "o": [
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "स्फिग्मोमैनोमीटर (Sphygmomanometer)",
+          "en": "Sphygmomanometer"
+        },
+        {
+          "hi": "स्टेथोस्कोप",
+          "en": "Stethoscope"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "हृदय और फेफड़ों की धड़कन व आवाज सुनने के लिए डॉक्टर किस यंत्र का उपयोग करते हैं?",
+        "en": "Which medical instrument do doctors use to listen to heart and lung sounds?"
+      },
+      "o": [
+        {
+          "hi": "स्फिग्मोमैनोमीटर",
+          "en": "Sphygmomanometer"
+        },
+        {
+          "hi": "ओटोस्कोप",
+          "en": "Otoscope"
+        },
+        {
+          "hi": "एंडोस्कोप",
+          "en": "Endoscope"
+        },
+        {
+          "hi": "स्टेथोस्कोप (Stethoscope)",
+          "en": "Stethoscope"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वाहनों के इंजन, मोटर या शाफ्ट की घूर्णन गति (RPM - चक्र प्रति मिनट) मापने वाला यंत्र कौन-सा है?",
+        "en": "Which instrument measures rotational speed (RPM) of a shaft or engine?"
+      },
+      "o": [
+        {
+          "hi": "टैकोमीटर (Tachometer)",
+          "en": "Tachometer"
+        },
+        {
+          "hi": "स्पीडोमीटर",
+          "en": "Speedometer"
+        },
+        {
+          "hi": "ओडोमीटर",
+          "en": "Odometer"
+        },
+        {
+          "hi": "अल्टीमीटर",
+          "en": "Altimeter"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वाहनों द्वारा तय की गई कुल दूरी (Distance Traveled) प्रदर्शित करने वाले मीटर को क्या कहते हैं?",
+        "en": "Instrument recording total distance traveled by a vehicle is called?"
+      },
+      "o": [
+        {
+          "hi": "स्पीडोमीटर",
+          "en": "Speedometer"
+        },
+        {
+          "hi": "ओडोमीटर (Odometer)",
+          "en": "Odometer"
+        },
+        {
+          "hi": "टैकोमीटर",
+          "en": "Tachometer"
+        },
+        {
+          "hi": "क्रोनोमीटर",
+          "en": "Chronometer"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मोटरगाड़ियों की तात्कालिक चाल (Instantaneous Speed) दर्शाने वाला यंत्र क्या कहलाता है?",
+        "en": "Instrument displaying instantaneous running speed of a vehicle is called?"
+      },
+      "o": [
+        {
+          "hi": "ओडोमीटर",
+          "en": "Odometer"
+        },
+        {
+          "hi": "टैकोमीटर",
+          "en": "Tachometer"
+        },
+        {
+          "hi": "स्पीडोमीटर (Speedometer)",
+          "en": "Speedometer"
+        },
+        {
+          "hi": "अमीटर",
+          "en": "Ammeter"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "नली में बहते हुए द्रव की प्रवाह दर (Discharge rate) मापने वाला यंत्र कौन-सा है?",
+        "en": "Instrument used to measure discharge rate of liquid flowing in a pipe is?"
+      },
+      "o": [
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "पिटॉट ट्यूब",
+          "en": "Pitot tube"
+        },
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "वेंचुरीमीटर (Venturimeter)",
+          "en": "Venturimeter"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विद्युत परिपथ के किन्हीं दो बिंदुओं के मध्य विभवांतर मापने वाला यंत्र कौन-सा है?",
+        "en": "Which instrument measures potential difference across two points in a circuit?"
+      },
+      "o": [
+        {
+          "hi": "वोल्टमीटर (Voltmeter)",
+          "en": "Voltmeter"
+        },
+        {
+          "hi": "अमीटर",
+          "en": "Ammeter"
+        },
+        {
+          "hi": "वाटमीटर",
+          "en": "Wattmeter"
+        },
+        {
+          "hi": "गैल्वेनोमीटर",
+          "en": "Galvanometer"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विद्युत शक्ति (Electrical Power) को वाट में मापने वाला यंत्र क्या कहलाता है?",
+        "en": "Instrument used to measure electric power consumed in a circuit is called?"
+      },
+      "o": [
+        {
+          "hi": "वोल्टमीटर",
+          "en": "Voltmeter"
+        },
+        {
+          "hi": "वाटमीटर (Wattmeter)",
+          "en": "Wattmeter"
+        },
+        {
+          "hi": "अमीटर",
+          "en": "Ammeter"
+        },
+        {
+          "hi": "एनर्जी मीटर",
+          "en": "Energy meter"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "झूठ पकड़ने वाली मशीन (Lie Detector) को वैज्ञानिक भाषा में क्या कहा जाता है?",
+        "en": "What is a lie detector machine scientifically called?"
+      },
+      "o": [
+        {
+          "hi": "सीस्मोग्राफ",
+          "en": "Seismograph"
+        },
+        {
+          "hi": "कार्डियोग्राफ",
+          "en": "Cardiograph"
+        },
+        {
+          "hi": "पॉलीग्राफ (Polygraph)",
+          "en": "Polygraph"
+        },
+        {
+          "hi": "काइमोग्राफ",
+          "en": "Kymograph"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अत्यंत सूक्ष्म जीवाणुओं और कोशिकाओं को बड़ा करके देखने के लिए किसका प्रयोग होता है?",
+        "en": "Instrument used to view magnified images of tiny microbes and cells is?"
+      },
+      "o": [
+        {
+          "hi": "दूरबीन (Telescope)",
+          "en": "Telescope"
+        },
+        {
+          "hi": "पेरिस्कोप",
+          "en": "Periscope"
+        },
+        {
+          "hi": "कैलिडोस्कोप",
+          "en": "Kaleidoscope"
+        },
+        {
+          "hi": "सूक्ष्मदर्शी (Microscope)",
+          "en": "Microscope"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दूर स्थित आकाशीय पिंडों (तारों, ग्रहों) को स्पष्ट देखने के लिए किस यंत्र का उपयोग किया जाता है?",
+        "en": "Instrument used to observe distant celestial bodies clearly is called?"
+      },
+      "o": [
+        {
+          "hi": "दूरबीन या दूरदर्शी (Telescope)",
+          "en": "Telescope"
+        },
+        {
+          "hi": "सूक्ष्मदर्शी",
+          "en": "Microscope"
+        },
+        {
+          "hi": "पेरिस्कोप",
+          "en": "Periscope"
+        },
+        {
+          "hi": "कैमरा",
+          "en": "Camera"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पानी के जहाजों पर सूर्य अथवा तारों की कोणीय ऊँचाई नापने के लिए प्रयुक्त यंत्र कौन-सा है?",
+        "en": "Instrument used at sea to measure angular distance between horizon & star is?"
+      },
+      "o": [
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "सेक्सटेंट (Sextant)",
+          "en": "Sextant"
+        },
+        {
+          "hi": "क्रोनोमीटर",
+          "en": "Chronometer"
+        },
+        {
+          "hi": "कंपास",
+          "en": "Compass"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ध्वनि तरंगों को विद्युत तरंगों में बदलने वाला प्राथमिक उपकरण कौन-सा है?",
+        "en": "Device that converts sound waves into electrical audio signals is?"
+      },
+      "o": [
+        {
+          "hi": "लाउडस्पीकर",
+          "en": "Loudspeaker"
+        },
+        {
+          "hi": "एम्पलीफायर",
+          "en": "Amplifier"
+        },
+        {
+          "hi": "माइक्रोफोन (Microphone)",
+          "en": "Microphone"
+        },
+        {
+          "hi": "ग्रामोफोन",
+          "en": "Gramophone"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विद्युत ऊर्जा को ध्वनि ऊर्जा में परिवर्तित करने वाला उपकरण कौन-सा है?",
+        "en": "Device that converts electrical audio signals into audible sound waves is?"
+      },
+      "o": [
+        {
+          "hi": "माइक्रोफोन",
+          "en": "Microphone"
+        },
+        {
+          "hi": "डायनेमो",
+          "en": "Dynamo"
+        },
+        {
+          "hi": "मोटर",
+          "en": "Motor"
+        },
+        {
+          "hi": "लाउडस्पीकर (Loudspeaker)",
+          "en": "Loudspeaker"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विद्युत चुंबक के उपयोग से प्रत्यावर्ती धारा (AC) की आवृत्ति मापने वाला यंत्र कौन-सा है?",
+        "en": "Instrument measuring frequency of an alternating electric current is?"
+      },
+      "o": [
+        {
+          "hi": "फ्रीक्वेंसी मीटर (आवृत्ति मीटर)",
+          "en": "Frequency Meter"
+        },
+        {
+          "hi": "अमीटर",
+          "en": "Ammeter"
+        },
+        {
+          "hi": "वोल्टमीटर",
+          "en": "Voltmeter"
+        },
+        {
+          "hi": "वाटमीटर",
+          "en": "Wattmeter"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "घूर्णन करती हुई किसी वस्तु की गति को स्थिर अवस्था में देखने वाला उपकरण कौन-सा है?",
+        "en": "Instrument to view periodically moving/rotating objects as stationary is?"
+      },
+      "o": [
+        {
+          "hi": "टैकोमीटर",
+          "en": "Tachometer"
+        },
+        {
+          "hi": "स्ट्रोबोस्कोप (Stroboscope)",
+          "en": "Stroboscope"
+        },
+        {
+          "hi": "कैलिडोस्कोप",
+          "en": "Kaleidoscope"
+        },
+        {
+          "hi": "पेरिस्कोप",
+          "en": "Periscope"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दो प्रकाश स्रोतों की प्रदीप्ति तीव्रता (Luminous Intensity) की तुलना करने वाला यंत्र कौन-सा है?",
+        "en": "Instrument comparing luminous intensities of two light sources is?"
+      },
+      "o": [
+        {
+          "hi": "लक्समीटर",
+          "en": "Luxmeter"
+        },
+        {
+          "hi": "पाइरोमीटर",
+          "en": "Pyrometer"
+        },
+        {
+          "hi": "फोटोमीटर (Photometer)",
+          "en": "Photometer"
+        },
+        {
+          "hi": "स्पेक्ट्रोमीटर",
+          "en": "Spectrometer"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रकाश के स्पेक्ट्रम का विश्लेषण और अपवर्तनांक ज्ञात करने वाला यंत्र कौन-सा है?",
+        "en": "Instrument used to analyze optical spectrum and measure refractive index is?"
+      },
+      "o": [
+        {
+          "hi": "माइक्रोस्कोप",
+          "en": "Microscope"
+        },
+        {
+          "hi": "टेलीस्कोप",
+          "en": "Telescope"
+        },
+        {
+          "hi": "पेरिस्कोप",
+          "en": "Periscope"
+        },
+        {
+          "hi": "स्पेक्ट्रोमीटर (Spectrometer)",
+          "en": "Spectrometer"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वायु में उपस्थित गैसों के आयतन में परिवर्तन मापने वाला उपकरण कौन-सा है?",
+        "en": "Apparatus measuring volume changes in gas mixtures during reactions is?"
+      },
+      "o": [
+        {
+          "hi": "यूडियोमीटर (Eudiometer)",
+          "en": "Eudiometer"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "हाइड्रोमीटर",
+          "en": "Hydrometer"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तेल के टैंकरों में तेल की श्यानता (Viscosity) मापने वाला उपकरण क्या कहलाता है?",
+        "en": "Instrument used to determine the viscosity of oil and liquids is called?"
+      },
+      "o": [
+        {
+          "hi": "हाइग्रोमीटर",
+          "en": "Hygrometer"
+        },
+        {
+          "hi": "विस्कोमीटर (Viscometer)",
+          "en": "Viscometer"
+        },
+        {
+          "hi": "बैरोमीटर",
+          "en": "Barometer"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सड़क निर्माण में जमीन की सतह का ढाल या कोण मापने वाला उपकरण कौन-सा है?",
+        "en": "Instrument measuring angle of slope, elevation or depression is?"
+      },
+      "o": [
+        {
+          "hi": "थोडोलाइट",
+          "en": "Theodolite"
+        },
+        {
+          "hi": "अल्टीमीटर",
+          "en": "Altimeter"
+        },
+        {
+          "hi": "क्लिनोमीटर (Clinometer)",
+          "en": "Clinometer"
+        },
+        {
+          "hi": "सेक्सटेंट",
+          "en": "Sextant"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गोलाकार सतहों (जैसे लेंस या दर्पण) की वक्रता त्रिज्या मापने वाला यंत्र कौन-सा है?",
+        "en": "Instrument used to measure radius of curvature of spherical surfaces is?"
+      },
+      "o": [
+        {
+          "hi": "वर्नियर कैलिपर्स",
+          "en": "Vernier Calipers"
+        },
+        {
+          "hi": "स्क्रूगेज",
+          "en": "Screw Gauge"
+        },
+        {
+          "hi": "माइक्रोमीटर",
+          "en": "Micrometer"
+        },
+        {
+          "hi": "स्फेरोमीटर (Spherometer)",
+          "en": "Spherometer"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तार का व्यास अथवा पतली चादर की मोटाई अत्यंत सूक्ष्मता से मापने वाला यंत्र कौन-सा है?",
+        "en": "Instrument measuring thickness of thin wires/sheets with high precision is?"
+      },
+      "o": [
+        {
+          "hi": "स्क्रूगेज या माइक्रोमीटर (Screw Gauge)",
+          "en": "Screw Gauge / Micrometer"
+        },
+        {
+          "hi": "स्फेरोमीटर",
+          "en": "Spherometer"
+        },
+        {
+          "hi": "साधारण स्केल",
+          "en": "Standard scale"
+        },
+        {
+          "hi": "ओडोमीटर",
+          "en": "Odometer"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शरीर के अंदर किसी नलिका या खोखले अंग की आंतरिक जांच हेतु डॉक्टर किस यंत्र का उपयोग करते हैं?",
+        "en": "Optical instrument used by doctors to examine interior of hollow body organs is?"
+      },
+      "o": [
+        {
+          "hi": "माइक्रोस्कोप",
+          "en": "Microscope"
+        },
+        {
+          "hi": "एंडोस्कोप (Endoscope)",
+          "en": "Endoscope"
+        },
+        {
+          "hi": "स्टेथोस्कोप",
+          "en": "Stethoscope"
+        },
+        {
+          "hi": "पेरिस्कोप",
+          "en": "Periscope"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

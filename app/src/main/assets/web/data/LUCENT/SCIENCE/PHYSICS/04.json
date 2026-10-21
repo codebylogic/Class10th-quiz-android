@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "गुरुत्वाकर्षण",
+  "description": "गुरुत्वाकर्षण पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "सार्वत्रिक गुरुत्वाकर्षण नियतांक (G) का मान सर्वप्रथम किसने ज्ञात किया था?",
+        "en": "Who first determined the value of the Universal Gravitational Constant (G)?"
+      },
+      "o": [
+        {
+          "hi": "हेनरी कैवेंडिश ने",
+          "en": "Henry Cavendish"
+        },
+        {
+          "hi": "आइजैक न्यूटन ने",
+          "en": "Isaac Newton"
+        },
+        {
+          "hi": "गैलीलियो ने",
+          "en": "Galileo"
+        },
+        {
+          "hi": "जोहान्स केपलर ने",
+          "en": "Johannes Kepler"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सार्वत्रिक गुरुत्वाकर्षण नियतांक (G) का SI पद्धति में मान कितना होता है?",
+        "en": "What is the value of Universal Gravitational Constant (G) in SI units?"
+      },
+      "o": [
+        {
+          "hi": "9.8 N·m²/kg²",
+          "en": "9.8 N·m²/kg²"
+        },
+        {
+          "hi": "6.67 × 10^-11 N·m²/kg²",
+          "en": "6.67 × 10^-11 N·m²/kg²"
+        },
+        {
+          "hi": "6.67 × 10^-8 N·m²/kg²",
+          "en": "6.67 × 10^-8 N·m²/kg²"
+        },
+        {
+          "hi": "3.0 × 10^8 N·m²/kg²",
+          "en": "3.0 × 10^8 N·m²/kg²"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "गुरुत्वीय त्वरण (g) का मान पृथ्वी के किस स्थान पर सर्वाधिक (अधिकतम) होता है?",
+        "en": "At which location on Earth is the value of acceleration due to gravity (g) maximum?"
+      },
+      "o": [
+        {
+          "hi": "भूमध्य रेखा पर",
+          "en": "At the Equator"
+        },
+        {
+          "hi": "कर्क रेखा पर",
+          "en": "At Tropic of Cancer"
+        },
+        {
+          "hi": "ध्रुवों पर (Poles)",
+          "en": "At the Poles"
+        },
+        {
+          "hi": "पृथ्वी के केंद्र पर",
+          "en": "At Earth's center"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गुरुत्वीय त्वरण (g) का मान पृथ्वी की सतह पर सबसे कम (न्यूनतम) कहाँ होता है?",
+        "en": "Where is the value of acceleration due to gravity (g) minimum on Earth's surface?"
+      },
+      "o": [
+        {
+          "hi": "उत्तरी ध्रुव पर",
+          "en": "At North Pole"
+        },
+        {
+          "hi": "दक्षिणी ध्रुव पर",
+          "en": "At South Pole"
+        },
+        {
+          "hi": "मकर रेखा पर",
+          "en": "At Tropic of Capricorn"
+        },
+        {
+          "hi": "भूमध्य रेखा (Equator) पर",
+          "en": "At the Equator"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी के केंद्र (Center of Earth) पर किसी वस्तु का भार कितना होगा?",
+        "en": "What will be the weight of an object at the center of the Earth?"
+      },
+      "o": [
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "अधिकतम",
+          "en": "Maximum"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "सतह के बराबर",
+          "en": "Equal to surface"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी की सतह से ऊपर जाने पर गुरुत्वीय त्वरण (g) के मान पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to acceleration due to gravity (g) on moving above Earth's surface?"
+      },
+      "o": [
+        {
+          "hi": "बढ़ता है",
+          "en": "Increases"
+        },
+        {
+          "hi": "घटता है",
+          "en": "Decreases"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "पहले बढ़ता फिर घटता है",
+          "en": "First increases then decreases"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी की सतह से गहराई (खदान) में जाने पर गुरुत्वीय त्वरण (g) का मान क्या होता है?",
+        "en": "What happens to acceleration due to gravity (g) on going deep into Earth?"
+      },
+      "o": [
+        {
+          "hi": "बढ़ता है",
+          "en": "Increases"
+        },
+        {
+          "hi": "अनंत हो जाता है",
+          "en": "Becomes infinite"
+        },
+        {
+          "hi": "घटता है",
+          "en": "Decreases"
+        },
+        {
+          "hi": "स्थिर रहता है",
+          "en": "Remains constant"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यदि पृथ्वी अपनी वर्तमान कोणीय चाल से 17 गुना अधिक तेजी से घूमने लगे, तो भूमध्य रेखा पर रखी वस्तु का भार क्या होगा?",
+        "en": "If Earth rotates 17 times faster than its current speed, what will be weight of body at equator?"
+      },
+      "o": [
+        {
+          "hi": "दोगुना हो जाएगा",
+          "en": "Will be doubled"
+        },
+        {
+          "hi": "अपरिवर्तित रहेगा",
+          "en": "Will remain unchanged"
+        },
+        {
+          "hi": "अनंत हो जाएगा",
+          "en": "Will become infinite"
+        },
+        {
+          "hi": "शून्य (भारहीन) हो जाएगा",
+          "en": "Will become zero (weightless)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यदि पृथ्वी अपने अक्ष पर घूमना बंद कर दे, तो ध्रुवों को छोड़कर शेष स्थानों पर g के मान पर क्या प्रभाव पड़ेगा?",
+        "en": "If Earth stops rotating on its axis, what will happen to g at places other than poles?"
+      },
+      "o": [
+        {
+          "hi": "बढ़ जाएगा",
+          "en": "Will increase"
+        },
+        {
+          "hi": "घट जाएगा",
+          "en": "Will decrease"
+        },
+        {
+          "hi": "शून्य हो जाएगा",
+          "en": "Will become zero"
+        },
+        {
+          "hi": "अपरिवर्तित रहेगा",
+          "en": "Will remain unchanged"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी के घूर्णन की गति बढ़ने पर भूमध्य रेखा पर g के मान पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to the value of g at the equator when Earth's rotation speed increases?"
+      },
+      "o": [
+        {
+          "hi": "बढ़ जाता है",
+          "en": "Increases"
+        },
+        {
+          "hi": "कम हो जाता है",
+          "en": "Decreases"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "अनंत हो जाता है",
+          "en": "Becomes infinite"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी के घूर्णन का प्रभाव किस स्थान पर गुरुत्वीय त्वरण (g) पर बिल्कुल नहीं पड़ता?",
+        "en": "Earth's rotation has no effect on acceleration due to gravity (g) at which location?"
+      },
+      "o": [
+        {
+          "hi": "भूमध्य रेखा पर",
+          "en": "At the Equator"
+        },
+        {
+          "hi": "कर्क रेखा पर",
+          "en": "At Tropic of Cancer"
+        },
+        {
+          "hi": "ध्रुवों पर (Poles)",
+          "en": "At the Poles"
+        },
+        {
+          "hi": "समुद्र तल पर",
+          "en": "At sea level"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चंद्रमा की सतह पर किसी वस्तु का गुरुत्वीय त्वरण पृथ्वी के गुरुत्वीय त्वरण का कितना भाग होता है?",
+        "en": "The acceleration due to gravity on Moon is what fraction of that on Earth?"
+      },
+      "o": [
+        {
+          "hi": "1/2 भाग",
+          "en": "1/2 part"
+        },
+        {
+          "hi": "1/4 भाग",
+          "en": "1/4 part"
+        },
+        {
+          "hi": "1/5 भाग",
+          "en": "1/5 part"
+        },
+        {
+          "hi": "1/6 भाग",
+          "en": "1/6 part"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यदि किसी व्यक्ति का भार पृथ्वी पर 60 किग्रा-भार है, तो चंद्रमा पर उसका भार कितना होगा?",
+        "en": "If a person weighs 60 kg-wt on Earth, what will be his weight on the Moon?"
+      },
+      "o": [
+        {
+          "hi": "10 किग्रा-भार",
+          "en": "10 kg-wt"
+        },
+        {
+          "hi": "60 किग्रा-भार",
+          "en": "60 kg-wt"
+        },
+        {
+          "hi": "360 किग्रा-भार",
+          "en": "360 kg-wt"
+        },
+        {
+          "hi": "0 किग्रा-भार",
+          "en": "0 kg-wt"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किसी वस्तु को पृथ्वी से चंद्रमा पर ले जाने पर उसके द्रव्यमान (Mass) पर क्या प्रभाव पड़ेगा?",
+        "en": "What will happen to the mass of an object when taken from Earth to the Moon?"
+      },
+      "o": [
+        {
+          "hi": "1/6 भाग रह जाएगा",
+          "en": "Will become 1/6th"
+        },
+        {
+          "hi": "अपरिवर्तित रहेगा",
+          "en": "Will remain unchanged"
+        },
+        {
+          "hi": "6 गुना बढ़ जाएगा",
+          "en": "Will increase 6 times"
+        },
+        {
+          "hi": "शून्य हो जाएगा",
+          "en": "Will become zero"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी तल से किसी वस्तु का पलायन वेग (Escape Velocity) लगभग कितना होता है?",
+        "en": "What is approximately the escape velocity of an object from Earth's surface?"
+      },
+      "o": [
+        {
+          "hi": "7.9 किमी/सेकंड",
+          "en": "7.9 km/s"
+        },
+        {
+          "hi": "2.38 किमी/सेकंड",
+          "en": "2.38 km/s"
+        },
+        {
+          "hi": "11.2 किमी/सेकंड",
+          "en": "11.2 km/s"
+        },
+        {
+          "hi": "42.0 किमी/सेकंड",
+          "en": "42.0 km/s"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चंद्रमा की सतह पर पलायन वेग का मान लगभग कितना होता है?",
+        "en": "What is approximately the escape velocity on the surface of the Moon?"
+      },
+      "o": [
+        {
+          "hi": "11.2 किमी/सेकंड",
+          "en": "11.2 km/s"
+        },
+        {
+          "hi": "7.9 किमी/सेकंड",
+          "en": "7.9 km/s"
+        },
+        {
+          "hi": "5.0 किमी/सेकंड",
+          "en": "5.0 km/s"
+        },
+        {
+          "hi": "2.38 किमी/सेकंड",
+          "en": "2.38 km/s"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चंद्रमा पर वायुमंडल न होने का मुख्य वैज्ञानिक कारण क्या है?",
+        "en": "What is the main scientific reason for the absence of atmosphere on the Moon?"
+      },
+      "o": [
+        {
+          "hi": "गैस अणुओं का वेग पलायन वेग से अधिक होना",
+          "en": "Gas velocity exceeds escape velocity"
+        },
+        {
+          "hi": "सूर्य के बहुत निकट होना",
+          "en": "Being too close to Sun"
+        },
+        {
+          "hi": "अत्यधिक ठंडा तापमान होना",
+          "en": "Excessive cold temperature"
+        },
+        {
+          "hi": "चुंबकीय क्षेत्र बहुत प्रबल होना",
+          "en": "Very strong magnetic field"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी की सतह के अति निकट चक्कर लगाने वाले उपग्रह की कक्षीय चाल (Orbital Speed) लगभग कितनी होती है?",
+        "en": "What is approximately the orbital speed of a satellite revolving very close to Earth?"
+      },
+      "o": [
+        {
+          "hi": "11.2 किमी/सेकंड",
+          "en": "11.2 km/s"
+        },
+        {
+          "hi": "7.9 किमी/सेकंड",
+          "en": "7.9 km/s"
+        },
+        {
+          "hi": "9.8 किमी/सेकंड",
+          "en": "9.8 km/s"
+        },
+        {
+          "hi": "3.1 किमी/सेकंड",
+          "en": "3.1 km/s"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पलायन वेग (ve) और कक्षीय वेग (vo) के बीच सही संबंध क्या है?",
+        "en": "What is the correct relation between escape velocity (ve) and orbital velocity (vo)?"
+      },
+      "o": [
+        {
+          "hi": "ve = vo / √2",
+          "en": "ve = vo / √2"
+        },
+        {
+          "hi": "ve = 2 × vo",
+          "en": "ve = 2 × vo"
+        },
+        {
+          "hi": "ve = √2 × vo",
+          "en": "ve = √2 × vo"
+        },
+        {
+          "hi": "ve = vo²",
+          "en": "ve = vo²"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यदि किसी उपग्रह की कक्षीय चाल को √2 गुना (या 41.4%) बढ़ा दिया जाए, तो उपग्रह पर क्या प्रभाव पड़ेगा?",
+        "en": "If orbital speed of a satellite is increased by √2 times (or 41.4%), what will happen?"
+      },
+      "o": [
+        {
+          "hi": "कक्षा छोटी हो जाएगी",
+          "en": "Orbit will become smaller"
+        },
+        {
+          "hi": "परिक्रमण काल घट जाएगा",
+          "en": "Time period will decrease"
+        },
+        {
+          "hi": "पृथ्वी पर गिर जाएगा",
+          "en": "Will fall on Earth"
+        },
+        {
+          "hi": "कक्षा छोड़कर अंतरिक्ष में पलायन कर जाएगा",
+          "en": "Will escape the orbit into space"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भू-स्थिर या तुल्यकाली उपग्रह (Geostationary Satellite) का परिक्रमण काल कितना होता है?",
+        "en": "What is the time period of revolution of a geostationary satellite?"
+      },
+      "o": [
+        {
+          "hi": "24 घंटे",
+          "en": "24 hours"
+        },
+        {
+          "hi": "12 घंटे",
+          "en": "12 hours"
+        },
+        {
+          "hi": "365 दिन",
+          "en": "365 days"
+        },
+        {
+          "hi": "84 मिनट",
+          "en": "84 minutes"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भू-स्थिर उपग्रह पृथ्वी की सतह से लगभग कितनी ऊँचाई पर स्थापित किए जाते हैं?",
+        "en": "At approximately what altitude above Earth's surface are geostationary satellites placed?"
+      },
+      "o": [
+        {
+          "hi": "18,000 किमी",
+          "en": "18,000 km"
+        },
+        {
+          "hi": "36,000 किमी",
+          "en": "36,000 km"
+        },
+        {
+          "hi": "48,000 किमी",
+          "en": "48,000 km"
+        },
+        {
+          "hi": "6,400 किमी",
+          "en": "6,400 km"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भू-स्थिर उपग्रह पृथ्वी के चारों ओर किस दिशा में परिक्रमा करते हैं?",
+        "en": "In which direction do geostationary satellites revolve around the Earth?"
+      },
+      "o": [
+        {
+          "hi": "पूर्व से पश्चिम",
+          "en": "East to West"
+        },
+        {
+          "hi": "उत्तर से दक्षिण",
+          "en": "North to South"
+        },
+        {
+          "hi": "पश्चिम से पूर्व",
+          "en": "West to East"
+        },
+        {
+          "hi": "दक्षिण से उत्तर",
+          "en": "South to North"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ध्रुवीय उपग्रह (Polar Satellite) का परिक्रमण काल सामान्यतः कितना होता है?",
+        "en": "What is generally the orbital period of a polar satellite?"
+      },
+      "o": [
+        {
+          "hi": "24 घंटे",
+          "en": "24 hours"
+        },
+        {
+          "hi": "12 घंटे",
+          "en": "12 hours"
+        },
+        {
+          "hi": "48 घंटे",
+          "en": "48 hours"
+        },
+        {
+          "hi": "लगभग 84 से 100 मिनट",
+          "en": "About 84 to 100 minutes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "केपलर के प्रथम नियम के अनुसार सभी ग्रह सूर्य के चारों ओर किस प्रकार की कक्षा में चक्कर लगाते हैं?",
+        "en": "According to Kepler's First Law, in what type of orbit do planets revolve around Sun?"
+      },
+      "o": [
+        {
+          "hi": "दीर्घवृत्ताकार कक्षा (Elliptical)",
+          "en": "Elliptical orbit"
+        },
+        {
+          "hi": "पूर्णतः वृत्ताकार कक्षा",
+          "en": "Perfect circular orbit"
+        },
+        {
+          "hi": "परवलयाकार कक्षा",
+          "en": "Parabolic orbit"
+        },
+        {
+          "hi": "सर्पिलाकार कक्षा",
+          "en": "Spiral orbit"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "केपलर के द्वितीय नियम के अनुसार ग्रहों की कौन-सी राशि सूर्य के चारों ओर गति में नियत रहती है?",
+        "en": "According to Kepler's Second Law, which quantity of a planet remains constant?"
+      },
+      "o": [
+        {
+          "hi": "रेखीय चाल",
+          "en": "Linear speed"
+        },
+        {
+          "hi": "क्षेत्रीय चाल (Areal Velocity)",
+          "en": "Areal velocity"
+        },
+        {
+          "hi": "कोणीय त्वरण",
+          "en": "Angular acceleration"
+        },
+        {
+          "hi": "स्थितिज ऊर्जा",
+          "en": "Potential energy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "केपलर के तृतीय नियम के अनुसार किसी ग्रह के परिक्रमण काल का वर्ग (T²) किसके समानुपाती होता है?",
+        "en": "According to Kepler's Third Law, the square of orbital period (T²) is proportional to what?"
+      },
+      "o": [
+        {
+          "hi": "त्रिज्या के वर्ग (r²) के",
+          "en": "Square of radius (r²)"
+        },
+        {
+          "hi": "त्रिज्या (r) के",
+          "en": "Radius (r)"
+        },
+        {
+          "hi": "त्रिज्या के घन (r³) के",
+          "en": "Cube of radius (r³)"
+        },
+        {
+          "hi": "त्रिज्या की चतुर्थ घात के",
+          "en": "Fourth power of radius"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जब कोई ग्रह सूर्य के अत्यधिक निकट होता है, तो उसकी कक्षीय चाल पर क्या प्रभाव पड़ता है?",
+        "en": "When a planet is closest to the Sun (Perihelion), what happens to its orbital speed?"
+      },
+      "o": [
+        {
+          "hi": "न्यूनतम हो जाती है",
+          "en": "Becomes minimum"
+        },
+        {
+          "hi": "शून्य हो जाती है",
+          "en": "Becomes zero"
+        },
+        {
+          "hi": "अपरिवर्तित रहती है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "अधिकतम हो जाती है",
+          "en": "Becomes maximum"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समुद्र में आने वाले ज्वार-भाटा (Tides) का मुख्य कारण क्या होता है?",
+        "en": "What is the primary cause of ocean tides?"
+      },
+      "o": [
+        {
+          "hi": "सूर्य व चंद्रमा का गुरुत्वाकर्षण खिंचाव",
+          "en": "Gravitational pull of Sun & Moon"
+        },
+        {
+          "hi": "पृथ्वी का चुंबकीय क्षेत्र",
+          "en": "Earth's magnetic field"
+        },
+        {
+          "hi": "समुद्री जल का वाष्पीकरण",
+          "en": "Evaporation of sea water"
+        },
+        {
+          "hi": "महासागरीय धाराओं की गति",
+          "en": "Movement of ocean currents"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी पर ज्वार उत्पन्न करने में सूर्य की तुलना में चंद्रमा का प्रभाव दोगुना क्यों होता है?",
+        "en": "Why is the Moon's tidal effect twice as strong as the Sun's?"
+      },
+      "o": [
+        {
+          "hi": "चंद्रमा सूर्य से बड़ा है",
+          "en": "Moon is larger than Sun"
+        },
+        {
+          "hi": "चंद्रमा पृथ्वी के अत्यधिक निकट है",
+          "en": "Moon is much closer to Earth"
+        },
+        {
+          "hi": "चंद्रमा का द्रव्यमान अधिक है",
+          "en": "Moon has greater mass"
+        },
+        {
+          "hi": "चंद्रमा का तापमान कम है",
+          "en": "Moon has lower temperature"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किसी कृत्रिम उपग्रह के अंदर रखी वस्तु की भारहीनता का क्या कारण है?",
+        "en": "What is the reason for weightlessness of an object inside an artificial satellite?"
+      },
+      "o": [
+        {
+          "hi": "उपग्रह में शून्य द्रव्यमान होना",
+          "en": "Zero mass in satellite"
+        },
+        {
+          "hi": "अंतरिक्ष में वायु का न होना",
+          "en": "No air in space"
+        },
+        {
+          "hi": "अभिकेंद्रीय बल और गुरुत्वीय बल का संतुलन",
+          "en": "Balance of centripetal & gravity"
+        },
+        {
+          "hi": "उपग्रह का चुंबकीय प्रभाव",
+          "en": "Magnetic effect of satellite"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी की त्रिज्या लगभग कितनी मानी जाती है?",
+        "en": "What is approximately considered the radius of the Earth?"
+      },
+      "o": [
+        {
+          "hi": "12,800 किमी",
+          "en": "12,800 km"
+        },
+        {
+          "hi": "3,200 किमी",
+          "en": "3,200 km"
+        },
+        {
+          "hi": "8,400 किमी",
+          "en": "8,400 km"
+        },
+        {
+          "hi": "6,400 किमी",
+          "en": "6,400 km"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यदि दो वस्तुओं के बीच की दूरी को दोगुना कर दिया जाए, तो उनके बीच गुरुत्वाकर्षण बल कितना हो जाएगा?",
+        "en": "If the distance between two bodies is doubled, what will the gravitational force become?"
+      },
+      "o": [
+        {
+          "hi": "एक-चौथाई (1/4)",
+          "en": "One-fourth (1/4)"
+        },
+        {
+          "hi": "आधा (1/2)",
+          "en": "Half (1/2)"
+        },
+        {
+          "hi": "दोगुना (2 गुना)",
+          "en": "Double (2 times)"
+        },
+        {
+          "hi": "चार गुना (4 गुना)",
+          "en": "Four times (4 times)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यदि दो वस्तुओं में से प्रत्येक का द्रव्यमान दोगुना कर दिया जाए, तो उनके बीच गुरुत्वाकर्षण बल कितना हो जाएगा?",
+        "en": "If the mass of each of two bodies is doubled, what will the gravitational force become?"
+      },
+      "o": [
+        {
+          "hi": "दोगुना",
+          "en": "Double"
+        },
+        {
+          "hi": "चार गुना",
+          "en": "Four times"
+        },
+        {
+          "hi": "आधा",
+          "en": "Half"
+        },
+        {
+          "hi": "अपरिवर्तित",
+          "en": "Unchanged"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वायु में लोहे और लकड़ी की समान भार की गेंदों को समान ऊँचाई से गिराने पर क्या होगा?",
+        "en": "What happens if iron and wooden balls of same weight are dropped from same height in air?"
+      },
+      "o": [
+        {
+          "hi": "दोनों साथ गिरेंगी",
+          "en": "Both fall together"
+        },
+        {
+          "hi": "लकड़ी की पहले गिरेगी",
+          "en": "Wood falls first"
+        },
+        {
+          "hi": "लोहे की पहले गिरेगी",
+          "en": "Iron falls first"
+        },
+        {
+          "hi": "कोई भी नहीं गिरेगी",
+          "en": "Neither will fall"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निर्वात (Vacuum) में लोहा, कागज और पंख को समान ऊँचाई से गिराने पर कौन सबसे पहले पृथ्वी पर पहुँचेगा?",
+        "en": "In vacuum, if iron, paper and feather are dropped from same height, which lands first?"
+      },
+      "o": [
+        {
+          "hi": "लोहा",
+          "en": "Iron"
+        },
+        {
+          "hi": "कागज",
+          "en": "Paper"
+        },
+        {
+          "hi": "पंख",
+          "en": "Feather"
+        },
+        {
+          "hi": "तीनों एक साथ गिरेंगे",
+          "en": "All three land together"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किसी पिंड का भार (Weight) सर्वाधिक कहाँ होता है?",
+        "en": "Where is the weight of a body maximum on Earth?"
+      },
+      "o": [
+        {
+          "hi": "ध्रुवों पर",
+          "en": "At the poles"
+        },
+        {
+          "hi": "विषुवत रेखा पर",
+          "en": "At the equator"
+        },
+        {
+          "hi": "पहाड़ों की चोटी पर",
+          "en": "On mountain peaks"
+        },
+        {
+          "hi": "गहरी खदान में",
+          "en": "In deep mines"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गुरुत्वाकर्षण बल किस प्रकृति का बल होता है?",
+        "en": "What nature of force is the gravitational force?"
+      },
+      "o": [
+        {
+          "hi": "केवल प्रतिकर्षण बल",
+          "en": "Only repulsive"
+        },
+        {
+          "hi": "केवल आकर्षण बल",
+          "en": "Only attractive"
+        },
+        {
+          "hi": "आकर्षण व प्रतिकर्षण दोनों",
+          "en": "Both attractive & repulsive"
+        },
+        {
+          "hi": "विद्युत चुंबकीय बल",
+          "en": "Electromagnetic"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रकृति में पाए जाने वाले चार मूल बलों में सबसे कमजोर (दुर्बल) बल कौन-सा है?",
+        "en": "Which is the weakest force among the four fundamental forces in nature?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत चुंबकीय बल",
+          "en": "Electromagnetic force"
+        },
+        {
+          "hi": "प्रबल नाभिकीय बल",
+          "en": "Strong nuclear force"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण बल",
+          "en": "Gravitational force"
+        },
+        {
+          "hi": "दुर्बल नाभिकीय बल",
+          "en": "Weak nuclear force"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रकृति में सबसे मजबूत (प्रबल) बल निम्नलिखित में से कौन-सा है?",
+        "en": "Which of the following is the strongest force in nature?"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्वाकर्षण बल",
+          "en": "Gravitational force"
+        },
+        {
+          "hi": "स्थिर विद्युत बल",
+          "en": "Electrostatic force"
+        },
+        {
+          "hi": "चुंबकीय बल",
+          "en": "Magnetic force"
+        },
+        {
+          "hi": "प्रबल नाभिकीय बल",
+          "en": "Strong nuclear force"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "उपग्रह की कक्षीय चाल किस कारक पर निर्भर नहीं करती है?",
+        "en": "The orbital speed of a satellite does not depend on which factor?"
+      },
+      "o": [
+        {
+          "hi": "उपग्रह के द्रव्यमान पर",
+          "en": "Mass of the satellite"
+        },
+        {
+          "hi": "पृथ्वी के द्रव्यमान पर",
+          "en": "Mass of the Earth"
+        },
+        {
+          "hi": "कक्षा की त्रिज्या पर",
+          "en": "Radius of the orbit"
+        },
+        {
+          "hi": "पृथ्वी के गुरुत्वाकर्षण पर",
+          "en": "Earth's gravitation"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यदि किसी उपग्रह को पृथ्वी की सतह से अधिक ऊँचाई वाली कक्षा में ले जाया जाए, तो उसकी कक्षीय चाल पर क्या प्रभाव पड़ेगा?",
+        "en": "If a satellite is moved to a higher altitude orbit, what happens to its orbital speed?"
+      },
+      "o": [
+        {
+          "hi": "बढ़ जाएगी",
+          "en": "Will increase"
+        },
+        {
+          "hi": "घट जाएगी",
+          "en": "Will decrease"
+        },
+        {
+          "hi": "अपरिवर्तित रहेगी",
+          "en": "Will remain same"
+        },
+        {
+          "hi": "शून्य हो जाएगी",
+          "en": "Will become zero"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारहीनता (Weightlessness) की अवस्था में मोमबत्ती की ज्वाला का आकार कैसा हो जाएगा?",
+        "en": "In a state of weightlessness, what shape will a candle flame take?"
+      },
+      "o": [
+        {
+          "hi": "लंबी और पतली",
+          "en": "Long and thin"
+        },
+        {
+          "hi": "त्रिकोणीय",
+          "en": "Triangular"
+        },
+        {
+          "hi": "गोलाकार (Spherical)",
+          "en": "Spherical"
+        },
+        {
+          "hi": "अपरिवर्तित रहेगी",
+          "en": "Will remain unchanged"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अंतरिक्ष यात्री अंतरिक्ष यान में सीधे खड़े क्यों नहीं रह पाते हैं?",
+        "en": "Why can astronauts not stand upright inside a spacecraft?"
+      },
+      "o": [
+        {
+          "hi": "तापमान अधिक होने से",
+          "en": "Due to high temperature"
+        },
+        {
+          "hi": "वायुमंडलीय दाब अधिक होने से",
+          "en": "Due to high pressure"
+        },
+        {
+          "hi": "ऑक्सीजन कम होने से",
+          "en": "Due to low oxygen"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण अनुपस्थित होने से",
+          "en": "Due to absence of gravity"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तुल्यकाली उपग्रह (Geostationary Satellite) का उपयोग मुख्यतः किस कार्य के लिए किया जाता है?",
+        "en": "What is a geostationary satellite primarily used for?"
+      },
+      "o": [
+        {
+          "hi": "दूरसंचार एवं मौसम पूर्वानुमान",
+          "en": "Telecommunication & weather"
+        },
+        {
+          "hi": "केवल भूवैज्ञानिक सर्वेक्षण",
+          "en": "Only geological survey"
+        },
+        {
+          "hi": "केवल सैन्य जासूसी",
+          "en": "Only military spying"
+        },
+        {
+          "hi": "खनिज अन्वेषण हेतु",
+          "en": "For mineral exploration"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सूर्य के चारों ओर चक्कर लगाते ग्रह का वेग कब अधिकतम होता है?",
+        "en": "When is the velocity of a planet revolving around the Sun maximum?"
+      },
+      "o": [
+        {
+          "hi": "जब वह सूर्य से अधिकतम दूर हो",
+          "en": "When farthest from Sun"
+        },
+        {
+          "hi": "जब वह सूर्य के सबसे समीप हो",
+          "en": "When closest to Sun"
+        },
+        {
+          "hi": "सभी स्थानों पर समान रहता है",
+          "en": "Remains same everywhere"
+        },
+        {
+          "hi": "केवल विषुव के समय",
+          "en": "Only at equinox"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक उपग्रह में घूमने वाले अंतरिक्ष यात्री द्वारा छोड़े गए चम्मच का क्या होगा?",
+        "en": "What will happen to a spoon dropped by an astronaut in an orbiting satellite?"
+      },
+      "o": [
+        {
+          "hi": "वह फर्श पर गिर जाएगा",
+          "en": "It will fall to floor"
+        },
+        {
+          "hi": "वह स्थिर खड़ा रहेगा",
+          "en": "It will remain stationary"
+        },
+        {
+          "hi": "वह उपग्रह के साथ घूमता रहेगा",
+          "en": "It will orbit with satellite"
+        },
+        {
+          "hi": "वह अंतरिक्ष में उड़ जाएगा",
+          "en": "It will fly into space"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी के गुरुत्वाकर्षण क्षेत्र से बाहर निकलने के लिए आवश्यक न्यूनतम वेग को क्या कहते हैं?",
+        "en": "What is the minimum velocity required to escape Earth's gravitational field called?"
+      },
+      "o": [
+        {
+          "hi": "कक्षीय वेग",
+          "en": "Orbital velocity"
+        },
+        {
+          "hi": "क्रांतिक वेग",
+          "en": "Critical velocity"
+        },
+        {
+          "hi": "टर्मिनल वेग",
+          "en": "Terminal velocity"
+        },
+        {
+          "hi": "पलायन वेग (Escape Velocity)",
+          "en": "Escape velocity"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कैवेंडिश द्वारा प्रयुक्त प्रयोग में G का मान मापने के लिए किस उपकरण का प्रयोग किया गया था?",
+        "en": "Which apparatus was used in Cavendish experiment to measure the value of G?"
+      },
+      "o": [
+        {
+          "hi": "ऐंठन तुला (Torsion Balance)",
+          "en": "Torsion Balance"
+        },
+        {
+          "hi": "स्प्रिंग तुला",
+          "en": "Spring Balance"
+        },
+        {
+          "hi": "दंड तुला",
+          "en": "Beam Balance"
+        },
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी के चारों ओर चंद्रमा की गति के लिए आवश्यक अभिकेंद्रीय बल किससे प्राप्त होता है?",
+        "en": "From where is centripetal force for Moon's orbit around Earth obtained?"
+      },
+      "o": [
+        {
+          "hi": "सौर विकिरण दाब से",
+          "en": "From solar radiation"
+        },
+        {
+          "hi": "पृथ्वी के गुरुत्वाकर्षण बल से",
+          "en": "From Earth's gravitational force"
+        },
+        {
+          "hi": "चंद्रमा के घूर्णन से",
+          "en": "From Moon's rotation"
+        },
+        {
+          "hi": "ब्रह्मांडीय तरंगों से",
+          "en": "From cosmic waves"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

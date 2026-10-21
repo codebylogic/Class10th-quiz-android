@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "मात्रकों का एक पद्धति से दूसरी पद्धति में परिवर्तन",
+  "description": "मात्रकों का एक पद्धति से दूसरी पद्धति में परिवर्तन पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "1 इंच (Inch) में कितने सेंटीमीटर (cm) होते हैं?",
+        "en": "How many centimeters are there in 1 inch?"
+      },
+      "o": [
+        {
+          "hi": "2.54 सेमी (2.54 cm)",
+          "en": "2.54 cm"
+        },
+        {
+          "hi": "3.14 सेमी",
+          "en": "3.14 cm"
+        },
+        {
+          "hi": "1.54 सेमी",
+          "en": "1.54 cm"
+        },
+        {
+          "hi": "5.08 सेमी",
+          "en": "5.08 cm"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 फुट (Foot) में कितने इंच होते हैं?",
+        "en": "How many inches are there in 1 foot?"
+      },
+      "o": [
+        {
+          "hi": "10 इंच",
+          "en": "10 inches"
+        },
+        {
+          "hi": "12 इंच (12 inches = 30.48 cm)",
+          "en": "12 inches = 30.48 cm"
+        },
+        {
+          "hi": "14 इंच",
+          "en": "14 inches"
+        },
+        {
+          "hi": "16 इंच",
+          "en": "16 inches"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1 गज (Yard) में कितने फुट होते हैं?",
+        "en": "How many feet are there in 1 yard?"
+      },
+      "o": [
+        {
+          "hi": "2 फुट",
+          "en": "2 feet"
+        },
+        {
+          "hi": "4 फुट",
+          "en": "4 feet"
+        },
+        {
+          "hi": "3 फुट (36 इंच या 0.9144 मीटर)",
+          "en": "3 feet (36 inches or 0.9144 m)"
+        },
+        {
+          "hi": "5 फुट",
+          "en": "5 feet"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1 मील (Standard Mile) में कितने गज (Yards) होते हैं?",
+        "en": "How many yards are there in 1 standard terrestrial mile?"
+      },
+      "o": [
+        {
+          "hi": "1000 गज",
+          "en": "1000 yards"
+        },
+        {
+          "hi": "1500 गज",
+          "en": "1500 yards"
+        },
+        {
+          "hi": "2000 गज",
+          "en": "2000 yards"
+        },
+        {
+          "hi": "1760 गज (5280 फुट या 1.609 किमी)",
+          "en": "1760 yards (5280 ft or 1.609 km)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 समुद्री मील (Nautical Mile) में कितने मीटर होते हैं?",
+        "en": "How many meters are there in 1 International Nautical Mile?"
+      },
+      "o": [
+        {
+          "hi": "1852 मीटर (1.852 किमी)",
+          "en": "1852 meters (1.852 km)"
+        },
+        {
+          "hi": "1609 मीटर",
+          "en": "1609 meters"
+        },
+        {
+          "hi": "2000 मीटर",
+          "en": "2000 meters"
+        },
+        {
+          "hi": "1000 मीटर",
+          "en": "1000 meters"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 फर्लांग (Furlong) कितने गज के बराबर होता है?",
+        "en": "How many yards are there in 1 furlong?"
+      },
+      "o": [
+        {
+          "hi": "100 गज",
+          "en": "100 yards"
+        },
+        {
+          "hi": "220 गज (1/8 मील या 201.168 मीटर)",
+          "en": "220 yards (1/8 mile or 201.168 m)"
+        },
+        {
+          "hi": "440 गज",
+          "en": "440 yards"
+        },
+        {
+          "hi": "660 गज",
+          "en": "660 yards"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1 एकड़ (Acres) में कितने वर्ग गज (Square Yards) होते हैं?",
+        "en": "How many square yards are there in 1 acre?"
+      },
+      "o": [
+        {
+          "hi": "1000 वर्ग गज",
+          "en": "1000 sq yards"
+        },
+        {
+          "hi": "2500 वर्ग गज",
+          "en": "2500 sq yards"
+        },
+        {
+          "hi": "4840 वर्ग गज (43,560 वर्ग फुट)",
+          "en": "4840 square yards (43,560 sq ft)"
+        },
+        {
+          "hi": "10,000 वर्ग गज",
+          "en": "10,000 sq yards"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1 हेक्टेयर (Hectare) में कितने वर्ग मीटर (m²) होते हैं?",
+        "en": "How many square meters are there in 1 hectare?"
+      },
+      "o": [
+        {
+          "hi": "1,000 वर्ग मीटर",
+          "en": "1,000 sq meters"
+        },
+        {
+          "hi": "4,840 वर्ग मीटर",
+          "en": "4,840 sq meters"
+        },
+        {
+          "hi": "40,468 वर्ग मीटर",
+          "en": "40,468 sq meters"
+        },
+        {
+          "hi": "10,000 वर्ग मीटर (लगभग 2.471 एकड़)",
+          "en": "10,000 sq meters (approx 2.471 acres)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 पाउंड (Avoirdupois Pound - lb) कितने ग्राम के बराबर होता है?",
+        "en": "How many grams are there in 1 pound (lb)?"
+      },
+      "o": [
+        {
+          "hi": "453.59 ग्राम (लगभग 0.4536 किग्रा)",
+          "en": "453.59 grams (approx 0.4536 kg)"
+        },
+        {
+          "hi": "500 ग्राम",
+          "en": "500 grams"
+        },
+        {
+          "hi": "250 ग्राम",
+          "en": "250 grams"
+        },
+        {
+          "hi": "1000 ग्राम",
+          "en": "1000 grams"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 पाउंड में कितने औंस (Ounces - oz) होते हैं?",
+        "en": "How many ounces (oz) make 1 avoirdupois pound?"
+      },
+      "o": [
+        {
+          "hi": "12 औंस",
+          "en": "12 ounces"
+        },
+        {
+          "hi": "16 औंस (16 ounces)",
+          "en": "16 ounces"
+        },
+        {
+          "hi": "20 औंस",
+          "en": "20 ounces"
+        },
+        {
+          "hi": "24 औंस",
+          "en": "24 ounces"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1 औंस (Ounce - oz) में लगभग कितने ग्राम होते हैं?",
+        "en": "Approximately how many grams are in 1 standard ounce?"
+      },
+      "o": [
+        {
+          "hi": "10 ग्राम",
+          "en": "10 grams"
+        },
+        {
+          "hi": "50 ग्राम",
+          "en": "50 grams"
+        },
+        {
+          "hi": "28.35 ग्राम (28.35 g)",
+          "en": "28.35 grams"
+        },
+        {
+          "hi": "100 ग्राम",
+          "en": "100 grams"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1 क्विंटल (Quintal) में कितने किलोग्राम होते हैं?",
+        "en": "How many kilograms are there in 1 quintal?"
+      },
+      "o": [
+        {
+          "hi": "50 किग्रा",
+          "en": "50 kg"
+        },
+        {
+          "hi": "500 किग्रा",
+          "en": "500 kg"
+        },
+        {
+          "hi": "1000 किग्रा",
+          "en": "1000 kg"
+        },
+        {
+          "hi": "100 किलोग्राम (100 kg)",
+          "en": "100 kilograms"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 मीट्रिक टन (Metric Tonne) में कितने किलोग्राम होते हैं?",
+        "en": "How many kilograms are there in 1 metric tonne?"
+      },
+      "o": [
+        {
+          "hi": "1000 किलोग्राम (10 क्विंटल)",
+          "en": "1000 kilograms (10 quintals)"
+        },
+        {
+          "hi": "100 किलोग्राम",
+          "en": "100 kilograms"
+        },
+        {
+          "hi": "500 किलोग्राम",
+          "en": "500 kilograms"
+        },
+        {
+          "hi": "10,000 किलोग्राम",
+          "en": "10,000 kilograms"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हीरे और रत्नों की तौल में प्रयुक्त 1 कैरेट (Carat) कितने मिलीग्राम के बराबर होता है?",
+        "en": "How many milligrams make 1 metric carat used for gemstones?"
+      },
+      "o": [
+        {
+          "hi": "100 मिलीग्राम",
+          "en": "100 mg"
+        },
+        {
+          "hi": "200 मिलीग्राम (0.2 ग्राम)",
+          "en": "200 milligrams (0.2 gram)"
+        },
+        {
+          "hi": "500 मिलीग्राम",
+          "en": "500 mg"
+        },
+        {
+          "hi": "1000 मिलीग्राम",
+          "en": "1000 mg"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कच्चे तेल के अंतरराष्ट्रीय व्यापार में 1 बैरल (Barrel) लगभग कितने लीटर के बराबर होता है?",
+        "en": "Approximately how many liters are there in 1 barrel of crude oil?"
+      },
+      "o": [
+        {
+          "hi": "100 लीटर",
+          "en": "100 liters"
+        },
+        {
+          "hi": "200 लीटर",
+          "en": "200 liters"
+        },
+        {
+          "hi": "158.987 लीटर (लगभग 159 लीटर)",
+          "en": "158.987 liters (approx 159 liters)"
+        },
+        {
+          "hi": "119 लीटर",
+          "en": "119 liters"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1 अमेरिकी गैलन (US Gallon) में लगभग कितने लीटर होते हैं?",
+        "en": "Approximately how many liters are in 1 US liquid gallon?"
+      },
+      "o": [
+        {
+          "hi": "4.546 लीटर",
+          "en": "4.546 liters"
+        },
+        {
+          "hi": "5.000 लीटर",
+          "en": "5.000 liters"
+        },
+        {
+          "hi": "2.500 लीटर",
+          "en": "2.500 liters"
+        },
+        {
+          "hi": "3.785 लीटर (3.785 L)",
+          "en": "3.785 liters"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 इंपीरियल गैलन (UK Gallon) में कितने लीटर होते हैं?",
+        "en": "How many liters are there in 1 UK Imperial gallon?"
+      },
+      "o": [
+        {
+          "hi": "4.546 लीटर (4.546 L)",
+          "en": "4.546 liters"
+        },
+        {
+          "hi": "3.785 लीटर",
+          "en": "3.785 liters"
+        },
+        {
+          "hi": "5.546 लीटर",
+          "en": "5.546 liters"
+        },
+        {
+          "hi": "3.000 लीटर",
+          "en": "3.000 liters"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 लीटर (Liter) कितने घन सेंटीमीटर (cm³ या cc) के बराबर होता है?",
+        "en": "How many cubic centimeters (cm³ or cc) equal 1 liter?"
+      },
+      "o": [
+        {
+          "hi": "100 सेमी³",
+          "en": "100 cm³"
+        },
+        {
+          "hi": "1000 सेमी³ (10^-3 मीटर³)",
+          "en": "1000 cm³ (10^-3 m³)"
+        },
+        {
+          "hi": "10,000 सेमी³",
+          "en": "10,000 cm³"
+        },
+        {
+          "hi": "500 सेमी³",
+          "en": "500 cm³"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1 न्यूटन (Newton - SI मात्रक) कितने डाइन (Dyne - CGS मात्रक) के बराबर होता है?",
+        "en": "1 Newton in SI is equal to how many Dynes in CGS?"
+      },
+      "o": [
+        {
+          "hi": "10^3 डाइन",
+          "en": "10^3 dynes"
+        },
+        {
+          "hi": "10^7 डाइन",
+          "en": "10^7 dynes"
+        },
+        {
+          "hi": "10^5 डाइन (10^5 dynes)",
+          "en": "10^5 dynes"
+        },
+        {
+          "hi": "10^9 डाइन",
+          "en": "10^9 dynes"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1 जूल (Joule - SI मात्रक) कितने अर्ग (Erg - CGS मात्रक) के बराबर होता है?",
+        "en": "1 Joule in SI is equal to how many ergs in CGS?"
+      },
+      "o": [
+        {
+          "hi": "10^5 अर्ग",
+          "en": "10^5 ergs"
+        },
+        {
+          "hi": "10^6 अर्ग",
+          "en": "10^6 ergs"
+        },
+        {
+          "hi": "10^9 अर्ग",
+          "en": "10^9 ergs"
+        },
+        {
+          "hi": "10^7 अर्ग (10^7 ergs)",
+          "en": "10^7 ergs"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 कैलोरी (Calorie) कितने जूल के बराबर होती है?",
+        "en": "1 calorie of thermal energy equals how many joules?"
+      },
+      "o": [
+        {
+          "hi": "4.186 जूल (लगभग 4.2 जूल)",
+          "en": "4.186 Joules (approx 4.2 J)"
+        },
+        {
+          "hi": "1.000 जूल",
+          "en": "1.000 Joule"
+        },
+        {
+          "hi": "746 जूल",
+          "en": "746 Joules"
+        },
+        {
+          "hi": "10^7 जूल",
+          "en": "10^7 Joules"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 इलेक्ट्रॉन वोल्ट (1 eV) कितने जूल के बराबर होता है?",
+        "en": "1 electron volt (1 eV) energy is equal to how many joules?"
+      },
+      "o": [
+        {
+          "hi": "1 जूल",
+          "en": "1 Joule"
+        },
+        {
+          "hi": "1.602 × 10^-19 जूल",
+          "en": "1.602 × 10^-19 Joules"
+        },
+        {
+          "hi": "9.1 × 10^-31 जूल",
+          "en": "9.1 × 10^-31 Joules"
+        },
+        {
+          "hi": "3.6 × 10^6 जूल",
+          "en": "3.6 × 10^6 Joules"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1 किलोवाट घंटा (1 kWh) विद्युत ऊर्जा कितने जूल के बराबर होती है?",
+        "en": "1 kilowatt-hour (1 kWh) electrical energy equals how many joules?"
+      },
+      "o": [
+        {
+          "hi": "1000 जूल",
+          "en": "1000 Joules"
+        },
+        {
+          "hi": "3600 जूल",
+          "en": "3600 Joules"
+        },
+        {
+          "hi": "3.6 × 10^6 जूल (3.6 MJ)",
+          "en": "3.6 × 10^6 Joules (3.6 MJ)"
+        },
+        {
+          "hi": "746 × 10^6 जूल",
+          "en": "746 × 10^6 Joules"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1 अश्व शक्ति (Horse Power - HP) में कितने वाट होते हैं?",
+        "en": "How many watts are there in 1 mechanical Horse Power (HP)?"
+      },
+      "o": [
+        {
+          "hi": "500 वाट",
+          "en": "500 watts"
+        },
+        {
+          "hi": "736 वाट",
+          "en": "736 watts"
+        },
+        {
+          "hi": "1000 वाट",
+          "en": "1000 watts"
+        },
+        {
+          "hi": "746 वाट (746 Watts)",
+          "en": "746 Watts"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 बार (Bar) वायुमंडलीय दाब कितने पास्कल (N/m²) के बराबर होता है?",
+        "en": "1 bar of pressure is equivalent to how many Pascals?"
+      },
+      "o": [
+        {
+          "hi": "10^5 पास्कल (10^5 N/m²)",
+          "en": "10^5 Pascals (10^5 N/m²)"
+        },
+        {
+          "hi": "10^3 पास्कल",
+          "en": "10^3 Pascals"
+        },
+        {
+          "hi": "10^6 पास्कल",
+          "en": "10^6 Pascals"
+        },
+        {
+          "hi": "1.013 पास्कल",
+          "en": "1.013 Pascals"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 मानक वायुमंडलीय दाब (1 atm) कितने पास्कल के समतुल्य होता है?",
+        "en": "1 standard atmosphere (1 atm) is equal to how many Pascals?"
+      },
+      "o": [
+        {
+          "hi": "1.000 × 10^5 Pa",
+          "en": "1.000 × 10^5 Pa"
+        },
+        {
+          "hi": "1.01325 × 10^5 पास्कल (या 1.013 bar)",
+          "en": "1.01325 × 10^5 Pa (or 1.013 bar)"
+        },
+        {
+          "hi": "760 Pa",
+          "en": "760 Pa"
+        },
+        {
+          "hi": "10^7 Pa",
+          "en": "10^7 Pa"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1 टॉर (1 Torr) कितने मिमी पारे के स्तंभ के दाब के बराबर होता है?",
+        "en": "1 Torr pressure equals height of mercury column of how many mm?"
+      },
+      "o": [
+        {
+          "hi": "760 mm of Hg",
+          "en": "760 mm of Hg"
+        },
+        {
+          "hi": "10 mm of Hg",
+          "en": "10 mm of Hg"
+        },
+        {
+          "hi": "1 मिमी पारा स्तंभ (लगभग 133.32 Pa)",
+          "en": "1 mm of Hg column (approx 133.32 Pa)"
+        },
+        {
+          "hi": "76 mm of Hg",
+          "en": "76 mm of Hg"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1 टेस्ला (Tesla - SI मात्रक) कितने गॉस (Gauss - CGS मात्रक) के बराबर होता है?",
+        "en": "1 Tesla magnetic induction equals how many Gauss?"
+      },
+      "o": [
+        {
+          "hi": "10^2 गॉस",
+          "en": "10^2 Gauss"
+        },
+        {
+          "hi": "10^6 गॉस",
+          "en": "10^6 Gauss"
+        },
+        {
+          "hi": "10^8 गॉस",
+          "en": "10^8 Gauss"
+        },
+        {
+          "hi": "10^4 गॉस (10,000 Gauss)",
+          "en": "10^4 Gauss (10,000 Gauss)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 वेबर (Weber - SI) कितने मैक्सवेल (Maxwell - CGS) के बराबर होता है?",
+        "en": "1 Weber magnetic flux equals how many Maxwells?"
+      },
+      "o": [
+        {
+          "hi": "10^8 मैक्सवेल (10^8 Maxwell)",
+          "en": "10^8 Maxwell"
+        },
+        {
+          "hi": "10^4 मैक्सवेल",
+          "en": "10^4 Maxwell"
+        },
+        {
+          "hi": "10^5 मैक्सवेल",
+          "en": "10^5 Maxwell"
+        },
+        {
+          "hi": "10^7 मैक्सवेल",
+          "en": "10^7 Maxwell"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 पॉयजुली (Pl - SI श्यानता मात्रक) कितने प्वाइज (Poise - CGS) के बराबर होता है?",
+        "en": "1 Poiseuille (Pa·s) viscosity unit equals how many Poise?"
+      },
+      "o": [
+        {
+          "hi": "1 प्वाइज",
+          "en": "1 Poise"
+        },
+        {
+          "hi": "10 प्वाइज (10 Poise)",
+          "en": "10 Poise"
+        },
+        {
+          "hi": "100 प्वाइज",
+          "en": "100 Poise"
+        },
+        {
+          "hi": "1000 प्वाइज",
+          "en": "1000 Poise"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1 प्रकाश वर्ष (Light Year) का मान कितने मीटर के बराबर होता है?",
+        "en": "1 light year distance is equal to how many meters?"
+      },
+      "o": [
+        {
+          "hi": "1.496 × 10^11 मीटर",
+          "en": "1.496 × 10^11 meters"
+        },
+        {
+          "hi": "3.08 × 10^16 मीटर",
+          "en": "3.08 × 10^16 meters"
+        },
+        {
+          "hi": "9.46 × 10^15 मीटर (9.46 × 10^12 किमी)",
+          "en": "9.46 × 10^15 m (9.46 × 10^12 km)"
+        },
+        {
+          "hi": "3 × 10^8 मीटर",
+          "en": "3 × 10^8 meters"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1 पारसेक (Parsec) का मान कितने प्रकाश वर्ष के बराबर होता है?",
+        "en": "1 parsec is equal to approximately how many light years?"
+      },
+      "o": [
+        {
+          "hi": "1 प्रकाश वर्ष",
+          "en": "1 light year"
+        },
+        {
+          "hi": "9.46 प्रकाश वर्ष",
+          "en": "9.46 light years"
+        },
+        {
+          "hi": "4.22 प्रकाश वर्ष",
+          "en": "4.22 light years"
+        },
+        {
+          "hi": "लगभग 3.26 प्रकाश वर्ष (3.08 × 10^16 मीटर)",
+          "en": "About 3.26 light years (3.08 × 10^16 m)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 खगोलीय इकाई (Astronomical Unit - AU) का मान कितने मीटर होता है?",
+        "en": "What is the value of 1 Astronomical Unit (AU) in meters?"
+      },
+      "o": [
+        {
+          "hi": "1.496 × 10^11 मीटर (लगभग 15 करोड़ किमी)",
+          "en": "1.496 × 10^11 m (approx 150 million km)"
+        },
+        {
+          "hi": "9.46 × 10^15 मीटर",
+          "en": "9.46 × 10^15 meters"
+        },
+        {
+          "hi": "3.08 × 10^16 मीटर",
+          "en": "3.08 × 10^16 meters"
+        },
+        {
+          "hi": "3.84 × 10^8 मीटर",
+          "en": "3.84 × 10^8 meters"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 एंग्स्ट्रॉम (1 Å) कितने मीटर के बराबर होता है?",
+        "en": "1 Angstrom (1 Å) is equal to how many meters?"
+      },
+      "o": [
+        {
+          "hi": "10^-9 मीटर",
+          "en": "10^-9 meters"
+        },
+        {
+          "hi": "10^-10 मीटर (10^-8 सेमी)",
+          "en": "10^-10 meters (10^-8 cm)"
+        },
+        {
+          "hi": "10^-12 मीटर",
+          "en": "10^-12 meters"
+        },
+        {
+          "hi": "10^-15 मीटर",
+          "en": "10^-15 meters"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1 फर्मी या फेम्टोमीटर (1 Fermi / fm) कितने मीटर के बराबर होता है?",
+        "en": "1 Fermi (fm) equals how many meters?"
+      },
+      "o": [
+        {
+          "hi": "10^-10 मीटर",
+          "en": "10^-10 meters"
+        },
+        {
+          "hi": "10^-12 मीटर",
+          "en": "10^-12 meters"
+        },
+        {
+          "hi": "10^-15 मीटर (10^-15 m)",
+          "en": "10^-15 meters"
+        },
+        {
+          "hi": "10^-18 मीटर",
+          "en": "10^-18 meters"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1 माइक्रोन (1 Micron / μm) कितने मीटर के बराबर होता है?",
+        "en": "1 Micron (μm) is equivalent to how many meters?"
+      },
+      "o": [
+        {
+          "hi": "10^-3 मीटर",
+          "en": "10^-3 meters"
+        },
+        {
+          "hi": "10^-9 मीटर",
+          "en": "10^-9 meters"
+        },
+        {
+          "hi": "10^-12 मीटर",
+          "en": "10^-12 meters"
+        },
+        {
+          "hi": "10^-6 मीटर (10^-3 मिमी या 1/1000 मिमी)",
+          "en": "10^-6 m (10^-3 mm or 1/1000 mm)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 नैनोमीटर (1 nm) कितने मीटर के बराबर होता है?",
+        "en": "1 nanometer (1 nm) equals how many meters?"
+      },
+      "o": [
+        {
+          "hi": "10^-9 मीटर (10^-7 सेमी)",
+          "en": "10^-9 meters (10^-7 cm)"
+        },
+        {
+          "hi": "10^-6 मीटर",
+          "en": "10^-6 meters"
+        },
+        {
+          "hi": "10^-10 मीटर",
+          "en": "10^-10 meters"
+        },
+        {
+          "hi": "10^-12 मीटर",
+          "en": "10^-12 meters"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 पिकोमीटर (1 pm) कितने मीटर के बराबर होता है?",
+        "en": "1 picometer (1 pm) equals how many meters?"
+      },
+      "o": [
+        {
+          "hi": "10^-9 मीटर",
+          "en": "10^-9 meters"
+        },
+        {
+          "hi": "10^-12 मीटर (10^-12 m)",
+          "en": "10^-12 meters"
+        },
+        {
+          "hi": "10^-15 मीटर",
+          "en": "10^-15 meters"
+        },
+        {
+          "hi": "10^-6 मीटर",
+          "en": "10^-6 meters"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1 परमाणु द्रव्यमान इकाई (1 amu) कितने किलोग्राम के बराबर होती है?",
+        "en": "1 unified atomic mass unit (1 amu) equals how many kilograms?"
+      },
+      "o": [
+        {
+          "hi": "9.1 × 10^-31 किग्रा",
+          "en": "9.1 × 10^-31 kg"
+        },
+        {
+          "hi": "1.67 × 10^-19 किग्रा",
+          "en": "1.67 × 10^-19 kg"
+        },
+        {
+          "hi": "1.6605 × 10^-27 किलोग्राम",
+          "en": "1.6605 × 10^-27 kilograms"
+        },
+        {
+          "hi": "6.02 × 10^-23 किग्रा",
+          "en": "6.02 × 10^-23 kg"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1 फैदम (Fathom) में कितने फुट होते हैं?",
+        "en": "How many feet are there in 1 fathom nautical depth unit?"
+      },
+      "o": [
+        {
+          "hi": "3 फुट",
+          "en": "3 feet"
+        },
+        {
+          "hi": "10 फुट",
+          "en": "10 feet"
+        },
+        {
+          "hi": "12 फुट",
+          "en": "12 feet"
+        },
+        {
+          "hi": "6 फुट (लगभग 1.8288 मीटर)",
+          "en": "6 feet (approx 1.8288 meters)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 नॉट (Knot) कितने किलोमीटर प्रति घंटा की चाल के बराबर होता है?",
+        "en": "1 knot navigation speed equals how many kilometers per hour?"
+      },
+      "o": [
+        {
+          "hi": "1.852 किमी/घंटा (1 समुद्री मील/घंटा)",
+          "en": "1.852 km/h (1 nautical mile/h)"
+        },
+        {
+          "hi": "1.609 किमी/घंटा",
+          "en": "1.609 km/h"
+        },
+        {
+          "hi": "1.000 किमी/घंटा",
+          "en": "1.000 km/h"
+        },
+        {
+          "hi": "2.500 किमी/घंटा",
+          "en": "2.500 km/h"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 क्यूसेक (Cusec) जल प्रवाह की दर कितने लीटर प्रति सेकंड के बराबर होती है?",
+        "en": "1 Cusec rate of flow equals approximately how many liters per second?"
+      },
+      "o": [
+        {
+          "hi": "10 लीटर/सेकंड",
+          "en": "10 L/s"
+        },
+        {
+          "hi": "लगभग 28.317 लीटर प्रति सेकंड (1 ft³/s)",
+          "en": "About 28.317 liters/sec (1 ft³/s)"
+        },
+        {
+          "hi": "100 लीटर/सेकंड",
+          "en": "100 L/s"
+        },
+        {
+          "hi": "159 लीटर/सेकंड",
+          "en": "159 L/s"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तापमान के सेल्सियस और केल्विन पैमाने में सही रूपांतरण सूत्र क्या है?",
+        "en": "What is the correct conversion between Celsius and Kelvin scales?"
+      },
+      "o": [
+        {
+          "hi": "K = C - 273.15",
+          "en": "K = C - 273.15"
+        },
+        {
+          "hi": "K = 5/9 (C - 32)",
+          "en": "K = 5/9 (C - 32)"
+        },
+        {
+          "hi": "K = °C + 273.15",
+          "en": "K = °C + 273.15"
+        },
+        {
+          "hi": "K = °C × 1.8",
+          "en": "K = °C × 1.8"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सेल्सियस तापमान को फारेनहाइट में बदलने का सही गणितीय सूत्र क्या है?",
+        "en": "What is correct formula to convert Celsius into Fahrenheit?"
+      },
+      "o": [
+        {
+          "hi": "F = C + 32",
+          "en": "F = C + 32"
+        },
+        {
+          "hi": "F = 5/9 C + 32",
+          "en": "F = 5/9 C + 32"
+        },
+        {
+          "hi": "F = C × 1.8",
+          "en": "F = C × 1.8"
+        },
+        {
+          "hi": "F = (9/5 × °C) + 32",
+          "en": "F = (9/5 × °C) + 32"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जल का क्वथनांक फारेनहाइट पैमाने पर कितना होता है?",
+        "en": "What is the boiling point of water on the Fahrenheit scale?"
+      },
+      "o": [
+        {
+          "hi": "212°F (100°C)",
+          "en": "212°F (100°C)"
+        },
+        {
+          "hi": "100°F",
+          "en": "100°F"
+        },
+        {
+          "hi": "180°F",
+          "en": "180°F"
+        },
+        {
+          "hi": "32°F",
+          "en": "32°F"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जल का हिमांक (बर्फ बिंदु) फारेनहाइट पैमाने पर कितना होता है?",
+        "en": "What is freezing point of water on Fahrenheit scale?"
+      },
+      "o": [
+        {
+          "hi": "0°F",
+          "en": "0°F"
+        },
+        {
+          "hi": "32°F (0°C)",
+          "en": "32°F (0°C)"
+        },
+        {
+          "hi": "-40°F",
+          "en": "-40°F"
+        },
+        {
+          "hi": "212°F",
+          "en": "212°F"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1 किलोमीटर प्रति घंटा (km/h) को मीटर प्रति सेकंड (m/s) में बदलने के लिए किससे गुणा करते हैं?",
+        "en": "To convert km/h into m/s, by what fraction do we multiply?"
+      },
+      "o": [
+        {
+          "hi": "18 / 5",
+          "en": "18 / 5"
+        },
+        {
+          "hi": "60 / 1000",
+          "en": "60 / 1000"
+        },
+        {
+          "hi": "5 / 18 से",
+          "en": "By 5 / 18"
+        },
+        {
+          "hi": "1000 / 60",
+          "en": "1000 / 60"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "72 किमी/घंटा की चाल मीटर प्रति सेकंड में कितनी होगी?",
+        "en": "What is 72 km/h converted into meters per second?"
+      },
+      "o": [
+        {
+          "hi": "10 m/s",
+          "en": "10 m/s"
+        },
+        {
+          "hi": "15 m/s",
+          "en": "15 m/s"
+        },
+        {
+          "hi": "25 m/s",
+          "en": "25 m/s"
+        },
+        {
+          "hi": "20 मीटर/सेकंड (72 × 5/18 = 20)",
+          "en": "20 m/s (72 × 5/18 = 20)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 न्यूटन बल द्वारा 1 मीटर विस्थापन करने पर किया गया कार्य कितना होता है?",
+        "en": "Work done when 1 Newton force displaces an object by 1 meter is?"
+      },
+      "o": [
+        {
+          "hi": "1 जूल (1 Joule = 1 N·m)",
+          "en": "1 Joule (1 N·m)"
+        },
+        {
+          "hi": "1 अर्ग",
+          "en": "1 erg"
+        },
+        {
+          "hi": "1 वाट",
+          "en": "1 watt"
+        },
+        {
+          "hi": "1 कैलोरी",
+          "en": "1 calorie"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 वर्ग मील (Square Mile) में कितने एकड़ (Acres) होते हैं?",
+        "en": "How many acres are there in 1 square mile of land area?"
+      },
+      "o": [
+        {
+          "hi": "100 एकड़",
+          "en": "100 acres"
+        },
+        {
+          "hi": "640 एकड़ (640 Acres)",
+          "en": "640 Acres"
+        },
+        {
+          "hi": "4840 एकड़",
+          "en": "4840 acres"
+        },
+        {
+          "hi": "1000 एकड़",
+          "en": "1000 acres"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

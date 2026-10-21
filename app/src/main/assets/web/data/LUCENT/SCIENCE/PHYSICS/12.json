@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "ध्वनि तरंग",
+  "description": "ध्वनि तरंग पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "मानव कान द्वारा सुनी जा सकने वाली ध्वनि तरंगों (श्रव्य ध्वनि) की आवृत्ति सीमा क्या है?",
+        "en": "What is audible frequency range of sound waves for human ear?"
+      },
+      "o": [
+        {
+          "hi": "20 Hz से 20,000 Hz",
+          "en": "20 Hz to 20,000 Hz"
+        },
+        {
+          "hi": "0 Hz से 20 Hz",
+          "en": "0 Hz to 20 Hz"
+        },
+        {
+          "hi": "20,000 Hz से अधिक",
+          "en": "Above 20,000 Hz"
+        },
+        {
+          "hi": "200 Hz से 2000 Hz",
+          "en": "200 Hz to 2000 Hz"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "20 Hz से कम आवृत्ति वाली ध्वनि तरंगों को क्या कहा जाता है?",
+        "en": "Sound waves with frequency less than 20 Hz are called what?"
+      },
+      "o": [
+        {
+          "hi": "पराश्रव्य तरंगें",
+          "en": "Ultrasonic waves"
+        },
+        {
+          "hi": "अपश्रव्य तरंगें (Infrasonic Waves)",
+          "en": "Infrasonic Waves"
+        },
+        {
+          "hi": "श्रव्य तरंगें",
+          "en": "Audible waves"
+        },
+        {
+          "hi": "रेडियो तरंगें",
+          "en": "Radio waves"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "20,000 Hz (20 kHz) से अधिक आवृत्ति वाली तरंगों को क्या कहते हैं?",
+        "en": "Sound waves with frequency higher than 20,000 Hz are called what?"
+      },
+      "o": [
+        {
+          "hi": "अपश्रव्य तरंगें",
+          "en": "Infrasonic waves"
+        },
+        {
+          "hi": "श्रव्य तरंगें",
+          "en": "Audible waves"
+        },
+        {
+          "hi": "पराश्रव्य तरंगें (Ultrasonic Waves)",
+          "en": "Ultrasonic Waves"
+        },
+        {
+          "hi": "सूक्ष्म तरंगें",
+          "en": "Microwaves"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चमगादड़ (Bat) रात्रि के अंधेरे में बिना टकराए उड़ने और शिकार खोजने के लिए किन तरंगों का उपयोग करता है?",
+        "en": "Bats use which waves for navigation and hunting in darkness?"
+      },
+      "o": [
+        {
+          "hi": "अपश्रव्य तरंगें",
+          "en": "Infrasonic waves"
+        },
+        {
+          "hi": "रेडियो तरंगें",
+          "en": "Radio waves"
+        },
+        {
+          "hi": "अवरक्त किरणें",
+          "en": "Infrared rays"
+        },
+        {
+          "hi": "पराश्रव्य तरंगें (Ultrasonic Waves)",
+          "en": "Ultrasonic Waves"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "गठिया रोग के उपचार और मस्तिष्क के ट्यूमर का पता लगाने में किन ध्वनि तरंगों का उपयोग किया जाता है?",
+        "en": "Which sound waves are used in arthritis treatment and brain tumor detection?"
+      },
+      "o": [
+        {
+          "hi": "पराश्रव्य तरंगों (Ultrasonic) का",
+          "en": "Ultrasonic waves"
+        },
+        {
+          "hi": "अपश्रव्य तरंगों का",
+          "en": "Infrasonic waves"
+        },
+        {
+          "hi": "श्रव्य ध्वनि तरंगों का",
+          "en": "Audible sound waves"
+        },
+        {
+          "hi": "रेडियो तरंगों का",
+          "en": "Radio waves"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सोनार (SONAR) में समुद्र की गहराई मापने तथा जलमग्न पनडुब्बी की खोज के लिए किन तरंगों का प्रयोग होता है?",
+        "en": "Which waves are used in SONAR for measuring ocean depth and detecting submarines?"
+      },
+      "o": [
+        {
+          "hi": "अपश्रव्य तरंगें",
+          "en": "Infrasonic waves"
+        },
+        {
+          "hi": "पराश्रव्य तरंगें (Ultrasonic waves)",
+          "en": "Ultrasonic waves"
+        },
+        {
+          "hi": "प्रकाश तरंगें",
+          "en": "Light waves"
+        },
+        {
+          "hi": "गामा किरणें",
+          "en": "Gamma rays"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "0°C पर शुष्क वायु में ध्वनि की चाल लगभग कितनी होती है?",
+        "en": "What is approximately the speed of sound in dry air at 0°C?"
+      },
+      "o": [
+        {
+          "hi": "1500 मीटर/सेकंड",
+          "en": "1500 m/s"
+        },
+        {
+          "hi": "5130 मीटर/सेकंड",
+          "en": "5130 m/s"
+        },
+        {
+          "hi": "332 मीटर/सेकंड",
+          "en": "332 m/s"
+        },
+        {
+          "hi": "3 × 10^8 मीटर/सेकंड",
+          "en": "3 × 10^8 m/s"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ध्वनि की चाल सर्वाधिक (सबसे तेज) किस माध्यम में होती है?",
+        "en": "In which medium is the speed of sound maximum?"
+      },
+      "o": [
+        {
+          "hi": "गैस में",
+          "en": "Gas"
+        },
+        {
+          "hi": "द्रव में",
+          "en": "Liquid"
+        },
+        {
+          "hi": "निर्वात में",
+          "en": "Vacuum"
+        },
+        {
+          "hi": "ठोस में (Solids)",
+          "en": "Solids"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से किसमें ध्वनि की चाल शून्य (ध्वनि संचरित नहीं हो सकती) होती है?",
+        "en": "In which of the following is speed of sound zero (sound cannot propagate)?"
+      },
+      "o": [
+        {
+          "hi": "निर्वात (Vacuum) में",
+          "en": "In vacuum"
+        },
+        {
+          "hi": "पानी में",
+          "en": "In water"
+        },
+        {
+          "hi": "स्टील में",
+          "en": "In steel"
+        },
+        {
+          "hi": "हवा में",
+          "en": "In air"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "चंद्रमा पर दो अंतरिक्ष यात्री एक-दूसरे से सीधे बात क्यों नहीं कर सकते?",
+        "en": "Why can two astronauts not talk to each other directly on the Moon?"
+      },
+      "o": [
+        {
+          "hi": "तापमान बहुत कम होने के कारण",
+          "en": "Due to very low temperature"
+        },
+        {
+          "hi": "चंद्रमा पर वायुमंडल (माध्यम) न होने के कारण",
+          "en": "Lack of atmosphere/medium on Moon"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण अधिक होने के कारण",
+          "en": "Due to high gravity"
+        },
+        {
+          "hi": "ध्वनि की चाल शून्य हो जाने से",
+          "en": "Sound speed becoming infinity"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वायुमंडलीय दाब में परिवर्तन करने पर ध्वनि की चाल पर क्या प्रभाव पड़ता है?",
+        "en": "What effect does change in atmospheric pressure have on speed of sound in gas?"
+      },
+      "o": [
+        {
+          "hi": "दाब बढ़ने से चाल बढ़ती है",
+          "en": "Speed increases with pressure"
+        },
+        {
+          "hi": "दाब घटने से चाल घटती है",
+          "en": "Speed decreases with pressure"
+        },
+        {
+          "hi": "चाल पूर्णतः अपरिवर्तित रहती है",
+          "en": "Speed remains completely unchanged"
+        },
+        {
+          "hi": "चाल शून्य हो जाती है",
+          "en": "Speed becomes zero"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वायु का तापमान 1°C बढ़ाने पर ध्वनि की चाल कितनी बढ़ जाती है?",
+        "en": "By how much does the speed of sound increase with 1°C rise in temperature?"
+      },
+      "o": [
+        {
+          "hi": "1 मीटर/सेकंड",
+          "en": "1 m/s"
+        },
+        {
+          "hi": "0.33 मीटर/सेकंड",
+          "en": "0.33 m/s"
+        },
+        {
+          "hi": "3.32 मीटर/सेकंड",
+          "en": "3.32 m/s"
+        },
+        {
+          "hi": "0.61 मीटर/सेकंड",
+          "en": "0.61 m/s"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "शुष्क वायु की तुलना में आर्द्र वायु (Humid Air) में ध्वनि की चाल अधिक क्यों होती है?",
+        "en": "Why is speed of sound higher in humid air compared to dry air?"
+      },
+      "o": [
+        {
+          "hi": "आर्द्र वायु का घनत्व शुष्क वायु से कम होता है",
+          "en": "Humid air has lower density than dry air"
+        },
+        {
+          "hi": "आर्द्र वायु का तापमान अधिक होता है",
+          "en": "Humid air has higher temperature"
+        },
+        {
+          "hi": "आर्द्र वायु में घर्षण शून्य होता है",
+          "en": "Humid air has zero friction"
+        },
+        {
+          "hi": "आर्द्र वायु का दाब अधिक होता है",
+          "en": "Humid air has higher pressure"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ध्वनि की तीव्रता (Loudness/Intensity) मुख्यतः किस पर निर्भर करती है?",
+        "en": "Loudness/Intensity of sound primarily depends on what?"
+      },
+      "o": [
+        {
+          "hi": "तरंग की आवृत्ति पर",
+          "en": "Frequency of wave"
+        },
+        {
+          "hi": "कंपन के आयाम (Amplitude) पर",
+          "en": "Amplitude of vibration"
+        },
+        {
+          "hi": "तरंग के वेग पर",
+          "en": "Velocity of wave"
+        },
+        {
+          "hi": "माध्यम के रंग पर",
+          "en": "Color of medium"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ध्वनि की तीव्रता को मापने की व्यावहारिक इकाई क्या है?",
+        "en": "What is the practical unit for measuring sound intensity/loudness?"
+      },
+      "o": [
+        {
+          "hi": "हर्ट्ज",
+          "en": "Hertz"
+        },
+        {
+          "hi": "डायोप्टर",
+          "en": "Diopter"
+        },
+        {
+          "hi": "डेसिबल (Decibel - dB)",
+          "en": "Decibel (dB)"
+        },
+        {
+          "hi": "कैंडेला",
+          "en": "Candela"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विश्व स्वास्थ्य संगठन (WHO) के अनुसार कितने डेसिबल तक की ध्वनि मानव कर्ण के लिए सुरक्षित मानी जाती है?",
+        "en": "According to WHO, up to how many decibels is sound considered safe for human ear?"
+      },
+      "o": [
+        {
+          "hi": "100 dB",
+          "en": "100 dB"
+        },
+        {
+          "hi": "85 dB",
+          "en": "85 dB"
+        },
+        {
+          "hi": "60 dB",
+          "en": "60 dB"
+        },
+        {
+          "hi": "45 dB",
+          "en": "45 dB"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ध्वनि का वह लक्षण जिसके कारण हमें आवाज पतली (तीखी) या मोटी (भारी) सुनाई देती है, क्या कहलाता है?",
+        "en": "Property of sound by which we distinguish shrill sound from grave/dull sound is?"
+      },
+      "o": [
+        {
+          "hi": "तारत्व (Pitch)",
+          "en": "Pitch"
+        },
+        {
+          "hi": "तीव्रता (Loudness)",
+          "en": "Loudness"
+        },
+        {
+          "hi": "गुणवत्ता (Timbre)",
+          "en": "Timbre"
+        },
+        {
+          "hi": "प्रतिध्वनि",
+          "en": "Echo"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ध्वनि का तारत्व (Pitch) किस पर निर्भर करता है?",
+        "en": "Pitch of a sound depends directly on what?"
+      },
+      "o": [
+        {
+          "hi": "आयाम पर",
+          "en": "Amplitude"
+        },
+        {
+          "hi": "आवृत्ति (Frequency) पर",
+          "en": "Frequency"
+        },
+        {
+          "hi": "ध्वनि की तीव्रता पर",
+          "en": "Intensity of sound"
+        },
+        {
+          "hi": "ध्वनि के वेग पर",
+          "en": "Velocity of sound"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "महिलाओं और छोटे बच्चों की आवाज पुरुषों की तुलना में पतली और सुरीली क्यों होती है?",
+        "en": "Why is the voice of women and children shriller than men?"
+      },
+      "o": [
+        {
+          "hi": "तीव्रता अधिक होने से",
+          "en": "Due to higher intensity"
+        },
+        {
+          "hi": "आयाम अधिक होने से",
+          "en": "Due to higher amplitude"
+        },
+        {
+          "hi": "उच्च आवृत्ति एवं उच्च तारत्व के कारण",
+          "en": "Higher frequency & higher pitch"
+        },
+        {
+          "hi": "कम वेग होने के कारण",
+          "en": "Due to lower velocity"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मच्छर की भिनभिनाहट का तारत्व शेर की दहाड़ के तारत्व से कैसा होता है?",
+        "en": "How is the pitch of a mosquito's buzz compared to a lion's roar?"
+      },
+      "o": [
+        {
+          "hi": "कम होता है",
+          "en": "Lower"
+        },
+        {
+          "hi": "समान होता है",
+          "en": "Equal"
+        },
+        {
+          "hi": "शून्य होता है",
+          "en": "Zero"
+        },
+        {
+          "hi": "अधिक होता है (आवृत्ति अधिक होने से)",
+          "en": "Higher (due to higher frequency)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "समान तीव्रता और समान तारत्व की दो ध्वनियों के बीच अंतर पहचानना किस गुण के कारण संभव होता है?",
+        "en": "Distinguishing between two sounds of same loudness & pitch is due to which quality?"
+      },
+      "o": [
+        {
+          "hi": "गुणवत्ता (Quality / Timbre)",
+          "en": "Quality / Timbre"
+        },
+        {
+          "hi": "तारत्व",
+          "en": "Pitch"
+        },
+        {
+          "hi": "तीव्रता",
+          "en": "Loudness"
+        },
+        {
+          "hi": "अपवर्तन",
+          "en": "Refraction"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ध्वनि का प्रभाव मानव कान पर लगभग कितने समय तक बना रहता है?",
+        "en": "For approximately how long does the sensation of sound persist in the human ear?"
+      },
+      "o": [
+        {
+          "hi": "1 सेकंड",
+          "en": "1 second"
+        },
+        {
+          "hi": "1/10 सेकंड (0.1 सेकंड)",
+          "en": "1/10 second (0.1 second)"
+        },
+        {
+          "hi": "1/20 सेकंड",
+          "en": "1/20 second"
+        },
+        {
+          "hi": "1/2 सेकंड",
+          "en": "1/2 second"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्पष्ट प्रतिध्वनि (Echo) सुनने के लिए परावर्तक सतह और श्रोता के बीच न्यूनतम दूरी कितनी होनी चाहिए?",
+        "en": "What is the minimum distance between listener and reflector to hear a clear echo?"
+      },
+      "o": [
+        {
+          "hi": "10 मीटर",
+          "en": "10 meters"
+        },
+        {
+          "hi": "33.2 मीटर",
+          "en": "33.2 meters"
+        },
+        {
+          "hi": "लगभग 17 मीटर (16.6 मीटर)",
+          "en": "About 17 meters (16.6 meters)"
+        },
+        {
+          "hi": "50 मीटर",
+          "en": "50 meters"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सिनेमा हॉल और ऑडिटोरियम की दीवारों तथा छतों पर ध्वनि-अवशोषक पदार्थ क्यों लगाए जाते हैं?",
+        "en": "Why are sound-absorbing materials fitted on walls and ceilings of auditoriums?"
+      },
+      "o": [
+        {
+          "hi": "हॉल को सुंदर बनाने के लिए",
+          "en": "To decorate hall"
+        },
+        {
+          "hi": "प्रकाश को परावर्तित करने के लिए",
+          "en": "To reflect light"
+        },
+        {
+          "hi": "तापमान घटाने के लिए",
+          "en": "To reduce temperature"
+        },
+        {
+          "hi": "अनुरणन (Reverberation) रोकने के लिए",
+          "en": "To prevent reverberation"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्रोत अथवा श्रोता की आपेक्षिक गति के कारण ध्वनि की आवृत्ति में होने वाले आभासी परिवर्तन को क्या कहते हैं?",
+        "en": "Apparent change in frequency of sound due to relative motion of source/listener is?"
+      },
+      "o": [
+        {
+          "hi": "डॉप्लर प्रभाव (Doppler Effect)",
+          "en": "Doppler Effect"
+        },
+        {
+          "hi": "रमन प्रभाव",
+          "en": "Raman Effect"
+        },
+        {
+          "hi": "टिंडल प्रभाव",
+          "en": "Tyndall Effect"
+        },
+        {
+          "hi": "कॉम्पटन प्रभाव",
+          "en": "Compton Effect"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जब सीटी बजाती हुई ट्रेन प्लेटफार्म पर खड़े श्रोता के समीप आती है, तो सीटी की तीक्ष्णता (आवृत्ति) क्यों बढ़ती प्रतीत होती है?",
+        "en": "Why does pitch of a train's whistle appear to increase as it approaches a listener?"
+      },
+      "o": [
+        {
+          "hi": "बर्नोली प्रमेय के कारण",
+          "en": "Due to Bernoulli's theorem"
+        },
+        {
+          "hi": "डॉप्लर प्रभाव के कारण",
+          "en": "Due to Doppler effect"
+        },
+        {
+          "hi": "आर्किमिडीज सिद्धांत के कारण",
+          "en": "Due to Archimedes principle"
+        },
+        {
+          "hi": "प्रकाश के अपवर्तन से",
+          "en": "Due to refraction"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किसी पिंड की चाल और उसी माध्यम में ध्वनि की चाल के अनुपात को क्या कहा जाता है?",
+        "en": "Ratio of speed of an object to speed of sound in same medium is called what?"
+      },
+      "o": [
+        {
+          "hi": "रेनॉल्ड्स संख्या",
+          "en": "Reynolds number"
+        },
+        {
+          "hi": "अवागाद्रो संख्या",
+          "en": "Avogadro number"
+        },
+        {
+          "hi": "मैक संख्या (Mach Number)",
+          "en": "Mach Number"
+        },
+        {
+          "hi": "हर्ट्ज संख्या",
+          "en": "Hertz number"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यदि किसी लड़ाकू विमान की मैक संख्या 1 से अधिक हो, तो उसकी चाल को क्या कहा जाता है?",
+        "en": "If Mach number of a jet fighter is greater than 1, what is its speed called?"
+      },
+      "o": [
+        {
+          "hi": "सबसोनिक (अवध्वनिक)",
+          "en": "Subsonic"
+        },
+        {
+          "hi": "ध्वनिक (सोनिक)",
+          "en": "Sonic"
+        },
+        {
+          "hi": "इन्फ्रासोनिक",
+          "en": "Infrasonic"
+        },
+        {
+          "hi": "सुपरसोनिक (पराध्वनिक)",
+          "en": "Supersonic"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यदि किसी विमान की मैक संख्या 5 से अधिक हो, तो उसकी गति क्या कहलाती है?",
+        "en": "If the Mach number of an aircraft exceeds 5, what is its speed termed?"
+      },
+      "o": [
+        {
+          "hi": "हाइपरसोनिक (अतिपराध्वनिक)",
+          "en": "Hypersonic"
+        },
+        {
+          "hi": "सुपरसोनिक",
+          "en": "Supersonic"
+        },
+        {
+          "hi": "सबसोनिक",
+          "en": "Subsonic"
+        },
+        {
+          "hi": "अल्ट्रासोनिक",
+          "en": "Ultrasonic"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पराध्वनिक विमानों (Supersonic Aircraft) के उड़ने पर पीछे छूटने वाली तीव्र प्रघाती तरंगों को क्या कहते हैं?",
+        "en": "Intense shock waves left behind by supersonic aircraft are called what?"
+      },
+      "o": [
+        {
+          "hi": "रेडियो तरंगे",
+          "en": "Radio waves"
+        },
+        {
+          "hi": "सोनिक बूम (Sonic Boom)",
+          "en": "Sonic Boom"
+        },
+        {
+          "hi": "अल्ट्रासाउंड",
+          "en": "Ultrasound"
+        },
+        {
+          "hi": "विस्पंद",
+          "en": "Beats"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्टेथोस्कोप (Stethoscope) किस सिद्धांत पर कार्य करता है?",
+        "en": "On which physical principle does a doctor's stethoscope work?"
+      },
+      "o": [
+        {
+          "hi": "ध्वनि के अपवर्तन पर",
+          "en": "Refraction of sound"
+        },
+        {
+          "hi": "ध्वनि के विवर्तन पर",
+          "en": "Diffraction of sound"
+        },
+        {
+          "hi": "ध्वनि के बहुल परावर्तन पर (Multiple Reflection)",
+          "en": "Multiple reflection of sound"
+        },
+        {
+          "hi": "ध्वनि के ध्रुवण पर",
+          "en": "Polarization of sound"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मेगाफोन, लाउडस्पीकर और तुरही (हॉर्न) किस सिद्धांत पर कार्य करते हैं?",
+        "en": "Megaphones, loudspeakers and horns operate on which principle?"
+      },
+      "o": [
+        {
+          "hi": "ध्वनि के विवर्तन पर",
+          "en": "Diffraction of sound"
+        },
+        {
+          "hi": "ध्वनि के ध्रुवण पर",
+          "en": "Polarization of sound"
+        },
+        {
+          "hi": "ध्वनि के व्यतिकरण पर",
+          "en": "Interference of sound"
+        },
+        {
+          "hi": "ध्वनि के परावर्तन पर (Reflection of Sound)",
+          "en": "Reflection of Sound"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दिन की तुलना में रात में आवाज अधिक दूर तक क्यों सुनाई देती है?",
+        "en": "Why can sound be heard over longer distances at night compared to daytime?"
+      },
+      "o": [
+        {
+          "hi": "ध्वनि के अपवर्तन (Refraction) के कारण",
+          "en": "Due to refraction of sound"
+        },
+        {
+          "hi": "ध्वनि के परावर्तन के कारण",
+          "en": "Due to reflection of sound"
+        },
+        {
+          "hi": "रात में शांति होने के कारण",
+          "en": "Due to quietness at night"
+        },
+        {
+          "hi": "ध्वनि की चाल घट जाने के कारण",
+          "en": "Due to drop in sound speed"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ध्वनि तरंगों का किसी अवरोध के किनारों से मुड़कर आगे बढ़ना क्या कहलाता है?",
+        "en": "The bending of sound waves around obstacles and corners is called what?"
+      },
+      "o": [
+        {
+          "hi": "ध्वनि का अपवर्तन",
+          "en": "Refraction of sound"
+        },
+        {
+          "hi": "ध्वनि का विवर्तन (Diffraction of Sound)",
+          "en": "Diffraction of Sound"
+        },
+        {
+          "hi": "ध्वनि का ध्रुवण",
+          "en": "Polarization of sound"
+        },
+        {
+          "hi": "ध्वनि का प्रकीर्णन",
+          "en": "Scattering of sound"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हम कमरे के अंदर बंद व्यक्ति की आवाज दरवाजे के बाहर से भी क्यों सुन लेते हैं?",
+        "en": "Why can we hear a person speaking inside a room from outside a closed door?"
+      },
+      "o": [
+        {
+          "hi": "ध्वनि के परावर्तन से",
+          "en": "Reflection of sound"
+        },
+        {
+          "hi": "ध्वनि के अपवर्तन से",
+          "en": "Refraction of sound"
+        },
+        {
+          "hi": "ध्वनि के विवर्तन (Diffraction) के कारण",
+          "en": "Diffraction of sound"
+        },
+        {
+          "hi": "ध्वनि के ध्रुवण से",
+          "en": "Polarization of sound"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ध्वनि तरंगों में कौन-सी घटना प्रदर्शित नहीं की जा सकती?",
+        "en": "Which of the following optical phenomena cannot be exhibited by sound waves?"
+      },
+      "o": [
+        {
+          "hi": "परावर्तन",
+          "en": "Reflection"
+        },
+        {
+          "hi": "अपवर्तन",
+          "en": "Refraction"
+        },
+        {
+          "hi": "व्यतिकरण",
+          "en": "Interference"
+        },
+        {
+          "hi": "ध्रुवण (Polarization)",
+          "en": "Polarization"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ध्वनि तरंगों का ध्रुवण (Polarization) क्यों नहीं हो सकता?",
+        "en": "Why cannot sound waves in air be polarized?"
+      },
+      "o": [
+        {
+          "hi": "क्योंकि ये अनुदैर्ध्य तरंगें हैं",
+          "en": "Because they are longitudinal waves"
+        },
+        {
+          "hi": "क्योंकि इनकी चाल कम होती है",
+          "en": "Because of low speed"
+        },
+        {
+          "hi": "क्योंकि इनकी आवृत्ति कम होती है",
+          "en": "Because of low frequency"
+        },
+        {
+          "hi": "क्योंकि ये निर्वात में नहीं चलतीं",
+          "en": "Because they don't travel in vacuum"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "लगभग समान आवृत्ति की दो ध्वनि तरंगों के अध्यारोपण से तीव्रता में होने वाले उतार-चढ़ाव को क्या कहते हैं?",
+        "en": "Periodic variation in intensity by superposition of two nearly equal frequency waves is?"
+      },
+      "o": [
+        {
+          "hi": "अनुनाद",
+          "en": "Resonance"
+        },
+        {
+          "hi": "विस्पंद (Beats)",
+          "en": "Beats"
+        },
+        {
+          "hi": "डॉप्लर प्रभाव",
+          "en": "Doppler effect"
+        },
+        {
+          "hi": "विवर्तन",
+          "en": "Diffraction"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रति सेकंड सुनाई देने वाले विस्पंदों की संख्या (Beat Frequency) किसके बराबर होती है?",
+        "en": "The number of beats heard per second equals what?"
+      },
+      "o": [
+        {
+          "hi": "दोनों आवृत्तियों के योग के",
+          "en": "Sum of frequencies (n1 + n2)"
+        },
+        {
+          "hi": "दोनों आवृत्तियों के गुणनफल के",
+          "en": "Product of frequencies"
+        },
+        {
+          "hi": "दोनों आवृत्तियों के अंतर (n1 - n2) के",
+          "en": "Difference of frequencies (n1 - n2)"
+        },
+        {
+          "hi": "दोनों आवृत्तियों के अनुपात के",
+          "en": "Ratio of frequencies"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समुद्र के भीतर डूबी वस्तुओं की स्थिति, दूरी और दिशा का पता लगाने वाला मुख्य उपकरण कौन-सा है?",
+        "en": "Which main apparatus is used to determine position, distance & direction of submerged objects?"
+      },
+      "o": [
+        {
+          "hi": "रडार (RADAR)",
+          "en": "RADAR"
+        },
+        {
+          "hi": "लेसर (LASER)",
+          "en": "LASER"
+        },
+        {
+          "hi": "मेसर (MASER)",
+          "en": "MASER"
+        },
+        {
+          "hi": "सोनार (SONAR)",
+          "en": "SONAR"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हवाई जहाज और कारों में साइलेंसर किस सिद्धांत पर कार्य करते हैं?",
+        "en": "On which physical phenomenon do engine silencers work?"
+      },
+      "o": [
+        {
+          "hi": "विनाशी व्यतिकरण (Destructive Interference)",
+          "en": "Destructive Interference"
+        },
+        {
+          "hi": "ध्वनि का ध्रुवण",
+          "en": "Polarization of sound"
+        },
+        {
+          "hi": "ध्वनि का अपवर्तन",
+          "en": "Refraction of sound"
+        },
+        {
+          "hi": "सोनिक बूम",
+          "en": "Sonic boom"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गाल्टन की सीटी (Galton's Whistle) से किस प्रकार की ध्वनि तरंगें उत्पन्न की जाती हैं?",
+        "en": "What type of sound waves are produced by Galton's whistle?"
+      },
+      "o": [
+        {
+          "hi": "अपश्रव्य तरंगें",
+          "en": "Infrasonic waves"
+        },
+        {
+          "hi": "पराश्रव्य तरंगें (Ultrasonic Waves)",
+          "en": "Ultrasonic Waves"
+        },
+        {
+          "hi": "श्रव्य तरंगें",
+          "en": "Audible waves"
+        },
+        {
+          "hi": "रेडियो तरंगें",
+          "en": "Radio waves"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "मानव शरीर के आंतरिक अंगों (जैसे यकृत, गर्भाशय) का चित्र लेने के लिए अल्ट्रासोनोग्राफी (USG) में कौन-सी तरंगें प्रयुक्त होती हैं?",
+        "en": "Which waves are used in ultrasonography (USG) for medical imaging?"
+      },
+      "o": [
+        {
+          "hi": "एक्स किरणें",
+          "en": "X-rays"
+        },
+        {
+          "hi": "गामा किरणें",
+          "en": "Gamma rays"
+        },
+        {
+          "hi": "पराश्रव्य तरंगें (Ultrasonic Waves)",
+          "en": "Ultrasonic Waves"
+        },
+        {
+          "hi": "अवरक्त किरणें",
+          "en": "Infrared rays"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सोनोग्राफी में प्रयुक्त पराश्रव्य तरंगें किस प्रभाव द्वारा उत्पन्न की जाती हैं?",
+        "en": "Ultrasonic waves used in sonography are generated through which effect?"
+      },
+      "o": [
+        {
+          "hi": "प्रकाश-विद्युत प्रभाव",
+          "en": "Photoelectric effect"
+        },
+        {
+          "hi": "थर्मियोनिक प्रभाव",
+          "en": "Thermionic effect"
+        },
+        {
+          "hi": "रमन प्रभाव",
+          "en": "Raman effect"
+        },
+        {
+          "hi": "दाब-विद्युत प्रभाव (Piezoelectric Effect)",
+          "en": "Piezoelectric Effect"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लोहे में ध्वनि की चाल लगभग कितनी होती है?",
+        "en": "What is approximately the speed of sound in iron?"
+      },
+      "o": [
+        {
+          "hi": "5130 मीटर/सेकंड",
+          "en": "5130 m/s"
+        },
+        {
+          "hi": "1483 मीटर/सेकंड",
+          "en": "1483 m/s"
+        },
+        {
+          "hi": "332 मीटर/सेकंड",
+          "en": "332 m/s"
+        },
+        {
+          "hi": "1200 मीटर/सेकंड",
+          "en": "1200 m/s"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आसुत जल (Distilled Water) में 20°C पर ध्वनि की चाल लगभग कितनी होती है?",
+        "en": "What is approximately the speed of sound in distilled water at 20°C?"
+      },
+      "o": [
+        {
+          "hi": "332 मीटर/सेकंड",
+          "en": "332 m/s"
+        },
+        {
+          "hi": "1483 से 1500 मीटर/सेकंड",
+          "en": "1483 to 1500 m/s"
+        },
+        {
+          "hi": "5000 मीटर/सेकंड",
+          "en": "5000 m/s"
+        },
+        {
+          "hi": "300 मीटर/सेकंड",
+          "en": "300 m/s"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सामान्य बातचीत (Normal Conversation) में ध्वनि का स्तर कितने डेसिबल होता है?",
+        "en": "What is the decibel level of sound during normal conversation?"
+      },
+      "o": [
+        {
+          "hi": "10 से 20 dB",
+          "en": "10 to 20 dB"
+        },
+        {
+          "hi": "80 से 90 dB",
+          "en": "80 to 90 dB"
+        },
+        {
+          "hi": "30 से 40 (या 40-60) dB",
+          "en": "30 to 40 (or 40-60) dB"
+        },
+        {
+          "hi": "120 dB",
+          "en": "120 dB"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "फुसफुसाहट (Whispering) में ध्वनि का स्तर लगभग कितना होता है?",
+        "en": "What is approximately the sound level during whispering?"
+      },
+      "o": [
+        {
+          "hi": "50 dB",
+          "en": "50 dB"
+        },
+        {
+          "hi": "80 dB",
+          "en": "80 dB"
+        },
+        {
+          "hi": "100 dB",
+          "en": "100 dB"
+        },
+        {
+          "hi": "15 से 20 dB",
+          "en": "15 to 20 dB"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "यदि श्रोता ध्वनि स्रोत की ओर चले, तो उसे सुनाई देने वाली ध्वनि की आवृत्ति कैसी होगी?",
+        "en": "If listener moves towards sound source, what frequency does he hear?"
+      },
+      "o": [
+        {
+          "hi": "वास्तविक आवृत्ति से अधिक",
+          "en": "Higher than actual frequency"
+        },
+        {
+          "hi": "वास्तविक आवृत्ति से कम",
+          "en": "Lower than actual frequency"
+        },
+        {
+          "hi": "समान",
+          "en": "Same"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गैस में ध्वनि की चाल (v = √(γP/ρ)) का लाप्लास संशोधन किस पर आधारित था?",
+        "en": "Laplace's correction for speed of sound in a gas assumed which thermodynamic process?"
+      },
+      "o": [
+        {
+          "hi": "समतापी प्रक्रम (Isothermal)",
+          "en": "Isothermal process"
+        },
+        {
+          "hi": "रुद्धोष्म प्रक्रम (Adiabatic Process)",
+          "en": "Adiabatic Process"
+        },
+        {
+          "hi": "समदाबी प्रक्रम (Isobaric)",
+          "en": "Isobaric process"
+        },
+        {
+          "hi": "समायतनी प्रक्रम (Isochoric)",
+          "en": "Isochoric process"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

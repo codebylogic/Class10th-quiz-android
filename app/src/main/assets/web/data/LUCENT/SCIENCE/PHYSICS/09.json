@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "प्रत्यास्थता",
+  "description": "प्रत्यास्थता पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "पदार्थ का वह गुण जिसके कारण वह विरूपक बल हटाने पर अपनी मूल आकृति पुनः प्राप्त कर लेता है, क्या कहलाता है?",
+        "en": "Property of material to regain original shape when deforming force is removed is called what?"
+      },
+      "o": [
+        {
+          "hi": "प्रत्यास्थता (Elasticity)",
+          "en": "Elasticity"
+        },
+        {
+          "hi": "श्यानता (Viscosity)",
+          "en": "Viscosity"
+        },
+        {
+          "hi": "कठोरता (Hardness)",
+          "en": "Hardness"
+        },
+        {
+          "hi": "सुघट्यता (Plasticity)",
+          "en": "Plasticity"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एकांक क्षेत्रफल पर कार्य करने वाले आंतरिक प्रत्यानयन बल को क्या कहते हैं?",
+        "en": "What is the internal restoring force acting per unit area called?"
+      },
+      "o": [
+        {
+          "hi": "विकृति (Strain)",
+          "en": "Strain"
+        },
+        {
+          "hi": "प्रतिबल (Stress)",
+          "en": "Stress"
+        },
+        {
+          "hi": "दाब (Pressure)",
+          "en": "Pressure"
+        },
+        {
+          "hi": "पृष्ठ तनाव",
+          "en": "Surface Tension"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रतिबल (Stress) का SI मात्रक क्या होता है?",
+        "en": "What is the SI unit of stress?"
+      },
+      "o": [
+        {
+          "hi": "न्यूटन-मीटर",
+          "en": "Newton-meter"
+        },
+        {
+          "hi": "जूल/सेकंड",
+          "en": "Joule/second"
+        },
+        {
+          "hi": "न्यूटन/मीटर² (पास्कल)",
+          "en": "Newton/meter² (Pascal)"
+        },
+        {
+          "hi": "मात्रकहीन",
+          "en": "Unitless"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "वस्तु की विमा में होने वाले आनुपातिक परिवर्तन (ΔL/L) को क्या कहते हैं?",
+        "en": "What is fractional change in dimension of a body called?"
+      },
+      "o": [
+        {
+          "hi": "प्रतिबल",
+          "en": "Stress"
+        },
+        {
+          "hi": "प्रत्यास्थता",
+          "en": "Elasticity"
+        },
+        {
+          "hi": "दृढ़ता",
+          "en": "Rigidity"
+        },
+        {
+          "hi": "विकृति (Strain)",
+          "en": "Strain"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विकृति (Strain) का मात्रक क्या होता है?",
+        "en": "What is the unit of strain?"
+      },
+      "o": [
+        {
+          "hi": "यह एक मात्रकहीन एवं विमाहीन राशि है",
+          "en": "It is dimensionless and unitless"
+        },
+        {
+          "hi": "मीटर",
+          "en": "Meter"
+        },
+        {
+          "hi": "न्यूटन/मीटर",
+          "en": "Newton/meter"
+        },
+        {
+          "hi": "पास्कल",
+          "en": "Pascal"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रत्यास्थता की सीमा के अंदर प्रतिबल सदैव विकृति के समानुपाती होता है, यह किसका नियम है?",
+        "en": "Within elastic limit, stress is proportional to strain. Whose law is this?"
+      },
+      "o": [
+        {
+          "hi": "पास्कल का नियम",
+          "en": "Pascal's law"
+        },
+        {
+          "hi": "हुक का नियम (Hooke's Law)",
+          "en": "Hooke's Law"
+        },
+        {
+          "hi": "बर्नोली का नियम",
+          "en": "Bernoulli's law"
+        },
+        {
+          "hi": "स्टोक्स का नियम",
+          "en": "Stokes' law"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "यंग प्रत्यास्थता गुणांक (Young's Modulus - Y) किसका अनुपात होता है?",
+        "en": "Young's Modulus of elasticity is the ratio of what?"
+      },
+      "o": [
+        {
+          "hi": "आयतन प्रतिबल और आयतन विकृति",
+          "en": "Volume stress to volume strain"
+        },
+        {
+          "hi": "अपरूपण प्रतिबल और अपरूपण विकृति",
+          "en": "Shearing stress to shearing strain"
+        },
+        {
+          "hi": "अनुदैर्ध्य प्रतिबल और अनुदैर्ध्य विकृति",
+          "en": "Longitudinal stress to strain"
+        },
+        {
+          "hi": "दाब और घनत्व",
+          "en": "Pressure to density"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यंग प्रत्यास्थता गुणांक (Young's Modulus) केवल किस प्रकार के पदार्थों में संभव है?",
+        "en": "Young's Modulus of elasticity is possible only in what state of matter?"
+      },
+      "o": [
+        {
+          "hi": "केवल द्रवों में",
+          "en": "Only liquids"
+        },
+        {
+          "hi": "केवल गैसों में",
+          "en": "Only gases"
+        },
+        {
+          "hi": "द्रवों और गैसों दोनों में",
+          "en": "Both liquids and gases"
+        },
+        {
+          "hi": "केवल ठोसों में",
+          "en": "Only solids"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आयतन प्रत्यास्थता गुणांक (Bulk Modulus - K) किन पदार्थों में पाया जाता है?",
+        "en": "Bulk Modulus of elasticity is found in which states of matter?"
+      },
+      "o": [
+        {
+          "hi": "ठोस, द्रव एवं गैस तीनों में",
+          "en": "Solids, liquids and gases"
+        },
+        {
+          "hi": "केवल ठोसों में",
+          "en": "Only solids"
+        },
+        {
+          "hi": "केवल द्रवों में",
+          "en": "Only liquids"
+        },
+        {
+          "hi": "केवल गैसों में",
+          "en": "Only gases"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आयतन प्रत्यास्थता गुणांक के व्युत्क्रम (1/K) को क्या कहा जाता है?",
+        "en": "What is the reciprocal of Bulk Modulus (1/K) called?"
+      },
+      "o": [
+        {
+          "hi": "दृढ़ता गुणांक",
+          "en": "Modulus of rigidity"
+        },
+        {
+          "hi": "संपीड़्यता (Compressibility)",
+          "en": "Compressibility"
+        },
+        {
+          "hi": "यंग मापांक",
+          "en": "Young's modulus"
+        },
+        {
+          "hi": "पॉयसन अनुपात",
+          "en": "Poisson's ratio"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दृढ़ता गुणांक (Modulus of Rigidity - η) केवल किसमें पाया जाता है?",
+        "en": "Modulus of Rigidity (η) is possessed only by what?"
+      },
+      "o": [
+        {
+          "hi": "केवल द्रवों में",
+          "en": "Only liquids"
+        },
+        {
+          "hi": "केवल गैसों में",
+          "en": "Only gases"
+        },
+        {
+          "hi": "केवल ठोस पदार्थों में",
+          "en": "Only solid substances"
+        },
+        {
+          "hi": "प्लाज्मा अवस्था में",
+          "en": "In plasma state"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रबर और स्टील में से कौन अधिक प्रत्यास्थ (More Elastic) है?",
+        "en": "Between rubber and steel, which one is more elastic?"
+      },
+      "o": [
+        {
+          "hi": "रबर",
+          "en": "Rubber"
+        },
+        {
+          "hi": "दोनों समान रूप से प्रत्यास्थ हैं",
+          "en": "Both equally elastic"
+        },
+        {
+          "hi": "तापमान पर निर्भर करता है",
+          "en": "Depends on temperature"
+        },
+        {
+          "hi": "स्टील",
+          "en": "Steel"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्टील रबर से अधिक प्रत्यास्थ क्यों होता है?",
+        "en": "Why is steel more elastic than rubber?"
+      },
+      "o": [
+        {
+          "hi": "समान विकृति उत्पन्न करने हेतु स्टील में अधिक बल चाहिए",
+          "en": "Requires more force for same strain"
+        },
+        {
+          "hi": "स्टील हल्का होता है",
+          "en": "Steel is lighter"
+        },
+        {
+          "hi": "रबर जल्दी टूट जाती है",
+          "en": "Rubber breaks easily"
+        },
+        {
+          "hi": "स्टील में ससंजक बल कम होता है",
+          "en": "Steel has less cohesive force"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "स्प्रिंग बनाने के लिए तांबे की तुलना में स्टील को प्राथमिकता क्यों दी जाती है?",
+        "en": "Why is steel preferred over copper for making springs?"
+      },
+      "o": [
+        {
+          "hi": "स्टील सस्ती होती है",
+          "en": "Steel is cheaper"
+        },
+        {
+          "hi": "स्टील की प्रत्यास्थता तांबे से अधिक होती है",
+          "en": "Steel has higher elasticity than copper"
+        },
+        {
+          "hi": "स्टील में जंग नहीं लगती",
+          "en": "Steel does not rust"
+        },
+        {
+          "hi": "स्टील विद्युत का अच्छा चालक है",
+          "en": "Steel is a better conductor"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सी वस्तु लगभग पूर्णतः प्रत्यास्थ (Nearly Perfectly Elastic) मानी जाती है?",
+        "en": "Which of the following substances is considered nearly perfectly elastic?"
+      },
+      "o": [
+        {
+          "hi": "गीली मिट्टी",
+          "en": "Wet clay"
+        },
+        {
+          "hi": "मोम",
+          "en": "Wax"
+        },
+        {
+          "hi": "क्वार्ट्ज़ एवं फॉस्फर ब्रॉन्ज",
+          "en": "Quartz and Phosphor Bronze"
+        },
+        {
+          "hi": "कांच",
+          "en": "Glass"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सा पदार्थ पूर्णतः अप्रत्यास्थ या प्लास्टिक (Plastic) पदार्थ का उदाहरण है?",
+        "en": "Which of the following is an example of a perfectly plastic substance?"
+      },
+      "o": [
+        {
+          "hi": "स्टील",
+          "en": "Steel"
+        },
+        {
+          "hi": "क्वार्ट्ज़",
+          "en": "Quartz"
+        },
+        {
+          "hi": "तांबा",
+          "en": "Copper"
+        },
+        {
+          "hi": "गीली मिट्टी एवं पुट्टी",
+          "en": "Wet clay and putty"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तापमान बढ़ाने पर अधिकांश ठोस पदार्थों की प्रत्यास्थता पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to the elasticity of most solids when temperature is increased?"
+      },
+      "o": [
+        {
+          "hi": "प्रत्यास्थता घट जाती है",
+          "en": "Elasticity decreases"
+        },
+        {
+          "hi": "प्रत्यास्थता बढ़ जाती है",
+          "en": "Elasticity increases"
+        },
+        {
+          "hi": "अपरिवर्तित रहती है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "अनंत हो जाती है",
+          "en": "Becomes infinite"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किस मिश्रधातु की प्रत्यास्थता पर तापमान परिवर्तन का कोई विशेष प्रभाव नहीं पड़ता?",
+        "en": "Which alloy's elasticity is practically unaffected by temperature changes?"
+      },
+      "o": [
+        {
+          "hi": "पीतल",
+          "en": "Brass"
+        },
+        {
+          "hi": "इनवार (Invar)",
+          "en": "Invar"
+        },
+        {
+          "hi": "कांसा",
+          "en": "Bronze"
+        },
+        {
+          "hi": "जर्मन सिल्वर",
+          "en": "German Silver"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किसी धातु को लगातार हथौड़े से पीटने (पीटकर चादर बनाने) पर उसकी प्रत्यास्थता पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to elasticity of a metal when it is hammered repeatedly?"
+      },
+      "o": [
+        {
+          "hi": "घट जाती है",
+          "en": "Decreases"
+        },
+        {
+          "hi": "शून्य हो जाती है",
+          "en": "Becomes zero"
+        },
+        {
+          "hi": "बढ़ जाती है",
+          "en": "Increases"
+        },
+        {
+          "hi": "अपरिवर्तित रहती है",
+          "en": "Remains unchanged"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किसी तार को बार-बार मोड़ने और सीधा करने पर वह आसानी से टूट क्यों जाता है?",
+        "en": "Why does a wire break easily when bent back and forth repeatedly?"
+      },
+      "o": [
+        {
+          "hi": "तापमान बढ़ने से",
+          "en": "Due to temperature rise"
+        },
+        {
+          "hi": "जंग लग जाने से",
+          "en": "Due to rusting"
+        },
+        {
+          "hi": "श्यानता समाप्त होने से",
+          "en": "Loss of viscosity"
+        },
+        {
+          "hi": "प्रत्यास्थ श्रांति (Elastic Fatigue) के कारण",
+          "en": "Due to elastic fatigue"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "पुलों (Bridges) को लंबे समय तक उपयोग के बाद असुरक्षित क्यों घोषित कर दिया जाता है?",
+        "en": "Why are bridges declared unsafe after long periods of use?"
+      },
+      "o": [
+        {
+          "hi": "प्रत्यास्थ श्रांति से प्रत्यास्थ गुण खोने के कारण",
+          "en": "Loss of elastic strength via fatigue"
+        },
+        {
+          "hi": "पुल का वजन बढ़ जाने से",
+          "en": "Bridge weight increases"
+        },
+        {
+          "hi": "पुल की लंबाई घट जाने से",
+          "en": "Bridge length decreases"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण बल बढ़ जाने से",
+          "en": "Gravity increases"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "भवन निर्माण में प्रयुक्त लोहे के गार्डर (Girders) की अनुप्रस्थ काट 'I' आकार की क्यों बनाई जाती है?",
+        "en": "Why are iron girders used in construction shaped like the letter 'I'?"
+      },
+      "o": [
+        {
+          "hi": "सुंदर दिखने के लिए",
+          "en": "To look decorative"
+        },
+        {
+          "hi": "कम भार में अधिकतम बंकन प्रतिरोध व मजबूती हेतु",
+          "en": "Max bending resistance with min weight"
+        },
+        {
+          "hi": "लोहे को ठंडा रखने के लिए",
+          "en": "To keep iron cool"
+        },
+        {
+          "hi": "पेंट करने में आसानी हेतु",
+          "en": "To ease painting"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पॉयसन अनुपात (Poisson's Ratio - σ) किसका अनुपात होता है?",
+        "en": "Poisson's Ratio (σ) is the ratio of what?"
+      },
+      "o": [
+        {
+          "hi": "प्रतिबल और विकृति",
+          "en": "Stress to strain"
+        },
+        {
+          "hi": "अनुदैर्ध्य विकृति और आयतन विकृति",
+          "en": "Longitudinal to volume strain"
+        },
+        {
+          "hi": "पार्श्व विकृति और अनुदैर्ध्य विकृति",
+          "en": "Lateral strain to longitudinal strain"
+        },
+        {
+          "hi": "दाब और आयतन",
+          "en": "Pressure to volume"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "व्यावहारिक रूप में अधिकांश पदार्थों के लिए पॉयसन अनुपात का मान किसके बीच होता है?",
+        "en": "In practice, Poisson's ratio for most substances lies between what values?"
+      },
+      "o": [
+        {
+          "hi": "1 से 2",
+          "en": "1 to 2"
+        },
+        {
+          "hi": "-1 से 0",
+          "en": "-1 to 0"
+        },
+        {
+          "hi": "0.5 से 1.0",
+          "en": "0.5 to 1.0"
+        },
+        {
+          "hi": "0 से 0.5",
+          "en": "0 to 0.5"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किसी खींचे हुए तार में प्रति एकांक आयतन में संचित प्रत्यास्थ स्थितिज ऊर्जा का सूत्र क्या है?",
+        "en": "What is elastic potential energy stored per unit volume in a stretched wire?"
+      },
+      "o": [
+        {
+          "hi": "½ × प्रतिबल × विकृति",
+          "en": "½ × Stress × Strain"
+        },
+        {
+          "hi": "प्रतिबल × विकृति",
+          "en": "Stress × Strain"
+        },
+        {
+          "hi": "½ × (प्रतिबल)² × विकृति",
+          "en": "½ × (Stress)² × Strain"
+        },
+        {
+          "hi": "प्रतिबल / विकृति",
+          "en": "Stress / Strain"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ठोस पदार्थों का आकार और आयतन दोनों निश्चित होने का मुख्य कारण क्या है?",
+        "en": "What is the primary reason solids have definite shape and volume?"
+      },
+      "o": [
+        {
+          "hi": "कम घनत्व",
+          "en": "Low density"
+        },
+        {
+          "hi": "उच्च प्रत्यास्थता एवं प्रबल अंतर-आणविक बल",
+          "en": "High elasticity & strong intermolecular force"
+        },
+        {
+          "hi": "उच्च श्यानता",
+          "en": "High viscosity"
+        },
+        {
+          "hi": "शून्य प्रतिबल",
+          "en": "Zero stress"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कांच में किस प्रकार की विकृति उत्पन्न होने पर वह तुरंत टूट जाता है?",
+        "en": "Glass shatters readily because it exhibits which mechanical property?"
+      },
+      "o": [
+        {
+          "hi": "उच्च सुघट्यता",
+          "en": "High plasticity"
+        },
+        {
+          "hi": "उच्च लचीलापन",
+          "en": "High ductility"
+        },
+        {
+          "hi": "भंगुरता (Brittleness)",
+          "en": "Brittleness"
+        },
+        {
+          "hi": "शून्य घनत्व",
+          "en": "Zero density"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किसी खोखले बेलन (Hollow Cylinder) की ऐंठन दृढ़ता उसी द्रव्यमान के ठोस बेलन से कैसी होती है?",
+        "en": "How is torsional rigidity of a hollow cylinder compared to a solid cylinder of same mass?"
+      },
+      "o": [
+        {
+          "hi": "कम होती है",
+          "en": "Lower"
+        },
+        {
+          "hi": "बराबर होती है",
+          "en": "Equal"
+        },
+        {
+          "hi": "शून्य होती है",
+          "en": "Zero"
+        },
+        {
+          "hi": "अधिक होती है",
+          "en": "Higher"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "साइकिल के फ्रेम और वाहनों के शाफ्ट खोखले पाइपों के क्यों बनाए जाते हैं?",
+        "en": "Why are bicycle frames and vehicle shafts made of hollow tubes?"
+      },
+      "o": [
+        {
+          "hi": "कम भार में अधिक मजबूती और ऐंठन प्रतिरोध हेतु",
+          "en": "More strength & torsional resistance with less weight"
+        },
+        {
+          "hi": "हवा भरने के लिए",
+          "en": "To fill air"
+        },
+        {
+          "hi": "सस्ते होने के कारण",
+          "en": "Because they are cheap"
+        },
+        {
+          "hi": "आसानी से मोड़ने के लिए",
+          "en": "To bend easily"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एक आदर्श दृढ़ पिंड (Perfect Rigid Body) के लिए यंग प्रत्यास्थता गुणांक का मान कितना होता है?",
+        "en": "What is the Young's Modulus of elasticity for a perfectly rigid body?"
+      },
+      "o": [
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "अनंत (Infinite)",
+          "en": "Infinite"
+        },
+        {
+          "hi": "1 पास्कल",
+          "en": "1 Pascal"
+        },
+        {
+          "hi": "-1",
+          "en": "-1"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक आदर्श तरल (Ideal Fluid) का दृढ़ता गुणांक (Modulus of Rigidity) कितना होता है?",
+        "en": "What is the Modulus of Rigidity for an ideal fluid?"
+      },
+      "o": [
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "1",
+          "en": "1"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        },
+        {
+          "hi": "अपरिमित",
+          "en": "Indeterminate"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रत्यास्थता गुणांक (Modulus of Elasticity) का विमीय सूत्र किस भौतिक राशि के समान होता है?",
+        "en": "The dimensional formula of Modulus of Elasticity is same as which quantity?"
+      },
+      "o": [
+        {
+          "hi": "बल के",
+          "en": "Force"
+        },
+        {
+          "hi": "कार्य के",
+          "en": "Work"
+        },
+        {
+          "hi": "ऊर्जा के",
+          "en": "Energy"
+        },
+        {
+          "hi": "दाब एवं प्रतिबल के ([M L^-1 T^-2])",
+          "en": "Pressure and Stress ([M L^-1 T^-2])"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तार की लंबाई खींचकर दोगुनी करने पर उत्पन्न विकृति का मान कितना होगा?",
+        "en": "When a wire is stretched to double its original length, what is strain?"
+      },
+      "o": [
+        {
+          "hi": "1",
+          "en": "1"
+        },
+        {
+          "hi": "2",
+          "en": "2"
+        },
+        {
+          "hi": "0.5",
+          "en": "0.5"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रत्यास्थ सीमा (Elastic Limit) से अधिक विरूपक बल लगाने पर वस्तु में क्या हो जाता है?",
+        "en": "What happens when deforming force exceeds the elastic limit?"
+      },
+      "o": [
+        {
+          "hi": "वस्तु तुरंत उड़ जाती है",
+          "en": "Body flies off"
+        },
+        {
+          "hi": "स्थायी विरूपण (Permanent deformation) हो जाता है",
+          "en": "Permanent deformation occurs"
+        },
+        {
+          "hi": "प्रत्यास्थता बढ़ जाती है",
+          "en": "Elasticity increases"
+        },
+        {
+          "hi": "तापमान शून्य हो जाता है",
+          "en": "Temperature becomes zero"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "क्रेन की रस्सियां मोटी धातु की कई पतली तारों को गूंथकर क्यों बनाई जाती हैं?",
+        "en": "Why are crane ropes braided from multiple thin metallic wires?"
+      },
+      "o": [
+        {
+          "hi": "रंग सुंदर दिखने हेतु",
+          "en": "To look aesthetic"
+        },
+        {
+          "hi": "रस्सी को भारी बनाने हेतु",
+          "en": "To make rope heavy"
+        },
+        {
+          "hi": "लचीलापन एवं भार वहन क्षमता बढ़ाने के लिए",
+          "en": "To increase flexibility & load capacity"
+        },
+        {
+          "hi": "जंग से बचाने के लिए",
+          "en": "To prevent rust"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किसी तार पर भार लटकाने से उसकी लंबाई बढ़ती है, यह किस प्रकार का प्रतिबल है?",
+        "en": "Suspending a load from a wire increases length. Which type of stress is this?"
+      },
+      "o": [
+        {
+          "hi": "संपीडन प्रतिबल",
+          "en": "Compressive stress"
+        },
+        {
+          "hi": "अपरूपण प्रतिबल",
+          "en": "Shearing stress"
+        },
+        {
+          "hi": "जलीय प्रतिबल",
+          "en": "Hydraulic stress"
+        },
+        {
+          "hi": "तनन प्रतिबल (Tensile Stress)",
+          "en": "Tensile Stress"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रत्यास्थता की सीमा में प्रतिबल-विकृति आरेख (Stress-Strain Curve) कैसा होता है?",
+        "en": "Within elastic limit, what is the shape of stress-strain graph?"
+      },
+      "o": [
+        {
+          "hi": "एक सीधी सरल रेखा",
+          "en": "A straight line"
+        },
+        {
+          "hi": "परवलयाकार",
+          "en": "Parabolic"
+        },
+        {
+          "hi": "वृत्ताकार",
+          "en": "Circular"
+        },
+        {
+          "hi": "अतिपरवलयाकार",
+          "en": "Hyperbolic"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रतिबल-विकृति वक्र की ढाल (Slope) क्या प्रदर्शित करती है?",
+        "en": "What does the slope of stress-strain curve represent?"
+      },
+      "o": [
+        {
+          "hi": "घनत्व",
+          "en": "Density"
+        },
+        {
+          "hi": "प्रत्यास्थता गुणांक (Modulus of Elasticity)",
+          "en": "Modulus of Elasticity"
+        },
+        {
+          "hi": "श्यानता",
+          "en": "Viscosity"
+        },
+        {
+          "hi": "दाब",
+          "en": "Pressure"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "धातुओं में एनिलिंग (Annealing - धीरे-धीरे ठंडा करना) करने पर उनकी प्रत्यास्थता पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to elasticity of metals after annealing?"
+      },
+      "o": [
+        {
+          "hi": "अपरिवर्तित रहती है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "बढ़ जाती है",
+          "en": "Increases"
+        },
+        {
+          "hi": "घट जाती है (लचीलापन बढ़ता है)",
+          "en": "Decreases (ductility increases)"
+        },
+        {
+          "hi": "शून्य हो जाती है",
+          "en": "Becomes zero"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रत्यास्थता का गुण मुख्यतः किसके मध्य कार्य करने वाले आंतरिक बलों पर निर्भर करता है?",
+        "en": "Property of elasticity mainly depends on internal forces between what?"
+      },
+      "o": [
+        {
+          "hi": "इलेक्ट्रॉनों के चक्रण पर",
+          "en": "Electron spin"
+        },
+        {
+          "hi": "नाभिकीय कणों पर",
+          "en": "Nuclear particles"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण कणों पर",
+          "en": "Gravitational particles"
+        },
+        {
+          "hi": "परमाणुओं और अणुओं (अंतर-परमाणुक बल)",
+          "en": "Atoms and molecules (interatomic forces)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रबर के टायर में कार्बन ब्लैक क्यों मिलाया जाता है?",
+        "en": "Why is carbon black added to rubber tires?"
+      },
+      "o": [
+        {
+          "hi": "टायर की प्रत्यास्थता व मजबूती बढ़ाने के लिए",
+          "en": "To increase elasticity & durability"
+        },
+        {
+          "hi": "टायर को काला रंग देने के लिए",
+          "en": "To color it black"
+        },
+        {
+          "hi": "टायर को हल्का बनाने के लिए",
+          "en": "To make tire light"
+        },
+        {
+          "hi": "हवा रोकने के लिए",
+          "en": "To trap air"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "त्रुटि-सीमा पार करने पर तार के टूटने वाले बिंदु को क्या कहते हैं?",
+        "en": "What is the point on stress-strain curve called where wire actually breaks?"
+      },
+      "o": [
+        {
+          "hi": "प्रत्यास्थ बिंदु",
+          "en": "Elastic limit"
+        },
+        {
+          "hi": "त्रोटन बिंदु (Breaking Point)",
+          "en": "Breaking Point"
+        },
+        {
+          "hi": "पराभव बिंदु (Yield Point)",
+          "en": "Yield Point"
+        },
+        {
+          "hi": "समानुपाती बिंदु",
+          "en": "Proportional limit"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "त्रोटन प्रतिबल (Breaking Stress) किस पर निर्भर करता है?",
+        "en": "Breaking stress of a wire depends on what?"
+      },
+      "o": [
+        {
+          "hi": "तार की लंबाई पर",
+          "en": "Length of wire"
+        },
+        {
+          "hi": "तार की मोटाई पर",
+          "en": "Thickness of wire"
+        },
+        {
+          "hi": "तार के पदार्थ की प्रकृति पर",
+          "en": "Nature of material of wire"
+        },
+        {
+          "hi": "तार के रंग पर",
+          "en": "Color of wire"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "त्रोटन बल (Breaking Force) किस पर निर्भर करता है?",
+        "en": "Breaking force of a wire depends directly on what?"
+      },
+      "o": [
+        {
+          "hi": "केवल लंबाई पर",
+          "en": "Only on length"
+        },
+        {
+          "hi": "कमरे के तापमान पर",
+          "en": "Room temperature"
+        },
+        {
+          "hi": "वायुमंडलीय दाब पर",
+          "en": "Atmospheric pressure"
+        },
+        {
+          "hi": "तार के अनुप्रस्थ काट क्षेत्रफल पर",
+          "en": "Cross-sectional area of wire"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रबर की तुलना में क्वार्ट्ज़ में प्रत्यास्थ पश्च प्रभाव (Elastic After Effect) कैसा होता है?",
+        "en": "How is elastic after-effect in quartz compared to rubber?"
+      },
+      "o": [
+        {
+          "hi": "नगण्य (लगभग शून्य)",
+          "en": "Negligible (nearly zero)"
+        },
+        {
+          "hi": "अत्यधिक उच्च",
+          "en": "Extremely high"
+        },
+        {
+          "hi": "बराबर",
+          "en": "Equal"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "गैल्वेनोमीटर में संकेतक को लटकाने के लिए फॉस्फर ब्रॉन्ज तार का उपयोग क्यों किया जाता है?",
+        "en": "Why is phosphor bronze wire used to suspend coil in a galvanometer?"
+      },
+      "o": [
+        {
+          "hi": "यह सस्ता होता है",
+          "en": "It is cheap"
+        },
+        {
+          "hi": "नगण्य प्रत्यास्थ पश्च प्रभाव और उच्च प्रत्यास्थता के कारण",
+          "en": "Negligible after-effect & high elasticity"
+        },
+        {
+          "hi": "यह चुंबक से चिपकता है",
+          "en": "It sticks to magnet"
+        },
+        {
+          "hi": "यह बहुत भारी होता है",
+          "en": "It is very heavy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जल की संपीड़्यता (Compressibility) गैसों की तुलना में कैसी होती है?",
+        "en": "How is the compressibility of water compared to gases?"
+      },
+      "o": [
+        {
+          "hi": "बहुत अधिक",
+          "en": "Much higher"
+        },
+        {
+          "hi": "समान",
+          "en": "Equal"
+        },
+        {
+          "hi": "अत्यंत कम (लगभग नगण्य)",
+          "en": "Extremely low (almost negligible)"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रत्यास्थता की सीमा में किसी तार को खींचने में किया गया कार्य किस ऊर्जा के रूप में संचित होता है?",
+        "en": "Work done in stretching a wire within elastic limit is stored as what energy?"
+      },
+      "o": [
+        {
+          "hi": "गतिज ऊर्जा",
+          "en": "Kinetic energy"
+        },
+        {
+          "hi": "विद्युत ऊर्जा",
+          "en": "Electrical energy"
+        },
+        {
+          "hi": "रासायनिक ऊर्जा",
+          "en": "Chemical energy"
+        },
+        {
+          "hi": "प्रत्यास्थ स्थितिज ऊर्जा",
+          "en": "Elastic potential energy"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वायुमंडलीय परिस्थितियों में ठोसों की संपीड़्यता लगभग कितनी मानी जाती है?",
+        "en": "What is compressibility of solids under normal atmospheric conditions?"
+      },
+      "o": [
+        {
+          "hi": "लगभग शून्य",
+          "en": "Nearly zero"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "100",
+          "en": "100"
+        },
+        {
+          "hi": "ऋणात्मक",
+          "en": "Negative"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "तांबे के तार की त्रिज्या दोगुनी करने पर उसका यंग प्रत्यास्थता गुणांक (Y) क्या होगा?",
+        "en": "If radius of a copper wire is doubled, what will happen to its Young's Modulus?"
+      },
+      "o": [
+        {
+          "hi": "दोगुना हो जाएगा",
+          "en": "Will be doubled"
+        },
+        {
+          "hi": "अपरिवर्तित रहेगा (क्योंकि यह पदार्थ का गुण है)",
+          "en": "Remains unchanged (material property)"
+        },
+        {
+          "hi": "चार गुना हो जाएगा",
+          "en": "Will be four times"
+        },
+        {
+          "hi": "आधा हो जाएगा",
+          "en": "Will be halved"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

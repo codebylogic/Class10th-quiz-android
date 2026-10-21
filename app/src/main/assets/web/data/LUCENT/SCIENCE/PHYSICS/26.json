@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "विभिन्न यंत्रों एवं उपकरणों के आविष्कारक",
+  "description": "विभिन्न यंत्रों एवं उपकरणों के आविष्कारक पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "पारे वाले वायुदाब मापी (Mercury Barometer) का आविष्कार 1643 में किसने किया था?",
+        "en": "Who invented the mercury barometer in 1643?"
+      },
+      "o": [
+        {
+          "hi": "इवेंजेलिस्टा टॉरिसेली (E. Torricelli)",
+          "en": "E. Torricelli"
+        },
+        {
+          "hi": "ब्लेज पास्कल",
+          "en": "Blaise Pascal"
+        },
+        {
+          "hi": "आइजैक न्यूटन",
+          "en": "Isaac Newton"
+        },
+        {
+          "hi": "गैलीलियो गैलीली",
+          "en": "Galileo Galilei"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पेंडुलम घड़ी (Pendulum Clock) का आविष्कार 1656 में किस डच वैज्ञानिक ने किया था?",
+        "en": "Who invented the pendulum clock in 1656?"
+      },
+      "o": [
+        {
+          "hi": "आइजैक न्यूटन",
+          "en": "Isaac Newton"
+        },
+        {
+          "hi": "क्रिश्चियन हाइगेन्स (Christiaan Huygens)",
+          "en": "Christiaan Huygens"
+        },
+        {
+          "hi": "रॉबर्ट हुक",
+          "en": "Robert Hooke"
+        },
+        {
+          "hi": "गैलीलियो",
+          "en": "Galileo"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जलयानों पर देशांतर और सही समय ज्ञात करने वाले क्रोनोमीटर (Chronometer) का आविष्कार किसने किया?",
+        "en": "Who invented the marine chronometer solving longitude problem in 1761?"
+      },
+      "o": [
+        {
+          "hi": "जेम्स वाट",
+          "en": "James Watt"
+        },
+        {
+          "hi": "जॉन लोगी बेयर्ड",
+          "en": "J.L. Baird"
+        },
+        {
+          "hi": "जॉन हैरिसन (John Harrison)",
+          "en": "John Harrison"
+        },
+        {
+          "hi": "हमफ्री डेवी",
+          "en": "Humphry Davy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पारा थर्मामीटर और फारेनहाइट तापमान पैमाने का आविष्कार किसने किया था?",
+        "en": "Who invented the mercury-in-glass thermometer and Fahrenheit scale (1714)?"
+      },
+      "o": [
+        {
+          "hi": "एंडर्स सेल्सियस",
+          "en": "Anders Celsius"
+        },
+        {
+          "hi": "लॉर्ड केल्विन",
+          "en": "Lord Kelvin"
+        },
+        {
+          "hi": "गैलीलियो गैलीली",
+          "en": "Galileo Galilei"
+        },
+        {
+          "hi": "डेनियल गैब्रियल फारेनहाइट (D.G. Fahrenheit)",
+          "en": "Daniel Gabriel Fahrenheit"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सेल्सियस तापमान पैमाने (Centigrade Scale) का आविष्कार 1742 में किसने किया था?",
+        "en": "Who devised the Celsius / Centigrade temperature scale in 1742?"
+      },
+      "o": [
+        {
+          "hi": "एंडर्स सेल्सियस (Anders Celsius)",
+          "en": "Anders Celsius"
+        },
+        {
+          "hi": "गैब्रियल फारेनहाइट",
+          "en": "Gabriel Fahrenheit"
+        },
+        {
+          "hi": "विलियम थॉमसन (केल्विन)",
+          "en": "William Thomson (Kelvin)"
+        },
+        {
+          "hi": "रेने रेओमुर",
+          "en": "René Réaumur"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "परम तापमान पैमाने (Absolute Temperature / Kelvin Scale) की खोज किसने की थी?",
+        "en": "Who formulated the absolute thermodynamic Kelvin temperature scale in 1848?"
+      },
+      "o": [
+        {
+          "hi": "आइजैक न्यूटन",
+          "en": "Isaac Newton"
+        },
+        {
+          "hi": "लॉर्ड केल्विन (विलियम थॉमसन)",
+          "en": "Lord Kelvin (William Thomson)"
+        },
+        {
+          "hi": "जेम्स जूल",
+          "en": "James Joule"
+        },
+        {
+          "hi": "एंडर्स सेल्सियस",
+          "en": "Anders Celsius"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कंपाउंड सूक्ष्मदर्शी (Compound Microscope) का आविष्कार 1590 में किसने किया था?",
+        "en": "Who constructed the first compound optical microscope around 1590?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट हुक",
+          "en": "Robert Hooke"
+        },
+        {
+          "hi": "एंटनी वॉन ल्यूवेनहॉक",
+          "en": "Antonie van Leeuwenhoek"
+        },
+        {
+          "hi": "जेड. जैनसन (Zacharias Janssen)",
+          "en": "Zacharias Janssen"
+        },
+        {
+          "hi": "गैलीलियो",
+          "en": "Galileo"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जीवित कोशिकाओं और जीवाणुओं को सर्वप्रथम देखने वाले सूक्ष्मदर्शी निर्माता कौन थे?",
+        "en": "Who observed living bacteria and protozoa with single-lens microscopes?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट हुक",
+          "en": "Robert Hooke"
+        },
+        {
+          "hi": "लुई पाश्चर",
+          "en": "Louis Pasteur"
+        },
+        {
+          "hi": "रॉबर्ट ब्राउन",
+          "en": "Robert Brown"
+        },
+        {
+          "hi": "एंटनी वॉन ल्यूवेनहॉक (Antonie van Leeuwenhoek)",
+          "en": "Antonie van Leeuwenhoek"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इलेक्ट्रॉन सूक्ष्मदर्शी (Electron Microscope) का आविष्कार किसने किया था?",
+        "en": "Who invented the transmission electron microscope in 1931 winning Nobel?"
+      },
+      "o": [
+        {
+          "hi": "अर्न्स्ट रुस्का और मैक्स नोल (Ernst Ruska & Max Knoll)",
+          "en": "Ernst Ruska & Max Knoll"
+        },
+        {
+          "hi": "जे. जे. थॉमसन",
+          "en": "J.J. Thomson"
+        },
+        {
+          "hi": "जेम्स चैडविक",
+          "en": "James Chadwick"
+        },
+        {
+          "hi": "रॉबर्ट हुक",
+          "en": "Robert Hooke"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "खगोलीय दूरबीन (Astronomical Telescope) का निर्माण कर आकाशीय पिंडों का अध्ययन किसने किया?",
+        "en": "Who built an astronomical telescope in 1609 observing Jupiter's moons?"
+      },
+      "o": [
+        {
+          "hi": "जोहान्स केपलर",
+          "en": "Johannes Kepler"
+        },
+        {
+          "hi": "गैलीलियो गैलीली (Galileo Galilei)",
+          "en": "Galileo Galilei"
+        },
+        {
+          "hi": "हंस लिपरशे",
+          "en": "Hans Lippershey"
+        },
+        {
+          "hi": "निकोलस कॉपरनिकस",
+          "en": "Nicolaus Copernicus"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "परावर्ती दूरबीन (Reflecting Telescope) का आविष्कार 1668 में किसने किया था?",
+        "en": "Who designed and built the first operational reflecting telescope in 1668?"
+      },
+      "o": [
+        {
+          "hi": "गैलीलियो गैलीली",
+          "en": "Galileo Galilei"
+        },
+        {
+          "hi": "क्रिश्चियन हाइगेन्स",
+          "en": "Christiaan Huygens"
+        },
+        {
+          "hi": "सर आइजैक न्यूटन (Sir Isaac Newton)",
+          "en": "Sir Isaac Newton"
+        },
+        {
+          "hi": "विलियम हर्शेल",
+          "en": "William Herschel"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भूकंप मापने वाले आधुनिक सीस्मोग्राफ (Seismograph) का आविष्कार किसने किया था?",
+        "en": "Who invented the modern horizontal pendulum seismograph in 1880?"
+      },
+      "o": [
+        {
+          "hi": "चार्ल्स रिक्टर",
+          "en": "Charles Richter"
+        },
+        {
+          "hi": "गुसेप मर्केली",
+          "en": "Giuseppe Mercalli"
+        },
+        {
+          "hi": "अल्फ्रेड वेगनर",
+          "en": "Alfred Wegener"
+        },
+        {
+          "hi": "जॉन मिल्ने (John Milne)",
+          "en": "John Milne"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हृदय की धड़कन सुनने वाले स्टेथोस्कोप (Stethoscope) का आविष्कार 1816 में किसने किया?",
+        "en": "Who invented the stethoscope in 1816 in France?"
+      },
+      "o": [
+        {
+          "hi": "रेने लेनेक (René Laennec)",
+          "en": "René Laennec"
+        },
+        {
+          "hi": "विलियम हार्वे",
+          "en": "William Harvey"
+        },
+        {
+          "hi": "एडवर्ड जेनर",
+          "en": "Edward Jenner"
+        },
+        {
+          "hi": "लुई पाश्चर",
+          "en": "Louis Pasteur"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रक्तचाप मापने वाले स्फिग्मोमैनोमीटर (Sphygmomanometer) का आविष्कार किसने किया था?",
+        "en": "Who developed the mercury sphygmomanometer with arm cuff in 1896?"
+      },
+      "o": [
+        {
+          "hi": "रेने लेनेक",
+          "en": "René Laennec"
+        },
+        {
+          "hi": "सिपियोन रिवा-रोकी (Scipione Riva-Rocci)",
+          "en": "Scipione Riva-Rocci"
+        },
+        {
+          "hi": "विलेम आइनथोवेन",
+          "en": "Willem Einthoven"
+        },
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग",
+          "en": "Alexander Fleming"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "इलेक्ट्रोकार्डियोग्राफ (ECG) का आविष्कार करने के लिए 1924 का नोबेल पुरस्कार किसे मिला?",
+        "en": "Who won the 1924 Nobel Prize for inventing the string galvanometer ECG?"
+      },
+      "o": [
+        {
+          "hi": "रेने लेनेक",
+          "en": "René Laennec"
+        },
+        {
+          "hi": "कार्ल लैंडस्टीनर",
+          "en": "Karl Landsteiner"
+        },
+        {
+          "hi": "विलेम आइनथोवेन (Willem Einthoven)",
+          "en": "Willem Einthoven"
+        },
+        {
+          "hi": "रॉबर्ट कोच",
+          "en": "Robert Koch"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "डायनेमो (विद्युत जनरेटर) और विद्युत मोटर के मूलभूत सिद्धांत की खोज किसने की?",
+        "en": "Who discovered electromagnetic induction and built the first dynamo in 1831?"
+      },
+      "o": [
+        {
+          "hi": "निकोला टेस्ला",
+          "en": "Nikola Tesla"
+        },
+        {
+          "hi": "थॉमस एडीसन",
+          "en": "Thomas Edison"
+        },
+        {
+          "hi": "हेंस ओर्स्टेड",
+          "en": "Hans Oersted"
+        },
+        {
+          "hi": "माइकल फैराडे (Michael Faraday)",
+          "en": "Michael Faraday"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रत्यावर्ती धारा (AC Motor) और टेस्ला कॉइल का आविष्कार किसने किया था?",
+        "en": "Who patented the AC induction motor and high-voltage Tesla coil?"
+      },
+      "o": [
+        {
+          "hi": "निकोला टेस्ला (Nikola Tesla)",
+          "en": "Nikola Tesla"
+        },
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "थॉमस एडीसन",
+          "en": "Thomas Edison"
+        },
+        {
+          "hi": "अलेक्जेंड्रो वोल्टा",
+          "en": "Alessandro Volta"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विद्युत ट्रांसफार्मर (Transformer) का व्यावहारिक रूप से विकास किसने किया था?",
+        "en": "Who developed the first commercial AC transformer in 1885?"
+      },
+      "o": [
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "विलियम स्टेनली एवं ओटो ब्लाथी (William Stanley)",
+          "en": "William Stanley & Otto Blathy"
+        },
+        {
+          "hi": "निकोला टेस्ला",
+          "en": "Nikola Tesla"
+        },
+        {
+          "hi": "थॉमस एडीसन",
+          "en": "Thomas Edison"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कंप्यूटर का जनक (Father of Computer) किसे कहा जाता है?",
+        "en": "Who is widely acknowledged as the 'Father of the Computer' for the Analytical Engine?"
+      },
+      "o": [
+        {
+          "hi": "एलन ट्यूरिंग",
+          "en": "Alan Turing"
+        },
+        {
+          "hi": "जॉन वॉन न्यूमैन",
+          "en": "John von Neumann"
+        },
+        {
+          "hi": "चार्ल्स बैबेज (Charles Babbage)",
+          "en": "Charles Babbage"
+        },
+        {
+          "hi": "ब्लेज पास्कल",
+          "en": "Blaise Pascal"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रथम यांत्रिक गणना मशीन (पास्कलाइन / मैकेनिकल कैलकुलेटर) का आविष्कार 1642 में किसने किया?",
+        "en": "Who invented the first mechanical calculating machine (Pascaline) in 1642?"
+      },
+      "o": [
+        {
+          "hi": "गॉटफ्रीड लाइबनिज",
+          "en": "Gottfried Leibniz"
+        },
+        {
+          "hi": "चार्ल्स बैबेज",
+          "en": "Charles Babbage"
+        },
+        {
+          "hi": "आइजैक न्यूटन",
+          "en": "Isaac Newton"
+        },
+        {
+          "hi": "ब्लेज पास्कल (Blaise Pascal)",
+          "en": "Blaise Pascal"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रडार (RADAR) का व्यावहारिक आविष्कार 1935 में किस ब्रिटिश वैज्ञानिक ने किया?",
+        "en": "Who developed the first practical radar system for air defense in 1935?"
+      },
+      "o": [
+        {
+          "hi": "सर रॉबर्ट वाटसन-वाट (Sir Robert Watson-Watt)",
+          "en": "Sir Robert Watson-Watt"
+        },
+        {
+          "hi": "गुग्लिएल्मो मार्कोनी",
+          "en": "Guglielmo Marconi"
+        },
+        {
+          "hi": "हेनरिक हर्ट्ज",
+          "en": "Heinrich Hertz"
+        },
+        {
+          "hi": "थॉमस एडीसन",
+          "en": "Thomas Edison"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सोनार (SONAR) तकनीक का विकास प्रथम विश्व युद्ध में किस वैज्ञानिक ने किया था?",
+        "en": "Who developed piezoelectric ultrasonic transducers for SONAR in 1917?"
+      },
+      "o": [
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "पॉल लैंगेविन (Paul Langevin)",
+          "en": "Paul Langevin"
+        },
+        {
+          "hi": "अर्नेस्ट रदरफोर्ड",
+          "en": "Ernest Rutherford"
+        },
+        {
+          "hi": "चार्ल्स टाउन्स",
+          "en": "Charles Townes"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रूबी लेसर (Ruby Laser) का प्रथम सफल संचालन 1960 में किसने किया?",
+        "en": "Who demonstrated the world's first functioning optical laser in 1960?"
+      },
+      "o": [
+        {
+          "hi": "चार्ल्स टाउन्स",
+          "en": "Charles Townes"
+        },
+        {
+          "hi": "अल्बर्ट आइंस्टीन",
+          "en": "Albert Einstein"
+        },
+        {
+          "hi": "थियोडोर एच. मैमन (Theodore H. Maiman)",
+          "en": "Theodore H. Maiman"
+        },
+        {
+          "hi": "आर्थर शॉलो",
+          "en": "Arthur Schawlow"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कोयला खदानों में विस्फोट रोकने वाले 'सेफ्टी लैंप' (Safety Lamp) का आविष्कार किसने किया?",
+        "en": "Who invented the miners' safety lamp in 1815 preventing firedamp explosions?"
+      },
+      "o": [
+        {
+          "hi": "जेम्स वाट",
+          "en": "James Watt"
+        },
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "जॉर्ज स्टीफेंसन",
+          "en": "George Stephenson"
+        },
+        {
+          "hi": "सर हम्फ्री डेवी (Sir Humphry Davy)",
+          "en": "Sir Humphry Davy"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "फाउंटेन पेन (Fountain Pen) का पेटेंट 1884 में किसने कराया था?",
+        "en": "Who patented the reliable capillary-feed fountain pen in 1884?"
+      },
+      "o": [
+        {
+          "hi": "एल. ई. वाटरमैन (L.E. Waterman)",
+          "en": "L.E. Waterman"
+        },
+        {
+          "hi": "लास्जलो बीरो",
+          "en": "László Bíró"
+        },
+        {
+          "hi": "जॉन जे. लाउड",
+          "en": "John J. Loud"
+        },
+        {
+          "hi": "पार्कर",
+          "en": "Parker"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आधुनिक बॉल प्वाइंट पेन (Ballpoint Pen) का आविष्कार किसने किया था?",
+        "en": "Who patented the modern commercial ballpoint pen in 1938?"
+      },
+      "o": [
+        {
+          "hi": "एल. ई. वाटरमैन",
+          "en": "L.E. Waterman"
+        },
+        {
+          "hi": "लास्जलो बीरो (László Bíró)",
+          "en": "László Bíró"
+        },
+        {
+          "hi": "क्रिस्टोफर शोल्स",
+          "en": "Christopher Sholes"
+        },
+        {
+          "hi": "सैमुअल कोल्ट",
+          "en": "Samuel Colt"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "आधुनिक टाइपराइटर (Typewriter - QWERTY कीबोर्ड) का आविष्कार किसने किया था?",
+        "en": "Who invented the practical typewriter and QWERTY keyboard layout in 1868?"
+      },
+      "o": [
+        {
+          "hi": "चार्ल्स बैबेज",
+          "en": "Charles Babbage"
+        },
+        {
+          "hi": "सैमुअल मोर्स",
+          "en": "Samuel Morse"
+        },
+        {
+          "hi": "क्रिस्टोफर लेथम शोल्स (Christopher Latham Sholes)",
+          "en": "Christopher Latham Sholes"
+        },
+        {
+          "hi": "एलेक्जेंडर बेल",
+          "en": "Alexander Bell"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कपड़े सिलने की सिलाई मशीन (Sewing Machine - लॉकस्टिच) का पेटेंट 1846 में किसने कराया?",
+        "en": "Who patented the practical lockstitch sewing machine in 1846?"
+      },
+      "o": [
+        {
+          "hi": "आईजैक सिंगर",
+          "en": "Isaac Singer"
+        },
+        {
+          "hi": "रिचर्ड आर्कराइट",
+          "en": "Richard Arkwright"
+        },
+        {
+          "hi": "जेम्स हरग्रीव्स",
+          "en": "James Hargreaves"
+        },
+        {
+          "hi": "एलियास होवे (Elias Howe)",
+          "en": "Elias Howe"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रिवॉल्वर (Revolver - हथगोली वाली बंदूक) का आविष्कार 1836 में किसने किया था?",
+        "en": "Who invented and patented the revolving cylinder firearm (revolver) in 1836?"
+      },
+      "o": [
+        {
+          "hi": "सैमुअल कोल्ट (Samuel Colt)",
+          "en": "Samuel Colt"
+        },
+        {
+          "hi": "रिचर्ड गैटलिंग",
+          "en": "Richard Gatling"
+        },
+        {
+          "hi": "मिखाइल कलाश्निकोव",
+          "en": "Mikhail Kalashnikov"
+        },
+        {
+          "hi": "अल्फ्रेड नोबेल",
+          "en": "Alfred Nobel"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एके-47 (AK-47) राइफल का डिजाइन किस रूसी इंजीनियर ने तैयार किया था?",
+        "en": "Who designed the famous Soviet AK-47 assault rifle in 1947?"
+      },
+      "o": [
+        {
+          "hi": "सैमुअल कोल्ट",
+          "en": "Samuel Colt"
+        },
+        {
+          "hi": "मिखाइल कलाश्निकोव (Mikhail Kalashnikov)",
+          "en": "Mikhail Kalashnikov"
+        },
+        {
+          "hi": "इगोर कुर्चातोव",
+          "en": "Igor Kurchatov"
+        },
+        {
+          "hi": "आंद्रेई सखारोव",
+          "en": "Andrei Sakharov"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "घरेलू संपीड़न रेफ्रिजरेटर (Refrigerator) की तकनीक किसने विकसित की थी?",
+        "en": "Who developed early practical vapor compression refrigeration in 1856?"
+      },
+      "o": [
+        {
+          "hi": "कार्ल बेंज",
+          "en": "Karl Benz"
+        },
+        {
+          "hi": "रुडोल्फ डीजल",
+          "en": "Rudolf Diesel"
+        },
+        {
+          "hi": "जेम्स हैरिसन और अलेक्जेंडर कैटलिन",
+          "en": "James Harrison and Alexander Catlin"
+        },
+        {
+          "hi": "विलिस कैरियर",
+          "en": "Willis Carrier"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आधुनिक एयर कंडीशनर (Air Conditioner) का आविष्कार 1902 में किसने किया था?",
+        "en": "Who invented modern electrical air conditioning in 1902?"
+      },
+      "o": [
+        {
+          "hi": "जेम्स हैरिसन",
+          "en": "James Harrison"
+        },
+        {
+          "hi": "थॉमस एडीसन",
+          "en": "Thomas Edison"
+        },
+        {
+          "hi": "निकोला टेस्ला",
+          "en": "Nikola Tesla"
+        },
+        {
+          "hi": "विलिस हैविलैंड कैरियर (Willis Carrier)",
+          "en": "Willis Carrier"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "टेलीग्राफ कोड (Morse Code) और इलेक्ट्रिक टेलीग्राफ का आविष्कार किसने किया?",
+        "en": "Who developed the single-wire electric telegraph and Morse Code in 1837?"
+      },
+      "o": [
+        {
+          "hi": "सैमुअल एफ. बी. मोर्स (Samuel Morse)",
+          "en": "Samuel Morse"
+        },
+        {
+          "hi": "अलेक्जेंडर ग्राहम बेल",
+          "en": "Alexander Graham Bell"
+        },
+        {
+          "hi": "मार्कोनी",
+          "en": "Marconi"
+        },
+        {
+          "hi": "एडीसन",
+          "en": "Edison"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हेलिकॉप्टर (Helicopter - आधुनिक रोटरक्राफ्ट) का सफल डिजाइन किसने तैयार किया था?",
+        "en": "Who developed the first successful mass-produced helicopter (VS-300)?"
+      },
+      "o": [
+        {
+          "hi": "राइट ब्रदर्स",
+          "en": "Wright Brothers"
+        },
+        {
+          "hi": "इगोर सिकोर्स्की (Igor Sikorsky)",
+          "en": "Igor Sikorsky"
+        },
+        {
+          "hi": "कार्ल बेंज",
+          "en": "Karl Benz"
+        },
+        {
+          "hi": "लियोनार्डो दा विंची",
+          "en": "Leonardo da Vinci"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जेट इंजन (Jet Engine - टर्बोजेट) का आविष्कार 1937 में किसने किया था?",
+        "en": "Who independently invented and patented the turbojet engine in 1930s?"
+      },
+      "o": [
+        {
+          "hi": "राइट ब्रदर्स",
+          "en": "Wright Brothers"
+        },
+        {
+          "hi": "रुडोल्फ डीजल",
+          "en": "Rudolf Diesel"
+        },
+        {
+          "hi": "सर फ्रैंक व्हिटल (Sir Frank Whittle)",
+          "en": "Sir Frank Whittle"
+        },
+        {
+          "hi": "जेम्स वाट",
+          "en": "James Watt"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रॉकेट का तरल ईंधन वाला आधुनिक प्रारूप (Modern Liquid-fueled Rocket) किसने बनाया?",
+        "en": "Who successfully launched the world's first liquid-fueled rocket in 1926?"
+      },
+      "o": [
+        {
+          "hi": "वर्नर वॉन ब्रॉन",
+          "en": "Wernher von Braun"
+        },
+        {
+          "hi": "कॉन्स्टेंटिन त्सिओलकोवस्की",
+          "en": "Konstantin Tsiolkovsky"
+        },
+        {
+          "hi": "यूरी गागरिन",
+          "en": "Yuri Gagarin"
+        },
+        {
+          "hi": "रॉबर्ट एच. गोडार्ड (Robert H. Goddard)",
+          "en": "Robert H. Goddard"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "बैकेलाइट (Bakelite - प्रथम सिंथेटिक प्लास्टिक) का आविष्कार 1907 में किसने किया?",
+        "en": "Who synthesized the world's first fully synthetic plastic Bakelite in 1907?"
+      },
+      "o": [
+        {
+          "hi": "लियो बेकलैंड (Leo Baekeland)",
+          "en": "Leo Baekeland"
+        },
+        {
+          "hi": "चार्ल्स गुडइयर",
+          "en": "Charles Goodyear"
+        },
+        {
+          "hi": "अल्फ्रेड नोबेल",
+          "en": "Alfred Nobel"
+        },
+        {
+          "hi": "कैरोथर्स",
+          "en": "Wallace Carothers"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वल्केनाइज्ड रबर (Vulcanized Rubber) का आविष्कार 1839 में किसने किया था?",
+        "en": "Who discovered the vulcanization process of sulfur rubber in 1839?"
+      },
+      "o": [
+        {
+          "hi": "जॉन डनलप",
+          "en": "John Dunlop"
+        },
+        {
+          "hi": "चार्ल्स गुडइयर (Charles Goodyear)",
+          "en": "Charles Goodyear"
+        },
+        {
+          "hi": "लियो बेकलैंड",
+          "en": "Leo Baekeland"
+        },
+        {
+          "hi": "रॉबर्ट थॉमसन",
+          "en": "Robert Thomson"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हवा भरे रबर के पहियों (Pneumatic Tyre) का पेटेंट 1888 में किसने कराया था?",
+        "en": "Who patented the practical pneumatic bicycle tyre in 1888 founding a company?"
+      },
+      "o": [
+        {
+          "hi": "चार्ल्स गुडइयर",
+          "en": "Charles Goodyear"
+        },
+        {
+          "hi": "कार्ल बेंज",
+          "en": "Karl Benz"
+        },
+        {
+          "hi": "जॉन बॉयड डनलप (John Boyd Dunlop)",
+          "en": "John Boyd Dunlop"
+        },
+        {
+          "hi": "हेनरी फोर्ड",
+          "en": "Henry Ford"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लिफ्ट में प्रयुक्त स्वचालित सुरक्षा ब्रेक (Safety Elevator) का आविष्कार किसने किया?",
+        "en": "Who invented the elevator safety brake preventing cabs from falling in 1852?"
+      },
+      "o": [
+        {
+          "hi": "जेम्स वाट",
+          "en": "James Watt"
+        },
+        {
+          "hi": "रुडोल्फ डीजल",
+          "en": "Rudolf Diesel"
+        },
+        {
+          "hi": "ब्लेज पास्कल",
+          "en": "Blaise Pascal"
+        },
+        {
+          "hi": "एलिसा ग्रेव्स ओटिस (Elisha Otis)",
+          "en": "Elisha Otis"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "माइक्रोवेव ओवन (Microwave Oven) का आविष्कार दुर्घटनावश 1945 में किसने किया?",
+        "en": "Who invented the microwave oven in 1945 using magnetron radar tubes?"
+      },
+      "o": [
+        {
+          "hi": "पर्सी स्पेंसर (Percy Spencer)",
+          "en": "Percy Spencer"
+        },
+        {
+          "hi": "विलिस कैरियर",
+          "en": "Willis Carrier"
+        },
+        {
+          "hi": "थॉमस एडीसन",
+          "en": "Thomas Edison"
+        },
+        {
+          "hi": "निकोला टेस्ला",
+          "en": "Nikola Tesla"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इलेक्ट्रॉनिक डिजिटल कंप्यूटर (ENIAC) का निर्माण 1946 में किसने किया था?",
+        "en": "Who designed ENIAC, the first general-purpose electronic digital computer?"
+      },
+      "o": [
+        {
+          "hi": "चार्ल्स बैबेज",
+          "en": "Charles Babbage"
+        },
+        {
+          "hi": "जे. प्रेस्पर एकर्ट और जॉन मौचली",
+          "en": "J. Presper Eckert & John Mauchly"
+        },
+        {
+          "hi": "एलन ट्यूरिंग",
+          "en": "Alan Turing"
+        },
+        {
+          "hi": "बिल गेट्स",
+          "en": "Bill Gates"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ट्रांजिस्टर (Transistor) का आविष्कार 1947 में बेल लैब्स में किन वैज्ञानिकों ने किया?",
+        "en": "Who invented the point-contact bipolar transistor at Bell Labs in 1947?"
+      },
+      "o": [
+        {
+          "hi": "थॉमस एडीसन और निकोला टेस्ला",
+          "en": "Thomas Edison & Nikola Tesla"
+        },
+        {
+          "hi": "मार्कोनी और ग्राहम बेल",
+          "en": "Marconi & Graham Bell"
+        },
+        {
+          "hi": "जॉन बारडीन, वाल्टर ब्रैटन और विलियम शॉकली",
+          "en": "John Bardeen, Walter Brattain & William Shockley"
+        },
+        {
+          "hi": "फ्लेमिंग और डी फॉरेस्ट",
+          "en": "Fleming & De Forest"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एकीकृत परिपथ (इंटीग्रेटेड सर्किट - IC Chip) का आविष्कार 1958 में किसने किया था?",
+        "en": "Who co-invented the microchip Integrated Circuit (IC) winning Nobel in 2000?"
+      },
+      "o": [
+        {
+          "hi": "स्टीव जॉब्स",
+          "en": "Steve Jobs"
+        },
+        {
+          "hi": "बिल गेट्स",
+          "en": "Bill Gates"
+        },
+        {
+          "hi": "एलन ट्यूरिंग",
+          "en": "Alan Turing"
+        },
+        {
+          "hi": "जैक किल्बी और रॉबर्ट नॉयस (Jack Kilby & Robert Noyce)",
+          "en": "Jack Kilby & Robert Noyce"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "वर्ल्ड वाइड वेब (World Wide Web - WWW) का आविष्कार 1989 में सर्न (CERN) में किसने किया?",
+        "en": "Who invented the World Wide Web (WWW) and HTML at CERN in 1989?"
+      },
+      "o": [
+        {
+          "hi": "सर टिम बर्नर्स-ली (Sir Tim Berners-Lee)",
+          "en": "Sir Tim Berners-Lee"
+        },
+        {
+          "hi": "विंट सर्फ",
+          "en": "Vint Cerf"
+        },
+        {
+          "hi": "बिल गेट्स",
+          "en": "Bill Gates"
+        },
+        {
+          "hi": "मार्क जुकरबर्ग",
+          "en": "Mark Zuckerberg"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कंप्यूटर माउस (Computer Mouse) का आविष्कार 1964 में किसने किया था?",
+        "en": "Who invented the computer mouse and graphical user interface in 1964?"
+      },
+      "o": [
+        {
+          "hi": "स्टीव जॉब्स",
+          "en": "Steve Jobs"
+        },
+        {
+          "hi": "डगलस एंगेलबर्ट (Douglas Engelbart)",
+          "en": "Douglas Engelbart"
+        },
+        {
+          "hi": "चार्ल्स बैबेज",
+          "en": "Charles Babbage"
+        },
+        {
+          "hi": "बिल गेट्स",
+          "en": "Bill Gates"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ईमेल (Email) प्रणाली का आविष्कार 1971 में किसने किया था?",
+        "en": "Who developed ARPANET networked electronic mail (Email) and '@' symbol in 1971?"
+      },
+      "o": [
+        {
+          "hi": "टिम बर्नर्स-ली",
+          "en": "Tim Berners-Lee"
+        },
+        {
+          "hi": "लैरी पेज",
+          "en": "Larry Page"
+        },
+        {
+          "hi": "रे टॉमलिंसन (Ray Tomlinson)",
+          "en": "Ray Tomlinson"
+        },
+        {
+          "hi": "सबरी भाटिया",
+          "en": "Sabeer Bhatia"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "मोबाइल फोन (सेलुलर फोन) का आविष्कार 1973 में मोटोरोला कंपनी में किसने किया?",
+        "en": "Who invented the first handheld cellular mobile telephone at Motorola in 1973?"
+      },
+      "o": [
+        {
+          "hi": "स्टीव जॉब्स",
+          "en": "Steve Jobs"
+        },
+        {
+          "hi": "अलेक्जेंडर ग्राहम बेल",
+          "en": "Alexander Graham Bell"
+        },
+        {
+          "hi": "टिम कुक",
+          "en": "Tim Cook"
+        },
+        {
+          "hi": "मार्टिन कूपर (Martin Cooper)",
+          "en": "Martin Cooper"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जीपीएस (Global Positioning System - GPS) तकनीक का विकास किसने किया था?",
+        "en": "Which nation's Department of Defense developed the GPS satellite navigation system?"
+      },
+      "o": [
+        {
+          "hi": "संयुक्त राज्य अमेरिका (US Dept of Defense - इवान गेटिंग आदि)",
+          "en": "United States (US DoD)"
+        },
+        {
+          "hi": "रूस",
+          "en": "Russia"
+        },
+        {
+          "hi": "भारत",
+          "en": "India"
+        },
+        {
+          "hi": "चीन",
+          "en": "China"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रसिद्ध वैज्ञानिक उपकरण 'सोनार' (SONAR) और अल्ट्रासाउंड का जनक किसे माना जाता है?",
+        "en": "Who developed modern piezoelectric transducer applied to ultrasonic depth sounding?"
+      },
+      "o": [
+        {
+          "hi": "थॉमस एडीसन",
+          "en": "Thomas Edison"
+        },
+        {
+          "hi": "पॉल लैंगेविन (Paul Langevin)",
+          "en": "Paul Langevin"
+        },
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "अलेक्जेंडर ग्राहम बेल",
+          "en": "Alexander Graham Bell"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

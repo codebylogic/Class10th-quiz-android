@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - खेल-कूद (Sports)",
+  "subtitle": "राष्ट्रमंडल खेल",
+  "description": "राष्ट्रमंडल खेल पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "प्रथम राष्ट्रमंडल खेलों का आयोजन 1930 में किस शहर और देश में किया गया था?",
+        "en": "In which city and country were the first Commonwealth Games held in 1930?"
+      },
+      "o": [
+        {
+          "hi": "हैमिल्टन (कनाडा)",
+          "en": "Hamilton (Canada)"
+        },
+        {
+          "hi": "लंदन (ब्रिटेन)",
+          "en": "London (UK)"
+        },
+        {
+          "hi": "सिडनी (ऑस्ट्रेलिया)",
+          "en": "Sydney (Australia)"
+        },
+        {
+          "hi": "ऑकलैंड (न्यूजीलैंड)",
+          "en": "Auckland (New Zealand)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1930 से 1950 तक राष्ट्रमंडल खेलों को किस नाम से जाना जाता था?",
+        "en": "From 1930 to 1950, what were the Commonwealth Games officially known as?"
+      },
+      "o": [
+        {
+          "hi": "ब्रिटिश कॉमनवेल्थ गेम्स",
+          "en": "British Commonwealth Games"
+        },
+        {
+          "hi": "ब्रिटिश एम्पायर गेम्स (British Empire Games)",
+          "en": "British Empire Games"
+        },
+        {
+          "hi": "एम्पायर फ्रेंडशिप गेम्स",
+          "en": "Empire Friendship Games"
+        },
+        {
+          "hi": "क्राउन गेम्स (Crown Games)",
+          "en": "Crown Games"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों को वर्तमान नाम 'कॉमनवेल्थ गेम्स' (Commonwealth Games) किस वर्ष दिया गया?",
+        "en": "In which year was the current name 'Commonwealth Games' officially adopted?"
+      },
+      "o": [
+        {
+          "hi": "1954 वैंकूवर खेलों से",
+          "en": "From 1954 Vancouver Games"
+        },
+        {
+          "hi": "1966 किंग्स्टन खेलों से",
+          "en": "From 1966 Kingston Games"
+        },
+        {
+          "hi": "1978 एडमॉन्टन खेलों से",
+          "en": "From 1978 Edmonton Games"
+        },
+        {
+          "hi": "1990 ऑकलैंड खेलों से",
+          "en": "From 1990 Auckland Games"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेल कितने वर्षों के अंतराल पर आयोजित किए जाते हैं?",
+        "en": "At what intervals are the Commonwealth Games held?"
+      },
+      "o": [
+        {
+          "hi": "प्रत्येक 2 वर्ष में",
+          "en": "Every 2 Years"
+        },
+        {
+          "hi": "प्रत्येक 3 वर्ष में",
+          "en": "Every 3 Years"
+        },
+        {
+          "hi": "प्रत्येक 5 वर्ष में",
+          "en": "Every 5 Years"
+        },
+        {
+          "hi": "प्रत्येक 4 वर्ष में (Every 4 Years)",
+          "en": "Every 4 Years"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत ने राष्ट्रमंडल खेलों में पहली बार किस वर्ष भाग लिया था?",
+        "en": "In which year did India participate in the Commonwealth Games for the first time?"
+      },
+      "o": [
+        {
+          "hi": "1934 लंदन खेलों में (दूसरे राष्ट्रमंडल खेल)",
+          "en": "In 1934 London Games (2nd CWG)"
+        },
+        {
+          "hi": "1930 हैमिल्टन खेलों में",
+          "en": "In 1930 Hamilton Games"
+        },
+        {
+          "hi": "1938 सिडनी खेलों में",
+          "en": "In 1938 Sydney Games"
+        },
+        {
+          "hi": "1954 वैंकूवर खेलों में",
+          "en": "In 1954 Vancouver Games"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में भारत के लिए पहला पदक (कांस्य, 1934 लंदन) किसने जीता था?",
+        "en": "Who won India's first ever medal (Bronze, 1934 London) at the Commonwealth Games?"
+      },
+      "o": [
+        {
+          "hi": "मिल्खा सिंह",
+          "en": "Milkha Singh"
+        },
+        {
+          "hi": "राशिद अनवर (कुश्ती में)",
+          "en": "Rashid Anwar (Wrestling)"
+        },
+        {
+          "hi": "के.डी. जाधव",
+          "en": "K.D. Jadhav"
+        },
+        {
+          "hi": "दलीप सिंह",
+          "en": "Dalip Singh"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में भारत के लिए पहला स्वर्ण पदक 1958 कार्डिफ खेलों में किसने जीता?",
+        "en": "Who won India's first ever Gold medal at the Commonwealth Games in 1958 Cardiff?"
+      },
+      "o": [
+        {
+          "hi": "लीला राम (कुश्ती)",
+          "en": "Lila Ram (Wrestling)"
+        },
+        {
+          "hi": "गुरबचन सिंह रंधावा",
+          "en": "Gurbachan Singh Randhawa"
+        },
+        {
+          "hi": "मिल्खा सिंह (440 गज दौड़)",
+          "en": "Milkha Singh (440 yards race)"
+        },
+        {
+          "hi": "प्रद्युम्न सिंह",
+          "en": "Parduman Singh"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में कुश्ती में भारत के लिए पहला स्वर्ण पदक 1958 में किसने जीता था?",
+        "en": "Who won India's first Gold medal in wrestling at the Commonwealth Games in 1958?"
+      },
+      "o": [
+        {
+          "hi": "मिल्खा सिंह",
+          "en": "Milkha Singh"
+        },
+        {
+          "hi": "राशिद अनवर",
+          "en": "Rashid Anwar"
+        },
+        {
+          "hi": "मास्टर चंदगी राम",
+          "en": "Master Chandgi Ram"
+        },
+        {
+          "hi": "लीला राम (Lila Ram)",
+          "en": "Lila Ram"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में 'क्वींस बैटन रिले' (Queen's Baton Relay) की शुरुआत किस वर्ष हुई थी?",
+        "en": "In which year was the 'Queen's Baton Relay' introduced in the Commonwealth Games?"
+      },
+      "o": [
+        {
+          "hi": "1958 कार्डिफ खेलों से (वेल्स)",
+          "en": "From 1958 Cardiff Games (Wales)"
+        },
+        {
+          "hi": "1930 हैमिल्टन खेलों से",
+          "en": "From 1930 Hamilton Games"
+        },
+        {
+          "hi": "1966 किंग्स्टन खेलों से",
+          "en": "From 1966 Kingston Games"
+        },
+        {
+          "hi": "1974 क्राइस्टचर्च खेलों से",
+          "en": "From 1974 Christchurch Games"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों के सर्वश्रेष्ठ खिलाड़ी को दिए जाने वाले प्रतिष्ठित पुरस्कार का क्या नाम है?",
+        "en": "What is the name of the prestigious award presented to the best athlete of the Commonwealth Games?"
+      },
+      "o": [
+        {
+          "hi": "पियरे डी कुबर्तिन मेडल",
+          "en": "Pierre de Coubertin Medal"
+        },
+        {
+          "hi": "डेविड डिक्सन पुरस्कार (David Dixon Award)",
+          "en": "David Dixon Award"
+        },
+        {
+          "hi": "कॉमनवेल्थ ग्लोरी कप",
+          "en": "Commonwealth Glory Cup"
+        },
+        {
+          "hi": "क्वींस एलिजाबेथ ट्रॉफी",
+          "en": "Queen Elizabeth Trophy"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "2002 के मैनचेस्टर राष्ट्रमंडल खेलों में प्रथम 'डेविड डिक्सन पुरस्कार' जीतने वाली भारतीय खिलाड़ी कौन थीं?",
+        "en": "Which Indian athlete won the inaugural David Dixon Award at the 2002 Manchester Games?"
+      },
+      "o": [
+        {
+          "hi": "अभिनव बिंद्रा",
+          "en": "Abhinav Bindra"
+        },
+        {
+          "hi": "अंजली भागवत",
+          "en": "Anjali Bhagwat"
+        },
+        {
+          "hi": "नताली डार्विट्ज / समरेश जंग (2006 में जंग ने जीता)",
+          "en": "Samaresh Jung (Indian Shooter in 2006)"
+        },
+        {
+          "hi": "राज्यवर्धन सिंह राठौड़",
+          "en": "Rajyavardhan Singh Rathore"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "2006 मेलबर्न राष्ट्रमंडल खेलों में 5 स्वर्ण, 1 रजत और 1 कांस्य जीतकर डेविड डिक्सन पुरस्कार किसने जीता था?",
+        "en": "Who won the David Dixon Award in 2006 Melbourne CWG by winning 5 Gold, 1 Silver, and 1 Bronze?"
+      },
+      "o": [
+        {
+          "hi": "गगन नारंग",
+          "en": "Gagan Narang"
+        },
+        {
+          "hi": "अभिनव बिंद्रा",
+          "en": "Abhinav Bindra"
+        },
+        {
+          "hi": "जसपाल राणा",
+          "en": "Jaspal Rana"
+        },
+        {
+          "hi": "समरेश जंग (भारतीय निशानेबाज)",
+          "en": "Samaresh Jung (Indian Shooter)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारत ने अब तक कितनी बार राष्ट्रमंडल खेलों की मेजबानी की है?",
+        "en": "How many times has India hosted the Commonwealth Games so far?"
+      },
+      "o": [
+        {
+          "hi": "एक बार (2010 में नई दिल्ली)",
+          "en": "Once (in 2010 at New Delhi)"
+        },
+        {
+          "hi": "दो बार",
+          "en": "Twice"
+        },
+        {
+          "hi": "तीन बार",
+          "en": "Three times"
+        },
+        {
+          "hi": "कभी नहीं",
+          "en": "Never"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "19वें राष्ट्रमंडल खेल 2010 का आयोजन दिल्ली में हुआ था; इसका आधिकारिक शुभंकर (Mascot) क्या था?",
+        "en": "What was the official mascot of the 19th Commonwealth Games held in Delhi in 2010?"
+      },
+      "o": [
+        {
+          "hi": "अप्पू (Appu - हाथी)",
+          "en": "Appu (An Elephant)"
+        },
+        {
+          "hi": "शेरा (Shera - एक बाघ)",
+          "en": "Shera (A Tiger)"
+        },
+        {
+          "hi": "पेरी (Perry - बैल)",
+          "en": "Perry (A Bull)"
+        },
+        {
+          "hi": "बोरोबी (Borobi - कोआला)",
+          "en": "Borobi (A Koala)"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "2010 दिल्ली राष्ट्रमंडल खेलों में भारत ने कुल कितने पदक जीतकर ऐतिहासिक दूसरा स्थान प्राप्त किया था?",
+        "en": "How many total medals did India win at the 2010 Delhi Games to secure 2nd place?"
+      },
+      "o": [
+        {
+          "hi": "66 पदक (26 स्वर्ण)",
+          "en": "66 Medals (26 Gold)"
+        },
+        {
+          "hi": "85 पदक (30 स्वर्ण)",
+          "en": "85 Medals (30 Gold)"
+        },
+        {
+          "hi": "101 पदक (38 स्वर्ण, 27 रजत, 36 कांस्य)",
+          "en": "101 Medals (38 Gold, 27 Silver, 36 Bronze)"
+        },
+        {
+          "hi": "115 पदक (45 स्वर्ण)",
+          "en": "115 Medals (45 Gold)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में पदक जीतने वाली पहली भारतीय महिला खिलाड़ी कौन थीं?",
+        "en": "Who were the first Indian women athletes to win a medal at the Commonwealth Games (1978 Edmonton)?"
+      },
+      "o": [
+        {
+          "hi": "पी.टी. उषा और शाइनी अब्राहम",
+          "en": "P.T. Usha and Shiny Abraham"
+        },
+        {
+          "hi": "साइना नेहवाल और पी.वी. सिंधु",
+          "en": "Saina Nehwal and P.V. Sindhu"
+        },
+        {
+          "hi": "कर्णम मल्लेश्वरी और कुंजरानी देवी",
+          "en": "Karnam Malleswari and Kunjarani Devi"
+        },
+        {
+          "hi": "अमी घिया और कंवल सिंह (बैडमिंटन कांस्य)",
+          "en": "Ami Ghia and Kanwal Singh (Badminton Bronze)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में स्वर्ण पदक जीतने वाली पहली भारतीय महिला एथलीट कौन थीं?",
+        "en": "Who was the first Indian female athlete to win an individual track and field Gold at CWG (2010)?"
+      },
+      "o": [
+        {
+          "hi": "कृष्णा पूनिया (चक्का फेंक / Discus Throw)",
+          "en": "Krishna Poonia (Discus Throw)"
+        },
+        {
+          "hi": "सीमा पूनिया",
+          "en": "Seema Punia"
+        },
+        {
+          "hi": "दुती चंद",
+          "en": "Dutee Chand"
+        },
+        {
+          "hi": "हिमा दास",
+          "en": "Hima Das"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में महिला एकल बैडमिंटन में भारत को पहला स्वर्ण पदक (2010) किसने दिलाया?",
+        "en": "Who won India's first Gold medal in women's singles badminton at CWG 2010?"
+      },
+      "o": [
+        {
+          "hi": "पी.वी. सिंधु",
+          "en": "P.V. Sindhu"
+        },
+        {
+          "hi": "साइना नेहवाल (Saina Nehwal)",
+          "en": "Saina Nehwal"
+        },
+        {
+          "hi": "ज्वाला गुट्टा",
+          "en": "Jwala Gutta"
+        },
+        {
+          "hi": "अपर्णा पोपट",
+          "en": "Aparna Popat"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में महिला कुश्ती में भारत का पहला स्वर्ण पदक 2010 दिल्ली में किसने जीता?",
+        "en": "Who won India's first ever Gold medal in women's wrestling at CWG 2010?"
+      },
+      "o": [
+        {
+          "hi": "बबिता फोगाट",
+          "en": "Babita Phogat"
+        },
+        {
+          "hi": "विनेश फोगाट",
+          "en": "Vinesh Phogat"
+        },
+        {
+          "hi": "गीता फोगाट (Geeta Phogat - 55 किग्रा)",
+          "en": "Geeta Phogat (55 kg)"
+        },
+        {
+          "hi": "साक्षी मलिक",
+          "en": "Sakshi Malik"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में महिला मुक्केबाजी में स्वर्ण पदक जीतने वाली पहली भारतीय मुक्केबाज कौन हैं?",
+        "en": "Who is the first Indian female boxer to win a Gold medal at the Commonwealth Games (2018)?"
+      },
+      "o": [
+        {
+          "hi": "निखत जरीन",
+          "en": "Nikhat Zareen"
+        },
+        {
+          "hi": "लवलीना बोरगोहेन",
+          "en": "Lovlina Borgohain"
+        },
+        {
+          "hi": "पिंकी जांगड़ा",
+          "en": "Pinki Jangra"
+        },
+        {
+          "hi": "एम.सी. मैरी कॉम (Mary Kom)",
+          "en": "M.C. Mary Kom"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में पुरुष टेबल टेनिस में सर्वाधिक स्वर्ण जीतने का रिकॉर्ड किस भारतीय के नाम है?",
+        "en": "Which Indian holds the record for winning multiple Gold medals in Table Tennis at CWG?"
+      },
+      "o": [
+        {
+          "hi": "अचंत शरथ कमल (Achanta Sharath Kamal)",
+          "en": "Achanta Sharath Kamal"
+        },
+        {
+          "hi": "साथियान गणानाशेखरन",
+          "en": "Sathiyan Gnanasekaran"
+        },
+        {
+          "hi": "मनिका बत्रा",
+          "en": "Manika Batra"
+        },
+        {
+          "hi": "सौम्यजीत घोष",
+          "en": "Soumyajit Ghosh"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "2018 में गोल्ड कोस्ट (ऑस्ट्रेलिया) राष्ट्रमंडल खेलों में टेबल टेनिस महिला एकल स्वर्ण जीतने वाली पहली भारतीय कौन बनीं?",
+        "en": "Who became the first Indian woman to win Table Tennis singles Gold at CWG 2018 Gold Coast?"
+      },
+      "o": [
+        {
+          "hi": "मौमा दास",
+          "en": "Mouma Das"
+        },
+        {
+          "hi": "मनिका बत्रा (Manika Batra)",
+          "en": "Manika Batra"
+        },
+        {
+          "hi": "मधुरिका पाटकर",
+          "en": "Madhurika Patkar"
+        },
+        {
+          "hi": "अंकिता दास",
+          "en": "Ankita Das"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "22वें राष्ट्रमंडल खेल 2022 का आयोजन किस शहर में किया गया था?",
+        "en": "Where were the 22nd Commonwealth Games held in 2022?"
+      },
+      "o": [
+        {
+          "hi": "ग्लासगो (स्कॉटलैंड)",
+          "en": "Glasgow (Scotland)"
+        },
+        {
+          "hi": "गोल्ड कोस्ट (ऑस्ट्रेलिया)",
+          "en": "Gold Coast (Australia)"
+        },
+        {
+          "hi": "बर्मिंघम (इंग्लैंड / यूके)",
+          "en": "Birmingham (England / UK)"
+        },
+        {
+          "hi": "विक्टोरिया (कनाडा)",
+          "en": "Victoria (Canada)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "2022 बर्मिंघम राष्ट्रमंडल खेलों का आधिकारिक शुभंकर (Mascot) क्या था?",
+        "en": "What was the official mascot of the 2022 Birmingham Commonwealth Games?"
+      },
+      "o": [
+        {
+          "hi": "बोरोबी (Borobi)",
+          "en": "Borobi"
+        },
+        {
+          "hi": "शेरा (Shera)",
+          "en": "Shera"
+        },
+        {
+          "hi": "क्लाइड (Clyde)",
+          "en": "Clyde"
+        },
+        {
+          "hi": "पेरी द बुल (Perry the Bull)",
+          "en": "Perry the Bull"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "2022 बर्मिंघम राष्ट्रमंडल खेलों में भारत पदक तालिका में किस स्थान पर रहा?",
+        "en": "At what position did India finish in the medal tally at 2022 Birmingham Games?"
+      },
+      "o": [
+        {
+          "hi": "चौथे स्थान पर (4th Position)",
+          "en": "4th Position"
+        },
+        {
+          "hi": "तीसरे स्थान पर",
+          "en": "3rd Position"
+        },
+        {
+          "hi": "दूसरे स्थान पर",
+          "en": "2nd Position"
+        },
+        {
+          "hi": "पांचवें स्थान पर",
+          "en": "5th Position"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "2022 बर्मिंघम राष्ट्रमंडल खेलों में भारत ने कुल कितने पदक (22 स्वर्ण, 16 रजत, 23 कांस्य) जीते?",
+        "en": "How many total medals (22 Gold, 16 Silver, 23 Bronze) did India win at Birmingham 2022?"
+      },
+      "o": [
+        {
+          "hi": "66 पदक",
+          "en": "66 Medals"
+        },
+        {
+          "hi": "61 पदक",
+          "en": "61 Medals"
+        },
+        {
+          "hi": "55 पदक",
+          "en": "55 Medals"
+        },
+        {
+          "hi": "72 पदक",
+          "en": "72 Medals"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "2022 बर्मिंघम राष्ट्रमंडल खेलों में भारत के लिए पहला स्वर्ण पदक किसने जीता था?",
+        "en": "Who won India's first Gold medal at the 2022 Birmingham Commonwealth Games?"
+      },
+      "o": [
+        {
+          "hi": "संकेत सरगर",
+          "en": "Sanket Sargar"
+        },
+        {
+          "hi": "जेरेमी लालरिननुंगा",
+          "en": "Jeremy Lalrinnunga"
+        },
+        {
+          "hi": "मीराबाई चानू (भारोत्तोलन, 49 किग्रा)",
+          "en": "Mirabai Chanu (Weightlifting, 49 kg)"
+        },
+        {
+          "hi": "अंचिता शेउली",
+          "en": "Achinta Sheuli"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेल महासंघ (CGF) का मुख्यालय कहाँ स्थित है?",
+        "en": "Where is the headquarters of the Commonwealth Games Federation (CGF) located?"
+      },
+      "o": [
+        {
+          "hi": "बर्मिंघम (ब्रिटेन)",
+          "en": "Birmingham (UK)"
+        },
+        {
+          "hi": "मेलबर्न (ऑस्ट्रेलिया)",
+          "en": "Melbourne (Australia)"
+        },
+        {
+          "hi": "ओटावा (कनाडा)",
+          "en": "Ottawa (Canada)"
+        },
+        {
+          "hi": "लंदन (ब्रिटेन)",
+          "en": "London (UK)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों के इतिहास में अब तक सर्वाधिक बार पदक तालिका में शीर्ष पर रहने वाला देश कौन-सा है?",
+        "en": "Which country has topped the medal tally most times in Commonwealth Games history?"
+      },
+      "o": [
+        {
+          "hi": "ऑस्ट्रेलिया (Australia)",
+          "en": "Australia"
+        },
+        {
+          "hi": "इंग्लैंड (England)",
+          "en": "England"
+        },
+        {
+          "hi": "कनाडा (Canada)",
+          "en": "Canada"
+        },
+        {
+          "hi": "न्यूजीलैंड (New Zealand)",
+          "en": "New Zealand"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में क्रिकेट (महिला T20) को पहली बार किस वर्ष शामिल किया गया?",
+        "en": "In which Commonwealth Games was Women's T20 Cricket included for the first time?"
+      },
+      "o": [
+        {
+          "hi": "2018 गोल्ड कोस्ट में",
+          "en": "In 2018 Gold Coast"
+        },
+        {
+          "hi": "2022 बर्मिंघम खेलों में",
+          "en": "In 2022 Birmingham Games"
+        },
+        {
+          "hi": "2014 ग्लासगो में",
+          "en": "In 2014 Glasgow"
+        },
+        {
+          "hi": "2010 नई दिल्ली में",
+          "en": "In 2010 New Delhi"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "2022 बर्मिंघम में महिला क्रिकेट स्पर्धा का रजत पदक किस टीम ने जीता?",
+        "en": "Which team won the Silver medal in Women's Cricket at Birmingham CWG 2022?"
+      },
+      "o": [
+        {
+          "hi": "इंग्लैंड (England)",
+          "en": "England"
+        },
+        {
+          "hi": "न्यूजीलैंड (New Zealand)",
+          "en": "New Zealand"
+        },
+        {
+          "hi": "भारत (India - ऑस्ट्रेलिया से फाइनल हारी)",
+          "en": "India (Lost to Australia in final)"
+        },
+        {
+          "hi": "दक्षिण अफ्रीका (South Africa)",
+          "en": "South Africa"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लॉन बॉल्स (Lawn Bowls) स्पर्धा में भारत की महिला टीम ने 2022 में कौन-सा ऐतिहासिक पदक जीता?",
+        "en": "Which historic medal did the Indian women's Lawn Bowls team win at CWG 2022?"
+      },
+      "o": [
+        {
+          "hi": "रजत पदक (Silver Medal)",
+          "en": "Silver Medal"
+        },
+        {
+          "hi": "कांस्य पदक (Bronze Medal)",
+          "en": "Bronze Medal"
+        },
+        {
+          "hi": "कोई पदक नहीं",
+          "en": "No Medal"
+        },
+        {
+          "hi": "स्वर्ण पदक (Gold Medal)",
+          "en": "Gold Medal"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल देशों का संगठन मूल रूप से किन देशों का समूह है?",
+        "en": "The Commonwealth of Nations is primarily an association of which countries?"
+      },
+      "o": [
+        {
+          "hi": "पूर्व ब्रिटिश साम्राज्य के अधीन रहे संप्रभु देश",
+          "en": "Sovereign nations formerly under British Empire"
+        },
+        {
+          "hi": "केवल यूरोपीय देश",
+          "en": "European countries only"
+        },
+        {
+          "hi": "नाटो के सदस्य देश",
+          "en": "NATO member countries"
+        },
+        {
+          "hi": "गुटनिरपेक्ष आंदोलन के देश",
+          "en": "Non-Aligned Movement countries"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "द्वितीय विश्व युद्ध के कारण किन वर्षों में राष्ट्रमंडल खेल आयोजित नहीं हो सके थे?",
+        "en": "In which years were the Commonwealth Games cancelled due to World War II?"
+      },
+      "o": [
+        {
+          "hi": "1938 और 1942",
+          "en": "1938 and 1942"
+        },
+        {
+          "hi": "1942 और 1946",
+          "en": "1942 and 1946"
+        },
+        {
+          "hi": "1940 और 1944",
+          "en": "1940 and 1944"
+        },
+        {
+          "hi": "1946 और 1950",
+          "en": "1946 and 1950"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में सर्वाधिक व्यक्तिगत पदक जीतने वाले भारतीय निशानेबाज कौन हैं?",
+        "en": "Which Indian shooter holds the record for winning the most individual CWG medals (17 medals)?"
+      },
+      "o": [
+        {
+          "hi": "गगन नारंग",
+          "en": "Gagan Narang"
+        },
+        {
+          "hi": "अभिनव बिंद्रा",
+          "en": "Abhinav Bindra"
+        },
+        {
+          "hi": "जसपाल राणा (Jaspal Rana)",
+          "en": "Jaspal Rana"
+        },
+        {
+          "hi": "समरेश जंग",
+          "en": "Samaresh Jung"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में पहली बार पुरुषों के 50 किमी पैदल चाल में स्वर्ण पदक 2010 में किस भारतीय ने जीता?",
+        "en": "Who won India's first ever race walk medal at the Commonwealth Games (2010 Delhi)?"
+      },
+      "o": [
+        {
+          "hi": "सुरिंदर सिंह",
+          "en": "Surinder Singh"
+        },
+        {
+          "hi": "मनीष रावत",
+          "en": "Manish Rawat"
+        },
+        {
+          "hi": "गुरमीत सिंह",
+          "en": "Gurmeet Singh"
+        },
+        {
+          "hi": "हरमिंदर सिंह (कांस्य पदक, 20 किमी)",
+          "en": "Harminder Singh (Bronze, 20 km walk)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "2022 बर्मिंघम राष्ट्रमंडल खेलों के समापन समारोह में भारत के ध्वजवाहक कौन थे?",
+        "en": "Who were the flag bearers for India at the closing ceremony of CWG 2022 Birmingham?"
+      },
+      "o": [
+        {
+          "hi": "शरथ कमल और निखत जरीन",
+          "en": "Sharath Kamal and Nikhat Zareen"
+        },
+        {
+          "hi": "पी.वी. सिंधु और मनप्रीत सिंह",
+          "en": "P.V. Sindhu and Manpreet Singh"
+        },
+        {
+          "hi": "नीरज चोपड़ा और मीराबाई चानू",
+          "en": "Neeraj Chopra and Mirabai Chanu"
+        },
+        {
+          "hi": "लक्ष्य सेन और साक्षी मलिक",
+          "en": "Lakshya Sen and Sakshi Malik"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "2022 बर्मिंघम राष्ट्रमंडल खेलों के उद्घाटन समारोह में भारत के ध्वजवाहक कौन थे?",
+        "en": "Who were the flag bearers for India at the opening ceremony of CWG 2022 Birmingham?"
+      },
+      "o": [
+        {
+          "hi": "शरथ कमल और निखत जरीन",
+          "en": "Sharath Kamal and Nikhat Zareen"
+        },
+        {
+          "hi": "पी.वी. सिंधु और मनप्रीत सिंह",
+          "en": "P.V. Sindhu and Manpreet Singh"
+        },
+        {
+          "hi": "बजरंग पुनिया और विनेश फोगाट",
+          "en": "Bajrang Punia and Vinesh Phogat"
+        },
+        {
+          "hi": "अमित पंघाल और लवलीना",
+          "en": "Amit Panghal and Lovlina"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में पुरुष ट्रिपल जंप में 2022 में स्वर्ण और रजत पदक जीतकर इतिहास रचने वाले भारतीय कौन हैं?",
+        "en": "Which Indians created history by winning Gold and Silver in men's triple jump at CWG 2022?"
+      },
+      "o": [
+        {
+          "hi": "मुरली श्रीशंकर और प्रवीण चित्रवेल",
+          "en": "Murali Sreeshankar and Praveen Chithravel"
+        },
+        {
+          "hi": "तेजिंदरपाल तूर और नीरज चोपड़ा",
+          "en": "Tajinderpal Toor and Neeraj Chopra"
+        },
+        {
+          "hi": "एल्धोस पॉल (स्वर्ण) और अब्दुल्ला अबूबकर (रजत)",
+          "en": "Eldhose Paul (Gold) and Abdulla Aboobacker (Silver)"
+        },
+        {
+          "hi": "अविनाश साबले और शिवपाल सिंह",
+          "en": "Avinash Sable and Shivpal Singh"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "3000 मीटर स्टीपलचेज में लगातार केन्याई दबदबे को तोड़ते हुए 2022 CWG में रजत पदक जीतने वाले भारतीय कौन हैं?",
+        "en": "Which Indian won a historic Silver in 3000m steeplechase breaking Kenyan dominance at CWG 2022?"
+      },
+      "o": [
+        {
+          "hi": "मिल्खा सिंह",
+          "en": "Milkha Singh"
+        },
+        {
+          "hi": "बहादुर प्रसाद",
+          "en": "Bahadur Prasad"
+        },
+        {
+          "hi": "श्रीराम सिंह",
+          "en": "Sriram Singh"
+        },
+        {
+          "hi": "अविनाश साबले (Avinash Sable)",
+          "en": "Avinash Sable"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में पैरा-एथलीटों के पदकों को मुख्य पदक तालिका में किस वर्ष से शामिल किया जाने लगा?",
+        "en": "Since which year have medals won by Para-athletes been included in the main CWG medal tally?"
+      },
+      "o": [
+        {
+          "hi": "2002 मैनचेस्टर खेलों से",
+          "en": "From 2002 Manchester Games"
+        },
+        {
+          "hi": "1998 कुआलालंपुर खेलों से",
+          "en": "From 1998 Kuala Lumpur Games"
+        },
+        {
+          "hi": "2006 मेलबर्न खेलों से",
+          "en": "From 2006 Melbourne Games"
+        },
+        {
+          "hi": "2010 नई दिल्ली खेलों से",
+          "en": "From 2010 New Delhi Games"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेल किस खेल संघ द्वारा आयोजित किए जाने वाले दूसरे सबसे बड़े बहु-खेल आयोजन हैं?",
+        "en": "Commonwealth Games are the second largest multi-sport event in the world after:"
+      },
+      "o": [
+        {
+          "hi": "फीफा विश्व कप (FIFA World Cup)",
+          "en": "FIFA World Cup"
+        },
+        {
+          "hi": "ओलम्पिक खेल (Olympic Games)",
+          "en": "Olympic Games"
+        },
+        {
+          "hi": "एशियाई खेल (Asian Games)",
+          "en": "Asian Games"
+        },
+        {
+          "hi": "विंबलडन चैंपियनशिप (Wimbledon)",
+          "en": "Wimbledon Championship"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कनाडा के हैमिल्टन में आयोजित 1930 के प्रथम खेलों में कुल कितने देशों ने भाग लिया था?",
+        "en": "How many countries participated in the inaugural 1930 Games at Hamilton, Canada?"
+      },
+      "o": [
+        {
+          "hi": "25 देश",
+          "en": "25 Nations"
+        },
+        {
+          "hi": "18 देश",
+          "en": "18 Nations"
+        },
+        {
+          "hi": "11 देश (400 एथलीट)",
+          "en": "11 Nations (400 Athletes)"
+        },
+        {
+          "hi": "32 देश",
+          "en": "32 Nations"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में निशानेबाजी (Shooting) को किस वर्ष पहली बार शामिल किया गया था?",
+        "en": "In which year was Shooting included for the first time in the Commonwealth Games?"
+      },
+      "o": [
+        {
+          "hi": "1958 कार्डिफ खेलों में",
+          "en": "In 1958 Cardiff Games"
+        },
+        {
+          "hi": "1974 क्राइस्टचर्च में",
+          "en": "In 1974 Christchurch"
+        },
+        {
+          "hi": "1982 ब्रिस्बेन में",
+          "en": "In 1982 Brisbane"
+        },
+        {
+          "hi": "1966 किंग्स्टन खेलों में (जमैका)",
+          "en": "In 1966 Kingston Games (Jamaica)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में पुरुष एकल बैडमिंटन में भारत को स्वर्ण पदक 2022 में किसने दिलाया?",
+        "en": "Who won the Men's Singles Badminton Gold for India at the 2022 Birmingham CWG?"
+      },
+      "o": [
+        {
+          "hi": "लक्ष्य सेन (Lakshya Sen)",
+          "en": "Lakshya Sen"
+        },
+        {
+          "hi": "किदांबी श्रीकांत",
+          "en": "Kidambi Srikanth"
+        },
+        {
+          "hi": "पुलेला गोपीचंद",
+          "en": "Pullela Gopichand"
+        },
+        {
+          "hi": "प्रकाश पादुकोण",
+          "en": "Prakash Padukone"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में पुरुष एकल बैडमिंटन में भारत के लिए सर्वप्रथम स्वर्ण पदक 1978 में किसने जीता था?",
+        "en": "Who won India's first ever Men's Singles Badminton Gold at CWG in 1978 Edmonton?"
+      },
+      "o": [
+        {
+          "hi": "सैयद मोदी (Syed Modi)",
+          "en": "Syed Modi"
+        },
+        {
+          "hi": "प्रकाश पादुकोण (Prakash Padukone)",
+          "en": "Prakash Padukone"
+        },
+        {
+          "hi": "दिनेश खन्ना",
+          "en": "Dinesh Khanna"
+        },
+        {
+          "hi": "पुलेला गोपीचंद",
+          "en": "Pullela Gopichand"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में 1982 ब्रिस्बेन में पुरुष एकल बैडमिंटन का स्वर्ण पदक किस भारतीय ने जीता था?",
+        "en": "Which Indian won the Men's Singles Badminton Gold at CWG 1982 Brisbane?"
+      },
+      "o": [
+        {
+          "hi": "प्रकाश पादुकोण",
+          "en": "Prakash Padukone"
+        },
+        {
+          "hi": "नंदू नाटेकर",
+          "en": "Nandu Natekar"
+        },
+        {
+          "hi": "सैयद मोदी (Syed Modi)",
+          "en": "Syed Modi"
+        },
+        {
+          "hi": "सुरेश गोयल",
+          "en": "Suresh Goel"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेल 2022 में भारत ने कुश्ती (Wrestling) में कुल कितने स्वर्ण पदक जीते?",
+        "en": "How many Gold medals did India win in Wrestling at CWG 2022?"
+      },
+      "o": [
+        {
+          "hi": "4 स्वर्ण पदक",
+          "en": "4 Gold Medals"
+        },
+        {
+          "hi": "8 स्वर्ण पदक",
+          "en": "8 Gold Medals"
+        },
+        {
+          "hi": "5 स्वर्ण पदक",
+          "en": "5 Gold Medals"
+        },
+        {
+          "hi": "6 स्वर्ण पदक (कुल 12 पदक, सभी 12 पहलवानों ने पदक जीते)",
+          "en": "6 Gold Medals (12/12 wrestlers medaled)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में स्क्वैश एकल में भारत का पहला व्यक्तिगत पदक (कांस्य, 2022) किसने जीता?",
+        "en": "Who won India's first ever individual singles medal (Bronze) in Squash at CWG 2022?"
+      },
+      "o": [
+        {
+          "hi": "सौरव घोषाल (Saurav Ghosal)",
+          "en": "Saurav Ghosal"
+        },
+        {
+          "hi": "जोशना चिनप्पा",
+          "en": "Joshna Chinappa"
+        },
+        {
+          "hi": "दीपिका पल्लीकल",
+          "en": "Dipika Pallikal"
+        },
+        {
+          "hi": "ऋत्विक भट्टाचार्य",
+          "en": "Ritwik Bhattacharya"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "राष्ट्रमंडल खेलों में 2014 ग्लासगो में स्क्वैश महिला युगल का ऐतिहासिक स्वर्ण पदक किसने जीता था?",
+        "en": "Who won India's historic first CWG Gold in Squash Women's Doubles at 2014 Glasgow?"
+      },
+      "o": [
+        {
+          "hi": "ज्वाला गुट्टा और अश्विनी पोनप्पा",
+          "en": "Jwala Gutta and Ashwini Ponnappa"
+        },
+        {
+          "hi": "दीपिका पल्लीकल और जोशना चिनप्पा",
+          "en": "Dipika Pallikal and Joshna Chinappa"
+        },
+        {
+          "hi": "साइना नेहवाल और पी.वी. सिंधु",
+          "en": "Saina Nehwal and P.V. Sindhu"
+        },
+        {
+          "hi": "अमी घिया और कंवल सिंह",
+          "en": "Ami Ghia and Kanwal Singh"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

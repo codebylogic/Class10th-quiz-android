@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "भौतिकी संबंधी महत्वपूर्ण खोज",
+  "description": "भौतिकी संबंधी महत्वपूर्ण खोज पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "गति के तीन नियम और सार्वत्रिक गुरुत्वाकर्षण का नियम किसने प्रतिपादित किया था?",
+        "en": "Who formulated the three laws of motion and universal gravitation?"
+      },
+      "o": [
+        {
+          "hi": "सर आइजैक न्यूटन ने",
+          "en": "Sir Isaac Newton"
+        },
+        {
+          "hi": "गैलीलियो गैलीली ने",
+          "en": "Galileo Galilei"
+        },
+        {
+          "hi": "अल्बर्ट आइंस्टीन ने",
+          "en": "Albert Einstein"
+        },
+        {
+          "hi": "जोहान्स केपलर ने",
+          "en": "Johannes Kepler"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जड़त्व का नियम (Law of Inertia) और खगोलीय दूरबीन का आविष्कार किसने किया था?",
+        "en": "Who established the Law of Inertia and refined the astronomical telescope?"
+      },
+      "o": [
+        {
+          "hi": "न्यूटन ने",
+          "en": "Newton"
+        },
+        {
+          "hi": "गैलीलियो गैलीली ने",
+          "en": "Galileo Galilei"
+        },
+        {
+          "hi": "कॉपरनिकस ने",
+          "en": "Copernicus"
+        },
+        {
+          "hi": "केपलर ने",
+          "en": "Kepler"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सापेक्षता का सामान्य एवं विशिष्ट सिद्धांत (Theory of Relativity: E = mc²) किसने दिया था?",
+        "en": "Who propounded the Special and General Theory of Relativity (E = mc²)?"
+      },
+      "o": [
+        {
+          "hi": "मैक्स प्लांक",
+          "en": "Max Planck"
+        },
+        {
+          "hi": "नील्स बोर",
+          "en": "Niels Bohr"
+        },
+        {
+          "hi": "अल्बर्ट आइंस्टीन (Albert Einstein)",
+          "en": "Albert Einstein"
+        },
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विद्युत-चुंबकीय प्रेरण के नियम (Laws of Electromagnetic Induction) की खोज किसने की थी?",
+        "en": "Who discovered the laws of electromagnetic induction in 1831?"
+      },
+      "o": [
+        {
+          "hi": "हेंस ओर्स्टेड",
+          "en": "Hans Oersted"
+        },
+        {
+          "hi": "आंद्रे एम्पीयर",
+          "en": "Andre Ampere"
+        },
+        {
+          "hi": "थॉमस एडीसन",
+          "en": "Thomas Edison"
+        },
+        {
+          "hi": "माइकल फैराडे (Michael Faraday)",
+          "en": "Michael Faraday"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रकाश-विद्युत प्रभाव (Photoelectric Effect) की सैद्धांतिक व्याख्या के लिए 1921 में किसे नोबेल पुरस्कार मिला?",
+        "en": "Who won the 1921 Nobel Prize in Physics for explanation of photoelectric effect?"
+      },
+      "o": [
+        {
+          "hi": "अल्बर्ट आइंस्टीन को",
+          "en": "Albert Einstein"
+        },
+        {
+          "hi": "मैक्स प्लांक को",
+          "en": "Max Planck"
+        },
+        {
+          "hi": "हेनरिक हर्ट्ज को",
+          "en": "Heinrich Hertz"
+        },
+        {
+          "hi": "रदरफोर्ड को",
+          "en": "Rutherford"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "क्वांटम सिद्धांत (Quantum Theory: E = hν) का प्रतिपादन 1900 में किस वैज्ञानिक ने किया था?",
+        "en": "Who originated Quantum Theory (E = hν) in 1900?"
+      },
+      "o": [
+        {
+          "hi": "अल्बर्ट आइंस्टीन",
+          "en": "Albert Einstein"
+        },
+        {
+          "hi": "मैक्स प्लांक (Max Planck)",
+          "en": "Max Planck"
+        },
+        {
+          "hi": "नील्स बोर",
+          "en": "Niels Bohr"
+        },
+        {
+          "hi": "डी ब्रोग्ली",
+          "en": "De Broglie"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक्स किरणों (X-Rays) की खोज के लिए 1901 में भौतिकी का प्रथम नोबेल पुरस्कार किसे दिया गया?",
+        "en": "Who was awarded the first Nobel Prize in Physics in 1901 for discovering X-rays?"
+      },
+      "o": [
+        {
+          "hi": "हेनरी बेकेरल",
+          "en": "Henri Becquerel"
+        },
+        {
+          "hi": "मैरी क्यूरी",
+          "en": "Marie Curie"
+        },
+        {
+          "hi": "विलियम कॉनराड रॉन्टजन (W.C. Roentgen)",
+          "en": "W.C. Roentgen"
+        },
+        {
+          "hi": "जे. जे. थॉमसन",
+          "en": "J.J. Thomson"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रेडियोसक्रियता (Radioactivity) की खोज 1896 में किस वैज्ञानिक ने की थी?",
+        "en": "Who discovered radioactivity in 1896?"
+      },
+      "o": [
+        {
+          "hi": "मैडम क्यूरी",
+          "en": "Madame Curie"
+        },
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "एनरिको फर्मी",
+          "en": "Enrico Fermi"
+        },
+        {
+          "hi": "हेनरी बेकेरल (Henri Becquerel)",
+          "en": "Henri Becquerel"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रेडियम और पोलोनियम तत्वों की खोज किसने की जिसके लिए उन्हें नोबेल पुरस्कार मिला?",
+        "en": "Who discovered Radium and Polonium winning two Nobel Prizes?"
+      },
+      "o": [
+        {
+          "hi": "मैरी क्यूरी एवं पियरे क्यूरी (Marie & Pierre Curie)",
+          "en": "Marie & Pierre Curie"
+        },
+        {
+          "hi": "हेनरी बेकेरल",
+          "en": "Henri Becquerel"
+        },
+        {
+          "hi": "इरेन जोलियट",
+          "en": "Irene Joliot"
+        },
+        {
+          "hi": "लीसे मिटनर",
+          "en": "Lise Meitner"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "इलेक्ट्रॉन (Electron) की खोज 1897 में किस भौतिक विज्ञानी ने की थी?",
+        "en": "Which physicist discovered the electron in 1897 using cathode rays?"
+      },
+      "o": [
+        {
+          "hi": "जेम्स चैडविक",
+          "en": "James Chadwick"
+        },
+        {
+          "hi": "सर जे. जे. थॉमसन (J.J. Thomson)",
+          "en": "Sir J.J. Thomson"
+        },
+        {
+          "hi": "अर्नेस्ट रदरफोर्ड",
+          "en": "Ernest Rutherford"
+        },
+        {
+          "hi": "जॉन डाल्टन",
+          "en": "John Dalton"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "परमाणु के नाभिक (Nucleus) की खोज और अल्फा कण प्रकीर्णन का प्रयोग किसने किया था?",
+        "en": "Who discovered atomic nucleus through alpha particle gold-foil experiment?"
+      },
+      "o": [
+        {
+          "hi": "जे. जे. थॉमसन",
+          "en": "J.J. Thomson"
+        },
+        {
+          "hi": "नील्स बोर",
+          "en": "Niels Bohr"
+        },
+        {
+          "hi": "अर्नेस्ट रदरफोर्ड (Ernest Rutherford)",
+          "en": "Ernest Rutherford"
+        },
+        {
+          "hi": "चैडविक",
+          "en": "Chadwick"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "न्यूट्रॉन (Neutron) की खोज 1932 में किस ब्रिटिश वैज्ञानिक ने की थी?",
+        "en": "Which British physicist discovered the neutral subatomic neutron in 1932?"
+      },
+      "o": [
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "थॉमसन",
+          "en": "Thomson"
+        },
+        {
+          "hi": "बोर",
+          "en": "Bohr"
+        },
+        {
+          "hi": "सर जेम्स चैडविक (James Chadwick)",
+          "en": "Sir James Chadwick"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भारतीय भौतिक विज्ञानी सर सी. वी. रमन को 'रमन प्रभाव' की खोज के लिए नोबेल पुरस्कार किस वर्ष मिला?",
+        "en": "In which year was Sir C.V. Raman awarded the Nobel Prize for Raman Effect?"
+      },
+      "o": [
+        {
+          "hi": "1930 में (भौतिकी का नोबेल)",
+          "en": "In 1930 (Physics Nobel)"
+        },
+        {
+          "hi": "1913 में",
+          "en": "In 1913"
+        },
+        {
+          "hi": "1954 में",
+          "en": "In 1954"
+        },
+        {
+          "hi": "1968 में",
+          "en": "In 1968"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रमन प्रभाव (Raman Effect) प्रकाश की किस परिघटना से संबंधित महत्वपूर्ण खोज है?",
+        "en": "Raman Effect is an important discovery related to which phenomenon of light?"
+      },
+      "o": [
+        {
+          "hi": "प्रकाश के अपवर्तन से",
+          "en": "Refraction of light"
+        },
+        {
+          "hi": "प्रकाश के प्रकीर्णन (Scattering of Light) से",
+          "en": "Scattering of Light"
+        },
+        {
+          "hi": "प्रकाश के ध्रुवण से",
+          "en": "Polarization of light"
+        },
+        {
+          "hi": "प्रकाश के विवर्तन से",
+          "en": "Diffraction of light"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भारत में प्रतिवर्ष 28 फरवरी को 'राष्ट्रीय विज्ञान दिवस' किसकी स्मृति में मनाया जाता है?",
+        "en": "National Science Day is celebrated in India on Feb 28 to commemorate what?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. होमी भाभा का जन्मदिन",
+          "en": "Homi Bhabha birthday"
+        },
+        {
+          "hi": "आर्यभट्ट उपग्रह प्रक्षेपण",
+          "en": "Aryabhata launch"
+        },
+        {
+          "hi": "सी. वी. रमन द्वारा रमन प्रभाव की खोज (1928)",
+          "en": "Discovery of Raman Effect (1928)"
+        },
+        {
+          "hi": "एपीजे अब्दुल कलाम जयंती",
+          "en": "APJ Abdul Kalam birthday"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "बेतार के तार (Wireless Telegraphy / Radio) का आविष्कार किसने किया था?",
+        "en": "Who developed long-distance radio communication and wireless telegraphy?"
+      },
+      "o": [
+        {
+          "hi": "अलेक्जेंडर ग्राहम बेल",
+          "en": "Alexander Graham Bell"
+        },
+        {
+          "hi": "थॉमस एडीसन",
+          "en": "Thomas Edison"
+        },
+        {
+          "hi": "सैमुअल मोर्स",
+          "en": "Samuel Morse"
+        },
+        {
+          "hi": "गुग्लिएल्मो मार्कोनी (Guglielmo Marconi)",
+          "en": "Guglielmo Marconi"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विद्युत बल्ब, ग्रामोफोन और चलचित्र (कैमरा) का आविष्कार किस महान आविष्कारक ने किया?",
+        "en": "Who invented the incandescent electric bulb, phonograph and motion picture camera?"
+      },
+      "o": [
+        {
+          "hi": "थॉमस अल्वा एडीसन (Thomas Edison)",
+          "en": "Thomas Edison"
+        },
+        {
+          "hi": "निकोला टेस्ला",
+          "en": "Nikola Tesla"
+        },
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "जेम्स वाट",
+          "en": "James Watt"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रत्यावर्ती धारा (AC Current) और प्रेरण मोटर (Induction Motor) का आविष्कार किसने किया था?",
+        "en": "Who invented Alternating Current (AC) electrical system and induction motor?"
+      },
+      "o": [
+        {
+          "hi": "थॉमस एडीसन",
+          "en": "Thomas Edison"
+        },
+        {
+          "hi": "निकोला टेस्ला (Nikola Tesla)",
+          "en": "Nikola Tesla"
+        },
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "अलेक्जेंड्रो वोल्टा",
+          "en": "Alessandro Volta"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "टेलीफोन (Telephone) का आविष्कार 1876 में किसने किया था?",
+        "en": "Who patented the first practical telephone in 1876?"
+      },
+      "o": [
+        {
+          "hi": "मार्कोनी ने",
+          "en": "Marconi"
+        },
+        {
+          "hi": "एडीसन ने",
+          "en": "Edison"
+        },
+        {
+          "hi": "अलेक्जेंडर ग्राहम बेल ने (Alexander Graham Bell)",
+          "en": "Alexander Graham Bell"
+        },
+        {
+          "hi": "चार्ल्स बैबेज ने",
+          "en": "Charles Babbage"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "टेलीविजन (यांत्रिक टीवी - Mechanical Television) का आविष्कार किसने किया था?",
+        "en": "Who invented mechanical television demonstrating it in 1926?"
+      },
+      "o": [
+        {
+          "hi": "मार्कोनी",
+          "en": "Marconi"
+        },
+        {
+          "hi": "एडीसन",
+          "en": "Edison"
+        },
+        {
+          "hi": "ग्राहम बेल",
+          "en": "Graham Bell"
+        },
+        {
+          "hi": "जॉन लोगी बेयर्ड (John Logie Baird - J.L. Baird)",
+          "en": "John Logie Baird (J.L. Baird)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भाप इंजन (कंडेनसर युक्त आधुनिक Steam Engine) का पेटेंट 1769 में किसने कराया?",
+        "en": "Who patented the modern condenser steam engine initiating industrial revolution?"
+      },
+      "o": [
+        {
+          "hi": "जेम्स वाट (James Watt) ने",
+          "en": "James Watt"
+        },
+        {
+          "hi": "जॉर्ज स्टीफेंसन ने",
+          "en": "George Stephenson"
+        },
+        {
+          "hi": "थॉमस न्यूकोमेन ने",
+          "en": "Thomas Newcomen"
+        },
+        {
+          "hi": "रुडोल्फ डीजल ने",
+          "en": "Rudolf Diesel"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रेलवे इंजन (Steam Locomotive / रॉकेट इंजन) का आविष्कार किसने किया था?",
+        "en": "Who successfully built the first public railway steam locomotive?"
+      },
+      "o": [
+        {
+          "hi": "जेम्स वाट",
+          "en": "James Watt"
+        },
+        {
+          "hi": "जॉर्ज स्टीफेंसन (George Stephenson)",
+          "en": "George Stephenson"
+        },
+        {
+          "hi": "रुडोल्फ डीजल",
+          "en": "Rudolf Diesel"
+        },
+        {
+          "hi": "हेनरी फोर्ड",
+          "en": "Henry Ford"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "डीजल इंजन (Diesel Engine) का आविष्कार 1892 में किस जर्मन इंजीनियर ने किया था?",
+        "en": "Who invented the diesel internal combustion engine in 1892?"
+      },
+      "o": [
+        {
+          "hi": "निकोलास ओटो",
+          "en": "Nikolaus Otto"
+        },
+        {
+          "hi": "कार्ल बेंज",
+          "en": "Karl Benz"
+        },
+        {
+          "hi": "रुडोल्फ डीजल (Rudolf Diesel)",
+          "en": "Rudolf Diesel"
+        },
+        {
+          "hi": "गोटलिब डेमलर",
+          "en": "Gottlieb Daimler"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आधुनिक पेट्रोल कार (Automobile) का आविष्कारक किसे माना जाता है?",
+        "en": "Who is credited with inventing the first modern gasoline-powered automobile (1886)?"
+      },
+      "o": [
+        {
+          "hi": "हेनरी फोर्ड",
+          "en": "Henry Ford"
+        },
+        {
+          "hi": "रुडोल्फ डीजल",
+          "en": "Rudolf Diesel"
+        },
+        {
+          "hi": "चार्ल्स गुडइयर",
+          "en": "Charles Goodyear"
+        },
+        {
+          "hi": "कार्ल बेंज (Karl Benz)",
+          "en": "Karl Benz"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हवाई जहाज (Aeroplane) की पहली सफल नियंत्रित उड़ान 1903 में किसने भरी थी?",
+        "en": "Who made the first controlled sustained powered aircraft flight in 1903?"
+      },
+      "o": [
+        {
+          "hi": "राइट ब्रदर्स (ओरविल और विल्बर राइट)",
+          "en": "Wright Brothers (Orville & Wilbur)"
+        },
+        {
+          "hi": "लियोनार्डो दा विंची",
+          "en": "Leonardo da Vinci"
+        },
+        {
+          "hi": "ग्राहम बेल",
+          "en": "Graham Bell"
+        },
+        {
+          "hi": "गैलीलियो",
+          "en": "Galileo"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "डायनामाइट (Dynamite) का आविष्कार 1867 में किस स्वीडिश रसायनज्ञ ने किया था?",
+        "en": "Who invented dynamite in 1867, later instituting the Nobel Prizes?"
+      },
+      "o": [
+        {
+          "hi": "मैडम क्यूरी",
+          "en": "Madame Curie"
+        },
+        {
+          "hi": "अल्फ्रेड नोबेल (Alfred Nobel)",
+          "en": "Alfred Nobel"
+        },
+        {
+          "hi": "अलेक्जेंडर फ्लेमिंग",
+          "en": "Alexander Fleming"
+        },
+        {
+          "hi": "लुई पाश्चर",
+          "en": "Louis Pasteur"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नाभिकीय विखंडन (Nuclear Fission) की खोज 1939 में किन वैज्ञानिकों ने की थी?",
+        "en": "Who discovered nuclear fission of uranium nuclei in 1939?"
+      },
+      "o": [
+        {
+          "hi": "ओपेनहाइमर और फर्मी",
+          "en": "Oppenheimer and Fermi"
+        },
+        {
+          "hi": "रदरफोर्ड और सोडी",
+          "en": "Rutherford and Soddy"
+        },
+        {
+          "hi": "ऑटो हान और फ्रिट्ज स्ट्रॉसमन (Otto Hahn & Fritz Strassmann)",
+          "en": "Otto Hahn & Fritz Strassmann"
+        },
+        {
+          "hi": "क्यूरी दंपति",
+          "en": "Curie couple"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रथम नाभिकीय रिएक्टर (Nuclear Reactor) का निर्माण 1942 में किसके द्वारा किया गया?",
+        "en": "Who constructed the world's first artificial nuclear reactor (Chicago Pile-1)?"
+      },
+      "o": [
+        {
+          "hi": "रॉबर्ट ओपेनहाइमर",
+          "en": "Robert Oppenheimer"
+        },
+        {
+          "hi": "नील्स बोर",
+          "en": "Niels Bohr"
+        },
+        {
+          "hi": "अर्नेस्ट लॉरेंस",
+          "en": "Ernest Lawrence"
+        },
+        {
+          "hi": "एनरिको फर्मी (Enrico Fermi)",
+          "en": "Enrico Fermi"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हाइड्रोजन बम (Hydrogen Bomb) का जनक किसे कहा जाता है?",
+        "en": "Who is widely regarded as the 'Father of the Hydrogen Bomb'?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. एडवर्ड टेलर (Edward Teller)",
+          "en": "Dr. Edward Teller"
+        },
+        {
+          "hi": "रॉबर्ट ओपेनहाइमर",
+          "en": "Robert Oppenheimer"
+        },
+        {
+          "hi": "एनरिको फर्मी",
+          "en": "Enrico Fermi"
+        },
+        {
+          "hi": "अल्बर्ट आइंस्टीन",
+          "en": "Albert Einstein"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "परमाणु बम (Atom Bomb) के जनक के रूप में किसे जाना जाता है?",
+        "en": "Who is known as the 'Father of the Atomic Bomb' (Manhattan Project)?"
+      },
+      "o": [
+        {
+          "hi": "एडवर्ड टेलर",
+          "en": "Edward Teller"
+        },
+        {
+          "hi": "जे. रॉबर्ट ओपेनहाइमर (J. Robert Oppenheimer)",
+          "en": "J. Robert Oppenheimer"
+        },
+        {
+          "hi": "ऑटो हान",
+          "en": "Otto Hahn"
+        },
+        {
+          "hi": "हंस बेथे",
+          "en": "Hans Bethe"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सौरमंडल में ग्रहों की गति के तीन नियमों (Planetary Laws) की खोज किसने की थी?",
+        "en": "Who discovered the three laws of planetary motion in the early 17th century?"
+      },
+      "o": [
+        {
+          "hi": "गैलीलियो गैलीली",
+          "en": "Galileo Galilei"
+        },
+        {
+          "hi": "निकोलस कॉपरनिकस",
+          "en": "Nicolaus Copernicus"
+        },
+        {
+          "hi": "जोहान्स केपलर (Johannes Kepler)",
+          "en": "Johannes Kepler"
+        },
+        {
+          "hi": "टायको ब्राहे",
+          "en": "Tycho Brahe"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तैरने के नियम (Laws of Floatation) और उत्प्लावन बल का सिद्धांत किसने दिया था?",
+        "en": "Who formulated the Laws of Floatation and hydrostatic principle of buoyancy?"
+      },
+      "o": [
+        {
+          "hi": "आइजैक न्यूटन",
+          "en": "Isaac Newton"
+        },
+        {
+          "hi": "ब्लेज पास्कल",
+          "en": "Blaise Pascal"
+        },
+        {
+          "hi": "रॉबर्ट बॉयल",
+          "en": "Robert Boyle"
+        },
+        {
+          "hi": "आर्किमिडीज (Archimedes)",
+          "en": "Archimedes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "द्रव दाब का नियम (पास्कल का नियम - Pascal's Law) किसने प्रतिपादित किया था?",
+        "en": "Who formulated the fundamental law of fluid pressure transmission?"
+      },
+      "o": [
+        {
+          "hi": "ब्लेज पास्कल (Blaise Pascal)",
+          "en": "Blaise Pascal"
+        },
+        {
+          "hi": "टॉरिसेली",
+          "en": "Torricelli"
+        },
+        {
+          "hi": "आर्किमिडीज",
+          "en": "Archimedes"
+        },
+        {
+          "hi": "डेनियल बर्नोली",
+          "en": "Daniel Bernoulli"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "वायुदाब मापी (बैरोमीटर - Barometer) का आविष्कार 1643 में किसने किया था?",
+        "en": "Who invented the mercury barometer in 1643?"
+      },
+      "o": [
+        {
+          "hi": "ब्लेज पास्कल ने",
+          "en": "Blaise Pascal"
+        },
+        {
+          "hi": "इवेंजेलिस्टा टॉरिसेली ने (E. Torricelli)",
+          "en": "Evangelista Torricelli"
+        },
+        {
+          "hi": "गैलीलियो ने",
+          "en": "Galileo"
+        },
+        {
+          "hi": "रॉबर्ट हुक ने",
+          "en": "Robert Hooke"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ऊर्जा संरक्षण पर आधारित तरल गतिकी के प्रसिद्ध प्रमेय का प्रतिपादन किसने किया?",
+        "en": "Who formulated the fundamental hydrodynamic theorem of energy conservation?"
+      },
+      "o": [
+        {
+          "hi": "पास्कल",
+          "en": "Pascal"
+        },
+        {
+          "hi": "टॉरिसेली",
+          "en": "Torricelli"
+        },
+        {
+          "hi": "डेनियल बर्नोली (Daniel Bernoulli)",
+          "en": "Daniel Bernoulli"
+        },
+        {
+          "hi": "स्टोक्स",
+          "en": "Stokes"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विद्युत सेल (प्रथम विद्युत बैटरी - Voltaic Pile) का आविष्कार 1800 में किसने किया?",
+        "en": "Who invented the first true electric chemical battery (voltaic pile) in 1800?"
+      },
+      "o": [
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "लुइगी गैल्वानी",
+          "en": "Luigi Galvani"
+        },
+        {
+          "hi": "बेंजामिन फ्रैंकलिन",
+          "en": "Benjamin Franklin"
+        },
+        {
+          "hi": "अलेक्जेंड्रो वोल्टा (Alessandro Volta)",
+          "en": "Alessandro Volta"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विद्युत प्रतिरोध का नियम (Ohm's Law: V = IR) 1827 में किसने दिया था?",
+        "en": "Who discovered the law of electrical resistance (V = IR) in 1827?"
+      },
+      "o": [
+        {
+          "hi": "जॉर्ज साइमन ओम (Georg Simon Ohm)",
+          "en": "Georg Simon Ohm"
+        },
+        {
+          "hi": "आंद्रे एम्पीयर",
+          "en": "Andre Ampere"
+        },
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "जेम्स जूल",
+          "en": "James Joule"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विद्युत धारा के उष्मीय प्रभाव (H = I²Rt) का नियम किसने दिया था?",
+        "en": "Who discovered the law of mechanical equivalent and heating effect of current?"
+      },
+      "o": [
+        {
+          "hi": "जॉर्ज ओम",
+          "en": "Georg Ohm"
+        },
+        {
+          "hi": "जेम्स प्रेस्कॉट जूल (James Prescott Joule)",
+          "en": "James Prescott Joule"
+        },
+        {
+          "hi": "हेनरिक हर्ट्ज",
+          "en": "Heinrich Hertz"
+        },
+        {
+          "hi": "लॉर्ड केल्विन",
+          "en": "Lord Kelvin"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत चुंबकत्व के मूलभूत चार समीकरणों का प्रतिपादन किसने किया था?",
+        "en": "Who unified electricity, magnetism and light into four classical field equations?"
+      },
+      "o": [
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "हेनरिक हर्ट्ज",
+          "en": "Heinrich Hertz"
+        },
+        {
+          "hi": "जेम्स क्लर्क मैक्सवेल (James Clerk Maxwell)",
+          "en": "James Clerk Maxwell"
+        },
+        {
+          "hi": "आइजैक न्यूटन",
+          "en": "Isaac Newton"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "विद्युत चुंबकीय तरंगों की प्रायोगिक पुष्टि (हर्ट्जियन तरंगें) किसने की थी?",
+        "en": "Who experimentally proved the existence of electromagnetic waves in 1887?"
+      },
+      "o": [
+        {
+          "hi": "मार्कोनी",
+          "en": "Marconi"
+        },
+        {
+          "hi": "मैक्सवेल",
+          "en": "Maxwell"
+        },
+        {
+          "hi": "जे.सी. बसु",
+          "en": "J.C. Bose"
+        },
+        {
+          "hi": "हेनरिक हर्ट्ज (Heinrich Hertz)",
+          "en": "Heinrich Hertz"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "नाभिकीय भौतिकी में पॉजिट्रॉन (Positron) की खोज किसने की थी?",
+        "en": "Who discovered the positron (anti-electron) in cosmic rays in 1932?"
+      },
+      "o": [
+        {
+          "hi": "कार्ल डी. एंडरसन (Carl D. Anderson)",
+          "en": "Carl D. Anderson"
+        },
+        {
+          "hi": "पॉल डिराक",
+          "en": "Paul Dirac"
+        },
+        {
+          "hi": "जेम्स चैडविक",
+          "en": "James Chadwick"
+        },
+        {
+          "hi": "अर्नेस्ट रदरफोर्ड",
+          "en": "Ernest Rutherford"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नाभिकीय बलों की व्याख्या करने वाले मेसॉन कणों (Meson) की भविष्यवाणी किसने की थी?",
+        "en": "Who proposed the meson theory of nuclear forces in 1935?"
+      },
+      "o": [
+        {
+          "hi": "नील्स बोर",
+          "en": "Niels Bohr"
+        },
+        {
+          "hi": "हिदेकी युकावा (Hideki Yukawa - नोबेल पुरस्कार)",
+          "en": "Hideki Yukawa"
+        },
+        {
+          "hi": "सत्येंद्र नाथ बोस",
+          "en": "S.N. Bose"
+        },
+        {
+          "hi": "सी. वी. रमन",
+          "en": "C.V. Raman"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "परमाणु के क्वांटम मॉडल और ऊर्जा स्तरों की अवधारणा किसने दी?",
+        "en": "Who introduced the quantized atomic orbital model in 1913?"
+      },
+      "o": [
+        {
+          "hi": "जे. जे. थॉमसन",
+          "en": "J.J. Thomson"
+        },
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "नील्स बोर (Niels Bohr - 1922 नोबेल)",
+          "en": "Niels Bohr (1922 Nobel)"
+        },
+        {
+          "hi": "मैक्स प्लांक",
+          "en": "Max Planck"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "क्वांटम यांत्रिकी में 'अनिश्चितता का सिद्धांत' (Uncertainty Principle) किसने दिया?",
+        "en": "Who formulated the fundamental quantum Uncertainty Principle in 1927?"
+      },
+      "o": [
+        {
+          "hi": "इरविन श्रोडिंगर",
+          "en": "Erwin Schrödinger"
+        },
+        {
+          "hi": "मैक्स बॉर्न",
+          "en": "Max Born"
+        },
+        {
+          "hi": "लुई डी ब्रोग्ली",
+          "en": "Louis de Broglie"
+        },
+        {
+          "hi": "वर्नर हाइजेनबर्ग (Werner Heisenberg)",
+          "en": "Werner Heisenberg"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "क्वांटम तरंग समीकरण (Wave Equation: Hψ = Eψ) का प्रतिपादन किसने किया था?",
+        "en": "Who developed the fundamental non-relativistic quantum wave equation in 1926?"
+      },
+      "o": [
+        {
+          "hi": "इरविन श्रोडिंगर (Erwin Schrödinger)",
+          "en": "Erwin Schrödinger"
+        },
+        {
+          "hi": "वर्नर हाइजेनबर्ग",
+          "en": "Werner Heisenberg"
+        },
+        {
+          "hi": "पॉल डिराक",
+          "en": "Paul Dirac"
+        },
+        {
+          "hi": "मैक्स प्लांक",
+          "en": "Max Planck"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "साइक्लोट्रॉन (Cyclotron - कण त्वरक) का आविष्कार किसने किया था?",
+        "en": "Who invented the cyclotron particle accelerator in 1932 winning Nobel in 1939?"
+      },
+      "o": [
+        {
+          "hi": "एनरिको फर्मी",
+          "en": "Enrico Fermi"
+        },
+        {
+          "hi": "अर्नेस्ट ऑरलैंडो लॉरेंस (E.O. Lawrence)",
+          "en": "Ernest O. Lawrence"
+        },
+        {
+          "hi": "रॉबर्ट वान डे ग्राफ",
+          "en": "Robert Van de Graaff"
+        },
+        {
+          "hi": "जेम्स चैडविक",
+          "en": "James Chadwick"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "अतिचालकता (Superconductivity) की खोज 1911 में किसने की थी?",
+        "en": "Who discovered the phenomenon of superconductivity in mercury in 1911?"
+      },
+      "o": [
+        {
+          "hi": "लॉर्ड केल्विन",
+          "en": "Lord Kelvin"
+        },
+        {
+          "hi": "जे. जे. थॉमसन",
+          "en": "J.J. Thomson"
+        },
+        {
+          "hi": "हाइके कैमरलिंग ओन्स (H. Kamerlingh Onnes)",
+          "en": "Heike Kamerlingh Onnes"
+        },
+        {
+          "hi": "माइकल फैराडे",
+          "en": "Michael Faraday"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "लेसर (LASER) का प्रथम सफल संचालन 1960 में किस वैज्ञानिक ने किया था?",
+        "en": "Who built and operated the first working ruby laser in 1960?"
+      },
+      "o": [
+        {
+          "hi": "चार्ल्स टाउन्स",
+          "en": "Charles Townes"
+        },
+        {
+          "hi": "अल्बर्ट आइंस्टीन",
+          "en": "Albert Einstein"
+        },
+        {
+          "hi": "आर्थर शॉलो",
+          "en": "Arthur Schawlow"
+        },
+        {
+          "hi": "थियोडोर एच. मैमन (Theodore H. Maiman)",
+          "en": "Theodore H. Maiman"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रकाशिक तंतु (ऑप्टिकल फाइबर - Optical Fiber) के जनक के रूप में किसे जाना जाता है?",
+        "en": "Who is widely recognized as the 'Father of Fibre Optics'?"
+      },
+      "o": [
+        {
+          "hi": "डॉ. नरिंदर सिंह कपानी (Narinder Singh Kapany)",
+          "en": "Dr. Narinder Singh Kapany"
+        },
+        {
+          "hi": "चार्ल्स काओ",
+          "en": "Charles Kao"
+        },
+        {
+          "hi": "होमी भाभा",
+          "en": "Homi Bhabha"
+        },
+        {
+          "hi": "सत्येंद्र नाथ बोस",
+          "en": "Satyendra Nath Bose"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कॉस्मिक किरणों (Cosmic Rays) की खोज 1912 में किसने की थी?",
+        "en": "Who discovered cosmic rays using balloon flights in 1912 winning Nobel in 1936?"
+      },
+      "o": [
+        {
+          "hi": "सी. वी. रमन",
+          "en": "C.V. Raman"
+        },
+        {
+          "hi": "विक्टर फ्रांज हेस (Victor Franz Hess)",
+          "en": "Victor Franz Hess"
+        },
+        {
+          "hi": "रदरफोर्ड",
+          "en": "Rutherford"
+        },
+        {
+          "hi": "एंडरसन",
+          "en": "Anderson"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

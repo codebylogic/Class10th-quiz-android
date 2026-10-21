@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "तरंग",
+  "description": "तरंग पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "किसी भौतिक माध्यम में उत्पन्न विक्षोभ (Disturbance) जो ऊर्जा का संचरण करता है, क्या कहलाता है?",
+        "en": "A disturbance propagating in a medium transporting energy is called what?"
+      },
+      "o": [
+        {
+          "hi": "तरंग (Wave)",
+          "en": "Wave"
+        },
+        {
+          "hi": "बल (Force)",
+          "en": "Force"
+        },
+        {
+          "hi": "दाब (Pressure)",
+          "en": "Pressure"
+        },
+        {
+          "hi": "आवेग (Impulse)",
+          "en": "Impulse"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जिन तरंगों के संचरण के लिए भौतिक माध्यम (ठोस, द्रव, गैस) की अनिवार्यता होती है, उन्हें क्या कहते हैं?",
+        "en": "Waves that strictly require a material medium for propagation are called what?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत-चुंबकीय तरंगें",
+          "en": "Electromagnetic waves"
+        },
+        {
+          "hi": "यांत्रिक तरंगें (Mechanical Waves)",
+          "en": "Mechanical Waves"
+        },
+        {
+          "hi": "प्रकाश तरंगें",
+          "en": "Light waves"
+        },
+        {
+          "hi": "एक्स किरणें",
+          "en": "X-rays"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "वे तरंगें जिनके संचरण के लिए किसी भौतिक माध्यम की आवश्यकता नहीं होती, क्या कहलाती हैं?",
+        "en": "Waves that do not require any physical medium for propagation are called what?"
+      },
+      "o": [
+        {
+          "hi": "ध्वनि तरंगें",
+          "en": "Sound waves"
+        },
+        {
+          "hi": "जल तरंगें",
+          "en": "Water waves"
+        },
+        {
+          "hi": "विद्युत-चुंबकीय तरंगें (Electromagnetic Waves)",
+          "en": "Electromagnetic Waves"
+        },
+        {
+          "hi": "भूकंपीय तरंगें",
+          "en": "Seismic waves"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जब माध्यम के कण तरंग संचरण की दिशा के लंबवत कंपन करते हैं, तो ऐसी तरंग को क्या कहते हैं?",
+        "en": "When particles vibrate perpendicular to wave propagation, what is wave called?"
+      },
+      "o": [
+        {
+          "hi": "अनुदैर्ध्य तरंग",
+          "en": "Longitudinal wave"
+        },
+        {
+          "hi": "ध्वनि तरंग",
+          "en": "Sound wave"
+        },
+        {
+          "hi": "स्थिर तरंग",
+          "en": "Standing wave"
+        },
+        {
+          "hi": "अनुप्रस्थ तरंग (Transverse Wave)",
+          "en": "Transverse Wave"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अनुप्रस्थ तरंगें (Transverse Waves) किस रूप में आगे बढ़ती हैं?",
+        "en": "In what form do transverse waves propagate through a medium?"
+      },
+      "o": [
+        {
+          "hi": "शृंग और गर्त (Crest and Trough) के रूप में",
+          "en": "In form of crests and troughs"
+        },
+        {
+          "hi": "संपीड़न और विरलन के रूप में",
+          "en": "In form of compressions & rarefactions"
+        },
+        {
+          "hi": "केवल सरल रेखा में",
+          "en": "Only in straight line"
+        },
+        {
+          "hi": "बिना किसी विक्षोभ के",
+          "en": "Without any disturbance"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अनुप्रस्थ यांत्रिक तरंगें केवल किन माध्यमों में उत्पन्न की जा सकती हैं?",
+        "en": "Transverse mechanical waves can be propagated only through what media?"
+      },
+      "o": [
+        {
+          "hi": "केवल गैसों में",
+          "en": "Only gases"
+        },
+        {
+          "hi": "ठोसों में तथा द्रवों की ऊपरी सतह पर",
+          "en": "Solids and upper surface of liquids"
+        },
+        {
+          "hi": "केवल निर्वात में",
+          "en": "Only vacuum"
+        },
+        {
+          "hi": "द्रव के आंतरिक भाग में",
+          "en": "Inside liquids"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जब माध्यम के कण तरंग संचरण की दिशा के समानांतर कंपन करते हैं, तो उसे क्या कहते हैं?",
+        "en": "When medium particles vibrate parallel to wave propagation, what is it called?"
+      },
+      "o": [
+        {
+          "hi": "अनुप्रस्थ तरंग",
+          "en": "Transverse wave"
+        },
+        {
+          "hi": "विद्युत-चुंबकीय तरंग",
+          "en": "Electromagnetic wave"
+        },
+        {
+          "hi": "अनुदैर्ध्य तरंग (Longitudinal Wave)",
+          "en": "Longitudinal Wave"
+        },
+        {
+          "hi": "प्रकाश तरंग",
+          "en": "Light wave"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "अनुदैर्ध्य तरंगें माध्यम में किस रूप में आगे संचरित होती हैं?",
+        "en": "In what form do longitudinal waves propagate through a medium?"
+      },
+      "o": [
+        {
+          "hi": "शृंग और गर्त के रूप में",
+          "en": "As crests and troughs"
+        },
+        {
+          "hi": "वृत्ताकार तरंगिकाओं के रूप में",
+          "en": "As circular wavelets"
+        },
+        {
+          "hi": "केवल ऊर्जा पैकेट के रूप में",
+          "en": "As energy packets"
+        },
+        {
+          "hi": "संपीड़न और विरलन (Compression & Rarefaction)",
+          "en": "Compressions and rarefactions"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अनुदैर्ध्य तरंगें (Longitudinal Waves) किन माध्यमों में संचरित हो सकती हैं?",
+        "en": "Through which media can longitudinal waves propagate?"
+      },
+      "o": [
+        {
+          "hi": "ठोस, द्रव एवं गैस तीनों में",
+          "en": "Solids, liquids and gases"
+        },
+        {
+          "hi": "केवल ठोसों में",
+          "en": "Only solids"
+        },
+        {
+          "hi": "केवल निर्वात में",
+          "en": "Only vacuum"
+        },
+        {
+          "hi": "केवल द्रवों में",
+          "en": "Only liquids"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ध्वनि तरंगें (Sound Waves) किस प्रकार की तरंगों का उदाहरण हैं?",
+        "en": "Sound waves in air are an example of which type of waves?"
+      },
+      "o": [
+        {
+          "hi": "अनुप्रस्थ विद्युत चुंबकीय तरंग",
+          "en": "Transverse electromagnetic"
+        },
+        {
+          "hi": "अनुदैर्ध्य यांत्रिक तरंग (Longitudinal mechanical)",
+          "en": "Longitudinal mechanical"
+        },
+        {
+          "hi": "अयांत्रिक तरंग",
+          "en": "Non-mechanical"
+        },
+        {
+          "hi": "केवल स्थिर तरंग",
+          "en": "Only standing wave"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "प्रकाश तरंगें (Light Waves) किस प्रकार की तरंगें होती हैं?",
+        "en": "What type of waves are light waves?"
+      },
+      "o": [
+        {
+          "hi": "अनुदैर्ध्य यांत्रिक तरंगें",
+          "en": "Longitudinal mechanical waves"
+        },
+        {
+          "hi": "ध्वनि तरंगें",
+          "en": "Sound waves"
+        },
+        {
+          "hi": "अनुप्रस्थ विद्युत-चुंबकीय तरंगें",
+          "en": "Transverse electromagnetic waves"
+        },
+        {
+          "hi": "गुरुत्वीय तरंगें",
+          "en": "Gravitational waves"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "निर्वात में सभी विद्युत-चुंबकीय तरंगों की चाल कितनी होती है?",
+        "en": "What is the speed of all electromagnetic waves in vacuum?"
+      },
+      "o": [
+        {
+          "hi": "332 मीटर/सेकंड",
+          "en": "332 m/s"
+        },
+        {
+          "hi": "11.2 किमी/सेकंड",
+          "en": "11.2 km/s"
+        },
+        {
+          "hi": "3 × 10^10 मीटर/सेकंड",
+          "en": "3 × 10^10 m/s"
+        },
+        {
+          "hi": "3 × 10^8 मीटर/सेकंड (प्रकाश की चाल)",
+          "en": "3 × 10^8 m/s (speed of light)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विद्युत-चुंबकीय तरंगों की अवधारणा का सैद्धांतिक प्रतिपादन किसने किया था?",
+        "en": "Who theoretically formulated the concept of electromagnetic waves?"
+      },
+      "o": [
+        {
+          "hi": "जेम्स क्लर्क मैक्सवेल ने",
+          "en": "James Clerk Maxwell"
+        },
+        {
+          "hi": "हेनरिक हर्ट्ज ने",
+          "en": "Heinrich Hertz"
+        },
+        {
+          "hi": "आइजैक न्यूटन ने",
+          "en": "Isaac Newton"
+        },
+        {
+          "hi": "माइकल फैराडे ने",
+          "en": "Michael Faraday"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "प्रयोगशाला में विद्युत-चुंबकीय तरंगों को सर्वप्रथम किसने उत्पन्न और संसूचित किया था?",
+        "en": "Who first experimentally produced and detected electromagnetic waves?"
+      },
+      "o": [
+        {
+          "hi": "मार्कोनी ने",
+          "en": "Marconi"
+        },
+        {
+          "hi": "हेनरिक हर्ट्ज ने",
+          "en": "Heinrich Hertz"
+        },
+        {
+          "hi": "जगदीश चंद्र बसु ने",
+          "en": "J.C. Bose"
+        },
+        {
+          "hi": "रॉन्टजन ने",
+          "en": "Roentgen"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत-चुंबकीय स्पेक्ट्रम में सबसे कम तरंगदैर्घ्य तथा सर्वाधिक आवृत्ति किसकी होती है?",
+        "en": "Which wave in electromagnetic spectrum has shortest wavelength & highest frequency?"
+      },
+      "o": [
+        {
+          "hi": "एक्स किरणों की",
+          "en": "X-rays"
+        },
+        {
+          "hi": "पराबैंगनी किरणों की",
+          "en": "Ultraviolet rays"
+        },
+        {
+          "hi": "गामा किरणों (Gamma Rays) की",
+          "en": "Gamma Rays"
+        },
+        {
+          "hi": "रेडियो तरंगों की",
+          "en": "Radio waves"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गामा किरणों (γ-rays) की खोज किसने की थी?",
+        "en": "Who discovered gamma rays?"
+      },
+      "o": [
+        {
+          "hi": "रॉन्टजन ने",
+          "en": "Roentgen"
+        },
+        {
+          "hi": "विलियम हर्शेल ने",
+          "en": "William Herschel"
+        },
+        {
+          "hi": "रिटर ने",
+          "en": "Ritter"
+        },
+        {
+          "hi": "पॉल विलार्ड एवं रदरफोर्ड ने",
+          "en": "Paul Villard and Rutherford"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एक्स किरणों (X-Rays) की खोज किस वैज्ञानिक ने की थी?",
+        "en": "Which scientist discovered X-rays?"
+      },
+      "o": [
+        {
+          "hi": "डब्ल्यू. के. रॉन्टजन ने",
+          "en": "W. K. Roentgen"
+        },
+        {
+          "hi": "मैडम क्यूरी ने",
+          "en": "Madame Curie"
+        },
+        {
+          "hi": "हेनरी बेकेरल ने",
+          "en": "Henri Becquerel"
+        },
+        {
+          "hi": "जे. जे. थॉमसन ने",
+          "en": "J. J. Thomson"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पराबैंगनी किरणों (Ultraviolet Rays) की खोज किसने की थी?",
+        "en": "Who discovered ultraviolet rays?"
+      },
+      "o": [
+        {
+          "hi": "हर्शेल ने",
+          "en": "Herschel"
+        },
+        {
+          "hi": "जोहान विल्हेम रिटर ने",
+          "en": "Johann Wilhelm Ritter"
+        },
+        {
+          "hi": "न्यूटन ने",
+          "en": "Newton"
+        },
+        {
+          "hi": "मार्कोनी ने",
+          "en": "Marconi"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "दृश्य प्रकाश (Visible Light) स्पेक्ट्रम की खोज किसने की थी?",
+        "en": "Who discovered the visible light spectrum?"
+      },
+      "o": [
+        {
+          "hi": "गैलीलियो ने",
+          "en": "Galileo"
+        },
+        {
+          "hi": "हर्ट्ज ने",
+          "en": "Hertz"
+        },
+        {
+          "hi": "सर आइजैक न्यूटन ने",
+          "en": "Sir Isaac Newton"
+        },
+        {
+          "hi": "मैक्सवेल ने",
+          "en": "Maxwell"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दृश्य प्रकाश की तरंगदैर्घ्य परास (Wavelength Range) सामान्यतः कितनी होती है?",
+        "en": "What is generally the wavelength range of visible light?"
+      },
+      "o": [
+        {
+          "hi": "100 Å से 1000 Å",
+          "en": "100 Å to 1000 Å"
+        },
+        {
+          "hi": "10^-10 मीटर से 10^-8 मीटर",
+          "en": "10^-10 m to 10^-8 m"
+        },
+        {
+          "hi": "1 मीटर से 100 मीटर",
+          "en": "1 m to 100 m"
+        },
+        {
+          "hi": "3900 Å से 7800 Å",
+          "en": "3900 Å to 7800 Å"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अवरक्त विकिरण (Infrared Radiation) की खोज किस वैज्ञानिक ने की थी?",
+        "en": "Which scientist discovered infrared radiation?"
+      },
+      "o": [
+        {
+          "hi": "विलियम हर्शेल ने",
+          "en": "William Herschel"
+        },
+        {
+          "hi": "रिटर ने",
+          "en": "Ritter"
+        },
+        {
+          "hi": "रॉन्टजन ने",
+          "en": "Roentgen"
+        },
+        {
+          "hi": "विलार्ड ने",
+          "en": "Villard"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "टीवी के रिमोट कंट्रोल (TV Remote Control) में किन तरंगों का उपयोग किया जाता है?",
+        "en": "Which rays/waves are used in a TV remote control?"
+      },
+      "o": [
+        {
+          "hi": "पराबैंगनी तरंगें",
+          "en": "Ultraviolet rays"
+        },
+        {
+          "hi": "अवरक्त तरंगें (Infrared Waves)",
+          "en": "Infrared Waves"
+        },
+        {
+          "hi": "गामा किरणें",
+          "en": "Gamma rays"
+        },
+        {
+          "hi": "एक्स किरणें",
+          "en": "X-rays"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कोहरे और धुंध में फोटोग्राफी करने के लिए किस विकिरण का उपयोग किया जाता है?",
+        "en": "Which radiation is used for photography in haze and fog?"
+      },
+      "o": [
+        {
+          "hi": "पराबैंगनी किरणें",
+          "en": "Ultraviolet rays"
+        },
+        {
+          "hi": "एक्स किरणें",
+          "en": "X-rays"
+        },
+        {
+          "hi": "अवरक्त किरणें (Infrared Rays)",
+          "en": "Infrared Rays"
+        },
+        {
+          "hi": "गामा किरणें",
+          "en": "Gamma rays"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दीर्घ रेडियो तरंगों (Long Radio Waves) की खोज किसने की थी?",
+        "en": "Who discovered long radio waves?"
+      },
+      "o": [
+        {
+          "hi": "हेनरिक हर्ट्ज ने",
+          "en": "Heinrich Hertz"
+        },
+        {
+          "hi": "जे.सी. बसु ने",
+          "en": "J.C. Bose"
+        },
+        {
+          "hi": "मैक्सवेल ने",
+          "en": "Maxwell"
+        },
+        {
+          "hi": "मार्कोनी ने",
+          "en": "Marconi"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तरंग वेग (v), आवृत्ति (n) और तरंगदैर्घ्य (λ) के बीच सही संबंध क्या है?",
+        "en": "What is the correct relation between wave velocity (v), frequency (n) & wavelength (λ)?"
+      },
+      "o": [
+        {
+          "hi": "v = n × λ",
+          "en": "v = n × λ"
+        },
+        {
+          "hi": "v = n / λ",
+          "en": "v = n / λ"
+        },
+        {
+          "hi": "v = λ / n",
+          "en": "v = λ / n"
+        },
+        {
+          "hi": "v = n² × λ",
+          "en": "v = n² × λ"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दो लगातार शृंगों (Crests) अथवा दो लगातार गर्तों (Troughs) के बीच की दूरी को क्या कहते हैं?",
+        "en": "Distance between two consecutive crests or troughs is called what?"
+      },
+      "o": [
+        {
+          "hi": "आयाम",
+          "en": "Amplitude"
+        },
+        {
+          "hi": "तरंगदैर्घ्य (Wavelength)",
+          "en": "Wavelength"
+        },
+        {
+          "hi": "आवर्तकाल",
+          "en": "Time period"
+        },
+        {
+          "hi": "कला",
+          "en": "Phase"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जब कोई तरंग एक माध्यम से दूसरे माध्यम में प्रवेश करती है, तो कौन-सी भौतिक राशि अपरिवर्तित रहती है?",
+        "en": "When a wave enters from one medium to another, which physical quantity remains unchanged?"
+      },
+      "o": [
+        {
+          "hi": "तरंग का वेग",
+          "en": "Wave velocity"
+        },
+        {
+          "hi": "तरंगदैर्घ्य",
+          "en": "Wavelength"
+        },
+        {
+          "hi": "आवृत्ति (Frequency)",
+          "en": "Frequency"
+        },
+        {
+          "hi": "आयाम",
+          "en": "Amplitude"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "कैंसर कोशिकाओं को नष्ट करने और चिकित्सा उपकरणों को कीटाणुरहित करने में किन किरणों का उपयोग होता है?",
+        "en": "Which rays are used to destroy cancer cells and sterilize medical equipment?"
+      },
+      "o": [
+        {
+          "hi": "सूक्ष्म तरंगें",
+          "en": "Microwaves"
+        },
+        {
+          "hi": "रेडियो तरंगें",
+          "en": "Radio waves"
+        },
+        {
+          "hi": "दृश्य प्रकाश",
+          "en": "Visible light"
+        },
+        {
+          "hi": "गामा किरणें (Gamma Rays)",
+          "en": "Gamma Rays"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "हड्डियों के टूटने (फ्रैक्चर) की जांच करने के लिए किस विकिरण का उपयोग किया जाता है?",
+        "en": "Which radiation is used to detect bone fractures?"
+      },
+      "o": [
+        {
+          "hi": "एक्स किरणें (X-Rays)",
+          "en": "X-Rays"
+        },
+        {
+          "hi": "गामा किरणें",
+          "en": "Gamma rays"
+        },
+        {
+          "hi": "अवरक्त किरणें",
+          "en": "Infrared rays"
+        },
+        {
+          "hi": "पराबैंगनी किरणें",
+          "en": "Ultraviolet rays"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "नकली करेंसी नोटों, फिंगरप्रिंट और जाली दस्तावेजों की पहचान करने के लिए किसका उपयोग किया जाता है?",
+        "en": "What is used to identify fake currency notes, fingerprints and forged documents?"
+      },
+      "o": [
+        {
+          "hi": "एक्स किरणें",
+          "en": "X-rays"
+        },
+        {
+          "hi": "पराबैंगनी प्रकाश (UV Light)",
+          "en": "Ultraviolet Light"
+        },
+        {
+          "hi": "अवरक्त विकिरण",
+          "en": "Infrared radiation"
+        },
+        {
+          "hi": "माइक्रोवेव",
+          "en": "Microwaves"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सूक्ष्म तरंगों (Microwaves) का उपयोग मुख्यतः किसमें किया जाता है?",
+        "en": "Microwaves are primarily used in which of the following?"
+      },
+      "o": [
+        {
+          "hi": "केवल जल शोधन में",
+          "en": "Only water purification"
+        },
+        {
+          "hi": "एक्स-रे फोटोग्राफी में",
+          "en": "X-ray photography"
+        },
+        {
+          "hi": "रडार प्रणाली एवं माइक्रोवेव ओवन में",
+          "en": "Radar system and microwave oven"
+        },
+        {
+          "hi": "कैंसर चिकित्सा में",
+          "en": "Cancer therapy"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रेडियो तरंगों को परावर्तित करने वाली वायुमंडलीय परत कौन-सी है?",
+        "en": "Which atmospheric layer reflects radio waves back to Earth?"
+      },
+      "o": [
+        {
+          "hi": "क्षोभमंडल (Troposphere)",
+          "en": "Troposphere"
+        },
+        {
+          "hi": "समतापमंडल (Stratosphere)",
+          "en": "Stratosphere"
+        },
+        {
+          "hi": "ओजोनमंडल",
+          "en": "Ozonosphere"
+        },
+        {
+          "hi": "आयनमंडल (Ionosphere)",
+          "en": "Ionosphere"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "ग्रीनहाउस प्रभाव (Greenhouse Effect) के लिए मुख्यतः कौन-सा विकिरण उत्तरदायी होता है?",
+        "en": "Which radiation is primarily responsible for greenhouse effect?"
+      },
+      "o": [
+        {
+          "hi": "अवरक्त विकिरण (Infrared Radiation)",
+          "en": "Infrared Radiation"
+        },
+        {
+          "hi": "पराबैंगनी विकिरण",
+          "en": "Ultraviolet radiation"
+        },
+        {
+          "hi": "एक्स किरणें",
+          "en": "X-rays"
+        },
+        {
+          "hi": "गामा किरणें",
+          "en": "Gamma rays"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सूर्य से आने वाली हानिकारक पराबैंगनी किरणों को कौन-सी गैस अवशोषित करती है?",
+        "en": "Which gas absorbs harmful ultraviolet radiation coming from the Sun?"
+      },
+      "o": [
+        {
+          "hi": "नाइट्रोजन",
+          "en": "Nitrogen"
+        },
+        {
+          "hi": "ओजोन (O3)",
+          "en": "Ozone (O3)"
+        },
+        {
+          "hi": "कार्बन डाइऑक्साइड",
+          "en": "Carbon dioxide"
+        },
+        {
+          "hi": "मीथेन",
+          "en": "Methane"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "भूकंप के समय उत्पन्न तरंगें किस प्रकार की तरंगें होती हैं?",
+        "en": "What type of waves are generated during an earthquake?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत-चुंबकीय तरंगें",
+          "en": "Electromagnetic waves"
+        },
+        {
+          "hi": "केवल अनुप्रस्थ तरंगें",
+          "en": "Only transverse waves"
+        },
+        {
+          "hi": "भूकंपीय तरंगें (P, S और L यांत्रिक तरंगें)",
+          "en": "Seismic waves (P, S & L mechanical)"
+        },
+        {
+          "hi": "प्रकाश तरंगें",
+          "en": "Light waves"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "भूकंप की प्राथमिक तरंगें (P-waves) किस प्रकृति की होती हैं?",
+        "en": "What is the nature of primary earthquake waves (P-waves)?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत चुंबकीय",
+          "en": "Electromagnetic"
+        },
+        {
+          "hi": "अनुप्रस्थ तरंगें",
+          "en": "Transverse waves"
+        },
+        {
+          "hi": "स्थिर तरंगें",
+          "en": "Standing waves"
+        },
+        {
+          "hi": "अनुदैर्ध्य तरंगें (Longitudinal)",
+          "en": "Longitudinal waves"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "भूकंप की द्वितीयक तरंगें (S-waves) किस प्रकार की तरंगें होती हैं?",
+        "en": "What type of waves are secondary earthquake waves (S-waves)?"
+      },
+      "o": [
+        {
+          "hi": "अनुप्रस्थ तरंगें (Transverse)",
+          "en": "Transverse waves"
+        },
+        {
+          "hi": "अनुदैर्ध्य तरंगें",
+          "en": "Longitudinal waves"
+        },
+        {
+          "hi": "विद्युत-चुंबकीय तरंगें",
+          "en": "Electromagnetic waves"
+        },
+        {
+          "hi": "रेडियो तरंगें",
+          "en": "Radio waves"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "शांत जल में पत्थर फेंकने पर जल की सतह पर उत्पन्न तरंगें कैसी होती हैं?",
+        "en": "Waves produced on water surface when a pebble is dropped in calm pond are?"
+      },
+      "o": [
+        {
+          "hi": "केवल अनुदैर्ध्य",
+          "en": "Only longitudinal"
+        },
+        {
+          "hi": "अनुप्रस्थ यांत्रिक तरंगें",
+          "en": "Transverse mechanical waves"
+        },
+        {
+          "hi": "विद्युत-चुंबकीय तरंगें",
+          "en": "Electromagnetic waves"
+        },
+        {
+          "hi": "गामा तरंगें",
+          "en": "Gamma waves"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जल के अंदर (गहराई में) उत्पन्न तरंगें किस प्रकृति की होती हैं?",
+        "en": "What nature of waves are produced deep inside water?"
+      },
+      "o": [
+        {
+          "hi": "अनुप्रस्थ",
+          "en": "Transverse"
+        },
+        {
+          "hi": "विद्युत-चुंबकीय",
+          "en": "Electromagnetic"
+        },
+        {
+          "hi": "अनुदैर्ध्य (Longitudinal)",
+          "en": "Longitudinal"
+        },
+        {
+          "hi": "अयांत्रिक",
+          "en": "Non-mechanical"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सोनार (SONAR) का पूरा नाम क्या है?",
+        "en": "What is the full form of SONAR?"
+      },
+      "o": [
+        {
+          "hi": "सोलर नेविगेशन एंड रेंजिंग",
+          "en": "Solar Navigation and Ranging"
+        },
+        {
+          "hi": "साउंड न्यूट्रलाइजेशन एंड रेडिएशन",
+          "en": "Sound Neutralization and Radiation"
+        },
+        {
+          "hi": "स्पीड ऑफ नेविगेशन एंड रडार",
+          "en": "Speed of Navigation and Radar"
+        },
+        {
+          "hi": "साउंड नेविगेशन एंड रेंजिंग",
+          "en": "Sound Navigation and Ranging"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "रडार (RADAR) का पूरा नाम क्या होता है?",
+        "en": "What is the full form of RADAR?"
+      },
+      "o": [
+        {
+          "hi": "रेडियो डिटेक्शन एंड रेंजिंग",
+          "en": "Radio Detection and Ranging"
+        },
+        {
+          "hi": "रेडिएशन डिटेक्शन एंड रेंजिंग",
+          "en": "Radiation Detection and Ranging"
+        },
+        {
+          "hi": "रेडियो डायरेक्शन एंड रेंजिंग",
+          "en": "Radio Direction and Ranging"
+        },
+        {
+          "hi": "रेडियो डिस्टेंस एंड रेंजिंग",
+          "en": "Radio Distance and Ranging"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रडार में हवाई जहाजों की स्थिति का पता लगाने के लिए किन तरंगों का उपयोग होता है?",
+        "en": "Which waves are used in RADAR to detect the location of aircraft?"
+      },
+      "o": [
+        {
+          "hi": "ध्वनि तरंगें",
+          "en": "Sound waves"
+        },
+        {
+          "hi": "रेडियो एवं सूक्ष्म तरंगें (Radio/Microwaves)",
+          "en": "Radio and Microwaves"
+        },
+        {
+          "hi": "पराबैंगनी किरणें",
+          "en": "Ultraviolet rays"
+        },
+        {
+          "hi": "अल्ट्रासोनिक तरंगें",
+          "en": "Ultrasonic waves"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत-चुंबकीय तरंगों में विद्युत क्षेत्र (E) और चुंबकीय क्षेत्र (B) एक-दूसरे के कैसे होते हैं?",
+        "en": "In electromagnetic waves, electric field (E) and magnetic field (B) are what?"
+      },
+      "o": [
+        {
+          "hi": "समानांतर",
+          "en": "Parallel"
+        },
+        {
+          "hi": "विपरीत दिशा में",
+          "en": "Opposite direction"
+        },
+        {
+          "hi": "परस्पर लंबवत (Perpendicular)",
+          "en": "Mutually perpendicular"
+        },
+        {
+          "hi": "45° के कोण पर",
+          "en": "At 45° angle"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किसी माध्यम में यांत्रिक तरंग के संचरण के दौरान किसका स्थानांतरण होता है?",
+        "en": "During mechanical wave propagation, what is actually transferred?"
+      },
+      "o": [
+        {
+          "hi": "माध्यम के द्रव्यमान का",
+          "en": "Mass of medium"
+        },
+        {
+          "hi": "माध्यम के परमाणुओं का",
+          "en": "Atoms of medium"
+        },
+        {
+          "hi": "माध्यम के तापमान का",
+          "en": "Temperature of medium"
+        },
+        {
+          "hi": "ऊर्जा और संवेग का",
+          "en": "Energy and momentum"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "निम्नलिखित में से कौन-सी तरंग विद्युत-चुंबकीय तरंग नहीं है?",
+        "en": "Which of the following is NOT an electromagnetic wave?"
+      },
+      "o": [
+        {
+          "hi": "ध्वनि तरंग (Sound wave)",
+          "en": "Sound wave"
+        },
+        {
+          "hi": "एक्स किरणें",
+          "en": "X-rays"
+        },
+        {
+          "hi": "गामा किरणें",
+          "en": "Gamma rays"
+        },
+        {
+          "hi": "रेडियो तरंगें",
+          "en": "Radio waves"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कैथोड किरणें (Cathode Rays) और कैनाल किरणें किस प्रकार की किरणें हैं?",
+        "en": "What type of rays are cathode rays and canal rays?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत-चुंबकीय तरंगें",
+          "en": "Electromagnetic waves"
+        },
+        {
+          "hi": "कण किरणें (इलेक्ट्रॉन व धनावेशित कण)",
+          "en": "Particle rays (electrons & ions)"
+        },
+        {
+          "hi": "प्रकाश तरंगें",
+          "en": "Light waves"
+        },
+        {
+          "hi": "रेडियो तरंगें",
+          "en": "Radio waves"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तरंग संख्या (Wave Number) का मात्रक क्या होता है?",
+        "en": "What is the SI unit of wave number?"
+      },
+      "o": [
+        {
+          "hi": "मीटर",
+          "en": "Meter"
+        },
+        {
+          "hi": "हर्ट्ज",
+          "en": "Hertz"
+        },
+        {
+          "hi": "प्रति मीटर (m^-1)",
+          "en": "Per meter (m^-1)"
+        },
+        {
+          "hi": "सेकंड",
+          "en": "Second"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समान आवृत्ति एवं समान आयाम की दो विपरीत दिशा से आती तरंगों के अध्यारोपण से क्या बनता है?",
+        "en": "Superposition of two identical waves traveling in opposite directions forms what?"
+      },
+      "o": [
+        {
+          "hi": "प्रगामी तरंगें",
+          "en": "Progressive waves"
+        },
+        {
+          "hi": "विद्युत धारा",
+          "en": "Electric current"
+        },
+        {
+          "hi": "शॉक वेव्स",
+          "en": "Shock waves"
+        },
+        {
+          "hi": "अप्रगामी तरंगें (Standing/Stationary Waves)",
+          "en": "Standing/Stationary Waves"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अप्रगामी तरंगों में वह बिंदु जहाँ विस्थापन सदैव शून्य रहता है, क्या कहलाता है?",
+        "en": "In a standing wave, the point where displacement is always zero is called what?"
+      },
+      "o": [
+        {
+          "hi": "निस्पंद (Node)",
+          "en": "Node"
+        },
+        {
+          "hi": "प्रस्पंद (Antinode)",
+          "en": "Antinode"
+        },
+        {
+          "hi": "शृंग",
+          "en": "Crest"
+        },
+        {
+          "hi": "गर्त",
+          "en": "Trough"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अप्रगामी तरंगों में वह बिंदु जहाँ विस्थापन आयाम अधिकतम होता है, क्या कहलाता है?",
+        "en": "In standing waves, the point where displacement amplitude is maximum is called what?"
+      },
+      "o": [
+        {
+          "hi": "निस्पंद",
+          "en": "Node"
+        },
+        {
+          "hi": "प्रस्पंद (Antinode)",
+          "en": "Antinode"
+        },
+        {
+          "hi": "फोकस",
+          "en": "Focus"
+        },
+        {
+          "hi": "ध्रुव",
+          "en": "Pole"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

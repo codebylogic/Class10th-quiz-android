@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "माप-तौल के विभिन्न मात्रक",
+  "description": "माप-तौल के विभिन्न मात्रक पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "वायुमंडल में ओजोन परत की मोटाई मापने की मानक इकाई कौन-सी है?",
+        "en": "Which standard unit is used to measure the thickness of ozone layer?"
+      },
+      "o": [
+        {
+          "hi": "डॉबसन यूनिट (Dobson Unit - DU)",
+          "en": "Dobson Unit (DU)"
+        },
+        {
+          "hi": "डेसिबल",
+          "en": "Decibel"
+        },
+        {
+          "hi": "डायोप्टर",
+          "en": "Diopter"
+        },
+        {
+          "hi": "डाइन",
+          "en": "Dyne"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 डॉबसन यूनिट (DU) मानक ताप व दाब पर कितने मिमी शुद्ध ओजोन की मोटाई दर्शाती है?",
+        "en": "1 Dobson Unit represents a pure ozone layer thickness of how many mm at STP?"
+      },
+      "o": [
+        {
+          "hi": "1 मिमी",
+          "en": "1 mm"
+        },
+        {
+          "hi": "0.01 मिमी (10^-5 मीटर)",
+          "en": "0.01 mm (10^-5 m)"
+        },
+        {
+          "hi": "0.1 मिमी",
+          "en": "0.1 mm"
+        },
+        {
+          "hi": "0.001 मिमी",
+          "en": "0.001 mm"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लेंस की क्षमता (Power of a Lens) मापने का SI मात्रक क्या होता है?",
+        "en": "What is the SI unit of power of an optical lens?"
+      },
+      "o": [
+        {
+          "hi": "मीटर",
+          "en": "Meter"
+        },
+        {
+          "hi": "सेंटीमीटर",
+          "en": "Centimeter"
+        },
+        {
+          "hi": "डायोप्टर (Diopter - D = 1/f मीटर में)",
+          "en": "Diopter (D = 1/f in meters)"
+        },
+        {
+          "hi": "ल्यूमेन",
+          "en": "Lumen"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ज्योति फ्लक्स (Luminous Flux) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of luminous flux?"
+      },
+      "o": [
+        {
+          "hi": "कैंडेला",
+          "en": "Candela"
+        },
+        {
+          "hi": "लक्स",
+          "en": "Lux"
+        },
+        {
+          "hi": "डायोप्टर",
+          "en": "Diopter"
+        },
+        {
+          "hi": "ल्यूमेन (Lumen - lm)",
+          "en": "Lumen (lm)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "प्रदीप्ति घनत्व या प्रदीपन (Illuminance) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of illuminance / illumination level?"
+      },
+      "o": [
+        {
+          "hi": "लक्स (Lux - lx = lumen/m²)",
+          "en": "Lux (lx = lumen/m²)"
+        },
+        {
+          "hi": "ल्यूमेन",
+          "en": "Lumen"
+        },
+        {
+          "hi": "कैंडेला",
+          "en": "Candela"
+        },
+        {
+          "hi": "वाट",
+          "en": "Watt"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "ज्योति तीव्रता (Luminous Intensity) का SI मूल मात्रक क्या है?",
+        "en": "What is the SI base unit of luminous intensity?"
+      },
+      "o": [
+        {
+          "hi": "लक्स",
+          "en": "Lux"
+        },
+        {
+          "hi": "कैंडेला (Candela - cd)",
+          "en": "Candela (cd)"
+        },
+        {
+          "hi": "ल्यूमेन",
+          "en": "Lumen"
+        },
+        {
+          "hi": "मोल",
+          "en": "Mole"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "10 की घात 6 (10^6) के लिए किस एसआई उपसर्ग (Prefix) का प्रयोग किया जाता है?",
+        "en": "Which SI metric prefix represents 10 raised to the power 6 (10^6)?"
+      },
+      "o": [
+        {
+          "hi": "किलो",
+          "en": "Kilo"
+        },
+        {
+          "hi": "गीगा",
+          "en": "Giga"
+        },
+        {
+          "hi": "मेगा (Mega - M)",
+          "en": "Mega (M)"
+        },
+        {
+          "hi": "टेरा",
+          "en": "Tera"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "10 की घात 9 (10^9) के लिए किस उपसर्ग का प्रयोग किया जाता है?",
+        "en": "Which metric prefix denotes 10 raised to the power 9 (10^9)?"
+      },
+      "o": [
+        {
+          "hi": "मेगा",
+          "en": "Mega"
+        },
+        {
+          "hi": "टेरा",
+          "en": "Tera"
+        },
+        {
+          "hi": "पेटा",
+          "en": "Peta"
+        },
+        {
+          "hi": "गीगा (Giga - G)",
+          "en": "Giga (G)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "10 की घात 12 (10^12) के लिए प्रयुक्त एसआई उपसर्ग कौन-सा है?",
+        "en": "Which SI prefix denotes 10 raised to the power 12 (10^12)?"
+      },
+      "o": [
+        {
+          "hi": "टेरा (Tera - T)",
+          "en": "Tera (T)"
+        },
+        {
+          "hi": "पेटा (Peta)",
+          "en": "Peta"
+        },
+        {
+          "hi": "एक्सा (Exa)",
+          "en": "Exa"
+        },
+        {
+          "hi": "गीगा (Giga)",
+          "en": "Giga"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "10 की घात 15 (10^15) के लिए किस उपसर्ग का उपयोग होता है?",
+        "en": "Which metric prefix represents 10 raised to the power 15 (10^15)?"
+      },
+      "o": [
+        {
+          "hi": "टेरा",
+          "en": "Tera"
+        },
+        {
+          "hi": "पेटा (Peta - P)",
+          "en": "Peta (P)"
+        },
+        {
+          "hi": "एक्सा",
+          "en": "Exa"
+        },
+        {
+          "hi": "जेटा",
+          "en": "Zetta"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "10 की घात 18 (10^18) के लिए प्रयुक्त उपसर्ग कौन-सा है?",
+        "en": "Which prefix corresponds to 10 raised to the power 18 (10^18)?"
+      },
+      "o": [
+        {
+          "hi": "पेटा",
+          "en": "Peta"
+        },
+        {
+          "hi": "टेरा",
+          "en": "Tera"
+        },
+        {
+          "hi": "एक्सा (Exa - E)",
+          "en": "Exa (E)"
+        },
+        {
+          "hi": "योटा",
+          "en": "Yotta"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "10 की घात -6 (10^-6) के लिए किस एसआई उपसर्ग का प्रयोग किया जाता है?",
+        "en": "Which SI metric prefix corresponds to 10 raised to the power -6 (10^-6)?"
+      },
+      "o": [
+        {
+          "hi": "मिली",
+          "en": "Milli"
+        },
+        {
+          "hi": "नैनो",
+          "en": "Nano"
+        },
+        {
+          "hi": "पिको",
+          "en": "Pico"
+        },
+        {
+          "hi": "माइक्रो (Micro - μ)",
+          "en": "Micro (μ)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "10 की घात -9 (10^-9) के लिए किस उपसर्ग का उपयोग किया जाता है?",
+        "en": "Which prefix represents 10 raised to the power -9 (10^-9)?"
+      },
+      "o": [
+        {
+          "hi": "नैनो (Nano - n)",
+          "en": "Nano (n)"
+        },
+        {
+          "hi": "माइक्रो",
+          "en": "Micro"
+        },
+        {
+          "hi": "पिको",
+          "en": "Pico"
+        },
+        {
+          "hi": "फेम्टो",
+          "en": "Femto"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "10 की घात -12 (10^-12) के लिए प्रयुक्त उपसर्ग कौन-सा है?",
+        "en": "Which prefix denotes 10 raised to the power -12 (10^-12)?"
+      },
+      "o": [
+        {
+          "hi": "नैनो",
+          "en": "Nano"
+        },
+        {
+          "hi": "पिको (Pico - p)",
+          "en": "Pico (p)"
+        },
+        {
+          "hi": "फेम्टो",
+          "en": "Femto"
+        },
+        {
+          "hi": "एटो",
+          "en": "Atto"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "10 की घात -15 (10^-15) के लिए प्रयुक्त उपसर्ग कौन-सा है?",
+        "en": "Which metric prefix represents 10 raised to the power -15 (10^-15)?"
+      },
+      "o": [
+        {
+          "hi": "पिको",
+          "en": "Pico"
+        },
+        {
+          "hi": "एटो",
+          "en": "Atto"
+        },
+        {
+          "hi": "फेम्टो (Femto - f / फर्मी)",
+          "en": "Femto (f / fermi)"
+        },
+        {
+          "hi": "जेप्टो",
+          "en": "Zepto"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "10 की घात -18 (10^-18) के लिए किस उपसर्ग का उपयोग होता है?",
+        "en": "Which prefix corresponds to 10 raised to the power -18 (10^-18)?"
+      },
+      "o": [
+        {
+          "hi": "फेम्टो",
+          "en": "Femto"
+        },
+        {
+          "hi": "पिको",
+          "en": "Pico"
+        },
+        {
+          "hi": "योक्टो",
+          "en": "Yocto"
+        },
+        {
+          "hi": "एटो (Atto - a)",
+          "en": "Atto (a)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विद्युत चालकता (Electrical Conductance) का SI मात्रक क्या होता है?",
+        "en": "What is the SI unit of electrical conductance (reciprocal of resistance)?"
+      },
+      "o": [
+        {
+          "hi": "सीमेंस (Siemens - S) अथवा म्हो (mho)",
+          "en": "Siemens (S) or mho"
+        },
+        {
+          "hi": "ओम",
+          "en": "Ohm"
+        },
+        {
+          "hi": "ओम-मीटर",
+          "en": "Ohm-meter"
+        },
+        {
+          "hi": "फैराड",
+          "en": "Farad"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विद्युत चालकता का विमीय सूत्र क्या होता है?",
+        "en": "What is the dimensional formula of electrical conductance?"
+      },
+      "o": [
+        {
+          "hi": "[M L^2 T^-3 A^-2]",
+          "en": "[M L^2 T^-3 A^-2]"
+        },
+        {
+          "hi": "[M^-1 L^-2 T^3 A^2]",
+          "en": "[M^-1 L^-2 T^3 A^2]"
+        },
+        {
+          "hi": "[M L T^-2]",
+          "en": "[M L T^-2]"
+        },
+        {
+          "hi": "[M L^-1 T^-1]",
+          "en": "[M L^-1 T^-1]"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत प्रतिरोधकता (Resistivity) का मात्रक क्या है?",
+        "en": "What is the SI unit of electrical resistivity?"
+      },
+      "o": [
+        {
+          "hi": "ओम/मीटर",
+          "en": "Ohm/meter"
+        },
+        {
+          "hi": "सीमेंस",
+          "en": "Siemens"
+        },
+        {
+          "hi": "ओम-मीटर (Ω·m)",
+          "en": "Ohm-meter (Ω·m)"
+        },
+        {
+          "hi": "वोल्ट/मीटर",
+          "en": "Volt/meter"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पदार्थ के परिमाण (Amount of Substance) का SI मात्रक क्या है?",
+        "en": "What is the SI unit for the amount of substance?"
+      },
+      "o": [
+        {
+          "hi": "किलोग्राम",
+          "en": "Kilogram"
+        },
+        {
+          "hi": "ग्राम",
+          "en": "Gram"
+        },
+        {
+          "hi": "कैंडेला",
+          "en": "Candela"
+        },
+        {
+          "hi": "मोल (Mole - mol)",
+          "en": "Mole (mol)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 मोल (Mole) में कितने मूल कण (अवागाद्रो संख्या - NA) होते हैं?",
+        "en": "How many elementary entities are contained in exactly 1 mole?"
+      },
+      "o": [
+        {
+          "hi": "6.022 × 10^23 कण",
+          "en": "6.022 × 10^23 entities"
+        },
+        {
+          "hi": "1.6 × 10^-19 कण",
+          "en": "1.6 × 10^-19"
+        },
+        {
+          "hi": "3.0 × 10^8 कण",
+          "en": "3.0 × 10^8"
+        },
+        {
+          "hi": "9.1 × 10^-31 कण",
+          "en": "9.1 × 10^-31"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समतल कोण (Plane Angle) मापने का पूरक एसआई मात्रक क्या है?",
+        "en": "What is the supplementary SI unit for measuring plane angle?"
+      },
+      "o": [
+        {
+          "hi": "स्टेरेडियन",
+          "en": "Steradian"
+        },
+        {
+          "hi": "रेडियन (Radian - rad)",
+          "en": "Radian (rad)"
+        },
+        {
+          "hi": "डिग्री",
+          "en": "Degree"
+        },
+        {
+          "hi": "मिनट",
+          "en": "Minute"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ठोस कोण या घन कोण (Solid Angle) मापने का पूरक मात्रक क्या है?",
+        "en": "What is the supplementary SI unit for measuring solid angle?"
+      },
+      "o": [
+        {
+          "hi": "रेडियन",
+          "en": "Radian"
+        },
+        {
+          "hi": "डिग्री²",
+          "en": "Degree²"
+        },
+        {
+          "hi": "स्टेरेडियन (Steradian - sr)",
+          "en": "Steradian (sr)"
+        },
+        {
+          "hi": "कैंडेला",
+          "en": "Candela"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "रेडियोधर्मी विकिरण की अवशोषित मात्रा (Absorbed Dose) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of absorbed ionizing radiation dose?"
+      },
+      "o": [
+        {
+          "hi": "क्यूरी",
+          "en": "Curie"
+        },
+        {
+          "hi": "रोएंटजन",
+          "en": "Roentgen"
+        },
+        {
+          "hi": "बेकेरल",
+          "en": "Becquerel"
+        },
+        {
+          "hi": "ग्रे (Gray - Gy = 1 J/kg)",
+          "en": "Gray (Gy = 1 J/kg)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "मानव ऊतकों पर विकिरण के जैविक प्रभाव (Equivalent Dose) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of equivalent radiation dose in human tissue?"
+      },
+      "o": [
+        {
+          "hi": "सीवर्ट (Sievert - Sv)",
+          "en": "Sievert (Sv)"
+        },
+        {
+          "hi": "ग्रे (Gy)",
+          "en": "Gray (Gy)"
+        },
+        {
+          "hi": "रेड (rad)",
+          "en": "rad"
+        },
+        {
+          "hi": "क्यूरी (Ci)",
+          "en": "Curie (Ci)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "कंप्यूटर मेमोरी में 1 बाइट (Byte) में कितने बिट्स (Bits) होते हैं?",
+        "en": "How many bits are there in 1 byte of digital computer memory?"
+      },
+      "o": [
+        {
+          "hi": "4 बिट्स",
+          "en": "4 bits"
+        },
+        {
+          "hi": "8 बिट्स (8 bits)",
+          "en": "8 bits"
+        },
+        {
+          "hi": "16 बिट्स",
+          "en": "16 bits"
+        },
+        {
+          "hi": "32 बिट्स",
+          "en": "32 bits"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "कंप्यूटर मेमोरी में 4 बिट्स (4 bits) के समूह को क्या कहा जाता है?",
+        "en": "A group of 4 bits of memory is known as what?"
+      },
+      "o": [
+        {
+          "hi": "बाइट",
+          "en": "Byte"
+        },
+        {
+          "hi": "वर्ड",
+          "en": "Word"
+        },
+        {
+          "hi": "निब्बल (Nibble)",
+          "en": "Nibble"
+        },
+        {
+          "hi": "ब्लॉक",
+          "en": "Block"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1 किलोबाइट (1 KB) में कितने बाइट्स होते हैं?",
+        "en": "How many bytes are there in 1 standard binary Kilobyte (KB)?"
+      },
+      "o": [
+        {
+          "hi": "1000 बाइट्स",
+          "en": "1000 bytes"
+        },
+        {
+          "hi": "512 बाइट्स",
+          "en": "512 bytes"
+        },
+        {
+          "hi": "2048 बाइट्स",
+          "en": "2048 bytes"
+        },
+        {
+          "hi": "1024 बाइट्स (2^10 Bytes)",
+          "en": "1024 bytes (2^10 Bytes)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "1 मेगाबाइट (1 MB) में कितने किलोबाइट (KB) होते हैं?",
+        "en": "How many Kilobytes are there in 1 Megabyte (MB)?"
+      },
+      "o": [
+        {
+          "hi": "1024 KB",
+          "en": "1024 KB"
+        },
+        {
+          "hi": "1000 KB",
+          "en": "1000 KB"
+        },
+        {
+          "hi": "500 KB",
+          "en": "500 KB"
+        },
+        {
+          "hi": "2048 KB",
+          "en": "2048 KB"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 गीगाबाइट (1 GB) में कितने मेगाबाइट (MB) होते हैं?",
+        "en": "How many Megabytes make 1 Gigabyte (GB)?"
+      },
+      "o": [
+        {
+          "hi": "1000 MB",
+          "en": "1000 MB"
+        },
+        {
+          "hi": "1024 MB",
+          "en": "1024 MB"
+        },
+        {
+          "hi": "512 MB",
+          "en": "512 MB"
+        },
+        {
+          "hi": "2048 MB",
+          "en": "2048 MB"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "1 टेराबाइट (1 TB) में कितने गीगाबाइट (GB) होते हैं?",
+        "en": "How many Gigabytes make 1 Terabyte (TB)?"
+      },
+      "o": [
+        {
+          "hi": "1000 GB",
+          "en": "1000 GB"
+        },
+        {
+          "hi": "500 GB",
+          "en": "500 GB"
+        },
+        {
+          "hi": "1024 GB",
+          "en": "1024 GB"
+        },
+        {
+          "hi": "100 GB",
+          "en": "100 GB"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सोने की शुद्धता मापने की इकाई क्या है?",
+        "en": "What is the unit used to measure the purity of gold?"
+      },
+      "o": [
+        {
+          "hi": "ग्राम",
+          "en": "Gram"
+        },
+        {
+          "hi": "कैरेट (वजन हेतु)",
+          "en": "Carat (weight)"
+        },
+        {
+          "hi": "तोला",
+          "en": "Tola"
+        },
+        {
+          "hi": "कैरेट (24 कैरेट = 100% शुद्ध स्वर्ण)",
+          "en": "Karat (24 Karat = 100% pure)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "22 कैरेट सोने में शुद्ध सोने का प्रतिशत लगभग कितना होता है?",
+        "en": "What is the percentage of pure gold in 22 karat gold jewelry?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 91.6% (916 हॉलमार्क)",
+          "en": "About 91.6% (916 hallmark)"
+        },
+        {
+          "hi": "75%",
+          "en": "75%"
+        },
+        {
+          "hi": "80%",
+          "en": "80%"
+        },
+        {
+          "hi": "99.9%",
+          "en": "99.9%"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "18 कैरेट सोने में शुद्ध सोने की मात्रा कितनी होती है?",
+        "en": "What is the percentage of pure gold in 18 karat gold?"
+      },
+      "o": [
+        {
+          "hi": "50%",
+          "en": "50%"
+        },
+        {
+          "hi": "75% शुद्ध स्वर्ण (और 25% अन्य धातु)",
+          "en": "75% pure gold (and 25% other)"
+        },
+        {
+          "hi": "85%",
+          "en": "85%"
+        },
+        {
+          "hi": "90%",
+          "en": "90%"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "ध्वनि की प्रबलता (Loudness) का स्तर मापने की सापेक्ष इकाई क्या है?",
+        "en": "Which logarithmic unit measures relative sound pressure level?"
+      },
+      "o": [
+        {
+          "hi": "हर्ट्ज",
+          "en": "Hertz"
+        },
+        {
+          "hi": "वाट",
+          "en": "Watt"
+        },
+        {
+          "hi": "डेसिबल (Decibel - dB)",
+          "en": "Decibel (dB)"
+        },
+        {
+          "hi": "सोन",
+          "en": "Sone"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "ध्वनि की व्यक्तिपरक प्रबलता (Subjective Loudness) का मात्रक क्या है?",
+        "en": "What is the unit of subjective loudness of sound?"
+      },
+      "o": [
+        {
+          "hi": "डेसिबल",
+          "en": "Decibel"
+        },
+        {
+          "hi": "फोन",
+          "en": "Phon"
+        },
+        {
+          "hi": "हर्ट्ज",
+          "en": "Hertz"
+        },
+        {
+          "hi": "सोन (Sone)",
+          "en": "Sone"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आवृत्ति (Frequency) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of frequency?"
+      },
+      "o": [
+        {
+          "hi": "हर्ट्ज (Hertz - Hz / चक्र प्रति सेकंड)",
+          "en": "Hertz (Hz / cycles per second)"
+        },
+        {
+          "hi": "सेकंड",
+          "en": "Second"
+        },
+        {
+          "hi": "रेडियन",
+          "en": "Radian"
+        },
+        {
+          "hi": "डेसिबल",
+          "en": "Decibel"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विद्युत आवेश की सबसे छोटी व्यावहारिक इकाई 'इलेक्ट्रोस्टेटिक यूनिट' (esu) को क्या कहते हैं?",
+        "en": "Smallest CGS unit of electric charge (esu) is also called?"
+      },
+      "o": [
+        {
+          "hi": "कूलॉम",
+          "en": "Coulomb"
+        },
+        {
+          "hi": "फ्रैंकलिन (Franklin - Fr)",
+          "en": "Franklin (Fr)"
+        },
+        {
+          "hi": "फैराडे",
+          "en": "Faraday"
+        },
+        {
+          "hi": "एम्पीयर",
+          "en": "Ampere"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत आवेश का सबसे बड़ा व्यावहारिक मात्रक क्या है?",
+        "en": "What is the largest practical chemical unit of electric charge?"
+      },
+      "o": [
+        {
+          "hi": "कूलॉम",
+          "en": "Coulomb"
+        },
+        {
+          "hi": "एम्पीयर-घंटा",
+          "en": "Ampere-hour"
+        },
+        {
+          "hi": "फैराडे (1 Faraday = 96,500 कूलॉम)",
+          "en": "Faraday (1 Faraday = 96,500 C)"
+        },
+        {
+          "hi": "फ्रैंकलिन",
+          "en": "Franklin"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चुंबकीय क्षेत्र की तीव्रता (Magnetic Field Strength - H) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of magnetic field intensity / strength (H)?"
+      },
+      "o": [
+        {
+          "hi": "टेस्ला",
+          "en": "Tesla"
+        },
+        {
+          "hi": "वेबर",
+          "en": "Weber"
+        },
+        {
+          "hi": "हेनरी",
+          "en": "Henry"
+        },
+        {
+          "hi": "एम्पीयर/मीटर (A/m)",
+          "en": "Ampere/meter (A/m)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "चुंबकीय द्विध्रुव आघूर्ण (Magnetic Dipole Moment - M) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of magnetic dipole moment?"
+      },
+      "o": [
+        {
+          "hi": "एम्पीयर-मीटर² (A·m²) अथवा जूल/टेस्ला",
+          "en": "Ampere-meter² (A·m²) or J/T"
+        },
+        {
+          "hi": "टेस्ला-मीटर",
+          "en": "Tesla-meter"
+        },
+        {
+          "hi": "वेबर/मीटर",
+          "en": "Weber/meter"
+        },
+        {
+          "hi": "हेनरी-मीटर",
+          "en": "Henry-meter"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "रेडियोसक्रिय विकिरण के संपर्क में आने की तीव्रता (Exposure) का पुराना मात्रक क्या है?",
+        "en": "What is traditional unit for radiation exposure in air?"
+      },
+      "o": [
+        {
+          "hi": "क्यूरी",
+          "en": "Curie"
+        },
+        {
+          "hi": "रोएंटजन (Roentgen - R)",
+          "en": "Roentgen (R)"
+        },
+        {
+          "hi": "ग्रे",
+          "en": "Gray"
+        },
+        {
+          "hi": "सीवर्ट",
+          "en": "Sievert"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "नाभिकीय अनुप्रस्थ काट क्षेत्रफल (Nuclear Cross-section) मापने की इकाई क्या है?",
+        "en": "What unit is used to measure cross-sectional area of atomic nucleus?"
+      },
+      "o": [
+        {
+          "hi": "फर्मी",
+          "en": "Fermi"
+        },
+        {
+          "hi": "एंग्स्ट्रॉम",
+          "en": "Angstrom"
+        },
+        {
+          "hi": "बार्न (Barn = 10^-28 m²)",
+          "en": "Barn (10^-28 m²)"
+        },
+        {
+          "hi": "बोहर त्रिज्या",
+          "en": "Bohr radius"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "समुद्री जलयान की चाल मापने की इकाई 'नॉट' किसके बराबर होती है?",
+        "en": "Navigation speed unit 'Knot' is equal to what speed?"
+      },
+      "o": [
+        {
+          "hi": "1 किलोमीटर प्रति घंटा",
+          "en": "1 km/h"
+        },
+        {
+          "hi": "1 मील प्रति घंटा",
+          "en": "1 statute mile/h"
+        },
+        {
+          "hi": "10 मीटर प्रति सेकंड",
+          "en": "10 m/s"
+        },
+        {
+          "hi": "1 नॉटिकल मील प्रति घंटा",
+          "en": "1 nautical mile per hour"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जल के घनत्व का CGS पद्धति में मान कितना होता है?",
+        "en": "What is the value of density of water in CGS system?"
+      },
+      "o": [
+        {
+          "hi": "1 ग्राम/सेमी³ (1 g/cm³)",
+          "en": "1 g/cm³"
+        },
+        {
+          "hi": "1000 ग्राम/सेमी³",
+          "en": "1000 g/cm³"
+        },
+        {
+          "hi": "100 ग्राम/सेमी³",
+          "en": "100 g/cm³"
+        },
+        {
+          "hi": "0.1 ग्राम/सेमी³",
+          "en": "0.1 g/cm³"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पारे (Mercury) का आपेक्षिक घनत्व कितना होता है?",
+        "en": "What is the relative density (specific gravity) of mercury at 0°C?"
+      },
+      "o": [
+        {
+          "hi": "1.0",
+          "en": "1.0"
+        },
+        {
+          "hi": "13.6 (अर्थात् जल से 13.6 गुना भारी)",
+          "en": "13.6 (i.e. 13.6 times denser than water)"
+        },
+        {
+          "hi": "7.8",
+          "en": "7.8"
+        },
+        {
+          "hi": "19.3",
+          "en": "19.3"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सोने (Gold) का आपेक्षिक घनत्व लगभग कितना होता है?",
+        "en": "What is approximately the relative density of pure gold?"
+      },
+      "o": [
+        {
+          "hi": "13.6",
+          "en": "13.6"
+        },
+        {
+          "hi": "10.5",
+          "en": "10.5"
+        },
+        {
+          "hi": "लगभग 19.3",
+          "en": "About 19.3"
+        },
+        {
+          "hi": "7.8",
+          "en": "7.8"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "चांदी (Silver) का आपेक्षिक घनत्व कितना होता है?",
+        "en": "What is the specific gravity/relative density of pure silver?"
+      },
+      "o": [
+        {
+          "hi": "13.6",
+          "en": "13.6"
+        },
+        {
+          "hi": "19.3",
+          "en": "19.3"
+        },
+        {
+          "hi": "7.8",
+          "en": "7.8"
+        },
+        {
+          "hi": "10.5 (जल से 10.5 गुना भारी)",
+          "en": "10.5 (10.5 times denser than water)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "लोहे (Iron) का आपेक्षिक घनत्व लगभग कितना माना जाता है?",
+        "en": "What is approximately the relative density of iron?"
+      },
+      "o": [
+        {
+          "hi": "लगभग 7.8 से 7.9",
+          "en": "About 7.8 to 7.9"
+        },
+        {
+          "hi": "13.6",
+          "en": "13.6"
+        },
+        {
+          "hi": "2.7",
+          "en": "2.7"
+        },
+        {
+          "hi": "1.0",
+          "en": "1.0"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एल्युमिनियम (Aluminium) का आपेक्षिक घनत्व कितना होता है?",
+        "en": "What is the approximate relative density of aluminium?"
+      },
+      "o": [
+        {
+          "hi": "7.8",
+          "en": "7.8"
+        },
+        {
+          "hi": "लगभग 2.7 (हल्की धातु)",
+          "en": "About 2.7 (light metal)"
+        },
+        {
+          "hi": "13.6",
+          "en": "13.6"
+        },
+        {
+          "hi": "0.9",
+          "en": "0.9"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

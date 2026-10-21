@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "सरल आवर्त गति",
+  "description": "सरल आवर्त गति पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "वह गति जो एक निश्चित समयांतराल के बाद उसी पथ पर बार-बार दोहराई जाती है, क्या कहलाती है?",
+        "en": "Motion repeated along the same path at regular intervals of time is called what?"
+      },
+      "o": [
+        {
+          "hi": "आवर्त गति (Periodic Motion)",
+          "en": "Periodic Motion"
+        },
+        {
+          "hi": "सरल रेखीय गति",
+          "en": "Rectilinear motion"
+        },
+        {
+          "hi": "प्रक्षेप्य गति",
+          "en": "Projectile motion"
+        },
+        {
+          "hi": "यादृच्छिक गति",
+          "en": "Random motion"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जब कोई पिंड किसी निश्चित बिंदु (साम्यावस्था) के इधर-उधर गति करता है, तो इस गति को क्या कहते हैं?",
+        "en": "When a body moves back and forth about a fixed equilibrium point, it is called what?"
+      },
+      "o": [
+        {
+          "hi": "घूर्णन गति",
+          "en": "Rotational motion"
+        },
+        {
+          "hi": "दोलन अथवा कंपन गति (Oscillatory Motion)",
+          "en": "Oscillatory Motion"
+        },
+        {
+          "hi": "वृत्तीय गति",
+          "en": "Circular motion"
+        },
+        {
+          "hi": "स्थानांतरीय गति",
+          "en": "Translational motion"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सरल आवर्त गति (SHM) कर रहे कण पर लगने वाला प्रत्यानयन बल सदैव किसके समानुपाती होता है?",
+        "en": "In SHM, the restoring force is always directly proportional to what?"
+      },
+      "o": [
+        {
+          "hi": "वेग के",
+          "en": "Velocity"
+        },
+        {
+          "hi": "समय के",
+          "en": "Time"
+        },
+        {
+          "hi": "विस्थापन (Displacement) के",
+          "en": "Displacement"
+        },
+        {
+          "hi": "द्रव्यमान के",
+          "en": "Mass"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सरल आवर्त गति में त्वरण (Acceleration) की दिशा सदैव किस ओर होती है?",
+        "en": "In SHM, in which direction is acceleration always directed?"
+      },
+      "o": [
+        {
+          "hi": "गति की दिशा में",
+          "en": "In direction of motion"
+        },
+        {
+          "hi": "चरम सीमा की ओर",
+          "en": "Towards extreme point"
+        },
+        {
+          "hi": "लंबवत ऊपर की ओर",
+          "en": "Perpendicular upwards"
+        },
+        {
+          "hi": "मध्यमान स्थिति (साम्यावस्था) की ओर",
+          "en": "Towards the mean position"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सरल आवर्त गति कर रहे कण का वेग मध्यमान स्थिति (Mean Position) पर कैसा होता है?",
+        "en": "What is the velocity of a particle in SHM at its mean position?"
+      },
+      "o": [
+        {
+          "hi": "अधिकतम (Maximum)",
+          "en": "Maximum"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        },
+        {
+          "hi": "ऋणात्मक",
+          "en": "Negative"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सरल आवर्त गति में मध्यमान स्थिति पर कण का त्वरण (Acceleration) कितना होता है?",
+        "en": "In SHM, what is the acceleration of the particle at the mean position?"
+      },
+      "o": [
+        {
+          "hi": "अधिकतम",
+          "en": "Maximum"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "नियत धनात्मक",
+          "en": "Constant positive"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सरल आवर्त गति कर रहे कण की गतिज ऊर्जा (Kinetic Energy) कहाँ पर अधिकतम होती है?",
+        "en": "Where is the kinetic energy of a particle executing SHM maximum?"
+      },
+      "o": [
+        {
+          "hi": "चरम स्थिति पर",
+          "en": "At extreme position"
+        },
+        {
+          "hi": "आधे आयाम पर",
+          "en": "At half amplitude"
+        },
+        {
+          "hi": "मध्यमान स्थिति पर",
+          "en": "At mean position"
+        },
+        {
+          "hi": "सभी स्थानों पर समान",
+          "en": "Same everywhere"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सरल आवर्त गति में चरम स्थिति (Extreme Position) पर कण का वेग कितना होता है?",
+        "en": "In SHM, what is the velocity of the particle at extreme position?"
+      },
+      "o": [
+        {
+          "hi": "अधिकतम",
+          "en": "Maximum"
+        },
+        {
+          "hi": "प्रकाश के वेग के बराबर",
+          "en": "Equal to speed of light"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सरल आवर्त गति में चरम स्थिति (Extreme Position) पर कण का त्वरण कैसा होता है?",
+        "en": "In SHM, what is the acceleration of the particle at extreme position?"
+      },
+      "o": [
+        {
+          "hi": "अधिकतम (Maximum)",
+          "en": "Maximum"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "ऋणात्मक अनंत",
+          "en": "Negative infinite"
+        },
+        {
+          "hi": "अपरिवर्तित",
+          "en": "Unchanged"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सरल आवर्त गति कर रहे कण की स्थितिज ऊर्जा (Potential Energy) कहाँ पर अधिकतम होती है?",
+        "en": "Where is potential energy of a particle executing SHM maximum?"
+      },
+      "o": [
+        {
+          "hi": "मध्यमान स्थिति पर",
+          "en": "At mean position"
+        },
+        {
+          "hi": "चरम स्थितियों पर (Extreme positions)",
+          "en": "At extreme positions"
+        },
+        {
+          "hi": "केवल प्रारंभिक बिंदु पर",
+          "en": "Only at initial point"
+        },
+        {
+          "hi": "कहीं भी नहीं",
+          "en": "Nowhere"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सरल आवर्त गति कर रहे कण की कुल यांत्रिक ऊर्जा (Total Energy) पर क्या प्रभाव पड़ता है?",
+        "en": "What happens to total mechanical energy of a particle in SHM?"
+      },
+      "o": [
+        {
+          "hi": "मध्यमान पर अधिकतम होती है",
+          "en": "Max at mean position"
+        },
+        {
+          "hi": "चरम पर अधिकतम होती है",
+          "en": "Max at extreme position"
+        },
+        {
+          "hi": "प्रत्येक बिंदु पर नियत (संरक्षित) रहती है",
+          "en": "Remains constant everywhere"
+        },
+        {
+          "hi": "लगातार घटती रहती है",
+          "en": "Continuously decreases"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सरल लोलक के आवर्तकाल (Time Period T) का सही सूत्र क्या है?",
+        "en": "What is the correct formula for time period T of a simple pendulum?"
+      },
+      "o": [
+        {
+          "hi": "T = 2π √(g / l)",
+          "en": "T = 2π √(g / l)"
+        },
+        {
+          "hi": "T = 2π (l / g)",
+          "en": "T = 2π (l / g)"
+        },
+        {
+          "hi": "T = ½π √(l / g)",
+          "en": "T = ½π √(l / g)"
+        },
+        {
+          "hi": "T = 2π √(l / g)",
+          "en": "T = 2π √(l / g)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सरल लोलक का आवर्तकाल किस पर निर्भर नहीं करता है?",
+        "en": "The time period of a simple pendulum does not depend on what?"
+      },
+      "o": [
+        {
+          "hi": "गोलक के द्रव्यमान पर",
+          "en": "Mass of the bob"
+        },
+        {
+          "hi": "लोलक की प्रभावकारी लंबाई पर",
+          "en": "Effective length of pendulum"
+        },
+        {
+          "hi": "गुरुत्वीय त्वरण (g) पर",
+          "en": "Acceleration due to gravity (g)"
+        },
+        {
+          "hi": "स्थान की भौगोलिक स्थिति पर",
+          "en": "Geographical location"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यदि सरल लोलक की लंबाई 4 गुना कर दी जाए, तो उसका आवर्तकाल कितना हो जाएगा?",
+        "en": "If length of a simple pendulum is made 4 times, what will happen to time period?"
+      },
+      "o": [
+        {
+          "hi": "चार गुना",
+          "en": "Four times"
+        },
+        {
+          "hi": "दोगुना (2 गुना)",
+          "en": "Double (2 times)"
+        },
+        {
+          "hi": "आधा",
+          "en": "Half"
+        },
+        {
+          "hi": "अपरिवर्तित",
+          "en": "Unchanged"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सेकंड लोलक (Seconds Pendulum) की पृथ्वी पर लंबाई लगभग कितनी होती है?",
+        "en": "What is approximately the length of a seconds pendulum on Earth?"
+      },
+      "o": [
+        {
+          "hi": "50 सेमी",
+          "en": "50 cm"
+        },
+        {
+          "hi": "200 सेमी",
+          "en": "200 cm"
+        },
+        {
+          "hi": "लगभग 1 मीटर (99.3 सेमी)",
+          "en": "About 1 meter (99.3 cm)"
+        },
+        {
+          "hi": "25 सेमी",
+          "en": "25 cm"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किसी लोलक घड़ी को खान (खदान) में ले जाने पर उसकी चाल पर क्या प्रभाव पड़ेगा?",
+        "en": "What happens to the speed of a pendulum clock taken inside a deep mine?"
+      },
+      "o": [
+        {
+          "hi": "तेज चलेगी",
+          "en": "Will run faster"
+        },
+        {
+          "hi": "अपरिवर्तित रहेगी",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "तुरंत बंद हो जाएगी",
+          "en": "Stops immediately"
+        },
+        {
+          "hi": "सुस्त हो जाएगी (g घटने के कारण)",
+          "en": "Will run slow (due to decrease in g)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "किसी लोलक घड़ी को पहाड़ की चोटी पर ले जाने पर वह कैसी हो जाएगी?",
+        "en": "What happens to a pendulum clock taken to the peak of a high mountain?"
+      },
+      "o": [
+        {
+          "hi": "सुस्त हो जाएगी",
+          "en": "Will become slow"
+        },
+        {
+          "hi": "तेज हो जाएगी",
+          "en": "Will become fast"
+        },
+        {
+          "hi": "समान चाल से चलेगी",
+          "en": "Runs at same speed"
+        },
+        {
+          "hi": "उल्टी चलने लगेगी",
+          "en": "Runs backwards"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "अंतरिक्ष में कृत्रिम उपग्रह के भीतर सरल लोलक का आवर्तकाल कितना होगा?",
+        "en": "What is the time period of a simple pendulum inside an artificial satellite?"
+      },
+      "o": [
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "अनंत (लोलक दोलन नहीं करेगा)",
+          "en": "Infinite (pendulum won't oscillate)"
+        },
+        {
+          "hi": "2 सेकंड",
+          "en": "2 seconds"
+        },
+        {
+          "hi": "1 सेकंड",
+          "en": "1 second"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी के केंद्र पर सरल लोलक का आवर्तकाल कितना होगा?",
+        "en": "What will be the time period of a simple pendulum at the center of the Earth?"
+      },
+      "o": [
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "2 सेकंड",
+          "en": "2 seconds"
+        },
+        {
+          "hi": "अनंत (g = 0 होने से)",
+          "en": "Infinite (since g = 0)"
+        },
+        {
+          "hi": "84.6 मिनट",
+          "en": "84.6 minutes"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी की सतह पर अनंत लंबाई के सरल लोलक का अधिकतम आवर्तकाल कितना हो सकता है?",
+        "en": "What is maximum time period of a simple pendulum of infinite length on Earth?"
+      },
+      "o": [
+        {
+          "hi": "24 घंटे",
+          "en": "24 hours"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "12 घंटे",
+          "en": "12 hours"
+        },
+        {
+          "hi": "लगभग 84.6 मिनट",
+          "en": "About 84.6 minutes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "झूला झूलते समय जब कोई व्यक्ति झूले पर खड़ा हो जाता है, तो झूले का आवर्तकाल क्यों घटता है?",
+        "en": "Why does time period decrease when a swinging person stands up?"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्व केंद्र ऊपर उठने से प्रभावी लंबाई घट जाती है",
+          "en": "Effective length decreases as CG rises"
+        },
+        {
+          "hi": "व्यक्ति का भार बढ़ जाता है",
+          "en": "Person's weight increases"
+        },
+        {
+          "hi": "हवा का घर्षण बढ़ जाता है",
+          "en": "Air drag increases"
+        },
+        {
+          "hi": "गुरुत्वीय त्वरण बढ़ जाता है",
+          "en": "Acceleration due to gravity increases"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दोलन कर रहे लोलक के खोखले गोलक में यदि पारा भर दिया जाए और तली में छेद कर दिया जाए, तो आवर्तकाल क्या होगा?",
+        "en": "If mercury in a hollow bob leaks through a hole, what happens to time period?"
+      },
+      "o": [
+        {
+          "hi": "लगातार बढ़ता रहेगा",
+          "en": "Continuously increases"
+        },
+        {
+          "hi": "पहले बढ़ेगा फिर घटकर पूर्व मान प्राप्त करेगा",
+          "en": "First increases then returns to initial value"
+        },
+        {
+          "hi": "लगातार घटता रहेगा",
+          "en": "Continuously decreases"
+        },
+        {
+          "hi": "अपरिवर्तित रहेगा",
+          "en": "Remains unchanged"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "किसी कण के कंपन का आयाम (Amplitude) क्या होता है?",
+        "en": "What is the amplitude of vibration of a particle?"
+      },
+      "o": [
+        {
+          "hi": "कुल तय की गई दूरी",
+          "en": "Total distance traveled"
+        },
+        {
+          "hi": "एक सेकंड में कंपनों की संख्या",
+          "en": "Number of vibrations per second"
+        },
+        {
+          "hi": "मध्यमान स्थिति से अधिकतम विस्थापन",
+          "en": "Maximum displacement from mean position"
+        },
+        {
+          "hi": "दोलन का कुल समय",
+          "en": "Total time of oscillation"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रति सेकंड होने वाले पूर्ण दोलनों की संख्या को क्या कहा जाता है?",
+        "en": "What is the number of complete oscillations per second called?"
+      },
+      "o": [
+        {
+          "hi": "आवर्तकाल",
+          "en": "Time period"
+        },
+        {
+          "hi": "आयाम",
+          "en": "Amplitude"
+        },
+        {
+          "hi": "कला",
+          "en": "Phase"
+        },
+        {
+          "hi": "आवृत्ति (Frequency)",
+          "en": "Frequency"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "आवृत्ति (n) और आवर्तकाल (T) के बीच सही संबंध क्या है?",
+        "en": "What is the correct relation between frequency (n) and time period (T)?"
+      },
+      "o": [
+        {
+          "hi": "n = 1 / T",
+          "en": "n = 1 / T"
+        },
+        {
+          "hi": "n = T²",
+          "en": "n = T²"
+        },
+        {
+          "hi": "n = 2π T",
+          "en": "n = 2π T"
+        },
+        {
+          "hi": "n × T = 2π",
+          "en": "n × T = 2π"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जब किसी दोलन निकाय पर कोई बाहरी आवर्ती बल नहीं लगाया जाता, तो उसके दोलन क्या कहलाते हैं?",
+        "en": "Oscillations without any external periodic force are called what?"
+      },
+      "o": [
+        {
+          "hi": "प्रणोदित दोलन",
+          "en": "Forced oscillations"
+        },
+        {
+          "hi": "मुक्त दोलन (Free Oscillations)",
+          "en": "Free Oscillations"
+        },
+        {
+          "hi": "अनुनादी दोलन",
+          "en": "Resonant oscillations"
+        },
+        {
+          "hi": "अवमंदित दोलन",
+          "en": "Damped oscillations"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "जब माध्यम के प्रतिरोध के कारण दोलन का आयाम समय के साथ लगातार घटता जाता है, तो इसे क्या कहते हैं?",
+        "en": "Gradual decay of amplitude due to medium resistance is called what?"
+      },
+      "o": [
+        {
+          "hi": "प्रणोदित कंपन",
+          "en": "Forced vibration"
+        },
+        {
+          "hi": "अनुनाद",
+          "en": "Resonance"
+        },
+        {
+          "hi": "अवमंदित दोलन (Damped Oscillations)",
+          "en": "Damped Oscillations"
+        },
+        {
+          "hi": "सरल आवर्त गति",
+          "en": "Simple harmonic motion"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "जब बाह्य चालक बल की आवृत्ति वस्तु की प्राकृतिक आवृत्ति के ठीक बराबर हो जाती है, तो इस घटना को क्या कहते हैं?",
+        "en": "When driving frequency equals the natural frequency of a system, what is it called?"
+      },
+      "o": [
+        {
+          "hi": "व्यतिकरण",
+          "en": "Interference"
+        },
+        {
+          "hi": "विवर्तन",
+          "en": "Diffraction"
+        },
+        {
+          "hi": "ध्रुवण",
+          "en": "Polarization"
+        },
+        {
+          "hi": "अनुनाद (Resonance)",
+          "en": "Resonance"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "अनुनाद (Resonance) की स्थिति में कंपन का आयाम कैसा हो जाता है?",
+        "en": "In the state of resonance, what happens to the amplitude of vibration?"
+      },
+      "o": [
+        {
+          "hi": "अत्यधिक बढ़ जाता है (अधिकतम)",
+          "en": "Increases significantly (maximum)"
+        },
+        {
+          "hi": "शून्य हो जाता है",
+          "en": "Becomes zero"
+        },
+        {
+          "hi": "अपरिवर्तित रहता है",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "ऋणात्मक हो जाता है",
+          "en": "Becomes negative"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सेना की टुकड़ी को किसी पुल को पार करते समय कदम मिलाकर न चलने का निर्देश क्यों दिया जाता है?",
+        "en": "Why are soldiers ordered not to march in step while crossing a bridge?"
+      },
+      "o": [
+        {
+          "hi": "पुल पर घर्षण कम करने के लिए",
+          "en": "To reduce friction on bridge"
+        },
+        {
+          "hi": "अनुनाद से पुल टूटने के खतरे को टालने हेतु",
+          "en": "To avoid risk of collapse due to resonance"
+        },
+        {
+          "hi": "सैनिकों की थकान रोकने के लिए",
+          "en": "To prevent soldiers fatigue"
+        },
+        {
+          "hi": "पुल का भार घटाने के लिए",
+          "en": "To reduce weight on bridge"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "रेडियो को किसी विशेष स्टेशन पर ट्यून करना किस भौतिक परिघटना का सुंदर उदाहरण है?",
+        "en": "Tuning a radio to a particular station is an example of which phenomenon?"
+      },
+      "o": [
+        {
+          "hi": "डाप्लर प्रभाव",
+          "en": "Doppler effect"
+        },
+        {
+          "hi": "प्रकाश का अपवर्तन",
+          "en": "Refraction of light"
+        },
+        {
+          "hi": "विद्युत अनुनाद (Resonance)",
+          "en": "Electrical Resonance"
+        },
+        {
+          "hi": "विस्पंद",
+          "en": "Beats"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सरल लोलक के धागे का रेखीय प्रसार गुणांक α हो, तो तापमान θ बढ़ने पर आवर्तकाल में भिन्नात्मक वृद्धि क्या होगी?",
+        "en": "If linear expansion coeff is α, fractional increase in time period with temp rise Δθ is?"
+      },
+      "o": [
+        {
+          "hi": "α Δθ",
+          "en": "α Δθ"
+        },
+        {
+          "hi": "2 α Δθ",
+          "en": "2 α Δθ"
+        },
+        {
+          "hi": "α² Δθ",
+          "en": "α² Δθ"
+        },
+        {
+          "hi": "½ α Δθ",
+          "en": "½ α Δθ"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "स्प्रिंग से लटके द्रव्यमान m का दोलनकाल (T) का सूत्र क्या होता है?",
+        "en": "What is the formula for time period T of a mass m suspended from a spring of constant k?"
+      },
+      "o": [
+        {
+          "hi": "T = 2π √(m / k)",
+          "en": "T = 2π √(m / k)"
+        },
+        {
+          "hi": "T = 2π √(k / m)",
+          "en": "T = 2π √(k / m)"
+        },
+        {
+          "hi": "T = 2π (m / k)",
+          "en": "T = 2π (m / k)"
+        },
+        {
+          "hi": "T = ½π √(m / k)",
+          "en": "T = ½π √(m / k)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यदि स्प्रिंग को काटकर दो बराबर भागों में बांट दिया जाए, तो प्रत्येक आधे भाग का स्प्रिंग नियतांक क्या होगा?",
+        "en": "If a spring of constant k is cut into two equal halves, what is k of each half?"
+      },
+      "o": [
+        {
+          "hi": "k / 2",
+          "en": "k / 2"
+        },
+        {
+          "hi": "2k (दोगुना हो जाएगा)",
+          "en": "2k (will be doubled)"
+        },
+        {
+          "hi": "k (समान रहेगा)",
+          "en": "k (remains same)"
+        },
+        {
+          "hi": "4k",
+          "en": "4k"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सरल आवर्त गति कर रहे कण का विस्थापन समीकरण y = a sin(ωt) हो, तो उसका वेग क्या होगा?",
+        "en": "If displacement in SHM is y = a sin(ωt), what is velocity v?"
+      },
+      "o": [
+        {
+          "hi": "v = a sin(ωt)",
+          "en": "v = a sin(ωt)"
+        },
+        {
+          "hi": "v = -a ω² sin(ωt)",
+          "en": "v = -a ω² sin(ωt)"
+        },
+        {
+          "hi": "v = a ω cos(ωt)",
+          "en": "v = a ω cos(ωt)"
+        },
+        {
+          "hi": "v = a / ω cos(ωt)",
+          "en": "v = a / ω cos(ωt)"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "सरल आवर्त गति कर रहे कण के त्वरण और विस्थापन के बीच कलांतर (Phase Difference) कितना होता है?",
+        "en": "What is phase difference between acceleration and displacement in SHM?"
+      },
+      "o": [
+        {
+          "hi": "0°",
+          "en": "0°"
+        },
+        {
+          "hi": "90° (π/2)",
+          "en": "90° (π/2)"
+        },
+        {
+          "hi": "45°",
+          "en": "45°"
+        },
+        {
+          "hi": "180° (π रेडियन)",
+          "en": "180° (π radian)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सरल आवर्त गति में वेग और विस्थापन के बीच कलांतर कितना होता है?",
+        "en": "What is the phase difference between velocity and displacement in SHM?"
+      },
+      "o": [
+        {
+          "hi": "90° (π/2)",
+          "en": "90° (π/2)"
+        },
+        {
+          "hi": "0°",
+          "en": "0°"
+        },
+        {
+          "hi": "180°",
+          "en": "180°"
+        },
+        {
+          "hi": "360°",
+          "en": "360°"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "यू-आकार की नली (U-tube) में भरे द्रव स्तंभ के दोलनों की गति कैसी होती है?",
+        "en": "What type of motion is executed by liquid column oscillating in a U-tube?"
+      },
+      "o": [
+        {
+          "hi": "वृत्तीय गति",
+          "en": "Circular motion"
+        },
+        {
+          "hi": "सरल आवर्त गति (SHM)",
+          "en": "Simple Harmonic Motion"
+        },
+        {
+          "hi": "घूर्णन गति",
+          "en": "Rotational motion"
+        },
+        {
+          "hi": "अनावर्ती गति",
+          "en": "Non-periodic motion"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी के आर-पार खोदे गए काल्पनिक सुरंग में छोड़े गए पिंड की गति कैसी होगी?",
+        "en": "What will be the motion of a body dropped into a tunnel bored through the Earth?"
+      },
+      "o": [
+        {
+          "hi": "वह दूसरे छोर से अंतरिक्ष में निकल जाएगा",
+          "en": "Will shoot out into space"
+        },
+        {
+          "hi": "वह केंद्र पर तुरंत रुक जाएगा",
+          "en": "Will stop at center immediately"
+        },
+        {
+          "hi": "केंद्र के इधर-उधर सरल आवर्त गति करेगा",
+          "en": "Will execute SHM about center"
+        },
+        {
+          "hi": "पृथ्वी से टकराकर नष्ट हो जाएगा",
+          "en": "Will crash into Earth"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी के आर-पार सुरंग में सरल आवर्त गति कर रहे पिंड का आवर्तकाल कितना होगा?",
+        "en": "What is the time period of a body oscillating in a tunnel through Earth?"
+      },
+      "o": [
+        {
+          "hi": "24 घंटे",
+          "en": "24 hours"
+        },
+        {
+          "hi": "365 दिन",
+          "en": "365 days"
+        },
+        {
+          "hi": "12 घंटे",
+          "en": "12 hours"
+        },
+        {
+          "hi": "लगभग 84.6 मिनट",
+          "en": "About 84.6 minutes"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "जब कोई लोलक दोलन करता है, तो वायु के घर्षण के कारण उसकी यांत्रिक ऊर्जा किसमें बदलती है?",
+        "en": "When a pendulum oscillates, air friction transforms mechanical energy into what?"
+      },
+      "o": [
+        {
+          "hi": "ऊष्मा ऊर्जा में",
+          "en": "Heat energy"
+        },
+        {
+          "hi": "प्रकाश ऊर्जा में",
+          "en": "Light energy"
+        },
+        {
+          "hi": "नाभिकीय ऊर्जा में",
+          "en": "Nuclear energy"
+        },
+        {
+          "hi": "रासायनिक ऊर्जा में",
+          "en": "Chemical energy"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सरल लोलक के आवर्तकाल का मान चंद्रमा की सतह पर पृथ्वी की तुलना में कैसा होगा?",
+        "en": "How is the time period of a simple pendulum on Moon compared to Earth?"
+      },
+      "o": [
+        {
+          "hi": "कम होगा",
+          "en": "Lower"
+        },
+        {
+          "hi": "अधिक होगा (लगभग √6 गुना)",
+          "en": "Higher (approx √6 times)"
+        },
+        {
+          "hi": "समान रहेगा",
+          "en": "Same"
+        },
+        {
+          "hi": "शून्य होगा",
+          "en": "Zero"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक स्थिर लिफ्ट में लोलक का आवर्तकाल T है। यदि लिफ्ट ऊपर की ओर त्वरण 'a' से त्वरित हो, तो नया आवर्तकाल क्या होगा?",
+        "en": "Pendulum period is T in stationary lift. If lift accelerates up with 'a', new period is?"
+      },
+      "o": [
+        {
+          "hi": "T से अधिक",
+          "en": "Greater than T"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        },
+        {
+          "hi": "T से कम [T' = 2π√(l/(g+a))]",
+          "en": "Less than T [T' = 2π√(l/(g+a))]"
+        },
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "यदि लिफ्ट नीचे की ओर त्वरण 'a' से त्वरित हो, तो सरल लोलक का आवर्तकाल क्या होगा?",
+        "en": "If a lift accelerates downwards with acceleration 'a', what is time period?"
+      },
+      "o": [
+        {
+          "hi": "घट जाएगा",
+          "en": "Will decrease"
+        },
+        {
+          "hi": "शून्य हो जाएगा",
+          "en": "Becomes zero"
+        },
+        {
+          "hi": "अपरिवर्तित रहेगा",
+          "en": "Remains unchanged"
+        },
+        {
+          "hi": "बढ़ जाएगा [T' = 2π√(l/(g-a))]",
+          "en": "Will increase [T' = 2π√(l/(g-a))]"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "सरल आवर्त गति कर रहे कण के लिए विस्थापन y = A/√2 पर गतिज ऊर्जा और स्थितिज ऊर्जा का अनुपात क्या होगा?",
+        "en": "In SHM at displacement y = A/√2, what is the ratio of KE to PE?"
+      },
+      "o": [
+        {
+          "hi": "1 : 1 (दोनों बराबर होंगी)",
+          "en": "1 : 1 (both will be equal)"
+        },
+        {
+          "hi": "2 : 1",
+          "en": "2 : 1"
+        },
+        {
+          "hi": "1 : 2",
+          "en": "1 : 2"
+        },
+        {
+          "hi": "4 : 1",
+          "en": "4 : 1"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "घड़ी के बैलेंस व्हील (Balance Wheel) की गति किस प्रकार की गति का उदाहरण है?",
+        "en": "Motion of balance wheel of a wristwatch is an example of what motion?"
+      },
+      "o": [
+        {
+          "hi": "प्रक्षेप्य गति",
+          "en": "Projectile motion"
+        },
+        {
+          "hi": "कोणीय सरल आवर्त गति",
+          "en": "Angular Simple Harmonic Motion"
+        },
+        {
+          "hi": "रेखीय एकसमान गति",
+          "en": "Linear uniform motion"
+        },
+        {
+          "hi": "विक्षुब्ध गति",
+          "en": "Turbulent motion"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तनी हुई डोरी में उत्पन्न कंपन किस गति का उदाहरण हैं?",
+        "en": "Vibrations produced in a stretched string are an example of which motion?"
+      },
+      "o": [
+        {
+          "hi": "स्थानांतरीय गति",
+          "en": "Translational motion"
+        },
+        {
+          "hi": "घूर्णन गति",
+          "en": "Rotational motion"
+        },
+        {
+          "hi": "सरल आवर्त गति",
+          "en": "Simple Harmonic Motion"
+        },
+        {
+          "hi": "अनावर्ती गति",
+          "en": "Non-periodic motion"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्वरित्र द्विभुज (Tuning Fork) की भुजाओं की गति कैसी होती है?",
+        "en": "What type of motion is executed by prongs of a tuning fork?"
+      },
+      "o": [
+        {
+          "hi": "वृत्ताकार गति",
+          "en": "Circular motion"
+        },
+        {
+          "hi": "घूर्णन गति",
+          "en": "Rotational motion"
+        },
+        {
+          "hi": "परवलयाकार गति",
+          "en": "Parabolic motion"
+        },
+        {
+          "hi": "सरल आवर्त गति",
+          "en": "Simple Harmonic Motion"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एक पूर्ण दोलन में कण द्वारा तय की गई कुल दूरी कितनी होती है यदि आयाम A हो?",
+        "en": "What is total distance traveled by particle in one full oscillation if amplitude is A?"
+      },
+      "o": [
+        {
+          "hi": "4A",
+          "en": "4A"
+        },
+        {
+          "hi": "2A",
+          "en": "2A"
+        },
+        {
+          "hi": "A",
+          "en": "A"
+        },
+        {
+          "hi": "शून्य",
+          "en": "Zero"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एक पूर्ण दोलन में कण का कुल विस्थापन (Displacement) कितना होता है?",
+        "en": "What is total displacement of a particle in one complete oscillation?"
+      },
+      "o": [
+        {
+          "hi": "4A",
+          "en": "4A"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        },
+        {
+          "hi": "2A",
+          "en": "2A"
+        },
+        {
+          "hi": "A",
+          "en": "A"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}

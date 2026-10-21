@@ -1,0 +1,1257 @@
+{
+  "title": "LUCENT GK - भौतिक विज्ञान (Physics)",
+  "subtitle": "स्थिर विद्युत",
+  "description": "स्थिर विद्युत पर आधारित 50 अति-महत्वपूर्ण वस्तुनिष्ठ प्रश्नों का विस्तृत द्विभाषी ऑनलाइन टेस्ट सेट।",
+  "questions": [
+    {
+      "q": {
+        "hi": "विद्युत आवेश (Electric Charge) के दो प्रकारों (धनावेश और ऋणावेश) का नामकरण किसने किया था?",
+        "en": "Who named the two types of electric charges (positive and negative)?"
+      },
+      "o": [
+        {
+          "hi": "बेंजामिन फ्रैंकलिन ने",
+          "en": "Benjamin Franklin"
+        },
+        {
+          "hi": "माइकल फैराडे ने",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "चार्ल्स कूलॉम ने",
+          "en": "Charles Coulomb"
+        },
+        {
+          "hi": "आइजैक न्यूटन ने",
+          "en": "Isaac Newton"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "सजातीय (समान) आवेशों के मध्य कौन-सा बल कार्य करता है?",
+        "en": "What force acts between like electric charges?"
+      },
+      "o": [
+        {
+          "hi": "केवल आकर्षण बल",
+          "en": "Only attractive force"
+        },
+        {
+          "hi": "प्रतिकर्षण बल (Repulsive Force)",
+          "en": "Repulsive Force"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण बल",
+          "en": "Gravitational force"
+        },
+        {
+          "hi": "नाभिकीय बल",
+          "en": "Nuclear force"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विजातीय (विपरीत) आवेशों के मध्य कौन-सा बल कार्य करता है?",
+        "en": "What force acts between unlike electric charges?"
+      },
+      "o": [
+        {
+          "hi": "प्रतिकर्षण बल",
+          "en": "Repulsive force"
+        },
+        {
+          "hi": "श्यान बल",
+          "en": "Viscous force"
+        },
+        {
+          "hi": "आकर्षण बल (Attractive Force)",
+          "en": "Attractive Force"
+        },
+        {
+          "hi": "शून्य बल",
+          "en": "Zero force"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "दो स्थिर बिंदु आवेशों के बीच लगने वाले आकर्षण या प्रतिकर्षण बल का नियम किसने दिया था?",
+        "en": "Who formulated the law of force between two static point charges?"
+      },
+      "o": [
+        {
+          "hi": "ओम ने",
+          "en": "Ohm"
+        },
+        {
+          "hi": "फैराडे ने",
+          "en": "Faraday"
+        },
+        {
+          "hi": "एम्पीयर ने",
+          "en": "Ampere"
+        },
+        {
+          "hi": "कूलॉम ने (कूलॉम का नियम)",
+          "en": "Coulomb (Coulomb's Law)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कूलॉम के नियमानुसार दो बिंदु आवेशों के बीच बल (F) उनके बीच की दूरी (r) के किस अनुपात में होता है?",
+        "en": "According to Coulomb's Law, force F is proportional to what power of distance r?"
+      },
+      "o": [
+        {
+          "hi": "दूरी के वर्ग के व्युत्क्रमानुपाती (1/r²)",
+          "en": "Inversely to square of distance (1/r²)"
+        },
+        {
+          "hi": "दूरी के समानुपाती (r)",
+          "en": "Directly to distance (r)"
+        },
+        {
+          "hi": "दूरी के व्युत्क्रमानुपाती (1/r)",
+          "en": "Inversely to distance (1/r)"
+        },
+        {
+          "hi": "दूरी के वर्ग के समानुपाती (r²)",
+          "en": "Directly to square of distance (r²)"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विद्युत आवेश का SI मात्रक क्या होता है?",
+        "en": "What is the SI unit of electric charge?"
+      },
+      "o": [
+        {
+          "hi": "एम्पीयर",
+          "en": "Ampere"
+        },
+        {
+          "hi": "कूलॉम (Coulomb - C)",
+          "en": "Coulomb (C)"
+        },
+        {
+          "hi": "वोल्ट",
+          "en": "Volt"
+        },
+        {
+          "hi": "फैराड",
+          "en": "Farad"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "एक इलेक्ट्रॉन पर कितना ऋण आवेश होता है?",
+        "en": "What is the magnitude of negative charge on an electron?"
+      },
+      "o": [
+        {
+          "hi": "1.6 × 10^-16 कूलॉम",
+          "en": "1.6 × 10^-16 C"
+        },
+        {
+          "hi": "9.1 × 10^-31 कूलॉम",
+          "en": "9.1 × 10^-31 C"
+        },
+        {
+          "hi": "-1.6 × 10^-19 कूलॉम",
+          "en": "-1.6 × 10^-19 C"
+        },
+        {
+          "hi": "6.25 × 10^18 कूलॉम",
+          "en": "6.25 × 10^18 C"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "1 कूलॉम आवेश में कितने इलेक्ट्रॉनों का समावेश होता है?",
+        "en": "How many electrons constitute 1 Coulomb of charge?"
+      },
+      "o": [
+        {
+          "hi": "1.6 × 10^19",
+          "en": "1.6 × 10^19"
+        },
+        {
+          "hi": "6.023 × 10^23",
+          "en": "6.023 × 10^23"
+        },
+        {
+          "hi": "1.6 × 10^-19",
+          "en": "1.6 × 10^-19"
+        },
+        {
+          "hi": "6.25 × 10^18 इलेक्ट्रॉन",
+          "en": "6.25 × 10^18 electrons"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कांच की छड़ को रेशम के कपड़े से रगड़ने पर कांच की छड़ पर कौन-सा आवेश आ जाता है?",
+        "en": "When a glass rod is rubbed with silk cloth, which charge appears on glass rod?"
+      },
+      "o": [
+        {
+          "hi": "धनावेश (Positive charge)",
+          "en": "Positive charge"
+        },
+        {
+          "hi": "ऋणावेश (Negative charge)",
+          "en": "Negative charge"
+        },
+        {
+          "hi": "कोई आवेश नहीं आता",
+          "en": "No charge"
+        },
+        {
+          "hi": "विद्युत धारा बहने लगती है",
+          "en": "Current flows"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "एबोनाइट की छड़ को बिल्ली की खाल (फर) से रगड़ने पर एबोनाइट की छड़ पर कौन-सा आवेश आता है?",
+        "en": "When an ebonite rod is rubbed with cat's fur, which charge appears on ebonite rod?"
+      },
+      "o": [
+        {
+          "hi": "धनावेश",
+          "en": "Positive charge"
+        },
+        {
+          "hi": "ऋणावेश (Negative charge)",
+          "en": "Negative charge"
+        },
+        {
+          "hi": "दोनों आवेश",
+          "en": "Both charges"
+        },
+        {
+          "hi": "उदासीन रहती है",
+          "en": "Remains neutral"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "सूखे बालों में कंघी करने के बाद कंघी द्वारा कागज के छोटे-छोटे टुकड़ों को आकर्षित करना किस कारण होता है?",
+        "en": "Why does a comb rubbed in dry hair attract small bits of paper?"
+      },
+      "o": [
+        {
+          "hi": "गुरुत्वाकर्षण बल के कारण",
+          "en": "Due to gravitational force"
+        },
+        {
+          "hi": "चुंबकीय बल के कारण",
+          "en": "Due to magnetic force"
+        },
+        {
+          "hi": "स्थिर विद्युत आकर्षण बल (Electrostatic Force) के कारण",
+          "en": "Due to electrostatic attraction"
+        },
+        {
+          "hi": "घर्षण घर्षण से",
+          "en": "Due to air friction"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एकांक धनावेश पर लगने वाले विद्युत बल को क्या कहा जाता है?",
+        "en": "What is electric force acting per unit positive charge called?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत विभव",
+          "en": "Electric potential"
+        },
+        {
+          "hi": "विद्युत धारिता",
+          "en": "Capacitance"
+        },
+        {
+          "hi": "विद्युत फ्लक्स",
+          "en": "Electric flux"
+        },
+        {
+          "hi": "विद्युत क्षेत्र की तीव्रता (Electric Field Intensity)",
+          "en": "Electric Field Intensity"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विद्युत क्षेत्र की तीव्रता का SI मात्रक क्या होता है?",
+        "en": "What is the SI unit of electric field intensity?"
+      },
+      "o": [
+        {
+          "hi": "न्यूटन/कूलॉम (N/C) अथवा वोल्ट/मीटर (V/m)",
+          "en": "Newton/Coulomb (N/C) or Volt/meter (V/m)"
+        },
+        {
+          "hi": "जूल/कूलॉम",
+          "en": "Joule/Coulomb"
+        },
+        {
+          "hi": "न्यूटन-मीटर",
+          "en": "Newton-meter"
+        },
+        {
+          "hi": "एम्पीयर/मीटर",
+          "en": "Ampere/meter"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "किसी खोखले गोलीय चालक (Hollow Spherical Conductor) के भीतर विद्युत क्षेत्र की तीव्रता कितनी होती है?",
+        "en": "What is electric field intensity inside a charged hollow spherical conductor?"
+      },
+      "o": [
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        },
+        {
+          "hi": "सतह के समान",
+          "en": "Same as surface"
+        },
+        {
+          "hi": "सतह से दोगुनी",
+          "en": "Double surface value"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "खोखले चालक को दिया गया संपूर्ण आवेश सदैव कहाँ पर रहता है?",
+        "en": "Where does charge given to a hollow conductor always reside?"
+      },
+      "o": [
+        {
+          "hi": "चालक के केंद्र पर",
+          "en": "At center of conductor"
+        },
+        {
+          "hi": "चालक के अंदरूनी भाग में",
+          "en": "Inside the conductor"
+        },
+        {
+          "hi": "चालक की बाहरी सतह (Outer Surface) पर",
+          "en": "On outer surface of conductor"
+        },
+        {
+          "hi": "हवा में विलीन हो जाता है",
+          "en": "Dissipates into air"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आकाशीय बिजली (तड़ित) चमकते समय यदि आप कार या बस में हों, तो सुरक्षित रहने के लिए क्या करना चाहिए?",
+        "en": "If you are in a car during lightning, what is safest to do?"
+      },
+      "o": [
+        {
+          "hi": "कार से बाहर निकलकर पेड़ के नीचे खड़े हों",
+          "en": "Stand under a tree"
+        },
+        {
+          "hi": "कार की छत पर चढ़ जाएं",
+          "en": "Climb on car roof"
+        },
+        {
+          "hi": "लोहे के खंभे को पकड़ें",
+          "en": "Hold an iron pole"
+        },
+        {
+          "hi": "कार की खिड़कियां बंद करके अंदर ही बैठे रहें (इलेक्ट्रोस्टेटिक शील्डिंग)",
+          "en": "Stay inside with windows closed (electrostatic shielding)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "इलेक्ट्रोस्टेटिक शील्डिंग (Electrostatic Shielding) किस वैज्ञानिक सिद्धांत पर आधारित है?",
+        "en": "On which scientific principle is electrostatic shielding based?"
+      },
+      "o": [
+        {
+          "hi": "खोखले चालक के भीतर विद्युत क्षेत्र शून्य होना",
+          "en": "Zero electric field inside hollow conductor"
+        },
+        {
+          "hi": "कूलॉम के नियम पर",
+          "en": "Coulomb's law"
+        },
+        {
+          "hi": "ओम के नियम पर",
+          "en": "Ohm's law"
+        },
+        {
+          "hi": "बायो-सावर्ट नियम पर",
+          "en": "Biot-Savart law"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "आकाशीय बिजली से भवनों की सुरक्षा के लिए तड़ित चालक (Lightning Conductor) का आविष्कार किसने किया था?",
+        "en": "Who invented lightning conductor to protect buildings from lightning strikes?"
+      },
+      "o": [
+        {
+          "hi": "थॉमस एडीसन ने",
+          "en": "Thomas Edison"
+        },
+        {
+          "hi": "बेंजामिन फ्रैंकलिन ने",
+          "en": "Benjamin Franklin"
+        },
+        {
+          "hi": "माइकल फैराडे ने",
+          "en": "Michael Faraday"
+        },
+        {
+          "hi": "अलेक्जेंड्रो वोल्टा ने",
+          "en": "Alessandro Volta"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "तड़ित चालक (Lightning Conductor) सामान्यतः किस धातु का बनाया जाता है?",
+        "en": "Lightning conductor is generally made of which metal?"
+      },
+      "o": [
+        {
+          "hi": "लोहे का",
+          "en": "Iron"
+        },
+        {
+          "hi": "एल्युमिनियम का",
+          "en": "Aluminium"
+        },
+        {
+          "hi": "तांबे (Copper) का",
+          "en": "Copper"
+        },
+        {
+          "hi": "सीसे का",
+          "en": "Lead"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "तड़ित चालक का ऊपरी सिरा कैसा बनाया जाता है?",
+        "en": "How is the upper tip of a lightning conductor shaped?"
+      },
+      "o": [
+        {
+          "hi": "समतल",
+          "en": "Flat"
+        },
+        {
+          "hi": "गोलाकार",
+          "en": "Spherical"
+        },
+        {
+          "hi": "खोखला",
+          "en": "Hollow"
+        },
+        {
+          "hi": "नुकीला (Pointed) ताकि आवेश आसानी से विसर्जित हो सके",
+          "en": "Pointed so charge discharges easily"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "एकांक धनावेश को अनंत से किसी बिंदु तक लाने में किए गए कार्य को क्या कहते हैं?",
+        "en": "Work done in bringing unit positive charge from infinity to a point is?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत विभव (Electric Potential)",
+          "en": "Electric Potential"
+        },
+        {
+          "hi": "विद्युत धारा",
+          "en": "Electric current"
+        },
+        {
+          "hi": "विद्युत धारिता",
+          "en": "Capacitance"
+        },
+        {
+          "hi": "विद्युत प्रतिरोध",
+          "en": "Resistance"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विद्युत विभव (Electric Potential) का SI मात्रक क्या होता है?",
+        "en": "What is the SI unit of electric potential?"
+      },
+      "o": [
+        {
+          "hi": "एम्पीयर",
+          "en": "Ampere"
+        },
+        {
+          "hi": "वोल्ट (Volt - जूल/कूलॉम)",
+          "en": "Volt (Joule/Coulomb)"
+        },
+        {
+          "hi": "कूलॉम",
+          "en": "Coulomb"
+        },
+        {
+          "hi": "ओम",
+          "en": "Ohm"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "पृथ्वी का विद्युत विभव (Electric Potential of Earth) मानक रूप से कितना माना जाता है?",
+        "en": "What is the electric potential of Earth standardly taken as?"
+      },
+      "o": [
+        {
+          "hi": "अनंत",
+          "en": "Infinite"
+        },
+        {
+          "hi": "+100 वोल्ट",
+          "en": "+100 Volt"
+        },
+        {
+          "hi": "शून्य (Zero)",
+          "en": "Zero"
+        },
+        {
+          "hi": "-100 वोल्ट",
+          "en": "-100 Volt"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "किसी चालक की आवेश ग्रहण करने की क्षमता को क्या कहा जाता है?",
+        "en": "Ability of a conductor to store electric charge is called what?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत प्रतिरोध",
+          "en": "Resistance"
+        },
+        {
+          "hi": "विद्युत चालकता",
+          "en": "Conductance"
+        },
+        {
+          "hi": "विद्युत शक्ति",
+          "en": "Electric power"
+        },
+        {
+          "hi": "विद्युत धारिता (Capacitance - C = Q/V)",
+          "en": "Capacitance (C = Q/V)"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विद्युत धारिता (Capacitance) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of capacitance?"
+      },
+      "o": [
+        {
+          "hi": "फैराड (Farad - F)",
+          "en": "Farad (F)"
+        },
+        {
+          "hi": "हेनरी",
+          "en": "Henry"
+        },
+        {
+          "hi": "वेबर",
+          "en": "Weber"
+        },
+        {
+          "hi": "टेस्ला",
+          "en": "Tesla"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "1 फैराड (Farad) धारिता किसके बराबर होती है?",
+        "en": "1 Farad capacitance is equivalent to what?"
+      },
+      "o": [
+        {
+          "hi": "1 जूल/सेकंड",
+          "en": "1 Joule/second"
+        },
+        {
+          "hi": "1 कूलॉम/वोल्ट (1 C/V)",
+          "en": "1 Coulomb/Volt (1 C/V)"
+        },
+        {
+          "hi": "1 वोल्ट/एम्पीयर",
+          "en": "1 Volt/Ampere"
+        },
+        {
+          "hi": "1 ओम-मीटर",
+          "en": "1 Ohm-meter"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "संधारित्र (Capacitor / Condenser) का मुख्य कार्य क्या होता है?",
+        "en": "What is the primary function of a capacitor (condenser)?"
+      },
+      "o": [
+        {
+          "hi": "वोल्टेज बढ़ाना",
+          "en": "Increase voltage"
+        },
+        {
+          "hi": "विद्युत धारा उत्पन्न करना",
+          "en": "Generate current"
+        },
+        {
+          "hi": "विद्युत ऊर्जा एवं आवेश का संचय करना",
+          "en": "Store electrical energy and charge"
+        },
+        {
+          "hi": "विद्युत धारा को AC से DC में बदलना",
+          "en": "Convert AC to DC"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "पंखे (Ceiling Fan) में लगे कंडेनसर (संधारित्र) का क्या कार्य होता है?",
+        "en": "What is the function of a condenser in a ceiling fan?"
+      },
+      "o": [
+        {
+          "hi": "पंखे की गति घटाना",
+          "en": "Reduce fan speed"
+        },
+        {
+          "hi": "पंखे को ठंडा रखना",
+          "en": "Keep fan cool"
+        },
+        {
+          "hi": "बिजली की खपत कम करना",
+          "en": "Reduce power consumption"
+        },
+        {
+          "hi": "प्रारंभिक टॉर्क (आघूर्ण) प्रदान कर मोटर को घुमाना",
+          "en": "Provide starting torque to rotate motor"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "संधारित्र में संचित ऊर्जा (Energy Stored in Capacitor) का सही सूत्र क्या है?",
+        "en": "What is formula for energy stored in a charged capacitor?"
+      },
+      "o": [
+        {
+          "hi": "U = ½ CV²",
+          "en": "U = ½ CV²"
+        },
+        {
+          "hi": "U = CV",
+          "en": "U = CV"
+        },
+        {
+          "hi": "U = ½ C²V",
+          "en": "U = ½ C²V"
+        },
+        {
+          "hi": "U = Q² / C²",
+          "en": "U = Q² / C²"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "समानांतर पट्टिका संधारित्र (Parallel Plate Capacitor) में प्लेटों के बीच परावैद्युत पदार्थ (Dielectric) रखने पर धारिता क्या होती है?",
+        "en": "When dielectric material is inserted between plates of a capacitor, capacitance does what?"
+      },
+      "o": [
+        {
+          "hi": "घट जाती है",
+          "en": "Decreases"
+        },
+        {
+          "hi": "बढ़ जाती है (C' = kC)",
+          "en": "Increases (C' = kC)"
+        },
+        {
+          "hi": "शून्य हो जाती है",
+          "en": "Becomes zero"
+        },
+        {
+          "hi": "अपरिवर्तित रहती है",
+          "en": "Remains unchanged"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "लाखों वोल्ट का अत्यधिक उच्च विभवांतर उत्पन्न करने के लिए किस उपकरण का उपयोग किया जाता है?",
+        "en": "Which device is used to generate millions of volts of high potential difference?"
+      },
+      "o": [
+        {
+          "hi": "साइक्लोट्रॉन",
+          "en": "Cyclotron"
+        },
+        {
+          "hi": "ट्रांसफार्मर",
+          "en": "Transformer"
+        },
+        {
+          "hi": "वान डे ग्राफ जनरेटर (Van de Graaff Generator)",
+          "en": "Van de Graaff Generator"
+        },
+        {
+          "hi": "डायनेमो",
+          "en": "Dynamo"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "आवेशित कणों को त्वरित करने के लिए किस यंत्र का उपयोग किया जाता है?",
+        "en": "Which machine is used to accelerate charged subatomic particles?"
+      },
+      "o": [
+        {
+          "hi": "मैनोमीटर",
+          "en": "Manometer"
+        },
+        {
+          "hi": "वोल्टमीटर",
+          "en": "Voltmeter"
+        },
+        {
+          "hi": "गैल्वेनोमीटर",
+          "en": "Galvanometer"
+        },
+        {
+          "hi": "साइक्लोट्रॉन (Cyclotron)",
+          "en": "Cyclotron"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "साबुन के बुलबुले को ऋण आवेश या धन आवेश देने पर उसकी त्रिज्या पर क्या प्रभाव पड़ता है?",
+        "en": "When a soap bubble is charged (positive or negative), what happens to its radius?"
+      },
+      "o": [
+        {
+          "hi": "त्रिज्या बढ़ जाती है (प्रतिकर्षण के कारण)",
+          "en": "Radius increases (due to repulsion)"
+        },
+        {
+          "hi": "त्रिज्या घट जाती है",
+          "en": "Radius decreases"
+        },
+        {
+          "hi": "त्रिज्या अपरिवर्तित रहती है",
+          "en": "Radius remains unchanged"
+        },
+        {
+          "hi": "बुलबुला तुरंत फूट जाता है",
+          "en": "Bubble bursts immediately"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "विद्युत द्विध्रुव आघूर्ण (Electric Dipole Moment) का SI मात्रक क्या होता है?",
+        "en": "What is the SI unit of electric dipole moment?"
+      },
+      "o": [
+        {
+          "hi": "कूलॉम/मीटर",
+          "en": "Coulomb/meter"
+        },
+        {
+          "hi": "कूलॉम-मीटर (C·m)",
+          "en": "Coulomb-meter (C·m)"
+        },
+        {
+          "hi": "वोल्ट-मीटर",
+          "en": "Volt-meter"
+        },
+        {
+          "hi": "न्यूटन-मीटर",
+          "en": "Newton-meter"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत फ्लक्स (Electric Flux) का SI मात्रक क्या होता है?",
+        "en": "What is the SI unit of electric flux?"
+      },
+      "o": [
+        {
+          "hi": "वेबर",
+          "en": "Weber"
+        },
+        {
+          "hi": "टेस्ला",
+          "en": "Tesla"
+        },
+        {
+          "hi": "वोल्ट-मीटर (V·m) अथवा N·m²/C",
+          "en": "Volt-meter (V·m) or N·m²/C"
+        },
+        {
+          "hi": "हेनरी",
+          "en": "Henry"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "गॉस का प्रमेय (Gauss's Theorem) किसी बंद पृष्ठ से गुजरने वाले कुल विद्युत फ्लक्स और आवेश के बीच क्या संबंध बताता है?",
+        "en": "What relation does Gauss's Theorem state between total flux Φ and enclosed charge q?"
+      },
+      "o": [
+        {
+          "hi": "Φ = q / 4π",
+          "en": "Φ = q / 4π"
+        },
+        {
+          "hi": "Φ = q · ε0",
+          "en": "Φ = q · ε0"
+        },
+        {
+          "hi": "Φ = q² / ε0",
+          "en": "Φ = q² / ε0"
+        },
+        {
+          "hi": "Φ = q / ε0",
+          "en": "Φ = q / ε0"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "दो आवेशों के बीच की दूरी आधी कर दी जाए, तो उनके बीच स्थिर विद्युत बल कितना हो जाएगा?",
+        "en": "If distance between two charges is halved, what will the electrostatic force become?"
+      },
+      "o": [
+        {
+          "hi": "चार गुना (4 गुना)",
+          "en": "Four times"
+        },
+        {
+          "hi": "दोगुना",
+          "en": "Double"
+        },
+        {
+          "hi": "एक-चौथाई",
+          "en": "One-fourth"
+        },
+        {
+          "hi": "आधा",
+          "en": "Half"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "हवा या निर्वात की विद्युतशीलता (Permittivity of Free Space - ε0) का मान कितना होता है?",
+        "en": "What is the value of permittivity of free space (ε0)?"
+      },
+      "o": [
+        {
+          "hi": "9 × 10^9 N·m²/C²",
+          "en": "9 × 10^9 N·m²/C²"
+        },
+        {
+          "hi": "8.854 × 10^-12 C²/N·m²",
+          "en": "8.854 × 10^-12 C²/N·m²"
+        },
+        {
+          "hi": "1.6 × 10^-19 C",
+          "en": "1.6 × 10^-19 C"
+        },
+        {
+          "hi": "6.67 × 10^-11",
+          "en": "6.67 × 10^-11"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "स्थिर विद्युत बल (कूलॉम बल) गुरुत्वाकर्षण बल की तुलना में कैसा होता है?",
+        "en": "How is electrostatic force compared to gravitational force between electrons?"
+      },
+      "o": [
+        {
+          "hi": "समान होता है",
+          "en": "Equal"
+        },
+        {
+          "hi": "कमजोर होता है",
+          "en": "Weaker"
+        },
+        {
+          "hi": "अत्यधिक शक्तिशाली (लगभग 10^42 गुना अधिक)",
+          "en": "Extremely stronger (approx 10^42 times)"
+        },
+        {
+          "hi": "शून्य होता है",
+          "en": "Zero"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "प्रिंटर और फोटोकॉपी मशीन (Xerox) किस सिद्धांत पर कार्य करती है?",
+        "en": "On which principle does a photocopier (Xerox machine) operate?"
+      },
+      "o": [
+        {
+          "hi": "चुंबकीय प्रेरण पर",
+          "en": "Magnetic induction"
+        },
+        {
+          "hi": "प्रकाश-अपवर्तन पर",
+          "en": "Refraction of light"
+        },
+        {
+          "hi": "थर्मल प्रसार पर",
+          "en": "Thermal expansion"
+        },
+        {
+          "hi": "इलेक्ट्रोस्टेटिक इमेजिंग (स्थिर वैद्युत प्रभाव) पर",
+          "en": "Electrostatic imaging"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "कार के रेडियो एंटीना को बिजली गिरने से बचाने के लिए क्या किया जाता है?",
+        "en": "What is done to protect car electronics from electrostatic damage?"
+      },
+      "o": [
+        {
+          "hi": "कार की धातु की बॉडी द्वारा अर्थिंग/शील्डिंग",
+          "en": "Earthing/shielding by metallic body"
+        },
+        {
+          "hi": "कार पर लकड़ी लगाना",
+          "en": "Using wood on car"
+        },
+        {
+          "hi": "कार को पानी से धोना",
+          "en": "Washing car with water"
+        },
+        {
+          "hi": "एंटीना हटा देना",
+          "en": "Removing antenna"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "पेट्रोल ले जाने वाले टैंकर के पीछे जमीन को छूती हुई लोहे की जंजीर क्यों लटकाई जाती है?",
+        "en": "Why is a metallic chain attached to petrol tankers touching ground?"
+      },
+      "o": [
+        {
+          "hi": "ट्रक को धीमा चलाने हेतु",
+          "en": "To slow down truck"
+        },
+        {
+          "hi": "घर्षण से उत्पन्न स्थिर आवेश को सुरक्षित रूप से भूमि में विसर्जित करने हेतु",
+          "en": "To safely discharge static charge into Earth"
+        },
+        {
+          "hi": "ट्रक की सुरक्षा के लिए",
+          "en": "For truck security"
+        },
+        {
+          "hi": "सुंदरता के लिए",
+          "en": "For appearance"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "हवाई जहाज के टायरों को विशेष रूप से सुचालक (Conductive) क्यों बनाया जाता है?",
+        "en": "Why are airplane tires made specially conductive?"
+      },
+      "o": [
+        {
+          "hi": "पहियों को हल्का बनाने के लिए",
+          "en": "To make wheels lighter"
+        },
+        {
+          "hi": "पहियों की मजबूती बढ़ाने के लिए",
+          "en": "To increase wheel strength"
+        },
+        {
+          "hi": "लैंडिंग के समय घर्षण से बने स्थिर आवेश को तुरंत जमीन में भेजने हेतु",
+          "en": "To safely earth static charge on landing"
+        },
+        {
+          "hi": "पहियों को ठंडा रखने के लिए",
+          "en": "To keep wheels cool"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "स्वर्ण-पत्र विद्युतदर्शी (Gold Leaf Electroscope) का उपयोग किस कार्य के लिए किया जाता है?",
+        "en": "What is a gold-leaf electroscope used for?"
+      },
+      "o": [
+        {
+          "hi": "विद्युत धारा मापने के लिए",
+          "en": "Measure current"
+        },
+        {
+          "hi": "प्रतिरोध मापने के लिए",
+          "en": "Measure resistance"
+        },
+        {
+          "hi": "विभवांतर मापने के लिए",
+          "en": "Measure voltage"
+        },
+        {
+          "hi": "किसी वस्तु पर आवेश की उपस्थिति और प्रकृति ज्ञात करने हेतु",
+          "en": "Detect presence and nature of electric charge"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "तड़ित (बिजली) गिरते समय किस गैस का निर्माण वायुमंडल में होता है?",
+        "en": "Which gas is formed in atmosphere during lightning discharge?"
+      },
+      "o": [
+        {
+          "hi": "ओजोन (O3) एवं नाइट्रोजन के ऑक्साइड",
+          "en": "Ozone (O3) and nitrogen oxides"
+        },
+        {
+          "hi": "केवल हीलियम",
+          "en": "Only helium"
+        },
+        {
+          "hi": "केवल कार्बन डाइऑक्साइड",
+          "en": "Only carbon dioxide"
+        },
+        {
+          "hi": "हाइड्रोजन",
+          "en": "Hydrogen"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "जब कांच की छड़ को रेशम से रगड़ते हैं, तो इलेक्ट्रॉन किधर से किधर स्थानांतरित होते हैं?",
+        "en": "When glass rod is rubbed with silk, electrons transfer from where to where?"
+      },
+      "o": [
+        {
+          "hi": "रेशम से कांच में",
+          "en": "From silk to glass"
+        },
+        {
+          "hi": "कांच की छड़ से रेशम के कपड़े में",
+          "en": "From glass rod to silk cloth"
+        },
+        {
+          "hi": "हवा से छड़ में",
+          "en": "From air to rod"
+        },
+        {
+          "hi": "कोई स्थानांतरण नहीं होता",
+          "en": "No transfer takes place"
+        }
+      ],
+      "a": 1
+    },
+    {
+      "q": {
+        "hi": "विद्युत विभव किस प्रकार की भौतिक राशि है?",
+        "en": "What type of physical quantity is electric potential?"
+      },
+      "o": [
+        {
+          "hi": "सदिश राशि",
+          "en": "Vector quantity"
+        },
+        {
+          "hi": "टेन्सर राशि",
+          "en": "Tensor quantity"
+        },
+        {
+          "hi": "अदिश राशि (Scalar Quantity)",
+          "en": "Scalar Quantity"
+        },
+        {
+          "hi": "विमाहीन राशि",
+          "en": "Dimensionless quantity"
+        }
+      ],
+      "a": 2
+    },
+    {
+      "q": {
+        "hi": "एक बिंदु पर +Q आवेश के कारण r दूरी पर विद्युत क्षेत्र E का मान किसके समानुपाती होता है?",
+        "en": "Electric field E due to point charge +Q at distance r is proportional to?"
+      },
+      "o": [
+        {
+          "hi": "r",
+          "en": "r"
+        },
+        {
+          "hi": "r²",
+          "en": "r²"
+        },
+        {
+          "hi": "1 / r",
+          "en": "1 / r"
+        },
+        {
+          "hi": "1 / r²",
+          "en": "1 / r²"
+        }
+      ],
+      "a": 3
+    },
+    {
+      "q": {
+        "hi": "विद्युत क्षेत्र रेखाएं (Electric Field Lines) सदैव किधर से किधर निकलती हैं?",
+        "en": "Electric field lines always originate from and terminate at what?"
+      },
+      "o": [
+        {
+          "hi": "धनावेश से निकलकर ऋणावेश पर समाप्त होती हैं",
+          "en": "Originate from positive & terminate at negative"
+        },
+        {
+          "hi": "ऋणावेश से धनावेश की ओर",
+          "en": "From negative to positive"
+        },
+        {
+          "hi": "बंद वक्र बनाती हैं",
+          "en": "Form closed loops"
+        },
+        {
+          "hi": "केवल एक बिंदु पर केंद्रित होती हैं",
+          "en": "Concentrated at one point"
+        }
+      ],
+      "a": 0
+    },
+    {
+      "q": {
+        "hi": "दो विद्युत क्षेत्र रेखाएं एक-दूसरे को कभी क्यों नहीं काटतीं?",
+        "en": "Why do two electric field lines never cross each other?"
+      },
+      "o": [
+        {
+          "hi": "वे समानांतर होती हैं",
+          "en": "They are parallel"
+        },
+        {
+          "hi": "कटान बिंदु पर विद्युत क्षेत्र की दो दिशाएं संभव नहीं हैं",
+          "en": "Two directions of E at intersection not possible"
+        },
+        {
+          "hi": "वे सीधी रेखाएं होती हैं",
+          "en": "They are straight lines"
+        },
+        {
+          "hi": "उनमें ऊर्जा नहीं होती",
+          "en": "They lack energy"
+        }
+      ],
+      "a": 1
+    }
+  ]
+}
