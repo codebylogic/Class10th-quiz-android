@@ -297,67 +297,51 @@
               "chapters": [
                 {
                   "id": "bseb10_science_physics_01",
-                  "name": "अध्याय 01 (प्रकाश का परावर्तन एवं अपवर्तन)",
-                  "titleHi": "अध्याय 01 (प्रकाश का परावर्तन एवं अपवर्तन)",
-                  "titleEn": "अध्याय 01 (प्रकाश का परावर्तन एवं अपवर्तन)",
+                  "name": "अध्याय 01 (प्रकाश का परावर्तन / Reflection of Light)",
+                  "titleHi": "अध्याय 01 (प्रकाश का परावर्तन / Reflection of Light)",
+                  "titleEn": "अध्याय 01 (प्रकाश का परावर्तन / Reflection of Light)",
                   "file": "SCIENCE/PHYSICS/01.json",
                   "questions": 100
                 },
                 {
                   "id": "bseb10_science_physics_02",
-                  "name": "अध्याय 02 (मानव नेत्र और रंगबिरंगा संसार)",
-                  "titleHi": "अध्याय 02 (मानव नेत्र और रंगबिरंगा संसार)",
-                  "titleEn": "अध्याय 02 (मानव नेत्र और रंगबिरंगा संसार)",
+                  "name": "अध्याय 02 (प्रकाश का अपवर्तन / Refraction of Light)",
+                  "titleHi": "अध्याय 02 (प्रकाश का अपवर्तन / Refraction of Light)",
+                  "titleEn": "अध्याय 02 (प्रकाश का अपवर्तन / Refraction of Light)",
                   "file": "SCIENCE/PHYSICS/02.json",
                   "questions": 100
                 },
                 {
                   "id": "bseb10_science_physics_03",
-                  "name": "अध्याय 03 (विद्युत धारा)",
-                  "titleHi": "अध्याय 03 (विद्युत धारा)",
-                  "titleEn": "अध्याय 03 (विद्युत धारा)",
+                  "name": "अध्याय 03 (मानव नेत्र, वायुमंडलीय अपवर्तन तथा वर्ण विक्षेपण / The Human Eye, Atmospheric Refraction & Dispersion)",
+                  "titleHi": "अध्याय 03 (मानव नेत्र, वायुमंडलीय अपवर्तन तथा वर्ण विक्षेपण / The Human Eye, Atmospheric Refraction & Dispersion)",
+                  "titleEn": "अध्याय 03 (मानव नेत्र, वायुमंडलीय अपवर्तन तथा वर्ण विक्षेपण / The Human Eye, Atmospheric Refraction & Dispersion)",
                   "file": "SCIENCE/PHYSICS/03.json",
                   "questions": 100
                 },
                 {
                   "id": "bseb10_science_physics_04",
-                  "name": "अध्याय 04 (विद्युत धारा का चुंबकीय प्रभाव)",
-                  "titleHi": "अध्याय 04 (विद्युत धारा का चुंबकीय प्रभाव)",
-                  "titleEn": "अध्याय 04 (विद्युत धारा का चुंबकीय प्रभाव)",
+                  "name": "अध्याय 04 (विद्युत धारा / Electric Current)",
+                  "titleHi": "अध्याय 04 (विद्युत धारा / Electric Current)",
+                  "titleEn": "अध्याय 04 (विद्युत धारा / Electric Current)",
                   "file": "SCIENCE/PHYSICS/04.json",
                   "questions": 100
                 },
                 {
                   "id": "bseb10_science_physics_05",
-                  "name": "अध्याय 05 (ऊर्जा के स्रोत)",
-                  "titleHi": "अध्याय 05 (ऊर्जा के स्रोत)",
-                  "titleEn": "अध्याय 05 (ऊर्जा के स्रोत)",
+                  "name": "अध्याय 05 (विद्युत धारा का चुंबकीय प्रभाव / Magnetic Effects of Electric Current)",
+                  "titleHi": "अध्याय 05 (विद्युत धारा का चुंबकीय प्रभाव / Magnetic Effects of Electric Current)",
+                  "titleEn": "अध्याय 05 (विद्युत धारा का चुंबकीय प्रभाव / Magnetic Effects of Electric Current)",
                   "file": "SCIENCE/PHYSICS/05.json",
                   "questions": 100
                 },
                 {
                   "id": "bseb10_science_physics_06",
-                  "name": "अध्याय 06 (प्रायोगिक एवं अति-महत्वपूर्ण)",
-                  "titleHi": "अध्याय 06 (प्रायोगिक एवं अति-महत्वपूर्ण)",
-                  "titleEn": "अध्याय 06 (प्रायोगिक एवं अति-महत्वपूर्ण)",
+                  "name": "अध्याय 06 (ऊर्जा के स्रोत / Sources of Energy)",
+                  "titleHi": "अध्याय 06 (ऊर्जा के स्रोत / Sources of Energy)",
+                  "titleEn": "अध्याय 06 (ऊर्जा के स्रोत / Sources of Energy)",
                   "file": "SCIENCE/PHYSICS/06.json",
                   "questions": 96
-                },
-                {
-                  "id": "bseb10_science_physics_07",
-                  "name": "अध्याय 07 (भौतिकी रिवीजन मॉडल)",
-                  "titleHi": "अध्याय 07 (भौतिकी रिवीजन मॉडल)",
-                  "titleEn": "अध्याय 07 (भौतिकी रिवीजन मॉडल)",
-                  "file": "SCIENCE/PHYSICS/07.json",
-                  "questions": 96
-                },
-                {
-                  "id": "bseb10_science_physics_08",
-                  "name": "मेगा टेस्ट (Mega Physics Test)",
-                  "titleHi": "मेगा टेस्ट (Mega Physics Test)",
-                  "titleEn": "मेगा टेस्ट (Mega Physics Test)",
-                  "file": "SCIENCE/PHYSICS/mega.json",
-                  "questions": 199
                 }
               ]
             },
@@ -369,49 +353,49 @@
               "chapters": [
                 {
                   "id": "bseb10_science_chemistry_01",
-                  "name": "अध्याय 01 (रासायनिक अभिक्रियाएं एवं समीकरण)",
-                  "titleHi": "अध्याय 01 (रासायनिक अभिक्रियाएं एवं समीकरण)",
-                  "titleEn": "अध्याय 01 (रासायनिक अभिक्रियाएं एवं समीकरण)",
+                  "name": "अध्याय 01 (रासायनिक अभिक्रियाएँ एवं समीकरण / Chemical Reactions and Equations)",
+                  "titleHi": "अध्याय 01 (रासायनिक अभिक्रियाएँ एवं समीकरण / Chemical Reactions and Equations)",
+                  "titleEn": "अध्याय 01 (रासायनिक अभिक्रियाएँ एवं समीकरण / Chemical Reactions and Equations)",
                   "file": "SCIENCE/CHEMISTRY/01.json",
                   "questions": 100
                 },
                 {
                   "id": "bseb10_science_chemistry_02",
-                  "name": "अध्याय 02 (अम्ल, क्षारक एवं लवण)",
-                  "titleHi": "अध्याय 02 (अम्ल, क्षारक एवं लवण)",
-                  "titleEn": "अध्याय 02 (अम्ल, क्षारक एवं लवण)",
+                  "name": "अध्याय 02 (अम्ल, भस्म तथा लवण / Acids, Bases and Salts)",
+                  "titleHi": "अध्याय 02 (अम्ल, भस्म तथा लवण / Acids, Bases and Salts)",
+                  "titleEn": "अध्याय 02 (अम्ल, भस्म तथा लवण / Acids, Bases and Salts)",
                   "file": "SCIENCE/CHEMISTRY/02.json",
                   "questions": 100
                 },
                 {
                   "id": "bseb10_science_chemistry_03",
-                  "name": "अध्याय 03 (धातु एवं अधातु)",
-                  "titleHi": "अध्याय 03 (धातु एवं अधातु)",
-                  "titleEn": "अध्याय 03 (धातु एवं अधातु)",
+                  "name": "अध्याय 03 (धातु एवं अधातु / Metals and Non-Metals)",
+                  "titleHi": "अध्याय 03 (धातु एवं अधातु / Metals and Non-Metals)",
+                  "titleEn": "अध्याय 03 (धातु एवं अधातु / Metals and Non-Metals)",
                   "file": "SCIENCE/CHEMISTRY/03.json",
                   "questions": 100
                 },
                 {
                   "id": "bseb10_science_chemistry_04",
-                  "name": "अध्याय 04 (कार्बन एवं इसके यौगिक)",
-                  "titleHi": "अध्याय 04 (कार्बन एवं इसके यौगिक)",
-                  "titleEn": "अध्याय 04 (कार्बन एवं इसके यौगिक)",
+                  "name": "अध्याय 04 (कार्बन तथा इसके यौगिक / Carbon and Its Compounds)",
+                  "titleHi": "अध्याय 04 (कार्बन तथा इसके यौगिक / Carbon and Its Compounds)",
+                  "titleEn": "अध्याय 04 (कार्बन तथा इसके यौगिक / Carbon and Its Compounds)",
                   "file": "SCIENCE/CHEMISTRY/04.json",
                   "questions": 100
                 },
                 {
                   "id": "bseb10_science_chemistry_05",
-                  "name": "अध्याय 05 (तत्वों का आवर्त वर्गीकरण)",
-                  "titleHi": "अध्याय 05 (तत्वों का आवर्त वर्गीकरण)",
-                  "titleEn": "अध्याय 05 (तत्वों का आवर्त वर्गीकरण)",
+                  "name": "अध्याय 05 (तत्वों का आवर्तीय वर्गीकरण / Periodic Classification of Elements)",
+                  "titleHi": "अध्याय 05 (तत्वों का आवर्तीय वर्गीकरण / Periodic Classification of Elements)",
+                  "titleEn": "अध्याय 05 (तत्वों का आवर्तीय वर्गीकरण / Periodic Classification of Elements)",
                   "file": "SCIENCE/CHEMISTRY/05.json",
                   "questions": 100
                 },
                 {
                   "id": "bseb10_science_chemistry_06",
-                  "name": "अध्याय 06 (प्राकृतिक संसाधन प्रबंधन)",
-                  "titleHi": "अध्याय 06 (प्राकृतिक संसाधन प्रबंधन)",
-                  "titleEn": "अध्याय 06 (प्राकृतिक संसाधन प्रबंधन)",
+                  "name": "अध्याय 06 (हमारा पर्यावरण / Our Environment)",
+                  "titleHi": "अध्याय 06 (हमारा पर्यावरण / Our Environment)",
+                  "titleEn": "अध्याय 06 (हमारा पर्यावरण / Our Environment)",
                   "file": "SCIENCE/CHEMISTRY/06.json",
                   "questions": 100
                 }
@@ -425,75 +409,67 @@
               "chapters": [
                 {
                   "id": "bseb10_science_biology_01",
-                  "name": "अध्याय 01 (जैव प्रक्रम)",
-                  "titleHi": "अध्याय 01 (जैव प्रक्रम)",
-                  "titleEn": "अध्याय 01 (जैव प्रक्रम)",
+                  "name": "अध्याय 01 (जैव प्रक्रम : पोषण / Life Processes: Nutrition)",
+                  "titleHi": "अध्याय 01 (जैव प्रक्रम : पोषण / Life Processes: Nutrition)",
+                  "titleEn": "अध्याय 01 (जैव प्रक्रम : पोषण / Life Processes: Nutrition)",
                   "file": "SCIENCE/BIOLOGY/01.json",
                   "questions": 101
                 },
                 {
                   "id": "bseb10_science_biology_02",
-                  "name": "अध्याय 02 (नियंत्रण एवं समन्वय)",
-                  "titleHi": "अध्याय 02 (नियंत्रण एवं समन्वय)",
-                  "titleEn": "अध्याय 02 (नियंत्रण एवं समन्वय)",
+                  "name": "अध्याय 02 (जैव प्रक्रम : श्वसन / Respiration)",
+                  "titleHi": "अध्याय 02 (जैव प्रक्रम : श्वसन / Respiration)",
+                  "titleEn": "अध्याय 02 (जैव प्रक्रम : श्वसन / Respiration)",
                   "file": "SCIENCE/BIOLOGY/02.json",
                   "questions": 100
                 },
                 {
                   "id": "bseb10_science_biology_03",
-                  "name": "अध्याय 03 (जीव जनन कैसे करते हैं)",
-                  "titleHi": "अध्याय 03 (जीव जनन कैसे करते हैं)",
-                  "titleEn": "अध्याय 03 (जीव जनन कैसे करते हैं)",
+                  "name": "अध्याय 03 (जैव प्रक्रम : परिवहन / Transportation)",
+                  "titleHi": "अध्याय 03 (जैव प्रक्रम : परिवहन / Transportation)",
+                  "titleEn": "अध्याय 03 (जैव प्रक्रम : परिवहन / Transportation)",
                   "file": "SCIENCE/BIOLOGY/03.json",
                   "questions": 100
                 },
                 {
                   "id": "bseb10_science_biology_04",
-                  "name": "अध्याय 04 (आनुवंशिकता एवं जैव विकास)",
-                  "titleHi": "अध्याय 04 (आनुवंशिकता एवं जैव विकास)",
-                  "titleEn": "अध्याय 04 (आनुवंशिकता एवं जैव विकास)",
+                  "name": "अध्याय 04 (जैव प्रक्रम : उत्सर्जन / Excretion)",
+                  "titleHi": "अध्याय 04 (जैव प्रक्रम : उत्सर्जन / Excretion)",
+                  "titleEn": "अध्याय 04 (जैव प्रक्रम : उत्सर्जन / Excretion)",
                   "file": "SCIENCE/BIOLOGY/04.json",
                   "questions": 100
                 },
                 {
                   "id": "bseb10_science_biology_05",
-                  "name": "अध्याय 05 (हमारा पर्यावरण)",
-                  "titleHi": "अध्याय 05 (हमारा पर्यावरण)",
-                  "titleEn": "अध्याय 05 (हमारा पर्यावरण)",
+                  "name": "अध्याय 05 (नियंत्रण एवं समन्वय / Control and Coordination)",
+                  "titleHi": "अध्याय 05 (नियंत्रण एवं समन्वय / Control and Coordination)",
+                  "titleEn": "अध्याय 05 (नियंत्रण एवं समन्वय / Control and Coordination)",
                   "file": "SCIENCE/BIOLOGY/05.json",
                   "questions": 100
                 },
                 {
                   "id": "bseb10_science_biology_06",
-                  "name": "अध्याय 06 (श्वसन और पोषण)",
-                  "titleHi": "अध्याय 06 (श्वसन और पोषण)",
-                  "titleEn": "अध्याय 06 (श्वसन और पोषण)",
+                  "name": "अध्याय 06 (जनन / Reproduction)",
+                  "titleHi": "अध्याय 06 (जनन / Reproduction)",
+                  "titleEn": "अध्याय 06 (जनन / Reproduction)",
                   "file": "SCIENCE/BIOLOGY/06.json",
                   "questions": 100
                 },
                 {
                   "id": "bseb10_science_biology_07",
-                  "name": "अध्याय 07 (परिवहन और उत्सर्जन)",
-                  "titleHi": "अध्याय 07 (परिवहन और उत्सर्जन)",
-                  "titleEn": "अध्याय 07 (परिवहन और उत्सर्जन)",
+                  "name": "अध्याय 07 (आनुवंशिकता एवं जैव विकास / Heredity and Evolution)",
+                  "titleHi": "अध्याय 07 (आनुवंशिकता एवं जैव विकास / Heredity and Evolution)",
+                  "titleEn": "अध्याय 07 (आनुवंशिकता एवं जैव विकास / Heredity and Evolution)",
                   "file": "SCIENCE/BIOLOGY/07.json",
                   "questions": 100
                 },
                 {
                   "id": "bseb10_science_biology_08",
-                  "name": "अध्याय 08 (जीव विज्ञान रिवीजन)",
-                  "titleHi": "अध्याय 08 (जीव विज्ञान रिवीजन)",
-                  "titleEn": "अध्याय 08 (जीव विज्ञान रिवीजन)",
+                  "name": "अध्याय 08 (हमारा पर्यावरण / Our Environment)",
+                  "titleHi": "अध्याय 08 (हमारा पर्यावरण / Our Environment)",
+                  "titleEn": "अध्याय 08 (हमारा पर्यावरण / Our Environment)",
                   "file": "SCIENCE/BIOLOGY/08.json",
                   "questions": 100
-                },
-                {
-                  "id": "bseb10_science_biology_09",
-                  "name": "मेगा टेस्ट (Mega Biology Test)",
-                  "titleHi": "मेगा टेस्ट (Mega Biology Test)",
-                  "titleEn": "मेगा टेस्ट (Mega Biology Test)",
-                  "file": "SCIENCE/BIOLOGY/mega.json",
-                  "questions": 200
                 }
               ]
             }
