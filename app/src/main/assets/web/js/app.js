@@ -21,7 +21,8 @@
     activeSubjectId: null,
     activeSectionId: null,
     activeQuizSession: null,
-    quizTimerInterval: null
+    quizTimerInterval: null,
+    pendingCustomSession: null
   };
 
   // DOM References
@@ -524,18 +525,16 @@
         ${chaptersHtml}
       </div>
 
-      ${megaChapter ? `
-        <div class="scholarship-banner" style="margin-top:6px;">
-          <div class="scholarship-left">
-            <div class="scholarship-icon">🧠</div>
-            <div>
-              <div class="scholarship-title">संपूर्ण ${activeSection ? (activeSection.titleHi || activeSection.name) : (subject.titleHi || subject.name)} मेगा मॉक टेस्ट</div>
-              <div class="scholarship-sub">सभी ${chaptersToShow.length} अध्यायों का संयुक्त प्रश्नों का सेट</div>
-            </div>
+      <div class="fulltest-card" id="btn-fulltest" data-subject-id="${subject.id}">
+        <div class="fulltest-left">
+          <div class="fulltest-icon">🎯</div>
+          <div>
+            <div class="fulltest-title">फुल टेस्ट — अपना पेपर खुद बनाएँ</div>
+            <div class="fulltest-sub">अध्याय चुनें, प्रश्नों की संख्या तय करें, टेस्ट शुरू करें</div>
           </div>
-          <button id="btn-mega-mock" class="btn-pill-light" data-mega-id="${megaChapter.id}">आरंभ करें ⚡</button>
         </div>
-      ` : ''}
+        <span class="fulltest-cta">बनाएँ ⚡</span>
+      </div>
     `;
 
     // Section tab switching
@@ -556,12 +555,223 @@
       });
     });
 
-    const megaBtn = document.getElementById('btn-mega-mock');
-    if (megaBtn) {
-      megaBtn.addEventListener('click', () => {
-        const megaId = megaBtn.getAttribute('data-mega-id');
-        openChapterOrParts(megaId);
+    const ftBtn = document.getElementById('btn-fulltest');
+    if (ftBtn) {
+      ftBtn.addEventListener('click', () => {
+        global.QuizSfx.playClick();
+        window.location.hash = `#/fulltest/${encodeURIComponent(ftBtn.getAttribute('data-subject-id'))}`;
       });
+    }
+  }
+
+
+  // ==========================================================================
+  // FULL TEST — user picks chapters + question count, the app builds the paper
+  // ==========================================================================
+  function getSubjectById(subjectId) {
+    const course = global.QuizCatalog.getCourseById(state.selectedCourseId);
+    if (!course) return { course: null, subject: null };
+    const subject = (course.subjects || []).find((x) => x.id === subjectId) || null;
+    return { course, subject };
+  }
+
+  // flat, ordered list of a subject's chapters (sections first, then direct chapters)
+  function flattenSubjectChapters(subject) {
+    const out = [];
+    (subject.sections || []).forEach((sec) => {
+      (sec.chapters || []).forEach((ch) => out.push({ ...ch, _group: sec.titleHi || sec.name || '' }));
+    });
+    (subject.chapters || []).forEach((ch) => out.push({ ...ch, _group: '' }));
+    return out;
+  }
+
+  function renderFullTestSetupScreen(subjectId) {
+    stopQuizTimer();
+    const { course, subject } = getSubjectById(subjectId);
+    if (!subject) { window.location.hash = '#/home'; return; }
+
+    state.activeSubjectId = subject.id;
+    updateHeaderUI('sub', 'फुल टेस्ट', subject.titleHi || subject.name);
+    updateBottomNavActive('');
+
+    const chapters = flattenSubjectChapters(subject);
+    const totalQ = chapters.reduce((a, c) => a + (c.questions || 0), 0);
+    if (!chapters.length || !totalQ) {
+      routeContainer.innerHTML = `
+        <div class="streak-card" style="text-align:center;padding:28px 18px;margin-top:24px;">
+          <div style="font-size:2.2rem;margin-bottom:8px;">📭</div>
+          <h2 style="font-size:1.05rem;">इस विषय में अभी कोई अध्याय उपलब्ध नहीं है</h2>
+        </div>`;
+      return;
+    }
+
+    const presets = [10, 20, 30, 50, 100].filter((n) => n <= totalQ);
+    const startVal = Math.min(20, totalQ);
+
+    routeContainer.innerHTML = `
+      <div class="subject-hero-header">
+        <div>
+          <h1 class="subject-hero-title">🎯 फुल टेस्ट</h1>
+          <p class="subject-hero-sub">${subject.titleHi || subject.name} · ${chapters.length} अध्याय · ${totalQ} प्रश्न उपलब्ध</p>
+        </div>
+      </div>
+
+      <div class="ft-panel">
+        <div class="ft-label"><span>1 · प्रश्नों की संख्या</span></div>
+        <div class="ft-presets">
+          ${presets.map((n) => `<button class="ft-preset" data-n="${n}">${n}</button>`).join('')}
+        </div>
+        <div class="ft-count-row">
+          <button class="ft-step" id="ft-minus" aria-label="कम करें">−</button>
+          <input class="ft-count-input" id="ft-count" type="number" inputmode="numeric"
+                 min="1" max="${totalQ}" step="5" value="${startVal}">
+          <button class="ft-step" id="ft-plus" aria-label="बढ़ाएँ">+</button>
+          <span class="ft-count-note">अधिकतम ${totalQ}</span>
+        </div>
+
+        <div class="ft-label" style="margin-top:20px;">
+          <span>2 · अध्याय चुनें</span>
+          <button class="ft-selectall" id="ft-all">कोई नहीं</button>
+        </div>
+        <div class="ft-chapters">
+          ${chapters.map((ch) => `
+            <label class="ft-chapter-row">
+              <input type="checkbox" class="ft-chk" value="${ch.id}" checked>
+              <span class="ft-ch-name">${ch.titleHi || ch.name}</span>
+              <span class="ft-ch-q">${ch.questions || 0}</span>
+            </label>
+          `).join('')}
+        </div>
+
+        <div class="ft-summary" id="ft-summary"></div>
+        <button class="btn-primary-gradient" id="ft-start" style="width:100%;margin-top:14px;">
+          टेस्ट शुरू करें ⚡
+        </button>
+      </div>
+    `;
+
+    const countEl = document.getElementById('ft-count');
+    const allChks = () => Array.from(document.querySelectorAll('.ft-chk'));
+    const clampCount = () => {
+      let n = parseInt(countEl.value, 10);
+      if (!Number.isFinite(n) || n < 1) n = 1;
+      if (n > totalQ) n = totalQ;
+      return n;
+    };
+
+    const refresh = () => {
+      const sel = allChks().filter((c) => c.checked);
+      const n = clampCount();
+      const per = sel.length ? Math.floor(n / sel.length) : 0;
+      const rem = sel.length ? n % sel.length : 0;
+      document.getElementById('ft-summary').innerHTML = sel.length
+        ? `✅ <strong>${sel.length}</strong> अध्याय चुने · कुल <strong>${n}</strong> प्रश्न<br>
+           <span style="font-size:0.78rem;color:var(--text-secondary);">
+             हर अध्याय से <strong>${per}</strong> प्रश्न${rem ? ` · पहले ${rem} अध्यायों से 1 अतिरिक्त` : ''}
+           </span>`
+        : `<span style="color:var(--accent-rose);">कम से कम एक अध्याय चुनें</span>`;
+      const startBtn = document.getElementById('ft-start');
+      startBtn.disabled = sel.length === 0;
+      startBtn.style.opacity = sel.length === 0 ? '0.5' : '1';
+      document.querySelectorAll('.ft-preset').forEach((b) => {
+        b.classList.toggle('active', parseInt(b.dataset.n, 10) === n);
+      });
+      const all = allChks();
+      document.getElementById('ft-all').textContent =
+        all.every((c) => c.checked) ? 'कोई नहीं' : 'सभी चुनें';
+    };
+
+    document.querySelectorAll('.ft-preset').forEach((b) => b.addEventListener('click', () => {
+      countEl.value = b.dataset.n; global.QuizSfx.playClick(); refresh();
+    }));
+    document.getElementById('ft-minus').addEventListener('click', () => {
+      countEl.value = Math.max(1, clampCount() - 5); refresh();
+    });
+    document.getElementById('ft-plus').addEventListener('click', () => {
+      countEl.value = Math.min(totalQ, clampCount() + 5); refresh();
+    });
+    countEl.addEventListener('input', refresh);
+    countEl.addEventListener('blur', () => { countEl.value = clampCount(); refresh(); });
+
+    document.getElementById('ft-all').addEventListener('click', () => {
+      const all = allChks();
+      const makeAll = !all.every((c) => c.checked);
+      all.forEach((c) => { c.checked = makeAll; });
+      global.QuizSfx.playClick(); refresh();
+    });
+    allChks().forEach((c) => c.addEventListener('change', refresh));
+
+    document.getElementById('ft-start').addEventListener('click', () => {
+      const ids = allChks().filter((c) => c.checked).map((c) => c.value);
+      startFullTest(subject, chapters, ids, clampCount());
+    });
+
+    refresh();
+  }
+
+  async function startFullTest(subject, chapters, ids, count) {
+    const btn = document.getElementById('ft-start');
+    if (btn) { btn.disabled = true; btn.textContent = 'पेपर बन रहा है…'; }
+    global.QuizSfx.playClick();
+
+    try {
+      const picked = chapters.filter((c) => ids.indexOf(c.id) !== -1);
+      if (!picked.length) throw new Error('कोई अध्याय नहीं चुना गया');
+
+      const per = Math.floor(count / picked.length);
+      let rem = count % picked.length;
+
+      const pool = [];
+      for (const ch of picked) {
+        const data = await global.QuizCatalog.loadChapterData(ch.id);
+        const qs = (data.questions || []).slice();
+        // random pick inside this chapter
+        for (let i = qs.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [qs[i], qs[j]] = [qs[j], qs[i]];
+        }
+        const want = per + (rem > 0 ? 1 : 0);
+        if (rem > 0) rem--;
+        pool.push(...qs.slice(0, Math.min(want, qs.length)));
+      }
+
+      if (!pool.length) throw new Error('इन अध्यायों में प्रश्न नहीं मिले');
+
+      const shuffled = global.QuizEngine.shuffleQuestionsAndOptions(pool);
+      const syntheticId = 'fulltest_' + subject.id;
+      const { course } = getSubjectById(subject.id);
+
+      const session = {
+        chapterId: syntheticId,
+        sessionKey: syntheticId + '_' + Date.now(),
+        partIndex: 0,
+        partTotal: 1,
+        partStart: 0,
+        partEnd: shuffled.length,
+        title: (subject.titleHi || subject.name),
+        subtitle: 'फुल टेस्ट',
+        description: `${picked.length} अध्यायों से चुने गए ${shuffled.length} प्रश्न`,
+        courseTitle: course ? course.title : 'Smart Quiz Portal',
+        subjectName: subject.titleHi || subject.name,
+        chapterNumber: 0,
+        questions: shuffled,
+        states: shuffled.map((_, i) => (i === 0 ? 'current' : 'default')),
+        selectedAnswers: shuffled.map(() => null),
+        currentIndex: 0,
+        score: 0,
+        elapsedSeconds: 0,
+        languagePref: global.QuizStorage.getQuizLanguagePref(),
+        isFullTest: true
+      };
+
+      state.pendingCustomSession = session;
+      window.location.hash = `#/quiz/${encodeURIComponent(syntheticId)}`;
+    } catch (err) {
+      if (btn) { btn.disabled = false; btn.textContent = 'टेस्ट शुरू करें ⚡'; }
+      routeContainer.insertAdjacentHTML('afterbegin', `
+        <div class="streak-card" style="margin-top:12px;border:1px solid rgba(244,63,94,0.4);background:rgba(244,63,94,0.10);">
+          <div style="font-size:0.85rem;">⚠️ ${err.message || 'पेपर नहीं बन सका'}</div>
+        </div>`);
     }
   }
 
@@ -1395,6 +1605,10 @@
     // Retry Quiz (FR-08: reshuffles questions and options and resets state)
     document.getElementById('btn-retry-quiz').addEventListener('click', () => {
       global.QuizSfx.playClick();
+      if (String(attempt.chapterId).indexOf('fulltest_') === 0) {
+        window.location.hash = `#/fulltest/${encodeURIComponent(String(attempt.chapterId).replace('fulltest_', ''))}`;
+        return;
+      }
       global.QuizStorage.clearIncompleteQuiz(global.QuizStorage.partSessionKey(attempt.chapterId, attempt.partIndex || 0));
       window.location.hash = attempt.partIndex
         ? `#/quiz/${attempt.chapterId}/${attempt.partIndex}`
@@ -1701,11 +1915,21 @@
       renderPartsScreen(chapterId);
       return;
     }
+    if (hash.startsWith('#/fulltest/')) {
+      renderFullTestSetupScreen(decodeURIComponent(hash.replace('#/fulltest/', '')));
+      return;
+    }
     if (hash.startsWith('#/quiz/')) {
       const rest = hash.replace('#/quiz/', '').split('/');
       const chapterId = decodeURIComponent(rest[0] || '');
       const partIndex = parseInt(rest[1], 10) || 0;
-      startOrResumeQuizScreen(chapterId, partIndex);
+      const pending = state.pendingCustomSession;
+      if (pending && pending.chapterId === chapterId) {
+        state.pendingCustomSession = null;
+        startOrResumeQuizScreen(chapterId, partIndex, pending);
+      } else {
+        startOrResumeQuizScreen(chapterId, partIndex);
+      }
       return;
     }
     if (hash.startsWith('#/result/')) {
