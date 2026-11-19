@@ -169,6 +169,7 @@
   // ==========================================================================
   function renderReelsScreen(container) {
     if (!isProUnlocked()) {
+      document.body.classList.remove('reels-mode');
       container.innerHTML = `
         <div class="reels-empty">
           <div class="reels-empty-icon">🔒</div>
@@ -187,6 +188,7 @@
 
     // ---- empty / permission states ----
     if (!info.allowed || !info.exists || !files.length) {
+      document.body.classList.remove('reels-mode');
       let icon = '📂';
       let title = 'कोई रील नहीं मिली';
       let sub = `इस फ़ोल्डर में कोई .mp4 फ़ाइल नहीं है:<br><span class="reels-path">${info.folder}</span>`;
@@ -211,6 +213,15 @@
           <div class="reels-empty-title">${title}</div>
           <p class="reels-empty-sub">${sub}</p>
           ${action}
+          ${(info.scanned || []).length ? `
+            <div class="reels-scanned">
+              <div class="reels-scanned-title">जाँचे गए फ़ोल्डर</div>
+              ${info.scanned.map((x) => `
+                <div class="reels-scan-row">
+                  <span class="reels-scan-path">${x.path}</span>
+                  <span class="reels-scan-num ${x.videos > 0 ? 'ok' : ''}">${x.videos < 0 ? 'नहीं मिला' : (x.videos + ' वीडियो')}</span>
+                </div>`).join('')}
+            </div>` : ''}
         </div>`;
 
       const grant = container.querySelector('#reels-grant');
@@ -259,12 +270,14 @@
       </div>`).join('');
 
     container.innerHTML = `
-      <div class="reels-head">
-        <button class="reels-back" id="reels-back" aria-label="वापस">←</button>
-        <div class="reels-head-title">🎬 रील्स</div>
-        <div class="reels-head-count">${files.length}</div>
+      <div class="reels-stage">
+        <div class="reels-feed" id="reels-feed">${slides}</div>
+        <div class="reels-topbar">
+          <button class="reels-back" id="reels-back" aria-label="वापस">←</button>
+          <div class="reels-topbar-title">रील्स</div>
+          <div class="reels-head-count">${files.length}</div>
+        </div>
       </div>
-      <div class="reels-feed" id="reels-feed">${slides}</div>
     `;
 
     const feed = container.querySelector('#reels-feed');
@@ -273,7 +286,8 @@
 
     container.querySelector('#reels-back').addEventListener('click', () => {
       if (global.QuizSfx) global.QuizSfx.playClick();
-      window.location.hash = '#/settings';
+      document.body.classList.remove('reels-mode');
+      window.location.hash = '#/home';
     });
 
     // open in the phone's video player (fallback / explicit action)
@@ -321,22 +335,40 @@
       });
     });
 
-    // autoplay only the reel in view
+    // autoplay only the reel in view — and restart it when you scroll back to it
+    let activeIndex = -1;
+    const playSlide = (slide, idx) => {
+      const v = slide.querySelector('video');
+      if (!v) return;
+      if (idx !== activeIndex) {
+        activeIndex = idx;
+        // Re-entering this reel: start from the beginning (Instagram-style)
+        try { if (v.readyState > 0) v.currentTime = 0; } catch (_) {}
+      }
+      v.muted = muted;
+      const p = v.play();
+      if (p && p.catch) p.catch(() => {});
+    };
+
     if ('IntersectionObserver' in window) {
       const io = new IntersectionObserver((entries) => {
         entries.forEach((entry) => {
-          const v = entry.target.querySelector('video');
+          const slide = entry.target;
+          const v = slide.querySelector('video');
           if (!v) return;
+          const idx = Number(slide.getAttribute('data-index'));
           if (entry.isIntersecting && entry.intersectionRatio > 0.6) {
-            v.muted = muted;
-            const p = v.play();
-            if (p && p.catch) p.catch(() => {});
+            playSlide(slide, idx);
           } else {
             v.pause();
           }
         });
       }, { root: feed, threshold: [0, 0.6, 1] });
-      container.querySelectorAll('.reel-slide').forEach((s) => io.observe(s));
+      container.querySelectorAll('.reel-slide').forEach((el) => io.observe(el));
+    } else {
+      // very old WebView: just play the first one
+      const first = container.querySelector('.reel-slide');
+      if (first) playSlide(first, 0);
     }
   }
 

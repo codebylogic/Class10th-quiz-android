@@ -1895,6 +1895,8 @@
   function handleRouteChange() {
     const hash = window.location.hash || '#/home';
     routeContainer.scrollTop = 0;
+    // Full-screen reels mode is opt-in per route (see the '#/reels' branch below)
+    document.body.classList.remove('reels-mode');
 
     if (hash === '#/home' || hash === '#') {
       renderHomeDashboard();
@@ -1958,8 +1960,8 @@
     }
     if (hash === '#/reels') {
       stopQuizTimer();
-      updateHeaderUI('sub', 'रील्स', 'PRO');
-      updateBottomNavActive('');
+      document.body.classList.add('reels-mode');
+      updateBottomNavActive('#/reels');
       global.QuizReels.renderReelsScreen(routeContainer);
       return;
     }

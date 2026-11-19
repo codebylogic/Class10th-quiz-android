@@ -1,35 +1,44 @@
-REELS FEATURE — source changes (v1.9.0)
-=======================================
+REELS — v1.9.1 changes
+======================
 
-Apply these files at the SAME paths inside codebylogic/Class10th-quiz-android
-(branch: main). Nothing else in the project needs to change.
+Apply these files at the SAME paths inside codebylogic/Class10th-quiz-android (branch: main).
 
-NEW FILES
-  app/src/main/java/com/smartquiz/portal/web/ReelsStore.kt
-  app/src/main/res/xml/network_security_config.xml
-  app/src/main/res/xml/file_paths.xml
-  app/src/main/assets/web/js/reels.js
+MODIFIED FILES (8)
+  app/src/main/java/com/smartquiz/portal/web/ReelsStore.kt   folder auto-detect (output / outputs / recursive)
+  app/src/main/java/com/smartquiz/portal/web/NativeBridge.kt  reelsInfo() now also reports "scanned" folders
+  app/src/main/assets/web/js/reels.js                         full-screen feed, restart-on-rescroll, scanned list
+  app/src/main/assets/web/js/app.js                           body.reels-mode toggle per route
+  app/src/main/assets/web/js/settings.js                      version badge v1.9.1
+  app/src/main/assets/web/css/theme.css                       full-screen CSS + fixed missing CSS variables
+  app/src/main/assets/web/index.html                          Reels item added to the bottom nav
+  app/build.gradle.kts                                        versionCode 14 / 1.9.1
 
-MODIFIED FILES
-  app/src/main/java/com/smartquiz/portal/web/LocalAssetServer.kt   (video MIME, Range support, reels routes)
-  app/src/main/java/com/smartquiz/portal/web/NativeBridge.kt       (pro + reels bridge methods)
-  app/src/main/java/com/smartquiz/portal/web/WebViewHost.kt        (mixed content for 127.0.0.1)
-  app/src/main/java/com/smartquiz/portal/AppPrefs.kt               (pro flag)
-  app/src/main/java/com/smartquiz/portal/MainActivity.kt           (reels base url -> bridge)
-  app/src/main/AndroidManifest.xml                                 (storage perms, network config, FileProvider)
-  app/src/main/assets/web/js/app.js                                (#/pro and #/reels routes)
-  app/src/main/assets/web/js/settings.js                           (PRO & Reels group, version badge)
-  app/src/main/assets/web/css/theme.css                            (PRO + reels styles)
-  app/src/main/assets/web/index.html                               (loads js/reels.js)
-  app/build.gradle.kts                                             (versionCode 13 / 1.9.0)
+WHAT CHANGED
+  1. FOLDER BUG FIXED
+     Your folder is ".../data/outputs" (with an s) but the app was looking at
+     ".../data/output". ReelsStore now tries both names, then any sub-folder of data/,
+     then does a bounded walk (depth 3) under /storage/emulated/0/SARVER/reel-compressor.
+     Whichever folder actually contains videos wins.
 
-WHAT IT DOES
-  - Profile screen gets a "PRO & Reels" group.
-  - PRO screen: payment option (placeholder) + offer-code redeem. Code: FREEREEL
-  - After unlock, a Reels entry appears. The feed plays the user's own .mp4 files from
-    /storage/emulated/0/SARVER/reel-compressor/data/output/
-  - Videos are streamed by the Kotlin loopback server (Range-enabled) so HTML5 <video> can seek.
-  - Android 11+ needs "All files access" — the app opens the system screen to grant it.
+  2. FULL-SCREEN REELS
+     The feed is now edge-to-edge (position: fixed, full height). The app's top bar and
+     bottom nav hide while you are on #/reels, and come back when you leave.
 
-AFTER APPLYING
-  The existing GitHub Actions workflow builds the APK on push.
+  3. REELS IN THE BOTTOM NAV
+     A new "Reels" item sits between Vault and Profile.
+
+  4. RESTART ON SCROLL-BACK
+     When a reel becomes the visible one again, it starts from 0:00 instead of resuming.
+
+  5. CSS VARIABLE FIX
+     Several of the new styles used variable names that do not exist in this app's theme
+     (--emerald instead of --accent-emerald, plus radius/easing tokens that were never
+     defined). That silently dropped gradients and rounded corners on some new buttons.
+     All of them now resolve — verified: zero undefined variables left in theme.css.
+
+  6. DEBUG HELP
+     If no reels are found, the empty screen now lists every folder that was checked and
+     how many videos each one holds ("नहीं मिला" = folder does not exist).
+
+AFTER PUSHING
+  The existing workflow builds the APK. versionName = 1.9.1

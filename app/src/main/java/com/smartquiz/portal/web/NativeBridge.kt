@@ -266,13 +266,21 @@ class NativeBridge(
                     put("mtime", f.lastModified())
                 })
             }
+            val scanned = org.json.JSONArray()
+            ReelsStore.scanReport().forEach { (path, videos) ->
+                scanned.put(JSONObject().apply {
+                    put("path", path)
+                    put("videos", videos)   // -1 = the folder does not exist
+                })
+            }
             JSONObject().apply {
-                put("folder", ReelsStore.FOLDER_PATH)
+                put("folder", ReelsStore.findFolder().absolutePath)
                 put("allowed", ReelsStore.hasAccess(activity))
                 put("exists", ReelsStore.folderExists())
                 put("count", files.size)
                 put("baseUrl", reelsBaseUrlProvider())
                 put("files", arr)
+                put("scanned", scanned)
             }.toString()
         } catch (_: Exception) {
             "{}"
