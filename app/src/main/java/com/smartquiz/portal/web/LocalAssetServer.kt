@@ -211,7 +211,7 @@ class LocalAssetServer(
             })
         }
         return JSONObject().apply {
-            put("folder", ReelsStore.FOLDER_PATH)
+            put("folder", ReelsStore.findFolder().absolutePath)
             put("allowed", ReelsStore.hasAccess(context))
             put("exists", ReelsStore.folderExists())
             put("count", files.size)
