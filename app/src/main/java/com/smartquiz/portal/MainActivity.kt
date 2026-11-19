@@ -74,7 +74,8 @@ class MainActivity : AppCompatActivity() {
             webViewProvider = { webView },
             appPrefs = appPrefs,
             allowedHost = localServer.allowedOriginHost,
-            scope = lifecycleScope
+            scope = lifecycleScope,
+            reelsBaseUrlProvider = { localServer.reelsBaseUrl }
         )
 
         val webViewHost = WebViewHost(

@@ -1949,6 +1949,20 @@
       renderStatsScreen();
       return;
     }
+    if (hash === '#/pro') {
+      stopQuizTimer();
+      updateHeaderUI('sub', 'PRO', 'रील्स अनलॉक करें');
+      updateBottomNavActive('');
+      global.QuizReels.renderProScreen(routeContainer);
+      return;
+    }
+    if (hash === '#/reels') {
+      stopQuizTimer();
+      updateHeaderUI('sub', 'रील्स', 'PRO');
+      updateBottomNavActive('');
+      global.QuizReels.renderReelsScreen(routeContainer);
+      return;
+    }
     if (hash === '#/settings') {
       stopQuizTimer();
       updateHeaderUI('sub', 'Settings & Profile', 'प्रोफ़ाइल और सेटिंग्स');

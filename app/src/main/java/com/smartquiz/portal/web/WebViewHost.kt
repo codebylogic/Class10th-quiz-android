@@ -61,7 +61,9 @@ class WebViewHost(
             loadWithOverviewMode = true
             cacheMode = WebSettings.LOAD_DEFAULT
             mediaPlaybackRequiresUserGesture = false
-            mixedContentMode = WebSettings.MIXED_CONTENT_NEVER_ALLOW
+            // Reels are streamed from the loopback server (http://127.0.0.1), which the page
+            // loads as a subresource. Localhost is a trustworthy origin, so this stays local-only.
+            mixedContentMode = WebSettings.MIXED_CONTENT_ALWAYS_ALLOW
         }
 
         // Attach the minimal @JavascriptInterface bridge

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Only the reel output folder is shared through the FileProvider, so the fallback
+  "open in a video player" action can hand the file to another app safely.
+-->
+<paths>
+    <external-path name="reels" path="SARVER/reel-compressor/data/output/" />
+</paths>

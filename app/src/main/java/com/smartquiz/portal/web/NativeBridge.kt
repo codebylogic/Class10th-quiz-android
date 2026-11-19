@@ -1,15 +1,19 @@
 package com.smartquiz.portal.web
 
+import android.Manifest
 import android.app.Activity
 import android.content.Context
 import android.content.Intent
+import android.net.Uri
 import android.os.Build
+import android.provider.Settings
 import android.os.VibrationEffect
 import android.os.Vibrator
 import android.os.VibratorManager
 import android.webkit.JavascriptInterface
 import android.webkit.WebView
 import android.widget.Toast
+import androidx.core.content.FileProvider
 import com.smartquiz.portal.AppPrefs
 import com.smartquiz.portal.R
 import kotlinx.coroutines.CoroutineScope
@@ -40,13 +44,15 @@ class NativeBridge(
     private val webViewProvider: () -> WebView?,
     private val appPrefs: AppPrefs,
     private val allowedHost: String,
-    private val scope: CoroutineScope
+    private val scope: CoroutineScope,
+    private val reelsBaseUrlProvider: () -> String = { "" }
 ) {
     companion object {
         const val JS_INTERFACE_NAME = "AndroidBridge"
         private const val MAX_TEXT_LENGTH = 2000
         private const val MAX_PROGRESS_JSON_LENGTH = 2_000_000 // 2 MB cap
         const val BUNDLED_CONTENT_VERSION = "2026.10.1"
+        const val REELS_PERMISSION_REQUEST = 1201
     }
 
     private fun isLocalOriginVerified(): Boolean {
@@ -215,6 +221,115 @@ class NativeBridge(
                 activity.startActivity(intent)
             } catch (_: Exception) {
                 Toast.makeText(activity, "ब्राउज़र नहीं खुल सका", Toast.LENGTH_SHORT).show()
+            }
+        }
+    }
+
+
+    // ==========================================================================
+    //  PRO unlock (reels are gated behind this)
+    // ==========================================================================
+
+    @JavascriptInterface
+    fun isProUnlocked(): Boolean {
+        return try {
+            runBlocking(Dispatchers.IO) { appPrefs.isProUnlocked() }
+        } catch (_: Exception) {
+            false
+        }
+    }
+
+    @JavascriptInterface
+    fun setProUnlocked(value: Boolean) {
+        scope.launch(Dispatchers.IO) {
+            try {
+                appPrefs.setProUnlocked(value)
+            } catch (_: Exception) {
+                // ignore
+            }
+        }
+    }
+
+    // ==========================================================================
+    //  Reels — the user's own videos from shared storage
+    // ==========================================================================
+
+    @JavascriptInterface
+    fun reelsInfo(): String {
+        return try {
+            val files = ReelsStore.listVideos()
+            val arr = org.json.JSONArray()
+            files.forEach { f ->
+                arr.put(JSONObject().apply {
+                    put("name", f.name)
+                    put("size", f.length())
+                    put("mtime", f.lastModified())
+                })
+            }
+            JSONObject().apply {
+                put("folder", ReelsStore.FOLDER_PATH)
+                put("allowed", ReelsStore.hasAccess(activity))
+                put("exists", ReelsStore.folderExists())
+                put("count", files.size)
+                put("baseUrl", reelsBaseUrlProvider())
+                put("files", arr)
+            }.toString()
+        } catch (_: Exception) {
+            "{}"
+        }
+    }
+
+    /**
+     * Asks for "All files access" (Android 11+) or READ_EXTERNAL_STORAGE (older).
+     * The system settings screen is opened; the WebView refreshes when the app resumes.
+     */
+    @JavascriptInterface
+    fun requestReelsAccess() {
+        activity.runOnUiThread {
+            try {
+                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R) {
+                    val intent = Intent(
+                        Settings.ACTION_MANAGE_APP_ALL_FILES_ACCESS_PERMISSION,
+                        Uri.parse("package:" + activity.packageName)
+                    )
+                    activity.startActivity(intent)
+                } else if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+                    activity.requestPermissions(
+                        arrayOf(Manifest.permission.READ_EXTERNAL_STORAGE),
+                        REELS_PERMISSION_REQUEST
+                    )
+                } else {
+                    Toast.makeText(activity, "इस Android पर अनुमति की ज़रूरत नहीं", Toast.LENGTH_SHORT).show()
+                }
+            } catch (_: Exception) {
+                // Some OEMs don't expose the per-app screen; fall back to the global list.
+                try {
+                    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R) {
+                        activity.startActivity(Intent(Settings.ACTION_MANAGE_ALL_FILES_ACCESS_PERMISSION))
+                    }
+                } catch (_: Exception) {
+                    Toast.makeText(activity, "सेटिंग्स नहीं खुल सकीं", Toast.LENGTH_SHORT).show()
+                }
+            }
+        }
+    }
+
+    /** Fallback player: opens the reel in whatever video player the phone has. */
+    @JavascriptInterface
+    fun openVideoExternally(name: String?) {
+        if (name.isNullOrBlank() || name.length > 255) return
+        val file = ReelsStore.resolve(name) ?: return
+        activity.runOnUiThread {
+            try {
+                val authority = activity.packageName + ".fileprovider"
+                val uri = FileProvider.getUriForFile(activity, authority, file)
+                val intent = Intent(Intent.ACTION_VIEW).apply {
+                    setDataAndType(uri, "video/mp4")
+                    addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION or Intent.FLAG_ACTIVITY_NEW_TASK)
+                }
+                activity.startActivity(intent)
+            } catch (_: Exception) {
+                Toast.makeText(activity, "कोई वीडियो प्लेयर नहीं मिला", Toast.LENGTH_SHORT).show()
             }
         }
     }

@@ -4,6 +4,7 @@ import android.content.Context
 import androidx.datastore.core.DataStore
 import androidx.datastore.preferences.core.Preferences
 import androidx.datastore.preferences.core.edit
+import androidx.datastore.preferences.core.booleanPreferencesKey
 import androidx.datastore.preferences.core.stringPreferencesKey
 import androidx.datastore.preferences.preferencesDataStore
 import kotlinx.coroutines.flow.first
@@ -25,6 +26,7 @@ class AppPrefs(private val context: Context) {
         private val KEY_QUIZ_LANG_PREF = stringPreferencesKey("quiz_lang_pref")
         private val KEY_SELECTED_COURSE = stringPreferencesKey("selected_course")
         private val KEY_PROGRESS_SNAPSHOT = stringPreferencesKey("progress_snapshot_json")
+        private val KEY_PRO_UNLOCKED = booleanPreferencesKey("pro_unlocked")
     }
 
     suspend fun getPreferencesJson(): String {
@@ -49,6 +51,15 @@ class AppPrefs(private val context: Context) {
             if (!quizLangPref.isNullOrBlank()) prefs[KEY_QUIZ_LANG_PREF] = quizLangPref
             if (!selectedCourse.isNullOrBlank()) prefs[KEY_SELECTED_COURSE] = selectedCourse
         }
+    }
+
+    /** True once the user has unlocked PRO (by payment or by redeeming a code). */
+    suspend fun isProUnlocked(): Boolean {
+        return context.dataStore.data.map { it[KEY_PRO_UNLOCKED] ?: false }.first()
+    }
+
+    suspend fun setProUnlocked(value: Boolean) {
+        context.dataStore.edit { prefs -> prefs[KEY_PRO_UNLOCKED] = value }
     }
 
     suspend fun saveProgressSnapshot(json: String) {

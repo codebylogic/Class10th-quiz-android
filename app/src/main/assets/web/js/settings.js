@@ -21,6 +21,7 @@
     const attempts = global.QuizStorage.getAllAttempts();
     const bookmarks = global.QuizStorage.getBookmarksList();
     const weakTopics = global.QuizStorage.getWeakTopicsList();
+    const proUnlocked = global.QuizReels ? global.QuizReels.isProUnlocked() : false;
 
     container.innerHTML = `
       <div class="greeting-row">
@@ -28,7 +29,7 @@
           <h1 class="greeting-title">प्रोफ़ाइल और सेटिंग्स</h1>
           <p class="greeting-date">Profile, Language, Theme &amp; Offline Storage</p>
         </div>
-        <span class="board-badge"><span class="board-badge-dot"></span> OFFLINE v1.8.0</span>
+        <span class="board-badge"><span class="board-badge-dot"></span> OFFLINE v1.9.0</span>
       </div>
 
       <!-- Student Quick Summary Card -->
@@ -65,6 +66,17 @@
       </div>
 
       <!-- Profile Language Selector (FR-17, FR-18, Section 16.10) -->
+      <!-- PRO & Reels -->
+      <div class="settings-group">
+        <div class="settings-group-title">👑 PRO एवं रील्स (PRO &amp; Reels)</div>
+        <p style="font-size:0.75rem;color:var(--text-secondary);margin-bottom:10px;">
+          रील्स सेक्शन PRO अनलॉक करने के बाद ही दिखता है।
+        </p>
+        ${proUnlocked
+          ? '<button id="btn-open-reels" class="btn-primary-gradient full-width">🎬 रील्स खोलें</button>'
+          : '<button id="btn-go-pro" class="btn-primary-gradient full-width">👑 PRO अनलॉक करें</button>'}
+      </div>
+
       <div class="settings-group">
         <div class="settings-group-title">🌐 प्रोफ़ाइल भाषा (Profile Language — FR-18)</div>
         <p style="font-size:0.75rem;color:var(--text-secondary);margin-bottom:10px;">
@@ -174,6 +186,20 @@
     `;
 
     // Event bindings
+    const goProBtn = container.querySelector('#btn-go-pro');
+    if (goProBtn) {
+      goProBtn.addEventListener('click', () => {
+        if (global.QuizSfx) global.QuizSfx.playClick();
+        window.location.hash = '#/pro';
+      });
+    }
+    const openReelsBtn = container.querySelector('#btn-open-reels');
+    if (openReelsBtn) {
+      openReelsBtn.addEventListener('click', () => {
+        if (global.QuizSfx) global.QuizSfx.playClick();
+        window.location.hash = '#/reels';
+      });
+    }
     container.querySelectorAll('#profile-lang-control .seg-btn').forEach((btn) => {
       btn.addEventListener('click', () => {
         const lang = btn.getAttribute('data-lang');
